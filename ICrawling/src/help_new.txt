@@ -1,0 +1,43 @@
+﻿Usage: java -jar jarname.jar [-options]
+This programm takes only two arguments: one for crawling nutritionfacts.org (nf) and one for crawling scientific articles (doc). Both arguments should be specified simultanously.
+where options include:
+	argument 1: nf crawling
+
+	-crawl_nf_new: Crawls nutritionfacts.org from scratch. Use this command only if you are also crawling and processing the documents from scratch afterwards.
+	-proceed_crawl_nf: If the crawling process after calling crawl_nf_new has been interrupted, just start the programm with this argument.
+		It will then proceed without loosing any information by crawling the last query of each dump and all content after them.
+		CAUTION: This argument should be used only if the interruption has occured during the actual crawling - if "crawling from..." was the last message displayed"!
+		In case a link collection process ("collecting..." as last message) or an update process were interrupted, the programm must be started from the beginning with: crawl_nf_new.
+	-update_nf: Updates the collected query links and then crawls only the new links since the last time a crawl has been started.
+	-nf_crawled: If you have already crawled the nf dump or want to use an old nf dump, type in this argument. The programm will then proceed with crawling and processing the documents.
+	
+	argument 2: documents crawling (process: where to start crawling the documents)
+
+	-crawl_doc_new: Crawls all documents for a given nfdump.
+	-proceed_crawl_doc: Proceeds crawling documents after an expected or unexpected interruption. In this case, start with: java -jar jarname.jar -nf_crawled proceed_crawl_doc_new
+	-doc_crawled: when all documents have been crawled, do only the processing + corpus division
+
+	argument 3: document crawling (content: what to crawl from the documents):
+	
+	-fulltext: crawls the full texts of the documents
+	-abstr_only: crawls only the abstracts of ncbi/pubmed/pmc pages. 
+		All other documents, e.g. direct pdfs or non-ncbi pages are IGNORED!
+
+	argument 4:
+	
+	-test=x: if this argument is used, the whole process is done for only the first x queries (testing mode).
+	This argument has to have the format "-test=[int]", e.g. "-test=10" for crawling and processing only the first 10 queries and their documents.
+ 
+Overview main command combinations (argument 1-2):
+
+-crawl_nf_new -crawl_doc_new [crawl everything from scratch]
+-proceed_crawl_nf -crawl_doc_new [proceed crawling nf after an interruption, then crawl and process all documents]
+-update_nf -crawl_doc_new [update the nf dump after a short or longer pause, then crawl and process all documents]
+-nf_crawled -crawl_doc_new [after having crawled or updated the dump, you can crawl and process all the documents]
+-nf_crawled -proceed_crawl_doc [after having crawled/updated the dump and were interrupted during the crawling of documents, you can proceed with these commands]
+-nf_crawled -doc_crawled [after having crawled/ updated nf dump and crawled all documents, proceed only with processing of docdump]
+
+Further arguments (argument 3-4):
+
+Argument 3 can be used with all of the above.
+The 4. argument (testing mode) is optional and applies only when starting a new run: nothing is crawled yet. In all other cases, everything is crawled.
