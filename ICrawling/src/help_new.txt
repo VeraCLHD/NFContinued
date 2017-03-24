@@ -20,7 +20,7 @@ where options include:
 	argument 3: document crawling (content: what to crawl from the documents):
 	
 	-fulltext: crawls the full texts of the documents
-	-abstr_only: crawls only the abstracts of ncbi/pubmed/pmc pages. 
+	-abst_only: crawls only the abstracts of ncbi/pubmed/pmc pages. 
 		All other documents, e.g. direct pdfs or non-ncbi pages are IGNORED!
 
 	argument 4:

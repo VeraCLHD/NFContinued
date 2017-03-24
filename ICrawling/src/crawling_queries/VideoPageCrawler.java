@@ -101,7 +101,7 @@ public class VideoPageCrawler extends QueryPageCrawler {
 					line += component + "\t";
 				}
 			}
-			Writer.appendLineToFile(line, Properties.PATHS_TO_QUERYDUMPS[4]);
+			Writer.appendLineToFile(line, Properties.PATHS_TO_QUERYDUMPS[2]);
 			String forecast_line = components[0] + "\t" + components[0].split("-")[0] + "\t" + components[0].split("-")[1] + "\t" + this.getDate();
 			io.Writer.appendLineToFile(forecast_line, Properties.PATH_TO_QUERY_FORECAST);
 	}

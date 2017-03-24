@@ -189,11 +189,11 @@ public class QuestionPageCrawler extends QueryPageCrawler {
 				line += component + "\t";
 			}
 		}
-		if (QueryPageCrawler.isQuestionDoctorLink(this.getQuerylink())) {
+		/*if (QueryPageCrawler.isQuestionDoctorLink(this.getQuerylink())) {
 			io.Writer.appendLineToFile(line, Properties.PATHS_TO_QUERYDUMPS[2]);
-		} else if(QueryPageCrawler.isQuestionDietitianLink(this.getQuerylink())){
+		}else  if(QueryPageCrawler.isQuestionDietitianLink(this.getQuerylink())){
 			io.Writer.appendLineToFile(line, Properties.PATHS_TO_QUERYDUMPS[1]);
-		}
+		}*/
 		
 		String forecast_line = components[0] + "\t" + components[0].split("-")[0] + "\t" + components[0].split("-")[1] + "\t" + this.getDate();
 		io.Writer.appendLineToFile(forecast_line, Properties.PATH_TO_QUERY_FORECAST);

@@ -188,8 +188,8 @@ public class TopicPageCrawler extends QueryPageCrawler {
 	public void crawlLinkedVideoLinks(){
 		// crawl the video links from the text
 		this.crawlVideoLinksFromText();
-		// crawl the video links from related videos
-		this.crawlLinkedVideoLinksFromRelated();
+		// crawl the video links from related videos; the linked videos from related are not needed for this task
+		//this.crawlLinkedVideoLinksFromRelated();
 		// at the end all are joined to a string
 		String videolinks = String.join(",", this.getLinkedVideosSet());
 		this.setVideolinks(videolinks);
@@ -325,8 +325,11 @@ public class TopicPageCrawler extends QueryPageCrawler {
 			} else {
 				line += component + "\t";
 			}
+		} 
+		if(components[3].isEmpty() || components[3].equals("")){
+			return;
 		}
-		Writer.appendLineToFile(line, Properties.PATHS_TO_QUERYDUMPS[3]);
+		Writer.appendLineToFile(line, Properties.PATHS_TO_QUERYDUMPS[1]);
 		String forecast_line = components[0] + "\t" + components[0].split("-")[0] + "\t" + components[0].split("-")[1] + "\t" + this.getDate();
 		io.Writer.appendLineToFile(forecast_line, Properties.PATH_TO_QUERY_FORECAST);
 }

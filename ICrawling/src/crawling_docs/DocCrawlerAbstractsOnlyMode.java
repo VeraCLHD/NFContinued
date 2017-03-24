@@ -22,7 +22,6 @@ import java.util.List;
 import java.util.Map;
 
 import crawling_queries.Properties;
-import crawling_queries.QuestionsDietitianLinksCollector;
 
 /**
  * A class that manages the crawling process of the scientific documents: 

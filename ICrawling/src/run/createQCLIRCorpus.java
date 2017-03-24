@@ -52,6 +52,7 @@ public class createQCLIRCorpus {
 	private static boolean testBool = false;
 	private static Integer testMax = 0;
 	
+	/*
 	public static void processDumps() {
 		System.out.println("DELETING DOC DUPLICATES...");
 		DocumentDuplicatesFilter.filterDuplicates();
@@ -119,7 +120,7 @@ public class createQCLIRCorpus {
 		createQCLIRCorpus.runWCWithSimple();
 		createQCLIRCorpus.runAllWithDep();
 		createQCLIRCorpus.runWCWithDep();
-	}
+	}*/
 	
 	public static void handleTextMode(String[] args){
 			DocCrawler crawler_textmode = DocCrawlerFactory.createCrawler(args[2]);
@@ -147,21 +148,24 @@ public class createQCLIRCorpus {
 						Editor.deleteFile(file.getAbsolutePath());
 					}
 					NFCrawler.crawl();
-					
-					filter.readAndRewriteNFDump();
-					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
+					// commented out documents crawling and processing
+					/*filter.readAndRewriteNFDump();
+					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);*/
 					
 				} else if(args[0].equalsIgnoreCase("-proceed_crawl_nf")){
 					crawling_queries.NFCrawler.crawl();
-					filter.readAndRewriteNFDump();
-					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
+					// commented out documents crawling and processing
+					/*filter.readAndRewriteNFDump();
+					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);*/
 				} else if(args[0].equalsIgnoreCase("-update_nf")){
 					NFCrawler.update();
+					// commented out documents crawling and processing
+					/*
 					filter.readAndRewriteNFDump();
+					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);*/
+				} /*else if(args[0].equalsIgnoreCase("-nf_crawled")){
 					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
-				} else if(args[0].equalsIgnoreCase("-nf_crawled")){
-					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
-				}
+				}*/
 					
 				else{
 					System.err.println("Invalid first argument. Possible for nf crawling: -crawl_nf_new, -proceed_crawl_nf, -update_nf, -nf_crawled");
@@ -176,7 +180,7 @@ public class createQCLIRCorpus {
 
 }
 	
-	public static void crawlAndProcessDocuments(String arg, DocCrawler doc_crawler){
+	/*public static void crawlAndProcessDocuments(String arg, DocCrawler doc_crawler){
 		if(arg.equalsIgnoreCase("-crawl_doc_new")){
 			Editor.deleteFile(DocProperties.STATUS_PATH);
 			Editor.deleteFile(DocProperties.USELESS_DOCLINKS_PATH); 
@@ -196,7 +200,7 @@ public class createQCLIRCorpus {
 	}
 
 
-	}
+	}*/
 	
 	
 

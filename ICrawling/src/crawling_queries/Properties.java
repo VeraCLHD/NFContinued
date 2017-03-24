@@ -22,8 +22,6 @@ public abstract class Properties {
 	public static final String PATH_TO_QUERYPROCESSING = "crawling_queries/queryprocessing/";
 	
 	public static final String[] PATHS_TO_QUERYDUMPS = {PATH_TO_QUERYDUMPS + "articledump.txt",
-														PATH_TO_QUERYDUMPS + "q_diet_dump.txt",
-														PATH_TO_QUERYDUMPS + "q_doctor_dump.txt",
 														PATH_TO_QUERYDUMPS + "topicdump.txt", 
 														PATH_TO_QUERYDUMPS + "videodump.txt"};
 	

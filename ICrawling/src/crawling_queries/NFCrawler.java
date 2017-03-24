@@ -100,11 +100,11 @@ public class NFCrawler {
 	public static void crawl() {
 		// build LinksCollector objects for each type of page
 		ArticleLinksCollector ALC = ArticleLinksCollector.getInstance();
-		QuestionsDoctorLinksCollector QDoctorLC = QuestionsDoctorLinksCollector.getInstance();
-		QuestionsDietitianLinksCollector QDietLC = QuestionsDietitianLinksCollector.getInstance();
-		//TopicLinksCollector TLC = TopicLinksCollector.getInstance();
+		//QuestionsDoctorLinksCollector QDoctorLC = QuestionsDoctorLinksCollector.getInstance();
+		//QuestionsDietitianLinksCollector QDietLC = QuestionsDietitianLinksCollector.getInstance();
+		TopicLinksCollector TLC = TopicLinksCollector.getInstance();
 		VideoLinksCollector VLC =  VideoLinksCollector.getInstance();
-		LinksCollector[] linkscollectors = {VLC};
+		LinksCollector[] linkscollectors = {ALC, TLC, VLC};
 		
 		/* collect all links that have to be visited:
 		 * if the respective link file  don't exist the links are crawled
@@ -117,11 +117,11 @@ public class NFCrawler {
 		// prepare the particular dump files, not knowing if they already exist
 		
 		File articledump = new File(Properties.PATHS_TO_QUERYDUMPS[0]);
-		File q_diet = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
-		File q_doctor = new File(Properties.PATHS_TO_QUERYDUMPS[2]);
-		File topicdump = new File(Properties.PATHS_TO_QUERYDUMPS[3]);
-		File videodump = new File(Properties.PATHS_TO_QUERYDUMPS[4]);
-		File[] dumpfiles = {articledump, q_diet, q_doctor, topicdump, videodump};
+		//File q_diet = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
+		//File q_doctor = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
+		File topicdump = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
+		File videodump = new File(Properties.PATHS_TO_QUERYDUMPS[2]);
+		File[] dumpfiles = {articledump, topicdump, videodump};
 		
 		// decide to crawl or continue crawling for each link list (each page type)
 		
@@ -165,11 +165,11 @@ public class NFCrawler {
 		// build LinkCollector objects
 		
 		ArticleLinksCollector ALC = ArticleLinksCollector.getInstance();
-		QuestionsDoctorLinksCollector QDoctorLC = QuestionsDoctorLinksCollector.getInstance();
-		QuestionsDietitianLinksCollector QDietLC = QuestionsDietitianLinksCollector.getInstance();
+		//QuestionsDoctorLinksCollector QDoctorLC = QuestionsDoctorLinksCollector.getInstance();
+		//QuestionsDietitianLinksCollector QDietLC = QuestionsDietitianLinksCollector.getInstance();
 		TopicLinksCollector TLC = TopicLinksCollector.getInstance();
 		VideoLinksCollector VLC =  VideoLinksCollector.getInstance();
-		LinksCollector[] linkscollectors = {ALC, QDietLC, QDoctorLC, TLC, VLC};
+		LinksCollector[] linkscollectors = {ALC, TLC, VLC};
 		
 		// LinkCollectors find all new links that are not in the link list files
 		
@@ -180,11 +180,11 @@ public class NFCrawler {
 		// preparing dump files
 		
 		File articledump = new File(Properties.PATHS_TO_QUERYDUMPS[0]);
-		File q_diet = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
-		File q_doctor = new File(Properties.PATHS_TO_QUERYDUMPS[2]);
-		File topicdump = new File(Properties.PATHS_TO_QUERYDUMPS[3]);
-		File videodump = new File(Properties.PATHS_TO_QUERYDUMPS[4]);
-		File[] dumpfiles = {articledump, q_diet, q_doctor, topicdump, videodump};
+		//File q_diet = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
+		//File q_doctor = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
+		File topicdump = new File(Properties.PATHS_TO_QUERYDUMPS[1]);
+		File videodump = new File(Properties.PATHS_TO_QUERYDUMPS[2]);
+		File[] dumpfiles = {articledump, topicdump, videodump};
 		
 		// append new entries to the dump files
 		

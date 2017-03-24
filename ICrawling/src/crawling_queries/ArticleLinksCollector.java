@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.concurrent.TimeUnit;
 
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -22,6 +23,10 @@ import org.jsoup.select.Elements;
 public class ArticleLinksCollector extends LinksCollector{
 	final int FIRST_ARTICLE_YEAR = 2011;
 	private static ArticleLinksCollector instance = null;
+	private static ArrayList<String> articlelinks_list = new ArrayList<String>(); 
+	private static HashSet<String> articlelinks_set = new HashSet<String>();
+	private static ArrayList<String> new_articlelinks_list = new ArrayList<String>(); 
+	private static HashSet<String> new_articlelinks_set = new HashSet<String>();
 	
 	private ArticleLinksCollector(){}
 	
@@ -43,8 +48,7 @@ public class ArticleLinksCollector extends LinksCollector{
 	 */
 	@Override
 	public void crawlQueryLinks() {
-		ArrayList<String> articlelinks_list = new ArrayList<String>(); 
-		HashSet<String> articlelinks_set = new HashSet<String>();
+		
 		Integer page;
 		try {
 			Document doc;
@@ -58,34 +62,19 @@ public class ArticleLinksCollector extends LinksCollector{
 			
 			// going through months
 			for (String month_link: month_links) {
-				
+				collectArticleLinks(month_link);
 				page = 1;
 				page_loop: 
 				while (true) {
 					try {
-						Document pagedoc;
-						pagedoc = Jsoup.connect(month_link + "/page/" + page.toString() + "/").userAgent(Properties.USER_AGENT).timeout(TIMEOUT).get();
-						TimeUnit.SECONDS.sleep(DELAY_SECONDS);
-						Elements links = pagedoc.getElementsByAttributeValue("role", "main").select("a[href]");
-						// go through all urls on one page
-						for (Element link_element : links) {
-							String link = link_element.attr("href");
-							// filter article links with regex
-							if (QueryPageCrawler.isArticleLink(link) == true && articlelinks_set.contains(link) == false) {
-								articlelinks_set.add(link);
-								articlelinks_list.add(link);
-								System.out.println("Collecting..." + link);
-								// write article link in file by the way
-								io.Writer.appendLineToFile(link, Properties.ARTICLE_LINKS_PATH);
-								
-								
-							}
-						}
+						collectArticleLinks(month_link + "/page/" + page.toString() + "/");
 					} catch (org.jsoup.HttpStatusException e) {
 						System.err.println("HttpStatusException");
 						break page_loop;
 					} catch (InterruptedException e) {
 						System.err.println("InterruptedException");
+					} catch (IOException e) {
+						System.err.println("IOException");
 					}
 					page += 1;
 				}
@@ -94,9 +83,33 @@ public class ArticleLinksCollector extends LinksCollector{
 		
 		} catch (IOException e) {
 			System.err.println("IOException");
+		} catch (InterruptedException e1) {
+			System.err.println("InterruptedException");
 		}
 			
 		this.setLinks(articlelinks_list);		
+	}
+	
+	public void collectArticleLinks(String alink) throws HttpStatusException, InterruptedException, IOException{
+			Document pagedoc;
+			pagedoc = Jsoup.connect(alink).userAgent(Properties.USER_AGENT).timeout(TIMEOUT).get();
+			TimeUnit.SECONDS.sleep(DELAY_SECONDS);
+			Elements links = pagedoc.getElementsByAttributeValue("role", "main").select("a[href]");
+			// go through all urls on one page
+			for (Element link_element : links) {
+				String link = link_element.attr("href");
+				// filter article links with regex
+				if (QueryPageCrawler.isArticleLink(link) == true && articlelinks_set.contains(link) == false) {
+					articlelinks_set.add(link);
+					articlelinks_list.add(link);
+					System.out.println("Collecting..." + link);
+					// write article link in file by the way
+					io.Writer.appendLineToFile(link, Properties.ARTICLE_LINKS_PATH);
+					
+					
+				}
+			}
+		
 	}
 	
 	/**
@@ -106,8 +119,7 @@ public class ArticleLinksCollector extends LinksCollector{
 	public void updateLinks() {
 		this.readQueryLinks();
 		String old_first_link = this.getLinks().get(0);
-		ArrayList<String> new_articlelinks_list = new ArrayList<String>(); 
-		HashSet<String> new_articlelinks_set = new HashSet<String>();
+		
 		Integer page;
 		try {
 			Document doc;
@@ -126,7 +138,8 @@ public class ArticleLinksCollector extends LinksCollector{
 				while (true) {
 					try {
 						Document pagedoc;
-						pagedoc = Jsoup.connect(month_link + "/page/" + page.toString() + "/").userAgent("Student Project Uni Heidelberg (gholipour@stud.uni-heidelberg.de)").timeout(TIMEOUT).get();
+						// March 2017: currently, updating article links works only on not paginated content. All pages after one are just ignored.
+						pagedoc = Jsoup.connect(month_link).userAgent("Student Project Uni Heidelberg (gholipour@stud.uni-heidelberg.de)").timeout(TIMEOUT).get();
 						TimeUnit.SECONDS.sleep(DELAY_SECONDS);
 						Elements links = pagedoc.getElementsByAttributeValue("role", "main").select("a[href]");
 						// go through all urls on one page
