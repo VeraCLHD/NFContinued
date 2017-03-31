@@ -18,28 +18,29 @@ public abstract class QueryRelationsExplorer {
 	private String linkToText;
 	private List<Relation> relationsForOneText = new ArrayList<Relation>();
 	private Set<String> termsForOneText = new HashSet<String>();
+	
+
 	private String textLower;
 	private String title;
+	
 	
 	public void readAndInitializeQuery(String line){
 		String[] elements = line.split("\t");
 		this.setQueryID(elements[0].trim());
 		System.out.println(this.queryID);
 		this.setLinkToText(elements[1]);
-		System.out.println(this.linkToText);
+		//System.out.println(this.linkToText);
 		this.setTitle(elements[2]);
-		System.out.println(this.title);
+		//System.out.println(this.title);
 		this.setTextLower(elements[3].toLowerCase());
-		System.out.println(this.textLower);
+		//System.out.println(this.textLower);
 		for(String topic: elements[5].split(",")){
-			termsForOneText.add(topic.trim());
+			termsForOneText.add(topic.trim().toLowerCase());
 		}
-		
-		System.out.println(this.termsForOneText.toString());
 	}
 	
 	
-	public abstract void doSomethingToExtractRelations();
+	public abstract void extractRelations();
 	
 	
 	public String getQueryID() {
@@ -67,16 +68,9 @@ public abstract class QueryRelationsExplorer {
 		return linkToText;
 	}
 
-
-
-
-
 	public void setLinkToText(String linkToText) {
 		this.linkToText = linkToText;
 	}
-
-
-
 
 
 	public String getTextLower() {
@@ -84,27 +78,25 @@ public abstract class QueryRelationsExplorer {
 	}
 
 
-
-
-
 	public void setTextLower(String textLower) {
 		this.textLower = textLower;
 	}
-
-
-
-
 
 	public String getTitle() {
 		return title;
 	}
 
-
-
-
-
 	public void setTitle(String title) {
 		this.title = title;
+	}
+	
+	public Set<String> getTermsForOneText() {
+		return termsForOneText;
+	}
+
+
+	public void setTermsForOneText(Set<String> termsForOneText) {
+		this.termsForOneText = termsForOneText;
 	}
 
 }

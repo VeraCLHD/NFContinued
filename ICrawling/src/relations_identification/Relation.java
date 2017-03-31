@@ -22,7 +22,7 @@ public class Relation {
 	
 	@Override
 	public String toString(){
-		String relation = this.getArg1() + "\t" + this.getArg1();
+		String relation = this.getArg1() + "\t" + this.getRel() + "\t" + this.getArg1();
 		return relation;
 	}
 	public String getArg1() {
