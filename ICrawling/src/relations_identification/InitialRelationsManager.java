@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import io.Reader;
@@ -18,7 +19,7 @@ import io.Writer;
  */
 public class InitialRelationsManager {
 	// All terms from all texts that are there
-	private static Set<String> overallTerms = new HashSet<String>();
+	private Map<String,String> usedTerms = new HashMap<String, String>();
 	private List<Relation> overallRelations = new ArrayList<Relation>();
 	private String pathToNFDump;
 	
@@ -26,15 +27,16 @@ public class InitialRelationsManager {
 		this.setPathToNFDump(pathToNFDump);
 		
 	}
-	
+	// Die Klasse, die alle anderen aufruft und schreibt.
 	public void doInitialExtraction(){
 		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
 		Writer.overwriteFile("", "initial_relations.txt");
+		Writer.overwriteFile("", "used_terms.txt");
+		Writer.overwriteFile("", "unused_terms.txt");
 		
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
 				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
-				InitialRelationsManager.getOverallTerms().addAll(initialExplorer.getTermsForOneText());
 				initialExplorer.extractRelations();
 				this.getOverallRelations().addAll(initialExplorer.getRelationsForOneText());
 				
@@ -45,18 +47,23 @@ public class InitialRelationsManager {
 					relations = relations + relation.getRel() + "\t";
 					Writer.appendLineToFile(relations, "initial_relations.txt");
 				}
-			
+				
+				Map<String, String> used = initialExplorer.getUsedTerms();
+				initialExplorer.determindeUnusedTerms();
+				Map<String, String> unused = initialExplorer.getUnusedTerms();
+				
+				
+				for (String term: unused.keySet()){
+					Writer.appendLineToFile(initialExplorer.getQueryID() + "\t" + term + "\t" + unused.get(term), "unused_terms.txt");
+				}
+				for (String termUsed: used.keySet()){
+					Writer.appendLineToFile(initialExplorer.getQueryID() + "\t" + termUsed + "\t" + used.get(termUsed), "used_terms.txt");
+				}
 			}
 		}
 	}
 	
-	public static Set<String> getOverallTerms() {
-		return overallTerms;
-	}
-	public static void setOverallTerms(Set<String> overallTerms) {
-		InitialRelationsManager.overallTerms = overallTerms;
-	}
-	
+
 	/**
 	 * @param args
 	 */
@@ -80,6 +87,15 @@ public class InitialRelationsManager {
 
 	public void setOverallRelations(List<Relation> overallRelations) {
 		this.overallRelations = overallRelations;
+	}
+
+	public Map<String, String> getUsedTerms() {
+		return usedTerms;
+	}
+
+
+	public void setUsedTerms(Map<String, String> usedTerms) {
+		this.usedTerms = usedTerms;
 	}
 	
 
