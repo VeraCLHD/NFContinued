@@ -37,6 +37,7 @@ public class InitialRelationsManager {
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
 				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
+				//initialExplorer.identifyContainsMultiWordTerms();
 				initialExplorer.extractRelations();
 				this.getOverallRelations().addAll(initialExplorer.getRelationsForOneText());
 				

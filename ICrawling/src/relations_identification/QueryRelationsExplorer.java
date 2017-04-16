@@ -21,7 +21,9 @@ public abstract class QueryRelationsExplorer {
 	private String queryID;
 	private String linkToText;
 	private List<Relation> relationsForOneText = new ArrayList<Relation>();
+	// map consisting of: term, lemma
 	private Map<String, String> termsForOneText = new HashMap<String, String>();
+	private Set<String> multiWordTerms = new HashSet<String>();
 	
 
 	private String textLower;
@@ -91,6 +93,15 @@ public abstract class QueryRelationsExplorer {
 		
 	}
 	
+	public void identifyContainsMultiWordTerms(){
+		Map<String, String> termMap = this.getTermsForOneText();
+		for(String term: termMap.keySet()){
+			if(term.contains(" ")){
+				this.getMultiWordTerms().add(term);
+			}
+		}
+	}
+	
 	
 	public String getQueryID() {
 		return queryID;
@@ -139,6 +150,16 @@ public abstract class QueryRelationsExplorer {
 
 	public void setTermsForOneText(HashMap<String, String> termsForOneText) {
 		this.termsForOneText = termsForOneText;
+	}
+
+
+	public Set<String> getMultiWordTerms() {
+		return multiWordTerms;
+	}
+
+
+	public void setMultiWordTerms(Set<String> multiWordTerms) {
+		this.multiWordTerms = multiWordTerms;
 	}
 
 }

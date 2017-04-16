@@ -3,8 +3,12 @@ package relations_identification;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import edu.stanford.nlp.simple.Sentence;
 import io.Writer;
@@ -24,7 +28,6 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 
@@ -41,65 +44,79 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		/*for (Sentence sentence: splitter.getSentences()){
 			System.out.println(sentence);
 		}*/
-		StanfordLemmatizer lemm = new StanfordLemmatizer();
 		
 		for(Sentence sentence: splitter.getSentences()){
-			// At this point a single word can also be punctuation.
-			List<String> sentence_splitted = sentence.words();
-			String candidate1 = "";
-			String candidateLemma = "";
-			for (String word1: sentence_splitted){
-				//String processedWord = this.processString(word);
-				String wordLemma = lemm.lemmatize(word1);
-				if(!word1.matches("(\\p{Punct}+)") && this.wordIsTerm(word1, wordLemma)){
-					
-					candidate1 = word1;
-					candidateLemma = wordLemma;
-					String whatLiesInBetween = " ";
-					List<String> sentence_splitted_rest = sentence_splitted.subList(sentence_splitted.indexOf(word1), sentence_splitted.size());
-					for (String otherword: sentence_splitted_rest){
-						// this would be the candidate for the relation
-						String otherLemma = lemm.lemmatize(otherword);
-						if(!wordIsTerm(otherword, otherLemma) && !otherword.matches("(\\p{Punct}+)")){
-							whatLiesInBetween = whatLiesInBetween + otherword.trim() + " ";
-						}
+			String sentenceString = sentence.toString();
+			
+			Map<String, String> termMap= this.getTermsForOneText();
+			for(String term1: termMap.keySet()){
+				for(String term2: termMap.keySet()){
+					String candidate = "";
+					String candidateLemmas = "";
+					if(!term1.equals(term2)){
+						// Here: http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
+						//This will deliver just one match and would possibly contain other terms or the term as well. Is this a problem?
+						// Multiword-terms are covered here.
 						
-						
-						if(wordIsTerm(otherword, otherLemma)){
-							if(!candidate1.equals(otherword) && !candidate1.equalsIgnoreCase("")){
-								//It is a second term that appears in the sentence
-								Relation relation = new Relation();
-								relation.setArg1(candidate1);
-								relation.setArg2(otherword);
-								relation.setRel(whatLiesInBetween);
-								this.getRelationsForOneText().add(relation);
-								
-								this.getUsedTerms().put(candidate1, candidateLemma);
-								this.getUsedTerms().put(otherword, otherLemma);
-								// The actual relation is not yet extracted
-							}
-						}
-
+				    	
+				    	
+				    	// Here, it is checked if the lemma of term matches a word in the sentence
+				    	Matcher matcherLemmas = Pattern.compile(
+	                            Pattern.quote(termMap.get(term1))
+	                            + "(.*?)"
+	                            + Pattern.quote(termMap.get(term2))).matcher(sentenceString);
+				    	while(matcherLemmas.find()){
+				    		String match = matcherLemmas.group(1);
+				    		if(!match.matches("(\\p{Punct}+)")){
+				    			candidateLemmas += match;
+				    		}
+				    		
+				    	}
+				    	
+				    	Matcher matcherTermItself = Pattern.compile(
+	                            Pattern.quote(term1)
+	                            + "(.*?)"
+	                            + Pattern.quote(term2)).matcher(sentenceString);
+				    	while(matcherTermItself.find()){
+				    		String match = matcherTermItself.group(1);
+				    		if(!match.matches("(\\p{Punct}+)")){
+				    			candidate += match;
+				    		}
+				    		
+				    	}
 					}
+					
+					if(!candidateLemmas.isEmpty()){
+						Relation relation = new Relation();
+						relation.setArg1(term1);
+						relation.setArg2(term2);
+						relation.setRel(candidateLemmas.replaceAll("(\\p{Punct}+)",""));
+						this.getRelationsForOneText().add(relation);
+						
+						this.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
+						this.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
+						// The actual relation is not yet extracted
+					}
+					
+					/* Only if it is a multiword term, we need another approach. The one above has already covered lemmas.
+					Only something like veggies wouldn't be recognized because it is lemmatized to "veggy" (veggies in text).*/
+					if(!candidate.isEmpty() && (term1.contains(" ") || term2.contains(" "))){
+						Relation relation = new Relation();
+						relation.setArg1(term1);
+						relation.setArg2(term2);
+						relation.setRel(candidate.replaceAll("(\\p{Punct}+)",""));
+						this.getRelationsForOneText().add(relation);
+						
+						this.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
+						this.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
+						// The actual relation is not yet extracted
+					}
+					
+					
 				}
-
 			}
 		}
 		
-	}
-	
-	// A word of a sentence contains a topic of a text or the word is the term.
-	public boolean wordIsTerm(String word, String lemma){
-		
-		if(!word.isEmpty() && !word.matches("(\\p{Punct}+)")){
-			Map<String, String> termMap = this.getTermsForOneText();
-			if(termMap.keySet().contains(word) || termMap.values().contains(lemma)){
-				return true;
-			}
-			//|| word.contains(term) fehlt
-		}
-		
-		return false;
 	}
 
 }
