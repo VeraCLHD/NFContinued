@@ -53,39 +53,31 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				for(String term2: termMap.keySet()){
 					String candidate = "";
 					String candidateLemmas = "";
+
 					if(!term1.equals(term2)){
 						// Here: http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
 						//This will deliver just one match and would possibly contain other terms or the term as well. Is this a problem?
 						// Multiword-terms are covered here.
-						
-				    	
-				    	
 				    	// Here, it is checked if the lemma of term matches a word in the sentence
-				    	Matcher matcherLemmas = Pattern.compile(
-	                            Pattern.quote(termMap.get(term1))
-	                            + "(.*?)"
-	                            + Pattern.quote(termMap.get(term2))).matcher(sentenceString);
-				    	while(matcherLemmas.find()){
-				    		String match = matcherLemmas.group(1);
-				    		if(!match.matches("(\\p{Punct}+)")){
-				    			candidateLemmas += match;
-				    		}
 				    		
-				    	}
+				    	// With this approach, we are loosing things like if processed meat is in the text instead of meats -> multiword that is searched for entirely without lemmatization.
+						// But also: American heart association isn't recognized as American which would gain too many artificial connections that are not there.
+						if(!term1.contains(" ") && !term2.contains(" ")){
+				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, termMap.get(term1), termMap.get(term2),
+									candidateLemmas);
+				    	} else if(term1.contains(" ") && !term2.contains(" ")){
+				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, term1, termMap.get(term2),
+									candidateLemmas);
+				    	} else if(!term1.contains(" ") && term2.contains(" ")){
+				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, termMap.get(term1), term2,
+									candidateLemmas);
+				    	} else if(term1.contains(" ") && term2.contains(" ")){
+				    		candidate = lookForATermWordMatch(sentenceString, termMap, term1, term2,
+				    				candidate);
+				    	} 
 				    	
-				    	Matcher matcherTermItself = Pattern.compile(
-	                            Pattern.quote(term1)
-	                            + "(.*?)"
-	                            + Pattern.quote(term2)).matcher(sentenceString);
-				    	while(matcherTermItself.find()){
-				    		String match = matcherTermItself.group(1);
-				    		if(!match.matches("(\\p{Punct}+)")){
-				    			candidate += match;
-				    		}
-				    		
-				    	}
 					}
-					
+
 					if(!candidateLemmas.isEmpty()){
 						Relation relation = new Relation();
 						relation.setArg1(term1);
@@ -100,7 +92,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					
 					/* Only if it is a multiword term, we need another approach. The one above has already covered lemmas.
 					Only something like veggies wouldn't be recognized because it is lemmatized to "veggy" (veggies in text).*/
-					if(!candidate.isEmpty() && (term1.contains(" ") || term2.contains(" "))){
+					if(!candidate.isEmpty()){
 						Relation relation = new Relation();
 						relation.setArg1(term1);
 						relation.setArg2(term2);
@@ -117,6 +109,23 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			}
 		}
 		
+	}
+
+
+	private String lookForATermWordMatch(String sentenceString, Map<String, String> termMap, String term1, String term2,
+			String candidate) {
+		Matcher matcherLemmas = Pattern.compile(
+		        Pattern.quote(term1)
+		        + "(.*?)"
+		        + Pattern.quote(term2)).matcher(sentenceString);
+		while(matcherLemmas.find()){
+			String match = matcherLemmas.group(1);
+			if(!match.matches("(\\p{Punct}+)")){
+				candidate += match;
+			}
+			
+		}
+		return candidate;
 	}
 
 }
