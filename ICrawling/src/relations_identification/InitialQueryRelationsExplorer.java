@@ -85,8 +85,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 						relation.setRel(candidateLemmas.replaceAll("(\\p{Punct}+)",""));
 						this.getRelationsForOneText().add(relation);
 						
-						this.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
-						this.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
+						InitialRelationsManager.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
+						InitialRelationsManager.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
 						// The actual relation is not yet extracted
 					}
 					
@@ -99,8 +99,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 						relation.setRel(candidate.replaceAll("(\\p{Punct}+)",""));
 						this.getRelationsForOneText().add(relation);
 						
-						this.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
-						this.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
+						InitialRelationsManager.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
+						InitialRelationsManager.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
 						// The actual relation is not yet extracted
 					}
 					

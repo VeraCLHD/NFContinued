@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import io.Writer;
 import linguistic_processing.StanfordLemmatizer;
 
 /**
@@ -28,31 +29,7 @@ public abstract class QueryRelationsExplorer {
 
 	private String textLower;
 	private String title;
-	/**
-	 * Used and unused terms refer to the words from each text that are qualified as terms, e.g through lemmatization.
-	 * As opposed to the terms themselves that could be a lot less.
-	 */
-	Map<String,String> unusedTerms = new HashMap<String, String>();
-	Map<String,String> usedTerms = new HashMap<String, String>();
 	
-	public Map<String, String> getUnusedTerms() {
-		return unusedTerms;
-	}
-
-
-	public void setUnusedTerms(Map<String, String> unusedTerms) {
-		this.unusedTerms = unusedTerms;
-	}
-
-
-	public Map<String, String> getUsedTerms() {
-		return usedTerms;
-	}
-
-
-	public void setUsedTerms(Map<String, String> usedTerms) {
-		this.usedTerms = usedTerms;
-	}
 
 	
 	
@@ -72,26 +49,15 @@ public abstract class QueryRelationsExplorer {
 			topic = topic.trim().toLowerCase();
 			String lemma = lemm.lemmatize(topic);
 			termsForOneText.put(topic, lemma);
+			// Here a link between a query and a term is provided (contains duplicates)
+			InitialRelationsManager.getTermsOverall().put(topic, lemma);
+			//Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + lemma, "termsOverall.txt");
 		}
 	}
 	
 	
 	public abstract void extractRelations();
 	
-	public Map<String, String> determindeUnusedTerms(){
-		StanfordLemmatizer lemm = new StanfordLemmatizer();
-		for(String term: this.getTermsForOneText().keySet()){
-			if(!this.getUsedTerms().containsKey(term)){
-				
-				String termLemma = lemm.lemmatize(term);
-				this.getUnusedTerms().put(term, termLemma);
-
-			}
-		}
-		
-		return unusedTerms;
-		
-	}
 	
 	public void identifyContainsMultiWordTerms(){
 		Map<String, String> termMap = this.getTermsForOneText();

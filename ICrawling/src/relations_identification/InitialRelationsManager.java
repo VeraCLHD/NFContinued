@@ -12,16 +12,57 @@ import java.util.Set;
 
 import io.Reader;
 import io.Writer;
+import linguistic_processing.StanfordLemmatizer;
 
 /**
  * @author Vera
  * This class manages all relations and terms from all texts.
  */
 public class InitialRelationsManager {
-	// All terms from all texts that are there
-	private Map<String,String> usedTerms = new HashMap<String, String>();
+
 	private List<Relation> overallRelations = new ArrayList<Relation>();
 	private String pathToNFDump;
+	/**
+	 * Used and unused terms refer to the words from each text that are qualified as terms, e.g through lemmatization.
+	 * As opposed to the terms themselves that could be a lot less.
+	 */
+	private static Map<String,String> unusedTerms = new HashMap<String, String>();
+	private static Map<String,String> usedTerms = new HashMap<String, String>();
+	private static Map<String, String> termsOverall = new HashMap<String, String>();
+	
+	public static Map<String, String> getUnusedTerms() {
+		return unusedTerms;
+	}
+
+
+	public static void setUnusedTerms(Map<String, String> unusedTerms) {
+		InitialRelationsManager.unusedTerms = unusedTerms;
+	}
+
+
+	public static Map<String, String> getUsedTerms() {
+		return usedTerms;
+	}
+
+
+	public static void setUsedTerms(Map<String, String> usedTerms) {
+		InitialRelationsManager.usedTerms = usedTerms;
+	}
+	
+	public Map<String, String> determindeUnusedTerms(){
+		StanfordLemmatizer lemm = new StanfordLemmatizer();
+		for(String term: getTermsOverall().keySet()){
+			if(!getUsedTerms().containsKey(term)){
+				
+				String termLemma = lemm.lemmatize(term);
+				getUnusedTerms().put(term, termLemma);
+
+			}
+		}
+		
+		return unusedTerms;
+		
+	}
 	
 	public InitialRelationsManager(String pathToNFDump){
 		this.setPathToNFDump(pathToNFDump);
@@ -33,6 +74,7 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "initial_relations.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
+		//Writer.overwriteFile("", "termsOverall.txt");
 		
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
@@ -49,18 +91,20 @@ public class InitialRelationsManager {
 					Writer.appendLineToFile(relations, "initial_relations.txt");
 				}
 				
-				Map<String, String> used = initialExplorer.getUsedTerms();
-				initialExplorer.determindeUnusedTerms();
-				Map<String, String> unused = initialExplorer.getUnusedTerms();
-				
-				
-				for (String term: unused.keySet()){
-					Writer.appendLineToFile(initialExplorer.getQueryID() + "\t" + term + "\t" + unused.get(term), "unused_terms.txt");
-				}
-				for (String termUsed: used.keySet()){
-					Writer.appendLineToFile(initialExplorer.getQueryID() + "\t" + termUsed + "\t" + used.get(termUsed), "used_terms.txt");
-				}
 			}
+		}
+		
+		// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
+		Map<String, String> used = getUsedTerms();
+		determindeUnusedTerms();
+		Map<String, String> unused = getUnusedTerms();
+		
+		
+		for (String term: unused.keySet()){
+			Writer.appendLineToFile(term + "\t" + unused.get(term), "unused_terms.txt");
+		}
+		for (String termUsed: used.keySet()){
+			Writer.appendLineToFile(termUsed + "\t" + used.get(termUsed), "used_terms.txt");
 		}
 	}
 	
@@ -90,13 +134,14 @@ public class InitialRelationsManager {
 		this.overallRelations = overallRelations;
 	}
 
-	public Map<String, String> getUsedTerms() {
-		return usedTerms;
+
+	public static Map<String, String> getTermsOverall() {
+		return termsOverall;
 	}
 
 
-	public void setUsedTerms(Map<String, String> usedTerms) {
-		this.usedTerms = usedTerms;
+	public static void setTermsOverall(Map<String, String> termsOverall) {
+		InitialRelationsManager.termsOverall = termsOverall;
 	}
 	
 
