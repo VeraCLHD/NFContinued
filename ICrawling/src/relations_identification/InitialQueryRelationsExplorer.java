@@ -60,7 +60,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 						// Multiword-terms are covered here.
 				    	// Here, it is checked if the lemma of term matches a word in the sentence
 				    		
-				    	// With this approach, we are loosing things like if processed meat is in the text instead of meats -> multiword that is searched for entirely without lemmatization.
+				    	// With this approach, we are loosing things like if "processed meat" is in the text instead of "meats" -> multiword that is searched for entirely without lemmatization.
 						// But also: American heart association isn't recognized as American which would gain too many artificial connections that are not there.
 						if(!term1.contains(" ") && !term2.contains(" ")){
 				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, termMap.get(term1), termMap.get(term2),

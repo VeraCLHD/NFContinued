@@ -24,7 +24,8 @@ public class InitialRelationsManager {
 	private String pathToNFDump;
 	/**
 	 * Used and unused terms refer to the words from each text that are qualified as terms, e.g through lemmatization.
-	 * As opposed to the terms themselves that could be a lot less.
+	 * But at the end, the original terms are written in the file
+	 *
 	 */
 	private static Map<String,String> unusedTerms = new HashMap<String, String>();
 	private static Map<String,String> usedTerms = new HashMap<String, String>();
