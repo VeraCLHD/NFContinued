@@ -1,0 +1,10 @@
+STATUS OF CRAWLING DOCUMENTS
+START TIME: 2017-04-21T13:59:23.843
+CURRENT TIME: 2017-04-22T05:47:16.774
+number of all attempted documents: 9351
+number of failed documents: 1527
+number of successful documents: 7824
+FREQUENCIES OF PATHS: 
+PMC page: 288
+PubMed page: 7076
+PubMed page -> PMC page: 1961

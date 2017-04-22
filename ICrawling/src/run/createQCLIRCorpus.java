@@ -52,7 +52,7 @@ public class createQCLIRCorpus {
 	private static boolean testBool = false;
 	private static Integer testMax = 0;
 	
-	/*
+	
 	public static void processDumps() {
 		System.out.println("DELETING DOC DUPLICATES...");
 		DocumentDuplicatesFilter.filterDuplicates();
@@ -63,7 +63,9 @@ public class createQCLIRCorpus {
 		NFDumpParser.process();
 		System.out.println("PARSING DOC DUMP...");
 		DocDumpParser.process();
-		System.out.println("CONNECTIONS...");
+		
+		/*
+		 System.out.println("CONNECTIONS...");
 		ConnectionsWriter cw = new ConnectionsWriter();
 		cw.writeConnections();
 		System.out.println("TOPIC LINKS...");
@@ -81,10 +83,10 @@ public class createQCLIRCorpus {
 		CorpusVariantsWriter.collectFinalQueryIds();
 		CorpusVariantsWriter.createVariantWC();
 		System.out.println("PREPROCESSING QUERY TEXTS WITHOUT COMMENTS...");
-		TextPreprocessor.preProcessQueries(ProcessingProperties.QUERIES_WITHOUT_COMMENTS_PATH, ProcessingProperties.PREPROCESSED_QUERIES_WC_PATH);
+		TextPreprocessor.preProcessQueries(ProcessingProperties.QUERIES_WITHOUT_COMMENTS_PATH, ProcessingProperties.PREPROCESSED_QUERIES_WC_PATH);*/
 		
 	}
-	
+	/*
 	public static void runAllWithSimple() {
 		String dataset_path = ProcessingProperties.DATASETS_PATH + "complete_queries_shared_docs/";
 		System.out.println("SPLIT INTO TRAIN, DEV, TEST: COMPLETE QUERIES + SIMPLE DIVIDER WITH SHARED DOCUMENTS...");
@@ -111,16 +113,18 @@ public class createQCLIRCorpus {
 		System.out.println("SPLIT INTO TRAIN, DEV, TEST: NO COMMENTS + NO SHARED DOCUMENTS...");
 		CorpusDivider divider = new CorpusDividerExcludingMutualDocuments();
 		divider.divideCorpus(ProcessingProperties.QUERIES_WITHOUT_COMMENTS_PATH, dataset_path);
-	}
+	}*/
+	
+	
 	
 	
 	public static void doOnlyProcessing(){
 		createQCLIRCorpus.processDumps();
-		createQCLIRCorpus.runAllWithSimple();
+		/*createQCLIRCorpus.runAllWithSimple();
 		createQCLIRCorpus.runWCWithSimple();
 		createQCLIRCorpus.runAllWithDep();
-		createQCLIRCorpus.runWCWithDep();
-	}*/
+		createQCLIRCorpus.runWCWithDep();*/
+	}
 	
 	public static void handleTextMode(String[] args){
 			DocCrawler crawler_textmode = DocCrawlerFactory.createCrawler(args[2]);
@@ -148,24 +152,26 @@ public class createQCLIRCorpus {
 						Editor.deleteFile(file.getAbsolutePath());
 					}
 					NFCrawler.crawl();
-					// commented out documents crawling and processing
-					/*filter.readAndRewriteNFDump();
-					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);*/
+					
+					filter.readAndRewriteNFDump();
+					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
 					
 				} else if(args[0].equalsIgnoreCase("-proceed_crawl_nf")){
 					crawling_queries.NFCrawler.crawl();
-					// commented out documents crawling and processing
-					/*filter.readAndRewriteNFDump();
-					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);*/
+					
+					filter.readAndRewriteNFDump();
+					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
 				} else if(args[0].equalsIgnoreCase("-update_nf")){
 					NFCrawler.update();
-					// commented out documents crawling and processing
-					/*
+					
+				
 					filter.readAndRewriteNFDump();
-					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);*/
-				} /*else if(args[0].equalsIgnoreCase("-nf_crawled")){
 					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
-				}*/
+				} else if(args[0].equalsIgnoreCase("-nf_crawled")){
+					// added the next line because doclinks need to be filtered: weren't filtered the first time
+					filter.readAndRewriteNFDump();
+					createQCLIRCorpus.crawlAndProcessDocuments(args[1], crawler_textmode);
+				}
 					
 				else{
 					System.err.println("Invalid first argument. Possible for nf crawling: -crawl_nf_new, -proceed_crawl_nf, -update_nf, -nf_crawled");
@@ -180,7 +186,7 @@ public class createQCLIRCorpus {
 
 }
 	
-	/*public static void crawlAndProcessDocuments(String arg, DocCrawler doc_crawler){
+	public static void crawlAndProcessDocuments(String arg, DocCrawler doc_crawler){
 		if(arg.equalsIgnoreCase("-crawl_doc_new")){
 			Editor.deleteFile(DocProperties.STATUS_PATH);
 			Editor.deleteFile(DocProperties.USELESS_DOCLINKS_PATH); 
@@ -200,7 +206,7 @@ public class createQCLIRCorpus {
 	}
 
 
-	}*/
+	}
 	
 	
 
