@@ -14,6 +14,7 @@ import java.util.regex.Pattern;
 import crawling_docs.DocProperties;
 import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
+import io.Writer;
 import linguistic_processing.SentenceSplitter;
 import linguistic_processing.StanfordLemmatizer;
 import processing.DocDumpParser;
@@ -43,7 +44,7 @@ public class EvaluationSuitability {
 	
 	public void readLemmatizedTerms(){
 		
-		List<String> terms = Reader.readLinesList("used.txt");
+		List<String> terms = Reader.readLinesList("used_terms.txt");
 		for(String termLine: terms){
 			if(!termLine.isEmpty()){
 				String[] line = termLine.split("\t");
@@ -103,9 +104,10 @@ public class EvaluationSuitability {
 	        	count+=1;	
 	        }*/
 	        
-	        System.out.println(term + " " + count);
 		}
 		
+		 Writer.appendLineToFile(term + "\t" + count, "evaluation_suitability.txt");
+		 
 		if(count >=1){
 			usedInEvaluation +=1;
 			
@@ -133,6 +135,7 @@ public class EvaluationSuitability {
 	
 
 	public static void main(String[] args) {
+		Writer.overwriteFile("", "evaluation_suitability.txt");
 		EvaluationSuitability eval = new EvaluationSuitability();
 		try {
 			String texts = eval.readDocDump(DocProperties.DOC_DUMP_PATH);
@@ -140,6 +143,8 @@ public class EvaluationSuitability {
 			for(String termx: usedTerms.keySet()){
 				checkDocDumpForMatches( texts, termx, sent);
 			}
+			Writer.appendLineToFile("USED_TERMS" + "\t" + used, "evaluation_suitability.txt");
+			Writer.appendLineToFile("USED_TERMS_EVAL" + "\t" + usedInEvaluation, "evaluation_suitability.txt");
 			if(usedInEvaluation >0){
 				System.out.println(usedInEvaluation/used);
 			}

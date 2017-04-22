@@ -56,13 +56,14 @@ public class createQCLIRCorpus {
 	public static void processDumps() {
 		System.out.println("DELETING DOC DUPLICATES...");
 		DocumentDuplicatesFilter.filterDuplicates();
-		System.out.println("UNIFORM IDs...");
+		/* There is a bug here, so that everything is deleted. So only filtering of duplicates will do here for the testing.
+		 * System.out.println("UNIFORM IDs...");
 		IDNormalizer.replaceNFDumpIds();
 		IDNormalizer.replaceDocDumpIds();
 		System.out.println("PARSING NF DUMP...");
 		NFDumpParser.process();
 		System.out.println("PARSING DOC DUMP...");
-		DocDumpParser.process();
+		DocDumpParser.process();*/
 		
 		/*
 		 System.out.println("CONNECTIONS...");
