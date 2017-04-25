@@ -6,6 +6,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -42,6 +43,7 @@ public class EvaluationSuitability {
 	
 	private static final String PATH_TO_NOT_DIE = "evaluation/How Not to Die.pdf";
 	
+	private static List<Sentence> sentences = new ArrayList<Sentence>();
 	
 	/**
 	 * This class checks if all used (ggf. unused) terms can be found in all doc texts. 
@@ -98,31 +100,34 @@ public class EvaluationSuitability {
 		return allRawDocTexts;
 	}
 	
-	public static void checkDocDumpForMatches(String allDocsStr, String term, List<Sentence> list){
-		
+	public static void checkDocDumpForMatches(String allDocsStr, String term){
+
 		if(term.contains(" ")){
-			Pattern r = Pattern.compile(term);
+			String[] termlist = term.split(" ");
+			String terml = termlist[termlist.length-1];
+			// lemmatized last word of term
+			String terml_lemmatized = lemm.lemmatize(terml);
+			String new_term = "";
+			for(int i = 0; i <= termlist.length -2; i++){
+				new_term = termlist[i] + " ";
+			}
+			new_term += terml_lemmatized;
+			new_term = new_term.trim();
+			
+			Pattern r = Pattern.compile(new_term);
 		    Matcher m = r.matcher(allDocsStr);
-		    
-		    
+
 	        while (m.find()){
-	        	Integer count = EvaluationSuitability.getTermCount().get(term);
-	        	if(count != null){
-	        		EvaluationSuitability.getTermCount().put(term, count+1);
-	        	}
-	        	EvaluationSuitability.getTermCount().put(term, 1);
+	        	EvaluationSuitability.getTermCount().put(term, EvaluationSuitability.getTermCount().get(term)+1);
 	        }
 		} else{
 
-			for(Sentence sentence: list){
+			for(Sentence sentence: EvaluationSuitability.getSentences()){
+				List<String> lemmas = sentence.lemmas();
 				String t = EvaluationSuitability.getUsedTerms().get(term);
-				Integer count = EvaluationSuitability.getTermCount().get(term);
-				int counts = Collections.frequency(sentence.lemmas(), t);
-				if(count != null){
-					EvaluationSuitability.getTermCount().put(term, count + counts);
-				}
-				
-				EvaluationSuitability.getTermCount().put(term, 0 + counts);
+				Integer counts = EvaluationSuitability.getTermCount().get(term) + (Integer) Collections.frequency(lemmas, t);
+				EvaluationSuitability.getTermCount().put(term, counts);
+
 			}
 			
 			/*Pattern r = Pattern.compile(EvaluationSuitability.getUsedTerms().get(term));
@@ -134,25 +139,6 @@ public class EvaluationSuitability {
 	        
 		}
 		
-		
-		 
-		/*if(finalC >=1){
-			usedInEvaluation +=1;
-			
-		}*/
-            
-	    
-		/*Solution fot relations
-		 * Matcher matcherLemmas = Pattern.compile(
-		        Pattern.quote(term)).matcher(allDocsStr);
-		
-		while(matcherLemmas.find()){
-			String match = matcherLemmas.group(1);
-			if(!match.matches("(\\p{Punct}+)")){
-				candidate += match;
-			}
-			
-		}*/
 	}
 	
 	public static List<Sentence> splitDocsInSentences(String allDocsStr){
@@ -164,37 +150,34 @@ public class EvaluationSuitability {
 
 	public static void main(String[] args) {
 		//EvaluationSuitability.readPDFIntoFile(PATH_TO_NOT_DIE);
-		Writer.overwriteFile("", "evaluation_suitability.txt");
 		
+		Writer.overwriteFile("", "evaluation_suitability.txt");
+		EvaluationSuitability eval = new EvaluationSuitability();
+		for(String termC: getUsedTerms().keySet()){
+			EvaluationSuitability.getTermCount().put(termC.trim(), 0);
+		}
 			// Here, the docdump is evaluated.
-			/*String texts = eval.readDocDump(DocProperties.DOC_DUMP_PATH);
-			List<String> lines = Reader.readLinesList(DocProperties.DOC_DUMP_PATH);
-			String texts = eval.readDocDump(DocProperties.DOC_DUMP_PATH);*/
+			String texts = "";
+			try {
+				texts = eval.readDocDump(DocProperties.DOC_DUMP_PATH);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			//Here, the pdf
-			String texts = Reader.readContentOfFile("pdf_test.txt");
-			System.out.println("Read PDF text");
-			List<String> lines = Reader.readLinesList("pdf_test.txt");
-			System.out.println("read lines");
-			evaluateSource(texts, lines);
+			//String texts = Reader.readContentOfFile("pdf_test_index.txt").toLowerCase();
+			//System.out.println("Read PDF text");
+			
+			EvaluationSuitability.setSentences(splitDocsInSentences(texts));
+			evaluateSource(texts);
 			
 
 	}
 
-	private static void evaluateSource(String texts, List<String> lines) {
-		int numterms = 0;
-		for(String line: lines){
-			numterms +=1;
-			System.out.println(numterms);
-		
-				for(String termx: usedTerms.keySet()){
-					List<Sentence> sent = splitDocsInSentences(line);
-					checkDocDumpForMatches( texts, termx, sent);
+	private static void evaluateSource(String texts) {
+		for(String termx: usedTerms.keySet()){	
+			checkDocDumpForMatches(texts, termx);
 			}
-		}
-		
-		/*if(usedInEvaluation >0){
-			System.out.println(usedInEvaluation/used);
-		}*/
 		// final count for a all documents
 		for(String termC: EvaluationSuitability.getTermCount().keySet()){
 			Integer finalC = EvaluationSuitability.getTermCount().get(termC);
@@ -261,6 +244,14 @@ public class EvaluationSuitability {
 
 	public static void setTermCount(Map<String, Integer> termCount) {
 		EvaluationSuitability.termCount = termCount;
+	}
+
+	public static List<Sentence> getSentences() {
+		return sentences;
+	}
+
+	public static void setSentences(List<Sentence> sentences) {
+		EvaluationSuitability.sentences = sentences;
 	}
 
 }
