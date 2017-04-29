@@ -157,15 +157,15 @@ public class EvaluationSuitability {
 			EvaluationSuitability.getTermCount().put(termC.trim(), 0);
 		}
 			// Here, the docdump is evaluated.
-			String texts = "";
-			try {
+			//String texts = "";
+			/*try {
 				texts = eval.readDocDump(DocProperties.DOC_DUMP_PATH);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-			}
+			}*/
 			//Here, the pdf
-			//String texts = Reader.readContentOfFile("pdf_test_index.txt").toLowerCase();
+			String texts = Reader.readContentOfFile("pages_plain.txt").toLowerCase();
 			//System.out.println("Read PDF text");
 			
 			EvaluationSuitability.setSentences(splitDocsInSentences(texts));
