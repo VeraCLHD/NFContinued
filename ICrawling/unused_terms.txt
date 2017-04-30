@@ -28,7 +28,6 @@ cheese mites	cheese
 polypropylene plastic	polypropylene
 foreign body	foreign
 physician's health study	physician
--	-
 hemlock	hemlock
 gastrointestinal health	gastrointestinal
 bbq	bbq

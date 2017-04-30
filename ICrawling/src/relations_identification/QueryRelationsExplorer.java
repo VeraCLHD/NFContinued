@@ -29,10 +29,7 @@ public abstract class QueryRelationsExplorer {
 
 	private String textLower;
 	private String title;
-	
 
-	
-	
 	
 	public void readAndInitializeQuery(String line){
 		StanfordLemmatizer lemm = new StanfordLemmatizer();
@@ -47,11 +44,14 @@ public abstract class QueryRelationsExplorer {
 		//System.out.println(this.textLower);
 		for(String topic: elements[5].split(",")){
 			topic = topic.trim().toLowerCase();
-			String lemma = lemm.lemmatize(topic);
-			termsForOneText.put(topic, lemma);
-			// Here a link between a query and a term is provided (contains duplicates)
-			InitialRelationsManager.getTermsOverall().put(topic, lemma);
-			//Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + lemma, "termsOverall.txt");
+			if(!topic.equals("-")){
+				String lemma = lemm.lemmatize(topic);
+				termsForOneText.put(topic, lemma);
+				// Here a link between a query and a term is provided (contains duplicates)
+				InitialRelationsManager.getTermsOverall().put(topic, lemma);
+				Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + lemma, "termsOverall.txt");
+			}
+			
 		}
 	}
 	

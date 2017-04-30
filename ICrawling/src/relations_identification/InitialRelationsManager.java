@@ -75,7 +75,11 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "initial_relations.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
-		//Writer.overwriteFile("", "termsOverall.txt");
+		//this file still contains duplicates
+		Writer.overwriteFile("", "termsOverall.txt");
+		//this one doesn't contain duplicates
+		Writer.overwriteFile("", "all_terms.txt");
+		
 		
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
@@ -93,6 +97,10 @@ public class InitialRelationsManager {
 				}
 				
 			}
+		}
+		
+		for(String term_a : InitialRelationsManager.getTermsOverall().keySet()){
+			Writer.appendLineToFile(term_a + "\t" + InitialRelationsManager.getTermsOverall().get(term_a), "all_terms.txt");
 		}
 		
 		// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
