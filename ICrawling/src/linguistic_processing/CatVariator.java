@@ -12,9 +12,9 @@ import org.jsoup.select.Elements;
 import io.Reader;
 import io.Writer;
 
-public class CatVar {
+public class CatVariator {
 
-	public CatVar() {
+	public CatVariator() {
 		// TODO Auto-generated constructor stub
 	}
 	
@@ -60,7 +60,7 @@ public class CatVar {
 	}
 	
 	public static void writeTerminologyVariations(){
-		Writer.overwriteFile("", "terminology_variations.txt");
+		Writer.overwriteFile("", "terminology_variations_catvar.txt");
 		ArrayList<String> terms = readTermsFile();
 		for (String term: terms){
 			if(!term.isEmpty() && !term.equals("\\s")){
@@ -72,7 +72,7 @@ public class CatVar {
 					continue;
 				}
 				String line = crawlAndWriteVariations(lemma, termItself);
-				Writer.appendLineToFile(line, "terminology_variations.txt");
+				Writer.appendLineToFile(line, "terminology_variations_catvar.txt");
 			}
 			
 			
