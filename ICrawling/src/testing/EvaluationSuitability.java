@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -22,6 +23,8 @@ import crawling_docs.PDFCrawler;
 import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
 import io.Writer;
+import linguistic_processing.CatVariator;
+import linguistic_processing.MeshVariator;
 import linguistic_processing.SentenceSplitter;
 import linguistic_processing.StanfordLemmatizer;
 import processing.DocDumpParser;
@@ -42,8 +45,11 @@ public class EvaluationSuitability {
 	private static Map<String, Integer> termCount = new HashMap<String, Integer>();
 	
 	private static final String PATH_TO_NOT_DIE = "evaluation/How Not to Die.pdf";
+	private static final String CATVARFILE = "terminology_variations_catvar.txt";
+	private static final String MESHFILE = "mesh_variations.txt";
 	
 	private static List<Sentence> sentences = new ArrayList<Sentence>();
+	private static List<String> catVariations = new ArrayList<String>();
 	
 	/**
 	 * This class checks if all used (ggf. unused) terms can be found in all doc texts. 
@@ -100,8 +106,11 @@ public class EvaluationSuitability {
 		return allRawDocTexts;
 	}
 	
-	public static void checkDocDumpForMatches(String allDocsStr, String term){
-
+	public static void checkSourceForMatches(String allDocsStr, String term){
+		List<String> catvars = CatVariator.readFileLinewise(CATVARFILE);
+		List<String> mesh = MeshVariator.readFileLinewise(MESHFILE);
+		
+		//Multiword terms are handled here. Here, only the last word is lemmatized and put together with the others.
 		if(term.contains(" ")){
 			String[] termlist = term.split(" ");
 			String terml = termlist[termlist.length-1];
@@ -114,32 +123,102 @@ public class EvaluationSuitability {
 			new_term += terml_lemmatized;
 			new_term = new_term.trim();
 			
-			Pattern r = Pattern.compile(new_term);
-		    Matcher m = r.matcher(allDocsStr);
-
-	        while (m.find()){
-	        	EvaluationSuitability.getTermCount().put(term, EvaluationSuitability.getTermCount().get(term)+1);
+			Pattern r = checkTextForMatch(allDocsStr, term, new_term);
+	        
+	        if(EvaluationSuitability.getTermCount().get(term).equals(0)){
+	        	//check if the term itself appears
+	        	Pattern r1 = checkTextForMatch(allDocsStr, term, term);
+	        	
+	        	if(EvaluationSuitability.getTermCount().get(term).equals(0)){
+	        		//check if some synonym of Mesh appears+
+	        		checkMeshForMatch(term, mesh, allDocsStr);
+	        	}
 	        }
+	        // For single words the lemma is checked. Then
 		} else{
 
 			for(Sentence sentence: EvaluationSuitability.getSentences()){
 				List<String> lemmas = sentence.lemmas();
+				List<String> words = sentence.words();
 				String t = EvaluationSuitability.getUsedTerms().get(term);
 				Integer counts = EvaluationSuitability.getTermCount().get(term) + (Integer) Collections.frequency(lemmas, t);
+				
+				if(counts < 1){
+					//check mesh and catvar here
+					for(String mesh_term_line: mesh){
+						if(!mesh_term_line.isEmpty()){
+							List<String> linos = Arrays.asList(mesh_term_line.split("\t"));
+							String mesh_term = linos.get(0);
+							if(linos.size()>1){
+								List<String> synonyms = Arrays.asList(linos.get(1).split(","));
+								for(String synonym: synonyms){
+									if(mesh_term.equals(term) && words.contains(synonym)){
+										counts = EvaluationSuitability.getTermCount().get(term) + (Integer) Collections.frequency(words, t);
+									}
+								}
+								
+							}
+						}
+					}
+				}
+				
+				if(counts < 1){
+					//check mesh and catvar here
+					for(String catvar_line: catvars){
+						if(!catvar_line.isEmpty()){
+							List<String> linos = Arrays.asList(catvar_line.split("\t"));
+							String catvar_term = linos.get(0);
+							if(linos.size()>1){
+								List<String> synonyms = Arrays.asList(linos.get(1).split(" "));
+								for(String synonym: synonyms){
+									if(catvar_term.equals(term) && words.contains(synonym)){
+										counts = EvaluationSuitability.getTermCount().get(term) + (Integer) Collections.frequency(words, t);
+									}
+								}
+								
+							}
+						}
+					}
+				}
+				
 				EvaluationSuitability.getTermCount().put(term, counts);
-
+				
 			}
-			
-			/*Pattern r = Pattern.compile(EvaluationSuitability.getUsedTerms().get(term));
-		    Matcher m = r.matcher(allDocsStr);
-		    
-	        while (m.find()){
-	        	count+=1;	
-	        }*/
 	        
 		}
 		
 	}
+
+	private static Pattern checkTextForMatch(String allDocsStr, String term, String new_term) {
+		Pattern r = Pattern.compile(new_term);
+		Matcher m = r.matcher(allDocsStr);
+
+		while (m.find()){
+			EvaluationSuitability.getTermCount().put(term, EvaluationSuitability.getTermCount().get(term)+1);
+		}
+		return r;
+	}
+
+	private static void checkMeshForMatch(String term, List<String> mesh, String allDocStr) {
+		
+			//Check if something is found in the mesh terms
+			for(String mesh_term_line: mesh){
+				if(!mesh_term_line.isEmpty()){
+					List<String> linos = Arrays.asList(mesh_term_line.split("\t"));
+					String mesh_term = linos.get(0);
+					if(linos.size()>1){
+						List<String> synonyms = Arrays.asList(linos.get(1).split(","));
+						for(String synonym: synonyms){
+							if(mesh_term.equals(term)){
+								checkTextForMatch(allDocStr, term, synonym);
+							}
+						}
+						
+					}
+				}
+			}
+	}
+	
 	
 	public static List<Sentence> splitDocsInSentences(String allDocsStr){
 		SentenceSplitter splitter = new SentenceSplitter(allDocsStr);
@@ -176,7 +255,7 @@ public class EvaluationSuitability {
 
 	private static void evaluateSource(String texts) {
 		for(String termx: usedTerms.keySet()){	
-			checkDocDumpForMatches(texts, termx);
+			checkSourceForMatches(texts, termx);
 			}
 		// final count for a all documents
 		for(String termC: EvaluationSuitability.getTermCount().keySet()){
@@ -252,6 +331,14 @@ public class EvaluationSuitability {
 
 	public static void setSentences(List<Sentence> sentences) {
 		EvaluationSuitability.sentences = sentences;
+	}
+
+	public static List<String> getCatVariations() {
+		return catVariations;
+	}
+
+	public static void setCatVariations(List<String> catVariations) {
+		EvaluationSuitability.catVariations = catVariations;
 	}
 
 }

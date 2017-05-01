@@ -105,7 +105,7 @@ public class MeshVariator {
 		return treeList;
 	}
 	
-	public static List<String> readTermsFile(String file){
+	public static List<String> readFileLinewise(String file){
 		ArrayList<String> termsOverall = Reader.readLinesList(file);
 		return termsOverall;
 	}
@@ -114,7 +114,7 @@ public class MeshVariator {
 	public static void writeTerminologyVariations(){
 		Writer.overwriteFile("", "mesh_variations.txt");
 		Writer.overwriteFile("", "mesh_tree.txt");
-		List<String> terms = readTermsFile("all_terms.txt");
+		List<String> terms = readFileLinewise("all_terms.txt");
 		for (String term: terms){
 			if(!term.isEmpty() && !term.equals("\\s")){
 				String[] oneTerm = term.split("\t");

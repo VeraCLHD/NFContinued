@@ -54,14 +54,14 @@ public class CatVariator {
 		return termWithVariations;
 	}
 	
-	public static ArrayList<String> readTermsFile(){
-		ArrayList<String> termsOverall = Reader.readLinesList("all_terms.txt");
+	public static ArrayList<String> readFileLinewise(String file){
+		ArrayList<String> termsOverall = Reader.readLinesList(file);
 		return termsOverall;
 	}
 	
 	public static void writeTerminologyVariations(){
 		Writer.overwriteFile("", "terminology_variations_catvar.txt");
-		ArrayList<String> terms = readTermsFile();
+		ArrayList<String> terms = readFileLinewise("all_terms.txt");
 		for (String term: terms){
 			if(!term.isEmpty() && !term.equals("\\s")){
 				String[] oneTerm = term.split("\t");
