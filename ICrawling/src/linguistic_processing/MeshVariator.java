@@ -131,7 +131,7 @@ public class MeshVariator {
 		}
 		
 		for(String child: MeshVariator.getIs_a_map().keySet()){
-			String is_a = child + " " + MeshVariator.getIs_a_map().get(child);
+			String is_a = child + "\t" + MeshVariator.getIs_a_map().get(child);
 			Writer.appendLineToFile(is_a, "mesh_tree.txt");
 		}
 	}
