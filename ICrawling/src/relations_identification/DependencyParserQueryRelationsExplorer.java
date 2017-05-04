@@ -62,7 +62,7 @@ public class DependencyParserQueryRelationsExplorer extends QueryRelationsExplor
 	      }
 	    }
 
-	    String text = "Obesity is up, exercise is down, and the number of people eating just five servings of fruits and veggies a day dropped like a rock.";
+	    String text = "Obesity is fruits.";
 	    Map<String, String> test_terms = new HashMap<String, String>();
 	    test_terms.put("exercise", "exercise");
 	    test_terms.put("fruits", "fruit");
@@ -78,15 +78,18 @@ public class DependencyParserQueryRelationsExplorer extends QueryRelationsExplor
 	      GrammaticalStructure gs = parser.predict(tagged);
 	      // The grammatical structure has a toString()-method.
 	    
-			
-	      /*for(TypedDependency typed: gs.allTypedDependencies()){
-	    	  System.out.println(typed);
-	    	  System.out.println(typed.reln());
-	    	  System.out.println(typed.dep());
-	    	  System.out.println(typed.gov());
-	      }*/
+
+	      for(TypedDependency typed: gs.allTypedDependencies()){
+	    	  if(typed.toString().contains("fruits") || typed.toString().contains("obesity")){
+	    		  System.out.println(typed.reln().toString());
+		    	  System.out.println("DEP: " + typed.dep());
+		    	  System.out.println("GOV " + typed.gov());
+	    	  }
+	    	  
+	      }
 	      
-	      SemanticGraph graph = new SemanticGraph(gs.typedDependenciesEnhanced());
+	      /*For some reason NULL
+	       * SemanticGraph graph = new SemanticGraph(gs.typedDependenciesEnhanced());
 			CoreLabel label = new CoreLabel();
 			label.setWord("exercise");
 			
@@ -95,7 +98,7 @@ public class DependencyParserQueryRelationsExplorer extends QueryRelationsExplor
 			label2.setWord(term2);
 			IndexedWord i = new IndexedWord(label);
 			IndexedWord i2 = new IndexedWord(label);
-			System.out.println(graph.getShortestDirectedPathNodes(i, i2));
+			System.out.println(graph.getShortestUndirectedPathEdges(i, i2));*/
 	      
 	      /*List<TypedDependency> tempPath = new ArrayList<TypedDependency>();
 	      for(String term1: test_terms.keySet()){

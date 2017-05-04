@@ -29,7 +29,7 @@ public class InitialRelationsManager {
 	 */
 	private static Map<String,String> unusedTerms = new HashMap<String, String>();
 	private static Map<String,String> usedTerms = new HashMap<String, String>();
-	private static Map<String, String> termsOverall = new HashMap<String, String>();
+	private static List<Term> termsOverall = new ArrayList<Term>();
 	
 	public static Map<String, String> getUnusedTerms() {
 		return unusedTerms;

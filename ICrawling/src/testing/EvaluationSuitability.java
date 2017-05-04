@@ -244,7 +244,7 @@ public class EvaluationSuitability {
 				e.printStackTrace();
 			}*/
 			//Here, the pdf
-			String texts = Reader.readContentOfFile("pages_plain.txt").toLowerCase();
+			String texts = Reader.readContentOfFile("pdf_text.txt").toLowerCase();
 			//System.out.println("Read PDF text");
 			
 			EvaluationSuitability.setSentences(splitDocsInSentences(texts));
