@@ -34,15 +34,19 @@ public class CatVariator {
 						
 				doc = connection.parse();
 				Elements releventElements = doc.select("td").select("tr");
+				
 				for (int i=0; i < releventElements.size(); i++){
 					String text = releventElements.get(i).text();
+					if(text.startsWith("CATVAR 2.0 Preposition-Verb Supplement")){
+						System.out.println(text);
+						// assumption: the preposition-verb supplements are at the end
+						break;
+					}
+					
 					//CATVAR 2.0: not needed; verb supplements, main row
 					if( text != null && !text.equals("") && !text.isEmpty() && !text.startsWith("CATVAR 2.0") && !text.equals("_")){
 						if(!text.startsWith("Word")){
-							// assumption: the verb supplements are at the end
-							if(text.equals("CATVAR 2.0 Preposition-Verb Supplement")){
-								break;
-							}
+							
 							String[] derivation = releventElements.get(i).select("b").text().split("\\s");
 							if(derivation.length > 1){
 								termWithVariations += derivation[0] + ",";
@@ -76,7 +80,6 @@ public class CatVariator {
 			if(!term.isEmpty() && !term.equals("\\s")){
 				String[] oneTerm = term.split("\t");
 				// we use the lemma to check in CATVAR; otherwise very often nothing is found.
-				
 				String lemma = oneTerm[1].trim();
 				String termItself = oneTerm[0].trim();
 				if(termItself.matches(".*\\p{Punct}") || termItself.contains(" ") ){
@@ -99,7 +102,7 @@ public class CatVariator {
 				String[] lineSplitted = line.split("\t");
 				String lemma = lineSplitted[0];
 				if(lineSplitted.length> 1){
-					varForLemma.put(lemma, Arrays.asList(lineSplitted[1].split(",")));
+					varForLemma.put(lemma, Arrays.asList(lineSplitted[1].split(" ")));
 				} else{
 					varForLemma.put(lemma, new ArrayList<String>());
 				}
