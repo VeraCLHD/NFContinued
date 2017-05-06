@@ -48,9 +48,9 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		for(Sentence sentence: splitter.getSentences()){
 			String sentenceString = sentence.toString();
 			
-			Map<String, String> termMap= this.getTermsForOneText();
-			for(String term1: termMap.keySet()){
-				for(String term2: termMap.keySet()){
+			Set<Term> termMap = InitialRelationsManager.getTerms();
+			for(Term term1: termMap){
+				for(Term term2: termMap){
 					String candidate = "";
 					String candidateLemmas = "";
 
@@ -62,17 +62,17 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				    		
 				    	// With this approach, we are loosing things like if "processed meat" is in the text instead of "meats" -> multiword that is searched for entirely without lemmatization.
 						// But also: American heart association isn't recognized as American which would gain too many artificial connections that are not there.
-						if(!term1.contains(" ") && !term2.contains(" ")){
-				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, termMap.get(term1), termMap.get(term2),
+						if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
+				    		candidateLemmas = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getOriginalTerm(),
 									candidateLemmas);
-				    	} else if(term1.contains(" ") && !term2.contains(" ")){
-				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, term1, termMap.get(term2),
+				    	} else if(term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
+				    		candidateLemmas = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getLemma(),
 									candidateLemmas);
-				    	} else if(!term1.contains(" ") && term2.contains(" ")){
-				    		candidateLemmas = lookForATermWordMatch(sentenceString, termMap, termMap.get(term1), term2,
+				    	} else if(!term1.getOriginalTerm().contains(" ") && term2.getOriginalTerm().contains(" ")){
+				    		candidateLemmas = lookForATermWordMatch(sentenceString, term1.getLemma(), term2.getOriginalTerm(),
 									candidateLemmas);
-				    	} else if(term1.contains(" ") && term2.contains(" ")){
-				    		candidate = lookForATermWordMatch(sentenceString, termMap, term1, term2,
+				    	} else if(term1.getOriginalTerm().contains(" ") && term2.getOriginalTerm().contains(" ")){
+				    		candidate = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getOriginalTerm(),
 				    				candidate);
 				    	} 
 				    	
@@ -80,13 +80,13 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 
 					if(!candidateLemmas.isEmpty()){
 						Relation relation = new Relation();
-						relation.setArg1(term1);
-						relation.setArg2(term2);
+						relation.setArg1(term1.getOriginalTerm());
+						relation.setArg2(term2.getOriginalTerm());
 						relation.setRel(candidateLemmas.replaceAll("(\\p{Punct}+)",""));
 						this.getRelationsForOneText().add(relation);
 						
-						InitialRelationsManager.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
-						InitialRelationsManager.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
+						InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
+						InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term2.getLemma());
 						// The actual relation is not yet extracted
 					}
 					
@@ -94,13 +94,13 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					Only something like veggies wouldn't be recognized because it is lemmatized to "veggy" (veggies in text).*/
 					if(!candidate.isEmpty()){
 						Relation relation = new Relation();
-						relation.setArg1(term1);
-						relation.setArg2(term2);
+						relation.setArg1(term1.getOriginalTerm());
+						relation.setArg2(term2.getOriginalTerm());
 						relation.setRel(candidate.replaceAll("(\\p{Punct}+)",""));
 						this.getRelationsForOneText().add(relation);
 						
-						InitialRelationsManager.getUsedTerms().put(term1, this.getTermsForOneText().get(term1));
-						InitialRelationsManager.getUsedTerms().put(term2, this.getTermsForOneText().get(term2));
+						InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
+						InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
 						// The actual relation is not yet extracted
 					}
 					
@@ -112,7 +112,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	}
 
 
-	private String lookForATermWordMatch(String sentenceString, Map<String, String> termMap, String term1, String term2,
+	private String lookForATermWordMatch(String sentenceString, String term1, String term2,
 			String candidate) {
 		Matcher matcherLemmas = Pattern.compile(
 		        Pattern.quote(term1)

@@ -12,6 +12,8 @@ import java.util.Set;
 
 import io.Reader;
 import io.Writer;
+import linguistic_processing.CatVariator;
+import linguistic_processing.MeshVariator;
 import linguistic_processing.StanfordLemmatizer;
 
 /**
@@ -22,6 +24,8 @@ public class InitialRelationsManager {
 
 	private List<Relation> overallRelations = new ArrayList<Relation>();
 	private String pathToNFDump;
+	private static final String PATH_CAT_VAR = "terminology_variations_catvar.txt";
+	private static final String PATH_MESH = "mesh_variations.txt";
 	/**
 	 * Used and unused terms refer to the words from each text that are qualified as terms, e.g through lemmatization.
 	 * But at the end, the original terms are written in the file
@@ -29,7 +33,13 @@ public class InitialRelationsManager {
 	 */
 	private static Map<String,String> unusedTerms = new HashMap<String, String>();
 	private static Map<String,String> usedTerms = new HashMap<String, String>();
-	private static List<Term> termsOverall = new ArrayList<Term>();
+	private static Map<String,String> termsOverall = new HashMap<String,String>();
+	
+	private static Set<Term> terms = new HashSet<Term>();
+	private static Set<QueryRelationsExplorer> explorer = new HashSet<QueryRelationsExplorer>();
+	
+	private static Map<String,List<String>> catVar = new HashMap<String,List<String>>();
+	private static Map<String,List<String>> meshTerms = new HashMap<String,List<String>>();
 	
 	public static Map<String, String> getUnusedTerms() {
 		return unusedTerms;
@@ -67,11 +77,30 @@ public class InitialRelationsManager {
 	
 	public InitialRelationsManager(String pathToNFDump){
 		this.setPathToNFDump(pathToNFDump);
+		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
+		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
 		
 	}
-	// Die Klasse, die alle anderen aufruft und schreibt.
-	public void doInitialExtraction(){
+	
+	public void extractTerms(){
 		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
+		for (String line: linesOfDump) {
+			if(!line.isEmpty()){
+				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
+				InitialRelationsManager.getExplorer().add(initialExplorer);
+				Writer.overwriteFile("", "relations_backup/initial_relations.txt" +"_" + initialExplorer.getQueryID());
+			}
+		}
+		
+		for(String term_a : InitialRelationsManager.getTermsOverall().keySet()){
+			Writer.appendLineToFile(term_a + "\t" + InitialRelationsManager.getTermsOverall().get(term_a), "all_terms.txt");
+		}
+	
+	}
+		
+	
+	public void doInitialExtraction(){
+		
 		Writer.overwriteFile("", "initial_relations.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
@@ -79,12 +108,9 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "termsOverall.txt");
 		//this one doesn't contain duplicates
 		Writer.overwriteFile("", "all_terms.txt");
-		
-		
-		for (String line: linesOfDump) {
-			if(!line.isEmpty()){
-				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
-				//initialExplorer.identifyContainsMultiWordTerms();
+			
+			for(QueryRelationsExplorer initialExplorer: InitialRelationsManager.getExplorer()){
+				
 				initialExplorer.extractRelations();
 				this.getOverallRelations().addAll(initialExplorer.getRelationsForOneText());
 				
@@ -93,15 +119,10 @@ public class InitialRelationsManager {
 					relations = relations + relation.getArg1() + "\t";
 					relations = relations + relation.getArg2() + "\t";
 					relations = relations + relation.getRel() + "\t";
-					Writer.appendLineToFile(relations, "initial_relations.txt");
+					Writer.appendLineToFile(relations, "relations_backup/initial_relations.txt" + "_" + initialExplorer.getQueryID());
 				}
 				
 			}
-		}
-		
-		for(String term_a : InitialRelationsManager.getTermsOverall().keySet()){
-			Writer.appendLineToFile(term_a + "\t" + InitialRelationsManager.getTermsOverall().get(term_a), "all_terms.txt");
-		}
 		
 		// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
 		Map<String, String> used = getUsedTerms();
@@ -123,7 +144,8 @@ public class InitialRelationsManager {
 	 */
 	public static void main(String[] args) {
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
-		manager.doInitialExtraction();
+		//manager.doInitialExtraction();
+		manager.extractTerms();
 		
 	}
 
@@ -151,6 +173,46 @@ public class InitialRelationsManager {
 
 	public static void setTermsOverall(Map<String, String> termsOverall) {
 		InitialRelationsManager.termsOverall = termsOverall;
+	}
+
+
+	public static Map<String,List<String>> getCatVar() {
+		return catVar;
+	}
+
+
+	public static void setCatVar(Map<String,List<String>> catVar) {
+		InitialRelationsManager.catVar = catVar;
+	}
+
+
+	public static Map<String,List<String>> getMeshTerms() {
+		return meshTerms;
+	}
+
+
+	public static void setMeshTerms(Map<String,List<String>> meshTerms) {
+		InitialRelationsManager.meshTerms = meshTerms;
+	}
+
+
+	public static Set<Term> getTerms() {
+		return terms;
+	}
+
+
+	public static void setTerms(Set<Term> terms) {
+		InitialRelationsManager.terms = terms;
+	}
+
+
+	public static Set<QueryRelationsExplorer> getExplorer() {
+		return explorer;
+	}
+
+
+	public static void setExplorer(Set<QueryRelationsExplorer> explorer) {
+		InitialRelationsManager.explorer = explorer;
 	}
 	
 

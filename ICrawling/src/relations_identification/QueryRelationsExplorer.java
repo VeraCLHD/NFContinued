@@ -22,7 +22,7 @@ public abstract class QueryRelationsExplorer {
 	private String queryID;
 	private String linkToText;
 	private List<Relation> relationsForOneText = new ArrayList<Relation>();
-	
+	private List<Term> terms = new ArrayList<Term>();
 
 	private String textLower;
 	private String title;
@@ -39,10 +39,17 @@ public abstract class QueryRelationsExplorer {
 		for(String topic: elements[5].split(",")){
 			topic = topic.trim().toLowerCase();
 			if(!topic.equals("-")){
-				
-				InitialRelationsManager.getTermsOverall().put(topic, lemma);
+				Term term = new Term(topic);
+				List<String> list = InitialRelationsManager.getCatVar().get(term);
+				if(list == null || list.isEmpty()){
+					term.setCatvariations(new ArrayList<String>());
+				} else{
+					term.setCatvariations(list);
+				}
+				InitialRelationsManager.getTerms().add(term);
+				InitialRelationsManager.getTermsOverall().put(topic, term.getLemma());
 				// Here a link between a query and a term is provided (contains duplicates)
-				Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + lemma, "termsOverall.txt");
+				Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + term.getLemma(), "termsOverall.txt");
 			}
 			
 		}
@@ -90,6 +97,16 @@ public abstract class QueryRelationsExplorer {
 
 	public void setTitle(String title) {
 		this.title = title;
+	}
+
+
+	public List<Term> getTerms() {
+		return terms;
+	}
+
+
+	public void setTerms(List<Term> terms) {
+		this.terms = terms;
 	}
 
 }

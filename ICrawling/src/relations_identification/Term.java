@@ -23,12 +23,52 @@ public class Term {
 		originalTerm = term;
 		lemma = lemm.lemmatize(term);
 	}
-
+	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
+	
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((catvariations == null) ? 0 : catvariations.hashCode());
+		result = prime * result + ((lemma == null) ? 0 : lemma.hashCode());
+		result = prime * result + ((originalTerm == null) ? 0 : originalTerm.hashCode());
+		return result;
+	}
+
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Term other = (Term) obj;
+		if (catvariations == null) {
+			if (other.catvariations != null)
+				return false;
+		} else if (!catvariations.equals(other.catvariations))
+			return false;
+		if (lemma == null) {
+			if (other.lemma != null)
+				return false;
+		} else if (!lemma.equals(other.lemma))
+			return false;
+		if (originalTerm == null) {
+			if (other.originalTerm != null)
+				return false;
+		} else if (!originalTerm.equals(other.originalTerm))
+			return false;
+		return true;
+	}
+
 
 	public String getOriginalTerm() {
 		return originalTerm;
