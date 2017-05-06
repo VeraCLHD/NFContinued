@@ -7,7 +7,7 @@ youth
 tea	
 twins	
 sprouting	
-goji	lycium barbarum,goji berry plant,plant, berry,plants, berry,goji berry plants,goji plant,goji plants,wolfberry,wolfberries,goji berry,goji berries,goji berry,goji berries,lycium chinense,
+goji	lycium barbarum,goji berry plant,goji berry plant,goji berry plants,goji berry plants,goji berry plant,goji berry plants,wolfberry,wolfberries,goji berry,goji berries,goji berry,goji berries,lycium chinense,
 angiogram	angiographies,angiogram,angiograms,arteriography,arteriographies,
 energy	
 nightshades	
@@ -53,10 +53,10 @@ peppermint
 marjoram	origanum vulgare,oregano plant,oregano plants,oregano plant,oregano plants,origanum onites,origanum majorana,marjoram plant,marjoram plants,marjoram plant,marjoram plants,sweet marjoram,sweet marjoram,sweet marjorams,sweet marjorams,majorana hortensis,oregano,oreganos,marjoram,marjorams,
 vaseline	
 allergies	
-tempeh	
+tempeh	soy food,soy foods,soy food,natto,soy cheese,soy cheese,soy cheeses,soy cheeses,tempeh,texturized soy protein,texturized soy protein,texturized soy proteins,texturized soy protein,texturized soy proteins,texturized soy proteins,texturized vegetable protein,texturized vegetable protein,texturized vegetable protein,texturized vegetable proteins,tofu,soy bean curd,soy bean curds,soy bean curd,soy bean curds,soy bean curd,soy bean curds,miso,soy sauce,soy sauce,
 germany	
 crowberries	
-post-surgery	vasoplegias,postoperative vasoplegic syndrome,vasoplegic syndrome,post-operative vasoplegic syndrome,post operative vasoplegic syndrome,post-operative vasoplegic syndromes,post-operative syndrome,post-operative syndromes,syndrome, vasoplegic,syndromes, vasoplegic,
+post-surgery	vasoplegias,postoperative vasoplegic syndrome,vasoplegic syndrome,post-operative vasoplegic syndrome,post operative vasoplegic syndrome,post-operative vasoplegic syndromes,post-operative vasoplegic syndrome,post-operative vasoplegic syndromes,post-operative vasoplegic syndrome,post-operative vasoplegic syndromes,
 pcb	
 steaming	
 caffeine	
@@ -97,7 +97,7 @@ angiogenesis
 cgmp	
 geico	
 indonesia	
-lumpectomy	segmental mastectomies,segmental mastectomies,segmental mastectomy,local excision mastectomy,local excision mastectomies,local mastectomies,local mastectomy,segmentectomy,segmentectomies,partial mastectomy,partial mastectomies,partial mastectomy,partial mastectomies,limited resection mastectomy,limited resection mastectomies,limited mastectomies,limited mastectomy,lumpectomy,lumpectomies,breast-conserving surgery,breast conserving surgery,breast quadrantectomy,breast quadrantectomies,breast quadrantectomies,breast quadrantectomy,breast-conserving surgery,breast-conserving surgeries,breast-conserving surgeries,breast surgery,breast conservation therapy,breast conservation therapies,therapies, conservation,therapy, conservation,breast-sparing surgery,breast sparing surgery,breast-sparing surgeries,breast-sparing surgeries,breast-sparing surgery,
+lumpectomy	segmental mastectomies,segmental mastectomies,segmental mastectomy,local excision mastectomy,local excision mastectomies,local excision mastectomies,local excision mastectomy,segmentectomy,segmentectomies,partial mastectomy,partial mastectomies,partial mastectomy,partial mastectomies,limited resection mastectomy,limited resection mastectomies,limited resection mastectomies,limited resection mastectomy,lumpectomy,lumpectomies,breast-conserving surgery,breast conserving surgery,breast quadrantectomy,breast quadrantectomies,breast quadrantectomies,breast quadrantectomy,breast-conserving surgery,breast-conserving surgeries,breast-conserving surgeries,breast conserving surgery,breast conservation therapy,breast conservation therapies,breast conservation therapies,breast conservation therapy,breast-sparing surgery,breast sparing surgery,breast-sparing surgeries,breast-sparing surgeries,breast-sparing surgery,
 intelligence	
 mutation	
 toxins	
@@ -225,7 +225,7 @@ carbs
 polypill	
 caucasian	whites,white,caucasoid race,caucasoid races,caucasoid race,caucasoid races,caucasian race,caucasian races,caucasian race,caucasian races,
 l-dopa	
-fosamax	aminohydroxybutane bisphosphonate,aminohydroxybutane bisphosphonate,1,1-biphosphonate 4-amino-1-hydroxybutylidene,amino 4,alendronate sodium,alendronate sodium,monosodium alendronate,fosamax,mk-217,mk 217,mk217,
+fosamax	aminohydroxybutane bisphosphonate,aminohydroxybutane bisphosphonate,1-biphosphonate 4-amino-1-hydroxybutylidene 1,1 biphosphonate 4 amino 1 hydroxybutylidene 1,alendronate sodium,alendronate sodium,trihydrate alendronate monosodium salt,fosamax,mk-217,mk 217,mk217,
 campylobacter	
 deception	false allegations,false allegation,false allegations,false allegation,hoax,lying,
 holidays	holiday,festivals,festival,
@@ -308,7 +308,7 @@ tomatoes
 hirsutism	
 panama	
 lox	
-norovirus	noroviruses,norwalk-like viruses,norwalk like viruses,small round-structured viruses,viruses, round-structured,small round structured viruses,
+norovirus	noroviruses,norwalk-like viruses,norwalk like viruses,small round-structured viruses,small round-structured viruses,small round structured viruses,
 limonin	obaculactone,7,16-dioxo-7,16-dideoxylimondiol,
 coriander	
 lethicin	
@@ -374,7 +374,7 @@ enterococcus
 zoloft	zoloft,altruline,lustral,apo-sertraline,apo sertraline,aremis,besitran,sealdin,gladem,novo-sertraline,novo sertraline,ratio-sertraline,ratio sertraline,rhoxal-sertraline,rhoxal sertraline,sertraline hydrochloride,sertraline hydrochloride,sertraline hydrochloride (1s-cis)-isomer,gen-sertraline,gen sertraline,
 oceans	
 treatment	
-galactosemia	galactosemia,galactose-1-phosphate uridyl-transferase deficiency disease,galactose 1 phosphate uridyl transferase deficiency disease,disease, deficiency,disease, deficiency,epimerase deficiency galactosemia,galactosemia, deficiency,galactosemias, deficiency,epimerase deficiency galactosemias,epimerase galactosemia,epimerase galactosemias,galactose-1-phosphate uridyltransferase deficiency,galactose-1-phosphate deficiencies,galactose-1-phosphate deficiency,galactose 1 phosphate uridyltransferase deficiency,galactose-1-phosphate uridyltransferase deficiencies,deficiencies, uridyltransferase,deficiency, uridyltransferase,utp-hexose-1-phosphate uridylyltransferase deficiency disease,utp hexose 1 phosphate uridylyltransferase deficiency disease,classic galactosemia,galt deficiency,galt deficiencies,galt deficiency,galt deficiencies,udpglucose hexose-1-phosphate uridylyltransferase deficiency,udpglucose hexose 1 phosphate uridylyltransferase deficiency,utp hexose-1-phosphate uridylyltransferase deficiency,utp hexose 1 phosphate uridylyltransferase deficiency,classic galactosemia,classic galactosemias,classic galactosemias,galactose-1-phosphate uridylyltransferase deficiency,galactose-1-phosphate deficiencies,galactose-1-phosphate deficiency,galactose 1 phosphate uridylyltransferase deficiency,galactose-1-phosphate uridylyltransferase deficiencies,deficiencies, uridylyltransferase,deficiency, uridylyltransferase,udpglucose 4-epimerase deficiency disease,udpglucose 4 epimerase deficiency disease,disease, deficiency,disease, deficiency,galactose epimerase deficiency,galactose deficiencies,galactose deficiency,galactose epimerase deficiencies,udp-galactose-4-epimerase deficiency disease,udp galactose 4 epimerase deficiency disease,galactosemia iii,galactosemia iiis,gale deficiency,gale deficiencies,gale deficiency,gale deficiencies,udp-galactose-4-epimerase deficiency,udp-galactose-4-epimerase deficiencies,udp-galactose-4-epimerase deficiency,udp galactose 4 epimerase deficiency,udp-galactose-4-epimerase deficiencies,disease, deficiency,disease, deficiency,diseases, deficiency,udp-galactose-4-epimerase deficiency diseases,galactosemia 3,galactosemia 3s,galactokinase deficiency disease,galactokinase deficiency diseases,hereditary galactokinase deficiency,hereditary deficiencies,hereditary deficiency,deficiencies, galactokinase,deficiency, galactokinase,hereditary galactokinase deficiencies,galactosemia 2,galactosemia 2s,galk deficiency,galk deficiencies,galk deficiency,galk deficiencies,disease, deficiency,galactokinase deficiency,galactokinase deficiencies,galactokinase deficiency,galactokinase deficiencies,
+galactosemia	galactosemia,galactose-1-phosphate uridyl-transferase deficiency disease,galactose 1 phosphate uridyl transferase deficiency disease,galactose-1-phosphate uridyl-transferase deficiency disease,galactose 1 phosphate uridyl transferase deficiency disease,epimerase deficiency galactosemia,epimerase deficiency galactosemia,epimerase deficiency galactosemias,epimerase deficiency galactosemias,epimerase deficiency galactosemia,epimerase deficiency galactosemias,galactose-1-phosphate uridyltransferase deficiency,galactose-1-phosphate uridyltransferase deficiencies,galactose-1-phosphate uridyltransferase deficiency,galactose 1 phosphate uridyltransferase deficiency,galactose-1-phosphate uridyltransferase deficiencies,galactose-1-phosphate uridyltransferase deficiencies,galactose-1-phosphate uridyltransferase deficiency,utp-hexose-1-phosphate uridylyltransferase deficiency disease,utp hexose 1 phosphate uridylyltransferase deficiency disease,classic galactosemia,galt deficiency,galt deficiencies,galt deficiency,galt deficiencies,udpglucose hexose-1-phosphate uridylyltransferase deficiency,udpglucose hexose 1 phosphate uridylyltransferase deficiency,utp hexose-1-phosphate uridylyltransferase deficiency,utp hexose 1 phosphate uridylyltransferase deficiency,classic galactosemia,classic galactosemias,classic galactosemias,galactose-1-phosphate uridylyltransferase deficiency,galactose-1-phosphate uridylyltransferase deficiencies,galactose-1-phosphate uridylyltransferase deficiency,galactose 1 phosphate uridylyltransferase deficiency,galactose-1-phosphate uridylyltransferase deficiencies,galactose-1-phosphate uridylyltransferase deficiencies,galactose-1-phosphate uridylyltransferase deficiency,udpglucose 4-epimerase deficiency disease,udpglucose 4 epimerase deficiency disease,udpglucose 4-epimerase deficiency disease,udpglucose 4 epimerase deficiency disease,galactose epimerase deficiency,galactose epimerase deficiencies,galactose epimerase deficiency,galactose epimerase deficiencies,udp-galactose-4-epimerase deficiency disease,udp galactose 4 epimerase deficiency disease,galactosemia iii,galactosemia iiis,gale deficiency,gale deficiencies,gale deficiency,gale deficiencies,udp-galactose-4-epimerase deficiency,udp-galactose-4-epimerase deficiencies,udp-galactose-4-epimerase deficiency,udp galactose 4 epimerase deficiency,udp-galactose-4-epimerase deficiencies,udp-galactose-4-epimerase deficiency disease,udp galactose 4 epimerase deficiency disease,udp-galactose-4-epimerase deficiency diseases,udp-galactose-4-epimerase deficiency diseases,galactosemia 3,galactosemia 3s,galactokinase deficiency disease,galactokinase deficiency diseases,hereditary galactokinase deficiency,hereditary galactokinase deficiencies,hereditary galactokinase deficiency,hereditary galactokinase deficiencies,hereditary galactokinase deficiency,hereditary galactokinase deficiencies,galactosemia 2,galactosemia 2s,galk deficiency,galk deficiencies,galk deficiency,galk deficiencies,galactokinase deficiency disease,galactokinase deficiency,galactokinase deficiencies,galactokinase deficiency,galactokinase deficiencies,
 ethnicity	
 cholecystokinin	
 colchicine	
@@ -386,7 +386,7 @@ mint
 maggots	
 vegans	
 hearing	
-maspin	serpinb5 protein,maspin,protein, serpinb5,protein, spi7,inhibitor protease,(or serine,protein, maspin,protein, ovalbumin,protein, serpinb5,protein, pi5,protein, maspin,(or serine,protein, serpinb5,(or serine,inhibitor protease,protein, maspin,protein, pi5,
+maspin	serpinb5 protein,maspin,mouse serpinb5 protein,mouse spi7 protein,mouse protease inhibitor 5,clade b serine (or cysteine) proteinase inhibitor,mouse maspin protein,mouse ovalbumin protein,rat serpinb5 protein,rat pi5 protein,rat maspin protein,clade b serine (or cysteine) proteinase inhibitor,human serpinb5 protein,clade b (ovalbumin) serine (or cysteine) proteinase inhibitor,human protease inhibitor 5,human maspin protein,human pi5 protein,
 dha	
 allopurinol	
 chafing	
@@ -401,7 +401,7 @@ indoles
 canthaxanthines	canthaxanthine,roxanthin red 10,food orange 8,orobronze,c.i. 40850,carophyll red,
 flavonols	
 aging	
-treadmill	exercise tests,exercise test,exercise tests,arm ergometry test,arm ergometry tests,test, ergometry,tests, ergometry,arm test,arm tests,bicycle ergometry test,bicycle ergometry tests,test, ergometry,tests, ergometry,bicycle test,bicycle tests,fitness testing,fitness testings,fitness testing,fitness testings,step test,step tests,step test,step tests,stress test,stress tests,stress test,stress tests,treadmill test,treadmill test,treadmill tests,treadmill tests,physical fitness testing,testing, fitness,testings, fitness,physical fitness testings,physical testing,physical testings,cardiopulmonary exercise test,cardiopulmonary exercise tests,test, exercise,tests, exercise,cardiopulmonary test,cardiopulmonary tests,
+treadmill	exercise tests,exercise test,exercise tests,arm ergometry test,arm ergometry tests,arm ergometry test,arm ergometry tests,arm ergometry test,arm ergometry tests,bicycle ergometry test,bicycle ergometry tests,bicycle ergometry test,bicycle ergometry tests,bicycle ergometry test,bicycle ergometry tests,fitness testing,fitness testings,fitness testing,fitness testings,step test,step tests,step test,step tests,stress test,stress tests,stress test,stress tests,treadmill test,treadmill test,treadmill tests,treadmill tests,physical fitness testing,physical fitness testing,physical fitness testings,physical fitness testings,physical fitness testing,physical fitness testings,cardiopulmonary exercise test,cardiopulmonary exercise tests,cardiopulmonary exercise test,cardiopulmonary exercise tests,cardiopulmonary exercise test,cardiopulmonary exercise tests,
 meningioma	
 maltodextrin	
 arkansas	
@@ -411,7 +411,7 @@ marshmallows	althaeas,althaea officinalis,marsh mallow,marsh mallows,marsh mallo
 dandelion	dandelion,dandelions,taraxacum officinale,
 chinese	
 radishes	
-hiroshima	carbonic anhydrase isoenzyme b,carbonic anhydrase b,b, anhydrase,ca i hiroshima-1,ca i hiroshima 1,carbonic anhydrase i hiroshima-1,carbonic anhydrase i hiroshima 1,
+hiroshima	carbonic anhydrase isoenzyme b,carbonic anhydrase b,carbonic anhydrase b,ca i hiroshima-1,ca i hiroshima 1,carbonic anhydrase i hiroshima-1,carbonic anhydrase i hiroshima 1,
 seals	
 livestock	livestocks,
 thiamine	
@@ -440,7 +440,7 @@ trimethylamine
 lipotropes	
 prolactin	
 asia	
-ecstasy	methyl n,mdma,methylenedioxymethamphetamine,ecstasy (drug),hydrochloride n-methyl-34-methylenedioxyamphetamine,n-methyl-3,4-methylenedioxyamphetamine hydrochloride,methyl n,
+ecstasy	4 methylenedioxyamphetamine n methyl 3,mdma,methylenedioxymethamphetamine,ecstasy (drug),4-methylenedioxyamphetamine hydrochloride n-methyl-3,n-methyl-3 hydrochloride,4 methylenedioxyamphetamine hydrochloride n methyl 3,
 meta-analysis	
 heartburn	pyrosis,pyroses,
 insomnia	
@@ -483,7 +483,7 @@ singapore
 microdialysis	
 genitalia	
 toxicants	
-sigmoidoscopy	sigmoidoscopies,proctosigmoidoscopy,proctosigmoidoscopies,sigmoidoscopic surgical procedures,sigmoidoscopic procedure,sigmoidoscopic procedures,sigmoidoscopic surgical procedure,procedure, surgical,sigmoidoscopic surgery,procedures, surgical,sigmoidoscopic surgery,sigmoidoscopic surgeries,sigmoidoscopic surgeries,
+sigmoidoscopy	sigmoidoscopies,proctosigmoidoscopy,proctosigmoidoscopies,sigmoidoscopic surgical procedures,sigmoidoscopic surgical procedure,sigmoidoscopic surgical procedures,sigmoidoscopic surgical procedure,sigmoidoscopic surgical procedure,sigmoidoscopic surgery,sigmoidoscopic surgical procedures,sigmoidoscopic surgery,sigmoidoscopic surgeries,sigmoidoscopic surgeries,
 mastalgia	mastodynias,breast pain,breast pains,breast pain,breast pains,mammalgia,mammalgias,mastalgia,mastalgias,
 hyperactivity	
 anisakis	
@@ -572,7 +572,7 @@ lecithin
 ibs	
 mrsa	
 papaya	
-nutrasweet	methyl aspartylphenylalanine,methyl aspartylphenylalanine,aspartylphenylalanine methyl ester,ester, methyl,canderel,hermesetas gold,hermesetas gold,milisucre,tri-sweet,tri sweet,trisweet,nozucar,nutrasweet,sc-18862,sc 18862,sc18862,goldswite,
+nutrasweet	methyl aspartylphenylalanine,methyl aspartylphenylalanine,aspartylphenylalanine methyl ester,aspartylphenylalanine methyl ester,canderel,hermesetas gold,hermesetas gold,milisucre,tri-sweet,tri sweet,trisweet,nozucar,nutrasweet,sc-18862,sc 18862,sc18862,goldswite,
 veggiecation	
 wool	
 abortion	
@@ -633,14 +633,14 @@ goitrogens
 phytochemicals	phytonutrient,dietary phytochemicals,dietary phytochemicals,phytonutrients,plant-derived compounds,plant-derived compounds,plant derived compounds,phytochemical,plant-derived chemicals,plant-derived chemicals,plant derived chemicals,
 peanuts	
 preparation	
-colibacillosis	e infections,escherichia infections,escherichia coli infection,escherichia infection,e coli infections,e coli infection,e infection,
+colibacillosis	e coli infections,escherichia coli infections,escherichia coli infection,escherichia coli infection,e coli infections,e coli infection,e coli infection,
 alfalfa	
 beets	
 neurotransmitters	
 supermarkets	
 eggplant	solanum melongenas,solanum melongena,aubergine,aubergines,eggplant,eggplants,brinjal,brinjals,
 maimonides	
-microparticles	cell derived microparticles,cell-derived microparticle,cell-derived microparticle,ectosomes,ectosome,cell-derived microparticles,cell microparticles,shedding microvesicles,shedding microvesicle,shedding microvesicles,shedding microvesicle,cell membrane microparticles,cell membrane microparticle,microparticle, membrane,microparticles, membrane,cell microparticle,cell microparticles,circulating cell-derived microparticles,microparticle, cell-derived,microparticles, cell-derived,circulating cell derived microparticles,circulating cell-derived microparticle,circulating microparticle,circulating microparticles,
+microparticles	cell derived microparticles,cell-derived microparticle,cell-derived microparticle,ectosomes,ectosome,cell-derived microparticles,cell derived microparticles,shedding microvesicles,shedding microvesicle,shedding microvesicles,shedding microvesicle,cell membrane microparticles,cell membrane microparticle,cell membrane microparticle,cell membrane microparticles,cell membrane microparticle,cell membrane microparticles,circulating cell-derived microparticles,circulating cell-derived microparticle,circulating cell-derived microparticles,circulating cell derived microparticles,circulating cell-derived microparticle,circulating cell-derived microparticle,circulating cell-derived microparticles,
 grilling	
 mammals	
 lemonoids	
@@ -652,7 +652,7 @@ pritikin
 spain	
 chervil	
 boiled	furunculoses,boils,furuncles,furuncle,
-n-hexacosanol	hexacosyl alcohol,n-hexacosanol,aluminum 1-hexacosanol,
+n-hexacosanol	hexacosyl alcohol,n-hexacosanol,aluminum (1:3) salt 1-hexacosanol,
 birds	
 phytonutrient	phytonutrient,dietary phytochemicals,dietary phytochemicals,phytonutrients,plant-derived compounds,plant-derived compounds,plant derived compounds,phytochemical,plant-derived chemicals,plant-derived chemicals,plant derived chemicals,
 choline	
@@ -667,7 +667,7 @@ hepatitis
 dioxins	
 phytosterols	
 petunidin	
-breastfeeding	breast feeding,breastfeeding,feeding, breast,exclusive breast feeding,exclusive breastfeeding,exclusive breastfeeding,
+breastfeeding	breast feeding,breastfeeding,exclusive breast feeding,exclusive breast feeding,exclusive breastfeeding,exclusive breastfeeding,
 msg	
 desserts	
 rutabagas	
@@ -684,7 +684,7 @@ viruses
 benzodiazepines	
 tylenol	acetominophen,hydroxyacetanilide,apap,p-acetamidophenol,p-hydroxyacetanilide,paracetamol,n-(4-hydroxyphenyl)acetanilide,acetamidophenol,n-acetyl-p-aminophenol,acephen,acetaco,tylenol,anacin-3,anacin 3,anacin3,datril,panadol,acamol,algotropyl,
 prostaglandin	
-qaly	year, life,years, life,quality-adjusted life year,quality-adjusted year,quality-adjusted years,quality adjusted life years,qaly,healthy years equivalents,healthy equivalents,healthy years equivalent,adjusted life years,adjusted life year,year, life,years, life,adjusted year,adjusted years,
+qaly	quality-adjusted life year,quality-adjusted life years,quality-adjusted life year,quality-adjusted life year,quality-adjusted life years,quality adjusted life years,qaly,healthy years equivalents,healthy years equivalents,healthy years equivalent,adjusted life years,adjusted life year,adjusted life year,adjusted life years,adjusted life year,adjusted life years,
 anti-inflammation	
 accidents	
 spearmint	
@@ -697,7 +697,7 @@ steak
 death	
 mercury	
 eeg	
-lipitor	atorvastatin calcium,atorvastatin calcium trihydrate,trihydrate, calcium,atorvastatin trihydrate,calcium atorvastatin,calcium salt atorvastatin,atorvastatin calcium hydrate,hydrate, calcium,atorvastatin hydrate,atorvastatin calcium anhydrous,atorvastatin anhydrous,anhydrous, calcium,atorvastatin,ci 981,ci-981,ci981,lipitor,liptonorm,
+lipitor	atorvastatin calcium,atorvastatin calcium trihydrate,atorvastatin calcium trihydrate,atorvastatin calcium trihydrate,calcium salt atorvastatin,calcium salt atorvastatin,atorvastatin calcium hydrate,atorvastatin calcium hydrate,atorvastatin calcium hydrate,atorvastatin calcium anhydrous,atorvastatin calcium anhydrous,atorvastatin calcium anhydrous,atorvastatin,ci 981,ci-981,ci981,lipitor,liptonorm,
 blood-letting	
 bacteriophage	
 cosmetics	
@@ -727,7 +727,7 @@ waistline
 pectin	
 sulfur	
 dehydration	
-cheerios	protein, cheerio,
+cheerios	drosophila cheerio protein,
 acetaldehyde	
 carbohydrates	
 atherosclerosis	
@@ -784,7 +784,7 @@ phytoestrogens
 arsenic	
 hyperpigmentation	
 canada	
-tofu	soy food,soy foods,soy food,natto,soy cheese,soy cheese,soy cheeses,soy cheeses,tempeh,texturized soy protein,texturized protein,texturized proteins,protein, soy,proteins, soy,texturized soy proteins,texturized vegetable protein,texturized protein,protein, vegetable,proteins, vegetable,tofu,curd, bean,curds, bean,soy curd,soy curds,soy bean curd,soy bean curds,miso,soy sauce,soy sauce,
+tofu	soy food,soy foods,soy food,natto,soy cheese,soy cheese,soy cheeses,soy cheeses,tempeh,texturized soy protein,texturized soy protein,texturized soy proteins,texturized soy protein,texturized soy proteins,texturized soy proteins,texturized vegetable protein,texturized vegetable protein,texturized vegetable protein,texturized vegetable proteins,tofu,soy bean curd,soy bean curds,soy bean curd,soy bean curds,soy bean curd,soy bean curds,miso,soy sauce,soy sauce,
 sedatives	
 claudication	
 semen	
@@ -805,14 +805,14 @@ tapeworms
 carnitine	
 endocannabinoids	endocannabinoid,
 ulcers	
-popcorn	inhibitor, popcorn,corn inhibitor of activated hageman factor,
+popcorn	zea mays popcorn inhibitor,corn inhibitor of activated hageman factor,
 cilantro	coriandrums,coriander,corianders,cilantro,cilantros,coriandrum sativum,coriandrum sativums,coriandrum sativums,
 cumin	
 phosgene	
 halitosis	halitoses,
 muscles	
 epa	
-neurocysticercosis	neurocysticercoses,central cysticercosis,central nervous system cysticercosis,brain cysticercosis,brain cysticercosis,
+neurocysticercosis	neurocysticercoses,central nervous system cysticercosis,central nervous system cysticercosis,brain cysticercosis,brain cysticercosis,
 bergamottin	5-geranoxypsoralen,8-geranyloxypsoralen,
 firmicutes	
 eggs	
@@ -833,20 +833,20 @@ ubiquinol
 roselle	hibiscus sabdariffa,roselle,roselles,hibiscus cannabinus,kenaf,
 saffron	
 anti-inflammatory	
-viagra	sildenafil citrate,citrate 1-((3-(67-dihydro-1-methyl-7-oxo-3-propyl-1h-pyrazolo(43-d)pyrimidin-5-yl)-4-ethoxyphenyl)sulfonyl)-4-methylpiperazine,ncx-911,ncx 911,ncx911,revatio,sildenafil,uk 92480-10,uk 92480 10,uk 9248010,uk-92,480-10,92,480 uk,homosildenafil,hydroxyhomosildenafil,viagra,acetildenafil,sildenafil lactate,sildenafil lactate,sildenafil nitrate,sildenafil nitrate,desmethyl sildenafil,desmethyl sildenafil,desmethylsildenafil,
+viagra	sildenafil citrate,7-dihydro-1-methyl-7-oxo-3-propyl-1h-pyrazolo(4 1-((3-(6,ncx-911,ncx 911,ncx911,revatio,sildenafil,uk 92480-10,uk 92480 10,uk 9248010,uk-92,480-10,480 10 uk 92,homosildenafil,hydroxyhomosildenafil,viagra,acetildenafil,sildenafil lactate,sildenafil lactate,sildenafil nitrate,sildenafil nitrate,desmethyl sildenafil,desmethyl sildenafil,desmethylsildenafil,
 insecticides	
-lasik	laser-assisted stromal in situ keratomileusis,laser assisted stromal in situ keratomileusis,laser intrastromal keratomileusis,keratomileuses, intrastromal,keratomileusis, intrastromal,laser intrastromal keratomileuses,laser in situ keratomileusis,lasik,
+lasik	laser-assisted stromal in situ keratomileusis,laser assisted stromal in situ keratomileusis,laser intrastromal keratomileusis,laser intrastromal keratomileuses,laser intrastromal keratomileusis,laser intrastromal keratomileuses,laser in situ keratomileusis,lasik,
 television	televisions,
 alpha-gal	
 neurotoxins	
-tacos	coronin protein,protein, coro1a,coronin p57,protein, coronin-1,actin coronin,protein, taco,protein, coro1a,actin coronin,aspartate tryptophane,protein, taco,protein, coro1b,2 coronin,actin coronin,protein, coro1b,2 coronin,1b coronin,actin coronin,protein, coro1c,1c coronin,actin-binding coronin-like,coronin-like actin-binding protein 1c,actin coronin,protein, coro1c,3 coronin,1c coronin,actin coronin,protein, coro2a,actin coronin,protein, ir10,protein, coro2a,4 coronin,2a coronin,actin coronin,protein, coro7,7 coronin,protein, coro7,7 coronin,1a coronin,protein, coro1a,protein, coronin-1,1 coronin,protein, crn1,1 coronin,protein, ylr429w,protein, coro,protein, coronin,
-mevacor	
+tacos	coronin protein,human coro1a protein,human p57 coronin protein,human coronin-1 protein,actin binding protein coronin,human taco protein,mouse coro1a protein,actin binding protein 1a coronin,mouse tryptophane aspartate containing coat protein,mouse taco protein,human coro1b protein,human coronin 2 protein,actin binding protein coronin,mouse coro1b protein,mouse coronin 2 protein,mouse coronin 1b protein,actin binding protein 1b coronin,human coro1c protein,human coronin 1c protein,human coronin-like actin-binding protein 1c,coronin-like actin-binding protein 1c,actin binding protein coronin,mouse coro1c protein,mouse coronin 3 protein,mouse coronin 1c protein,actin binding protein 1c coronin,human coro2a protein,actin binding protein coronin,human ir10 protein,mouse coro2a protein,mouse coronin 4 protein,mouse coronin 2a protein,actin binding protein 2a coronin,human coro7 protein,human coronin 7 protein,mouse coro7 protein,mouse coronin 7 protein,rat coronin 1a protein,rat coro1a protein,mouse coronin-1 protein,mouse coronin 1 protein,s cerevisiae crn1 protein,s cerevisiae coronin 1 protein,s cerevisiae ylr429w protein,drosophila coro protein,drosophila coronin protein,
+mevacor	mevinolin,monacolin k,6-methylcompactin,6 methylcompactin,mk-803,mk 803,mk803,mevacor,(1 alpha(s*))-isomer lovastatin,1 alpha-isomer lovastatin,1 alpha-isomer lovastatin,1 alpha isomer lovastatin,1 alpha-isomer lovastatin,
 grains	
 zeaxanthin	
 enterotypes	
 mushrooms	
 predimed	
-microalbuminuria	diabetic nephropathies,diabetic nephropathy,diabetic nephropathy,diabetic kidney disease,diabetic kidney diseases,disease, kidney,diseases, kidney,diabetic glomerulosclerosis,kimmelstiel-wilson syndrome,kimmelstiel wilson syndrome,kimmelstiel-wilson syndrome,kimmelstiel-wilson disease,kimmelstiel wilson disease,nodular glomerulosclerosis,nodular glomerulosclerosis,diabetic glomerulosclerosis,intracapillary glomerulosclerosis,
+microalbuminuria	diabetic nephropathies,diabetic nephropathy,diabetic nephropathy,diabetic kidney disease,diabetic kidney diseases,diabetic kidney disease,diabetic kidney diseases,diabetic glomerulosclerosis,kimmelstiel-wilson syndrome,kimmelstiel wilson syndrome,kimmelstiel-wilson syndrome,kimmelstiel-wilson disease,kimmelstiel wilson disease,nodular glomerulosclerosis,nodular glomerulosclerosis,diabetic glomerulosclerosis,intracapillary glomerulosclerosis,
 acne	
 gastroenteritis	
 meditation	transcendental meditation,transcendental meditation,
@@ -869,7 +869,7 @@ belgium
 pregnant	
 swordfish	
 thrifty	
-treadmills	exercise tests,exercise test,exercise tests,arm ergometry test,arm ergometry tests,test, ergometry,tests, ergometry,arm test,arm tests,bicycle ergometry test,bicycle ergometry tests,test, ergometry,tests, ergometry,bicycle test,bicycle tests,fitness testing,fitness testings,fitness testing,fitness testings,step test,step tests,step test,step tests,stress test,stress tests,stress test,stress tests,treadmill test,treadmill test,treadmill tests,treadmill tests,physical fitness testing,testing, fitness,testings, fitness,physical fitness testings,physical testing,physical testings,cardiopulmonary exercise test,cardiopulmonary exercise tests,test, exercise,tests, exercise,cardiopulmonary test,cardiopulmonary tests,
+treadmills	exercise tests,exercise test,exercise tests,arm ergometry test,arm ergometry tests,arm ergometry test,arm ergometry tests,arm ergometry test,arm ergometry tests,bicycle ergometry test,bicycle ergometry tests,bicycle ergometry test,bicycle ergometry tests,bicycle ergometry test,bicycle ergometry tests,fitness testing,fitness testings,fitness testing,fitness testings,step test,step tests,step test,step tests,stress test,stress tests,stress test,stress tests,treadmill test,treadmill test,treadmill tests,treadmill tests,physical fitness testing,physical fitness testing,physical fitness testings,physical fitness testings,physical fitness testing,physical fitness testings,cardiopulmonary exercise test,cardiopulmonary exercise tests,cardiopulmonary exercise test,cardiopulmonary exercise tests,cardiopulmonary exercise test,cardiopulmonary exercise tests,
 als	
 pancakes	
 mcdonalds	
@@ -922,7 +922,7 @@ pasteurization	pasteurizations,ultrapasteurization,ultrapasteurizations,
 cataracts	
 osteoarthritis	
 peptides	
-atkins	atkin-flaitz syndrome,mental retardation x-linked atkin type,retardation mental,mrx21,retardation, mental,retardation, mental,mental x-linked,retardation, mental,atkin flaitz patil smith syndrome,retardation, mental,
+atkins	atkin-flaitz syndrome,mental retardation x-linked atkin type,atkin type mental retardation x-linked,mrx21,x-linked mental retardation,x-linked mental retardation,atkin type x-linked mental retardation syndrome,x-linked 21 mental retardation,atkin flaitz patil smith syndrome,x-linked nonspecific mental retardation,
 cookies	
 angiography	
 morphine	
@@ -945,7 +945,7 @@ ergothioneine	thioneine,2-thiol-l-histidine-betaine,2 thiol l histidine betaine,
 jazz	
 endotoxemia	endotoxemias,
 cans	
-kohlrabi	seed kohlrabi,9128 t,protein, t-9128,
+kohlrabi	brassica napus kohlrabi seed trypsin inhibitor protein,brassica napus t 9128 protein,brassica napus t-9128 protein,
 eggnog	
 yams	
 grapefruit	citrus x paradisi,grapefruit,grapefruits,toronja,toronjas,
@@ -976,7 +976,7 @@ indigestion	dyspepsias,indigestion,indigestions,
 lipstick	
 lupus	
 hummus	
-pizza	protein, at4g31910,protein, piz,
+pizza	arabidopsis at4g31910 protein,arabidopsis piz protein,
 xeno-autoantibodies	
 headaches	
 wisconsin	
@@ -984,7 +984,7 @@ hives	urticarias,hives,
 fructose	
 newborns	
 pharmaceuticals	
-ecmo	ecmo treatment,ecmo treatments,ecmo treatment,ecmo treatments,extracorporeal oxygenation,extracorporeal membrane oxygenations,oxygenation, membrane,oxygenations, membrane,extracorporeal oxygenations,extracorporeal life support,extracorporeal life supports,support, life,supports, life,extracorporeal support,extracorporeal supports,ecls treatment,ecls treatments,ecls treatment,ecls treatments,
+ecmo	ecmo treatment,ecmo treatments,ecmo treatment,ecmo treatments,extracorporeal membrane oxygenation,extracorporeal membrane oxygenations,extracorporeal membrane oxygenation,extracorporeal membrane oxygenations,extracorporeal membrane oxygenations,extracorporeal life support,extracorporeal life supports,extracorporeal life support,extracorporeal life supports,extracorporeal life support,extracorporeal life supports,ecls treatment,ecls treatments,ecls treatment,ecls treatments,
 contamination	
 ischemia	
 mouth	
@@ -1048,7 +1048,7 @@ schizophrenia
 lindane	
 menopause	
 snacks	snack,snack food,snack food,snack foods,snack foods,snacktime,snacktimes,snacking,
-gerd	gastric acid reflux,reflux, acid,gastric reflux,gastric acid reflux disease,gastro-esophageal reflux,gastro esophageal reflux,gastro-esophageal reflux,gastroesophageal reflux disease,gerd,gastroesophageal reflux,esophageal reflux,gastro-oesophageal reflux,gastro oesophageal reflux,gastro-oesophageal reflux,
+gerd	gastric acid reflux,gastric acid reflux,gastric acid reflux,gastric acid reflux disease,gastro-esophageal reflux,gastro esophageal reflux,gastro-esophageal reflux,gastroesophageal reflux disease,gerd,gastroesophageal reflux,esophageal reflux,gastro-oesophageal reflux,gastro oesophageal reflux,gastro-oesophageal reflux,
 england	
 addiction	
 usda	usda,united states. dept. of agriculture,department of agriculture (u.s.),
@@ -1125,7 +1125,7 @@ jobs
 medicine	
 kelp	
 eggbeaters	
-adhd	attention deficit disorders with hyperactivity,attention deficit hyperactivity disorders,attention deficit-hyperactivity disorder,attention deficit-hyperactivity disorders,disorder, deficit-hyperactivity,disorders, deficit-hyperactivity,attention disorder,attention disorders,hyperkinetic syndrome,hyperkinetic syndromes,addh,attention deficit hyperactivity disorder,attention deficit disorder,attention deficit disorders,disorder, deficit,disorders, deficit,attention disorder,attention disorders,dysfunction, brain,minimal dysfunction,minimal brain dysfunction,
+adhd	attention deficit disorders with hyperactivity,attention deficit hyperactivity disorders,attention deficit-hyperactivity disorder,attention deficit-hyperactivity disorders,attention deficit-hyperactivity disorder,attention deficit-hyperactivity disorders,attention deficit-hyperactivity disorder,attention deficit-hyperactivity disorders,hyperkinetic syndrome,hyperkinetic syndromes,addh,attention deficit hyperactivity disorder,attention deficit disorder,attention deficit disorders,attention deficit disorder,attention deficit disorders,attention deficit disorder,attention deficit disorders,minimal brain dysfunction,minimal brain dysfunction,minimal brain dysfunction,
 fennel	
 sulforaphane	(r)- sulforaphane,methylsulfoxybutylisothiocyanate,1-isothiocyanato-4-methylsulphinylbutane,sulphoraphane,4-methylsulphinylbutyl glucosinolate,sulforaphane,
 propulcid	
@@ -1222,7 +1222,7 @@ bmi
 leukemia	
 cryptoxanthin	
 estrogen	
-mgus	gammapathies, monoclonal,benign monoclonal gammapathies,benign monoclonal gammapathy,benign gammapathies,benign gammapathy,gammapathy, monoclonal,gammopathies, monoclonal,benign monoclonal gammopathies,benign monoclonal gammopathy,benign gammopathies,benign gammopathy,gammopathy, monoclonal,monoclonal gammapathy of undetermined significance,
+mgus	benign monoclonal gammapathies,benign monoclonal gammapathies,benign monoclonal gammapathy,benign monoclonal gammapathies,benign monoclonal gammapathy,benign monoclonal gammapathy,benign monoclonal gammopathies,benign monoclonal gammopathies,benign monoclonal gammopathy,benign monoclonal gammopathies,benign monoclonal gammopathy,benign monoclonal gammopathy,monoclonal gammapathy of undetermined significance,
 anger	
 cardamom	elettarias,cardamom,cardamoms,cardamon,cardamons,amomum cardamomum,amomum cardamomums,amomum cardamomums,elettaria cardamomum,elettaria cardamomums,elettaria cardamomum,
 cance	
@@ -1234,10 +1234,10 @@ soy
 deafness	
 avocado	perseas,persea americana,persea americanas,persea americana,avocado,avocados,
 stevia	
-biomarkers	biological markers,biologic markers,biologic markers,biologic marker,biologic marker,biological marker,biological marker,biological markers,laboratory markers,laboratory markers,laboratory marker,laboratory marker,serum markers,serum markers,serum marker,serum marker,surrogate endpoints,surrogate endpoints,surrogate end points,points, end,surrogate end point,point, end,surrogate endpoint,surrogate endpoint,clinical markers,clinical markers,clinical marker,clinical marker,viral markers,viral markers,viral marker,viral marker,biochemical marker,biochemical markers,biochemical markers,biochemical marker,immunologic markers,immune markers,immune markers,immunologic marker,immunologic markers,immune marker,immune marker,immunologic marker,surrogate markers,surrogate markers,surrogate marker,surrogate marker,
+biomarkers	biological markers,biologic markers,biologic markers,biologic marker,biologic marker,biological marker,biological marker,biological markers,laboratory markers,laboratory markers,laboratory marker,laboratory marker,serum markers,serum markers,serum marker,serum marker,surrogate endpoints,surrogate endpoints,surrogate end points,surrogate end points,surrogate end point,surrogate end point,surrogate endpoint,surrogate endpoint,clinical markers,clinical markers,clinical marker,clinical marker,viral markers,viral markers,viral marker,viral marker,biochemical marker,biochemical markers,biochemical markers,biochemical marker,immunologic markers,immune markers,immune markers,immunologic marker,immunologic markers,immune marker,immune marker,immunologic marker,surrogate markers,surrogate markers,surrogate marker,surrogate marker,
 roots	
 antarctica	
-daniel	disease, residual,minimal disease,minimal diseases,minimal residual diseases,diseases, residual,residual neoplasm,residual neoplasms,residual neoplasms,disease, minimal,residual disease,residual diseases,diseases, minimal,residual minimal disease,residual minimal diseases,minimal residual disease,residual cancer,residual cancer,residual cancers,residual cancers,residual tumor,residual tumors,residual tumor,residual tumors,
+daniel	minimal residual disease,minimal residual disease,minimal residual diseases,minimal residual diseases,minimal residual diseases,residual neoplasm,residual neoplasms,residual neoplasms,residual minimal disease,residual minimal disease,residual minimal diseases,residual minimal diseases,residual minimal disease,residual minimal diseases,minimal residual disease,residual cancer,residual cancer,residual cancers,residual cancers,residual tumor,residual tumors,residual tumor,residual tumors,
 bioavailability	biological availability,biological availabilities,biological availabilities,biologic availability,physiologic availability,biologic availability,biologic availabilities,biologic availabilities,bioavailability,bioavailabilities,physiologic availability,physiologic availabilities,physiologic availabilities,availability equivalency,availability equivalencies,availability equivalencies,availability equivalency,
 pistachios	
 dyspepsia	dyspepsias,indigestion,indigestions,
@@ -1250,7 +1250,7 @@ guacamole
 candy	candies,confection,confections,
 obesogens	
 phytoestrogen	
-premarin	conjugated estrogens,hormones, estrogenic,conjugated estrogenic hormones,conjugated estrogens,substances, estrogenic,conjugated estrogenic substances,congest,conjugated equine estrogens,estrogens, equine,dagynil,oestrofeminal,oestro-feminal,oestro feminal,estro-feminal,estro feminal,premarin,climopax,climarest,presomen,progens,transannon,femavit,carentil,prelestrin,
+premarin	conjugated estrogens,conjugated estrogenic hormones,conjugated estrogenic hormones,conjugated estrogens,conjugated estrogenic substances,conjugated estrogenic substances,congest,conjugated equine estrogens,conjugated equine estrogens,dagynil,oestrofeminal,oestro-feminal,oestro feminal,estro-feminal,estro feminal,premarin,climopax,climarest,presomen,progens,transannon,femavit,carentil,prelestrin,
 egg-free	
 preservation	
 bpa	
@@ -1306,11 +1306,11 @@ copper
 iodine	
 mesothelioma	
 catechins	
-kfc	protein, kfc,
+kfc	chicken kfc protein,
 tranquilizers	
 mortality	
 thorazine	thorazine,aminazine,largactil,chlordelazine,chlorpromazine hydrochloride,chlorpromazine hydrochloride,contomin,fenactil,propaphenin,chlorazine,
-persin	1-acetyloxy-2-hydroxy-12,15-heneicosadien-4-one,(z,z)-1-acetyloxy-2-hydroxy-12,15-heneicosadien-4-one,s-(z,z)-isomer persin,r-(z,z)-isomer persin,
+persin	1-acetyloxy-2-hydroxy-12,15-heneicosadien-4-one,(z,z)-1-acetyloxy-2-hydroxy-12,15-heneicosadien-4-one,s-(z persin,r-(z persin,
 mcdonald's	
 polyphenols	
 nsrc	
@@ -1347,7 +1347,7 @@ almonds
 angiograms	angiographies,angiogram,angiograms,arteriography,arteriographies,
 bladder	
 steroids	
-hormone-disruptors	endocrine disruptors,endocrine disrupting chemicals,endocrine chemicals,endocrine disruptor effect,effect, disruptor,endocrine effect,endocrine disruptor effects,effects, disruptor,endocrine effects,
+hormone-disruptors	endocrine disruptors,endocrine disrupting chemicals,endocrine disrupting chemicals,endocrine disruptor effect,endocrine disruptor effect,endocrine disruptor effect,endocrine disruptor effects,endocrine disruptor effects,endocrine disruptor effects,
 yogurt	yoghurt,
 twinkies	
 noni	morindas,morinda citrifolia,morinda citrifolias,morinda citrifolias,noni,nonus,
@@ -1367,7 +1367,7 @@ mioscene
 lettuce	
 coma	
 hormones	
-ciguatera	ciguatera poisonings,ciguatera poisoning,ciguatera poisonings,ciguatera fish poisoning,ciguatera fish poisonings,ciguatera poisoning,ciguatera poisonings,ciguatera,
+ciguatera	ciguatera poisonings,ciguatera poisoning,ciguatera poisonings,ciguatera fish poisoning,ciguatera fish poisonings,ciguatera fish poisoning,ciguatera fish poisonings,ciguatera,
 telomeres	
 douching	
 copd	
@@ -1396,7 +1396,7 @@ corn
 cherries	
 hysterectomy	
 blackberries	rubus glaucus,andean blackberry,andean blackberries,andean blackberries,andean blackberry,rubus idaeus,raspberries,raspberry,rubus fruticosus,blackberries,blackberry,
-pro-oxidants	species, oxygen,active oxygen,active oxygen,oxygen radicals,pro-oxidants,pro oxidants,
+pro-oxidants	reactive oxygen species,active oxygen,active oxygen,oxygen radicals,pro-oxidants,pro oxidants,
 sausage	
 sandwiches	
 nori	
@@ -1409,7 +1409,7 @@ massage
 obesity	
 salmon	
 netherlands	holland,kingdom of the netherlands,sint maarten,aruba,curacao,
-zoonoses	zoonotic infectious diseases,zoonotic disease,zoonotic diseases,disease, infectious,diseases, infectious,zoonotic infectious disease,zoonotic diseases,zoonotic disease,zoonotic diseases,zoonotic disease,zoonotic infections,zoonotic infection,zoonotic infections,zoonotic infection,
+zoonoses	zoonotic infectious diseases,zoonotic infectious disease,zoonotic infectious diseases,zoonotic infectious disease,zoonotic infectious diseases,zoonotic infectious disease,zoonotic diseases,zoonotic disease,zoonotic diseases,zoonotic disease,zoonotic infections,zoonotic infection,zoonotic infections,zoonotic infection,
 lorazepam	
 licorice	
 plutonium	

@@ -62,9 +62,9 @@ public class MeshVariator {
 					for (Element element: relElements){
 						String text = element.text().toLowerCase();
 						if(text.contains(",") && text.contains(" ")){
-							String[] arr = text.split(" ");
-							String first_word = arr[1];
-							String second_word = arr[0].replaceAll(",", "");
+							String[] arr = text.split(",");
+							String first_word = arr[1].trim();
+							String second_word = arr[0].trim();
 							text = first_word.toLowerCase() + " " + second_word.toLowerCase();
 						}
 

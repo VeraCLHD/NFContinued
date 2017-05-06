@@ -77,12 +77,14 @@ public class InitialRelationsManager {
 	
 	public InitialRelationsManager(String pathToNFDump){
 		this.setPathToNFDump(pathToNFDump);
-		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
-		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
 		
 	}
 	
 	public void extractTerms(){
+		//this file still contains duplicates
+		Writer.overwriteFile("", "termsOverall.txt");
+		//this one doesn't contain duplicates
+		Writer.overwriteFile("", "all_terms.txt");
 		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
@@ -104,11 +106,7 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "initial_relations.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
-		//this file still contains duplicates
-		Writer.overwriteFile("", "termsOverall.txt");
-		//this one doesn't contain duplicates
-		Writer.overwriteFile("", "all_terms.txt");
-			
+
 			for(QueryRelationsExplorer initialExplorer: InitialRelationsManager.getExplorer()){
 				
 				initialExplorer.extractRelations();
@@ -117,7 +115,9 @@ public class InitialRelationsManager {
 				for(Relation relation: initialExplorer.getRelationsForOneText()){
 					String relations = initialExplorer.getQueryID() + "\t";
 					relations = relations + relation.getArg1() + "\t";
+					relations = relations + relation.getArg1Origin() + "\t";
 					relations = relations + relation.getArg2() + "\t";
+					relations = relations + relation.getArg2Origin() + "\t";
 					relations = relations + relation.getRel() + "\t";
 					Writer.appendLineToFile(relations, "relations_backup/initial_relations.txt" + "_" + initialExplorer.getQueryID());
 				}
@@ -144,8 +144,11 @@ public class InitialRelationsManager {
 	 */
 	public static void main(String[] args) {
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
-		//manager.doInitialExtraction();
 		manager.extractTerms();
+		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
+		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
+		manager.doInitialExtraction();
+		
 		
 	}
 

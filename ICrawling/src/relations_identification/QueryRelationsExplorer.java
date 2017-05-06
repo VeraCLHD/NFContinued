@@ -21,7 +21,7 @@ public abstract class QueryRelationsExplorer {
 	
 	private String queryID;
 	private String linkToText;
-	private List<Relation> relationsForOneText = new ArrayList<Relation>();
+	private Set<Relation> relationsForOneText = new HashSet<Relation>();
 	private List<Term> terms = new ArrayList<Term>();
 
 	private String textLower;
@@ -46,6 +46,14 @@ public abstract class QueryRelationsExplorer {
 				} else{
 					term.setCatvariations(list);
 				}
+				
+				List<String> meshList = InitialRelationsManager.getMeshTerms().get(term);
+				if(meshList == null || meshList.isEmpty()){
+					term.setMesh(new ArrayList<String>());
+				} else{
+					term.setCatvariations(meshList);
+				}
+				
 				InitialRelationsManager.getTerms().add(term);
 				InitialRelationsManager.getTermsOverall().put(topic, term.getLemma());
 				// Here a link between a query and a term is provided (contains duplicates)
@@ -65,10 +73,10 @@ public abstract class QueryRelationsExplorer {
 	public void setQueryID(String queryID) {
 		this.queryID = queryID;
 	}
-	public List<Relation> getRelationsForOneText() {
+	public Set<Relation> getRelationsForOneText() {
 		return relationsForOneText;
 	}
-	public void setRelationsForOneText(List<Relation> relationsForOneText) {
+	public void setRelationsForOneText(Set<Relation> relationsForOneText) {
 		this.relationsForOneText = relationsForOneText;
 	}
 	

@@ -16,6 +16,7 @@ public class Term {
 	private String originalTerm;
 	private String lemma;
 	private List<String> catvariations = new ArrayList<String>();
+	private List<String> mesh = new ArrayList<String>();
 	
 	private StanfordLemmatizer lemm = new StanfordLemmatizer();
 	
@@ -100,6 +101,16 @@ public class Term {
 
 	public void setLemm(StanfordLemmatizer lemm) {
 		this.lemm = lemm;
+	}
+
+
+	public List<String> getMesh() {
+		return mesh;
+	}
+
+
+	public void setMesh(List<String> mesh) {
+		this.mesh = mesh;
 	}
 
 }

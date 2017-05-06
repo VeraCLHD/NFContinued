@@ -66,6 +66,7 @@ metformin	sitagliptin phosphate, metformin hydrochloride drug combination
 cytological techniques	clinical laboratory techniques
 propylamines	amines
 attention deficit disorder with hyperactivity	attention deficit and disruptive behavior disorders
+polycyclic aromatic hydrocarbons	hydrocarbons, aromatic
 kelp	aquatic organisms
 buddhism	religion
 food	diet, food, and nutrition
@@ -133,6 +134,7 @@ asparagales	angiosperms
 bariatric surgery	bariatrics
 fatty acids	lipids
 animal population groups	animals
+ezetimibe, simvastatin drug combination	simvastatin
 trimethyltin compounds	triethyltin compounds
 asia	geographic locations
 acarbose	trisaccharides
@@ -149,12 +151,14 @@ acids, carbocyclic	carboxylic acids
 endocannabinoids	fatty acids
 stigmasterol	sitosterols
 freeze substitution	cryopreservation
+hydrocarbons, cyclic	hydrocarbons
 reproduction	reproductive physiological phenomena
 taraxacum	asteraceae
 prostate-specific antigen	proliferating cell nuclear antigen
 rutaceae	angiosperms
 foodborne diseases	poisoning
 lipids	chemicals and drugs category
+naphthalenes	polycyclic aromatic hydrocarbons
 microscopy, video	audiovisual aids
 amines	organic chemicals
 physical phenomena	phenomena and processes category
@@ -209,8 +213,8 @@ government	social sciences
 sulfones	sulfur compounds
 food industry	industry
 lamiales	angiosperms
-walk test	heart function tests
 vegetable products	vegetables
+walk test	heart function tests
 finland	scandinavian and nordic countries
 extraintestinal pathogenic escherichia coli	uropathogenic escherichia coli
 phaeophyta	stramenopiles
@@ -506,6 +510,7 @@ male urogenital diseases	diseases category
 eragrostis	poaceae
 united states national aeronautics and space administration	united states government agencies
 breast milk expression	feeding behavior
+lovastatin	ezetimibe, simvastatin drug combination
 artemisia absinthium	asteraceae
 vomiting	vomiting, anticipatory
 radioactivity	physical phenomena
@@ -556,6 +561,7 @@ vomiting, anticipatory	postoperative nausea and vomiting
 capsicum	solanaceae
 galactosemias	brain diseases, metabolic, inborn
 origanum	lamiaceae
+simvastatin	naphthalenes
 aged	adult
 psoas abscess	peritonsillar abscess
 aggression	bullying
@@ -583,6 +589,7 @@ oligosaccharides	polysaccharides
 mastectomy	surgical procedures, operative
 medicine, ayurvedic	medicine, traditional
 myristica fragrans	myristicaceae
+hydrocarbons, aromatic	hydrocarbons, cyclic
 antigens, differentiation, t-lymphocyte	antigens, differentiation, myelomonocytic
 body weight	signs and symptoms
 neoplasms by histologic type	neoplasms
