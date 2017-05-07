@@ -19,11 +19,11 @@ public class RelationsFilter {
 	public RelationsFilter() {
 		//only conjunction between both terms
 		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|appear.*\\sto|cause.*");
-		possiblePatterns.add("(,\\sand|or\\s+)*");
-		possiblePatterns.add("may\\s+be.*");
+		possiblePatterns.add("(,\\sand|or\\s\\w?\\b?)*");
+		possiblePatterns.add("may\\sbe(\\s\\w\\b){0,7}");
 		// is-a patterns
 		// example: is an active compound called ...
-		possiblePatterns.add("is\\s+.+|be\\s+.+|was\\s+.+called.+");
+		possiblePatterns.add("(is\\s+.+|be\\s+.+|was\\s+.+)called.+");
 		//bow lute, such as Bambara ndang 
 		possiblePatterns.add("such\\sas\\s\\w*\\b*(or|and)?\\s\\w*\\b*");
 		possiblePatterns.add(",\\ssuch\\sas\\s\\w*\\b*(or|and)?\\s\\w*\\b*");
@@ -68,7 +68,7 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	public static boolean startsWithVPAndShort(String candidate){
+	public static boolean startsWithVPAndNotOtherSentence(String candidate){
 		boolean result = false;
 		if(!candidate.isEmpty() && !candidate.matches("\\s")){
 			Sentence sent = new Sentence(candidate);
@@ -77,12 +77,9 @@ public class RelationsFilter {
 		   List<String> pos =  sent.posTags();
 		    if(!pos.isEmpty()){
 		    	// if the candidate starts with a verb, then it is a verbal phrase
-		    	if(pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD") == true && pos.size() > 10){
-		    		result = false;
-		    	} else{
+		    	if(pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD") == true && !candidate.contains(",")){
 		    		result = true;
 		    	}
-		    	
 			}
 		}
 	    
@@ -98,11 +95,11 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	// sometimes when searching for lemmas, only a part of the word is matched. This is already covered by term itself, so it is a duplicate.
+	// When the word is health and the match is healthy, the connection starts with "y"
 	//
-	public static boolean isLemmaDuplicate(String candidate){
+	public static boolean startsWithSingleChar(String candidate){
 		boolean result = false;
-		if(candidate.matches("s\\s.*")){
+		if(candidate.matches("\\w(,)?\\s.*")){
 			result = true;
 		}
 		
@@ -110,9 +107,11 @@ public class RelationsFilter {
 	}
 
 	public static void main(String[] args) {
-		String candidate = "s ksiss";
-		System.out.println(isLemmaDuplicate(candidate));
-
+		// need to improve patterns -> too long strings come from there
+		String candidate = "may be present by age";
+		System.out.println(candidate.matches("may\\sbe\\b%s\\b.*?"));
+		
+		// and seeds, we eat too much salt, too much processed -> and , has to apply only for single words?
 	}
 
 	public static List<String> getPossiblePatterns() {

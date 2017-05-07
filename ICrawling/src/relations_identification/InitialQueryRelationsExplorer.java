@@ -86,12 +86,12 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 								// case morphological variations
 								handleMorphoVariations(sentenceString, term1, term2);
 								
-								if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
+								/*if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
 									// case lemmas: only for single terms
 									handleLemmas(term1, term2, sentence);
 								} 
 								
-								/* These cases don't need to be handled - if a term is multiword, then only search for term itself.
+								 These cases don't need to be handled - if a term is multiword, then only search for term itself.
 								 * else if(term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
 									String caseLemma = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getLemma());
 									extractRelation(term1, term1.getOriginalTerm(), term2, term2.getLemma(), caseLemma);
@@ -201,10 +201,10 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			
 			
 			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
-			boolean vb_result = RelationsFilter.startsWithVP(candidate);
+			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(candidate);
 			// if candidate matches fixed patterns
 			if((fixed_result == true || vb_result == true || len <=10)){
-				if(!RelationsFilter.isOrStartsWithPunct(candidate) && !RelationsFilter.isLemmaDuplicate(candidate)){
+				if(!RelationsFilter.isOrStartsWithPunct(candidate) && !RelationsFilter.startsWithSingleChar(candidate)){
 					// at the level of 1 text - no duplicates, at the level of all texts - duplicates
 					this.getRelationsForOneText().add(relation);
 					
