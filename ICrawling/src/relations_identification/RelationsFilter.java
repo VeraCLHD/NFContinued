@@ -20,7 +20,7 @@ public class RelationsFilter {
 		//only conjunction between both terms
 		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|appear.*\\sto|cause.*");
 		possiblePatterns.add("(,\\sand|or\\s\\w?\\b?)*");
-		possiblePatterns.add("may\\sbe(\\s\\w\\b){0,7}");
+		possiblePatterns.add("may\\s+be.*");
 		// is-a patterns
 		// example: is an active compound called ...
 		possiblePatterns.add("(is\\s+.+|be\\s+.+|was\\s+.+)called.+");
@@ -89,13 +89,13 @@ public class RelationsFilter {
 	
 	public static boolean isOrStartsWithPunct(String candidate){
 		boolean result = false;
-		if(candidate.startsWith(",") || candidate.matches("(\\p{Punct}+)")){
+		if(candidate.startsWith("[,;]") || candidate.matches("(\\p{Punct}+)")){
 			result = true;
 		}
 		return result;
 	}
 	
-	// When the word is health and the match is healthy, the connection starts with "y"
+	// When the word is health and the match is healthy, the connection starts with y"
 	//
 	public static boolean startsWithSingleChar(String candidate){
 		boolean result = false;
@@ -107,9 +107,8 @@ public class RelationsFilter {
 	}
 
 	public static void main(String[] args) {
-		// need to improve patterns -> too long strings come from there
-		String candidate = "may be present by age";
-		System.out.println(candidate.matches("may\\sbe\\b%s\\b.*?"));
+		String candidate = "and seeds, we eat too much salt, too much processed";
+		System.out.println(candidate.matches("(,\\sand|or\\s\\w?\\b?)*"));
 		
 		// and seeds, we eat too much salt, too much processed -> and , has to apply only for single words?
 	}
