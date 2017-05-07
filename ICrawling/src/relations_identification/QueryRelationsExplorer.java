@@ -51,7 +51,7 @@ public abstract class QueryRelationsExplorer {
 				if(meshList == null || meshList.isEmpty()){
 					term.setMesh(new ArrayList<String>());
 				} else{
-					term.setCatvariations(meshList);
+					term.setMesh(meshList);
 				}
 				
 				InitialRelationsManager.getTerms().add(term);

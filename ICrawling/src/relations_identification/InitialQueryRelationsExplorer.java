@@ -68,7 +68,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		
 		for(Sentence sentence: splitter.getSentences()){
 			String sentenceString = sentence.toString();
-			List<String> lemmas = sentence.lemmas();
+			//List<String> lemmas = sentence.lemmas();
 			
 			for(Term term1: termSet){
 				for(Term term2: termSet){
@@ -151,20 +151,24 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 
 
 	private void extractRelation(Term term1, String var1, Term term2, String var2, String candidate) {
-		Relation relation = new Relation();
-		//found like this
-		relation.setArg1(var1);
-		//original term
-		relation.setArg1Origin(term1.getOriginalTerm());
-		relation.setArg2(var2);
-		relation.setArg1Origin(term2.getOriginalTerm());
-		// punctuation commented out .replaceAll("(\\p{Punct}+)","")
-		relation.setRel(candidate);
-		this.getRelationsForOneText().add(relation);
+		if(!candidate.isEmpty()){
+			Relation relation = new Relation();
+			//found like this
+			relation.setArg1(var1);
+			//original term
+			relation.setArg1Origin(term1.getOriginalTerm());
+			relation.setArg2(var2);
+			relation.setArg2Origin(term2.getOriginalTerm());
+			// punctuation commented out .replaceAll("(\\p{Punct}+)","")
+			relation.setRel(candidate);
+			// at the level of 1 text - no duplicates, at the level of all texts - duplicates
+			this.getRelationsForOneText().add(relation);
+			
+			InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
+			InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
+			// The actual relation is not yet extracted
+		}
 		
-		InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
-		InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
-		// The actual relation is not yet extracted
 	}
 	
 	private String lookForATermWordMatch(String sentenceString, String term1, String term2) {

@@ -22,7 +22,7 @@ import linguistic_processing.StanfordLemmatizer;
  */
 public class InitialRelationsManager {
 
-	private List<Relation> overallRelations = new ArrayList<Relation>();
+	private Map<Relation, Integer> overallRelations = new HashMap<Relation, Integer>();
 	private String pathToNFDump;
 	private static final String PATH_CAT_VAR = "terminology_variations_catvar.txt";
 	private static final String PATH_MESH = "mesh_variations.txt";
@@ -36,7 +36,7 @@ public class InitialRelationsManager {
 	private static Map<String,String> termsOverall = new HashMap<String,String>();
 	
 	private static Set<Term> terms = new HashSet<Term>();
-	private static Set<QueryRelationsExplorer> explorer = new HashSet<QueryRelationsExplorer>();
+	private static List<QueryRelationsExplorer> explorer = new ArrayList<QueryRelationsExplorer>();
 	
 	private static Map<String,List<String>> catVar = new HashMap<String,List<String>>();
 	private static Map<String,List<String>> meshTerms = new HashMap<String,List<String>>();
@@ -90,7 +90,7 @@ public class InitialRelationsManager {
 			if(!line.isEmpty()){
 				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
 				InitialRelationsManager.getExplorer().add(initialExplorer);
-				Writer.overwriteFile("", "relations_backup/initial_relations.txt" +"_" + initialExplorer.getQueryID());
+				Writer.overwriteFile("", "relations_backup/initial_relations" +"_" + initialExplorer.getQueryID() + ".txt" );
 			}
 		}
 		
@@ -106,11 +106,13 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "initial_relations.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
+		Writer.overwriteFile("", "all_relations.txt");
 
 			for(QueryRelationsExplorer initialExplorer: InitialRelationsManager.getExplorer()){
+				System.out.println("Query " + initialExplorer.getQueryID());
 				
 				initialExplorer.extractRelations();
-				this.getOverallRelations().addAll(initialExplorer.getRelationsForOneText());
+				
 				
 				for(Relation relation: initialExplorer.getRelationsForOneText()){
 					String relations = initialExplorer.getQueryID() + "\t";
@@ -119,7 +121,16 @@ public class InitialRelationsManager {
 					relations = relations + relation.getArg2() + "\t";
 					relations = relations + relation.getArg2Origin() + "\t";
 					relations = relations + relation.getRel() + "\t";
-					Writer.appendLineToFile(relations, "relations_backup/initial_relations.txt" + "_" + initialExplorer.getQueryID());
+					Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
+					
+					//add relation to overall relations and count frequency
+					Integer relationFrequency = this.getOverallRelations().get(relation);
+					if( relationFrequency != null){
+						this.getOverallRelations().put(relation, relationFrequency+1);
+					} else{
+						this.getOverallRelations().put(relation, 0);
+					}
+					
 				}
 				
 			}
@@ -135,6 +146,10 @@ public class InitialRelationsManager {
 		}
 		for (String termUsed: used.keySet()){
 			Writer.appendLineToFile(termUsed + "\t" + used.get(termUsed), "used_terms.txt");
+		}
+		
+		for(Relation rel: this.getOverallRelations().keySet()){
+			Writer.appendLineToFile(rel.toString() + "\t" + this.getOverallRelations().get(rel), "all_relations.txt");
 		}
 	}
 	
@@ -160,11 +175,11 @@ public class InitialRelationsManager {
 		this.pathToNFDump = pathToNFDump;
 	}
 
-	public List<Relation> getOverallRelations() {
+	public Map<Relation, Integer> getOverallRelations() {
 		return overallRelations;
 	}
 
-	public void setOverallRelations(List<Relation> overallRelations) {
+	public void setOverallRelations(Map<Relation, Integer> overallRelations) {
 		this.overallRelations = overallRelations;
 	}
 
@@ -209,12 +224,12 @@ public class InitialRelationsManager {
 	}
 
 
-	public static Set<QueryRelationsExplorer> getExplorer() {
+	public static List<QueryRelationsExplorer> getExplorer() {
 		return explorer;
 	}
 
 
-	public static void setExplorer(Set<QueryRelationsExplorer> explorer) {
+	public static void setExplorer(List<QueryRelationsExplorer> explorer) {
 		InitialRelationsManager.explorer = explorer;
 	}
 	
