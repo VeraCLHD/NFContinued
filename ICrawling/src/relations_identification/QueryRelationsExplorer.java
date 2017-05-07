@@ -52,6 +52,11 @@ public abstract class QueryRelationsExplorer {
 					term.setMesh(new ArrayList<String>());
 				} else{
 					term.setMesh(meshList);
+				} 
+				
+				// special case: a typo in the tag
+				if(topic.equals("cance")){
+					term.setOriginalTerm("cancer");
 				}
 				
 				InitialRelationsManager.getTerms().add(term);

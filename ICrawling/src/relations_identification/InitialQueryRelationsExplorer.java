@@ -32,16 +32,17 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	
 	
 	public static void main(String[] args) {
-		String str = "The coronary such as heart is la.";
+		String str = "have videos on the effects on artery function of walnuts, dark chocolate, tea,";
 		SentenceSplitter splitter = new SentenceSplitter(str);
 		
 		for(Sentence sentence: splitter.getSentences()){
+
 			System.out.println(sentence.parse());
 			for(Tree t: sentence.parse()){
 				// get constituents of leaves funktioniert nicht
 				//System.out.println("CONSTITUENTS" + t.constituents());
 				//System.out.println("PARENT " + t.parent());
-			String s = "NP < \"such as\" <NP";
+			String s = "VP";
 			TregexPattern p = TregexPattern.compile(s);
 			TregexMatcher m = p.matcher(sentence.parse());
 			while (m.find()) {
@@ -68,7 +69,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		
 		for(Sentence sentence: splitter.getSentences()){
 			String sentenceString = sentence.toString();
-			//List<String> lemmas = sentence.lemmas();
+			
 			
 			for(Term term1: termSet){
 				for(Term term2: termSet){
@@ -80,24 +81,29 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 							String stdCase = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getOriginalTerm());
 							extractRelation(term1, term1.getOriginalTerm(), term2, term2.getOriginalTerm(), stdCase);
 							
-							handleMorphoVariations(sentenceString, term1, term2);
-							if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
-								String caseLemma = lookForATermWordMatch(sentenceString, term1.getLemma(), term2.getLemma());
-								extractRelation(term1, term1.getLemma(), term2, term2.getLemma(), caseLemma);
-							} else if(term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
-								String caseLemma = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getLemma());
-								extractRelation(term1, term1.getOriginalTerm(), term2, term2.getLemma(), caseLemma);
-							} else if(!term1.getOriginalTerm().contains(" ") && term2.getOriginalTerm().contains(" ")){
-								String caseLemma = lookForATermWordMatch(sentenceString, term1.getLemma(), term2.getOriginalTerm());
-								extractRelation(term1, term1.getLemma(), term2, term2.getOriginalTerm(), caseLemma);
-							} 
+							// special case: m&m's -> is lemmatized to m which leads to many unwanted connections
+							if(!term1.getOriginalTerm().contains("&") && !term2.getOriginalTerm().contains("&")){
+								// case morphological variations
+								handleMorphoVariations(sentenceString, term1, term2);
 								
+								if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
+									// case lemmas: only for single terms
+									handleLemmas(term1, term2, sentence);
+								} 
+								
+								/* These cases don't need to be handled - if a term is multiword, then only search for term itself.
+								 * else if(term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
+									String caseLemma = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getLemma());
+									extractRelation(term1, term1.getOriginalTerm(), term2, term2.getLemma(), caseLemma);
+								} else if(!term1.getOriginalTerm().contains(" ") && term2.getOriginalTerm().contains(" ")){
+									String caseLemma = lookForATermWordMatch(sentenceString, term1.getLemma(), term2.getOriginalTerm());
+									extractRelation(term1, term1.getLemma(), term2, term2.getOriginalTerm(), caseLemma);
+								} */
+									
+								}
 							}
-							
-	 
+
 					}
-					
-					
 
 						// Here: http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
 						//This will deliver just one match and would possibly contain other terms or the term as well. Is this a problem?
@@ -110,6 +116,33 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					
 				}
 			}
+		
+		
+	}
+	
+	private void handleLemmas(Term term1, Term term2, Sentence sentence){
+		List<String> lemmas = sentence.lemmas();
+		
+		if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
+			String lemma1 = term1.getLemma();
+			String lemma2 = term2.getLemma();
+			
+			// only one connection is possible in a sentence - the first occurence of term 1 and the first of term 2
+			if(lemmas.contains(term1.getLemma()) && lemmas.contains(term2.getLemma())){
+				int index1 = lemmas.indexOf(lemma1);
+				int index2 = lemmas.indexOf(lemma2);
+				if(index1+1>index2){
+					String connection = String.join(" ", sentence.words().subList(index2+1, index1));
+					extractRelation(term1, term1.getLemma(), term2, term2.getLemma(), connection);
+				} else{
+					String connection = String.join(" ", sentence.words().subList(index1+1, index2));
+					extractRelation(term1, term1.getLemma(), term2, term2.getLemma(), connection);
+				}
+				
+			}
+			
+			
+		}
 		
 		
 	}
@@ -148,10 +181,14 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			}
 		}
 	}
-
+	
 
 	private void extractRelation(Term term1, String var1, Term term2, String var2, String candidate) {
 		if(!candidate.isEmpty()){
+			candidate = candidate.trim();
+			candidate = candidate.replaceAll("-LRB-","(");
+			candidate = candidate.replaceAll("-RRB-",")");
+			int len = candidate.split(" ").length;
 			Relation relation = new Relation();
 			//found like this
 			relation.setArg1(var1);
@@ -161,12 +198,30 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			relation.setArg2Origin(term2.getOriginalTerm());
 			// punctuation commented out .replaceAll("(\\p{Punct}+)","")
 			relation.setRel(candidate);
-			// at the level of 1 text - no duplicates, at the level of all texts - duplicates
-			this.getRelationsForOneText().add(relation);
 			
-			InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
-			InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
-			// The actual relation is not yet extracted
+			
+			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
+			boolean vb_result = RelationsFilter.startsWithVP(candidate);
+			// if candidate matches fixed patterns
+			if((fixed_result == true || vb_result == true || len <=10)){
+				if(!RelationsFilter.isOrStartsWithPunct(candidate) && !RelationsFilter.isLemmaDuplicate(candidate)){
+					// at the level of 1 text - no duplicates, at the level of all texts - duplicates
+					this.getRelationsForOneText().add(relation);
+					
+					InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
+					InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
+				}
+				
+			} else {
+				String relations = "";
+				relations = relations + relation.getArg1() + "\t";
+				relations = relations + relation.getArg1Origin() + "\t";
+				relations = relations + relation.getArg2() + "\t";
+				relations = relations + relation.getArg2Origin() + "\t";
+				relations = relations + relation.getRel() + "\t";
+				Writer.appendLineToFile(relations, "relations_backup/trash_relations.txt");
+			}
+			
 		}
 		
 	}

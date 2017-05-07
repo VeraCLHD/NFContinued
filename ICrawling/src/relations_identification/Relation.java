@@ -3,6 +3,9 @@
  */
 package relations_identification;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author Vera
  *
@@ -12,27 +15,13 @@ public class Relation {
 	private String arg1;
 	// the term2 like in text (a variation of the original term)
 	private String arg2;
-	public String getArg1Origin() {
-		return arg1Origin;
-	}
-
-	public void setArg1Origin(String arg1Origin) {
-		this.arg1Origin = arg1Origin;
-	}
-
-	public String getArg2Origin() {
-		return arg2Origin;
-	}
-
-	public void setArg2Origin(String arg2Origin) {
-		this.arg2Origin = arg2Origin;
-	}
 
 	// the original term - original term like in list of terms
 	private String arg1Origin;
 	// the term2 like in text - original term like in list of terms
 	private String arg2Origin;
 	private String rel;
+	
 	
 	/**
 	 * @param args
@@ -109,5 +98,19 @@ public class Relation {
 	public void setRel(String rel) {
 		this.rel = rel;
 	}
+	public String getArg1Origin() {
+		return arg1Origin;
+	}
 
+	public void setArg1Origin(String arg1Origin) {
+		this.arg1Origin = arg1Origin;
+	}
+
+	public String getArg2Origin() {
+		return arg2Origin;
+	}
+
+	public void setArg2Origin(String arg2Origin) {
+		this.arg2Origin = arg2Origin;
+	}
 }

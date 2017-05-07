@@ -22,7 +22,7 @@ import linguistic_processing.StanfordLemmatizer;
  */
 public class InitialRelationsManager {
 
-	private Map<Relation, Integer> overallRelations = new HashMap<Relation, Integer>();
+	private static Map<Relation, Integer> overallRelations = new HashMap<Relation, Integer>();
 	private String pathToNFDump;
 	private static final String PATH_CAT_VAR = "terminology_variations_catvar.txt";
 	private static final String PATH_MESH = "mesh_variations.txt";
@@ -40,6 +40,7 @@ public class InitialRelationsManager {
 	
 	private static Map<String,List<String>> catVar = new HashMap<String,List<String>>();
 	private static Map<String,List<String>> meshTerms = new HashMap<String,List<String>>();
+	private static RelationsFilter filter = new RelationsFilter();
 	
 	public static Map<String, String> getUnusedTerms() {
 		return unusedTerms;
@@ -107,6 +108,7 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
 		Writer.overwriteFile("", "all_relations.txt");
+		Writer.overwriteFile("", "relations_backup/trash_relations.txt");
 
 			for(QueryRelationsExplorer initialExplorer: InitialRelationsManager.getExplorer()){
 				System.out.println("Query " + initialExplorer.getQueryID());
@@ -115,21 +117,7 @@ public class InitialRelationsManager {
 				
 				
 				for(Relation relation: initialExplorer.getRelationsForOneText()){
-					String relations = initialExplorer.getQueryID() + "\t";
-					relations = relations + relation.getArg1() + "\t";
-					relations = relations + relation.getArg1Origin() + "\t";
-					relations = relations + relation.getArg2() + "\t";
-					relations = relations + relation.getArg2Origin() + "\t";
-					relations = relations + relation.getRel() + "\t";
-					Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
-					
-					//add relation to overall relations and count frequency
-					Integer relationFrequency = this.getOverallRelations().get(relation);
-					if( relationFrequency != null){
-						this.getOverallRelations().put(relation, relationFrequency+1);
-					} else{
-						this.getOverallRelations().put(relation, 0);
-					}
+					writeRelation(initialExplorer, relation);
 					
 				}
 				
@@ -148,8 +136,27 @@ public class InitialRelationsManager {
 			Writer.appendLineToFile(termUsed + "\t" + used.get(termUsed), "used_terms.txt");
 		}
 		
-		for(Relation rel: this.getOverallRelations().keySet()){
-			Writer.appendLineToFile(rel.toString() + "\t" + this.getOverallRelations().get(rel), "all_relations.txt");
+		for(Relation rel: InitialRelationsManager.getOverallRelations().keySet()){
+			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
+		}
+	}
+
+
+	private void writeRelation(QueryRelationsExplorer initialExplorer, Relation relation) {
+		String relations = initialExplorer.getQueryID() + "\t";
+		relations = relations + relation.getArg1() + "\t";
+		relations = relations + relation.getArg1Origin() + "\t";
+		relations = relations + relation.getArg2() + "\t";
+		relations = relations + relation.getArg2Origin() + "\t";
+		relations = relations + relation.getRel() + "\t";
+		Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
+		
+		//add relation to overall relations and count frequency
+		Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
+		if( relationFrequency != null){
+			InitialRelationsManager.getOverallRelations().put(relation, relationFrequency+1);
+		} else{
+			InitialRelationsManager.getOverallRelations().put(relation, 0);
 		}
 	}
 	
@@ -175,12 +182,12 @@ public class InitialRelationsManager {
 		this.pathToNFDump = pathToNFDump;
 	}
 
-	public Map<Relation, Integer> getOverallRelations() {
+	public static Map<Relation, Integer> getOverallRelations() {
 		return overallRelations;
 	}
 
-	public void setOverallRelations(Map<Relation, Integer> overallRelations) {
-		this.overallRelations = overallRelations;
+	public static void setOverallRelations(Map<Relation, Integer> overallRelations) {
+		InitialRelationsManager.overallRelations = overallRelations;
 	}
 
 
@@ -231,6 +238,16 @@ public class InitialRelationsManager {
 
 	public static void setExplorer(List<QueryRelationsExplorer> explorer) {
 		InitialRelationsManager.explorer = explorer;
+	}
+
+
+	public static RelationsFilter getFilter() {
+		return filter;
+	}
+
+
+	public static void setFilter(RelationsFilter filter) {
+		InitialRelationsManager.filter = filter;
 	}
 	
 
