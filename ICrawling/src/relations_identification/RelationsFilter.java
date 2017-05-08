@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.codehaus.plexus.util.StringUtils;
+
 import crawling_docs.DocProperties;
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
@@ -89,7 +91,8 @@ public class RelationsFilter {
 	
 	public static boolean isOrStartsWithPunct(String candidate){
 		boolean result = false;
-		if(candidate.startsWith("[,;]") || candidate.matches("(\\p{Punct}+)")){
+		;
+		if(candidate.startsWith(",") || candidate.startsWith(";") || candidate.matches("(\\p{Punct}+)")){
 			result = true;
 		}
 		return result;
@@ -109,8 +112,9 @@ public class RelationsFilter {
 	public static void main(String[] args) {
 		String candidate = "and seeds, we eat too much salt, too much processed";
 		System.out.println(candidate.matches("(,\\sand|or\\s\\w?\\b?)*"));
-		
 		// and seeds, we eat too much salt, too much processed -> and , has to apply only for single words?
+		int count = StringUtils.countMatches(candidate, "(\\p{Punct}+)");
+		System.out.println(count);
 	}
 
 	public static List<String> getPossiblePatterns() {

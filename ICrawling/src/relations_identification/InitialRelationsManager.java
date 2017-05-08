@@ -150,14 +150,6 @@ public class InitialRelationsManager {
 		relations = relations + relation.getArg2Origin() + "\t";
 		relations = relations + relation.getRel() + "\t";
 		Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
-		
-		//add relation to overall relations and count frequency
-		Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
-		if( relationFrequency != null){
-			InitialRelationsManager.getOverallRelations().put(relation, relationFrequency+1);
-		} else{
-			InitialRelationsManager.getOverallRelations().put(relation, 0);
-		}
 	}
 	
 

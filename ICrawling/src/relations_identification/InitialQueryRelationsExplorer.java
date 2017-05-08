@@ -10,6 +10,8 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.codehaus.plexus.util.StringUtils;
+
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.trees.HeadFinder;
 import edu.stanford.nlp.trees.Tree;
@@ -52,19 +54,22 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		}
 			
 		}*/
-		String candidate = "";
+		List<String> candidates = new ArrayList<String>();
 		Matcher matcher = Pattern.compile(
-		        Pattern.quote("pattern1")
-		        + "(.*?)"
-		        + Pattern.quote("pattern2")).matcher("its a string with pattern1 aleatory pattern2 things between pattern1 and pattern2 and sometimes pattern1 pattern2 nothing");
+				"\\b" +
+		        Pattern.quote("pattern1") + "\\b"
+		        + "(.*?)" +
+		        "\\b"
+		        + Pattern.quote("pattern2") + "\\b").matcher("its a string with pattern1 aleatory pattern2 things between pattern1 and pattern2 and sometimes pattern1 pattern2 nothing");
 		
 		while(matcher.find()){
 			String match = matcher.group(1);
-			candidate += match;
+			candidates.add(match);
 			
 		}
 		
-		System.out.println(candidate);
+		System.out.println(candidates);
+		System.out.println();
 		
 	}
 
@@ -211,7 +216,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	
 
 	private void extractRelation(Term term1, String var1, Term term2, String var2, String candidate) {
-		if(!candidate.isEmpty()){
+		// direct connections are ignored && !StringUtils.isBlank(" ")
+		if(!candidate.isEmpty() ){
 			candidate = processCandidate(candidate);
 			int len = candidate.split(" ").length;
 			Relation relation = new Relation();
@@ -228,7 +234,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
 			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(candidate);
 			// if longer than 10 words -> automatically filtered
-			if(len > 8){
+			if(len > 8 || RelationsFilter.isOrStartsWithPunct(candidate)){
 				String relations = "";
 				relations = relations + relation.getArg1() + "\t";
 				relations = relations + relation.getArg1Origin() + "\t";
@@ -239,13 +245,20 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			}
 			// if candidate matches fixed patterns
 			else if((fixed_result == true || vb_result == true) || len<=8){
-				if(!RelationsFilter.isOrStartsWithPunct(candidate) && !RelationsFilter.startsWithSingleChar(candidate)){
+				//&& !RelationsFilter.startsWithSingleChar(candidate)
 					// at the level of 1 text - no duplicates, at the level of all texts - duplicates
 					this.getRelationsForOneText().add(relation);
 					
+					// put relation in maps
 					InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
 					InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
-				}
+					//add relation to overall relations and count frequency
+					Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
+					if( relationFrequency != null){
+						InitialRelationsManager.getOverallRelations().put(relation, relationFrequency+1);
+					} else{
+						InitialRelationsManager.getOverallRelations().put(relation, 1);
+					}
 				
 			} else {
 				String relations = "";
@@ -270,20 +283,19 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	}
 	
 	//http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
+	//http://stackoverflow.com/questions/4769652/how-do-you-use-the-java-word-boundary-with-apostrophes
 	private List<String> lookForATermWordMatch(String sentenceString, String term1, String term2) {
 		List<String> candidates = new ArrayList<String>();
-		String candidate = "";
 		Matcher matcher = Pattern.compile(
-		        Pattern.quote("\\b"+term1+"\\b")
-		        + "(.*?)"
-		        + Pattern.quote("\\b"+term2+"\\b")).matcher(sentenceString);
+				"\\b" +
+				 Pattern.quote(term1) + "\\b"
+				 + "(.*?)" +
+				 "\\b"
+				 + Pattern.quote(term2) + "\\b").matcher(sentenceString);
 		
 		while(matcher.find()){
 			String match = matcher.group(1);
 			candidates.add(match);
-			/*if(!match.matches("(\\p{Punct}+)")){
-				
-			}*/
 			
 		}
 		return candidates;

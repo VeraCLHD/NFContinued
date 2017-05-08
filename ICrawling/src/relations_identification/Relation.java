@@ -33,7 +33,7 @@ public class Relation {
 	
 	@Override
 	public String toString(){
-		String relation = this.getArg1() + "\t" + this.getArg1Origin() + "\t" + this.getRel() + "\t" + this.getArg2() + "\t" + this.getArg2Origin();
+		String relation = this.getArg1() + "\t" + this.getArg1Origin()  + "\t" + this.getArg2() + "\t" + this.getArg2Origin() + "\t" + this.getRel();
 		return relation;
 	}
 	
