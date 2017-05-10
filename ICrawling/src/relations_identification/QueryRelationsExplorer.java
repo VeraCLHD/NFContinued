@@ -26,7 +26,7 @@ public abstract class QueryRelationsExplorer {
 
 	private String textLower;
 	private String title;
-
+	
 	
 	public void readAndInitializeQuery(String line){
 		

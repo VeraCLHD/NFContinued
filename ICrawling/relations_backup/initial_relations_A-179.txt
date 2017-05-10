@@ -1,0 +1,35 @@
+
+A-179	doctors	doctors	medicine	medicine	to embrace lifestyle	
+A-179	ama	ama	physicians	physicians	code of medical ethics,	
+A-179	statins	statins	side effects	side effects	can have	
+A-179	risk	risk	cholesterol	cholesterol	on a	
+A-179	plant-based	plant-based	diet	diet		
+A-179	mortality	mortality	morbidity	morbidity	and	
+A-179	dr. caldwell esselstyn	dr. caldwell esselstyn	american journal of cardiology	american journal of cardiology	jr. published a controversial paper in the	
+A-179	heart attack	heart attack	stroke	stroke	or	
+A-179	risk	risk	death	death	of subsequent heart attack or	
+A-179	lifestyle medicine	lifestyle medicine	doctors	doctors	: treating the cause of disease, and convincing	
+A-179	disease	disease	women	women	that is the leading killer of men and	
+A-179	physicians	physicians	informed consent	informed consent	are supposed to honor	
+A-179	heart disease	heart disease	treatment	treatment		
+A-179	physicians	physicians	nutrition	nutrition	about clinical	
+A-179	statins	statins	pain	pain	can have side effects, such as muscle	
+A-179	risk	risk	heart attack	heart attack	of subsequent	
+A-179	physicians	physicians	clinical nutrition	clinical nutrition	about	
+A-179	drugs	drugs	diet	diet	versus	
+A-179	nutrition	nutrition	medical school	medical school	training in	
+A-179	death	death	heart attack	heart attack	from a cardiovascular event such as a	
+A-179	caldwell esselstyn	caldwell esselstyn	american journal of cardiology	american journal of cardiology	jr. published a controversial paper in the	
+A-179	esselstyn	esselstyn	american journal of cardiology	american journal of cardiology	jr. published a controversial paper in the	
+A-179	doctors	doctors	diet	diet	often don’t even bring up	
+A-179	doctors	doctors	lifestyle medicine	lifestyle medicine	to embrace	
+A-179	medicine	medicine	disease	disease	: treating the cause of	
+A-179	ama	ama	medical ethics	medical ethics	code of	
+A-179	cholesterol	cholesterol	drugs	drugs	-lowering	
+A-179	liver	liver	stomach	stomach	damage, and upset	
+A-179	heart attack	heart attack	death	death	or	
+A-179	statins	statins	liver	liver	can have side effects, such as muscle pain,	
+A-179	atherosclerosis	atherosclerosis	cholesterol	cholesterol	is due to high	
+A-179	medicine	medicine	doctors	doctors	: treating the cause of disease, and convincing	
+A-179	disease	disease	treatment	treatment		
+A-179	lifestyle medicine	lifestyle medicine	disease	disease	: treating the cause of	

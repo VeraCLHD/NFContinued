@@ -37,7 +37,6 @@ public class InitialRelationsManager {
 	private static Map<String,String> termsOverall = new HashMap<String,String>();
 	
 	private static Set<Term> terms = new HashSet<Term>();
-	private static List<QueryRelationsExplorer> explorer = new ArrayList<QueryRelationsExplorer>();
 	
 	private static Map<String,List<String>> catVar = new HashMap<String,List<String>>();
 	private static Map<String,List<String>> meshTerms = new HashMap<String,List<String>>();
@@ -231,17 +230,6 @@ public class InitialRelationsManager {
 	public static void setTerms(Set<Term> terms) {
 		InitialRelationsManager.terms = terms;
 	}
-
-
-	public static List<QueryRelationsExplorer> getExplorer() {
-		return explorer;
-	}
-
-
-	public static void setExplorer(List<QueryRelationsExplorer> explorer) {
-		InitialRelationsManager.explorer = explorer;
-	}
-
 
 	public static RelationsFilter getFilter() {
 		return filter;
