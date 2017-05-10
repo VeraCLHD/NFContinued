@@ -67,9 +67,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			candidates.add(match);
 			
 		}
-		
-		System.out.println(candidates);
-		System.out.println();
+
 		
 	}
 
@@ -253,12 +251,12 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
 					InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
 					//add relation to overall relations and count frequency
-					Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
+					/*Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
 					if( relationFrequency != null){
 						InitialRelationsManager.getOverallRelations().put(relation, relationFrequency+1);
 					} else{
 						InitialRelationsManager.getOverallRelations().put(relation, 1);
-					}
+					}*/
 				
 			} else {
 				String relations = "";

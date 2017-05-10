@@ -12,6 +12,7 @@ import java.util.Set;
 
 import io.Reader;
 import io.Writer;
+import io.RunnableThread;
 import linguistic_processing.CatVariator;
 import linguistic_processing.MeshVariator;
 import linguistic_processing.StanfordLemmatizer;
@@ -90,7 +91,7 @@ public class InitialRelationsManager {
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
 				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
-				InitialRelationsManager.getExplorer().add(initialExplorer);
+				//InitialRelationsManager.getExplorer().add(initialExplorer);
 				Writer.overwriteFile("", "relations_backup/initial_relations" +"_" + initialExplorer.getQueryID() + ".txt" );
 			}
 		}
@@ -109,19 +110,28 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "unused_terms.txt");
 		Writer.overwriteFile("", "all_relations.txt");
 		Writer.overwriteFile("", "relations_backup/trash_relations.txt");
-
-			for(QueryRelationsExplorer initialExplorer: InitialRelationsManager.getExplorer()){
+		
+		//Thread th1 = new Thread(new RunnableThread(), "thread1");
+		//Thread th2 = new Thread(new RunnableThread(), "thread2");
+		
+		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
+		for (int i=0;i< linesOfDump.size();i++) {
+			String line = linesOfDump.get(i);
+			if(!line.isEmpty()){
+				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
+				//InitialRelationsManager.getExplorer().add(initialExplorer);
 				System.out.println("Query " + initialExplorer.getQueryID());
 				
 				initialExplorer.extractRelations();
-				
 				
 				for(Relation relation: initialExplorer.getRelationsForOneText()){
 					writeRelation(initialExplorer, relation);
 					
 				}
-				
 			}
+		}	
+				
+				
 		
 		// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
 		Map<String, String> used = getUsedTerms();

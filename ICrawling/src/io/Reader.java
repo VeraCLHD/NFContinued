@@ -27,6 +27,8 @@ public class Reader {
 				line = br.readLine();
 				lines.add(line);
 			}
+			
+			br.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -63,6 +65,7 @@ public class Reader {
 				String line = br.readLine();
 				content += line;
 			}
+			br.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

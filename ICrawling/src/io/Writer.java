@@ -32,6 +32,7 @@ public class Writer {
 		}
 		try (BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filename, true), "UTF-8"))) {	
 		    bw.write(s + text);
+		    bw.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}	
