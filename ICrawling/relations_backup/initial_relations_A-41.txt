@@ -1,0 +1,32 @@
+
+A-41	junk food	junk food	animal fat	animal fat	and	
+A-41	disease	disease	risk	risk		
+A-41	chronic disease	chronic disease	risk	risk		
+A-41	mortality	mortality	ischemic heart disease	ischemic heart disease	from all causes put together,	
+A-41	cancer	cancer	risk	risk		
+A-41	cancer	cancer	period	period	appearing over a seven year	
+A-41	risk	risk	diet	diet	with a healthier	
+A-41	disease	disease	diet	diet	risk with a healthier	
+A-41	mortality	mortality	colon	colon	rates of breast,	
+A-41	americans	americans	vegetarian	vegetarian	eating plant-based diets, which found	
+A-41	mortality	mortality	prostate	prostate	rates of breast, colon, and	
+A-41	china	china	cancer	cancer	to the u.s. experience a dramatic increase in	
+A-41	junk food	junk food	fat	fat	and animal	
+A-41	americans	americans	plant-based diets	plant-based diets	eating	
+A-41	sciatica	sciatica	cholesterol	cholesterol	and	
+A-41	meat	meat	risk	risk	had lower	
+A-41	heart disease	heart disease	sciatica	sciatica	starts in childhood and back in circulation:	
+A-41	meat	meat	cancer	cancer	-free diets, in addition to less	
+A-41	junk food	junk food	fruits	fruits	and animal fat, and eat more	
+A-41	cancer	cancer	diabetes	diabetes	and	
+A-41	americans	americans	plant-based	plant-based	eating	
+A-41	plant-based	plant-based	vegetarian	vegetarian	diets, which found	
+A-41	cancer	cancer	tumors	tumors	risk, but	
+A-41	mortality	mortality	disease	disease	from all causes put together, ischemic heart	
+A-41	vegetarian	vegetarian	mortality	mortality	diets to be associated with lower all-cause	
+A-41	mortality	mortality	heart disease	heart disease	from all causes put together, ischemic	
+A-41	chronic disease	chronic disease	diet	diet	risk with a healthier	
+A-41	junk food	junk food	vegetables	vegetables	and animal fat, and eat more fruits and	
+A-41	fruits	fruits	vegetables	vegetables	and	
+A-41	disease	disease	sciatica	sciatica	starts in childhood and back in circulation:	
+A-41	meat	meat	diabetes	diabetes	-free diets, in addition to less cancer and	

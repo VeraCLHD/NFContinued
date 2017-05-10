@@ -1,0 +1,35 @@
+
+A-93	dementia	dementia	alzheimer’s disease	alzheimer’s disease	in	
+A-93	meat	meat	dementia	dementia	-free, the lower the associated risk of	
+A-93	saffron	saffron	treatment	treatment	for the	
+A-93	meat	meat	red meat	red meat	—	
+A-93	chicken	chicken	chickpeas	chickpeas	masala, or chana masala, with	
+A-93	red meat	red meat	meat	meat	or white	
+A-93	plant-based diets	plant-based diets	alzheimer’s disease	alzheimer’s disease	and dementia in	
+A-93	risk	risk	disease	disease	of alzheimer’s	
+A-93	india	india	turmeric	turmeric	is generally attributed to the	
+A-93	plant-based	plant-based	alzheimer’s disease	alzheimer’s disease	diets and dementia in	
+A-93	risk	risk	dementia	dementia	of	
+A-93	risk	risk	liver	liver	of alzheimer’s disease, but stomach,	
+A-93	alzheimer’s disease	alzheimer’s disease	turmeric	turmeric	with the spice	
+A-93	red meat	red meat	white meat	white meat	or	
+A-93	anti-inflammatory	anti-inflammatory	risk	risk	drugs out there that may reduce the	
+A-93	risk	risk	kidney	kidney	of alzheimer’s disease, but stomach, liver, and	
+A-93	anti-inflammatory	anti-inflammatory	curry powder	curry powder	food like the spice, turmeric, found in	
+A-93	dementia	dementia	disease	disease	in alzheimer’s	
+A-93	meat	meat	risk	risk	-free, the lower the associated	
+A-93	anti-inflammatory	anti-inflammatory	turmeric	turmeric	food like the spice,	
+A-93	risk	risk	stomach	stomach	of alzheimer’s disease, but	
+A-93	drugs	drugs	risk	risk	out there that may reduce the	
+A-93	spices	spices	inflammation	inflammation	fight	
+A-93	plant-based	plant-based	disease	disease	diets and dementia in alzheimer’s	
+A-93	risk	risk	alzheimer’s disease	alzheimer’s disease	of	
+A-93	spices	spices	inflammation	inflammation	and	
+A-93	drugs	drugs	alzheimer’s disease	alzheimer’s disease	out there that may reduce the risk of	
+A-93	meat	meat	white meat	white meat	—red meat or	
+A-93	plant-based	plant-based	dementia	dementia	diets and	
+A-93	turmeric	turmeric	dementia	dementia	have a lower prevalence of	
+A-93	plant-based diets	plant-based diets	disease	disease	and dementia in alzheimer’s	
+A-93	anti-inflammatory	anti-inflammatory	drugs	drugs		
+A-93	plant-based diets	plant-based diets	dementia	dementia	and	
+A-93	disease	disease	turmeric	turmeric	with the spice	

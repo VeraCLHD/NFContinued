@@ -1,0 +1,123 @@
+
+A-14	wheat	wheat	brown rice	brown rice	bread or	
+A-14	grains	grains	blood	blood	may also not be good for our	
+A-14	oxford	oxford	plant-based diets	plant-based diets	-china project, rural	
+A-14	rice	rice	sugar	sugar	and	
+A-14	risk	risk	asian	asian	of type 2 diabetes, especially in	
+A-14	risk	risk	heart attack	heart attack	of diabetes,	
+A-14	rice	rice	diabetes	diabetes	is associated with lower risk of	
+A-14	sugar	sugar	rice	rice	spike when they eat white	
+A-14	grains	grains	blood pressure	blood pressure	may also not be good for our	
+A-14	diabetes	diabetes	protein	protein	rates, because animal	
+A-14	blood	blood	grains	grains	pressure (see whole	
+A-14	blood sugar	blood sugar	rice	rice	spike when they eat white	
+A-14	bread	bread	brown rice	brown rice	or	
+A-14	chinese	chinese	sugar	sugar	ethnicity get higher blood	
+A-14	whole grains	whole grains	drugs	drugs	may work as well as	
+A-14	japan	japan	obesity	obesity	has eight times less	
+A-14	china	china	rice	rice	project, rural plant-based diets centered around	
+A-14	brown rice	brown rice	diabetes	diabetes	is associated with lower risk of	
+A-14	rice	rice	risk	risk	were associated with relatively low	
+A-14	plant-based diets	plant-based diets	risk	risk	centered around rice were associated with relatively low	
+A-14	plant-based	plant-based	diabetes	diabetes	have such low	
+A-14	diabetes	diabetes	risk	risk		
+A-14	sugar	sugar	meat	meat	and add some	
+A-14	oxford	oxford	plant-based	plant-based	-china project, rural	
+A-14	whole foods	whole foods	heart attack	heart attack	that are associated with lower risk of diabetes,	
+A-14	whole foods	whole foods	risk	risk	that are associated with lower	
+A-14	diet	diet	rice	rice	composed of mostly white	
+A-14	rice	rice	diabetes	diabetes	consumption, how can we reconcile that with low	
+A-14	diet	diet	sugar	sugar	composed of mostly white rice and	
+A-14	protein	protein	diabetes	diabetes	and fat consumption associated with increased	
+A-14	risk	risk	heart attack	heart attack	of	
+A-14	animal protein	animal protein	rice	rice	is making the	
+A-14	oxford	oxford	rice	rice	-china project, rural plant-based diets centered around	
+A-14	fruit	fruit	risk	risk	is associated with lower	
+A-14	protein	protein	risk	risk	and fat consumption associated with increased diabetes	
+A-14	plant-based	plant-based	animal protein	animal protein	have such low diabetes rates, because	
+A-14	plant-based	plant-based	rice	rice	diets centered around	
+A-14	japan	japan	china	china	and	
+A-14	brown rice	brown rice	risk	risk	is associated with lower	
+A-14	japan	japan	diabetes	diabetes	and china associate white rice intake with	
+A-14	heart attack	heart attack	stroke	stroke	or	
+A-14	diabetes	diabetes	animal protein	animal protein	rates, because	
+A-14	sugar	sugar	water	water		
+A-14	meat	meat	carbs	carbs	to	
+A-14	bread	bread	risk	risk	or brown rice is associated with lower	
+A-14	chinese	chinese	ethnicity	ethnicity		
+A-14	china	china	plant-based	plant-based	project, rural	
+A-14	glucose	glucose	diabetes	diabetes	challenge test to test for	
+A-14	wheat	wheat	bread	bread		
+A-14	fat	fat	risk	risk	consumption associated with increased diabetes	
+A-14	bread	bread	rice	rice	or brown	
+A-14	japan	japan	rice	rice	has been linked to white	
+A-14	whole wheat	whole wheat	bread	bread		
+A-14	china	china	japan	japan	and	
+A-14	china	china	stroke	stroke	suggested a connection with	
+A-14	rice	rice	risk	risk	is associated with lower	
+A-14	risk	risk	diabetes	diabetes	of	
+A-14	rice	rice	animal products	animal products	consumption was going down; so, maybe it’s the	
+A-14	blood pressure	blood pressure	grains	grains	(see whole	
+A-14	risk	risk	stroke	stroke	of heart attack or	
+A-14	diabetes	diabetes	insulin	insulin	rates, because animal protein can markedly potentiate the	
+A-14	blood	blood	rice	rice	sugar spike when they eat white	
+A-14	diabetes	diabetes	china	china	epidemic in	
+A-14	cornell	cornell	plant-based diets	plant-based diets	-oxford-china project, rural	
+A-14	chinese	chinese	blood	blood	ethnicity get higher	
+A-14	plant-based	plant-based	protein	protein	have such low diabetes rates, because animal	
+A-14	cornell	cornell	rice	rice	-oxford-china project, rural plant-based diets centered around	
+A-14	plant-based diets	plant-based diets	rice	rice	centered around	
+A-14	whole wheat	whole wheat	risk	risk	bread or brown rice is associated with lower	
+A-14	cornell	cornell	china	china	-oxford-	
+A-14	china	china	diabetes	diabetes	associate white rice intake with	
+A-14	china	china	plant-based diets	plant-based diets	project, rural	
+A-14	cornell	cornell	plant-based	plant-based	-oxford-china project, rural	
+A-14	diabetes	diabetes	rice	rice	rates were skyrocketing,	
+A-14	protein	protein	rice	rice	is making the	
+A-14	rice	rice	diabetes	diabetes	intake with	
+A-14	tuna	tuna	fish	fish		
+A-14	protein	protein	insulin	insulin	can markedly potentiate the	
+A-14	how not to die	how not to die	diabetes	diabetes	from	
+A-14	diabetes	diabetes	japan	japan	epidemic in china and	
+A-14	ethnicity	ethnicity	blood	blood	get higher	
+A-14	japan	japan	rice	rice	and china associate white	
+A-14	risk	risk	juice	juice	of diabetes, whereas eating fruit processed into	
+A-14	risk	risk	stroke	stroke	of diabetes, heart attack,	
+A-14	ethnicity	ethnicity	blood sugar	blood sugar	get higher	
+A-14	animal protein	animal protein	risk	risk	and fat consumption associated with increased diabetes	
+A-14	china	china	rice	rice	associate white	
+A-14	chinese	chinese	blood sugar	blood sugar	ethnicity get higher	
+A-14	rice	rice	diet	diet		
+A-14	blood pressure	blood pressure	drugs	drugs	(see whole grains may work as well as	
+A-14	brown rice	brown rice	rice	rice	is better than white	
+A-14	juice	juice	diabetes	diabetes	may not just be neutral, but actually increases	
+A-14	whole foods	whole foods	diabetes	diabetes	that are associated with lower risk of	
+A-14	wheat	wheat	risk	risk	bread or brown rice is associated with lower	
+A-14	tuna	tuna	carbs	carbs	doesn’t have any	
+A-14	risk	risk	fruit	fruit	of diabetes, whereas eating	
+A-14	protein	protein	carbs	carbs	exacerbation of the effect of refined	
+A-14	diabetes	diabetes	china	china	rates in	
+A-14	risk	risk	weight gain	weight gain	of diabetes, heart attack, stroke, and	
+A-14	whole wheat	whole wheat	brown rice	brown rice	bread or	
+A-14	rice	rice	risk	risk	was associated with an 11% increase in	
+A-14	obesity	obesity	china	china	in	
+A-14	fat	fat	diabetes	diabetes	consumption associated with increased	
+A-14	risk	risk	diabetes	diabetes	of type 2	
+A-14	risk	risk	rice	rice	of diabetes, whereas eating white	
+A-14	ethnicity	ethnicity	sugar	sugar	get higher blood	
+A-14	tuna	tuna	sugar	sugar	doesn’t have any carbs,	
+A-14	risk	risk	diabetes	diabetes	of the so-called diseases of affluence, which include	
+A-14	wheat	wheat	rice	rice	bread or brown	
+A-14	china	china	diabetes	diabetes	has almost the same	
+A-14	animal protein	animal protein	diabetes	diabetes	and fat consumption associated with increased	
+A-14	animal protein	animal protein	fat	fat	and	
+A-14	fruit	fruit	diabetes	diabetes	is associated with lower risk of	
+A-14	blood	blood	whole grains	whole grains	pressure (see	
+A-14	whole wheat	whole wheat	rice	rice	bread or brown	
+A-14	protein	protein	fat	fat	and	
+A-14	china	china	rice	rice	and japan has been linked to white	
+A-14	pork	pork	rice	rice	consumption went up 40%, and	
+A-14	animal protein	animal protein	insulin	insulin	can markedly potentiate the	
+A-14	animal products	animal products	junk food	junk food	and	
+A-14	blood pressure	blood pressure	whole grains	whole grains	(see	
+A-14	blood	blood	sugar	sugar		

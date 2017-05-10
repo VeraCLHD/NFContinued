@@ -1,0 +1,36 @@
+
+A-102	pork	pork	drugs	drugs	producers are currently permitted to use 29 antibiotic	
+A-102	cdc	cdc	health	health	warn of a coming	
+A-102	bacteria	bacteria	travel	travel	can become resistant to the drugs, then	
+A-102	medicine	medicine	surgery	surgery	that we today take for granted, such as	
+A-102	antimicrobial drugs	antimicrobial drugs	united states	united states	in the	
+A-102	shock	shock	meat	meat	me that the	
+A-102	infections	infections	food industry	food industry	of food preparers in the	
+A-102	fda	fda	united states	united states	reports that 80% of antimicrobial drugs in the	
+A-102	doctors	doctors	antibiotics	antibiotics	overprescribe	
+A-102	meat	meat	infections	infections	may serve as a possible source of bacterial	
+A-102	mrsa	mrsa	raw	raw	present in retail	
+A-102	infections	infections	united states	united states	in the	
+A-102	drugs	drugs	agriculture	agriculture	are being used extensively in animal	
+A-102	shock	shock	meat industry	meat industry	me that the	
+A-102	raw	raw	pork	pork		
+A-102	travel	travel	meat	meat	on	
+A-102	health	health	antibiotics	antibiotics	organization, more	
+A-102	mrsa	mrsa	meat	meat	superbugs in	
+A-102	mrsa	mrsa	meat	meat	gets into our homes on	
+A-102	fda	fda	antimicrobial drugs	antimicrobial drugs	reports that 80% of	
+A-102	mrsa	mrsa	superbugs	superbugs		
+A-102	surgery	surgery	treatment	treatment	and the	
+A-102	fda	fda	drugs	drugs	reports that 80% of antimicrobial	
+A-102	treatment	treatment	babies	babies	of preterm	
+A-102	bacteria	bacteria	health	health	are developing antimicrobial resistance, which affects human	
+A-102	antibiotics	antibiotics	health	health	have become pivotal in safeguarding the overall	
+A-102	antibiotics	antibiotics	pigs	pigs	are currently added to about 90% of	
+A-102	superbugs	superbugs	meat	meat	in	
+A-102	fish	fish	agriculture	agriculture	farming and other intensive animal	
+A-102	bacteria	bacteria	drugs	drugs	can become resistant to the	
+A-102	raw	raw	meat	meat		
+A-102	mrsa	mrsa	meat	meat	present in retail raw	
+A-102	drugs	drugs	united states	united states	in the	
+A-102	bacteria	bacteria	mrsa	mrsa	like methicillin-resistant staph aureus, or	
+A-102	surgery	surgery	babies	babies	and the treatment of preterm	

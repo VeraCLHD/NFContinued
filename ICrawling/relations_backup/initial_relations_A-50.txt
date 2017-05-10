@@ -1,0 +1,97 @@
+
+A-50	risk	risk	cancer	cancer	of early puberty in girls and endometrial	
+A-50	children	children	women	women	or pregnant	
+A-50	postmenopausal	postmenopausal	women	women		
+A-50	xenoestrogens	xenoestrogens	hormones	hormones	–how do they compare with the natural	
+A-50	cancer	cancer	postmenopausal	postmenopausal	in	
+A-50	milk	milk	children	children	: then, for young	
+A-50	ama	ama	children	children	’s pediatrics journal, the chair of boston	
+A-50	physicians	physicians	women	women	underestimate the negative consequences of multiple pregnancy, but	
+A-50	estrogen	estrogen	eggs	eggs	in meat, dairy, and	
+A-50	women	women	plant-based	plant-based	eating	
+A-50	women	women	twins	twins	have 5x fewer	
+A-50	pregnant	pregnant	women	women		
+A-50	children	children	pregnant women	pregnant women	or	
+A-50	dairy	dairy	hormones	hormones	products are an important source of	
+A-50	obesity	obesity	harvard	harvard	prevention center along with the chair of	
+A-50	ama	ama	boston	boston	’s pediatrics journal, the chair of	
+A-50	children	children	pregnant	pregnant	or	
+A-50	dairy	dairy	milk	milk		
+A-50	vegan	vegan	women	women		
+A-50	estrogen	estrogen	dairy	dairy	in meat,	
+A-50	dairy	dairy	children	children	industry recommendations that	
+A-50	children	children	obesity	obesity	’s hospital’s	
+A-50	vegetarians	vegetarians	omnivores	omnivores	and	
+A-50	children	children	prevention	prevention	’s hospital’s obesity	
+A-50	hormones	hormones	milk	milk	naturally found even in organic cow’s	
+A-50	pediatrics	pediatrics	obesity	obesity	journal, the chair of boston children’s hospital’s	
+A-50	hormones	hormones	organic	organic	naturally found even in	
+A-50	boston	boston	obesity	obesity	children’s hospital’s	
+A-50	pediatrics	pediatrics	children	children	journal, the chair of boston	
+A-50	obesity	obesity	prevention	prevention		
+A-50	dairy cows	dairy cows	milk	milk	in active	
+A-50	pediatrics	pediatrics	prevention	prevention	journal, the chair of boston children’s hospital’s obesity	
+A-50	organic	organic	milk	milk	cow’s	
+A-50	milk	milk	insulin-like growth factor 1	insulin-like growth factor 1	consumption increases serum concentrations of	
+A-50	women	women	dairy	dairy	attempting conception should avoid milk and	
+A-50	harvard	harvard	dairy	dairy	’s nutrition department questioned 	
+A-50	cows	cows	steroids	steroids	excrete significantly higher levels of sex	
+A-50	milk	milk	young children	young children	: then, for	
+A-50	endometrial cancer	endometrial cancer	women	women	in postmenopausal	
+A-50	dairy	dairy	pregnancy	pregnancy	products from	
+A-50	ama	ama	pediatrics	pediatrics	’s	
+A-50	estrogen	estrogen	fertility	fertility	and male	
+A-50	children	children	steroids	steroids	are highly sensitive to sex	
+A-50	women	women	vegan	vegan	eating plant-based diets,	
+A-50	plant-based	plant-based	vegan	vegan	diets,	
+A-50	dairy	dairy	cows	cows		
+A-50	dairy	dairy	acne	acne	products and human illnesses, such as	
+A-50	risk	risk	endometrial cancer	endometrial cancer	of early puberty in girls and	
+A-50	puberty	puberty	postmenopausal	postmenopausal	in girls and endometrial cancer in	
+A-50	steroids	steroids	milk	milk	into their	
+A-50	milk	milk	dairy	dairy	and	
+A-50	women	women	pregnancy	pregnancy	with a multiple	
+A-50	vegan	vegan	children	children	women have 5x fewer twins, you can see that	
+A-50	constipation	constipation	pregnancy	pregnancy	and cow’s milk here’s a selection of other	
+A-50	estrogen	estrogen	meat	meat	in	
+A-50	children	children	steroids	steroids	to exogenous sex	
+A-50	pregnant	pregnant	steroids	steroids	cows excrete significantly higher levels of sex	
+A-50	risk	risk	puberty	puberty	of early	
+A-50	harvard	harvard	nutrition	nutrition	’s	
+A-50	dairy	dairy	milk	milk	cows in active	
+A-50	milk	milk	insulin	insulin	consumption increases serum concentrations of	
+A-50	obesity	obesity	nutrition	nutrition	prevention center along with the chair of harvard’s	
+A-50	milk	milk	risk	risk	consumption has also been associated with an increased	
+A-50	constipation	constipation	milk	milk	and cow’s	
+A-50	young children	young children	women	women	or pregnant	
+A-50	nutrition	nutrition	children	children	department questioned dairy industry recommendations that	
+A-50	lead	lead	metabolism	metabolism	to major changes in the	
+A-50	pregnant	pregnant	cows	cows		
+A-50	vegan	vegan	twins	twins	women have 5x fewer	
+A-50	prevention	prevention	harvard	harvard	center along with the chair of	
+A-50	puberty	puberty	endometrial cancer	endometrial cancer	in girls and	
+A-50	puberty	puberty	women	women	in girls and endometrial cancer in postmenopausal	
+A-50	puberty	puberty	cancer	cancer	in girls and endometrial	
+A-50	young children	young children	pregnant women	pregnant women	or	
+A-50	women	women	children	children	have 5x fewer twins, you can see that	
+A-50	steroids	steroids	cows	cows	into their milk than non-pregnant	
+A-50	women	women	plant-based diets	plant-based diets	eating	
+A-50	harvard	harvard	children	children	’s nutrition department questioned dairy industry recommendations that	
+A-50	young children	young children	pregnant	pregnant	or	
+A-50	milk	milk	cows	cows	than non-pregnant	
+A-50	plant-based	plant-based	women	women	diets, vegan	
+A-50	physicians	physicians	pregnancy	pregnancy	underestimate the negative consequences of multiple	
+A-50	milk	milk	dairy	dairy	: then, for young children,	
+A-50	women	women	milk	milk	attempting conception should avoid	
+A-50	dairy	dairy	constipation	constipation	can sometimes cause another problem: childhood	
+A-50	steroids	steroids	pregnant	pregnant	into their milk than non-	
+A-50	boston	boston	children	children		
+A-50	boston	boston	prevention	prevention	children’s hospital’s obesity	
+A-50	cows	cows	milk	milk	in active	
+A-50	cancer	cancer	women	women	in postmenopausal	
+A-50	pediatrics	pediatrics	boston	boston	journal, the chair of	
+A-50	insulin	insulin	prostate	prostate	-like growth factor 1, which is linked to	
+A-50	prevention	prevention	nutrition	nutrition	center along with the chair of harvard’s	
+A-50	milk	milk	pregnant	pregnant	than non-	
+A-50	endometrial cancer	endometrial cancer	postmenopausal	postmenopausal	in	
+A-50	nutrition	nutrition	dairy	dairy	department questioned 	

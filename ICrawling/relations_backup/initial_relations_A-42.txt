@@ -1,0 +1,71 @@
+
+A-42	raisins	raisins	coca-cola	coca-cola	caused less of a blood sugar spike than	
+A-42	grapes	grapes	raisins	raisins	or	
+A-42	fruit	fruit	candy	candy	rather than on	
+A-42	kids	kids	fruit	fruit	to eat their fruits and veggies: more dried	
+A-42	pizza	pizza	calories	calories		
+A-42	fruits	fruits	fruit	fruit	and veggies: more dried	
+A-42	sugar	sugar	cola	cola	spike than coca-	
+A-42	raisins	raisins	snacks	snacks	good	
+A-42	fruit	fruit	cheese	cheese	and the meal is a pepperoni and three	
+A-42	raisins	raisins	children	children	lowers cumulative food intake in young	
+A-42	cheese	cheese	appetite	appetite	pizza, the more we can ruin their	
+A-42	calories	calories	raisins	raisins	are better than pizza calories, but when given	
+A-42	raisins	raisins	cookies	cookies	to chips and	
+A-42	sugar	sugar	candy	candy	spike than coca-cola and	
+A-42	health	health	dried fruit	dried fruit	benefits, but	
+A-42	sugar	sugar	coca-cola	coca-cola	spike than	
+A-42	potato chips	potato chips	chocolate	chocolate	and	
+A-42	raisins	raisins	blood	blood	may reduce	
+A-42	raisins	raisins	chocolate	chocolate	to potato chips and	
+A-42	calories	calories	pizza	pizza	are better than	
+A-42	grapes	grapes	calories	calories	before the meal, they ate 128	
+A-42	kids	kids	dried fruit	dried fruit	to eat their fruits and veggies: more	
+A-42	women	women	raisins	raisins	were assigned to consume a cup of	
+A-42	kids	kids	fruits	fruits	to eat their	
+A-42	cola	cola	candy	candy	and	
+A-42	raisins	raisins	potato chips	potato chips	to	
+A-42	kids	kids	snacks	snacks	eat	
+A-42	blood	blood	candy	candy	sugar spike than coca-cola and	
+A-42	coca-cola	coca-cola	candy	candy	and	
+A-42	pizza	pizza	calories	calories	that they ate fewer	
+A-42	fruit	fruit	calories	calories	is higher in	
+A-42	dried fruit	dried fruit	mango	mango	studies (my fave is dried	
+A-42	kids	kids	raisins	raisins		
+A-42	blood sugar	blood sugar	candy	candy	spike than coca-cola and	
+A-42	raisins	raisins	cookies	cookies	to potato chips and chocolate chip	
+A-42	cheese	cheese	pizza	pizza		
+A-42	blood	blood	coca-cola	coca-cola	sugar spike than	
+A-42	blood	blood	cookies	cookies	sugar levels… compared to fudge	
+A-42	raisins	raisins	blood sugar	blood sugar	caused less of a	
+A-42	fruits	fruits	dried fruit	dried fruit	and veggies: more	
+A-42	health	health	fruit	fruit	benefits, but dried	
+A-42	kids	kids	cookies	cookies	raisins, grapes, chips or	
+A-42	variety	variety	fruit	fruit	of health benefits, but dried	
+A-42	california	california	marketing	marketing	raisin	
+A-42	blood	blood	cola	cola	sugar spike than coca-	
+A-42	variety	variety	dried fruit	dried fruit	of health benefits, but	
+A-42	raisins	raisins	cookies	cookies	may reduce blood sugar levels… compared to fudge	
+A-42	health	health	calories	calories	benefits, but dried fruit is higher in	
+A-42	dried fruit	dried fruit	calories	calories	is higher in	
+A-42	snacks	snacks	kids	kids	for	
+A-42	blood sugar	blood sugar	cookies	cookies	levels… compared to fudge	
+A-42	raisins	raisins	sugar	sugar	may reduce blood	
+A-42	raisins	raisins	sugar	sugar	caused less of a blood	
+A-42	raisins	raisins	kids	kids	good snacks for	
+A-42	raisins	raisins	young children	young children	lowers cumulative food intake in	
+A-42	raisins	raisins	blood	blood	caused less of a	
+A-42	variety	variety	health	health	of	
+A-42	kids	kids	grapes	grapes	raisins,	
+A-42	calories	calories	pizza	pizza	worth of	
+A-42	fruit	fruit	mango	mango	studies (my fave is dried	
+A-42	pizza	pizza	raisins	raisins	calories, but when given	
+A-42	calories	calories	grapes	grapes	of	
+A-42	blood sugar	blood sugar	coca-cola	coca-cola	spike than	
+A-42	potato chips	potato chips	cookies	cookies	and chocolate chip	
+A-42	chocolate	chocolate	cookies	cookies	chip	
+A-42	raisins	raisins	calories	calories	instead, they ate even more snack	
+A-42	sugar	sugar	cookies	cookies	levels… compared to fudge	
+A-42	blood sugar	blood sugar	cola	cola	spike than coca-	
+A-42	raisins	raisins	blood sugar	blood sugar	may reduce	
+A-42	blood	blood	sugar	sugar		

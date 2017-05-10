@@ -1,0 +1,56 @@
+
+A-146	vegans	vegans	protein	protein	average 70% more	
+A-146	cancer	cancer	a/v ratio	a/v ratio	survival: the	
+A-146	vegetarians	vegetarians	protein	protein	get enough	
+A-146	meat	meat	fish	fish	except	
+A-146	disease	disease	health	health	prevention, optimal	
+A-146	risk	risk	syndrome	syndrome	of diabetes, metabolic	
+A-146	risk	risk	disease	disease	of diabetes, metabolic syndrome, cardiovascular	
+A-146	americans	americans	vegetables	vegetables	should be eating more beans,	
+A-146	nutrient-dense	nutrient-dense	weight management	weight management	approach to	
+A-146	plant-based	plant-based	diet	diet		
+A-146	steak	steak	fiber	fiber	is a significant	
+A-146	americans	americans	fiber	fiber	think steak is a significant	
+A-146	americans	americans	fiber	fiber	may be more deficient in than	
+A-146	prostate	prostate	cancer	cancer		
+A-146	risk	risk	cardiovascular disease	cardiovascular disease	of diabetes, metabolic syndrome,	
+A-146	prostate	prostate	cancer survival	cancer survival		
+A-146	fiber	fiber	plants	plants	is only found in	
+A-146	diet	diet	plant-based diet	plant-based diet	indexing systems consistently indicate that the most	
+A-146	plant protein	plant protein	prostate	prostate	preferable and	
+A-146	americans	americans	meat	meat	eating	
+A-146	vegetarians	vegetarians	vegans	vegans	and	
+A-146	animal protein	animal protein	protein	protein	higher quality	
+A-146	americans	americans	steak	steak	think	
+A-146	dairy	dairy	junk food	junk food	or eggs, and little or no fiber in	
+A-146	fiber	fiber	meat	meat	in	
+A-146	diet	diet	plant-based	plant-based	indexing systems consistently indicate that the most	
+A-146	fiber	fiber	potassium	potassium	is	
+A-146	dairy	dairy	eggs	eggs	or	
+A-146	americans	americans	potassium	potassium	may be more deficient in than fiber is	
+A-146	fiber	fiber	eggs	eggs	in meat, dairy or	
+A-146	americans	americans	fiber	fiber	get even the recommended minimum adequate intake of	
+A-146	disease	disease	prevention	prevention		
+A-146	cancer survival	cancer survival	a/v ratio	a/v ratio	: the	
+A-146	plant protein	plant protein	cancer survival	cancer survival	preferable and prostate	
+A-146	vegetarian	vegetarian	meat	meat	most of the time), and 5,000 pescetarians (no	
+A-146	plant protein	plant protein	cancer	cancer	preferable and prostate	
+A-146	plant protein	plant protein	a/v ratio	a/v ratio	preferable and prostate cancer survival: the	
+A-146	prostate cancer	prostate cancer	a/v ratio	a/v ratio	survival: the	
+A-146	americans	americans	protein	protein	get enough	
+A-146	vegan	vegan	vegetarian	vegetarian	versus	
+A-146	plant protein	plant protein	prostate cancer	prostate cancer	preferable and	
+A-146	risk	risk	metabolic syndrome	metabolic syndrome	of diabetes,	
+A-146	americans	americans	whole grains	whole grains	should be eating more beans, vegetables, fruits, and	
+A-146	fiber	fiber	dairy	dairy	in meat,	
+A-146	prostate	prostate	a/v ratio	a/v ratio	cancer survival: the	
+A-146	vegetarians	vegetarians	fiber	fiber	make the	
+A-146	americans	americans	fruits	fruits	should be eating more beans, vegetables,	
+A-146	standard american diet	standard american diet	diet	diet	is, see nation’s	
+A-146	americans	americans	beans	beans	don’t eat the minimum recommended daily amount of	
+A-146	dairy	dairy	fiber	fiber	or eggs, and little or no	
+A-146	americans	americans	beans	beans	should be eating more	
+A-146	vegetarians	vegetarians	meat	meat	get enough protein,	
+A-146	risk	risk	obesity	obesity	of diabetes, metabolic syndrome, cardiovascular disease,	
+A-146	vegetarians	vegetarians	protein	protein	and vegans average 70% more	
+A-146	risk	risk	diabetes	diabetes	of	

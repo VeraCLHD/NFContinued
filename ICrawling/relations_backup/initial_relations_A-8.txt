@@ -1,0 +1,42 @@
+
+A-8	harvard	harvard	health	health		
+A-8	blood	blood	triglycerides	triglycerides	pressure or	
+A-8	blueberries	blueberries	breakfast cereal	breakfast cereal	with a sugary	
+A-8	fructose	fructose	blood	blood	may actually benefit	
+A-8	blood pressure	blood pressure	triglycerides	triglycerides	or	
+A-8	diet	diet	fiber	fiber	with a high intake of	
+A-8	bowel movements	bowel movements	dietary intervention	dietary intervention	apparently ever documented in a	
+A-8	fructose	fructose	fruit	fruit	is bad, what about	
+A-8	blueberries	blueberries	breakfast	breakfast	with a sugary	
+A-8	diet	diet	fruit	fruit	with a high intake of fiber-rich food, including	
+A-8	cancer	cancer	risk	risk		
+A-8	antioxidant	antioxidant	breakfast	breakfast	benefits after eating blueberries with a sugary	
+A-8	antioxidant	antioxidant	blueberries	blueberries	benefits after eating	
+A-8	fructose	fructose	blood sugar	blood sugar	may actually benefit	
+A-8	fructose	fructose	sugar	sugar	in added sugars, see how much added	
+A-8	antioxidant	antioxidant	breakfast cereal	breakfast cereal	benefits after eating blueberries with a sugary	
+A-8	corn	corn	berries	berries	flakes with no	
+A-8	fiber	fiber	antioxidants	antioxidants	-rich food, including fruit, because they’re so healthy—	
+A-8	fruit	fruit	diet	diet	a day	
+A-8	health	health	sugar	sugar	professionals have concerns about the	
+A-8	sugar	sugar	fruit	fruit	content of	
+A-8	cans	cans	soda	soda	of	
+A-8	fiber	fiber	fruit	fruit	-rich food, including	
+A-8	fiber	fiber	anti-inflammatory	anti-inflammatory	-rich food, including fruit, because they’re so healthy—antioxidants,	
+A-8	health	health	sugar	sugar	letter, “the nutritional problems of fructose and	
+A-8	ldl	ldl	cholesterol	cholesterol		
+A-8	fructose	fructose	cans	cans	content of this diet, presumably about 200 g/d—eight	
+A-8	blueberries	blueberries	cereal	cereal	with a sugary breakfast	
+A-8	fructose	fructose	diet	diet	content of this	
+A-8	antioxidant	antioxidant	cereal	cereal	benefits after eating blueberries with a sugary breakfast	
+A-8	fructose	fructose	sugar	sugar	and	
+A-8	health	health	fructose	fructose	letter, “the nutritional problems of	
+A-8	diabetes	diabetes	sugar	sugar	than	
+A-8	breakfast	breakfast	cereal	cereal		
+A-8	harvard	harvard	sugar	sugar	health letter, “the nutritional problems of fructose and	
+A-8	harvard	harvard	fructose	fructose	health letter, “the nutritional problems of	
+A-8	health	health	fruit	fruit	professionals have concerns about the sugar content of	
+A-8	vegetables	vegetables	fruit	fruit	they had on top of all that	
+A-8	fructose	fructose	sugar	sugar	may actually benefit blood	
+A-8	blood	blood	sugar	sugar		
+A-8	blood	blood	insulin	insulin	pressure, and	

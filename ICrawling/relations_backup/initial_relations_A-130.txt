@@ -1,0 +1,47 @@
+
+A-130	cooking	cooking	vegetables	vegetables	methods for other	
+A-130	baking	baking	sweet potatoes	sweet potatoes	or roasting, so boiled	
+A-130	baking	baking	boiled	boiled	or roasting, so	
+A-130	boiling	boiling	cooking	cooking	rather than baking should be recommended for	
+A-130	microwaving	microwaving	boiling	boiling	or	
+A-130	toxins	toxins	bacon	bacon	and carcinogens in the smell of frying	
+A-130	sweet potatoes	sweet potatoes	cancer	cancer	(see anti-	
+A-130	carcinogens	carcinogens	bacon	bacon	in the smell of frying	
+A-130	antioxidant	antioxidant	steaming	steaming	power of sweet potatoes, compared to roasting and	
+A-130	antioxidant	antioxidant	sweet potatoes	sweet potatoes	power of	
+A-130	boiled	boiled	potatoes	potatoes	sweet	
+A-130	antioxidant	antioxidant	potatoes	potatoes	power of sweet	
+A-130	cancer	cancer	risk	risk		
+A-130	boiled	boiled	sweet potatoes	sweet potatoes		
+A-130	cancer	cancer	cancer	cancer	fighting properties of sweet potatoes (see anti-	
+A-130	lead	lead	acrylamide	acrylamide	to the formation of	
+A-130	sweet potatoes	sweet potatoes	baking	baking	was found to be about half that of	
+A-130	glycemic index	glycemic index	potatoes	potatoes	of boiled sweet	
+A-130	potatoes	potatoes	baking	baking	was found to be about half that of	
+A-130	cancer	cancer	french fries	french fries	risk from	
+A-130	beta carotene	beta carotene	blood	blood	in the	
+A-130	baking	baking	potatoes	potatoes	or roasting, so boiled sweet	
+A-130	roasting	roasting	steaming	steaming	and	
+A-130	frying	frying	toxins	toxins	in general might not be good, deep frying	
+A-130	boiling	boiling	antioxidant	antioxidant	may actually retain most of the	
+A-130	glycemic index	glycemic index	boiled	boiled	of	
+A-130	baking	baking	cooking	cooking	should be recommended for	
+A-130	baking	baking	boiling	boiling	to	
+A-130	glycemic index	glycemic index	sweet potatoes	sweet potatoes	of boiled	
+A-130	boiling	boiling	baking	baking	rather than	
+A-130	cancer	cancer	sweet potatoes	sweet potatoes	fighting properties of	
+A-130	baking	baking	vitamin a	vitamin a	can also cause an 80% drop in	
+A-130	potatoes	potatoes	cancer	cancer	(see anti-	
+A-130	baking	baking	roasting	roasting	or	
+A-130	cancer	cancer	potatoes	potatoes	fighting properties of sweet	
+A-130	lead	lead	carcinogen	carcinogen	to the formation of acrylamide, a potential human	
+A-130	carcinogens	carcinogens	frying	frying	in the smell of	
+A-130	boiling	boiling	potatoes	potatoes	may theoretically be best, but sweet	
+A-130	antioxidant	antioxidant	roasting	roasting	power of sweet potatoes, compared to	
+A-130	cooking methods	cooking methods	vegetables	vegetables	for other	
+A-130	toxins	toxins	frying	frying	and carcinogens in the smell of	
+A-130	toxins	toxins	carcinogens	carcinogens	and	
+A-130	risk	risk	french fries	french fries	from	
+A-130	vitamin a	vitamin a	boiling	boiling	levels, twice as much as	
+A-130	boiling	boiling	sweet potatoes	sweet potatoes	may theoretically be best, but	
+A-130	blood	blood	sugar	sugar		

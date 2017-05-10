@@ -1,0 +1,52 @@
+
+A-128	smoking	smoking	lung cancer	lung cancer	and	
+A-128	beans	beans	roasted	roasted	are	
+A-128	parkinson’s	parkinson’s	diet	diet	disease with	
+A-128	harmane	harmane	tobacco	tobacco	is also found in certain heated plants, like	
+A-128	essential tremor	essential tremor	cancer	cancer	and	
+A-128	parkinson’s disease	parkinson’s disease	disease	disease	: preventing parkinson’s	
+A-128	parkinson’s	parkinson’s	parkinson’s disease	parkinson’s disease	disease: preventing	
+A-128	neurotoxins	neurotoxins	essential tremor	essential tremor	play a role in	
+A-128	meat	meat	chicken	chicken	: beef, pork, fish, and especially	
+A-128	parkinson’s disease	parkinson’s disease	diet	diet	with	
+A-128	diet	diet	disease	disease	and treating parkinson’s	
+A-128	fat	fat	harmane	harmane	solubility,	
+A-128	parkinson’s disease	parkinson’s disease	parkinson’s	parkinson’s	: preventing	
+A-128	parkinson’s	parkinson’s	diet	diet	disease: preventing parkinson’s disease with	
+A-128	brains	brains	essential tremor	essential tremor	of	
+A-128	coffee	coffee	risk	risk	intake has not been tied to increased	
+A-128	meats	meats	risk	risk	may also have implications for cancer	
+A-128	disease	disease	parkinson’s	parkinson’s	: preventing	
+A-128	risk	risk	tobacco	tobacco	(and neither has	
+A-128	diet	diet	parkinson’s	parkinson’s	and treating	
+A-128	tobacco	tobacco	coffee	coffee	is burned, and also when	
+A-128	disease	disease	diet	diet	: preventing parkinson’s disease with	
+A-128	enzymes	enzymes	liver	liver	of the	
+A-128	tobacco	tobacco	roasted	roasted	is burned, and also when coffee beans are	
+A-128	risk	risk	essential tremor	essential tremor	of	
+A-128	detoxifying enzymes	detoxifying enzymes	liver	liver	of the	
+A-128	harmane	harmane	plants	plants	is also found in certain heated	
+A-128	disease	disease	parkinson’s disease	parkinson’s disease	: preventing	
+A-128	parkinson’s disease	parkinson’s disease	diet	diet	: preventing parkinson’s disease with	
+A-128	cancer	cancer	risk	risk		
+A-128	mouth	mouth	stomach	stomach	straight into the bloodstream, bypassing the	
+A-128	coffee	coffee	roasted	roasted	beans are	
+A-128	chicken	chicken	cigarettes	cigarettes	breast has about 13 micrograms of harmane, and	
+A-128	diet	diet	parkinson’s disease	parkinson’s disease	and treating	
+A-128	stomach	stomach	detoxifying enzymes	detoxifying enzymes	and, most importantly, bypassing the	
+A-128	parkinson’s	parkinson’s	disease	disease		
+A-128	meat	meat	essential tremor	essential tremor	consumption associated with a higher risk of	
+A-128	disease	disease	parkinson’s	parkinson’s	with diet and treating	
+A-128	essential tremor	essential tremor	harmane	harmane	and cancer, suggesting	
+A-128	smoking	smoking	cancer	cancer	and lung	
+A-128	meat	meat	pork	pork	: beef,	
+A-128	essential tremor	essential tremor	diet	diet	and	
+A-128	tobacco	tobacco	beans	beans	is burned, and also when coffee	
+A-128	meat	meat	fish	fish	: beef, pork,	
+A-128	coffee	coffee	beans	beans		
+A-128	chicken	chicken	harmane	harmane	breast has about 13 micrograms of	
+A-128	meat	meat	essential tremor	essential tremor	had 21 times the odds of	
+A-128	disease	disease	diet	diet	with	
+A-128	stomach	stomach	enzymes	enzymes	and, most importantly, bypassing the detoxifying	
+A-128	meat	meat	risk	risk	consumption associated with a higher	
+A-128	meats	meats	cancer	cancer	may also have implications for	

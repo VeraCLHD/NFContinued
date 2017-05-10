@@ -1,0 +1,8 @@
+
+A-150	greens	greens	supplements	supplements	to eat, how much turmeric to sprinkle, which	
+A-150	health	health	longevity	longevity	and	
+A-150	turmeric	turmeric	exercise	exercise	to sprinkle, which supplements i take, how much	
+A-150	supplements	supplements	exercise	exercise	i take, how much	
+A-150	greens	greens	turmeric	turmeric	to eat, how much	
+A-150	how not to die	how not to die	book	book	can be considered a reference	
+A-150	turmeric	turmeric	supplements	supplements	to sprinkle, which	

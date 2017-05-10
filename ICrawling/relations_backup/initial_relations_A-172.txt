@@ -1,0 +1,33 @@
+
+A-172	diet	diet	animal products	animal products	actually requires fewer	
+A-172	eggs	eggs	corn	corn	[as well as more sugar and	
+A-172	eggs	eggs	sugar	sugar	[as well as more	
+A-172	sugar	sugar	corn syrup	corn syrup	and	
+A-172	dairy	dairy	beef	beef	council, the national cattlemen’s	
+A-172	animal products	animal products	calories	calories	and empty	
+A-172	sugar	sugar	corn	corn	and	
+A-172	pork	pork	egg	egg	producers council, and the american	
+A-172	corn	corn	soy	soy	and	
+A-172	beef	beef	pork	pork	association, the national	
+A-172	animal products	animal products	sugar	sugar	and some basic cash crops [such as	
+A-172	diet	diet	calories	calories	actually requires fewer animal products and empty	
+A-172	fish	fish	seafood	seafood	and	
+A-172	subsidies	subsidies	animal products	animal products	for	
+A-172	milk	milk	cost savings	cost savings	would net an estimated $2 in healthcare	
+A-172	vegetables	vegetables	whole grains	whole grains	cheaper would net $3, and subsidizing	
+A-172	beef	beef	american egg board	american egg board	association, the national pork producers council, and the	
+A-172	animal products	animal products	beans	beans	and empty calories, and more vegetables, fruits,	
+A-172	pork	pork	american egg board	american egg board	producers council, and the	
+A-172	processed foods	processed foods	milk	milk	or	
+A-172	animal products	animal products	empty calories	empty calories	and	
+A-172	diet	diet	empty calories	empty calories	actually requires fewer animal products and	
+A-172	chicken	chicken	pork	pork	and	
+A-172	beef	beef	national pork producers council	national pork producers council	association, the	
+A-172	vegetables	vegetables	grains	grains	cheaper would net $3, and subsidizing whole	
+A-172	dairy	dairy	pork	pork	council, the national cattlemen’s beef association, the national	
+A-172	chicken	chicken	cheap	cheap	so	
+A-172	animal products	animal products	diet	diet	should form the basis of our	
+A-172	animal products	animal products	vegetables	vegetables	and empty calories, and more	
+A-172	dairy	dairy	national pork producers council	national pork producers council	council, the national cattlemen’s beef association, the	
+A-172	eggs	eggs	corn syrup	corn syrup	[as well as more sugar and	
+A-172	animal products	animal products	fruits	fruits	and empty calories, and more vegetables,	

@@ -1,0 +1,96 @@
+
+A-119	risk	risk	prostate cancer	prostate cancer	factor for	
+A-119	tor	tor	cancer	cancer	expression has been noted in breast	
+A-119	cancer	cancer	prostate	prostate	in	
+A-119	milk	milk	almond milk	almond milk	vs.	
+A-119	aging	aging	disease	disease	and age-related	
+A-119	prostate cancer	prostate cancer	organic	organic	in prostate cancer and	
+A-119	risk	risk	breast cancer	breast cancer	of	
+A-119	rapamycin	rapamycin	lifespan	lifespan	has been used experimentally to extend	
+A-119	tor	tor	plant-based	plant-based	may be one reason why	
+A-119	animal proteins	animal proteins	tor	tor	while providing natural plant-derived inhibitors of	
+A-119	dairy	dairy	prostate	prostate	and	
+A-119	risk	risk	cancer	cancer	of breast	
+A-119	prostate	prostate	organic	organic	cancer in prostate cancer and	
+A-119	organic milk	organic milk	milk	milk	vs. almond	
+A-119	tor	tor	breast cancer	breast cancer	expression has been noted in	
+A-119	cancer	cancer	milk	milk	in prostate cancer and organic	
+A-119	tor	tor	plant-based diets	plant-based diets	may be one reason why	
+A-119	dairy	dairy	cancer	cancer	and prostate	
+A-119	prostate cancer	prostate cancer	organic milk	organic milk	in prostate cancer and	
+A-119	milk	milk	almond	almond	vs.	
+A-119	prostate	prostate	tor	tor	cancers (see prevent cancer from going on	
+A-119	tor	tor	tumors	tumors	expression has been noted in breast cancer	
+A-119	fruits	fruits	strawberries	strawberries	and vegetables such as onions,	
+A-119	plant-based diets	plant-based diets	risk	risk	in general are associated with lower	
+A-119	almond	almond	milk	milk		
+A-119	protein	protein	tor	tor	intake can attenuate overall	
+A-119	prostate	prostate	organic milk	organic milk	cancer in prostate cancer and	
+A-119	cancer	cancer	skin	skin	that often affects the	
+A-119	prostate	prostate	cancer	cancer		
+A-119	milk	milk	tor	tor	-mediated	
+A-119	caloric restriction	caloric restriction	animal protein	animal protein	vs.	
+A-119	dairy	dairy	organic	organic	and prostate cancer in prostate cancer and	
+A-119	caloric restriction	caloric restriction	protein	protein	vs. animal	
+A-119	dairy	dairy	organic milk	organic milk	and prostate cancer in prostate cancer and	
+A-119	cancer	cancer	disease	disease	tumors, associated with more aggressive	
+A-119	animal protein	animal protein	tor	tor	intake can attenuate overall	
+A-119	tor	tor	animal proteins	animal proteins	activation from	
+A-119	cancer	cancer	cancer	cancer	in prostate	
+A-119	skin	skin	cucumbers	cucumbers	of	
+A-119	prostate cancer	prostate cancer	cancer	cancer	in prostate	
+A-119	organic milk	organic milk	almond	almond	vs.	
+A-119	risk	risk	cancer	cancer	factor for prostate	
+A-119	cancer	cancer	almond milk	almond milk	in prostate cancer and organic milk vs.	
+A-119	prostate	prostate	milk	milk	cancer in prostate cancer and organic	
+A-119	cancer	cancer	tumors	tumors		
+A-119	prostate	prostate	almond	almond	cancer in prostate cancer and organic milk vs.	
+A-119	tor	tor	dairy	dairy	may also be why	
+A-119	tor	tor	cancer	cancer	appears to play a role in breast	
+A-119	caloric restriction	caloric restriction	breast cancer	breast cancer	in humans may confer protection from invasive	
+A-119	prostate	prostate	almond milk	almond milk	cancer in prostate cancer and organic milk vs.	
+A-119	prostate	prostate	cancer	cancer	cancers (see prevent	
+A-119	prostate cancer	prostate cancer	almond milk	almond milk	in prostate cancer and organic milk vs.	
+A-119	cancer	cancer	tor	tor	by suppressing	
+A-119	cancer	cancer	almond	almond	in prostate cancer and organic milk vs.	
+A-119	fruits	fruits	vegetables	vegetables	and	
+A-119	dairy	dairy	milk	milk	and prostate cancer in prostate cancer and organic	
+A-119	prostate cancer	prostate cancer	almond	almond	in prostate cancer and organic milk vs.	
+A-119	cancer	cancer	organic	organic	in prostate cancer and	
+A-119	breast cancer	breast cancer	tumors	tumors		
+A-119	plant-based	plant-based	risk	risk	diets in general are associated with lower	
+A-119	organic	organic	milk	milk		
+A-119	prostate cancer	prostate cancer	milk	milk	in prostate cancer and organic	
+A-119	dairy	dairy	prostate cancer	prostate cancer	and	
+A-119	biopsy	biopsy	kaposi’s sarcoma	kaposi’s sarcoma	proven	
+A-119	kaposi’s sarcoma	kaposi’s sarcoma	skin	skin	(a cancer that often affects the	
+A-119	fruits	fruits	onions	onions	and vegetables such as	
+A-119	organic	organic	almond	almond	milk vs.	
+A-119	tor	tor	women	women	expression could explain why	
+A-119	risk	risk	prostate	prostate	factor for	
+A-119	hormones	hormones	cancer	cancer	in milk, but maybe prostate	
+A-119	cancer	cancer	organic milk	organic milk	in prostate cancer and	
+A-119	breast cancer	breast cancer	disease	disease	tumors, associated with more aggressive	
+A-119	tor	tor	breast cancer	breast cancer	appears to play a role in	
+A-119	biopsy	biopsy	cancer	cancer	proven kaposi’s sarcoma (a	
+A-119	acne	acne	diet	diet	with	
+A-119	caloric restriction	caloric restriction	cancer	cancer	in humans may confer protection from invasive breast	
+A-119	organic	organic	almond milk	almond milk	milk vs.	
+A-119	organic milk	organic milk	almond milk	almond milk	vs.	
+A-119	cancer	cancer	tor	tor	from going on	
+A-119	hormones	hormones	prostate cancer	prostate cancer	in milk, but maybe	
+A-119	fruits	fruits	mangoes	mangoes	and vegetables such as onions, strawberries, blueberries,	
+A-119	tor	tor	prostate	prostate	is upregulated in nearly 100% of advanced human	
+A-119	mangoes	mangoes	skin	skin	and the	
+A-119	cancer	cancer	milk	milk	initiation and progression is also promoted by cow’s	
+A-119	mangoes	mangoes	cucumbers	cucumbers	and the skin of	
+A-119	hormones	hormones	milk	milk	in	
+A-119	prostate cancer	prostate cancer	milk	milk	initiation and progression is also promoted by cow’s	
+A-119	prostate	prostate	prostate cancer	prostate cancer	cancer in	
+A-119	hormones	hormones	prostate	prostate	in milk, but maybe	
+A-119	fruits	fruits	blueberries	blueberries	and vegetables such as onions, strawberries,	
+A-119	breast cancer	breast cancer	tor	tor	by suppressing	
+A-119	aging	aging	rapamycin	rapamycin	enzyme inhibited by the drug	
+A-119	kaposi’s sarcoma	kaposi’s sarcoma	cancer	cancer	(a	
+A-119	cancer	cancer	prostate cancer	prostate cancer	in	
+A-119	prostate cancer	prostate cancer	prostate	prostate	in	

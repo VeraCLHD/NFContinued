@@ -1,0 +1,59 @@
+
+A-73	contamination	contamination	gut bacteria	gut bacteria	of meat can then transfer these	
+A-73	europe	europe	tetracycline	tetracycline	stopped feeding pigs and chickens	
+A-73	manure	manure	bacteria	bacteria	contamination of meat can then transfer these gut	
+A-73	meat	meat	gut bacteria	gut bacteria	can then transfer these	
+A-73	pigs	pigs	chickens	chickens	and	
+A-73	meat	meat	gut	gut	can then transfer these	
+A-73	contamination	contamination	gut	gut	of meat can then transfer these	
+A-73	mrsa	mrsa	europe	europe	infections in	
+A-73	antibiotics	antibiotics	farm animals	farm animals	just to promote the growth of	
+A-73	united states	united states	health	health	presents an unacceptable level of risk to public	
+A-73	manure	manure	meat	meat	contamination of	
+A-73	bacteria	bacteria	vegetarians	vegetarians	can even spread to	
+A-73	europe	europe	chickens	chickens	stopped feeding pigs and	
+A-73	infections	infections	europe	europe	in	
+A-73	manure	manure	livestock	livestock	application to crop fields and	
+A-73	tetracycline	tetracycline	penicillin	penicillin	and	
+A-73	infectious diseases	infectious diseases	medicine	medicine	explains that, “achievements in modern	
+A-73	mrsa	mrsa	superbugs	superbugs		
+A-73	cost-effective	cost-effective	antibiotics	antibiotics	practices to replace the use of	
+A-73	europe	europe	pigs	pigs	stopped feeding	
+A-73	mrsa	mrsa	infections	infections	and skin and soft-tissue	
+A-73	farm animals	farm animals	meat	meat	would raise the price of	
+A-73	mrsa	mrsa	infections	infections		
+A-73	contamination	contamination	bacteria	bacteria	of meat can then transfer these gut	
+A-73	public health	public health	livestock	livestock	impacts of high-density	
+A-73	risk	risk	public health	public health	to	
+A-73	livestock	livestock	skin	skin	operations was each associated with mrsa and	
+A-73	manure	manure	gut	gut	contamination of meat can then transfer these	
+A-73	manure	manure	contamination	contamination		
+A-73	american medical association	american medical association	manure	manure	’s internal medicine: “proximity to swine	
+A-73	mrsa	mrsa	skin	skin	and	
+A-73	farm animals	farm animals	bacteria	bacteria	are fed antibiotics, they can develop antibiotic-resistant	
+A-73	meat	meat	bacteria	bacteria	can then transfer these gut	
+A-73	treatment	treatment	cancer	cancer	of preterm babies, and	
+A-73	united states	united states	public health	public health	presents an unacceptable level of risk to	
+A-73	cancer	cancer	chemotherapy	chemotherapy		
+A-73	treatment	treatment	chemotherapy	chemotherapy	of preterm babies, and cancer	
+A-73	pigs	pigs	penicillin	penicillin	and chickens tetracycline and	
+A-73	pigs	pigs	tetracycline	tetracycline	and chickens	
+A-73	infectious diseases	infectious diseases	surgery	surgery	explains that, “achievements in modern medicine, such as	
+A-73	livestock	livestock	mrsa	mrsa	operations was each associated with	
+A-73	risk	risk	health	health	to public	
+A-73	health	health	livestock	livestock	impacts of high-density	
+A-73	europe	europe	penicillin	penicillin	stopped feeding pigs and chickens tetracycline and	
+A-73	chickens	chickens	penicillin	penicillin	tetracycline and	
+A-73	medicine	medicine	manure	manure	: “proximity to swine	
+A-73	skin	skin	infections	infections	and soft-tissue	
+A-73	chickens	chickens	tetracycline	tetracycline		
+A-73	united states	united states	risk	risk	presents an unacceptable level of	
+A-73	antibiotics	antibiotics	farm animals	farm animals	by the ton to	
+A-73	treatment	treatment	babies	babies	of preterm	
+A-73	health	health	farmers	farmers	should take priority over farm animals,	
+A-73	manure	manure	gut bacteria	gut bacteria	contamination of meat can then transfer these	
+A-73	gut	gut	bacteria	bacteria		
+A-73	contamination	contamination	meat	meat	of	
+A-73	farm animals	farm animals	antibiotics	antibiotics	are fed	
+A-73	american medical association	american medical association	medicine	medicine	’s internal	
+A-73	health	health	farm animals	farm animals	should take priority over	

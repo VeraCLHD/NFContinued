@@ -1,0 +1,39 @@
+
+A-21	blood	blood	cholesterol	cholesterol		
+A-21	predimed	predimed	nuts	nuts	: does eating	
+A-21	nuts	nuts	risk	risk	seemed to cut their stroke	
+A-21	blood pressure	blood pressure	cholesterol	cholesterol	and high	
+A-21	olive oil	olive oil	nuts	nuts	caused about a third fewer strokes, and adding	
+A-21	nuts	nuts	olive oil	olive oil	 and	
+A-21	diet	diet	nuts	nuts	and given a free half pound of	
+A-21	mediterranean diet	mediterranean diet	nuts	nuts	and given a free half pound of	
+A-21	nuts	nuts	obesity	obesity	and	
+A-21	heart attacks	heart attacks	olive oil	olive oil	in the	
+A-21	high blood pressure	high blood pressure	cholesterol	cholesterol	and high	
+A-21	nuts	nuts	stroke	stroke	seemed to cut their	
+A-21	calories	calories	fat	fat	from	
+A-21	heart attack	heart attack	stroke	stroke	or	
+A-21	saturated fat	saturated fat	cholesterol	cholesterol	or	
+A-21	dairy	dairy	fat	fat	intake, there were no significant differences in saturated	
+A-21	disease	disease	olive oil	olive oil	process, but the diet with added extra virgin	
+A-21	fat	fat	cholesterol	cholesterol	or	
+A-21	blood	blood	cholesterol	cholesterol	pressure and high	
+A-21	disease	disease	diet	diet	process, but the	
+A-21	stroke	stroke	olive oil	olive oil	or from any cause—but, those in the	
+A-21	nuts	nuts	weight gain	weight gain	in: but what about nuts and	
+A-21	mediterranean diet	mediterranean diet	predimed	predimed	: the	
+A-21	fat	fat	calories	calories	group started out at 39 percent of	
+A-21	diet	diet	olive oil	olive oil	and given a free quart of extra virgin	
+A-21	meat	meat	dairy	dairy	and	
+A-21	fruits	fruits	dairy	dairy	and vegetables, for example, and less meat and	
+A-21	fruits	fruits	meat	meat	and vegetables, for example, and less	
+A-21	dairy	dairy	saturated fat	saturated fat	intake, there were no significant differences in	
+A-21	diet	diet	olive oil	olive oil	with added extra virgin	
+A-21	diet	diet	predimed	predimed	: the	
+A-21	england	england	medicine	medicine	journal of	
+A-21	fruits	fruits	vegetables	vegetables	and	
+A-21	fat	fat	diet	diet		
+A-21	mediterranean diet	mediterranean diet	olive oil	olive oil	and given a free quart of extra virgin	
+A-21	risk	risk	heart attack	heart attack	for a	
+A-21	american heart association	american heart association	fat	fat	guidelines and reduce their	
+A-21	nuts	nuts	diet	diet	to one’s daily	

@@ -1,0 +1,38 @@
+
+A-31	blood	blood	cholesterol	cholesterol		
+A-31	plant-based	plant-based	whole grains	whole grains	diet of	
+A-31	plant-based	plant-based	calories	calories	diets tend to burn off more	
+A-31	plant-based	plant-based	obesity	obesity	workplace intervention, the annual cost attributable to	
+A-31	diet	diet	whole grains	whole grains	of	
+A-31	diet	diet	vegetables	vegetables	of whole grains,	
+A-31	diet	diet	fruit	fruit	of whole grains, vegetables, beans, and	
+A-31	carbohydrates	carbohydrates	body fat	body fat	more quickly rather than storing them as	
+A-31	plant-based diet	plant-based diet	fruit	fruit	of whole grains, vegetables, beans, and	
+A-31	plant-based diet	plant-based diet	vegetables	vegetables	of whole grains,	
+A-31	insulin	insulin	carbohydrates	carbohydrates	sensitivity in cells, allowing cells to metabolize	
+A-31	fruit	fruit	dairy	dairy	while avoiding meat,	
+A-31	plant-based	plant-based	diet	diet		
+A-31	plants	plants	metabolism	metabolism	appears to boost	
+A-31	cholesterol	cholesterol	blood sugar	blood sugar	levels, and better	
+A-31	protein	protein	obesity	obesity	had nearly five times the odds of	
+A-31	plant-based	plant-based	vegetables	vegetables	diet of whole grains,	
+A-31	tobacco	tobacco	chronic disease	chronic disease	industries have been blamed for “manufacturing epidemics” of	
+A-31	plant-based diets	plant-based diets	calories	calories	tend to burn off more	
+A-31	plant-based diet	plant-based diet	beans	beans	of whole grains, vegetables,	
+A-31	blood	blood	blood sugar	blood sugar	cholesterol levels, and better	
+A-31	plant-based diet	plant-based diet	grains	grains	of whole	
+A-31	plant-based	plant-based	fruit	fruit	diet of whole grains, vegetables, beans, and	
+A-31	cholesterol	cholesterol	blood	blood	levels, and better	
+A-31	diet	diet	beans	beans	of whole grains, vegetables,	
+A-31	plant-based	plant-based	beans	beans	diet of whole grains, vegetables,	
+A-31	diet	diet	grains	grains	of whole	
+A-31	plant-based	plant-based	workplace intervention	workplace intervention		
+A-31	cholesterol	cholesterol	sugar	sugar	levels, and better blood	
+A-31	fruit	fruit	eggs	eggs	while avoiding meat, dairy, and	
+A-31	plant-based	plant-based	grains	grains	diet of whole	
+A-31	animal protein	animal protein	obesity	obesity	had nearly five times the odds of	
+A-31	carbohydrates	carbohydrates	fat	fat	more quickly rather than storing them as body	
+A-31	plant-based diet	plant-based diet	whole grains	whole grains	of	
+A-31	tobacco	tobacco	produce	produce	companies, for example, “continuing to	
+A-31	fruit	fruit	meat	meat	while avoiding	
+A-31	blood	blood	sugar	sugar	cholesterol levels, and better blood	

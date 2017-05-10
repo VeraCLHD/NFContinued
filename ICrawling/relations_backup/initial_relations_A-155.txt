@@ -1,0 +1,47 @@
+
+A-155	antibodies	antibodies	meat	meat	(see tick bites,	
+A-155	alpha-gal	alpha-gal	meat	meat	is probably absorbed along with the fat in	
+A-155	fish	fish	chicken	chicken	could get triggered by	
+A-155	allergies	allergies	meat	meat	to	
+A-155	seafood	seafood	sushi	sushi	and	
+A-155	antibodies	antibodies	allergies	allergies	(see tick bites, meat	
+A-155	fish	fish	headaches	headaches	worms and other allergenic parasite reactions in chronic	
+A-155	fish	fish	chickens	chickens	worm when we eat	
+A-155	symptoms	symptoms	meat	meat	can occur hours after eating	
+A-155	antibodies	antibodies	urticaria	urticaria	(see tick bites, meat allergies, and chronic	
+A-155	children	children	hives	hives	who had been diagnosed with mysterious	
+A-155	fat	fat	meat	meat	in	
+A-155	syndrome	syndrome	skin	skin	present with just	
+A-155	alpha-gal	alpha-gal	fat	fat	is probably absorbed along with the	
+A-155	children	children	skin	skin	with this syndrome present with just	
+A-155	skin	skin	hives	hives	manifestations, such as	
+A-155	hives	hives	children	children	at some time in their lives, but some	
+A-155	bacon	bacon	breakfast	breakfast	for	
+A-155	antibodies	antibodies	tick bites	tick bites	(see	
+A-155	gut	gut	syndrome	syndrome		
+A-155	headaches	headaches	tapeworms	tapeworms	and pork	
+A-155	sushi	sushi	worms	worms	altogether, because besides inducing allergenic reactions, the	
+A-155	kids	kids	allergies	allergies	don’t tend to outgrow fish and shellfish	
+A-155	pork	pork	tapeworms	tapeworms		
+A-155	fish	fish	worms	worms		
+A-155	allergies	allergies	fish	fish	are actually allergies not to the	
+A-155	fish	fish	allergies	allergies		
+A-155	meat	meat	tick bites	tick bites	allergic antibodies (see	
+A-155	allergies	allergies	fish	fish	in	
+A-155	worms	worms	allergies	allergies	might not be the only thing increasing	
+A-155	meat	meat	allergies	allergies		
+A-155	meat	meat	antibodies	antibodies	allergic	
+A-155	worms	worms	anisakis	anisakis	in the fish, like	
+A-155	anisakis	anisakis	fish	fish	in allergenic	
+A-155	fish	fish	allergies	allergies	and shellfish	
+A-155	worms	worms	headaches	headaches	and other allergenic parasite reactions in chronic	
+A-155	headaches	headaches	pork	pork	and	
+A-155	hives	hives	meat	meat	or serious allergic reaction to	
+A-155	meat	meat	allergies	allergies	allergic antibodies (see tick bites, meat	
+A-155	anisakis	anisakis	worms	worms	in allergenic fish	
+A-155	children	children	syndrome	syndrome	with this	
+A-155	kids	kids	fish	fish	don’t tend to outgrow	
+A-155	meat	meat	alpha-gal	alpha-gal	allergy, called	
+A-155	meat	meat	bacon	bacon	allergy, we could have a piece of	
+A-155	syndrome	syndrome	hives	hives	present with just skin manifestations, such as	
+A-155	worms	worms	fish	fish	in the	

@@ -1,0 +1,11 @@
+
+A-62	breast cancer	breast cancer	leukemia	leukemia	cases may be attributable to exposure to bovine	
+A-62	leukemia	leukemia	virus	virus		
+A-62	virus	virus	dvd	dvd	expert by now, having already received the new	
+A-62	breast cancer	breast cancer	bovine leukemia virus	bovine leukemia virus	cases may be attributable to exposure to	
+A-62	vegans	vegans	supplements	supplements	should consider taking dha	
+A-62	cancer	cancer	bovine leukemia virus	bovine leukemia virus	cases may be attributable to exposure to	
+A-62	vegans	vegans	dha	dha	should consider taking	
+A-62	bovine leukemia virus	bovine leukemia virus	dvd	dvd	expert by now, having already received the new	
+A-62	dha	dha	supplements	supplements		
+A-62	cancer	cancer	leukemia	leukemia	cases may be attributable to exposure to bovine	
