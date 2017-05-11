@@ -37,6 +37,8 @@ public class InitialRelationsManager {
 	private static Map<String,String> termsOverall = new HashMap<String,String>();
 	
 	private static Set<Term> terms = new HashSet<Term>();
+	// example dogl_o_v_ecat => (Term(dog), Term(cat))
+	public static Map<String, Pair<Term>> tuplesOfTerms = null;
 	
 	private static Map<String,Set<String>> catVar = new HashMap<String,Set<String>>();
 	private static Map<String,Set<String>> meshTerms = new HashMap<String,Set<String>>();
@@ -210,7 +212,7 @@ public class InitialRelationsManager {
 		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
 		
 		// Builds tuples from all of the terms 
-		Map<String, Pair<Term>> termTuples = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
+		InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
 		
 	
 		manager.doInitialExtraction();

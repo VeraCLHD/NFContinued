@@ -86,8 +86,22 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		for(Sentence sentence: splitter.getSentences()){
 			String sentenceString = sentence.toString();
 			
+			List<String> termCandidates1 = extractCombinationsOfWords(sentence);
+			List<String> termCandidates2 = extractCombinationsOfWords(sentence);
 			
-			for(Term term1: termSet){
+			for(String candidate1: termCandidates1){
+				for(String candidate2: termCandidates2){
+					Pair<Term> temrs = InitialRelationsManager.tuplesOfTerms.get(candidate1 + "l_o_v_e" + candidate2);
+					
+					if (temrs != null){
+						System.out.println("In sentence : \n" + sentence + " \n " + temrs.first.getOriginalTerm() + " " + temrs.second.getOriginalTerm());
+					}
+						
+				}
+			}
+			
+			
+			/*for(Term term1: termSet){
 				for(Term term2: termSet){
 					
 					if(!term1.equals(term2)){
@@ -117,7 +131,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 								} else if(!term1.getOriginalTerm().contains(" ") && term2.getOriginalTerm().contains(" ")){
 									String caseLemma = lookForATermWordMatch(sentenceString, term1.getLemma(), term2.getOriginalTerm());
 									extractRelation(term1, term1.getLemma(), term2, term2.getOriginalTerm(), caseLemma);
-								} */
+								} 
 									
 								}
 							}
@@ -133,10 +147,32 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 						// But also: American heart association isn't recognized as American which would gain too many artificial connections that are not there
 					
 					
-				}
+				}*/
 			}
 		
 		
+	}
+
+
+	private List<String> extractCombinationsOfWords(Sentence sentence) {
+		List<String> tokens = sentence.words();
+		List<String> tokenCombinations = new ArrayList<String>();
+		
+		// termSize =1 is the size of terms for multiwords/single if = 1
+		//i = number of terms of certain size
+		//int termSizeLimit = Math.max(sentence.words().size(),5);
+		int termSizeLimit = sentence.words().size();
+		for(int termSize=1;termSize <= termSizeLimit; termSize++){
+			for(int i=1; i<=sentence.words().size()-termSizeLimit+1;i++)
+			{
+				List<String> tokenCombination = tokens.subList(i - 1, i - 1 + termSize);
+				String tokenString = String.join(" ", tokenCombination);
+				tokenCombinations.add(tokenString.toLowerCase());
+				
+			}
+		}
+		
+		return tokenCombinations;
 	}
 	
 	private void handleLemmas(Term term1, Term term2, Sentence sentence){
