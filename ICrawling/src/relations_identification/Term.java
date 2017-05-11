@@ -1,7 +1,9 @@
 package relations_identification;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import linguistic_processing.StanfordLemmatizer;
 
@@ -15,8 +17,8 @@ public class Term {
 	
 	private String originalTerm;
 	private String lemma;
-	private List<String> catvariations = new ArrayList<String>();
-	private List<String> mesh = new ArrayList<String>();
+	private Set<String> catvariations = new HashSet<String>();
+	private Set<String> mesh = new HashSet<String>();
 	
 	private StanfordLemmatizer lemm = new StanfordLemmatizer();
 	
@@ -87,11 +89,11 @@ public class Term {
 		this.lemma = lemma;
 	}
 
-	public List<String> getCatvariations() {
+	public Set<String> getCatvariations() {
 		return catvariations;
 	}
 
-	public void setCatvariations(List<String> catvariations) {
+	public void setCatvariations(Set<String> catvariations) {
 		this.catvariations = catvariations;
 	}
 
@@ -104,12 +106,12 @@ public class Term {
 	}
 
 
-	public List<String> getMesh() {
+	public Set<String> getMesh() {
 		return mesh;
 	}
 
 
-	public void setMesh(List<String> mesh) {
+	public void setMesh(Set<String> mesh) {
 		this.mesh = mesh;
 	}
 

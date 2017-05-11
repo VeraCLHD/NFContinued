@@ -161,15 +161,58 @@ public class InitialRelationsManager {
 		Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
 	}
 	
-
+	/**
+	 * Creates a map of tuples from all of the terms. 
+	 * Example [cat, dog, fox] => cat.dog: (cat, dog), cat.fox: (cat, fox), dog.fox: (dog, fox), 
+	 * @param terms
+	 * @return
+	 */
+	public static Map<String, Pair<Term>> buildaTupleHashmapOfTerms(Set<Term> terms)
+	{
+		Map<String, Pair<Term>> tuples = new HashMap<String, Pair<Term>>();
+		
+		// Loop through all of the terms to create tuples from them all
+		for(Term term1: terms)
+		{
+			System.out.println("Term1 pairs: " + term1);
+			
+			Set<String> term1Variations = new HashSet<String>(term1.getCatvariations());
+			// We don't know if the original term is a variation
+			term1Variations.add(term1.getOriginalTerm());
+			term1Variations.addAll(term1.getMesh());
+			
+			for(Term term2: terms)
+			{
+				Set<String> term2Variations = new HashSet<String>(term2.getCatvariations());
+				// We don't know if the original term is a variation
+				term2Variations.add(term2.getOriginalTerm());
+				term2Variations.addAll(term2.getMesh());
+				for (String term1Variation: term1Variations)
+					for (String term2Variation: term2Variations)
+					{
+						
+						tuples.put(term1Variation + "l_o_v_e" + term2Variation, new Pair(term1, term2));
+					}
+			}
+		}
+		
+		return tuples;
+	}
+	
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
 		manager.extractTerms();
+		
 		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
 		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
+		
+		// Builds tuples from all of the terms 
+		Map<String, Pair<Term>> termTuples = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
+		
+	
 		manager.doInitialExtraction();
 		
 		
