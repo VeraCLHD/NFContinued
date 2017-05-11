@@ -40,16 +40,16 @@ public abstract class QueryRelationsExplorer {
 			topic = topic.trim().toLowerCase();
 			if(!topic.equals("-")){
 				Term term = new Term(topic);
-				List<String> list = InitialRelationsManager.getCatVar().get(term);
+				Set<String> list = InitialRelationsManager.getCatVar().get(term);
 				if(list == null || list.isEmpty()){
-					term.setCatvariations(new ArrayList<String>());
+					term.setCatvariations(new HashSet<String>());
 				} else{
 					term.setCatvariations(list);
 				}
 				
-				List<String> meshList = InitialRelationsManager.getMeshTerms().get(term);
+				Set<String> meshList = InitialRelationsManager.getMeshTerms().get(term);
 				if(meshList == null || meshList.isEmpty()){
-					term.setMesh(new ArrayList<String>());
+					term.setMesh(new HashSet<String>());
 				} else{
 					term.setMesh(meshList);
 				} 

@@ -38,8 +38,8 @@ public class InitialRelationsManager {
 	
 	private static Set<Term> terms = new HashSet<Term>();
 	
-	private static Map<String,List<String>> catVar = new HashMap<String,List<String>>();
-	private static Map<String,List<String>> meshTerms = new HashMap<String,List<String>>();
+	private static Map<String,Set<String>> catVar = new HashMap<String,Set<String>>();
+	private static Map<String,Set<String>> meshTerms = new HashMap<String,Set<String>>();
 	private static RelationsFilter filter = new RelationsFilter();
 	
 	public static Map<String, String> getUnusedTerms() {
@@ -245,22 +245,22 @@ public class InitialRelationsManager {
 	}
 
 
-	public static Map<String,List<String>> getCatVar() {
+	public static Map<String,Set<String>> getCatVar() {
 		return catVar;
 	}
 
 
-	public static void setCatVar(Map<String,List<String>> catVar) {
+	public static void setCatVar(Map<String,Set<String>> catVar) {
 		InitialRelationsManager.catVar = catVar;
 	}
 
 
-	public static Map<String,List<String>> getMeshTerms() {
+	public static Map<String,Set<String>> getMeshTerms() {
 		return meshTerms;
 	}
 
 
-	public static void setMeshTerms(Map<String,List<String>> meshTerms) {
+	public static void setMeshTerms(Map<String,Set<String>> meshTerms) {
 		InitialRelationsManager.meshTerms = meshTerms;
 	}
 

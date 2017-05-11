@@ -169,9 +169,9 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 
 	private void handleMorphoVariations(String sentenceString, Term term1, Term term2) {
 		//morph. variations of both terms
-		List<String> vars1 = term1.getCatvariations();
+		Set<String> vars1 = term1.getCatvariations();
 		vars1.addAll(term1.getMesh());
-		List<String> vars2 = term2.getCatvariations();
+		Set<String> vars2 = term2.getCatvariations();
 		vars2.addAll(term2.getMesh());
 		
 		if(vars1.isEmpty() && !vars2.isEmpty()){

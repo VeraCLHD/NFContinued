@@ -6,8 +6,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import org.jsoup.Connection.Response;
 import org.jsoup.nodes.Document;
@@ -93,8 +95,8 @@ public class CatVariator {
 		}
 	}
 	
-	public static Map<String, List<String>> readCatVariations(String file){
-		Map<String,List<String>> varForLemma = new HashMap<String, List<String>>();
+	public static Map<String, Set<String>> readCatVariations(String file){
+		Map<String,Set<String>> varForLemma = new HashMap<String, Set<String>>();
 		ArrayList<String> lines = Reader.readLinesList(file);
 		
 		for(String line: lines){
@@ -102,9 +104,9 @@ public class CatVariator {
 				String[] lineSplitted = line.split("\t");
 				String lemma = lineSplitted[0];
 				if(lineSplitted.length> 1){
-					varForLemma.put(lemma, Arrays.asList(lineSplitted[1].split(" ")));
+					varForLemma.put(lemma, new HashSet<String>(Arrays.asList(lineSplitted[1].split(" "))));
 				} else{
-					varForLemma.put(lemma, new ArrayList<String>());
+					varForLemma.put(lemma, new HashSet<String>());
 				}
 				
 			}
