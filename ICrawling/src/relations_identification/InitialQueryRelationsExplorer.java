@@ -81,8 +81,6 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		// The Stanford Parser should be used for the sentence splitting. It has a more elaborate method to identify a sentence.
 		SentenceSplitter splitter = new SentenceSplitter(this.getTextLower());
 		
-		Set<Term> termSet = InitialRelationsManager.getTerms();
-		
 		for(Sentence sentence: splitter.getSentences()){
 			String sentenceString = sentence.toString();
 			
@@ -94,7 +92,11 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					Pair<Term> temrs = InitialRelationsManager.tuplesOfTerms.get(candidate1 + "l_o_v_e" + candidate2);
 					
 					if (temrs != null){
-						System.out.println("In sentence : \n" + sentence + " \n " + temrs.first.getOriginalTerm() + " " + temrs.second.getOriginalTerm());
+						List<String> stdCase = lookForATermWordMatch(sentenceString, candidate1, candidate2);
+						for(String match: stdCase){
+							extractRelation(temrs.first, candidate1, temrs.second, candidate2, match);
+						}
+						System.out.println(temrs.first.getOriginalTerm() + " " + temrs.second.getOriginalTerm());
 					}
 						
 				}
@@ -160,9 +162,9 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		
 		// termSize =1 is the size of terms for multiwords/single if = 1
 		//i = number of terms of certain size
-		//int termSizeLimit = Math.max(sentence.words().size(),5);
+		//// termSize -> max. size of a possible term is 8. This is currently the longest term
 		int termSizeLimit = sentence.words().size();
-		for(int termSize=1;termSize <= termSizeLimit; termSize++){
+		for(int termSize=1;termSize <= Math.min(termSizeLimit,8); termSize++){
 			for(int i=1; i<=sentence.words().size()-termSizeLimit+1;i++)
 			{
 				List<String> tokenCombination = tokens.subList(i - 1, i - 1 + termSize);
@@ -248,7 +250,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		}
 	}
 	
-
+	// term1: der Term selbst
 	private void extractRelation(Term term1, String var1, Term term2, String var2, String candidate) {
 		// direct connections are ignored && !StringUtils.isBlank(" ")
 		if(!candidate.isEmpty() ){
@@ -267,7 +269,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			
 			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
 			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(candidate);
-			// if longer than 10 words -> automatically filtered
+			// if longer than 8 words -> automatically filtered
 			if(len > 8 || RelationsFilter.isOrStartsWithPunct(candidate)){
 				String relations = "";
 				relations = relations + relation.getArg1() + "\t";
@@ -287,12 +289,12 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
 					InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
 					//add relation to overall relations and count frequency
-					/*Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
+					Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
 					if( relationFrequency != null){
 						InitialRelationsManager.getOverallRelations().put(relation, relationFrequency+1);
 					} else{
 						InitialRelationsManager.getOverallRelations().put(relation, 1);
-					}*/
+					}
 				
 			} else {
 				String relations = "";

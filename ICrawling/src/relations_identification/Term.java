@@ -33,6 +33,12 @@ public class Term {
 
 	}
 	
+	@Override
+	public String toString(){
+		String term = this.getOriginalTerm();
+		return term;
+	}
+	
 
 	@Override
 	public int hashCode() {

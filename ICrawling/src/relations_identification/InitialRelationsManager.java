@@ -107,6 +107,7 @@ public class InitialRelationsManager {
 	public void doInitialExtraction(){
 		
 		Writer.overwriteFile("", "initial_relations.txt");
+		Writer.overwriteFile("", "map_tuples.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
 		Writer.overwriteFile("", "all_relations.txt");
@@ -176,7 +177,6 @@ public class InitialRelationsManager {
 		// Loop through all of the terms to create tuples from them all
 		for(Term term1: terms)
 		{
-			System.out.println("Term1 pairs: " + term1);
 			
 			Set<String> term1Variations = new HashSet<String>(term1.getCatvariations());
 			// We don't know if the original term is a variation
@@ -185,18 +185,26 @@ public class InitialRelationsManager {
 			
 			for(Term term2: terms)
 			{
-				Set<String> term2Variations = new HashSet<String>(term2.getCatvariations());
-				// We don't know if the original term is a variation
-				term2Variations.add(term2.getOriginalTerm());
-				term2Variations.addAll(term2.getMesh());
-				for (String term1Variation: term1Variations)
-					for (String term2Variation: term2Variations)
-					{
-						
-						tuples.put(term1Variation + "l_o_v_e" + term2Variation, new Pair(term1, term2));
-					}
+				if(!term1.equals(term2)){
+					Set<String> term2Variations = new HashSet<String>(term2.getCatvariations());
+					// We don't know if the original term is a variation
+					term2Variations.add(term2.getOriginalTerm());
+					term2Variations.addAll(term2.getMesh());
+					for (String term1Variation: term1Variations)
+						for (String term2Variation: term2Variations)
+						{
+							
+							tuples.put(term1Variation + "l_o_v_e" + term2Variation, new Pair<Term>(term1, term2));
+						}
+				}
+				
 			}
 		}
+		
+		
+		/*for(String pair: tuples.keySet()){
+			Writer.appendLineToFile(pair + "\t" + tuples.get(pair).first.toString() +  "\t" + tuples.get(pair).second.toString(), "map_tuples.txt");
+		}*/
 		
 		return tuples;
 	}
