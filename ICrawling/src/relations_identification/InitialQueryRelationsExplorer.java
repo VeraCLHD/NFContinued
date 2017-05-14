@@ -178,7 +178,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				
 				// punctuation is included in the candidates, shouldn't be -> pattern
 				String tokenString = String.join(" ", tokenCombination);
-				if(!tokenString.isEmpty() && !tokenString.matches("") && !tokenString.matches("\\s+")){
+				if(!tokenString.isEmpty() && !tokenString.matches("") && !tokenString.matches(" ") && !tokenString.matches("\\s+")){
 					
 					tokenCombinations.add(tokenString);
 				}
