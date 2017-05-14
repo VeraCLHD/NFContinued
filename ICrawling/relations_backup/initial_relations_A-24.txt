@@ -1,5 +1,0 @@
-
-A-24	endometriosis	endometriosis	vitamin c	vitamin c	and polycystic ovary syndrome; the latest on	
-A-24	soy	soy	breast cancer	breast cancer	and	
-A-24	soy	soy	cancer	cancer	and breast	
-A-24	endometriosis	endometriosis	syndrome	syndrome	and polycystic ovary	

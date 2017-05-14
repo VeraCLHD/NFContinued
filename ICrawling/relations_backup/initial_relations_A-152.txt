@@ -1,5 +1,0 @@
-
-A-152	doctors	doctors	placebos	placebos	give	
-A-152	curcumin	curcumin	medicine	medicine	as a foodstuff and safe, low-cost, effective	
-A-152	patent	patent	broccoli	broccoli	to	
-A-152	curcumin	curcumin	turmeric	turmeric	in	

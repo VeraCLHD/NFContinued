@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Vera
- *
- */
-package testing;

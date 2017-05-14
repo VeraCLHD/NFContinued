@@ -1,8 +1,0 @@
-
-A-96	vinegar	vinegar	dvd	dvd	expert by now, having already received the new	
-A-96	wheatgrass	wheatgrass	diet	diet	juice, paleo	
-A-96	diet	diet	protein	protein	bone broth, and	
-A-96	wheatgrass	wheatgrass	juice	juice		
-A-96	wheatgrass	wheatgrass	paleo diet	paleo diet	juice,	
-A-96	paleo diet	paleo diet	protein	protein	bone broth, and	
-A-96	wheatgrass	wheatgrass	protein	protein	juice, paleo diet bone broth, and	
