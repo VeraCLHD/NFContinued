@@ -1,0 +1,35 @@
+
+A-10	brains	brains	disease	disease	of those that died of a different neurodegenerative	
+A-10	bmaa	bmaa	brains	brains	in the	
+A-10	disease	disease	brains	brains	and als, but not in the	
+A-10	brains	brains	bmaa	bmaa	had	
+A-10	bmaa	bmaa	brains	brains	in the control	
+A-10	fish	fish	fruit	fruit	may be the	
+A-10	bmaa	bmaa	als	als	in the hair of live	
+A-10	bmaa	bmaa	als	als	is a cause of progressive neurodegenerative diseases including	
+A-10	disease	disease	als	als	and dementia; so, they called it	
+A-10	algae	algae	europe	europe	throughout the world: from	
+A-10	diet	diet	als	als	and amyotrophic lateral sclerosis (	
+A-10	flying foxes	flying foxes	seeds	seeds	) who ate cycad tree	
+A-10	produce	produce	bmaa	bmaa		
+A-10	disease	disease	als	als	and	
+A-10	livestock	livestock	disease	disease	showing neurological	
+A-10	disease	disease	brains	brains	on autopsy, but not in control	
+A-10	fruit	fruit	flying foxes	flying foxes	bats (also known as	
+A-10	bmaa	bmaa	fruit	fruit	comparable to those found in the	
+A-10	bmaa	bmaa	seafood	seafood	present in florida	
+A-10	bmaa	bmaa	brains	brains	in their	
+A-10	brains	brains	disease	disease	of those dying from parkinson’s	
+A-10	bmaa	bmaa	flying foxes	flying foxes	does accumulate in the flesh of	
+A-10	algae	algae	australia	australia	throughout the world: from europe to the u.s.,	
+A-10	bmaa	bmaa	seeds	seeds	in the	
+A-10	blue-green algae	blue-green algae	bmaa	bmaa	are ubiquitous throughout the world, maybe	
+A-10	blue-green algae	blue-green algae	roots	roots	that grows in the	
+A-10	als	als	dementia	dementia	parkinsonism	
+A-10	algae	algae	bmaa	bmaa	are ubiquitous throughout the world, maybe	
+A-10	algae	algae	roots	roots	that grows in the	
+A-10	roots	roots	bmaa	bmaa	of the cycad trees which makes the	
+A-10	disease	disease	dementia	dementia	and	
+A-10	brains	brains	disease	disease	of floridians who died from sporadic alzheimer’s	
+A-10	bmaa	bmaa	seeds	seeds	that gets in the	
+A-10	europe	europe	australia	australia	to the u.s.,	

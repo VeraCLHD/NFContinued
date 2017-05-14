@@ -1,0 +1,31 @@
+
+V-29	antibiotics	antibiotics	gut flora	gut flora	is linked to obesity; so, our	
+V-29	fiber	fiber	short-chain fatty acids	short-chain fatty acids	-eating bacteria, those that secrete	
+V-29	junk food	junk food	physical activity	physical activity	and decreases in the availability of	
+V-29	antibiotics	antibiotics	obesity	obesity	is linked to	
+V-29	disease	disease	gut	gut	(through pet exposure) to differences in	
+V-29	gut	gut	obesity	obesity	flora and	
+V-29	pets	pets	allergies	allergies	to decreased prevalence of	
+V-29	gut	gut	pets	pets	bacteria, “depending on the presence of	
+V-29	bacteria	bacteria	weight gain	weight gain	that seem protective against	
+V-29	fiber	fiber	bacteria	bacteria	-eating	
+V-29	infants	infants	pets	pets	in homes with	
+V-29	bacteria	bacteria	fat storage	fat storage	repress this hormone, “thereby increasing	
+V-29	gut flora	gut flora	fat	fat	may affect how we metabolize	
+V-29	disease	disease	gut bacteria	gut bacteria	(through pet exposure) to differences in	
+V-29	physical activity	physical activity	environment	environment	have created an obesity-permissive	
+V-29	gut	gut	fat	fat	flora may affect how we metabolize	
+V-29	gut	gut	flora	flora		
+V-29	flora	flora	obesity	obesity	and	
+V-29	antibiotics	antibiotics	gut	gut	is linked to obesity; so, our	
+V-29	bacteria	bacteria	dogs	dogs	with one another; they also share with their	
+V-29	fat	fat	short-chain fatty acids	short-chain fatty acids	storage,” whereas our fiber-eating bacteria, those that secrete	
+V-29	antibiotics	antibiotics	flora	flora	is linked to obesity; so, our gut	
+V-29	flora	flora	fat	fat	may affect how we metabolize	
+V-29	fat	fat	fiber	fiber	storage,” whereas our 	
+V-29	dogs	dogs	bacteria	bacteria	can act like a bridge to pass	
+V-29	disease	disease	bacteria	bacteria	(through pet exposure) to differences in gut	
+V-29	gut	gut	bacteria	bacteria		
+V-29	gut flora	gut flora	obesity	obesity	and	
+V-29	bacteria	bacteria	fat	fat	repress this hormone, “thereby increasing	
+V-29	fat	fat	bacteria	bacteria	storage,” whereas our fiber-eating	

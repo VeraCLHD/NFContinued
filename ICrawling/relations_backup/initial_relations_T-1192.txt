@@ -1,0 +1,60 @@
+
+T-1192	beans	beans	zinc	zinc	every day to meet their	
+T-1192	hormones	hormones	fat	fat	found in meat, dairy and eggs, and saturated	
+T-1192	amino acid	amino acid	ergothioneine	ergothioneine		
+T-1192	seafood	seafood	lead	lead	may	
+T-1192	plant-based	plant-based	diet	diet		
+T-1192	risk	risk	mortality	mortality	of heart disease, stroke or	
+T-1192	nuts	nuts	beans	beans	and	
+T-1192	hormones	hormones	meat	meat	found in	
+T-1192	fish oil	fish oil	risk	risk	to lower	
+T-1192	prostate	prostate	cancer	cancer		
+T-1192	risk	risk	cancer	cancer	of	
+T-1192	steroid hormones	steroid hormones	saturated fat	saturated fat	found in meat, dairy and eggs, and	
+T-1192	risk	risk	prostate	prostate	of	
+T-1192	stroke	stroke	mortality	mortality	or	
+T-1192	dairy	dairy	eggs	eggs	products and	
+T-1192	lead	lead	fish	fish	to low sperm count.advice to eat oily	
+T-1192	industrial toxins	industrial toxins	seafood	seafood	found in fish and	
+T-1192	fish	fish	risk	risk	or take fish oil to lower	
+T-1192	fish oil	fish oil	mortality	mortality	to lower risk of heart disease, stroke or	
+T-1192	fish	fish	sperm counts	sperm counts	) may negatively influence male	
+T-1192	fish oil	fish oil	heart disease	heart disease	to lower risk of	
+T-1192	vitamin c	vitamin c	urinary tract infections	urinary tract infections	may be associated with a reduction of lower	
+T-1192	nuts	nuts	zinc	zinc	and beans every day to meet their	
+T-1192	chemicals	chemicals	fish	fish	found mostly in	
+T-1192	steroid hormones	steroid hormones	fat	fat	found in meat, dairy and eggs, and saturated	
+T-1192	fenugreek	fenugreek	muscle strength	muscle strength	may improve	
+T-1192	hormones	hormones	dairy	dairy	found in meat,	
+T-1192	fish	fish	fish oil	fish oil	or take	
+T-1192	dairy	dairy	eggs	eggs	and	
+T-1192	risk	risk	heart disease	heart disease	of	
+T-1192	fish oil	fish oil	disease	disease	to lower risk of heart	
+T-1192	risk	risk	cancer	cancer	of prostate	
+T-1192	steroid hormones	steroid hormones	meat	meat	found in	
+T-1192	risk	risk	stroke	stroke	of heart disease,	
+T-1192	meat	meat	diet	diet	in the	
+T-1192	radioactivity	radioactivity	seafood	seafood	present in	
+T-1192	meat	meat	processed meat	processed meat	in the diet, particularly	
+T-1192	hormones	hormones	saturated fat	saturated fat	found in meat, dairy and eggs, and	
+T-1192	risk	risk	prostate cancer	prostate cancer	of	
+T-1192	chemicals	chemicals	sperm counts	sperm counts	found mostly in fish) may negatively influence male	
+T-1192	fish	fish	heart disease	heart disease	or take fish oil to lower risk of	
+T-1192	amino acid	amino acid	chemicals	chemicals	ergothioneine, found in seminal fluid.xenoestrogens (human-made pesticide	
+T-1192	fish	fish	seafood	seafood	and	
+T-1192	steroid hormones	steroid hormones	eggs	eggs	found in meat, dairy and	
+T-1192	radioactivity	radioactivity	lead	lead	present in seafood may	
+T-1192	toxins	toxins	fish	fish	found in	
+T-1192	toxins	toxins	seafood	seafood	found in fish and	
+T-1192	hormones	hormones	eggs	eggs	found in meat, dairy and	
+T-1192	fish oil	fish oil	stroke	stroke	to lower risk of heart disease,	
+T-1192	mushrooms	mushrooms	antioxidant	antioxidant	are the best source of the	
+T-1192	antioxidant	antioxidant	ergothioneine	ergothioneine	amino acid	
+T-1192	antioxidant	antioxidant	amino acid	amino acid		
+T-1192	risk	risk	disease	disease	of heart	
+T-1192	industrial toxins	industrial toxins	fish	fish	found in	
+T-1192	prostate	prostate	dairy	dairy	cancer, as may consumption of fried foods,	
+T-1192	dairy	dairy	fat	fat	and eggs, and saturated	
+T-1192	mushrooms	mushrooms	amino acid	amino acid	are the best source of the antioxidant	
+T-1192	dairy	dairy	saturated fat	saturated fat	and eggs, and	
+T-1192	steroid hormones	steroid hormones	dairy	dairy	found in meat,	

@@ -1,0 +1,48 @@
+
+V-143	neuropathy	neuropathy	blood	blood	cured, so was their diabetes: normal	
+V-143	risk	risk	vision	vision	of retinopathy—diabetic	
+V-143	meat	meat	oils	oils	and dairy and refined vegetable	
+V-143	blood	blood	insulin	insulin	sugars got better—	
+V-143	skin	skin	dairy	dairy	of those who ate meat or	
+V-143	risk	risk	retinopathy	retinopathy	of	
+V-143	plant-based	plant-based	diet	diet		
+V-143	eyeballs	eyeballs	risk	risk	of diabetics and decrease the	
+V-143	trans fats	trans fats	dairy	dairy	naturally found in meat and	
+V-143	trans fats	trans fats	meat	meat	naturally found in	
+V-143	neuropathy	neuropathy	disease	disease	have shown small vessel	
+V-143	vegetarian	vegetarian	diet	diet		
+V-143	igf-1	igf-1	risk	risk	inside the eyeballs of diabetics and decrease the	
+V-143	fats	fats	meat	meat	naturally found in	
+V-143	fats	fats	dairy	dairy	naturally found in meat and	
+V-143	neuropathy	neuropathy	tingling	tingling	: a relatively painless type characterized by numbness,	
+V-143	neuropathy	neuropathy	diabetes	diabetes	cured, so was their	
+V-143	meat	meat	trans fats	trans fats	or dairy consisted of	
+V-143	treatment	treatment	neuropathy	neuropathy	for diabetic	
+V-143	vegetarian	vegetarian	neuropathy	neuropathy	diet works to alleviate the problem of diabetic	
+V-143	eyeballs	eyeballs	vision	vision	of diabetics and decrease the risk of retinopathy—diabetic	
+V-143	diabetes	diabetes	blood	blood	: normal	
+V-143	triglycerides	triglycerides	cholesterol	cholesterol	and	
+V-143	meat	meat	dairy	dairy	and	
+V-143	skin	skin	meat	meat	of those who ate	
+V-143	eyeballs	eyeballs	retinopathy	retinopathy	of diabetics and decrease the risk of	
+V-143	diet	diet	diabetes	diabetes	to control the	
+V-143	neuropathy	neuropathy	plant-based diet	plant-based diet	with a	
+V-143	fat	fat	meat	meat	found under the skin of those who ate	
+V-143	neuropathy	neuropathy	diet	diet	with a plant-based	
+V-143	pain	pain	health	health	and ill	
+V-143	fat	fat	skin	skin	found under the	
+V-143	plant-based	plant-based	igf-1	igf-1	diets may also lower the level of	
+V-143	meat	meat	dairy	dairy	or	
+V-143	diet	diet	pain	pain	to control the diabetes, whereas the	
+V-143	neuropathy	neuropathy	disease	disease	during the course of their	
+V-143	retinopathy	retinopathy	vision	vision	—diabetic	
+V-143	dairy	dairy	oils	oils	and refined vegetable	
+V-143	meat	meat	fats	fats	or dairy consisted of trans	
+V-143	dairy	dairy	fats	fats	consisted of trans	
+V-143	dairy	dairy	trans fats	trans fats	consisted of	
+V-143	neuropathy	neuropathy	plant-based	plant-based	with a	
+V-143	igf-1	igf-1	eyeballs	eyeballs	inside the	
+V-143	oils	oils	inflammatory response	inflammatory response	that could be causing an	
+V-143	plant-based diets	plant-based diets	igf-1	igf-1	may also lower the level of	
+V-143	blood	blood	sugar	sugar		
+V-143	diet	diet	neuropathy	neuropathy	works to alleviate the problem of diabetic	

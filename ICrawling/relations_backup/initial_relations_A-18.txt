@@ -1,0 +1,144 @@
+
+A-18	wine	wine	fruit	fruit	can be considered essentially	
+A-18	diet	diet	grains	grains	was characterized by unprocessed cereals—in other words, whole	
+A-18	cancer	cancer	alcohol	alcohol	risk, but	
+A-18	skin	skin	cancer	cancer		
+A-18	bread	bread	whole grain	whole grain	—but not	
+A-18	mediterranean diet	mediterranean diet	cancer	cancer	is associated with lower	
+A-18	mediterranean diet	mediterranean diet	grains	grains	was characterized by unprocessed cereals—in other words, whole	
+A-18	skin cancer	skin cancer	cancer	cancer	from the inside out, and breast	
+A-18	mediterranean diet	mediterranean diet	white bread	white bread	includes lots of	
+A-18	diet	diet	alcohol	alcohol	score that excluded	
+A-18	health	health	diet	diet	effects of the mediterranean	
+A-18	mediterranean diet	mediterranean diet	whole grains	whole grains	was characterized by unprocessed cereals—in other words,	
+A-18	breast cancer	breast cancer	risk	risk		
+A-18	meat	meat	kidney cancer	kidney cancer	of the matter, and can diet protect against	
+A-18	whole grains	whole grains	heart disease	heart disease	have been associated with lower risk of diabetes,	
+A-18	pasta	pasta	whole grains	whole grains	and not a lot of	
+A-18	risk	risk	heart disease	heart disease	of diabetes, obesity,	
+A-18	whole grains	whole grains	drugs	drugs	may work as well as	
+A-18	grains	grains	heart disease	heart disease	have been associated with lower risk of diabetes,	
+A-18	risk	risk	refined grain	refined grain	of diabetes, heart disease, and cancer,	
+A-18	breast cancer	breast cancer	alcohol	alcohol	risk, but	
+A-18	white bread	white bread	bread	bread	—but not whole grain	
+A-18	cancer	cancer	breast cancer	breast cancer	from the inside out, and	
+A-18	skin cancer	skin cancer	wine	wine	from the inside out, and breast cancer risk: red	
+A-18	mediterranean diet	mediterranean diet	grains	grains	: i touch more on whole	
+A-18	cancer	cancer	breast cancer	breast cancer	risk, but does not appear to lower	
+A-18	oils	oils	grains	grains	and refined	
+A-18	diet	diet	cancer	cancer	protect against kidney	
+A-18	skin	skin	red wine	red wine	cancer from the inside out, and breast cancer risk:	
+A-18	plant-based	plant-based	plant-based diet	plant-based diet	diet, and certainly not a whole foods,	
+A-18	meat	meat	kidney	kidney	of the matter, and can diet protect against	
+A-18	cancer	cancer	alcohol	alcohol	and	
+A-18	plant foods	plant foods	mediterranean diet	mediterranean diet	is a defining characteristic of the	
+A-18	grains	grains	diabetes	diabetes	have been associated with lower risk of	
+A-18	grains	grains	risk	risk	have been associated with lower	
+A-18	risk	risk	disease	disease	of diabetes, heart	
+A-18	nuts	nuts	olive oil	olive oil	 and more recently,	
+A-18	diet	diet	kidney	kidney	protect against	
+A-18	mediterranean diet	mediterranean diet	alcohol	alcohol	score that excluded	
+A-18	diet	diet	sodium	sodium	is	
+A-18	blood	blood	heart disease	heart disease	pressure,	
+A-18	grains	grains	white bread	white bread	that modern mediterranean dieters eat are refined, like	
+A-18	olive oil	olive oil	fruit	fruit	and wine can be considered essentially	
+A-18	olive oil	olive oil	phytonutrients	phytonutrients	—the antioxidant	
+A-18	cancer	cancer	red wine	red wine	from the inside out, and breast cancer risk:	
+A-18	saturated fat	saturated fat	cancer	cancer	content, you’d assume there would be lower breast	
+A-18	wine	wine	alcohol	alcohol	with	
+A-18	salt	salt	disease	disease	intake to high blood pressure, heart	
+A-18	mediterranean diet	mediterranean diet	sodium	sodium	is	
+A-18	plant foods	plant foods	diet	diet	is a defining characteristic of the mediterranean	
+A-18	risk	risk	cancer	cancer	of diabetes, heart disease, and	
+A-18	saturated fat	saturated fat	breast cancer	breast cancer	content, you’d assume there would be lower	
+A-18	cancer	cancer	risk	risk	from the inside out, and breast cancer	
+A-18	blood	blood	disease	disease	pressure, heart	
+A-18	cancer	cancer	wine	wine	from the inside out, and breast cancer risk: red	
+A-18	grains	grains	drugs	drugs	may work as well as	
+A-18	diet	diet	kidney cancer	kidney cancer	protect against	
+A-18	diet	diet	white bread	white bread	includes lots of	
+A-18	antioxidant	antioxidant	phytonutrients	phytonutrients		
+A-18	salt	salt	blood pressure	blood pressure	intake to high	
+A-18	olive oil	olive oil	wine	wine	and	
+A-18	refined grain	refined grain	disease	disease	may increase the risk of diabetes, obesity, heart	
+A-18	red wine	red wine	alcohol	alcohol	with	
+A-18	breast cancer	breast cancer	red wine	red wine	risk:	
+A-18	cancer	cancer	carcinogen	carcinogen	risk, but alcohol is a known breast	
+A-18	diet	diet	grains	grains	: i touch more on whole	
+A-18	alcohol	alcohol	cancer	cancer	in breast	
+A-18	breast cancer	breast cancer	wine	wine	risk: red	
+A-18	breast cancer	breast cancer	alcohol	alcohol	and	
+A-18	alcohol	alcohol	carcinogen	carcinogen	is a known breast	
+A-18	olive oil	olive oil	diet	diet	is the very symbol of the mediterranean	
+A-18	risk	risk	diabetes	diabetes	of	
+A-18	whole grain	whole grain	bread	bread		
+A-18	risk	risk	disease	disease	of diabetes, obesity, heart	
+A-18	wine	wine	white wine	white wine	v.	
+A-18	diet	diet	whole grains	whole grains	was characterized by unprocessed cereals—in other words,	
+A-18	pasta	pasta	grains	grains	and not a lot of whole	
+A-18	diet	diet	pasta	pasta	includes lots of white bread, white	
+A-18	endothelial	endothelial	arteries	arteries	function—the ability of our	
+A-18	skin cancer	skin cancer	red wine	red wine	from the inside out, and breast cancer risk:	
+A-18	alcohol	alcohol	breast cancer	breast cancer	in	
+A-18	diet score	diet score	diet	diet	that excluded alcohol, the	
+A-18	red wine	red wine	white wine	white wine	v.	
+A-18	olive oil	olive oil	antioxidant	antioxidant	—the	
+A-18	mediterranean diet	mediterranean diet	diet	diet	score that excluded alcohol, the	
+A-18	diet score	diet score	alcohol	alcohol	that excluded	
+A-18	plant-based	plant-based	diet	diet		
+A-18	phytonutrients	phytonutrients	red wine	red wine	in	
+A-18	salt	salt	high blood pressure	high blood pressure	intake to	
+A-18	skin cancer	skin cancer	risk	risk	from the inside out, and breast cancer	
+A-18	breast cancer	breast cancer	white wine	white wine	risk: red wine v.	
+A-18	arteries	arteries	blood	blood	to relax and dilate normally, increasing	
+A-18	red wine	red wine	wine	wine	v. white	
+A-18	olive oil	olive oil	diet	diet	in the other videos in this mediterranean	
+A-18	mediterranean diet	mediterranean diet	pasta	pasta	includes lots of white bread, white	
+A-18	diet	diet	whole grains	whole grains	: i touch more on	
+A-18	alcohol	alcohol	endothelial	endothelial	removed), you get a significant boost in	
+A-18	bread	bread	olive oil	olive oil	dipped in	
+A-18	dietary guidelines	dietary guidelines	salt	salt	: with a grain of big	
+A-18	cancer	cancer	breast cancer	breast cancer	and alcohol in	
+A-18	refined grain	refined grain	heart disease	heart disease	may increase the risk of diabetes, obesity,	
+A-18	refined grain	refined grain	obesity	obesity	may increase the risk of diabetes,	
+A-18	olive oil	olive oil	endothelial	endothelial	—the antioxidant phytonutrients, that may help	
+A-18	meat	meat	cancer	cancer	of the matter, and can diet protect against kidney	
+A-18	risk	risk	white wine	white wine	: red wine v.	
+A-18	plant-based	plant-based	whole foods	whole foods	diet, and certainly not a	
+A-18	breast cancer	breast cancer	carcinogen	carcinogen	risk, but alcohol is a known breast	
+A-18	blood	blood	salt	salt	pressure, heart disease, and strokes, dietary	
+A-18	sodium	sodium	salt	salt	in dietary guidelines: with a grain of big	
+A-18	cancer	cancer	cancer	cancer	and alcohol in breast	
+A-18	health	health	mediterranean diet	mediterranean diet	effects of the	
+A-18	salt	salt	blood	blood	intake to high	
+A-18	risk	risk	wine	wine	: red	
+A-18	fat	fat	breast cancer	breast cancer	content, you’d assume there would be lower	
+A-18	salt	salt	heart disease	heart disease	intake to high blood pressure,	
+A-18	mediterranean diet	mediterranean diet	whole grains	whole grains	: i touch more on	
+A-18	fat	fat	cancer	cancer	content, you’d assume there would be lower breast	
+A-18	white bread	white bread	whole grain	whole grain	—but not	
+A-18	kidney	kidney	cancer	cancer		
+A-18	whole grains	whole grains	risk	risk	have been associated with lower	
+A-18	predimed	predimed	white bread	white bread	study, those who ate the most	
+A-18	mediterranean diet	mediterranean diet	risk	risk	is associated with lower cancer	
+A-18	cancer	cancer	cancer	cancer	risk, but does not appear to lower breast	
+A-18	sodium	sodium	dietary guidelines	dietary guidelines	in	
+A-18	cancer	cancer	risk	risk		
+A-18	cancer	cancer	cancer	cancer	from the inside out, and breast	
+A-18	risk	risk	heart disease	heart disease	of diabetes,	
+A-18	phytonutrients	phytonutrients	wine	wine	in red	
+A-18	whole grains	whole grains	diabetes	diabetes	have been associated with lower risk of	
+A-18	olive oil	olive oil	mediterranean diet	mediterranean diet	is the very symbol of the	
+A-18	diet	diet	bread	bread	includes lots of white	
+A-18	meat	meat	diet	diet	of the matter, and can	
+A-18	refined grain	refined grain	risk	risk	may increase the	
+A-18	predimed	predimed	bread	bread	study, those who ate the most white	
+A-18	skin	skin	breast cancer	breast cancer	cancer from the inside out, and	
+A-18	antioxidant	antioxidant	endothelial	endothelial	phytonutrients, that may help	
+A-18	breast cancer	breast cancer	cancer	cancer	and alcohol in breast	
+A-18	skin	skin	risk	risk	cancer from the inside out, and breast cancer	
+A-18	skin cancer	skin cancer	breast cancer	breast cancer	from the inside out, and	
+A-18	refined grain	refined grain	diabetes	diabetes	may increase the risk of	
+A-18	white bread	white bread	olive oil	olive oil	dipped in	
+A-18	olive oil	olive oil	mediterranean diet	mediterranean diet	in the other videos in this	
+A-18	mediterranean diet	mediterranean diet	bread	bread	includes lots of white	

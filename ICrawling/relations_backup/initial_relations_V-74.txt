@@ -1,0 +1,27 @@
+
+V-74	diet	diet	kidney failure	kidney failure	can leave diabetics with moderate blindness, moderate	
+V-74	animal protein	animal protein	cancer	cancer	are four times as likely to die from	
+V-74	plant-based	plant-based	diet	diet		
+V-74	dairy	dairy	smoking	smoking	could be as harmful to health as	
+V-74	insulin	insulin	plant-based diets	plant-based diets	altogether.but,	
+V-74	smoking	smoking	protein	protein	—suggesting that people who eat lots of animal	
+V-74	plant-based	plant-based	insulin	insulin	diet.here’s patient #15: 32 units of	
+V-74	diabetes	diabetes	insulin	insulin	as long as 20 years—injecting 20 units of	
+V-74	protein	protein	risk	risk	didn’t have just four times the	
+V-74	kidney	kidney	amputations	amputations	failure, moderate	
+V-74	insulin	insulin	plant-based	plant-based	altogether.but,	
+V-74	insulin	insulin	plant-based diet	plant-based diet	altogether—thanks to less than two weeks on a	
+V-74	health	health	smoking	smoking	as	
+V-74	protein	protein	cancer	cancer	are four times as likely to die from	
+V-74	diet	diet	blindness	blindness	can leave diabetics with moderate	
+V-74	health	health	animal protein	animal protein	as smoking—suggesting that people who eat lots of	
+V-74	diet	diet	insulin	insulin	.here’s patient #15: 32 units of	
+V-74	blood	blood	insulin	insulin	sugars on 32 units less	
+V-74	diet	diet	kidney	kidney	can leave diabetics with moderate blindness, moderate	
+V-74	smoking	smoking	animal protein	animal protein	—suggesting that people who eat lots of	
+V-74	diet	diet	cholesterol	cholesterol	usually only result in moderate reductions in	
+V-74	insulin	insulin	plant-based	plant-based	altogether—thanks to less than two weeks on a	
+V-74	dairy	dairy	health	health	could be as harmful to	
+V-74	animal protein	animal protein	risk	risk	didn’t have just four times the	
+V-74	insulin	insulin	diet	diet	on the control	
+V-74	risk	risk	diabetes	diabetes	of dying from	

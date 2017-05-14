@@ -1,0 +1,95 @@
+
+V-103	diet	diet	corn	corn	in mexico is made up of	
+V-103	rice	rice	corn	corn	and	
+V-103	cancer	cancer	heart disease	heart disease	and	
+V-103	diet	diet	soda	soda	has changed to incorporate more	
+V-103	beans	beans	treatment	treatment	may be potent tools in the prevention and	
+V-103	bacteria	bacteria	fiber	fiber	in our gut take the	
+V-103	risk	risk	death	death	of premature	
+V-103	cancer	cancer	disease	disease	and heart	
+V-103	emphysema	emphysema	beans	beans	and lung cancer, when we eat	
+V-103	legumes	legumes	inflammation	inflammation	—beans, split peas, chickpeas, lentils—cool down systemic	
+V-103	blood pressure	blood pressure	sugar	sugar	and blood	
+V-103	copd	copd	cancer	cancer	and lung	
+V-103	corn	corn	mexico	mexico	tortillas, and mexican-americans born in	
+V-103	plant-based	plant-based	diet	diet		
+V-103	risk	risk	cancer	cancer	for emphysema and lung	
+V-103	diet	diet	prevention	prevention	in general, beans may be potent tools in the	
+V-103	tofu	tofu	soy foods	soy foods	and other	
+V-103	prostate	prostate	cancer	cancer		
+V-103	prevention	prevention	americans	americans	and survival.now, asian	
+V-103	gut	gut	resistant starch	resistant starch	take the fiber and	
+V-103	colon	colon	cancer	cancer		
+V-103	pollution	pollution	emphysema	emphysema	cause lung inflammation, which increases the risk for	
+V-103	legumes	legumes	chickpeas	chickpeas	—beans, split peas,	
+V-103	treatment	treatment	disease	disease	of chronic	
+V-103	health	health	screening	screening		
+V-103	smoking	smoking	inflammation	inflammation	and air pollution cause lung	
+V-103	plant-based diet	plant-based diet	beans	beans	in general,	
+V-103	legumes	legumes	lentils	lentils	—beans, split peas, chickpeas,	
+V-103	lung cancer	lung cancer	prevention	prevention		
+V-103	diet	diet	beans	beans	in general,	
+V-103	legumes	legumes	peas	peas	—beans, split	
+V-103	emphysema	emphysema	lung cancer	lung cancer	and	
+V-103	diet	diet	mexico	mexico	in	
+V-103	air pollution	air pollution	emphysema	emphysema	cause lung inflammation, which increases the risk for	
+V-103	prostate	prostate	rice	rice	cancer, but also	
+V-103	lentils	lentils	inflammation	inflammation	—cool down systemic	
+V-103	blood pressure	blood pressure	blood sugar	blood sugar	and	
+V-103	prevention	prevention	disease	disease	and treatment of chronic	
+V-103	beans	beans	prevention	prevention	may be potent tools in the	
+V-103	blood	blood	sugar	sugar	pressure and blood	
+V-103	fiber	fiber	resistant starch	resistant starch	and	
+V-103	plant-based diet	plant-based diet	prevention	prevention	in general, beans may be potent tools in the	
+V-103	screening	screening	blood pressure	blood pressure	and counseling, and the poorest levels of	
+V-103	copd	copd	lung cancer	lung cancer	and	
+V-103	lung cancer	lung cancer	cancer	cancer	prevention, and lung	
+V-103	fruits	fruits	vegetables	vegetables	and	
+V-103	health	health	exercise	exercise	behaviors may account for hispanic longevity?maybe they	
+V-103	plant foods	plant foods	beans	beans	—and perhaps one plant food in particular:	
+V-103	risk	risk	beans	beans	for emphysema and lung cancer, when we eat	
+V-103	processed foods	processed foods	animal foods	animal foods	and	
+V-103	pollution	pollution	inflammation	inflammation	cause lung	
+V-103	inflammation	inflammation	asian	asian	may be important for both prevention and survival.now,	
+V-103	asian	asian	americans	americans		
+V-103	legumes	legumes	beans	beans	—	
+V-103	prevention	prevention	asian	asian	and survival.now,	
+V-103	health	health	blood pressure	blood pressure	screening and counseling, and the poorest levels of	
+V-103	bladder	bladder	throat cancer	throat cancer	cancer,	
+V-103	air pollution	air pollution	inflammation	inflammation	cause lung	
+V-103	pollution	pollution	risk	risk	cause lung inflammation, which increases the	
+V-103	smoking	smoking	pollution	pollution	and air	
+V-103	inflammation	inflammation	prevention	prevention	may be important for both	
+V-103	cancer	cancer	cancer	cancer	prevention, and lung	
+V-103	prevention	prevention	treatment	treatment	and	
+V-103	processed foods	processed foods	plant foods	plant foods	and animal foods, and fewer	
+V-103	diet	diet	animal foods	animal foods	has changed to incorporate more soda, processed, and	
+V-103	soy	soy	lung cancer	lung cancer	foods, as soy intake is associated with both	
+V-103	inflammation	inflammation	lung cancer	lung cancer	—which not only inhibits	
+V-103	bladder	bladder	colorectal cancer	colorectal cancer	cancer, throat cancer, and	
+V-103	plant-based	plant-based	beans	beans	diet in general,	
+V-103	health	health	blood	blood	screening and counseling, and the poorest levels of	
+V-103	beans	beans	united states	united states	in the	
+V-103	colon	colon	breast cancer	breast cancer	cancer, or	
+V-103	cancer	cancer	lung cancer	lung cancer	prevention, and	
+V-103	heart attack	heart attack	stroke	stroke	and	
+V-103	bacteria	bacteria	gut	gut	in our	
+V-103	prevention	prevention	chronic disease	chronic disease	and treatment of	
+V-103	mexico	mexico	corn	corn	is made up of	
+V-103	blood pressure	blood pressure	blood	blood	and	
+V-103	smoking	smoking	air pollution	air pollution	and	
+V-103	legumes	legumes	split peas	split peas	—beans,	
+V-103	emphysema	emphysema	cancer	cancer	and lung	
+V-103	bladder	bladder	cancer	cancer		
+V-103	prostate	prostate	corn	corn	cancer, but also rice and	
+V-103	blood	blood	blood sugar	blood sugar	pressure and	
+V-103	gut	gut	fiber	fiber	take the	
+V-103	tofu	tofu	soy	soy	and other	
+V-103	screening	screening	blood	blood	and counseling, and the poorest levels of	
+V-103	inflammation	inflammation	cancer	cancer	—which not only inhibits lung	
+V-103	air pollution	air pollution	risk	risk	cause lung inflammation, which increases the	
+V-103	risk	risk	emphysema	emphysema	for	
+V-103	risk	risk	lung cancer	lung cancer	for emphysema and	
+V-103	cancer	cancer	prevention	prevention		
+V-103	bacteria	bacteria	resistant starch	resistant starch	in our gut take the fiber and	
+V-103	treatment	treatment	chronic disease	chronic disease	of	

@@ -1,0 +1,63 @@
+
+T-1114	liver	liver	hepatitis	hepatitis	cancer are diseases such as 	
+T-1114	liver cancer	liver cancer	risk	risk		
+T-1114	risk	risk	cancer	cancer	of liver	
+T-1114	liver	liver	iodine	iodine	cancer, but be wary of their	
+T-1114	lead	lead	fat	fat	to	
+T-1114	risk	risk	alcohol	alcohol	of those that consume	
+T-1114	cancer	cancer	alcohol	alcohol	risk of those that consume	
+T-1114	fructose	fructose	sugar	sugar	corn syrup and table	
+T-1114	cancer	cancer	hepatitis	hepatitis	are diseases such as 	
+T-1114	corn	corn	lead	lead	syrup and table sugar, as that can	
+T-1114	vegetables	vegetables	liver	liver	may also suppress the risk of	
+T-1114	liver	liver	risk	risk	cancer	
+T-1114	iodine	iodine	hijiki	hijiki	content and avoid hiziki (or	
+T-1114	iodine	iodine	spirulina	spirulina	content and avoid hiziki (or hijiki) seaweed and 	
+T-1114	coffee	coffee	liver cancer	liver cancer	has been shown to decrease the	
+T-1114	walnuts	walnuts	risk	risk	and pecans may lower our	
+T-1114	coffee	coffee	risk	risk	has been shown to decrease the liver cancer	
+T-1114	vegetables	vegetables	liver cancer	liver cancer	may also suppress the risk of	
+T-1114	walnuts	walnuts	liver	liver	and pecans may lower our risk of	
+T-1114	seaweed	seaweed	spirulina	spirulina	and 	
+T-1114	liver	liver	cancer	cancer		
+T-1114	fructose	fructose	corn syrup	corn syrup		
+T-1114	risk	risk	liver	liver	of	
+T-1114	coffee	coffee	cancer	cancer	has been shown to decrease the liver	
+T-1114	pecans	pecans	liver cancer	liver cancer	may lower our risk of	
+T-1114	liver cancer	liver cancer	cancer	cancer	and	
+T-1114	sea vegetables	sea vegetables	cancer	cancer	may also suppress the risk of liver	
+T-1114	coffee	coffee	liver	liver	has been shown to decrease the	
+T-1114	cancer	cancer	alcohol	alcohol	are diseases such as hepatitis and consuming too much 	
+T-1114	vegetables	vegetables	risk	risk	may also suppress the	
+T-1114	corn syrup	corn syrup	lead	lead	and table sugar, as that can	
+T-1114	liver cancer	liver cancer	alcohol	alcohol	are diseases such as hepatitis and consuming too much 	
+T-1114	liver cancer	liver cancer	alcohol	alcohol	risk of those that consume	
+T-1114	pecans	pecans	cancer	cancer	may lower our risk of liver	
+T-1114	iodine	iodine	seaweed	seaweed	content and avoid hiziki (or hijiki)	
+T-1114	cancer	cancer	cancer	cancer	and	
+T-1114	high fructose corn syrup	high fructose corn syrup	sugar	sugar	and table	
+T-1114	fructose	fructose	corn	corn		
+T-1114	vegetables	vegetables	cancer	cancer	may also suppress the risk of liver	
+T-1114	corn	corn	sugar	sugar	syrup and table	
+T-1114	sea vegetables	sea vegetables	liver	liver	may also suppress the risk of	
+T-1114	cancer	cancer	risk	risk		
+T-1114	risk	risk	liver cancer	liver cancer	of	
+T-1114	walnuts	walnuts	pecans	pecans	and	
+T-1114	hijiki	hijiki	spirulina	spirulina	) seaweed and 	
+T-1114	walnuts	walnuts	liver cancer	liver cancer	and pecans may lower our risk of	
+T-1114	pecans	pecans	liver	liver	may lower our risk of	
+T-1114	pecans	pecans	risk	risk	may lower our	
+T-1114	sea vegetables	sea vegetables	liver cancer	liver cancer	may also suppress the risk of	
+T-1114	corn syrup	corn syrup	fat	fat	and table sugar, as that can lead to	
+T-1114	phytates	phytates	blood	blood	in our	
+T-1114	high fructose corn syrup	high fructose corn syrup	lead	lead	and table sugar, as that can	
+T-1114	fructose	fructose	lead	lead	corn syrup and table sugar, as that can	
+T-1114	liver	liver	alcohol	alcohol	cancer risk of those that consume	
+T-1114	risk	risk	iodine	iodine	of liver cancer, but be wary of their	
+T-1114	hepatitis	hepatitis	alcohol	alcohol	and consuming too much 	
+T-1114	nuts	nuts	grains	grains	and	
+T-1114	walnuts	walnuts	cancer	cancer	and pecans may lower our risk of liver	
+T-1114	corn syrup	corn syrup	sugar	sugar	and table	
+T-1114	sea vegetables	sea vegetables	risk	risk	may also suppress the	
+T-1114	liver cancer	liver cancer	hepatitis	hepatitis	are diseases such as 	
+T-1114	high fructose corn syrup	high fructose corn syrup	fat	fat	and table sugar, as that can lead to	

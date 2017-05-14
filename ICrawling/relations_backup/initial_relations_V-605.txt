@@ -1,0 +1,30 @@
+
+V-605	fat	fat	doctors	doctors	in that dress.so, how many	
+V-605	sugar	sugar	lactose	lactose	in the sugar pills is typically	
+V-605	lactose	lactose	sugar	sugar	(milk	
+V-605	medicine	medicine	doctors	doctors		
+V-605	sugar	sugar	pills	pills	in the sugar	
+V-605	vomiting	vomiting	chemo	chemo	compared to placebo; the	
+V-605	medicine	medicine	united states	united states	doctors and rheumatologists in the	
+V-605	nausea	nausea	chemo	chemo	and vomiting compared to placebo; the	
+V-605	deception	deception	doctors	doctors	flowchart has even been devised to help	
+V-605	doctors	doctors	lying	lying	decide, for example, if they should consider	
+V-605	disease	disease	medicine	medicine	and crackpot	
+V-605	pills	pills	milk	milk	is typically lactose (	
+V-605	milk	milk	sugar	sugar		
+V-605	nausea	nausea	placebo	placebo	and vomiting compared to	
+V-605	nausea	nausea	vomiting	vomiting	and	
+V-605	doctors	doctors	placebo	placebo	and rheumatologists in the united states reported prescribing	
+V-605	united states	united states	placebo	placebo	reported prescribing	
+V-605	chemotherapy	chemotherapy	nausea	nausea	caused a surprising reduction in	
+V-605	chemotherapy	chemotherapy	placebo	placebo	caused a surprising reduction in nausea and vomiting compared to	
+V-605	cancer	cancer	chemotherapy	chemotherapy	drug trial in which the	
+V-605	pills	pills	lactose	lactose	is typically	
+V-605	vomiting	vomiting	placebo	placebo	compared to	
+V-605	symptoms	symptoms	treatment	treatment	as an entity requiring a	
+V-605	sugar	sugar	milk	milk	in the sugar pills is typically lactose (	
+V-605	chemotherapy	chemotherapy	vomiting	vomiting	caused a surprising reduction in nausea and	
+V-605	deception	deception	doctors	doctors	advocates reply, look, “	
+V-605	doctors	doctors	united states	united states	and rheumatologists in the	
+V-605	pills	pills	sugar	sugar	is typically lactose (milk	
+V-605	placebo	placebo	doctors	doctors	made out of lactose.pro-truth advocates accuse	

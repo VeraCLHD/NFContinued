@@ -1,0 +1,17 @@
+
+V-861	herbivore	herbivore	broccoli	broccoli	is like, “ew, this tastes like	
+V-861	lemon	lemon	juice	juice		
+V-861	herbivore	herbivore	chewing	chewing	starts	
+V-861	broccoli raab	broccoli raab	broccoli	broccoli	produces about 500 times less than	
+V-861	broccoli	broccoli	herbivore	herbivore	—until some	
+V-861	broccoli	broccoli	chewing	chewing	—until some herbivore starts	
+V-861	liver	liver	enzymes	enzymes	’s own detoxifying	
+V-861	broccoli	broccoli	garlic	garlic	count on a little lemon juice and some	
+V-861	broccoli	broccoli	sprouts	sprouts		
+V-861	broccoli	broccoli	lemon	lemon	count on a little	
+V-861	lemon	lemon	tahini	tahini	juice and some garlic, maybe a little	
+V-861	broccoli	broccoli	juice	juice	count on a little lemon	
+V-861	liver	liver	detoxifying enzymes	detoxifying enzymes	’s own	
+V-861	lemon	lemon	garlic	garlic	juice and some	
+V-861	juice	juice	garlic	garlic	and some	
+V-861	juice	juice	tahini	tahini	and some garlic, maybe a little	

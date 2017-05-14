@@ -1,0 +1,121 @@
+
+T-1333	prostate	prostate	disease	disease	enlargement, reduced female fertilization rates, gastro-esophageal reflux	
+T-1333	plant-based diets	plant-based diets	syndrome	syndrome	appear to protect against metabolic	
+T-1333	breastfeeding	breastfeeding	obesity	obesity	infants may help protect them against subsequent	
+T-1333	syndrome	syndrome	gut	gut	and may foster the kinds of	
+T-1333	gut	gut	butyrate	butyrate	create the compounds propionate and	
+T-1333	industrial pollutants	industrial pollutants	obesity	obesity	may also raise	
+T-1333	chickens	chickens	obesity	obesity	a hundred years ago, may contribute to	
+T-1333	obesity	obesity	bmi	bmi	as a body mass index (	
+T-1333	obesity	obesity	risk	risk		
+T-1333	chickens	chickens	risk	risk	a hundred years ago, may contribute to obesity	
+T-1333	health	health	bmi	bmi	defines obesity as a body mass index (	
+T-1333	calories	calories	fat	fat	and	
+T-1333	gut	gut	propionate	propionate	create the compounds	
+T-1333	health	health	prostate enlargement	prostate enlargement	problems including heart disease, diabetes, heart attack,	
+T-1333	obesity	obesity	food industry	food industry	rate than babies who are breastfed.the	
+T-1333	health	health	heart disease	heart disease	problems including	
+T-1333	fiber	fiber	risk	risk	from various sources may also help lower obesity	
+T-1333	obesity	obesity	disease	disease	is associated with serious health problems including heart	
+T-1333	breastfeeding	breastfeeding	infants	infants		
+T-1333	fruit	fruit	obesity	obesity	intake with lower	
+T-1333	milk	milk	obesity	obesity	formula have a higher	
+T-1333	uric acid	uric acid	sugar	sugar	levels from meat and	
+T-1333	fat	fat	obesity	obesity	from diet may help explain the link between	
+T-1333	plant-based	plant-based	metabolic syndrome	metabolic syndrome	diets appear to protect against	
+T-1333	reflux	reflux	fatty liver disease	fatty liver disease	disease (gerd), non-alcoholic	
+T-1333	industrial pollutants	industrial pollutants	risk	risk	may also raise obesity	
+T-1333	industrial pollutants	industrial pollutants	fat	fat	that may build up in our body	
+T-1333	milk	milk	babies	babies	formula have a higher obesity rate than	
+T-1333	sugar	sugar	obesity	obesity	intake may increase	
+T-1333	china	china	japan	japan	and eight times more than	
+T-1333	reflux	reflux	disease	disease		
+T-1333	pollutants	pollutants	fat	fat	that may build up in our body	
+T-1333	meat	meat	sugar	sugar	and	
+T-1333	fish	fish	industrial pollutants	industrial pollutants	contaminated with	
+T-1333	gerd	gerd	liver disease	liver disease	), non-alcoholic fatty	
+T-1333	uric acid	uric acid	meat	meat	levels from	
+T-1333	fat	fat	chickens	chickens	of	
+T-1333	fish	fish	risk	risk	contaminated with industrial pollutants may also raise obesity	
+T-1333	metabolic syndrome	metabolic syndrome	bacteria	bacteria	and may foster the kinds of gut	
+T-1333	meat	meat	risk	risk	and sugar intake may increase obesity	
+T-1333	gut bacteria	gut bacteria	obesity	obesity	linked to reduced	
+T-1333	calories	calories	chickens	chickens	and fat of	
+T-1333	chemicals	chemicals	meat	meat	in foods and increased uric acid levels from	
+T-1333	syndrome	syndrome	gut bacteria	gut bacteria	and may foster the kinds of	
+T-1333	pollutants	pollutants	body fat	body fat	that may build up in our	
+T-1333	gut	gut	bacteria	bacteria		
+T-1333	reflux	reflux	gerd	gerd	disease (	
+T-1333	obesity	obesity	health	health	and other serious	
+T-1333	obesity	obesity	babies	babies	rate than	
+T-1333	obesity	obesity	health	health	is associated with serious	
+T-1333	propionate	propionate	butyrate	butyrate	and	
+T-1333	junk food	junk food	obesity	obesity	appears to be linked to this	
+T-1333	industrial pollutants	industrial pollutants	body fat	body fat	that may build up in our	
+T-1333	gerd	gerd	cancer	cancer	), non-alcoholic fatty liver disease, and	
+T-1333	gut	gut	risk	risk	bacteria linked to reduced obesity	
+T-1333	health	health	diabetes	diabetes	problems including heart disease,	
+T-1333	meat	meat	obesity	obesity	and sugar intake may increase	
+T-1333	inflammation	inflammation	obesity	obesity	called metaflammation is associated with	
+T-1333	bacteria	bacteria	propionate	propionate	in the gut create the compounds	
+T-1333	plant-based	plant-based	diet	diet		
+T-1333	plant-based diet	plant-based diet	obesity	obesity	can help prevent and treat	
+T-1333	gerd	gerd	fatty liver disease	fatty liver disease	), non-alcoholic	
+T-1333	plant-based diets	plant-based diets	metabolic syndrome	metabolic syndrome	appear to protect against	
+T-1333	reflux	reflux	cancer	cancer	disease (gerd), non-alcoholic fatty liver disease, and	
+T-1333	chemicals	chemicals	uric acid	uric acid	in foods and increased	
+T-1333	health	health	obesity	obesity	defines	
+T-1333	mayo clinic	mayo clinic	obesity	obesity	defines	
+T-1333	health	health	heart attack	heart attack	problems including heart disease, diabetes,	
+T-1333	infants	infants	obesity	obesity	may help protect them against subsequent	
+T-1333	fish	fish	pollutants	pollutants	contaminated with industrial	
+T-1333	tor	tor	obesity	obesity	enzyme, which appears to be linked to	
+T-1333	body fat	body fat	diet	diet	from	
+T-1333	obesity	obesity	heart disease	heart disease	is associated with serious health problems including	
+T-1333	health	health	body mass index	body mass index	defines obesity as a	
+T-1333	obesity	obesity	diabetes	diabetes	epidemic and the dramatic rise in childhood	
+T-1333	bacteria	bacteria	butyrate	butyrate	in the gut create the compounds propionate and	
+T-1333	liver	liver	disease	disease		
+T-1333	obesity	obesity	stress	stress	can both	
+T-1333	gerd	gerd	liver	liver	), non-alcoholic fatty	
+T-1333	fish	fish	obesity	obesity	contaminated with industrial pollutants may also raise	
+T-1333	bacteria	bacteria	gut	gut	in the	
+T-1333	pollutants	pollutants	risk	risk	may also raise obesity	
+T-1333	liver	liver	cancer	cancer	disease, and	
+T-1333	fat	fat	diet	diet	from	
+T-1333	babies	babies	milk	milk	who are fed	
+T-1333	fruit	fruit	risk	risk	intake with lower obesity	
+T-1333	plant-based	plant-based	obesity	obesity	diet can help prevent and treat	
+T-1333	body fat	body fat	obesity	obesity	from diet may help explain the link between	
+T-1333	diet	diet	obesity	obesity	can help prevent and treat	
+T-1333	plant-based	plant-based	syndrome	syndrome	diets appear to protect against metabolic	
+T-1333	children	children	diet	diet	eats a healthy	
+T-1333	sleep	sleep	risk	risk	is another potential	
+T-1333	gerd	gerd	disease	disease	), non-alcoholic fatty liver	
+T-1333	bacteria	bacteria	risk	risk	linked to reduced obesity	
+T-1333	fiber	fiber	obesity	obesity	from various sources may also help lower	
+T-1333	obesity	obesity	body mass index	body mass index	as a	
+T-1333	reflux	reflux	liver disease	liver disease	disease (gerd), non-alcoholic fatty	
+T-1333	sugar	sugar	risk	risk	intake may increase obesity	
+T-1333	bacteria	bacteria	obesity	obesity	linked to reduced	
+T-1333	dried fruit	dried fruit	risk	risk	intake with lower obesity	
+T-1333	gut bacteria	gut bacteria	risk	risk	linked to reduced obesity	
+T-1333	prostate	prostate	reflux	reflux	enlargement, reduced female fertilization rates, gastro-esophageal	
+T-1333	diet	diet	diabetes	diabetes	may help explain the link between obesity and	
+T-1333	metabolic syndrome	metabolic syndrome	gut bacteria	gut bacteria	and may foster the kinds of	
+T-1333	diet	diet	obesity	obesity	may help explain the link between	
+T-1333	chicken	chicken	calories	calories	meat, which has over ten times the	
+T-1333	tor	tor	risk	risk	enzyme, which appears to be linked to obesity	
+T-1333	obesity	obesity	diabetes	diabetes	and	
+T-1333	babies	babies	obesity	obesity	who are fed milk formula have a higher	
+T-1333	uric acid	uric acid	obesity	obesity	levels from meat and sugar intake may increase	
+T-1333	pollutants	pollutants	obesity	obesity	may also raise	
+T-1333	gut	gut	obesity	obesity	bacteria linked to reduced	
+T-1333	reflux	reflux	liver	liver	disease (gerd), non-alcoholic fatty	
+T-1333	health	health	disease	disease	problems including heart	
+T-1333	metabolic syndrome	metabolic syndrome	gut	gut	and may foster the kinds of	
+T-1333	dried fruit	dried fruit	obesity	obesity	intake with lower	
+T-1333	chicken	chicken	meat	meat		
+T-1333	syndrome	syndrome	bacteria	bacteria	and may foster the kinds of gut	
+T-1333	health	health	prostate	prostate	problems including heart disease, diabetes, heart attack,	
+T-1333	obesity	obesity	children	children	.the u.s. obesity epidemic extends to	

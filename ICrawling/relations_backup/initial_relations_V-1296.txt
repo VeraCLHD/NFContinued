@@ -1,0 +1,35 @@
+
+V-1296	fish	fish	bacteria	bacteria	hygiene, researchers swabbed sushi for fecal	
+V-1296	sushi	sushi	fecal bacteria	fecal bacteria	for	
+V-1296	manure	manure	spinach	spinach	runoff can contaminate sprout seeds,	
+V-1296	chicken	chicken	raw	raw	juice isn't juice; it's	
+V-1296	sushi	sushi	bacteria	bacteria	for fecal	
+V-1296	salmon	salmon	tuna	tuna	and	
+V-1296	vegetarian	vegetarian	avocado	avocado	sushi—	
+V-1296	chicken	chicken	juice	juice		
+V-1296	avocado	avocado	fecal bacteria	fecal bacteria	and cucumber rolls—and found zero	
+V-1296	fish	fish	sushi	sushi	hygiene, researchers swabbed	
+V-1296	salmon	salmon	cucumbers	cucumbers	and tuna, avocado and	
+V-1296	chicken	chicken	soup	soup	juice isn't juice; it's raw fecal	
+V-1296	raw	raw	soup	soup	fecal	
+V-1296	meat	meat	poultry	poultry	and	
+V-1296	chickens	chickens	juice	juice	in their toilets.frankly, you know that chicken	
+V-1296	avocado	avocado	cucumbers	cucumbers	and	
+V-1296	sushi	sushi	bacteria	bacteria	—avocado and cucumber rolls—and found zero fecal	
+V-1296	manure	manure	seeds	seeds	runoff can contaminate sprout	
+V-1296	vegetarian	vegetarian	fecal bacteria	fecal bacteria	sushi—avocado and cucumber rolls—and found zero	
+V-1296	salmon	salmon	avocado	avocado	and tuna,	
+V-1296	fruits	fruits	meat	meat	and veggies, we're not even supposed to rinse	
+V-1296	fish	fish	fecal bacteria	fecal bacteria	and poultry, can be covered in	
+V-1296	avocado	avocado	bacteria	bacteria	and cucumber rolls—and found zero fecal	
+V-1296	juice	juice	soup	soup	isn't juice; it's raw fecal	
+V-1296	fish	fish	bacteria	bacteria	and poultry, can be covered in fecal	
+V-1296	vegetarian	vegetarian	bacteria	bacteria	sushi—avocado and cucumber rolls—and found zero fecal	
+V-1296	chickens	chickens	chicken	chicken	in their toilets.frankly, you know that	
+V-1296	sushi	sushi	avocado	avocado	—	
+V-1296	juice	juice	raw	raw	isn't juice; it's	
+V-1296	vegetarian	vegetarian	sushi	sushi		
+V-1296	sushi	sushi	fecal bacteria	fecal bacteria	—avocado and cucumber rolls—and found zero	
+V-1296	fish	fish	fecal bacteria	fecal bacteria	hygiene, researchers swabbed sushi for	
+V-1296	manure	manure	plant foods	plant foods	runoff can contaminate sprout seeds, spinach, and other healthy 	
+V-1296	fish	fish	poultry	poultry	and	

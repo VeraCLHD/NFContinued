@@ -1,0 +1,26 @@
+
+T-1503	kidney	kidney	cancer	cancer		
+T-1503	cloves	cloves	cheap	cheap	is a	
+T-1503	sweet potatoes	sweet potatoes	cancer	cancer	may even have	
+T-1503	risk	risk	kidney	kidney	of	
+T-1503	potatoes	potatoes	water	water	in	
+T-1503	boiling	boiling	sweet potatoes	sweet potatoes	may be the best way to cook	
+T-1503	potatoes	potatoes	health	health	however, may decrease inflammation.sweet potatoes are a very	
+T-1503	boiling	boiling	potatoes	potatoes	may be the best way to cook sweet	
+T-1503	protein	protein	potatoes	potatoes	in sweet	
+T-1503	potatoes	potatoes	phytonutrients	phytonutrients	contain a few	
+T-1503	salt	salt	water	water		
+T-1503	purple potatoes	purple potatoes	health	health	however, may decrease inflammation.sweet potatoes are a very	
+T-1503	cinnamon	cinnamon	cheap	cheap	and cloves is a	
+T-1503	protein	protein	sweet potatoes	sweet potatoes	in	
+T-1503	potatoes	potatoes	cancer	cancer	may even have	
+T-1503	cinnamon	cinnamon	cloves	cloves	and	
+T-1503	potatoes	potatoes	glycoalkaloids	glycoalkaloids	may remove three-quarters of the	
+T-1503	risk	risk	kidney cancer	kidney cancer	of	
+T-1503	protein	protein	cancer	cancer	in sweet potatoes may even have	
+T-1503	potatoes	potatoes	pesticides	pesticides	may contain	
+T-1503	pesticides	pesticides	vinegar	vinegar	are removed; a 5% acetic acid (	
+T-1503	purple potatoes	purple potatoes	potatoes	potatoes	however, may decrease inflammation.sweet	
+T-1503	health	health	cheap	cheap	promoting food, and are an inexpensive	
+T-1503	cloves	cloves	antioxidants	antioxidants	is a cheap, simple, easy snack loaded with	
+T-1503	risk	risk	cancer	cancer	of kidney	

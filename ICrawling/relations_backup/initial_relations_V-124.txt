@@ -1,0 +1,41 @@
+
+V-124	chinese	chinese	brown rice	brown rice	adults, only a minority had ever even tried	
+V-124	blood	blood	rice	rice	sugar-lowering effects, compared to white	
+V-124	brown rice	brown rice	blood	blood	can have	
+V-124	rice	rice	weight loss	weight loss	for white rice led to significantly more	
+V-124	meta-analysis	meta-analysis	diabetes	diabetes	was published tying white rice consumption to	
+V-124	brown rice	brown rice	diabetes	diabetes	might lower	
+V-124	rice	rice	risk	risk	consumption was associated with decreased diabetes	
+V-124	rice	rice	asian	asian	consumption to diabetes—especially in	
+V-124	rice	rice	brown rice	brown rice	to	
+V-124	diet	diet	rice	rice	with about a cup of cooked white	
+V-124	spain	spain	diabetes	diabetes	suggested white rice consumption was associated with decreased	
+V-124	rice	rice	diabetes	diabetes	consumption to	
+V-124	risk	risk	rice	rice	of type 2 diabetes, though brown	
+V-124	diabetes	diabetes	asian	asian	—especially in	
+V-124	blood	blood	rice	rice	pressures.and brown	
+V-124	whole grain	whole grain	asian	asian	rice,	
+V-124	risk	risk	diabetes	diabetes	of type 2	
+V-124	rice	rice	paella	paella	is usually consumed in the	
+V-124	blood	blood	arteries	arteries	sugars can stiffen our	
+V-124	rice	rice	risk	risk	was associated with higher	
+V-124	rice	rice	risk	risk	was associated with lower	
+V-124	blood	blood	brown rice	brown rice	pressures.and	
+V-124	rice	rice	diabetes	diabetes	was associated with higher risk of type 2	
+V-124	spain	spain	rice	rice	suggested white	
+V-124	meta-analysis	meta-analysis	rice	rice	was published tying white	
+V-124	blood	blood	inflammation	inflammation	pressure, and less	
+V-124	brown rice	brown rice	risk	risk	was associated with lower	
+V-124	rice	rice	diabetes	diabetes	consumption was associated with decreased	
+V-124	brown rice	brown rice	weight loss	weight loss	for white rice led to significantly more	
+V-124	women	women	diet	diet	were randomized into two groups, a weight-loss	
+V-124	diabetes	diabetes	risk	risk		
+V-124	brown rice	brown rice	risk	risk	might lower diabetes	
+V-124	asian	asian	rice	rice	people often prefer white	
+V-124	rice	rice	diabetes	diabetes	on the development of type 2	
+V-124	rice	rice	blood	blood	can have	
+V-124	whole grain	whole grain	rice	rice		
+V-124	risk	risk	brown rice	brown rice	of type 2 diabetes, though	
+V-124	brown rice	brown rice	rice	rice	can have blood sugar-lowering effects, compared to white	
+V-124	rice	rice	brown rice	brown rice	with the same amount of	
+V-124	brown rice	brown rice	rice	rice	for white	

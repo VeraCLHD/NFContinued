@@ -1,0 +1,38 @@
+
+V-1205	kidney	kidney	cancer	cancer		
+V-1205	risk	risk	cancer	cancer	of not only stomach	
+V-1205	stomach	stomach	rectal cancer	rectal cancer	cancer, but colon cancer, and	
+V-1205	kidney	kidney	bladder cancer	bladder cancer	cancer,	
+V-1205	diet	diet	cancer	cancer	is the #1 cause of	
+V-1205	aids	aids	diet	diet	—but	
+V-1205	obesity	obesity	cancer	cancer	and alcohol, makes up about 50% of our	
+V-1205	stomach	stomach	colon cancer	colon cancer	cancer, but	
+V-1205	cancer	cancer	disease	disease	is, therefore, a preventable	
+V-1205	canada	canada	meat	meat	last year, total	
+V-1205	prostate	prostate	bladder	bladder	cancer, and testicular cancer, and kidney cancer,	
+V-1205	cancer	cancer	risk	risk		
+V-1205	obesity	obesity	alcohol	alcohol	and	
+V-1205	prostate	prostate	cancer	cancer		
+V-1205	risk	risk	colon	colon	of not only stomach cancer, but	
+V-1205	colon	colon	cancer	cancer		
+V-1205	stomach	stomach	pancreatic cancer	pancreatic cancer	cancer, but colon cancer, and rectal cancer, and	
+V-1205	aids	aids	alcohol	alcohol	—but diet, if you include obesity and	
+V-1205	prostate	prostate	kidney	kidney	cancer, and testicular cancer, and	
+V-1205	prostate	prostate	bladder cancer	bladder cancer	cancer, and testicular cancer, and kidney cancer,	
+V-1205	aids	aids	obesity	obesity	—but diet, if you include	
+V-1205	kidney	kidney	leukemia	leukemia	cancer, bladder cancer, and more	
+V-1205	bladder	bladder	leukemia	leukemia	cancer, and more	
+V-1205	kidney	kidney	bladder	bladder	cancer,	
+V-1205	meat	meat	risk	risk	consumption was directly related to the	
+V-1205	bladder	bladder	cancer	cancer		
+V-1205	stomach	stomach	cancer	cancer		
+V-1205	stomach	stomach	colon	colon	cancer, but	
+V-1205	tobacco	tobacco	risk	risk	contributes about a quarter of the	
+V-1205	colon	colon	rectal cancer	rectal cancer	cancer, and	
+V-1205	prostate	prostate	kidney cancer	kidney cancer	cancer, and testicular cancer, and	
+V-1205	colon	colon	lung cancer	lung cancer	cancer, and rectal cancer, and pancreatic cancer, and	
+V-1205	colon	colon	pancreatic cancer	pancreatic cancer	cancer, and rectal cancer, and	
+V-1205	risk	risk	stomach cancer	stomach cancer	of not only	
+V-1205	risk	risk	stomach	stomach	of not only	
+V-1205	risk	risk	colon cancer	colon cancer	of not only stomach cancer, but	
+V-1205	prostate	prostate	testicular cancer	testicular cancer	cancer, and	

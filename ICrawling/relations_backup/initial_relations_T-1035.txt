@@ -1,0 +1,37 @@
+
+T-1035	diet	diet	turmeric	turmeric	and the spice	
+T-1035	seeds	seeds	osteoarthritis	osteoarthritis	may reduce knee pain in sufferers of	
+T-1035	plant-based diet	plant-based diet	turmeric	turmeric	and the spice	
+T-1035	plant-based	plant-based	diet	diet		
+T-1035	turmeric	turmeric	arthritis	arthritis	may alleviate the symptoms of rheumatoid	
+T-1035	pain	pain	osteoarthritis	osteoarthritis	in sufferers of	
+T-1035	meat	meat	uric acid	uric acid	contains high concentrations of	
+T-1035	diet	diet	symptoms	symptoms	and the spice turmeric may alleviate the	
+T-1035	symptoms	symptoms	rheumatoid arthritis	rheumatoid arthritis	of	
+T-1035	gout	gout	seeds	seeds	.the anti-inflammatory compounds in sesame	
+T-1035	anti-inflammatory	anti-inflammatory	pain	pain	compounds in sesame seeds may reduce knee	
+T-1035	gout	gout	anti-inflammatory	anti-inflammatory	.the	
+T-1035	joint disease	joint disease	infection	infection	has many causes, including injury,	
+T-1035	anti-inflammatory	anti-inflammatory	plant-based	plant-based	effects of a	
+T-1035	turmeric	turmeric	rheumatoid arthritis	rheumatoid arthritis	may alleviate the symptoms of	
+T-1035	gout	gout	sesame seeds	sesame seeds	.the anti-inflammatory compounds in	
+T-1035	sesame seeds	sesame seeds	osteoarthritis	osteoarthritis	may reduce knee pain in sufferers of	
+T-1035	joint health	joint health	joint disease	joint disease	means stopping the chain of events that cause	
+T-1035	joint health	joint health	inflammation	inflammation	is minimizing	
+T-1035	symptoms	symptoms	arthritis	arthritis	of rheumatoid	
+T-1035	juice	juice	gout	gout	may be useful in reducing	
+T-1035	health	health	joint disease	joint disease	means stopping the chain of events that cause	
+T-1035	health	health	inflammation	inflammation	is minimizing	
+T-1035	anti-inflammatory	anti-inflammatory	seeds	seeds	compounds in sesame	
+T-1035	anti-inflammatory	anti-inflammatory	diet	diet	effects of a plant-based	
+T-1035	anti-inflammatory	anti-inflammatory	sesame seeds	sesame seeds	compounds in	
+T-1035	seeds	seeds	pain	pain	may reduce knee	
+T-1035	joint disease	joint disease	inflammation	inflammation	has many causes, including injury, infection, and	
+T-1035	anti-inflammatory	anti-inflammatory	plant-based diet	plant-based diet	effects of a	
+T-1035	sesame seeds	sesame seeds	pain	pain	may reduce knee	
+T-1035	plant-based	plant-based	turmeric	turmeric	diet and the spice	
+T-1035	turmeric	turmeric	symptoms	symptoms	may alleviate the	
+T-1035	disease	disease	infection	infection	has many causes, including injury,	
+T-1035	plant-based diet	plant-based diet	symptoms	symptoms	and the spice turmeric may alleviate the	
+T-1035	plant-based	plant-based	symptoms	symptoms	diet and the spice turmeric may alleviate the	
+T-1035	disease	disease	inflammation	inflammation	has many causes, including injury, infection, and	

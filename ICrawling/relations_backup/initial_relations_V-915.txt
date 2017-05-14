@@ -1,0 +1,13 @@
+
+V-915	blood pressure	blood pressure	laxatives	laxatives	medications,	
+V-915	blood	blood	medications	medications	pressure	
+V-915	surgery	surgery	hemorrhoids	hemorrhoids	for things as varied as varicose veins and	
+V-915	blood	blood	laxatives	laxatives	pressure medications,	
+V-915	blood	blood	diverticulosis	diverticulosis	pressure, less diabetes, less	
+V-915	blood	blood	diabetes	diabetes	pressure, less	
+V-915	surgery	surgery	varicose veins	varicose veins	for things as varied as	
+V-915	vegetarians	vegetarians	disease	disease	were found to have significantly less coronary artery	
+V-915	smoking	smoking	vegetarians	vegetarians	rates,	
+V-915	blood pressure	blood pressure	medications	medications		
+V-915	varicose veins	varicose veins	hemorrhoids	hemorrhoids	and	
+V-915	meat	meat	aspirin	aspirin	had about twice the odds of being on	

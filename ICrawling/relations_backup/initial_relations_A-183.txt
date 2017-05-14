@@ -1,0 +1,37 @@
+
+A-183	atkins diet	atkins diet	low carb	low carb	: trouble keeping it up, though	
+A-183	risk	risk	mortality	mortality	of all-cause	
+A-183	vegetarian	vegetarian	heart disease	heart disease	diet showed a reversal of their	
+A-183	low carb	low carb	diet	diet		
+A-183	plant-based	plant-based	diet	diet		
+A-183	treatment	treatment	diet	diet		
+A-183	atkins	atkins	low carb	low carb	diet: trouble keeping it up, though	
+A-183	risk	risk	cholesterol	cholesterol	factors like	
+A-183	muscles	muscles	low-carb diets	low-carb diets	of people eating	
+A-183	blood	blood	arteries	arteries	flow within the coronary	
+A-183	low-carb diets	low-carb diets	risk	risk	were associated with a significantly higher	
+A-183	vegetarian	vegetarian	diet	diet		
+A-183	cholesterol	cholesterol	risk	risk	is because we care about cardiovascular	
+A-183	diet	diet	low carb	low carb	: trouble keeping it up, though	
+A-183	plant-based	plant-based	atkins	atkins		
+A-183	plant-based	plant-based	atkins diet	atkins diet		
+A-183	plant-based	plant-based	diet	diet	atkins	
+A-183	risk	risk	lifespan	lifespan	of all-cause mortality, meaning living a significantly shorter	
+A-183	vegetarian	vegetarian	disease	disease	diet showed a reversal of their heart	
+A-183	low carb	low carb	blood	blood	diets and coronary	
+A-183	blood	blood	low-carb diets	low-carb diets	flow to the heart muscles of people eating	
+A-183	risk	risk	blood	blood	factors, but actual	
+A-183	low-carb diets	low-carb diets	book	book	is that i already wrote a	
+A-183	low carb	low carb	cholesterol	cholesterol	diets may not see a rise in their	
+A-183	blood	blood	muscles	muscles	flow to the heart	
+A-183	arteries	arteries	blood	blood	opened right up increasing the	
+A-183	atkins	atkins	diet	diet		
+A-183	protein	protein	fat	fat	and	
+A-183	diet	diet	heart disease	heart disease	showed a reversal of their	
+A-183	weight loss	weight loss	cholesterol	cholesterol	by any means can drop our	
+A-183	plant-based	plant-based	arteries	arteries	diet, shows how their	
+A-183	low carb	low carb	arteries	arteries	diets on	
+A-183	diet	diet	cholesterol	cholesterol	and lower our	
+A-183	health	health	arteries	arteries	of our	
+A-183	plaque	plaque	arteries	arteries	in their	
+A-183	diet	diet	disease	disease	showed a reversal of their heart	

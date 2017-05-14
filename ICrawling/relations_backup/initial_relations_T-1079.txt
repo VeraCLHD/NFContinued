@@ -1,0 +1,188 @@
+
+T-1079	blood	blood	cholesterol	cholesterol		
+T-1079	beans	beans	amla	amla	(see also here) and soy;	
+T-1079	plant-based	plant-based	cholesterol	cholesterol	diet high in fiber appears to lower total	
+T-1079	diet	diet	cholesterol	cholesterol	high in fiber appears to lower total	
+T-1079	fat	fat	cholesterol	cholesterol	and dietary	
+T-1079	fat	fat	dietary cholesterol	dietary cholesterol	and	
+T-1079	cholesterol	cholesterol	risk	risk	levels can raise heart disease	
+T-1079	cholesterol	cholesterol	heme iron	heme iron	in our arteries, and	
+T-1079	side effects	side effects	breast cancer	breast cancer	such as increased	
+T-1079	back pain	back pain	sexual dysfunction	sexual dysfunction	(see also here),	
+T-1079	bad cholesterol	bad cholesterol	ldl	ldl	”	
+T-1079	inflammation	inflammation	aorta	aorta	of the	
+T-1079	nutrition	nutrition	kaiser permanente	kaiser permanente	update for physicians published by	
+T-1079	disease	disease	risk	risk		
+T-1079	atherosclerosis	atherosclerosis	arteries	arteries	in our coronary	
+T-1079	doctors	doctors	plant-based diet	plant-based diet	to recommend a	
+T-1079	ldl	ldl	heart attacks	heart attacks	level to achieve to avoid	
+T-1079	seeds	seeds	nuts	nuts	including sesame seeds, pistachio	
+T-1079	dried apples	dried apples	nuts	nuts	(see also here);	
+T-1079	cholesterol	cholesterol	red yeast rice	red yeast rice	reducer,	
+T-1079	amla	amla	apples	apples	or indian gooseberries (see also here);	
+T-1079	breast cancer	breast cancer	risk	risk		
+T-1079	meat	meat	risk	risk	can contribute to atherosclerosis	
+T-1079	meat	meat	atherosclerosis	atherosclerosis	can contribute to	
+T-1079	baking	baking	hibiscus	hibiscus	soda; and	
+T-1079	ornish	ornish	dr. walter kempner	dr. walter kempner	and the late	
+T-1079	doctors	doctors	plant-based	plant-based	to recommend a	
+T-1079	oxidation	oxidation	cholesterol	cholesterol	of high-fat,	
+T-1079	cholesterol	cholesterol	beans	beans	include ceylon cinnamon; kale; legumes, including	
+T-1079	diet	diet	cholesterol	cholesterol	to lower	
+T-1079	iron	iron	risk	risk	found in meat can contribute to atherosclerosis	
+T-1079	diabetes	diabetes	risk	risk		
+T-1079	yeast	yeast	rice	rice		
+T-1079	dairy	dairy	eggs	eggs	products, chicken, and	
+T-1079	risk	risk	disease	disease	of coronary heart	
+T-1079	cholesterol	cholesterol	heart disease	heart disease	levels can raise	
+T-1079	water	water	baking soda	baking soda	with	
+T-1079	fiber	fiber	ldl	ldl	appears to lower total cholesterol and specifically	
+T-1079	risk	risk	heart disease	heart disease	factor for heart attacks.in addition to	
+T-1079	cholesterol	cholesterol	yeast	yeast	reducer, red	
+T-1079	heme iron	heme iron	atherosclerosis	atherosclerosis	found in meat can contribute to	
+T-1079	fruits	fruits	vegetables	vegetables	and	
+T-1079	phytonutrients	phytonutrients	plant foods	plant foods	and antioxidants found in abundance in	
+T-1079	eggs	eggs	cholesterol	cholesterol	are the top source of	
+T-1079	cholesterol	cholesterol	american heart association	american heart association	is one of seven goals set by the	
+T-1079	cholesterol	cholesterol	ldl	ldl	size,	
+T-1079	cholesterol	cholesterol	risk	risk	has been linked to	
+T-1079	sexual dysfunction	sexual dysfunction	gallstones	gallstones	(see also here, here, here and here), periodontitis,	
+T-1079	american heart association	american heart association	heart disease	heart disease	to reduce u.s.	
+T-1079	amla	amla	dried apples	dried apples	or indian gooseberries (see also here); apples and	
+T-1079	walnuts	walnuts	kiwis	kiwis	(see also here), and almonds;	
+T-1079	walnuts	walnuts	almonds	almonds	(see also here), and	
+T-1079	rice	rice	lovastatin	lovastatin	is not recommended as the	
+T-1079	cholesterol	cholesterol	ceylon cinnamon	ceylon cinnamon	include	
+T-1079	health	health	doctors	doctors	care organization, has encouraged its	
+T-1079	plant foods	plant foods	dietary cholesterol	dietary cholesterol	do not contain	
+T-1079	plant-based diet	plant-based diet	fiber	fiber	high in	
+T-1079	bad cholesterol	bad cholesterol	meat	meat	numbers should be cautious of consuming	
+T-1079	kidney	kidney	dna	dna	function, and	
+T-1079	cholesterol	cholesterol	risk	risk	size, ldl seems a	
+T-1079	pain	pain	sexual dysfunction	sexual dysfunction	(see also here),	
+T-1079	red yeast rice	red yeast rice	lovastatin	lovastatin	is not recommended as the	
+T-1079	chicken	chicken	fish	fish	and	
+T-1079	baking	baking	hibiscus tea	hibiscus tea	soda; and	
+T-1079	hibiscus	hibiscus	tea	tea		
+T-1079	plant foods	plant foods	fruits	fruits	including	
+T-1079	seeds	seeds	sesame seeds	sesame seeds	including	
+T-1079	risk	risk	disease	disease	factor for heart attacks.in addition to heart	
+T-1079	beans	beans	gooseberries	gooseberries	(see also here) and soy; amla or indian	
+T-1079	dietary cholesterol	dietary cholesterol	cholesterol	cholesterol	can greatly lower	
+T-1079	water	water	tea	tea	with baking soda; and hibiscus	
+T-1079	plant foods	plant foods	cholesterol	cholesterol	do not contain dietary	
+T-1079	iron	iron	atherosclerosis	atherosclerosis	found in meat can contribute to	
+T-1079	heme iron	heme iron	risk	risk	found in meat can contribute to atherosclerosis	
+T-1079	meat	meat	chicken	chicken	(see also here), dairy products,	
+T-1079	cholesterol	cholesterol	legumes	legumes	include ceylon cinnamon; kale;	
+T-1079	heart attack	heart attack	cholesterol	cholesterol	patients are in the “normal”	
+T-1079	walnuts	walnuts	tea	tea	(see also here), and almonds; kiwis;  green	
+T-1079	cholesterol	cholesterol	egg	egg	found in a single	
+T-1079	cholesterol	cholesterol	disease	disease	levels can raise heart	
+T-1079	lead	lead	aneurism	aneurism	to an abdominal aortic	
+T-1079	diet	diet	fiber	fiber	high in	
+T-1079	cholesterol	cholesterol	arteries	arteries	in our	
+T-1079	iron	iron	meat	meat	found in	
+T-1079	atherosclerosis	atherosclerosis	risk	risk		
+T-1079	flaxseeds	flaxseeds	brazil nuts	brazil nuts	(see also here and here), specifically	
+T-1079	beans	beans	indian gooseberries	indian gooseberries	(see also here) and soy; amla or	
+T-1079	meat	meat	eggs	eggs	(see also here), dairy products, chicken, and	
+T-1079	plant foods	plant foods	cholesterol	cholesterol	that have been linked to lower	
+T-1079	saturated fat	saturated fat	dietary cholesterol	dietary cholesterol	and	
+T-1079	diet	diet	statins	statins	and/or lifestyle changes can be as effective as	
+T-1079	beef	beef	chicken	chicken	to	
+T-1079	risk	risk	cholesterol	cholesterol	by oxidizing	
+T-1079	heme iron	heme iron	meat	meat	found in	
+T-1079	saturated fat	saturated fat	cholesterol	cholesterol	and dietary	
+T-1079	usda	usda	dietary guidelines	dietary guidelines		
+T-1079	heart disease	heart disease	risk	risk		
+T-1079	apples	apples	dried apples	dried apples	and	
+T-1079	dairy	dairy	chicken	chicken	products,	
+T-1079	plant-based	plant-based	diet	diet		
+T-1079	walnuts	walnuts	green tea	green tea	(see also here), and almonds; kiwis;  	
+T-1079	disease	disease	risk	risk	(see also here), increased	
+T-1079	kidney	kidney	dna damage	dna damage	function, and	
+T-1079	amla	amla	indian gooseberries	indian gooseberries	or	
+T-1079	flaxseeds	flaxseeds	nuts	nuts	(see also here and here), specifically brazil	
+T-1079	cholesterol	cholesterol	restaurants	restaurants	than food eaten at fast-food and sit-down	
+T-1079	inflammation	inflammation	lead	lead	of the aorta, our largest artery can	
+T-1079	skin	skin	pain	pain	effects, lower back	
+T-1079	atherosclerosis	atherosclerosis	cholesterol	cholesterol	risk by oxidizing	
+T-1079	side effects	side effects	risk	risk	such as increased breast cancer	
+T-1079	eggs	eggs	cholesterol	cholesterol	have so much	
+T-1079	doctors	doctors	diet	diet	to recommend a plant-based	
+T-1079	gooseberries	gooseberries	dried apples	dried apples	(see also here); apples and	
+T-1079	plant-based	plant-based	fiber	fiber	diet high in	
+T-1079	dean ornish	dean ornish	dr. walter kempner	dr. walter kempner	and the late	
+T-1079	vegetables	vegetables	cholesterol	cholesterol	can help prevent	
+T-1079	beef	beef	fish	fish	to chicken and	
+T-1079	cholesterol	cholesterol	plaque	plaque	crystallization may be what causes atherosclerotic	
+T-1079	cholesterol	cholesterol	meat	meat	in our arteries, and heme iron found in	
+T-1079	physicians	physicians	health	health	published by kaiser permanente, the largest u.s. managed	
+T-1079	lower back pain	lower back pain	sexual dysfunction	sexual dysfunction	(see also here),	
+T-1079	plant foods	plant foods	ceylon cinnamon	ceylon cinnamon	that have been linked to lower cholesterol include	
+T-1079	fda	fda	egg	egg	guidelines, as just half of an	
+T-1079	cholesterol	cholesterol	iron	iron	in our arteries, and heme	
+T-1079	smoking	smoking	cigarettes	cigarettes	25,000	
+T-1079	plant-based diet	plant-based diet	cholesterol	cholesterol	to lower	
+T-1079	statins	statins	heart attack	heart attack	with positive side-effects.75% of	
+T-1079	plant foods	plant foods	vegetables	vegetables	including fruits and	
+T-1079	dr. walter kempner	dr. walter kempner	health	health	have promoted such diets for their	
+T-1079	plant-based	plant-based	cholesterol	cholesterol	diet to lower	
+T-1079	physicians	physicians	kaiser permanente	kaiser permanente	published by	
+T-1079	fish	fish	cholesterol	cholesterol	may not lower	
+T-1079	cholesterol	cholesterol	cinnamon	cinnamon	include ceylon	
+T-1079	antioxidants	antioxidants	plant foods	plant foods	found in abundance in	
+T-1079	skin	skin	sexual dysfunction	sexual dysfunction	effects, lower back pain (see also here),	
+T-1079	meat	meat	dairy	dairy	(see also here),	
+T-1079	apples	apples	nuts	nuts	and dried apples (see also here);	
+T-1079	ldl	ldl	cholesterol	cholesterol	(bad)	
+T-1079	ldl	ldl	risk	risk	seems a	
+T-1079	seeds	seeds	flaxseeds	flaxseeds	including sesame seeds, pistachio nuts,	
+T-1079	american heart association	american heart association	disease	disease	to reduce u.s. heart	
+T-1079	plant foods	plant foods	cholesterol	cholesterol	including fruits and vegetables can help prevent	
+T-1079	flaxseeds	flaxseeds	walnuts	walnuts	(see also here and here), specifically brazil nuts,	
+T-1079	dr. dean ornish	dr. dean ornish	dr. walter kempner	dr. walter kempner	and the late	
+T-1079	oats	oats	acai berries	acai berries	(see also here and here); defatted coconut flakes;	
+T-1079	death	death	stomach	stomach	in the u.s.  our	
+T-1079	indian gooseberries	indian gooseberries	apples	apples	(see also here);	
+T-1079	cancer	cancer	risk	risk		
+T-1079	plant-based diet	plant-based diet	cholesterol	cholesterol	to help patients lower their	
+T-1079	amla	amla	gooseberries	gooseberries	or indian	
+T-1079	baking	baking	tea	tea	soda; and hibiscus	
+T-1079	water	water	hibiscus	hibiscus	with baking soda; and	
+T-1079	plant-based diet	plant-based diet	cholesterol	cholesterol	high in fiber appears to lower total	
+T-1079	fruits	fruits	cholesterol	cholesterol	and vegetables can help prevent	
+T-1079	diabetes	diabetes	disease	disease	risk (see also here and here), alzheimer’s	
+T-1079	cholesterol	cholesterol	rice	rice	reducer, red yeast	
+T-1079	gooseberries	gooseberries	apples	apples	(see also here);	
+T-1079	walnuts	walnuts	cocoa	cocoa	(see also here), and almonds; kiwis;  green tea;	
+T-1079	skin	skin	lower back pain	lower back pain	effects,	
+T-1079	yeast	yeast	lovastatin	lovastatin	rice is not recommended as the	
+T-1079	side effects	side effects	cancer	cancer	such as increased breast	
+T-1079	risk	risk	coronary heart disease	coronary heart disease	of	
+T-1079	fiber	fiber	cholesterol	cholesterol	appears to lower total	
+T-1079	skin	skin	back pain	back pain	effects, lower	
+T-1079	antioxidants	antioxidants	fruits	fruits	found in abundance in plant foods including	
+T-1079	plant-based	plant-based	cholesterol	cholesterol	diet to help patients lower their	
+T-1079	chicken	chicken	cholesterol	cholesterol	and fish may not lower	
+T-1079	bad cholesterol	bad cholesterol	heart attacks	heart attacks	” ldl level to achieve to avoid	
+T-1079	beef	beef	cholesterol	cholesterol	to chicken and fish may not lower	
+T-1079	coffee	coffee	cholesterol	cholesterol	(see also here) may also raise	
+T-1079	ldl	ldl	cholesterol	cholesterol		
+T-1079	meat	meat	cholesterol	cholesterol	can contribute to atherosclerosis risk by oxidizing	
+T-1079	indian gooseberries	indian gooseberries	dried apples	dried apples	(see also here); apples and	
+T-1079	water	water	soda	soda	with baking	
+T-1079	water	water	hibiscus tea	hibiscus tea	with baking soda; and	
+T-1079	cholesterol	cholesterol	ldl	ldl	and specifically	
+T-1079	water	water	baking	baking	with	
+T-1079	nutrition	nutrition	physicians	physicians	update for	
+T-1079	nuts	nuts	seeds	seeds	(see also here, here, and here) and	
+T-1079	baking	baking	soda	soda		
+T-1079	diet	diet	cholesterol	cholesterol	to help patients lower their	
+T-1079	stomach	stomach	oxidation	oxidation	may act as a bioreactor for the	
+T-1079	plaque	plaque	heart attacks	heart attacks	rupture, the trigger for	
+T-1079	beans	beans	soy	soy	(see also here) and	
+T-1079	cholesterol	cholesterol	kale	kale	include ceylon cinnamon;	
+T-1079	risk	risk	heart disease	heart disease	of coronary	
+T-1079	phytonutrients	phytonutrients	antioxidants	antioxidants	and	

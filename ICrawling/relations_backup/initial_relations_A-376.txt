@@ -1,0 +1,55 @@
+
+A-376	postmenopausal	postmenopausal	women	women		
+A-376	premarin	premarin	cancer	cancer	appears to increase the risk of breast	
+A-376	risk	risk	breast cancer	breast cancer	of	
+A-376	cancer prevention	cancer prevention	treatment	treatment	and	
+A-376	risk	risk	cancer	cancer	of breast	
+A-376	risk	risk	heart attacks	heart attacks	of breast cancer (as well as strokes,	
+A-376	breast cancer	breast cancer	blood clots	blood clots	(as well as strokes, heart attacks, and	
+A-376	breast cancer	breast cancer	prevention	prevention		
+A-376	chemo	chemo	screening	screening	it can be too late, so researchers started	
+A-376	diet	diet	cancer	cancer	in hopes of preventing	
+A-376	spinach	spinach	aromatase	aromatase	dropped	
+A-376	premarin	premarin	urine	urine	(so-named because it’s made from pregnant mare	
+A-376	vegetables	vegetables	breast cancer	breast cancer	versus	
+A-376	premarin	premarin	pregnant	pregnant	(so-named because it’s made from	
+A-376	spinach	spinach	mushrooms	mushrooms	dropped aromatase activity by about 20%, but	
+A-376	drugs	drugs	chemotherapy	chemotherapy	that are used as	
+A-376	pregnant	pregnant	urine	urine	mare	
+A-376	cancer cells	cancer cells	estrogen	estrogen	synthesize	
+A-376	cancer	cancer	treatment	treatment	prevention and	
+A-376	mushrooms	mushrooms	arteries	arteries	in making our	
+A-376	tumors	tumors	postmenopausal	postmenopausal	in	
+A-376	cancer	cancer	aromatase	aromatase	cells synthesize estrogen themselves using an enzyme called	
+A-376	breast cancer	breast cancer	estrogen	estrogen	cells synthesize	
+A-376	aromatase	aromatase	chemotherapy	chemotherapy	inhibitor drugs that are used as	
+A-376	breast cancer	breast cancer	heart attacks	heart attacks	(as well as strokes,	
+A-376	estrogen	estrogen	tumors	tumors	around, many breast	
+A-376	postmenopausal	postmenopausal	estrogen	estrogen	women is that there isn’t much	
+A-376	aromatase	aromatase	drugs	drugs	inhibitor	
+A-376	raw	raw	mushrooms	mushrooms		
+A-376	women	women	estrogen	estrogen	is that there isn’t much	
+A-376	prevention	prevention	treatment	treatment	and	
+A-376	premarin	premarin	breast cancer	breast cancer	appears to increase the risk of	
+A-376	breast cancer	breast cancer	blood	blood	(as well as strokes, heart attacks, and	
+A-376	cancer cells	cancer cells	aromatase	aromatase	synthesize estrogen themselves using an enzyme called	
+A-376	tumors	tumors	women	women	in postmenopausal	
+A-376	cancer	cancer	blood	blood	(as well as strokes, heart attacks, and	
+A-376	mutations	mutations	immune system	immune system	to grow even quicker and better undermine our	
+A-376	cancer	cancer	blood clots	blood clots	(as well as strokes, heart attacks, and	
+A-376	premarin	premarin	risk	risk	appears to increase the	
+A-376	toxins	toxins	raw	raw	in	
+A-376	aromatase	aromatase	mushrooms	mushrooms	activity by about 20%, but	
+A-376	tumors	tumors	estrogen	estrogen	in postmenopausal women is that there isn’t much	
+A-376	tumors	tumors	estrogen	estrogen	are	
+A-376	estrogen	estrogen	aromatase	aromatase	themselves using an enzyme called	
+A-376	vegetables	vegetables	anti-aromatase	anti-aromatase	 with significant	
+A-376	women	women	premarin	premarin	stopped taking	
+A-376	plant-based	plant-based	bioidentical hormones	bioidentical hormones		
+A-376	cancer	cancer	prevention	prevention		
+A-376	cancer	cancer	heart attacks	heart attacks	(as well as strokes,	
+A-376	vegetables	vegetables	cancer	cancer	versus breast	
+A-376	toxins	toxins	mushrooms	mushrooms	in raw	
+A-376	plant-based	plant-based	hormones	hormones	bioidentical	
+A-376	cancer	cancer	estrogen	estrogen	cells synthesize	
+A-376	breast cancer	breast cancer	aromatase	aromatase	cells synthesize estrogen themselves using an enzyme called	

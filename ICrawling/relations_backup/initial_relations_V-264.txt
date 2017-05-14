@@ -1,0 +1,35 @@
+
+V-264	fiber	fiber	diverticulosis	diverticulosis	won’t protect against	
+V-264	diet	diet	diverticulosis	diverticulosis	was not associated with	
+V-264	vitamin c	vitamin c	diet	diet		
+V-264	diet	diet	lemon	lemon	is not associated with scurvy.see, a wedge of	
+V-264	dr. james linde	dr. james linde	fruits	fruits	had this radical theory that citrus	
+V-264	plant-based	plant-based	fiber	fiber	diets containing 70 to 90 grams of	
+V-264	risk	risk	death	death	of both hospitalization and	
+V-264	diverticulosis	diverticulosis	african	african	rates.the	
+V-264	african	african	diverticulosis	diverticulosis	populations, where they had essentially no	
+V-264	vegetarian	vegetarian	diet	diet		
+V-264	diet	diet	diverticulosis	diverticulosis	may not protect against	
+V-264	fiber	fiber	diverticulosis	diverticulosis	intake and	
+V-264	dr. james linde	dr. james linde	citrus	citrus	had this radical theory that	
+V-264	plant-based diets	plant-based diets	fiber	fiber	containing 70 to 90 grams of	
+V-264	death	death	disease	disease	from diverticular	
+V-264	fiber	fiber	risk	risk	were both associated with a lower	
+V-264	juice	juice	lemon	lemon	of either one wedge of	
+V-264	plants	plants	vitamin c	vitamin c	that we likely averaged around 600mg of	
+V-264	risk	risk	disease	disease	of both hospitalization and death from diverticular	
+V-264	fruits	fruits	scurvy	scurvy	could cure	
+V-264	scurvy	scurvy	lemon	lemon	.see, a wedge of	
+V-264	vegetarians	vegetarians	plant foods	plant foods	don’t even eat that many whole	
+V-264	fiber	fiber	diverticulosis	diverticulosis	theory of the development of	
+V-264	plant-based	plant-based	risk	risk	appeared to be at 78% lower	
+V-264	vegetarian	vegetarian	fiber	fiber	diet and a high intake of dietary	
+V-264	vegetarian	vegetarian	plant-based	plant-based	was 35% lower risk, and those eating strictly	
+V-264	vegetarian	vegetarian	risk	risk	was 35% lower	
+V-264	diet	diet	fiber	fiber	and a high intake of dietary	
+V-264	citrus	citrus	scurvy	scurvy	fruits could cure	
+V-264	diet	diet	scurvy	scurvy	is not associated with	
+V-264	fiber	fiber	vegetarians	vegetarians	a day.most	
+V-264	lemon	lemon	vitamin c	vitamin c	only yields about 2mg of	
+V-264	citrus	citrus	fruits	fruits		
+V-264	vitamin c	vitamin c	scurvy	scurvy	diet is not associated with	

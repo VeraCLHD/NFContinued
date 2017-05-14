@@ -1,0 +1,12 @@
+
+T-1077	lavender	lavender	tea	tea		
+T-1077	disease	disease	lavender	lavender	to generalized anxiety.taken internally in capsule form,	
+T-1077	disease	disease	anxiety	anxiety	to generalized	
+T-1077	lavender	lavender	migraine	migraine	essential oil could potentially stack up against conventional	
+T-1077	tea	tea	stress	stress	is commonly suggested to reduce	
+T-1077	lavender	lavender	anxiety	anxiety	has been found to effectively treat generalized	
+T-1077	migraine	migraine	headaches	headaches		
+T-1077	lavender	lavender	side effects	side effects	may be a safer alternative, due to the	
+T-1077	lavender	lavender	stress	stress	tea is commonly suggested to reduce	
+T-1077	anxiety	anxiety	lavender	lavender	.taken internally in capsule form,	
+T-1077	lavender essential oil	lavender essential oil	migraine	migraine	could potentially stack up against conventional	

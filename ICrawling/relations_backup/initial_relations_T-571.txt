@@ -1,0 +1,46 @@
+
+T-571	gluten	gluten	fibromyalgia	fibromyalgia	sensitivity,	
+T-571	depression	depression	fish	fish	include mercury (mostly from	
+T-571	disease	disease	heart disease	heart disease	and	
+T-571	fruit	fruit	mood	mood	and vegetable intake, may improve	
+T-571	depression	depression	risk	risk	may be a	
+T-571	mood	mood	depression	depression	and decrease	
+T-571	flaxseeds	flaxseeds	walnuts	walnuts	and	
+T-571	plant-based	plant-based	arachidonic acid	arachidonic acid	diets supply lower levels of	
+T-571	mercury	mercury	aspartame	aspartame	(mostly from fish) and the artificial sweetener	
+T-571	mozart	mozart	anxiety	anxiety	can also decrease depression and	
+T-571	fruit	fruit	depression	depression	and vegetable intake, may improve mood and decrease	
+T-571	depression	depression	walnuts	walnuts	include turmeric, saffron, probiotics, flaxseeds and	
+T-571	amino acid	amino acid	ciguatera	ciguatera	tryptophan, vitamin b-12 deficiency,	
+T-571	depression	depression	sweetener	sweetener	include mercury (mostly from fish) and the artificial	
+T-571	depression	depression	mercury	mercury	include	
+T-571	depression	depression	saffron	saffron	include turmeric,	
+T-571	depression	depression	gluten	gluten	can be a symptom of	
+T-571	pork	pork	tapeworms	tapeworms		
+T-571	mercury	mercury	fish	fish	(mostly from	
+T-571	depression	depression	fibromyalgia	fibromyalgia	can be a symptom of gluten sensitivity,	
+T-571	amino acid	amino acid	testosterone	testosterone	tryptophan, vitamin b-12 deficiency, ciguatera poisoning, low	
+T-571	mercury	mercury	sweetener	sweetener	(mostly from fish) and the artificial	
+T-571	gluten	gluten	tryptophan	tryptophan	sensitivity, fibromyalgia, deficiency of the amino acid	
+T-571	ciguatera	ciguatera	tapeworms	tapeworms	poisoning, low testosterone, and pork	
+T-571	depression	depression	flaxseeds	flaxseeds	include turmeric, saffron, probiotics,	
+T-571	risk	risk	disease	disease	factor for alzheimer’s	
+T-571	gluten	gluten	amino acid	amino acid	sensitivity, fibromyalgia, deficiency of the	
+T-571	mozart	mozart	depression	depression	can also decrease	
+T-571	depression	depression	anxiety	anxiety	and	
+T-571	depression	depression	disease	disease	may be a risk factor for alzheimer’s	
+T-571	risk	risk	mercury	mercury	of depression include	
+T-571	exercise	exercise	depression	depression	can help prevent	
+T-571	plant-based diets	plant-based diets	arachidonic acid	arachidonic acid	supply lower levels of	
+T-571	risk	risk	fish	fish	of depression include mercury (mostly from	
+T-571	ciguatera	ciguatera	testosterone	testosterone	poisoning, low	
+T-571	plant-based	plant-based	fruit	fruit	diets, high in	
+T-571	depression	depression	probiotics	probiotics	include turmeric, saffron,	
+T-571	fish	fish	sweetener	sweetener	) and the artificial	
+T-571	fish	fish	aspartame	aspartame	) and the artificial sweetener	
+T-571	risk	risk	depression	depression	of	
+T-571	sweetener	sweetener	aspartame	aspartame		
+T-571	ciguatera	ciguatera	pork	pork	poisoning, low testosterone, and	
+T-571	risk	risk	heart disease	heart disease	factor for alzheimer’s disease and	
+T-571	amino acid	amino acid	tryptophan	tryptophan		
+T-571	depression	depression	turmeric	turmeric	include	

@@ -1,0 +1,25 @@
+
+T-824	ginger	ginger	pie	pie	to a healthy pumpkin	
+T-824	dna	dna	nausea	nausea	breakage,	
+T-824	dna damage	dna damage	pollutants	pollutants	from radiation and provide some protection from industrial	
+T-824	dna	dna	migraines	migraines	breakage, nausea,	
+T-824	dna	dna	industrial pollutants	industrial pollutants	damage from radiation and provide some protection from	
+T-824	ginger	ginger	chai tea	chai tea	is an ingredient in	
+T-824	ginger	ginger	dna	dna	may also reduce	
+T-824	amyloid	amyloid	disease	disease	beta build-up, which is involved in alzheimer’s	
+T-824	radiation	radiation	industrial pollutants	industrial pollutants	and provide some protection from	
+T-824	ginger	ginger	inflammation	inflammation	may reduce hypertension,	
+T-824	ginger	ginger	migraines	migraines	may reduce hypertension, inflammation, dna breakage, nausea,	
+T-824	ginger	ginger	tea	tea	is an ingredient in chai	
+T-824	ginger	ginger	dna	dna	may reduce hypertension, inflammation,	
+T-824	ginger	ginger	radiation	radiation	may also reduce dna damage from	
+T-824	ginger	ginger	dna damage	dna damage	may also reduce	
+T-824	ginger	ginger	nausea	nausea	may reduce hypertension, inflammation, dna breakage,	
+T-824	ginger	ginger	hypertension	hypertension	may reduce	
+T-824	dna damage	dna damage	industrial pollutants	industrial pollutants	from radiation and provide some protection from	
+T-824	pumpkin	pumpkin	pie	pie		
+T-824	dna	dna	radiation	radiation	damage from	
+T-824	dna damage	dna damage	radiation	radiation	from	
+T-824	dna	dna	amyloid	amyloid	breakage, nausea, migraines, and	
+T-824	radiation	radiation	pollutants	pollutants	and provide some protection from industrial	
+T-824	ginger	ginger	pumpkin	pumpkin	to a healthy	

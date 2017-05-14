@@ -1,0 +1,23 @@
+
+V-1055	blood	blood	pregnancy	pregnancy	count’s okay, is supplemental iron during	
+V-1055	pregnant women	pregnant women	iron	iron	should not take	
+V-1055	iron	iron	pregnant women	pregnant women	supplements were harmful, but what about for	
+V-1055	iron supplements	iron supplements	women	women	were harmful, but what about for pregnant	
+V-1055	iron supplements	iron supplements	pregnant women	pregnant women	were harmful, but what about for	
+V-1055	pregnant	pregnant	iron supplements	iron supplements	women should not take	
+V-1055	women	women	supplements	supplements	should not take iron	
+V-1055	iron	iron	supplements	supplements		
+V-1055	supplements	supplements	pregnant women	pregnant women	were harmful, but what about for	
+V-1055	pregnant	pregnant	women	women		
+V-1055	women	women	iron supplements	iron supplements	should not take	
+V-1055	blood	blood	iron	iron	count’s okay, is supplemental	
+V-1055	iron	iron	pregnant	pregnant	supplements were harmful, but what about for	
+V-1055	supplements	supplements	women	women	were harmful, but what about for pregnant	
+V-1055	pregnant women	pregnant women	supplements	supplements	should not take iron	
+V-1055	iron	iron	women	women	supplements were harmful, but what about for pregnant	
+V-1055	pregnant	pregnant	supplements	supplements	women should not take iron	
+V-1055	women	women	iron	iron	should not take	
+V-1055	iron supplements	iron supplements	pregnant	pregnant	were harmful, but what about for	
+V-1055	pregnant	pregnant	iron	iron	women should not take	
+V-1055	pregnant women	pregnant women	iron supplements	iron supplements	should not take	
+V-1055	supplements	supplements	pregnant	pregnant	were harmful, but what about for	

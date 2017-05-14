@@ -1,0 +1,88 @@
+
+T-1350	risk	risk	dental	dental	of	
+T-1350	bioaccumulation	bioaccumulation	contamination	contamination	leads to the	
+T-1350	meat	meat	organic	organic	products with persistent	
+T-1350	tea	tea	plaque	plaque	may help prevent the growth of	
+T-1350	children	children	tea	tea	should be careful to limit their	
+T-1350	chlorhexidine	chlorhexidine	antiseptic	antiseptic		
+T-1350	risk	risk	dental fluorosis	dental fluorosis	of	
+T-1350	risk	risk	common cold	common cold	of the	
+T-1350	meat	meat	pollutants	pollutants	products with persistent organic	
+T-1350	green tea	green tea	plaque	plaque	may help prevent the growth of	
+T-1350	cranberries	cranberries	cancer	cancer	have anti-proliferative effects on	
+T-1350	plant-based	plant-based	diet	diet		
+T-1350	apple	apple	cancer	cancer	a day has been linked with less oral	
+T-1350	meat	meat	organic pollutants	organic pollutants	products with persistent	
+T-1350	dairy	dairy	persistent organic pollutants	persistent organic pollutants	and meat products with	
+T-1350	organic	organic	pollutants	pollutants		
+T-1350	variety	variety	phytonutrients	phytonutrients	of	
+T-1350	green tea	green tea	risk	risk	during childhood may increase	
+T-1350	plaque	plaque	bacteria	bacteria		
+T-1350	teeth	teeth	mercury	mercury	contain	
+T-1350	precancerous lesions	precancerous lesions	mouth	mouth	in the	
+T-1350	risk	risk	cold	cold	of the common	
+T-1350	cancer	cancer	disease	disease	as well as gum	
+T-1350	plant-based diets	plant-based diets	cancer	cancer	may help prevent oral	
+T-1350	plant-based diets	plant-based diets	oral cancer	oral cancer	may help prevent	
+T-1350	green tea	green tea	fluorosis	fluorosis	during childhood may increase risk of dental	
+T-1350	beverages	beverages	hibiscus	hibiscus	such as	
+T-1350	fluorosis	fluorosis	fluoride	fluoride	– or discoloration- due to its natural	
+T-1350	vegetables	vegetables	oral health	oral health	contain a vast variety of phytonutrients that promote	
+T-1350	citrus	citrus	fruits	fruits	and sour	
+T-1350	tea	tea	gargling	gargling	may be protective against radiation-induced oxidative stress.	
+T-1350	beverages	beverages	tea	tea	such as hibiscus	
+T-1350	variety	variety	health	health	of phytonutrients that promote oral	
+T-1350	beverages	beverages	hibiscus tea	hibiscus tea	such as	
+T-1350	plant-based	plant-based	cancer	cancer	diets may help prevent oral	
+T-1350	dairy	dairy	organic	organic	and meat products with persistent	
+T-1350	plant-based	plant-based	vitamin b12	vitamin b12	diet,	
+T-1350	amalgam fillings	amalgam fillings	mercury	mercury	in our teeth contain	
+T-1350	fruits	fruits	vegetables	vegetables	and	
+T-1350	contamination	contamination	meat	meat	of dairy and	
+T-1350	meat	meat	persistent organic pollutants	persistent organic pollutants	products with	
+T-1350	raspberries	raspberries	precancerous	precancerous	may result in the regression of	
+T-1350	dairy	dairy	organic pollutants	organic pollutants	and meat products with persistent	
+T-1350	milk	milk	canker sores	canker sores	may also be linked to recurring	
+T-1350	phytonutrients	phytonutrients	oral health	oral health	that promote	
+T-1350	organic	organic	disease	disease	pollutants, which may be linked to gum	
+T-1350	bacteria	bacteria	antiseptic	antiseptic	without the genetic damage associated with chlorhexidine	
+T-1350	green tea	green tea	bacteria	bacteria	may help prevent the growth of plaque	
+T-1350	vegetables	vegetables	variety	variety	contain a vast	
+T-1350	curcumin	curcumin	turmeric	turmeric	in	
+T-1350	fruits	fruits	phytonutrients	phytonutrients	and vegetables contain a vast variety of	
+T-1350	immune system	immune system	mouth	mouth	starts attacking the lining of the	
+T-1350	green tea	green tea	dental	dental	during childhood may increase risk of	
+T-1350	dental fluorosis	dental fluorosis	fluoride	fluoride	– or discoloration- due to its natural	
+T-1350	fruits	fruits	variety	variety	and vegetables contain a vast	
+T-1350	tea	tea	bacteria	bacteria	may help prevent the growth of plaque	
+T-1350	contamination	contamination	persistent organic pollutants	persistent organic pollutants	of dairy and meat products with	
+T-1350	antioxidants	antioxidants	tea	tea	from lemonbalm	
+T-1350	dairy	dairy	pollutants	pollutants	and meat products with persistent organic	
+T-1350	black raspberries	black raspberries	precancerous lesions	precancerous lesions	may result in the regression of	
+T-1350	bacteria	bacteria	chlorhexidine	chlorhexidine	without the genetic damage associated with	
+T-1350	tea	tea	green tea	green tea	drinking, as the overconsumption of	
+T-1350	contamination	contamination	organic pollutants	organic pollutants	of dairy and meat products with persistent	
+T-1350	bioaccumulation	bioaccumulation	dairy	dairy	leads to the contamination of	
+T-1350	precancerous	precancerous	mouth	mouth	lesions in the	
+T-1350	hibiscus	hibiscus	tea	tea		
+T-1350	plaque	plaque	chlorhexidine	chlorhexidine	bacteria without the genetic damage associated with	
+T-1350	vegetables	vegetables	phytonutrients	phytonutrients	contain a vast variety of	
+T-1350	bioaccumulation	bioaccumulation	meat	meat	leads to the contamination of dairy and	
+T-1350	amalgam fillings	amalgam fillings	teeth	teeth	in our	
+T-1350	phytonutrients	phytonutrients	health	health	that promote oral	
+T-1350	plant-based	plant-based	b12	b12	diet, vitamin	
+T-1350	green tea	green tea	dental fluorosis	dental fluorosis	during childhood may increase risk of	
+T-1350	plaque	plaque	antiseptic	antiseptic	bacteria without the genetic damage associated with chlorhexidine	
+T-1350	variety	variety	oral health	oral health	of phytonutrients that promote	
+T-1350	plant-based	plant-based	oral cancer	oral cancer	diets may help prevent	
+T-1350	contamination	contamination	dairy	dairy	of	
+T-1350	contamination	contamination	pollutants	pollutants	of dairy and meat products with persistent organic	
+T-1350	raspberries	raspberries	precancerous lesions	precancerous lesions	may result in the regression of	
+T-1350	dental	dental	fluoride	fluoride	fluorosis– or discoloration- due to its natural	
+T-1350	apple	apple	oral cancer	oral cancer	a day has been linked with less	
+T-1350	risk	risk	fluorosis	fluorosis	of dental	
+T-1350	dental	dental	fluorosis	fluorosis		
+T-1350	oral cancer	oral cancer	disease	disease	as well as gum	
+T-1350	black raspberries	black raspberries	precancerous	precancerous	may result in the regression of	
+T-1350	dairy	dairy	meat	meat	and	
+T-1350	contamination	contamination	organic	organic	of dairy and meat products with persistent	

@@ -1,0 +1,22 @@
+
+V-191	fruits	fruits	scurvy	scurvy	were shown to cure	
+V-191	mayo clinic	mayo clinic	supplements	supplements	studies, they gave the vitamin c orally in	
+V-191	medical community	medical community	vitamin c	vitamin c	concluded that	
+V-191	immune system	immune system	chemo	chemo	and your immune system is first destroyed by	
+V-191	vitamin c	vitamin c	cancer	cancer	in	
+V-191	mayo clinic	mayo clinic	vitamin c	vitamin c	studies, they gave the	
+V-191	placebo	placebo	sugar	sugar		
+V-191	chemotherapy	chemotherapy	mayo clinic	mayo clinic	in nearly all the	
+V-191	vitamin c	vitamin c	treatment	treatment	in cancer	
+V-191	vitamin c	vitamin c	cancer treatment	cancer treatment	in	
+V-191	vitamin c	vitamin c	cancer	cancer	therapy is not effective against advanced	
+V-191	placebo	placebo	pills	pills	sugar	
+V-191	citrus	citrus	scurvy	scurvy	fruits were shown to cure	
+V-191	sugar	sugar	placebos	placebos	pill	
+V-191	vitamin c	vitamin c	supplements	supplements	orally in	
+V-191	cancer	cancer	treatment	treatment		
+V-191	citrus	citrus	fruits	fruits		
+V-191	fruits	fruits	vegetables	vegetables	and	
+V-191	sugar	sugar	pills	pills		
+V-191	cancer	cancer	vitamin c	vitamin c	patients treated with	
+V-191	cancer	cancer	vitamin c	vitamin c	in the	

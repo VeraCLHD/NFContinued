@@ -1,0 +1,29 @@
+
+V-116	cheap	cheap	vitamin d	vitamin d	as	
+V-116	sunlight	sunlight	rickets	rickets	could cure the vitamin d deficiency disease	
+V-116	vitamin d	vitamin d	disease	disease	didn’t lead to	
+V-116	supplements	supplements	mortality	mortality	appear to genuinely work is helping to prevent	
+V-116	babies	babies	sun	sun	could benefit from the	
+V-116	risk	risk	cancer	cancer	of dying from	
+V-116	plants	plants	yeast	yeast	and animals—not vitamin d2, the type derived from	
+V-116	vitamin d	vitamin d	supplements	supplements		
+V-116	cheap	cheap	vitamin d supplements	vitamin d supplements	as	
+V-116	longevity	longevity	vitamin d	vitamin d	benefit from	
+V-116	lead	lead	disease	disease	to	
+V-116	vitamin d	vitamin d	rickets	rickets	deficiency disease	
+V-116	supplements	supplements	risk	risk	lived longer, also specifically lowering the	
+V-116	lead	lead	vitamin d	vitamin d	to disease, but maybe disease led to low	
+V-116	sunlight	sunlight	vitamin d	vitamin d	could cure the	
+V-116	vitamin d supplements	vitamin d supplements	risk	risk	lived longer, also specifically lowering the	
+V-116	vitamin d	vitamin d	supplements	supplements	status.but when researchers put	
+V-116	supplements	supplements	placebos	placebos	or	
+V-116	vitamin d supplements	vitamin d supplements	mortality	mortality	appear to genuinely work is helping to prevent	
+V-116	vitamin d	vitamin d	disease	disease	deficiency	
+V-116	sunlight	sunlight	disease	disease	could cure the vitamin d deficiency	
+V-116	vitamin d	vitamin d	lead	lead	didn’t	
+V-116	plants	plants	vitamin d2	vitamin d2	and animals—not	
+V-116	disease	disease	rickets	rickets		
+V-116	cheap	cheap	supplements	supplements	as vitamin d	
+V-116	sugar	sugar	pills	pills		
+V-116	disease	disease	vitamin d	vitamin d	seem to be correlated doesn’t mean that	
+V-116	vitamin d	vitamin d	risk	risk	supplements lived longer, also specifically lowering the	

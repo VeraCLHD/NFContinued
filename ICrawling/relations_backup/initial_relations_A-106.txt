@@ -1,0 +1,89 @@
+
+A-106	triglyceride levels	triglyceride levels	bread	bread	better than regular gluten	
+A-106	gluten	gluten	celiac disease	celiac disease	-related conditions: wheat allergy,	
+A-106	whole grains	whole grains	grains	grains	—including the gluten	
+A-106	celiac disease	celiac disease	wheat	wheat	or	
+A-106	wheat	wheat	celiac disease	celiac disease	allergy,	
+A-106	gluten	gluten	gut	gut	-free diet may adversely affect	
+A-106	protein	protein	gluten	gluten		
+A-106	gluten	gluten	wheat	wheat	or	
+A-106	whole grains	whole grains	wheat	wheat	—including the gluten grains	
+A-106	gut	gut	health	health		
+A-106	whole grains	whole grains	barley	barley	—including the gluten grains wheat,	
+A-106	gluten	gluten	health	health	-free diet may adversely affect gut	
+A-106	grains	grains	rye	rye	—including the gluten grains wheat, barley and	
+A-106	gluten	gluten	protein	protein		
+A-106	gluten	gluten	public health	public health	from their lives, can be considered a	
+A-106	flora	flora	immune function	immune function	and	
+A-106	flora	flora	prebiotics	prebiotics	happy in videos such as	
+A-106	gluten	gluten	grains	grains		
+A-106	diet	diet	flora	flora	may hurt our gut	
+A-106	whole grains	whole grains	health	health	—including the gluten grains wheat, barley and rye—are	
+A-106	diet	diet	gut flora	gut flora	may hurt our	
+A-106	grains	grains	wheat	wheat	—including the gluten grains	
+A-106	diet	diet	health	health	may adversely affect gut	
+A-106	gluten	gluten	celiac disease	celiac disease	withdrawal may undermine our ability to detect	
+A-106	diet	diet	celiac disease	celiac disease	may adversely affect gut health in those without	
+A-106	drugs	drugs	disease	disease	and alzheimer’s	
+A-106	gluten	gluten	triglyceride levels	triglyceride levels	bread improved	
+A-106	grains	grains	whole grains	whole grains	in general in	
+A-106	wheat	wheat	gluten	gluten	allergy, celiac disease, and	
+A-106	wheat	wheat	protein	protein		
+A-106	gut	gut	gluten	gluten	health in those without celiac disease,	
+A-106	health	health	gluten	gluten	professionals don’t want to see people on	
+A-106	risk	risk	diabetes	diabetes	of coronary heart disease, cancer,	
+A-106	gut	gut	prebiotics	prebiotics	flora happy in videos such as	
+A-106	grains	grains	barley	barley	—including the gluten grains wheat,	
+A-106	barley	barley	health	health	and rye—are	
+A-106	whole grains	whole grains	rye	rye	—including the gluten grains wheat, barley and	
+A-106	gut	gut	immune function	immune function	flora and	
+A-106	wheat	wheat	disease	disease	allergy, celiac	
+A-106	barley	barley	risk	risk	and rye—are health promoting, linked to reduced	
+A-106	risk	risk	disease	disease	of coronary heart	
+A-106	disease	disease	allergies	allergies	or wheat	
+A-106	gluten	gluten	bread	bread		
+A-106	bread	bread	triglyceride levels	triglyceride levels	improved	
+A-106	barley	barley	rye	rye	and	
+A-106	health	health	gluten	gluten	in those without celiac disease,	
+A-106	rye	rye	health	health	—are	
+A-106	wheat	wheat	fructans	fructans	sensitive people have problems with, like fodmap and	
+A-106	diet	diet	immune function	immune function	may hurt our gut flora and	
+A-106	gut	gut	celiac disease	celiac disease	health in those without	
+A-106	rye	rye	risk	risk	—are health promoting, linked to reduced	
+A-106	gluten	gluten	bread	bread	packed	
+A-106	celiac disease	celiac disease	allergies	allergies	or wheat	
+A-106	health	health	wheat	wheat	in those without celiac disease, gluten sensitivity, or	
+A-106	gluten	gluten	health	health	from their lives, can be considered a public	
+A-106	gluten	gluten	wheat	wheat	-related conditions:	
+A-106	health	health	celiac disease	celiac disease	in those without	
+A-106	prebiotics	prebiotics	bacteria	bacteria	and feed our good	
+A-106	cancer	cancer	viral infections	viral infections	and	
+A-106	disease	disease	wheat	wheat	or	
+A-106	grains	grains	gluten	gluten	—including the	
+A-106	triglyceride levels	triglyceride levels	gluten	gluten	better than regular	
+A-106	inflammation	inflammation	gluten	gluten	caused by	
+A-106	wheat	wheat	gluten	gluten	protein	
+A-106	gut	gut	flora	flora		
+A-106	risk	risk	cancer	cancer	of coronary heart disease,	
+A-106	health	health	disease	disease	in those without celiac	
+A-106	whole grains	whole grains	grains	grains	in general in whole	
+A-106	risk	risk	obesity	obesity	of coronary heart disease, cancer, diabetes,	
+A-106	risk	risk	coronary heart disease	coronary heart disease	of	
+A-106	whole grains	whole grains	gluten	gluten	—including the	
+A-106	cancer	cancer	infections	infections	and viral	
+A-106	gluten	gluten	diet	diet	-free	
+A-106	gluten	gluten	disease	disease	-related conditions: wheat allergy, celiac	
+A-106	gut flora	gut flora	prebiotics	prebiotics	happy in videos such as	
+A-106	rye	rye	coronary heart disease	coronary heart disease	—are health promoting, linked to reduced risk of	
+A-106	diet	diet	gut	gut	may hurt our	
+A-106	gluten	gluten	disease	disease	withdrawal may undermine our ability to detect celiac	
+A-106	diet	diet	gut	gut	may adversely affect	
+A-106	peanut	peanut	peanuts	peanuts	allergy doesn’t mean everyone should avoid	
+A-106	gut	gut	disease	disease	health in those without celiac	
+A-106	wheat	wheat	celiac disease	celiac disease	allergy, and nearly 1 in 100 may have	
+A-106	bread	bread	gluten	gluten	improved triglyceride levels better than regular	
+A-106	gluten	gluten	diet	diet	sensitivity should consider reintroducing gluten back into their	
+A-106	gut flora	gut flora	immune function	immune function	and	
+A-106	medical profession	medical profession	wheat	wheat	now recognizes	
+A-106	grains	grains	health	health	—including the gluten grains wheat, barley and rye—are	
+A-106	risk	risk	heart disease	heart disease	of coronary	

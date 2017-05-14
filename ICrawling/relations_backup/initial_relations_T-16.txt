@@ -1,0 +1,39 @@
+
+T-16	disease	disease	prostate	prostate	and cancers of the breast and	
+T-16	hormones	hormones	milk	milk	were found in skim	
+T-16	chronic diseases	chronic diseases	obesity	obesity	including	
+T-16	acne	acne	dairy	dairy	and	
+T-16	milk	milk	acne	acne	consumption and	
+T-16	disease	disease	teenagers	teenagers	that affects 85% of	
+T-16	dairy	dairy	adolescence	adolescence	consumption in	
+T-16	women	women	diet	diet	eating a conventional	
+T-16	skin	skin	disease	disease		
+T-16	antioxidant	antioxidant	fruit	fruit		
+T-16	harvard	harvard	dairy	dairy	studies linked acne and	
+T-16	dairy	dairy	acne	acne	intake and severe, physician-diagnosed	
+T-16	milk	milk	leucine	leucine	has three times more	
+T-16	harvard	harvard	dairy	dairy	nurses’ study found an association between high school	
+T-16	acne	acne	adolescence	adolescence	and dairy consumption in	
+T-16	milk	milk	hormones	hormones	(even without added	
+T-16	hormones	hormones	dairy	dairy	as full-fat	
+T-16	hormones	hormones	skim milk	skim milk	were found in	
+T-16	harvard	harvard	acne	acne	studies linked	
+T-16	dairy	dairy	tor	tor	consumption could lead to over-stimulation of	
+T-16	acne	acne	disease	disease	is a prevalent skin	
+T-16	milk	milk	dairy	dairy	contains the same hormones as full-fat	
+T-16	harvard	harvard	adolescence	adolescence	studies linked acne and dairy consumption in	
+T-16	chronic diseases	chronic diseases	diabetes	diabetes	including obesity,	
+T-16	dairy	dairy	milk	milk	consumption, and the consumption of cow’s	
+T-16	hormones	hormones	dairy	dairy	found in	
+T-16	lead	lead	tor	tor	to over-stimulation of	
+T-16	acne	acne	skin	skin	is a prevalent	
+T-16	antioxidant	antioxidant	acne	acne	fruit, on	
+T-16	skin	skin	teenagers	teenagers	disease that affects 85% of	
+T-16	twins	twins	plant-based	plant-based	than those eating	
+T-16	diet	diet	acne	acne	may improve	
+T-16	skin disease	skin disease	teenagers	teenagers	that affects 85% of	
+T-16	acne	acne	skin disease	skin disease	is a prevalent	
+T-16	chronic diseases	chronic diseases	disease	disease	including obesity, diabetes, alzheimer’s	
+T-16	lead	lead	milk	milk	to over-stimulation of tor in humans.organic	
+T-16	dairy	dairy	acne	acne	may be considered a major cause of the	
+T-16	dairy	dairy	lead	lead	consumption could	

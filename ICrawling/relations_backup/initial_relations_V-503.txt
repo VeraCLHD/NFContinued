@@ -1,0 +1,111 @@
+
+V-503	egg	egg	women	women	intake.apparently, the more eggs	
+V-503	risk	risk	pregnancy	pregnancy	during	
+V-503	diabetes	diabetes	animal fat	animal fat	.but, if it’s not just the	
+V-503	diabetes	diabetes	women	women	in	
+V-503	pregnant	pregnant	women	women		
+V-503	harvard	harvard	animal fat	animal fat	study found that “[h]igher prepregnancy intakes of	
+V-503	high blood sugar	high blood sugar	pregnant	pregnant	levels that develop when you’re	
+V-503	animal products	animal products	risk	risk	was associated with increased	
+V-503	pregnant	pregnant	vegetarian	vegetarian	women who eat	
+V-503	pregnant	pregnant	pregnancy	pregnancy	—”is one of the most common complications of	
+V-503	harvard	harvard	health	health	nurses’	
+V-503	iron	iron	diabetes	diabetes	is associated with an increased [gestational	
+V-503	risk	risk	diabetes	diabetes	of gestational	
+V-503	blood	blood	pregnant	pregnant	sugar levels that develop when you’re	
+V-503	cholesterol	cholesterol	risk	risk	were associated with elevated [gestational diabetes]	
+V-503	risk	risk	egg	egg	of gestational diabetes in relation to maternal	
+V-503	diabetes	diabetes	blood	blood	—high	
+V-503	iron	iron	gestational diabetes	gestational diabetes	is associated with an increased [	
+V-503	animal products	animal products	diabetes	diabetes	was associated with increased risk of type 2	
+V-503	harvard	harvard	fat	fat	study found that “[h]igher prepregnancy intakes of animal	
+V-503	diabetes	diabetes	risk	risk		
+V-503	diabetes	diabetes	egg	egg	in relation to maternal	
+V-503	eggs	eggs	pregnancy	pregnancy	women ate before getting pregnant and during early	
+V-503	nitrosamines	nitrosamines	meat	meat	in bacon, and other processed	
+V-503	diabetes	diabetes	blood sugar	blood sugar	—high	
+V-503	vegetarian	vegetarian	risk	risk	appear to be at significantly lower	
+V-503	eggs	eggs	women	women		
+V-503	diabetes	diabetes	pregnant	pregnant	—high blood sugar levels that develop when you’re	
+V-503	risk	risk	meat	meat	was also found for non-processed	
+V-503	egg	egg	eggs	eggs	intake.apparently, the more	
+V-503	cholesterol	cholesterol	diabetes	diabetes	were associated with elevated [gestational	
+V-503	iron	iron	pregnant	pregnant	being protective against diabetes.either way, this explains why	
+V-503	diabetes	diabetes	eggs	eggs	in relation to maternal egg intake.apparently, the more	
+V-503	animal fat	animal fat	risk	risk	and cholesterol were associated with elevated [gestational diabetes]	
+V-503	risk	risk	gestational diabetes	gestational diabetes	of	
+V-503	diabetes	diabetes	pregnant	pregnant	.either way, this explains why	
+V-503	risk	risk	women	women	of type 2 diabetes in	
+V-503	fat	fat	risk	risk	and cholesterol were associated with elevated [gestational diabetes]	
+V-503	women	women	pregnant	pregnant	ate before getting	
+V-503	glycotoxins	glycotoxins	meat	meat	—the advanced glycation end products formed in	
+V-503	diabetes	diabetes	sugar	sugar	—high blood	
+V-503	iron	iron	diabetes	diabetes	was associated with	
+V-503	diabetes	diabetes	iron	iron	risk.the more plant-based, or non-heme	
+V-503	meat	meat	pregnancy	pregnancy	before	
+V-503	heme iron	heme iron	risk	risk	from animal products was associated with increased	
+V-503	fat	fat	cholesterol	cholesterol	and	
+V-503	fat	fat	carbs	carbs	for 5%	
+V-503	animal fat	animal fat	carbs	carbs	for 5%	
+V-503	harvard	harvard	meat	meat	nurses’ health study found that eating	
+V-503	nitrosamines	nitrosamines	bacon	bacon	in	
+V-503	iron	iron	risk	risk	from animal products was associated with increased	
+V-503	iron	iron	plant-based	plant-based	was associated with diabetes risk.the more	
+V-503	nitrosamines	nitrosamines	processed meat	processed meat	in bacon, and other	
+V-503	egg	egg	pregnant	pregnant	intake.apparently, the more eggs women ate before getting	
+V-503	diabetes	diabetes	women	women	in men and non-pregnant	
+V-503	animal fat	animal fat	diabetes	diabetes	and cholesterol were associated with elevated [gestational	
+V-503	diabetes	diabetes	fat	fat	.but, if it’s not just the animal	
+V-503	cholesterol	cholesterol	diabetes	diabetes	intake and the development of regular (type 2)	
+V-503	heme iron	heme iron	gestational diabetes	gestational diabetes	is associated with an increased [	
+V-503	risk	risk	diabetes	diabetes	of	
+V-503	iron	iron	animal products	animal products	in	
+V-503	eggs	eggs	pregnancy	pregnancy	to increase one’s risk of diabetes during	
+V-503	diabetes	diabetes	women	women	.either way, this explains why pregnant	
+V-503	pregnant women	pregnant women	vegetarian	vegetarian	who eat	
+V-503	pregnant	pregnant	pregnancy	pregnancy	and during early	
+V-503	heme iron	heme iron	diabetes	diabetes	is associated with an increased [gestational	
+V-503	risk	risk	birth defects	birth defects	), and various major	
+V-503	health	health	risk	risk	at	
+V-503	iron	iron	diabetes	diabetes	being protective against	
+V-503	heme iron	heme iron	animal products	animal products	in	
+V-503	meat	meat	diabetes	diabetes	before pregnancy appeared to increase subsequent	
+V-503	blood sugar	blood sugar	pregnant	pregnant	levels that develop when you’re	
+V-503	diabetes	diabetes	pregnancy	pregnancy	risk during	
+V-503	iron	iron	risk	risk	is associated with an increased [gestational diabetes]	
+V-503	iron	iron	animal products	animal products	from	
+V-503	women	women	vegetarian	vegetarian	who eat	
+V-503	pregnant	pregnant	risk	risk	and during early pregnancy, the higher their	
+V-503	gestational diabetes	gestational diabetes	egg	egg	in relation to maternal	
+V-503	fat	fat	diabetes	diabetes	and cholesterol were associated with elevated [gestational	
+V-503	eggs	eggs	risk	risk	to increase one’s	
+V-503	diabetes	diabetes	high blood sugar	high blood sugar	—	
+V-503	health	health	birth defects	birth defects	at risk), and various major	
+V-503	meat	meat	risk	risk	before pregnancy appeared to increase subsequent diabetes	
+V-503	risk	risk	animal fat	animal fat	of gestational diabetes.but, if it’s not just the	
+V-503	health	health	pregnancy	pregnancy	study found that eating meat before	
+V-503	gestational diabetes	gestational diabetes	eggs	eggs	in relation to maternal egg intake.apparently, the more	
+V-503	harvard	harvard	pregnancy	pregnancy	nurses’ health study found that eating meat before	
+V-503	fat	fat	gestational diabetes	gestational diabetes	and cholesterol were associated with elevated [	
+V-503	harvard study	harvard study	animal fat	animal fat	found that “[h]igher prepregnancy intakes of	
+V-503	vegetarians	vegetarians	eggs	eggs	tend to avoid	
+V-503	harvard study	harvard study	fat	fat	found that “[h]igher prepregnancy intakes of animal	
+V-503	iron	iron	pregnant women	pregnant women	being protective against diabetes.either way, this explains why	
+V-503	health	health	meat	meat	study found that eating	
+V-503	women	women	pregnancy	pregnancy	ate before getting pregnant and during early	
+V-503	sugar	sugar	pregnant	pregnant	levels that develop when you’re	
+V-503	eggs	eggs	pregnant	pregnant	women ate before getting	
+V-503	pregnancy	pregnancy	diabetes	diabetes	appeared to increase subsequent	
+V-503	diabetes	diabetes	pregnant women	pregnant women	.either way, this explains why	
+V-503	risk	risk	diabetes	diabetes	of type 2	
+V-503	animal fat	animal fat	cholesterol	cholesterol	and	
+V-503	pregnancy	pregnancy	risk	risk	appeared to increase subsequent diabetes	
+V-503	heme iron	heme iron	animal products	animal products	from	
+V-503	eggs	eggs	diabetes	diabetes	to increase one’s risk of	
+V-503	cholesterol	cholesterol	gestational diabetes	gestational diabetes	were associated with elevated [	
+V-503	heme iron	heme iron	risk	risk	is associated with an increased [gestational diabetes]	
+V-503	risk	risk	diabetes	diabetes	of developing	
+V-503	carbs	carbs	risk	risk	was associated with a 13% increased	
+V-503	iron	iron	lead	lead	as well, and so, chronically high intakes can	
+V-503	animal fat	animal fat	gestational diabetes	gestational diabetes	and cholesterol were associated with elevated [	
+V-503	blood	blood	sugar	sugar		

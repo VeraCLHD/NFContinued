@@ -1,0 +1,122 @@
+
+A-481	breast cancer	breast cancer	premature puberty	premature puberty	risk directly, or indirectly by contributing to	
+A-481	breast cancer	breast cancer	women	women	remains the leading cancer killer of young	
+A-481	meat	meat	breast cancer	breast cancer	may reduce the risk of	
+A-481	apples	apples	cancer	cancer	also appear to reduce breast	
+A-481	flax	flax	black beans	black beans	seeds,	
+A-481	folate	folate	beans	beans	in	
+A-481	breast cancer	breast cancer	heterocyclic amines	heterocyclic amines	by lowering one’s exposure to anabolic steroids,	
+A-481	herbal	herbal	turmeric	turmeric	varieties) flax seeds, black beans, the spice	
+A-481	women	women	cancer	cancer	’s health, including many others on breast	
+A-481	breast cancer	breast cancer	beans	beans	perspective, folate in	
+A-481	cancer	cancer	beans	beans	perspective, folate in	
+A-481	tea	tea	black beans	black beans	consumption (including a few herbal varieties) flax seeds,	
+A-481	breast cancer	breast cancer	chemotherapy	chemotherapy		
+A-481	breast cancer	breast cancer	risk	risk		
+A-481	tea	tea	herbal	herbal	consumption (including a few	
+A-481	cancer	cancer	anabolic steroids	anabolic steroids	by lowering one’s exposure to	
+A-481	breast cancer	breast cancer	anabolic steroids	anabolic steroids	by lowering one’s exposure to	
+A-481	hormones	hormones	risk	risk	that may increase breast cancer	
+A-481	vegetables	vegetables	breast cancer	breast cancer	 may be protective against	
+A-481	early detection	early detection	cancer	cancer	(by definition) doesn’t prevent breast	
+A-481	cancer	cancer	treatment	treatment	prevention & 	
+A-481	cancer	cancer	premature puberty	premature puberty	risk directly, or indirectly by contributing to	
+A-481	greens	greens	pills	pills	may be preferable to folic acid in	
+A-481	meat	meat	dairy	dairy	and	
+A-481	acrylamide	acrylamide	risk	risk	in crispy carbs, and alcohol may increase one’s	
+A-481	tea	tea	flax seeds	flax seeds	consumption (including a few herbal varieties)	
+A-481	supplements	supplements	cancer	cancer	& breast	
+A-481	cancer cell growth	cancer cell growth	dna	dna	and, like other berries, may block breast-cell	
+A-481	supplements	supplements	breast cancer	breast cancer	& 	
+A-481	cancer cell growth	cancer cell growth	dna damage	dna damage	and, like other berries, may block breast-cell	
+A-481	dairy	dairy	cancer	cancer	contains hormones that may increase breast	
+A-481	acrylamide	acrylamide	carbs	carbs	in crispy	
+A-481	flax	flax	beans	beans	seeds, black	
+A-481	cancer	cancer	greens	greens	perspective, folate in beans and	
+A-481	meat	meat	cancer	cancer	may reduce the risk of breast	
+A-481	cancer	cancer	berries	berries	cell growth and, like other	
+A-481	tea	tea	seeds	seeds	consumption (including a few herbal varieties) flax	
+A-481	breast cancer	breast cancer	folate	folate	perspective,	
+A-481	vegetables	vegetables	cancer	cancer	vs. breast	
+A-481	herbal	herbal	seeds	seeds	varieties) flax	
+A-481	women	women	tamoxifen	tamoxifen	on	
+A-481	acrylamide	acrylamide	alcohol	alcohol	in crispy carbs, and	
+A-481	folic acid	folic acid	pills	pills	in	
+A-481	strawberries	strawberries	cancer	cancer	appear to preferably block	
+A-481	greens	greens	folic acid	folic acid	may be preferable to	
+A-481	alcohol	alcohol	risk	risk	may increase one’s	
+A-481	cancer	cancer	women	women	remains the leading cancer killer of young	
+A-481	women	women	breast cancer	breast cancer	’s health, including many others on	
+A-481	cancer cell growth	cancer cell growth	berries	berries	and, like other	
+A-481	risk	risk	cancer	cancer	of breast (and prostate)	
+A-481	cancer	cancer	heterocyclic amines	heterocyclic amines	by lowering one’s exposure to anabolic steroids,	
+A-481	dairy	dairy	breast cancer	breast cancer	contains hormones that may increase	
+A-481	cancer	cancer	folate	folate	perspective,	
+A-481	vegetables	vegetables	broccoli	broccoli	(such as	
+A-481	risk	risk	tea	tea	of breast cancer, look to daily	
+A-481	women	women	health	health	’s	
+A-481	melatonin	melatonin	dairy	dairy	suppression by meat and	
+A-481	herbal	herbal	flax seeds	flax seeds	varieties)	
+A-481	early detection	early detection	breast cancer	breast cancer	(by definition) doesn’t prevent	
+A-481	herbal	herbal	black beans	black beans	varieties) flax seeds,	
+A-481	organic	organic	cancer cell growth	cancer cell growth	strawberries appear to preferably block	
+A-481	risk	risk	prostate	prostate	of breast (and	
+A-481	beans	beans	folic acid	folic acid	and greens may be preferable to	
+A-481	hormones	hormones	cancer	cancer	that may increase breast	
+A-481	early detection	early detection	prevention	prevention	is your best	
+A-481	cancer	cancer	puberty	puberty	risk directly, or indirectly by contributing to premature	
+A-481	folate	folate	greens	greens	in beans and	
+A-481	soy	soy	breast cancer	breast cancer	foods have the distinction of both helping prevent	
+A-481	dairy	dairy	risk	risk	contains hormones that may increase breast cancer	
+A-481	meat	meat	risk	risk	may reduce the	
+A-481	risk	risk	breast cancer	breast cancer	of	
+A-481	risk	risk	cancer	cancer	of breast	
+A-481	breast cancer	breast cancer	prevention	prevention		
+A-481	herbal	herbal	beans	beans	varieties) flax seeds, black	
+A-481	cancer	cancer	steroids	steroids	by lowering one’s exposure to anabolic	
+A-481	plant-based	plant-based	diet	diet		
+A-481	flax	flax	seeds	seeds		
+A-481	soy foods	soy foods	breast cancer	breast cancer	have the distinction of both helping prevent	
+A-481	onions	onions	leeks	leeks	and	
+A-481	beans	beans	greens	greens	and	
+A-481	risk	risk	puberty	puberty	directly, or indirectly by contributing to premature	
+A-481	plant-based diet	plant-based diet	breast cancer	breast cancer	may be beneficial in preventing, slowing, and treating	
+A-481	organic	organic	cancer	cancer	strawberries appear to preferably block	
+A-481	breast cancer	breast cancer	puberty	puberty	risk directly, or indirectly by contributing to premature	
+A-481	melatonin	melatonin	meat	meat	suppression by	
+A-481	cruciferous vegetables	cruciferous vegetables	broccoli	broccoli	(such as	
+A-481	risk	risk	anabolic steroids	anabolic steroids	of breast cancer by lowering one’s exposure to	
+A-481	alcohol	alcohol	cancer	cancer	may increase one’s risk, and from a breast	
+A-481	vegetables	vegetables	cabbage	cabbage	(such as broccoli, kale, and	
+A-481	tea	tea	flax	flax	consumption (including a few herbal varieties)	
+A-481	apples	apples	breast cancer	breast cancer	also appear to reduce	
+A-481	folate	folate	folic acid	folic acid	in beans and greens may be preferable to	
+A-481	dairy	dairy	hormones	hormones	contains	
+A-481	risk	risk	premature puberty	premature puberty	directly, or indirectly by contributing to	
+A-481	organic	organic	strawberries	strawberries		
+A-481	soy foods	soy foods	cancer	cancer	have the distinction of both helping prevent breast	
+A-481	cabbage	cabbage	vegetables	vegetables	) and allium family	
+A-481	women	women	united states	united states	in the	
+A-481	cancer	cancer	risk	risk		
+A-481	cancer	cancer	chemotherapy	chemotherapy		
+A-481	vegetables	vegetables	cancer	cancer	 may be protective against breast	
+A-481	apples	apples	risk	risk	also appear to reduce breast cancer	
+A-481	vegetables	vegetables	kale	kale	(such as broccoli,	
+A-481	breast cancer	breast cancer	cancer	cancer	remains the leading	
+A-481	breast cancer	breast cancer	steroids	steroids	by lowering one’s exposure to anabolic	
+A-481	vegetables	vegetables	breast cancer	breast cancer	vs. 	
+A-481	alcohol	alcohol	breast cancer	breast cancer	may increase one’s risk, and from a	
+A-481	cabbage	cabbage	garlic	garlic	) and allium family vegetables (such as	
+A-481	diet	diet	breast cancer	breast cancer	may be beneficial in preventing, slowing, and treating	
+A-481	strawberries	strawberries	cancer cell growth	cancer cell growth	appear to preferably block	
+A-481	cabbage	cabbage	onions	onions	) and allium family vegetables (such as garlic,	
+A-481	prevention	prevention	treatment	treatment	& 	
+A-481	cruciferous vegetables	cruciferous vegetables	cabbage	cabbage	(such as broccoli, kale, and	
+A-481	cancer	cancer	cancer	cancer	remains the leading	
+A-481	cancer prevention	cancer prevention	treatment	treatment	& 	
+A-481	hormones	hormones	breast cancer	breast cancer	that may increase	
+A-481	breast cancer	breast cancer	greens	greens	perspective, folate in beans and	
+A-481	cruciferous vegetables	cruciferous vegetables	kale	kale	(such as broccoli,	
+A-481	flax	flax	turmeric	turmeric	seeds, black beans, the spice	
+A-481	herbal	herbal	flax	flax	varieties)	
+A-481	cancer	cancer	prevention	prevention		

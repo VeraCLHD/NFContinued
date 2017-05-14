@@ -1,0 +1,54 @@
+
+V-732	benign prostatic hyperplasia	benign prostatic hyperplasia	urethra	urethra	—bph—enlargement of the prostate gland, which surrounds the	
+V-732	cancer	cancer	prostate	prostate	started “rising quickly,” and now, the incidence of	
+V-732	plant-based diet	plant-based diet	fat	fat	to one with more animal	
+V-732	prostate enlargement	prostate enlargement	china	china	in	
+V-732	diet	diet	cancer cells	cancer cells	can slow down the abnormal growth of prostate	
+V-732	plant-based	plant-based	diet	diet		
+V-732	bph	bph	urethra	urethra	—enlargement of the prostate gland, which surrounds the	
+V-732	bph	bph	heart disease	heart disease	may be like	
+V-732	prostate	prostate	cancer	cancer		
+V-732	plant-based	plant-based	animal protein	animal protein	diet to one with more animal fat and	
+V-732	diet	diet	animal protein	animal protein	to one with more animal fat and	
+V-732	benign prostatic hyperplasia	benign prostatic hyperplasia	prostate	prostate	—bph—enlargement of the	
+V-732	cancer	cancer	plant-based	plant-based	rates—a shift from their more traditional	
+V-732	plant-based diet	plant-based diet	protein	protein	to one with more animal fat and animal	
+V-732	animal fat	animal fat	protein	protein	and animal	
+V-732	cancer	cancer	prostate	prostate	cells, what about the abnormal growth of normal	
+V-732	prostate	prostate	heart attack	heart attack	and die of a	
+V-732	doctors	doctors	aging	aging	just assume it’s just an inevitable consequence of	
+V-732	plant-based	plant-based	fat	fat	diet to one with more animal	
+V-732	benign prostatic hyperplasia	benign prostatic hyperplasia	prostate gland	prostate gland	—bph—enlargement of the	
+V-732	diet	diet	protein	protein	to one with more animal fat and animal	
+V-732	prostate cancer	prostate cancer	prostate	prostate	cells, what about the abnormal growth of normal	
+V-732	prostate	prostate	urethra	urethra	gland, which surrounds the	
+V-732	plant-based diet	plant-based diet	animal protein	animal protein	to one with more animal fat and	
+V-732	cancer	cancer	prostate enlargement	prostate enlargement	started “rising quickly,” and now, the incidence of	
+V-732	cancer	cancer	plant-based diet	plant-based diet	rates—a shift from their more traditional	
+V-732	fat	fat	animal protein	animal protein	and	
+V-732	benign prostatic hyperplasia	benign prostatic hyperplasia	bph	bph	—	
+V-732	bph	bph	cancer	cancer	and prostate	
+V-732	heart disease	heart disease	aging	aging	—a natural consequence not of	
+V-732	lead	lead	urine	urine	to	
+V-732	animal fat	animal fat	animal protein	animal protein	and	
+V-732	cancer	cancer	diet	diet	rates—a shift from their more traditional plant-based	
+V-732	prostate cancer	prostate cancer	prostate	prostate	started “rising quickly,” and now, the incidence of	
+V-732	plant-based diet	plant-based diet	animal fat	animal fat	to one with more	
+V-732	prostate	prostate	cancer cells	cancer cells		
+V-732	gold	gold	prostate	prostate	standard remains transurethral resection of the	
+V-732	diet	diet	cancer	cancer	can slow down the abnormal growth of prostate	
+V-732	bph	bph	prostate gland	prostate gland	—enlargement of the	
+V-732	diet	diet	animal fat	animal fat	to one with more	
+V-732	bph	bph	disease	disease	may be like heart	
+V-732	disease	disease	aging	aging	—a natural consequence not of	
+V-732	diet	diet	prostate	prostate	can slow down the abnormal growth of	
+V-732	plant-based	plant-based	animal fat	animal fat	diet to one with more	
+V-732	drugs	drugs	supplements	supplements	to treat it; another billion on	
+V-732	diet	diet	prostate cancer	prostate cancer	can slow down the abnormal growth of	
+V-732	bph	bph	prostate	prostate	—enlargement of the	
+V-732	bph	bph	prostate cancer	prostate cancer	and	
+V-732	urethra	urethra	bladder	bladder	as it exits the	
+V-732	fat	fat	protein	protein	and animal	
+V-732	prostate cancer	prostate cancer	prostate enlargement	prostate enlargement	started “rising quickly,” and now, the incidence of	
+V-732	diet	diet	fat	fat	to one with more animal	
+V-732	bph	bph	prostate	prostate	and	

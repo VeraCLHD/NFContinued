@@ -1,0 +1,28 @@
+
+V-196	health	health	nutrition	nutrition		
+V-196	tobacco	tobacco	public health	public health	lawyers a bit spelling challenged, but	
+V-196	diet	diet	corn	corn	dominated by higher intakes of calorie-dense foods -	
+V-196	corn	corn	sugar	sugar	syrup,	
+V-196	corn	corn	animal products	animal products	syrup, sugar,	
+V-196	tobacco	tobacco	public health	public health	and cancer for effective	
+V-196	health	health	breastfeeding	breastfeeding	nutrition that is succeeding: the move back to	
+V-196	jobs	jobs	nutrition	nutrition	and careers in	
+V-196	diet	diet	cardiovascular disease	cardiovascular disease	are too cheap and can’t be patented.preventing	
+V-196	blind	blind	tobacco	tobacco	organizations to carefully orchestrated efforts by the	
+V-196	nutrition	nutrition	healthy food	healthy food	on the line.to do that, the	
+V-196	tobacco	tobacco	health	health	lawyers a bit spelling challenged, but public	
+V-196	nutrition	nutrition	breastfeeding	breastfeeding	that is succeeding: the move back to	
+V-196	public health	public health	breastfeeding	breastfeeding	nutrition that is succeeding: the move back to	
+V-196	public health	public health	nutrition	nutrition		
+V-196	health	health	prevention	prevention		
+V-196	cheap	cheap	corn	corn		
+V-196	diet	diet	corn syrup	corn syrup	dominated by higher intakes of calorie-dense foods -	
+V-196	corn	corn	oils	oils	syrup, sugar, animal products, and	
+V-196	cheap	cheap	diet	diet	health-promoting activities like eating a healthy	
+V-196	cancer	cancer	public health	public health	for effective	
+V-196	diet	diet	disease	disease	are too cheap and can’t be patented.preventing cardiovascular	
+V-196	diet	diet	cheap	cheap	are too	
+V-196	tobacco	tobacco	cancer	cancer	and	
+V-196	cancer	cancer	health	health	for effective public	
+V-196	tobacco	tobacco	health	health	and cancer for effective public	
+V-196	public health	public health	health	health	groups are part of a	

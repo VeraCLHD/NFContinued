@@ -1,0 +1,139 @@
+
+V-354	risk	risk	smoking	smoking	factor has been tobacco use, but cigarette	
+V-354	vegetables	vegetables	risk	risk	without the cancer	
+V-354	vegetables	vegetables	cancer	cancer	without the	
+V-354	nitrate	nitrate	processed meat	processed meat	and nitrite from	
+V-354	antioxidants	antioxidants	carcinogens	carcinogens	in plant foods block the formation of these	
+V-354	plant-based	plant-based	cancer	cancer	diet may help protect against kidney	
+V-354	risk	risk	kidney	kidney	of	
+V-354	nitrosamines	nitrosamines	carcinogens	carcinogens	are considered so toxic that	
+V-354	disease	disease	risk	risk		
+V-354	diet	diet	kidney cancer	kidney cancer	may help protect against	
+V-354	meat	meat	risk	risk	sources was also positively associated with rcc	
+V-354	nitrate	nitrate	meat	meat	and nitrite from processed	
+V-354	americans	americans	kidney cancer	kidney cancer	are diagnosed with	
+V-354	nitrite	nitrite	processed meat	processed meat	from	
+V-354	smoking	smoking	kidney cancer	kidney cancer	rates have dropped, perhaps the rise in	
+V-354	meat	meat	nitrates	nitrates	as “uncured,” with no nitrites or	
+V-354	processed meat	processed meat	risk	risk	sources was also positively associated with rcc	
+V-354	nitrates	nitrates	nitrites	nitrites	and	
+V-354	nitrates	nitrates	nitrites	nitrites	in celery to	
+V-354	meats	meats	kidney	kidney	—was associated with an increased risk of	
+V-354	smoking	smoking	cancer	cancer	rates have dropped, perhaps the rise in kidney	
+V-354	celery	celery	juice	juice		
+V-354	americans	americans	cancer	cancer	are diagnosed with kidney	
+V-354	sodium	sodium	kidney	kidney	intake and	
+V-354	nitrite	nitrite	meat	meat	additives, or fresh	
+V-354	risk	risk	kidney cancer	kidney cancer	of	
+V-354	kidney	kidney	diabetes	diabetes	cancer, such as obesity, high blood pressure, and	
+V-354	meat	meat	pork	pork	as well: beef, chicken, and	
+V-354	nitrates	nitrates	cancer	cancer	from processed meat were associated with	
+V-354	plant foods	plant foods	carcinogens	carcinogens	block the formation of these	
+V-354	nitrates	nitrates	risk	risk	in vegetables without the cancer	
+V-354	salt	salt	risk	risk	is associated with increased cancer	
+V-354	nitrate	nitrate	collards	collards	vegetables like arugula, kale, and	
+V-354	kidney disease	kidney disease	blood pressure	blood pressure	risk, but is that just because it increases	
+V-354	cancer	cancer	hypertension	hypertension	risk even independently of	
+V-354	vitamin c	vitamin c	plant foods	plant foods	and other antioxidants in	
+V-354	diet	diet	cancer	cancer	may help protect against kidney	
+V-354	nih-aarp study	nih-aarp study	diet	diet	is the largest prospective study on	
+V-354	carcinogens	carcinogens	nitrosamines	nitrosamines	are not nitrites, but	
+V-354	nitrate	nitrate	vegetables	vegetables		
+V-354	nitrosamines	nitrosamines	cigarettes	cigarettes	and nitrosamides as five 	
+V-354	nitrites	nitrites	vegetables	vegetables	from	
+V-354	disease	disease	blood	blood	risk, but is that just because it increases	
+V-354	meat	meat	chicken	chicken	as well: beef,	
+V-354	meat	meat	nitrites	nitrites	as “uncured,” with no	
+V-354	plant-based diet	plant-based diet	kidney cancer	kidney cancer	may help protect against	
+V-354	carcinogens	carcinogens	stomach	stomach	in our	
+V-354	nitrates	nitrates	nitrites	nitrites	to	
+V-354	bacteria	bacteria	vegetables	vegetables	on our tongue when we eat	
+V-354	diet	diet	health	health	and	
+V-354	vegetables	vegetables	nitrites	nitrites	on our tongue okay, but nitrates and	
+V-354	vitamin c	vitamin c	antioxidants	antioxidants	and other	
+V-354	blood	blood	diabetes	diabetes	pressure, and	
+V-354	americans	americans	kidney	kidney	are diagnosed with	
+V-354	sodium	sodium	kidney cancer	kidney cancer	intake and	
+V-354	sodium	sodium	risk	risk	intake increases kidney disease	
+V-354	meats	meats	risk	risk	—was associated with an increased	
+V-354	carcinogens	carcinogens	nitrites	nitrites	are not	
+V-354	plant-based diet	plant-based diet	cancer	cancer	may help protect against kidney	
+V-354	kidney	kidney	high blood pressure	high blood pressure	cancer, such as obesity,	
+V-354	nitrite	nitrite	meat	meat	from processed	
+V-354	cold	cold	nitrite	nitrite	cuts that have nitrate and	
+V-354	nitrites	nitrites	celery	celery	or nitrates added, except for the	
+V-354	kidney	kidney	blood	blood	cancer, such as obesity, high	
+V-354	nitrates	nitrates	cancer	cancer	in vegetables without the	
+V-354	nitrates	nitrates	meat	meat	from processed	
+V-354	kidney	kidney	blood pressure	blood pressure	cancer, such as obesity, high	
+V-354	plant-based	plant-based	cancer	cancer	diets and fiber-rich diets are recommended to prevent	
+V-354	plant-based	plant-based	kidney	kidney	diet may help protect against	
+V-354	disease	disease	blood pressure	blood pressure	risk, but is that just because it increases	
+V-354	nitrate	nitrate	meat	meat	and nitrite intake from processed	
+V-354	processed meats	processed meats	kidney	kidney	—was associated with an increased risk of	
+V-354	salt	salt	cancer	cancer	is associated with increased	
+V-354	meats	meats	kidney cancer	kidney cancer	—was associated with an increased risk of	
+V-354	nitrites	nitrites	juice	juice	or nitrates added, except for the celery	
+V-354	risk	risk	cancer	cancer	of kidney	
+V-354	bacon	bacon	nitrites	nitrites	or lunch meat as “uncured,” with no	
+V-354	smoking	smoking	kidney	kidney	rates have dropped, perhaps the rise in	
+V-354	cancer	cancer	kidney	kidney	directly, as well as chronic conditions associated with	
+V-354	kidney	kidney	obesity	obesity	cancer, such as	
+V-354	processed meats	processed meats	cancer	cancer	—was associated with an increased risk of kidney	
+V-354	nitrates	nitrates	juice	juice	added, except for the celery	
+V-354	kidney	kidney	risk	risk	disease	
+V-354	vegetables	vegetables	collards	collards	like arugula, kale, and	
+V-354	nitrate	nitrate	meat	meat	and nitrite additives, or fresh	
+V-354	nitrite	nitrite	processed meats	processed meats	from animal sources—not just	
+V-354	nitrite	nitrite	meat	meat	intake from processed	
+V-354	blood	blood	plant-based	plant-based	pressure, and diabetes, so a	
+V-354	nitrates	nitrates	vegetables	vegetables	in	
+V-354	nitrite	nitrite	processed meat	processed meat	intake from	
+V-354	blood	blood	plant-based diet	plant-based diet	pressure, and diabetes, so a	
+V-354	carcinogens	carcinogens	beef	beef	are also found in fresh meat as well:	
+V-354	nitrates	nitrates	processed meat	processed meat	from	
+V-354	nitrates	nitrates	vegetables	vegetables	and nitrites from	
+V-354	sodium	sodium	disease	disease	intake increases kidney	
+V-354	meats	meats	cancer	cancer	—was associated with an increased risk of kidney	
+V-354	nitrate	nitrate	kale	kale	vegetables like arugula,	
+V-354	bacon	bacon	meat	meat	or lunch	
+V-354	plant foods	plant foods	stomach	stomach	block the formation of these carcinogens in our	
+V-354	meat	meat	cancer	cancer	were associated with	
+V-354	kidney	kidney	disease	disease		
+V-354	plant-based diet	plant-based diet	kidney	kidney	may help protect against	
+V-354	nitrates	nitrates	celery	celery	in	
+V-354	celery	celery	meat	meat	to nitrites, then add it to the	
+V-354	cold	cold	nitrate	nitrate	cuts that have	
+V-354	carcinogens	carcinogens	meat	meat	are also found in fresh	
+V-354	blood	blood	diet	diet	pressure, and diabetes, so a plant-based	
+V-354	kidney	kidney	cancer	cancer		
+V-354	plant-based	plant-based	kidney cancer	kidney cancer	diet may help protect against	
+V-354	processed meats	processed meats	kidney cancer	kidney cancer	—was associated with an increased risk of	
+V-354	meat	meat	cancer	cancer	linked to	
+V-354	nitrate	nitrate	nitrite	nitrite	and	
+V-354	processed meats	processed meats	risk	risk	—was associated with an increased	
+V-354	tobacco	tobacco	smoking	smoking	use, but cigarette	
+V-354	kidney disease	kidney disease	risk	risk		
+V-354	risk	risk	tobacco	tobacco	factor has been	
+V-354	cancer	cancer	risk	risk		
+V-354	diet	diet	kidney	kidney	may help protect against	
+V-354	processed meat	processed meat	cancer	cancer	were associated with	
+V-354	nitrates	nitrates	celery	celery	added, except for the	
+V-354	vegetables	vegetables	nitrates	nitrates	on our tongue okay, but	
+V-354	nitrate	nitrate	processed meat	processed meat	and nitrite intake from	
+V-354	nitrate	nitrate	nitrite	nitrite	or	
+V-354	nih-aarp study	nih-aarp study	health	health	is the largest prospective study on diet and	
+V-354	nitrites	nitrites	nitrates	nitrates	or	
+V-354	plant-based	plant-based	cancer	cancer	and fiber-rich diets appear to do both, decreasing	
+V-354	nitrites	nitrites	nitrates	nitrates	from vegetables on our tongue okay, but	
+V-354	sodium	sodium	kidney disease	kidney disease	intake increases	
+V-354	meat	meat	beef	beef	as well:	
+V-354	risk	risk	hypertension	hypertension	even independently of	
+V-354	vegetables	vegetables	kale	kale	like arugula,	
+V-354	antioxidants	antioxidants	plant foods	plant foods	in	
+V-354	cancer	cancer	kidney cancer	kidney cancer	directly, as well as chronic conditions associated with	
+V-354	celery	celery	nitrites	nitrites	to	
+V-354	sodium	sodium	kidney	kidney	intake increases	
+V-354	nitrite	nitrite	meats	meats	from animal sources—not just processed	
+V-354	sodium	sodium	cancer	cancer	intake and kidney	
+V-354	kidney disease	kidney disease	blood	blood	risk, but is that just because it increases	

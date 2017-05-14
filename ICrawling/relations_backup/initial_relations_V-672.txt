@@ -1,0 +1,53 @@
+
+V-672	heart disease	heart disease	saturated fat	saturated fat	…” although	
+V-672	cancer	cancer	heart disease	heart disease	…and	
+V-672	autoimmune diseases	autoimmune diseases	rheumatoid arthritis	rheumatoid arthritis	—like	
+V-672	cancer	cancer	heart disease	heart disease	and	
+V-672	cancer	cancer	saturated fat	saturated fat	…and heart disease…” although	
+V-672	risk	risk	heart disease	heart disease	of cancer and	
+V-672	cancer	cancer	disease	disease	and heart	
+V-672	fat	fat	meat	meat	in	
+V-672	inflammation	inflammation	antibodies	antibodies	directly, and the formation of	
+V-672	cancer	cancer	disease	disease	…and heart	
+V-672	disease	disease	saturated fat	saturated fat	…” although	
+V-672	saturated fat	saturated fat	meat	meat	in	
+V-672	lead	lead	inflammation	inflammation	back to more	
+V-672	risk	risk	cancer	cancer	of	
+V-672	disease	disease	dairy	dairy	…” although saturated fat in meat and	
+V-672	risk	risk	meat	meat	of cancer…and heart disease…” although saturated fat in	
+V-672	arthritis	arthritis	apes	apes	in other great	
+V-672	antibodies	antibodies	inflammation	inflammation	—which can then lead back to more	
+V-672	vegetarian	vegetarian	arthritis	arthritis	diets seem to improve rheumatoid	
+V-672	meat	meat	dairy	dairy	and	
+V-672	neu5gc	neu5gc	cancer	cancer	and the incidence of both	
+V-672	cancer	cancer	disease	disease	and ischemic heart	
+V-672	heart disease	heart disease	meat	meat	…” although saturated fat in	
+V-672	cancer	cancer	fat	fat	…and heart disease…” although saturated	
+V-672	risk	risk	disease	disease	of cancer…and heart	
+V-672	disease	disease	fat	fat	…” although saturated	
+V-672	cancer	cancer	heart disease	heart disease	and ischemic	
+V-672	autoimmune diseases	autoimmune diseases	arthritis	arthritis	—like rheumatoid	
+V-672	vegetarian	vegetarian	rheumatoid arthritis	rheumatoid arthritis	diets seem to improve	
+V-672	heart disease	heart disease	animal products	animal products	 noted in those consuming	
+V-672	neu5gc	neu5gc	plants	plants	-type compounds] are not found in	
+V-672	risk	risk	animal products	animal products	of cancer and heart disease noted in those consuming	
+V-672	risk	risk	fat	fat	of cancer…and heart disease…” although saturated	
+V-672	heart disease	heart disease	fat	fat	…” although saturated	
+V-672	chronic inflammation	chronic inflammation	lead	lead	directly, and the formation of antibodies—which can then	
+V-672	neu5gc	neu5gc	heart disease	heart disease	and the incidence of both cancer and ischemic	
+V-672	disease	disease	animal products	animal products	 noted in those consuming	
+V-672	inflammation	inflammation	lead	lead	directly, and the formation of antibodies—which can then	
+V-672	risk	risk	disease	disease	of cancer and heart	
+V-672	risk	risk	heart disease	heart disease	of cancer…and	
+V-672	saturated fat	saturated fat	dairy	dairy	in meat and	
+V-672	risk	risk	saturated fat	saturated fat	of cancer…and heart disease…” although	
+V-672	rheumatoid arthritis	rheumatoid arthritis	apes	apes	in other great	
+V-672	animal products	animal products	diet	diet	in our	
+V-672	heart disease	heart disease	dairy	dairy	…” although saturated fat in meat and	
+V-672	cancer	cancer	animal products	animal products	and heart disease noted in those consuming	
+V-672	antibodies	antibodies	lead	lead	—which can then	
+V-672	chronic inflammation	chronic inflammation	antibodies	antibodies	directly, and the formation of	
+V-672	fat	fat	dairy	dairy	in meat and	
+V-672	cancer	cancer	meat	meat	…and heart disease…” although saturated fat in	
+V-672	neu5gc	neu5gc	tumors	tumors	in human	
+V-672	disease	disease	meat	meat	…” although saturated fat in	

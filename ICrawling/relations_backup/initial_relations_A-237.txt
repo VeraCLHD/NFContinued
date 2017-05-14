@@ -1,0 +1,38 @@
+
+A-237	butter	butter	fat	fat		
+A-237	cocaine	cocaine	smoking	smoking	and crack: same stuff chemically, but by	
+A-237	nutrient-dense	nutrient-dense	weight management	weight management	approach to	
+A-237	smoking	smoking	marijuana	marijuana	cigarettes, using	
+A-237	obesity	obesity	disease	disease	as an addiction, a psychiatric	
+A-237	lead	lead	diet	diet	to deadened dopamine responsivity, but a calorie-dense	
+A-237	dopamine	dopamine	smoking	smoking	reward system that keeps people	
+A-237	sugar	sugar	water	water		
+A-237	sugar	sugar	dopamine	dopamine	and fat) have a deadened	
+A-237	diet	diet	lead	lead	doesn’t	
+A-237	dopamine	dopamine	brains	brains	response in their	
+A-237	plant-based	plant-based	calories	calories	diets eat hundreds of fewer	
+A-237	lead	lead	dopamine	dopamine	to deadened	
+A-237	dopamine	dopamine	fat	fat	receptors to deal with all these jolts of	
+A-237	smoking	smoking	candy	candy	cigarettes, using marijuana, and eating	
+A-237	dopamine	dopamine	diet	diet	responsivity, but a calorie-dense	
+A-237	fat	fat	brains	brains	) have a deadened dopamine response in their	
+A-237	smoking	smoking	cocaine	cocaine	crack	
+A-237	dopamine	dopamine	marijuana	marijuana	reward system that keeps people smoking cigarettes, using	
+A-237	yogurt	yogurt	butter	butter	packed with	
+A-237	obesity	obesity	addiction	addiction	as an	
+A-237	calorie dense	calorie dense	ice cream	ice cream	animal and junk foods like	
+A-237	diet	diet	dopamine	dopamine	doesn’t lead to deadened	
+A-237	smoking	smoking	cigarettes	cigarettes		
+A-237	cream	cream	dopamine	dopamine	(sugar and fat) have a deadened	
+A-237	sugar	sugar	fat	fat	and	
+A-237	ice cream	ice cream	dopamine	dopamine	(sugar and fat) have a deadened	
+A-237	water	water	fiber	fiber	 and	
+A-237	ice cream	ice cream	fat	fat	(sugar and	
+A-237	fat	fat	sugar	sugar	and	
+A-237	dopamine	dopamine	cigarettes	cigarettes	reward system that keeps people smoking	
+A-237	cream	cream	fat	fat	(sugar and	
+A-237	plant-based diets	plant-based diets	calories	calories	eat hundreds of fewer	
+A-237	fat	fat	dopamine	dopamine	) have a deadened	
+A-237	yogurt	yogurt	fat	fat	packed with butter	
+A-237	obesity	obesity	addiction	addiction	and	
+A-237	calorie dense	calorie dense	cream	cream	animal and junk foods like ice	

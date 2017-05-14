@@ -1,0 +1,52 @@
+
+T-558	dark chocolate	dark chocolate	milk	milk	contains triple the amount of antioxidants compared to	
+T-558	chocolate	chocolate	milk	milk	contains triple the amount of antioxidants compared to	
+T-558	sugar	sugar	butter	butter	and fat, in the form of cocoa	
+T-558	beans	beans	cocoa	cocoa	is to choose	
+T-558	fat	fat	sugar	sugar	or	
+T-558	chocolate	chocolate	milk chocolate	milk chocolate	contains triple the amount of antioxidants compared to	
+T-558	blood	blood	lead	lead	flow to the kidneys,	
+T-558	phytonutrients	phytonutrients	blood	blood	packed in cocoa powder may lead to lower	
+T-558	chocolate	chocolate	fat	fat	contains some sugar and	
+T-558	antioxidants	antioxidants	milk	milk	compared to	
+T-558	cocoa	cocoa	sugar	sugar	powder, which does not contain fat or	
+T-558	lead	lead	blood	blood	to lower	
+T-558	milk	milk	chocolate	chocolate		
+T-558	cocoa	cocoa	fat	fat	powder, which does not contain	
+T-558	cocoa	cocoa	lead	lead	powder may	
+T-558	ldl	ldl	immune function	immune function	levels, while boosting hdl levels and	
+T-558	blood	blood	ldl	ldl	pressure and	
+T-558	lead	lead	peripheral artery disease	peripheral artery disease	to improvements in	
+T-558	chocolate	chocolate	antioxidants	antioxidants	contains triple the amount of	
+T-558	phytonutrients	phytonutrients	blood pressure	blood pressure	packed in cocoa powder may lead to lower	
+T-558	dark chocolate	dark chocolate	fat	fat	contains some sugar and	
+T-558	dark chocolate	dark chocolate	milk chocolate	milk chocolate	contains triple the amount of antioxidants compared to	
+T-558	cocoa	cocoa	fats	fats	butter, which is one of the few plant	
+T-558	sugar	sugar	cocoa butter	cocoa butter	and fat, in the form of	
+T-558	disease	disease	stroke	stroke	and	
+T-558	cardiovascular disease	cardiovascular disease	stroke	stroke	and	
+T-558	sugar	sugar	cocoa	cocoa	and fat, in the form of	
+T-558	phytonutrients	phytonutrients	cocoa	cocoa	packed in	
+T-558	phytonutrients	phytonutrients	lead	lead	packed in cocoa powder may	
+T-558	chocolate	chocolate	sugar	sugar	contains some	
+T-558	dark chocolate	dark chocolate	sugar	sugar	contains some	
+T-558	risk	risk	cardiovascular disease	cardiovascular disease	of	
+T-558	lead	lead	ldl	ldl	to lower blood pressure and	
+T-558	blood pressure	blood pressure	immune function	immune function	and ldl levels, while boosting hdl levels and	
+T-558	cocoa	cocoa	butter	butter		
+T-558	cocoa	cocoa	blood pressure	blood pressure	powder may lead to lower	
+T-558	blood	blood	peripheral artery disease	peripheral artery disease	flow to the kidneys, lead to improvements in	
+T-558	antioxidants	antioxidants	chocolate	chocolate	compared to milk	
+T-558	cocoa	cocoa	arteries	arteries	intake can also help open up coronary	
+T-558	cocoa	cocoa	blood	blood	powder may lead to lower	
+T-558	cocoa	cocoa	ldl	ldl	powder may lead to lower blood pressure and	
+T-558	lead	lead	disease	disease	to improvements in peripheral artery	
+T-558	blood	blood	kidneys	kidneys	flow to the	
+T-558	lead	lead	blood pressure	blood pressure	to lower	
+T-558	fats	fats	cholesterol	cholesterol	that can raise	
+T-558	sugar	sugar	fat	fat	and	
+T-558	risk	risk	stroke	stroke	of cardiovascular disease and	
+T-558	antioxidants	antioxidants	milk chocolate	milk chocolate	compared to	
+T-558	dark chocolate	dark chocolate	antioxidants	antioxidants	contains triple the amount of	
+T-558	risk	risk	disease	disease	of cardiovascular	
+T-558	blood pressure	blood pressure	ldl	ldl	and	

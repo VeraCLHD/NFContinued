@@ -1,0 +1,10 @@
+
+V-932	sun	sun	supplements	supplements	exposure, then one needs to take vitamin d	
+V-932	sun	sun	vitamin d	vitamin d	exposure might one need to get their target	
+V-932	soy	soy	margarine	margarine	milk, calf milk,	
+V-932	soy	soy	mushrooms	mushrooms	milk, calf milk, margarine, or	
+V-932	sun	sun	vitamin d	vitamin d	exposure, then one needs to take	
+V-932	vitamin d	vitamin d	mortality	mortality	level associated with the lowest	
+V-932	vitamin d	vitamin d	sun	sun	status despite abundant	
+V-932	sun	sun	vitamin d supplements	vitamin d supplements	exposure, then one needs to take	
+V-932	soy	soy	milk	milk		

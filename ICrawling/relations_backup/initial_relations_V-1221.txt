@@ -1,0 +1,23 @@
+
+V-1221	corn syrup	corn syrup	glucose	glucose	is pure	
+V-1221	corn syrup	corn syrup	mercury	mercury	may contain	
+V-1221	baking	baking	glucose	glucose	corn syrup is pure	
+V-1221	sugar	sugar	corn	corn	is 50% glucose and 50% fructose, and high-fructose	
+V-1221	sugar	sugar	corn	corn	or	
+V-1221	baking	baking	corn	corn		
+V-1221	glucose	glucose	corn syrup	corn syrup	and 50% fructose, and high-fructose	
+V-1221	corn	corn	soft drinks	soft drinks	syrup in	
+V-1221	glucose	glucose	fructose	fructose	and 50%	
+V-1221	sugar	sugar	corn syrup	corn syrup	is 50% glucose and 50% fructose, and high-fructose	
+V-1221	baking	baking	corn syrup	corn syrup		
+V-1221	corn	corn	glucose	glucose	syrup is pure	
+V-1221	corn syrup	corn syrup	fructose	fructose	is pure glucose; zero	
+V-1221	corn syrup	corn syrup	soft drinks	soft drinks	in	
+V-1221	sugar	sugar	fructose	fructose	is 50% glucose and 50%	
+V-1221	corn	corn	mercury	mercury	syrup may contain	
+V-1221	corn syrup	corn syrup	sugar	sugar	is as good for you as	
+V-1221	corn	corn	fructose	fructose	syrup is pure glucose; zero	
+V-1221	sugar	sugar	corn syrup	corn syrup	or	
+V-1221	baking	baking	fructose	fructose	corn syrup is pure glucose; zero	
+V-1221	sugar	sugar	glucose	glucose	is 50%	
+V-1221	glucose	glucose	corn	corn	and 50% fructose, and high-fructose	

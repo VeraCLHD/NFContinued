@@ -1,0 +1,33 @@
+
+V-843	variety	variety	cancer	cancer	of diseases in the animals, including	
+V-843	juice	juice	raw	raw	’ in the package of	
+V-843	meat	meat	poultry	poultry	], consumption of raw or inadequately cooked	
+V-843	cancer	cancer	poultry	poultry	mortality associated with	
+V-843	poultry	poultry	meat	meat		
+V-843	vaccinations	vaccinations	antibodies	antibodies	…”“we already have serologic evidence [testing for	
+V-843	disease	disease	variety	variety	virus, that cause a wide	
+V-843	schizophrenia	schizophrenia	disease	disease	], anterior horn cell	
+V-843	chicken	chicken	juice	juice		
+V-843	thyroid	thyroid	schizophrenia	schizophrenia	gland, senile and pre-senile psychotic conditions [like	
+V-843	raw	raw	meat	meat	or inadequately cooked poultry	
+V-843	meat	meat	raw	raw	], consumption of	
+V-843	cancer	cancer	mortality	mortality		
+V-843	eggs	eggs	antibodies	antibodies	and vaccinations…”“we already have serologic evidence [testing for	
+V-843	variety	variety	chickens	chickens	of cancers, neurologic, and other diseases in	
+V-843	blood	blood	chicken	chicken	and secretions [the so-called ‘	
+V-843	chicken	chicken	meat	meat	juice’ in the package of raw	
+V-843	avian leukosis/sarcoma	avian leukosis/sarcoma	virus	virus	viruses, reticuloendotheliosis viruses and marek’s disease	
+V-843	poultry	poultry	vaccinations	vaccinations	meat, or other products, such as eggs and	
+V-843	avian leukosis/sarcoma	avian leukosis/sarcoma	viruses	viruses		
+V-843	chicken	chicken	raw	raw	juice’ in the package of	
+V-843	avian leukosis/sarcoma	avian leukosis/sarcoma	disease	disease	viruses, reticuloendotheliosis viruses and marek’s	
+V-843	infection	infection	variety	variety	with a	
+V-843	mortality	mortality	poultry	poultry	associated with	
+V-843	raw	raw	poultry	poultry	meat], consumption of raw or inadequately cooked	
+V-843	blood	blood	juice	juice	and secretions [the so-called ‘chicken	
+V-843	eggs	eggs	vaccinations	vaccinations	and	
+V-843	raw	raw	meat	meat		
+V-843	poultry	poultry	eggs	eggs	meat, or other products, such as	
+V-843	juice	juice	meat	meat	’ in the package of raw	
+V-843	disease	disease	virus	virus		
+V-843	antibodies	antibodies	avian leukosis/sarcoma	avian leukosis/sarcoma	] that humans are commonly infected with	

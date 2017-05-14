@@ -1,0 +1,32 @@
+
+A-454	disease	disease	california	california	in	
+A-454	dairy cows	dairy cows	pregnancy	pregnancy	endure annual cycles of artificial insemination,	
+A-454	milk	milk	risk	risk	poses any mad cow	
+A-454	milk	milk	sheep	sheep	from scrapie-infected	
+A-454	disease	disease	california	california	found in	
+A-454	sheep	sheep	infection	infection	stricken with mastitis could cause prion	
+A-454	mastitis	mastitis	infection	infection	could cause prion	
+A-454	blood	blood	pus	pus	and	
+A-454	blood	blood	milk	milk	and pus cells sloughed into	
+A-454	milk	milk	mad cow disease	mad cow disease	doesn’t transmit	
+A-454	usda	usda	mad cow disease	mad cow disease	flatly declared that milk doesn’t transmit	
+A-454	dairy	dairy	milk	milk	cows into	
+A-454	mad cow disease	mad cow disease	california	california	in	
+A-454	milk	milk	mastitis	mastitis	from scrapie-infected sheep stricken with	
+A-454	lameness	lameness	dairy	dairy	and mastitis, the two leading causes of	
+A-454	disease	disease	usda	usda	in california, the	
+A-454	cows	cows	pregnancy	pregnancy	endure annual cycles of artificial insemination,	
+A-454	cows	cows	milk	milk	into	
+A-454	sheep	sheep	mastitis	mastitis	stricken with	
+A-454	mortality	mortality	united states	united states	in the	
+A-454	usda	usda	disease	disease	flatly declared that milk doesn’t transmit mad cow	
+A-454	mad cow disease	mad cow disease	california	california	found in	
+A-454	dairy	dairy	pregnancy	pregnancy	cows endure annual cycles of artificial insemination,	
+A-454	dairy	dairy	cows	cows		
+A-454	dairy cows	dairy cows	milk	milk	into	
+A-454	mad cow disease	mad cow disease	usda	usda	in california, the	
+A-454	usda	usda	milk	milk	flatly declared that	
+A-454	milk	milk	disease	disease	doesn’t transmit mad cow	
+A-454	mastitis	mastitis	dairy	dairy	in the u.s.	
+A-454	lameness	lameness	mastitis	mastitis	and	
+A-454	pus	pus	milk	milk	cells sloughed into	

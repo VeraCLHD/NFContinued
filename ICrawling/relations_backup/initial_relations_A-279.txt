@@ -1,0 +1,102 @@
+
+A-279	colorectal cancer	colorectal cancer	stool size	stool size	risk (	
+A-279	beans	beans	fats	fats	and essentially the ratio of plant	
+A-279	prunes	prunes	diet	diet	vs. metamucil vs. vegan	
+A-279	anti-inflammatory	anti-inflammatory	plant-based	plant-based	and antioxidant benefits of	
+A-279	second meal effect	second meal effect	lifespan	lifespan	) and a longer	
+A-279	cancer	cancer	cancer	cancer	risk (stool size matters), lower breast	
+A-279	women	women	cholesterol	cholesterol	in the first place, see	
+A-279	breast cancer	breast cancer	risk	risk		
+A-279	cholesterol	cholesterol	sexual dysfunction	sexual dysfunction	and female	
+A-279	colorectal cancer	colorectal cancer	breast cancer	breast cancer	risk (stool size matters), lower	
+A-279	cholesterol	cholesterol	beans	beans	(how fiber lowers cholesterol), weight loss (	
+A-279	risk	risk	cancer	cancer	(stool size matters), lower breast	
+A-279	drugs	drugs	cholesterol	cholesterol	), lower blood	
+A-279	whole grains	whole grains	drugs	drugs	may work as well as	
+A-279	diet	diet	colorectal cancer	colorectal cancer	), lower	
+A-279	health	health	prevention	prevention	experts are now hoping that	
+A-279	metamucil	metamucil	colorectal cancer	colorectal cancer	vs. vegan diet), lower	
+A-279	estrogen	estrogen	fiber	fiber	and	
+A-279	lifespan	lifespan	women	women	(what	
+A-279	beans	beans	second meal effect	second meal effect	and the	
+A-279	prunes	prunes	cancer	cancer	vs. metamucil vs. vegan diet), lower colorectal	
+A-279	risk	risk	breast cancer	breast cancer	(stool size matters), lower	
+A-279	diet	diet	cancer	cancer	), lower colorectal	
+A-279	fats	fats	animal fats	animal fats	to	
+A-279	prunes	prunes	metamucil	metamucil	vs.	
+A-279	weight loss	weight loss	second meal effect	second meal effect	(beans and the	
+A-279	prunes	prunes	vegan	vegan	vs. metamucil vs.	
+A-279	grains	grains	cholesterol	cholesterol	may work as well as drugs), lower blood	
+A-279	cholesterol	cholesterol	fiber	fiber	(how	
+A-279	drugs	drugs	weight loss	weight loss	), lower blood cholesterol (how fiber lowers cholesterol),	
+A-279	stool size	stool size	risk	risk	matters), lower breast cancer	
+A-279	blood pressure	blood pressure	grains	grains	(whole	
+A-279	cholesterol	cholesterol	weight loss	weight loss	(how fiber lowers cholesterol),	
+A-279	metamucil	metamucil	vegan	vegan	vs.	
+A-279	blood	blood	grains	grains	pressure (whole	
+A-279	risk	risk	disease	disease	of coronary	
+A-279	grains	grains	drugs	drugs	may work as well as	
+A-279	fiber	fiber	cholesterol	cholesterol	lowers	
+A-279	fiber	fiber	breast cancer	breast cancer	vs.	
+A-279	stool size	stool size	cancer	cancer	matters), lower breast	
+A-279	pre-diabetes	pre-diabetes	diabetes	diabetes	or	
+A-279	drugs	drugs	fiber	fiber	), lower blood cholesterol (how	
+A-279	diet	diet	risk	risk	), lower colorectal cancer	
+A-279	beans	beans	lifespan	lifespan	and the second meal effect) and a longer	
+A-279	vegan	vegan	diet	diet		
+A-279	risk	risk	breast cancer	breast cancer	(relieving yourself of excess estrogen and fiber vs.	
+A-279	vegan	vegan	cancer	cancer	diet), lower colorectal	
+A-279	anti-inflammatory	anti-inflammatory	plant-based diet	plant-based diet	and antioxidant benefits of	
+A-279	blood	blood	drugs	drugs	pressure (whole grains may work as well as	
+A-279	women	women	sexual dysfunction	sexual dysfunction	in the first place, see cholesterol and female	
+A-279	beans	beans	animal fats	animal fats	and essentially the ratio of plant fats to	
+A-279	bristol stool scale	bristol stool scale	prunes	prunes	) and frequency (	
+A-279	cancer	cancer	stool size	stool size	risk (	
+A-279	public health	public health	prevention	prevention	experts are now hoping that	
+A-279	cancer	cancer	breast cancer	breast cancer	risk (stool size matters), lower	
+A-279	metamucil	metamucil	cancer	cancer	vs. vegan diet), lower colorectal	
+A-279	metamucil	metamucil	stool size	stool size	vs. vegan diet), lower colorectal cancer risk (	
+A-279	erectile dysfunction	erectile dysfunction	physicians	physicians	could be a more immediate motivator that	
+A-279	plant-based	plant-based	diet	diet		
+A-279	breast cancer	breast cancer	fiber	fiber	risk (relieving yourself of excess estrogen and	
+A-279	colorectal cancer	colorectal cancer	cancer	cancer	risk (stool size matters), lower breast	
+A-279	vegan	vegan	stool size	stool size	diet), lower colorectal cancer risk (	
+A-279	anti-inflammatory	anti-inflammatory	antioxidant	antioxidant	and	
+A-279	blood pressure	blood pressure	drugs	drugs	(whole grains may work as well as	
+A-279	sexual dysfunction	sexual dysfunction	cholesterol	cholesterol	in women in the first place, see	
+A-279	antioxidant	antioxidant	diet	diet	benefits of plant-based	
+A-279	estrogen	estrogen	breast cancer	breast cancer	and fiber vs.	
+A-279	drugs	drugs	blood	blood	), lower	
+A-279	antioxidant	antioxidant	plant-based	plant-based	benefits of	
+A-279	second meal effect	second meal effect	women	women	) and a longer lifespan (what	
+A-279	anti-inflammatory	anti-inflammatory	diet	diet	and antioxidant benefits of plant-based	
+A-279	prunes	prunes	risk	risk	vs. metamucil vs. vegan diet), lower colorectal cancer	
+A-279	diet	diet	stool size	stool size	), lower colorectal cancer risk (	
+A-279	metamucil	metamucil	risk	risk	vs. vegan diet), lower colorectal cancer	
+A-279	antioxidant	antioxidant	plant-based diet	plant-based diet	benefits of	
+A-279	sexual dysfunction	sexual dysfunction	women	women	in	
+A-279	vegan	vegan	colorectal cancer	colorectal cancer	diet), lower	
+A-279	blood	blood	whole grains	whole grains	pressure (	
+A-279	bristol stool scale	bristol stool scale	diet	diet	) and frequency (prunes vs. metamucil vs. vegan	
+A-279	grains	grains	blood	blood	may work as well as drugs), lower	
+A-279	fiber	fiber	cancer	cancer	vs. breast	
+A-279	estrogen	estrogen	blood	blood	and fiber vs. breast cancer), lower	
+A-279	bristol stool scale	bristol stool scale	metamucil	metamucil	) and frequency (prunes vs.	
+A-279	erectile dysfunction	erectile dysfunction	death	death	and	
+A-279	cancer	cancer	risk	risk		
+A-279	colorectal cancer	colorectal cancer	risk	risk		
+A-279	stool size	stool size	breast cancer	breast cancer	matters), lower	
+A-279	vegan	vegan	risk	risk	diet), lower colorectal cancer	
+A-279	metamucil	metamucil	diet	diet	vs. vegan	
+A-279	prevention	prevention	erectile dysfunction	erectile dysfunction	or improvement of	
+A-279	nuts	nuts	erectile dysfunction	erectile dysfunction	for	
+A-279	whole grains	whole grains	blood	blood	may work as well as drugs), lower	
+A-279	bristol stool scale	bristol stool scale	vegan	vegan	) and frequency (prunes vs. metamucil vs.	
+A-279	prunes	prunes	colorectal cancer	colorectal cancer	vs. metamucil vs. vegan diet), lower	
+A-279	women	women	diabetes	diabetes	with pre-	
+A-279	estrogen	estrogen	cancer	cancer	and fiber vs. breast	
+A-279	breast cancer	breast cancer	estrogen	estrogen	risk (relieving yourself of excess	
+A-279	whole grains	whole grains	cholesterol	cholesterol	may work as well as drugs), lower blood	
+A-279	women	women	pre-diabetes	pre-diabetes	with	
+A-279	fiber	fiber	bristol stool scale	bristol stool scale	intake may include improved bowel function (	
+A-279	estrogen	estrogen	blood pressure	blood pressure	and fiber vs. breast cancer), lower	

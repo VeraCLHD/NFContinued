@@ -1,0 +1,12 @@
+
+V-720	cancer	cancer	risk	risk		
+V-720	igf-1	igf-1	dogs	dogs	is the reason some	
+V-720	vegans	vegans	risk	risk	lowers cancer	
+V-720	igf-1	igf-1	vegans	vegans	in	
+V-720	growth hormone	growth hormone	igf-1	igf-1		
+V-720	growth hormone	growth hormone	dogs	dogs	igf-1 is the reason some	
+V-720	vegans	vegans	cancer	cancer	lowers	
+V-720	igf-1	igf-1	vegans	vegans	levels in	
+V-720	igf-1	igf-1	cancer	cancer	in vegans lowers	
+V-720	risk	risk	igf-1	igf-1	looking like this?true or false: lower	
+V-720	igf-1	igf-1	risk	risk	in vegans lowers cancer	

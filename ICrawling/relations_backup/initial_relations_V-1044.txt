@@ -1,0 +1,10 @@
+
+V-1044	animal protein	animal protein	eggs	eggs	at that age—meat,	
+V-1044	puberty	puberty	protein	protein	.kids eating lots of animal	
+V-1044	animal protein	animal protein	dairy	dairy	at that age—meat, eggs, and	
+V-1044	dairy	dairy	puberty	puberty	—prematurely start	
+V-1044	animal protein	animal protein	meat	meat	at that age—	
+V-1044	animal protein	animal protein	puberty	puberty	at that age—meat, eggs, and dairy—prematurely start	
+V-1044	protein	protein	children	children		
+V-1044	protein	protein	puberty	puberty	at that age—meat, eggs, and dairy—prematurely start	
+V-1044	puberty	puberty	animal protein	animal protein	.kids eating lots of	

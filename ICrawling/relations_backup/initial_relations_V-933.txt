@@ -1,0 +1,31 @@
+
+V-933	medicine	medicine	vitamin d	vitamin d	raised their	
+V-933	colon	colon	risk	risk	cancer	
+V-933	rickets	rickets	colon	colon	risk, but of	
+V-933	blood	blood	vitamin d	vitamin d	level of	
+V-933	rickets	rickets	vitamin d	vitamin d	risk, but of colon cancer risk versus	
+V-933	cancer	cancer	risk	risk		
+V-933	colon cancer	colon cancer	vitamin d	vitamin d	risk versus	
+V-933	colon	colon	institute of medicine	institute of medicine	cancer risk versus vitamin d levels—suggesting that the	
+V-933	medicine	medicine	blood	blood	raised their vitamin d recommendations, based on a	
+V-933	breast cancer	breast cancer	risk	risk		
+V-933	mortality	mortality	risk	risk		
+V-933	colon	colon	cancer	cancer		
+V-933	vitamin d	vitamin d	medicine	medicine	levels—suggesting that the institute of	
+V-933	colon cancer	colon cancer	institute of medicine	institute of medicine	risk versus vitamin d levels—suggesting that the	
+V-933	breast cancer	breast cancer	multiple sclerosis	multiple sclerosis	risk,	
+V-933	cancer	cancer	vitamin d	vitamin d	risk versus	
+V-933	sun	sun	supplements	supplements	and/or	
+V-933	rickets	rickets	risk	risk		
+V-933	rickets	rickets	colon cancer	colon cancer	risk, but of	
+V-933	institute of medicine	institute of medicine	vitamin d	vitamin d	raised their	
+V-933	breast cancer	breast cancer	vitamin d	vitamin d	risk, multiple sclerosis, and other conditions linked to	
+V-933	vitamin d	vitamin d	blood	blood	recommendations, based on a	
+V-933	cancer	cancer	institute of medicine	institute of medicine	risk versus vitamin d levels—suggesting that the	
+V-933	blood	blood	health	health	level of above 30 ng/ml for maximum	
+V-933	vitamin d	vitamin d	sun	sun	recommendation would be to figure out how much	
+V-933	rickets	rickets	cancer	cancer	risk, but of colon	
+V-933	colon	colon	vitamin d	vitamin d	cancer risk versus	
+V-933	colon cancer	colon cancer	risk	risk		
+V-933	vitamin d	vitamin d	institute of medicine	institute of medicine	levels—suggesting that the	
+V-933	institute of medicine	institute of medicine	blood	blood	raised their vitamin d recommendations, based on a	

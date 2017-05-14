@@ -1,0 +1,88 @@
+
+V-223	fat	fat	dha	dha		
+V-223	disease	disease	cancer	cancer	and	
+V-223	arrhythmias	arrhythmias	sudden death	sudden death	can be life-threatening and cause	
+V-223	fish oil	fish oil	sudden cardiac death	sudden cardiac death	consumption have not only failed to reduce	
+V-223	death	death	contaminants	contaminants	—maybe because of the	
+V-223	prostate cancer	prostate cancer	dha	dha	in the lower	
+V-223	risk	risk	contaminants	contaminants	of cardiac death—maybe because of the	
+V-223	arrhythmias	arrhythmias	death	death	can be life-threatening and cause sudden	
+V-223	prostate cancer	prostate cancer	risk	risk		
+V-223	prostate	prostate	macular degeneration	macular degeneration	cancer and monumentally failed to treat	
+V-223	fish	fish	disease	disease	oil failure for heart	
+V-223	fish	fish	epa	epa	oil,	
+V-223	prostate	prostate	cancer	cancer		
+V-223	fish	fish	heart disease	heart disease	oil failure for	
+V-223	fish	fish	risk	risk	or fish oil increase cancer	
+V-223	dha	dha	prostate cancer	prostate cancer	was associated with increased risk of	
+V-223	diet	diet	fish	fish	: from	
+V-223	prostate	prostate	dha	dha	cancer in the lower	
+V-223	diet	diet	meat	meat	: from fish,	
+V-223	risk	risk	prostate	prostate	of	
+V-223	blood	blood	dha	dha	of the long chain omega-3 fat	
+V-223	fish oil	fish oil	disease	disease	failure for heart	
+V-223	cardiac death	cardiac death	mortality	mortality	with omega-3s, but actually increased	
+V-223	meat	meat	prostate	prostate	is associated with an increased risk of	
+V-223	dha	dha	meat	meat	group, as the consumption of well-done	
+V-223	death	death	mortality	mortality	with omega-3s, but actually increased	
+V-223	risk	risk	fish	fish	of cardiac death—maybe because of the contaminants in	
+V-223	blood	blood	fat	fat	of the long chain omega-3	
+V-223	heart disease	heart disease	cancer	cancer	and	
+V-223	meat	meat	prostate cancer	prostate cancer	is associated with an increased risk of	
+V-223	heartbeat	heartbeat	risk	risk	and a higher	
+V-223	risk	risk	death	death	of stroke and	
+V-223	fats	fats	fish	fish	should consider its potential risks.how could eating more	
+V-223	contaminants	contaminants	fish	fish	in	
+V-223	fish oil	fish oil	risk	risk	capsules, were found to have a higher 	
+V-223	dha	dha	prostate cancer	prostate cancer	were found to be at higher risk for	
+V-223	risk	risk	death	death	of cardiac	
+V-223	fish oil	fish oil	risk	risk	increase cancer	
+V-223	cancer	cancer	dha	dha	in the lower	
+V-223	risk	risk	macular degeneration	macular degeneration	of prostate cancer and monumentally failed to treat	
+V-223	fish oil	fish oil	death	death	capsules, were found to have a higher risk of cardiac	
+V-223	risk	risk	fish	fish	of stroke and death, but	
+V-223	fish	fish	fish oil	fish oil	and	
+V-223	fish oil	fish oil	heart disease	heart disease	failure for	
+V-223	fish oil	fish oil	cancer	cancer	increase	
+V-223	stroke	stroke	death	death	and	
+V-223	dha	dha	prostate	prostate	was associated with increased risk of	
+V-223	risk	risk	cancer	cancer	of prostate	
+V-223	cancer	cancer	risk	risk		
+V-223	diet	diet	dairy	dairy	: from fish, meat, and	
+V-223	fish oil	fish oil	cardiac death	cardiac death	capsules, were found to have a higher risk of	
+V-223	risk	risk	stroke	stroke	of	
+V-223	fish oil	fish oil	cardiac death	cardiac death	consumption have not only failed to reduce sudden	
+V-223	fat	fat	risk	risk	dha were found to be at higher	
+V-223	prevention	prevention	cancer	cancer	of heart disease and	
+V-223	prevention	prevention	disease	disease	of heart	
+V-223	fish	fish	fish oil	fish oil	or	
+V-223	heartbeat	heartbeat	stroke	stroke	and a higher risk of	
+V-223	risk	risk	prostate cancer	prostate cancer	of	
+V-223	sudden cardiac death	sudden cardiac death	mortality	mortality	with omega-3s, but actually increased	
+V-223	cardiac death	cardiac death	contaminants	contaminants	—maybe because of the	
+V-223	dha	dha	disease	disease	would stop the progression of heart	
+V-223	dha	dha	risk	risk	were found to be at higher	
+V-223	pcb	pcb	prostate	prostate	linked to	
+V-223	dha	dha	cancer	cancer	was associated with increased risk of prostate	
+V-223	dha	dha	heart disease	heart disease	would stop the progression of	
+V-223	cancer	cancer	macular degeneration	macular degeneration	and monumentally failed to treat	
+V-223	risk	risk	prostate cancer	prostate cancer	for	
+V-223	dha	dha	prostate	prostate	were found to be at higher risk for	
+V-223	prevention	prevention	heart disease	heart disease	of	
+V-223	death	death	fish	fish	—maybe because of the contaminants in	
+V-223	fish	fish	cancer	cancer	or fish oil increase	
+V-223	risk	risk	prostate	prostate	for	
+V-223	risk	risk	cancer	cancer	for prostate	
+V-223	fish	fish	dha	dha	oil, epa, and	
+V-223	prostate cancer	prostate cancer	macular degeneration	macular degeneration	and monumentally failed to treat	
+V-223	arrhythmias	arrhythmias	atrial fibrillation	atrial fibrillation	(abnormal heart rhythms), like	
+V-223	cardiac death	cardiac death	fish	fish	—maybe because of the contaminants in	
+V-223	prostate	prostate	risk	risk	cancer	
+V-223	heartbeat	heartbeat	death	death	and a higher risk of stroke and	
+V-223	meat	meat	cancer	cancer	is associated with an increased risk of prostate	
+V-223	meat	meat	fish	fish	consumption in general, not just	
+V-223	stroke	stroke	fish	fish	and death, but	
+V-223	risk	risk	cardiac death	cardiac death	of	
+V-223	risk	risk	fish oil	fish oil	of stroke and death, but fish and	
+V-223	stroke	stroke	fish oil	fish oil	and death, but fish and	
+V-223	dha	dha	risk	risk	was associated with increased	

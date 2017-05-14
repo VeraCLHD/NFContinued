@@ -1,0 +1,18 @@
+
+T-63	prozac	prozac	depression	depression	in relieving	
+T-63	depression	depression	symptoms	symptoms		
+T-63	saffron	saffron	prozac	prozac	was as effective as	
+T-63	treatment	treatment	pancreatic cancer	pancreatic cancer	in treating terminal	
+T-63	chemotherapy	chemotherapy	pancreatic cancer	pancreatic cancer	to a gerson-style treatment in treating terminal	
+T-63	saffron	saffron	depression	depression	was as effective as prozac in relieving	
+T-63	chemotherapy	chemotherapy	treatment	treatment	to a gerson-style	
+T-63	pancreatic cancer	pancreatic cancer	chemotherapy	chemotherapy	patients found the	
+T-63	medicine	medicine	alternative medicine	alternative medicine	may sometimes be more effective than	
+T-63	nasal irrigation	nasal irrigation	medicine	medicine	using neti pots.on the other hand, conventional	
+T-63	treatment	treatment	cancer	cancer	in treating terminal pancreatic	
+T-63	cancer	cancer	chemotherapy	chemotherapy	patients found the	
+T-63	prozac	prozac	symptoms	symptoms	in relieving depression	
+T-63	saffron	saffron	symptoms	symptoms	was as effective as prozac in relieving depression	
+T-63	chemotherapy	chemotherapy	cancer	cancer	to a gerson-style treatment in treating terminal pancreatic	
+T-63	treatment	treatment	chemotherapy	chemotherapy	in treating terminal pancreatic cancer patients found the	
+T-63	diarrhea	diarrhea	gastroenteritis	gastroenteritis	and to treat	

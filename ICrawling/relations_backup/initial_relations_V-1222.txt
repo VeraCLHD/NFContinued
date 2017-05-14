@@ -1,0 +1,8 @@
+
+V-1222	soft drinks	soft drinks	corn	corn	aren't made with table sugar anymore—they have high-fructose	
+V-1222	sodium benzoate	sodium benzoate	hyperactivity	hyperactivity	has also been linked to	
+V-1222	sugar	sugar	corn syrup	corn syrup	anymore—they have high-fructose	
+V-1222	soft drinks	soft drinks	sugar	sugar	aren't made with table	
+V-1222	sodium	sodium	hyperactivity	hyperactivity	benzoate has also been linked to	
+V-1222	sugar	sugar	corn	corn	anymore—they have high-fructose	
+V-1222	soft drinks	soft drinks	corn syrup	corn syrup	aren't made with table sugar anymore—they have high-fructose	

@@ -1,0 +1,16 @@
+
+A-270	junk food	junk food	animal products	animal products	and	
+A-270	fat	fat	calories	calories	sensitivity has been linked to eating more	
+A-270	diet	diet	physicians committee for responsible medicine	physicians committee for responsible medicine	can make you feel, check out the	
+A-270	diet	diet	physicians	physicians	can make you feel, check out the	
+A-270	physicians	physicians	medicine	medicine	committee for responsible	
+A-270	hunger	hunger	salt	salt	drives for	
+A-270	hunger	hunger	fat	fat	drives for salt, sugar, and	
+A-270	medications	medications	chronic diseases	chronic diseases	for	
+A-270	drugs	drugs	plants	plants	by saying yes to more	
+A-270	soup	soup	salt	salt	tastes just as salty with half the	
+A-270	salt	salt	diet	diet		
+A-270	doctors	doctors	diet	diet	to explain to patients that a low-salt	
+A-270	salt	salt	soup	soup	their own	
+A-270	doctors	doctors	salt	salt	to explain to patients that a low-	
+A-270	hunger	hunger	sugar	sugar	drives for salt,	

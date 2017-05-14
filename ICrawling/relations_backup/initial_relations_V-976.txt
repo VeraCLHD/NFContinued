@@ -1,0 +1,12 @@
+
+V-976	avocado	avocado	fruit	fruit		
+V-976	fruit	fruit	blood	blood	in human [white	
+V-976	avocado	avocado	salsa	salsa	commission; maybe big	
+V-976	carcinogens	carcinogens	avocado	avocado	do.conclusion: their “study suggests that extracts of…	
+V-976	avocado	avocado	white blood cells	white blood cells	…fruit in human [	
+V-976	lead	lead	infertility	infertility	to	
+V-976	avocado	avocado	fruit	fruit	…	
+V-976	carcinogens	carcinogens	fruit	fruit	do.conclusion: their “study suggests that extracts of…avocado	
+V-976	blood	blood	stomach	stomach	cells, it hits	
+V-976	avocado	avocado	blood	blood	…fruit in human [white	
+V-976	fruit	fruit	white blood cells	white blood cells	in human [	

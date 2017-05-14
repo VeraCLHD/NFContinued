@@ -1,0 +1,20 @@
+
+V-1039	greens	greens	broccoli	broccoli	—it’s like a	
+V-1039	blood	blood	urine	urine	or	
+V-1039	vegetables	vegetables	cancer	cancer	—like broccoli, kale, collards—that help prevent	
+V-1039	vegetables	vegetables	broccoli	broccoli	—like	
+V-1039	vegetables	vegetables	collards	collards	—like broccoli, kale,	
+V-1039	biomarkers	biomarkers	blood	blood	—things you can actually physically measure in the	
+V-1039	cruciferous vegetables	cruciferous vegetables	broccoli	broccoli	—like	
+V-1039	collards	collards	cancer	cancer	—that help prevent	
+V-1039	cruciferous vegetables	cruciferous vegetables	cancer	cancer	—like broccoli, kale, collards—that help prevent	
+V-1039	phytonutrients	phytonutrients	collards	collards	in cruciferous vegetables—like broccoli, kale,	
+V-1039	phytonutrients	phytonutrients	cancer	cancer	in cruciferous vegetables—like broccoli, kale, collards—that help prevent	
+V-1039	phytonutrients	phytonutrients	vegetables	vegetables	in cruciferous	
+V-1039	vegetables	vegetables	kale	kale	—like broccoli,	
+V-1039	fish	fish	tuna	tuna	consumption—like a	
+V-1039	cruciferous vegetables	cruciferous vegetables	collards	collards	—like broccoli, kale,	
+V-1039	phytonutrients	phytonutrients	kale	kale	in cruciferous vegetables—like broccoli,	
+V-1039	phytonutrients	phytonutrients	cruciferous vegetables	cruciferous vegetables	in	
+V-1039	phytonutrients	phytonutrients	broccoli	broccoli	in cruciferous vegetables—like	
+V-1039	cruciferous vegetables	cruciferous vegetables	kale	kale	—like broccoli,	

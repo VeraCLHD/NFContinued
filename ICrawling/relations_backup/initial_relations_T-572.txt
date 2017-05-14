@@ -1,0 +1,22 @@
+
+T-572	kids	kids	okra	okra	on a healthy diet.beets,	
+T-572	vegetables	vegetables	bile	bile	for binding toxic	
+T-572	pregnancy	pregnancy	breastfeeding	breastfeeding	and	
+T-572	phytochemicals	phytochemicals	enzymes	enzymes	help boost our liver’s detoxification	
+T-572	vegetables	vegetables	sulforaphane	sulforaphane	are a top source of	
+T-572	aids	aids	detox	detox	our livers in the	
+T-572	pollutants	pollutants	children	children	can be passed on to her	
+T-572	liver	liver	detoxification	detoxification	’s	
+T-572	liver	liver	enzymes	enzymes	’s detoxification	
+T-572	kids	kids	kale	kale	on a healthy diet.beets, okra, and	
+T-572	kale	kale	vegetables	vegetables	appear to be the best	
+T-572	phytochemicals	phytochemicals	detoxification	detoxification	help boost our liver’s	
+T-572	phytochemicals	phytochemicals	liver	liver	help boost our	
+T-572	children	children	pregnancy	pregnancy	through	
+T-572	children	children	breastfeeding	breastfeeding	through pregnancy and	
+T-572	flax	flax	lignans	lignans	seed intake provides	
+T-572	flax	flax	detoxification	detoxification	seed intake provides lignans, which help with	
+T-572	vegetables	vegetables	bile acids	bile acids	for binding toxic	
+T-572	pollutants	pollutants	pregnancy	pregnancy	can be passed on to her children through	
+T-572	detoxification	detoxification	enzymes	enzymes		
+T-572	vegetables	vegetables	aids	aids	are a top source of sulforaphane, which	

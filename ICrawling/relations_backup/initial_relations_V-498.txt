@@ -1,0 +1,49 @@
+
+V-498	turmeric	turmeric	osteoarthritis	osteoarthritis	play in the treatment of	
+V-498	health	health	dairy	dairy	consequences of high consumption of [pro-inflammatory foods,] meat,	
+V-498	curcumin	curcumin	osteoarthritis	osteoarthritis	in turmeric play in the treatment of	
+V-498	vegetables	vegetables	peas	peas	and fruits,” and beans, split	
+V-498	anti-inflammatory	anti-inflammatory	beans	beans	plant foods,] whole grains, vegetables and fruits,” and	
+V-498	anti-inflammatory	anti-inflammatory	whole grains	whole grains	plant foods,]	
+V-498	vegetables	vegetables	chickpeas	chickpeas	and fruits,” and beans, split peas,	
+V-498	diet	diet	arthritis	arthritis	help, like it does with rheumatoid	
+V-498	western diet	western diet	stress	stress	“contributes to low-grade systemic inflammation and oxidative tissue	
+V-498	anti-inflammatory	anti-inflammatory	fruits	fruits	plant foods,] whole grains, vegetables and	
+V-498	vegetables	vegetables	lentils	lentils	and fruits,” and beans, split peas, chickpeas, and	
+V-498	china	china	health	health	study is a prime example, showing “the serious	
+V-498	curry powder	curry powder	turmeric	turmeric	spice	
+V-498	anti-inflammatory	anti-inflammatory	diet	diet		
+V-498	diet	diet	inflammation	inflammation	“contributes to low-grade systemic	
+V-498	curcumin	curcumin	turmeric	turmeric	in	
+V-498	inflammation	inflammation	immune system	immune system	and oxidative tissue stress and irritation, placing the	
+V-498	drugs	drugs	treatment	treatment	and painkillers, or the best available	
+V-498	anti-inflammatory	anti-inflammatory	grains	grains	plant foods,] whole	
+V-498	anti-inflammatory	anti-inflammatory	painkillers	painkillers	drugs and	
+V-498	health	health	meat	meat	consequences of high consumption of [pro-inflammatory foods,]	
+V-498	anti-inflammatory	anti-inflammatory	rheumatoid arthritis	rheumatoid arthritis	diet help, like it does with	
+V-498	anti-inflammatory	anti-inflammatory	treatment	treatment	drugs and painkillers, or the best available	
+V-498	diet	diet	rheumatoid arthritis	rheumatoid arthritis	help, like it does with	
+V-498	obesity	obesity	stress	stress	doesn’t just put more	
+V-498	in vitro studies	in vitro studies	grapes	grapes	suggesting protective benefits of soy, pomegranates, citrus,	
+V-498	turmeric	turmeric	treatment	treatment	play in the	
+V-498	anti-inflammatory	anti-inflammatory	vegetables	vegetables	plant foods,] whole grains,	
+V-498	vegetables	vegetables	fruits	fruits	and	
+V-498	in vitro studies	in vitro studies	citrus	citrus	suggesting protective benefits of soy, pomegranates,	
+V-498	treatment	treatment	osteoarthritis	osteoarthritis	of	
+V-498	phytonutrients	phytonutrients	plants	plants	in	
+V-498	vegetables	vegetables	split peas	split peas	and fruits,” and beans,	
+V-498	vegetables	vegetables	beans	beans	and fruits,” and	
+V-498	western diet	western diet	inflammation	inflammation	“contributes to low-grade systemic	
+V-498	in vitro studies	in vitro studies	green tea	green tea	suggesting protective benefits of soy, pomegranates, citrus, grapes,	
+V-498	in vitro studies	in vitro studies	soy	soy	suggesting protective benefits of	
+V-498	drugs	drugs	painkillers	painkillers	and	
+V-498	anti-inflammatory	anti-inflammatory	plant foods	plant foods		
+V-498	diet	diet	stress	stress	“contributes to low-grade systemic inflammation and oxidative tissue	
+V-498	curcumin	curcumin	treatment	treatment	in turmeric play in the	
+V-498	inflammation	inflammation	stress	stress	and oxidative tissue	
+V-498	china study	china study	health	health	is a prime example, showing “the serious	
+V-498	anti-inflammatory	anti-inflammatory	arthritis	arthritis	diet help, like it does with rheumatoid	
+V-498	anti-inflammatory	anti-inflammatory	drugs	drugs		
+V-498	in vitro studies	in vitro studies	pomegranates	pomegranates	suggesting protective benefits of soy,	
+V-498	nutrition	nutrition	exercise	exercise	and	
+V-498	stress	stress	immune system	immune system	and irritation, placing the	

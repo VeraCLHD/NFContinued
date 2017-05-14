@@ -1,0 +1,28 @@
+
+V-1234	tomatoes	tomatoes	raw	raw	provide four times more lycopene than	
+V-1234	lycopene	lycopene	cancer	cancer	than raw tomatoes.and	
+V-1234	juice	juice	cholesterol	cholesterol	can lower our bad	
+V-1234	tomatoes	tomatoes	cancer prevention	cancer prevention	provide four times more lycopene than raw tomatoes.and	
+V-1234	lycopene	lycopene	cancer prevention	cancer prevention	than raw tomatoes.and	
+V-1234	raw	raw	cancer	cancer	tomatoes.and	
+V-1234	raw	raw	phytonutrient	phytonutrient	foodists had low levels of the	
+V-1234	almonds	almonds	raw	raw	healthier than	
+V-1234	phytonutrient	phytonutrient	lycopene	lycopene		
+V-1234	raw	raw	cancer prevention	cancer prevention	tomatoes.and	
+V-1234	tomatoes	tomatoes	lycopene	lycopene	provide four times more	
+V-1234	roasted	roasted	raw	raw	almonds healthier than	
+V-1234	tomato juice	tomato juice	bad cholesterol	bad cholesterol	can lower our	
+V-1234	raw	raw	lycopene	lycopene	foodists had low levels of the phytonutrient	
+V-1234	juice	juice	bad cholesterol	bad cholesterol	can lower our	
+V-1234	asthma	asthma	tomato sauce	tomato sauce	with	
+V-1234	tomatoes	tomatoes	raw	raw		
+V-1234	lycopene	lycopene	tomatoes	tomatoes	than raw	
+V-1234	raw	raw	tomatoes	tomatoes		
+V-1234	tomato juice	tomato juice	cholesterol	cholesterol	can lower our bad	
+V-1234	lycopene	lycopene	raw	raw	than	
+V-1234	lycopene	lycopene	tomatoes	tomatoes	is the wonderful cancer-fighting red pigment in	
+V-1234	roasted	roasted	almonds	almonds		
+V-1234	raw	raw	prevention	prevention	tomatoes.and cancer	
+V-1234	cancer	cancer	prevention	prevention		
+V-1234	lycopene	lycopene	prevention	prevention	than raw tomatoes.and cancer	
+V-1234	tomatoes	tomatoes	cancer	cancer	provide four times more lycopene than raw tomatoes.and	

@@ -1,0 +1,5 @@
+
+V-1201	kids	kids	head lice	head lice	with insecticides, like permethrin, the standard treatment for	
+V-1201	kids	kids	insecticides	insecticides	with	
+V-1201	treatment	treatment	head lice	head lice	for	
+V-1201	kids	kids	treatment	treatment	with insecticides, like permethrin, the standard	

@@ -1,0 +1,36 @@
+
+V-1293	nuts	nuts	seeds	seeds	and	
+V-1293	raw food	raw food	protein	protein	 diets deficient in energy,	
+V-1293	raw food	raw food	vitamins	vitamins	 diets deficient in energy, protein,	
+V-1293	raw	raw	protein	protein	food diets deficient in energy,	
+V-1293	raw	raw	vitamins	vitamins	food diets deficient in energy, protein,	
+V-1293	raw food	raw food	energy	energy	 diets deficient in	
+V-1293	raw food	raw food	b12	b12	 diets deficient in energy, protein, vitamins	
+V-1293	lycopene	lycopene	tomatoes	tomatoes	in cooked	
+V-1293	indoles	indoles	tomatoes	tomatoes	in cooked broccoli, and more lycopene in cooked	
+V-1293	b12	b12	selenium	selenium	and d, calcium,	
+V-1293	indoles	indoles	lycopene	lycopene	in cooked broccoli, and more	
+V-1293	enzymes	enzymes	protein	protein	we need to function from the	
+V-1293	indoles	indoles	broccoli	broccoli	in cooked	
+V-1293	raw food	raw food	young children	young children	diets for	
+V-1293	protein	protein	cooking	cooking	we eat, and	
+V-1293	stomach	stomach	enzymes	enzymes	acid too, but even if they weren't, specific	
+V-1293	raw	raw	young children	young children	food diets for	
+V-1293	diet	diet	fruits	fruits	based on modern cultivated	
+V-1293	raw	raw	energy	energy	food diets deficient in	
+V-1293	vitamins	vitamins	b12	b12		
+V-1293	raw	raw	calcium	calcium	food diets deficient in energy, protein, vitamins b12 and d,	
+V-1293	vegetables	vegetables	raw	raw		
+V-1293	raw	raw	plant-based	plant-based	diets are superior to other whole foods,	
+V-1293	vitamins	vitamins	calcium	calcium	b12 and d,	
+V-1293	antioxidants	antioxidants	raw	raw	in cooked carrots than	
+V-1293	antioxidants	antioxidants	carrots	carrots	in cooked	
+V-1293	raw	raw	children	children	food diets for young	
+V-1293	raw	raw	plant-based diets	plant-based diets	diets are superior to other whole foods,	
+V-1293	raw	raw	b12	b12	food diets deficient in energy, protein, vitamins	
+V-1293	vitamins	vitamins	selenium	selenium	b12 and d, calcium,	
+V-1293	raw food	raw food	children	children	diets for young	
+V-1293	b12	b12	calcium	calcium	and d,	
+V-1293	raw	raw	whole foods	whole foods	diets are superior to other	
+V-1293	raw food	raw food	calcium	calcium	 diets deficient in energy, protein, vitamins b12 and d,	
+V-1293	carrots	carrots	raw	raw	than	

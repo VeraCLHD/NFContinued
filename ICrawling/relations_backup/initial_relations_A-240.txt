@@ -1,0 +1,56 @@
+
+A-240	meat industry	meat industry	viruses	viruses	include asthma-type drugs (ractopamine in pork), bacteria-eating	
+A-240	phosphate additives	phosphate additives	poultry	poultry	may also make	
+A-240	arsenic	arsenic	nitrosamines	nitrosamines	in chicken,	
+A-240	nitrosamines	nitrosamines	antibiotics	antibiotics	(prevention is better than cured meat), and	
+A-240	phosphate additives	phosphate additives	campylobacter	campylobacter	may increase the number of	
+A-240	meat	meat	drugs	drugs	industry include asthma-type	
+A-240	drugs	drugs	meat	meat	(ractopamine in pork), bacteria-eating viruses (viral	
+A-240	poultry	poultry	united states	united states	in the	
+A-240	phosphate additives	phosphate additives	nutrition	nutrition	don’t have to be listed on the	
+A-240	bacteria	bacteria	risk	risk	mean for the	
+A-240	meat	meat	viruses	viruses	industry include asthma-type drugs (ractopamine in pork), bacteria-eating	
+A-240	bacteria	bacteria	chicken	chicken	in	
+A-240	nitrosamines	nitrosamines	meat	meat	(prevention is better than cured	
+A-240	antibiotics	antibiotics	meat	meat	(drug residues in	
+A-240	poultry	poultry	bacteria	bacteria	increase the number of campylobacter	
+A-240	juice	juice	poultry	poultry	”), “the fluid that seeps out from processed	
+A-240	ractopamine	ractopamine	meat	meat	in pork), bacteria-eating viruses (viral	
+A-240	chicken	chicken	poultry	poultry	exudate is the same as	
+A-240	poultry	poultry	paralysis	paralysis	and	
+A-240	meat	meat	cola	cola	purge and	
+A-240	sugar	sugar	soda	soda	was added to	
+A-240	pork	pork	viruses	viruses	), bacteria-eating	
+A-240	viruses	viruses	meat	meat	(viral	
+A-240	arsenic	arsenic	chicken	chicken	in	
+A-240	meat industry	meat industry	ractopamine	ractopamine	include asthma-type drugs (	
+A-240	pork	pork	meat	meat	), bacteria-eating viruses (viral	
+A-240	prevention	prevention	drug residues	drug residues	is better than cured meat), and antibiotics (	
+A-240	drug residues	drug residues	meat	meat	in	
+A-240	campylobacter	campylobacter	chicken	chicken	bacteria in	
+A-240	drugs	drugs	viruses	viruses	(ractopamine in pork), bacteria-eating	
+A-240	phosphate additives	phosphate additives	food safety	food safety	may also make poultry more dangerous from a	
+A-240	poultry	poultry	chicken	chicken	purge (colloquially known as	
+A-240	meat	meat	pork	pork	industry include asthma-type drugs (ractopamine in	
+A-240	phosphate additives	phosphate additives	bacteria	bacteria	may increase the number of campylobacter	
+A-240	arsenic	arsenic	meat	meat	in chicken, nitrosamines (prevention is better than cured	
+A-240	meat	meat	poultry	poultry	and	
+A-240	poultry	poultry	juice	juice	purge (colloquially known as chicken “	
+A-240	campylobacter	campylobacter	bacteria	bacteria		
+A-240	meat	meat	ractopamine	ractopamine	industry include asthma-type drugs (	
+A-240	phosphate additives	phosphate additives	meat	meat	in	
+A-240	viruses	viruses	arsenic	arsenic	(viral meat spray), larvae (maggot meat spray),	
+A-240	meat industry	meat industry	drugs	drugs	include asthma-type	
+A-240	prevention	prevention	antibiotics	antibiotics	is better than cured meat), and	
+A-240	prevention	prevention	meat	meat	is better than cured	
+A-240	phosphate additives	phosphate additives	chicken	chicken	may increase the number of campylobacter bacteria in	
+A-240	chicken	chicken	poultry	poultry	“juice”), “the fluid that seeps out from processed	
+A-240	poultry	poultry	campylobacter	campylobacter	increase the number of	
+A-240	poultry	poultry	food safety	food safety	more dangerous from a	
+A-240	arsenic	arsenic	prevention	prevention	in chicken, nitrosamines (	
+A-240	ractopamine	ractopamine	viruses	viruses	in pork), bacteria-eating	
+A-240	phosphate additives	phosphate additives	cola	cola	in meat purge and	
+A-240	meat	meat	united states	united states	and poultry in the	
+A-240	ractopamine	ractopamine	pork	pork	in	
+A-240	drugs	drugs	pork	pork	(ractopamine in	
+A-240	meat industry	meat industry	pork	pork	include asthma-type drugs (ractopamine in	

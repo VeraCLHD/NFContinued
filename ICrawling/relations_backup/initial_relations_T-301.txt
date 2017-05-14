@@ -1,0 +1,140 @@
+
+T-301	alcohol	alcohol	risk	risk	intake may even double the	
+T-301	organic	organic	hormones	hormones	cow’s milk, contains	
+T-301	breast cancer	breast cancer	milk	milk	.dairy, even organic cow’s	
+T-301	soy foods	soy foods	lead	lead	per day may	
+T-301	meat	meat	breast cancer	breast cancer	may reduce the risk of	
+T-301	supplements	supplements	folic acid	folic acid	such as iron supplements,	
+T-301	carbs	carbs	cancer	cancer	may also be linked to breast	
+T-301	nori	nori	black beans	black beans	seaweed,	
+T-301	breast cancer	breast cancer	risk	risk		
+T-301	black beans	black beans	beans	beans	and other	
+T-301	hormones	hormones	risk	risk	that may increase breast cancer	
+T-301	cancer	cancer	cancer	cancer	risk.vegetables appear to be protective against breast	
+T-301	alcohol	alcohol	cancer	cancer	intake may even double the risk of breast	
+T-301	cancer	cancer	organic	organic	.among fruits,	
+T-301	organic	organic	milk	milk	cow’s	
+T-301	meat	meat	dairy	dairy	and	
+T-301	multivitamins	multivitamins	risk	risk	may also increase one’s	
+T-301	cancer	cancer	cancer	cancer	is the most common	
+T-301	cancer cell growth	cancer cell growth	dna	dna	and, like other berries, may block breast-cell	
+T-301	iron	iron	folic acid	folic acid	supplements,	
+T-301	breast cancer	breast cancer	cancer	cancer	risk.vegetables appear to be protective against breast	
+T-301	cancer	cancer	rye	rye	cell growth and invasion), mushrooms, turmeric, nuts, coffee,	
+T-301	nori	nori	beans	beans	seaweed, black	
+T-301	cancer cell growth	cancer cell growth	dna damage	dna damage	and, like other berries, may block breast-cell	
+T-301	iron	iron	supplements	supplements		
+T-301	rye	rye	nori	nori	bread,	
+T-301	nori	nori	phytates	phytates	seaweed, black beans and other beans,	
+T-301	cancer	cancer	milk	milk	.dairy, even organic cow’s	
+T-301	meat	meat	cancer	cancer	may reduce the risk of breast	
+T-301	black beans	black beans	phytates	phytates	and other beans,	
+T-301	risk	risk	puberty	puberty	directly or indirectly by contributing to premature	
+T-301	cancer	cancer	women	women	is the most common cancer among	
+T-301	obesity	obesity	breast cancer	breast cancer	has also been linked with high rates of	
+T-301	women	women	risk	risk	with more freqent bowel movements have a lower	
+T-301	breast cancer	breast cancer	organic	organic	.dairy, even	
+T-301	alcohol	alcohol	breast cancer	breast cancer	intake may even double the risk of	
+T-301	cancer cell growth	cancer cell growth	coffee	coffee	and invasion), mushrooms, turmeric, nuts,	
+T-301	rye	rye	black beans	black beans	bread, nori seaweed,	
+T-301	organic	organic	cancer cell growth	cancer cell growth	strawberries and cranberries appear to block	
+T-301	cancer	cancer	strawberries	strawberries	.among fruits, organic	
+T-301	black beans	black beans	whole grains	whole grains	and other beans, phytates in legumes,	
+T-301	women	women	tamoxifen	tamoxifen	on	
+T-301	cranberries	cranberries	cancer cell growth	cancer cell growth	appear to block	
+T-301	risk	risk	light drinking	light drinking	of breast cancer, even just	
+T-301	amla	amla	cancer cell growth	cancer cell growth	(against both	
+T-301	breast cancer	breast cancer	cancer	cancer	is the most common	
+T-301	cancer	cancer	turmeric	turmeric	cell growth and invasion), mushrooms,	
+T-301	amla	amla	mushrooms	mushrooms	(against both cancer cell growth and invasion),	
+T-301	meat	meat	lead	lead	may also	
+T-301	cancer	cancer	breast cancer	breast cancer	risk.vegetables appear to be protective against	
+T-301	cancer	cancer	mushrooms	mushrooms	cell growth and invasion),	
+T-301	lead	lead	igf-1	igf-1	to high levels of cancer-promoting	
+T-301	phytates	phytates	seeds	seeds	in legumes, whole grains, and	
+T-301	cancer cell growth	cancer cell growth	berries	berries	and, like other	
+T-301	beans	beans	phytates	phytates	and other beans,	
+T-301	beans	beans	legumes	legumes	and other beans, phytates in	
+T-301	fiber	fiber	bowel movements	bowel movements	content as women with more freqent	
+T-301	phytates	phytates	legumes	legumes	in	
+T-301	chemicals	chemicals	dairy	dairy	linked with	
+T-301	rye	rye	phytates	phytates	bread, nori seaweed, black beans and other beans,	
+T-301	iron	iron	multivitamins	multivitamins	supplements, folic acid supplements, and	
+T-301	supplements	supplements	multivitamins	multivitamins	such as iron supplements, folic acid supplements, and	
+T-301	carbs	carbs	risk	risk	may also be linked to breast cancer	
+T-301	melatonin	melatonin	dairy	dairy	suppression by meat and	
+T-301	folic acid	folic acid	risk	risk	supplements, and multivitamins may also increase one’s	
+T-301	hormones	hormones	cancer	cancer	that may increase breast	
+T-301	cancer cell growth	cancer cell growth	rye	rye	and invasion), mushrooms, turmeric, nuts, coffee,	
+T-301	strawberries	strawberries	cancer	cancer	and cranberries appear to block	
+T-301	meat	meat	risk	risk	may reduce the	
+T-301	cancer cell growth	cancer cell growth	bread	bread	and invasion), mushrooms, turmeric, nuts, coffee, rye	
+T-301	risk	risk	breast cancer	breast cancer	of	
+T-301	organic	organic	breast cancer	breast cancer	cow’s milk, contains hormones that may increase	
+T-301	risk	risk	cancer	cancer	of breast	
+T-301	acrylamide	acrylamide	carbs	carbs	from fried	
+T-301	strawberries	strawberries	cranberries	cranberries	and	
+T-301	plant-based	plant-based	diet	diet		
+T-301	risk	risk	cancer	cancer	for breast	
+T-301	nori	nori	legumes	legumes	seaweed, black beans and other beans, phytates in	
+T-301	rye	rye	seaweed	seaweed	bread, nori	
+T-301	risk	risk	iron supplements	iron supplements	of breast cancer.supplements such as	
+T-301	risk	risk	breast cancer	breast cancer	for	
+T-301	onions	onions	leeks	leeks	and	
+T-301	phytates	phytates	avocados	avocados	in legumes, whole grains, and seeds, and	
+T-301	supplements	supplements	iron supplements	iron supplements	such as	
+T-301	organic	organic	cranberries	cranberries	strawberries and	
+T-301	rye	rye	beans	beans	bread, nori seaweed, black	
+T-301	nori	nori	seaweed	seaweed		
+T-301	amla	amla	turmeric	turmeric	(against both cancer cell growth and invasion), mushrooms,	
+T-301	cancer cell growth	cancer cell growth	nori	nori	and invasion), mushrooms, turmeric, nuts, coffee, rye bread,	
+T-301	folic acid	folic acid	supplements	supplements		
+T-301	melatonin	melatonin	meat	meat	suppression by	
+T-301	cancer	cancer	hormones	hormones	.dairy, even organic cow’s milk, contains	
+T-301	black beans	black beans	grains	grains	and other beans, phytates in legumes, whole	
+T-301	women	women	bowel movements	bowel movements	with more freqent	
+T-301	risk	risk	anabolic steroids	anabolic steroids	of breast cancer by lowering one’s exposure to	
+T-301	risk	risk	iron	iron	of breast cancer.supplements such as	
+T-301	folic acid	folic acid	multivitamins	multivitamins	supplements, and	
+T-301	amla	amla	cancer	cancer	(against both	
+T-301	black beans	black beans	legumes	legumes	and other beans, phytates in	
+T-301	risk	risk	breast cancer	breast cancer	.vegetables appear to be protective against	
+T-301	lead	lead	inflammation	inflammation	to	
+T-301	cancer cell growth	cancer cell growth	turmeric	turmeric	and invasion), mushrooms,	
+T-301	cancer	cancer	fruits	fruits	.among	
+T-301	soy	soy	lead	lead	foods per day may	
+T-301	phytates	phytates	whole grains	whole grains	in legumes,	
+T-301	acrylamide	acrylamide	breast cancer	breast cancer	from fried carbs may also be linked to	
+T-301	lead	lead	tor	tor	to inflammation and over-activation of the enzyme	
+T-301	risk	risk	supplements	supplements	of breast cancer.	
+T-301	beans	beans	whole grains	whole grains	and other beans, phytates in legumes,	
+T-301	risk	risk	folic acid	folic acid	of breast cancer.supplements such as iron supplements,	
+T-301	organic	organic	strawberries	strawberries		
+T-301	breast cancer	breast cancer	hormones	hormones	.dairy, even organic cow’s milk, contains	
+T-301	bowel movements	bowel movements	cancer	cancer	have a lower risk for breast	
+T-301	bowel movements	bowel movements	breast cancer	breast cancer	have a lower risk for	
+T-301	breast cancer	breast cancer	women	women	is the most common cancer among	
+T-301	cancer	cancer	risk	risk		
+T-301	organic	organic	cancer	cancer	cow’s milk, contains hormones that may increase breast	
+T-301	rye	rye	bread	bread		
+T-301	cancer	cancer	coffee	coffee	cell growth and invasion), mushrooms, turmeric, nuts,	
+T-301	supplements	supplements	iron	iron	such as	
+T-301	cancer cell growth	cancer cell growth	mushrooms	mushrooms	and invasion),	
+T-301	endocrine disrupting chemicals	endocrine disrupting chemicals	dairy	dairy	linked with	
+T-301	phytates	phytates	grains	grains	in legumes, whole	
+T-301	inflammation	inflammation	tor	tor	and over-activation of the enzyme	
+T-301	cancer	cancer	organic	organic	.dairy, even	
+T-301	meat	meat	inflammation	inflammation	may also lead to	
+T-301	risk	risk	cancer	cancer	.vegetables appear to be protective against breast	
+T-301	beans	beans	grains	grains	and other beans, phytates in legumes, whole	
+T-301	carbs	carbs	breast cancer	breast cancer	may also be linked to	
+T-301	cancer	cancer	cranberries	cranberries	.among fruits, organic strawberries and	
+T-301	fiber	fiber	women	women	content as	
+T-301	bowel movements	bowel movements	risk	risk	have a lower	
+T-301	organic	organic	cancer	cancer	strawberries and cranberries appear to block	
+T-301	risk	risk	premature puberty	premature puberty	directly or indirectly by contributing to	
+T-301	cancer	cancer	nuts	nuts	cell growth and invasion), mushrooms, turmeric,	
+T-301	cranberries	cranberries	cancer	cancer	appear to block	
+T-301	cancer cell growth	cancer cell growth	nuts	nuts	and invasion), mushrooms, turmeric,	
+T-301	hormones	hormones	breast cancer	breast cancer	that may increase	
+T-301	strawberries	strawberries	cancer cell growth	cancer cell growth	and cranberries appear to block	

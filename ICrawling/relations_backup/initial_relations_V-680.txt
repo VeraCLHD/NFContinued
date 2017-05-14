@@ -1,0 +1,15 @@
+
+V-680	food industry	food industry	cookies	cookies	gave us fudge-drizzled chocolate chip	
+V-680	food industry	food industry	margarine	margarine	responded by giving us	
+V-680	fat	fat	apple	apple	intake, in hopes we’d pick up an	
+V-680	soft drinks	soft drinks	risk	risk	and	
+V-680	vitamins	vitamins	minerals	minerals	and	
+V-680	butter	butter	food industry	food industry	was, the	
+V-680	butter	butter	margarine	margarine	was, the food industry responded by giving us	
+V-680	chocolate	chocolate	cookies	cookies	chip	
+V-680	soft drinks	soft drinks	risk	risk	may increase the	
+V-680	food industry	food industry	chocolate	chocolate	gave us fudge-drizzled	
+V-680	aspartame	aspartame	alcohol	alcohol	is broken down into…methanol [wood	
+V-680	dietary guidelines	dietary guidelines	fat	fat	told us to lower our	
+V-680	headaches	headaches	aspartame	aspartame	linked to the intake of	
+V-680	diet	diet	soda	soda		

@@ -1,0 +1,31 @@
+
+V-105	plants	plants	beverages	beverages	that alcoholic	
+V-105	infertility	infertility	sheep	sheep	in	
+V-105	produce	produce	liver	liver	feminization, and our	
+V-105	milk	milk	soy	soy	a day, eat 8,000	
+V-105	beer	beer	health	health	was considered too low to affect human	
+V-105	soy milk	soy milk	soy	soy	a day, eat 8,000	
+V-105	beer	beer	estrogen	estrogen	is not the only source of	
+V-105	phytoestrogens	phytoestrogens	beverages	beverages	in the plants that alcoholic	
+V-105	asian	asian	phytoestrogens	phytoestrogens	men eat, soy	
+V-105	soy	soy	phytoestrogens	phytoestrogens		
+V-105	soy	soy	burgers	burgers	milk a day, eat 8,000 soy	
+V-105	urine	urine	gut	gut	of beer-drinkers for days—because their	
+V-105	alcoholic beverages	alcoholic beverages	plants	plants	are made from.the discovery that	
+V-105	infertility	infertility	wool	wool	in sheep that was ravaging their nation’s	
+V-105	soy	soy	beer	beer	phytoestrogens, but in such tiny quantities that	
+V-105	sheep	sheep	wool	wool	that was ravaging their nation’s	
+V-105	asian	asian	soy	soy	men eat,	
+V-105	plants	plants	alcoholic beverages	alcoholic beverages	that	
+V-105	beverages	beverages	plants	plants	are made from.the discovery that	
+V-105	urine	urine	bacteria	bacteria	of beer-drinkers for days—because their gut	
+V-105	liver	liver	disease	disease		
+V-105	phytoestrogens	phytoestrogens	plants	plants	in the	
+V-105	phytoestrogens	phytoestrogens	alcoholic beverages	alcoholic beverages	in the plants that	
+V-105	milk	milk	burgers	burgers	a day, eat 8,000 soy	
+V-105	soy milk	soy milk	burgers	burgers	a day, eat 8,000 soy	
+V-105	gut	gut	bacteria	bacteria		
+V-105	cirrhosis	cirrhosis	liver	liver	of the	
+V-105	soy	soy	milk	milk		
+V-105	urine	urine	gut bacteria	gut bacteria	of beer-drinkers for days—because their	
+V-105	estrogen	estrogen	liver	liver	receptors found no such	

@@ -1,0 +1,69 @@
+
+T-852	nuts	nuts	seeds	seeds	and	
+T-852	seeds	seeds	risk	risk	may help cut chronic disease	
+T-852	ergothioneine	ergothioneine	phytates	phytates	and	
+T-852	plant-based diet	plant-based diet	whole grains	whole grains	consisting of	
+T-852	diet	diet	grains	grains	consisting of whole	
+T-852	grains	grains	disease	disease	may help lower risk for prediabetes, alzheimer’s	
+T-852	plant-based diet	plant-based diet	nuts	nuts	consisting of whole grains, vegetables, fruits, beans,	
+T-852	cadmium	cadmium	vegetables	vegetables	can be found in whole grains and	
+T-852	plant-based	plant-based	diet	diet		
+T-852	disease	disease	risk	risk		
+T-852	plant-based	plant-based	fruits	fruits	diet consisting of whole grains, vegetables,	
+T-852	plant-based	plant-based	nuts	nuts	diet consisting of whole grains, vegetables, fruits, beans,	
+T-852	health	health	framingham heart study	framingham heart study	benefits.the	
+T-852	antioxidant	antioxidant	cadmium	cadmium	content.the toxic metal	
+T-852	seeds	seeds	disease	disease	may help cut chronic	
+T-852	gluten	gluten	grains	grains		
+T-852	plant-based diet	plant-based diet	beans	beans	consisting of whole grains, vegetables, fruits,	
+T-852	standard american diet	standard american diet	grains	grains	includes a high proportion of refined	
+T-852	whole grain	whole grain	hypertension	hypertension	portions a day alleviated	
+T-852	cancer	cancer	cancer	cancer	in general, and breast and prostate	
+T-852	prostate	prostate	cancer	cancer		
+T-852	whole grains	whole grains	vegetables	vegetables	and	
+T-852	whole grains	whole grains	disease	disease	may help lower risk for prediabetes, alzheimer’s	
+T-852	nuts	nuts	risk	risk	and seeds may help cut chronic disease	
+T-852	plant-based	plant-based	grains	grains	diet consisting of whole	
+T-852	whole grains	whole grains	phytates	phytates	contain beneficial nutrients including magnesium, zinc, ergothioneine and	
+T-852	cadmium	cadmium	whole grains	whole grains	can be found in	
+T-852	risk	risk	disease	disease	for prediabetes, alzheimer’s	
+T-852	risk	risk	cancer	cancer	for prediabetes, alzheimer’s disease, osteoporosis,	
+T-852	risk	risk	prediabetes	prediabetes	for	
+T-852	diet	diet	vegetables	vegetables	consisting of whole grains,	
+T-852	grains	grains	zinc	zinc	contain beneficial nutrients including magnesium,	
+T-852	antioxidant	antioxidant	whole grains	whole grains	content.the toxic metal cadmium can be found in	
+T-852	whole grains	whole grains	magnesium	magnesium	contain beneficial nutrients including	
+T-852	grains	grains	magnesium	magnesium	contain beneficial nutrients including	
+T-852	diet	diet	grains	grains	includes a high proportion of refined	
+T-852	seeds	seeds	chronic disease	chronic disease	may help cut	
+T-852	sprouting	sprouting	grains	grains		
+T-852	sprouting	sprouting	antioxidant	antioxidant	grains, you can increase the	
+T-852	plant-based	plant-based	whole grains	whole grains	diet consisting of	
+T-852	diet	diet	nuts	nuts	consisting of whole grains, vegetables, fruits, beans,	
+T-852	nuts	nuts	disease	disease	and seeds may help cut chronic	
+T-852	whole grains	whole grains	osteoporosis	osteoporosis	may help lower risk for prediabetes, alzheimer’s disease,	
+T-852	chronic disease	chronic disease	risk	risk		
+T-852	grains	grains	risk	risk	may help lower	
+T-852	plant-based diet	plant-based diet	grains	grains	consisting of whole	
+T-852	cadmium	cadmium	grains	grains	can be found in whole	
+T-852	grains	grains	osteoporosis	osteoporosis	may help lower risk for prediabetes, alzheimer’s disease,	
+T-852	whole grains	whole grains	ergothioneine	ergothioneine	contain beneficial nutrients including magnesium, zinc,	
+T-852	grains	grains	prediabetes	prediabetes	may help lower risk for	
+T-852	nuts	nuts	chronic disease	chronic disease	and seeds may help cut	
+T-852	plant-based	plant-based	vegetables	vegetables	diet consisting of whole grains,	
+T-852	gluten	gluten	whole grains	whole grains	grains, since overall,	
+T-852	diet	diet	fruits	fruits	consisting of whole grains, vegetables,	
+T-852	plant-based	plant-based	beans	beans	diet consisting of whole grains, vegetables, fruits,	
+T-852	whole grains	whole grains	prediabetes	prediabetes	may help lower risk for	
+T-852	risk	risk	osteoporosis	osteoporosis	for prediabetes, alzheimer’s disease,	
+T-852	diet	diet	beans	beans	consisting of whole grains, vegetables, fruits,	
+T-852	plant-based diet	plant-based diet	vegetables	vegetables	consisting of whole grains,	
+T-852	whole grains	whole grains	risk	risk	may help lower	
+T-852	grains	grains	ergothioneine	ergothioneine	contain beneficial nutrients including magnesium, zinc,	
+T-852	whole grains	whole grains	zinc	zinc	contain beneficial nutrients including magnesium,	
+T-852	plant-based diet	plant-based diet	fruits	fruits	consisting of whole grains, vegetables,	
+T-852	cancer	cancer	prostate	prostate	in general, and breast and	
+T-852	grains	grains	phytates	phytates	contain beneficial nutrients including magnesium, zinc, ergothioneine and	
+T-852	framingham heart study	framingham heart study	whole grains	whole grains	found that three or more daily servings of	
+T-852	diet	diet	whole grains	whole grains	consisting of	
+T-852	cancer	cancer	prostate cancer	prostate cancer	in general, and breast and	

@@ -1,0 +1,24 @@
+
+V-472	risk	risk	disease	disease	of major chronic diseases, including [heart	
+V-472	risk	risk	heart disease	heart disease	of major chronic diseases, including [	
+V-472	nuts	nuts	cholesterol	cholesterol	help lower	
+V-472	risk	risk	weight gain	weight gain	of body	
+V-472	heart disease	heart disease	diabetes	diabetes	and	
+V-472	cholesterol	cholesterol	blood sugar	blood sugar	and oxidation, and improve our arterial function, and	
+V-472	cholesterol	cholesterol	blood	blood	and oxidation, and improve our arterial function, and	
+V-472	harvard	harvard	mortality	mortality	“examined the association between nut consumption and subsequent…	
+V-472	risk	risk	diabetes	diabetes	of major chronic diseases, including [heart disease and	
+V-472	cancer	cancer	heart disease	heart disease	deaths,	
+V-472	health	health	weight gain	weight gain	benefits, without the risk of body	
+V-472	cholesterol	cholesterol	oxidation	oxidation	and	
+V-472	nuts	nuts	body mass index	body mass index	do not seem to affect “body weight,	
+V-472	disease	disease	diabetes	diabetes	and	
+V-472	nuts	nuts	fat	fat	are so filled with	
+V-472	health	health	risk	risk	benefits, without the	
+V-472	cancer	cancer	disease	disease	deaths, heart	
+V-472	risk	risk	obesity	obesity	of	
+V-472	pistachios	pistachios	diet	diet	to their daily	
+V-472	nuts	nuts	oxidation	oxidation	help lower cholesterol and	
+V-472	heart disease	heart disease	disease	disease	deaths, and fewer deaths from respiratory	
+V-472	risk	risk	chronic diseases	chronic diseases	of major	
+V-472	blood	blood	sugar	sugar		

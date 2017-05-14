@@ -1,0 +1,12 @@
+
+V-190	cancer	cancer	vitamin c	vitamin c	patients with	
+V-190	vitamin c	vitamin c	cancer	cancer	does help in terminal	
+V-190	kidney	kidney	cancer	cancer		
+V-190	bladder	bladder	lymphoma	lymphoma	cancer, and	
+V-190	kidney	kidney	bladder cancer	bladder cancer	cancer,	
+V-190	kidney	kidney	bladder	bladder	cancer,	
+V-190	kidney	kidney	lymphoma	lymphoma	cancer, bladder cancer, and	
+V-190	cancer	cancer	treatment	treatment		
+V-190	bladder	bladder	cancer	cancer		
+V-190	vitamin c	vitamin c	medicine	medicine	is widely used in the alternative	
+V-190	vitamin c	vitamin c	alternative medicine	alternative medicine	is widely used in the	

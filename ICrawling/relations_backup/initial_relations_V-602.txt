@@ -1,0 +1,58 @@
+
+V-602	chemo	chemo	cancer	cancer	and radiation often work by killing	
+V-602	cancer	cancer	free radicals	free radicals	cells with	
+V-602	plant-based	plant-based	diet	diet		
+V-602	precancerous	precancerous	esophagus	esophagus	lesions of the	
+V-602	phytonutrients	phytonutrients	tea	tea	from the spice turmeric, or green	
+V-602	prostate	prostate	cancer	cancer		
+V-602	fat	fat	cancer	cancer	appear to double the odds of	
+V-602	fiber	fiber	esophageal cancer	esophageal cancer	[in other words plant foods, may] increase	
+V-602	plants	plants	cancer	cancer	on	
+V-602	vegetables	vegetables	cancer	cancer	may cut one’s odds of esophageal	
+V-602	radiation	radiation	cancer cells	cancer cells	often work by killing	
+V-602	meat	meat	fat	fat	and	
+V-602	precancerous	precancerous	cancer	cancer	changes take place, and then localized	
+V-602	precancerous	precancerous	disease	disease		
+V-602	fiber	fiber	plant foods	plant foods	[in other words	
+V-602	cancer growth	cancer growth	plant-based	plant-based	with a	
+V-602	prostate	prostate	ornish	ornish	cancer, which is how	
+V-602	precancerous changes	precancerous changes	cancer	cancer	take place, and then localized	
+V-602	mouth	mouth	stomach	stomach	to your	
+V-602	fruits	fruits	cancer	cancer	and vegetables may cut one’s odds of esophageal	
+V-602	strawberries	strawberries	esophagus	esophagus	in patients with…precancerous lesions of the	
+V-602	phytonutrients	phytonutrients	green tea	green tea	from the spice turmeric, or	
+V-602	meat	meat	cancer	cancer	and fat appear to double the odds of	
+V-602	fruits	fruits	cancer	cancer	can suppress the growth of	
+V-602	fruits	fruits	vegetables	vegetables	and	
+V-602	vitamins	vitamins	plant foods	plant foods	and fiber [in other words	
+V-602	radiation	radiation	fruit	fruit	to test out some	
+V-602	combinatorial strategies	combinatorial strategies	phytonutrients	phytonutrients	”—for example, adding	
+V-602	phytonutrients	phytonutrients	turmeric	turmeric	from the spice	
+V-602	vegetables	vegetables	esophageal cancer	esophageal cancer	may cut one’s odds of	
+V-602	precancerous lesions	precancerous lesions	esophagus	esophagus	of the	
+V-602	cancer	cancer	cancer	cancer	is not the	
+V-602	strawberries	strawberries	precancerous lesions	precancerous lesions	in patients with…	
+V-602	combinatorial strategies	combinatorial strategies	turmeric	turmeric	”—for example, adding phytonutrients from the spice	
+V-602	cancer	cancer	risk	risk		
+V-602	radiation	radiation	cancer	cancer	often work by killing	
+V-602	fruits	fruits	esophageal cancer	esophageal cancer	and vegetables may cut one’s odds of	
+V-602	plant foods	plant foods	esophageal cancer	esophageal cancer	are protective against	
+V-602	cancer growth	cancer growth	diet	diet	with a plant-based	
+V-602	esophageal cancer	esophageal cancer	risk	risk		
+V-602	cancer growth	cancer growth	plant-based diet	plant-based diet	with a	
+V-602	chemo	chemo	cancer cells	cancer cells	and radiation often work by killing	
+V-602	plant foods	plant foods	cancer	cancer	are protective against esophageal	
+V-602	cancer	cancer	radiation	radiation	therapies, like surgery, chemo,	
+V-602	berries	berries	cancer	cancer	—the healthiest fruits—to reverse the progression of	
+V-602	strawberries	strawberries	precancerous	precancerous	[could] significantly decrease…the…grade of patients’	
+V-602	radiation	radiation	free radicals	free radicals	often work by killing cancer cells with	
+V-602	fiber	fiber	cancer	cancer	[in other words plant foods, may] increase esophageal	
+V-602	strawberries	strawberries	precancerous	precancerous	in patients with…	
+V-602	cancer	cancer	chemo	chemo	therapies, like surgery,	
+V-602	cancer cells	cancer cells	free radicals	free radicals	with	
+V-602	chemo	chemo	radiation	radiation	and	
+V-602	cancer	cancer	surgery	surgery	therapies, like	
+V-602	vitamins	vitamins	fiber	fiber	and	
+V-602	freeze-dried	freeze-dried	strawberries	strawberries		
+V-602	berries	berries	fruits	fruits	—the healthiest	
+V-602	fruits	fruits	cancer	cancer	—to reverse the progression of	

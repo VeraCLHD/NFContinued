@@ -1,0 +1,27 @@
+
+V-68	calcium	calcium	beef	beef	in cheese, protein in pork, and iron in	
+V-68	calcium	calcium	cheese	cheese	in	
+V-68	dairy	dairy	burger king	burger king	hormones, the lard, the saturated fat?as much as	
+V-68	dairy	dairy	calcium	calcium	is the #1 source of	
+V-68	national pork board	national pork board	protein	protein	promotes ham as an “excellent source of	
+V-68	calcium	calcium	protein	protein	in cheese,	
+V-68	nutrition	nutrition	plant foods	plant foods	from whole	
+V-68	calcium	calcium	pork	pork	in cheese, protein in	
+V-68	protein	protein	pork	pork	in	
+V-68	iron	iron	beef	beef	in	
+V-68	pork	pork	ham	ham	board promotes	
+V-68	dairy	dairy	lard	lard	hormones, the	
+V-68	fat	fat	burger king	burger king	?as much as	
+V-68	saturated fat	saturated fat	burger king	burger king	?as much as	
+V-68	national pork board	national pork board	ham	ham	promotes	
+V-68	calcium	calcium	united states	united states	in the	
+V-68	dairy	dairy	fat	fat	hormones, the lard, the saturated	
+V-68	ham	ham	protein	protein	as an “excellent source of	
+V-68	coca-cola	coca-cola	water	water	as nutritious because it is “providing	
+V-68	dairy	dairy	saturated fat	saturated fat	hormones, the lard, the	
+V-68	dairy	dairy	hormones	hormones		
+V-68	protein	protein	iron	iron	in pork, and	
+V-68	dairy	dairy	united states	united states	is the #1 source of calcium in the	
+V-68	pork	pork	protein	protein	board promotes ham as an “excellent source of	
+V-68	calcium	calcium	iron	iron	in cheese, protein in pork, and	
+V-68	protein	protein	beef	beef	in pork, and iron in	

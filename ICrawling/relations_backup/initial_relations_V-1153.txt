@@ -1,0 +1,17 @@
+
+V-1153	women	women	grains	grains	—should make sure they eat whole	
+V-1153	plant-based	plant-based	whole grains	whole grains	diets—men or women—should make sure they eat	
+V-1153	plant-based diets	plant-based diets	whole grains	whole grains	—men or women—should make sure they eat	
+V-1153	iron	iron	women	women	requirements in menstruating 	
+V-1153	women	women	beans	beans	—should make sure they eat whole grains,	
+V-1153	zinc	zinc	women	women	requirements in men are higher than	
+V-1153	plant-based	plant-based	grains	grains	diets—men or women—should make sure they eat whole	
+V-1153	plant-based diets	plant-based diets	grains	grains	—men or women—should make sure they eat whole	
+V-1153	women	women	iron	iron	are higher than men—because some	
+V-1153	plant-based	plant-based	women	women	diets—men or	
+V-1153	plant foods	plant foods	zinc	zinc	isn’t absorbed as well as the	
+V-1153	blood	blood	zinc	zinc		
+V-1153	plant-based diets	plant-based diets	women	women	—men or	
+V-1153	women	women	zinc	zinc	—because some	
+V-1153	women	women	whole grains	whole grains	—should make sure they eat	
+V-1153	blood	blood	vegetarians	vegetarians	zinc levels in	

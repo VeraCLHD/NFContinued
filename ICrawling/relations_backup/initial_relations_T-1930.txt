@@ -1,0 +1,38 @@
+
+T-1930	united states	united states	hepatitis	hepatitis	was found to contain	
+T-1930	diet	diet	vegetables	vegetables	soda, fried foods, and pickled	
+T-1930	viral infections	viral infections	vegetarians	vegetarians	(including having lower hpv rates in	
+T-1930	vegetables	vegetables	multiple myeloma	multiple myeloma	are associated with	
+T-1930	grains	grains	viral infections	viral infections	seems to help avoid	
+T-1930	livestock	livestock	farmers	farmers		
+T-1930	organic	organic	risk	risk	will reduce one’s	
+T-1930	hepatitis	hepatitis	virus	virus	e	
+T-1930	diet	diet	pickled vegetables	pickled vegetables	soda, fried foods, and	
+T-1930	livestock	livestock	risk	risk	and	
+T-1930	viruses	viruses	obesity	obesity	may play a role in causing	
+T-1930	leukemia	leukemia	virus	virus		
+T-1930	vegetarians	vegetarians	organic	organic	), and choosing	
+T-1930	viruses	viruses	protein	protein	or antigenic stimulation via contact with animal	
+T-1930	vegetables	vegetables	myeloma	myeloma	are associated with multiple	
+T-1930	pork	pork	hepatitis e	hepatitis e	in the united states was found to contain	
+T-1930	infections	infections	vegetarians	vegetarians	(including having lower hpv rates in	
+T-1930	meat	meat	grains	grains	for veggies and	
+T-1930	obesity	obesity	virus	virus	in humans.bovine leukemia	
+T-1930	children	children	viruses	viruses	suggest that this family of	
+T-1930	pickled vegetables	pickled vegetables	multiple myeloma	multiple myeloma	are associated with	
+T-1930	obesity	obesity	chickens	chickens	in	
+T-1930	pork	pork	hepatitis	hepatitis	in the united states was found to contain	
+T-1930	pork	pork	united states	united states	in the	
+T-1930	grains	grains	infections	infections	seems to help avoid viral	
+T-1930	cancer	cancer	viruses	viruses	rates; this is likely caused by animal-to-human	
+T-1930	united states	united states	virus	virus	was found to contain hepatitis e	
+T-1930	obesity	obesity	leukemia	leukemia	in humans.bovine	
+T-1930	farmers	farmers	cancer	cancer	have higher-than-average	
+T-1930	viruses	viruses	animal protein	animal protein	or antigenic stimulation via contact with	
+T-1930	hepatitis e	hepatitis e	virus	virus		
+T-1930	pickled vegetables	pickled vegetables	myeloma	myeloma	are associated with multiple	
+T-1930	livestock	livestock	cancer	cancer	farmers have higher-than-average	
+T-1930	vegetarians	vegetarians	risk	risk	), and choosing organic will reduce one’s	
+T-1930	united states	united states	hepatitis e	hepatitis e	was found to contain	
+T-1930	meat	meat	viral infections	viral infections	for veggies and grains seems to help avoid	
+T-1930	diet	diet	soda	soda		

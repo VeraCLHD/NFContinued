@@ -1,0 +1,69 @@
+
+V-42	cancer	cancer	fruits	fruits	growth—like	
+V-42	prostate	prostate	asia	asia	cancer rates in	
+V-42	prostate	prostate	tumors	tumors	cancers on autopsy, but the	
+V-42	green tea	green tea	tea	tea	and prostate cancer, by dripping green	
+V-42	tea	tea	prostate	prostate	consumption was associated with a lower risk of	
+V-42	green tea	green tea	prostate	prostate	compounds directly onto	
+V-42	prostate	prostate	death	death	cancer is a leading cause of illness and	
+V-42	fruits	fruits	soy	soy	and vegetables,	
+V-42	prostate cancer	prostate cancer	asia	asia	rates in	
+V-42	prostate	prostate	cancer	cancer		
+V-42	risk	risk	prostate	prostate	and progression of	
+V-42	cancer growth	cancer growth	vegetables	vegetables	—like fruits and	
+V-42	carcinogens	carcinogens	diet	diet	in the	
+V-42	prostate cancer	prostate cancer	death	death	is a leading cause of illness and	
+V-42	risk	risk	prostate	prostate	of	
+V-42	cancer	cancer	soy	soy	growth—like fruits and vegetables,	
+V-42	soy	soy	tea	tea	foods, or green	
+V-42	green tea	green tea	prostate cancer	prostate cancer	compounds directly onto	
+V-42	tea	tea	prostate cancer	prostate cancer	consumption was associated with a lower risk of	
+V-42	diet	diet	meats	meats	is rich in animal fats and	
+V-42	tea	tea	risk	risk	consumption was associated with a lower	
+V-42	prostate	prostate	green tea	green tea	cancer, by dripping	
+V-42	cancer growth	cancer growth	tea	tea	—like fruits and vegetables, soy foods, or green	
+V-42	tea	tea	cancer	cancer	drinkers tend to get less	
+V-42	prostate	prostate	prostate cancer	prostate cancer	cancer, by dripping green tea compounds directly onto	
+V-42	asian	asian	cancer growth	cancer growth	diets that’s slowing the	
+V-42	cancer	cancer	tea	tea	doesn’t mean it’s necessarily the	
+V-42	fruits	fruits	vegetables	vegetables	and	
+V-42	asian	asian	cancer	cancer	diets that’s slowing the	
+V-42	cancer	cancer	asia	asia	rates in	
+V-42	tea	tea	cancer	cancer	compounds directly onto prostate	
+V-42	tea	tea	prostate cancer	prostate cancer	compounds directly onto	
+V-42	diet	diet	animal fats	animal fats	is rich in	
+V-42	green tea	green tea	cancer	cancer	compounds directly onto prostate	
+V-42	cancer	cancer	soy foods	soy foods	growth—like fruits and vegetables,	
+V-42	fruits	fruits	tea	tea	and vegetables, soy foods, or green	
+V-42	diet	diet	fats	fats	is rich in animal	
+V-42	animal fats	animal fats	meats	meats	and	
+V-42	risk	risk	cancer	cancer	of prostate	
+V-42	cancer	cancer	cancer	cancer	in the future, and if	
+V-42	cancer	cancer	tea	tea	growth—like fruits and vegetables, soy foods, or green	
+V-42	cancer growth	cancer growth	soy foods	soy foods	—like fruits and vegetables,	
+V-42	tea	tea	prostate	prostate	a day before undergoing	
+V-42	cancer	cancer	vegetables	vegetables	growth—like fruits and	
+V-42	carcinogens	carcinogens	cancer	cancer	in the diet, accelerating the growth of	
+V-42	cancer	cancer	death	death	is a leading cause of illness and	
+V-42	risk	risk	prostate cancer	prostate cancer	and progression of	
+V-42	risk	risk	prostate cancer	prostate cancer	of	
+V-42	green tea	green tea	prostate cancer	prostate cancer	and	
+V-42	green tea	green tea	prostate	prostate	a day before undergoing	
+V-42	asian	asian	fruits	fruits	diets that’s slowing the cancer growth—like	
+V-42	prostate	prostate	cancer cells	cancer cells		
+V-42	japanese	japanese	cancer	cancer	- and chinese-americans have high prostate	
+V-42	asian	asian	vegetables	vegetables	diets that’s slowing the cancer growth—like fruits and	
+V-42	prostate	prostate	green tea	green tea	glands?well, if you have men drink six cups of	
+V-42	green tea	green tea	prostate	prostate	and	
+V-42	prostate	prostate	tea	tea	cancer, by dripping green	
+V-42	cancer growth	cancer growth	soy	soy	—like fruits and vegetables,	
+V-42	tea	tea	cancer	cancer	drinking and	
+V-42	japanese	japanese	prostate cancer	prostate cancer	- and chinese-americans have high	
+V-42	kfc	kfc	japan	japan	outlets now in	
+V-42	fats	fats	meats	meats	and	
+V-42	fruits	fruits	soy foods	soy foods	and vegetables,	
+V-42	tea	tea	prostate	prostate	compounds directly onto	
+V-42	green tea	green tea	cancer	cancer	and prostate	
+V-42	japanese	japanese	prostate	prostate	- and chinese-americans have high	
+V-42	risk	risk	cancer	cancer	and progression of prostate	
+V-42	cancer growth	cancer growth	fruits	fruits	—like	

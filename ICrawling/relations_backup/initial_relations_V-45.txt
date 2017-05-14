@@ -1,0 +1,79 @@
+
+V-45	heart disease	heart disease	tmao	tmao	tend to have higher	
+V-45	bacteria	bacteria	choline	choline	can take the	
+V-45	blood	blood	blood pressure	blood pressure	pressure or low	
+V-45	gut	gut	choline	choline	bacteria can take the	
+V-45	choline	choline	trimethylamine	trimethylamine	we eat, and turn it into	
+V-45	cholesterol	cholesterol	egg	egg	intake—[which is a] surrogate for	
+V-45	tmao	tmao	gut	gut	levels are down at zero, showing	
+V-45	plant-based	plant-based	diet	diet		
+V-45	disease	disease	tmao	tmao	tend to have higher	
+V-45	diet	diet	milk	milk	high in “red meat, eggs,	
+V-45	diet	diet	eggs	eggs	high in “red meat,	
+V-45	tmao	tmao	heart attacks	heart attacks	levels went on to have significantly more	
+V-45	risk	risk	heart attacks	heart attacks	of [	
+V-45	cleveland clinic	cleveland clinic	blood	blood	screened	
+V-45	tmao	tmao	gut bacteria	gut bacteria	levels are down at zero, showing	
+V-45	risk	risk	death	death	of [heart attacks, strokes, and 	
+V-45	cleveland clinic	cleveland clinic	heart attack	heart attack	screened blood from patients who had experienced a	
+V-45	diet	diet	chicken	chicken	high in “red meat, eggs, milk, and	
+V-45	bacteria	bacteria	choline	choline	in our gut turn something in our diet called	
+V-45	gut	gut	diet	diet	turn something in our	
+V-45	egg	egg	tmao	tmao	meal, you get a bump in	
+V-45	tmao	tmao	fish	fish	blood levels, even after controlling “for meat,	
+V-45	liver	liver	risk	risk	into tmao, which may then increase our	
+V-45	tmao	tmao	diet	diet	levels is just a marker of a	
+V-45	high blood pressure	high blood pressure	tmao	tmao	or low blood pressure, having high	
+V-45	blood	blood	fish	fish	levels, even after controlling “for meat,	
+V-45	blood	blood	tmao	tmao	pressure or low blood pressure, having high	
+V-45	tmao	tmao	blood	blood	stuff people had in their	
+V-45	blood	blood	heart attack	heart attack	from patients who had experienced a	
+V-45	high blood pressure	high blood pressure	blood	blood	or low	
+V-45	diet	diet	disease	disease	can lead to heart	
+V-45	risk	risk	heart attack	heart attack	of	
+V-45	gut	gut	antibiotics	antibiotics	some time to recover from the	
+V-45	disease	disease	blood	blood	at high tmao	
+V-45	diet	diet	meat	meat	high in “red	
+V-45	heart attacks	heart attacks	dairy	dairy	is they’re eating lots of meat,	
+V-45	heart disease	heart disease	tmao	tmao	at high	
+V-45	cholesterol	cholesterol	blood	blood	or low cholesterol, high	
+V-45	poultry	poultry	fish	fish	and	
+V-45	liver	liver	tmao	tmao	turns tma into	
+V-45	heart attacks	heart attacks	meat	meat	is they’re eating lots of	
+V-45	gut	gut	choline	choline	turn something in our diet called	
+V-45	diet	diet	choline	choline	called	
+V-45	tmao	tmao	blood	blood		
+V-45	cholesterol	cholesterol	blood pressure	blood pressure	or low cholesterol, high	
+V-45	heart attack	heart attack	stroke	stroke	or	
+V-45	diabetes	diabetes	sugar	sugar	”—because the ants could detect the	
+V-45	gut	gut	flora	flora		
+V-45	tmao	tmao	blood	blood	in their 	
+V-45	heart disease	heart disease	arteries	arteries	to those with clean	
+V-45	doctors	doctors	diabetes	diabetes	who used ants to diagnose…[people with]	
+V-45	disease	disease	tmao	tmao	at high	
+V-45	tmao	tmao	meat	meat	levels come from eating lots of	
+V-45	diet	diet	red meat	red meat	high in “	
+V-45	high blood pressure	high blood pressure	blood pressure	blood pressure	or low	
+V-45	lead	lead	disease	disease	to heart	
+V-45	heart disease	heart disease	blood	blood	at high tmao	
+V-45	blood pressure	blood pressure	blood	blood	or low	
+V-45	tmao	tmao	dairy	dairy	levels come from eating lots of meat,	
+V-45	tmao	tmao	meat	meat	blood levels, even after controlling “for	
+V-45	gut bacteria	gut bacteria	choline	choline	can take the	
+V-45	risk	risk	stroke	stroke	of heart attack,	
+V-45	bacteria	bacteria	diet	diet	in our gut turn something in our	
+V-45	bacteria	bacteria	gut	gut	in our 	
+V-45	disease	disease	arteries	arteries	to those with clean	
+V-45	death	death	risk	risk	] independently of traditional cardiovascular	
+V-45	diet	diet	heart disease	heart disease	can lead to	
+V-45	cholesterol	cholesterol	high blood pressure	high blood pressure	or low cholesterol,	
+V-45	gut	gut	bacteria	bacteria		
+V-45	diet	diet	lead	lead	can	
+V-45	tmao	tmao	bacteria	bacteria	levels are down at zero, showing gut	
+V-45	lead	lead	heart disease	heart disease	to	
+V-45	blood	blood	meat	meat	levels, even after controlling “for	
+V-45	gut	gut	tmao	tmao	some time to recover from the antibiotics,	
+V-45	liver	liver	tmao	tmao	into	
+V-45	blood	blood	cholesterol	cholesterol	levels, even after controlling “for meat, fish, and	
+V-45	heart attacks	heart attacks	eggs	eggs	is they’re eating lots of meat, dairy, and	
+V-45	blood pressure	blood pressure	tmao	tmao	or low blood pressure, having high	

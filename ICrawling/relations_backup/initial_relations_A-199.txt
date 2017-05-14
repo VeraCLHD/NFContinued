@@ -1,0 +1,74 @@
+
+A-199	salmonella	salmonella	poultry	poultry	contamination in	
+A-199	hepatitis	hepatitis	pork	pork	e (hepatitis e virus in	
+A-199	bladder infections	bladder infections	toxic megacolon	toxic megacolon	), clostridium difficile (	
+A-199	usda	usda	poultry	poultry	’s approach to minimizing salmonella contamination in	
+A-199	salmonella	salmonella	egg	egg	contamination is also a problem in the u.s.	
+A-199	stress	stress	salmonella	salmonella	of overcrowding can increase	
+A-199	pork	pork	meat	meat	(yersinia in pork), staphylococcus (u.s.	
+A-199	fecal contamination	fecal contamination	chicken	chicken	on	
+A-199	pathogens	pathogens	meat	meat	in	
+A-199	salmonella	salmonella	contamination	contamination		
+A-199	disease	disease	cdc	cdc	control (	
+A-199	chicken	chicken	bladder	bladder	to avoid	
+A-199	usda	usda	salmonella	salmonella	’s approach to minimizing	
+A-199	chicken	chicken	meat	meat	salmonella thanks to	
+A-199	bladder	bladder	bladder infections	bladder infections	-infecting e coli (avoiding chicken to avoid	
+A-199	virus	virus	chicken	chicken	in pork), bladder-infecting e coli (avoiding	
+A-199	usda	usda	contamination	contamination	’s approach to minimizing salmonella	
+A-199	children	children	elderly	elderly	and the	
+A-199	antibiotics	antibiotics	public health	public health	(considered a serious	
+A-199	antibiotics	antibiotics	cdc	cdc	(considered a serious public health threat by the	
+A-199	chicken	chicken	infections	infections	to avoid bladder	
+A-199	yersinia	yersinia	meat	meat	enterocolitica in pork (yersinia in pork), staphylococcus (u.s.	
+A-199	poultry	poultry	paralysis	paralysis	and	
+A-199	toxic megacolon	toxic megacolon	campylobacter	campylobacter	superbug), and	
+A-199	salmonella	salmonella	meat	meat	thanks to	
+A-199	salmonella	salmonella	food poisoning	food poisoning	causes a million cases of	
+A-199	mrsa	mrsa	hepatitis e	hepatitis e	(mrsa in u.s. retail meat),	
+A-199	toxic megacolon	toxic megacolon	chicken	chicken	superbug), and campylobacter, the most common bacterial	
+A-199	chicken	chicken	meat industry	meat industry	salmonella thanks to	
+A-199	contamination	contamination	egg	egg	is also a problem in the u.s.	
+A-199	contamination	contamination	poultry	poultry	in	
+A-199	mrsa	mrsa	meat	meat	(mrsa in u.s. retail	
+A-199	mrsa	mrsa	hepatitis	hepatitis	(mrsa in u.s. retail meat),	
+A-199	chicken	chicken	salmonella	salmonella		
+A-199	bladder infections	bladder infections	campylobacter	campylobacter	), clostridium difficile (toxic megacolon superbug), and	
+A-199	organic	organic	chicken	chicken		
+A-199	infections	infections	campylobacter	campylobacter	), clostridium difficile (toxic megacolon superbug), and	
+A-199	virus	virus	bladder	bladder	in pork),	
+A-199	contamination	contamination	chicken	chicken	on	
+A-199	hepatitis	hepatitis	hepatitis e	hepatitis e	e (	
+A-199	hepatitis e	hepatitis e	virus	virus	(hepatitis e	
+A-199	pathogens	pathogens	pork	pork	in meat include yersinia enterocolitica in	
+A-199	yersinia	yersinia	pork	pork	enterocolitica in	
+A-199	hepatitis e	hepatitis e	bladder	bladder	(hepatitis e virus in pork),	
+A-199	consumer reports	consumer reports	chicken	chicken	suggested the cramped conditions on factory	
+A-199	chicken	chicken	toxic megacolon	toxic megacolon	to avoid bladder infections), clostridium difficile (	
+A-199	hepatitis	hepatitis	virus	virus	e (hepatitis e	
+A-199	salmonella	salmonella	antibiotics	antibiotics	they found was resistant to multiple	
+A-199	hepatitis e	hepatitis e	pork	pork	(hepatitis e virus in	
+A-199	poultry	poultry	contamination	contamination	industry’s reaction to the presence of fecal	
+A-199	virus	virus	pork	pork	in	
+A-199	salmonella	salmonella	chicken	chicken	on	
+A-199	superbugs	superbugs	chicken	chicken	in conventional vs. organic	
+A-199	yersinia	yersinia	pork	pork	in	
+A-199	pathogens	pathogens	yersinia	yersinia	in meat include	
+A-199	consumer reports	consumer reports	cheap	cheap	published a study on the high cost of	
+A-199	meat	meat	pork	pork	include yersinia enterocolitica in	
+A-199	public health	public health	cdc	cdc	threat by the	
+A-199	hepatitis	hepatitis	bladder	bladder	e (hepatitis e virus in pork),	
+A-199	salmonella	salmonella	chicken	chicken	tainted	
+A-199	chicken	chicken	salmonella	salmonella	is the number one cause of	
+A-199	food safety	food safety	poultry	poultry	advocate bill marler put it, the	
+A-199	superbugs	superbugs	organic	organic	in conventional vs.	
+A-199	salmonella	salmonella	meat industry	meat industry	thanks to	
+A-199	cheap	cheap	chicken	chicken		
+A-199	bladder	bladder	chicken	chicken	-infecting e coli (avoiding	
+A-199	bladder	bladder	infections	infections	-infecting e coli (avoiding chicken to avoid bladder	
+A-199	infections	infections	toxic megacolon	toxic megacolon	), clostridium difficile (	
+A-199	antibiotics	antibiotics	health	health	(considered a serious public	
+A-199	poultry	poultry	fecal contamination	fecal contamination	industry’s reaction to the presence of	
+A-199	health	health	cdc	cdc	threat by the	
+A-199	meat	meat	yersinia	yersinia	include	
+A-199	chicken	chicken	bladder infections	bladder infections	to avoid	

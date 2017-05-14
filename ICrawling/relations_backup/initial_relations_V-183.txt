@@ -1,0 +1,51 @@
+
+V-183	women	women	iron	iron	in the united states experience	
+V-183	ginger	ginger	treatment	treatment	appears to be a highly effective	
+V-183	pms	pms	fennel	fennel	mood, physical, and behavioral symptoms, whereas	
+V-183	fennel	fennel	pms	pms	may help with	
+V-183	medications	medications	lactose	lactose	and invasive approaches—even sometimes fewer than placebo—they used	
+V-183	pms	pms	symptoms	symptoms		
+V-183	women	women	pain	pain	started out with six out of ten	
+V-183	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	nsaid drugs, and may actually work better than	
+V-183	sugar	sugar	pills	pills	for the sugar	
+V-183	salt	salt	fat	fat	and animal	
+V-183	ginger	ginger	period	period	power for a week before one’s	
+V-183	placebo	placebo	lactose	lactose	—they used	
+V-183	side effects	side effects	medications	medications	than other chemical	
+V-183	milk	milk	sugar	sugar		
+V-183	drugs	drugs	ibuprofen	ibuprofen	like	
+V-183	medications	medications	placebo	placebo	and invasive approaches—even sometimes fewer than	
+V-183	treatment	treatment	blood	blood	in the reduction of menstrual	
+V-183	united states	united states	anemia	anemia	experience iron deficiency	
+V-183	anxiety	anxiety	depression	depression	and	
+V-183	women	women	fennel	fennel	rated the	
+V-183	placebo	placebo	sugar	sugar	—they used lactose, milk	
+V-183	pms	pms	symptoms	symptoms	mood, physical, and behavioral	
+V-183	seeds	seeds	menstruation	menstruation	have been traditionally used to relieve painful	
+V-183	iron	iron	anemia	anemia	deficiency	
+V-183	women	women	drugs	drugs	don’t take flour for cramps; they take	
+V-183	placebo	placebo	pills	pills	—they used lactose, milk sugar for the sugar	
+V-183	placebo	placebo	fennel	fennel	seeds, though; so, they used a	
+V-183	placebo	placebo	seeds	seeds		
+V-183	women	women	anemia	anemia	in the united states experience iron deficiency	
+V-183	pms	pms	mood	mood		
+V-183	women	women	united states	united states	in the	
+V-183	fennel	fennel	menstruation	menstruation	seeds have been traditionally used to relieve painful	
+V-183	fennel	fennel	treatment	treatment	seed	
+V-183	kidney	kidney	symptoms	symptoms	toxicity.and, the drug doesn’t help with the other	
+V-183	baby	baby	side effects	side effects	to stop crying by developing	
+V-183	treatment	treatment	women	women	as excellent, compared to only 8% of	
+V-183	anti-inflammatory	anti-inflammatory	drugs	drugs	nsaid	
+V-183	placebo	placebo	milk	milk	—they used lactose,	
+V-183	salt	salt	animal fat	animal fat	and	
+V-183	fennel	fennel	seeds	seeds		
+V-183	united states	united states	iron	iron	experience	
+V-183	women	women	treatment	treatment	rated the fennel seed	
+V-183	period	period	pms	pms	yields a significant drop in	
+V-183	pms	pms	lead	lead	symptoms can	
+V-183	symptoms	symptoms	lead	lead	can	
+V-183	milk	milk	pills	pills	sugar for the sugar	
+V-183	period	period	mood	mood	yields a significant drop in pms	
+V-183	fennel seeds	fennel seeds	menstruation	menstruation	have been traditionally used to relieve painful	
+V-183	fennel	fennel	anxiety	anxiety	may help with pms	
+V-183	fennel	fennel	depression	depression	may help with pms anxiety and	

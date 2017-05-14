@@ -1,0 +1,50 @@
+
+V-767	death	death	heart disease	heart disease	and ischemic	
+V-767	heart disease	heart disease	risk	risk		
+V-767	england	england	medicine	medicine	journal [of	
+V-767	symptoms	symptoms	death	death	arise—sudden cardiac	
+V-767	sudden death	sudden death	ischemic heart disease	ischemic heart disease	and	
+V-767	disease	disease	risk	risk		
+V-767	death	death	heart disease	heart disease	from ischemic	
+V-767	death	death	magnesium	magnesium	victims had significantly lower	
+V-767	risk	risk	health	health	and obtain multiple	
+V-767	england	england	sudden death	sudden death	journal [of medicine]: “	
+V-767	symptoms	symptoms	sudden cardiac death	sudden cardiac death	arise—	
+V-767	medicine	medicine	death	death	]: “sudden	
+V-767	disease	disease	water	water	: correlation with hardness of the local	
+V-767	nuts	nuts	disease	disease	that appears to so powerfully cut heart	
+V-767	death	death	ischemic heart disease	ischemic heart disease	from	
+V-767	death	death	disease	disease	and ischemic heart	
+V-767	sudden cardiac death	sudden cardiac death	risk	risk	…are not [considered] at high	
+V-767	prevention	prevention	symptoms	symptoms	—starting to eat healthier right now, tonight, before	
+V-767	england	england	death	death	journal [of medicine]: “sudden	
+V-767	medicine	medicine	sudden death	sudden death	]: “	
+V-767	nuts	nuts	heart disease	heart disease	that appears to so powerfully cut	
+V-767	england	england	heart disease	heart disease	journal [of medicine]: “sudden death and ischemic	
+V-767	sudden cardiac death	sudden cardiac death	magnesium	magnesium	victims had significantly lower	
+V-767	medicine	medicine	disease	disease	]: “sudden death and ischemic heart	
+V-767	death	death	risk	risk	…are not [considered] at high	
+V-767	heart disease	heart disease	sudden cardiac death	sudden cardiac death	deaths are sudden, and “most patients who suffer	
+V-767	women	women	death	death	have no clinically recognized heart disease before sudden	
+V-767	england	england	ischemic heart disease	ischemic heart disease	journal [of medicine]: “sudden death and	
+V-767	disease	disease	death	death	before sudden	
+V-767	medicine	medicine	heart disease	heart disease	]: “sudden death and ischemic	
+V-767	cardiac death	cardiac death	risk	risk	…are not [considered] at high	
+V-767	nuts	nuts	risk	risk	that appears to so powerfully cut heart disease	
+V-767	cardiac death	cardiac death	magnesium	magnesium	victims had significantly lower	
+V-767	death	death	ischemic heart disease	ischemic heart disease	and	
+V-767	diet	diet	risk	risk	in order to minimize cardiovascular	
+V-767	women	women	sudden death	sudden death	have no clinically recognized heart disease before	
+V-767	women	women	heart disease	heart disease	have no clinically recognized	
+V-767	disease	disease	sudden cardiac death	sudden cardiac death	deaths are sudden, and “most patients who suffer	
+V-767	ischemic heart disease	ischemic heart disease	water	water	: correlation with hardness of the local	
+V-767	sudden death	sudden death	heart disease	heart disease	and ischemic	
+V-767	women	women	disease	disease	have no clinically recognized heart	
+V-767	england	england	disease	disease	journal [of medicine]: “sudden death and ischemic heart	
+V-767	heart disease	heart disease	death	death	before sudden	
+V-767	death	death	disease	disease	from ischemic heart	
+V-767	symptoms	symptoms	cardiac death	cardiac death	arise—sudden	
+V-767	heart disease	heart disease	water	water	: correlation with hardness of the local	
+V-767	sudden death	sudden death	disease	disease	and ischemic heart	
+V-767	minerals	minerals	water	water	found in hard	
+V-767	medicine	medicine	ischemic heart disease	ischemic heart disease	]: “sudden death and	

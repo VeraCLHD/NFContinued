@@ -1,0 +1,104 @@
+
+V-131	fat	fat	cholesterol	cholesterol	in the liver.	
+V-131	liver	liver	dietary cholesterol	dietary cholesterol	cancer, as	
+V-131	death	death	cancer	cancer	from cirrhosis and liver	
+V-131	liver	liver	plant-based	plant-based	inflammation.a more	
+V-131	gut	gut	disease	disease	and contribute to fatty liver	
+V-131	liver disease	liver disease	foie gras	foie gras	could almost be considered the human equivalent of	
+V-131	cirrhosis	cirrhosis	liver cancer	liver cancer	and	
+V-131	cirrhosis	cirrhosis	liver	liver	and	
+V-131	lead	lead	cirrhosis	cirrhosis	to liver scarring, and	
+V-131	liver	liver	cholesterol	cholesterol	disease.fatty liver disease can also be caused by	
+V-131	fatty liver disease	fatty liver disease	foie gras	foie gras	could almost be considered the human equivalent of	
+V-131	cholesterol	cholesterol	liver	liver	within fatty	
+V-131	liver	liver	cholesterol	cholesterol	tries to rid itself of	
+V-131	death	death	dietary cholesterol	dietary cholesterol	from cirrhosis and liver cancer, as	
+V-131	sugar	sugar	fat	fat	—but evidently, not all types of	
+V-131	fat	fat	sugar	sugar	and	
+V-131	blood	blood	liver	liver	pressure, and cholesterol go up—but so do his	
+V-131	liver	liver	cholesterol	cholesterol	cancer, as dietary	
+V-131	disease	disease	fat	fat	spectrum—from asymptomatic	
+V-131	liver	liver	chicken	chicken	45%, and those eating the equivalent of 14	
+V-131	diet	diet	bacteria	bacteria	may also improve our microbiome, the good	
+V-131	diet	diet	fruits	fruits	—characterized by high consumption of foods such as	
+V-131	beans	beans	fatty liver disease	fatty liver disease	—is associated with less severe non-alcoholic	
+V-131	liver disease	liver disease	americans	americans	in the u.s., affecting 70 million	
+V-131	liver disease	liver disease	disease	disease	.fatty liver	
+V-131	liver disease	liver disease	cholesterol	cholesterol	.fatty liver disease can also be caused by	
+V-131	hepatitis	hepatitis	animal fat	animal fat	ate more	
+V-131	fat	fat	cholesterol	cholesterol	and	
+V-131	cirrhosis	cirrhosis	cholesterol	cholesterol	and liver cancer, as dietary	
+V-131	fat	fat	white blood cells	white blood cells	in the liver.cholesterol crystals alone cause human	
+V-131	hepatitis	hepatitis	fat	fat	ate more animal	
+V-131	plant-based diet	plant-based diet	bacteria	bacteria	may also improve our microbiome, the good	
+V-131	cholesterol	cholesterol	blood	blood	in the	
+V-131	bacteria	bacteria	gut	gut	in our	
+V-131	liver	liver	liver disease	liver disease	damage.what’s happening is nafld, non-alcoholic fatty	
+V-131	disease	disease	liver disease	liver disease	.fatty	
+V-131	liver	liver	cholesterol	cholesterol	cells to cause crystallization of the	
+V-131	cirrhosis	cirrhosis	dietary cholesterol	dietary cholesterol	and liver cancer, as	
+V-131	plant-based	plant-based	microbiome	microbiome	diet may also improve our	
+V-131	fat	fat	antioxidants	antioxidants	and cholesterol, and less plant fat, fiber, and	
+V-131	fat	fat	blood	blood	in the liver.cholesterol crystals alone cause human white	
+V-131	white blood cells	white blood cells	uric acid	uric acid	to spill out inflammatory compounds, just like	
+V-131	beverage	beverage	liver	liver	seemed to dampen	
+V-131	fat	fat	fiber	fiber	and cholesterol, and less plant fat,	
+V-131	beans	beans	liver	liver	—is associated with less severe non-alcoholic fatty	
+V-131	chicken	chicken	meat	meat	nuggets’ worth of	
+V-131	death	death	cirrhosis	cirrhosis	from	
+V-131	animal fat	animal fat	plant fat	plant fat	and cholesterol, and less	
+V-131	disease	disease	liver	liver	.fatty	
+V-131	blood	blood	cholesterol	cholesterol	pressure, and	
+V-131	liver	liver	fatty liver disease	fatty liver disease	damage.what’s happening is nafld, non-alcoholic	
+V-131	liver	liver	doctors	doctors		
+V-131	death	death	liver cancer	liver cancer	from cirrhosis and	
+V-131	diet	diet	microbiome	microbiome	may also improve our	
+V-131	plant-based	plant-based	bacteria	bacteria	diet may also improve our microbiome, the good	
+V-131	cholesterol	cholesterol	enzymes	enzymes	go up—but so do his liver	
+V-131	blood	blood	uric acid	uric acid	cells to spill out inflammatory compounds, just like	
+V-131	fat	fat	liver	liver	in the	
+V-131	cholesterol	cholesterol	diet	diet	derived from the	
+V-131	plant-based	plant-based	diet	diet		
+V-131	animal fat	animal fat	antioxidants	antioxidants	and cholesterol, and less plant fat, fiber, and	
+V-131	liver	liver	microbiome	microbiome	inflammation.a more plant-based diet may also improve our	
+V-131	beverage	beverage	plant-based diet	plant-based diet	seemed to dampen liver inflammation.a more	
+V-131	death	death	liver	liver	from cirrhosis and	
+V-131	beans	beans	liver disease	liver disease	—is associated with less severe non-alcoholic fatty	
+V-131	anti-inflammatory	anti-inflammatory	antioxidant	antioxidant	and	
+V-131	liver	liver	antioxidant	antioxidant	disease, perhaps because of its anti-inflammatory and	
+V-131	cirrhosis	cirrhosis	cancer	cancer	and liver	
+V-131	lead	lead	liver	liver	to	
+V-131	soda	soda	liver	liver	a day may raise the odds of fatty	
+V-131	beverage	beverage	plant-based	plant-based	seemed to dampen liver inflammation.a more	
+V-131	fat	fat	plant fat	plant fat	and cholesterol, and less	
+V-131	animal fat	animal fat	fiber	fiber	and cholesterol, and less plant fat,	
+V-131	cholesterol	cholesterol	liver	liver	derived from the diet, the	
+V-131	liver	liver	anti-inflammatory	anti-inflammatory	disease, perhaps because of its	
+V-131	animal fat	animal fat	fat	fat	and cholesterol, and less plant	
+V-131	death	death	cholesterol	cholesterol	from cirrhosis and liver cancer, as dietary	
+V-131	liver	liver	disease	disease		
+V-131	beverage	beverage	diet	diet	seemed to dampen liver inflammation.a more plant-based	
+V-131	fat	fat	lead	lead	buildup, to nash, nonalcoholic steatohepatitis, which can	
+V-131	hepatitis	hepatitis	cholesterol	cholesterol	ate more animal fat and	
+V-131	liver	liver	disease	disease	damage.what’s happening is nafld, non-alcoholic fatty liver	
+V-131	hepatitis	hepatitis	plant fat	plant fat	ate more animal fat and cholesterol, and less	
+V-131	liver	liver	diet	diet	inflammation.a more plant-based	
+V-131	prevention	prevention	liver	liver	of fatty	
+V-131	women	women	fast food	fast food	agreed to eat two	
+V-131	gut	gut	liver disease	liver disease	and contribute to fatty	
+V-131	liver	liver	liver disease	liver disease	disease.fatty	
+V-131	beans	beans	disease	disease	—is associated with less severe non-alcoholic fatty liver	
+V-131	liver	liver	disease	disease	can result in a	
+V-131	liver	liver	fat	fat	can result in a disease spectrum—from asymptomatic	
+V-131	liver	liver	enzymes	enzymes		
+V-131	plant-based diet	plant-based diet	microbiome	microbiome	may also improve our	
+V-131	animal fat	animal fat	cholesterol	cholesterol	and	
+V-131	disease	disease	foie gras	foie gras	could almost be considered the human equivalent of	
+V-131	cholesterol	cholesterol	liver	liver	go up—but so do his	
+V-131	liver	liver	plant-based diet	plant-based diet	inflammation.a more	
+V-131	liver disease	liver disease	liver	liver	.fatty	
+V-131	soft drinks	soft drinks	meat	meat	and	
+V-131	uric acid	uric acid	gout	gout	crystals in	
+V-131	liver	liver	hepatitis	hepatitis	into serious	
+V-131	gut	gut	liver	liver	and contribute to fatty	
+V-131	disease	disease	cholesterol	cholesterol	.fatty liver disease can also be caused by	

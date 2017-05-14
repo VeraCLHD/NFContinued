@@ -1,0 +1,21 @@
+
+T-1343	heart attack	heart attack	endothelial	endothelial	rates.some studies suggest	
+T-1343	phytonutrients	phytonutrients	fruit	fruit	found in the olive	
+T-1343	endothelial	endothelial	heart disease	heart disease	function, a predictor of	
+T-1343	olive oil	olive oil	phytonutrients	phytonutrients	retains a fraction of the anti-inflammatory	
+T-1343	anti-inflammatory	anti-inflammatory	fruit	fruit	phytonutrients found in the olive	
+T-1343	cholesterol	cholesterol	atherosclerosis	atherosclerosis	and may delay the progression of	
+T-1343	oils	oils	nuts	nuts	for your healthy fats, turn to	
+T-1343	nuts	nuts	cholesterol	cholesterol	may lower total	
+T-1343	endothelial	endothelial	diet	diet	function improves on a mediterranean	
+T-1343	heart attack	heart attack	mediterranean diet	mediterranean diet	rates.some studies suggest endothelial function improves on a	
+T-1343	walnuts	walnuts	vegetables	vegetables	: dietary fruits and	
+T-1343	anti-inflammatory	anti-inflammatory	phytonutrients	phytonutrients		
+T-1343	endothelial	endothelial	olive oil	olive oil	function produced by high-fat foods, including	
+T-1343	endothelial	endothelial	mediterranean diet	mediterranean diet	function improves on a	
+T-1343	fruits	fruits	vegetables	vegetables	and	
+T-1343	walnuts	walnuts	fruits	fruits	: dietary	
+T-1343	endothelial	endothelial	fast food	fast food	function, a predictor of heart disease, as high-fat	
+T-1343	oils	oils	fats	fats	for your healthy	
+T-1343	endothelial	endothelial	disease	disease	function, a predictor of heart	
+T-1343	olive oil	olive oil	anti-inflammatory	anti-inflammatory	retains a fraction of the	

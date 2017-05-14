@@ -1,0 +1,102 @@
+
+T-114	neutropenic diet	neutropenic diet	diet	diet	for cancer patients, but is there a	
+T-114	meat	meat	chicken	chicken	of	
+T-114	cranberry	cranberry	uti	uti	juice seems to be protective against	
+T-114	infections	infections	urinary tract infections	urinary tract infections	of the gut may lead to	
+T-114	drugs	drugs	heavy metals	heavy metals	(or	
+T-114	cancer	cancer	diet	diet	patients, but is there a	
+T-114	meat	meat	antibiotics	antibiotics	of chicken may contain more	
+T-114	neutropenic diet	neutropenic diet	cancer	cancer	for	
+T-114	gut	gut	diarrhea	diarrhea	microbiome may also lead to weight gain and	
+T-114	infections	infections	gut	gut	of the	
+T-114	diet	diet	antibiotics	antibiotics	may lower the levels of	
+T-114	cancer	cancer	gut	gut	because treatment with antibiotics can wipe out beneficial	
+T-114	juice	juice	uti	uti	seems to be protective against	
+T-114	vegetarian	vegetarian	diet	diet		
+T-114	chicken	chicken	antibiotics	antibiotics	may contain more	
+T-114	medicine	medicine	neutropenic diet	neutropenic diet	is finally doing away with the	
+T-114	risk	risk	antibiotics	antibiotics	of breast cancer because treatment with	
+T-114	treatment	treatment	gut	gut	with antibiotics can wipe out beneficial	
+T-114	medicine	medicine	diet	diet	is finally doing away with the neutropenic	
+T-114	superbugs	superbugs	yersinia	yersinia	such as mrsa,	
+T-114	drugs	drugs	meat	meat	(or heavy metals) we’re getting with	
+T-114	antibiotics	antibiotics	heavy metals	heavy metals	may not be the only drugs (or	
+T-114	mouthwash	mouthwash	tea	tea	may inhibit your athletic prowess; swishing with green	
+T-114	lead	lead	weight gain	weight gain	to	
+T-114	cooking	cooking	superbugs	superbugs	can kill some, but not all, of these	
+T-114	gut	gut	infections	infections	may lead to urinary tract	
+T-114	antiseptic mouthwash	antiseptic mouthwash	tea	tea	may inhibit your athletic prowess; swishing with green	
+T-114	weight gain	weight gain	diarrhea	diarrhea	and	
+T-114	antibiotics	antibiotics	meat	meat	than dark	
+T-114	lead	lead	diarrhea	diarrhea	to weight gain and	
+T-114	antiseptic	antiseptic	green tea	green tea	mouthwash may inhibit your athletic prowess; swishing with	
+T-114	meat	meat	dark meat	dark meat	of chicken may contain more antibiotics than	
+T-114	lead	lead	urinary tract infections	urinary tract infections	to	
+T-114	microbiome	microbiome	diarrhea	diarrhea	may also lead to weight gain and	
+T-114	treatment	treatment	gut bacteria	gut bacteria	with antibiotics can wipe out beneficial	
+T-114	urinary tract infections	urinary tract infections	risk	risk	(uti’s) that may indirectly increase the	
+T-114	cross-contamination	cross-contamination	lead	lead	may	
+T-114	cranberry juice	cranberry juice	uti	uti	seems to be protective against	
+T-114	gut	gut	microbiome	microbiome		
+T-114	bread	bread	mold	mold		
+T-114	cancer	cancer	gut bacteria	gut bacteria	because treatment with antibiotics can wipe out beneficial	
+T-114	white meat	white meat	dark meat	dark meat	of chicken may contain more antibiotics than	
+T-114	lead	lead	infection	infection	to	
+T-114	gut	gut	lead	lead	microbiome may also	
+T-114	risk	risk	ear infections	ear infections	of	
+T-114	cranberry	cranberry	juice	juice		
+T-114	white meat	white meat	chicken	chicken	of	
+T-114	treatment	treatment	antibiotics	antibiotics	with	
+T-114	antiseptic mouthwash	antiseptic mouthwash	green tea	green tea	may inhibit your athletic prowess; swishing with	
+T-114	e. coli	e. coli	infections	infections		
+T-114	cancer	cancer	antibiotics	antibiotics	because treatment with	
+T-114	risk	risk	treatment	treatment	of breast cancer because	
+T-114	livestock	livestock	antibiotics	antibiotics	may consume nearly 80% of the	
+T-114	drugs	drugs	antibiotics	antibiotics	like	
+T-114	risk	risk	breast cancer	breast cancer	of	
+T-114	risk	risk	cancer	cancer	of breast	
+T-114	breast cancer	breast cancer	antibiotics	antibiotics	because treatment with	
+T-114	ear infections	ear infections	children	children	in	
+T-114	antibiotics	antibiotics	dark meat	dark meat	than	
+T-114	organic	organic	meat	meat		
+T-114	heavy metals	heavy metals	meat	meat	) we’re getting with	
+T-114	uti	uti	risk	risk	’s) that may indirectly increase the	
+T-114	vegetarian	vegetarian	antibiotics	antibiotics	diet may lower the levels of	
+T-114	antibiotics	antibiotics	bacteria	bacteria	can wipe out beneficial gut	
+T-114	antibiotics	antibiotics	drugs	drugs	may not be the only	
+T-114	infection	infection	meat	meat	regardless of how well the	
+T-114	chicken	chicken	dark meat	dark meat	may contain more antibiotics than	
+T-114	gut	gut	lead	lead	may	
+T-114	gut	gut	urinary tract infections	urinary tract infections	may lead to	
+T-114	cross-contamination	cross-contamination	infection	infection	may lead to	
+T-114	uti	uti	risk	risk	’s and owning a dog may reduce the	
+T-114	chicken	chicken	meat	meat	may contain more antibiotics than dark	
+T-114	uti	uti	breast cancer	breast cancer	’s) that may indirectly increase the risk of	
+T-114	antibiotics	antibiotics	gut bacteria	gut bacteria	can wipe out beneficial	
+T-114	microbiome	microbiome	lead	lead	may also	
+T-114	lead	lead	meat	meat	to infection regardless of how well the	
+T-114	breast cancer	breast cancer	gut bacteria	gut bacteria	because treatment with antibiotics can wipe out beneficial	
+T-114	lead	lead	uti	uti	to urinary tract infections (	
+T-114	infections	infections	lead	lead	of the gut may	
+T-114	gut	gut	weight gain	weight gain	microbiome may also lead to	
+T-114	lead	lead	infections	infections	to urinary tract	
+T-114	infections	infections	children	children	in	
+T-114	e. coli	e. coli	gut	gut	infections of the	
+T-114	superbugs	superbugs	mrsa	mrsa	such as	
+T-114	cancer	cancer	treatment	treatment	because	
+T-114	antibiotics	antibiotics	gut	gut	can wipe out beneficial	
+T-114	breast cancer	breast cancer	gut	gut	because treatment with antibiotics can wipe out beneficial	
+T-114	white meat	white meat	antibiotics	antibiotics	of chicken may contain more	
+T-114	white meat	white meat	meat	meat	of chicken may contain more antibiotics than dark	
+T-114	gut	gut	uti	uti	may lead to urinary tract infections (	
+T-114	mouthwash	mouthwash	green tea	green tea	may inhibit your athletic prowess; swishing with	
+T-114	e. coli	e. coli	lead	lead	infections of the gut may	
+T-114	microbiome	microbiome	weight gain	weight gain	may also lead to	
+T-114	breast cancer	breast cancer	treatment	treatment	because	
+T-114	urinary tract infections	urinary tract infections	breast cancer	breast cancer	(uti’s) that may indirectly increase the risk of	
+T-114	risk	risk	infections	infections	of ear	
+T-114	risk	risk	children	children	of ear infections in	
+T-114	diet	diet	cancer	cancer	for	
+T-114	antiseptic	antiseptic	mouthwash	mouthwash		
+T-114	e. coli	e. coli	urinary tract infections	urinary tract infections	infections of the gut may lead to	
+T-114	treatment	treatment	bacteria	bacteria	with antibiotics can wipe out beneficial gut	

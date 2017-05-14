@@ -1,0 +1,30 @@
+
+V-93	risk	risk	diabetes	diabetes	of death from	
+V-93	death	death	diabetes	diabetes	from	
+V-93	protein	protein	risk	risk	didn’t have four times more	
+V-93	dairy	dairy	smoking	smoking	could be as harmful to health as	
+V-93	plant-based	plant-based	diet	diet		
+V-93	aging	aging	muscles	muscles		
+V-93	animal protein	animal protein	risk	risk	didn’t have four times more	
+V-93	egg	egg	diet	diet	whites to the	
+V-93	diabetes	diabetes	protein	protein	deaths, lower overall	
+V-93	beans	beans	legumes	legumes	and other	
+V-93	diet	diet	pork	pork	—which means a diet high in fish,	
+V-93	nutrition	nutrition	health	health	is likely to maximize	
+V-93	plant-based	plant-based	alkaline diet	alkaline diet	diet, a more	
+V-93	plant-based	plant-based	health	health	nutrition is likely to maximize	
+V-93	cancer	cancer	diabetes	diabetes	or	
+V-93	diet	diet	plant-based	plant-based	that emphasizes	
+V-93	health	health	smoking	smoking	as	
+V-93	diet	diet	health	health	that emphasizes plant-based nutrition is likely to maximize	
+V-93	diet	diet	nutrition	nutrition	that emphasizes plant-based	
+V-93	calories	calories	protein	protein	from	
+V-93	diet	diet	fish	fish	—which means a diet high in	
+V-93	legumes	legumes	protein	protein	are the only major source of	
+V-93	protein	protein	calories	calories	group, who got 10 to 19% of	
+V-93	risk	risk	death	death	of	
+V-93	fruits	fruits	vegetables	vegetables	and	
+V-93	dairy	dairy	health	health	could be as harmful to	
+V-93	diet	diet	chicken	chicken	—which means a diet high in fish, pork,	
+V-93	plant-based	plant-based	nutrition	nutrition		
+V-93	risk	risk	diabetes	diabetes	of dying from	

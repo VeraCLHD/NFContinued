@@ -1,0 +1,11 @@
+
+V-1127	brown rice	brown rice	rice	rice	versus red	
+V-1127	asthma	asthma	hay fever	hay fever	and	
+V-1127	phytonutrients	phytonutrients	rice	rice	in these pigmented strains of	
+V-1127	rice	rice	phytonutrients	phytonutrients	.the	
+V-1127	antioxidants	antioxidants	phytonutrients	phytonutrients	than brown rice.the	
+V-1127	asthma	asthma	fever	fever	and hay	
+V-1127	antioxidants	antioxidants	rice	rice	than brown	
+V-1127	rice	rice	brown rice	brown rice	versus	
+V-1127	cancer	cancer	asthma	asthma	cells, and even help protect against	
+V-1127	cancer	cancer	hay fever	hay fever	cells, and even help protect against asthma and	

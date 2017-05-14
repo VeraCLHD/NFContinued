@@ -1,0 +1,61 @@
+
+V-243	milk	milk	breakfast	breakfast	for	
+V-243	skim milk	skim milk	breakfast	breakfast	for	
+V-243	hunger	hunger	apples	apples	almost as much as the whole	
+V-243	almond	almond	butter	butter		
+V-243	sugar	sugar	diet	diet	to their daily	
+V-243	raw	raw	bananas	bananas	apples, apricots and	
+V-243	apple juice	apple juice	hunger	hunger	didn’t cut	
+V-243	fruit	fruit	apples	apples	salad, with raw	
+V-243	fruit	fruit	vegetables	vegetables	is less filling than solid, but puréed	
+V-243	hunger	hunger	calories	calories	more in accordance with how many	
+V-243	fruit	fruit	oatmeal	oatmeal	juices and skim milk for breakfast, or	
+V-243	fruit	fruit	raw	raw	salad, with	
+V-243	fruit	fruit	cold	cold	smoothie in a bowl,	
+V-243	calories	calories	cans	cans	from the	
+V-243	soup	soup	placebo	placebo	to be filling and so, like a	
+V-243	fruit	fruit	skim milk	skim milk	juices and	
+V-243	apple	apple	hunger	hunger	juice didn’t cut	
+V-243	almond butter	almond butter	walnuts	walnuts	or	
+V-243	beans	beans	diet	diet	to their	
+V-243	fruit	fruit	milk	milk	juices and skim	
+V-243	fruit	fruit	apricots	apricots	salad, with raw apples,	
+V-243	fruit	fruit	breakfast	breakfast	juices and skim milk for	
+V-243	juice	juice	hunger	hunger	didn’t cut	
+V-243	skim milk	skim milk	apples	apples	for breakfast, or oatmeal with blueberries and	
+V-243	chewing	chewing	satiety	satiety	itself may be a	
+V-243	jelly beans	jelly beans	diet	diet	to their	
+V-243	calories	calories	soup	soup	of the	
+V-243	butter	butter	walnuts	walnuts	or	
+V-243	soda	soda	jelly beans	jelly beans	and	
+V-243	oatmeal	oatmeal	apples	apples	with blueberries and	
+V-243	skim milk	skim milk	blueberries	blueberries	for breakfast, or oatmeal with	
+V-243	milk	milk	oatmeal	oatmeal	for breakfast, or	
+V-243	calories	calories	apples	apples	overall, but that puréed	
+V-243	raw	raw	water	water	apples, apricots and bananas, with three cups of	
+V-243	soup	soup	placebo effect	placebo effect	to be filling and so, like a	
+V-243	apricots	apricots	water	water	and bananas, with three cups of	
+V-243	hunger	hunger	soup	soup	much at all, but what about the	
+V-243	soup	soup	chewing	chewing	have in common with prolonged	
+V-243	cold	cold	smoothies	smoothies		
+V-243	soda	soda	beans	beans	and jelly	
+V-243	almond	almond	walnuts	walnuts	butter or	
+V-243	diet	diet	soda	soda	in the form of jellybeans or	
+V-243	skim milk	skim milk	oatmeal	oatmeal	for breakfast, or	
+V-243	apple	apple	apple juice	apple juice	soup, they mixed about a cup of	
+V-243	calories	calories	soda	soda	from the cans of	
+V-243	raw	raw	apples	apples		
+V-243	cans	cans	soda	soda	of	
+V-243	apple	apple	soup	soup		
+V-243	apple	apple	juice	juice		
+V-243	soda	soda	calories	calories		
+V-243	fruit	fruit	bananas	bananas	salad, with raw apples, apricots and	
+V-243	apple	apple	juice	juice	soup, they mixed about a cup of apple	
+V-243	milk	milk	blueberries	blueberries	for breakfast, or oatmeal with	
+V-243	oatmeal	oatmeal	blueberries	blueberries	with	
+V-243	raw	raw	apricots	apricots	apples,	
+V-243	milk	milk	apples	apples	for breakfast, or oatmeal with blueberries and	
+V-243	blueberries	blueberries	apples	apples	and	
+V-243	apricots	apricots	bananas	bananas	and	
+V-243	smoothies	smoothies	appetite	appetite	can suppress your	
+V-243	fat	fat	pork	pork	smoothie of steamed	

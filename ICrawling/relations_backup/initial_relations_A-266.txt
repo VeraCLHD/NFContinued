@@ -1,0 +1,77 @@
+
+A-266	skin	skin	cancer	cancer		
+A-266	dogs	dogs	cancer	cancer	for colorectal	
+A-266	strawberries	strawberries	esophageal cancer	esophageal cancer	versus	
+A-266	amino acid	amino acid	cancer	cancer	methionine, normal cells thrive, but without methionine,	
+A-266	dogs	dogs	cancer	cancer	that can diagnose bladder	
+A-266	methionine	methionine	beans	beans	foods, fruits, nuts, veggies, grains, and	
+A-266	plant-based diets	plant-based diets	cancer	cancer	have been found effective in potentially reversing some	
+A-266	cancer growth	cancer growth	methionine	methionine	as well as improve our lifespan (see	
+A-266	cancer	cancer	cancer	cancer	and–you guessed it–fart-sniffing dogs for colorectal	
+A-266	black raspberries	black raspberries	cancer	cancer	versus oral	
+A-266	cancer	cancer	methionine	methionine	with	
+A-266	methionine	methionine	cancer treatment	cancer treatment	restriction and other dietary approaches to	
+A-266	cancer	cancer	dogs	dogs	and–you guessed it–fart-sniffing	
+A-266	cancer	cancer	colorectal cancer	colorectal cancer	and–you guessed it–fart-sniffing dogs for	
+A-266	bladder cancer	bladder cancer	cancer	cancer	and–you guessed it–fart-sniffing dogs for colorectal	
+A-266	bladder	bladder	colorectal cancer	colorectal cancer	cancer and–you guessed it–fart-sniffing dogs for	
+A-266	methionine	methionine	cancer	cancer	restriction and other dietary approaches to	
+A-266	tumors	tumors	meat	meat	use	
+A-266	dogs	dogs	lung cancer	lung cancer	that can pick out people with	
+A-266	strawberries	strawberries	black raspberries	black raspberries	versus esophageal cancer, and	
+A-266	cancer	cancer	diet	diet	reversal through	
+A-266	treatment	treatment	cancer	cancer	strategies for metastatic	
+A-266	animal products	animal products	tumor growth	tumor growth	that may actually stimulate	
+A-266	dogs	dogs	cancer	cancer	that can pick out skin	
+A-266	methionine	methionine	cancer	cancer	dependency is not just present in	
+A-266	amino acid	amino acid	methionine	methionine		
+A-266	cancer reversal	cancer reversal	diet	diet	through	
+A-266	igf-1	igf-1	pritikin	pritikin	(the answer to the	
+A-266	treatment	treatment	methionine	methionine	strategies for metastatic cancer, and dietary	
+A-266	cancer	cancer	cancer	cancer	is harder because	
+A-266	methionine	methionine	grains	grains	foods, fruits, nuts, veggies,	
+A-266	methionine	methionine	fruits	fruits	foods,	
+A-266	amino acid	amino acid	cancer cells	cancer cells	methionine, normal cells thrive, but without methionine,	
+A-266	smoking	smoking	plants	plants	cessation, consumption of diets rich in	
+A-266	cancer	cancer	methionine	methionine	do with the	
+A-266	plants	plants	plant-based diets	plant-based diets	and	
+A-266	methionine	methionine	vegan	vegan	restriction may be achieved using a predominately	
+A-266	tumor	tumor	plant-based	plant-based	supply lines, researchers come to the same	
+A-266	dogs	dogs	bladder	bladder	that can diagnose	
+A-266	protein	protein	igf-1	igf-1	may also boost levels of the cancer-promoting hormone	
+A-266	methionine	methionine	diet	diet	restriction may be achieved using a predominately vegan	
+A-266	plants	plants	plant-based	plant-based	and	
+A-266	pesticides	pesticides	insects	insects	can work by attacking the special exoskeleton of	
+A-266	black raspberries	black raspberries	oral cancer	oral cancer	versus	
+A-266	cancer	cancer	methionine	methionine	growth as well as improve our lifespan (see	
+A-266	strawberries	strawberries	oral cancer	oral cancer	versus esophageal cancer, and black raspberries versus	
+A-266	cancer	cancer	cancer cells	cancer cells	is harder because	
+A-266	strawberries	strawberries	raspberries	raspberries	versus esophageal cancer, and black	
+A-266	methionine	methionine	treatment	treatment	restriction and other dietary approaches to cancer	
+A-266	dna	dna	bacteria	bacteria	because that’s something that both humans and	
+A-266	lifespan	lifespan	methionine	methionine	(see	
+A-266	cancer	cancer	methionine	methionine	cells need that added	
+A-266	chicken	chicken	fish	fish	and	
+A-266	meat	meat	xeno-autoantibodies	xeno-autoantibodies	to grow:	
+A-266	chemotherapy	chemotherapy	cancer	cancer	cures only a few types of metastatic	
+A-266	strawberries	strawberries	cancer	cancer	versus esophageal	
+A-266	dogs	dogs	bladder cancer	bladder cancer	that can diagnose	
+A-266	animal products	animal products	tumor	tumor	that may actually stimulate	
+A-266	bladder	bladder	cancer	cancer		
+A-266	cancer growth	cancer growth	lifespan	lifespan	as well as improve our	
+A-266	methionine	methionine	nuts	nuts	foods, fruits,	
+A-266	cancer cells	cancer cells	methionine	methionine	need that added	
+A-266	dogs	dogs	skin	skin	that can pick out	
+A-266	dogs	dogs	skin cancer	skin cancer	that can pick out	
+A-266	americans	americans	cancer	cancer	develop metastatic	
+A-266	vegan	vegan	diet	diet		
+A-266	raspberries	raspberries	cancer	cancer	versus oral	
+A-266	tumors	tumors	xeno-autoantibodies	xeno-autoantibodies	use meat to grow:	
+A-266	cancer	cancer	treatment	treatment		
+A-266	raspberries	raspberries	oral cancer	oral cancer	versus	
+A-266	bladder cancer	bladder cancer	colorectal cancer	colorectal cancer	and–you guessed it–fart-sniffing dogs for	
+A-266	dogs	dogs	cancer	cancer	that can pick out people with lung	
+A-266	cancer	cancer	lifespan	lifespan	growth as well as improve our	
+A-266	bladder cancer	bladder cancer	dogs	dogs	and–you guessed it–fart-sniffing	
+A-266	animal protein	animal protein	igf-1	igf-1	may also boost levels of the cancer-promoting hormone	
+A-266	bladder	bladder	dogs	dogs	cancer and–you guessed it–fart-sniffing	

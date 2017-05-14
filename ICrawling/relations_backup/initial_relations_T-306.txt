@@ -1,0 +1,42 @@
+
+T-306	milk	milk	animal products	animal products	is one of the few	
+T-306	breastfeeding	breastfeeding	fenugreek	fenugreek	and eating	
+T-306	pcbs	pcbs	chemicals	chemicals	and flame retardant	
+T-306	pregnant	pregnant	breastfeeding	breastfeeding	or	
+T-306	blood	blood	vegans	vegans	stream, but	
+T-306	vegan	vegan	iodine	iodine	mothers must also be careful about getting enough	
+T-306	omega 3	omega 3	infants	infants	’s for	
+T-306	death	death	syndrome	syndrome		
+T-306	infants	infants	babies	babies	is their mother’s breast milk, and at least	
+T-306	milk	milk	peptides	peptides	proteins in breast milk break down into	
+T-306	pregnant	pregnant	fenugreek	fenugreek	or breastfeeding and eating	
+T-306	animal products	animal products	antioxidants	antioxidants	that is high in	
+T-306	breast milk	breast milk	animal products	animal products	is one of the few	
+T-306	chemicals	chemicals	baby	baby	can be passed from mother to	
+T-306	chemicals	chemicals	breast milk	breast milk	can be passed from mother to baby through	
+T-306	xenoestrogens	xenoestrogens	breast milk	breast milk	found in human	
+T-306	breast milk	breast milk	plant-based	plant-based	of those eating more	
+T-306	milk	milk	fish	fish	(due mostly to	
+T-306	milk	milk	breast milk	breast milk	proteins in	
+T-306	baby	baby	breast milk	breast milk	through	
+T-306	organochlorines	organochlorines	breast milk	breast milk	accumulated vy their mothers.milk proteins in	
+T-306	infants	infants	breast milk	breast milk	is their mother’s	
+T-306	organochlorines	organochlorines	milk	milk	accumulated vy their mothers.	
+T-306	xenoestrogens	xenoestrogens	fish	fish	found in human breast milk (due mostly to	
+T-306	vitamin b12	vitamin b12	breast milk	breast milk	will have deficient	
+T-306	blood	blood	infants	infants	stream, but vegans who have been breastfed as	
+T-306	breast milk	breast milk	fish	fish	(due mostly to	
+T-306	pollutants	pollutants	vegans	vegans	circulating in their blood stream, but	
+T-306	infants	infants	milk	milk	is their mother’s breast	
+T-306	milk	milk	plant-based	plant-based	of those eating more	
+T-306	vitamin b12	vitamin b12	milk	milk	will have deficient breast	
+T-306	breast milk	breast milk	peptides	peptides	break down into	
+T-306	vegan	vegan	mothers	mothers		
+T-306	pollutants	pollutants	blood	blood	circulating in their	
+T-306	infants	infants	organochlorines	organochlorines	may have been exposed to	
+T-306	mothers	mothers	iodine	iodine	must also be careful about getting enough	
+T-306	vegans	vegans	pollutants	pollutants	in general have lower levels of	
+T-306	xenoestrogens	xenoestrogens	milk	milk	found in human breast	
+T-306	b12	b12	milk	milk	will have deficient breast	
+T-306	b12	b12	breast milk	breast milk	will have deficient	
+T-306	baby	baby	milk	milk	through breast	

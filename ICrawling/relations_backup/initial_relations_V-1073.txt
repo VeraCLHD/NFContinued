@@ -1,0 +1,6 @@
+
+V-1073	corn	corn	sausage	sausage	on the cob, a smooth and soft	
+V-1073	chicken	chicken	oatmeal	oatmeal	nuggets,	
+V-1073	vegans	vegans	vegetarians	vegetarians	actually ended up beating	
+V-1073	corn	corn	chicken	chicken	on the cob, a smooth and soft sausage,	
+V-1073	chicken	chicken	corn	corn	nuggets, oatmeal, or gravy?meat-eaters, on average, poop out	

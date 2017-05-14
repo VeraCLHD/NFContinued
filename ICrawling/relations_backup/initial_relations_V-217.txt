@@ -1,0 +1,11 @@
+
+V-217	pain	pain	fatigue	fatigue	and	
+V-217	curcumin	curcumin	pain	pain	in	
+V-217	turmeric	turmeric	curcumin	curcumin		
+V-217	turmeric	turmeric	pain	pain	curcumin in	
+V-217	curcumin	curcumin	pain	pain	group was still in so much	
+V-217	turmeric	turmeric	fatigue	fatigue	curcumin in pain and postoperative	
+V-217	anti-inflammatory	anti-inflammatory	drugs	drugs		
+V-217	curcumin	curcumin	fatigue	fatigue	in pain and postoperative	
+V-217	pain	pain	fatigue	fatigue	and postoperative	
+V-217	pain	pain	curcumin	curcumin	and fatigue, but drug-wise, the	

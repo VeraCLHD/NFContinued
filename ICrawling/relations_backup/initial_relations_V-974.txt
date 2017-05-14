@@ -1,0 +1,34 @@
+
+V-974	disease	disease	ornish	ornish	with a plant-based diet for years before	
+V-974	disease	disease	plant-based	plant-based	with a	
+V-974	heart disease	heart disease	diet	diet	with a plant-based	
+V-974	clogged arteries	clogged arteries	drugs	drugs	—and without	
+V-974	heart disease	heart disease	plant-based diet	plant-based diet	with a	
+V-974	heart disease	heart disease	diet	diet	through	
+V-974	heart disease	heart disease	exercise	exercise	through diet and	
+V-974	disease	disease	diet	diet	through	
+V-974	plant-based	plant-based	diet	diet		
+V-974	disease	disease	diet	diet	with a plant-based	
+V-974	plant-based	plant-based	ornish	ornish	diet for years before	
+V-974	disease	disease	plant-based diet	plant-based diet	with a	
+V-974	heart disease	heart disease	drugs	drugs	without	
+V-974	plant-based diet	plant-based diet	ornish	ornish	for years before	
+V-974	disease	disease	surgery	surgery	without drugs, without	
+V-974	bacon	bacon	eggs	eggs	and	
+V-974	bacon	bacon	chicken	chicken	and eggs, cheese, and fried	
+V-974	diet	diet	plant-based	plant-based	forever.pritikin had been reversing heart disease with a	
+V-974	disease	disease	drugs	drugs	without	
+V-974	clogged arteries	clogged arteries	surgery	surgery	—and without drugs, without	
+V-974	diet	diet	heart disease	heart disease	forever.pritikin had been reversing	
+V-974	arteries	arteries	drugs	drugs	—and without	
+V-974	bacon	bacon	cheese	cheese	and eggs,	
+V-974	heart disease	heart disease	disease	disease	—our number one killer, not just stop heart	
+V-974	diet	diet	plant-based diet	plant-based diet	forever.pritikin had been reversing heart disease with a	
+V-974	heart disease	heart disease	ornish	ornish	with a plant-based diet for years before	
+V-974	heart disease	heart disease	plant-based	plant-based	with a	
+V-974	diet	diet	disease	disease	forever.pritikin had been reversing heart	
+V-974	disease	disease	heart disease	heart disease	—our number one killer, not just stop	
+V-974	disease	disease	exercise	exercise	through diet and	
+V-974	arteries	arteries	surgery	surgery	—and without drugs, without	
+V-974	diet	diet	exercise	exercise	and	
+V-974	heart disease	heart disease	surgery	surgery	without drugs, without	

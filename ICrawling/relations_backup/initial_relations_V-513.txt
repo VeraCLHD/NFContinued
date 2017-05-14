@@ -1,0 +1,24 @@
+
+V-513	antioxidants	antioxidants	fruits	fruits	—which means high-powered	
+V-513	antioxidants	antioxidants	vegetables	vegetables	—which means high-powered fruits and	
+V-513	berries	berries	beans	beans	or 	
+V-513	berries	berries	green tea	green tea	or beans), and sipping something (like	
+V-513	meat	meat	air pollution	air pollution	consumption, or if we’re sick, cigarette smoke,	
+V-513	watermelon	watermelon	fruits	fruits	for dessert.i just ate nine servings of	
+V-513	fruits	fruits	beans	beans	and vegetables at every meal (like berries or 	
+V-513	meat	meat	pollution	pollution	consumption, or if we’re sick, cigarette smoke, air	
+V-513	blueberries	blueberries	breakfast	breakfast	for	
+V-513	tea	tea	hibiscus	hibiscus	or	
+V-513	beans	beans	green tea	green tea	), and sipping something (like	
+V-513	apple	apple	dates	dates	and some	
+V-513	berries	berries	tea	tea	or beans), and sipping something (like green	
+V-513	berries	berries	hibiscus	hibiscus	or beans), and sipping something (like green tea or	
+V-513	fruits	fruits	berries	berries	and vegetables at every meal (like	
+V-513	vegetables	vegetables	berries	berries	at every meal (like	
+V-513	beans	beans	tea	tea	), and sipping something (like green	
+V-513	fruits	fruits	vegetables	vegetables	and	
+V-513	green tea	green tea	hibiscus	hibiscus	or	
+V-513	peas	peas	carrots	carrots	and	
+V-513	beans	beans	hibiscus	hibiscus	), and sipping something (like green tea or	
+V-513	kidney	kidney	beans	beans		
+V-513	vegetables	vegetables	beans	beans	at every meal (like berries or 	

@@ -1,0 +1,37 @@
+
+A-64	women	women	saturated fat	saturated fat	with the lowest	
+A-64	women	women	saturated fat	saturated fat	with the highest	
+A-64	blood	blood	obesity	obesity	pressure,	
+A-64	risk	risk	diet	diet	for alzheimer’s disease, but whether a mediterranean	
+A-64	mediterranean diet	mediterranean diet	diet	diet	is a	
+A-64	fish	fish	alcohol	alcohol	consumption showed no benefit, neither did moderate	
+A-64	women	women	fat	fat	with the highest saturated	
+A-64	saturated fat	saturated fat	cognition	cognition	intake was associated with a poorer trajectory of	
+A-64	women	women	fat	fat	with the lowest saturated	
+A-64	blood	blood	smoking	smoking	pressure, obesity, exercise,	
+A-64	china	china	fat	fat	to the highest	
+A-64	fat	fat	women	women	intake had the brain function of	
+A-64	fat	fat	aging	aging	consumption was equivalent to about six years of	
+A-64	cognition	cognition	memory	memory	and	
+A-64	fats	fats	animal fats	animal fats	and saturated fats, essentially plant fats to	
+A-64	harvard	harvard	fat	fat	researchers examined the relationships of the major	
+A-64	diet	diet	risk	risk	was related to lower	
+A-64	mediterranean diet	mediterranean diet	disease	disease	may affect not only risk for alzheimer’s	
+A-64	meat	meat	dairy	dairy	and	
+A-64	disease	disease	mediterranean diet	mediterranean diet	with diet, researchers found that adherence to the	
+A-64	risk	risk	disease	disease	factor for alzheimer’s	
+A-64	mediterranean diet	mediterranean diet	vegetables	vegetables	is a diet high in intake of	
+A-64	mediterranean diet	mediterranean diet	diet	diet	—or any	
+A-64	diet	diet	disease	disease	was related to lower risk for alzheimer’s	
+A-64	risk	risk	mediterranean diet	mediterranean diet	for alzheimer’s disease, but whether a	
+A-64	mediterranean diet	mediterranean diet	risk	risk	may affect not only	
+A-64	diet	diet	beans	beans	is a diet high in intake of vegetables,	
+A-64	risk	risk	disease	disease	for alzheimer’s	
+A-64	saturated fat	saturated fat	women	women	intake had the brain function of	
+A-64	mediterranean diet	mediterranean diet	beans	beans	is a diet high in intake of vegetables,	
+A-64	saturated fat	saturated fat	aging	aging	consumption was equivalent to about six years of	
+A-64	diet	diet	vegetables	vegetables	is a diet high in intake of	
+A-64	blood	blood	exercise	exercise	pressure, obesity,	
+A-64	blood	blood	depression	depression	pressure, obesity, exercise, smoking,	
+A-64	disease	disease	diet	diet	with	
+A-64	diet	diet	risk	risk	might be another important modifiable	

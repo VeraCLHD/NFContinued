@@ -1,0 +1,19 @@
+
+V-558	kids	kids	hyperactivity	hyperactivity	for attention deficit	
+V-558	attention deficit	attention deficit	hyperactivity	hyperactivity		
+V-558	medications	medications	adhd	adhd	and exercise with regard to	
+V-558	drugs	drugs	dopamine	dopamine	are thought to act by increasing	
+V-558	amphetamines	amphetamines	drugs	drugs	for a lot of kids.these	
+V-558	exercise	exercise	drugs	drugs	may only last an hour or so.but, the	
+V-558	medications	medications	physical activity	physical activity	take an hour to work;	
+V-558	exercise	exercise	adhd	adhd	with regard to	
+V-558	physical activity	physical activity	symptoms	symptoms	can “mitigate adhd	
+V-558	adhd	adhd	side effects	side effects	symptoms, [and] has essentially no	
+V-558	adhd	adhd	symptoms	symptoms		
+V-558	physical activity	physical activity	adhd	adhd	can “mitigate	
+V-558	doctors	doctors	ritalin	ritalin	write 20 million prescriptions for stimulants, like	
+V-558	kids	kids	attention deficit	attention deficit	for	
+V-558	physical activity	physical activity	adhd	adhd	works almost immediately.but, does it work for	
+V-558	produce	produce	side effects	side effects	unwanted	
+V-558	medications	medications	exercise	exercise	and	
+V-558	exercise	exercise	adhd	adhd	has been shown to be effective in controlling	

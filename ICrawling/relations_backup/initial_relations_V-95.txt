@@ -1,0 +1,38 @@
+
+V-95	ginger	ginger	treatment	treatment	effective for the	
+V-95	ginger	ginger	irritable bowel syndrome	irritable bowel syndrome	effective for the treatment of	
+V-95	ginger	ginger	treatment	treatment	is not effective for the	
+V-95	migraine	migraine	imitrex	imitrex	headache drug,	
+V-95	breast cancer	breast cancer	chemo	chemo		
+V-95	treatment	treatment	migraines	migraines	for menstrual blood loss and pain.so, works for	
+V-95	herbal	herbal	syndrome	syndrome	medicines for irritable bowel	
+V-95	vomiting	vomiting	pregnancy	pregnancy	in early	
+V-95	vomiting	vomiting	motion sickness	motion sickness	in early pregnancy; but also for	
+V-95	ginger	ginger	syndrome	syndrome	effective for the treatment of irritable bowel	
+V-95	nausea	nausea	drugs	drugs		
+V-95	chemo	chemo	vomiting	vomiting	—ginger relieved delayed	
+V-95	ginger	ginger	pain	pain	and	
+V-95	ginger	ginger	migraine	migraine	—one penny—found to work as well as the	
+V-95	cancer	cancer	chemo	chemo		
+V-95	nausea	nausea	vomiting	vomiting	and	
+V-95	treatment	treatment	irritable bowel syndrome	irritable bowel syndrome	of	
+V-95	ginger	ginger	vomiting	vomiting	relieved delayed	
+V-95	ginger	ginger	irritable bowel syndrome	irritable bowel syndrome	is not effective for the treatment of	
+V-95	ginger	ginger	vomiting	vomiting	for breast cancer chemo, chemo-induced	
+V-95	cancer	cancer	vomiting	vomiting	chemo, chemo-induced	
+V-95	drugs	drugs	doctors	doctors	—with which	
+V-95	nausea	nausea	pregnancy	pregnancy	and vomiting in early	
+V-95	blood	blood	migraines	migraines	loss and pain.so, works for	
+V-95	anti-inflammatory	anti-inflammatory	ginger	ginger	food, like	
+V-95	ginger	ginger	pain	pain	for menstrual	
+V-95	vomiting	vomiting	nausea	nausea	after surgery; and preventing antiretroviral-induced	
+V-95	ginger	ginger	herbal	herbal	is one of the most commonly used	
+V-95	risk	risk	drugs	drugs	the adverse effects of some of the	
+V-95	treatment	treatment	syndrome	syndrome	of irritable bowel	
+V-95	treatment	treatment	blood	blood	for menstrual	
+V-95	nausea	nausea	motion sickness	motion sickness	and vomiting in early pregnancy; but also for	
+V-95	herbal	herbal	irritable bowel syndrome	irritable bowel syndrome	medicines for	
+V-95	nausea	nausea	drugs	drugs	is something	
+V-95	chemo	chemo	ginger	ginger	—	
+V-95	ginger	ginger	menstrual pain	menstrual pain	for	
+V-95	breast cancer	breast cancer	vomiting	vomiting	chemo, chemo-induced	

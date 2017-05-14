@@ -1,0 +1,51 @@
+
+V-165	garlic	garlic	cholesterol	cholesterol	intake may drop bad	
+V-165	broccoli	broccoli	mustard powder	mustard powder	enzymes in the form of raw radish or	
+V-165	stroke	stroke	garlic	garlic	and impairment of kidney function.those who consume	
+V-165	broccoli	broccoli	enzymes	enzymes		
+V-165	raw	raw	garlic	garlic		
+V-165	heart attacks	heart attacks	stroke	stroke	and	
+V-165	onions	onions	cooking	cooking	is lost with	
+V-165	surgery	surgery	garlic	garlic	it might be good to cook	
+V-165	kidneys	kidneys	risk	risk	to greater pressure fluctuations, which may increase the	
+V-165	raw	raw	boiled	boiled	garlic compared to	
+V-165	blood	blood	raw	raw	clotting if consumed in	
+V-165	stroke	stroke	kidney	kidney	and impairment of	
+V-165	garlic	garlic	juice	juice		
+V-165	raw	raw	garlic	garlic	appears to be better than cooked, suggesting that	
+V-165	raw	raw	mustard powder	mustard powder	radish or	
+V-165	enzymes	enzymes	mustard powder	mustard powder	in the form of raw radish or	
+V-165	onions	onions	water	water	are dropped in boiling	
+V-165	bad cholesterol	bad cholesterol	blood thinning	blood thinning	levels about 10%, but the	
+V-165	raw	raw	dressings	dressings	onion on salads, raw garlic in salsa,	
+V-165	blood pressure	blood pressure	cholesterol	cholesterol	and	
+V-165	broccoli	broccoli	raw	raw	enzymes in the form of	
+V-165	enzymes	enzymes	raw	raw	in the form of	
+V-165	garlic	garlic	boiled	boiled	compared to	
+V-165	juice	juice	garlic	garlic	to cooked	
+V-165	cholesterol	cholesterol	blood	blood	levels about 10%, but the	
+V-165	cholesterol	cholesterol	blood thinning	blood thinning	levels about 10%, but the	
+V-165	garlic	garlic	cooking	cooking	and onions is lost with	
+V-165	herbs	herbs	disease	disease	in cardiovascular	
+V-165	risk	risk	stroke	stroke	of heart attacks and	
+V-165	garlic	garlic	salsa	salsa	in	
+V-165	garlic	garlic	raw	raw	compared to boiled garlic, which was down around	
+V-165	risk	risk	stroke	stroke	of	
+V-165	raw	raw	salsa	salsa	onion on salads, raw garlic in	
+V-165	raw	raw	garlic	garlic	onion on salads, raw	
+V-165	garlic	garlic	bad cholesterol	bad cholesterol	intake may drop	
+V-165	raw	raw	salads	salads	onion on	
+V-165	blood	blood	cholesterol	cholesterol	pressure and	
+V-165	garlic	garlic	onions	onions	and	
+V-165	onions	onions	boiling	boiling	are dropped in	
+V-165	herbs	herbs	cardiovascular disease	cardiovascular disease	in	
+V-165	onions	onions	platelets	platelets	may stimulate rather than inhibit	
+V-165	risk	risk	kidney	kidney	of stroke and impairment of	
+V-165	boiled	boiled	raw	raw	garlic, which was down around	
+V-165	garlic	garlic	dressings	dressings	in salsa,	
+V-165	kidney	kidney	garlic	garlic	function.those who consume	
+V-165	mustard powder	mustard powder	broccoli	broccoli	to boost the benefits of	
+V-165	boiling	boiling	water	water		
+V-165	boiled	boiled	garlic	garlic		
+V-165	bad cholesterol	bad cholesterol	blood	blood	levels about 10%, but the	
+V-165	risk	risk	heart attacks	heart attacks	of	

@@ -1,0 +1,49 @@
+
+A-215	antibiotics	antibiotics	manure	manure	and antibiotic-resistant bacteria-laden chicken	
+A-215	salmonella	salmonella	chicken	chicken	contaminating retail	
+A-215	meats	meats	antibiotics	antibiotics	raised without	
+A-215	meat	meat	antibiotics	antibiotics	produced with	
+A-215	organic	organic	chicken	chicken	and conventional retail	
+A-215	salmonella	salmonella	children	children	infections in	
+A-215	supreme court	supreme court	downed animals	downed animals	case: meat industry sues to keep	
+A-215	bacteria	bacteria	antibiotics	antibiotics	come from if organic producers are not using	
+A-215	organic	organic	antibiotics	antibiotics	producers are not using	
+A-215	infections	infections	children	children	in	
+A-215	organic	organic	chickens	chickens		
+A-215	meat industry	meat industry	downed animals	downed animals	sues to keep	
+A-215	bacteria	bacteria	organic	organic	come from if	
+A-215	antibiotics	antibiotics	bacteria	bacteria	may be contaminated with multi-drug resistant	
+A-215	bacteria	bacteria	organic	organic	in	
+A-215	organic	organic	meat	meat	chicken	
+A-215	supreme court	supreme court	meat industry	meat industry	case:	
+A-215	organic	organic	meat	meat	and conventional retail chicken	
+A-215	meats	meats	veggie burgers	veggie burgers	raised without antibiotics, responded, ‘wait, you mean like	
+A-215	consumer reports	consumer reports	meat	meat	urged retailers to stop selling	
+A-215	superbugs	superbugs	chicken	chicken	in conventional vs. organic	
+A-215	meat	meat	bacteria	bacteria	contaminated with dangerous	
+A-215	bugs	bugs	drugs	drugs	versus	
+A-215	bacteria	bacteria	penicillin	penicillin	developed an enzyme that ate	
+A-215	salmonella	salmonella	infections	infections		
+A-215	salmonella	salmonella	chicken	chicken	in	
+A-215	supreme court	supreme court	meat	meat	case:	
+A-215	bacteria	bacteria	chicken	chicken	in organic and conventional retail	
+A-215	meat	meat	downed animals	downed animals	industry sues to keep	
+A-215	surgeon general	surgeon general	infectious diseases	infectious diseases	declared, “the war against	
+A-215	antibiotics	antibiotics	environment	environment	and antibiotic-resistant bacteria-laden chicken manure out into the	
+A-215	antibiotics	antibiotics	chicken	chicken	and antibiotic-resistant bacteria-laden	
+A-215	superbugs	superbugs	organic	organic	in conventional vs.	
+A-215	meat	meat	antibiotics	antibiotics	raised without	
+A-215	chicken	chicken	manure	manure		
+A-215	bacteria	bacteria	breakfast	breakfast	developed an enzyme that ate penicillin for	
+A-215	chicken	chicken	organic	organic	samples were contaminated; however, the majority (84%) of	
+A-215	meat	meat	fda	fda	report, the	
+A-215	chicken	chicken	environment	environment	manure out into the	
+A-215	fda	fda	salmonella	salmonella	found that more than a quarter of the	
+A-215	penicillin	penicillin	breakfast	breakfast	for	
+A-215	treatment	treatment	drugs	drugs		
+A-215	chicken	chicken	meat	meat		
+A-215	manure	manure	environment	environment	out into the	
+A-215	consumer reports	consumer reports	antibiotics	antibiotics	urged retailers to stop selling meat produced with	
+A-215	salmonella	salmonella	turkey	turkey	in chicken &	
+A-215	organic	organic	chicken	chicken		
+A-215	bacteria	bacteria	meat	meat	in organic and conventional retail chicken	

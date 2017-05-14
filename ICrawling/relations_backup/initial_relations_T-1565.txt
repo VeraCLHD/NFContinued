@@ -1,0 +1,36 @@
+
+T-1565	radiation	radiation	dental	dental	exposure from	
+T-1565	radiation	radiation	risk	risk	to reduce	
+T-1565	radiation	radiation	dental x-rays	dental x-rays	exposure from	
+T-1565	radiation	radiation	meat	meat	to help sterilize	
+T-1565	lemon	lemon	radiation	radiation	balm may help provide some protection against	
+T-1565	ginger	ginger	lemon	lemon	and	
+T-1565	lemon balm	lemon balm	radiation	radiation	may help provide some protection against	
+T-1565	plant-based	plant-based	diet	diet		
+T-1565	radiation	radiation	cancer	cancer	from pediatric cat scans may also raise	
+T-1565	cancer	cancer	risk	risk		
+T-1565	plant-based	plant-based	surgery	surgery	diet, without any	
+T-1565	meat industry	meat industry	radiation	radiation	has used	
+T-1565	radiation	radiation	risk	risk	from pediatric cat scans may also raise cancer	
+T-1565	prostate	prostate	cancer	cancer		
+T-1565	ornish	ornish	diet	diet	was able to use a plant-based	
+T-1565	prostate	prostate	cancer progression	cancer progression		
+T-1565	fish	fish	seafood	seafood	and	
+T-1565	meat	meat	radiation	radiation	industry has used	
+T-1565	risk	risk	tumor	tumor	of brain	
+T-1565	meat industry	meat industry	risk	risk	has used radiation to reduce	
+T-1565	radiation	radiation	risk	risk	exposure may increase cataract	
+T-1565	dental x-rays	dental x-rays	risk	risk	may be associated with an increased	
+T-1565	dental	dental	x-rays	x-rays		
+T-1565	x-rays	x-rays	risk	risk	may be associated with an increased	
+T-1565	dean ornish	dean ornish	plant-based	plant-based	was able to use a	
+T-1565	dean ornish	dean ornish	diet	diet	was able to use a plant-based	
+T-1565	ornish	ornish	plant-based	plant-based	was able to use a	
+T-1565	meat	meat	risk	risk	industry has used radiation to reduce	
+T-1565	dean ornish	dean ornish	plant-based diet	plant-based diet	was able to use a	
+T-1565	plant-based	plant-based	chemotherapy	chemotherapy	diet, without any surgery,	
+T-1565	dental	dental	risk	risk	x-rays may be associated with an increased	
+T-1565	ornish	ornish	plant-based diet	plant-based diet	was able to use a	
+T-1565	radiation	radiation	x-rays	x-rays	exposure from dental	
+T-1565	ginger	ginger	lemon balm	lemon balm	and	
+T-1565	plant-based	plant-based	radiation	radiation	diet, without any surgery, chemotherapy, or	

@@ -1,0 +1,15 @@
+
+V-559	popcorn	popcorn	butter	butter	.i’ve warned previously about diacetyl, the artificial	
+V-559	butter flavor	butter flavor	popcorn lung	popcorn lung	linked to a condition known as	
+V-559	butter	butter	popcorn	popcorn	flavor linked to a condition known as	
+V-559	popcorn	popcorn	diacetyl	diacetyl	.i’ve warned previously about	
+V-559	disease	disease	bronchiolitis obliterans	bronchiolitis obliterans	called	
+V-559	butter	butter	diacetyl	diacetyl	-flavored microwave popcorn.i’ve warned previously about	
+V-559	butter flavor	butter flavor	popcorn	popcorn	linked to a condition known as	
+V-559	lung disease	lung disease	bronchiolitis obliterans	bronchiolitis obliterans	called	
+V-559	popcorn	popcorn	bronchiolitis obliterans	bronchiolitis obliterans	developing	
+V-559	popcorn	popcorn	butter flavor	butter flavor	.i’ve warned previously about diacetyl, the artificial	
+V-559	health	health	food additives	food additives	hazards from	
+V-559	gas	gas	phosgene	phosgene		
+V-559	butter	butter	popcorn	popcorn	-flavored microwave	
+V-559	food additives	food additives	health	health	has [simply] fallen between the regulatory and	

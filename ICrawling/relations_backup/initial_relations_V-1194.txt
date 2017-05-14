@@ -1,0 +1,30 @@
+
+V-1194	kidney	kidney	cancer	cancer		
+V-1194	estrogen	estrogen	breast cancer	breast cancer	receptor positive	
+V-1194	dna	dna	inflammation	inflammation	mutations, and then oxidation,	
+V-1194	dna	dna	oxidation	oxidation	mutations, and then	
+V-1194	apples	apples	estrogen	estrogen	seem to work best against	
+V-1194	carcinogens	carcinogens	inflammation	inflammation	cause dna mutations, and then oxidation,	
+V-1194	risk	risk	cancer	cancer	of oral	
+V-1194	colon	colon	kidney	kidney	cancer, less	
+V-1194	apple peels	apple peels	cancer	cancer	have potent antioxidant and antiproliferative effects on human	
+V-1194	cancer	cancer	dvd	dvd		
+V-1194	carcinogens	carcinogens	oxidation	oxidation	cause dna mutations, and then	
+V-1194	carcinogens	carcinogens	dna	dna	cause	
+V-1194	colon	colon	cancer	cancer		
+V-1194	cancer	cancer	tumor	tumor	dvd will recognize these stages of	
+V-1194	dvd	dvd	tumor	tumor	will recognize these stages of	
+V-1194	apples	apples	breast cancer	breast cancer	seem to work best against estrogen receptor negative	
+V-1194	carcinogens	carcinogens	hormones	hormones	cause dna mutations, and then oxidation, inflammation, and	
+V-1194	apple peels	apple peels	cancer cells	cancer cells	have potent antioxidant and antiproliferative effects on human	
+V-1194	apple peels	apple peels	antioxidant	antioxidant	have potent	
+V-1194	carcinogens	carcinogens	mutations	mutations	cause dna	
+V-1194	antioxidant	antioxidant	cancer cells	cancer cells	and antiproliferative effects on human	
+V-1194	dna	dna	hormones	hormones	mutations, and then oxidation, inflammation, and	
+V-1194	estrogen	estrogen	cancer	cancer	receptor positive breast	
+V-1194	estrogen	estrogen	cancer	cancer	receptor negative breast	
+V-1194	colon	colon	kidney cancer	kidney cancer	cancer, less	
+V-1194	antioxidant	antioxidant	cancer	cancer	and antiproliferative effects on human	
+V-1194	estrogen	estrogen	breast cancer	breast cancer	receptor negative	
+V-1194	risk	risk	oral cancer	oral cancer	of	
+V-1194	dna	dna	mutations	mutations		

@@ -1,0 +1,87 @@
+
+T-440	pollutants	pollutants	fish oil	fish oil	—possibly found in animal products such as	
+T-440	xenoestrogens	xenoestrogens	birth defects	birth defects	are associated with	
+T-440	xenoestrogens	xenoestrogens	preterm birth	preterm birth	are associated with birth defects,	
+T-440	leukemia	leukemia	brain tumors	brain tumors	and	
+T-440	vegan	vegan	children	children	and vegetarian	
+T-440	meat	meat	arsenic	arsenic	products introduce harmful compounds, including ammonia,	
+T-440	fish	fish	liver	liver	oil supplements—are linked with thyroid disease,	
+T-440	risk	risk	leukemia	leukemia	of childhood	
+T-440	supplements	supplements	cardiovascular disease	cardiovascular disease	—are linked with thyroid disease, liver disease, cancer,	
+T-440	animal products	animal products	fish	fish	such as	
+T-440	vegetarian	vegetarian	children	children		
+T-440	fish oil	fish oil	liver disease	liver disease	supplements—are linked with thyroid disease,	
+T-440	children	children	fruits	fruits	’s intake of whole	
+T-440	hyperactivity	hyperactivity	children	children	in	
+T-440	thyroid	thyroid	obesity	obesity	disorders,	
+T-440	fish oil	fish oil	thyroid	thyroid	supplements—are linked with	
+T-440	leukemia	leukemia	tumors	tumors	and brain	
+T-440	animal products	animal products	fish oil	fish oil	such as	
+T-440	fish oil	fish oil	cardiovascular disease	cardiovascular disease	supplements—are linked with thyroid disease, liver disease, cancer,	
+T-440	constipation	constipation	children	children	in	
+T-440	supplements	supplements	thyroid disease	thyroid disease	—are linked with	
+T-440	fish	fish	thyroid disease	thyroid disease	oil supplements—are linked with	
+T-440	supplements	supplements	disease	disease	—are linked with thyroid	
+T-440	fish oil	fish oil	supplements	supplements		
+T-440	thyroid	thyroid	cardiovascular disease	cardiovascular disease	disease, liver disease, cancer,	
+T-440	bacteria	bacteria	meat	meat	transferred during the butchering process often contaminate	
+T-440	children	children	raw	raw	in shopping carts with	
+T-440	risk	risk	brain tumors	brain tumors	of childhood leukemia and	
+T-440	meat	meat	nitrites	nitrites	products introduce harmful compounds, including ammonia, arsenic, and	
+T-440	animal products	animal products	supplements	supplements	such as fish oil	
+T-440	pesticides	pesticides	birth defects	birth defects	have been linked to	
+T-440	liver	liver	diabetes	diabetes	disease, cancer, cardiovascular disease,	
+T-440	animal products	animal products	disease	disease	such as fish oil supplements—are linked with thyroid	
+T-440	thyroid	thyroid	allergies	allergies	disorders, obesity,	
+T-440	fish	fish	liver disease	liver disease	oil supplements—are linked with thyroid disease,	
+T-440	liver	liver	disease	disease		
+T-440	liver	liver	cancer	cancer	disease,	
+T-440	animal products	animal products	thyroid	thyroid	such as fish oil supplements—are linked with	
+T-440	liver	liver	cardiovascular disease	cardiovascular disease	disease, cancer,	
+T-440	vegan	vegan	pollutants	pollutants	and vegetarian children have, on average, higher iqs.industrial	
+T-440	raw	raw	meat	meat		
+T-440	pollutants	pollutants	animal products	animal products	—possibly found in	
+T-440	supplements	supplements	cancer	cancer	—are linked with thyroid disease, liver disease,	
+T-440	fruits	fruits	vegetables	vegetables	and	
+T-440	shopping carts	shopping carts	raw	raw	with	
+T-440	vegan	vegan	vegetarian	vegetarian	and	
+T-440	children	children	meat	meat	in shopping carts with raw	
+T-440	liver	liver	birth defects	birth defects	disease, cancer, cardiovascular disease, diabetes, neuronal	
+T-440	fish oil	fish oil	disease	disease	supplements—are linked with thyroid	
+T-440	doctors	doctors	nutrition	nutrition	are not adequately educated about	
+T-440	pollutants	pollutants	fish	fish	—possibly found in animal products such as	
+T-440	risk	risk	tumors	tumors	of childhood leukemia and brain	
+T-440	puberty	puberty	obesity	obesity	and	
+T-440	thyroid	thyroid	disease	disease		
+T-440	animal products	animal products	thyroid disease	thyroid disease	such as fish oil supplements—are linked with	
+T-440	thyroid	thyroid	liver disease	liver disease	disease,	
+T-440	fish	fish	cancer	cancer	oil supplements—are linked with thyroid disease, liver disease,	
+T-440	mercury	mercury	fish	fish	poisoning, which comes mainly from	
+T-440	poultry	poultry	obesity	obesity	may harbor an adenovirus suspected to promote	
+T-440	kidney	kidney	children	children	failure in	
+T-440	constipation	constipation	plant foods	plant foods	in children, as is low intake of whole	
+T-440	birth defects	birth defects	endometriosis	endometriosis	and	
+T-440	thyroid	thyroid	diabetes	diabetes	disease, liver disease, cancer, cardiovascular disease,	
+T-440	fish oil	fish oil	liver	liver	supplements—are linked with thyroid disease,	
+T-440	fish	fish	thyroid	thyroid	oil supplements—are linked with	
+T-440	supplements	supplements	liver disease	liver disease	—are linked with thyroid disease,	
+T-440	thyroid	thyroid	cancer	cancer	disease, liver disease,	
+T-440	fish	fish	disease	disease	oil supplements—are linked with thyroid	
+T-440	children	children	vegetables	vegetables	’s intake of whole fruits and	
+T-440	children	children	pollutants	pollutants	have, on average, higher iqs.industrial	
+T-440	fish	fish	supplements	supplements	oil	
+T-440	shopping carts	shopping carts	meat	meat	with raw	
+T-440	fish oil	fish oil	thyroid disease	thyroid disease	supplements—are linked with	
+T-440	supplements	supplements	thyroid	thyroid	—are linked with	
+T-440	thyroid	thyroid	liver	liver	disease,	
+T-440	vegetarian	vegetarian	pollutants	pollutants	children have, on average, higher iqs.industrial	
+T-440	kidney failure	kidney failure	children	children	in	
+T-440	children	children	cheese	cheese	’s main dietary exposure to aluminium is	
+T-440	meat	meat	ammonia	ammonia	products introduce harmful compounds, including	
+T-440	children	children	shopping carts	shopping carts	in	
+T-440	fish oil	fish oil	cancer	cancer	supplements—are linked with thyroid disease, liver disease,	
+T-440	thyroid	thyroid	birth defects	birth defects	disease, liver disease, cancer, cardiovascular disease, diabetes, neuronal	
+T-440	fecal bacteria	fecal bacteria	meat	meat	transferred during the butchering process often contaminate	
+T-440	children	children	animal products	animal products	have, on average, higher iqs.industrial pollutants—possibly found in	
+T-440	thyroid	thyroid	puberty	puberty	disorders, obesity, allergies, and early onset of	
+T-440	supplements	supplements	liver	liver	—are linked with thyroid disease,	

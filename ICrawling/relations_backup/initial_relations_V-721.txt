@@ -1,0 +1,21 @@
+
+V-721	women	women	soy	soy	who eat lots of	
+V-721	plant-based	plant-based	protein powder	protein powder	meats, protein bars, or	
+V-721	soy foods	soy foods	tofu	tofu	daily, whether they were	
+V-721	soy	soy	tofu	tofu	foods daily, whether they were	
+V-721	soy foods	soy foods	milk	milk	daily, whether they were tofu, soy	
+V-721	risk	risk	cancer	cancer	of getting breast	
+V-721	soy	soy	breast cancer	breast cancer	appear to have a lower risk of getting	
+V-721	soy	soy	milk	milk	foods daily, whether they were tofu, soy	
+V-721	risk	risk	cancer	cancer	of surviving breast	
+V-721	legumes	legumes	diet	diet	should be a part of everyone’s daily	
+V-721	risk	risk	breast cancer	breast cancer	of surviving	
+V-721	plant-based	plant-based	protein	protein	meats,	
+V-721	soy foods	soy foods	soy	soy	daily, whether they were tofu,	
+V-721	plant-based	plant-based	meats	meats		
+V-721	protein	protein	protein powder	protein powder	bars, or	
+V-721	soy foods	soy foods	nuts	nuts	daily, whether they were tofu, soy milk, soy	
+V-721	soy foods	soy foods	soy milk	soy milk	daily, whether they were tofu,	
+V-721	soy	soy	risk	risk	appear to have a lower	
+V-721	soy	soy	soy milk	soy milk	foods daily, whether they were tofu,	
+V-721	risk	risk	breast cancer	breast cancer	of getting	

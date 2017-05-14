@@ -1,0 +1,17 @@
+
+T-980	protein	protein	igf-1	igf-1	consumption appears toincrease	
+T-980	igf-1	igf-1	growth hormone	growth hormone	) is a natural human	
+T-980	igf-1	igf-1	cancer growth	cancer growth	) may lead to 	
+T-980	igf-1	igf-1	cancer	cancer	) may lead to 	
+T-980	plant-based diet	plant-based diet	exercise	exercise	and a regular	
+T-980	lead	lead	cancer growth	cancer growth	to 	
+T-980	igf-1	igf-1	lead	lead	) may	
+T-980	plant-based	plant-based	diet	diet		
+T-980	soy	soy	igf-1	igf-1	may also result in similar	
+T-980	diet	diet	exercise	exercise	and a regular	
+T-980	exercise	exercise	igf-1	igf-1	routine may reduce our	
+T-980	lead	lead	cancer	cancer	to 	
+T-980	plant-based	plant-based	igf-1	igf-1	diet and a regular exercise routine may reduce our	
+T-980	plant-based	plant-based	exercise	exercise	diet and a regular	
+T-980	plant-based diet	plant-based diet	igf-1	igf-1	and a regular exercise routine may reduce our	
+T-980	diet	diet	igf-1	igf-1	and a regular exercise routine may reduce our	

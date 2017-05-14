@@ -1,0 +1,32 @@
+
+T-154	asian	asian	dementia	dementia	diet also appears to be protective against	
+T-154	asian	asian	risk	risk	diet might increase	
+T-154	mushrooms	mushrooms	seaweed	seaweed	and green tea, or the	
+T-154	steroids	steroids	farm animals	farm animals	in	
+T-154	protein	protein	rice	rice	amplifies the insulin spike caused by plain white	
+T-154	asian	asian	gerd	gerd	diet also appears to be protective against dementia,	
+T-154	rice	rice	arsenic	arsenic	has less	
+T-154	protein	protein	insulin	insulin	amplifies the	
+T-154	lung cancer	lung cancer	heart disease	heart disease	and	
+T-154	insulin	insulin	rice	rice	spike caused by plain white	
+T-154	meat	meat	asia	asia	consumption in	
+T-154	mushrooms	mushrooms	tea	tea	and green	
+T-154	cancer	cancer	asia	asia	rates seem to be on the rise in	
+T-154	diet	diet	diabetes	diabetes	might increase risk of	
+T-154	animal protein	animal protein	insulin	insulin	amplifies the	
+T-154	diet	diet	gerd	gerd	also appears to be protective against dementia,	
+T-154	asia	asia	diabetes	diabetes	has mirrored an epidemic in	
+T-154	diet	diet	dementia	dementia	also appears to be protective against	
+T-154	diet	diet	risk	risk	might increase	
+T-154	mushrooms	mushrooms	soy	soy	and green tea, or the seaweed, or the	
+T-154	asian	asian	diabetes	diabetes	diet might increase risk of	
+T-154	asian	asian	diet	diet		
+T-154	animal protein	animal protein	rice	rice	amplifies the insulin spike caused by plain white	
+T-154	asia	asia	diet	diet	westernizes its	
+T-154	mushrooms	mushrooms	green tea	green tea	and	
+T-154	risk	risk	diabetes	diabetes	of	
+T-154	rice	rice	asian	asian	has less arsenic than	
+T-154	anabolic steroids	anabolic steroids	farm animals	farm animals	in	
+T-154	arsenic	arsenic	asian	asian	than	
+T-154	meat	meat	diabetes	diabetes	consumption in asia has mirrored an epidemic in	
+T-154	lung cancer	lung cancer	disease	disease	and heart	

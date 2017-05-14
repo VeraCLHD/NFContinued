@@ -1,0 +1,48 @@
+
+T-1753	steroid hormones	steroid hormones	meat	meat	in	
+T-1753	hormones	hormones	estrogen	estrogen	like	
+T-1753	steroids	steroids	plant-based diets	plant-based diets	with potential side-effects, but	
+T-1753	steroid hormones	steroid hormones	estrogen	estrogen	like	
+T-1753	asthma	asthma	plant-based diet	plant-based diet	patients using cortisone who began a	
+T-1753	lichen planus	lichen planus	purslane	purslane	might try the common plant,	
+T-1753	cancer	cancer	hormones	hormones	is sensitive to growth promoting steroid	
+T-1753	plant-based	plant-based	rheumatoid arthritis	rheumatoid arthritis	diets have also been found to successfully treat	
+T-1753	hormones	hormones	acne	acne	in milk may contribute to the	
+T-1753	arthritis	arthritis	potassium	potassium	patients with extra	
+T-1753	arthritis	arthritis	steroids	steroids	is often treated with	
+T-1753	plant-based	plant-based	neuropathy	neuropathy	diet may help treat diabetic	
+T-1753	breast cancer	breast cancer	steroid hormones	steroid hormones	is sensitive to growth promoting	
+T-1753	plant-based	plant-based	disease	disease	diet may help treat diabetic neuropathy and crohn’s	
+T-1753	plant-based	plant-based	diet	diet		
+T-1753	hormones	hormones	meat	meat	in	
+T-1753	rheumatoid arthritis	rheumatoid arthritis	potassium	potassium	patients with extra	
+T-1753	cancer	cancer	estrogen	estrogen	is sensitive to growth promoting steroid hormones like	
+T-1753	prostate	prostate	cancer	cancer		
+T-1753	animal products	animal products	hormones	hormones	contain steroid	
+T-1753	plant-based diets	plant-based diets	rheumatoid arthritis	rheumatoid arthritis	have also been found to successfully treat	
+T-1753	neuropathy	neuropathy	disease	disease	and crohn’s	
+T-1753	plant-based diet	plant-based diet	disease	disease	may help treat diabetic neuropathy and crohn’s	
+T-1753	steroid hormones	steroid hormones	acne	acne	in milk may contribute to the	
+T-1753	prostate	prostate	japan	japan	cancer in	
+T-1753	seeds	seeds	anti-inflammatory	anti-inflammatory	had some	
+T-1753	diet	diet	disease	disease	may help treat diabetic neuropathy and crohn’s	
+T-1753	animal products	animal products	steroid hormones	steroid hormones	contain	
+T-1753	milk	milk	acne	acne	may contribute to the	
+T-1753	cilantro	cilantro	seeds	seeds		
+T-1753	plant-based diet	plant-based diet	neuropathy	neuropathy	may help treat diabetic	
+T-1753	cancer	cancer	japan	japan	in	
+T-1753	anabolic steroids	anabolic steroids	beef	beef	in the	
+T-1753	prostate cancer	prostate cancer	japan	japan	in	
+T-1753	breast cancer	breast cancer	hormones	hormones	is sensitive to growth promoting steroid	
+T-1753	hormones	hormones	milk	milk	in	
+T-1753	plant-based diets	plant-based diets	arthritis	arthritis	have also been found to successfully treat rheumatoid	
+T-1753	steroid hormones	steroid hormones	milk	milk	in	
+T-1753	breast cancer	breast cancer	estrogen	estrogen	is sensitive to growth promoting steroid hormones like	
+T-1753	asthma	asthma	diet	diet	patients using cortisone who began a plant-based	
+T-1753	steroids	steroids	beef	beef	in the	
+T-1753	cancer	cancer	steroid hormones	steroid hormones	is sensitive to growth promoting	
+T-1753	steroids	steroids	plant-based	plant-based	with potential side-effects, but	
+T-1753	cilantro	cilantro	anti-inflammatory	anti-inflammatory	seeds had some	
+T-1753	diet	diet	neuropathy	neuropathy	may help treat diabetic	
+T-1753	rheumatoid arthritis	rheumatoid arthritis	steroids	steroids	is often treated with	
+T-1753	asthma	asthma	plant-based	plant-based	patients using cortisone who began a	

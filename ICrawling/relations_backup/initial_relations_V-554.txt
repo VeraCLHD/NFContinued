@@ -1,0 +1,7 @@
+
+V-554	energy	energy	soy protein	soy protein	bar that says it has	
+V-554	rice	rice	beans	beans	” tastes better than just “red	
+V-554	soy	soy	protein	protein		
+V-554	beans	beans	rice	rice	[and] 	
+V-554	energy	energy	protein	protein	bar that says it has soy	
+V-554	energy	energy	soy	soy	bar that says it has	

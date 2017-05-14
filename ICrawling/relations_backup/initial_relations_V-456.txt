@@ -1,0 +1,76 @@
+
+V-456	breast cancer	breast cancer	seeds	seeds	risk associated with consumption of sunflower and pumpkin	
+V-456	pumpkin	pumpkin	breast cancer	breast cancer	seeds were associated with reduced	
+V-456	cancer cells	cancer cells	fat	fat	to take advantage of people eating high	
+V-456	drugs	drugs	cancer	cancer	to	
+V-456	soy	soy	germany	germany	foods, but this recent study out of	
+V-456	risk	risk	pumpkin seeds	pumpkin seeds	associated with consumption of sunflower and	
+V-456	breast cancer	breast cancer	fat	fat	cells are gobbling up.the ability to accumulate	
+V-456	breast cancer	breast cancer	risk	risk		
+V-456	pumpkin	pumpkin	risk	risk	seeds were associated with reduced breast cancer	
+V-456	seeds	seeds	breast cancer	breast cancer	were associated with reduced	
+V-456	cancer	cancer	cholesterol	cholesterol	risk.tumors suck up so much	
+V-456	fat	fat	cancer	cancer	that the breast	
+V-456	fat	fat	cancer	cancer	and cholesterol may enable	
+V-456	cholesterol	cholesterol	cancer	cancer	may enable	
+V-456	fat	fat	breast cancer	breast cancer	that the	
+V-456	women	women	breast cancer	breast cancer	will be diagnosed with	
+V-456	risk	risk	cholesterol	cholesterol	.tumors suck up so much	
+V-456	breast cancer	breast cancer	pumpkin	pumpkin	risk associated with consumption of sunflower and	
+V-456	fat	fat	cancer cells	cancer cells	and cholesterol may enable	
+V-456	plant foods	plant foods	cancer	cancer	that may protect against breast	
+V-456	drugs	drugs	cancer cells	cancer cells	to	
+V-456	tumors	tumors	ldl	ldl	rich in	
+V-456	ldl	ldl	breast cancer	breast cancer	receptor content in human	
+V-456	women	women	cholesterol	cholesterol	who had	
+V-456	plant foods	plant foods	variety	variety	that may protect against breast cancer by a	
+V-456	cancer	cancer	variety	variety	by a	
+V-456	flaxseeds	flaxseeds	soy foods	soy foods	and	
+V-456	women	women	cholesterol	cholesterol	whose	
+V-456	breast cancer	breast cancer	lignans	lignans	risk, which they initially chalked up to the	
+V-456	cholesterol	cholesterol	risk	risk	intake may result in increased breast cancer	
+V-456	dietary cholesterol	dietary cholesterol	breast cancer	breast cancer	intake may result in increased	
+V-456	cholesterol	cholesterol	cancer	cancer	levels drop so low after they get	
+V-456	cancer	cancer	fat	fat	cells to take advantage of people eating high	
+V-456	cancer	cancer	pumpkin	pumpkin	risk associated with consumption of sunflower and	
+V-456	fat	fat	cholesterol	cholesterol	and high	
+V-456	cholesterol	cholesterol	tumor	tumor	levels drop so low after they get cancer—the	
+V-456	pumpkin	pumpkin	cancer	cancer	seeds were associated with reduced breast	
+V-456	cancer	cancer	cholesterol	cholesterol	feeds on	
+V-456	fat	fat	cancer cells	cancer cells	that the breast	
+V-456	dietary cholesterol	dietary cholesterol	risk	risk	intake may result in increased breast cancer	
+V-456	cancer	cancer	pumpkin seeds	pumpkin seeds	risk associated with consumption of sunflower and	
+V-456	cholesterol	cholesterol	breast cancer	breast cancer	intake may result in increased	
+V-456	ldl	ldl	cancer	cancer	receptor content in human breast	
+V-456	risk	risk	seeds	seeds	associated with consumption of sunflower and pumpkin	
+V-456	cancer cells	cancer cells	fat	fat	are gobbling up.the ability to accumulate	
+V-456	cancer	cancer	risk	risk		
+V-456	breast cancer	breast cancer	variety	variety	by a	
+V-456	pumpkin seeds	pumpkin seeds	risk	risk	were associated with reduced breast cancer	
+V-456	breast cancer	breast cancer	cholesterol	cholesterol	risk.tumors suck up so much	
+V-456	breast cancer	breast cancer	pumpkin seeds	pumpkin seeds	risk associated with consumption of sunflower and	
+V-456	seeds	seeds	cancer	cancer	were associated with reduced breast	
+V-456	lignans	lignans	seeds	seeds	in the	
+V-456	cancer	cancer	chemo	chemo	feeds on cholesterol, maybe we could stuff some	
+V-456	cholesterol	cholesterol	cancer cells	cancer cells	may enable	
+V-456	dietary cholesterol	dietary cholesterol	cancer	cancer	intake may result in increased breast	
+V-456	phytosterols	phytosterols	cholesterol	cholesterol	just lowered	
+V-456	diet	diet	breast cancer	breast cancer	on lowering human	
+V-456	cholesterol	cholesterol	women	women	over 240, compared to	
+V-456	plant foods	plant foods	breast cancer	breast cancer	that may protect against	
+V-456	cholesterol	cholesterol	cancer	cancer	intake may result in increased breast	
+V-456	risk	risk	pumpkin	pumpkin	associated with consumption of sunflower and	
+V-456	flaxseeds	flaxseeds	soy	soy	and	
+V-456	pumpkin seeds	pumpkin seeds	breast cancer	breast cancer	were associated with reduced	
+V-456	pumpkin seeds	pumpkin seeds	cancer	cancer	were associated with reduced breast	
+V-456	cancer	cancer	lignans	lignans	risk, which they initially chalked up to the	
+V-456	cancer	cancer	fat	fat	cells are gobbling up.the ability to accumulate	
+V-456	pumpkin	pumpkin	seeds	seeds		
+V-456	women	women	cancer	cancer	will be diagnosed with breast	
+V-456	seeds	seeds	risk	risk	were associated with reduced breast cancer	
+V-456	cancer	cancer	tumor	tumor	—the	
+V-456	cancer cells	cancer cells	cholesterol	cholesterol	are gobbling up.the ability to accumulate fat and	
+V-456	cancer	cancer	seeds	seeds	risk associated with consumption of sunflower and pumpkin	
+V-456	diet	diet	cancer	cancer	on lowering human breast	
+V-456	cancer	cancer	cholesterol	cholesterol	have to do with	
+V-456	ldl	ldl	drugs	drugs	has been considered a vehicle for targeting antitumor	

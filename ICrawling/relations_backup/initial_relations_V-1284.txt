@@ -1,0 +1,34 @@
+
+V-1284	nuts	nuts	diet	diet	added to their daily	
+V-1284	protein	protein	fat	fat	instead of milk protein—and abdominal	
+V-1284	nuts	nuts	fat	fat	make you	
+V-1284	milk	milk	soy	soy	protein, the protein in	
+V-1284	milk	milk	fat	fat	protein—and abdominal	
+V-1284	fat	fat	casein	casein	observed with the milk protein	
+V-1284	protein	protein	milk	milk	instead of	
+V-1284	omnivores	omnivores	vegans	vegans	—but	
+V-1284	soy	soy	milk	milk	protein instead of	
+V-1284	milk	milk	protein	protein		
+V-1284	abdominal fat	abdominal fat	milk	milk	observed with the	
+V-1284	abdominal fat	abdominal fat	protein	protein	observed with the milk	
+V-1284	soy	soy	protein	protein		
+V-1284	soy protein	soy protein	abdominal fat	abdominal fat	instead of milk protein—and	
+V-1284	soy	soy	fat	fat	protein instead of milk protein—and abdominal	
+V-1284	milk	milk	abdominal fat	abdominal fat	protein—and	
+V-1284	nuts	nuts	weight gain	weight gain	and	
+V-1284	nuts	nuts	weight gain	weight gain	added to their daily diet, and no	
+V-1284	dairy	dairy	fat	fat	protein, and you can see their tummy	
+V-1284	omnivores	omnivores	weight gain	weight gain	—but vegans get less of that age-related	
+V-1284	protein	protein	abdominal fat	abdominal fat	instead of milk protein—and	
+V-1284	nuts	nuts	fat	fat	will not make us	
+V-1284	soy protein	soy protein	fat	fat	instead of milk protein—and abdominal	
+V-1284	fat	fat	protein	protein	observed with the milk	
+V-1284	soy protein	soy protein	milk	milk	instead of	
+V-1284	soy	soy	fat	fat	prevents the increase in abdominal	
+V-1284	diet	diet	calories	calories	—the exact same diet, same	
+V-1284	abdominal fat	abdominal fat	casein	casein	observed with the milk protein	
+V-1284	dairy	dairy	protein	protein		
+V-1284	soy	soy	abdominal fat	abdominal fat	protein instead of milk protein—and	
+V-1284	soy protein	soy protein	protein	protein	instead of milk	
+V-1284	fat	fat	milk	milk	observed with the	
+V-1284	soy	soy	abdominal fat	abdominal fat	prevents the increase in	

@@ -1,0 +1,17 @@
+
+V-997	kelp	kelp	iodine	iodine	—it just has too much	
+V-997	vegetables	vegetables	iodine	iodine	are an excellent source of	
+V-997	boston	boston	iodine	iodine	vegans, concerns were raised about their	
+V-997	breastfeeding	breastfeeding	women	women		
+V-997	soup	soup	kombu	kombu	made from kelp, also known as	
+V-997	breastfeeding	breastfeeding	kelp	kelp	women eating soup made from	
+V-997	boston	boston	vegans	vegans		
+V-997	women	women	kelp	kelp	eating soup made from	
+V-997	soup	soup	kelp	kelp	made from	
+V-997	breastfeeding	breastfeeding	soup	soup	women eating	
+V-997	iodine	iodine	vegan	vegan	status, but one	
+V-997	women	women	kombu	kombu	eating soup made from kelp, also known as	
+V-997	soy	soy	milk	milk		
+V-997	vegan	vegan	iodine	iodine	’s	
+V-997	women	women	soup	soup	eating	
+V-997	sea vegetables	sea vegetables	iodine	iodine	are an excellent source of	

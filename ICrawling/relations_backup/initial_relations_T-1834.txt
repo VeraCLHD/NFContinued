@@ -1,0 +1,52 @@
+
+T-1834	vegetables	vegetables	iodine	iodine	are considered good	
+T-1834	antibodies	antibodies	meat	meat	in	
+T-1834	iodine	iodine	flame-retardant chemicals	flame-retardant chemicals	sources important for healthy thyroid function.alkylphenols,	
+T-1834	meat	meat	thyroid	thyroid	may result in autoimmune conditions, including	
+T-1834	iodine	iodine	health	health	intake can lead to poor thyroid	
+T-1834	thyroid	thyroid	perfluorochemicals	perfluorochemicals	function.alkylphenols, flame-retardant chemicals, and	
+T-1834	vegan	vegan	women	women		
+T-1834	seaweed	seaweed	processed meat	processed meat	of any type, and	
+T-1834	fish	fish	meat	meat	and	
+T-1834	meat	meat	risk	risk	consumption may be linked to an increase	
+T-1834	vegetables	vegetables	thyroid	thyroid	are considered good iodine sources important for healthy	
+T-1834	kelp	kelp	sea vegetables	sea vegetables	and hiziki,	
+T-1834	lead	lead	thyroid	thyroid	to poor	
+T-1834	iodine	iodine	risk	risk	solutions increases the	
+T-1834	gargling	gargling	thyroid	thyroid	with iodine solutions increases the risk of	
+T-1834	thyroid	thyroid	flame-retardant chemicals	flame-retardant chemicals	function.alkylphenols,	
+T-1834	iodine	iodine	thyroid	thyroid	solutions increases the risk of	
+T-1834	iodine	iodine	thyroid	thyroid	intake can lead to poor	
+T-1834	poultry	poultry	thyroid	thyroid	workers often have	
+T-1834	risk	risk	thyroid	thyroid	of	
+T-1834	industrial pollutants	industrial pollutants	fish	fish	found mostly in	
+T-1834	pollutants	pollutants	meat	meat	found mostly in fish and	
+T-1834	risk	risk	thyroid cancer	thyroid cancer	of	
+T-1834	sea vegetables	sea vegetables	thyroid	thyroid	are considered good iodine sources important for healthy	
+T-1834	kelp	kelp	vegetables	vegetables	and hiziki, sea	
+T-1834	thyroid	thyroid	pollutants	pollutants	function.alkylphenols, flame-retardant chemicals, and perfluorochemicals, industrial	
+T-1834	thyroid	thyroid	cancer	cancer		
+T-1834	thyroid	thyroid	chemicals	chemicals	function.alkylphenols, flame-retardant	
+T-1834	iodine	iodine	thyroid	thyroid	sources important for healthy	
+T-1834	antibodies	antibodies	thyroid	thyroid	in meat may result in autoimmune conditions, including	
+T-1834	processed meat	processed meat	risk	risk	consumption may be linked to an increase	
+T-1834	industrial pollutants	industrial pollutants	meat	meat	found mostly in fish and	
+T-1834	iodine	iodine	chemicals	chemicals	sources important for healthy thyroid function.alkylphenols, flame-retardant	
+T-1834	poultry workers	poultry workers	thyroid	thyroid	often have	
+T-1834	pollutants	pollutants	fish	fish	found mostly in	
+T-1834	thyroid	thyroid	industrial pollutants	industrial pollutants	function.alkylphenols, flame-retardant chemicals, and perfluorochemicals,	
+T-1834	viruses	viruses	chickens	chickens	present in	
+T-1834	alpha-gal	alpha-gal	antibodies	antibodies		
+T-1834	lead	lead	thyroid health	thyroid health	to poor	
+T-1834	gargling	gargling	iodine	iodine	with	
+T-1834	kelp	kelp	iodine	iodine	and hiziki, sea vegetables are considered good	
+T-1834	fish	fish	thyroid	thyroid	and meat, may be associated with	
+T-1834	lead	lead	health	health	to poor thyroid	
+T-1834	thyroid	thyroid	health	health		
+T-1834	gargling	gargling	risk	risk	with iodine solutions increases the	
+T-1834	iodine	iodine	lead	lead	intake can	
+T-1834	sea vegetables	sea vegetables	iodine	iodine	are considered good	
+T-1834	alpha-gal	alpha-gal	meat	meat	antibodies in	
+T-1834	iodine	iodine	thyroid health	thyroid health	intake can lead to poor	
+T-1834	seaweed	seaweed	meat	meat	of any type, and processed	
+T-1834	risk	risk	cancer	cancer	of thyroid	

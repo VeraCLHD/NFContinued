@@ -1,0 +1,26 @@
+
+V-128	colon	colon	diabetes	diabetes	cancer, and obesity, and type 2	
+V-128	apes	apes	diet	diet	appear to eat like a 98% plant-based	
+V-128	plant-based	plant-based	diet	diet		
+V-128	vegetarian	vegetarian	fat	fat	diet, better than a low-saturated	
+V-128	vegetables	vegetables	fruits	fruits	), and	
+V-128	vegetarian	vegetarian	greens	greens	diets with high	
+V-128	calories	calories	plant foods	plant foods	of whole	
+V-128	diet	diet	plant-based	plant-based	is generally agreed to have been a high-fiber,	
+V-128	vegetables	vegetables	seeds	seeds	), and fruits,	
+V-128	vegetarian	vegetarian	diet	diet		
+V-128	dietary intervention	dietary intervention	diet	diet	—better than a starch-based vegetarian	
+V-128	dietary intervention	dietary intervention	vegetarian	vegetarian	—better than a starch-based	
+V-128	colon	colon	cancer	cancer		
+V-128	diet	diet	apes	apes	of bonobos, one of the less known great	
+V-128	vegetarian	vegetarian	fruit	fruit	diets with high greens and	
+V-128	diet	diet	fiber	fiber	very high in	
+V-128	diet	diet	plant-based diet	plant-based diet	is generally agreed to have been a high-fiber,	
+V-128	apes	apes	plant-based	plant-based	appear to eat like a 98%	
+V-128	fat	fat	vegetarian	vegetarian	american heart association-type	
+V-128	ldl	ldl	cholesterol	cholesterol		
+V-128	fat	fat	diet	diet	american heart association-type vegetarian	
+V-128	colon	colon	obesity	obesity	cancer, and	
+V-128	apes	apes	plant-based diet	plant-based diet	appear to eat like a 98%	
+V-128	fiber	fiber	diet	diet		
+V-128	greens	greens	fruit	fruit	and	

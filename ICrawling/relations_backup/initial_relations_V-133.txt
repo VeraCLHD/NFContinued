@@ -1,0 +1,8 @@
+
+V-133	lead	lead	death	death	to a faster	
+V-133	risk	risk	heart disease	heart disease	factor for	
+V-133	athletes	athletes	lifespan	lifespan	have, 60 beats per minute, could theoretically increase	
+V-133	risk	risk	disease	disease	factor for heart	
+V-133	risk	risk	heart failure	heart failure	factor for heart disease and	
+V-133	heart disease	heart disease	heart failure	heart failure	and	
+V-133	disease	disease	heart failure	heart failure	and	

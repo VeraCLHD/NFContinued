@@ -1,0 +1,63 @@
+
+V-339	disease	disease	cancer	cancer	and	
+V-339	blood pressure	blood pressure	pills	pills		
+V-339	pills	pills	diet	diet	and don’t improve their	
+V-339	flax seeds	flax seeds	blood pressure	blood pressure	every day dropped their systolic	
+V-339	cancer	cancer	disease	disease	and cardiovascular	
+V-339	flax	flax	seeds	seeds		
+V-339	diet	diet	drugs	drugs	at all, despite the	
+V-339	stroke	stroke	disease	disease	risk 46%, heart	
+V-339	meat	meat	antioxidant	antioxidant	to reach those health-oriented consumers by boosting	
+V-339	blood pressure	blood pressure	flax	flax	demonstrated by dietary	
+V-339	seeds	seeds	blood pressure	blood pressure	every day dropped their systolic	
+V-339	flax seeds	flax seeds	risk	risk	can cut	
+V-339	fat	fat	sugar	sugar	intake and maybe eat less	
+V-339	blood pressure	blood pressure	seeds	seeds	demonstrated by dietary flax	
+V-339	flax	flax	flax seeds	flax seeds	seeds ourselves?	
+V-339	stroke	stroke	heart disease	heart disease	risk 46%,	
+V-339	seeds	seeds	blood	blood	every day dropped their systolic	
+V-339	health	health	heart disease	heart disease	” because of studies associating meat consumption with	
+V-339	pills	pills	placebo	placebo	: one’s active, one’s	
+V-339	plant-based	plant-based	salt	salt	diets or keep their	
+V-339	seeds	seeds	risk	risk	can cut	
+V-339	ground flax	ground flax	seeds	seeds		
+V-339	saturated fat	saturated fat	sugar	sugar	intake and maybe eat less	
+V-339	flax seeds	flax seeds	seeds	seeds	ourselves?flax	
+V-339	flax	flax	risk	risk	seeds can cut	
+V-339	heart disease	heart disease	cancer	cancer	and	
+V-339	flax	flax	blood pressure	blood pressure	seeds every day dropped their systolic	
+V-339	blood	blood	flax seeds	flax seeds	pressure demonstrated by dietary	
+V-339	ground flax	ground flax	blood pressure	blood pressure	seeds every day dropped their systolic	
+V-339	produce	produce	lard	lard	“enriched	
+V-339	flax	flax	pork	pork	seed-fed	
+V-339	blood	blood	pills	pills	pressure	
+V-339	flax	flax	burgers	burgers	seed-tomato	
+V-339	tomatoes	tomatoes	cancer	cancer	are healthy, associated with reduced risks of	
+V-339	blood	blood	flax	flax	pressure demonstrated by dietary	
+V-339	flax	flax	lard	lard	seed-fed pork idea, to produce “enriched	
+V-339	flax seeds	flax seeds	flax	flax	ourselves?	
+V-339	flax	flax	tomatoes	tomatoes	seeds and	
+V-339	health	health	meat	meat	” because of studies associating	
+V-339	blood pressure	blood pressure	diet	diet	pills and don’t improve their	
+V-339	flax	flax	fat	fat	seed-tomato burgers, they figure they can reduce saturated	
+V-339	stroke	stroke	risk	risk		
+V-339	risk	risk	disease	disease	46%, heart	
+V-339	blood pressure	blood pressure	flax seeds	flax seeds	demonstrated by dietary	
+V-339	flax seeds	flax seeds	tomatoes	tomatoes	and	
+V-339	seeds	seeds	flax	flax	ourselves?	
+V-339	ground flax	ground flax	blood	blood	seeds every day dropped their systolic	
+V-339	flax	flax	disease	disease	is great, but always better to prevent the	
+V-339	blood	blood	diet	diet	pressure pills and don’t improve their	
+V-339	seeds	seeds	tomatoes	tomatoes	and	
+V-339	flax	flax	produce	produce	seed-fed pork idea, to	
+V-339	pork	pork	produce	produce	idea, to	
+V-339	risk	risk	heart disease	heart disease	46%,	
+V-339	flax	flax	saturated fat	saturated fat	seed-tomato burgers, they figure they can reduce	
+V-339	blood	blood	seeds	seeds	pressure demonstrated by dietary flax	
+V-339	pork	pork	lard	lard	idea, to produce “enriched	
+V-339	seeds	seeds	flax seeds	flax seeds	ourselves?	
+V-339	plant-based diets	plant-based diets	salt	salt	or keep their	
+V-339	flax	flax	blood	blood	seeds every day dropped their systolic	
+V-339	flax seeds	flax seeds	blood	blood	every day dropped their systolic	
+V-339	drugs	drugs	pills	pills	it’s easy, you have two identical looking	
+V-339	cancer	cancer	cardiovascular disease	cardiovascular disease	and	

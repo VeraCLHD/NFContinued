@@ -1,0 +1,79 @@
+
+A-438	cancer	cancer	breast cancer survival	breast cancer survival	survival and trans fat;	
+A-438	flax	flax	flora	flora	and fecal	
+A-438	health	health	pregnancy	pregnancy	food store employees recommend supplements contraindicated in	
+A-438	garlic	garlic	medications	medications	that can critically interfere with certain hiv	
+A-438	health food	health food	cancer	cancer	stores asking for their recommendations on	
+A-438	raw	raw	cancer	cancer	broccoli and bladder	
+A-438	broccoli	broccoli	breast cancer survival	breast cancer survival	and bladder cancer survival;	
+A-438	liver	liver	health food store	health food store	toxicity, this did not seem to affect	
+A-438	broccoli	broccoli	breast cancer	breast cancer	and bladder cancer survival;	
+A-438	cancer survival	cancer survival	cancer	cancer	and trans fat; breast	
+A-438	bladder	bladder	chicken	chicken	cancer survival; breast cancer survival, butterfat, and	
+A-438	side effects	side effects	fever	fever	such as nausea,	
+A-438	raw	raw	breast cancer survival	breast cancer survival	broccoli and bladder cancer survival;	
+A-438	cancer survival	cancer survival	breast cancer survival	breast cancer survival	and trans fat;	
+A-438	breast cancer	breast cancer	health	health	patient went into 40	
+A-438	cancer	cancer	breast cancer survival	breast cancer survival	survival;	
+A-438	health	health	cancer	cancer	food stores asking for their recommendations on	
+A-438	breast cancer	breast cancer	chicken	chicken	survival, butterfat, and	
+A-438	bladder	bladder	cancer survival	cancer survival		
+A-438	cancer	cancer	cancer	cancer	survival; breast	
+A-438	flax	flax	fecal flora	fecal flora	and	
+A-438	women	women	herbs	herbs	were instead advised to take	
+A-438	broccoli	broccoli	bladder cancer	bladder cancer	and	
+A-438	cancer	cancer	chicken	chicken	survival; breast cancer survival, butterfat, and	
+A-438	side effects	side effects	dizziness	dizziness	such as nausea, fever,	
+A-438	breast cancer	breast cancer	trans fat	trans fat	survival, butterfat, and chicken; breast cancer survival and	
+A-438	cancer	cancer	health food	health food	patient went into 40	
+A-438	health	health	supplements	supplements	food store employees recommend	
+A-438	health food	health food	pregnancy	pregnancy	store employees recommend supplements contraindicated in	
+A-438	broccoli	broccoli	cancer	cancer	and bladder	
+A-438	bladder cancer	bladder cancer	breast cancer	breast cancer	survival;	
+A-438	fda	fda	health	health	and	
+A-438	side effects	side effects	nausea	nausea	such as	
+A-438	supplements	supplements	pregnancy	pregnancy	contraindicated in	
+A-438	cancer	cancer	health	health	patient went into 40	
+A-438	health food store	health food store	pregnancy	pregnancy	employees recommend supplements contraindicated in	
+A-438	breast cancer	breast cancer	health food stores	health food stores	patient went into 40	
+A-438	cancer	cancer	cancer survival	cancer survival	survival and trans fat; breast	
+A-438	bladder cancer	bladder cancer	cancer survival	cancer survival	survival; breast	
+A-438	raw	raw	broccoli	broccoli		
+A-438	cancer	cancer	cancer	cancer	survival and trans fat; breast	
+A-438	bladder cancer	bladder cancer	cancer	cancer	survival; breast	
+A-438	natural remedies	natural remedies	nausea	nausea	for	
+A-438	natural remedies	natural remedies	ginger	ginger	for nausea like	
+A-438	raw	raw	bladder cancer	bladder cancer	broccoli and	
+A-438	breast cancer	breast cancer	breast cancer survival	breast cancer survival	survival, butterfat, and chicken;	
+A-438	breast cancer	breast cancer	cancer	cancer	survival, butterfat, and chicken; breast	
+A-438	bladder cancer	bladder cancer	chicken	chicken	survival; breast cancer survival, butterfat, and	
+A-438	raw	raw	breast cancer	breast cancer	broccoli and bladder cancer survival;	
+A-438	cancer survival	cancer survival	breast cancer	breast cancer	and trans fat;	
+A-438	liver	liver	health food	health food	toxicity, this did not seem to affect	
+A-438	pharmacists	pharmacists	health	health	versus	
+A-438	bladder cancer	bladder cancer	breast cancer survival	breast cancer survival	survival;	
+A-438	natural remedies	natural remedies	women	women	for nausea like ginger, yet the	
+A-438	health	health	canada	canada		
+A-438	health food	health food	supplements	supplements	store employees recommend	
+A-438	nausea	nausea	women	women	like ginger, yet the	
+A-438	cancer	cancer	breast cancer	breast cancer	survival;	
+A-438	breast cancer	breast cancer	cancer survival	cancer survival	survival, butterfat, and chicken; breast	
+A-438	pharmacists	pharmacists	health food store	health food store	versus	
+A-438	raw	raw	cancer survival	cancer survival	broccoli and bladder	
+A-438	bladder	bladder	cancer	cancer		
+A-438	cancer	cancer	cancer survival	cancer survival	survival; breast	
+A-438	breast cancer	breast cancer	health food	health food	patient went into 40	
+A-438	broccoli	broccoli	bladder	bladder	and	
+A-438	health food store	health food store	supplements	supplements	employees recommend	
+A-438	nausea	nausea	ginger	ginger	like	
+A-438	liver	liver	health	health	toxicity, this did not seem to affect	
+A-438	book	book	medical education	medical education	on	
+A-438	raw	raw	bladder	bladder	broccoli and	
+A-438	cancer	cancer	health food stores	health food stores	patient went into 40	
+A-438	bladder	bladder	breast cancer	breast cancer	cancer survival;	
+A-438	health food stores	health food stores	cancer	cancer	asking for their recommendations on	
+A-438	cancer	cancer	breast cancer	breast cancer	survival and trans fat;	
+A-438	bladder	bladder	breast cancer survival	breast cancer survival	cancer survival;	
+A-438	pharmacists	pharmacists	health food	health food	versus	
+A-438	broccoli	broccoli	cancer survival	cancer survival	and bladder	
+A-438	fda	fda	canada	canada	and health	

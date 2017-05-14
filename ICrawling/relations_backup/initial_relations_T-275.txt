@@ -1,0 +1,57 @@
+
+T-275	broccoli	broccoli	kale	kale	and	
+T-275	vegans	vegans	calcium	calcium	not getting enough	
+T-275	processed foods	processed foods	cooking	cooking	and produced by some forms of	
+T-275	calcium	calcium	risk	risk	may be at higher	
+T-275	galactose	galactose	milk	milk	in	
+T-275	risk	risk	bone fractures	bone fractures	of death and	
+T-275	protein	protein	calcium	calcium	has to be buffered by	
+T-275	coffee	coffee	lead	lead	consumption may	
+T-275	fiber	fiber	whole grains	whole grains	and high-phytate foods such as	
+T-275	turmeric	turmeric	rheumatoid arthritis	rheumatoid arthritis	) may alleviate the pain associated with	
+T-275	testosterone	testosterone	lead	lead	may also	
+T-275	turmeric	turmeric	pain	pain	) may alleviate the	
+T-275	plant-based	plant-based	broccoli	broccoli	sources of calcium, such as	
+T-275	risk	risk	calcium	calcium	in women, but a lower risk in men.while	
+T-275	risk	risk	death	death	of hip fractures, cancer, and premature	
+T-275	rheumatoid arthritis	rheumatoid arthritis	drugs	drugs	without the side effects associated with	
+T-275	pain	pain	arthritis	arthritis	associated with rheumatoid	
+T-275	calcium	calcium	soy milk	soy milk	absorption from	
+T-275	lead	lead	risk	risk	to a slight increase in bone fracture	
+T-275	risk	risk	osteoporosis	osteoporosis	of	
+T-275	calcium	calcium	bone health	bone health	is important for	
+T-275	arthritis	arthritis	drugs	drugs	without the side effects associated with	
+T-275	calcium	calcium	vegans	vegans	intake, long-term	
+T-275	risk	risk	bone fractures	bone fractures	of	
+T-275	fiber	fiber	beans	beans	and high-phytate foods such as whole grains,	
+T-275	plant-based	plant-based	calcium	calcium	sources of	
+T-275	risk	risk	women	women	in	
+T-275	vegans	vegans	risk	risk	not getting enough calcium may be at higher	
+T-275	turmeric	turmeric	arthritis	arthritis	) may alleviate the pain associated with rheumatoid	
+T-275	rheumatoid arthritis	rheumatoid arthritis	side effects	side effects	without the	
+T-275	risk	risk	death	death	of	
+T-275	soy	soy	milk	milk		
+T-275	pain	pain	side effects	side effects	associated with rheumatoid arthritis without the	
+T-275	calcium	calcium	milk	milk	absorption from soy	
+T-275	soy milk	soy milk	milk	milk	was found to be the same as cow’s	
+T-275	calcium	calcium	soy	soy	absorption from	
+T-275	aging	aging	osteoporosis	osteoporosis	process and increase risk of	
+T-275	arthritis	arthritis	side effects	side effects	without the	
+T-275	calcium	calcium	health	health	is important for bone	
+T-275	calcium	calcium	bone fractures	bone fractures	may be at higher risk of	
+T-275	fiber	fiber	grains	grains	and high-phytate foods such as whole	
+T-275	risk	risk	cancer	cancer	of hip fractures,	
+T-275	vegans	vegans	bone mineral density	bone mineral density	were found to have the same	
+T-275	aging	aging	risk	risk	process and increase	
+T-275	animal protein	animal protein	calcium	calcium	has to be buffered by	
+T-275	calcium	calcium	fiber	fiber	is important for bone health,	
+T-275	milk	milk	risk	risk	consumption has been found to increase the	
+T-275	curcumin	curcumin	turmeric	turmeric	(found in	
+T-275	side effects	side effects	drugs	drugs	associated with	
+T-275	vitamin d	vitamin d	health	health	is important for bone	
+T-275	risk	risk	plant-based	plant-based	of bone fractures, making the consumption of	
+T-275	plant-based	plant-based	kale	kale	sources of calcium, such as broccoli and	
+T-275	vitamin d	vitamin d	bone health	bone health	is important for	
+T-275	pain	pain	rheumatoid arthritis	rheumatoid arthritis	associated with	
+T-275	curcumin	curcumin	pain	pain	(found in turmeric) may alleviate the	
+T-275	death	death	bone fractures	bone fractures	and	

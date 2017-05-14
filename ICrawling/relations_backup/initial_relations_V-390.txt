@@ -1,0 +1,36 @@
+
+V-390	diet	diet	whole grains	whole grains	high in fruits, vegetables,	
+V-390	dementia	dementia	meditation	meditation	randomized to just 12 minutes of daily	
+V-390	plant-based	plant-based	grains	grains	diet high in fruits, vegetables, whole	
+V-390	stress	stress	heart disease	heart disease	management, and support could not only reverse	
+V-390	plant-based diet	plant-based diet	beans	beans	high in fruits, vegetables, whole grains,	
+V-390	telomeres	telomeres	meditation	meditation	back?well if you go off to on a	
+V-390	plant-based	plant-based	whole grains	whole grains	diet high in fruits, vegetables,	
+V-390	dean ornish	dean ornish	whole foods	whole foods	’s landmark study showing that a low-fat,	
+V-390	plant-based	plant-based	diet	diet		
+V-390	diet	diet	beans	beans	high in fruits, vegetables, whole grains,	
+V-390	telomeres	telomeres	aging	aging	which appear to slow the	
+V-390	cancer	cancer	diet	diet	and age-related diseases, but was it the	
+V-390	stress	stress	dna	dna	… causes the	
+V-390	plant-based diet	plant-based diet	grains	grains	high in fruits, vegetables, whole	
+V-390	plant-based	plant-based	beans	beans	diet high in fruits, vegetables, whole grains,	
+V-390	prostate	prostate	cancer	cancer		
+V-390	plant-based diet	plant-based diet	whole grains	whole grains	high in fruits, vegetables,	
+V-390	plant-based	plant-based	fruits	fruits	diet high in	
+V-390	plant-based diet	plant-based diet	fruits	fruits	high in	
+V-390	stress	stress	disease	disease	management, and support could not only reverse heart	
+V-390	diet	diet	fruits	fruits	high in	
+V-390	diet	diet	vegetables	vegetables	high in fruits,	
+V-390	mothers	mothers	children	children	of chronically ill	
+V-390	children	children	telomeres	telomeres	may grow up with shorter	
+V-390	arteries	arteries	drugs	drugs	without	
+V-390	drugs	drugs	surgery	surgery	and	
+V-390	plant-based diet	plant-based diet	vegetables	vegetables	high in fruits,	
+V-390	ornish	ornish	whole foods	whole foods	’s landmark study showing that a low-fat,	
+V-390	arteries	arteries	surgery	surgery	without drugs and	
+V-390	plant-based	plant-based	vegetables	vegetables	diet high in fruits,	
+V-390	shortening	shortening	mothers	mothers	in the most stressed	
+V-390	diet	diet	grains	grains	high in fruits, vegetables, whole	
+V-390	stress	stress	telomeres	telomeres	can we grow some of	
+V-390	telomerase	telomerase	aging	aging	activity suggesting improvement in stress-induced cellular	
+V-390	diet	diet	exercise	exercise	and	

@@ -1,0 +1,5 @@
+
+V-1242	lentils	lentils	chickpeas	chickpeas	#2;	
+V-1242	kidney	kidney	split peas	split peas	beans, and yellow	
+V-1242	kidney	kidney	peas	peas	beans, and yellow split	
+V-1242	kidney	kidney	beans	beans		

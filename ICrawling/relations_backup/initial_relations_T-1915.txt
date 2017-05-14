@@ -1,0 +1,110 @@
+
+T-1915	cholesterol	cholesterol	diet	diet	(especially with a whole foods vegan	
+T-1915	whole foods	whole foods	arthritis	arthritis	vegan diet; see also here), gallstones, rheumatoid	
+T-1915	sperm count	sperm count	mortality	mortality	); total	
+T-1915	blood	blood	vegan	vegan	cancers, cholesterol (especially with a whole foods	
+T-1915	heart disease	heart disease	cancer	cancer	(see also here), heart attacks,	
+T-1915	mortality	mortality	cardiovascular disease	cardiovascular disease	(including cancer and	
+T-1915	meat	meat	supplements	supplements	or	
+T-1915	chronic diseases	chronic diseases	disease	disease	(see also here), abdominal aortic aneurysms, heart	
+T-1915	sperm count	sperm count	cardiovascular disease	cardiovascular disease	); total mortality (including cancer and	
+T-1915	vegetarians	vegetarians	creatine	creatine	appear to have higher levels of the following:	
+T-1915	mortality	mortality	disease	disease	(including cancer and cardiovascular	
+T-1915	cancer	cancer	disease	disease	and cardiovascular	
+T-1915	disease	disease	dna	dna	mortality);	
+T-1915	sperm count	sperm count	disease	disease	); total mortality (including cancer and cardiovascular	
+T-1915	cardiovascular disease	cardiovascular disease	mortality	mortality		
+T-1915	prostate	prostate	cancer	cancer		
+T-1915	vegetarian	vegetarian	diet	diet		
+T-1915	blood	blood	cholesterol	cholesterol	cancers,	
+T-1915	vegan	vegan	prostate cancer	prostate cancer	diet; see also here), gallstones, rheumatoid arthritis,	
+T-1915	obesity	obesity	liver	liver	(see also here, here), alzheimer’s disease,	
+T-1915	cardiovascular disease	cardiovascular disease	dna damage	dna damage	mortality);	
+T-1915	vegan	vegan	arthritis	arthritis	diet; see also here), gallstones, rheumatoid	
+T-1915	xenoestrogens	xenoestrogens	cancer	cancer	(which lower male sperm count); total mortality (including	
+T-1915	depression	depression	anxiety	anxiety	and	
+T-1915	doctors	doctors	nutrition	nutrition	stateside, unfortunately, are often not taught enough about	
+T-1915	vegan	vegan	prostate	prostate	diet; see also here), gallstones, rheumatoid arthritis,	
+T-1915	vegetarian	vegetarian	supplements	supplements	sources of vitamin b-12 include	
+T-1915	heart disease	heart disease	heart attacks	heart attacks	(see also here),	
+T-1915	telomerase	telomerase	aging	aging	activity that may also slow	
+T-1915	arachidonic acid	arachidonic acid	chicken	chicken	found in animal products (predominantly in	
+T-1915	disease	disease	dna damage	dna damage	mortality);	
+T-1915	animal products	animal products	chicken	chicken	(predominantly in	
+T-1915	mortality	mortality	dna	dna	(including cancer and cardiovascular disease mortality);	
+T-1915	vitamin d supplements	vitamin d supplements	supplements	supplements	may be useful, but vitamin b-12	
+T-1915	body odor	body odor	bowel movements	bowel movements	attractiveness, higher iqs, larger, better-formed, and more frequent	
+T-1915	toxins	toxins	mercury	mercury	(see also here, here) such as flame retardants,	
+T-1915	whole foods	whole foods	rheumatoid arthritis	rheumatoid arthritis	vegan diet; see also here), gallstones,	
+T-1915	cholesterol	cholesterol	whole foods	whole foods	(especially with a	
+T-1915	cholesterol	cholesterol	vegan	vegan	(especially with a whole foods	
+T-1915	meat	meat	dietary guidelines	dietary guidelines	eating in formulating its	
+T-1915	cancer	cancer	mortality	mortality	and cardiovascular disease	
+T-1915	vegan	vegan	gallstones	gallstones	diet; see also here),	
+T-1915	liver	liver	cholesterol	cholesterol	failure, blood cancers,	
+T-1915	vegan	vegan	rheumatoid arthritis	rheumatoid arthritis	diet; see also here), gallstones,	
+T-1915	chronic diseases	chronic diseases	heart disease	heart disease	(see also here), abdominal aortic aneurysms,	
+T-1915	diet	diet	iodine	iodine	has enough	
+T-1915	liver	liver	whole foods	whole foods	failure, blood cancers, cholesterol (especially with a	
+T-1915	cancer	cancer	dna	dna	and cardiovascular disease mortality);	
+T-1915	vegetarians	vegetarians	toxins	toxins	may have lower levels of the following: industrial	
+T-1915	xenoestrogens	xenoestrogens	sperm count	sperm count	(which lower male	
+T-1915	mortality	mortality	cancer	cancer	(including	
+T-1915	aspirin	aspirin	body odor	body odor	levels in the bloodstream, a higher metabolism, greater	
+T-1915	xenoestrogens	xenoestrogens	mortality	mortality	(which lower male sperm count); total	
+T-1915	nutrition	nutrition	diet	diet	to properly advise their patients on a healthy	
+T-1915	disease	disease	mortality	mortality		
+T-1915	prostate	prostate	arthritis	arthritis	cancer, and	
+T-1915	arachidonic acid	arachidonic acid	eggs	eggs	found in animal products (predominantly in chicken and	
+T-1915	protein	protein	aspirin	aspirin	levels,	
+T-1915	vegan	vegan	diet	diet		
+T-1915	blood	blood	diet	diet	cancers, cholesterol (especially with a whole foods vegan	
+T-1915	risk	risk	cataracts	cataracts	of the following:	
+T-1915	chicken	chicken	eggs	eggs	and	
+T-1915	whole foods	whole foods	gallstones	gallstones	vegan diet; see also here),	
+T-1915	risk	risk	allergies	allergies	of the following: cataracts, age related macular degeneration,	
+T-1915	cancer	cancer	dna damage	dna damage	and cardiovascular disease mortality);	
+T-1915	vegans	vegans	b12	b12	just to double check adequate	
+T-1915	diet	diet	risk	risk	may help reduce the	
+T-1915	whole foods	whole foods	vegan	vegan		
+T-1915	pregnant	pregnant	vegans	vegans	vegetarians and	
+T-1915	disease	disease	cancer	cancer	(see also here), heart attacks,	
+T-1915	aspirin	aspirin	metabolism	metabolism	levels in the bloodstream, a higher	
+T-1915	arachidonic acid	arachidonic acid	animal products	animal products	found in	
+T-1915	protein	protein	metabolism	metabolism	levels, aspirin levels in the bloodstream, a higher	
+T-1915	health	health	diet	diet	agency, and the daily	
+T-1915	vegetarians	vegetarians	depression	depression	seem to also generally experience better moods (less	
+T-1915	pregnant	pregnant	b12	b12	vegetarians and vegans just to double check adequate	
+T-1915	allergies	allergies	chronic diseases	chronic diseases	and	
+T-1915	vegetarians	vegetarians	vegans	vegans	and	
+T-1915	mortality	mortality	dna damage	dna damage	(including cancer and cardiovascular disease mortality);	
+T-1915	liver	liver	blood	blood	failure,	
+T-1915	cardiovascular disease	cardiovascular disease	dna	dna	mortality);	
+T-1915	telomerase	telomerase	protein	protein	activity that may also slow aging, plasma	
+T-1915	cancer	cancer	diabetes	diabetes	(see also here, here, here), lymphoma,	
+T-1915	zinc	zinc	omnivores	omnivores	) whereas	
+T-1915	pregnant	pregnant	vegetarians	vegetarians		
+T-1915	vegetarian	vegetarian	risk	risk	diet may help reduce the	
+T-1915	obesity	obesity	disease	disease	(see also here, here), alzheimer’s	
+T-1915	vegetarians	vegetarians	industrial toxins	industrial toxins	may have lower levels of the following:	
+T-1915	obesity	obesity	liver failure	liver failure	(see also here, here), alzheimer’s disease,	
+T-1915	sperm count	sperm count	cancer	cancer	); total mortality (including	
+T-1915	diet	diet	cataracts	cataracts	may help reduce the risk of the following:	
+T-1915	cancer	cancer	lymphoma	lymphoma	(see also here, here, here),	
+T-1915	vegetarians	vegetarians	b12	b12	and vegans just to double check adequate	
+T-1915	vegan	vegan	cancer	cancer	diet; see also here), gallstones, rheumatoid arthritis, prostate	
+T-1915	industrial toxins	industrial toxins	mercury	mercury	(see also here, here) such as flame retardants,	
+T-1915	vitamin d	vitamin d	supplements	supplements		
+T-1915	disease	disease	heart attacks	heart attacks	(see also here),	
+T-1915	salt	salt	seaweed	seaweed	or	
+T-1915	risk	risk	macular degeneration	macular degeneration	of the following: cataracts, age related	
+T-1915	dietary guidelines	dietary guidelines	health	health	are formulated by a	
+T-1915	whole foods	whole foods	prostate	prostate	vegan diet; see also here), gallstones, rheumatoid arthritis,	
+T-1915	animal products	animal products	eggs	eggs	(predominantly in chicken and	
+T-1915	whole foods	whole foods	diet	diet	vegan	
+T-1915	whole foods	whole foods	prostate cancer	prostate cancer	vegan diet; see also here), gallstones, rheumatoid arthritis,	
+T-1915	diabetes	diabetes	obesity	obesity	(see also here, here),	
+T-1915	obesity	obesity	blood	blood	(see also here, here), alzheimer’s disease, liver failure,	
+T-1915	blood	blood	whole foods	whole foods	cancers, cholesterol (especially with a	
+T-1915	diet	diet	vegetarian	vegetarian	recommendation is for a	
+T-1915	cancer	cancer	cardiovascular disease	cardiovascular disease	and	

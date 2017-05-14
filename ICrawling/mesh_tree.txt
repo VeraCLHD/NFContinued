@@ -1,0 +1,670 @@
+
+brassica rapa	brassica napus
+central nervous system helminthiasis	central nervous system parasitic infections
+eukaryota	organisms category
+portography	phlebography
+bone diseases	musculoskeletal diseases
+clinical laboratory techniques	diagnostic techniques and procedures
+brain diseases, metabolic	brain diseases
+hydrocarbons, acyclic	hydrocarbons
+blood protein disorders	hematologic diseases
+rosaceae	rosales
+tissue polypeptide antigen	tissue kallikreins
+iodophors	iodine compounds
+hiccup	signs and symptoms, digestive
+physiological effects of drugs	pharmacologic actions
+mind-body therapies	complementary therapies
+brain abscess	abdominal abscess
+diagnostic techniques, digestive system	diagnostic techniques and procedures
+diet, food, and nutrition	physiological phenomena
+dose-response relationship, drug	pharmacological phenomena
+gram-positive bacterial infections	bacterial infections
+diabetic nephropathies	kidney diseases
+beer	alcoholic beverages
+carbohydrates	chemicals and drugs category
+tissue preservation	histocytological preparation techniques
+inorganic chemicals	chemicals and drugs category
+esophageal diseases	gastrointestinal diseases
+aortography	angiography, digital subtraction
+social behavior	behavior
+thyroiditis, suppurative	pyomyositis
+phyllanthus emblica	phyllanthus
+milk	beverages
+helminthiasis	parasitic diseases
+amphetamines	phenethylamines
+persons	persons category
+complex mixtures	chemicals and drugs category
+mollusca	invertebrates
+coriandrum	apiaceae
+adult	age groups
+genetic markers	fibrinopeptide a
+aspalathus	fabaceae
+surgical procedures, operative	analytical, diagnostic and therapeutic techniques and equipment category
+brassinosteroids	phytosterols
+diazepam	nordazepam
+signs and symptoms	pathological conditions, signs and symptoms
+1-naphthylamine	amines
+affect	emotions
+skin manifestations	signs and symptoms
+bacterial infections and mycoses	diseases category
+appendicitis	intraabdominal infections
+endoscopy, gastrointestinal	endoscopy, digestive system
+lyases	enzymes
+angioedemas, hereditary	angioedema
+humanities	humanities category
+dietary supplements	food
+blueberry plants	vaccinium
+behavior	behavior and behavior mechanisms
+povidone-iodine	iodophors
+urologic diseases	male urogenital diseases
+seafood	shellfish
+amidines	organic chemicals
+hypochlorous acid	hydroxyl radical
+human activities	anthropology, education, sociology and social phenomena category
+staphylococcal infections	gram-positive bacterial infections
+metformin	sitagliptin phosphate, metformin hydrochloride drug combination
+cytological techniques	clinical laboratory techniques
+propylamines	amines
+attention deficit disorder with hyperactivity	attention deficit and disruptive behavior disorders
+polycyclic aromatic hydrocarbons	hydrocarbons, aromatic
+kelp	aquatic organisms
+buddhism	religion
+food	diet, food, and nutrition
+postoperative nausea and vomiting	hyperemesis gravidarum
+neurosurgical procedures	surgical procedures, operative
+antigens, differentiation, b-lymphocyte	antigens, cd
+neprilysin	nephroblastoma overexpressed protein
+chlorpromazine	phenothiazines
+esophageal motility disorders	deglutition disorders
+africa south of the sahara	africa
+carya	juglandaceae
+neuromuscular manifestations	neurologic manifestations
+united states government agencies	government agencies
+gastrointestinal diseases	digestive system diseases
+therapeutics	analytical, diagnostic and therapeutic techniques and equipment category
+organotin compounds	trimethyltin compounds
+oligopeptides	peptides
+pyrroles	azoles
+artemisia annua	artemisia absinthium
+behavioral symptoms	behavior
+musculoskeletal diseases	diseases category
+thinness	body weight
+oligoclonal bands	genetic markers
+pecten	bivalvia
+asparagaceae	asparagales
+body regions	anatomy category
+livestock	animals, domestic
+dexmethylphenidate hydrochloride	phenylacetates
+postmenopause	menopause
+sulfur compounds	organic chemicals
+keratomileusis, laser in situ	corneal surgery, laser
+oral medicine	dentistry
+psyllium	plant extracts
+hydrocarbons	organic chemicals
+aspartame	dipeptides
+food handling	food industry
+biochemical phenomena	chemical phenomena
+central nervous system parasitic infections	parasitic diseases
+cesarean section, repeat	delivery, obstetric
+biguanides	guanidines
+delivery, obstetric	obstetric surgical procedures
+proliferating cell nuclear antigen	normetanephrine
+colectomy	proctocolectomy, restorative
+fibrinopeptide a	chorionic gonadotropin, beta subunit, human
+gonadal hormones	hormones
+plant extracts	plant preparations
+feeding behavior	behavior
+brassicaceae	angiosperms
+scandinavian and nordic countries	europe
+malaysia	asia, southeastern
+biological products	complex mixtures
+cucumis melo	cucumis
+caliciviridae	rna viruses
+judaism	religion
+antigens, cd30	alpha-fetoproteins
+happiness	emotions
+reactive oxygen species	singlet oxygen
+secernentea infections	nematode infections
+pharmacokinetics	metabolism
+cellulite	skin manifestations
+african continental ancestry group	continental population groups
+africa, eastern	africa south of the sahara
+organic chemicals	chemicals and drugs category
+asparagales	angiosperms
+bariatric surgery	bariatrics
+fatty acids	lipids
+animal population groups	animals
+ezetimibe, simvastatin drug combination	simvastatin
+trimethyltin compounds	triethyltin compounds
+asia	geographic locations
+acarbose	trisaccharides
+flounder	flatfishes
+punicaceae	angiosperms
+reproductive physiological phenomena	reproductive and urinary physiological phenomena
+heartburn	signs and symptoms, digestive
+elettaria	zingiberaceae
+electromagnetic radiation	electromagnetic phenomena
+cineangiography	cerebral angiography
+angiosperms	embryophyta
+citrus paradisi	citrus
+acids, carbocyclic	carboxylic acids
+endocannabinoids	fatty acids
+stigmasterol	sitosterols
+freeze substitution	cryopreservation
+hydrocarbons, cyclic	hydrocarbons
+reproduction	reproductive physiological phenomena
+taraxacum	asteraceae
+prostate-specific antigen	proliferating cell nuclear antigen
+rutaceae	angiosperms
+foodborne diseases	poisoning
+lipids	chemicals and drugs category
+naphthalenes	polycyclic aromatic hydrocarbons
+microscopy, video	audiovisual aids
+amines	organic chemicals
+physical phenomena	phenomena and processes category
+portulaca	portulacaceae
+histocytological preparation techniques	cytological techniques
+soy foods	soybean proteins
+fishes	vertebrates
+avena	poaceae
+organomercury compounds	organometallic compounds
+attention deficit and disruptive behavior disorders	neurodevelopmental disorders
+neurobehavioral manifestations	neurologic manifestations
+halitosis	signs and symptoms, digestive
+videodisc recording	microscopy, video
+americas	geographic locations
+staphylococcal skin infections	staphylococcal infections
+artiodactyla	mammals
+neurocysticercosis	central nervous system helminthiasis
+antibodies, antineutrophil cytoplasmic	biological factors
+animals	eukaryota
+sertraline	1-naphthylamine
+constipation	signs and symptoms, digestive
+synaptophysin	receptor, erbb-4
+biological availability	pharmacokinetics
+beverages	diet, food, and nutrition
+africa	geographic locations
+periodontal abscess	periapical abscess
+sitagliptin phosphate, metformin hydrochloride drug combination	biguanides
+cucumis	cucurbitaceae
+alkenes	hydrocarbons, acyclic
+sildenafil citrate	sulfonamides
+hematologic diseases	hemic and lymphatic diseases
+garcinia mangostana	garcinia
+phlebography	coronary angiography
+united states department of agriculture	united states government agencies
+hydroponics	agriculture
+endoscopy, digestive system	diagnostic techniques, digestive system
+irritable mood	affect
+vasoplegia	vascular diseases
+pectinidae	pecten
+hydro-lyases	carbon-oxygen lyases
+hypergammaglobulinemia	blood protein disorders
+portulacaceae	angiosperms
+skin and connective tissue diseases	diseases category
+medicine, traditional	complementary therapies
+streptophyta	viridiplantae
+alcoholic beverages	beverages
+abscess	infection
+hormones, hormone substitutes, and hormone antagonists	chemicals and drugs category
+empyema	cellulitis
+angioedema	skin diseases, vascular
+government	social sciences
+sulfones	sulfur compounds
+food industry	industry
+lamiales	angiosperms
+vegetable products	vegetables
+walk test	heart function tests
+finland	scandinavian and nordic countries
+extraintestinal pathogenic escherichia coli	uropathogenic escherichia coli
+phaeophyta	stramenopiles
+estradiol congeners	gonadal steroid hormones
+mastectomy, segmental	mastectomy
+gram-negative bacteria	bacteria
+asia, southeastern	asia
+investigative techniques	analytical, diagnostic and therapeutic techniques and equipment category
+heterocyclic compounds, fused-ring	heterocyclic compounds
+television	videotape recording
+european continental ancestry group	continental population groups
+rubiaceae	gentianales
+angiocardiography	radiography
+radiography	diagnostic imaging
+cultured milk products	dairy products
+digestive system diseases	diseases category
+gnathostomiasis	spirurida infections
+agave	asparagaceae
+meditation	mind-body therapies
+hemorrhoids	rectal diseases
+abdominal abscess	abscess
+empyema, pleural	empyema
+intestinal diseases	gastrointestinal diseases
+stage-specific embryonic antigens	antigens, ly
+guanidines	amidines
+thymus plant	lamiaceae
+sigmoidoscopy	colonoscopy
+bacteria	organisms category
+spirulina	cyanobacteria
+integumentary system physiological phenomena	phenomena and processes category
+rectal diseases	intestinal diseases
+respiratory therapy	therapeutics
+theales	angiosperms
+antigens, differentiation	antibodies, antineutrophil cytoplasmic
+fish flour	fish products
+sitosterols	ecdysteroids
+hemic and lymphatic diseases	diseases category
+program evaluation	evaluation studies as topic
+gastroesophageal reflux	respiratory aspiration of gastric contents
+north america	americas
+anilides	amides
+scurvy	hemostatic disorders
+polyenes	alkenes
+skin aging	skin physiological phenomena
+monoclonal gammopathy of undetermined significance	hypergammaglobulinemia
+antigens, differentiation, myelomonocytic	antigens, differentiation, b-lymphocyte
+audiovisual aids	educational technology
+geographic locations	geographical locations category
+free radicals	inorganic chemicals
+polysaccharides, bacterial	polysaccharides
+antigens, cd	antigens, differentiation
+biomarkers	oligoclonal bands
+retropharyngeal abscess	psoas abscess
+diagnosis	analytical, diagnostic and therapeutic techniques and equipment category
+vertebrates	chordata
+lipectomy	bariatric surgery
+biomarkers, pharmacological	stage-specific embryonic antigens
+rheum	polygonaceae
+ecdysteroids	brassinosteroids
+brain diseases	central nervous system diseases
+dyspepsia	signs and symptoms, digestive
+anhedonia	neurobehavioral manifestations
+herbivory	feeding behavior
+adolescent	age groups
+pyomyositis	otitis media, suppurative
+metabolism	phenomena and processes category
+technology, industry, and agriculture	technology and food and beverages category
+gram-negative bacterial infections	bacterial infections
+aged, 80 and over	aged
+heterocyclic compounds, 2-ring	heterocyclic compounds, fused-ring
+ethylamines	amines
+corneal surgery, laser	laser therapy
+sepsis	infection
+probiotics	dietary supplements
+glyburide	sulfonylurea compounds
+nutritionists	health personnel
+candy	chewing gum
+photosensitivity disorders	skin diseases
+chordata	animals
+cichlids	bass
+continental population groups	population groups
+health personnel	occupational groups
+betulaceae	angiosperms
+head	body regions
+bivalvia	mollusca
+sulfonylurea compounds	sulfones
+xanthophylls	carotenoids
+alendronate	diphosphonates
+extracorporeal membrane oxygenation	respiratory therapy
+cell-derived microparticles	extracellular vesicles
+colonoscopy	endoscopy, gastrointestinal
+lipid peroxides	hydrogen peroxide
+pathological conditions, signs and symptoms	diseases category
+asteraceae	angiosperms
+nephroblastoma overexpressed protein	mammaglobin a
+laryngopharyngeal reflux	esophageal motility disorders
+phyllanthus	euphorbiaceae
+seaweed	kelp
+hormones, ectopic	chorionic gonadotropin, beta subunit, human
+cryopreservation	tissue preservation
+compact disks	videodisc recording
+citrus	rutaceae
+cesarean section	cesarean section, repeat
+ciguatera poisoning	foodborne diseases
+empyema, subdural	empyema, pleural
+enterobacteriaceae	gram-negative facultatively anaerobic rods
+perches	tilapia
+life tables	actuarial analysis
+statistics as topic	epidemiologic methods
+invertebrates	animals
+malvaceae	angiosperms
+prostaglandin endoperoxides	lipid peroxides
+actuarial analysis	statistics as topic
+plant preparations	biological products
+hypospadias	penile diseases
+juglandaceae	angiosperms
+chemical actions and uses	chemicals and drugs category
+solanum melongena	solanum
+physiological phenomena	phenomena and processes category
+diphosphonates	organophosphonates
+gigantism	bone diseases, developmental
+flatulence	signs and symptoms, digestive
+alkylmercury compounds	organomercury compounds
+perciformes	tuna
+extracellular space	cellular structures
+phenothiazines	sulfur compounds
+phenylacetates	acids, carbocyclic
+zingiberales	angiosperms
+viridiplantae	plants
+intraabdominal infections	infection
+nematode infections	helminthiasis
+chicory	asteraceae
+lauraceae	angiosperms
+skin diseases, vascular	skin diseases
+nasturtium	brassicaceae
+endocrine disruptors	physiological effects of drugs
+alpha-fetoproteins	biomarkers, tumor
+age groups	persons
+gadiformes	gadus morhua
+hematemesis	signs and symptoms, digestive
+eye	eyelashes
+polygonaceae	angiosperms
+n-methyl-3,4-methylenedioxyamphetamine	amphetamines
+receptor, erbb-2	prostate-specific antigen
+receptor, erbb-3	receptor, erbb-2
+brain diseases, metabolic, inborn	brain diseases, metabolic
+receptor, erbb-4	receptor, erbb-3
+vascular diseases	cardiovascular diseases
+pasteurization	food handling
+pharmacological and toxicological phenomena and processes	physiological phenomena
+vaccinium myrtillus	vaccinium
+hydrocarbons, chlorinated	hydrocarbons, halogenated
+carotenoids	polyenes
+gadus morhua	fishes
+tetraoxanes	tert-butylhydroperoxide
+enterobacteriaceae infections	gram-negative bacterial infections
+breast feeding	breast milk expression
+enzymes	enzymes and coenzymes
+peptides	amino acids, peptides, and proteins
+videotape recording	compact disks
+united states	north america
+industry	technology, industry, and agriculture
+angiography	portography
+animals, domestic	animal population groups
+nervous system diseases	diseases category
+greece	europe
+poisoning	chemically-induced disorders
+solanaceae	angiosperms
+pacific states	united states
+plants	eukaryota
+carboxylic acids	organic chemicals
+carbonic anhydrases	hydro-lyases
+suppuration	uveitis, suppurative
+cerebral angiography	aortography
+spirurida infections	secernentea infections
+althaea	malvaceae
+sulfhydryl compounds	sulfur compounds
+myristicaceae	angiosperms
+organophosphonates	organophosphorus compounds
+religion	humanities
+peritonsillar abscess	periodontal abscess
+normetanephrine	neprilysin
+face	head
+hydroxyl radical	free radicals
+social sciences	anthropology, education, sociology and social phenomena category
+genital diseases, male	male urogenital diseases
+neoplastic processes	neoplasms
+brassica	mustard plant
+bison	ruminants
+diphenhydramine	ethylamines
+atorvastatin calcium	pyrroles
+ergothioneine	sulfhydryl compounds
+amides	organic chemicals
+neoplasms, connective and soft tissue	neoplasms by histologic type
+carbon-oxygen lyases	lyases
+endotoxemia	bacteremia
+buttermilk	milk
+furunculosis	carbuncle
+educational technology	technology
+nutritional and metabolic diseases	diseases category
+deception	social behavior
+holidays	leisure activities
+chewing gum	food
+morinda	rubiaceae
+pharmacological phenomena	pharmacological and toxicological phenomena and processes
+rosales	angiosperms
+neoplasms, fibroepithelial	neoplasms, fibrous tissue
+skin physiological phenomena	integumentary system physiological phenomena
+thimerosal	ethylmercury compounds
+nordazepam	benzodiazepinones
+benzazepines	heterocyclic compounds, 2-ring
+emotions	behavior and behavior mechanisms
+digestive system surgical procedures	surgical procedures, operative
+behavior, animal	behavior
+respiratory aspiration of gastric contents	laryngopharyngeal reflux
+exercise test	walk test
+diagnostic imaging	diagnostic techniques and procedures
+epidural abscess	brain abscess
+ki-67 antigen	hormones, ectopic
+estrogens, conjugated (usp)	estradiol congeners
+toxaphene	hydrocarbons, chlorinated
+acetaminophen	acetanilides
+aromatherapy	mind-body therapies
+prebiotics	polysaccharides, bacterial
+neurologic manifestations	nervous system diseases
+carbuncle	staphylococcal skin infections
+neoplasms	diseases category
+zingiberaceae	zingiberales
+quality-adjusted life years	life tables
+angiography, digital subtraction	angiocardiography
+soybean proteins	soy milk
+ruminants	artiodactyla
+muscular atrophy	neuromuscular manifestations
+halogenation	biochemical phenomena
+europe, eastern	europe
+trialkyltin compounds	organometallic compounds
+bacterial infections	bacterial infections and mycoses
+tissue kallikreins	synaptophysin
+vegetables	food
+agriculture	technology, industry, and agriculture
+singlet oxygen	tetraoxanes
+soy milk	vegetable products
+hibiscus	malvaceae
+aquatic organisms	organism forms
+bulimia	signs and symptoms, digestive
+withanolides	stigmasterol
+escherichia	enterobacteriaceae
+anacardiaceae	angiosperms
+hormesis	dose-response relationship, drug
+coronary angiography	cineangiography
+african americans	african continental ancestry group
+carbonic anhydrase i	carbonic anhydrases
+polysaccharides	carbohydrates
+uropathogenic escherichia coli	escherichia coli
+poaceae	angiosperms
+artemisinins	peroxides
+pain	neurologic manifestations
+freeze drying	freeze substitution
+diagnostic techniques, cardiovascular	diagnostic techniques and procedures
+hawaii	pacific states
+undaria	phaeophyta
+hidradenitis suppurativa	empyema, subdural
+technology	technology, industry, and agriculture
+chemical phenomena	phenomena and processes category
+embryophyta	streptophyta
+persea	lauraceae
+bass	fishes
+cells	anatomy category
+triethyltin compounds	trialkyltin compounds
+fabaceae	angiosperms
+kidney diseases	urologic diseases
+orgasm	reproduction
+mangifera	anacardiaceae
+proctocolectomy, restorative	digestive system surgical procedures
+cucurbitaceae	angiosperms
+evaluation studies as topic	investigative techniques
+trisaccharides	oligosaccharides
+tilapia	cichlids
+yogurt	cultured milk products
+fluorosis, dental	tooth diseases
+meningitis, escherichia coli	enterobacteriaceae infections
+phytochemicals	withanolides
+dipeptides	oligopeptides
+garcinia	clusiaceae
+cellular structures	cells
+gram-negative facultatively anaerobic rods	gram-negative bacteria
+iodine compounds	inorganic chemicals
+bariatrics	therapeutics
+magnetic phenomena	physical phenomena
+chemically-induced disorders	diseases category
+brassica napus	brassicaceae
+male urogenital diseases	diseases category
+eragrostis	poaceae
+united states national aeronautics and space administration	united states government agencies
+breast milk expression	feeding behavior
+lovastatin	ezetimibe, simvastatin drug combination
+artemisia absinthium	asteraceae
+vomiting	vomiting, anticipatory
+radioactivity	physical phenomena
+rubus	rosaceae
+methylphenidate	dexmethylphenidate hydrochloride
+escherichia coli	escherichia
+acetanilides	anilides
+mammaglobin a	ki-67 antigen
+reproductive and urinary physiological phenomena	phenomena and processes category
+deglutition disorders	esophageal diseases
+mental disorders	psychiatry and psychology category
+climacteric	reproductive physiological phenomena
+eyelashes	eyelids
+neoplasm, residual	neoplastic processes
+mammals	vertebrates
+complementary therapies	therapeutics
+light	electromagnetic radiation
+eyebrows	face
+lung abscess	epidural abscess
+chorionic gonadotropin, beta subunit, human	carcinoembryonic antigen
+breakfast	meals
+gonadal steroid hormones	gonadal hormones
+meals	food
+infection	bacterial infections and mycoses
+tert-butylhydroperoxide	superoxides
+escherichia coli infections	meningitis, escherichia coli
+hormones	hormones, hormone substitutes, and hormone antagonists
+dimenhydrinate	diphenhydramine
+sunburn	photosensitivity disorders
+peroxides	hypochlorous acid
+biomarkers, tumor	biomarkers, pharmacological
+organometallic compounds	organic chemicals
+fluoxetine	propylamines
+enzymes and coenzymes	chemicals and drugs category
+norovirus	norwalk virus
+morning sickness	hematemesis
+gentianales	angiosperms
+cyanobacteria	bacteria
+amino acids, peptides, and proteins	chemicals and drugs category
+lamiaceae	lamiales
+europe	geographic locations
+phenethylamines	ethylamines
+sarcopenia	muscular atrophy
+ipecac	plant extracts
+extracellular vesicles	extracellular space
+uveitis, suppurative	thyroiditis, suppurative
+vomiting, anticipatory	postoperative nausea and vomiting
+capsicum	solanaceae
+galactosemias	brain diseases, metabolic, inborn
+origanum	lamiaceae
+simvastatin	naphthalenes
+aged	adult
+psoas abscess	peritonsillar abscess
+aggression	bullying
+mustard plant	brassica rapa
+eyelids	eyebrows
+flatfishes	fishes
+laser therapy	therapeutics
+organophosphorus compounds	organic chemicals
+fish products	meat
+sunlight	light
+phytosterols	biological factors
+azoles	heterocyclic compounds, 1-ring
+heart function tests	diagnostic techniques, cardiovascular
+tooth diseases	stomatognathic diseases
+ethylmercury compounds	alkylmercury compounds
+electromagnetic phenomena	magnetic phenomena
+heterocyclic compounds	chemicals and drugs category
+uganda	africa, eastern
+homeopathy	complementary therapies
+dairy products	food
+superoxides	prostaglandin endoperoxides
+antigens, ly	antigens, differentiation, t-lymphocyte
+corylus	betulaceae
+oligosaccharides	polysaccharides
+mastectomy	surgical procedures, operative
+medicine, ayurvedic	medicine, traditional
+myristica fragrans	myristicaceae
+hydrocarbons, aromatic	hydrocarbons, cyclic
+antigens, differentiation, t-lymphocyte	antigens, differentiation, myelomonocytic
+body weight	signs and symptoms
+neoplasms by histologic type	neoplasms
+menopause	climacteric
+euphorbiaceae	angiosperms
+prediabetic state	diabetes mellitus
+artemisia	artemisia annua
+snacks	meals
+slovakia	europe, eastern
+bacteremia	sepsis
+government agencies	government
+viruses	organisms category
+benzodiazepines	benzazepines
+benzodiazepinones	benzodiazepines
+mastodynia	pain
+hydrogen peroxide	artemisinins
+lycium	solanaceae
+pharmacologic actions	chemical actions and uses
+netherlands	europe
+neoplasms, fibrous tissue	neoplasms, connective tissue
+hydrocarbons, halogenated	hydrocarbons
+zoonoses	bacterial infections and mycoses
+lorazepam	benzodiazepinones
+biological factors	chemicals and drugs category
+bone diseases, developmental	bone diseases
+population groups	persons
+periapical abscess	lung abscess
+rna viruses	viruses
+apiaceae	angiosperms
+norwalk virus	caliciviridae
+parasitic diseases	diseases category
+leisure activities	human activities
+vitis	vitaceae
+organism forms	organisms category
+bullying	agonistic behavior
+vaccinium	ericaceae
+tuna	sea bream
+dentistry	analytical, diagnostic and therapeutic techniques and equipment category
+metabolic diseases	nutritional and metabolic diseases
+penile diseases	genital diseases, male
+fibroadenoma	neoplasms, fibroepithelial
+signs and symptoms, digestive	signs and symptoms
+diabetes mellitus	glucose metabolism disorders
+stramenopiles	eukaryota
+neurodevelopmental disorders	mental disorders
+hyperphagia	bulimia
+epidemiologic methods	investigative techniques
+vitaceae	angiosperms
+hemostatic disorders	vascular diseases
+antigens, tumor-associated, carbohydrate	antigens, cd30
+agonistic behavior	behavioral symptoms
+obstetric surgical procedures	surgical procedures, operative
+hyperemesis gravidarum	morning sickness
+canthaxanthin	xanthophylls
+cellulitis	retropharyngeal abscess
+skin diseases	skin and connective tissue diseases
+behavior and behavior mechanisms	psychiatry and psychology category
+solanum	solanaceae
+carcinoembryonic antigen	antigens, tumor-associated, carbohydrate
+laminaria	phaeophyta
+clusiaceae	theales
+ericaceae	angiosperms
+occupational groups	persons
+sulfonamides	amides
+cardiovascular diseases	diseases category
+heterocyclic compounds, 1-ring	heterocyclic compounds
+glucose metabolism disorders	metabolic diseases
+central nervous system diseases	nervous system diseases
+diagnostic techniques and procedures	diagnosis
+shellfish	fish flour
+otitis media, suppurative	hidradenitis suppurativa
+sea bream	perches
+urticaria	angioedemas, hereditary
+psychosurgery	neurosurgical procedures
+meat	food
+stomatognathic diseases	diseases category
+neoplasms, connective tissue	neoplasms, connective and soft tissue
+agropyron	poaceae

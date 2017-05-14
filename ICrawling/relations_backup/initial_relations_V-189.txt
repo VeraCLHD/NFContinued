@@ -1,0 +1,18 @@
+
+V-189	lead	lead	apoe gene	apoe gene	to changes in	
+V-189	disease	disease	cholesterol	cholesterol	from treatable factors—elevated	
+V-189	disease	disease	blood	blood	from treatable factors—elevated cholesterol and	
+V-189	risk	risk	blood	blood	for alzheimer’s disease from treatable factors—elevated cholesterol and	
+V-189	cholesterol	cholesterol	fat	fat	levels from their low intake of animal	
+V-189	cholesterol	cholesterol	apoe gene	apoe gene	can lead to changes in	
+V-189	risk	risk	disease	disease	for alzheimer’s	
+V-189	cholesterol	cholesterol	lead	lead	can	
+V-189	disease	disease	blood pressure	blood pressure	from treatable factors—elevated cholesterol and	
+V-189	high blood pressure	high blood pressure	cholesterol	cholesterol	and	
+V-189	cholesterol	cholesterol	animal fat	animal fat	levels from their low intake of	
+V-189	cholesterol	cholesterol	risk	risk	nearly tripled the threat; so, the	
+V-189	risk	risk	blood pressure	blood pressure	for alzheimer’s disease from treatable factors—elevated cholesterol and	
+V-189	risk	risk	cholesterol	cholesterol	for alzheimer’s disease from treatable factors—elevated	
+V-189	blood	blood	cholesterol	cholesterol	pressure and	
+V-189	blood pressure	blood pressure	cholesterol	cholesterol	and	
+V-189	risk	risk	disease	disease	for and future burden of alzheimer’s	

@@ -1,0 +1,27 @@
+
+T-412	nuts	nuts	seeds	seeds	and	
+T-412	treatment	treatment	cancer	cancer	include: turmeric application for early stage	
+T-412	cancer prevention	cancer prevention	turmeric	turmeric	and treatment include: 	
+T-412	nuts	nuts	green tea	green tea	and seeds, 	
+T-412	cancer prevention	cancer prevention	treatment	treatment	and	
+T-412	prevention	prevention	cancer	cancer	and treatment include: turmeric application for early stage	
+T-412	turmeric	turmeric	grains	grains	application for early stage cancer; phytate intake from beans,	
+T-412	cancer	cancer	risk	risk		
+T-412	prevention	prevention	treatment	treatment	and	
+T-412	nuts	nuts	chamomile	chamomile	and seeds, green tea, broccoli, broccoli sprouts, amla, raspberries, strawberries, and 	
+T-412	treatment	treatment	beans	beans	include: turmeric application for early stage cancer; phytate intake from	
+T-412	turmeric	turmeric	cancer	cancer	application for early stage	
+T-412	nuts	nuts	amla	amla	and seeds, green tea, broccoli, broccoli sprouts, 	
+T-412	cancer prevention	cancer prevention	cancer	cancer	and treatment include: turmeric application for early stage	
+T-412	nuts	nuts	strawberries	strawberries	and seeds, green tea, broccoli, broccoli sprouts, amla, raspberries,	
+T-412	nuts	nuts	tea	tea	and seeds, green	
+T-412	prevention	prevention	turmeric	turmeric	and treatment include: 	
+T-412	nuts	nuts	broccoli sprouts	broccoli sprouts	and seeds, green tea, broccoli, 	
+T-412	turmeric	turmeric	beans	beans	application for early stage cancer; phytate intake from	
+T-412	nuts	nuts	sprouts	sprouts	and seeds, green tea, broccoli, broccoli	
+T-412	cervical cancer	cervical cancer	risk	risk		
+T-412	nuts	nuts	chamomile tea	chamomile tea	and seeds, green tea, broccoli, broccoli sprouts, amla, raspberries, strawberries, and 	
+T-412	chamomile	chamomile	tea	tea		
+T-412	treatment	treatment	turmeric	turmeric	include: 	
+T-412	nuts	nuts	raspberries	raspberries	and seeds, green tea, broccoli, broccoli sprouts, amla, 	
+T-412	nuts	nuts	broccoli	broccoli	and seeds, green tea, 	

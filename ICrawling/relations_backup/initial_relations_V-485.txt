@@ -1,0 +1,73 @@
+
+V-485	coca cola	coca cola	nutrient-dense	nutrient-dense	are	
+V-485	pregnant	pregnant	disease	disease	women, infants, the elderly [or] those with chronic	
+V-485	twinkies	twinkies	coca cola	coca cola	and	
+V-485	protein	protein	eggs	eggs	—because they’re not.it’s illegal to advertise that	
+V-485	eggs	eggs	calories	calories	a food “relatively low in	
+V-485	marketing	marketing	usda	usda	” for the egg board complained to the	
+V-485	diet	diet	egg	egg	” on an	
+V-485	americans	americans	salmonella	salmonella	are	
+V-485	fda	fda	saturated fat	saturated fat	rules, it has to be low in	
+V-485	pregnant	pregnant	women	women		
+V-485	usda	usda	eggs	eggs	helpfully suggests, you can say	
+V-485	eggs	eggs	usda	usda	are a “healthy…start to the day,” the	
+V-485	usda	usda	egg	egg	’s national	
+V-485	cholesterol	cholesterol	fat	fat	they do” (plus all the saturated	
+V-485	usda	usda	eggs	eggs	had to remind the industry you can’t “portray	
+V-485	diet	diet	fat	fat	food, because of the	
+V-485	usda	usda	marketing	marketing		
+V-485	eggs	eggs	cholesterol	cholesterol	have so much	
+V-485	saturated fat	saturated fat	eggs	eggs	and cholesterol, you can’t legally call	
+V-485	egg	egg	eggs	eggs	board can’t even mention anything but	
+V-485	american egg board	american egg board	marketing	marketing	is a promotional	
+V-485	cream	cream	eggs	eggs	” for healthy bones, you can’t say	
+V-485	elderly	elderly	chronic disease	chronic disease	[or] those with	
+V-485	eggs	eggs	usda	usda	“fresh,” the	
+V-485	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-485	cholesterol	cholesterol	saturated fat	saturated fat	they do” (plus all the	
+V-485	eggs	eggs	cholesterol	cholesterol	are healthy—because they exceed the limit for	
+V-485	pregnant	pregnant	infants	infants	women,	
+V-485	egg	egg	eggs	eggs	industry wanted to run this ad calling	
+V-485	american egg board	american egg board	cooking	cooking	’s own research showed that “the sunny-side-up [	
+V-485	egg	egg	salmonella	salmonella	board response to this eggborne epidemic is that	
+V-485	egg	egg	usda	usda	board complained to the	
+V-485	american egg board	american egg board	birds	birds	instructs, “do not show multiple	
+V-485	eggs	eggs	fat	fat	are low in saturated	
+V-485	usda	usda	egg	egg	—on what	
+V-485	eggs	eggs	egg	egg	[or]	
+V-485	marketing	marketing	egg	egg	” for the	
+V-485	eggs	eggs	egg	egg	are healthy—because they exceed the limit for cholesterol.	
+V-485	salmonella	salmonella	egg	egg	-poisoned every year from eggs.the	
+V-485	eggs	eggs	cholesterol	cholesterol	have the amount of	
+V-485	eggs	eggs	nutrient-dense	nutrient-dense	are	
+V-485	egg	egg	marketing	marketing	board is a promotional	
+V-485	usda	usda	nutrient-dense	nutrient-dense	helpfully suggests, you can say eggs are “	
+V-485	egg	egg	birds	birds	board instructs, “do not show multiple	
+V-485	cola	cola	nutrient-dense	nutrient-dense	are	
+V-485	bird flu	bird flu	eggs	eggs	viruses,	
+V-485	hunger	hunger	eggs	eggs	—what a concept.you can’t even call 	
+V-485	elderly	elderly	disease	disease	[or] those with chronic	
+V-485	ice cream	ice cream	eggs	eggs	” for healthy bones, you can’t say	
+V-485	eggs	eggs	marketing	marketing	“fresh,” the usda	
+V-485	fat	fat	cholesterol	cholesterol	and	
+V-485	eggs	eggs	nutrient-dense	nutrient-dense	are “	
+V-485	twinkies	twinkies	nutrient-dense	nutrient-dense	and coca cola are	
+V-485	usda	usda	eggs	eggs	’s national egg supervisor—”since	
+V-485	salmonella	salmonella	eggs	eggs	in	
+V-485	fda	fda	fat	fat	rules, it has to be low in saturated	
+V-485	pregnant	pregnant	chronic disease	chronic disease	women, infants, the elderly [or] those with	
+V-485	eggs	eggs	aids	aids	a “nutritional powerhouse [that]	
+V-485	bird flu	bird flu	viruses	viruses		
+V-485	eggs	eggs	cholesterol	cholesterol	fail that test—and less than 90mg of	
+V-485	twinkies	twinkies	cola	cola	and coca	
+V-485	egg	egg	usda	usda	corporations that want to use that money, and the	
+V-485	fat	fat	eggs	eggs	and cholesterol, you can’t legally call	
+V-485	eggs	eggs	fat	fat	as a diet food, because of the	
+V-485	pregnant	pregnant	elderly	elderly	women, infants, the	
+V-485	diet	diet	cholesterol	cholesterol	food, because of the fat and	
+V-485	usda	usda	poultry	poultry	’s	
+V-485	eggs	eggs	diet	diet	as a	
+V-485	american egg board	american egg board	eggs	eggs	can’t even mention anything but	
+V-485	egg	egg	cooking	cooking	board’s own research showed that “the sunny-side-up [	
+V-485	eggs	eggs	saturated fat	saturated fat	are low in	
+V-485	americans	americans	egg	egg	are salmonella-poisoned every year from eggs.the	

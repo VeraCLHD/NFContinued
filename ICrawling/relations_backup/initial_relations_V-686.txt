@@ -1,0 +1,10 @@
+
+V-686	fenugreek	fenugreek	maple syrup	maple syrup	seed consumption—it makes your armpits smell like	
+V-686	breastfeeding	breastfeeding	infants	infants		
+V-686	maple syrup	maple syrup	disease	disease	urine	
+V-686	maple syrup	maple syrup	urine	urine		
+V-686	breastfeeding	breastfeeding	milk	milk	infants, with moms using fenugreek to boost their	
+V-686	fenugreek	fenugreek	milk	milk	to boost their	
+V-686	fenugreek	fenugreek	seeds	seeds		
+V-686	breastfeeding	breastfeeding	fenugreek	fenugreek	infants, with moms using	
+V-686	urine	urine	disease	disease		

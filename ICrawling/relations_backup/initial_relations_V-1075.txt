@@ -1,0 +1,59 @@
+
+V-1075	hepatitis e	hepatitis e	meat	meat	infection.just because there’s infectious virus in retail	
+V-1075	risk	risk	hepatitis	hepatitis	of	
+V-1075	mortality	mortality	meat	meat	from liver disease versus the consumption of pig	
+V-1075	disease	disease	alcohol	alcohol	mortality and	
+V-1075	infection	infection	pork	pork	with the consumption of grilled	
+V-1075	hepatitis e	hepatitis e	disease	disease	is a zoonotic	
+V-1075	disease	disease	pigs	pigs	—an animal-to-human disease—and	
+V-1075	mortality	mortality	alcohol	alcohol	and	
+V-1075	mortality	mortality	liver disease	liver disease	from	
+V-1075	pigs	pigs	hepatitis	hepatitis	are the reservoirs of the	
+V-1075	hepatitis	hepatitis	meat	meat	e infection.just because there’s infectious virus in retail	
+V-1075	zoonotic disease	zoonotic disease	disease	disease	—an animal-to-human	
+V-1075	health	health	pork	pork	concerns about 	
+V-1075	health	health	risk	risk	concerns about pork safety and the	
+V-1075	pork	pork	liver	liver		
+V-1075	health	health	hepatitis	hepatitis	concerns about pork safety and the risk of	
+V-1075	mortality	mortality	disease	disease	from liver	
+V-1075	liver	liver	disease	disease		
+V-1075	cdc	cdc	meat	meat	this year: “much	
+V-1075	pork	pork	risk	risk	safety and the	
+V-1075	japanese	japanese	hepatitis e	hepatitis e	researchers linked	
+V-1075	public health	public health	risk	risk	concerns about pork safety and the	
+V-1075	zoonotic disease	zoonotic disease	pigs	pigs	—an animal-to-human disease—and	
+V-1075	public health	public health	hepatitis	hepatitis	concerns about pork safety and the risk of	
+V-1075	infection	infection	liver	liver	with the consumption of grilled pork	
+V-1075	risk	risk	hepatitis e	hepatitis e	of	
+V-1075	liver disease	liver disease	mortality	mortality		
+V-1075	public health	public health	pork	pork	concerns about 	
+V-1075	virus	virus	meat	meat	in more than 10% of the	
+V-1075	disease	disease	meat	meat	versus the consumption of pig	
+V-1075	pigs	pigs	hepatitis e	hepatitis e	are the reservoirs of the	
+V-1075	public health	public health	hepatitis e	hepatitis e	concerns about pork safety and the risk of	
+V-1075	hepatitis	hepatitis	virus	virus	e	
+V-1075	liver	liver	mortality	mortality	disease	
+V-1075	japanese	japanese	hepatitis	hepatitis	researchers linked	
+V-1075	hepatitis	hepatitis	disease	disease	e is a zoonotic	
+V-1075	health	health	hepatitis e	hepatitis e	concerns about pork safety and the risk of	
+V-1075	liver disease	liver disease	meat	meat	versus the consumption of pig	
+V-1075	hepatitis e	hepatitis e	virus	virus	infection.just because there’s infectious	
+V-1075	liver	liver	alcohol	alcohol	disease mortality and	
+V-1075	disease	disease	mortality	mortality		
+V-1075	liver	liver	meat	meat	disease versus the consumption of pig	
+V-1075	liver	liver	hepatitis e	hepatitis e	is supposed to look like.well, we’re up to	
+V-1075	hepatitis e	hepatitis e	zoonotic disease	zoonotic disease	is a	
+V-1075	liver	liver	hepatitis	hepatitis	is supposed to look like.well, we’re up to	
+V-1075	pork	pork	hepatitis	hepatitis	safety and the risk of	
+V-1075	hepatitis	hepatitis	zoonotic disease	zoonotic disease	e is a	
+V-1075	risk	risk	virus	virus	of hepatitis e infection.just because there’s infectious	
+V-1075	hepatitis e	hepatitis e	virus	virus		
+V-1075	japanese	japanese	infection	infection	researchers linked hepatitis e	
+V-1075	virus	virus	meat	meat	in retail	
+V-1075	liver disease	liver disease	alcohol	alcohol	mortality and	
+V-1075	hepatitis	hepatitis	pigs	pigs	e is a zoonotic disease—an animal-to-human disease—and	
+V-1075	blood	blood	united states	united states	donors in the	
+V-1075	hepatitis e	hepatitis e	pigs	pigs	is a zoonotic disease—an animal-to-human disease—and	
+V-1075	pork	pork	hepatitis e	hepatitis e	safety and the risk of	
+V-1075	mortality	mortality	liver	liver	from	
+V-1075	hepatitis	hepatitis	virus	virus	e infection.just because there’s infectious	

@@ -1,0 +1,25 @@
+
+T-728	alfalfa	alfalfa	salmonella	salmonella	sprouts; they have been linked to	
+T-728	chickens	chickens	pigs	pigs	and	
+T-728	bpa	bpa	liver	liver	has been linked to heart disease, diabetes, and	
+T-728	fda	fda	benzene	benzene	measured and reported	
+T-728	beverages	beverages	fda	fda	were contaminated.the	
+T-728	fda	fda	public health	public health	) is the federal agency responsible for enforcing	
+T-728	public health	public health	pharmaceuticals	pharmaceuticals	and safety guidelines in the areas of food,	
+T-728	bpa	bpa	disease	disease	has been linked to heart	
+T-728	food poisoning	food poisoning	eggs	eggs	(about 100 cases/year, although	
+T-728	alfalfa	alfalfa	sprouts	sprouts		
+T-728	pigs	pigs	fda	fda	has been approved by the	
+T-728	bpa	bpa	diabetes	diabetes	has been linked to heart disease,	
+T-728	arsenic	arsenic	pigs	pigs	to chickens and	
+T-728	salmonella	salmonella	food poisoning	food poisoning		
+T-728	alfalfa	alfalfa	food poisoning	food poisoning	sprouts; they have been linked to salmonella	
+T-728	bpa	bpa	heart disease	heart disease	has been linked to	
+T-728	chickens	chickens	fda	fda	and pigs has been approved by the	
+T-728	fda	fda	weight gain	weight gain	to increase the rate of	
+T-728	arsenic	arsenic	chickens	chickens	to	
+T-728	bpa	bpa	liver inflammation	liver inflammation	has been linked to heart disease, diabetes, and	
+T-728	salmonella	salmonella	eggs	eggs	food poisoning (about 100 cases/year, although	
+T-728	food and drug administration	food and drug administration	public health	public health	(fda) is the federal agency responsible for enforcing	
+T-728	health	health	pharmaceuticals	pharmaceuticals	and safety guidelines in the areas of food,	
+T-728	liver	liver	inflammation	inflammation		

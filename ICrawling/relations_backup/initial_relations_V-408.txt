@@ -1,0 +1,66 @@
+
+V-408	milk	milk	diet	diet	protein-free	
+V-408	protein	protein	children	children	allergy.chronic constipation is a common problem in	
+V-408	milk	milk	children	children	protein allergy.chronic constipation is a common problem in	
+V-408	constipation	constipation	children	children	is a common problem in	
+V-408	milk	milk	diet	diet	-free	
+V-408	kids	kids	constipation	constipation	suffering from chronic	
+V-408	constipation	constipation	infants	infants	in	
+V-408	infants	infants	children	children	and young	
+V-408	rice	rice	milk	milk		
+V-408	milk	milk	soy	soy	or	
+V-408	milk	milk	soy milk	soy milk	was replaced with	
+V-408	soy milk	soy milk	rice	rice	or	
+V-408	milk	milk	protein	protein		
+V-408	milk	milk	kids	kids	to nondairy milk, the	
+V-408	constipation	constipation	children	children	in young	
+V-408	infants	infants	young children	young children	and	
+V-408	kids	kids	soy	soy	’ constipation by switching to	
+V-408	milk	milk	constipation	constipation	protein allergy.chronic	
+V-408	symptoms	symptoms	diet	diet	completely regressed when a cow’s milk protein-free	
+V-408	constipation	constipation	soy milk	soy milk	resolved while they were receiving	
+V-408	kids	kids	milk	milk	’ constipation by switching to soy	
+V-408	protein	protein	constipation	constipation	allergy.chronic	
+V-408	constipation	constipation	milk	milk	because of cow’s	
+V-408	england	england	diet	diet	journal study where the background	
+V-408	kids	kids	constipation	constipation	’	
+V-408	kids	kids	rice	rice	’ constipation by switching to soy milk or	
+V-408	fiber	fiber	laxatives	laxatives	and	
+V-408	constipation	constipation	treatment	treatment	who do not respond to	
+V-408	protein	protein	inflammation	inflammation	hypersensitivity have signs of rectal	
+V-408	soy milk	soy milk	milk	milk	or rice	
+V-408	children	children	milk	milk	drinking more than a cup of	
+V-408	soy	soy	milk	milk		
+V-408	children	children	milk	milk	receiving cow’s	
+V-408	constipation	constipation	children	children	among	
+V-408	biopsy	biopsy	constipation	constipation	tissue samples in patients with chronic	
+V-408	kids	kids	soy milk	soy milk	’ constipation by switching to	
+V-408	kids	kids	dairy	dairy	off all	
+V-408	kids	kids	rice milk	rice milk	’ constipation by switching to soy milk or	
+V-408	milk	milk	inflammation	inflammation	protein hypersensitivity have signs of rectal	
+V-408	kids	kids	milk	milk	from cow’s	
+V-408	constipation	constipation	children	children	in infants and young	
+V-408	kids	kids	laxatives	laxatives	suffering from chronic constipation, all previously treated with	
+V-408	soy	soy	rice	rice	milk or	
+V-408	constipation	constipation	milk	milk	resolved while they were receiving soy	
+V-408	disease	disease	milk	milk	in just a few days by eliminating cow’s	
+V-408	milk	milk	soy	soy	was replaced with	
+V-408	symptoms	symptoms	milk	milk	completely regressed when a cow’s	
+V-408	soy	soy	rice milk	rice milk	milk or	
+V-408	constipation	constipation	young children	young children	in	
+V-408	laxatives	laxatives	inflammation	inflammation	without success; 49 had anal fissures and	
+V-408	milk	milk	soy milk	soy milk	or	
+V-408	constipation	constipation	milk	milk	by switching to soy	
+V-408	soy milk	soy milk	rice milk	rice milk	or	
+V-408	constipation	constipation	young children	young children	in infants and	
+V-408	soy milk	soy milk	milk	milk	or ass	
+V-408	dairy	dairy	diet	diet	products—they didn’t control the background	
+V-408	constipation	constipation	soy	soy	resolved while they were receiving	
+V-408	pain	pain	children	children	were cured, whereas none of the	
+V-408	children	children	treatment	treatment	with constipation who do not respond to	
+V-408	milk	milk	diet	diet	back into their	
+V-408	constipation	constipation	protein	protein	because of cow’s milk	
+V-408	children	children	constipation	constipation	with	
+V-408	children	children	milk	milk	might be due to the consumption of cow’s	
+V-408	england	england	medicine	medicine	journal of	
+V-408	england	england	milk	milk	journal of medicine, a double-blind, crossover study, cow’s	

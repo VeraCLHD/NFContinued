@@ -1,0 +1,66 @@
+
+V-532	soy	soy	phytonutrients	phytonutrients		
+V-532	breast cancer	breast cancer	soy	soy	survival and	
+V-532	breast cancer survival	breast cancer survival	protein	protein	and soy 	
+V-532	breast cancer	breast cancer	protein	protein	survival and soy 	
+V-532	cancer	cancer	soy	soy	recurrence is because the phytonutrients in	
+V-532	women	women	soy	soy	who ate the most	
+V-532	blood	blood	kidney	kidney	sugars, lower cholesterol, lower triglycerides, better	
+V-532	risk	risk	cancer	cancer	of dying from breast	
+V-532	women	women	cancer	cancer	in this population—especially breast	
+V-532	blood	blood	kidney function	kidney function	sugars, lower cholesterol, lower triglycerides, better	
+V-532	soy	soy	breast cancer	breast cancer	had a 29% lower risk of dying from	
+V-532	risk	risk	cancer	cancer	of	
+V-532	blood	blood	cholesterol	cholesterol	sugars, lower	
+V-532	kidney	kidney	blood pressure	blood pressure	function, lower	
+V-532	cancer	cancer	brca genes	brca genes	victims have fully functional	
+V-532	cancer	cancer	phytonutrient	phytonutrient	survival and soy protein intake, as opposed to soy 	
+V-532	breast cancer	breast cancer	soy foods	soy foods	survivors who eat	
+V-532	soy foods	soy foods	cancer	cancer	appears to protect against the	
+V-532	cancer	cancer	soy	soy	survival and	
+V-532	breast cancer	breast cancer	brca genes	brca genes	victims have fully functional	
+V-532	cancer	cancer	soy	soy	survivors who eat	
+V-532	cancer survival	cancer survival	protein	protein	and soy 	
+V-532	soy	soy	cancer	cancer	foods appears to protect against the	
+V-532	soy	soy	cancer	cancer	intake is associated with increased survival and decreased	
+V-532	breast cancer survival	breast cancer survival	soy	soy	and	
+V-532	soy	soy	phytonutrient	phytonutrient	 protein intake, as opposed to soy 	
+V-532	soy	soy	protein	protein	 	
+V-532	cancer survival	cancer survival	soy	soy	and	
+V-532	soy	soy	risk	risk	had a 29% lower	
+V-532	phytonutrient	phytonutrient	cancer	cancer	intake.how does soy so dramatically decrease	
+V-532	phytonutrient	phytonutrient	risk	risk	intake.how does soy so dramatically decrease cancer	
+V-532	phytonutrients	phytonutrients	soy	soy	in	
+V-532	cancer	cancer	phytonutrients	phytonutrients	.well, if you add soy	
+V-532	legumes	legumes	peas	peas	—beans, chickpeas, split	
+V-532	women	women	breast cancer	breast cancer	in this population—especially	
+V-532	breast cancer	breast cancer	soy	soy	survivors who eat	
+V-532	legumes	legumes	beans	beans	—	
+V-532	breast cancer	breast cancer	soy	soy	survivors eating lots of	
+V-532	legumes	legumes	lentils	lentils	—beans, chickpeas, split peas, and	
+V-532	soy	soy	brca genes	brca genes	may actually help turn back on	
+V-532	women	women	soy	soy	with the highest	
+V-532	cancer	cancer	phytonutrients	phytonutrients	recurrence is because the	
+V-532	protein	protein	phytonutrient	phytonutrient	 intake, as opposed to soy 	
+V-532	phytonutrients	phytonutrients	cancer	cancer	back to the	
+V-532	mortality	mortality	breast cancer	breast cancer	of	
+V-532	blood	blood	triglycerides	triglycerides	sugars, lower cholesterol, lower	
+V-532	breast cancer	breast cancer	phytonutrient	phytonutrient	survival and soy protein intake, as opposed to soy 	
+V-532	cancer	cancer	women	women	was the leading killer of	
+V-532	protein	protein	soy	soy	 intake, as opposed to	
+V-532	legumes	legumes	split peas	split peas	—beans, chickpeas,	
+V-532	cancer	cancer	soy	soy	survivors eating lots of	
+V-532	mortality	mortality	women	women	in	
+V-532	risk	risk	breast cancer	breast cancer	of dying from	
+V-532	kidney	kidney	blood	blood	function, lower	
+V-532	cancer	cancer	protein	protein	survival and soy 	
+V-532	legumes	legumes	chickpeas	chickpeas	—beans,	
+V-532	women	women	soy	soy	who ate the least	
+V-532	cancer	cancer	soy	soy	.well, if you add	
+V-532	phytonutrient	phytonutrient	soy	soy	intake.how does	
+V-532	soy	soy	cancer	cancer	phytonutrients back to the	
+V-532	cancer survival	cancer survival	phytonutrient	phytonutrient	and soy protein intake, as opposed to soy 	
+V-532	women	women	legumes	legumes	who eat	
+V-532	cancer	cancer	soy foods	soy foods	survivors who eat	
+V-532	mortality	mortality	cancer	cancer	of breast	
+V-532	breast cancer survival	breast cancer survival	phytonutrient	phytonutrient	and soy protein intake, as opposed to soy 	

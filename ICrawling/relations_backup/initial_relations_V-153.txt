@@ -1,0 +1,59 @@
+
+V-153	fruits	fruits	variety	variety	and vegetables; thus, consuming a wide	
+V-153	fruit	fruit	risk	risk	and vegetable consumption may decrease lung cancer	
+V-153	vegetables	vegetables	potatoes	potatoes	are made up of iceberg lettuce, frozen	
+V-153	risk	risk	colon	colon	of	
+V-153	sprouts	sprouts	cancer	cancer	are associated with lower risk of colon	
+V-153	brussels sprouts	brussels sprouts	cancer	cancer	are associated with lower risk of colon	
+V-153	variety	variety	lung cancer	lung cancer	in fruit and vegetable consumption may decrease	
+V-153	variety	variety	cancer	cancer	in fruit and vegetable consumption may decrease lung	
+V-153	variety	variety	fruit	fruit	of	
+V-153	risk	risk	diabetes	diabetes	of type ii	
+V-153	phytonutrients	phytonutrients	onions	onions	in grapes,	
+V-153	variety	variety	risk	risk	may independently be beneficial for reducing the	
+V-153	vegetables	vegetables	lettuce	lettuce	are made up of iceberg	
+V-153	colon	colon	cancer	cancer		
+V-153	vegetables	vegetables	health	health	should be eaten to get all the	
+V-153	green tea	green tea	egcg	egcg	receptor in our body, a receptor for	
+V-153	tea	tea	egcg	egcg	receptor in our body, a receptor for	
+V-153	orange	orange	vitamin c	vitamin c	than just take a	
+V-153	fruit	fruit	lung cancer	lung cancer	and vegetable consumption may decrease	
+V-153	phytonutrients	phytonutrients	grapes	grapes	in	
+V-153	fruits	fruits	variety	variety	and vegetables as well as too little	
+V-153	fruit	fruit	oranges	oranges	and vegetable, it’s like comparing apples to	
+V-153	fruits	fruits	cancer	cancer	and vegetables may confer different risks for	
+V-153	fruit	fruit	cancer	cancer	and vegetable consumption may decrease lung	
+V-153	period	period	fruits	fruits	and missing out on the healthiest	
+V-153	period	period	berries	berries	and missing out on the healthiest fruits—	
+V-153	fruits	fruits	berries	berries	—	
+V-153	sprouts	sprouts	colon cancer	colon cancer	are associated with lower risk of	
+V-153	apples	apples	oranges	oranges	to	
+V-153	risk	risk	cancer	cancer	of colon	
+V-153	apple	apple	apples	apples	juice,	
+V-153	lung cancer	lung cancer	risk	risk		
+V-153	fruits	fruits	vegetables	vegetables	and	
+V-153	health	health	alpha-carotene	alpha-carotene	benefits.does it matter, though, if we get	
+V-153	variety	variety	risk	risk	of them may be at lower	
+V-153	fruits	fruits	variety	variety	and vegetables, the one eating a greater	
+V-153	fruits	fruits	vegetables	vegetables	—berries, and the healthiest	
+V-153	phytonutrient	phytonutrient	fruit	fruit	profile of each	
+V-153	vegetables	vegetables	variety	variety	as well as too little	
+V-153	vegetables	vegetables	cancer	cancer	may confer different risks for	
+V-153	vegetables	vegetables	fruit	fruit	—dark green leafies, the	
+V-153	cancer	cancer	risk	risk		
+V-153	sprouts	sprouts	colon	colon	are associated with lower risk of	
+V-153	brussels sprouts	brussels sprouts	colon	colon	are associated with lower risk of	
+V-153	sprouts	sprouts	risk	risk	are associated with lower	
+V-153	variety	variety	fruit	fruit	in	
+V-153	vegetables	vegetables	iceberg lettuce	iceberg lettuce	are made up of	
+V-153	apples	apples	orange	orange	that aren’t in the	
+V-153	phytonutrients	phytonutrients	capers	capers	in grapes, onions, and	
+V-153	apple	apple	grapes	grapes	juice, apples,	
+V-153	risk	risk	colon cancer	colon cancer	of	
+V-153	apple	apple	juice	juice		
+V-153	fruits	fruits	fruit	fruit	—berries, and the healthiest vegetables—dark green leafies, the	
+V-153	brussels sprouts	brussels sprouts	risk	risk	are associated with lower	
+V-153	alpha-carotene	alpha-carotene	antioxidant	antioxidant	or beta-carotene—isn’t an	
+V-153	vegetables	vegetables	variety	variety	and a greater	
+V-153	brussels sprouts	brussels sprouts	colon cancer	colon cancer	are associated with lower risk of	
+V-153	fruit	fruit	apples	apples	and vegetable, it’s like comparing	

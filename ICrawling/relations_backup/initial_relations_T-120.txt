@@ -1,0 +1,204 @@
+
+T-120	produce	produce	antioxidants	antioxidants	appears to have more	
+T-120	lemon balm	lemon balm	olives	olives	tea, most leafy greens,	
+T-120	chamomile	chamomile	dandelion	dandelion	tea,	
+T-120	antioxidants	antioxidants	tea	tea	available than hot	
+T-120	lemongrass	lemongrass	rooibos	rooibos	tea, rosehip tea,	
+T-120	beans	beans	nuts	nuts	and other legumes,	
+T-120	caloric restriction	caloric restriction	antioxidant	antioxidant	and exercise may also boost	
+T-120	dental	dental	skin	skin	health, protect against	
+T-120	meat industry	meat industry	meat	meat	has considered adding plant foods to	
+T-120	lemon	lemon	peppermint	peppermint	balm, marjoram, oregano, and	
+T-120	antioxidants	antioxidants	beets	beets	include acai berries, apples, amla or indian gooseberries,	
+T-120	antioxidant	antioxidant	meat	meat	levels, though this may make processed	
+T-120	lemongrass	lemongrass	cloves	cloves	tea, rosehip tea, rooibos tea, cherries,	
+T-120	herbs	herbs	lemon	lemon	and spices such as cinnamon, cloves,	
+T-120	copd	copd	asthma	asthma	), prevent and treat	
+T-120	radiation	radiation	health	health	exposure from air flights.antioxidants may enhance dental	
+T-120	nitrites	nitrites	stool size	stool size	into carcinogens, and increase	
+T-120	lemon	lemon	greens	greens	balm tea, most leafy	
+T-120	cranberry	cranberry	dates	dates	juice without added sugar, currants, dark chocolate,	
+T-120	spices	spices	cinnamon	cinnamon	such as	
+T-120	lemon balm	lemon balm	mushrooms	mushrooms	tea, most leafy greens, olives,	
+T-120	free radicals	free radicals	dna damage	dna damage	and	
+T-120	meat	meat	antioxidant	antioxidant	more carcinogenic.	
+T-120	turmeric	turmeric	coffee	coffee	curcumin,	
+T-120	cranberry juice	cranberry juice	date sugar	date sugar	without added sugar, currants, dark chocolate, dates,	
+T-120	plant foods	plant foods	antioxidant	antioxidant	to meat in order to boost	
+T-120	kidney	kidney	chamomile	chamomile	beans, ceylon cinnamon, chai tea,	
+T-120	processed meat	processed meat	supplements	supplements	more carcinogenic.antioxidant	
+T-120	antioxidant	antioxidant	processed meat	processed meat	levels, though this may make	
+T-120	cranberry	cranberry	dark chocolate	dark chocolate	juice without added sugar, currants,	
+T-120	hydroponic	hydroponic	antioxidant	antioxidant	basil has higher	
+T-120	antioxidants	antioxidants	red cabbage	red cabbage	per dollar spent,	
+T-120	boiled	boiled	antioxidants	antioxidants	beans may have more	
+T-120	goji	goji	hibiscus	hibiscus	berries, flaxseed, green tea,	
+T-120	antioxidants	antioxidants	apples	apples	include acai berries,	
+T-120	radiation	radiation	dental	dental	exposure from air flights.antioxidants may enhance	
+T-120	hibiscus	hibiscus	tea	tea		
+T-120	turmeric	turmeric	curcumin	curcumin		
+T-120	dandelion	dandelion	tea	tea		
+T-120	cranberry	cranberry	juice	juice		
+T-120	juice	juice	dates	dates	without added sugar, currants, dark chocolate,	
+T-120	boiling	boiling	antioxidant	antioxidant	may best retain the	
+T-120	pomegranate	pomegranate	goji	goji	seeds, dried indian gooseberries, dried apples, dried cherries,	
+T-120	cranberry juice	cranberry juice	currants	currants	without added sugar,	
+T-120	free radicals	free radicals	dna	dna	and	
+T-120	spices	spices	cloves	cloves	such as cinnamon,	
+T-120	lemon	lemon	marjoram	marjoram	balm,	
+T-120	vegetables	vegetables	antioxidants	antioxidants	are high in	
+T-120	plant foods	plant foods	animal products	animal products	contain 64 times the antioxidant power of	
+T-120	plant foods	plant foods	stress	stress	at every meal, especially if we’re under	
+T-120	goji	goji	lemon balm tea	lemon balm tea	berries, flaxseed, green tea, hibiscus tea, kale,	
+T-120	cranberry juice	cranberry juice	dates	dates	without added sugar, currants, dark chocolate,	
+T-120	kidney	kidney	dandelion	dandelion	beans, ceylon cinnamon, chai tea, chamomile tea,	
+T-120	disease	disease	asthma	asthma	(copd), prevent and treat	
+T-120	rooibos	rooibos	cherries	cherries	tea,	
+T-120	juice	juice	date sugar	date sugar	without added sugar, currants, dark chocolate, dates,	
+T-120	lemon balm	lemon balm	walnuts	walnuts	tea, most leafy greens, olives, mushrooms, pecans,	
+T-120	pomegranate	pomegranate	gooseberries	gooseberries	seeds, dried indian	
+T-120	chamomile	chamomile	rooibos	rooibos	tea, dandelion tea, lemongrass tea, rosehip tea,	
+T-120	antioxidant	antioxidant	boiling	boiling	levels –	
+T-120	hibiscus	hibiscus	lemon balm tea	lemon balm tea	tea, kale,	
+T-120	herbs	herbs	spices	spices	and	
+T-120	lemon	lemon	tea	tea	balm	
+T-120	raw	raw	boiling	boiling	can affect the antioxidant levels –	
+T-120	exercise	exercise	dental health	dental health	or radiation exposure from air flights.antioxidants may enhance	
+T-120	turmeric	turmeric	oats	oats	curcumin, coffee, and whole	
+T-120	amla	amla	beets	beets	or indian gooseberries,	
+T-120	amla	amla	beans	beans	or indian gooseberries, beets, berries, black	
+T-120	risk	risk	cancer	cancer	of asthma, depression, non-hodgkin’s lymphoma, stomach	
+T-120	goji	goji	tea	tea	berries, flaxseed, green	
+T-120	beans	beans	antioxidants	antioxidants	may have more	
+T-120	stomach	stomach	cancer	cancer		
+T-120	hibiscus	hibiscus	lemon	lemon	tea, kale,	
+T-120	spices	spices	lemon	lemon	such as cinnamon, cloves,	
+T-120	lemon	lemon	walnuts	walnuts	balm tea, most leafy greens, olives, mushrooms, pecans,	
+T-120	spices	spices	marjoram	marjoram	such as cinnamon, cloves, lemon balm,	
+T-120	hydroponic	hydroponic	basil	basil		
+T-120	pomegranate	pomegranate	seeds	seeds		
+T-120	lemon balm	lemon balm	tea	tea		
+T-120	hibiscus	hibiscus	lemon balm	lemon balm	tea, kale,	
+T-120	nitrites	nitrites	carcinogens	carcinogens	into	
+T-120	exercise	exercise	radiation	radiation	or	
+T-120	herbs	herbs	lemon balm	lemon balm	and spices such as cinnamon, cloves,	
+T-120	antioxidant	antioxidant	basil	basil	content than	
+T-120	hydroponic basil	hydroponic basil	antioxidant	antioxidant	has higher	
+T-120	boiling	boiling	potatoes	potatoes	may best retain the antioxidant power of sweet	
+T-120	lemongrass	lemongrass	cranberries	cranberries	tea, rosehip tea, rooibos tea, cherries, cloves,	
+T-120	skin	skin	inflammation	inflammation	aging, slow general aging, reduce alzheimer’s risk, reduce	
+T-120	kidney	kidney	ceylon cinnamon	ceylon cinnamon	beans,	
+T-120	goji	goji	lemon	lemon	berries, flaxseed, green tea, hibiscus tea, kale,	
+T-120	rooibos	rooibos	cranberry	cranberry	tea, cherries, cloves, cranberries and	
+T-120	boiling	boiling	sweet potatoes	sweet potatoes	may best retain the antioxidant power of	
+T-120	antioxidants	antioxidants	cabbage	cabbage	per dollar spent, red	
+T-120	antioxidants	antioxidants	acai berries	acai berries	include	
+T-120	herbs	herbs	cloves	cloves	and spices such as cinnamon,	
+T-120	lemon balm	lemon balm	hazelnuts	hazelnuts	tea, most leafy greens, olives, mushrooms, pecans, walnuts,	
+T-120	juice	juice	sugar	sugar	without added	
+T-120	rooibos	rooibos	cranberries	cranberries	tea, cherries, cloves,	
+T-120	lemon	lemon	mushrooms	mushrooms	balm tea, most leafy greens, olives,	
+T-120	organic	organic	antioxidants	antioxidants	produce appears to have more	
+T-120	lemon balm	lemon balm	greens	greens	tea, most leafy	
+T-120	raw	raw	antioxidant	antioxidant	can affect the	
+T-120	chamomile	chamomile	tea	tea		
+T-120	cranberry juice	cranberry juice	sugar	sugar	without added	
+T-120	goji	goji	berries	berries		
+T-120	dental	dental	health	health		
+T-120	plant foods	plant foods	meat	meat	to	
+T-120	beans	beans	vegetables	vegetables	and other legumes, nuts, and	
+T-120	dna	dna	dna damage	dna damage	damage, including countering possible	
+T-120	pomegranate	pomegranate	cherries	cherries	seeds, dried indian gooseberries, dried apples, dried	
+T-120	dandelion	dandelion	cherries	cherries	tea, lemongrass tea, rosehip tea, rooibos tea,	
+T-120	antioxidant	antioxidant	plant foods	plant foods	-rich	
+T-120	amla	amla	black beans	black beans	or indian gooseberries, beets, berries,	
+T-120	fertility	fertility	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	and sexual function, prevent and treat	
+T-120	lemon	lemon	oregano	oregano	balm, marjoram,	
+T-120	amla	amla	pinto beans	pinto beans	or indian gooseberries, beets, berries, black beans,	
+T-120	goji	goji	hibiscus tea	hibiscus tea	berries, flaxseed, green tea,	
+T-120	meat industry	meat industry	plant foods	plant foods	has considered adding	
+T-120	kidney	kidney	tea	tea	beans, ceylon cinnamon, chai	
+T-120	peppermint	peppermint	antioxidants	antioxidants	are so rich in	
+T-120	processed meat	processed meat	antioxidant	antioxidant	more carcinogenic.	
+T-120	amla	amla	berries	berries	or indian gooseberries, beets,	
+T-120	organic	organic	produce	produce		
+T-120	dandelion	dandelion	rooibos	rooibos	tea, lemongrass tea, rosehip tea,	
+T-120	antioxidant content	antioxidant content	basil	basil	than	
+T-120	pomegranate	pomegranate	goji berries	goji berries	seeds, dried indian gooseberries, dried apples, dried cherries,	
+T-120	exercise	exercise	dental	dental	or radiation exposure from air flights.antioxidants may enhance	
+T-120	hibiscus	hibiscus	kale	kale	tea,	
+T-120	dandelion	dandelion	cloves	cloves	tea, lemongrass tea, rosehip tea, rooibos tea, cherries,	
+T-120	goji	goji	green tea	green tea	berries, flaxseed,	
+T-120	pomegranate	pomegranate	dried apples	dried apples	seeds, dried indian gooseberries,	
+T-120	boiled	boiled	beans	beans		
+T-120	lemon balm	lemon balm	pecans	pecans	tea, most leafy greens, olives, mushrooms,	
+T-120	juice	juice	dark chocolate	dark chocolate	without added sugar, currants,	
+T-120	lemon	lemon	olives	olives	balm tea, most leafy greens,	
+T-120	hydroponic basil	hydroponic basil	antioxidant content	antioxidant content	has higher	
+T-120	cranberries	cranberries	chocolate	chocolate	and cranberry juice without added sugar, currants, dark	
+T-120	dental	dental	aging	aging	health, protect against skin	
+T-120	herbs	herbs	cinnamon	cinnamon	and spices such as	
+T-120	pomegranate	pomegranate	indian gooseberries	indian gooseberries	seeds, dried	
+T-120	cranberry	cranberry	date sugar	date sugar	juice without added sugar, currants, dark chocolate, dates,	
+T-120	rooibos	rooibos	cloves	cloves	tea, cherries,	
+T-120	antioxidants	antioxidants	gooseberries	gooseberries	include acai berries, apples, amla or indian	
+T-120	plant foods	plant foods	antioxidant	antioxidant	contain 64 times the	
+T-120	kidney	kidney	cinnamon	cinnamon	beans, ceylon	
+T-120	chamomile	chamomile	rooibos tea	rooibos tea	tea, dandelion tea, lemongrass tea, rosehip tea,	
+T-120	hydroponic basil	hydroponic basil	basil	basil	has higher antioxidant content than	
+T-120	fruit	fruit	antioxidants	antioxidants	or vegetable since many of the	
+T-120	lemongrass	lemongrass	rooibos tea	rooibos tea	tea, rosehip tea,	
+T-120	cranberries	cranberries	cranberry juice	cranberry juice	and	
+T-120	kidney	kidney	chamomile tea	chamomile tea	beans, ceylon cinnamon, chai tea,	
+T-120	juice	juice	currants	currants	without added sugar,	
+T-120	antioxidants	antioxidants	amla	amla	include acai berries, apples,	
+T-120	cranberry	cranberry	chocolate	chocolate	juice without added sugar, currants, dark	
+T-120	skin	skin	risk	risk	aging, slow general aging, reduce alzheimer’s	
+T-120	kidney	kidney	beans	beans		
+T-120	cranberry juice	cranberry juice	dark chocolate	dark chocolate	without added sugar, currants,	
+T-120	kidney	kidney	chai tea	chai tea	beans, ceylon cinnamon,	
+T-120	cranberry	cranberry	sugar	sugar	juice without added	
+T-120	rooibos	rooibos	cranberry juice	cranberry juice	tea, cherries, cloves, cranberries and	
+T-120	plant-based	plant-based	diet	diet		
+T-120	amla	amla	indian gooseberries	indian gooseberries	or	
+T-120	cranberries	cranberries	dark chocolate	dark chocolate	and cranberry juice without added sugar, currants,	
+T-120	skin	skin	aging	aging		
+T-120	spices	spices	lemon balm	lemon balm	such as cinnamon, cloves,	
+T-120	dandelion	dandelion	lemongrass	lemongrass	tea,	
+T-120	hibiscus	hibiscus	greens	greens	tea, kale, lemon balm tea, most leafy	
+T-120	basil	basil	antioxidant	antioxidant	has higher	
+T-120	caloric restriction	caloric restriction	exercise	exercise	and	
+T-120	cranberries	cranberries	sugar	sugar	and cranberry juice without added	
+T-120	basil	basil	antioxidant content	antioxidant content	has higher	
+T-120	goji	goji	lemon balm	lemon balm	berries, flaxseed, green tea, hibiscus tea, kale,	
+T-120	cranberry	cranberry	currants	currants	juice without added sugar,	
+T-120	rooibos	rooibos	juice	juice	tea, cherries, cloves, cranberries and cranberry	
+T-120	dandelion	dandelion	rooibos tea	rooibos tea	tea, lemongrass tea, rosehip tea,	
+T-120	antioxidant	antioxidant	animal products	animal products	power of	
+T-120	cranberries	cranberries	cranberry	cranberry	and	
+T-120	hydroponic	hydroponic	antioxidant content	antioxidant content	basil has higher	
+T-120	meat	meat	plant foods	plant foods	industry has considered adding	
+T-120	exercise	exercise	antioxidant	antioxidant	may also boost	
+T-120	antioxidants	antioxidants	berries	berries	include acai	
+T-120	chamomile	chamomile	lemongrass	lemongrass	tea, dandelion tea,	
+T-120	radiation	radiation	dental health	dental health	exposure from air flights.antioxidants may enhance	
+T-120	lemon	lemon	pecans	pecans	balm tea, most leafy greens, olives, mushrooms,	
+T-120	risk	risk	disease	disease	for stroke, heart attack, heart	
+T-120	cranberries	cranberries	currants	currants	and cranberry juice without added sugar,	
+T-120	amla	amla	gooseberries	gooseberries	or indian	
+T-120	pomegranate	pomegranate	apples	apples	seeds, dried indian gooseberries, dried	
+T-120	cranberries	cranberries	juice	juice	and cranberry	
+T-120	beans	beans	legumes	legumes	and other	
+T-120	hibiscus	hibiscus	olives	olives	tea, kale, lemon balm tea, most leafy greens,	
+T-120	stomach	stomach	antioxidant	antioxidant	cancer, and esophageal cancer.a daily	
+T-120	antioxidants	antioxidants	indian gooseberries	indian gooseberries	include acai berries, apples, amla or	
+T-120	cranberry juice	cranberry juice	chocolate	chocolate	without added sugar, currants, dark	
+T-120	tea	tea	antioxidants	antioxidants	may make more	
+T-120	goji	goji	kale	kale	berries, flaxseed, green tea, hibiscus tea,	
+T-120	juice	juice	chocolate	chocolate	without added sugar, currants, dark	
+T-120	herbs	herbs	marjoram	marjoram	and spices such as cinnamon, cloves, lemon balm,	
+T-120	rooibos	rooibos	tea	tea		
+T-120	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	asthma	asthma	(copd), prevent and treat	
+T-120	spices	spices	oregano	oregano	such as cinnamon, cloves, lemon balm, marjoram,	
+T-120	lemongrass	lemongrass	tea	tea		
+T-120	lemongrass	lemongrass	cherries	cherries	tea, rosehip tea, rooibos tea,	

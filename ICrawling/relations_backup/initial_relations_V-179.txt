@@ -1,0 +1,17 @@
+
+V-179	barberries	barberries	tumor	tumor	on human	
+V-179	chinese	chinese	herbal	herbal		
+V-179	chinese	chinese	herbs	herbs	herbal medicine, but less about the	
+V-179	barberries	barberries	breastfeeding	breastfeeding	during	
+V-179	barberries	barberries	antioxidant	antioxidant	as perhaps the most	
+V-179	antioxidant	antioxidant	fruit	fruit	packed dried	
+V-179	barberries	barberries	menstruation	menstruation	induce	
+V-179	herbal	herbal	herbs	herbs	medicine, but less about the	
+V-179	herbs	herbs	japan	japan	used in	
+V-179	antioxidant	antioxidant	dried fruit	dried fruit	packed	
+V-179	acne	acne	juice	juice	clearing up after barberry	
+V-179	barberries	barberries	fruit	fruit	as perhaps the most antioxidant packed dried	
+V-179	herbal	herbal	medicine	medicine		
+V-179	herbal	herbal	japan	japan	medicine, but less about the herbs used in	
+V-179	chinese	chinese	medicine	medicine	herbal	
+V-179	barberries	barberries	dried fruit	dried fruit	as perhaps the most antioxidant packed	

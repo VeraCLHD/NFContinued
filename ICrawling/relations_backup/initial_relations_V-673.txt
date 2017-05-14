@@ -1,0 +1,4 @@
+
+V-673	growth hormone	growth hormone	animal protein	animal protein	boosted by	
+V-673	growth hormone	growth hormone	protein	protein	boosted by animal	
+V-673	igf-1	igf-1	cancer	cancer	levels are linked to	

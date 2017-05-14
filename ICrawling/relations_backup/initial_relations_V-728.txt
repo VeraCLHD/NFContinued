@@ -1,0 +1,4 @@
+
+V-728	igf-1	igf-1	cancer	cancer	deficiency dying of	
+V-728	death	death	accidents	accidents	from	
+V-728	dwarfism	dwarfism	igf-1	igf-1	—that’s	

@@ -1,0 +1,60 @@
+
+V-249	herbal	herbal	tea	tea		
+V-249	herbal	herbal	vitamin a	vitamin a	preparations.in the developing world,	
+V-249	raw	raw	spinach	spinach	vegetables—especially	
+V-249	alcohol	alcohol	salt	salt	and caffeine; reduce sugar and	
+V-249	plant-based	plant-based	diet	diet		
+V-249	drugs	drugs	doctors	doctors	don’t work,	
+V-249	vegan	vegan	vitamin a	vitamin a	diet and	
+V-249	drugs	drugs	antihistamines	antihistamines	that can do it—	
+V-249	sugar	sugar	water	water	and salt intake, and increase	
+V-249	rice	rice	herbal tea	herbal tea	and	
+V-249	cereal	cereal	juice	juice	with non-fortified soymilk, and	
+V-249	diet	diet	vitamin a	vitamin a	and	
+V-249	brown rice	brown rice	tea	tea	and herbal	
+V-249	dehydration	dehydration	mouth	mouth	can cause a dry	
+V-249	rice	rice	herbal	herbal	and	
+V-249	eye disease	eye disease	eye	eye	is one of the most common	
+V-249	cholesterol	cholesterol	carbohydrates	carbohydrates	intake, and increase complex	
+V-249	zinc	zinc	beans	beans	and folate by eating whole-grains,	
+V-249	sugar	sugar	salt	salt	and	
+V-249	brown rice	brown rice	herbal tea	herbal tea	and	
+V-249	rice	rice	juice	juice	cereal with non-fortified soymilk, and	
+V-249	fruits	fruits	plant-based	plant-based	and vegetables.a	
+V-249	zinc	zinc	raw	raw	and folate by eating whole-grains, beans, and	
+V-249	hydration	hydration	water	water	by getting people to drink more	
+V-249	vitamin a	vitamin a	diet	diet	deficiency, but it wasn’t the kid’s vegan	
+V-249	rice	rice	cereal	cereal		
+V-249	bread	bread	juice	juice	and lime	
+V-249	vitamin c	vitamin c	alcohol	alcohol	by eating citrus; eliminate	
+V-249	zinc	zinc	folate	folate	and	
+V-249	potassium	potassium	bananas	bananas	intake by eating nuts,	
+V-249	lasik	lasik	surgery	surgery		
+V-249	vitamin a	vitamin a	orange	orange	content by eating red,	
+V-249	zinc	zinc	vegetables	vegetables	and folate by eating whole-grains, beans, and raw	
+V-249	folate	folate	spinach	spinach	by eating whole-grains, beans, and raw vegetables—especially	
+V-249	water	water	women	women	a day for	
+V-249	rice	rice	tea	tea	and herbal	
+V-249	vitamin a	vitamin a	vegan	vegan	deficiency, but it wasn’t the kid’s	
+V-249	vitamin c	vitamin c	citrus	citrus	by eating	
+V-249	alcohol	alcohol	caffeine	caffeine	and	
+V-249	raw	raw	potassium	potassium	vegetables—especially spinach; ensure sufficient b6 and	
+V-249	children	children	french fries	french fries	who refused to eat anything but	
+V-249	fruits	fruits	diet	diet	and vegetables.a plant-based	
+V-249	folate	folate	vegetables	vegetables	by eating whole-grains, beans, and raw	
+V-249	fruits	fruits	plant-based diet	plant-based diet	and vegetables.a	
+V-249	saliva	saliva	mouth	mouth	secretion decreases, giving us a dry	
+V-249	drugs	drugs	antidepressants	antidepressants	that can do it—antihistamines, decongestants, nearly all the	
+V-249	disease	disease	eye	eye	is one of the most common	
+V-249	potassium	potassium	beans	beans	intake by eating nuts, bananas, and	
+V-249	potassium	potassium	nuts	nuts	intake by eating	
+V-249	vitamin c	vitamin c	sugar	sugar	by eating citrus; eliminate alcohol and caffeine; reduce	
+V-249	eye	eye	disease	disease		
+V-249	vegan	vegan	diet	diet		
+V-249	alcohol	alcohol	sugar	sugar	and caffeine; reduce	
+V-249	salt	salt	water	water	intake, and increase	
+V-249	folate	folate	beans	beans	by eating whole-grains,	
+V-249	folate	folate	raw	raw	by eating whole-grains, beans, and	
+V-249	vitamin c	vitamin c	caffeine	caffeine	by eating citrus; eliminate alcohol and	
+V-249	raw	raw	vegetables	vegetables		
+V-249	brown rice	brown rice	herbal	herbal	and	

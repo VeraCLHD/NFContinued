@@ -1,0 +1,24 @@
+
+V-607	cheap	cheap	calories	calories		
+V-607	junk food	junk food	fruits	fruits	and meat is cheaper per calorie than	
+V-607	nutrient-dense	nutrient-dense	meat	meat	foods by replacing [some of] the	
+V-607	calories	calories	cheese	cheese	of	
+V-607	beans	beans	nutrient-dense	nutrient-dense	and raw vegetables are less expensive,”	
+V-607	calories	calories	candy	candy	of cheese, a hundred calories of	
+V-607	nutrient density	nutrient density	milk	milk	of fruits, vegetables, refined grains, meats,	
+V-607	beans	beans	sugar	sugar	and	
+V-607	nutrient density	nutrient density	vegetables	vegetables	of fruits,	
+V-607	nutrient density	nutrient density	fruits	fruits	of	
+V-607	vitamins	vitamins	minerals	minerals	and	
+V-607	junk food	junk food	vegetables	vegetables	may be four times cheaper than	
+V-607	beans	beans	raw	raw	and	
+V-607	raw	raw	nutrient-dense	nutrient-dense	vegetables are less expensive,”	
+V-607	nutrient density	nutrient density	grains	grains	of fruits, vegetables, refined	
+V-607	beans	beans	vegetables	vegetables	and raw	
+V-607	meat	meat	fruits	fruits	is cheaper per calorie than	
+V-607	meat	meat	nutrient-dense	nutrient-dense	…with…lower-cost	
+V-607	fruits	fruits	vegetables	vegetables	and	
+V-607	vegetables	vegetables	nutrient-dense	nutrient-dense	are less expensive,”	
+V-607	nutrient density	nutrient density	meats	meats	of fruits, vegetables, refined grains,	
+V-607	raw	raw	vegetables	vegetables		
+V-607	junk food	junk food	meat	meat	and	

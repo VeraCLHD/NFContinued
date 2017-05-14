@@ -1,0 +1,7 @@
+
+V-943	united states	united states	disease	disease	continues to be alzheimer’s	
+V-943	protein	protein	amyloid	amyloid		
+V-943	death	death	united states	united states	in the	
+V-943	apple	apple	juice	juice		
+V-943	death	death	disease	disease	in the united states continues to be alzheimer’s	
+V-943	protein	protein	amyloid	amyloid	in the brain called	

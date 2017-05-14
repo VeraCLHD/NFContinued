@@ -1,0 +1,21 @@
+
+V-575	risk	risk	pneumonia	pneumonia	of	
+V-575	kiwifruit	kiwifruit	folate	folate	has	
+V-575	kiwifruit	kiwifruit	sleep	sleep	consumption on	
+V-575	immune function	immune function	sleep	sleep	: “both reduced and prolonged habitual	
+V-575	sleep	sleep	mortality	mortality	duration were associated with increased	
+V-575	lifespan	lifespan	shortening	shortening		
+V-575	symptoms	symptoms	insomnia	insomnia	of	
+V-575	sleep	sleep	oxidative stress	oxidative stress	disorders tend to have high “levels of	
+V-575	kiwifruit	kiwifruit	insomnia	insomnia	has folate, and a deficiency might cause	
+V-575	vegetables	vegetables	antioxidants	antioxidants	have	
+V-575	serotonin	serotonin	tomatoes	tomatoes	of	
+V-575	sleep	sleep	pneumonia	pneumonia	durations [were] associated with [an] increased risk of	
+V-575	fruits	fruits	antioxidants	antioxidants	and vegetables have	
+V-575	sleep	sleep	risk	risk	durations [were] associated with [an] increased	
+V-575	sleep disorders	sleep disorders	oxidative stress	oxidative stress	tend to have high “levels of	
+V-575	sleep disorders	sleep disorders	stress	stress	tend to have high “levels of oxidative	
+V-575	lifespan	lifespan	sleep	sleep	shortening because being unhealthy causes you to	
+V-575	fruits	fruits	vegetables	vegetables	and	
+V-575	sleep	sleep	stress	stress	disorders tend to have high “levels of oxidative	
+V-575	shortening	shortening	sleep	sleep	because being unhealthy causes you to	

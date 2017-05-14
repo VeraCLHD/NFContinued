@@ -1,0 +1,10 @@
+
+V-518	california	california	carcinogen	carcinogen	officially listed it as a	
+V-518	lead	lead	carcinogens	carcinogens	to the formation of	
+V-518	carcinogen	carcinogen	california	california	levels in their products—but only in	
+V-518	cola	cola	soy	soy	[s] and beer to gravies and	
+V-518	beer	beer	soy sauce	soy sauce	to gravies and	
+V-518	cola	cola	beer	beer	[s] and	
+V-518	beer	beer	soy	soy	to gravies and	
+V-518	cola	cola	soy sauce	soy sauce	[s] and beer to gravies and	
+V-518	carcinogen	carcinogen	california	california	.to be safe,	

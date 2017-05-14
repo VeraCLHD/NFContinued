@@ -1,0 +1,16 @@
+
+A-277	risk	risk	disease	disease	of lung	
+A-277	popcorn	popcorn	diacetyl	diacetyl	lung,” where workers who had been exposed to	
+A-277	bronchiolitis obliterans	bronchiolitis obliterans	butter	butter	: the chemical is found in real	
+A-277	drug residues	drug residues	meat	meat	in	
+A-277	disease	disease	bronchiolitis obliterans	bronchiolitis obliterans	called	
+A-277	flavoring	flavoring	popcorn lung	popcorn lung	being linked to a condition known as “	
+A-277	lung disease	lung disease	bronchiolitis obliterans	bronchiolitis obliterans	called	
+A-277	food additives	food additives	health	health	has simply “fallen between the regulatory and	
+A-277	health	health	food additives	food additives	hazards from	
+A-277	cold	cold	popcorn	popcorn		
+A-277	gas	gas	phosgene	phosgene		
+A-277	flavoring	flavoring	popcorn	popcorn	being linked to a condition known as “	
+A-277	butter	butter	popcorn	popcorn	-flavored microwave	
+A-277	risk	risk	lung disease	lung disease	of	
+A-277	butter	butter	flavoring	flavoring		

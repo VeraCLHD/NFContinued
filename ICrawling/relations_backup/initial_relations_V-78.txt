@@ -1,0 +1,14 @@
+
+V-78	plant-based diet	plant-based diet	heart disease	heart disease	followed by populations that did not get epidemic	
+V-78	arteries	arteries	surgery	surgery	without drugs, without	
+V-78	kids	kids	diet	diet	raised on the standard american	
+V-78	diet	diet	heart disease	heart disease	followed by populations that did not get epidemic	
+V-78	plaque	plaque	surgery	surgery	away, opening up arteries without drugs, without	
+V-78	arteries	arteries	drugs	drugs	without	
+V-78	plant-based	plant-based	diet	diet		
+V-78	cancer	cancer	risk	risk		
+V-78	plaque	plaque	drugs	drugs	away, opening up arteries without	
+V-78	lung cancer	lung cancer	risk	risk		
+V-78	plaque	plaque	arteries	arteries	away, opening up	
+V-78	pain	pain	pills	pills		
+V-78	kids	kids	standard american diet	standard american diet	raised on the	

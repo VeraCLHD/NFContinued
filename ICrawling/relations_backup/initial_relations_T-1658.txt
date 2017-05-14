@@ -1,0 +1,107 @@
+
+T-1658	nuts	nuts	seeds	seeds	and	
+T-1658	risk	risk	disease	disease	for cardiovascular	
+T-1658	flax	flax	breast pain	breast pain	seed intake may treat diabetes, cardiovascular disease, menstrual	
+T-1658	prostate	prostate	poppy seeds	poppy seeds	cancer.soaking and cooking	
+T-1658	doctors	doctors	seeds	seeds	to avoid nuts,	
+T-1658	risk	risk	prostate cancer	prostate cancer	reduction in both breast cancer and	
+T-1658	flax	flax	prostate	prostate	seeds could be a potential complementary therapy for	
+T-1658	seeds	seeds	flax	flax	yields cups of fresh produce for just pennies.regular	
+T-1658	prostate	prostate	cancer	cancer		
+T-1658	fat	fat	burning	burning		
+T-1658	risk	risk	breast cancer	breast cancer	reduction in both	
+T-1658	sudden cardiac death	sudden cardiac death	tryptophan	tryptophan	risk; and	
+T-1658	flax seeds	flax seeds	risk	risk	are associated with a	
+T-1658	doctors	doctors	popcorn	popcorn	to avoid nuts, seeds, and	
+T-1658	usda	usda	plant-based diet	plant-based diet	guidelines recommended a shift to a more	
+T-1658	broccoli	broccoli	produce	produce	sprouts from broccoli seeds yields cups of fresh	
+T-1658	pomegranate	pomegranate	antioxidants	antioxidants	seeds are very high in	
+T-1658	cardiac death	cardiac death	tryptophan	tryptophan	risk; and	
+T-1658	fenugreek	fenugreek	melatonin	melatonin	seeds, and mustard seeds are potential sources of	
+T-1658	breast cancer	breast cancer	pomegranate	pomegranate	cells.dried	
+T-1658	sprouts	sprouts	seeds	seeds	from broccoli	
+T-1658	flax	flax	cardiovascular disease	cardiovascular disease	seed intake may treat diabetes,	
+T-1658	death	death	tryptophan	tryptophan	risk; and	
+T-1658	fat	fat	sudden cardiac death	sudden cardiac death	burning; magnesium, an essential mineral that may reduce	
+T-1658	seeds	seeds	phytonutrients	phytonutrients	can help with the absorption of certain	
+T-1658	plant-based	plant-based	seeds	seeds	diet, including	
+T-1658	tumor	tumor	cancer	cancer	cells including breast	
+T-1658	risk	risk	prostate	prostate	reduction in both breast cancer and	
+T-1658	diverticulosis	diverticulosis	seeds	seeds	have been advised by doctors to avoid nuts,	
+T-1658	risk	risk	fat	fat	factors than	
+T-1658	risk	risk	cardiovascular disease	cardiovascular disease	for	
+T-1658	risk	risk	cancer	cancer	reduction in both breast	
+T-1658	breast cancer	breast cancer	cancer	cancer	and prostate	
+T-1658	breast cancer	breast cancer	prostate cancer	prostate cancer	and	
+T-1658	morphine	morphine	drug testing	drug testing	and codeine levels, but those undergoing	
+T-1658	cooking	cooking	seeds	seeds	poppy	
+T-1658	fat	fat	seeds	seeds	from whole nuts and	
+T-1658	broccoli	broccoli	sprouts	sprouts		
+T-1658	breast cancer	breast cancer	prostate	prostate	and	
+T-1658	produce	produce	flax	flax	for just pennies.regular	
+T-1658	flax	flax	disease	disease	seed intake may treat diabetes, cardiovascular	
+T-1658	depression	depression	risk	risk		
+T-1658	sprouts	sprouts	produce	produce	from broccoli seeds yields cups of fresh	
+T-1658	seeds	seeds	risk	risk	are associated with a	
+T-1658	risk	risk	diabetes	diabetes	for cardiovascular disease,	
+T-1658	seeds	seeds	prostate	prostate	could be a potential complementary therapy for	
+T-1658	antioxidants	antioxidants	risk	risk	which may reduce several	
+T-1658	broccoli sprouts	broccoli sprouts	seeds	seeds	from broccoli	
+T-1658	flax	flax	fenugreek	fenugreek	seeds,	
+T-1658	cancer	cancer	prostate cancer	prostate cancer	and	
+T-1658	plant-based	plant-based	diet	diet		
+T-1658	risk	risk	olive oil	olive oil	factors than fat from	
+T-1658	flax seeds	flax seeds	prostate	prostate	could be a potential complementary therapy for	
+T-1658	flax	flax	seeds	seeds		
+T-1658	flax	flax	risk	risk	seeds are associated with a	
+T-1658	flax	flax	health	health	seed intake offers different potential	
+T-1658	flax	flax	diabetes	diabetes	seed intake may treat	
+T-1658	cancer	cancer	seeds	seeds	cells.dried pomegranate	
+T-1658	diverticulosis	diverticulosis	nuts	nuts	have been advised by doctors to avoid	
+T-1658	prostate	prostate	morphine	morphine	cancer.soaking and cooking poppy seeds can lower their	
+T-1658	seeds	seeds	breast cancer	breast cancer	are associated with a risk reduction in both	
+T-1658	usda	usda	plant-based	plant-based	guidelines recommended a shift to a more	
+T-1658	phytonutrients	phytonutrients	risk	risk	and is likely better for cardiovascular	
+T-1658	doctors	doctors	nuts	nuts	to avoid	
+T-1658	death	death	risk	risk		
+T-1658	cooking	cooking	morphine	morphine	poppy seeds can lower their	
+T-1658	ground flax	ground flax	seeds	seeds		
+T-1658	breast cancer	breast cancer	seeds	seeds	cells.dried pomegranate	
+T-1658	cancer	cancer	prostate	prostate	and	
+T-1658	diverticulosis	diverticulosis	doctors	doctors	have been advised by	
+T-1658	seeds	seeds	produce	produce	yields cups of fresh	
+T-1658	fenugreek	fenugreek	seeds	seeds		
+T-1658	breast cancer	breast cancer	antioxidants	antioxidants	cells.dried pomegranate seeds are very high in	
+T-1658	broccoli sprouts	broccoli sprouts	produce	produce	from broccoli seeds yields cups of fresh	
+T-1658	fenugreek	fenugreek	mustard seeds	mustard seeds	seeds, and	
+T-1658	poppy seeds	poppy seeds	morphine	morphine	can lower their	
+T-1658	pomegranate	pomegranate	seeds	seeds		
+T-1658	seeds	seeds	phytonutrients	phytonutrients	can provide a combination of	
+T-1658	broccoli	broccoli	seeds	seeds	sprouts from broccoli	
+T-1658	cancer	cancer	pomegranate	pomegranate	cells.dried	
+T-1658	seeds	seeds	antioxidants	antioxidants	can provide a combination of phytonutrients and	
+T-1658	cancer	cancer	cancer	cancer	and prostate	
+T-1658	prostate	prostate	cooking	cooking	cancer.soaking and	
+T-1658	tumor	tumor	pomegranate	pomegranate	cells including breast cancer cells.dried	
+T-1658	nuts	nuts	avocados	avocados	and	
+T-1658	nuts	nuts	fats	fats	and avocados, are excellent sources of healthier	
+T-1658	cardiac death	cardiac death	risk	risk		
+T-1658	prostate	prostate	seeds	seeds	cancer.soaking and cooking poppy	
+T-1658	sprouts	sprouts	broccoli	broccoli	from	
+T-1658	sudden cardiac death	sudden cardiac death	risk	risk		
+T-1658	seeds	seeds	arginine	arginine	are a source of	
+T-1658	risk	risk	usda	usda	factors for chronic disease.the 2010	
+T-1658	risk	risk	cancer	cancer	for cardiovascular disease, diabetes, and	
+T-1658	tumor	tumor	seeds	seeds	cells including breast cancer cells.dried pomegranate	
+T-1658	broccoli sprouts	broccoli sprouts	broccoli	broccoli	from	
+T-1658	usda	usda	diet	diet	guidelines recommended a shift to a more plant-based	
+T-1658	phytonutrients	phytonutrients	risk	risk	and antioxidants which may reduce several	
+T-1658	fat	fat	magnesium	magnesium	burning;	
+T-1658	cancer	cancer	antioxidants	antioxidants	cells.dried pomegranate seeds are very high in	
+T-1658	tumor	tumor	breast cancer	breast cancer	cells including	
+T-1658	flax seeds	flax seeds	breast cancer	breast cancer	are associated with a risk reduction in both	
+T-1658	flax	flax	mustard seeds	mustard seeds	seeds, fenugreek seeds, and	
+T-1658	cooking	cooking	poppy seeds	poppy seeds		
+T-1658	fat	fat	nuts	nuts	from whole	
+T-1658	mustard seeds	mustard seeds	melatonin	melatonin	are potential sources of	
+T-1658	phytonutrients	phytonutrients	antioxidants	antioxidants	and	

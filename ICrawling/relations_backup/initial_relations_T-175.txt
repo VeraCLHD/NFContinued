@@ -1,0 +1,9 @@
+
+T-175	seafood	seafood	fecal bacteria	fecal bacteria	has been shown to harbor	
+T-175	seafood	seafood	sushi	sushi	has been shown to harbor fecal bacteria, avocado	
+T-175	sushi	sushi	seafood	seafood	made out of	
+T-175	doctors	doctors	fats	fats	surveyed didn’t know, and contain monounsaturated (“good	
+T-175	avocado	avocado	sushi	sushi		
+T-175	seafood	seafood	bacteria	bacteria	has been shown to harbor fecal	
+T-175	seafood	seafood	avocado	avocado	has been shown to harbor fecal bacteria,	
+T-175	avocados	avocados	doctors	doctors	are essentially cholesterol-free, something 71% of	

@@ -1,0 +1,18 @@
+
+V-547	atherosclerosis	atherosclerosis	kids	kids	[were] found in the arteries of 100% of	
+V-547	arteries	arteries	bad cholesterol	bad cholesterol	covered in fatty streaks as the level of	
+V-547	arteries	arteries	coronary heart disease	coronary heart disease	years and decades before the age at which	
+V-547	arteries	arteries	kids	kids	of 100% of	
+V-547	heart disease	heart disease	symptoms	symptoms	…becomes a clinically recognized problem”—before	
+V-547	atherosclerosis	atherosclerosis	arteries	arteries	[hardening of the	
+V-547	kids	kids	diet	diet	out on a low-saturated fat	
+V-547	atherosclerosis	atherosclerosis	arteries	arteries	[were] found in the	
+V-547	blood pressure	blood pressure	blood	blood	and	
+V-547	prevention	prevention	atherosclerosis	atherosclerosis	of	
+V-547	disease	disease	symptoms	symptoms	…becomes a clinically recognized problem”—before	
+V-547	risk	risk	cholesterol	cholesterol	factor was	
+V-547	coronary heart disease	coronary heart disease	symptoms	symptoms	…becomes a clinically recognized problem”—before	
+V-547	kids	kids	disease	disease	have fatty streaks, the first stage of the	
+V-547	fat	fat	diet	diet		
+V-547	kids	kids	fat	fat	out on a low-saturated	
+V-547	bad cholesterol	bad cholesterol	blood	blood	in the	

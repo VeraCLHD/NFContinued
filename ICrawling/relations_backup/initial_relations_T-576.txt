@@ -1,0 +1,67 @@
+
+T-576	gooseberries	gooseberries	flaxseeds	flaxseeds	(amla), coffee, soy,	
+T-576	protein	protein	gestational diabetes	gestational diabetes	foods may reduce the risk of diabetes and	
+T-576	protein	protein	risk	risk	foods may reduce the	
+T-576	chamomile	chamomile	broccoli	broccoli	tea, purple potatoes,	
+T-576	babies	babies	baby formula	baby formula	fed	
+T-576	chamomile	chamomile	potatoes	potatoes	tea, purple	
+T-576	broccoli	broccoli	beans	beans	sprouts, whole grains, vinegar, and	
+T-576	animal products	animal products	fat	fat	and high	
+T-576	chamomile	chamomile	purple potatoes	purple potatoes	tea,	
+T-576	beans	beans	whole grains	whole grains	), chamomile tea, purple potatoes, broccoli sprouts,	
+T-576	beans	beans	grains	grains	), chamomile tea, purple potatoes, broccoli sprouts, whole	
+T-576	beans	beans	broccoli sprouts	broccoli sprouts	), chamomile tea, purple potatoes,	
+T-576	risk	risk	diabetes	diabetes	of obesity, type 1 and type 2	
+T-576	chamomile	chamomile	whole grains	whole grains	tea, purple potatoes, broccoli sprouts,	
+T-576	gooseberries	gooseberries	soy	soy	(amla), coffee,	
+T-576	baby	baby	risk	risk	formula seemed to have a higher	
+T-576	gooseberries	gooseberries	beans	beans	(amla), coffee, soy, flaxseeds, green tea, pulses (dried	
+T-576	beans	beans	purple potatoes	purple potatoes	), chamomile tea,	
+T-576	broccoli	broccoli	grains	grains	sprouts, whole	
+T-576	gooseberries	gooseberries	coffee	coffee	(amla),	
+T-576	amla	amla	flaxseeds	flaxseeds	), coffee, soy,	
+T-576	beans	beans	sprouts	sprouts	), chamomile tea, purple potatoes, broccoli	
+T-576	diabetes	diabetes	blindness	blindness	can cause	
+T-576	risk	risk	obesity	obesity	of	
+T-576	beans	beans	potatoes	potatoes	), chamomile tea, purple	
+T-576	baby formula	baby formula	obesity	obesity	seemed to have a higher risk of	
+T-576	beans	beans	tea	tea	), chamomile	
+T-576	risk	risk	gestational diabetes	gestational diabetes	of diabetes and	
+T-576	gooseberries	gooseberries	green tea	green tea	(amla), coffee, soy, flaxseeds,	
+T-576	fat	fat	protein	protein	and high	
+T-576	protein	protein	diabetes	diabetes	foods may reduce the risk of	
+T-576	babies	babies	risk	risk	fed baby formula seemed to have a higher	
+T-576	amla	amla	tea	tea	), coffee, soy, flaxseeds, green	
+T-576	animal products	animal products	protein	protein	and high fat and high	
+T-576	baby	baby	obesity	obesity	formula seemed to have a higher risk of	
+T-576	beans	beans	broccoli	broccoli	), chamomile tea, purple potatoes,	
+T-576	erythritol	erythritol	sugar	sugar	is a nontoxic	
+T-576	chamomile	chamomile	broccoli sprouts	broccoli sprouts	tea, purple potatoes,	
+T-576	broccoli	broccoli	vinegar	vinegar	sprouts, whole grains,	
+T-576	meat	meat	rice	rice	or refined carbs, such as white	
+T-576	chamomile	chamomile	sprouts	sprouts	tea, purple potatoes, broccoli	
+T-576	plant-based diets	plant-based diets	whole foods	whole foods	(especially	
+T-576	gestational diabetes	gestational diabetes	obesity	obesity	by boosting our hormone-binding proteins, helping to prevent	
+T-576	pcbs	pcbs	industrial toxins	industrial toxins	and other	
+T-576	amla	amla	beans	beans	), coffee, soy, flaxseeds, green tea, pulses (dried	
+T-576	amla	amla	green tea	green tea	), coffee, soy, flaxseeds,	
+T-576	meat	meat	carbs	carbs	or refined	
+T-576	baby formula	baby formula	risk	risk	seemed to have a higher	
+T-576	beans	beans	meat	meat	may be especially beneficial when replacing	
+T-576	exercise	exercise	diabetes	diabetes	and weight-loss may work just as well against	
+T-576	diabetes	diabetes	meat	meat	including in children.excluding	
+T-576	diabetes	diabetes	animal products	animal products	including in children.excluding meat, milk, and other	
+T-576	diabetes	diabetes	drugs	drugs		
+T-576	fat	fat	risk	risk	and high protein foods may reduce the	
+T-576	broccoli	broccoli	sprouts	sprouts		
+T-576	gooseberries	gooseberries	tea	tea	(amla), coffee, soy, flaxseeds, green	
+T-576	chamomile	chamomile	vinegar	vinegar	tea, purple potatoes, broccoli sprouts, whole grains,	
+T-576	broccoli	broccoli	whole grains	whole grains	sprouts,	
+T-576	chamomile	chamomile	grains	grains	tea, purple potatoes, broccoli sprouts, whole	
+T-576	babies	babies	baby	baby	fed	
+T-576	risk	risk	diabetes	diabetes	of	
+T-576	chamomile	chamomile	tea	tea		
+T-576	pcbs	pcbs	toxins	toxins	and other industrial	
+T-576	plant-based	plant-based	whole foods	whole foods	diets (especially	
+T-576	amla	amla	soy	soy	), coffee,	
+T-576	diabetes	diabetes	milk	milk	including in children.excluding meat,	

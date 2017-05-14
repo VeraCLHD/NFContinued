@@ -1,0 +1,55 @@
+
+V-606	alcoholic beverages	alcoholic beverages	beverages	beverages	—all alcoholic	
+V-606	breast cancer	breast cancer	light drinking	light drinking	deaths a year are “attributable to	
+V-606	risk	risk	cancer	cancer	for breast	
+V-606	acetaldehyde	acetaldehyde	saliva	saliva	in	
+V-606	cancer	cancer	heart disease prevention	heart disease prevention	development against” the benefits for	
+V-606	beverages	beverages	alcoholic beverages	alcoholic beverages	—all	
+V-606	liquor	liquor	mouth	mouth	in your	
+V-606	risk	risk	breast cancer	breast cancer	for	
+V-606	acetaldehyde	acetaldehyde	health	health	in saliva, prudent public	
+V-606	public health	public health	alcohol	alcohol	policy would recommend generally refraining from using	
+V-606	breast cancer	breast cancer	risk	risk		
+V-606	cancer	cancer	disease	disease	development against” the benefits for heart	
+V-606	heart disease	heart disease	prevention	prevention		
+V-606	breast cancer	breast cancer	heart disease	heart disease	development against” the benefits for	
+V-606	alcohol	alcohol	cancer	cancer	consumption increases the risk of [breast]	
+V-606	acetaldehyde	acetaldehyde	alcohol	alcohol	…produced from [the	
+V-606	breast cancer	breast cancer	heart disease prevention	heart disease prevention	development against” the benefits for	
+V-606	margin of safety	margin of safety	mouthwash	mouthwash	in the use of alcohol-containing	
+V-606	cancer	cancer	prevention	prevention	development against” the benefits for heart disease	
+V-606	cancer	cancer	light drinking	light drinking	deaths a year are “attributable to	
+V-606	exercise	exercise	alcohol	alcohol	is better, for	
+V-606	alcohol	alcohol	risk	risk	consumption appears to increase the	
+V-606	heart disease prevention	heart disease prevention	alcohol	alcohol	“to make the best personal choice regarding	
+V-606	light drinking	light drinking	breast cancer	breast cancer	”—meaning nearly 5,000 women that died of	
+V-606	risk	risk	cancer	cancer	of [breast]	
+V-606	risk	risk	alcohol	alcohol	of developing an	
+V-606	light drinking	light drinking	cancer	cancer	”—meaning nearly 5,000 women that died of breast	
+V-606	disease	disease	prevention	prevention		
+V-606	breast cancer	breast cancer	prevention	prevention	development against” the benefits for heart disease	
+V-606	cancer	cancer	risk	risk		
+V-606	bacteria	bacteria	carcinogen	carcinogen	in our mouths oxidize alcohol into this	
+V-606	women	women	alcohol	alcohol	who consume	
+V-606	alcohol	alcohol	cancer	cancer	use on breast	
+V-606	alcohol	alcohol	breast cancer	breast cancer	use on	
+V-606	cancer	cancer	heart disease	heart disease	development against” the benefits for	
+V-606	world health organization	world health organization	cancer	cancer	body that decides what is and is not	
+V-606	alcohol	alcohol	acetaldehyde	acetaldehyde	into this carcinogen called	
+V-606	breast cancer	breast cancer	disease	disease	development against” the benefits for heart	
+V-606	bacteria	bacteria	alcohol	alcohol	in our mouths oxidize	
+V-606	disease	disease	alcohol	alcohol	prevention “to make the best personal choice regarding	
+V-606	health	health	alcohol	alcohol	policy would recommend generally refraining from using	
+V-606	alcohol	alcohol	risk	risk	consumption increases the	
+V-606	light drinking	light drinking	women	women	”—meaning nearly 5,000	
+V-606	risk	risk	cancer	cancer	of developing an alcohol related	
+V-606	alcohol	alcohol	breast cancer	breast cancer	consumption that doesn’t raise	
+V-606	carcinogen	carcinogen	acetaldehyde	acetaldehyde	called	
+V-606	women	women	cancer	cancer	that died of breast	
+V-606	acetaldehyde	acetaldehyde	public health	public health	in saliva, prudent	
+V-606	alcohol	alcohol	carcinogen	carcinogen	into this	
+V-606	women	women	breast cancer	breast cancer	that died of	
+V-606	alcohol	alcohol	cancer	cancer	consumption that doesn’t raise breast	
+V-606	prevention	prevention	alcohol	alcohol	“to make the best personal choice regarding	
+V-606	alcohol	alcohol	risk	risk	consumption that doesn’t raise breast cancer	
+V-606	heart disease	heart disease	alcohol	alcohol	prevention “to make the best personal choice regarding	

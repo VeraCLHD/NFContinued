@@ -1,0 +1,49 @@
+
+V-417	tea	tea	soy	soy	and	
+V-417	mangoes	mangoes	plant-based	plant-based	and the skin of cucumbers.maybe that’s why	
+V-417	tor	tor	cancer	cancer	expression has been noted in breast	
+V-417	breast cancer	breast cancer	tumors	tumors		
+V-417	aging	aging	disease	disease	and age-related	
+V-417	risk	risk	breast cancer	breast cancer	of	
+V-417	tea	tea	grapes	grapes	and soy, and turmeric, and	
+V-417	skin	skin	plant-based diets	plant-based diets	of cucumbers.maybe that’s why	
+V-417	risk	risk	cancer	cancer	of breast	
+V-417	plant-based	plant-based	risk	risk	diets are associated with lower	
+V-417	green tea	green tea	soy	soy	and	
+V-417	tor	tor	breast cancer	breast cancer	expression has been noted in	
+V-417	green tea	green tea	grapes	grapes	and soy, and turmeric, and	
+V-417	fruits	fruits	onions	onions	and vegetables such as	
+V-417	skin	skin	plant-based	plant-based	of cucumbers.maybe that’s why	
+V-417	cancer	cancer	tor	tor	biology, sustained proliferative signaling.	
+V-417	tor	tor	tumors	tumors	expression has been noted in breast cancer	
+V-417	fruits	fruits	strawberries	strawberries	and vegetables such as onions,	
+V-417	plant-based diets	plant-based diets	risk	risk	are associated with lower	
+V-417	cancer	cancer	disease	disease	tumors, and associated with more aggressive	
+V-417	breast cancer	breast cancer	disease	disease	tumors, and associated with more aggressive	
+V-417	protein	protein	tor	tor	intake can attenuate overall	
+V-417	cancer	cancer	skin	skin	that often affects the	
+V-417	hormones	hormones	cancer	cancer	in milk, but maybe prostate	
+V-417	prostate	prostate	cancer	cancer		
+V-417	tea	tea	turmeric	turmeric	and soy, and	
+V-417	milk	milk	tor	tor	-mediated	
+V-417	green tea	green tea	turmeric	turmeric	and soy, and	
+V-417	caloric restriction	caloric restriction	cancer	cancer	in humans may confer protection from invasive breast	
+V-417	hormones	hormones	prostate cancer	prostate cancer	in milk, but maybe	
+V-417	fruits	fruits	mangoes	mangoes	and vegetables such as onions, strawberries, blueberries,	
+V-417	tor	tor	prostate	prostate	is upregulated in nearly 100% of advanced human	
+V-417	animal protein	animal protein	tor	tor	intake can attenuate overall	
+V-417	mangoes	mangoes	skin	skin	and the	
+V-417	risk	risk	tor	tor	for many cancers, the downregulation of	
+V-417	cancer	cancer	milk	milk	initiation and progression is also promoted by cow’s	
+V-417	mangoes	mangoes	plant-based diets	plant-based diets	and the skin of cucumbers.maybe that’s why	
+V-417	cancer	cancer	tumors	tumors		
+V-417	tor	tor	cancer	cancer	appears to play a role in breast	
+V-417	caloric restriction	caloric restriction	breast cancer	breast cancer	in humans may confer protection from invasive	
+V-417	hormones	hormones	milk	milk	in	
+V-417	prostate cancer	prostate cancer	milk	milk	initiation and progression is also promoted by cow’s	
+V-417	hormones	hormones	prostate	prostate	in milk, but maybe	
+V-417	fruits	fruits	blueberries	blueberries	and vegetables such as onions, strawberries,	
+V-417	biopsy	biopsy	cancer	cancer	proven kaposi’s sarcoma, a	
+V-417	breast cancer	breast cancer	tor	tor	by suppressing	
+V-417	cancer	cancer	tor	tor	by suppressing	
+V-417	fruits	fruits	vegetables	vegetables	and	

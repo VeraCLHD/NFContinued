@@ -1,0 +1,19 @@
+
+V-1007	milk	milk	mucus	mucus	and increased	
+V-1007	milk	milk	mucus	mucus	increase	
+V-1007	milk	milk	casein	casein	protein	
+V-1007	stomach	stomach	produce	produce	to	
+V-1007	casein	casein	produce	produce	breaks down in the stomach to	
+V-1007	mucus	mucus	asthma	asthma	production, find that many of their symptoms, including	
+V-1007	mucus	mucus	symptoms	symptoms	production, find that many of their	
+V-1007	milk	milk	produce	produce	protein casein breaks down in the stomach to	
+V-1007	milk	milk	stomach	stomach	protein casein breaks down in the	
+V-1007	protein	protein	produce	produce	casein breaks down in the stomach to	
+V-1007	milk	milk	protein	protein		
+V-1007	casein	casein	stomach	stomach	breaks down in the	
+V-1007	produce	produce	casomorphin	casomorphin	a substance called	
+V-1007	dairy	dairy	milk	milk	council denies there’s an association between	
+V-1007	protein	protein	casein	casein		
+V-1007	protein	protein	stomach	stomach	casein breaks down in the	
+V-1007	stomach	stomach	casomorphin	casomorphin	to produce a substance called	
+V-1007	dairy	dairy	diet	diet	elimination	

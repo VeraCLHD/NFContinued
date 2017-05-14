@@ -1,0 +1,288 @@
+
+A-473	edamame	edamame	soy milk	soy milk	b.	
+A-473	celery	celery	eggplant	eggplant	k. cucumber l. curly cabbage m.	
+A-473	milk	milk	tofu	tofu	c. tempeh d.	
+A-473	cranberries	cranberries	cabbage	cabbage	g. goji berries h. pecans i. purple	
+A-473	squash	squash	asparagus	asparagus	b.	
+A-473	saccharin	saccharin	stevia	stevia	f.	
+A-473	corn	corn	brown sugar	brown sugar	syrup e. dark	
+A-473	beverage	beverage	juice	juice	: a. apple	
+A-473	tea	tea	orange	orange	e.	
+A-473	fiddlehead ferns	fiddlehead ferns	cabbage	cabbage	q. garlic r. green bean s. green	
+A-473	juice	juice	coffee	coffee	from concentrate b. cranberry juice cocktail c. hot	
+A-473	fennel	fennel	garlic	garlic	p. fiddlehead ferns q.	
+A-473	beverage	beverage	cranberry juice	cranberry juice	: a. apple juice from concentrate b.	
+A-473	broccoli	broccoli	sprouts	sprouts	g. brussels	
+A-473	juice	juice	cranberry	cranberry	from concentrate b.	
+A-473	boston	boston	brussels sprouts	brussels sprouts	lettuce f. broccoli g.	
+A-473	pepper	pepper	radicchio	radicchio	y. potato z.	
+A-473	asparagus	asparagus	lettuce	lettuce	c. beets d. bok choi e. boston	
+A-473	cocoa	cocoa	apple	apple	powder h. a teaspoon of cinnamon i. an	
+A-473	cinnamon	cinnamon	berries	berries	e. cloves f. cranberries g. goji	
+A-473	cocoa	cocoa	chocolate	chocolate	powder d. dark	
+A-473	antioxidants	antioxidants	berries	berries	per serving: a. a half cup of acai	
+A-473	brown rice syrup	brown rice syrup	sugar	sugar	d. corn syrup e. dark brown	
+A-473	cranberries	cranberries	goji berries	goji berries	g.	
+A-473	cocoa	cocoa	cinnamon	cinnamon	powder h. a teaspoon of	
+A-473	artichokes	artichokes	cloves	cloves	d. cinnamon e.	
+A-473	boiling	boiling	cooking	cooking	c. frying d. griddling e. microwaving f. pressure	
+A-473	erythritol	erythritol	xylitol	xylitol	e. saccharin f. stevia g. sucralose h.	
+A-473	cranberry juice	cranberry juice	coffee	coffee	cocktail c. hot	
+A-473	agave nectar	agave nectar	rice	rice	b. blackstrap molasses c. brown	
+A-473	fennel	fennel	fiddlehead ferns	fiddlehead ferns	p.	
+A-473	sweetener	sweetener	brown rice syrup	brown rice syrup	: a. agave nectar b. blackstrap molasses c.	
+A-473	cauliflower	cauliflower	cabbage	cabbage	j. celery k. cucumber l. curly	
+A-473	molasses	molasses	corn	corn	c. brown rice syrup d.	
+A-473	rice	rice	sugar	sugar	syrup d. corn syrup e. dark brown	
+A-473	celery	celery	endive	endive	k. cucumber l. curly cabbage m. eggplant n.	
+A-473	blueberries	blueberries	cranberries	cranberries	c. a half cup of	
+A-473	chocolate	chocolate	baking	baking	fix: a.	
+A-473	goji	goji	pecans	pecans	berries h.	
+A-473	artichokes	artichokes	berries	berries	d. cinnamon e. cloves f. cranberries g. goji	
+A-473	goji	goji	pecans	pecans	berries e. a handful of	
+A-473	cranberries	cranberries	pecans	pecans	g. goji berries h.	
+A-473	eggplant	eggplant	garlic	garlic	n. endive o. fennel p. fiddlehead ferns q.	
+A-473	sprouts	sprouts	cauliflower	cauliflower	h. carrot i.	
+A-473	brown rice	brown rice	corn	corn	syrup d.	
+A-473	boston	boston	sprouts	sprouts	lettuce f. broccoli g. brussels	
+A-473	eggplant	eggplant	fennel	fennel	n. endive o.	
+A-473	endive	endive	fennel	fennel	o.	
+A-473	sugar	sugar	date sugar	date sugar	f.	
+A-473	edamame	edamame	soy	soy	b.	
+A-473	cooking method	cooking method	frying	frying	: a. baking b. boiling c.	
+A-473	pecan	pecan	peanut	peanut	f.	
+A-473	cauliflower	cauliflower	eggplant	eggplant	j. celery k. cucumber l. curly cabbage m.	
+A-473	boston	boston	lettuce	lettuce		
+A-473	kale	kale	orange	orange	w. leek x.	
+A-473	cinnamon	cinnamon	apple	apple	i. an	
+A-473	cinnamon	cinnamon	cranberries	cranberries	e. cloves f.	
+A-473	honey	honey	maple syrup	maple syrup	h. light brown sugar i.	
+A-473	edamame	edamame	tempeh	tempeh	b. soy milk c.	
+A-473	aspartame	aspartame	cyclamate	cyclamate	c.	
+A-473	apples	apples	cloves	cloves	c. artichokes d. cinnamon e.	
+A-473	orange juice	orange juice	tomato juice	tomato juice	from concentrate f.	
+A-473	juice	juice	cranberry juice	cranberry juice	from concentrate b.	
+A-473	cranberry	cranberry	juice	juice		
+A-473	orange	orange	tomato juice	tomato juice	juice from concentrate f.	
+A-473	boiling	boiling	frying	frying	c.	
+A-473	cabbage	cabbage	fennel	fennel	m. eggplant n. endive o.	
+A-473	squash	squash	boston	boston	b. asparagus c. beets d. bok choi e.	
+A-473	cloves	cloves	pecans	pecans	f. cranberries g. goji berries h.	
+A-473	artichokes	artichokes	goji	goji	d. cinnamon e. cloves f. cranberries g.	
+A-473	endive	endive	garlic	garlic	o. fennel p. fiddlehead ferns q.	
+A-473	erythritol	erythritol	sucralose	sucralose	e. saccharin f. stevia g.	
+A-473	coffee	coffee	orange juice	orange juice	d. hot tea e.	
+A-473	molasses	molasses	rice	rice	c. brown	
+A-473	orange juice	orange juice	juice	juice	from concentrate f. tomato	
+A-473	sweetener	sweetener	cyclamate	cyclamate	: a. acesulfame-k b. aspartame c.	
+A-473	berries	berries	pecans	pecans	h.	
+A-473	pomegranate	pomegranate	cocoa	cocoa	g. a tablespoon of	
+A-473	tomato juice	tomato juice	water	water	from concentrate g.	
+A-473	agave nectar	agave nectar	molasses	molasses	b. blackstrap	
+A-473	soy milk	soy milk	tempeh	tempeh	c.	
+A-473	breast cancer	breast cancer	prevention	prevention		
+A-473	apple	apple	cranberry	cranberry	juice from concentrate b.	
+A-473	brussels sprouts	brussels sprouts	celery	celery	h. carrot i. cauliflower j.	
+A-473	asparagus	asparagus	beets	beets	c.	
+A-473	baking	baking	dark chocolate	dark chocolate	chocolate b. chocolate syrup c. cocoa powder d.	
+A-473	agave	agave	molasses	molasses	nectar b. blackstrap	
+A-473	asparagus	asparagus	boston	boston	c. beets d. bok choi e.	
+A-473	endive	endive	fiddlehead ferns	fiddlehead ferns	o. fennel p.	
+A-473	cocoa	cocoa	dark chocolate	dark chocolate	powder d.	
+A-473	corn	corn	sugar	sugar	syrup e. dark brown	
+A-473	erythritol	erythritol	stevia	stevia	e. saccharin f.	
+A-473	baking	baking	boiling	boiling	b.	
+A-473	orange	orange	pepper	pepper	bell	
+A-473	brown rice	brown rice	corn syrup	corn syrup	syrup d.	
+A-473	coffee	coffee	orange	orange	d. hot tea e.	
+A-473	brown rice syrup	brown rice syrup	brown sugar	brown sugar	d. corn syrup e. dark	
+A-473	goji	goji	pomegranate	pomegranate	berries e. a handful of pecans f. a	
+A-473	artichokes	artichokes	cranberries	cranberries	d. cinnamon e. cloves f.	
+A-473	cranberries	cranberries	berries	berries	g. goji	
+A-473	sweetener	sweetener	aspartame	aspartame	: a. acesulfame-k b.	
+A-473	beets	beets	lettuce	lettuce	d. bok choi e. boston	
+A-473	coffee	coffee	juice	juice	d. hot tea e. orange	
+A-473	chocolate	chocolate	cocoa	cocoa	fix: a. baking chocolate b. chocolate syrup c.	
+A-473	antioxidants	antioxidants	acai berries	acai berries	per serving: a. a half cup of	
+A-473	soy	soy	tempeh	tempeh	milk c.	
+A-473	artichokes	artichokes	cinnamon	cinnamon	d.	
+A-473	beets	beets	broccoli	broccoli	d. bok choi e. boston lettuce f.	
+A-473	sweetener	sweetener	agave nectar	agave nectar	: a.	
+A-473	sucralose	sucralose	xylitol	xylitol	h.	
+A-473	soy	soy	milk	milk		
+A-473	squash	squash	beets	beets	b. asparagus c.	
+A-473	corn	corn	date sugar	date sugar	syrup e. dark brown sugar f.	
+A-473	goji	goji	cabbage	cabbage	berries h. pecans i. purple	
+A-473	rice	rice	corn	corn	syrup d.	
+A-473	microwaving	microwaving	pressure cooking	pressure cooking	f.	
+A-473	goji berries	goji berries	pomegranate	pomegranate	e. a handful of pecans f. a	
+A-473	cabbage	cabbage	fiddlehead ferns	fiddlehead ferns	m. eggplant n. endive o. fennel p.	
+A-473	apple juice	apple juice	coffee	coffee	from concentrate b. cranberry juice cocktail c. hot	
+A-473	agave	agave	brown rice	brown rice	nectar b. blackstrap molasses c.	
+A-473	orange juice	orange juice	water	water	from concentrate f. tomato juice from concentrate g.	
+A-473	date sugar	date sugar	sugar	sugar	g. honey h. light brown	
+A-473	cranberry juice	cranberry juice	orange	orange	cocktail c. hot coffee d. hot tea e.	
+A-473	artichokes	artichokes	goji berries	goji berries	d. cinnamon e. cloves f. cranberries g.	
+A-473	kale	kale	pepper	pepper	w. leek x. orange bell	
+A-473	sweetener	sweetener	agave	agave	: a.	
+A-473	brown sugar	brown sugar	honey	honey	f. date sugar g.	
+A-473	chlorella	chlorella	spirulina	spirulina	c.	
+A-473	tempeh	tempeh	tofu	tofu	d.	
+A-473	antioxidant	antioxidant	apples	apples	bargain: a. acai b.	
+A-473	apples	apples	cinnamon	cinnamon	c. artichokes d.	
+A-473	cauliflower	cauliflower	celery	celery	j.	
+A-473	tea	tea	juice	juice	e. orange	
+A-473	fiddlehead ferns	fiddlehead ferns	garlic	garlic	q.	
+A-473	agave	agave	brown rice syrup	brown rice syrup	nectar b. blackstrap molasses c.	
+A-473	maple syrup	maple syrup	sugar	sugar	j. raw cane	
+A-473	brown sugar	brown sugar	sugar	sugar	f. date	
+A-473	cinnamon	cinnamon	goji berries	goji berries	e. cloves f. cranberries g.	
+A-473	aspartame	aspartame	erythritol	erythritol	c. cyclamate d.	
+A-473	cyclamate	cyclamate	erythritol	erythritol	d.	
+A-473	brown sugar	brown sugar	sugar	sugar	i. maple syrup j. raw cane	
+A-473	goji berries	goji berries	pecans	pecans	e. a handful of	
+A-473	stevia	stevia	xylitol	xylitol	g. sucralose h.	
+A-473	saccharin	saccharin	xylitol	xylitol	f. stevia g. sucralose h.	
+A-473	celery	celery	cabbage	cabbage	k. cucumber l. curly	
+A-473	edamame	edamame	tofu	tofu	b. soy milk c. tempeh d.	
+A-473	apples	apples	cranberries	cranberries	c. artichokes d. cinnamon e. cloves f.	
+A-473	sprouts	sprouts	celery	celery	h. carrot i. cauliflower j.	
+A-473	cancer	cancer	prevention	prevention		
+A-473	apple juice	apple juice	juice	juice	from concentrate b. cranberry	
+A-473	frying	frying	pressure cooking	pressure cooking	d. griddling e. microwaving f.	
+A-473	berries	berries	cabbage	cabbage	h. pecans i. purple	
+A-473	jalapeno	jalapeno	pepper	pepper	v. kale w. leek x. orange bell	
+A-473	blue-green algae	blue-green algae	spirulina	spirulina	b. chlorella c.	
+A-473	agave nectar	agave nectar	corn syrup	corn syrup	b. blackstrap molasses c. brown rice syrup d.	
+A-473	goji	goji	berries	berries		
+A-473	cinnamon	cinnamon	pecans	pecans	e. cloves f. cranberries g. goji berries h.	
+A-473	cabbage	cabbage	endive	endive	m. eggplant n.	
+A-473	rice	rice	brown sugar	brown sugar	syrup d. corn syrup e. dark	
+A-473	brown rice	brown rice	sugar	sugar	syrup d. corn syrup e. dark brown	
+A-473	cyclamate	cyclamate	saccharin	saccharin	d. erythritol e.	
+A-473	brown rice	brown rice	rice	rice	c. red	
+A-473	brown rice syrup	brown rice syrup	corn syrup	corn syrup	d.	
+A-473	boiling	boiling	pressure cooking	pressure cooking	c. frying d. griddling e. microwaving f.	
+A-473	baking	baking	chocolate	chocolate		
+A-473	lettuce	lettuce	cauliflower	cauliflower	f. broccoli g. brussels sprouts h. carrot i.	
+A-473	pecans	pecans	pomegranate	pomegranate	f. a	
+A-473	lettuce	lettuce	brussels sprouts	brussels sprouts	f. broccoli g.	
+A-473	soy milk	soy milk	tofu	tofu	c. tempeh d.	
+A-473	cloves	cloves	goji berries	goji berries	f. cranberries g.	
+A-473	cooking method	cooking method	boiling	boiling	: a. baking b.	
+A-473	dark chocolate	dark chocolate	milk	milk	e.	
+A-473	chia	chia	flax	flax	b.	
+A-473	raw	raw	sugar	sugar	cane	
+A-473	lettuce	lettuce	sprouts	sprouts	f. broccoli g. brussels	
+A-473	aspartame	aspartame	saccharin	saccharin	c. cyclamate d. erythritol e.	
+A-473	aspartame	aspartame	stevia	stevia	c. cyclamate d. erythritol e. saccharin f.	
+A-473	agave	agave	rice	rice	nectar b. blackstrap molasses c. brown	
+A-473	orange	orange	radicchio	radicchio	bell pepper y. potato z.	
+A-473	apples	apples	artichokes	artichokes	c.	
+A-473	honey	honey	raw	raw	h. light brown sugar i. maple syrup j.	
+A-473	corn syrup	corn syrup	date sugar	date sugar	e. dark brown sugar f.	
+A-473	acai berries	acai berries	blueberries	blueberries	b. a half cup of	
+A-473	pecan	pecan	walnut	walnut	f. peanut g. pine nut h. pistachio i.	
+A-473	agave nectar	agave nectar	brown rice syrup	brown rice syrup	b. blackstrap molasses c.	
+A-473	sweetener	sweetener	erythritol	erythritol	: a. acesulfame-k b. aspartame c. cyclamate d.	
+A-473	date sugar	date sugar	honey	honey	g.	
+A-473	apple	apple	cranberry juice	cranberry juice	juice from concentrate b.	
+A-473	stevia	stevia	sucralose	sucralose	g.	
+A-473	lettuce	lettuce	broccoli	broccoli	f.	
+A-473	cranberry	cranberry	coffee	coffee	juice cocktail c. hot	
+A-473	cinnamon	cinnamon	goji	goji	e. cloves f. cranberries g.	
+A-473	cloves	cloves	cranberries	cranberries	f.	
+A-473	apple juice	apple juice	cranberry juice	cranberry juice	from concentrate b.	
+A-473	baking	baking	frying	frying	b. boiling c.	
+A-473	beverage	beverage	apple	apple	: a.	
+A-473	brown sugar	brown sugar	date sugar	date sugar	f.	
+A-473	eggplant	eggplant	fiddlehead ferns	fiddlehead ferns	n. endive o. fennel p.	
+A-473	cocoa	cocoa	milk	milk	powder d. dark chocolate e.	
+A-473	frying	frying	cooking	cooking	d. griddling e. microwaving f. pressure	
+A-473	boiling	boiling	microwaving	microwaving	c. frying d. griddling e.	
+A-473	sweetener	sweetener	brown rice	brown rice	: a. agave nectar b. blackstrap molasses c.	
+A-473	honey	honey	brown sugar	brown sugar	h. light	
+A-473	algae	algae	spirulina	spirulina	b. chlorella c.	
+A-473	saccharin	saccharin	sucralose	sucralose	f. stevia g.	
+A-473	erythritol	erythritol	saccharin	saccharin	e.	
+A-473	microwaving	microwaving	cooking	cooking	f. pressure	
+A-473	antioxidant	antioxidant	cinnamon	cinnamon	bargain: a. acai b. apples c. artichokes d.	
+A-473	boston	boston	broccoli	broccoli	lettuce f.	
+A-473	maple syrup	maple syrup	raw	raw	j.	
+A-473	blue-green algae	blue-green algae	chlorella	chlorella	b.	
+A-473	jalapeno	jalapeno	orange	orange	v. kale w. leek x.	
+A-473	algae	algae	chlorella	chlorella	b.	
+A-473	cranberries	cranberries	goji	goji	d. a half cup of	
+A-473	cranberries	cranberries	goji	goji	g.	
+A-473	cranberries	cranberries	berries	berries	d. a half cup of goji	
+A-473	eggplant	eggplant	endive	endive	n.	
+A-473	rice	rice	corn syrup	corn syrup	syrup d.	
+A-473	broccoli	broccoli	cauliflower	cauliflower	g. brussels sprouts h. carrot i.	
+A-473	frying	frying	microwaving	microwaving	d. griddling e.	
+A-473	nutrition	nutrition	dvd	dvd		
+A-473	antioxidant	antioxidant	artichokes	artichokes	bargain: a. acai b. apples c.	
+A-473	cranberries	cranberries	goji berries	goji berries	d. a half cup of	
+A-473	rice	rice	brown rice	brown rice	: a. black rice b.	
+A-473	milk	milk	tempeh	tempeh	c.	
+A-473	cranberry juice	cranberry juice	tea	tea	cocktail c. hot coffee d. hot	
+A-473	soy	soy	tofu	tofu	milk c. tempeh d.	
+A-473	cooking	cooking	boiling	boiling	method: a. baking b.	
+A-473	cooking	cooking	frying	frying	method: a. baking b. boiling c.	
+A-473	apple juice	apple juice	cranberry	cranberry	from concentrate b.	
+A-473	milk	milk	chocolate	chocolate		
+A-473	agave nectar	agave nectar	brown rice	brown rice	b. blackstrap molasses c.	
+A-473	pecans	pecans	cocoa	cocoa	f. a pomegranate g. a tablespoon of	
+A-473	coffee	coffee	tea	tea	d. hot	
+A-473	almond	almond	pecan	pecan	b. brazil nut c. cashew d. macadamia e.	
+A-473	broccoli	broccoli	celery	celery	g. brussels sprouts h. carrot i. cauliflower j.	
+A-473	cranberry juice	cranberry juice	orange juice	orange juice	cocktail c. hot coffee d. hot tea e.	
+A-473	sweetener	sweetener	molasses	molasses	: a. agave nectar b. blackstrap	
+A-473	raw	raw	turbinado sugar	turbinado sugar	cane sugar k. sugar l.	
+A-473	cyclamate	cyclamate	sucralose	sucralose	d. erythritol e. saccharin f. stevia g.	
+A-473	broccoli	broccoli	brussels sprouts	brussels sprouts	g.	
+A-473	cinnamon	cinnamon	cloves	cloves	e.	
+A-473	honey	honey	sugar	sugar	h. light brown	
+A-473	tea	tea	tomato juice	tomato juice	e. orange juice from concentrate f.	
+A-473	date sugar	date sugar	maple syrup	maple syrup	g. honey h. light brown sugar i.	
+A-473	cocoa	cocoa	milk chocolate	milk chocolate	powder d. dark chocolate e.	
+A-473	edamame	edamame	milk	milk	b. soy	
+A-473	dark chocolate	dark chocolate	milk chocolate	milk chocolate	e.	
+A-473	beverage	beverage	apple juice	apple juice	: a.	
+A-473	corn syrup	corn syrup	brown sugar	brown sugar	e. dark	
+A-473	sugar	sugar	brown sugar	brown sugar	f. date sugar g. honey h. light	
+A-473	corn syrup	corn syrup	honey	honey	e. dark brown sugar f. date sugar g.	
+A-473	brussels sprouts	brussels sprouts	cauliflower	cauliflower	h. carrot i.	
+A-473	garlic	garlic	cabbage	cabbage	r. green bean s. green	
+A-473	berries	berries	blueberries	blueberries	b. a half cup of	
+A-473	brown rice syrup	brown rice syrup	date sugar	date sugar	d. corn syrup e. dark brown sugar f.	
+A-473	beets	beets	boston	boston	d. bok choi e.	
+A-473	molasses	molasses	brown rice	brown rice	c.	
+A-473	pecans	pecans	cabbage	cabbage	i. purple	
+A-473	jalapeno	jalapeno	kale	kale	v.	
+A-473	goji berries	goji berries	cabbage	cabbage	h. pecans i. purple	
+A-473	cooking	cooking	baking	baking	method: a.	
+A-473	beverage	beverage	cranberry	cranberry	: a. apple juice from concentrate b.	
+A-473	cloves	cloves	goji	goji	f. cranberries g.	
+A-473	goji berries	goji berries	pecans	pecans	h.	
+A-473	corn syrup	corn syrup	sugar	sugar	e. dark brown	
+A-473	agave nectar	agave nectar	corn	corn	b. blackstrap molasses c. brown rice syrup d.	
+A-473	peanut	peanut	walnut	walnut	g. pine nut h. pistachio i.	
+A-473	milk chocolate	milk chocolate	chocolate	chocolate	f. semi-sweet	
+A-473	orange	orange	juice	juice		
+A-473	baking	baking	microwaving	microwaving	b. boiling c. frying d. griddling e.	
+A-473	molasses	molasses	corn syrup	corn syrup	c. brown rice syrup d.	
+A-473	baking	baking	cocoa	cocoa	chocolate b. chocolate syrup c.	
+A-473	brown rice syrup	brown rice syrup	corn	corn	d.	
+A-473	cloves	cloves	berries	berries	f. cranberries g. goji	
+A-473	apple	apple	juice	juice		
+A-473	dark chocolate	dark chocolate	chocolate	chocolate	e. milk	
+A-473	cooking method	cooking method	baking	baking	: a.	
+A-473	molasses	molasses	brown rice syrup	brown rice syrup	c.	
+A-473	sugar	sugar	honey	honey	f. date sugar g.	
+A-473	date sugar	date sugar	brown sugar	brown sugar	g. honey h. light	
+A-473	tea	tea	orange juice	orange juice	e.	
+A-473	maple syrup	maple syrup	turbinado sugar	turbinado sugar	j. raw cane sugar k. sugar l.	
+A-473	cyclamate	cyclamate	stevia	stevia	d. erythritol e. saccharin f.	
+A-473	cranberry	cranberry	tea	tea	juice cocktail c. hot coffee d. hot	
+A-473	brown rice	brown rice	brown sugar	brown sugar	syrup d. corn syrup e. dark	
+A-473	cabbage	cabbage	eggplant	eggplant	m.	

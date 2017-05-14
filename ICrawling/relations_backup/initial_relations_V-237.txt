@@ -1,0 +1,7 @@
+
+V-237	prevention	prevention	dementia	dementia	of	
+V-237	cancer	cancer	symptoms	symptoms	fail to produce any clinically detectable	
+V-237	cancer	cancer	produce	produce	fail to	
+V-237	produce	produce	symptoms	symptoms	any clinically detectable	
+V-237	stomach	stomach	cancer	cancer		
+V-237	death	death	physicians	physicians	—even by their	

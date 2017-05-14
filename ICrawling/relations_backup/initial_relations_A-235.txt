@@ -1,0 +1,71 @@
+
+A-235	mothers	mothers	children	children	may give birth to	
+A-235	mercury	mercury	pregnancy	pregnancy	exposure through fish intake during	
+A-235	pcbs	pcbs	salmon	salmon	in	
+A-235	mercury	mercury	salmon	salmon	in	
+A-235	fish	fish	tuna	tuna	that were more brain-damaging than	
+A-235	children	children	brains	brains	with smaller	
+A-235	mackerel	mackerel	mercury	mercury	is considered a best choice for sustainability, the	
+A-235	pregnant	pregnant	women	women		
+A-235	mercury	mercury	fish	fish	exposure through	
+A-235	mercury	mercury	children	children	on the iq scores of	
+A-235	women	women	dha	dha	ate tuna every day, the	
+A-235	risk	risk	women	women	any loss in intelligence at all when pregnant	
+A-235	pregnant women	pregnant women	tuna	tuna	ate	
+A-235	salmon	salmon	risk	risk	and the accompanying concerns about cancer	
+A-235	mackerel	mackerel	sustainability	sustainability	is considered a best choice for	
+A-235	fda	fda	mercury	mercury	and epa action levels for	
+A-235	dha	dha	supplements	supplements	they want from microalgae	
+A-235	women	women	dha	dha	can get all the	
+A-235	pcbs	pcbs	kids	kids	affected these	
+A-235	pcbs	pcbs	cancer	cancer	in salmon and the accompanying concerns about	
+A-235	children	children	epilepsy	epilepsy	being born with	
+A-235	brain damage	brain damage	pregnant	pregnant	that the overall effect of eating tuna while	
+A-235	tuna	tuna	swordfish	swordfish	were pike and	
+A-235	pregnant	pregnant	tuna	tuna	women ate	
+A-235	fish	fish	children	children	consumption may also increase the risk of our	
+A-235	fish	fish	mercury	mercury	species, they found that “the adverse effect of	
+A-235	risk	risk	children	children	of our	
+A-235	salmon	salmon	fish	fish	are considered a “	
+A-235	dha	dha	mercury	mercury	may trump the brain damaging effects of	
+A-235	seafood	seafood	pregnant	pregnant	when	
+A-235	women	women	tuna	tuna	ate	
+A-235	pregnant	pregnant	dha	dha	women ate tuna every day, the	
+A-235	brains	brains	children	children	doesn’t necessarily mean their	
+A-235	fda	fda	contamination	contamination	and epa action levels for mercury	
+A-235	pregnant	pregnant	dha	dha	women can get all the	
+A-235	brain damage	brain damage	tuna	tuna	that the overall effect of eating	
+A-235	dha	dha	fish	fish	in	
+A-235	pregnant women	pregnant women	dha	dha	ate tuna every day, the	
+A-235	fish	fish	risk	risk	consumption may also increase the	
+A-235	fish	fish	united states	united states	consumption that the	
+A-235	dha	dha	omega 3	omega 3	in fish—a long chain	
+A-235	cancer	cancer	risk	risk		
+A-235	mothers	mothers	brains	brains	may give birth to children with smaller	
+A-235	risk	risk	intelligence	intelligence	any loss in	
+A-235	risk	risk	pregnant	pregnant	any loss in intelligence at all when	
+A-235	mercury	mercury	pcb	pcb	and	
+A-235	intelligence	intelligence	pregnant women	pregnant women	at all when	
+A-235	epa	epa	mercury	mercury	action levels for	
+A-235	tuna	tuna	dha	dha	every day, the	
+A-235	risk	risk	pregnant women	pregnant women	any loss in intelligence at all when	
+A-235	mercury	mercury	tuna	tuna	in that very same	
+A-235	intelligence	intelligence	women	women	at all when pregnant	
+A-235	pcbs	pcbs	risk	risk	in salmon and the accompanying concerns about cancer	
+A-235	pregnant women	pregnant women	dha	dha	can get all the	
+A-235	fish	fish	kids	kids	consumption have an effect on how smart our	
+A-235	sustainability	sustainability	salmon	salmon	concerns are another wrinkle, as farm-raised	
+A-235	risk	risk	epilepsy	epilepsy	of our children being born with	
+A-235	intelligence	intelligence	pregnant	pregnant	at all when	
+A-235	supplements	supplements	contaminants	contaminants	without any of the	
+A-235	omega 3	omega 3	mercury	mercury	fatty acid—is good for brain development, but	
+A-235	epa	epa	contamination	contamination	action levels for mercury	
+A-235	fish	fish	omega 3	omega 3	—a long chain	
+A-235	mercury	mercury	pcbs	pcbs	and	
+A-235	salmon	salmon	cancer	cancer	and the accompanying concerns about	
+A-235	pcb	pcb	brains	brains	exposed	
+A-235	mercury	mercury	brains	brains	and pcb exposed	
+A-235	mercury	mercury	kids	kids	and pcbs affected these	
+A-235	tuna	tuna	brain damage	brain damage	would cause so much	
+A-235	children	children	dha	dha	exceeded the beneficial effects of	
+A-235	fda	fda	epa	epa	and	

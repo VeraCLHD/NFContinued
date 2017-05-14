@@ -1,0 +1,113 @@
+
+A-262	eggs	eggs	cancer	cancer	may be related to	
+A-262	cancer	cancer	cancer	cancer	is highlighted in my video breast	
+A-262	seeds	seeds	prostate cancer	prostate cancer	vs.	
+A-262	cancer	cancer	cancer survival	cancer survival	is highlighted in my video breast	
+A-262	poultry	poultry	risk	risk	and eggs may be related to cancer	
+A-262	kale	kale	cancer	cancer	may cut the risk of	
+A-262	diet	diet	prostate cancer	prostate cancer	could reverse the progression of	
+A-262	risk	risk	plant protein	plant protein	of bladder cancer, whereas a 2% increase in	
+A-262	tumor	tumor	vegan	vegan	may be doubling in size) in the “half	
+A-262	flax seeds	flax seeds	prostate cancer	prostate cancer	vs.	
+A-262	risk	risk	cancer progression	cancer progression	of	
+A-262	cancer progression	cancer progression	cancer	cancer	(defined as the	
+A-262	bladder	bladder	protein	protein	cancer, whereas a 2% increase in plant	
+A-262	breast cancer	breast cancer	breast cancer survival	breast cancer survival	is highlighted in my video	
+A-262	prostate	prostate	cancer	cancer		
+A-262	diet	diet	cancer	cancer	could reverse the progression of prostate	
+A-262	prostate	prostate	cancer survival	cancer survival		
+A-262	prostate	prostate	saturated fat	saturated fat	cancer and	
+A-262	seeds	seeds	cancer	cancer	vs. prostate	
+A-262	protein	protein	bladder cancer	bladder cancer	was associated with a 15% higher risk of	
+A-262	chicken	chicken	turkey	turkey	or	
+A-262	breast cancer	breast cancer	cancer survival	cancer survival	is highlighted in my video breast	
+A-262	cancer	cancer	harvard	harvard	progression in a study out of	
+A-262	protein	protein	bladder	bladder	was associated with a 15% higher risk of	
+A-262	plant-based diet	plant-based diet	tumor	tumor	they were able to slow down the	
+A-262	risk	risk	cancer	cancer	of bladder	
+A-262	plant-based diet	plant-based diet	cancer	cancer	could reverse the progression of prostate	
+A-262	diet	diet	prostate	prostate	could reverse the progression of	
+A-262	prostate	prostate	cancer progression	cancer progression	cancer and saturated fat &	
+A-262	cancer	cancer	fruits	fruits	to eat a measly five servings of	
+A-262	cancer survival	cancer survival	a/v ratio	a/v ratio	: the	
+A-262	flax seeds	flax seeds	prostate	prostate	vs.	
+A-262	risk	risk	egg	egg	eating less than a single	
+A-262	protein	protein	risk	risk	was associated with a 15% higher	
+A-262	prostate cancer	prostate cancer	a/v ratio	a/v ratio	survival: the	
+A-262	diet	diet	tumor	tumor	they were able to slow down the	
+A-262	flax	flax	prostate	prostate	seeds vs.	
+A-262	cancer	cancer	breast cancer survival	breast cancer survival	is highlighted in my video	
+A-262	cancer	cancer	plant-based	plant-based	kept growing, but with a part-time	
+A-262	eggs	eggs	poultry	poultry	and	
+A-262	cancer	cancer	saturated fat	saturated fat	and	
+A-262	prostate cancer	prostate cancer	cancer	cancer	and saturated fat &	
+A-262	bladder	bladder	cancer	cancer		
+A-262	ornish	ornish	cancer growth	cancer growth	got, though, was an apparent reversal in	
+A-262	risk	risk	variety	variety	in a	
+A-262	risk	risk	bladder cancer	bladder cancer	of	
+A-262	prostate cancer	prostate cancer	cancer progression	cancer progression	and saturated fat &	
+A-262	egg	egg	risk	risk	a day and up to quadruple the	
+A-262	psa	psa	tumor	tumor	doubling time (an estimate of how fast the	
+A-262	seeds	seeds	saturated fat	saturated fat	vs. prostate cancer and	
+A-262	ornish	ornish	cancer	cancer	study, see	
+A-262	diet	diet	bladder cancer	bladder cancer	and	
+A-262	pritikin	pritikin	cancer	cancer	foundation followed up on with ex vivo	
+A-262	prostate	prostate	fat	fat	cancer and saturated	
+A-262	plant-based	plant-based	prostate	prostate	diet could reverse the progression of	
+A-262	animal protein	animal protein	bladder	bladder	was associated with a 15% higher risk of	
+A-262	flax seeds	flax seeds	saturated fat	saturated fat	vs. prostate cancer and	
+A-262	plant-based	plant-based	diet	diet		
+A-262	diet	diet	bladder	bladder	and	
+A-262	flax	flax	seeds	seeds		
+A-262	flax	flax	fat	fat	seeds vs. prostate cancer and saturated	
+A-262	cancer	cancer	variety	variety	risk in a	
+A-262	plant-based diet	plant-based diet	prostate	prostate	could reverse the progression of	
+A-262	risk	risk	cancer	cancer	of	
+A-262	cancer	cancer	breast cancer	breast cancer	is highlighted in my video	
+A-262	cancer	cancer	diet	diet	reversal through	
+A-262	cancer growth	cancer growth	psa	psa	—the	
+A-262	kale	kale	cancer progression	cancer progression	may cut the risk of	
+A-262	seeds	seeds	fat	fat	vs. prostate cancer and saturated	
+A-262	flax	flax	prostate cancer	prostate cancer	seeds vs.	
+A-262	cancer reversal	cancer reversal	diet	diet	through	
+A-262	flax	flax	cancer	cancer	seeds vs. prostate	
+A-262	cancer	cancer	diet	diet	kept growing, but with a part-time plant-based	
+A-262	cancer	cancer	fat	fat	and saturated	
+A-262	cancer progression	cancer progression	harvard	harvard	in a study out of	
+A-262	plant-based	plant-based	tumor	tumor	diet they were able to slow down the	
+A-262	flax seeds	flax seeds	fat	fat	vs. prostate cancer and saturated	
+A-262	protein	protein	risk	risk	intake was associated with a 23% lower	
+A-262	prostate cancer	prostate cancer	fat	fat	and saturated	
+A-262	kale	kale	risk	risk	may cut the	
+A-262	seeds	seeds	cancer progression	cancer progression	vs. prostate cancer and saturated fat &	
+A-262	poultry	poultry	eggs	eggs	and	
+A-262	poultry	poultry	cancer	cancer	and eggs may be related to	
+A-262	flax	flax	saturated fat	saturated fat	seeds vs. prostate cancer and	
+A-262	eggs	eggs	risk	risk	may be related to cancer	
+A-262	plant-based diet	plant-based diet	prostate cancer	prostate cancer	could reverse the progression of	
+A-262	flax seeds	flax seeds	cancer progression	cancer progression	vs. prostate cancer and saturated fat &	
+A-262	ornish	ornish	cancer reversal	cancer reversal	study, see	
+A-262	plant protein	plant protein	risk	risk	intake was associated with a 23% lower	
+A-262	cancer	cancer	psa	psa	growth—the	
+A-262	seeds	seeds	prostate	prostate	vs.	
+A-262	cancer	cancer	risk	risk		
+A-262	risk	risk	bladder	bladder	of	
+A-262	animal protein	animal protein	risk	risk	was associated with a 15% higher	
+A-262	cancer	cancer	cancer	cancer	progression (defined as the	
+A-262	risk	risk	harvard	harvard	of cancer progression in a study out of	
+A-262	eggs	eggs	variety	variety	may be related to cancer risk in a	
+A-262	breast cancer	breast cancer	cancer	cancer	is highlighted in my video breast	
+A-262	prostate	prostate	a/v ratio	a/v ratio	cancer survival: the	
+A-262	ornish	ornish	cancer	cancer	got, though, was an apparent reversal in	
+A-262	cancer	cancer	cancer	cancer	and saturated fat &	
+A-262	flax	flax	cancer progression	cancer progression	seeds vs. prostate cancer and saturated fat &	
+A-262	ornish	ornish	diet	diet	study, see cancer reversal through	
+A-262	prostate cancer	prostate cancer	saturated fat	saturated fat	and	
+A-262	cancer	cancer	plant-based diet	plant-based diet	kept growing, but with a part-time	
+A-262	flax seeds	flax seeds	cancer	cancer	vs. prostate	
+A-262	plant-based	plant-based	cancer	cancer	diet could reverse the progression of prostate	
+A-262	cancer	cancer	cancer progression	cancer progression	and saturated fat &	
+A-262	cancer	cancer	prevention	prevention		
+A-262	plant-based	plant-based	prostate cancer	prostate cancer	diet could reverse the progression of	
+A-262	diet	diet	cancer	cancer	and bladder	
+A-262	animal protein	animal protein	bladder cancer	bladder cancer	was associated with a 15% higher risk of	

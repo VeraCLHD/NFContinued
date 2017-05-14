@@ -1,0 +1,46 @@
+
+V-439	chronic diseases	chronic diseases	cancer	cancer	—cardiovascular disease, diabetes,	
+V-439	drugs	drugs	heart disease	heart disease	for the treatment of	
+V-439	chronic diseases	chronic diseases	osteoporosis	osteoporosis	—cardiovascular disease, diabetes, cancer, hypertension, obesity, depression and	
+V-439	chronic diseases	chronic diseases	hypertension	hypertension	—cardiovascular disease, diabetes, cancer,	
+V-439	treatment	treatment	prevention	prevention	of heart disease and stroke, and the	
+V-439	disease	disease	diabetes	diabetes	and stroke, and the prevention of	
+V-439	harvard	harvard	exercise	exercise	and stanford compared	
+V-439	prevention	prevention	cardiovascular disease	cardiovascular disease	of several chronic diseases—	
+V-439	health	health	doctors	doctors	benefits to physical activity, so much so that	
+V-439	prevention	prevention	disease	disease	of several chronic diseases—cardiovascular	
+V-439	physical activity	physical activity	diabetes	diabetes	in the prevention of several chronic diseases—cardiovascular disease,	
+V-439	physical activity	physical activity	chronic diseases	chronic diseases	in the prevention of several	
+V-439	health	health	physical activity	physical activity	benefits to	
+V-439	drugs	drugs	stroke	stroke	for the treatment of heart disease and	
+V-439	disease	disease	prevention	prevention	and stroke, and the	
+V-439	heart disease	heart disease	prevention	prevention	and stroke, and the	
+V-439	prevention	prevention	hypertension	hypertension	of several chronic diseases—cardiovascular disease, diabetes, cancer,	
+V-439	calories	calories	exercise	exercise	of	
+V-439	prevention	prevention	obesity	obesity	of several chronic diseases—cardiovascular disease, diabetes, cancer, hypertension,	
+V-439	depression	depression	death	death	and osteoporosis, as well as premature	
+V-439	chronic diseases	chronic diseases	diabetes	diabetes	—cardiovascular disease,	
+V-439	placebo	placebo	kale	kale	but does it work as well as	
+V-439	physical activity	physical activity	disease	disease	in the prevention of several chronic diseases—cardiovascular	
+V-439	heart disease	heart disease	stroke	stroke	and	
+V-439	chronic diseases	chronic diseases	cardiovascular disease	cardiovascular disease	—	
+V-439	prevention	prevention	diabetes	diabetes	of	
+V-439	depression	depression	osteoporosis	osteoporosis	and	
+V-439	drugs	drugs	treatment	treatment	for the	
+V-439	chronic diseases	chronic diseases	disease	disease	—cardiovascular	
+V-439	treatment	treatment	stroke	stroke	of heart disease and	
+V-439	physical activity	physical activity	cardiovascular disease	cardiovascular disease	in the prevention of several chronic diseases—	
+V-439	treatment	treatment	disease	disease	of heart	
+V-439	risk	risk	smoking	smoking	behavior, alongside	
+V-439	chronic diseases	chronic diseases	depression	depression	—cardiovascular disease, diabetes, cancer, hypertension, obesity,	
+V-439	prevention	prevention	diabetes	diabetes	of several chronic diseases—cardiovascular disease,	
+V-439	treatment	treatment	heart disease	heart disease	of	
+V-439	drugs	drugs	disease	disease	for the treatment of heart	
+V-439	heart disease	heart disease	diabetes	diabetes	and stroke, and the prevention of	
+V-439	prevention	prevention	chronic diseases	chronic diseases	of several	
+V-439	exercise	exercise	medicine	medicine	is	
+V-439	chronic diseases	chronic diseases	obesity	obesity	—cardiovascular disease, diabetes, cancer, hypertension,	
+V-439	risk	risk	death	death	factors for	
+V-439	physical activity	physical activity	prevention	prevention	in the	
+V-439	disease	disease	stroke	stroke	and	
+V-439	prevention	prevention	cancer	cancer	of several chronic diseases—cardiovascular disease, diabetes,	

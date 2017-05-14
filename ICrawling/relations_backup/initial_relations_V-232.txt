@@ -1,0 +1,24 @@
+
+V-232	ulcerative colitis	ulcerative colitis	diet	diet	into a milk-free	
+V-232	animal protein	animal protein	inflammatory bowel disease	inflammatory bowel disease	may play in the development of	
+V-232	ulcerative colitis	ulcerative colitis	diarrhea	diarrhea	sufferers, found that their daily bouts of bloody	
+V-232	bacteria	bacteria	butyrate	butyrate	turn into this beneficial compound called	
+V-232	physicians	physicians	disease	disease	treating patients with inflammatory bowel	
+V-232	milk	milk	ulcerative colitis	ulcerative colitis	.case reports going back decades, described patients with	
+V-232	ulcerative colitis	ulcerative colitis	dairy	dairy	patients that would benefit from eliminating all	
+V-232	ulcerative colitis	ulcerative colitis	placebo	placebo	into a milk-free diet, or a control	
+V-232	protein	protein	inflammatory bowel disease	inflammatory bowel disease	may play in the development of	
+V-232	milk	milk	diet	diet	free	
+V-232	egg	egg	hydrogen sulfide	hydrogen sulfide	gas,	
+V-232	animal protein	animal protein	disease	disease	may play in the development of inflammatory bowel	
+V-232	diet	diet	disease	disease	help with this	
+V-232	diet	diet	disease	disease	could positively affect the course of their	
+V-232	ulcerative colitis	ulcerative colitis	milk	milk	whose flares appeared to be triggered by cow’s	
+V-232	butyrate	butyrate	enemas	enemas		
+V-232	amino acid	amino acid	ulcerative colitis	ulcerative colitis	rich foods produced an improvement in moderately severe	
+V-232	egg	egg	gas	gas		
+V-232	placebo	placebo	diet	diet	“dummy”	
+V-232	meat	meat	alcohol	alcohol	and	
+V-232	protein	protein	disease	disease	may play in the development of inflammatory bowel	
+V-232	dairy	dairy	diet	diet	products from the	
+V-232	physicians	physicians	inflammatory bowel disease	inflammatory bowel disease	treating patients with	

@@ -1,0 +1,86 @@
+
+T-134	apple	apple	bladder infection	bladder infection	juice does not appear to reduce	
+T-134	apple juice	apple juice	infection	infection	does not appear to reduce bladder	
+T-134	apple	apple	risk	risk	juice does not appear to reduce bladder infection	
+T-134	apple juice	apple juice	arsenic	arsenic	may contain levels of	
+T-134	cranberry	cranberry	bladder infection	bladder infection	juice, apple juice does not appear to reduce	
+T-134	bladder	bladder	risk	risk	infection	
+T-134	heart attack	heart attack	risk	risk		
+T-134	apple juice	apple juice	fruit	fruit	ranked eighth out of nine	
+T-134	amyloid	amyloid	juice	juice	beta in vitro.probiotics taken with apple	
+T-134	cognitive performance	cognitive performance	juice	juice	in alzheimer’s patients, but apple	
+T-134	apple juice	apple juice	risk	risk	may increase	
+T-134	juice	juice	produce	produce	may not	
+T-134	juice	juice	antioxidant	antioxidant	appears to have less than one-third the	
+T-134	produce	produce	cognitive performance	cognitive performance	any change in	
+T-134	apple juice	apple juice	antioxidant	antioxidant	appears to have less than one-third the	
+T-134	juice	juice	fruit	fruit	ranked eighth out of nine	
+T-134	plaque	plaque	apple juice	apple juice	protein, amyloid beta in vitro.probiotics taken with	
+T-134	juice	juice	uric acid	uric acid	may produce	
+T-134	apple	apple	risk	risk	juice may increase	
+T-134	bladder infection	bladder infection	risk	risk		
+T-134	water	water	environmental protection agency	environmental protection agency	by the u.s.	
+T-134	hunger	hunger	calories	calories	leading to fewer	
+T-134	apple juice	apple juice	risk	risk	does not appear to reduce bladder infection	
+T-134	juice	juice	antioxidant	antioxidant	ranked six in terms of	
+T-134	cranberry	cranberry	bladder	bladder	juice, apple juice does not appear to reduce	
+T-134	diabetes	diabetes	risk	risk		
+T-134	apple	apple	uric acid	uric acid	juice may produce	
+T-134	bladder	bladder	infection	infection		
+T-134	apple	apple	bladder	bladder	juice does not appear to reduce	
+T-134	apples	apples	insulin	insulin	leads to a spike in	
+T-134	apple	apple	heart attack	heart attack	consumption may be associated with lower	
+T-134	plaque	plaque	apple	apple	protein, amyloid beta in vitro.probiotics taken with	
+T-134	apple	apple	health	health	juices from around the world often exceed world	
+T-134	plaque	plaque	juice	juice	protein, amyloid beta in vitro.probiotics taken with apple	
+T-134	amyloid	amyloid	apple juice	apple juice	beta in vitro.probiotics taken with	
+T-134	arsenic	arsenic	water	water	higher than deemed safe in drinking	
+T-134	juice	juice	risk	risk	consumption seems linked to a higher	
+T-134	apples	apples	health	health	alone does not seem to offer any outstanding	
+T-134	disease	disease	apple	apple	protection, clear	
+T-134	juice	juice	cognitive performance	cognitive performance	may not produce any change in	
+T-134	plaque	plaque	amyloid	amyloid	protein,	
+T-134	amyloid	amyloid	apple	apple	beta in vitro.probiotics taken with	
+T-134	apple juice	apple juice	produce	produce	may not	
+T-134	apple	apple	world health organization	world health organization	juices from around the world often exceed	
+T-134	produce	produce	apples	apples	uric acid in the body, and even pureed	
+T-134	apple	apple	produce	produce	juice may not	
+T-134	juice	juice	risk	risk	may increase	
+T-134	diabetes	diabetes	juice	juice	risk, whereas greater	
+T-134	apple	apple	cognitive performance	cognitive performance	juice may not produce any change in	
+T-134	apple	apple	fruit	fruit	juice ranked eighth out of nine	
+T-134	apple juice	apple juice	cognitive performance	cognitive performance	may not produce any change in	
+T-134	cognitive performance	cognitive performance	apple juice	apple juice	in alzheimer’s patients, but	
+T-134	disease	disease	juice	juice	protection, clear apple	
+T-134	apple juice	apple juice	produce	produce	may	
+T-134	disease	disease	apple juice	apple juice	protection, clear	
+T-134	apple juice	apple juice	uric acid	uric acid	may produce	
+T-134	apple juice	apple juice	bladder	bladder	does not appear to reduce	
+T-134	health	health	organic	organic	organization fungal level safety guidelines, but	
+T-134	plaque	plaque	protein	protein		
+T-134	juice	juice	arsenic	arsenic	may contain levels of	
+T-134	apple juice	apple juice	bladder infection	bladder infection	does not appear to reduce	
+T-134	apple	apple	antioxidant	antioxidant	juice appears to have less than one-third the	
+T-134	cranberry	cranberry	apple juice	apple juice	juice,	
+T-134	apple juice	apple juice	antioxidant	antioxidant	ranked six in terms of	
+T-134	apple	apple	infection	infection	juice does not appear to reduce bladder	
+T-134	heart attack	heart attack	juice	juice	risk, but drinking apple	
+T-134	juice	juice	produce	produce	may	
+T-134	heart attack	heart attack	apple	apple	risk, but drinking	
+T-134	apple	apple	produce	produce	juice may	
+T-134	world health organization	world health organization	organic	organic	fungal level safety guidelines, but	
+T-134	cognitive performance	cognitive performance	apple	apple	in alzheimer’s patients, but	
+T-134	produce	produce	uric acid	uric acid		
+T-134	apple	apple	juice	juice		
+T-134	infection	infection	risk	risk		
+T-134	cranberry	cranberry	juice	juice		
+T-134	apple	apple	antioxidant	antioxidant	juice ranked six in terms of	
+T-134	uric acid	uric acid	apples	apples	in the body, and even pureed	
+T-134	antioxidant	antioxidant	apple	apple	power of the whole	
+T-134	apple	apple	arsenic	arsenic	juice may contain levels of	
+T-134	juice	juice	apples	apples	of	
+T-134	antioxidant	antioxidant	beverages	beverages	levels compared to eight other possible airline	
+T-134	organic	organic	safety limits	safety limits	juices seem to be within the	
+T-134	apple	apple	risk	risk	consumption may be associated with lower heart attack	
+T-134	heart attack	heart attack	apple juice	apple juice	risk, but drinking	
+T-134	cranberry	cranberry	apple	apple	juice,	

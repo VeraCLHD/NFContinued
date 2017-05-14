@@ -1,0 +1,34 @@
+
+V-1120	arteries	arteries	blood	blood	choking off	
+V-1120	cholesterol	cholesterol	blood	blood	is not present, regardless of how high our	
+V-1120	death	death	united states	united states	in the	
+V-1120	bad cholesterol	bad cholesterol	ldl	ldl	—	
+V-1120	heart disease	heart disease	hypertension	hypertension	—	
+V-1120	plaque	plaque	arteries	arteries	that builds up in our	
+V-1120	risk	risk	hypertension	hypertension	of heart disease—	
+V-1120	cholesterol	cholesterol	atherosclerosis	atherosclerosis	is the cause of	
+V-1120	risk	risk	smoking	smoking	of heart disease—hypertension, diabetes, obesity, inactivity, cigarette	
+V-1120	risk	risk	heart disease	heart disease	of	
+V-1120	death	death	disease	disease	in the united states, however, is heart	
+V-1120	heart disease	heart disease	diabetes	diabetes	—hypertension,	
+V-1120	disease	disease	smoking	smoking	—hypertension, diabetes, obesity, inactivity, cigarette	
+V-1120	atherosclerosis	atherosclerosis	cholesterol	cholesterol	simply does not occur if elevated	
+V-1120	blood pressure	blood pressure	blood	blood	is, our	
+V-1120	disease	disease	obesity	obesity	—hypertension, diabetes,	
+V-1120	plaque	plaque	cholesterol	cholesterol	in our arteries, but if our	
+V-1120	risk	risk	diabetes	diabetes	of heart disease—hypertension,	
+V-1120	vegetarian	vegetarian	fruit	fruit		
+V-1120	plant-based	plant-based	drugs	drugs	 diets.now, if we put everyone on	
+V-1120	risk	risk	obesity	obesity	of heart disease—hypertension, diabetes,	
+V-1120	heart disease	heart disease	obesity	obesity	—hypertension, diabetes,	
+V-1120	risk	risk	disease	disease	of heart	
+V-1120	herbivore	herbivore	diet	diet		
+V-1120	plaque	plaque	blood	blood	that builds up in our arteries choking off	
+V-1120	cholesterol	cholesterol	ldl	ldl	—	
+V-1120	cholesterol	cholesterol	blood pressure	blood pressure	is not present, regardless of how high our	
+V-1120	arteries	arteries	heart attacks	heart attacks	to trigger strokes,	
+V-1120	plaque	plaque	arteries	arteries	in our	
+V-1120	disease	disease	diabetes	diabetes	—hypertension,	
+V-1120	disease	disease	hypertension	hypertension	—	
+V-1120	heart disease	heart disease	smoking	smoking	—hypertension, diabetes, obesity, inactivity, cigarette	
+V-1120	death	death	heart disease	heart disease	in the united states, however, is	

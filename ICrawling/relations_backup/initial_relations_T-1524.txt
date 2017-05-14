@@ -1,0 +1,19 @@
+
+T-1524	probiotics	probiotics	infections	infections	may reduce the risk of upper respiratory tract	
+T-1524	probiotics	probiotics	anxiety	anxiety	can significantly decrease	
+T-1524	infections	infections	immune system	immune system	and help boost the	
+T-1524	supplements	supplements	plant-based diet	plant-based diet	may boost beneficial bacteria, eating a	
+T-1524	bacteria	bacteria	health	health	and yeasts, and may be beneficial to our	
+T-1524	beverage	beverage	fat	fat	that has some	
+T-1524	supplements	supplements	diet	diet	may boost beneficial bacteria, eating a plant-based	
+T-1524	anger	anger	symptoms	symptoms	and hostility	
+T-1524	plant-based	plant-based	diet	diet		
+T-1524	probiotics	probiotics	depression	depression	can significantly decrease anxiety,	
+T-1524	risk	risk	infections	infections	of upper respiratory tract	
+T-1524	probiotics	probiotics	anger	anger	can significantly decrease anxiety, depression,	
+T-1524	supplements	supplements	plant-based	plant-based	may boost beneficial bacteria, eating a	
+T-1524	supplements	supplements	bacteria	bacteria	may boost beneficial	
+T-1524	probiotics	probiotics	bacteria	bacteria	are live	
+T-1524	probiotics	probiotics	risk	risk	may reduce the	
+T-1524	diarrhea	diarrhea	gastroenteritis	gastroenteritis	and speed recovery from acute	
+T-1524	probiotics	probiotics	symptoms	symptoms	can significantly decrease anxiety, depression, anger and hostility	

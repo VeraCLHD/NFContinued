@@ -1,0 +1,47 @@
+
+V-543	diet	diet	alkaline diet	alkaline diet	that limited fruits and vegetables, versus an	
+V-543	protein	protein	bone health	bone health	intake and	
+V-543	urine	urine	steak	steak	after eating a	
+V-543	calcium	calcium	urine	urine	dumped in our	
+V-543	calcium	calcium	urine	urine	is lost in the	
+V-543	fruits	fruits	alkaline diet	alkaline diet	and vegetables, versus an	
+V-543	diet	diet	vegetables	vegetables	that limited fruits and	
+V-543	diet	diet	vegetables	vegetables	emphasizing fruits and	
+V-543	meat	meat	diet	diet	to the	
+V-543	protein	protein	calcium	calcium	boosts	
+V-543	urine	urine	burgers	burgers	on	
+V-543	protein	protein	calcium	calcium	results in greater	
+V-543	diet	diet	fruits	fruits	that limited	
+V-543	alkaline diet	alkaline diet	fruits	fruits	emphasizing	
+V-543	protein	protein	calcium	calcium	consumption boosted	
+V-543	nutrition	nutrition	meat	meat	was that by eating acid-forming foods (such as	
+V-543	calcium	calcium	urine	urine	being lost in the	
+V-543	protein	protein	diet	diet	we add to our daily	
+V-543	alkaline diet	alkaline diet	vegetables	vegetables	emphasizing fruits and	
+V-543	calcium	calcium	urine	urine	in the	
+V-543	urine	urine	diet	diet	was coming from their	
+V-543	calcium	calcium	steak	steak	in the urine after eating a	
+V-543	calcium	calcium	eggs	eggs	.meat and	
+V-543	amino acids	amino acids	grains	grains	(two to five times more than	
+V-543	protein	protein	stomach	stomach	increases the solubility of calcium by stimulating	
+V-543	urine	urine	calcium	calcium	on burgers, but significantly greater	
+V-543	calcium	calcium	blood	blood	in the	
+V-543	meat	meat	risk	risk	), we were, in essence, at	
+V-543	burgers	burgers	fruits	fruits	a day worth of animal-protein diet that limited	
+V-543	calcium	calcium	amino acids	amino acids	.meat and eggs have a lot of sulphur-containing	
+V-543	meat	meat	calcium	calcium	leads to acid, which leads to	
+V-543	calcium	calcium	urine	urine	in their	
+V-543	fruits	fruits	diet	diet	and vegetables, versus an alkaline	
+V-543	burgers	burgers	diet	diet	a day worth of animal-protein	
+V-543	calcium	calcium	burgers	burgers	in the urine on	
+V-543	grains	grains	beans	beans	and	
+V-543	lead	lead	osteoporosis	osteoporosis	to	
+V-543	protein	protein	health	health	intake and bone	
+V-543	calcium	calcium	kidneys	kidneys	in the blood, so presumably the	
+V-543	eggs	eggs	amino acids	amino acids	have a lot of sulphur-containing	
+V-543	calcium	calcium	stomach	stomach	by stimulating	
+V-543	diet	diet	fruits	fruits	emphasizing	
+V-543	calcium	calcium	diet	diet	in their urine was coming from their	
+V-543	protein	protein	calcium	calcium	increases the solubility of	
+V-543	fruits	fruits	vegetables	vegetables	and	
+V-543	amino acids	amino acids	beans	beans	(two to five times more than grains and	

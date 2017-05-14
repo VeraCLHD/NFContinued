@@ -1,0 +1,7 @@
+
+V-676	sweeteners	sweeteners	lead	lead	may counterintuitively	
+V-676	artificial sweeteners	artificial sweeteners	lead	lead	may counterintuitively	
+V-676	artificial sweeteners	artificial sweeteners	weight gain	weight gain	may counterintuitively lead to	
+V-676	sweeteners	sweeteners	calories	calories	—with or without	
+V-676	sweeteners	sweeteners	weight gain	weight gain	may counterintuitively lead to	
+V-676	lead	lead	weight gain	weight gain	to	

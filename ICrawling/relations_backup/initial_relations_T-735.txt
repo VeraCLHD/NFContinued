@@ -1,0 +1,49 @@
+
+T-735	chickens	chickens	chicken	chicken	and feathers (which is used along other unusable	
+T-735	processed meat	processed meat	poultry	poultry	and	
+T-735	meat	meat	campylobacter	campylobacter	additives to reduce the risk of listeria and	
+T-735	fish	fish	gold dust retinopathy	gold dust retinopathy	may be linked to	
+T-735	brains	brains	fish	fish	to farm	
+T-735	meat	meat	risk	risk	additives to reduce the	
+T-735	risk	risk	campylobacter	campylobacter	of listeria and	
+T-735	risk	risk	meat	meat	of listeria and campylobacter found in processed	
+T-735	campylobacter	campylobacter	meat	meat	found in processed	
+T-735	campylobacter	campylobacter	processed meat	processed meat	found in	
+T-735	feed additives	feed additives	fish	fish	given to farmed	
+T-735	gold	gold	retinopathy	retinopathy	dust	
+T-735	poultry	poultry	birds	birds	industry feeds their	
+T-735	birds	birds	drugs	drugs	millions of pounds of arsenic-containing	
+T-735	feed additives	feed additives	gold dust retinopathy	gold dust retinopathy	given to farmed fish may be linked to	
+T-735	risk	risk	processed meat	processed meat	of listeria and campylobacter found in	
+T-735	greece	greece	brains	brains	fed infected cow	
+T-735	gmo	gmo	farm animals	farm animals	soy grown in the us is fed to	
+T-735	soy	soy	farm animals	farm animals	grown in the us is fed to	
+T-735	fish	fish	retinopathy	retinopathy	may be linked to gold dust	
+T-735	listeria	listeria	campylobacter	campylobacter	and	
+T-735	chickens	chickens	fish	fish	and farm-raised	
+T-735	antibiotics	antibiotics	bacteria	bacteria	to livestock is directly linked to antibiotic resistant	
+T-735	feed additives	feed additives	gold	gold	given to farmed fish may be linked to	
+T-735	livestock	livestock	cheap	cheap	feed keep these unhealthy products so	
+T-735	bacteria	bacteria	infections	infections		
+T-735	meat	meat	listeria	listeria	additives to reduce the risk of	
+T-735	risk	risk	listeria	listeria	of	
+T-735	subsidies	subsidies	livestock	livestock	of	
+T-735	livestock	livestock	bacteria	bacteria	is directly linked to antibiotic resistant	
+T-735	drugs	drugs	chickens	chickens	every year, ending up in	
+T-735	listeria	listeria	poultry	poultry	and campylobacter found in processed meat and	
+T-735	fda	fda	antibiotics	antibiotics	issued voluntary guidance to remove	
+T-735	meat	meat	poultry	poultry	supply (including up to 42% of	
+T-735	chicken	chicken	chickens	chickens	litter fed back to	
+T-735	chicken	chicken	farm animals	farm animals	parts to feed back to	
+T-735	fish	fish	gold	gold	may be linked to	
+T-735	campylobacter	campylobacter	poultry	poultry	found in processed meat and	
+T-735	livestock	livestock	infections	infections	is directly linked to antibiotic resistant bacteria	
+T-735	listeria	listeria	meat	meat	and campylobacter found in processed	
+T-735	superbugs	superbugs	meat	meat	found in the u.s.	
+T-735	viruses	viruses	meat	meat	have been approved as	
+T-735	subsidies	subsidies	cheap	cheap	of livestock feed keep these unhealthy products so	
+T-735	greece	greece	fish	fish	fed infected cow brains to farm	
+T-735	antibiotics	antibiotics	livestock	livestock	to	
+T-735	estrogen	estrogen	chicken	chicken	levels found in this	
+T-735	gmo	gmo	soy	soy		
+T-735	listeria	listeria	processed meat	processed meat	and campylobacter found in	

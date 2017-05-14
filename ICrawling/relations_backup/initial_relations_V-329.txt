@@ -1,0 +1,25 @@
+
+V-329	blood	blood	cholesterol	cholesterol		
+V-329	heart attack	heart attack	cholesterol	cholesterol	is an elevated	
+V-329	atherosclerosis	atherosclerosis	heart attacks	heart attacks	and	
+V-329	heart attack	heart attack	risk	risk	can be attributed to nine modifiable	
+V-329	blood	blood	stress	stress	pressure, diabetes, abdominal obesity,	
+V-329	diet	diet	health	health	for	
+V-329	blood	blood	united states	united states	cholesterol level in the	
+V-329	ldl	ldl	cholesterol	cholesterol		
+V-329	risk	risk	heart attack	heart attack	for having a first	
+V-329	bad cholesterol	bad cholesterol	ldl	ldl	”	
+V-329	blood	blood	abdominal obesity	abdominal obesity	pressure, diabetes,	
+V-329	atherosclerosis	atherosclerosis	cholesterol	cholesterol	versus ldl	
+V-329	risk	risk	cholesterol	cholesterol	accompanying more optimal	
+V-329	blood	blood	obesity	obesity	pressure, diabetes, abdominal	
+V-329	atherosclerosis	atherosclerosis	ldl cholesterol	ldl cholesterol	versus	
+V-329	drugs	drugs	ldl	ldl	are the only way to get our	
+V-329	health	health	risk	risk	researchers have discovered that 90% of	
+V-329	smoking	smoking	potatoes	potatoes	diabetic couch	
+V-329	atherosclerosis	atherosclerosis	cholesterol	cholesterol	has a single cause, namely	
+V-329	smoking	smoking	cholesterol	cholesterol	diabetic couch potatoes, but if our	
+V-329	atherosclerosis	atherosclerosis	ldl	ldl	versus	
+V-329	blood	blood	diabetes	diabetes	pressure,	
+V-329	plant-based diets	plant-based diets	cholesterol	cholesterol	may hit the optimal	
+V-329	plant-based	plant-based	cholesterol	cholesterol	diets may hit the optimal	

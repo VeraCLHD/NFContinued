@@ -1,0 +1,35 @@
+
+V-23	bacteria	bacteria	leprosy	leprosy	that cause diseases like tuberculosis and	
+V-23	bacteria	bacteria	type 1 diabetes	type 1 diabetes	in the blood of patients with	
+V-23	infection	infection	livestock	livestock	in	
+V-23	dna	dna	cream	cream	[has been] detected in raw milk,…pasteurized milk,…infant…formula,…cheese, ice	
+V-23	meat	meat	sheep	sheep	from infected [cattle,	
+V-23	dna	dna	cheese	cheese	[has been] detected in raw milk,…pasteurized milk,…infant…formula,…	
+V-23	raw	raw	cheese	cheese	milk,…pasteurized milk,…infant…formula,…	
+V-23	paratuberculosis	paratuberculosis	disease	disease	—which causes johne’s	
+V-23	milk	milk	type 1 diabetes	type 1 diabetes	may be “an important determinant of subsequent	
+V-23	agriculture	agriculture	disease	disease	—called paratuberculosis—which causes johne’s	
+V-23	bacteria	bacteria	diabetes	diabetes	in the blood of patients with type 1	
+V-23	raw	raw	ice cream	ice cream	milk,…pasteurized milk,…infant…formula,…cheese,	
+V-23	paratuberculosis	paratuberculosis	type 1 diabetes	type 1 diabetes	be a “trigger” for	
+V-23	raw	raw	meat	meat	milk,…pasteurized milk,…infant…formula,…cheese, ice cream,…muscle and organ tissues…and retail	
+V-23	disease	disease	livestock	livestock	is what you call the disease when	
+V-23	symptoms	symptoms	hunger	hunger	”—excessive thirst,	
+V-23	immune system	immune system	produce	produce	attacked and destroyed their own ability to	
+V-23	wisconsin	wisconsin	milk	milk	researchers bought hundreds of pints of retail	
+V-23	symptoms	symptoms	blood	blood	”—excessive thirst, hunger, and urination—as their	
+V-23	paratuberculosis	paratuberculosis	diabetes	diabetes	be a “trigger” for type 1	
+V-23	dna	dna	milk	milk	[has been] detected in raw	
+V-23	bacteria	bacteria	blood	blood	in the	
+V-23	bacteria	bacteria	blood	blood	in their	
+V-23	blood	blood	type 1 diabetes	type 1 diabetes	of patients with	
+V-23	paratuberculosis	paratuberculosis	diabetes	diabetes	—with type 1	
+V-23	paratuberculosis	paratuberculosis	type 1 diabetes	type 1 diabetes	—with	
+V-23	raw	raw	milk	milk		
+V-23	bacteria	bacteria	milk	milk	in retail	
+V-23	raw	raw	cream	cream	milk,…pasteurized milk,…infant…formula,…cheese, ice	
+V-23	dna	dna	raw	raw	[has been] detected in	
+V-23	dna	dna	ice cream	ice cream	[has been] detected in raw milk,…pasteurized milk,…infant…formula,…cheese,	
+V-23	blood	blood	diabetes	diabetes	of patients with type 1	
+V-23	bacteria	bacteria	pasteurization	pasteurization	survive	
+V-23	agriculture	agriculture	paratuberculosis	paratuberculosis	—called	

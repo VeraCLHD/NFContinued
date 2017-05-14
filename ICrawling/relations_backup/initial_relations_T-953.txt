@@ -1,0 +1,92 @@
+
+T-953	prostate cancer	prostate cancer	sperm counts	sperm counts	risk and lower	
+T-953	plants	plants	dhea	dhea	hold onto more	
+T-953	mushrooms	mushrooms	cancer	cancer	 may also help prevent breast	
+T-953	breast cancer	breast cancer	fiber	fiber	risk due to higher	
+T-953	cancer	cancer	tumor	tumor	by blocking estrogen production, thus decreasing the	
+T-953	animal products	animal products	estrogen	estrogen	contain	
+T-953	fish	fish	hormones	hormones	) and the	
+T-953	mushrooms	mushrooms	estrogen	estrogen	 may also help prevent breast cancer by blocking	
+T-953	environment	environment	water	water	and have been found in the	
+T-953	women	women	plant-based	plant-based	eating	
+T-953	meat	meat	phip	phip	contains	
+T-953	protein	protein	milk	milk	and 	
+T-953	industrial pollutants	industrial pollutants	meat	meat	often found in	
+T-953	pollutants	pollutants	hormones	hormones	often found in meat and fish) and the	
+T-953	prostate cancer	prostate cancer	risk	risk		
+T-953	animal protein	animal protein	milk	milk	and 	
+T-953	industrial pollutants	industrial pollutants	hormones	hormones	often found in meat and fish) and the	
+T-953	steroid hormones	steroid hormones	eggs	eggs	 in the body may be to avoid	
+T-953	vegan	vegan	women	women		
+T-953	breast cancer	breast cancer	risk	risk		
+T-953	prostate	prostate	cancer	cancer		
+T-953	protein	protein	igf-1	igf-1	in particular may boost our	
+T-953	melatonin	melatonin	insomnia	insomnia	may help with	
+T-953	japan	japan	steroids	steroids	has been speculatively linked to the	
+T-953	hormones	hormones	animal protein	animal protein	found in	
+T-953	cancer	cancer	estrogen	estrogen	by blocking	
+T-953	plant-based diets	plant-based diets	adiponectin	adiponectin	also have lower levels of	
+T-953	igf-1	igf-1	plant proteins	plant proteins	production compared to	
+T-953	hormones	hormones	environment	environment	may be common in the	
+T-953	animal protein	animal protein	igf-1	igf-1	in particular may boost our	
+T-953	pollutants	pollutants	fish	fish	often found in meat and	
+T-953	breast cancer	breast cancer	estrogen	estrogen	by blocking	
+T-953	breast cancer	breast cancer	tumor	tumor	by blocking estrogen production, thus decreasing the	
+T-953	cancer	cancer	fiber	fiber	risk due to higher	
+T-953	tea	tea	lavender	lavender	and	
+T-953	fiber	fiber	estrogen	estrogen	intake, which helps the body eliminate excess	
+T-953	xenoestrogens	xenoestrogens	pollutants	pollutants	(industrial	
+T-953	acne	acne	milk	milk	 among	
+T-953	hormones	hormones	protein	protein	found in animal	
+T-953	nettle tea	nettle tea	lavender	lavender	and	
+T-953	women	women	vegan	vegan	eating plant-based diets,	
+T-953	risk	risk	sperm counts	sperm counts	and lower	
+T-953	soy	soy	puberty	puberty	may be associated with starting	
+T-953	plant-based	plant-based	vegan	vegan	diets,	
+T-953	puberty	puberty	xenoestrogens	xenoestrogens	in girls may be partly due to	
+T-953	fish	fish	animal protein	animal protein	) and the hormones found in	
+T-953	vegetarians	vegetarians	prostate	prostate	and omnivores.milk intake may be linked to increased	
+T-953	cooked meat	cooked meat	phip	phip	contains	
+T-953	estrogen	estrogen	tumor	tumor	production, thus decreasing the	
+T-953	industrial pollutants	industrial pollutants	fish	fish	often found in meat and	
+T-953	vegan	vegan	twins	twins	women had one-fifth the number of	
+T-953	risk	risk	pulmonary embolism	pulmonary embolism	of heart disease, stroke,	
+T-953	cancer	cancer	sperm counts	sperm counts	risk and lower	
+T-953	xenoestrogens	xenoestrogens	fish	fish	(industrial pollutants often found in meat and	
+T-953	vegetarians	vegetarians	prostate cancer	prostate cancer	and omnivores.milk intake may be linked to increased	
+T-953	water	water	hormones	hormones	supply.one way to decrease levels of steroid	
+T-953	steroid hormones	steroid hormones	dairy	dairy	 in the body may be to avoid eggs,	
+T-953	fish	fish	protein	protein	) and the hormones found in animal	
+T-953	risk	risk	fiber	fiber	due to higher	
+T-953	meat	meat	estrogen	estrogen	contains phip, a heterocyclic amine that activates	
+T-953	risk	risk	heart disease	heart disease	of	
+T-953	cancer	cancer	risk	risk		
+T-953	risk	risk	stroke	stroke	of heart disease,	
+T-953	meat	meat	protein	protein	and fish) and the hormones found in animal	
+T-953	xenoestrogens	xenoestrogens	meat	meat	(industrial pollutants often found in	
+T-953	plant-based diets	plant-based diets	igf-1	igf-1	have lower levels of	
+T-953	hormones	hormones	milk	milk	found in animal protein and 	
+T-953	mushrooms	mushrooms	breast cancer	breast cancer	 may also help prevent	
+T-953	cooked meat	cooked meat	estrogen	estrogen	contains phip, a heterocyclic amine that activates	
+T-953	early onset puberty	early onset puberty	xenoestrogens	xenoestrogens	in girls may be partly due to	
+T-953	plant foods	plant foods	melatonin	melatonin	high in the hormone	
+T-953	women	women	plant-based diets	plant-based diets	eating	
+T-953	meat	meat	fish	fish	and	
+T-953	infertility	infertility	risk	risk		
+T-953	risk	risk	disease	disease	of heart	
+T-953	prostate	prostate	sperm counts	sperm counts	cancer risk and lower	
+T-953	plant-based	plant-based	women	women	diets, vegan	
+T-953	plant foods	plant foods	insomnia	insomnia	high in the hormone melatonin may help with	
+T-953	pollutants	pollutants	meat	meat	often found in	
+T-953	plant-based	plant-based	twins	twins	diets, vegan women had one-fifth the number of	
+T-953	prostate	prostate	risk	risk	cancer	
+T-953	meat	meat	fertility	fertility	may affect a woman’s	
+T-953	vegetarian	vegetarian	women	women		
+T-953	meat	meat	hormones	hormones	and fish) and the	
+T-953	plant-based	plant-based	igf-1	igf-1	diets have lower levels of	
+T-953	plant-based	plant-based	adiponectin	adiponectin	diets also have lower levels of	
+T-953	animal products	animal products	igf-1	igf-1	may cause an increase of the hormone,	
+T-953	twins	twins	vegetarians	vegetarians	compared with	
+T-953	meat	meat	animal protein	animal protein	and fish) and the hormones found in	
+T-953	water	water	steroid hormones	steroid hormones	supply.one way to decrease levels of 	
+T-953	steroids	steroids	meat	meat	present in	

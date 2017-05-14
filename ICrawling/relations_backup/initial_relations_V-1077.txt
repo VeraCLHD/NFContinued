@@ -1,0 +1,33 @@
+
+V-1077	smoking	smoking	meat	meat	and	
+V-1077	blood	blood	chicken	chicken	cancer, this much meat—two boneless	
+V-1077	meat	meat	leukemia	leukemia	—two boneless chicken breasts’ worth—may increase our	
+V-1077	chicken	chicken	leukemia	leukemia	breasts’ worth—may increase our	
+V-1077	leukemia	leukemia	smoking	smoking	risk as much	
+V-1077	smoking	smoking	meat	meat	ten cigarettes.so, what if we don’t eat any	
+V-1077	risk	risk	blood	blood	of getting this rare—but deadly—	
+V-1077	cancer	cancer	risk	risk		
+V-1077	blood	blood	meat	meat	cancer, this much	
+V-1077	nih-aarp study	nih-aarp study	acute myeloid leukemia	acute myeloid leukemia	also looked at diet, lifestyle, and	
+V-1077	blood	blood	cancer	cancer		
+V-1077	smoking	smoking	beef	beef	and total meat intake—which included all	
+V-1077	smoking	smoking	fish	fish	and total meat intake—which included all beef, chicken,	
+V-1077	smoking	smoking	meat	meat	and total	
+V-1077	meat	meat	bacon	bacon	intake—which included all beef, chicken, fish, pork,	
+V-1077	leukemia	leukemia	risk	risk		
+V-1077	risk	risk	cancer	cancer	of getting this rare—but deadly—blood	
+V-1077	meat	meat	fish	fish	intake—which included all beef, chicken,	
+V-1077	meat	meat	chicken	chicken	intake—which included all beef,	
+V-1077	chicken	chicken	smoking	smoking	breasts’ worth—may increase our leukemia risk as much	
+V-1077	meat	meat	beef	beef	intake—which included all	
+V-1077	meat	meat	risk	risk	—two boneless chicken breasts’ worth—may increase our leukemia	
+V-1077	nih-aarp study	nih-aarp study	leukemia	leukemia	also looked at diet, lifestyle, and acute myeloid	
+V-1077	meat	meat	pork	pork	intake—which included all beef, chicken, fish,	
+V-1077	meat	meat	chicken	chicken	—two boneless	
+V-1077	nih-aarp study	nih-aarp study	diet	diet	also looked at	
+V-1077	cancer	cancer	vegetarians	vegetarians	rates in	
+V-1077	risk	risk	meat	meat	of getting this rare—but deadly—blood cancer, this much	
+V-1077	smoking	smoking	chicken	chicken	and total meat intake—which included all beef,	
+V-1077	chicken	chicken	risk	risk	breasts’ worth—may increase our leukemia	
+V-1077	risk	risk	blood cancer	blood cancer	of getting this rare—but deadly—	
+V-1077	vegetarians	vegetarians	cancer	cancer	had significantly less	

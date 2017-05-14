@@ -1,0 +1,10 @@
+
+V-735	uganda	uganda	plant-based	plant-based	—and finally arrived at a	
+V-735	uganda	uganda	plant-based diet	plant-based diet	—and finally arrived at a	
+V-735	disease	disease	arteries	arteries	diagnosis, considered incurable at the time, his coronary	
+V-735	england	england	medicine	medicine	journal of	
+V-735	uganda	uganda	diet	diet	—and finally arrived at a plant-based	
+V-735	plant-based	plant-based	diet	diet		
+V-735	plant-based	plant-based	cholesterol	cholesterol	diet, dropping his	
+V-735	cholesterol	cholesterol	heart disease	heart disease	from 280 down to 94, reversing his own	
+V-735	heart disease	heart disease	arteries	arteries	diagnosis, considered incurable at the time, his coronary	

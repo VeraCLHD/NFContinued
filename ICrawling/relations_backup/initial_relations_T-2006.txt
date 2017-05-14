@@ -1,0 +1,31 @@
+
+T-2006	hepatitis	hepatitis	risk	risk	e	
+T-2006	zoonotic disease	zoonotic disease	eggs	eggs	risks, see also these topics: ciguatera, e. coli,	
+T-2006	disease	disease	eggs	eggs	risks, see also these topics: ciguatera, e. coli,	
+T-2006	poultry	poultry	meat	meat	and other	
+T-2006	poultry	poultry	risk	risk	and other meat industry workers have a higher	
+T-2006	pigs	pigs	hepatitis e	hepatitis e	appear to be the reservoir of the	
+T-2006	hepatitis	hepatitis	virus	virus	e	
+T-2006	meat industry	meat industry	death	death	workers have a higher risk of cancer	
+T-2006	disease	disease	e. coli	e. coli	risks, see also these topics: ciguatera,	
+T-2006	risk	risk	poultry	poultry	of zoonotic infection is a possible reason why	
+T-2006	infection	infection	meat industry	meat industry	is a possible reason why poultry and other	
+T-2006	infection	infection	meat	meat	is a possible reason why poultry and other	
+T-2006	risk	risk	infection	infection	of zoonotic	
+T-2006	meat	meat	risk	risk	industry workers have a higher	
+T-2006	cancer	cancer	death	death		
+T-2006	zoonotic disease	zoonotic disease	ciguatera	ciguatera	risks, see also these topics:	
+T-2006	meat	meat	cancer	cancer	industry workers have a higher risk of	
+T-2006	hepatitis e	hepatitis e	virus	virus		
+T-2006	meat industry	meat industry	cancer	cancer	workers have a higher risk of	
+T-2006	meat industry	meat industry	risk	risk	workers have a higher	
+T-2006	pork	pork	hepatitis	hepatitis	intake may raise	
+T-2006	infection	infection	poultry	poultry	is a possible reason why	
+T-2006	meat	meat	death	death	industry workers have a higher risk of cancer	
+T-2006	pork	pork	risk	risk	intake may raise hepatitis e	
+T-2006	zoonotic disease	zoonotic disease	e. coli	e. coli	risks, see also these topics: ciguatera,	
+T-2006	poultry	poultry	meat industry	meat industry	and other	
+T-2006	hepatitis e	hepatitis e	risk	risk		
+T-2006	pigs	pigs	hepatitis	hepatitis	appear to be the reservoir of the	
+T-2006	pork	pork	hepatitis e	hepatitis e	intake may raise	
+T-2006	disease	disease	ciguatera	ciguatera	risks, see also these topics:	

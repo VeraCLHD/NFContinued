@@ -1,0 +1,14 @@
+
+V-1060	antioxidant	antioxidant	tea	tea	activity of hot- versus cold-steeped	
+V-1060	cold	cold	tea	tea	water, throw the	
+V-1060	cholesterol	cholesterol	copper	copper	—with an oxidizing agent, like	
+V-1060	ldl	ldl	copper	copper	—bad cholesterol—with an oxidizing agent, like	
+V-1060	tea	tea	water	water	with hot	
+V-1060	cold	cold	water	water		
+V-1060	water	water	antioxidants	antioxidants	probably also doesn’t draw out many of the	
+V-1060	ldl	ldl	cholesterol	cholesterol	—bad	
+V-1060	bad cholesterol	bad cholesterol	copper	copper	—with an oxidizing agent, like	
+V-1060	ldl	ldl	bad cholesterol	bad cholesterol	—	
+V-1060	antioxidant	antioxidant	tea	tea	activity for hot brewed	
+V-1060	italy	italy	antioxidant	antioxidant	took it upon themselves to compare the	
+V-1060	antioxidants	antioxidants	tea	tea	in	

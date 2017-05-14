@@ -1,0 +1,67 @@
+
+T-1240	apple juice	apple juice	cognitive performance	cognitive performance	intake did not boost	
+T-1240	depression	depression	symptoms	symptoms		
+T-1240	plant-based	plant-based	depression	depression	diet significantly improved	
+T-1240	diet	diet	inflammation	inflammation	can also reduce a type of	
+T-1240	symptoms	symptoms	mood	mood	can include	
+T-1240	mood	mood	diet	diet	linked with a plant-based	
+T-1240	plant foods	plant foods	tryptophan	tryptophan	with a high	
+T-1240	plant-based	plant-based	diet	diet		
+T-1240	pms	pms	symptoms	symptoms		
+T-1240	plant-based	plant-based	mood	mood	diets may help in boosting overall	
+T-1240	mood	mood	diet	diet	found that a plant-based	
+T-1240	arachidonic acid	arachidonic acid	animal foods	animal foods	in plants, but its presence in	
+T-1240	exercise	exercise	depression	depression	can help elevate mood and reduce	
+T-1240	risk	risk	anxiety	anxiety	of depression, distress, and self-reported mood or	
+T-1240	apple	apple	cognitive performance	cognitive performance	juice intake did not boost	
+T-1240	mood	mood	depression	depression	by inducing feelings of	
+T-1240	mood	mood	anxiety	anxiety	or	
+T-1240	tryptophan	tryptophan	protein	protein	to total	
+T-1240	yeast	yeast	exercise	exercise	after strenuous	
+T-1240	tryptophan	tryptophan	supplements	supplements		
+T-1240	protein	protein	seeds	seeds	ratio, such as	
+T-1240	mood	mood	sweetener	sweetener	disorders may be particularly sensitive to the artificial	
+T-1240	exercise	exercise	energy	energy	may help them maintain both their	
+T-1240	exercise	exercise	mood	mood	can help elevate	
+T-1240	exercise	exercise	symptoms	symptoms	can help elevate mood and reduce depression	
+T-1240	disease	disease	apple	apple	patients found that while daily	
+T-1240	disease	disease	juice	juice	patients found that while daily apple	
+T-1240	water	water	exercise	exercise	consumption and	
+T-1240	plant-based	plant-based	anxiety	anxiety	diet significantly improved depression,	
+T-1240	plant-based diet	plant-based diet	anxiety	anxiety	significantly improved depression,	
+T-1240	risk	risk	depression	depression	of	
+T-1240	fruits	fruits	vegetables	vegetables	and	
+T-1240	mood	mood	water	water	.sufficient	
+T-1240	mood	mood	plant-based	plant-based	linked with a	
+T-1240	diet	diet	mood	mood	and	
+T-1240	mood	mood	plant-based diet	plant-based diet	linked with a	
+T-1240	plant-based diet	plant-based diet	inflammation	inflammation	can also reduce a type of	
+T-1240	supplements	supplements	mood	mood	should not be used to try to improve	
+T-1240	disease	disease	apple juice	apple juice	patients found that while daily	
+T-1240	diet	diet	plant-based	plant-based	intake groups found that the more	
+T-1240	fruit	fruit	risk	risk	and vegetable intake to be associated with lower	
+T-1240	vegetables	vegetables	mood	mood	are one potential factor explaining the improvement in	
+T-1240	juice	juice	cognitive performance	cognitive performance	intake did not boost	
+T-1240	mood	mood	exercise	exercise	.sufficient water consumption and	
+T-1240	plant foods	plant foods	protein	protein	with a high tryptophan to total	
+T-1240	saffron	saffron	pms	pms	may help relieve	
+T-1240	diet	diet	plant-based diet	plant-based diet	and mood found that a	
+T-1240	saffron	saffron	symptoms	symptoms	may help relieve pms	
+T-1240	mood	mood	plant-based	plant-based	found that a	
+T-1240	water	water	mood	mood	consumption and exercise can help elevate	
+T-1240	apple	apple	juice	juice		
+T-1240	mood	mood	anxiety	anxiety	found that a plant-based diet significantly improved depression,	
+T-1240	mood	mood	depression	depression	found that a plant-based diet significantly improved	
+T-1240	plant-based diets	plant-based diets	mood	mood	may help in boosting overall	
+T-1240	tryptophan	tryptophan	seeds	seeds	to total protein ratio, such as	
+T-1240	nutritional yeast	nutritional yeast	exercise	exercise	after strenuous	
+T-1240	plant-based	plant-based	inflammation	inflammation	diet can also reduce a type of	
+T-1240	pms	pms	mood	mood	symptoms, including better regulation of	
+T-1240	arachidonic acid	arachidonic acid	plants	plants	in	
+T-1240	energy	energy	mood	mood	and their overall	
+T-1240	gluten	gluten	mood	mood	appears to worsen their	
+T-1240	risk	risk	mood	mood	of depression, distress, and self-reported	
+T-1240	plant-based diet	plant-based diet	depression	depression	significantly improved	
+T-1240	plant-based	plant-based	mood	mood	group showed greater improvement in	
+T-1240	diet	diet	plant-based	plant-based	and mood found that a	
+T-1240	mood	mood	plant-based diet	plant-based diet	found that a	

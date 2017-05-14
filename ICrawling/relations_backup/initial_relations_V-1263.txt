@@ -1,0 +1,29 @@
+
+V-1263	african	african	herbal tea	herbal tea		
+V-1263	risk	risk	cancer	cancer	of getting	
+V-1263	chamomile	chamomile	colon	colon	slowing down prostate cancer, cervical cancer, fibrosarcoma,	
+V-1263	chamomile	chamomile	cancer	cancer	they added, the more the human	
+V-1263	herbal	herbal	tea	tea		
+V-1263	risk	risk	cold	cold	of getting cancer, but also perhaps the common	
+V-1263	green tea	green tea	risk	risk	may not only help decrease our	
+V-1263	prostate	prostate	cervical cancer	cervical cancer	cancer,	
+V-1263	chamomile	chamomile	prostate	prostate	slowing down 	
+V-1263	prostate	prostate	cancer	cancer		
+V-1263	chamomile	chamomile	cancer growth	cancer growth	they added, the more the human	
+V-1263	chamomile	chamomile	prostate cancer	prostate cancer	slowing down 	
+V-1263	prostate	prostate	colon cancer	colon cancer	cancer, cervical cancer, fibrosarcoma,	
+V-1263	colon	colon	cancer	cancer		
+V-1263	chamomile	chamomile	cancer	cancer	slowing down prostate	
+V-1263	prostate	prostate	cancer cells	cancer cells	cancer, cervical cancer, fibrosarcoma, colon cancer, and breast	
+V-1263	chamomile	chamomile	colon cancer	colon cancer	slowing down prostate cancer, cervical cancer, fibrosarcoma,	
+V-1263	african	african	herbal	herbal		
+V-1263	tea	tea	risk	risk	may not only help decrease our	
+V-1263	colon	colon	breast cancer	breast cancer	cancer, and	
+V-1263	chamomile	chamomile	cervical cancer	cervical cancer	slowing down prostate cancer,	
+V-1263	green tea	green tea	antioxidants	antioxidants	has more than just	
+V-1263	african	african	tea	tea	herbal	
+V-1263	prostate	prostate	breast cancer	breast cancer	cancer, cervical cancer, fibrosarcoma, colon cancer, and	
+V-1263	prostate	prostate	colon	colon	cancer, cervical cancer, fibrosarcoma,	
+V-1263	colon	colon	cancer cells	cancer cells	cancer, and breast	
+V-1263	risk	risk	common cold	common cold	of getting cancer, but also perhaps the	
+V-1263	tea	tea	antioxidants	antioxidants	has more than just	

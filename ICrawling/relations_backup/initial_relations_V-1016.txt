@@ -1,0 +1,23 @@
+
+V-1016	cancer	cancer	cancer	cancer	growth, kind of like putting	
+V-1016	meat	meat	dairy	dairy	and	
+V-1016	produce	produce	melatonin	melatonin		
+V-1016	melatonin	melatonin	cancer	cancer	is thought to suppress	
+V-1016	pineal gland	pineal gland	sun	sun	never gets turned off by the	
+V-1016	blindness	blindness	breast cancer	breast cancer	is indeed protective against	
+V-1016	cancer	cancer	sleep	sleep	growth, kind of like putting cancer to	
+V-1016	blindness	blindness	cancer	cancer	is indeed protective against breast	
+V-1016	women	women	breast cancer	breast cancer	have more	
+V-1016	blind	blind	breast cancer	breast cancer	women have more	
+V-1016	women	women	cancer	cancer	have more breast	
+V-1016	cancer	cancer	risk	risk		
+V-1016	blind	blind	cancer	cancer	women have more breast	
+V-1016	dairy	dairy	melatonin	melatonin	intake were associated with lower	
+V-1016	breast cancer	breast cancer	risk	risk		
+V-1016	adolescence	adolescence	risk	risk	was associated with breast cancer	
+V-1016	meat	meat	melatonin	melatonin	and dairy intake were associated with lower	
+V-1016	adolescence	adolescence	breast cancer	breast cancer	was associated with	
+V-1016	adolescence	adolescence	cancer	cancer	was associated with breast	
+V-1016	melatonin	melatonin	cancer growth	cancer growth	is thought to suppress	
+V-1016	harvard	harvard	melatonin	melatonin	nurses’ study found two foods significantly associated with	
+V-1016	blind	blind	women	women		

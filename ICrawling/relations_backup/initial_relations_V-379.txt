@@ -1,0 +1,68 @@
+
+V-379	risk	risk	pancreatic cancer	pancreatic cancer	of fatal	
+V-379	fruit	fruit	vegetables	vegetables	and	
+V-379	pancreatic cancer	pancreatic cancer	diet	diet	risk, whereas a	
+V-379	meats	meats	veggie dogs	veggie dogs	like veggie burgers or	
+V-379	pancreatic cancer	pancreatic cancer	fat	fat	risk, but which animal	
+V-379	heterocyclic amines	heterocyclic amines	chicken	chicken	that build up in grilled and baked	
+V-379	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	in chicken, the	
+V-379	burgers	burgers	veggie dogs	veggie dogs	or	
+V-379	fruit	fruit	risk	risk	and vegetables appeared to lower	
+V-379	cancer	cancer	united states	united states	death in	
+V-379	united states	united states	mortality	mortality	with an annual	
+V-379	legumes	legumes	dried fruit	dried fruit	and	
+V-379	chemicals	chemicals	pancreatic cancer	pancreatic cancer	have been associated with doubling	
+V-379	plant-based	plant-based	meats	meats		
+V-379	italy	italy	meat	meat	: high consumption of	
+V-379	burgers	burgers	dogs	dogs	or veggie	
+V-379	diet	diet	risk	risk	rich in fruit and vegetables appeared to lower	
+V-379	chemicals	chemicals	cancer	cancer	have been associated with doubling pancreatic	
+V-379	cooked meat	cooked meat	heterocyclic amines	heterocyclic amines	carcinogens in chicken, the	
+V-379	cancer	cancer	diet	diet	risk, whereas a	
+V-379	chemicals	chemicals	risk	risk	have been associated with doubling pancreatic cancer	
+V-379	death	death	mortality	mortality	in united states with an annual	
+V-379	meats	meats	dogs	dogs	like veggie burgers or veggie	
+V-379	meat	meat	animal products	animal products	and other	
+V-379	legumes	legumes	fruit	fruit	and dried	
+V-379	cooked meat	cooked meat	chicken	chicken	carcinogens in	
+V-379	pancreatic cancer	pancreatic cancer	cancer	cancer	is among the most aggressive forms of human	
+V-379	veggie burgers	veggie burgers	dogs	dogs	or veggie	
+V-379	plant-based	plant-based	veggie burgers	veggie burgers	meats like	
+V-379	diet	diet	italy	italy	and one out of	
+V-379	vegetables	vegetables	meat	meat	appeared to lower risk.eating	
+V-379	risk	risk	cancer	cancer	of fatal pancreatic	
+V-379	italy	italy	animal products	animal products	: high consumption of meat and other	
+V-379	fruit	fruit	meat	meat	and vegetables appeared to lower risk.eating	
+V-379	cancer	cancer	mortality	mortality	death in united states with an annual	
+V-379	cancer	cancer	risk	risk		
+V-379	plant-based	plant-based	veggie dogs	veggie dogs	meats like veggie burgers or	
+V-379	carcinogens	carcinogens	chicken	chicken	in	
+V-379	fat	fat	pancreatic cancer	pancreatic cancer	of animal origin was associated with increased	
+V-379	cancer	cancer	cancer	cancer	is among the most aggressive forms of human	
+V-379	pancreatic cancer	pancreatic cancer	risk	risk		
+V-379	diet	diet	meat	meat	and one out of italy: high consumption of	
+V-379	plant-based	plant-based	burgers	burgers	meats like veggie	
+V-379	risk	risk	pancreatic cancer	pancreatic cancer	of	
+V-379	cancer	cancer	death	death		
+V-379	risk	risk	cancer	cancer	of pancreatic	
+V-379	carbs	carbs	pancreatic cancer	pancreatic cancer	was associated with	
+V-379	risk	risk	poultry	poultry	of pancreatic cancer for every 50g of daily	
+V-379	standard american diet	standard american diet	meat	meat	and one out of italy: high consumption of	
+V-379	meat	meat	risk	risk	may increase	
+V-379	pancreatic cancer	pancreatic cancer	poultry	poultry	for every 50g of daily	
+V-379	vegetables	vegetables	risk	risk	appeared to lower	
+V-379	meats	meats	veggie burgers	veggie burgers	like	
+V-379	meats	meats	burgers	burgers	like veggie	
+V-379	standard american diet	standard american diet	italy	italy	and one out of	
+V-379	plant-based	plant-based	dogs	dogs	meats like veggie burgers or veggie	
+V-379	pancreatic cancer	pancreatic cancer	animal fat	animal fat	risk, but which	
+V-379	cancer	cancer	fat	fat	risk, but which animal	
+V-379	carbs	carbs	risk	risk	was associated with pancreatic cancer	
+V-379	carbs	carbs	diet	diet	was associated with pancreatic cancer risk, whereas a	
+V-379	carbs	carbs	cancer	cancer	was associated with pancreatic	
+V-379	cooked meat	cooked meat	carcinogens	carcinogens		
+V-379	fat	fat	cancer	cancer	of animal origin was associated with increased pancreatic	
+V-379	veggie burgers	veggie burgers	veggie dogs	veggie dogs	or	
+V-379	cancer	cancer	animal fat	animal fat	risk, but which	
+V-379	death	death	united states	united states	in	
+V-379	cancer	cancer	poultry	poultry	for every 50g of daily	

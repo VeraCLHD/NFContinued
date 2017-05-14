@@ -1,0 +1,12 @@
+
+A-74	carrots	carrots	baby	baby	—	
+A-74	baby	baby	carrots	carrots		
+A-74	health	health	food industry	food industry	entities appeasing the junk	
+A-74	tobacco	tobacco	health	health	back in the 1980’s when public	
+A-74	children	children	fast food	fast food	’s hospitals have a	
+A-74	health	health	junk food	junk food	entities appeasing the	
+A-74	tobacco	tobacco	public health	public health	back in the 1980’s when	
+A-74	public health	public health	cigarettes	cigarettes	advocates made radical suggestions, such as not selling	
+A-74	national cancer institute	national cancer institute	fruit	fruit	’s million dollar annual investment promoting	
+A-74	health	health	cigarettes	cigarettes	advocates made radical suggestions, such as not selling	
+A-74	cancer	cancer	fruit	fruit	institute’s million dollar annual investment promoting	

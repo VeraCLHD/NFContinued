@@ -1,0 +1,31 @@
+
+A-333	canned fish	canned fish	tarragon	tarragon	beyond just the potential	
+A-333	tarragon	tarragon	liver	liver	chemical was toxic to human	
+A-333	risk	risk	health	health	to human	
+A-333	fats	fats	oils	oils	and	
+A-333	fennel	fennel	anise seed	anise seed	or	
+A-333	flavoring	flavoring	fish	fish	agent in items like alcoholic beverages, canned	
+A-333	flavoring	flavoring	alcoholic beverages	alcoholic beverages	agent in items like	
+A-333	tarragon	tarragon	dna	dna	extracts may have	
+A-333	fish	fish	tarragon	tarragon	beyond just the potential	
+A-333	comet tail test	comet tail test	flavonoids	flavonoids	in cancer, interrupted: garlic &	
+A-333	tarragon	tarragon	flavoring	flavoring	being used as a	
+A-333	cinnamon	cinnamon	blood	blood	for	
+A-333	carcinogen	carcinogen	dna	dna	and damage	
+A-333	flavoring	flavoring	canned fish	canned fish	agent in items like alcoholic beverages,	
+A-333	anise	anise	chervil	chervil	seed, or	
+A-333	cinnamon	cinnamon	sugar	sugar	for blood	
+A-333	white blood cells	white blood cells	tarragon	tarragon	reopened the question, finding that whole leaf	
+A-333	blood	blood	nutmeg	nutmeg	sugar control and don’t eat too much	
+A-333	flavoring	flavoring	beverages	beverages	agent in items like alcoholic	
+A-333	comet tail test	comet tail test	garlic	garlic	in cancer, interrupted:	
+A-333	fennel	fennel	chervil	chervil	or anise seed, or	
+A-333	blood	blood	tarragon	tarragon	cells reopened the question, finding that whole leaf	
+A-333	tarragon	tarragon	risk	risk	leaves themselves should present little or no	
+A-333	comet tail test	comet tail test	cancer	cancer	in 	
+A-333	sugar	sugar	nutmeg	nutmeg	control and don’t eat too much	
+A-333	blood sugar	blood sugar	nutmeg	nutmeg	control and don’t eat too much	
+A-333	cinnamon	cinnamon	blood sugar	blood sugar	for	
+A-333	fennel	fennel	anise	anise	or	
+A-333	cinnamon	cinnamon	nutmeg	nutmeg	for blood sugar control and don’t eat too much	
+A-333	blood	blood	sugar	sugar		

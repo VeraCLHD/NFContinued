@@ -1,0 +1,41 @@
+
+V-587	risk	risk	fukushima	fukushima	comes not from	
+V-587	cancer	cancer	radiation	radiation	deaths one can expect from what kind of	
+V-587	radiation	radiation	fukushima	fukushima	exposure risk comes not from	
+V-587	fukushima	fukushima	seafood	seafood	fallout, or the polonium naturally found in	
+V-587	brain tumors	brain tumors	leukemia	leukemia	and	
+V-587	risk	risk	cigarettes	cigarettes	corresponds to smoking 1,400	
+V-587	cancer	cancer	ct scan	ct scan	after a single	
+V-587	polonium	polonium	seafood	seafood	naturally found in	
+V-587	polonium	polonium	doctors	doctors	naturally found in seafood, but from	
+V-587	women	women	united states	united states	in the	
+V-587	japanese	japanese	cancer	cancer	atomic bomb survivors, in terms of how many	
+V-587	doctors	doctors	ct scan	ct scan	causing cancer.one chest	
+V-587	cancer	cancer	risk	risk		
+V-587	risk	risk	cancer	cancer	of developing	
+V-587	risk	risk	ct scan	ct scan	of developing cancer after a single	
+V-587	cancer	cancer	risk	risk	to develop, so that’s why the	
+V-587	risk	risk	leukemia	leukemia	of brain tumors and	
+V-587	tumors	tumors	children	children	and leukemia in	
+V-587	ct scan	ct scan	stress	stress	is like getting four hundred chest x-rays, and a	
+V-587	risk	risk	elderly	elderly	is lower in the	
+V-587	ct scan	ct scan	stress test	stress test	is like getting four hundred chest x-rays, and a	
+V-587	women	women	angiogram	angiogram	that gets an	
+V-587	radiation	radiation	risk	risk	exposure	
+V-587	fukushima	fukushima	polonium	polonium	fallout, or the	
+V-587	cat scan	cat scan	radiation	radiation		
+V-587	women	women	cancer	cancer	that gets an angiogram may get	
+V-587	smoking	smoking	cigarettes	cigarettes	700	
+V-587	angiogram	angiogram	cancer	cancer	may get	
+V-587	risk	risk	smoking	smoking	corresponds to	
+V-587	smoking	smoking	cigarettes	cigarettes	1,400	
+V-587	cancer	cancer	risk	risk	 	
+V-587	risk	risk	tumors	tumors	of brain	
+V-587	ct scan	ct scan	x-rays	x-rays	is like getting four hundred chest	
+V-587	risk	risk	polonium	polonium	comes not from fukushima fallout, or the	
+V-587	risk	risk	children	children	of brain tumors and leukemia in	
+V-587	tumors	tumors	leukemia	leukemia	and	
+V-587	cancer	cancer	cat scan	cat scan	risk, for no added benefit.now, this kind of	
+V-587	leukemia	leukemia	children	children	in	
+V-587	risk	risk	brain tumors	brain tumors	of	
+V-587	brain tumors	brain tumors	children	children	and leukemia in	

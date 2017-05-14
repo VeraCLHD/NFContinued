@@ -1,0 +1,6 @@
+
+V-1225	citric acid	citric acid	citrus	citrus	is harmless; in fact,	
+V-1225	fruits	fruits	citric acid	citric acid	are up to about 10%	
+V-1225	citric acid	citric acid	fruits	fruits	is harmless; in fact, citrus	
+V-1225	citrus	citrus	fruits	fruits		
+V-1225	citrus	citrus	citric acid	citric acid	fruits are up to about 10%	

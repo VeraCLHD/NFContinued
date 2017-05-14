@@ -1,0 +1,56 @@
+
+V-787	plant-based	plant-based	anti-inflammatory	anti-inflammatory	foods in general have	
+V-787	inflammation	inflammation	dna	dna	and	
+V-787	fruits	fruits	plant foods	plant foods	and vegetables—but not all	
+V-787	potatoes	potatoes	antioxidant	antioxidant	increased the	
+V-787	beans	beans	c-reactive protein	c-reactive protein	—dropped	
+V-787	inflammation	inflammation	purple potatoes	purple potatoes	and dna damage,	
+V-787	vegetables	vegetables	plant foods	plant foods	—but not all	
+V-787	olive oil	olive oil	corn	corn	decreases inflammatory markers compared to	
+V-787	potatoes	potatoes	purple potatoes	purple potatoes	a day, and concluded “	
+V-787	dna	dna	purple potatoes	purple potatoes	damage,	
+V-787	juice	juice	tomatoes	tomatoes	helps, but raw	
+V-787	legumes	legumes	peas	peas	a week—lentils, chickpeas,	
+V-787	tomato juice	tomato juice	tomatoes	tomatoes	helps, but raw	
+V-787	legumes	legumes	c-reactive protein	c-reactive protein	a week—lentils, chickpeas, peas, beans—dropped	
+V-787	blood pressure	blood pressure	hypertension	hypertension	in folks with	
+V-787	diet	diet	inflammation	inflammation	and	
+V-787	anti-inflammatory	anti-inflammatory	plant foods	plant foods	effects—particularly fruits and vegetables—but not all	
+V-787	beans	beans	protein	protein	—dropped c-reactive	
+V-787	flax	flax	garlic	garlic	meal work;	
+V-787	fruits	fruits	vegetables	vegetables	and	
+V-787	chronic diseases	chronic diseases	diabetes	diabetes	of industrialized societies,…heart disease,…	
+V-787	disease	disease	stroke	stroke	and	
+V-787	chronic diseases	chronic diseases	disease	disease	of industrialized societies,…heart	
+V-787	inflammation	inflammation	c-reactive protein	c-reactive protein	now, like	
+V-787	anti-inflammatory	anti-inflammatory	fruits	fruits	effects—particularly	
+V-787	plant-based	plant-based	fruits	fruits	foods in general have anti-inflammatory effects—particularly	
+V-787	heart disease	heart disease	weight gain	weight gain	and stroke in hypertensive subjects without	
+V-787	blood	blood	hypertension	hypertension	pressure in folks with	
+V-787	risk	risk	heart disease	heart disease	of	
+V-787	c-reactive protein	c-reactive protein	blood	blood	levels in the	
+V-787	risk	risk	stroke	stroke	of heart disease and	
+V-787	stroke	stroke	weight gain	weight gain	in hypertensive subjects without	
+V-787	disease	disease	weight gain	weight gain	and stroke in hypertensive subjects without	
+V-787	inflammation	inflammation	protein	protein	now, like c-reactive	
+V-787	protein	protein	blood	blood	levels in the	
+V-787	heart disease	heart disease	stroke	stroke	and	
+V-787	inflammation	inflammation	potatoes	potatoes	and dna damage, purple	
+V-787	purple potatoes	purple potatoes	antioxidant	antioxidant	increased the	
+V-787	tomato juice	tomato juice	raw	raw	helps, but	
+V-787	legumes	legumes	chickpeas	chickpeas	a week—lentils,	
+V-787	risk	risk	disease	disease	of heart	
+V-787	chronic diseases	chronic diseases	cancer	cancer	of industrialized societies,…heart disease,…diabetes, alzheimer’s…,and…	
+V-787	legumes	legumes	protein	protein	a week—lentils, chickpeas, peas, beans—dropped c-reactive	
+V-787	legumes	legumes	beans	beans	a week—lentils, chickpeas, peas,	
+V-787	oxidation	oxidation	inflammation	inflammation	and	
+V-787	plant-based	plant-based	vegetables	vegetables	foods in general have anti-inflammatory effects—particularly fruits and	
+V-787	purple potatoes	purple potatoes	potatoes	potatoes	a day, and concluded “purple	
+V-787	raw	raw	tomatoes	tomatoes		
+V-787	olive oil	olive oil	corn oil	corn oil	decreases inflammatory markers compared to	
+V-787	chronic diseases	chronic diseases	heart disease	heart disease	of industrialized societies,…	
+V-787	anti-inflammatory	anti-inflammatory	vegetables	vegetables	effects—particularly fruits and	
+V-787	dna	dna	potatoes	potatoes	damage, purple	
+V-787	inflammation	inflammation	dna damage	dna damage	and	
+V-787	legumes	legumes	lentils	lentils	a week—	
+V-787	juice	juice	raw	raw	helps, but	

@@ -1,0 +1,88 @@
+
+T-1699	risk	risk	cataracts	cataracts	factor for coronary disease, alzheimer’s, abdominal aortic aneurysm,	
+T-1699	variety	variety	meat	meat	of serious illnesses, including cancer; seafood and organ	
+T-1699	seafood	seafood	cadmium	cadmium	and organ meat have higher levels of	
+T-1699	seafood	seafood	meat	meat	and organ	
+T-1699	smoking	smoking	medications	medications	—that collectively may be more effective than taking	
+T-1699	risk	risk	abdominal aortic aneurysm	abdominal aortic aneurysm	factor for coronary disease, alzheimer’s,	
+T-1699	cancer	cancer	disease	disease	cases and is a risk factor for coronary	
+T-1699	disease	disease	risk	risk		
+T-1699	plant-based	plant-based	diet	diet		
+T-1699	ct scan	ct scan	cigarettes	cigarettes	is like the risk of smoking 700	
+T-1699	risk	risk	aortic aneurysm	aortic aneurysm	factor for coronary disease, alzheimer’s, abdominal	
+T-1699	risk	risk	ct scan	ct scan	of a chest	
+T-1699	plant-based	plant-based	smoking	smoking	diet is the nutritional equivalent of quitting	
+T-1699	turmeric	turmeric	mutations	mutations	) may decrease dna	
+T-1699	health	health	tea	tea	benefits of green	
+T-1699	diet	diet	disease	disease	may help prevent chronic obstructive pulmonary	
+T-1699	plant-based diet	plant-based diet	disease	disease	may help prevent chronic obstructive pulmonary	
+T-1699	diet	diet	smoking	smoking	is the nutritional equivalent of quitting	
+T-1699	surgeon general	surgeon general	smoking	smoking	’s report against	
+T-1699	meat	meat	cadmium	cadmium	have higher levels of	
+T-1699	smoking	smoking	cigarettes	cigarettes	700	
+T-1699	meat	meat	smoking	smoking	intake, may counteract some of	
+T-1699	marijuana	marijuana	smoking	smoking	may be like	
+T-1699	lung cancer	lung cancer	smoking	smoking	risk,	
+T-1699	nitrosamines	nitrosamines	carcinogens	carcinogens	and nitrosamides as five cigarettes, and these	
+T-1699	smoking	smoking	fruit	fruit	.dietary interventions, including increased	
+T-1699	cancer	cancer	risk	risk	cases and is a	
+T-1699	smoking	smoking	american heart association	american heart association	is one of the	
+T-1699	medications	medications	disease	disease	: for example, lifestyle can reduce cardiovascular	
+T-1699	lung cancer	lung cancer	risk	risk		
+T-1699	risk	risk	smoking	smoking	factor comparable to	
+T-1699	lung cancer	lung cancer	disease	disease	cases and is a risk factor for coronary	
+T-1699	plant-based diet	plant-based diet	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	may help prevent	
+T-1699	diet	diet	animal proteins	animal proteins	rich in	
+T-1699	smoking	smoking	lung cancer	lung cancer	is responsible for 90% of	
+T-1699	death	death	smoking	smoking	in the u.s., but diet has bumped	
+T-1699	plant-based	plant-based	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	diet may help prevent	
+T-1699	health	health	green tea	green tea	benefits of	
+T-1699	cooking	cooking	heterocyclic amines	heterocyclic amines	of meat, exposes the body to carcinogenic	
+T-1699	green tea	green tea	smoking	smoking	may help mitigate the risks of	
+T-1699	ct scan	ct scan	risk	risk	is like the	
+T-1699	smoking	smoking	marijuana	marijuana	a single joint of	
+T-1699	medications	medications	cardiovascular disease	cardiovascular disease	: for example, lifestyle can reduce	
+T-1699	cooking	cooking	meat	meat	of	
+T-1699	fruit	fruit	meat	meat	and vegetable intake and decreased	
+T-1699	reflux	reflux	disease	disease		
+T-1699	carcinogens	carcinogens	meat	meat	are also found in fresh unprocessed	
+T-1699	cardiovascular disease	cardiovascular disease	risk	risk		
+T-1699	mortality	mortality	fruit	fruit	risk factor comparable to smoking.dietary interventions, including increased	
+T-1699	plant-based diet	plant-based diet	copd	copd	may help prevent chronic obstructive pulmonary disease (	
+T-1699	curcumin	curcumin	mutations	mutations	(found in turmeric) may decrease dna	
+T-1699	cancer	cancer	risk	risk		
+T-1699	risk	risk	aneurysm	aneurysm	factor for coronary disease, alzheimer’s, abdominal aortic	
+T-1699	lung cancer	lung cancer	risk	risk	cases and is a	
+T-1699	lung cancer	lung cancer	marijuana	marijuana	risk, smoking a single joint of	
+T-1699	diet	diet	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	may help prevent	
+T-1699	tea	tea	smoking	smoking	may help mitigate the risks of	
+T-1699	mortality	mortality	risk	risk		
+T-1699	dna	dna	smoking	smoking	mutations caused by	
+T-1699	medications	medications	risk	risk	: for example, lifestyle can reduce cardiovascular disease	
+T-1699	diet	diet	smoking	smoking	has bumped	
+T-1699	nitrosamines	nitrosamines	cigarettes	cigarettes	and nitrosamides as five	
+T-1699	curcumin	curcumin	dna	dna	(found in turmeric) may decrease	
+T-1699	risk	risk	fruit	fruit	factor comparable to smoking.dietary interventions, including increased	
+T-1699	plant-based	plant-based	disease	disease	diet may help prevent chronic obstructive pulmonary	
+T-1699	cancer	cancer	diet	diet	than someone with a low-protein	
+T-1699	smoking	smoking	cancer	cancer	is responsible for 90% of lung	
+T-1699	mutations	mutations	smoking	smoking	caused by	
+T-1699	variety	variety	cancer	cancer	of serious illnesses, including	
+T-1699	mortality	mortality	smoking	smoking	risk factor comparable to	
+T-1699	death	death	surgeon general	surgeon general	of countless smokers before the first	
+T-1699	gerd	gerd	reflux	reflux	(gastroesophageal	
+T-1699	smoking	smoking	cigarettes	cigarettes	five	
+T-1699	diet	diet	copd	copd	may help prevent chronic obstructive pulmonary disease (	
+T-1699	curcumin	curcumin	turmeric	turmeric	(found in	
+T-1699	risk	risk	disease	disease	factor for coronary	
+T-1699	variety	variety	seafood	seafood	of serious illnesses, including cancer;	
+T-1699	gerd	gerd	disease	disease	(gastroesophageal reflux	
+T-1699	ct scan	ct scan	smoking	smoking	is like the risk of	
+T-1699	cancer	cancer	marijuana	marijuana	risk, smoking a single joint of	
+T-1699	cholesterol	cholesterol	egg	egg	found in a single	
+T-1699	turmeric	turmeric	smoking	smoking	) may decrease dna mutations caused by	
+T-1699	turmeric	turmeric	dna	dna	) may decrease	
+T-1699	death	death	diet	diet	in the u.s., but	
+T-1699	plant-based diet	plant-based diet	smoking	smoking	is the nutritional equivalent of quitting	
+T-1699	cancer	cancer	smoking	smoking	risk,	
+T-1699	dna	dna	mutations	mutations		

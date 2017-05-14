@@ -1,0 +1,49 @@
+
+V-364	fruits	fruits	tomatoes	tomatoes	tested,	
+V-364	variety	variety	fruits	fruits	of	
+V-364	cancer	cancer	disease	disease	and allergies, and	
+V-364	inflammation	inflammation	antioxidant	antioxidant	plays a major role.the	
+V-364	cholesterol	cholesterol	fruits	fruits	may be one of the mechanisms by which	
+V-364	prevention	prevention	fruits	fruits	of cardiovascular disease, the consumption of	
+V-364	oxidation	oxidation	cholesterol	cholesterol	of	
+V-364	cancer	cancer	allergies	allergies	and	
+V-364	heart disease	heart disease	cancer	cancer	but for	
+V-364	grapefruit	grapefruit	grapefruit juice	grapefruit juice	came in #2 here, and	
+V-364	tomatoes	tomatoes	blood	blood	don’t thin our	
+V-364	vegetables	vegetables	heart attacks	heart attacks	reduce the risk of	
+V-364	inflammation	inflammation	fruits	fruits	plays a major role.the antioxidant properties of	
+V-364	dietary intervention	dietary intervention	tomatoes	tomatoes	to decrease platelet activation currently rests with	
+V-364	hyperactivity	hyperactivity	platelets	platelets	of	
+V-364	variety	variety	vegetables	vegetables	of fruits and	
+V-364	platelets	platelets	heart disease	heart disease	may be beneficial not only for	
+V-364	prevention	prevention	vegetables	vegetables	of cardiovascular disease, the consumption of fruits and	
+V-364	tomatoes	tomatoes	water	water	are	
+V-364	grapefruit	grapefruit	juice	juice	came in #2 here, and grapefruit	
+V-364	prevention	prevention	disease	disease	of cardiovascular	
+V-364	placebo	placebo	beverage	beverage		
+V-364	fruits	fruits	risk	risk	and vegetables reduce the	
+V-364	juice	juice	placebo	placebo	for three weeks —or a tomato-flavored	
+V-364	tomato juice	tomato juice	beverage	beverage	for three weeks —or a tomato-flavored placebo	
+V-364	heart disease	heart disease	disease	disease	but for cancer and allergies, and	
+V-364	cancer	cancer	inflammation	inflammation	and allergies, and disease for which	
+V-364	mortality	mortality	tomatoes	tomatoes	from heart disease.if you don’t like	
+V-364	mortality	mortality	kiwifruit	kiwifruit	from heart disease.if you don’t like tomatoes,	
+V-364	platelets	platelets	disease	disease	may be beneficial not only for heart	
+V-364	heart disease	heart disease	allergies	allergies	but for cancer and	
+V-364	disease	disease	allergies	allergies	but for cancer and	
+V-364	strawberries	strawberries	kiwis	kiwis	may help too, but we have data showing	
+V-364	prevention	prevention	cardiovascular disease	cardiovascular disease	of	
+V-364	vegetables	vegetables	risk	risk	reduce the	
+V-364	blood	blood	tomatoes	tomatoes	clotting times, implying that supplementation with	
+V-364	fruits	fruits	heart attacks	heart attacks	and vegetables reduce the risk of	
+V-364	aspirin	aspirin	tomatoes	tomatoes	in that the	
+V-364	disease	disease	cancer	cancer	but for	
+V-364	blood	blood	fruits	fruits	test may not be sufficient.out of 16 different	
+V-364	fruits	fruits	vegetables	vegetables	and	
+V-364	juice	juice	beverage	beverage	for three weeks —or a tomato-flavored placebo	
+V-364	tomato juice	tomato juice	placebo	placebo	for three weeks —or a tomato-flavored	
+V-364	kiwifruit	kiwifruit	heart attacks	heart attacks	eaters actually have fewer strokes and	
+V-364	drugs	drugs	aspirin	aspirin	such as	
+V-364	platelets	platelets	cardiovascular disease	cardiovascular disease	is also critically important in the pathogenesis of	
+V-364	risk	risk	heart attacks	heart attacks	of	
+V-364	antioxidant	antioxidant	fruits	fruits	properties of	

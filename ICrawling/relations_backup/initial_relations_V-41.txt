@@ -1,0 +1,66 @@
+
+V-41	tea	tea	pills	pills	a day—compared to sugar	
+V-41	risk	risk	liver	liver	—there’s been about a dozen case reports of	
+V-41	tea	tea	pills	pills	extract	
+V-41	intraepithelial neoplasia	intraepithelial neoplasia	tea	tea	were randomized into either a green	
+V-41	green tea	green tea	pills	pills	extract	
+V-41	green tea	green tea	cancer	cancer	extract group only seemed to cut prostate	
+V-41	green tea	green tea	risk	risk	consumption with lower cancer	
+V-41	tea	tea	cancer	cancer	extract group only seemed to cut prostate	
+V-41	green tea	green tea	precancerous	precancerous	is only effective in the	
+V-41	precancerous	precancerous	intraepithelial neoplasia	intraepithelial neoplasia	condition known as	
+V-41	green tea	green tea	tea	tea	pills—roughly equivalent to about six cups of green	
+V-41	psa	psa	tumor	tumor	levels, suggesting a shrinkage of the	
+V-41	prostate	prostate	cancer	cancer		
+V-41	precancerous	precancerous	intraepithelial neoplasia	intraepithelial neoplasia	prostate	
+V-41	green tea	green tea	pills	pills	a day—compared to sugar	
+V-41	placebo	placebo	green tea	green tea	group—the first demonstration that	
+V-41	tea	tea	precancerous	precancerous	is only effective in the	
+V-41	placebo	placebo	green tea	green tea	tea; so, they used	
+V-41	tea	tea	intraepithelial neoplasia	intraepithelial neoplasia	a try.so, 60 men with precancerous prostate	
+V-41	green tea	green tea	cancer	cancer	group, none developed	
+V-41	pills	pills	risk	risk	are not without	
+V-41	green tea	green tea	cancer	cancer	may be “long-lasting”—overall nearly 80% reduction in prostate	
+V-41	precancerous	precancerous	prostate	prostate		
+V-41	tea	tea	prostate	prostate	a try.so, 60 men with precancerous	
+V-41	cancer	cancer	placebo	placebo	-free, while more than half of the	
+V-41	tea	tea	precancerous	precancerous	a try.so, 60 men with	
+V-41	prostate	prostate	green tea	green tea	intraepithelial neoplasia were randomized into either a	
+V-41	pills	pills	tea	tea	—roughly equivalent to about six cups of green	
+V-41	pills	pills	green tea	green tea	—roughly equivalent to about six cups of	
+V-41	tea	tea	prostate	prostate	may be “long-lasting”—overall nearly 80% reduction in	
+V-41	tea	tea	risk	risk	consumption with lower cancer	
+V-41	tea	tea	cancer	cancer	actually prevents	
+V-41	placebo	placebo	pills	pills	tea; so, they used green tea	
+V-41	green tea	green tea	pills	pills		
+V-41	tea	tea	prostate cancer	prostate cancer	may be “long-lasting”—overall nearly 80% reduction in	
+V-41	prostate	prostate	intraepithelial neoplasia	intraepithelial neoplasia		
+V-41	tea	tea	cancer	cancer	consumption with lower	
+V-41	tea	tea	risk	risk	extract pills are not without	
+V-41	cancer	cancer	risk	risk		
+V-41	placebo	placebo	cancer	cancer	group developed	
+V-41	tea	tea	prostate	prostate	extract group only seemed to cut	
+V-41	green tea	green tea	prostate cancer	prostate cancer	extract group only seemed to cut	
+V-41	tea	tea	cancer	cancer	has been called “nature’s defense” against	
+V-41	tea	tea	cancer	cancer	group, none developed	
+V-41	biomarkers	biomarkers	psa	psa	such as	
+V-41	cancer	cancer	cancer	cancer	?certainly didn’t seem to help for advanced metastatic	
+V-41	green tea	green tea	cancer	cancer	consumption with lower	
+V-41	green tea	green tea	intraepithelial neoplasia	intraepithelial neoplasia	a try.so, 60 men with precancerous prostate	
+V-41	prostate	prostate	tea	tea	intraepithelial neoplasia were randomized into either a green	
+V-41	tea	tea	prostate cancer	prostate cancer	extract group only seemed to cut	
+V-41	green tea	green tea	prostate	prostate	extract group only seemed to cut	
+V-41	green tea	green tea	prostate	prostate	a try.so, 60 men with precancerous	
+V-41	intraepithelial neoplasia	intraepithelial neoplasia	green tea	green tea	were randomized into either a	
+V-41	placebo	placebo	tea	tea	group—the first demonstration that green	
+V-41	placebo	placebo	tea	tea		
+V-41	tea	tea	cancer	cancer	may be “long-lasting”—overall nearly 80% reduction in prostate	
+V-41	green tea	green tea	prostate cancer	prostate cancer	may be “long-lasting”—overall nearly 80% reduction in	
+V-41	green tea	green tea	risk	risk	extract pills are not without	
+V-41	treatment	treatment	cancer	cancer	is given to…patients until [	
+V-41	precancerous	precancerous	prostate	prostate	state, but not powerful enough to impact overt	
+V-41	green tea	green tea	precancerous	precancerous	a try.so, 60 men with	
+V-41	precancerous	precancerous	green tea	green tea	prostate intraepithelial neoplasia were randomized into either a	
+V-41	green tea	green tea	prostate	prostate	may be “long-lasting”—overall nearly 80% reduction in	
+V-41	sugar	sugar	pills	pills		
+V-41	green tea	green tea	cancer	cancer	actually prevents	

@@ -1,0 +1,19 @@
+
+T-1839	formaldehyde	formaldehyde	memory	memory	to tofu, not the tofu itself, may cause	
+T-1839	tofu	tofu	pumpkin	pumpkin	can be used to make a healthy	
+T-1839	pie	pie	chocolate	chocolate	and healthy	
+T-1839	pie	pie	soy foods	soy foods	and healthy chocolate pudding.seven or more servings of	
+T-1839	chocolate	chocolate	soy	soy	pudding.seven or more servings of	
+T-1839	diet	diet	cholesterol	cholesterol	may reduce ldl	
+T-1839	pie	pie	soy	soy	and healthy chocolate pudding.seven or more servings of	
+T-1839	chocolate	chocolate	soy foods	soy foods	pudding.seven or more servings of	
+T-1839	tofu	tofu	plant-based	plant-based	consumed as part of a whole-foods,	
+T-1839	ldl	ldl	cholesterol	cholesterol		
+T-1839	pumpkin	pumpkin	pie	pie		
+T-1839	soy	soy	tofu	tofu	from	
+T-1839	pumpkin	pumpkin	chocolate	chocolate	pie and healthy	
+T-1839	diet	diet	ldl cholesterol	ldl cholesterol	may reduce	
+T-1839	tofu	tofu	pie	pie	can be used to make a healthy pumpkin	
+T-1839	formaldehyde	formaldehyde	tofu	tofu	to	
+T-1839	diet	diet	ldl	ldl	may reduce	
+T-1839	tofu	tofu	diet	diet	consumed as part of a whole-foods, plant-based, low-carb	

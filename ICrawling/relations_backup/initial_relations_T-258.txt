@@ -1,0 +1,58 @@
+
+T-258	death	death	disease	disease	heart	
+T-258	grains	grains	blood	blood	and fiber-rich foods work best in regulating	
+T-258	death	death	heart disease	heart disease		
+T-258	plant-based	plant-based	diet	diet		
+T-258	kaiser permanente	kaiser permanente	chronic diseases	chronic diseases	to help improve many	
+T-258	cinnamon	cinnamon	diabetes	diabetes	may improve signs and symptoms associated with	
+T-258	blood	blood	plant-based	plant-based	pressure.a	
+T-258	insulin resistance	insulin resistance	sugar	sugar	and raising blood	
+T-258	beans	beans	amla	amla	(also see here), tea, nuts, flaxseed, acai berries,	
+T-258	fruit	fruit	fish	fish	juices (but not whole fruit), poultry and	
+T-258	beans	beans	berries	berries	(also see here), tea, nuts, flaxseed, acai	
+T-258	poultry	poultry	uric acid	uric acid	and fish increase	
+T-258	plant-based diet	plant-based diet	kaiser permanente	kaiser permanente	is recommended in a review published by	
+T-258	beans	beans	tea	tea	(also see here),	
+T-258	death	death	stroke	stroke	heart disease,	
+T-258	risk	risk	gestational diabetes	gestational diabetes	for diabetes including	
+T-258	fish	fish	uric acid	uric acid	increase	
+T-258	death	death	cancer	cancer	heart disease, stroke and	
+T-258	grains	grains	blood sugar	blood sugar	and fiber-rich foods work best in regulating	
+T-258	blood sugar	blood sugar	satiety	satiety	levels, lowering cholesterol, weight, and increasing	
+T-258	fruit	fruit	poultry	poultry	juices (but not whole fruit),	
+T-258	poultry	poultry	fish	fish	and	
+T-258	kaiser permanente	kaiser permanente	diabetes	diabetes	to help improve many chronic diseases including	
+T-258	blood sugar	blood sugar	cholesterol	cholesterol	levels, lowering	
+T-258	insulin	insulin	blood	blood	resistance and raising	
+T-258	diabetes	diabetes	metabolic syndrome	metabolic syndrome	is also associated with	
+T-258	blood	blood	satiety	satiety	sugar levels, lowering cholesterol, weight, and increasing	
+T-258	insulin resistance	insulin resistance	blood sugar	blood sugar	and raising	
+T-258	diabetes	diabetes	syndrome	syndrome	is also associated with metabolic	
+T-258	symptoms	symptoms	insulin resistance	insulin resistance	of diabetes.diabetes is caused by	
+T-258	insulin	insulin	blood sugar	blood sugar	resistance and raising	
+T-258	beans	beans	nuts	nuts	(also see here), tea,	
+T-258	blood	blood	diet	diet	pressure.a plant-based	
+T-258	beans	beans	acai berries	acai berries	(also see here), tea, nuts, flaxseed,	
+T-258	risk	risk	diabetes	diabetes	for	
+T-258	grains	grains	sugar	sugar	and fiber-rich foods work best in regulating blood	
+T-258	symptoms	symptoms	insulin	insulin	of diabetes.diabetes is caused by	
+T-258	sugar	sugar	satiety	satiety	levels, lowering cholesterol, weight, and increasing	
+T-258	plants	plants	drugs	drugs	may even be more effective than pharmaceutical	
+T-258	whole grains	whole grains	blood sugar	blood sugar	and fiber-rich foods work best in regulating	
+T-258	blood	blood	plant-based diet	plant-based diet	pressure.a	
+T-258	diabetes	diabetes	health	health	is one of the biggest	
+T-258	insulin resistance	insulin resistance	blood	blood	and raising	
+T-258	chronic diseases	chronic diseases	diabetes	diabetes	including	
+T-258	whole grains	whole grains	sugar	sugar	and fiber-rich foods work best in regulating blood	
+T-258	cinnamon	cinnamon	symptoms	symptoms	may improve signs and	
+T-258	sugar	sugar	cholesterol	cholesterol	levels, lowering	
+T-258	symptoms	symptoms	diabetes	diabetes	associated with	
+T-258	diabetes	diabetes	gestational diabetes	gestational diabetes	including	
+T-258	stroke	stroke	cancer	cancer	and	
+T-258	drugs	drugs	diabetes	diabetes	in preventing	
+T-258	plant-based	plant-based	kaiser permanente	kaiser permanente	diet is recommended in a review published by	
+T-258	diet	diet	kaiser permanente	kaiser permanente	is recommended in a review published by	
+T-258	blood	blood	cholesterol	cholesterol	sugar levels, lowering	
+T-258	whole grains	whole grains	blood	blood	and fiber-rich foods work best in regulating	
+T-258	insulin	insulin	sugar	sugar	resistance and raising blood	
+T-258	blood	blood	sugar	sugar		

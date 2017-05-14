@@ -1,0 +1,30 @@
+
+V-908	treatment	treatment	cancer	cancer	and prevention of	
+V-908	liver	liver	cervical cancer	cervical cancer	cancer,	
+V-908	amla	amla	cancer	cancer	.they tested amla against six human	
+V-908	cancer	cancer	amla	amla	cell growth, at different	
+V-908	amla	amla	cancer	cancer	starts killing the	
+V-908	amla	amla	cancer cell growth	cancer cell growth	on, the	
+V-908	cancer	cancer	cervical cancer	cervical cancer	cell lines: lung cancer, liver cancer,	
+V-908	liver	liver	colon	colon	cancer, cervical cancer, breast cancer, ovarian cancer, and	
+V-908	chinese	chinese	kiwi fruit	kiwi fruit	gooseberries (also known as	
+V-908	treatment	treatment	prevention	prevention	and	
+V-908	colon	colon	cancer	cancer		
+V-908	kiwi fruit	kiwi fruit	gooseberries	gooseberries	), jamaican	
+V-908	cancer	cancer	breast cancer	breast cancer	cell lines: lung cancer, liver cancer, cervical cancer,	
+V-908	cancer	cancer	liver cancer	liver cancer	cell lines: lung cancer,	
+V-908	fruit	fruit	gooseberries	gooseberries	), jamaican	
+V-908	cancer	cancer	lung cancer	lung cancer	cell lines:	
+V-908	chinese	chinese	medicine	medicine	and thai	
+V-908	cancer	cancer	cancer	cancer	cell lines: lung	
+V-908	liver	liver	ovarian cancer	ovarian cancer	cancer, cervical cancer, breast cancer,	
+V-908	amla	amla	cancer cells	cancer cells	extracts kill	
+V-908	liver	liver	colon cancer	colon cancer	cancer, cervical cancer, breast cancer, ovarian cancer, and	
+V-908	liver	liver	cancer	cancer		
+V-908	cancer	cancer	liver	liver	cell lines: lung cancer,	
+V-908	chinese	chinese	fruit	fruit	gooseberries (also known as kiwi	
+V-908	prevention	prevention	cancer	cancer	of	
+V-908	amla	amla	cancer	cancer	extracts kill	
+V-908	liver	liver	breast cancer	breast cancer	cancer, cervical cancer,	
+V-908	amla	amla	cancer	cancer	on, the	
+V-908	chinese	chinese	gooseberries	gooseberries		

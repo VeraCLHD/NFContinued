@@ -1,0 +1,50 @@
+
+T-1706	beverage	beverage	health	health	categories for	
+T-1706	sugar	sugar	soda	soda	may parallel that of drug addiction.diet	
+T-1706	soda	soda	health	health	was ranked lowest among all beverage categories for	
+T-1706	usda	usda	dietary guidelines	dietary guidelines		
+T-1706	soda	soda	beverage	beverage	was ranked lowest among all	
+T-1706	diet soda	diet soda	myeloma	myeloma	and multiple	
+T-1706	soda	soda	multiple myeloma	multiple myeloma	and	
+T-1706	aging	aging	osteoporosis	osteoporosis	process, and contribute to	
+T-1706	coca-cola	coca-cola	antioxidants	antioxidants	has been found to be very low in	
+T-1706	gut	gut	overeating	overeating	may result in	
+T-1706	blood	blood	aging	aging	vessels, accelerate the	
+T-1706	aspartame	aspartame	diet soda	diet soda	may be the reason that	
+T-1706	diet	diet	aspartame	aspartame	soda and multiple myeloma, likely because of	
+T-1706	mood	mood	aspartame	aspartame	disorders appear particularly vulnerable to adverse effects of	
+T-1706	soda	soda	pregnancy	pregnancy	consumption during	
+T-1706	high fructose corn syrup	high fructose corn syrup	soda	soda	 may be contaminated with mercury.studies funded by the	
+T-1706	depression	depression	mood	mood	risk among older adults; individuals with	
+T-1706	soda	soda	myeloma	myeloma	and multiple	
+T-1706	diet	diet	myeloma	myeloma	soda and multiple	
+T-1706	soda	soda	sugar	sugar	consists mostly of empty 	
+T-1706	fructose	fructose	corn syrup	corn syrup		
+T-1706	corn syrup	corn syrup	soda	soda	 may be contaminated with mercury.studies funded by the	
+T-1706	diet	diet	multiple myeloma	multiple myeloma	soda and	
+T-1706	diet	diet	soda	soda		
+T-1706	corn	corn	soda	soda	syrup may be contaminated with mercury.studies funded by the	
+T-1706	fructose	fructose	corn	corn		
+T-1706	diet	diet	risk	risk	drinks may increase depression	
+T-1706	american heart association	american heart association	sugar	sugar	’s recommended daily limit for	
+T-1706	sugar	sugar	soda	soda	in liquid form, such as	
+T-1706	aspartame	aspartame	diet	diet	may be the reason that	
+T-1706	aspartame	aspartame	soda	soda	may be the reason that diet	
+T-1706	diet	diet	pregnancy	pregnancy	soda consumption during	
+T-1706	sugar	sugar	calories	calories	 	
+T-1706	lead	lead	overeating	overeating	to	
+T-1706	soda	soda	aspartame	aspartame	and the	
+T-1706	diet	diet	depression	depression	drinks may increase	
+T-1706	industry influence	industry influence	dietary guidelines	dietary guidelines	is likewise seen in the usda	
+T-1706	diet soda	diet soda	aspartame	aspartame	and multiple myeloma, likely because of	
+T-1706	soda	soda	calories	calories	consists mostly of empty sugar 	
+T-1706	soda	soda	american heart association	american heart association	exceeds the	
+T-1706	cholesterol	cholesterol	coca-cola	coca-cola	levels, and	
+T-1706	risk	risk	mood	mood	among older adults; individuals with	
+T-1706	diet soda	diet soda	pregnancy	pregnancy	consumption during	
+T-1706	blood	blood	osteoporosis	osteoporosis	vessels, accelerate the aging process, and contribute to	
+T-1706	soda	soda	aspartame	aspartame	and multiple myeloma, likely because of	
+T-1706	industry influence	industry influence	usda	usda	is likewise seen in the 	
+T-1706	depression	depression	risk	risk		
+T-1706	diet soda	diet soda	multiple myeloma	multiple myeloma	and	
+T-1706	soda	soda	dairy	dairy	(and	

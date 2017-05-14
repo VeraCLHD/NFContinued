@@ -1,0 +1,10 @@
+
+V-835	health	health	antioxidant	antioxidant	promoting, and anti-inflammatory, antimicrobial,	
+V-835	chinese	chinese	cinnamon	cinnamon		
+V-835	chinese cinnamon	chinese cinnamon	cinnamon	cinnamon	—also known as cassia	
+V-835	cinnamon	cinnamon	ceylon cinnamon	ceylon cinnamon	—	
+V-835	chinese	chinese	cassia cinnamon	cassia cinnamon	cinnamon—also known as	
+V-835	health	health	anti-inflammatory	anti-inflammatory	promoting, and	
+V-835	chinese	chinese	cinnamon	cinnamon	is cheaper, that’s what most	
+V-835	cinnamon	cinnamon	cassia cinnamon	cassia cinnamon	—also known as	
+V-835	chinese cinnamon	chinese cinnamon	cassia cinnamon	cassia cinnamon	—also known as	

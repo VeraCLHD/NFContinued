@@ -1,0 +1,12 @@
+
+V-522	mercury	mercury	fish	fish	exposure through	
+V-522	newborns	newborns	mothers	mothers	of	
+V-522	mercury	mercury	women	women		
+V-522	women	women	contamination	contamination	suffering high mercury	
+V-522	mercury	mercury	contamination	contamination		
+V-522	mercury	mercury	safety limits	safety limits	exposure through fish consumption, even within the governmental	
+V-522	fish	fish	safety limits	safety limits	consumption, even within the governmental	
+V-522	women	women	mercury	mercury	who had low levels of	
+V-522	women	women	mercury	mercury	suffering high	
+V-522	newborns	newborns	mercury	mercury	of mothers who had high body levels of	
+V-522	mothers	mothers	mercury	mercury	who had high body levels of	

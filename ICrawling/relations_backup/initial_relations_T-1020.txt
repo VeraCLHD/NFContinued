@@ -1,0 +1,24 @@
+
+T-1020	soy foods	soy foods	risk	risk	may help lower cancer	
+T-1020	cancer	cancer	cancer	cancer	risk including ovarian	
+T-1020	soy foods	soy foods	puberty	puberty	are more likely to experience the start of	
+T-1020	soy foods	soy foods	ovarian cancer	ovarian cancer	may help lower cancer risk including	
+T-1020	fat	fat	igf-1	igf-1	accumulation.eating too much soy may increase circulating	
+T-1020	risk	risk	breast cancer	breast cancer	including ovarian cancer and	
+T-1020	cancer	cancer	breast cancer	breast cancer	risk including ovarian cancer and	
+T-1020	cancer	cancer	ovarian cancer	ovarian cancer	risk including	
+T-1020	isoflavones	isoflavones	risk	risk	in soy foods may help lower cancer	
+T-1020	soy foods	soy foods	cancer	cancer	may help lower	
+T-1020	cancer	cancer	risk	risk		
+T-1020	isoflavones	isoflavones	soy	soy	in	
+T-1020	soy	soy	ovarian cancer	ovarian cancer	foods may help lower cancer risk including	
+T-1020	isoflavones	isoflavones	soy foods	soy foods	in	
+T-1020	risk	risk	cancer	cancer	including ovarian	
+T-1020	soy	soy	fat	fat	isoflavone may help prevent	
+T-1020	ovarian cancer	ovarian cancer	cancer	cancer	and breast	
+T-1020	soy	soy	cancer	cancer	foods may help lower	
+T-1020	risk	risk	ovarian cancer	ovarian cancer	including	
+T-1020	ovarian cancer	ovarian cancer	breast cancer	breast cancer	and	
+T-1020	isoflavones	isoflavones	cancer	cancer	in soy foods may help lower	
+T-1020	soy	soy	risk	risk	foods may help lower cancer	
+T-1020	fat	fat	soy	soy	accumulation.eating too much	

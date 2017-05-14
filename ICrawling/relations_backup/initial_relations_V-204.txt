@@ -1,0 +1,29 @@
+
+V-204	sudden cardiac death	sudden cardiac death	heart disease	heart disease	is the first manifestation of	
+V-204	sudden cardiac death	sudden cardiac death	disease	disease	is the first manifestation of heart	
+V-204	risk	risk	cardiac death	cardiac death	of sudden	
+V-204	sudden cardiac death	sudden cardiac death	disease	disease	accounts for more than half of all heart	
+V-204	disease	disease	mortality	mortality	and	
+V-204	death	death	heart disease	heart disease	accounts for more than half of all	
+V-204	risk	risk	sudden cardiac death	sudden cardiac death	of	
+V-204	cardiac death	cardiac death	heart disease	heart disease	accounts for more than half of all	
+V-204	sudden cardiac death	sudden cardiac death	heart disease	heart disease	accounts for more than half of all	
+V-204	tobacco	tobacco	alcohol	alcohol	folks rarely talk to	
+V-204	tobacco	tobacco	nutrition	nutrition	folks rarely talk to alcohol,	
+V-204	death	death	disease	disease	accounts for more than half of all heart	
+V-204	cardiac death	cardiac death	disease	disease	accounts for more than half of all heart	
+V-204	diet	diet	fruits	fruits	of at least five daily servings of	
+V-204	cardiac death	cardiac death	disease	disease	is the first manifestation of heart	
+V-204	death	death	disease	disease	is the first manifestation of heart	
+V-204	death	death	heart disease	heart disease	is the first manifestation of	
+V-204	fruits	fruits	healthy weight	healthy weight	and vegetables, exercise, maintaining a	
+V-204	cardiovascular disease	cardiovascular disease	mortality	mortality	and	
+V-204	disease	disease	women	women	for the majority of individuals, particularly among	
+V-204	cardiac death	cardiac death	heart disease	heart disease	is the first manifestation of	
+V-204	fruits	fruits	exercise	exercise	and vegetables,	
+V-204	risk	risk	death	death	of sudden cardiac	
+V-204	tobacco	tobacco	sexual health	sexual health	folks rarely talk to alcohol, nutrition, or	
+V-204	smoking	smoking	mortality	mortality	results in a substantial reduction in	
+V-204	tobacco	tobacco	health	health	folks rarely talk to alcohol, nutrition, or sexual	
+V-204	fruits	fruits	vegetables	vegetables	and	
+V-204	heart disease	heart disease	women	women	for the majority of individuals, particularly among	

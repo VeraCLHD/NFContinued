@@ -1,0 +1,84 @@
+
+A-234	blood	blood	cholesterol	cholesterol		
+A-234	disease	disease	plant-based	plant-based	with a	
+A-234	plantains	plantains	corn	corn	and sweet potatoes, other vegetables,	
+A-234	risk	risk	cholesterol	cholesterol	factor we need—	
+A-234	medicine	medicine	doctors	doctors		
+A-234	nutrition	nutrition	plant-based	plant-based	pioneer who started reversing heart disease with a	
+A-234	plantains	plantains	vegetables	vegetables	and sweet potatoes, other	
+A-234	ldl	ldl	fat	fat	in trans	
+A-234	ldl	ldl	cholesterol	cholesterol	in trans fat, saturated fat, and	
+A-234	cholesterol	cholesterol	diet	diet	: purely a question of	
+A-234	animal foods	animal foods	fat	fat	– see trans	
+A-234	animal foods	animal foods	trans fat	trans fat	– see	
+A-234	plant-based	plant-based	diet	diet		
+A-234	heart attacks	heart attacks	cholesterol	cholesterol	and	
+A-234	plants	plants	heart attacks	heart attacks	that was essentially free from death from	
+A-234	african	african	coronary heart disease	coronary heart disease	population of uganda,	
+A-234	animal foods	animal foods	dairy	dairy	– see trans fat in meat and	
+A-234	medicine	medicine	nathan pritikin	nathan pritikin	doctors, myself included, were greatly influenced by	
+A-234	saturated fat	saturated fat	cholesterol	cholesterol	(found in mostly animal foods); and dietary	
+A-234	nutrition	nutrition	disease	disease	pioneer who started reversing heart	
+A-234	meat	meat	animal foods	animal foods	and dairy); saturated fat (found in mostly	
+A-234	heart disease	heart disease	exercise	exercise	with a plant-based diet and	
+A-234	african	african	heart disease	heart disease	population of uganda, coronary	
+A-234	plant-based diet	plant-based diet	exercise	exercise	and	
+A-234	medicine	medicine	pritikin	pritikin	doctors, myself included, were greatly influenced by nathan	
+A-234	fat	fat	animal foods	animal foods	(found in junk food and	
+A-234	meat	meat	dairy	dairy	and	
+A-234	arteries	arteries	surgery	surgery	without drugs or	
+A-234	death	death	heart attacks	heart attacks	from	
+A-234	ldl	ldl	trans fat	trans fat	in	
+A-234	diet	diet	blood	blood	and of the	
+A-234	dietary cholesterol	dietary cholesterol	animal foods	animal foods	(found exclusively in	
+A-234	junk food	junk food	trans fat	trans fat	and animal foods – see	
+A-234	china	china	disease	disease	as a place with a fraction of our	
+A-234	diet	diet	uganda	uganda	patterned after the black population in	
+A-234	meat	meat	saturated fat	saturated fat	and dairy);	
+A-234	heart disease	heart disease	plant-based	plant-based	with a	
+A-234	heart attacks	heart attacks	diet	diet	and cholesterol: purely a question of	
+A-234	lifestyle medicine	lifestyle medicine	nathan pritikin	nathan pritikin	doctors, myself included, were greatly influenced by	
+A-234	cholesterol	cholesterol	animal foods	animal foods	(found exclusively in	
+A-234	death	death	cholesterol	cholesterol	and heart attacks and	
+A-234	plantains	plantains	sweet potatoes	sweet potatoes	and	
+A-234	plant-based	plant-based	exercise	exercise	diet and	
+A-234	meat	meat	fat	fat	and dairy); saturated	
+A-234	plantains	plantains	tomatoes	tomatoes	and sweet potatoes, other vegetables, corn, millet, pumpkins,	
+A-234	heart disease	heart disease	diet	diet	with a plant-based	
+A-234	junk food	junk food	meat	meat	and animal foods – see trans fat in	
+A-234	heart disease	heart disease	plant-based diet	plant-based diet	with a	
+A-234	death	death	heart attacks	heart attacks	and	
+A-234	african	african	disease	disease	population of uganda, coronary heart	
+A-234	plaque	plaque	teeth	teeth	on our	
+A-234	disease	disease	diet	diet	with a plant-based	
+A-234	disease	disease	plant-based diet	plant-based diet	with a	
+A-234	dairy	dairy	animal foods	animal foods	); saturated fat (found in mostly	
+A-234	junk food	junk food	animal foods	animal foods	and	
+A-234	disease	disease	africa	africa	rates, but we may forget about	
+A-234	ldl	ldl	saturated fat	saturated fat	in trans fat,	
+A-234	dairy	dairy	fat	fat	); saturated	
+A-234	nutrition	nutrition	heart disease	heart disease	pioneer who started reversing	
+A-234	african	african	uganda	uganda	population of	
+A-234	lifestyle medicine	lifestyle medicine	doctors	doctors		
+A-234	drugs	drugs	surgery	surgery	or	
+A-234	diet	diet	cholesterol	cholesterol	and of the blood	
+A-234	junk food	junk food	fat	fat	and animal foods – see trans	
+A-234	trans fat	trans fat	junk food	junk food	(found in	
+A-234	arteries	arteries	drugs	drugs	without	
+A-234	plants	plants	death	death	that was essentially free from	
+A-234	ldl	ldl	cholesterol	cholesterol		
+A-234	saturated fat	saturated fat	animal foods	animal foods	(found in mostly	
+A-234	cavities	cavities	diet	diet	when we know they’re preventable though	
+A-234	fat	fat	junk food	junk food	(found in	
+A-234	trans fat	trans fat	animal foods	animal foods	(found in junk food and	
+A-234	animal foods	animal foods	saturated fat	saturated fat	– see trans fat in meat and dairy);	
+A-234	plantains	plantains	millet	millet	and sweet potatoes, other vegetables, corn,	
+A-234	animal foods	animal foods	meat	meat	– see trans fat in	
+A-234	nutrition	nutrition	plant-based diet	plant-based diet	pioneer who started reversing heart disease with a	
+A-234	cholesterol	cholesterol	blood	blood	in our	
+A-234	saturated fat	saturated fat	dietary cholesterol	dietary cholesterol	(found in mostly animal foods); and	
+A-234	risk	risk	heart attacks	heart attacks	factor for	
+A-234	disease	disease	exercise	exercise	with a plant-based diet and	
+A-234	diet	diet	exercise	exercise	and	
+A-234	lifestyle medicine	lifestyle medicine	pritikin	pritikin	doctors, myself included, were greatly influenced by nathan	
+A-234	plantains	plantains	potatoes	potatoes	and sweet	

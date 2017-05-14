@@ -1,0 +1,60 @@
+
+V-1017	plant-based	plant-based	doctors	doctors	option, because of the patronizing belief among	
+V-1017	gingerols	gingerols	phytonutrients	phytonutrients	for hypertension; pomegranates have some totally different	
+V-1017	beta carotene	beta carotene	risk	risk	pills may actually increase cancer	
+V-1017	disease	disease	cancer	cancer	and	
+V-1017	tomatoes	tomatoes	lycopene	lycopene	are rich in the red pigment	
+V-1017	plant-based diet	plant-based diet	diabetes	diabetes	can also prevent and treat	
+V-1017	drugs	drugs	heart disease	heart disease	for that; there’s not one diet for	
+V-1017	dr. ornish	dr. ornish	american journal of cardiology	american journal of cardiology	published an editorial in the	
+V-1017	plant-based diet	plant-based diet	prostate	prostate	can also prevent and treat diabetes, hypertension, obesity,	
+V-1017	plant-based	plant-based	diet	diet		
+V-1017	diet	diet	plant-based	plant-based	is mostly	
+V-1017	medicine	medicine	lasers	lasers	as new drugs,	
+V-1017	prostate	prostate	cancer	cancer		
+V-1017	beta carotene	beta carotene	cancer	cancer	pills may actually increase	
+V-1017	plant-based diet	plant-based diet	obesity	obesity	can also prevent and treat diabetes, hypertension,	
+V-1017	ginger	ginger	pomegranates	pomegranates	’s got gingerols for hypertension;	
+V-1017	diet	diet	prostate cancer	prostate cancer	can also prevent and treat diabetes, hypertension, obesity,	
+V-1017	cholesterol	cholesterol	drugs	drugs	as much as taking	
+V-1017	drugs	drugs	surgery	surgery	and	
+V-1017	plant-based	plant-based	hypertension	hypertension	diet can also prevent and treat diabetes,	
+V-1017	gingerols	gingerols	hypertension	hypertension	for	
+V-1017	medicine	medicine	surgery	surgery	as new drugs, lasers, high-tech	
+V-1017	plant-based diet	plant-based diet	prostate cancer	prostate cancer	can also prevent and treat diabetes, hypertension, obesity,	
+V-1017	diet	diet	obesity	obesity	can also prevent and treat diabetes, hypertension,	
+V-1017	heart disease	heart disease	cancer	cancer	and	
+V-1017	pomegranates	pomegranates	phytonutrients	phytonutrients	have some totally different	
+V-1017	drugs	drugs	diet	diet	for that; there’s not one	
+V-1017	beta carotene	beta carotene	pills	pills		
+V-1017	diet	diet	hypertension	hypertension	can also prevent and treat diabetes,	
+V-1017	pills	pills	risk	risk	may actually increase cancer	
+V-1017	medications	medications	drugs	drugs	—one drug for this; one or two	
+V-1017	gingerols	gingerols	pomegranates	pomegranates	for hypertension;	
+V-1017	bad cholesterol	bad cholesterol	drugs	drugs	as much as taking	
+V-1017	pills	pills	cancer	cancer	may actually increase	
+V-1017	diet	diet	cholesterol	cholesterol	doesn’t just help your	
+V-1017	prostate	prostate	stress	stress	cancer, inflammation, and oxidative	
+V-1017	diet	diet	prostate	prostate	can also prevent and treat diabetes, hypertension, obesity,	
+V-1017	diet	diet	diabetes	diabetes	for heart disease, another one for	
+V-1017	cancer	cancer	risk	risk		
+V-1017	ginger	ginger	gingerols	gingerols	’s got	
+V-1017	diet	diet	diabetes	diabetes	can also prevent and treat	
+V-1017	prostate	prostate	breast cancer	breast cancer	cancer,	
+V-1017	plant-based diet	plant-based diet	hypertension	hypertension	can also prevent and treat diabetes,	
+V-1017	diet	diet	plant-based	plant-based	for heart disease, another one for diabetes, a	
+V-1017	plant-based	plant-based	diabetes	diabetes	diet can also prevent and treat	
+V-1017	prostate	prostate	inflammation	inflammation	cancer,	
+V-1017	drugs	drugs	disease	disease	for that; there’s not one diet for heart	
+V-1017	prostate	prostate	oxidative stress	oxidative stress	cancer, inflammation, and	
+V-1017	plant-based	plant-based	obesity	obesity	diet can also prevent and treat diabetes, hypertension,	
+V-1017	diet	diet	disease	disease	for heart	
+V-1017	diet	diet	plant-based diet	plant-based diet	for heart disease, another one for diabetes, a	
+V-1017	blueberries	blueberries	memory	memory	have the anthocyanins for	
+V-1017	blueberries	blueberries	anthocyanins	anthocyanins	have the	
+V-1017	ginger	ginger	hypertension	hypertension	’s got gingerols for	
+V-1017	prostate	prostate	pills	pills	cancer, breast cancer, etc.	
+V-1017	ornish	ornish	american journal of cardiology	american journal of cardiology	published an editorial in the	
+V-1017	medicine	medicine	drugs	drugs	as new	
+V-1017	diet	diet	heart disease	heart disease	for	
+V-1017	anthocyanins	anthocyanins	memory	memory	for	

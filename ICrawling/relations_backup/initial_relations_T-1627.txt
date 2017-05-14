@@ -1,0 +1,47 @@
+
+T-1627	vegetables	vegetables	fruit	fruit	and/or	
+T-1627	fruits	fruits	infection	infection	and vegetables showed no difference in	
+T-1627	children	children	vegetables	vegetables	with asthma.salads filled with water-rich	
+T-1627	neutropenic diet	neutropenic diet	raw food	raw food	advised against consumption of any	
+T-1627	risk	risk	infection	infection	of	
+T-1627	salads	salads	vegetables	vegetables	primarily consist of raw or cooked	
+T-1627	antioxidants	antioxidants	phytochemicals	phytochemicals	and other	
+T-1627	vegetables	vegetables	infection	infection	showed no difference in	
+T-1627	greens	greens	salads	salads	as a base.because	
+T-1627	raw	raw	antioxidants	antioxidants	or cooked vegetables packed with	
+T-1627	antioxidant	antioxidant	whole foods	whole foods	efficiency is obtained only through	
+T-1627	raw	raw	bacteria	bacteria	foods contain	
+T-1627	raw	raw	fruits	fruits		
+T-1627	antioxidant	antioxidant	pills	pills	efficiency is obtained only through whole foods, not	
+T-1627	salads	salads	vegetables	vegetables	filled with water-rich	
+T-1627	diet	diet	raw food	raw food	advised against consumption of any	
+T-1627	infection	infection	mortality	mortality	or	
+T-1627	greens	greens	raw	raw	as a base.because salads primarily consist of	
+T-1627	phytonutrients	phytonutrients	kingdom	kingdom	distributed throughout the vegetable	
+T-1627	raw	raw	infection	infection	foods is associated with increased risk of	
+T-1627	cold	cold	vegetables	vegetables	dishes consisting of	
+T-1627	children	children	salads	salads	with asthma.	
+T-1627	diet	diet	raw	raw	advised against consumption of any	
+T-1627	salads	salads	cold	cold	traditionally are	
+T-1627	diet	diet	raw	raw	to one that allowed	
+T-1627	cold	cold	fruit	fruit	dishes consisting of vegetables and/or	
+T-1627	raw	raw	risk	risk	foods is associated with increased	
+T-1627	vegetables	vegetables	greens	greens	and/or fruit, often with leafy	
+T-1627	nutrition	nutrition	variety	variety	of a salad, consider	
+T-1627	fruits	fruits	mortality	mortality	and vegetables showed no difference in infection or	
+T-1627	raw	raw	phytochemicals	phytochemicals	or cooked vegetables packed with antioxidants and other	
+T-1627	bacteria	bacteria	cooking	cooking	eliminated by	
+T-1627	raw	raw	cooking	cooking	foods contain bacteria eliminated by	
+T-1627	salads	salads	fruit	fruit	traditionally are cold dishes consisting of vegetables and/or	
+T-1627	whole foods	whole foods	fiber	fiber	packed with	
+T-1627	seeds	seeds	protein	protein	add	
+T-1627	neutropenic diet	neutropenic diet	raw	raw	advised against consumption of any	
+T-1627	raw	raw	vegetables	vegetables	fruits and	
+T-1627	diet	diet	fruits	fruits	to one that allowed raw	
+T-1627	raw	raw	infection	infection	fruits and vegetables showed no difference in	
+T-1627	fruits	fruits	vegetables	vegetables	and	
+T-1627	raw	raw	vegetables	vegetables	or cooked	
+T-1627	diet	diet	vegetables	vegetables	to one that allowed raw fruits and	
+T-1627	vegetables	vegetables	mortality	mortality	showed no difference in infection or	
+T-1627	raw	raw	vegetables	vegetables		
+T-1627	salads	salads	vegetables	vegetables	traditionally are cold dishes consisting of	

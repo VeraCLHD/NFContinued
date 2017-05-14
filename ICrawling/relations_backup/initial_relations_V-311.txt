@@ -1,0 +1,45 @@
+
+V-311	harvard	harvard	health	health		
+V-311	blood	blood	triglycerides	triglycerides	pressure or	
+V-311	blueberries	blueberries	breakfast cereal	breakfast cereal	with a sugary	
+V-311	diet	diet	fruits	fruits	with a high intake of fiber-rich food including	
+V-311	fructose	fructose	blood	blood	may actually benefit	
+V-311	blood pressure	blood pressure	triglycerides	triglycerides	or	
+V-311	bowel movements	bowel movements	dietary intervention	dietary intervention	apparently ever documented in a	
+V-311	blueberries	blueberries	breakfast	breakfast	with a sugary	
+V-311	breakfast	breakfast	antioxidants	antioxidants	as the	
+V-311	cancer	cancer	risk	risk		
+V-311	sugar	sugar	corn	corn	and high fructose	
+V-311	antioxidant	antioxidant	breakfast	breakfast	benefits after eating blueberries with a sugary	
+V-311	harvard	harvard	sugar	sugar	health letter, "the nutritional problems of fructose and	
+V-311	antioxidant	antioxidant	blueberries	blueberries	benefits after eating	
+V-311	fructose	fructose	blood sugar	blood sugar	may actually benefit	
+V-311	sugar	sugar	fructose	fructose	and high	
+V-311	health	health	sugar	sugar	letter, "the nutritional problems of fructose and	
+V-311	antioxidant	antioxidant	breakfast cereal	breakfast cereal	benefits after eating blueberries with a sugary	
+V-311	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
+V-311	corn	corn	berries	berries	flakes with no	
+V-311	fats	fats	blood	blood	in the	
+V-311	blood pressure	blood pressure	ldl	ldl	or triglycerides, and an astounding 38-point drop in	
+V-311	blueberries	blueberries	fruit	fruit	did.what about	
+V-311	sugar	sugar	fruit	fruit	content of	
+V-311	cans	cans	soda	soda	of	
+V-311	diabetes	diabetes	fruit	fruit	or weight–"and so the intake of	
+V-311	fructose	fructose	sugar	sugar	toxicity, thanks to industrial sugars like table	
+V-311	insulin	insulin	fats	fats	and lipid levels (	
+V-311	blood	blood	fats	fats	pressure, and insulin and lipid levels (	
+V-311	health	health	sugar	sugar	professionals have concerns about the	
+V-311	blueberries	blueberries	cereal	cereal	with a sugary breakfast	
+V-311	fructose	fructose	diet	diet	content of this	
+V-311	antioxidant	antioxidant	cereal	cereal	benefits after eating blueberries with a sugary breakfast	
+V-311	harvard	harvard	fructose	fructose	health letter, "the nutritional problems of	
+V-311	health	health	fructose	fructose	letter, "the nutritional problems of	
+V-311	fructose	fructose	sugar	sugar	and	
+V-311	insulin	insulin	blood	blood	and lipid levels (fats in the	
+V-311	health	health	fruit	fruit	professionals have concerns about the sugar content of	
+V-311	sugar	sugar	corn syrup	corn syrup	and high fructose	
+V-311	breakfast	breakfast	cereal	cereal		
+V-311	vegetables	vegetables	fruit	fruit	they had on top of all that	
+V-311	fructose	fructose	sugar	sugar	may actually benefit blood	
+V-311	blood	blood	sugar	sugar		
+V-311	blood	blood	insulin	insulin	pressure, and	

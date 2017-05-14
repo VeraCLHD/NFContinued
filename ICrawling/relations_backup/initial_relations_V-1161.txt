@@ -1,0 +1,15 @@
+
+V-1161	chick-fil-a	chick-fil-a	chicken	chicken	both have	
+V-1161	chicken	chicken	sandwiches	sandwiches	salad; burger king and chick-fil-a both have chicken	
+V-1161	chicken	chicken	burger king	burger king	samples from mcdonald’s,	
+V-1161	heterocyclic amines	heterocyclic amines	burger king	burger king	in chicken samples from mcdonald’s,	
+V-1161	chick-fil-a	chick-fil-a	sandwiches	sandwiches	both have chicken	
+V-1161	heterocyclic amines	heterocyclic amines	chicken	chicken	in	
+V-1161	cancer	cancer	cake	cake		
+V-1161	chicken	chicken	chick-fil-a	chick-fil-a	samples from mcdonald’s, burger king,	
+V-1161	burger king	burger king	sandwiches	sandwiches	and chick-fil-a both have chicken	
+V-1161	burger king	burger king	chick-fil-a	chick-fil-a	and	
+V-1161	chicken	chicken	burger king	burger king	salad;	
+V-1161	burger king	burger king	chicken	chicken	and chick-fil-a both have	
+V-1161	heterocyclic amines	heterocyclic amines	chick-fil-a	chick-fil-a	in chicken samples from mcdonald’s, burger king,	
+V-1161	chicken	chicken	chick-fil-a	chick-fil-a	salad; burger king and	

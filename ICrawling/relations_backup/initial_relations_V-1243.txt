@@ -1,0 +1,9 @@
+
+V-1243	black beans	black beans	colon	colon	have “potent inhibitory activity” against human	
+V-1243	black beans	black beans	beans	beans	or pinto	
+V-1243	black beans	black beans	liver	liver	have “potent inhibitory activity” against human colon,	
+V-1243	black beans	black beans	pinto beans	pinto beans	or	
+V-1243	pinto beans	pinto beans	cholesterol	cholesterol	knocking down our	
+V-1243	beans	beans	colon	colon	have “potent inhibitory activity” against human	
+V-1243	beans	beans	pinto beans	pinto beans	or	
+V-1243	beans	beans	liver	liver	have “potent inhibitory activity” against human colon,	

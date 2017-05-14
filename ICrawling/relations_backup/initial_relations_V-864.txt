@@ -1,0 +1,51 @@
+
+V-864	risk	risk	mortality	mortality	of total	
+V-864	disease	disease	cancer	cancer	and	
+V-864	protein	protein	risk	risk	sources is associated with lower mortality	
+V-864	protein	protein	beans	beans	from	
+V-864	plant-based	plant-based	diet	diet		
+V-864	health	health	beans	beans	] study suggests that eating more protein from	
+V-864	cardiovascular disease	cardiovascular disease	mortality	mortality		
+V-864	carbs	carbs	disease	disease	] reduces the risk of heart	
+V-864	harvard	harvard	health	health	] nurses’ [	
+V-864	disease	disease	lifespan	lifespan	mortality and cancer mortality—meaning a significantly shorter	
+V-864	amino acids	amino acids	protein	protein	come from animal or plant	
+V-864	protein	protein	seeds	seeds	from beans, nuts,	
+V-864	carbohydrates	carbohydrates	risk	risk	[refined carbs] reduces the	
+V-864	risk	risk	disease	disease	of total mortality, cardiovascular	
+V-864	risk	risk	disease	disease	of dying from heart	
+V-864	protein	protein	amino acids	amino acids	production and repair, it is immaterial whether	
+V-864	heart disease	heart disease	cancer	cancer	and	
+V-864	harvard	harvard	protein	protein	] nurses’ [health] study suggests that eating more	
+V-864	risk	risk	cancer	cancer	of total mortality, cardiovascular disease mortality and	
+V-864	risk	risk	cardiovascular disease	cardiovascular disease	of total mortality,	
+V-864	harvard	harvard	health	health		
+V-864	protein	protein	mortality	mortality	sources is associated with lower	
+V-864	harvard	harvard	nutrition	nutrition	’s	
+V-864	heart disease	heart disease	harvard	harvard	”—as we saw in the new studies.so, what’s	
+V-864	carbohydrates	carbohydrates	carbs	carbs	[refined	
+V-864	amino acids	amino acids	plant protein	plant protein	come from animal or	
+V-864	risk	risk	heart disease	heart disease	of	
+V-864	risk	risk	heart disease	heart disease	of dying from	
+V-864	carbohydrates	carbohydrates	disease	disease	[refined carbs] reduces the risk of heart	
+V-864	mortality	mortality	risk	risk		
+V-864	disease	disease	harvard	harvard	”—as we saw in the new studies.so, what’s	
+V-864	protein	protein	health	health	package’ may influence long-term	
+V-864	vegetables	vegetables	meat	meat	.so it’s not like the people eating more	
+V-864	red meat	red meat	risk	risk	consumption is associated with an increased	
+V-864	cancer	cancer	mortality	mortality		
+V-864	cardiovascular disease	cardiovascular disease	lifespan	lifespan	mortality and cancer mortality—meaning a significantly shorter	
+V-864	disease	disease	mortality	mortality		
+V-864	health	health	harvard	harvard	professionals follow-up study and the	
+V-864	risk	risk	disease	disease	of heart	
+V-864	carbs	carbs	risk	risk	] reduces the	
+V-864	meat	meat	vegetables	vegetables	were dying prematurely because they were eating less	
+V-864	carbs	carbs	heart disease	heart disease	] reduces the risk of	
+V-864	cancer	cancer	lifespan	lifespan	mortality—meaning a significantly shorter	
+V-864	risk	risk	cancer	cancer	of dying from heart disease and	
+V-864	carbohydrates	carbohydrates	heart disease	heart disease	[refined carbs] reduces the risk of	
+V-864	disease	disease	cancer	cancer	mortality and	
+V-864	protein	protein	nuts	nuts	from beans,	
+V-864	meat	meat	risk	risk	consumption is associated with an increased	
+V-864	health	health	protein	protein	] study suggests that eating more	
+V-864	cardiovascular disease	cardiovascular disease	cancer	cancer	mortality and	

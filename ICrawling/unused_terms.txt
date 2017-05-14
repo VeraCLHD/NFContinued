@@ -1,0 +1,603 @@
+
+suppositories	suppository
+chinese food	chinese
+nut bar	nut
+dr. david jenkins	dr.
+lifespan tree nuts or peanuts for breast cancer prevention?	lifespan
+cervix health	cervix
+breast swelling	breast
+bristle cone pine	bristle
+national dairy promotion and research board	national
+holy basil tea	holy
+endometrial health	endometrial
+virginia messina	virginia
+cost-effective treatment	cost-effective
+coenzyme q10	coenzyme
+visual disturbance	visual
+vincristine	vincristine
+autophagy	autophagy
+polypropylene plastic	polypropylene
+foreign body	foreign
+vietnam	vietnam
+pine needles	pine
+physician's health study	physician
+true nut	true
+hemlock	hemlock
+bbq	bbq
+lung health	lung
+e. coli o157:h7	e.
+whiff test	whiff
+flexitarian diet	flexitarian
+dr. seuss	dr.
+whortleberries	whortleberry
+vision weakness	vision
+pepto-bismol	pepto-bismol
+czechoslovakia	czechoslovakia
+outback steakhouse	outback
+national cattlemen's beef association	national
+huntington’s disease	huntington
+galactosemia	galactosemia
+chanterelle mushrooms	chanterelle
+the senate committee on nutrition and human needs	the
+cholecystokinin	cholecystokinin
+bokhoor	bokhoor
+keriorrhea	keriorrhea
+that black women’s health study	that
+ruminococcus	ruminococcus
+brain parasites brain tumors	brain
+epigenetic changes	epigenetic
+honeybush tea	honeybush
+hershey's	hershey
+mexican americans	mexican
+maraschino cherry	maraschino
+adipocytes	adipocyte
+chafing	chafe
+zinger tea	zinger
+nutrition myths	nutrition
+high quality protein	high
+moose meat	moose
+autonomic nervous system	autonomic
+nasal cavity cancer	nasal
+tonsil cancer	tonsil
+amaranth	amaranth
+flomax	flomax
+eggbeaters	eggbeater
+m&m's	m
+canthaxanthines	canthaxanthine
+alternative therapies	alternative
+mood elevating compounds	mood
+flavonols	flavonol
+women's health	woman
+pfizer	pfizer
+celery root	celery
+wild bananas	wild
+evolutionary heritage	evolutionary
+chemical sensitivities	chemical
+juice plus supplements	juice
+butylated hydroxyanisole	butylate
+propulcid	propulcid
+hydrogenated fats	hydrogenate
+exotic fruit	exotic
+pregnanacy	pregnanacy
+antiperspirant	antiperspirant
+acid/base balance	acid/base
+anosmia	anosmia
+thiamine	thiamine
+ssri’s	ssri
+postmenopause	postmenopause
+energy chews	energy
+dr. linus pauling	dr.
+salt retention	salt
+home remedies	home
+bad breath	bad
+basal cell nevus syndrome	basal
+after-surgery	after-surgery
+natural supplements	natural
+ultra-processed foods	ultra-processed
+mt. sinai	mt.
+generalized pain	generalize
+graham kerr	graham
+inner ear cancer	inner
+corn refiners association	corn
+hyperpigmentation	hyperpigmentation
+harvard's alternative healthy eating index	harvard
+marek's disease virus	marek
+center for food safety	center
+drug stores	drug
+bone cancer	bone
+precancerous progression	precancerous
+colectomy	colectomy
+u.s. department of defense	u.s.
+soil health	soil
+sedatives	sedative
+vaginal discharge	vaginal
+silkworm caterpillars	silkworm
+reproductive system	reproductive
+crowberries	crowberry
+national livestock and meat board	national
+sunchokes	sunchoke
+acai berry powder	acai
+salami brusher's disease	salami
+zucchini	zucchini
+malaysia	malaysia
+billberries	billberry
+judaism	judaism
+frozen fruit	frozen
+california dried plum board	california
+complimentary medicine	complimentary
+the european union’s health	the
+lipotropes	lipotrope
+international menopause society	international
+whiting	whiting
+nutritional myths	nutritional
+fish sauce	fish
+botanical supplements	botanical
+vitamin recommendations	vitamin
+sexual transmission	sexual
+x-ray computer tomography	x-ray
+lentil effect	lentil
+noni fruit	noni
+morel mushrooms	morel
+isoflavone phytoestrogen	isoflavone
+children’s health	child
+incinerator ash	incinerator
+lima beans	lima
+body building	body
+deception flow chart	deception
+meatless mondays	meatless
+alpha waves	alpha
+haritaki fruit	haritaki
+endocannabinoids	endocannabinoid
+oral disease	oral
+tamsulosin	tamsulosin
+voice box health	voice
+bismuth	bismuth
+prostate-specific antigen	prostate-specific
+women’s healthy eating and living study	woman
+iatrogenic harm	iatrogenic
+international ice cream association	international
+rutin	rutin
+barrett's esophagus	barrett
+dental disease	dental
+parkinson’s disease	parkinson
+halitosis	halitosis
+irritable bowel kiwi fruit	irritable
+head damage	head
+high-fiber food	high-fiber
+heart rate variability	heart
+bergamots	bergamot
+brains cancer	brain
+clams	clam
+tgi friday's	tgi
+eco-atkins diet	eco-atkin
+contagious pustular dermatitis	contagious
+human longevity	human
+leptin	leptin
+sle	sle
+lumpectomy	lumpectomy
+gastrointestinal function	gastrointestinal
+sinusitis	sinusitis
+jama	jama
+and metabolic parameters	and
+bladder health	bladder
+dr. john harvey kellogg	dr.
+degenerative disease	degenerative
+immune cell function	immune
+kaposi’s sarcoma	kaposi
+applebee's	applebee
+energy bars	energy
+biblical teachings	biblical
+golden delicious apples	golden
+bladder disease	bladder
+coleslaw	coleslaw
+cadium	cadium
+dr. benjamin feingold	dr.
+flu shots	flu
+ftc	ftc
+lyme disease	lyme
+decaffeinated tea	decaffeinate
+general mills	general
+dr. william clifford roberts	dr.
+linguatula serrate	linguatula
+oxen meat	oxen
+world hypertension league	world
+national confectioner's association	national
+energy gels	energy
+skeletal function	skeletal
+swine flu	swine
+listerine	listerine
+the galloping gourmet	the
+tacos	taco
+gnathostomiasis	gnathostomiasis
+clogged artereris	clogged
+prostate gland growth	prostate
+butter balls	butter
+acaí berries	acaí
+dr. william roberts	dr.
+the holocaust	the
+psychiatric illness	psychiatric
+cosmic rays	cosmic
+microdialysis	microdialysis
+george mcgovern	george
+parkinson’s	parkinson
+cheese effect	cheese
+anal health	anal
+tumor suppression gene	tumor
+testicular health	testicular
+internship	internship
+false diagnosis	false
+over-the-counter drugs	over-the-counter
+saving money	save
+vldl	vldl
+tabouli	taboulus
+johns hopkins university	john
+occupational health	occupational
+cough	cough
+polycyclic hydrocarbons	polycyclic
+cance	cance
+american endocrine society	american
+bone marrow health	bone
+genital health	genital
+egg farmers of canada	egg
+iritis	iritis
+dr. jenkins	dr.
+dr. neil painter	dr.
+deafness	deafness
+muscle disease	muscle
+“three strikes” carcinogens	``
+national beef cattleman’s association	national
+thrifty	thrifty
+treadmills	treadmill
+snake venom	snake
+seal oil	seal
+mcdonalds	mcdonald
+penile bone	penile
+hydroponic greenhouse	hydroponic
+full-body scanners	full-body
+dannon	dannon
+natural food stores	natural
+flesh-eating bacteria	flesh-eating
+coconut-derived emulsion	coconut-derived
+nancy chute	nancy
+nepal	nepal
+esophagus health	esophagus
+calendula	calendula
+reiter's syndrome	reiter
+laughter	laughter
+fox news	fox
+guacamole	guacamole
+dr. alexander walker	dr.
+dried mushrooms	dry
+tuna council	tuna
+reticuloendotheliosis virus	reticuloendotheliosis
+chlorination	chlorination
+asian markets	asian
+u.s. preventive services task force	u.s.
+prostate disease	prostate
+cretinism	cretinism
+brain surgery	brain
+r cancer survival	r
+adulterant	adulterant
+beriberi	beriberi
+anorectal angle	anorectal
+high altitude pulmonary edema	high
+pizza hut	pizza
+brain tumour	brain
+soya milk	soya
+squatty potty	squatty
+greenhouse gases	greenhouse
+dr. benjamin spock	dr.
+bio-identical hormones	bio-identical
+dishwashing detergent	dishwash
+harvard nurses' health study	harvard
+octopus	octopus
+pease	pease
+lactose intolerance	lactose
+aromatase inhibitors	aromatase
+hershey’s	hershey
+muscle function	muscle
+beef brains	beef
+oncology	oncology
+exponent inc.	exponent
+soy yogurt	soy
+type a antibodies	type
+vaginal cancer	vaginal
+oxford	oxford
+red delicious apples	red
+rhabdomyolysis	rhabdomyolysis
+seitan	seitan
+bolete mushroom	bolete
+cartilage health	cartilage
+lobotomy	lobotomy
+dr. terry shintani	dr.
+eye parasites	eye
+cardiac health	cardiac
+philippines	philippine
+speech impairment	speech
+pentagon	pentagon
+iq45b	iq45b
+muscle health	muscle
+hemolytic-uremic syndrome	hemolytic-uremic
+intenstinal flora	intenstinal
+wine supplements	wine
+bush administration	bush
+woodear mushrooms	woodear
+gynoid lipodystrophy	gynoid
+hownottodie	hownottodie
+barbecuing	barbecue
+tvp	tvp
+pinapples	pinapple
+myristic acid	myristic
+pistachio principle	pistachio
+ginger ale	ginger
+burping	burp
+complementary medicine	complementary
+adventist health studies	adventist
+protein redistribution diet	protein
+trader joe's	trader
+plan-based diet	plan-based
+st. john's wort	st.
+muscle inflammation	muscle
+alzheimer's	alzheimer
+men's health	man
+allspice	allspice
+masculinity	masculinity
+hispanic paradox	hispanic
+the german medical association	the
+computer eye strain	computer
+elephant garlic	elephant
+pseudotumor cerebri	pseudotumor
+well cooked	well
+hydroxycut	hydroxycut
+talapia	talapia
+hand washing	hand
+economic treatment	economic
+cancer detection	cancer
+youth health	youth
+catechins	catechin
+new york coalition for healthy school food	new
+dragon's blood	dragon
+tranquilizers	tranquilizer
+brewer’s yeast	brewer
+holotranscobalamin	holotranscobalamin
+pregant women	pregant
+granny smith apples	granny
+physical attraction	physical
+nut butter	nut
+rabbit meat	rabbit
+chili's	chili
+brewer's yeast	brewer
+south dakota	south
+mcdonald's	mcdonald
+bison	bison
+crohn's disease	crohn
+papaya	papaya
+international sugar research foundation	international
+veggiecation	veggiecation
+abortion	abortion
+nail health	nail
+california raison marketing board	california
+polypill	polypill
+nsrc	nsrc
+dr. william castelli	dr.
+gastrocolic reflex	gastrocolic
+cadavers	cadaver
+ayurveda	ayurveda
+v8 juice	v8
+dr. barbara starfield	dr.
+reindeer meat	reindeer
+yams	yam
+herring	herr
+atp	atp
+areca nuts	areca
+urinary system	urinary
+thimerosal	thimerosal
+portobello mushrooms	portobello
+caramel color	caramel
+mcgovern report	mcgovern
+orville redenbacher	orville
+underweight	underweight
+dr. nathan pritikin	dr.
+toxaphene	toxaphene
+acetaminophen	acetaminophen
+eudaemonia	eudaemonia
+dr. walter willett	dr.
+eosinophilia–myalgia syndrome	eosinophilia
+national cheese institute	national
+expec	expec
+wartime	wartime
+enteric neuroscience	enteric
+thymus	thymus
+referencing the american heart association	reference
+ssri's	ssri
+alli	alli
+foxglove	foxglove
+dietary scoring	dietary
+polyethylene plastic	polyethylene
+lipstick	lipstick
+california raisin marketing board	california
+burritos	burrito
+the cold war	the
+intact grains	intact
+vitamin requirements	vitamin
+factory farming practices	factory
+dairy eggs	dairy
+honolulu heart study	honolulu
+lyon diet heart study	lyon
+rowanberries	rowanberry
+fecal enema	fecal
+care2	care2
+jack norris	jack
+plasma membrane	plasma
+pth	pth
+hawaii	hawaii
+stomach ulcers	stomach
+ranking foods	ranking
+center for disease control and prevention	center
+food recalls	food
+enoki mushrooms	enoki
+polychlorinated biphenyl	polychlorinate
+nuclear fallout	nuclear
+finer supplements	finer
+u.s. food and drug association	u.s.
+campbell's soup	campbell
+albumin	albumin
+compound x	compound
+hiv/aids	hiv/aids
+green onions	green
+cost per weight	cost
+athletics	athletics
+guava	guava
+poisonous plants	poisonous
+mendelian randomization	mendelian
+fecal continence	fecal
+hormone-disruptors	hormone-disruptor
+women’s health initiative study	woman
+cytoprotectant	cytoprotectant
+dr. hugh trowell	dr.
+goitrogens	goitrogen
+bluefish	bluefish
+fodmaps	fodmap
+hormonal dysfunction	hormonal
+gut flota	gut
+ovary health	ovary
+sweet and low	sweet
+pork brains	pork
+kissing	kiss
+iowa women’s health study	iowa
+chicken embryo lethal orphan virus	chicken
+maimonides	maimonide
+mioscene	mioscene
+escherichia coli	escherichia
+glyconutrients	glyconutrient
+sanjay gupta	sanjay
+uterine health	uterine
+alzheimer’s disease	alzheimer
+porcine endogenous retroviruses	porcine
+wart viruses	wart
+broccomax	broccomax
+jasmine tea	jasmine
+grave’s disease	grave
+dr. frank sacks	dr.
+brain waves	brain
+anticancer genes	anticancer
+saturate fat	saturate
+prehistoric diets	prehistoric
+naphthalene	naphthalene
+spinal cord health	spinal
+hair health	hair
+breast sensitivity	breast
+ear health	ear
+vitamin k	vitamin
+trigylcerides	trigylceride
+hirsutism	hirsutism
+panama	panama
+mustard oil	mustard
+lox	lox
+limonin	limonin
+organotins	organotin
+mao inhibitors	mao
+hormone therapy	hormone
+mucous membrane	mucous
+sarcopenia	sarcopenia
+u.s. dry bean council	u.s.
+red dye #3	red
+vitamin 's'	vitamin
+prion disease	prion
+dr. t. colin campbell	dr.
+bagels	bagel
+fuji apples	fuji
+mineral clay	mineral
+nutrition bar	nutrition
+bill gates	bill
+mptp	mptp
+hegsted equation	hegsted
+tumor suppression	tumor
+polycarbonate plastic	polycarbonate
+throat health	throat
+c-reactive proteins	c-reactive
+petunidin	petunidin
+longer life expectancy	longer
+torcetrapib	torcetrapib
+auto-immune diseases	auto-immune
+sweet'n low	sweet
+refined oil	refine
+anesthetic	anesthetic
+neurological function	neurological
+crystal deposits	crystal
+hysterectomy	hysterectomy
+maitake mushrooms	maitake
+post-menopause	post-menopause
+pro-oxidants	pro-oxidant
+crohn’s disease	crohn
+dr. joel kahn	dr.
+lindane	lindane
+alcohol metabolites	alcohol
+antinutrients	antinutrient
+syndrome x	syndrome
+necrotizing fasciitis	necrotize
+national dairy board	national
+dr. richard fleming	dr.
+slovakia	slovakia
+false advertising	false
+butcher's warts	butcher
+foam cells	foam
+cow's milk	cow
+artificial flavors	artificial
+barley coffee	barley
+carbohydrate oxidation	carbohydrate
+macadamia nuts	macadamia
+qaly	qaly
+zoonoses	zoonosis
+pain management	pain
+hair loss	hair
+lorazepam	lorazepam
+esophageal health	esophageal
+hela cells	hela
+ketogenic agent ac-1202	ketogenic
+british heart foundation	british
+barhi dates	barhi
+feline leukemia virus	feline
+cellular dehydration	cellular
+farm bill	farm
+pork seizures	pork
+whr	whr
+anal fissure	anal
+petroleum jelly	petroleum
+buddhists	buddhist
+oral care	oral
+blood-letting	blood-letting
+cardiovascular heath	cardiovascular
+lou gehrig's disease	lou
+berberine	berberine
+hormone treatment	hormone
+positive psychology	positive
+sinus health	sinus
+breast glands	breast
+lactescence	lactescence
+chomorro	chomorro
+inflammatory meat particle	inflammatory
+american college of lifestyle medicine	american
+fat-restricted diet	fat-restricted
+horsemeat	horsemeat
+beta waves	beta
+staph infection	staph
+richard dawkins	richard
+harvard physicians’ study ii	harvard
+bio identical hormones	bio
+pap smear	pap
+saftey limits	saftey
+st. john’s wort	st.
+alzheimer’s association	alzheimer
+porcini mushrooms	porcinus
+louis pasteur	loui
+psychotropic drugs	psychotropic
+airport scanners	airport
+microcystins	microcystin
+lipotoxicty	lipotoxicty
+broad beans	broad
+delta waves	delta
+tonga	tonga
+pancreas health	pancreas
+concussions	concussion
+parkinson's disease	parkinson

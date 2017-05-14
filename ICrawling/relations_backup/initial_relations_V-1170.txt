@@ -1,0 +1,7 @@
+
+V-1170	vegans	vegans	b12	b12	are	
+V-1170	vegetarian	vegetarian	myelopathy	myelopathy	’s	
+V-1170	plant-based	plant-based	vitamin b12	vitamin b12	diets must take	
+V-1170	plant-based diets	plant-based diets	b12	b12	must take vitamin	
+V-1170	plant-based	plant-based	b12	b12	diets must take vitamin	
+V-1170	plant-based diets	plant-based diets	vitamin b12	vitamin b12	must take	

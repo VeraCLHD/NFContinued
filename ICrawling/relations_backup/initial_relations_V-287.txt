@@ -1,0 +1,74 @@
+
+V-287	fiber	fiber	disease	disease	-containing foods, reduces risk for diabetes, heart	
+V-287	blood	blood	cholesterol	cholesterol		
+V-287	disease	disease	diet	diet	eating the standard american	
+V-287	oatmeal	oatmeal	bacon	bacon	with	
+V-287	women	women	whole grains	whole grains	eating less than a serving of	
+V-287	diet	diet	heart disease	heart disease	has been shown to reverse the progression of	
+V-287	blood	blood	arteries	arteries	cholesterol levels so less gets stuck in our	
+V-287	antioxidant	antioxidant	oats	oats	phytonutrients in	
+V-287	whole grains	whole grains	arteries	arteries	a day significantly narrowed, whereas the	
+V-287	women	women	disease	disease	with heart	
+V-287	plant-based	plant-based	diet	diet		
+V-287	health	health	americans	americans	concern for all	
+V-287	fiber	fiber	disease	disease	intake and killer	
+V-287	heart disease	heart disease	diet	diet	eating the standard american	
+V-287	disease	disease	arteries	arteries	eating the standard american diet, and so their	
+V-287	fiber	fiber	oatmeal	oatmeal	in	
+V-287	anti-inflammatory	anti-inflammatory	antioxidant	antioxidant	and	
+V-287	bacon	bacon	eggs	eggs	and	
+V-287	oatmeal	oatmeal	cholesterol	cholesterol	can lower our blood	
+V-287	beans	beans	chronic disease	chronic disease	that protected them from	
+V-287	phytonutrients	phytonutrients	oats	oats	in	
+V-287	fiber	fiber	cholesterol	cholesterol	intake, and the lowest	
+V-287	whole grains	whole grains	fiber	fiber	besides	
+V-287	anti-inflammatory	anti-inflammatory	phytonutrients	phytonutrients	and antioxidant	
+V-287	eggs	eggs	bacon	bacon	is better than just eating	
+V-287	risk	risk	obesity	obesity	for diabetes, heart disease, stroke, cancer, and	
+V-287	women	women	standard american diet	standard american diet	with heart disease eating the	
+V-287	risk	risk	cancer	cancer	for diabetes, heart disease, stroke,	
+V-287	women	women	grains	grains	eating less than a serving of whole	
+V-287	fiber	fiber	women	women	for men and	
+V-287	grains	grains	arteries	arteries	a day significantly narrowed, whereas the	
+V-287	risk	risk	stroke	stroke	for diabetes, heart disease,	
+V-287	fiber	fiber	diabetes	diabetes	-containing foods, reduces risk for	
+V-287	women	women	angiograms	angiograms	were subjected to coronary	
+V-287	arteries	arteries	whole grains	whole grains	of women eating less than a serving of	
+V-287	fiber	fiber	risk	risk	-containing foods, reduces	
+V-287	arteries	arteries	women	women	of	
+V-287	heart disease	heart disease	standard american diet	standard american diet	eating the	
+V-287	whole foods	whole foods	diet	diet	 plant-based	
+V-287	heart disease	heart disease	women	women	is the #1 killer of american	
+V-287	women	women	heart disease	heart disease	with	
+V-287	public health	public health	americans	americans	concern for all	
+V-287	americans	americans	fiber	fiber	eat enough plant-based foods–the only place	
+V-287	risk	risk	heart disease	heart disease	for diabetes,	
+V-287	fiber	fiber	blood	blood	in oatmeal can lower our	
+V-287	grains	grains	fiber	fiber	besides	
+V-287	plant-based	plant-based	fiber	fiber	foods–the only place	
+V-287	obesity	obesity	fiber	fiber	as well.the first to make this link between	
+V-287	anti-inflammatory	anti-inflammatory	oats	oats	and antioxidant phytonutrients in	
+V-287	plant-based diet	plant-based diet	heart disease	heart disease	has been shown to reverse the progression of	
+V-287	whole foods	whole foods	plant-based diet	plant-based diet	 	
+V-287	grains	grains	women	women	a day significantly narrowed, whereas the arteries of	
+V-287	risk	risk	diabetes	diabetes	for	
+V-287	plant-based	plant-based	cholesterol	cholesterol	diets.risk factors like	
+V-287	medicine	medicine	africa	africa	in	
+V-287	women	women	diet	diet	with heart disease eating the standard american	
+V-287	disease	disease	women	women	is the #1 killer of american	
+V-287	atherosclerosis	atherosclerosis	disease	disease	–in fact, almost as much slowing of their	
+V-287	fiber	fiber	stroke	stroke	-containing foods, reduces risk for diabetes, heart disease,	
+V-287	statins	statins	arteries	arteries	can also slow the rate at which our	
+V-287	fiber	fiber	heart disease	heart disease	-containing foods, reduces risk for diabetes,	
+V-287	disease	disease	standard american diet	standard american diet	eating the	
+V-287	americans	americans	plant-based	plant-based	eat enough	
+V-287	beans	beans	disease	disease	that protected them from chronic	
+V-287	antioxidant	antioxidant	phytonutrients	phytonutrients		
+V-287	whole grains	whole grains	women	women	a day significantly narrowed, whereas the arteries of	
+V-287	fiber	fiber	cholesterol	cholesterol	in oatmeal can lower our blood	
+V-287	oatmeal	oatmeal	blood	blood	can lower our	
+V-287	risk	risk	disease	disease	for diabetes, heart	
+V-287	cholesterol	cholesterol	arteries	arteries	levels so less gets stuck in our	
+V-287	oatmeal	oatmeal	eggs	eggs	with bacon and	
+V-287	whole foods	whole foods	plant-based	plant-based	 	
+V-287	heart disease	heart disease	arteries	arteries	eating the standard american diet, and so their	

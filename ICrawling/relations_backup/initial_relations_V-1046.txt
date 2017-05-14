@@ -1,0 +1,35 @@
+
+V-1046	beef	beef	prostate cancer	prostate cancer	lead to	
+V-1046	anabolic steroids	anabolic steroids	beef	beef	are given to cattle to “	
+V-1046	produce	produce	testosterone	testosterone		
+V-1046	beef	beef	estrogen	estrogen	following steroid implantation might facilitate	
+V-1046	japanese	japanese	beef	beef		
+V-1046	anabolic steroids	anabolic steroids	meat	meat	in	
+V-1046	lead	lead	prostate	prostate	to	
+V-1046	beef	beef	muscles	muscles	” up their	
+V-1046	sports	sports	muscles	muscles	to build up their	
+V-1046	steroids	steroids	muscles	muscles	are given to cattle to “beef” up their	
+V-1046	sports	sports	livestock	livestock	to build up their muscles, in the	
+V-1046	hormones	hormones	farm animals	farm animals	we do implant in	
+V-1046	prostate	prostate	cancer	cancer		
+V-1046	hormones	hormones	meat	meat	doesn’t mean it actually makes it into the	
+V-1046	beef	beef	cancer	cancer	lead to prostate	
+V-1046	lead	lead	cancer	cancer	to prostate	
+V-1046	hormones	hormones	meat	meat	don’t get into the	
+V-1046	beef	beef	united states	united states	from the	
+V-1046	athletes	athletes	sports	sports	can use doping agents in	
+V-1046	anabolic steroids	anabolic steroids	muscles	muscles	are given to cattle to “beef” up their	
+V-1046	testosterone	testosterone	meat	meat	in the	
+V-1046	livestock	livestock	anabolic steroids	anabolic steroids	industry,	
+V-1046	beef	beef	hormones	hormones	industry argues that the	
+V-1046	livestock	livestock	steroids	steroids	industry, anabolic	
+V-1046	testosterone	testosterone	liver	liver	in the meat,	
+V-1046	lead	lead	prostate cancer	prostate cancer	to	
+V-1046	beef	beef	prostate	prostate	lead to	
+V-1046	beef	beef	japanese	japanese	to	
+V-1046	steroids	steroids	beef	beef	are given to cattle to “	
+V-1046	testosterone	testosterone	sheep	sheep	in the meat, liver, and testicles of	
+V-1046	athletes	athletes	meat	meat	who eat certain kinds of	
+V-1046	beef	beef	lead	lead		
+V-1046	steroids	steroids	meat	meat	in	
+V-1046	estrogen	estrogen	beef	beef	-rich	

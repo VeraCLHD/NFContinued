@@ -1,0 +1,55 @@
+
+T-1463	protein	protein	risk	risk	consumption may be linked to lower	
+T-1463	animal protein	animal protein	risk	risk	can be associated with increased	
+T-1463	health	health	beans	beans	topics animal protein,	
+T-1463	plant protein	plant protein	lentils	lentils	source, as are	
+T-1463	plant protein	plant protein	animal protein	animal protein	may provide healthier nutrients than	
+T-1463	plant protein	plant protein	protein	protein	may provide healthier nutrients than animal	
+T-1463	protein	protein	risk	risk	also appears linked to lower cancer	
+T-1463	plant protein	plant protein	animal protein	animal protein	also appears linked to lower cancer risk than	
+T-1463	health	health	plant-based	plant-based	topics animal protein, beans, lentils, nuts,	
+T-1463	protein	protein	risk	risk	can be associated with increased	
+T-1463	vegans	vegans	protein	protein	and vegetarians are asked how they get enough	
+T-1463	plant protein	plant protein	peas	peas	source, as are lentils and split	
+T-1463	risk	risk	protein	protein	than animal	
+T-1463	coronary heart disease	coronary heart disease	protein	protein	was almost non-existent among ugandans, who consume their	
+T-1463	risk	risk	animal protein	animal protein	of heart disease, while the intake of	
+T-1463	health	health	plant-based diets	plant-based diets	topics animal protein, beans, lentils, nuts,	
+T-1463	health	health	protein	protein	as food is a package deal: the	
+T-1463	plant protein	plant protein	heart disease	heart disease	consumption may be linked to lower risk of	
+T-1463	cancer	cancer	protein	protein	risk than animal	
+T-1463	health	health	animal protein	animal protein	topics	
+T-1463	plant protein	plant protein	cancer	cancer	also appears linked to lower	
+T-1463	disease	disease	protein	protein	was almost non-existent among ugandans, who consume their	
+T-1463	risk	risk	protein	protein	of heart disease, while the intake of animal	
+T-1463	cancer	cancer	animal protein	animal protein	risk than	
+T-1463	protein	protein	split peas	split peas	source, as are lentils and	
+T-1463	plant-based	plant-based	protein	protein	diets,	
+T-1463	health	health	nuts	nuts	topics animal protein, beans, lentils,	
+T-1463	health	health	lentils	lentils	topics animal protein, beans,	
+T-1463	plant-based diets	plant-based diets	protein	protein	showed that, on average, they got 70% more	
+T-1463	plant-based	plant-based	seeds	seeds	diets, protein,	
+T-1463	diet	diet	plant protein	plant protein	high in	
+T-1463	protein	protein	lentils	lentils	source, as are	
+T-1463	protein	protein	animal protein	animal protein	may provide healthier nutrients than	
+T-1463	plant protein	plant protein	risk	risk	also appears linked to lower cancer	
+T-1463	lentils	lentils	split peas	split peas	and	
+T-1463	heart disease	heart disease	protein	protein	was almost non-existent among ugandans, who consume their	
+T-1463	risk	risk	heart disease	heart disease	of	
+T-1463	plant protein	plant protein	risk	risk	consumption may be linked to lower	
+T-1463	cancer	cancer	risk	risk		
+T-1463	health	health	protein	protein	topics animal	
+T-1463	plant-based	plant-based	soy	soy	diets, protein, seeds, and	
+T-1463	vegans	vegans	vegetarians	vegetarians	and	
+T-1463	protein	protein	plant-based	plant-based	a person eats–primarily	
+T-1463	risk	risk	animal protein	animal protein	than	
+T-1463	lentils	lentils	peas	peas	and split	
+T-1463	plant protein	plant protein	split peas	split peas	source, as are lentils and	
+T-1463	protein	protein	peas	peas	source, as are lentils and split	
+T-1463	protein	protein	heart disease	heart disease	consumption may be linked to lower risk of	
+T-1463	risk	risk	disease	disease	of heart	
+T-1463	protein	protein	cancer	cancer	also appears linked to lower	
+T-1463	vegetarians	vegetarians	protein	protein	are asked how they get enough	
+T-1463	protein	protein	animal protein	animal protein	also appears linked to lower cancer risk than	
+T-1463	diet	diet	protein	protein	high in plant	
+T-1463	plant-based	plant-based	health	health	or primarily animal-based—matters to one’s	

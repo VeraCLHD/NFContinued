@@ -1,0 +1,78 @@
+
+T-1756	carcinogens	carcinogens	cooking meat	cooking meat	produced by	
+T-1756	meat	meat	fat	fat	and other high-	
+T-1756	h. pylori	h. pylori	bacteria	bacteria		
+T-1756	cancer	cancer	inflammation	inflammation	risk possibly because they cause chronic low-level	
+T-1756	risk	risk	meat	meat	of gastroenteritis or “stomach flu” in children.processed	
+T-1756	indian gooseberries	indian gooseberries	stomach	stomach	also seem to protect the	
+T-1756	risk	risk	cancer	cancer	of stomach	
+T-1756	carcinogens	carcinogens	cooking	cooking	produced by	
+T-1756	gastroenteritis	gastroenteritis	stomach	stomach	or “	
+T-1756	pepper	pepper	stomach	stomach	powder may provide relief, including the lessening of	
+T-1756	stomach	stomach	cancer cell growth	cancer cell growth		
+T-1756	carcinogens	carcinogens	stomach	stomach	produced by cooking meat may be associated	
+T-1756	cranberries	cranberries	bacteria	bacteria	may reduce adhesion of h. pylori	
+T-1756	risk	risk	stomach cancer	stomach cancer	of	
+T-1756	stomach	stomach	pepper	pepper	wall.red	
+T-1756	radishes	radishes	stomach cancer	stomach cancer	and spinach may help in slowing	
+T-1756	cooking	cooking	meat	meat		
+T-1756	spinach	spinach	stomach	stomach	may help in slowing	
+T-1756	stomach	stomach	oxidation	oxidation	can result in the	
+T-1756	cancer	cancer	antioxidant	antioxidant	cell growth, and overall dietary	
+T-1756	digestion	digestion	fat	fat	of meat and other high-	
+T-1756	stomach	stomach	antioxidant	antioxidant	cancer cell growth, and overall dietary	
+T-1756	phytonutrients	phytonutrients	cranberries	cranberries	found in	
+T-1756	stomach	stomach	cancer	cancer		
+T-1756	stomach	stomach	health	health	lining is critical to gastrointestinal	
+T-1756	inflammation	inflammation	gut	gut	without the damage to our stomach and	
+T-1756	carcinogens	carcinogens	meat	meat	produced by cooking	
+T-1756	spinach	spinach	stomach cancer	stomach cancer	may help in slowing	
+T-1756	stomach cancer	stomach cancer	antioxidant	antioxidant	cell growth, and overall dietary	
+T-1756	meat	meat	cooking meat	cooking meat	consumption, total meat consumption, and carcinogens produced by	
+T-1756	gut	gut	drugs	drugs	lining caused by nsaid	
+T-1756	gooseberries	gooseberries	stomach	stomach	also seem to protect the	
+T-1756	stomach	stomach	fat	fat	can result in the oxidation of	
+T-1756	inflammation	inflammation	stomach	stomach	without the damage to our	
+T-1756	stomach	stomach	gastrointestinal health	gastrointestinal health	lining is critical to	
+T-1756	spinach	spinach	cancer	cancer	may help in slowing stomach	
+T-1756	stomach	stomach	gut	gut	and	
+T-1756	gastroenteritis	gastroenteritis	meat	meat	or “stomach flu” in children.processed	
+T-1756	stomach cancer	stomach cancer	inflammation	inflammation	risk possibly because they cause chronic low-level	
+T-1756	risk	risk	stomach	stomach	of gastroenteritis or “	
+T-1756	cooking meat	cooking meat	stomach	stomach	may be associated	
+T-1756	cooking meat	cooking meat	stomach cancer	stomach cancer	may be associated	
+T-1756	radishes	radishes	cancer cell growth	cancer cell growth	and spinach may help in slowing stomach	
+T-1756	h. pylori	h. pylori	stomach	stomach	bacteria, which can cause ulcers in the	
+T-1756	cooking	cooking	stomach	stomach	meat may be associated	
+T-1756	cancer	cancer	risk	risk		
+T-1756	cooking meat	cooking meat	risk	risk	may be associated stomach cancer	
+T-1756	radishes	radishes	spinach	spinach	and	
+T-1756	digestion	digestion	meat	meat	of	
+T-1756	radishes	radishes	cancer	cancer	and spinach may help in slowing stomach	
+T-1756	meat	meat	carcinogens	carcinogens	consumption, total meat consumption, and	
+T-1756	ulcers	ulcers	stomach	stomach	in the	
+T-1756	risk	risk	gastroenteritis	gastroenteritis	of	
+T-1756	oxidation	oxidation	fat	fat	of	
+T-1756	heart attack	heart attack	risk	risk	and stroke	
+T-1756	ulcers	ulcers	pepper	pepper	in the stomach wall.red	
+T-1756	cooking	cooking	stomach cancer	stomach cancer	meat may be associated	
+T-1756	cooking	cooking	cancer	cancer	meat may be associated stomach	
+T-1756	cooking meat	cooking meat	cancer	cancer	may be associated stomach	
+T-1756	cooking	cooking	risk	risk	meat may be associated stomach cancer	
+T-1756	heart attack	heart attack	stroke	stroke	and	
+T-1756	stroke	stroke	risk	risk		
+T-1756	stomach	stomach	meat	meat	flu” in children.processed	
+T-1756	stomach cancer	stomach cancer	risk	risk		
+T-1756	stomach	stomach	drugs	drugs	and gut lining caused by nsaid	
+T-1756	risk	risk	stomach	stomach	of	
+T-1756	cherries	cherries	inflammation	inflammation	may be an alternative to reducing	
+T-1756	radishes	radishes	stomach	stomach	and spinach may help in slowing	
+T-1756	phytonutrients	phytonutrients	h. pylori	h. pylori	found in cranberries may reduce adhesion of	
+T-1756	carcinogens	carcinogens	stomach cancer	stomach cancer	produced by cooking meat may be associated	
+T-1756	meat	meat	cooking	cooking	consumption, total meat consumption, and carcinogens produced by	
+T-1756	carcinogens	carcinogens	cancer	cancer	produced by cooking meat may be associated stomach	
+T-1756	meat	meat	stomach	stomach	and other high-fat, high-cholesterol food in the	
+T-1756	cranberries	cranberries	h. pylori	h. pylori	may reduce adhesion of	
+T-1756	spinach	spinach	cancer cell growth	cancer cell growth	may help in slowing stomach	
+T-1756	anti-inflammatory	anti-inflammatory	drugs	drugs		
+T-1756	h. pylori	h. pylori	ulcers	ulcers	bacteria, which can cause	

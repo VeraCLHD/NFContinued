@@ -1,0 +1,32 @@
+
+T-494	kidney	kidney	cancer	cancer		
+T-494	bile	bile	vegetables	vegetables	acid-binding	
+T-494	kale	kale	greens	greens	and collard	
+T-494	risk	risk	glaucoma	glaucoma	of 	
+T-494	vegetables	vegetables	chlorophyll	chlorophyll	also contain 	
+T-494	collard greens	collard greens	kidney cancer	kidney cancer	or kale may be especially protective against breast and 	
+T-494	kale	kale	kidney	kidney	may be especially protective against breast and 	
+T-494	cruciferous vegetables	cruciferous vegetables	greens	greens	like collard	
+T-494	cruciferous vegetables	cruciferous vegetables	collard greens	collard greens	like	
+T-494	greens	greens	zeaxanthin	zeaxanthin	contain vision-protecting plant nutrients such as	
+T-494	greens	greens	kidney cancer	kidney cancer	or kale may be especially protective against breast and 	
+T-494	vegetables	vegetables	wrinkles	wrinkles	may even help protect against 	
+T-494	kale	kale	cancer	cancer	may be especially protective against breast and kidney	
+T-494	collard greens	collard greens	kidney	kidney	or kale may be especially protective against breast and 	
+T-494	greens	greens	cancer	cancer	or kale may be especially protective against breast and kidney	
+T-494	zeaxanthin	zeaxanthin	risk	risk	that may significantly lower the	
+T-494	collard greens	collard greens	zeaxanthin	zeaxanthin	contain vision-protecting plant nutrients such as	
+T-494	vegetables	vegetables	mutagens	mutagens	also contain chlorophyll that may bind and intercept	
+T-494	risk	risk	blindness	blindness	of glaucoma, a leading cause of	
+T-494	vegetables	vegetables	kale	kale	like collard greens or	
+T-494	cruciferous vegetables	cruciferous vegetables	kale	kale	like collard greens or	
+T-494	zeaxanthin	zeaxanthin	glaucoma	glaucoma	that may significantly lower the risk of 	
+T-494	collard greens	collard greens	kale	kale	or	
+T-494	greens	greens	kale	kale	or	
+T-494	kale	kale	kidney cancer	kidney cancer	may be especially protective against breast and 	
+T-494	kale	kale	collard greens	collard greens	and	
+T-494	greens	greens	kidney	kidney	or kale may be especially protective against breast and 	
+T-494	collard greens	collard greens	cancer	cancer	or kale may be especially protective against breast and kidney	
+T-494	vegetables	vegetables	greens	greens	like collard	
+T-494	vegetables	vegetables	collard greens	collard greens	like	
+T-494	chlorophyll	chlorophyll	mutagens	mutagens	that may bind and intercept	

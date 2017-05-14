@@ -1,0 +1,62 @@
+
+V-65	children	children	health	health	’s	
+V-65	baby	baby	dna	dna	’s	
+V-65	igf-1	igf-1	growth hormone	growth hormone	—a	
+V-65	pregnancy	pregnancy	obesity	obesity	may play a role in the	
+V-65	pregnant	pregnant	women	women		
+V-65	cold	cold	environment	environment		
+V-65	pregnant	pregnant	lead	lead	during the dutch famine didn’t just	
+V-65	breast cancer	breast cancer	risk	risk		
+V-65	chemicals	chemicals	urine	urine	right out of their	
+V-65	carcinogens	carcinogens	breast cancer	breast cancer	as well—perhaps explaining the 47% increase in	
+V-65	produce	produce	seeds	seeds		
+V-65	milk	milk	igf-1	igf-1	intake, which would presumably boost	
+V-65	cancer	cancer	long island	long island	risk in the	
+V-65	risk	risk	cancer	cancer	in the long island breast	
+V-65	pregnancy	pregnancy	risk	risk	may increase the	
+V-65	pregnancy	pregnancy	children	children	may increase the risk of their	
+V-65	breast cancer	breast cancer	women	women	risk among older	
+V-65	breast cancer	breast cancer	long island	long island	risk in the	
+V-65	children	children	pregnant	pregnant	’s health, but maybe even their grandchildren’s health.being	
+V-65	obesity	obesity	protein	protein	epidemic—but not just	
+V-65	protein	protein	pregnancy	pregnancy	from animal sources, primarily meat products, consumed during	
+V-65	risk	risk	women	women	among older	
+V-65	pregnant	pregnant	babies	babies	crickets to a predatory wolf spider, her 	
+V-65	children	children	risk	risk	by their sixteenth birthday, potentially increasing their	
+V-65	fat	fat	pollutants	pollutants	-soluble	
+V-65	meat	meat	risk	risk	products, consumed during pregnancy may increase the	
+V-65	carcinogens	carcinogens	cancer	cancer	as well—perhaps explaining the 47% increase in breast	
+V-65	lead	lead	kids	kids	to an increase in diseases among their	
+V-65	produce	produce	sun	sun	seeds that grow better in the	
+V-65	fat	fat	risk	risk	mass gain during childhood, and a higher	
+V-65	breast cancer	breast cancer	cancer	cancer	risk in the long island breast	
+V-65	pork	pork	beef	beef	apparently worse than	
+V-65	obesogens	obesogens	meat	meat	in	
+V-65	long island	long island	breast cancer	breast cancer		
+V-65	meat	meat	pregnancy	pregnancy	products, consumed during	
+V-65	chemicals	chemicals	fat	fat	may cause increased	
+V-65	obesogens	obesogens	chemicals	chemicals	in meat—	
+V-65	igf-1	igf-1	obesogens	obesogens	levels just as high.so, maybe, instead it’s the	
+V-65	seeds	seeds	sun	sun	that grow better in the	
+V-65	cancer	cancer	risk	risk		
+V-65	protein	protein	pregnancy	pregnancy	intake during	
+V-65	risk	risk	children	children	of their	
+V-65	pregnant	pregnant	children	children	woman eats permanently alter the biology of her	
+V-65	body fat	body fat	children	children	mass in their	
+V-65	protein	protein	meat	meat	from animal sources, primarily	
+V-65	meat	meat	chemicals	chemicals	—	
+V-65	fat	fat	children	children	mass in their	
+V-65	long island	long island	cancer	cancer	breast	
+V-65	risk	risk	breast cancer	breast cancer	in the long island	
+V-65	infants	infants	diet	diet	are fatter—you can’t blame that on	
+V-65	dandelion	dandelion	greens	greens		
+V-65	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	cigarettes	cigarettes	—found in	
+V-65	infants	infants	exercise	exercise	are fatter—you can’t blame that on diet and	
+V-65	mothers	mothers	babies	babies	are able to communicate the season to their	
+V-65	cancer	cancer	breast cancer	breast cancer	risk in the long island	
+V-65	risk	risk	pollutants	pollutants	of childhood obesity.if these	
+V-65	plants	plants	sun	sun	—one in the	
+V-65	weight gain	weight gain	meat	meat	was tied more to	
+V-65	cancer	cancer	women	women	risk among older	
+V-65	cancer	cancer	cancer	cancer	risk in the long island breast	
+V-65	diet	diet	exercise	exercise	and	

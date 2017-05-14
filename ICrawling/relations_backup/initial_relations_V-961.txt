@@ -1,0 +1,29 @@
+
+V-961	white meat	white meat	eggs	eggs	and, at most, three times a week,	
+V-961	whole grain	whole grain	grains	grains	bread, whole grain pasta, brown rice, whole	
+V-961	fruits	fruits	greens	greens	and vegetables every day—including wild	
+V-961	agriculture	agriculture	lead	lead	department the	
+V-961	whole grain	whole grain	pasta	pasta	bread, whole grain	
+V-961	nuts	nuts	snacks	snacks	as	
+V-961	dietary guidelines	dietary guidelines	greece	greece	in	
+V-961	fruits	fruits	candy	candy	and nuts as snacks, instead of sweets and	
+V-961	vegetables	vegetables	greens	greens	every day—including wild	
+V-961	whole grain	whole grain	whole grains	whole grains	bread, whole grain pasta, brown rice,	
+V-961	meat	meat	candy	candy	and, at most, three times a week, eggs or	
+V-961	whole grain	whole grain	rice	rice	bread, whole grain pasta, brown	
+V-961	meat	meat	eggs	eggs	and, at most, three times a week,	
+V-961	whole grain	whole grain	brown rice	brown rice	bread, whole grain pasta,	
+V-961	fruits	fruits	nuts	nuts	and	
+V-961	diet	diet	vegetarian	vegetarian	is	
+V-961	salt	salt	sugar	sugar	and	
+V-961	fruits	fruits	snacks	snacks	and nuts as	
+V-961	united states	united states	health	health	could put an appropriate	
+V-961	white meat	white meat	candy	candy	and, at most, three times a week, eggs or	
+V-961	whole grain	whole grain	bread	bread		
+V-961	fruits	fruits	vegetables	vegetables	and	
+V-961	eggs	eggs	candy	candy	or	
+V-961	whole grain	whole grain	period	period	bread, whole grain pasta, brown rice, whole grains,	
+V-961	nuts	nuts	candy	candy	as snacks, instead of sweets and	
+V-961	water	water	soft drinks	soft drinks	over	
+V-961	meat	meat	usda	usda	than what the current	
+V-961	disease	disease	prevention	prevention	control and	

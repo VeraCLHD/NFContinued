@@ -1,0 +1,68 @@
+
+V-40	poultry	poultry	risk	risk	workers are at	
+V-40	chicken	chicken	viruses	viruses		
+V-40	cancer	cancer	heart disease	heart disease	and	
+V-40	viruses	viruses	atherosclerosis	atherosclerosis	don’t just cause cancer in chickens, but also	
+V-40	cancer	cancer	disease	disease	and heart	
+V-40	viruses	viruses	tumors	tumors	can infect human cells, and infect and cause	
+V-40	tumors	tumors	public health	public health	in primates in laboratories, may be of	
+V-40	viruses	viruses	risk	risk	” do have “increased	
+V-40	risk	risk	cancer	cancer	of diseases like	
+V-40	animal foods	animal foods	heart disease	heart disease	increasing risk of diseases like cancer and	
+V-40	viruses	viruses	virus	virus	in their bloodstream, indicating that the	
+V-40	cholesterol	cholesterol	chickens	chickens	crystals.okay, but that’s in	
+V-40	risk	risk	cancer	cancer	of	
+V-40	poultry	poultry	chickens	chickens	viruses don’t just cause cancer in	
+V-40	tumors	tumors	health	health	in primates in laboratories, may be of public	
+V-40	public health	public health	risk	risk	significance—particularly given the increased	
+V-40	cancer	cancer	heme iron	heme iron	and heart disease were like, you know,	
+V-40	poultry	poultry	viruses	viruses		
+V-40	antibodies	antibodies	chicken	chicken	to these cancer-causing	
+V-40	cancer	cancer	atherosclerosis	atherosclerosis	in chickens, but also	
+V-40	dna	dna	blood	blood	-fingerprinting techniques to test the	
+V-40	chickens	chickens	disease	disease	infected with marek	
+V-40	virus	virus	infection	infection	…develop atherosclerotic lesions after	
+V-40	chicken	chicken	poultry	poultry	viruses, what about people who handle or eat	
+V-40	poultry	poultry	viruses	viruses	[cancer-causing]	
+V-40	public health	public health	meat	meat	significance—particularly given the increased risk of cancer among	
+V-40	chicken	chicken	virus	virus	viruses in their bloodstream, indicating that the	
+V-40	viruses	viruses	disease	disease	play in human heart	
+V-40	risk	risk	meat	meat	of cancer among	
+V-40	asbestos	asbestos	benzene	benzene	and	
+V-40	death	death	heart disease	heart disease	from	
+V-40	death	death	disease	disease	from heart	
+V-40	chickens	chickens	virus	virus	infected with marek disease	
+V-40	poultry	poultry	risk	risk	[cancer-causing] viruses” do have “increased	
+V-40	health	health	meat	meat	significance—particularly given the increased risk of cancer among	
+V-40	chickens	chickens	infection	infection	infected with marek disease virus…develop atherosclerotic lesions after	
+V-40	animal foods	animal foods	risk	risk	increasing	
+V-40	disease	disease	virus	virus		
+V-40	risk	risk	tumors	tumors	for brain	
+V-40	poultry	poultry	cancer	cancer	viruses don’t just cause	
+V-40	virus	virus	blood	blood	itself can get into our	
+V-40	viruses	viruses	cancer	cancer	don’t just cause	
+V-40	viruses	viruses	heart disease	heart disease	play in human	
+V-40	health	health	risk	risk	significance—particularly given the increased	
+V-40	poultry viruses	poultry viruses	chickens	chickens	don’t just cause cancer in	
+V-40	public health	public health	cancer	cancer	significance—particularly given the increased risk of	
+V-40	cancer	cancer	iron	iron	and heart disease were like, you know, heme	
+V-40	health	health	cancer	cancer	significance—particularly given the increased risk of	
+V-40	cancer	cancer	meat	meat	among	
+V-40	chickens	chickens	brain cancer	brain cancer	may be “6 times more likely to die from	
+V-40	risk	risk	disease	disease	of diseases like cancer and heart	
+V-40	poultry workers	poultry workers	risk	risk	are at	
+V-40	antibodies	antibodies	viruses	viruses	to these cancer-causing chicken	
+V-40	meat	meat	carcinogens	carcinogens		
+V-40	poultry viruses	poultry viruses	atherosclerosis	atherosclerosis	don’t just cause cancer in chickens, but also	
+V-40	viruses	viruses	chickens	chickens	don’t just cause cancer in	
+V-40	chickens	chickens	eggs	eggs	or	
+V-40	risk	risk	heart disease	heart disease	of diseases like cancer and	
+V-40	risk	risk	brain tumors	brain tumors	for	
+V-40	poultry viruses	poultry viruses	cancer	cancer	don’t just cause	
+V-40	disease	disease	infection	infection	virus…develop atherosclerotic lesions after	
+V-40	cancer	cancer	chickens	chickens	in	
+V-40	virus	virus	chickens	chickens	was discovered in	
+V-40	animal foods	animal foods	disease	disease	increasing risk of diseases like cancer and heart	
+V-40	cooked meat	cooked meat	carcinogens	carcinogens		
+V-40	cancer	cancer	viruses	viruses	rates, then, presumably, the	
+V-40	animal foods	animal foods	cancer	cancer	increasing risk of diseases like	

@@ -1,0 +1,56 @@
+
+T-538	cruciferous vegetables	cruciferous vegetables	enzymes	enzymes	may boost our liver’s detoxifying	
+T-538	prevention	prevention	vegetables	vegetables	(along with allium family	
+T-538	breast cancer	breast cancer	cancer	cancer	recurrence, and bladder	
+T-538	breast cancer	breast cancer	stem cells	stem cells		
+T-538	cancer	cancer	bladder cancer	bladder cancer	progression, breast cancer recurrence, and	
+T-538	prostate	prostate	bladder cancer	bladder cancer	cancer progression, breast cancer recurrence, and	
+T-538	vegetables	vegetables	bok choy	bok choy	are	
+T-538	vegetables	vegetables	liver	liver	may boost our	
+T-538	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	may boost our liver’s	
+T-538	liver	liver	enzymes	enzymes	’s detoxifying	
+T-538	vegetables	vegetables	sprouts	sprouts	are bok choy, broccoli, broccoli	
+T-538	vegetables	vegetables	broccoli	broccoli	are bok choy,	
+T-538	prostate	prostate	cancer	cancer		
+T-538	prostate	prostate	cancer progression	cancer progression		
+T-538	risk	risk	prostate	prostate	of	
+T-538	liver	liver	detoxifying enzymes	detoxifying enzymes	’s	
+T-538	cancer	cancer	bladder	bladder	progression, breast cancer recurrence, and	
+T-538	prevention	prevention	garlic	garlic	(along with allium family vegetables like	
+T-538	prostate	prostate	breast cancer	breast cancer	cancer progression,	
+T-538	prostate cancer	prostate cancer	cancer	cancer	progression, breast	
+T-538	prostate cancer	prostate cancer	breast cancer	breast cancer	progression,	
+T-538	prostate cancer	prostate cancer	bladder	bladder	progression, breast cancer recurrence, and	
+T-538	cancer	cancer	breast cancer	breast cancer	progression,	
+T-538	cancer	cancer	vegetables	vegetables	prevention (along with allium family	
+T-538	cancer	cancer	cancer	cancer	progression, breast	
+T-538	cancer prevention	cancer prevention	garlic	garlic	(along with allium family vegetables like	
+T-538	broccoli	broccoli	lung cancer	lung cancer	may help reduce the spread of	
+T-538	breast cancer	breast cancer	bladder	bladder	recurrence, and	
+T-538	cancer prevention	cancer prevention	onions	onions	(along with allium family vegetables like garlic and	
+T-538	vegetables	vegetables	cabbage	cabbage	are bok choy, broccoli, broccoli sprouts, brussels sprouts,	
+T-538	vegetables	vegetables	enzymes	enzymes	may boost our liver’s detoxifying	
+T-538	risk	risk	bladder cancer	bladder cancer	of prostate cancer progression, breast cancer recurrence, and	
+T-538	risk	risk	cancer	cancer	of prostate	
+T-538	vegetables	vegetables	broccoli sprouts	broccoli sprouts	are bok choy, broccoli,	
+T-538	cruciferous vegetables	cruciferous vegetables	liver	liver	may boost our	
+T-538	risk	risk	prostate cancer	prostate cancer	of	
+T-538	garlic	garlic	onions	onions	and	
+T-538	cancer	cancer	stem cells	stem cells		
+T-538	risk	risk	bladder	bladder	of prostate cancer progression, breast cancer recurrence, and	
+T-538	prevention	prevention	onions	onions	(along with allium family vegetables like garlic and	
+T-538	broccoli	broccoli	cancer	cancer	may help reduce the spread of lung	
+T-538	breast cancer	breast cancer	bladder cancer	bladder cancer	recurrence, and	
+T-538	cancer prevention	cancer prevention	vegetables	vegetables	(along with allium family	
+T-538	bladder	bladder	cancer	cancer		
+T-538	risk	risk	breast cancer	breast cancer	of prostate cancer progression,	
+T-538	pathogens	pathogens	toxins	toxins	and	
+T-538	cruciferous vegetables	cruciferous vegetables	detoxifying enzymes	detoxifying enzymes	may boost our liver’s	
+T-538	vegetables	vegetables	brussels sprouts	brussels sprouts	are bok choy, broccoli, broccoli sprouts,	
+T-538	leafy vegetables	leafy vegetables	vegetables	vegetables	were related to less cognitive decline.cruciferous	
+T-538	risk	risk	cancer progression	cancer progression	of prostate	
+T-538	prostate cancer	prostate cancer	bladder cancer	bladder cancer	progression, breast cancer recurrence, and	
+T-538	prostate	prostate	bladder	bladder	cancer progression, breast cancer recurrence, and	
+T-538	broccoli	broccoli	cancer cells	cancer cells	may help reduce the spread of lung	
+T-538	cancer	cancer	garlic	garlic	prevention (along with allium family vegetables like	
+T-538	cancer	cancer	prevention	prevention		

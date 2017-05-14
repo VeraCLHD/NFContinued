@@ -1,0 +1,30 @@
+
+V-337	death	death	united states	united states	in the	
+V-337	disease	disease	death	death	—our leading causes of	
+V-337	disease	disease	cancer	cancer	or	
+V-337	screening	screening	medications	medications	and drugs like cholesterol-lowering	
+V-337	heart disease	heart disease	cancer	cancer	or	
+V-337	medications	medications	side effects	side effects	are killed by medication errors or	
+V-337	side effects	side effects	americans	americans	from prescription drugs kill an estimated 100,000	
+V-337	medical profession	medical profession	death	death	constitutes the third leading cause of	
+V-337	cancer	cancer	drugs	drugs	screening and	
+V-337	iatrogenic	iatrogenic	death	death	causes, meaning	
+V-337	medicine	medicine	death	death	the third leading cause of	
+V-337	death	death	medicine	medicine	and disability–modern	
+V-337	physicians	physicians	mortality	mortality	greeted the horrendous	
+V-337	chronic disease	chronic disease	medicine	medicine	—our leading causes of death and disability–modern	
+V-337	drugs	drugs	americans	americans	kill an estimated 100,000	
+V-337	side effects	side effects	prescription drugs	prescription drugs	from	
+V-337	screening	screening	disease	disease	and drugs like cholesterol-lowering medications to prevent	
+V-337	death	death	heart disease	heart disease	since many of those we kill also had	
+V-337	screening	screening	drugs	drugs	and	
+V-337	cancer	cancer	medications	medications	screening and drugs like cholesterol-lowering	
+V-337	chronic disease	chronic disease	death	death	—our leading causes of	
+V-337	medications	medications	disease	disease	to prevent	
+V-337	drugs	drugs	medications	medications	like cholesterol-lowering	
+V-337	cancer	cancer	disease	disease	screening and drugs like cholesterol-lowering medications to prevent	
+V-337	cancer	cancer	screening	screening		
+V-337	prescription drugs	prescription drugs	americans	americans	kill an estimated 100,000	
+V-337	drugs	drugs	disease	disease	like cholesterol-lowering medications to prevent	
+V-337	disease	disease	medicine	medicine	—our leading causes of death and disability–modern	
+V-337	side effects	side effects	drugs	drugs	from prescription	

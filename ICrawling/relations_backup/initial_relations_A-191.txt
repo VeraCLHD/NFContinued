@@ -1,0 +1,65 @@
+
+A-191	chicken	chicken	oxidation	oxidation	blood that may be contributing to fat	
+A-191	heme iron	heme iron	blood	blood	in chicken	
+A-191	risk	risk	heart attack	heart attack	of incident	
+A-191	iron	iron	fat	fat	in chicken blood that may be contributing to	
+A-191	heme iron	heme iron	fat	fat	in chicken blood that may be contributing to	
+A-191	antioxidant	antioxidant	supplements	supplements		
+A-191	antioxidant	antioxidant	disease	disease	vitamin trials have failed to reduce heart	
+A-191	iron	iron	blood	blood	in chicken	
+A-191	plants	plants	risk	risk	are associated with lower cancer	
+A-191	plant foods	plant foods	diet	diet	in one’s	
+A-191	iron	iron	fat oxidation	fat oxidation	in chicken blood that may be contributing to	
+A-191	oxidative stress	oxidative stress	arteries	arteries	in the stiffening of our	
+A-191	arteries	arteries	treatment	treatment	and suggested a potential role for ‘antioxidant’	
+A-191	antioxidant	antioxidant	diet	diet	plant foods in one’s	
+A-191	fat	fat	stomach	stomach	oxidation in the	
+A-191	whole grains	whole grains	drugs	drugs	may work as well as	
+A-191	poultry	poultry	stomach	stomach	sits in our	
+A-191	iron	iron	chicken	chicken	in	
+A-191	antioxidant	antioxidant	stroke	stroke	capacity of diet may also be protective against	
+A-191	heme iron	heme iron	fat oxidation	fat oxidation	in chicken blood that may be contributing to	
+A-191	antioxidants	antioxidants	cancer	cancer	from whole plants are associated with lower	
+A-191	plants	plants	cancer	cancer	are associated with lower	
+A-191	antioxidant	antioxidant	pills	pills		
+A-191	antioxidant	antioxidant	heart disease	heart disease	vitamin trials have failed to reduce	
+A-191	antioxidant	antioxidant	diet	diet	capacity of	
+A-191	stress	stress	arteries	arteries	in the stiffening of our	
+A-191	chicken	chicken	fat	fat	blood that may be contributing to	
+A-191	antioxidants	antioxidants	cancer	cancer	and	
+A-191	blood	blood	fat	fat	that may be contributing to	
+A-191	fat	fat	oxidation	oxidation		
+A-191	blood	blood	fat oxidation	fat oxidation	that may be contributing to	
+A-191	antioxidant	antioxidant	diet	diet	network in our	
+A-191	diet	diet	heart disease	heart disease	in relation to our leading killer, coronary	
+A-191	diet	diet	risk	risk	was statistically significantly associated with lower	
+A-191	antioxidant	antioxidant	treatment	treatment	’	
+A-191	diet	diet	drugs	drugs	and whole grains may work as well as	
+A-191	diet	diet	whole grains	whole grains	and	
+A-191	chicken	chicken	fat oxidation	fat oxidation	blood that may be contributing to	
+A-191	blood	blood	oxidation	oxidation	that may be contributing to fat	
+A-191	poultry	poultry	oxidation	oxidation	sits in our stomach, the	
+A-191	diet	diet	stroke	stroke	may also be protective against	
+A-191	death	death	heart disease	heart disease	after	
+A-191	antioxidant	antioxidant	cardiovascular disease	cardiovascular disease	’ treatment in	
+A-191	diet	diet	disease	disease	in relation to our leading killer, coronary heart	
+A-191	treatment	treatment	cardiovascular disease	cardiovascular disease	in	
+A-191	oxidation	oxidation	fat	fat	of	
+A-191	chickens	chickens	blood	blood	are bled of only about half their	
+A-191	fat oxidation	fat oxidation	stomach	stomach	in the	
+A-191	treatment	treatment	disease	disease	in cardiovascular	
+A-191	heme iron	heme iron	chicken	chicken	in	
+A-191	oxidation	oxidation	stomach	stomach	in the	
+A-191	death	death	disease	disease	after heart	
+A-191	arteries	arteries	antioxidant	antioxidant	and suggested a potential role for ‘	
+A-191	chicken	chicken	blood	blood		
+A-191	oxidative stress	oxidative stress	disease	disease	in the	
+A-191	stomach	stomach	oxidation	oxidation	may be like a “bioreactor for the	
+A-191	stroke	stroke	risk	risk		
+A-191	grains	grains	drugs	drugs	may work as well as	
+A-191	heart disease	heart disease	death	death	and	
+A-191	diet	diet	grains	grains	and whole	
+A-191	disease	disease	death	death	and	
+A-191	diet	diet	coronary heart disease	coronary heart disease	in relation to our leading killer,	
+A-191	antioxidant	antioxidant	disease	disease	’ treatment in cardiovascular	
+A-191	stress	stress	disease	disease	in the	

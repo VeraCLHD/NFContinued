@@ -1,0 +1,36 @@
+
+T-242	iron	iron	gestational diabetes	gestational diabetes	all were found to increase risks for	
+T-242	contamination	contamination	lead	lead	with methylmercury in seafood can	
+T-242	children	children	health	health	’s	
+T-242	risk	risk	epilepsy	epilepsy	factor for	
+T-242	risk	risk	birth defects	birth defects	of	
+T-242	dairy	dairy	risk	risk	and seafood, are endocrine disruptors linked to increased	
+T-242	heme iron	heme iron	diabetes	diabetes	all were found to increase risks for gestational	
+T-242	lead	lead	risk	risk	to impaired fetal brain development and is a	
+T-242	risk	risk	infertility	infertility	of birth defects and	
+T-242	alkylphenols	alkylphenols	seafood	seafood	found in meat, dairy and	
+T-242	seafood	seafood	lead	lead	can	
+T-242	omega-3 fatty acids	omega-3 fatty acids	fish	fish	in	
+T-242	endocrine disruptors	endocrine disruptors	risk	risk	 linked to increased	
+T-242	birth defects	birth defects	eczema	eczema	and infertility, as well as of	
+T-242	birth defects	birth defects	infertility	infertility	and	
+T-242	nitrites	nitrites	meat	meat	found in processed	
+T-242	alkylphenols	alkylphenols	meat	meat	found in	
+T-242	nitrites	nitrites	processed meat	processed meat	found in	
+T-242	endocrine disruptors	endocrine disruptors	birth defects	birth defects	 linked to increased risk of	
+T-242	contamination	contamination	seafood	seafood	with methylmercury in	
+T-242	carcinogen	carcinogen	des	des	 	
+T-242	endocrine disruptors	endocrine disruptors	infertility	infertility	 linked to increased risk of birth defects and	
+T-242	des	des	farm animals	farm animals	was once fed to	
+T-242	carcinogen	carcinogen	farm animals	farm animals	 des was once fed to	
+T-242	alkylphenols	alkylphenols	endocrine disruptors	endocrine disruptors	found in meat, dairy and seafood, are	
+T-242	birth defects	birth defects	allergies	allergies	and infertility, as well as of eczema, seasonal	
+T-242	fish	fish	risk	risk	cannot compensate for the	
+T-242	dairy	dairy	seafood	seafood	and	
+T-242	risk	risk	mercury	mercury	of neurological damage due to the presence of	
+T-242	heme iron	heme iron	gestational diabetes	gestational diabetes	all were found to increase risks for	
+T-242	alkylphenols	alkylphenols	dairy	dairy	found in meat,	
+T-242	dairy	dairy	endocrine disruptors	endocrine disruptors	and seafood, are	
+T-242	fat	fat	dairy	dairy		
+T-242	omega-3 fatty acids	omega-3 fatty acids	risk	risk	in fish cannot compensate for the	
+T-242	iron	iron	diabetes	diabetes	all were found to increase risks for gestational	

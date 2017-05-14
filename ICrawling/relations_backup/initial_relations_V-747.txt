@@ -1,0 +1,30 @@
+
+V-747	red wine	red wine	vinegar	vinegar		
+V-747	wine	wine	vinegar	vinegar		
+V-747	wine	wine	grapes	grapes	vinegar, apple cider vinegar—both of which,	
+V-747	apple	apple	apples	apples	cider vinegar—both of which, grapes and	
+V-747	apple cider vinegar	apple cider vinegar	grapes	grapes	—both of which,	
+V-747	apple	apple	grapes	grapes	cider vinegar—both of which,	
+V-747	wine	wine	apple cider vinegar	apple cider vinegar	vinegar,	
+V-747	apple cider vinegar	apple cider vinegar	apples	apples	—both of which, grapes and	
+V-747	wine	wine	apple	apple	vinegar,	
+V-747	red wine	red wine	apple cider vinegar	apple cider vinegar	vinegar,	
+V-747	anthocyanins	anthocyanins	blueberries	blueberries	in	
+V-747	gut	gut	flora	flora		
+V-747	red wine	red wine	grapes	grapes	vinegar, apple cider vinegar—both of which,	
+V-747	bacteria	bacteria	firmicutes	firmicutes	: bacteroidetes and	
+V-747	apple cider vinegar	apple cider vinegar	polyphenols	polyphenols	—both of which, grapes and apples, packed with	
+V-747	blueberries	blueberries	colon	colon	end up in your	
+V-747	firmicutes	firmicutes	obesity	obesity	than bacteroidetes phyla, in the case of	
+V-747	firmicutes	firmicutes	bacteria	bacteria		
+V-747	gut	gut	firmicutes	firmicutes	bacteria: bacteroidetes and	
+V-747	wine	wine	apples	apples	vinegar, apple cider vinegar—both of which, grapes and	
+V-747	gut bacteria	gut bacteria	firmicutes	firmicutes	: bacteroidetes and	
+V-747	red wine	red wine	apples	apples	vinegar, apple cider vinegar—both of which, grapes and	
+V-747	red wine	red wine	apple	apple	vinegar,	
+V-747	gut	gut	bacteria	bacteria		
+V-747	grapes	grapes	polyphenols	polyphenols	and apples, packed with	
+V-747	apple	apple	vinegar	vinegar	cider	
+V-747	grapes	grapes	apples	apples	and	
+V-747	anthocyanins	anthocyanins	colon	colon	in blueberries end up in your	
+V-747	vinegar	vinegar	weight loss	weight loss	has been recommended for thousands of years for	

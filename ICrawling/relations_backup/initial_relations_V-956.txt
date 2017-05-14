@@ -1,0 +1,50 @@
+
+V-956	nuts	nuts	seeds	seeds	and	
+V-956	dairy	dairy	milk	milk	doesn’t include soy	
+V-956	americans	americans	nutrition	nutrition	who want to improve their health and	
+V-956	meat	meat	soy	soy	(or think that dairy doesn’t include	
+V-956	agriculture	agriculture	americans	americans	: “for	
+V-956	protein	protein	meat	meat	group with	
+V-956	soy	soy	beans	beans	products, nuts and seeds, and specifically highlights	
+V-956	dairy	dairy	soy milk	soy milk	doesn’t include	
+V-956	myplate	myplate	healthy food	healthy food	—a simple reminder to make	
+V-956	dietary guidelines	dietary guidelines	americans	americans	for all of	
+V-956	meat	meat	soy milk	soy milk	(or think that dairy doesn’t include	
+V-956	usda	usda	myplate	myplate	’s new food icon,	
+V-956	americans	americans	lead	lead	to	
+V-956	soy milk	soy milk	protein	protein	), but the usda defines the	
+V-956	obama	obama	americans	americans	administration has worked to support	
+V-956	obesity	obesity	obama	obama	rates are at dangerously high levels, and the	
+V-956	americans	americans	meat	meat	might equate the protein group with	
+V-956	dairy	dairy	usda	usda	doesn’t include soy milk), but the	
+V-956	fruit	fruit	drugs	drugs	—and, random bottles of pharmaceutical	
+V-956	agriculture	agriculture	lead	lead	: “for americans to	
+V-956	soy	soy	milk	milk		
+V-956	myplate	myplate	grains	grains	symbolizes mealtime and the food groups:  fruits,	
+V-956	myplate	myplate	food pyramid	food pyramid	is a departure from the	
+V-956	meat	meat	dairy	dairy	(or think that	
+V-956	dairy	dairy	soy	soy	doesn’t include	
+V-956	protein	protein	soy	soy	group as including beans and peas,	
+V-956	usda	usda	peas	peas	defines the protein group as including beans and	
+V-956	usda	usda	beans	beans	defines the protein group as including	
+V-956	myplate	myplate	vegetables	vegetables	symbolizes mealtime and the food groups:  fruits, grains,	
+V-956	protein	protein	dairy	dairy	group with meat (or think that	
+V-956	usda	usda	protein	protein	defines the	
+V-956	beans	beans	peas	peas	and	
+V-956	beans	beans	soy	soy	and peas,	
+V-956	nuts	nuts	peas	peas	and seeds, and specifically highlights beans and	
+V-956	diet	diet	fruit	fruit	a centerpiece of	
+V-956	americans	americans	protein	protein	might equate the	
+V-956	milk	milk	usda	usda	), but the	
+V-956	nuts	nuts	beans	beans	and seeds, and specifically highlights	
+V-956	health	health	nutrition	nutrition	and	
+V-956	soy milk	soy milk	usda	usda	), but the	
+V-956	milk	milk	protein	protein	), but the usda defines the	
+V-956	meat	meat	milk	milk	(or think that dairy doesn’t include soy	
+V-956	beans	beans	seeds	seeds	and peas, soy products, nuts and	
+V-956	americans	americans	health	health	who want to improve their	
+V-956	beans	beans	nuts	nuts	and peas, soy products,	
+V-956	myplate	myplate	fruits	fruits	symbolizes mealtime and the food groups:  	
+V-956	soy	soy	protein	protein	milk), but the usda defines the	
+V-956	soy	soy	usda	usda	milk), but the	
+V-956	diet	diet	drugs	drugs	a centerpiece of fruit—and, random bottles of pharmaceutical	

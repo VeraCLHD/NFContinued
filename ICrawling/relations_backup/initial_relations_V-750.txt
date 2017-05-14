@@ -1,0 +1,29 @@
+
+V-750	juice	juice	coca cola	coca cola	has more sugar than	
+V-750	green tea	green tea	phytonutrients	phytonutrients	people that flavonoid	
+V-750	nuts	nuts	weight gain	weight gain	are calorically dense, yet don’t seem to cause	
+V-750	sugar	sugar	cola	cola	than coca	
+V-750	green tea	green tea	grape juice	grape juice	—not	
+V-750	tea	tea	phytonutrients	phytonutrients	people that flavonoid	
+V-750	sugar	sugar	water	water		
+V-750	sugar	sugar	coca cola	coca cola	than	
+V-750	sugar	sugar	diet	diet	in their	
+V-750	grape juice	grape juice	coca cola	coca cola	has more sugar than	
+V-750	juice	juice	diet	diet	on appetite,	
+V-750	juice	juice	sugar	sugar	has more	
+V-750	juice	juice	appetite	appetite	on	
+V-750	nuts	nuts	metabolism	metabolism	—their purported ability to boost	
+V-750	tea	tea	grape juice	grape juice	—not	
+V-750	grape juice	grape juice	sugar	sugar	contains the equivalent of 20 spoonfuls of	
+V-750	texas	texas	arginine	arginine	a&m folks thought it was the	
+V-750	juice	juice	cola	cola	has more sugar than coca	
+V-750	grape juice	grape juice	diet	diet	on appetite,	
+V-750	grape juice	grape juice	appetite	appetite	on	
+V-750	phytonutrients	phytonutrients	nuts	nuts	in	
+V-750	grape juice	grape juice	sugar	sugar	has more	
+V-750	phytonutrients	phytonutrients	fat oxidation	fat oxidation	are capable of increasing “thermogenesis [heat generation] and	
+V-750	tea	tea	juice	juice	—not grape	
+V-750	grape juice	grape juice	cola	cola	has more sugar than coca	
+V-750	green tea	green tea	juice	juice	—not grape	
+V-750	juice	juice	sugar	sugar	contains the equivalent of 20 spoonfuls of	
+V-750	phytonutrients	phytonutrients	fat	fat	are capable of increasing “thermogenesis [heat generation] and	

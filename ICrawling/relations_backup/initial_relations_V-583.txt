@@ -1,0 +1,50 @@
+
+V-583	fats	fats	vegetable oil	vegetable oil	by hardening	
+V-583	fat	fat	processed foods	processed foods	intake has traditionally come from	
+V-583	processed foods	processed foods	oils	oils	containing partially hydrogenated	
+V-583	trans fat	trans fat	new york city	new york city	labeling has been mandated, and places like	
+V-583	usda	usda	turkey meat	turkey meat	nutrient database, cheese, milk, yogurt, burgers, chicken fat,	
+V-583	fats	fats	oils	oils	in non-hydrogenated vegetable	
+V-583	usda	usda	cheese	cheese	nutrient database,	
+V-583	chicken	chicken	dogs	dogs	fat, turkey meat, bologna, and hot	
+V-583	fat	fat	new york city	new york city	labeling has been mandated, and places like	
+V-583	dogs	dogs	fats	fats	contain up to about 1 to 5% trans	
+V-583	usda	usda	milk	milk	nutrient database, cheese,	
+V-583	fats	fats	animal products	animal products	naturally found in	
+V-583	diet	diet	animal products	animal products	used to come from	
+V-583	usda	usda	chicken fat	chicken fat	nutrient database, cheese, milk, yogurt, burgers,	
+V-583	chicken	chicken	turkey	turkey	fat,	
+V-583	trans fats	trans fats	animal products	animal products	naturally found in	
+V-583	meat	meat	dairy	dairy	and all	
+V-583	fats	fats	fat	fat	are basically only found one place in nature—animal	
+V-583	fats	fats	disease	disease	are bad, increasing one’s risks of heart	
+V-583	usda	usda	yogurt	yogurt	nutrient database, cheese, milk,	
+V-583	turkey	turkey	meat	meat		
+V-583	turkey	turkey	dogs	dogs	meat, bologna, and hot	
+V-583	trans fats	trans fats	oils	oils	in non-hydrogenated vegetable	
+V-583	fat	fat	impatience	impatience	intake has been associated with overt aggressive behavior,	
+V-583	trans fats	trans fats	animal products	animal products	in the american diet used to come from	
+V-583	chicken	chicken	meat	meat	fat, turkey	
+V-583	fats	fats	sudden death	sudden death	are bad, increasing one’s risks of heart disease,	
+V-583	chicken	chicken	bologna	bologna	fat, turkey meat,	
+V-583	usda	usda	chicken	chicken	nutrient database, cheese, milk, yogurt, burgers,	
+V-583	usda	usda	turkey	turkey	nutrient database, cheese, milk, yogurt, burgers, chicken fat,	
+V-583	new york city	new york city	oils	oils	banned the use of partially hydrogenated	
+V-583	chicken	chicken	fat	fat		
+V-583	trans fat	trans fat	impatience	impatience	intake has been associated with overt aggressive behavior,	
+V-583	hot dogs	hot dogs	fats	fats	contain up to about 1 to 5% trans	
+V-583	fats	fats	heart disease	heart disease	are bad, increasing one’s risks of	
+V-583	processed foods	processed foods	trans fats	trans fats	containing partially hydrogenated oils, a fifth of the	
+V-583	turkey	turkey	hot dogs	hot dogs	meat, bologna, and	
+V-583	usda	usda	fat	fat	nutrient database, cheese, milk, yogurt, burgers, chicken	
+V-583	turkey	turkey	bologna	bologna	meat,	
+V-583	animal products	animal products	fats	fats	are as bad as the synthetic	
+V-583	dogs	dogs	trans fats	trans fats	contain up to about 1 to 5%	
+V-583	trans fats	trans fats	diet	diet	in the american	
+V-583	chicken	chicken	turkey meat	turkey meat	fat,	
+V-583	vegan	vegan	diet	diet		
+V-583	hot dogs	hot dogs	trans fats	trans fats	contain up to about 1 to 5%	
+V-583	usda	usda	burgers	burgers	nutrient database, cheese, milk, yogurt,	
+V-583	chicken	chicken	hot dogs	hot dogs	fat, turkey meat, bologna, and	
+V-583	trans fat	trans fat	processed foods	processed foods	intake has traditionally come from	
+V-583	fats	fats	animal fat	animal fat	are basically only found one place in nature—	

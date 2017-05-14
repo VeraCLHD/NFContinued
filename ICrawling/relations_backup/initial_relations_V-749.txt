@@ -1,0 +1,9 @@
+
+V-749	bacteria	bacteria	gut	gut	in their	
+V-749	obesity	obesity	plant-based	plant-based	is so rare among those eating	
+V-749	plants	plants	mitochondria	mitochondria	inside the	
+V-749	plants	plants	fiber	fiber	have	
+V-749	pollutants	pollutants	meat	meat	in the	
+V-749	obesity	obesity	plant-based diets	plant-based diets	is so rare among those eating	
+V-749	virus	virus	poultry	poultry	in	
+V-749	industrial pollutants	industrial pollutants	meat	meat	in the	

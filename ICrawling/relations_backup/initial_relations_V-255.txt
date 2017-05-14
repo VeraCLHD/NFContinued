@@ -1,0 +1,50 @@
+
+V-255	americans	americans	chocolate	chocolate	who eat	
+V-255	exercise	exercise	vegetables	vegetables	more, or eat more fruits and	
+V-255	calories	calories	strawberries	strawberries	of chocolate, compared to 100 calories of	
+V-255	whole grains	whole grains	grains	grains	—	
+V-255	calories	calories	chocolate	chocolate	of	
+V-255	chocolate	chocolate	weight gain	weight gain	is	
+V-255	lentils	lentils	seeds	seeds	are all	
+V-255	physical activity	physical activity	diet	diet	and	
+V-255	milk	milk	chocolate	chocolate		
+V-255	sugar	sugar	cocoa	cocoa	or fat by, for example, adding	
+V-255	phytochemicals	phytochemicals	dna	dna	to protect the seedling plant’s	
+V-255	risk	risk	chocolate	chocolate	of cardiovascular disease.of course, much of	
+V-255	phytochemicals	phytochemicals	free radicals	free radicals	to protect the seedling plant’s dna from	
+V-255	cocoa	cocoa	calories	calories	has hardly any	
+V-255	fruits	fruits	seeds	seeds	with one or two	
+V-255	seeds	seeds	plants	plants	are small embryonic	
+V-255	whole grains	whole grains	seeds	seeds	—grains are	
+V-255	chocolate	chocolate	fat	fat	without any sugar or	
+V-255	sugar	sugar	fat	fat	and saturated	
+V-255	vitamins	vitamins	phytochemicals	phytochemicals	and minerals and	
+V-255	chocolate	chocolate	jazz	jazz	more when listening to	
+V-255	cocoa	cocoa	chocolate	chocolate	has hardly any calories,	
+V-255	fruits	fruits	vegetables	vegetables	and	
+V-255	plants	plants	risk	risk	is associated with lower	
+V-255	cocoa	cocoa	beans	beans	and coffee	
+V-255	nuts	nuts	fruits	fruits	are just dry	
+V-255	chocolate	chocolate	weight gain	weight gain	habit was associated with long-term	
+V-255	fat	fat	cocoa	cocoa	by, for example, adding	
+V-255	grains	grains	seeds	seeds	—grains are	
+V-255	sugar	sugar	saturated fat	saturated fat	and	
+V-255	minerals	minerals	dna	dna	and phytochemicals to protect the seedling plant’s	
+V-255	dna	dna	free radicals	free radicals	from	
+V-255	chocolate	chocolate	sugar	sugar	without any	
+V-255	cocoa	cocoa	doctors	doctors	powder to a smoothie, but too often	
+V-255	nuts	nuts	seeds	seeds	are just dry fruits with one or two	
+V-255	exercise	exercise	fruits	fruits	more, or eat more	
+V-255	sugar	sugar	fat	fat	or	
+V-255	cocoa	cocoa	saturated fat	saturated fat	products are high in sugar and	
+V-255	cocoa	cocoa	coffee	coffee	and	
+V-255	vitamins	vitamins	minerals	minerals	and	
+V-255	sugar	sugar	physicians	physicians	and saturated fat, family	
+V-255	cocoa	cocoa	sugar	sugar	products are high in	
+V-255	cocoa	cocoa	fat	fat	products are high in sugar and saturated	
+V-255	physicians	physicians	cocoa	cocoa	should refrain from recommending	
+V-255	chocolate	chocolate	health	health	provides	
+V-255	coffee	coffee	beans	beans		
+V-255	minerals	minerals	phytochemicals	phytochemicals	and	
+V-255	lentils	lentils	cocoa	cocoa	are all seeds, too, as well as	
+V-255	women	women	chocolate	chocolate	they studied in san diego, those who consumed	

@@ -1,0 +1,67 @@
+
+V-198	physicians	physicians	heart disease	heart disease	under-report ischemic	
+V-198	heart attack	heart attack	saturated fat	saturated fat	versus the amount of	
+V-198	finland	finland	france	france	seemed to be doing worse than expected, and	
+V-198	cancer	cancer	lung cancer	lung cancer	tomorrow, it wouldn’t mean smoking doesn’t cause	
+V-198	dairy	dairy	death	death	low enough, we could bring coronary	
+V-198	coronary heart disease	coronary heart disease	mortality	mortality		
+V-198	animal foods	animal foods	coronary heart disease	coronary heart disease	were associated with	
+V-198	lung cancer	lung cancer	smoking	smoking	tomorrow, it wouldn’t mean	
+V-198	heart disease	heart disease	death	death	deaths on the	
+V-198	coronary heart disease	coronary heart disease	plant foods	plant foods	mortality, but	
+V-198	animal fat	animal fat	france	france	and cholesterol levels at the time,	
+V-198	animal fat	animal fat	cholesterol	cholesterol	and death versus	
+V-198	fat	fat	cholesterol	cholesterol	and death versus	
+V-198	fat	fat	france	france	and cholesterol levels at the time,	
+V-198	physicians	physicians	ischemic heart disease	ischemic heart disease	under-report	
+V-198	death	death	fat	fat	from heart attack versus the amount of saturated	
+V-198	saturated fat	saturated fat	finland	finland	and cholesterol intake similar to	
+V-198	vegetables	vegetables	death	death	helps account for their lower	
+V-198	disease	disease	death	death	deaths on the	
+V-198	cancer	cancer	smoking	smoking	tomorrow, it wouldn’t mean	
+V-198	france	france	cholesterol	cholesterol	have saturated fat and	
+V-198	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-198	france	france	fat	fat	have saturated	
+V-198	smoking	smoking	lung cancer	lung cancer	today and found no measurable increase in	
+V-198	animal foods	animal foods	mortality	mortality	were associated with coronary heart disease	
+V-198	health	health	france	france	organization investigation.so, if you correct for that, then,	
+V-198	japan	japan	animal fat	animal fat	decades after four times the	
+V-198	cholesterol	cholesterol	france	france	levels at the time,	
+V-198	fat	fat	death	death	and	
+V-198	physicians	physicians	death	death	under-report ischemic heart disease deaths on the	
+V-198	death	death	cholesterol	cholesterol	rates to the amount of animal fat and	
+V-198	animal foods	animal foods	plant foods	plant foods	were associated with coronary heart disease mortality, but	
+V-198	animal foods	animal foods	death	death	populations eat, the higher their	
+V-198	france	france	finland	finland	have saturated fat and cholesterol intake similar to	
+V-198	death	death	heart attack	heart attack	from	
+V-198	france	france	saturated fat	saturated fat	have	
+V-198	heart disease	heart disease	plant foods	plant foods	mortality, but	
+V-198	cholesterol	cholesterol	finland	finland	intake similar to	
+V-198	japan	japan	fat	fat	decades after four times the animal	
+V-198	smoking	smoking	lung cancer	lung cancer	doesn’t cause	
+V-198	ischemic heart disease	ischemic heart disease	death	death	deaths on the	
+V-198	heart attack	heart attack	animal fat	animal fat	rates as japan decades after four times the	
+V-198	heart attack	heart attack	japan	japan	rates as	
+V-198	lung cancer	lung cancer	cancer	cancer	tomorrow, it wouldn’t mean smoking doesn’t cause lung	
+V-198	death	death	fat	fat	rates to the amount of animal	
+V-198	fat	fat	cholesterol	cholesterol	and	
+V-198	heart attack	heart attack	fat	fat	versus the amount of saturated	
+V-198	heart attack	heart attack	cholesterol	cholesterol	versus the amount of saturated fat and	
+V-198	cancer	cancer	cancer	cancer	tomorrow, it wouldn’t mean smoking doesn’t cause lung	
+V-198	cholesterol	cholesterol	heart attack	heart attack	lines, with about four times the fatal	
+V-198	disease	disease	mortality	mortality		
+V-198	animal fat	animal fat	cholesterol	cholesterol	and	
+V-198	animal fat	animal fat	death	death	and	
+V-198	death	death	saturated fat	saturated fat	from heart attack versus the amount of	
+V-198	physicians	physicians	disease	disease	under-report ischemic heart	
+V-198	fat	fat	finland	finland	and cholesterol intake similar to	
+V-198	world health organization	world health organization	france	france	investigation.so, if you correct for that, then,	
+V-198	animal foods	animal foods	heart disease	heart disease	were associated with coronary	
+V-198	smoking	smoking	cancer	cancer	today and found no measurable increase in lung	
+V-198	france	france	death	death	does seem unusually protected, and if you compare	
+V-198	disease	disease	plant foods	plant foods	mortality, but	
+V-198	heart disease	heart disease	mortality	mortality		
+V-198	death	death	animal fat	animal fat	rates to the amount of	
+V-198	france	france	death	death	basically comes right back in line with the	
+V-198	smoking	smoking	cancer	cancer	doesn’t cause lung	
+V-198	animal foods	animal foods	disease	disease	were associated with coronary heart	

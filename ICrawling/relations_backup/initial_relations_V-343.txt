@@ -1,0 +1,44 @@
+
+V-343	vegetarian	vegetarian	mortality	mortality	diets associated with lower all-cause	
+V-343	junk food	junk food	animal fat	animal fat	and	
+V-343	stroke	stroke	meat	meat	) was significantly lower in those eating	
+V-343	breast cancer	breast cancer	cancer	cancer	in japan or from prostate	
+V-343	death	death	japan	japan	from breast cancer in	
+V-343	cancer	cancer	prostate cancer	prostate cancer	in japan or from	
+V-343	disease	disease	risk	risk		
+V-343	chronic disease	chronic disease	risk	risk		
+V-343	mortality	mortality	ischemic heart disease	ischemic heart disease	from all causes put together,	
+V-343	death	death	prostate cancer	prostate cancer	from breast cancer in japan or from	
+V-343	cancer	cancer	risk	risk		
+V-343	risk	risk	diet	diet	with a healthier	
+V-343	disease	disease	diet	diet	risk with a healthier	
+V-343	japan	japan	cancer	cancer	or from prostate	
+V-343	prostate	prostate	cancer	cancer		
+V-343	mortality	mortality	colon	colon	rates of breast,	
+V-343	americans	americans	vegetarian	vegetarian	eating plant-based diets, which found	
+V-343	breast cancer	breast cancer	japan	japan	in	
+V-343	mortality	mortality	prostate	prostate	rates of breast, colon, and	
+V-343	china	china	cancer	cancer	to the u.s. experience a dramatic increase in	
+V-343	junk food	junk food	fat	fat	and animal	
+V-343	americans	americans	plant-based diets	plant-based diets	eating	
+V-343	death	death	breast cancer	breast cancer	from	
+V-343	meat	meat	risk	risk	had lower	
+V-343	meat	meat	cancer	cancer	-free diets, in addition to less	
+V-343	breast cancer	breast cancer	prostate cancer	prostate cancer	in japan or from	
+V-343	junk food	junk food	fruits	fruits	and animal fat, and eat more	
+V-343	cancer	cancer	japan	japan	in	
+V-343	cancer	cancer	cancer	cancer	in japan or from prostate	
+V-343	cancer	cancer	prostate	prostate	in japan or from	
+V-343	death	death	prostate	prostate	from breast cancer in japan or from	
+V-343	death	death	cancer	cancer	from breast	
+V-343	americans	americans	plant-based	plant-based	eating	
+V-343	plant-based	plant-based	vegetarian	vegetarian	diets, which found	
+V-343	japan	japan	prostate	prostate	or from	
+V-343	cancer	cancer	tumors	tumors	risk, but	
+V-343	mortality	mortality	disease	disease	from all causes put together, ischemic heart	
+V-343	mortality	mortality	heart disease	heart disease	from all causes put together, ischemic	
+V-343	breast cancer	breast cancer	prostate	prostate	in japan or from	
+V-343	chronic disease	chronic disease	diet	diet	risk with a healthier	
+V-343	fruits	fruits	vegetables	vegetables	and	
+V-343	junk food	junk food	vegetables	vegetables	and animal fat, and eat more fruits and	
+V-343	japan	japan	prostate cancer	prostate cancer	or from	

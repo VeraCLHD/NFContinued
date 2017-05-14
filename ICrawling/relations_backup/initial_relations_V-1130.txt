@@ -1,0 +1,10 @@
+
+V-1130	arsenic	arsenic	environment	environment	found naturally in the	
+V-1130	broccoli	broccoli	garlic	garlic	in	
+V-1130	plants	plants	arsenic	arsenic	grown in waterlogged soil can absorb	
+V-1130	asian	asian	rice	rice	- or european-grown	
+V-1130	arsenic	arsenic	rice	rice	levels than asian- or european-grown	
+V-1130	arsenic	arsenic	asian	asian	levels than	
+V-1130	brown rice	brown rice	rice	rice	is so good for you, and white	
+V-1130	brown rice	brown rice	rice	rice	in your	
+V-1130	brown rice	brown rice	rice	rice	to make white	

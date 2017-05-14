@@ -1,0 +1,29 @@
+
+V-6	smoking	smoking	lung cancer	lung cancer	and	
+V-6	doctors	doctors	health	health	hold a professional monopoly on	
+V-6	lung cancer	lung cancer	smoking	smoking	and	
+V-6	breakfast	breakfast	dietary guidelines	dietary guidelines	buffets at the	
+V-6	cdc	cdc	surgery	surgery	encourages people not to “wait for open heart	
+V-6	medicine	medicine	tobacco	tobacco	’s “meat is the new	
+V-6	health	health	meat	meat	defense,” or “nourishing bacon,” or doctors prescribing	
+V-6	cancer	cancer	smoking	smoking	and	
+V-6	american medical association	american medical association	plant-based	plant-based	journal of ethics, “	
+V-6	doctors	doctors	soda	soda	prescribing meat, or	
+V-6	doctors	doctors	meat	meat	prescribing	
+V-6	vegetarian	vegetarian	diet	diet	researchers come forward and list their	
+V-6	smoking	smoking	cancer	cancer	and lung	
+V-6	nutrition	nutrition	diet	diet	class, or cleans up their own	
+V-6	academy of nutrition and dietetics	academy of nutrition and dietetics	kids	kids	“	
+V-6	cigarettes	cigarettes	lung cancer	lung cancer	and	
+V-6	health	health	bacon	bacon	defense,” or “nourishing	
+V-6	cigarettes	cigarettes	cancer	cancer	and lung	
+V-6	nutrition	nutrition	kids	kids	and dietetics “	
+V-6	meat	meat	doctors	doctors	…for health defense,” or “nourishing bacon,” or	
+V-6	meat	meat	health	health	…for	
+V-6	meat	meat	tobacco	tobacco	is the new	
+V-6	medicine	medicine	meat	meat	’s “	
+V-6	dogs	dogs	american heart association	american heart association	certified by the	
+V-6	american medical association	american medical association	plant-based diets	plant-based diets	journal of ethics, “	
+V-6	meat	meat	bacon	bacon	…for health defense,” or “nourishing	
+V-6	health	health	doctors	doctors	defense,” or “nourishing bacon,” or	
+V-6	hot dogs	hot dogs	american heart association	american heart association	certified by the	

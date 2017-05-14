@@ -1,0 +1,16 @@
+
+V-870	blood	blood	meat	meat	iron that’s found in	
+V-870	meat	meat	cancer	cancer	consumption were adhered to, sure,	
+V-870	meat	meat	processed meat	processed meat	and cancer is so strong—particularly	
+V-870	blood	blood	iron	iron		
+V-870	cancer	cancer	meat	meat	institute recommendations to reduce	
+V-870	meat	meat	cancer	cancer	and	
+V-870	processed meat	processed meat	meat	meat	—a new article in the journal 	
+V-870	cancer	cancer	meat	meat	is so strong—particularly processed	
+V-870	cancer	cancer	meat	meat	incidence may be reduced—but farmers and the	
+V-870	cancer	cancer	processed meat	processed meat	is so strong—particularly	
+V-870	national cancer institute	national cancer institute	meat	meat	recommendations to reduce	
+V-870	colon	colon	meat	meat	cancer, because evidently avoiding	
+V-870	farmers	farmers	meat	meat	and the	
+V-870	colon	colon	cancer	cancer		
+V-870	farmers	farmers	meat industry	meat industry	and the	

@@ -1,0 +1,18 @@
+
+V-1081	diet	diet	plant-based	plant-based	is best—but what kind of	
+V-1081	meat	meat	risk	risk	cut their	
+V-1081	plant-based diet	plant-based diet	diet	diet	is best—but what kind of plant-based	
+V-1081	plant-based diet	plant-based diet	plant-based	plant-based	is best—but what kind of	
+V-1081	vegan	vegan	fat	fat	diets—there are those pushing very low	
+V-1081	plant-based	plant-based	plant-based diet	plant-based diet	diet is best—but what kind of	
+V-1081	diet	diet	meat	meat	that minimizes	
+V-1081	risk	risk	dairy	dairy	of our #1 killer in half, and those who eliminated	
+V-1081	plant-based	plant-based	diet	diet		
+V-1081	meat	meat	diet	diet	-, dairy- and egg-free	
+V-1081	dairy	dairy	eggs	eggs	and	
+V-1081	diet	diet	plant-based diet	plant-based diet	is best—but what kind of	
+V-1081	dairy	dairy	diet	diet	- and egg-free	
+V-1081	egg-free	egg-free	diet	diet		
+V-1081	dairy	dairy	egg-free	egg-free	- and	
+V-1081	meat	meat	risk	risk	cut out a quarter of their	
+V-1081	vegan diets	vegan diets	fat	fat	—there are those pushing very low	

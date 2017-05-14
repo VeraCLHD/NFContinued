@@ -1,0 +1,30 @@
+
+V-442	drugs	drugs	blood pressure	blood pressure	that do the same thing can raise	
+V-442	plants	plants	vegetables	vegetables	—] fruits,	
+V-442	treatment	treatment	genital warts	genital warts	of	
+V-442	plants	plants	fruits	fruits	—]	
+V-442	plants	plants	beans	beans	—] fruits, vegetables, spices, [	
+V-442	curcumin	curcumin	turmeric	turmeric	is an extract of	
+V-442	treatment	treatment	inflammatory bowel disease	inflammatory bowel disease	of	
+V-442	tea	tea	treatment	treatment	ointment as a prescription drug for the	
+V-442	treatment	treatment	disease	disease	of inflammatory bowel	
+V-442	plants	plants	grains	grains	—] fruits, vegetables, spices, [beans], and	
+V-442	blood	blood	turmeric	turmeric	pressure, but the reason	
+V-442	beans	beans	grains	grains	], and	
+V-442	patent	patent	fda	fda	it, get	
+V-442	green tea	green tea	treatment	treatment	ointment as a prescription drug for the	
+V-442	margin of safety	margin of safety	turmeric	turmeric	with	
+V-442	pain	pain	blood	blood	relief, but can act as a	
+V-442	fda	fda	tea	tea	approved a green	
+V-442	anti-inflammatory	anti-inflammatory	skin	skin	that it may even work through the	
+V-442	calcium	calcium	blood pressure	blood pressure	channel-blocking effects that may actually lower	
+V-442	chronic diseases	chronic diseases	affordability	affordability	[not only] because of their safety,	
+V-442	grains	grains	chronic diseases	chronic diseases	—have been preferred as potential therapeutics for most	
+V-442	fda	fda	green tea	green tea	approved a	
+V-442	drugs	drugs	blood	blood	that do the same thing can raise	
+V-442	variety	variety	inflammatory diseases	inflammatory diseases	of]	
+V-442	treatment	treatment	warts	warts	of genital	
+V-442	inflammation	inflammation	pain	pain	and offer	
+V-442	calcium	calcium	blood	blood	channel-blocking effects that may actually lower	
+V-442	plants	plants	spices	spices	—] fruits, vegetables,	
+V-442	plant-based	plant-based	aspirin	aspirin	drug is	

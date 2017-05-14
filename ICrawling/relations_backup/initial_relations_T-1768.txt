@@ -1,0 +1,75 @@
+
+T-1768	fructose	fructose	beverages	beverages	corn syrup added to foods and	
+T-1768	liver	liver	hypertension	hypertension	toxicity, kidney damage, impairment of arterial function,	
+T-1768	insulin	insulin	side effects	side effects	release as sugar.there appear to be no adverse	
+T-1768	sugar	sugar	molasses	molasses	and	
+T-1768	cranberry	cranberry	sugar	sugar	juice and cheerios have added	
+T-1768	protein	protein	insulin	insulin	may cause as much	
+T-1768	meat	meat	protein	protein		
+T-1768	bad cholesterol	bad cholesterol	dark chocolate	dark chocolate	and boosting good cholesterol, as	
+T-1768	liver	liver	obesity	obesity	toxicity, kidney damage, impairment of arterial function, hypertension,	
+T-1768	sugar	sugar	corn	corn	and high fructose	
+T-1768	dark chocolate	dark chocolate	bad cholesterol	bad cholesterol	for reducing	
+T-1768	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
+T-1768	cheerios	cheerios	sugar	sugar	have added	
+T-1768	high fructose corn syrup	high fructose corn syrup	mercury	mercury	may even contain 	
+T-1768	corn syrup	corn syrup	beverages	beverages	added to foods and	
+T-1768	apple	apple	sugar	sugar	juice, may have the same deleterious effects as	
+T-1768	bad cholesterol	bad cholesterol	chocolate	chocolate	and boosting good cholesterol, as dark	
+T-1768	lead	lead	liver	liver	to	
+T-1768	dark chocolate	dark chocolate	cholesterol	cholesterol	for reducing bad	
+T-1768	juice	juice	sugar	sugar	 and cheerios have added	
+T-1768	fruit	fruit	apple juice	apple juice	juice, like	
+T-1768	date sugar	date sugar	molasses	molasses	and	
+T-1768	fructose	fructose	corn syrup	corn syrup		
+T-1768	cranberry	cranberry	cheerios	cheerios	juice and 	
+T-1768	kidney	kidney	obesity	obesity	damage, impairment of arterial function, hypertension,	
+T-1768	cranberry juice	cranberry juice	sugar	sugar	 and cheerios have added	
+T-1768	chocolate	chocolate	bad cholesterol	bad cholesterol	for reducing	
+T-1768	high fructose corn syrup	high fructose corn syrup	beverages	beverages	added to foods and	
+T-1768	cholesterol	cholesterol	chocolate	chocolate	and boosting good cholesterol, as dark	
+T-1768	bad cholesterol	bad cholesterol	cholesterol	cholesterol	and boosting good	
+T-1768	hyperactivity	hyperactivity	sugar	sugar	 in children.the	
+T-1768	disease	disease	cardiovascular disease	cardiovascular disease	and	
+T-1768	world health organization	world health organization	sweeteners	sweeteners	’s guidelines  and the u.s. dietary guidelines.artificial	
+T-1768	fructose	fructose	corn	corn		
+T-1768	phytonutrients	phytonutrients	fruit	fruit	in	
+T-1768	liver	liver	kidney	kidney	toxicity,	
+T-1768	carbohydrates	carbohydrates	rice	rice	like	
+T-1768	cholesterol	cholesterol	sugar	sugar	and boosting good cholesterol, as dark chocolate contains	
+T-1768	fruit	fruit	fructose	fructose	may slow the release of naturally occurring	
+T-1768	health	health	sugar	sugar	-promoting foods.	
+T-1768	fruit	fruit	apple	apple	juice, like	
+T-1768	carbohydrates	carbohydrates	insulin	insulin	like rice, a significantly increased surge of	
+T-1768	kidney	kidney	prediabetes	prediabetes	damage, impairment of arterial function, hypertension, obesity,	
+T-1768	side effects	side effects	fruit	fruit	of eating too much whole	
+T-1768	corn	corn	mercury	mercury	syrup may even contain 	
+T-1768	cocoa	cocoa	chocolate	chocolate	powder appears to be a better choice than dark	
+T-1768	hyperactivity	hyperactivity	sugar association	sugar association	 in children.the	
+T-1768	fiber	fiber	fruit	fruit	in	
+T-1768	nutrition	nutrition	sugar	sugar	(see date	
+T-1768	sugar	sugar	fructose	fructose	and high	
+T-1768	lead	lead	kidney	kidney	to liver toxicity,	
+T-1768	corn	corn	beverages	beverages	syrup added to foods and	
+T-1768	kidney	kidney	diabetes	diabetes	damage, impairment of arterial function, hypertension, obesity, prediabetes,	
+T-1768	americans	americans	sugar	sugar	consume about 160 pounds of	
+T-1768	apple	apple	juice	juice		
+T-1768	cranberry juice	cranberry juice	cheerios	cheerios	 and 	
+T-1768	nutrition	nutrition	date sugar	date sugar	(see	
+T-1768	cranberry	cranberry	juice	juice		
+T-1768	sweeteners	sweeteners	health	health	introduce other, sometimes significant,	
+T-1768	chocolate	chocolate	cholesterol	cholesterol	for reducing bad	
+T-1768	kidney	kidney	hypertension	hypertension	damage, impairment of arterial function,	
+T-1768	cocoa	cocoa	dark chocolate	dark chocolate	powder appears to be a better choice than	
+T-1768	juice	juice	cheerios	cheerios	 and 	
+T-1768	nutrition	nutrition	molasses	molasses	(see date sugar and	
+T-1768	fructose	fructose	mercury	mercury	corn syrup may even contain 	
+T-1768	bad cholesterol	bad cholesterol	sugar	sugar	and boosting good cholesterol, as dark chocolate contains	
+T-1768	kidney disease	kidney disease	disease	disease	and cardiovascular	
+T-1768	cholesterol	cholesterol	dark chocolate	dark chocolate	and boosting good cholesterol, as	
+T-1768	meat	meat	insulin	insulin	protein may cause as much	
+T-1768	corn syrup	corn syrup	mercury	mercury	may even contain 	
+T-1768	sugar	sugar	corn syrup	corn syrup	and high fructose	
+T-1768	fruit	fruit	juice	juice		
+T-1768	kidney disease	kidney disease	cardiovascular disease	cardiovascular disease	and	
+T-1768	meat	meat	carbohydrates	carbohydrates	is consumed with added sugars or other	

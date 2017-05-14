@@ -1,0 +1,25 @@
+
+V-909	fruit	fruit	berries	berries	known was goji	
+V-909	antioxidant	antioxidant	berries	berries	-packed dried fruit known was goji	
+V-909	dried fruit	dried fruit	goji berries	goji berries	known was	
+V-909	berries	berries	dried fruit	dried fruit	were getting complacent, a newly available	
+V-909	dried fruit	dried fruit	goji	goji	known was	
+V-909	antioxidant	antioxidant	dried fruit	dried fruit	-packed	
+V-909	goji	goji	berries	berries		
+V-909	dried fruit	dried fruit	pomegranate	pomegranate	has pulled ahead; dried	
+V-909	fruit	fruit	goji berries	goji berries	known was	
+V-909	fruit	fruit	seeds	seeds	has pulled ahead; dried pomegranate	
+V-909	goji berries	goji berries	dried fruit	dried fruit	were getting complacent, a newly available	
+V-909	antioxidant	antioxidant	goji	goji	-packed dried fruit known was	
+V-909	phytonutrients	phytonutrients	blueberries	blueberries	in	
+V-909	antioxidant	antioxidant	fruit	fruit	-packed dried	
+V-909	antioxidant	antioxidant	goji berries	goji berries	-packed dried fruit known was	
+V-909	goji	goji	fruit	fruit	berries were getting complacent, a newly available dried	
+V-909	goji	goji	dried fruit	dried fruit	berries were getting complacent, a newly available	
+V-909	dried fruit	dried fruit	berries	berries	known was goji	
+V-909	dried fruit	dried fruit	seeds	seeds	has pulled ahead; dried pomegranate	
+V-909	fruit	fruit	goji	goji	known was	
+V-909	goji berries	goji berries	fruit	fruit	were getting complacent, a newly available dried	
+V-909	fruit	fruit	pomegranate	pomegranate	has pulled ahead; dried	
+V-909	pomegranate	pomegranate	seeds	seeds		
+V-909	berries	berries	fruit	fruit	were getting complacent, a newly available dried	

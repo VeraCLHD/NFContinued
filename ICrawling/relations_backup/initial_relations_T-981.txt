@@ -1,0 +1,25 @@
+
+T-981	inflammation	inflammation	heart disease	heart disease	such as	
+T-981	supplements	supplements	zinc	zinc	and nasal	
+T-981	inflammation	inflammation	arthritis	arthritis	such as heart disease, cancer, obesity, and	
+T-981	meat	meat	pregnancy	pregnancy	during	
+T-981	allergies	allergies	infections	infections	and parasitic brain	
+T-981	plant-based	plant-based	chicken	chicken	diet, whereas	
+T-981	inflammation	inflammation	cancer	cancer	such as heart disease,	
+T-981	plant-based	plant-based	diet	diet		
+T-981	chronic diseases	chronic diseases	cancer	cancer	associated with inflammation such as heart disease,	
+T-981	chronic diseases	chronic diseases	inflammation	inflammation	associated with	
+T-981	chronic diseases	chronic diseases	heart disease	heart disease	associated with inflammation such as	
+T-981	immune system	immune system	exercise	exercise	benefits from adequate sleep,	
+T-981	plant-based	plant-based	eggs	eggs	diet, whereas chicken and	
+T-981	pregnancy	pregnancy	allergies	allergies	may prevent childhood	
+T-981	chicken	chicken	eggs	eggs	and	
+T-981	chronic diseases	chronic diseases	obesity	obesity	associated with inflammation such as heart disease, cancer,	
+T-981	meat	meat	allergies	allergies	during pregnancy may prevent childhood	
+T-981	inflammation	inflammation	obesity	obesity	such as heart disease, cancer,	
+T-981	chronic diseases	chronic diseases	disease	disease	associated with inflammation such as heart	
+T-981	immune system	immune system	sleep	sleep	benefits from adequate	
+T-981	kale	kale	cinnamon	cinnamon	(see also here), and ceylon	
+T-981	kale	kale	ceylon cinnamon	ceylon cinnamon	(see also here), and	
+T-981	inflammation	inflammation	disease	disease	such as heart	
+T-981	pregnancy	pregnancy	infections	infections	may prevent childhood allergies and parasitic brain	

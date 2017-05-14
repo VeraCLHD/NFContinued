@@ -1,0 +1,47 @@
+
+V-1259	milk	milk	pesticides	pesticides	is saturated butterfat, cholesterol, lactose, and antibiotics,	
+V-1259	dairy cows	dairy cows	pus	pus	are, because of pasteurization; it’s cooked	
+V-1259	vegetables	vegetables	broccoli	broccoli	like kale,	
+V-1259	manure	manure	pasteurization	pasteurization	.when scientists test	
+V-1259	diet	diet	dairy	dairy	is	
+V-1259	calcium	calcium	leafy vegetables	leafy vegetables	in dark green	
+V-1259	calcium	calcium	vegetables	vegetables	in dark green leafy	
+V-1259	cows	cows	pasteurization	pasteurization	are, because of	
+V-1259	calcium	calcium	lactose	lactose	in milk is saturated butterfat, cholesterol,	
+V-1259	milk	milk	calcium	calcium	represents a substantial source of	
+V-1259	calcium	calcium	antibiotics	antibiotics	in milk is saturated butterfat, cholesterol, lactose, and	
+V-1259	dairy	dairy	pus	pus	cows are, because of pasteurization; it’s cooked	
+V-1259	mothers	mothers	milk	milk	’	
+V-1259	leafy vegetables	leafy vegetables	bok choy	bok choy	like kale, broccoli, and	
+V-1259	calcium	calcium	diet	diet	in the american	
+V-1259	milk	milk	calcium	calcium	to them.the	
+V-1259	calcium	calcium	broccoli	broccoli	in dark green leafy vegetables like kale,	
+V-1259	cows	cows	milk	milk	] were used to contaminate raw	
+V-1259	eggs	eggs	meat	meat	 and	
+V-1259	fat	fat	dairy	dairy	is also	
+V-1259	dairy cows	dairy cows	pasteurization	pasteurization	are, because of	
+V-1259	calcium	calcium	dairy	dairy	in the american diet is	
+V-1259	leafy vegetables	leafy vegetables	kale	kale	like	
+V-1259	cheese	cheese	milk	milk	—one with high-pus	
+V-1259	calcium	calcium	milk	milk	in	
+V-1259	mothers	mothers	leafy vegetables	leafy vegetables	’ milk to them.the calcium in dark green	
+V-1259	calcium	calcium	kale	kale	in dark green leafy vegetables like	
+V-1259	milk	milk	cholesterol	cholesterol	is saturated butterfat,	
+V-1259	vegetables	vegetables	bok choy	bok choy	like kale, broccoli, and	
+V-1259	milk	milk	pus	pus	is saturated butterfat, cholesterol, lactose, and antibiotics, pesticides,	
+V-1259	mothers	mothers	calcium	calcium	’ milk to them.the	
+V-1259	milk	milk	lactose	lactose	is saturated butterfat, cholesterol,	
+V-1259	raw	raw	milk	milk		
+V-1259	leafy vegetables	leafy vegetables	broccoli	broccoli	like kale,	
+V-1259	milk	milk	antibiotics	antibiotics	is saturated butterfat, cholesterol, lactose, and	
+V-1259	dairy	dairy	cows	cows		
+V-1259	pus	pus	cheese	cheese	”	
+V-1259	milk	milk	vegetables	vegetables	to them.the calcium in dark green leafy	
+V-1259	cows	cows	pus	pus	are, because of pasteurization; it’s cooked	
+V-1259	vegetables	vegetables	kale	kale	like	
+V-1259	dairy	dairy	pasteurization	pasteurization	cows are, because of	
+V-1259	saturated fat	saturated fat	dairy	dairy	is also	
+V-1259	milk	milk	leafy vegetables	leafy vegetables	to them.the calcium in dark green	
+V-1259	cows	cows	raw	raw	] were used to contaminate	
+V-1259	calcium	calcium	cholesterol	cholesterol	in milk is saturated butterfat,	
+V-1259	bok choy	bok choy	calcium	calcium	is absorbed about twice as well as the	

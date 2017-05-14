@@ -1,0 +1,31 @@
+
+T-1099	lignans	lignans	wine	wine	are an anticancer plant compound found in red	
+T-1099	diet	diet	lignans	lignans	rich in animal products.	
+T-1099	psa	psa	prostate	prostate	levels (biomarker of	
+T-1099	plant-based	plant-based	lignans	lignans	diet will most likely consume more	
+T-1099	risk	risk	breast cancer	breast cancer	of	
+T-1099	risk	risk	cancer	cancer	of breast	
+T-1099	prostate	prostate	cholesterol	cholesterol	cancer), decreased cell growth, and decreased	
+T-1099	plant-based	plant-based	diet	diet		
+T-1099	psa	psa	cancer	cancer	levels (biomarker of prostate	
+T-1099	seeds	seeds	flaxseeds	flaxseeds	and	
+T-1099	lignans	lignans	cancer	cancer	may improve survival rate with breast	
+T-1099	prostate	prostate	cancer	cancer		
+T-1099	breast cancer	breast cancer	mortality	mortality	and cut	
+T-1099	lignans	lignans	prostate cancer	prostate cancer	found in flaxseeds may slow the growth of	
+T-1099	lignans	lignans	flaxseeds	flaxseeds	found in	
+T-1099	lignans	lignans	prostate	prostate	found in flaxseeds may slow the growth of	
+T-1099	prostate cancer	prostate cancer	cholesterol	cholesterol	), decreased cell growth, and decreased	
+T-1099	lignans	lignans	diet	diet	on a daily basis than those eating a	
+T-1099	lignans	lignans	breast cancer	breast cancer	may improve survival rate with	
+T-1099	cancer	cancer	cholesterol	cholesterol	), decreased cell growth, and decreased	
+T-1099	sesame seeds	sesame seeds	flaxseeds	flaxseeds	and	
+T-1099	flaxseeds	flaxseeds	cancer	cancer	may slow the growth of prostate	
+T-1099	flaxseeds	flaxseeds	lignans	lignans	may contain up to 800 times more	
+T-1099	plant-based diet	plant-based diet	lignans	lignans	will most likely consume more	
+T-1099	cancer	cancer	mortality	mortality	and cut	
+T-1099	diet	diet	lignans	lignans	will most likely consume more	
+T-1099	flaxseeds	flaxseeds	prostate	prostate	may slow the growth of	
+T-1099	psa	psa	prostate cancer	prostate cancer	levels (biomarker of	
+T-1099	lignans	lignans	red wine	red wine	are an anticancer plant compound found in	
+T-1099	flaxseeds	flaxseeds	prostate cancer	prostate cancer	may slow the growth of	

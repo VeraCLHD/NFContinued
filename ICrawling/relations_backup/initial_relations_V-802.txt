@@ -1,0 +1,50 @@
+
+V-802	beans	beans	esophageal cancer	esophageal cancer	and greens]…associated with reduced risk of	
+V-802	vitamin c	vitamin c	greens	greens	[like eating carrots, sweet potatoes,	
+V-802	greens	greens	esophageal cancer	esophageal cancer	]…associated with reduced risk of	
+V-802	chinese	chinese	risk	risk	green tea poses a real and growing	
+V-802	tea	tea	health	health	poses a real and growing risk to liver	
+V-802	vitamin c	vitamin c	sweet potatoes	sweet potatoes	[like eating carrots,	
+V-802	green tea	green tea	health	health	poses a real and growing risk to liver	
+V-802	risk	risk	folic acid	folic acid	of esophageal cancer…in contrast, high intake of	
+V-802	chinese	chinese	tea	tea	green	
+V-802	beans	beans	greens	greens	and	
+V-802	vitamin c	vitamin c	carrots	carrots	[like eating	
+V-802	greens	greens	cancer	cancer	]…associated with reduced risk of esophageal	
+V-802	pills	pills	tea	tea	look like this.green	
+V-802	green tea	green tea	supplements	supplements	good; green tea	
+V-802	tea	tea	risk	risk	poses a real and growing	
+V-802	tea	tea	green tea	green tea	good;	
+V-802	pills	pills	supplements	supplements	look like this.green tea good; green tea	
+V-802	esophagus	esophagus	precancerous changes	precancerous changes	with	
+V-802	pills	pills	green tea	green tea	look like this.	
+V-802	esophagus	esophagus	precancerous	precancerous	with	
+V-802	esophageal cancer	esophageal cancer	supplements	supplements	…in contrast, high intake of folic acid from	
+V-802	green tea	green tea	liver health	liver health	poses a real and growing risk to	
+V-802	risk	risk	cancer	cancer	of esophageal	
+V-802	cancer	cancer	folic acid	folic acid	…in contrast, high intake of	
+V-802	supplements	supplements	risk	risk	was associated with a significantly elevated	
+V-802	risk	risk	health	health	to liver	
+V-802	vitamin c	vitamin c	citrus	citrus	[like eating carrots, sweet potatoes, greens, broccoli,	
+V-802	chinese	chinese	green tea	green tea		
+V-802	esophageal cancer	esophageal cancer	folic acid	folic acid	…in contrast, high intake of	
+V-802	risk	risk	esophageal cancer	esophageal cancer	of	
+V-802	tea	tea	liver health	liver health	poses a real and growing risk to	
+V-802	green tea	green tea	liver	liver	poses a real and growing risk to	
+V-802	cancer	cancer	supplements	supplements	…in contrast, high intake of folic acid from	
+V-802	green tea	green tea	risk	risk	poses a real and growing	
+V-802	beans	beans	cancer	cancer	and greens]…associated with reduced risk of esophageal	
+V-802	vitamin c	vitamin c	broccoli	broccoli	[like eating carrots, sweet potatoes, greens,	
+V-802	liver	liver	health	health		
+V-802	beans	beans	risk	risk	and greens]…associated with reduced	
+V-802	folate	folate	beans	beans	from food sources [like	
+V-802	vitamin c	vitamin c	potatoes	potatoes	[like eating carrots, sweet	
+V-802	green tea	green tea	tea	tea	good; green	
+V-802	risk	risk	liver health	liver health	to	
+V-802	folic acid	folic acid	risk	risk	from supplements was associated with a significantly elevated	
+V-802	folate	folate	greens	greens	from food sources [like beans and	
+V-802	tea	tea	supplements	supplements	good; green tea	
+V-802	risk	risk	liver	liver	to	
+V-802	tea	tea	liver	liver	poses a real and growing risk to	
+V-802	greens	greens	risk	risk	]…associated with reduced	
+V-802	folic acid	folic acid	supplements	supplements	from	

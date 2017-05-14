@@ -1,0 +1,48 @@
+
+A-51	chickens	chickens	produce	produce		
+A-51	water	water	chicken	chicken	contaminated with	
+A-51	birth control pills	birth control pills	urine	urine	excreting it in their	
+A-51	pregnant	pregnant	xenoestrogens	xenoestrogens	is further explored in: more on	
+A-51	estrogen	estrogen	eggs	eggs	in meat, dairy, and	
+A-51	estrogen	estrogen	tumor	tumor	and a “complete” carcinogen, as it exerts both	
+A-51	estrogen	estrogen	hormones	hormones		
+A-51	women	women	twins	twins	have 5x fewer	
+A-51	chickens	chickens	estrogen	estrogen	produce literally tons of	
+A-51	women	women	farm animals	farm animals	may excrete 16 mg every day, but	
+A-51	pregnant	pregnant	cows	cows		
+A-51	water	water	manure	manure	contaminated with chicken	
+A-51	vegan	vegan	twins	twins	women have 5x fewer	
+A-51	pills	pills	urine	urine	excreting it in their	
+A-51	steroids	steroids	eggs	eggs	(in meat, dairy, and	
+A-51	estrogen	estrogen	dairy	dairy	in meat,	
+A-51	vegan	vegan	women	women		
+A-51	steroids	steroids	meat	meat	(in	
+A-51	estrogen	estrogen	urine	urine	even in the	
+A-51	farmers	farmers	chicken	chicken	feed	
+A-51	women	women	pills	pills	taking birth control	
+A-51	europe	europe	health	health	in order to protect consumers’	
+A-51	produce	produce	estrogen	estrogen	literally tons of	
+A-51	steroids	steroids	dairy	dairy	(in meat,	
+A-51	xenoestrogens	xenoestrogens	health	health	in: in	
+A-51	dairy	dairy	estrogen	estrogen		
+A-51	dairy	dairy	fertility	fertility	estrogen and male	
+A-51	women	women	urine	urine	taking birth control pills excreting it in their	
+A-51	poultry	poultry	chicken	chicken	litter are so high that when farmers feed	
+A-51	steroid hormones	steroid hormones	metabolism	metabolism	are part of animal	
+A-51	manure	manure	estrogen	estrogen	may contain a birth control pill’s worth of	
+A-51	estrogen	estrogen	fertility	fertility	and male	
+A-51	health	health	fish	fish	standpoint, do we really care about feminized	
+A-51	cows	cows	milk	milk	excreting it into their	
+A-51	hormones	hormones	metabolism	metabolism	are part of animal	
+A-51	women	women	birth control pills	birth control pills	taking	
+A-51	chicken	chicken	manure	manure		
+A-51	poultry	poultry	manure	manure		
+A-51	cows	cows	pregnant	pregnant	even when they’re	
+A-51	chicken	chicken	estrogen	estrogen		
+A-51	estrogen	estrogen	carcinogen	carcinogen	and a “complete”	
+A-51	estrogen	estrogen	poultry	poultry	levels in	
+A-51	birth control pills	birth control pills	cows	cows	excreting it in their urine, or	
+A-51	pills	pills	cows	cows	excreting it in their urine, or	
+A-51	poultry	poultry	farmers	farmers	litter are so high that when	
+A-51	farmers	farmers	manure	manure	feed chicken	
+A-51	estrogen	estrogen	meat	meat	in	

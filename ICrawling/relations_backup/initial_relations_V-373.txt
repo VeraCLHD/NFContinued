@@ -1,0 +1,49 @@
+
+V-373	public health	public health	livestock	livestock	impacts of high-density	
+V-373	gut bacteria	gut bacteria	manure	manure	becomes	
+V-373	europe	europe	tetracycline	tetracycline	stopped feeding pigs and chickens	
+V-373	risk	risk	public health	public health	to	
+V-373	manure	manure	meat	meat	on	
+V-373	pigs	pigs	chickens	chickens	and	
+V-373	mrsa	mrsa	skin	skin	and	
+V-373	bacteria	bacteria	gut bacteria	gut bacteria	in their guts and then the	
+V-373	mrsa	mrsa	infection	infection		
+V-373	farm animals	farm animals	bacteria	bacteria	are fed antibiotics, they can develop antibiotic-resistant	
+V-373	bacteria	bacteria	gut	gut	in their guts and then the	
+V-373	manure	manure	vegetarian	vegetarian	on meat, which can spread to humans--even	
+V-373	antibiotics	antibiotics	farm animals	farm animals	just to promote the growth of	
+V-373	united states	united states	health	health	presents an unacceptable level of risk to public	
+V-373	united states	united states	public health	public health	presents an unacceptable level of risk to	
+V-373	pigs	pigs	penicillin	penicillin	and chickens tetracycline and	
+V-373	pigs	pigs	tetracycline	tetracycline	and chickens	
+V-373	health	health	medicine	medicine	impacts of high-density livestock production.achievements in modern	
+V-373	risk	risk	health	health	to public	
+V-373	livestock	livestock	skin	skin	operations each was associated with mrsa and	
+V-373	europe	europe	chickens	chickens	stopped feeding pigs and	
+V-373	manure	manure	livestock	livestock	application to crop fields and	
+V-373	tetracycline	tetracycline	penicillin	penicillin	and	
+V-373	livestock	livestock	mrsa	mrsa	operations each was associated with	
+V-373	health	health	livestock	livestock	impacts of high-density	
+V-373	europe	europe	penicillin	penicillin	stopped feeding pigs and chickens tetracycline and	
+V-373	chickens	chickens	penicillin	penicillin	tetracycline and	
+V-373	mrsa	mrsa	superbugs	superbugs		
+V-373	gut bacteria	gut bacteria	meat	meat	becomes manure on	
+V-373	skin	skin	infections	infections	and soft-tissue	
+V-373	vegetarian	vegetarian	bacteria	bacteria	humans, since drug resistant	
+V-373	public health	public health	medicine	medicine	impacts of high-density livestock production.achievements in modern	
+V-373	surgery	surgery	treatment	treatment	and the	
+V-373	chickens	chickens	tetracycline	tetracycline		
+V-373	united states	united states	risk	risk	presents an unacceptable level of	
+V-373	antibiotics	antibiotics	farm animals	farm animals	by the ton to	
+V-373	cost-effective	cost-effective	antibiotics	antibiotics	practices to replace the use of	
+V-373	gut	gut	manure	manure	bacteria becomes	
+V-373	treatment	treatment	babies	babies	of preterm	
+V-373	health	health	farmers	farmers	should take priority over farm animals,	
+V-373	europe	europe	pigs	pigs	stopped feeding	
+V-373	mrsa	mrsa	infections	infections	and skin and soft-tissue	
+V-373	farm animals	farm animals	meat	meat	would raise the price of	
+V-373	gut	gut	bacteria	bacteria		
+V-373	farm animals	farm animals	antibiotics	antibiotics	are fed	
+V-373	gut	gut	meat	meat	bacteria becomes manure on	
+V-373	surgery	surgery	babies	babies	and the treatment of preterm	
+V-373	health	health	farm animals	farm animals	should take priority over	

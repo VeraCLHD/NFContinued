@@ -1,0 +1,15 @@
+
+V-1094	antioxidants	antioxidants	raw	raw	than	
+V-1094	raw food	raw food	diet	diet		
+V-1094	raw	raw	diet	diet	and cooked; versus a raw food	
+V-1094	carrots	carrots	raw	raw	having more antioxidants than	
+V-1094	carrots	carrots	antioxidants	antioxidants	having more	
+V-1094	phytonutrients	phytonutrients	antioxidants	antioxidants	like beta-carotene—like the cooked carrots having more	
+V-1094	diet	diet	fruits	fruits	—seven servings a day of	
+V-1094	raw	raw	raw food	raw food	and cooked; versus a	
+V-1094	fruits	fruits	diet	diet	and vegetables a day, versus a better 	
+V-1094	vegetables	vegetables	diet	diet	a day, versus a better 	
+V-1094	cooking	cooking	phytonutrients	phytonutrients	can boost the absorption of	
+V-1094	phytonutrients	phytonutrients	carrots	carrots	like beta-carotene—like the cooked	
+V-1094	fruits	fruits	vegetables	vegetables	and	
+V-1094	health	health	risk	risk		

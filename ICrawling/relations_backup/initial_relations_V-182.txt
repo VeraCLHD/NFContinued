@@ -1,0 +1,80 @@
+
+V-182	fruits	fruits	animal products	animal products	and vegetables and contain large amounts of	
+V-182	fruit	fruit	vegetables	vegetables	and	
+V-182	vegans	vegans	diet	diet	to vegetarians to omnivores, the most plant-based	
+V-182	kidney	kidney	public health	public health	disease is a major	
+V-182	urine	urine	kidney	kidney	(a sign of	
+V-182	ammonia	ammonia	kidneys	kidneys	in our	
+V-182	kidneys	kidneys	ammonia	ammonia	create	
+V-182	disease	disease	public health	public health	is a major	
+V-182	kidney disease	kidney disease	health	health	is a major public	
+V-182	plant-based	plant-based	diet	diet		
+V-182	vegetables	vegetables	protein	protein	), rather than the quantity of	
+V-182	vegans	vegans	plant-based	plant-based	to vegetarians to omnivores, the most	
+V-182	cholesterol	cholesterol	protein	protein	may be associated with	
+V-182	diet	diet	vegetarian	vegetarian	is alkalinizing, whereas a non-	
+V-182	vegetarians	vegetarians	meat	meat	that consumed processed	
+V-182	vegetarian	vegetarian	diet	diet		
+V-182	protein	protein	antioxidants	antioxidants	derived from plant foods accompanied by	
+V-182	standard american diet	standard american diet	vegan	vegan	to a	
+V-182	kidney	kidney	vegetables	vegetables	damage), and generally, diets higher in fruits,	
+V-182	animal proteins	animal proteins	eggs	eggs	(such as meats,	
+V-182	antioxidants	antioxidants	protein	protein	that can fight the free radicals, plant	
+V-182	vegan	vegan	kidney disease	kidney disease	diet may improve acidosis in patients with chronic	
+V-182	plant-based diet	plant-based diet	prevention	prevention	was most associated with improved parameters for the	
+V-182	public health	public health	americans	americans	problem affecting about one in eight	
+V-182	plant foods	plant foods	free radicals	free radicals	accompanied by antioxidants that can fight the	
+V-182	vegan	vegan	kidney	kidney	diet may improve acidosis in patients with chronic	
+V-182	prevention	prevention	kidney	kidney	of	
+V-182	kidney function	kidney function	vegetarians	vegetarians	of vegans to	
+V-182	plant foods	plant foods	antioxidants	antioxidants	accompanied by	
+V-182	meat	meat	kidney	kidney	and sweets may be protective against	
+V-182	kidney function	kidney function	vegans	vegans	of	
+V-182	vegans	vegans	plant-based diet	plant-based diet	to vegetarians to omnivores, the most	
+V-182	kidney	kidney	disease	disease		
+V-182	free radicals	free radicals	kidneys	kidneys	and damage the	
+V-182	meat	meat	kidney function	kidney function	and sweets may be protective against	
+V-182	kidney	kidney	vegans	vegans	function of	
+V-182	kidney disease	kidney disease	protein	protein	progression is the quality of the ingested	
+V-182	fruits	fruits	vegetables	vegetables	and	
+V-182	sulfur	sulfur	protein	protein	in the	
+V-182	vegetarians	vegetarians	plant-based diet	plant-based diet	to omnivores, the most	
+V-182	health	health	americans	americans	problem affecting about one in eight	
+V-182	vegetarians	vegetarians	processed meat	processed meat	that consumed	
+V-182	sulfur	sulfur	amino acids	amino acids	–containing	
+V-182	standard american diet	standard american diet	diet	diet	to a vegan	
+V-182	ph	ph	free radicals	free radicals	may increase the production of	
+V-182	vegetarians	vegetarians	omnivores	omnivores	to	
+V-182	diet	diet	vegan	vegan	to a	
+V-182	fruit	fruit	protein	protein	and vegetables), rather than the quantity of	
+V-182	kidney	kidney	omnivores	omnivores	function of vegans to vegetarians to	
+V-182	whole grains	whole grains	meat	meat	but lower in	
+V-182	kidney disease	kidney disease	public health	public health	is a major	
+V-182	kidney	kidney	protein	protein	disease progression is the quality of the ingested	
+V-182	kidneys	kidneys	protein	protein	that way or add to scarring.not only is	
+V-182	vegetarians	vegetarians	plant-based	plant-based	to omnivores, the most	
+V-182	disease	disease	health	health	is a major public	
+V-182	kidney	kidney	kidney function	kidney function	disease.diet plays a role in	
+V-182	plant foods	plant foods	animal foods	animal foods	tend to be less acid-forming than	
+V-182	antioxidants	antioxidants	free radicals	free radicals	that can fight the	
+V-182	death	death	kidney function	kidney function	even among those with only mild decreases in	
+V-182	death	death	kidney	kidney	even among those with only mild decreases in	
+V-182	ammonia	ammonia	kidneys	kidneys	is a base; so, the	
+V-182	cholesterol	cholesterol	urine	urine	may be associated with protein leakage in the	
+V-182	animal proteins	animal proteins	meats	meats	(such as	
+V-182	kidney function	kidney function	omnivores	omnivores	of vegans to vegetarians to	
+V-182	kidney	kidney	fruits	fruits	damage), and generally, diets higher in	
+V-182	diet	diet	prevention	prevention	was most associated with improved parameters for the	
+V-182	disease	disease	protein	protein	progression is the quality of the ingested	
+V-182	vegetarians	vegetarians	diet	diet	to omnivores, the most plant-based	
+V-182	antioxidants	antioxidants	plant protein	plant protein	that can fight the free radicals,	
+V-182	vegans	vegans	vegetarians	vegetarians	to	
+V-182	kidney	kidney	vegetarians	vegetarians	function of vegans to	
+V-182	vegan	vegan	diet	diet		
+V-182	vegans	vegans	omnivores	omnivores	to vegetarians to	
+V-182	kidney function	kidney function	plant-based	plant-based	of vegans to vegetarians to omnivores, the most	
+V-182	kidney	kidney	health	health	disease is a major public	
+V-182	protein	protein	plant foods	plant foods	derived from	
+V-182	grains	grains	meat	meat	but lower in	
+V-182	kidney function	kidney function	plant-based diet	plant-based diet	of vegans to vegetarians to omnivores, the most	
+V-182	animal foods	animal foods	sulfur	sulfur	is because acid is produced by the	

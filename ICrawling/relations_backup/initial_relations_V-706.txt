@@ -1,0 +1,10 @@
+
+V-706	urine	urine	industrial toxins	industrial toxins	levels of	
+V-706	women	women	surgery	surgery	 get breast	
+V-706	flame-retardant chemicals	flame-retardant chemicals	women	women	—in the breast tissue of california	
+V-706	california	california	women	women		
+V-706	chemicals	chemicals	women	women	—in the breast tissue of california	
+V-706	flame-retardant chemicals	flame-retardant chemicals	california	california	—in the breast tissue of	
+V-706	urine	urine	toxins	toxins	levels of industrial	
+V-706	women	women	fibroids	fibroids	get	
+V-706	chemicals	chemicals	california	california	—in the breast tissue of	

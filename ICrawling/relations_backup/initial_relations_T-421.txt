@@ -1,0 +1,42 @@
+
+T-421	inflammatory bowel disease	inflammatory bowel disease	risk	risk		
+T-421	fat	fat	endotoxemia	endotoxemia	intake may help reduce 	
+T-421	carcinogen	carcinogen	meat	meat	normally connected with cooked	
+T-421	diet	diet	heterocyclic amines	heterocyclic amines	and may have 	
+T-421	chicken	chicken	disease	disease	is linked to periodontal	
+T-421	cheese	cheese	sperm counts	sperm counts	intake has also been linked to lower	
+T-421	sodium	sodium	diet	diet	contributors to the american	
+T-421	disease	disease	risk	risk		
+T-421	chicken	chicken	periodontal disease	periodontal disease	is linked to 	
+T-421	endotoxemia	endotoxemia	risk	risk		
+T-421	inflammatory bowel disease	inflammatory bowel disease	cellulite	cellulite	risk, parkinson’s disease, and 	
+T-421	saturated fat	saturated fat	risk	risk	intake may help reduce endotoxemia	
+T-421	cheese	cheese	chicken	chicken	and	
+T-421	cheese	cheese	disease	disease	and chicken is linked to periodontal	
+T-421	inflammatory bowel disease	inflammatory bowel disease	disease	disease	risk, parkinson’s	
+T-421	cheese	cheese	sodium	sodium	is one of the top ten 	
+T-421	saturated fat	saturated fat	cheese	cheese	intake from foods like	
+T-421	disease	disease	cellulite	cellulite	risk, parkinson’s disease, and 	
+T-421	saturated fat	saturated fat	endotoxemia	endotoxemia	intake may help reduce 	
+T-421	sodium	sodium	heterocyclic amines	heterocyclic amines	contributors to the american diet and may have 	
+T-421	sausage	sausage	cheese	cheese	and	
+T-421	carcinogen	carcinogen	cooked meat	cooked meat	normally connected with	
+T-421	aluminum	aluminum	industrial pollutants	industrial pollutants	compounds, phosphorus, 	
+T-421	cheese	cheese	insects	insects	manufacturers use certain 	
+T-421	fat	fat	chicken	chicken	intake from foods like cheese and	
+T-421	aluminum	aluminum	pus	pus	compounds, phosphorus, industrial pollutants, titanium dioxide, uric acid, and 	
+T-421	saturated fat	saturated fat	chicken	chicken	intake from foods like cheese and	
+T-421	carcinogen	carcinogen	putrescine	putrescine	normally connected with cooked meat, as well as 	
+T-421	fat	fat	health	health	are not risky to our	
+T-421	cheese	cheese	fat	fat	and other foods high in saturated	
+T-421	fat	fat	cheese	cheese	intake from foods like	
+T-421	aluminum	aluminum	uric acid	uric acid	compounds, phosphorus, industrial pollutants, titanium dioxide,	
+T-421	saturated fat	saturated fat	health	health	are not risky to our	
+T-421	cheese	cheese	periodontal disease	periodontal disease	and chicken is linked to 	
+T-421	diet	diet	carcinogen	carcinogen	and may have heterocyclic amines, a	
+T-421	cheese	cheese	aluminum	aluminum	may contain certain ingredients of concern, for example 	
+T-421	aluminum	aluminum	pollutants	pollutants	compounds, phosphorus, industrial	
+T-421	cheese	cheese	saturated fat	saturated fat	and other foods high in	
+T-421	aluminum	aluminum	phosphorus	phosphorus	compounds, 	
+T-421	aluminum	aluminum	titanium dioxide	titanium dioxide	compounds, phosphorus, industrial pollutants, 	
+T-421	fat	fat	risk	risk	intake may help reduce endotoxemia	

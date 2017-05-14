@@ -1,0 +1,40 @@
+
+V-832	anti-inflammatory	anti-inflammatory	plant foods	plant foods	effects of	
+V-832	fruit	fruit	diet	diet	we add to our daily	
+V-832	nitrite	nitrite	preservatives	preservatives		
+V-832	milk	milk	copd	copd	found protective against	
+V-832	united states	united states	cancer	cancer	are no longer heart disease,	
+V-832	risk	risk	copd	copd	of getting, and then eventually dying, from	
+V-832	meat	meat	hot dogs	hot dogs	—bacon, bologna, ham,	
+V-832	harvard	harvard	women	women	decided to study	
+V-832	meat	meat	bacon	bacon	—	
+V-832	soy milk	soy milk	copd	copd	found protective against	
+V-832	preservatives	preservatives	meat	meat	in the	
+V-832	vegetables	vegetables	copd	copd	for	
+V-832	soy	soy	copd	copd	milk found protective against	
+V-832	anti-inflammatory	anti-inflammatory	copd	copd	effects of plant foods can help prevent	
+V-832	meat	meat	salami	salami	—bacon, bologna, ham, hot dogs, sausage,	
+V-832	meat	meat	dogs	dogs	—bacon, bologna, ham, hot	
+V-832	meat	meat	nitrites	nitrites	may be mimicking the damage done by the	
+V-832	meat	meat	bologna	bologna	—bacon,	
+V-832	plant foods	plant foods	copd	copd	can help prevent	
+V-832	salami	salami	copd	copd	—as a risk factor for developing	
+V-832	risk	risk	copd	copd	factor for developing	
+V-832	united states	united states	heart disease	heart disease	are no longer	
+V-832	meat	meat	ham	ham	—bacon, bologna,	
+V-832	united states	united states	disease	disease	are no longer heart	
+V-832	tofu	tofu	copd	copd	and soy milk found protective against	
+V-832	nitrite preservatives	nitrite preservatives	meat	meat	in the	
+V-832	tofu	tofu	milk	milk	and soy	
+V-832	united states	united states	stroke	stroke	are no longer heart disease, cancer, and	
+V-832	meat	meat	risk	risk	—bacon, bologna, ham, hot dogs, sausage, salami—as a	
+V-832	tofu	tofu	soy	soy	and	
+V-832	diet	diet	risk	risk	may reduce our	
+V-832	fruits	fruits	vegetables	vegetables	and	
+V-832	meat	meat	sausage	sausage	—bacon, bologna, ham, hot dogs,	
+V-832	soy	soy	milk	milk		
+V-832	copd	copd	diet	diet	with	
+V-832	nitrite	nitrite	meat	meat	preservatives in the	
+V-832	fruits	fruits	copd	copd	and vegetables for	
+V-832	tofu	tofu	soy milk	soy milk	and	
+V-832	salami	salami	risk	risk	—as a	

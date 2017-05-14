@@ -1,0 +1,16 @@
+
+V-1121	dr. david spence	dr. david spence	atherosclerosis	atherosclerosis	is director of the stroke prevention & 	
+V-1121	dr. david spence	dr. david spence	prevention	prevention	is director of the stroke	
+V-1121	harvard	harvard	physicians	physicians		
+V-1121	harvard	harvard	egg	egg	physicians' study results were published,	
+V-1121	egg	egg	medical profession	medical profession	on [the	
+V-1121	dr. david spence	dr. david spence	stroke	stroke	is director of the	
+V-1121	egg	egg	heart failure	heart failure	consumption has also been linked to	
+V-1121	prevention	prevention	atherosclerosis	atherosclerosis	& 	
+V-1121	atherosclerosis	atherosclerosis	stroke	stroke	research center in ontario—one of the world’s leading	
+V-1121	farmers	farmers	canada	canada	of	
+V-1121	physicians	physicians	egg	egg	' study results were published,	
+V-1121	stroke	stroke	prevention	prevention		
+V-1121	egg	egg	lifespan	lifespan	a day, or more, significantly shortens one's	
+V-1121	stroke	stroke	atherosclerosis	atherosclerosis	prevention & 	
+V-1121	diabetes	diabetes	women	women	in both men and	

@@ -1,0 +1,143 @@
+
+T-995	anti-inflammatory	anti-inflammatory	pepper	pepper	include apples; black	
+T-995	skin	skin	syndrome	syndrome	aging, diabetes, multiple sclerosis, cancer, arthritis, irritable bowel	
+T-995	dried apples	dried apples	plums	plums	and dried	
+T-995	osteoarthritis	osteoarthritis	tomato juice	tomato juice	and rheumatoid arthritis, and reduce post-surgical pain;	
+T-995	mental health	mental health	aging	aging	issues, periodontal disease, obesity, skin	
+T-995	plant-based	plant-based	inflammation	inflammation	diet, can downregulate genes that promote	
+T-995	health	health	obesity	obesity	issues, periodontal disease,	
+T-995	anti-inflammatory	anti-inflammatory	black pepper	black pepper	include apples;	
+T-995	plant foods	plant foods	apples	apples	identified as being anti-inflammatory include	
+T-995	pregnant	pregnant	women	women		
+T-995	health	health	skin	skin	issues, periodontal disease, obesity,	
+T-995	plant-based	plant-based	depression	depression	diets have less stress, anxiety and	
+T-995	anti-inflammatory	anti-inflammatory	baby	baby	foods as these may harm the	
+T-995	citrus	citrus	cloves	cloves	fruits; ginger;	
+T-995	citrus	citrus	blood	blood	fruits; ginger; cloves; rosemary; chamomile; dragon’s	
+T-995	anxiety	anxiety	ldl	ldl	and depression, and better moods.oxidized	
+T-995	vegetables	vegetables	inflammation	inflammation	with the highest antioxidant levels seem to reduce	
+T-995	mental health	mental health	multiple sclerosis	multiple sclerosis	issues, periodontal disease, obesity, skin aging, diabetes,	
+T-995	side effects	side effects	watermelon	watermelon	), and sweet bing cherries and	
+T-995	bpa	bpa	acrylamide	acrylamide	may be linked with liver inflammation;	
+T-995	pregnant women	pregnant women	anti-inflammatory	anti-inflammatory	may want to avoid large amounts of	
+T-995	fish	fish	industrial pollutants	industrial pollutants	oil, possibly due to the presence of	
+T-995	mental health	mental health	periodontal disease	periodontal disease	issues,	
+T-995	blood	blood	vegans	vegans	protein levels in	
+T-995	women	women	anti-inflammatory	anti-inflammatory	may want to avoid large amounts of	
+T-995	inflammatory response	inflammatory response	lead	lead	in artery walls which can eventually	
+T-995	animal protein	animal protein	inflammation	inflammation	in general may increase	
+T-995	anxiety	anxiety	depression	depression	and	
+T-995	ldl cholesterol	ldl cholesterol	inflammatory response	inflammatory response	may trigger the	
+T-995	osteoarthritis	osteoarthritis	pain	pain	and rheumatoid arthritis, and reduce post-surgical	
+T-995	bpa	bpa	inflammation	inflammation	may be linked with liver	
+T-995	fruits	fruits	vegetables	vegetables	and	
+T-995	citrus	citrus	fruits	fruits		
+T-995	heart disease	heart disease	inflammation	inflammation	and cancer.there are non-animal products that also cause	
+T-995	anti-inflammatory	anti-inflammatory	apples	apples	include	
+T-995	anti-inflammatory	anti-inflammatory	broccoli sprouts	broccoli sprouts	include apples; black pepper; broccoli;	
+T-995	risk	risk	rheumatoid arthritis	rheumatoid arthritis	of alzheimer’s disease, treat knee osteoarthritis and	
+T-995	anti-inflammatory	anti-inflammatory	sprouts	sprouts	include apples; black pepper; broccoli; broccoli	
+T-995	plant foods	plant foods	variety	variety	.though important to eat a	
+T-995	plant-based diet	plant-based diet	anti-inflammatory	anti-inflammatory	may be as	
+T-995	plant-based	plant-based	stress	stress	diets have less	
+T-995	lead	lead	heart attack	heart attack	to a	
+T-995	plant-based diets	plant-based diets	anxiety	anxiety	have less stress,	
+T-995	bpa	bpa	liver	liver	may be linked with	
+T-995	baby	baby	anti-inflammatory	anti-inflammatory	in the same way can	
+T-995	baby	baby	drugs	drugs	in the same way can anti-inflammatory	
+T-995	liver	liver	acrylamide	acrylamide	inflammation;	
+T-995	risk	risk	heart disease	heart disease	of	
+T-995	plant foods	plant foods	pepper	pepper	identified as being anti-inflammatory include apples; black	
+T-995	inflammation	inflammation	animal products	animal products	from arachidonic acid found in	
+T-995	plant-based	plant-based	aspirin	aspirin	diet may be as anti-inflammatory as taking	
+T-995	walnut	walnut	risk	risk	half per day may cut the	
+T-995	variety	variety	plant foods	plant foods	of whole	
+T-995	liver	liver	inflammation	inflammation		
+T-995	pregnant	pregnant	anti-inflammatory	anti-inflammatory	women may want to avoid large amounts of	
+T-995	baby	baby	aspirin	aspirin	in the same way can anti-inflammatory drugs like	
+T-995	flaxseed oil	flaxseed oil	vegetables	vegetables	or flaxseed; green leafy	
+T-995	plant foods	plant foods	anti-inflammatory	anti-inflammatory	tend to be	
+T-995	health	health	periodontal disease	periodontal disease	issues,	
+T-995	protein	protein	inflammation	inflammation	in general may increase	
+T-995	animal products	animal products	plant-based	plant-based	may explain why those eating	
+T-995	mental health	mental health	obesity	obesity	issues, periodontal disease,	
+T-995	mental health	mental health	skin	skin	issues, periodontal disease, obesity,	
+T-995	protein	protein	vegans	vegans	levels in	
+T-995	disease	disease	erectile dysfunction	erectile dysfunction	and	
+T-995	blood	blood	protein	protein		
+T-995	plant-based diets	plant-based diets	depression	depression	have less stress, anxiety and	
+T-995	plant foods	plant foods	broccoli	broccoli	identified as being anti-inflammatory include apples; black pepper;	
+T-995	diet	diet	aspirin	aspirin	may be as anti-inflammatory as taking	
+T-995	dairy	dairy	inflammation	inflammation	may cause a spike of	
+T-995	vegetables	vegetables	antioxidant	antioxidant	with the highest	
+T-995	plant foods	plant foods	anti-inflammatory	anti-inflammatory	identified as being	
+T-995	diet	diet	anti-inflammatory	anti-inflammatory	may be as	
+T-995	plant-based diet	plant-based diet	aspirin	aspirin	may be as anti-inflammatory as taking	
+T-995	plant-based	plant-based	diet	diet		
+T-995	skin	skin	aging	aging		
+T-995	arachidonic acid	arachidonic acid	animal products	animal products	found in	
+T-995	bpa	bpa	liver inflammation	liver inflammation	may be linked with	
+T-995	inflammation	inflammation	arteries	arteries	within hours that can stiffen one’s	
+T-995	flaxseed oil	flaxseed oil	turmeric	turmeric	or flaxseed; green leafy vegetables;	
+T-995	health	health	multiple sclerosis	multiple sclerosis	issues, periodontal disease, obesity, skin aging, diabetes,	
+T-995	skin	skin	diabetes	diabetes	aging,	
+T-995	citrus	citrus	dried apples	dried apples	fruits; ginger; cloves; rosemary; chamomile; dragon’s blood;	
+T-995	citrus	citrus	rosemary	rosemary	fruits; ginger; cloves;	
+T-995	osteoarthritis	osteoarthritis	arthritis	arthritis	and rheumatoid	
+T-995	fruits	fruits	antioxidant	antioxidant	and vegetables with the highest	
+T-995	cherries	cherries	watermelon	watermelon	and	
+T-995	antioxidant	antioxidant	inflammation	inflammation	levels seem to reduce	
+T-995	bacteria	bacteria	tapeworms	tapeworms	load, tmao,	
+T-995	plant-based diets	plant-based diets	stress	stress	have less	
+T-995	inflammation	inflammation	arachidonic acid	arachidonic acid	from	
+T-995	health	health	aging	aging	issues, periodontal disease, obesity, skin	
+T-995	meat	meat	disease	disease	molecule that may increase the risk of heart	
+T-995	skin	skin	cancer	cancer	aging, diabetes, multiple sclerosis,	
+T-995	health	health	diabetes	diabetes	issues, periodontal disease, obesity, skin aging,	
+T-995	ldl	ldl	inflammatory response	inflammatory response	cholesterol may trigger the	
+T-995	plant-based	plant-based	anxiety	anxiety	diets have less stress,	
+T-995	osteoarthritis	osteoarthritis	juice	juice	and rheumatoid arthritis, and reduce post-surgical pain; tomato	
+T-995	aspirin	aspirin	side effects	side effects	(without the	
+T-995	health	health	disease	disease	issues, periodontal	
+T-995	skin	skin	multiple sclerosis	multiple sclerosis	aging, diabetes,	
+T-995	risk	risk	disease	disease	of alzheimer’s	
+T-995	nuts	nuts	walnuts	walnuts	in general, and specifically english	
+T-995	anti-inflammatory	anti-inflammatory	ceylon cinnamon	ceylon cinnamon	include apples; black pepper; broccoli; broccoli sprouts;	
+T-995	risk	risk	osteoarthritis	osteoarthritis	of alzheimer’s disease, treat knee	
+T-995	risk	risk	arthritis	arthritis	of alzheimer’s disease, treat knee osteoarthritis and rheumatoid	
+T-995	skin	skin	arthritis	arthritis	aging, diabetes, multiple sclerosis, cancer,	
+T-995	citrus	citrus	chamomile	chamomile	fruits; ginger; cloves; rosemary;	
+T-995	anti-inflammatory	anti-inflammatory	aspirin	aspirin	as taking	
+T-995	anxiety	anxiety	cholesterol	cholesterol	and depression, and better moods.oxidized ldl	
+T-995	meat	meat	risk	risk	molecule that may increase the	
+T-995	drugs	drugs	aspirin	aspirin	like	
+T-995	mental health	mental health	diabetes	diabetes	issues, periodontal disease, obesity, skin aging,	
+T-995	variety	variety	fruits	fruits	of whole plant foods,	
+T-995	meat	meat	heart disease	heart disease	molecule that may increase the risk of	
+T-995	flaxseed oil	flaxseed oil	leafy vegetables	leafy vegetables	or flaxseed; green	
+T-995	plant foods	plant foods	black pepper	black pepper	identified as being anti-inflammatory include apples;	
+T-995	skin	skin	irritable bowel syndrome	irritable bowel syndrome	aging, diabetes, multiple sclerosis, cancer, arthritis,	
+T-995	dried apples	dried apples	berries	berries	and dried plums;	
+T-995	dried apples	dried apples	dried plums	dried plums	and	
+T-995	risk	risk	disease	disease	of heart	
+T-995	citrus	citrus	apples	apples	fruits; ginger; cloves; rosemary; chamomile; dragon’s blood; dried	
+T-995	disease	disease	inflammation	inflammation	and cancer.there are non-animal products that also cause	
+T-995	ldl	ldl	cholesterol	cholesterol		
+T-995	animal products	animal products	plant-based diets	plant-based diets	may explain why those eating	
+T-995	fish	fish	pollutants	pollutants	oil, possibly due to the presence of industrial	
+T-995	bacteria	bacteria	tmao	tmao	load,	
+T-995	anti-inflammatory	anti-inflammatory	side effects	side effects	as taking aspirin (without the	
+T-995	aspirin	aspirin	cherries	cherries	(without the side effects), and sweet bing	
+T-995	anti-inflammatory	anti-inflammatory	cinnamon	cinnamon	include apples; black pepper; broccoli; broccoli sprouts; ceylon	
+T-995	risk	risk	disease	disease	of dying from inflammatory	
+T-995	anxiety	anxiety	ldl cholesterol	ldl cholesterol	and depression, and better moods.oxidized	
+T-995	plant-based	plant-based	anti-inflammatory	anti-inflammatory	diet may be as	
+T-995	anti-inflammatory	anti-inflammatory	broccoli	broccoli	include apples; black pepper;	
+T-995	citrus	citrus	ginger	ginger	fruits;	
+T-995	variety	variety	vegetables	vegetables	of whole plant foods, fruits and	
+T-995	phytates	phytates	plant foods	plant foods	present in many	
+T-995	osteoarthritis	osteoarthritis	rheumatoid arthritis	rheumatoid arthritis	and	
+T-995	dried apples	dried apples	white button mushrooms	white button mushrooms	and dried plums; berries; crimini, oyster, maitake, and	
+T-995	mental health	mental health	disease	disease	issues, periodontal	
+T-995	side effects	side effects	cherries	cherries	), and sweet bing	
+T-995	cholesterol	cholesterol	inflammatory response	inflammatory response	may trigger the	

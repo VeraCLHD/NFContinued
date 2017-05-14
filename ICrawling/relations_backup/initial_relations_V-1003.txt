@@ -1,0 +1,11 @@
+
+V-1003	health	health	avocados	avocados	professionals and final year medical students incorrectly thought	
+V-1003	doctors	doctors	disease	disease	on questions relating to diet and cardiovascular	
+V-1003	doctors	doctors	nutrition	nutrition	may think they know enough about	
+V-1003	diet	diet	disease	disease	and cardiovascular	
+V-1003	doctors	doctors	cardiovascular disease	cardiovascular disease	on questions relating to diet and	
+V-1003	diet	diet	cardiovascular disease	cardiovascular disease	and	
+V-1003	avocados	avocados	cholesterol	cholesterol	had	
+V-1003	medical school	medical school	nutrition	nutrition	instructors who think more	
+V-1003	medical school	medical school	nutrition education	nutrition education	instructors who think more	
+V-1003	doctors	doctors	diet	diet	on questions relating to	

@@ -1,0 +1,14 @@
+
+V-1140	cancer	cancer	cancer	cancer	institute questioned whether	
+V-1140	cancer	cancer	iron	iron	rates among meat-eaters—because they get heme	
+V-1140	national cancer institute	national cancer institute	disease	disease	questioned whether cancer itself was a “ferrotoxic”	
+V-1140	iron	iron	iron supplements	iron supplements	deficiency anemia, then you may need	
+V-1140	iron	iron	death	death	appeared to cut cancer	
+V-1140	national cancer institute	national cancer institute	cancer	cancer	questioned whether	
+V-1140	iron	iron	cancer	cancer	appeared to cut	
+V-1140	cancer	cancer	heme iron	heme iron	rates among meat-eaters—because they get	
+V-1140	cancer	cancer	disease	disease	institute questioned whether cancer itself was a “ferrotoxic”	
+V-1140	blood	blood	iron	iron	to rid oneself of excess	
+V-1140	blood	blood	iron	iron	”	
+V-1140	iron	iron	supplements	supplements	deficiency anemia, then you may need iron	
+V-1140	iron	iron	anemia	anemia	deficiency	

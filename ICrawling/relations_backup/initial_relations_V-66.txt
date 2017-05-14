@@ -1,0 +1,111 @@
+
+V-66	prostate	prostate	disease	disease	cancer, parkinson’s	
+V-66	nuts	nuts	seeds	seeds	and	
+V-66	united states	united states	diet	diet	is our	
+V-66	flax	flax	berries	berries	seeds,	
+V-66	americans	americans	diet	diet	every year—but	
+V-66	death	death	united states	united states	in the	
+V-66	liver	liver	blood	blood	diseases,	
+V-66	turmeric	turmeric	ground flax	ground flax	a day, a tablespoon of	
+V-66	liver	liver	disease	disease	diseases, blood cancers, kidney	
+V-66	turmeric	turmeric	seeds	seeds	a day, a tablespoon of ground flax	
+V-66	how not to die	how not to die	heart disease	heart disease	from	
+V-66	plant-based diet	plant-based diet	women	women	could do—reverse the #1 killer of men and	
+V-66	ground flax	ground flax	berries	berries	seeds,	
+V-66	liver	liver	cancer	cancer	diseases, blood cancers, kidney disease, breast	
+V-66	disease	disease	diet	diet	in the majority of patients—this plant-based	
+V-66	doctors	doctors	nutrition	nutrition	are just never taught the impact healthy	
+V-66	prostate	prostate	cancer	cancer		
+V-66	surgery	surgery	medicine	medicine	—was being largely ignored by mainstream	
+V-66	blood	blood	cancer	cancer	pressure, liver diseases, blood cancers, kidney disease, breast	
+V-66	longevity	longevity	death	death	—the vast majority of premature	
+V-66	flax	flax	greens	greens	seeds, berries every day,	
+V-66	lentils	lentils	mushrooms	mushrooms	), whole grains, nuts and seeds,	
+V-66	turmeric	turmeric	flax	flax	a day, a tablespoon of ground	
+V-66	nuts	nuts	mushrooms	mushrooms	and seeds,	
+V-66	chronic disease	chronic disease	drugs	drugs	with lifestyle changes—opening up arteries without	
+V-66	how not to die	how not to die	disease	disease	from lung	
+V-66	reversing chronic disease	reversing chronic disease	surgery	surgery	with lifestyle changes—opening up arteries without drugs, without	
+V-66	health	health	longevity	longevity	destiny and	
+V-66	diet	diet	women	women	could do—reverse the #1 killer of men and	
+V-66	smoking	smoking	lung cancer	lung cancer	with	
+V-66	turmeric	turmeric	berries	berries	a day, a tablespoon of ground flax seeds,	
+V-66	risk	risk	disease	disease	factors ever published—the global burden of	
+V-66	high blood pressure	high blood pressure	diabetes	diabetes	and type 2	
+V-66	beans	beans	whole grains	whole grains	(split peas, chickpeas, and lentils),	
+V-66	beans	beans	nuts	nuts	(split peas, chickpeas, and lentils), whole grains,	
+V-66	prostate	prostate	how not to die	how not to die	cancer, parkinson’s disease, and	
+V-66	disease	disease	drugs	drugs	with lifestyle changes—opening up arteries without	
+V-66	united states	united states	nutrition	nutrition	are preventable, and related to	
+V-66	risk	risk	global burden of disease study	global burden of disease study	factors ever published—the	
+V-66	lifestyle medicine	lifestyle medicine	pritikin	pritikin	pioneers, and what happened next was documented in	
+V-66	beans	beans	peas	peas	(split	
+V-66	lentils	lentils	nuts	nuts	), whole grains,	
+V-66	diet	diet	nutrition	nutrition	now kills hundreds of thousands more.so, obviously,	
+V-66	how not to die	how not to die	disease	disease	from heart	
+V-66	disease	disease	plant-based	plant-based	in the majority of patients—this	
+V-66	plant-based	plant-based	exercise	exercise	diet, and then started on a graded	
+V-66	blood	blood	disease	disease	pressure, liver diseases, blood cancers, kidney	
+V-66	nutrition	nutrition	medical school	medical school	is the #1 thing taught in	
+V-66	kidney	kidney	depression	depression	disease, breast cancer, suicidal	
+V-66	heart disease	heart disease	plant-based	plant-based	in the majority of patients—this	
+V-66	blood	blood	breast cancer	breast cancer	pressure, liver diseases, blood cancers, kidney disease,	
+V-66	disease	disease	surgery	surgery	with lifestyle changes—opening up arteries without drugs, without	
+V-66	plant-based	plant-based	diet	diet		
+V-66	death	death	plant-based diet	plant-based diet	and disability is preventable with a	
+V-66	heart disease	heart disease	diet	diet	in the majority of patients—this plant-based	
+V-66	flax	flax	seeds	seeds		
+V-66	kidney	kidney	cancer	cancer	disease, breast	
+V-66	tobacco	tobacco	smoking	smoking		
+V-66	disease	disease	arteries	arteries	with lifestyle changes—opening up	
+V-66	american medical association	american medical association	smoking	smoking	was reassuring everyone that	
+V-66	iatrogenic	iatrogenic	death	death	causes—which is, essentially,	
+V-66	blood	blood	kidney	kidney	pressure, liver diseases, blood cancers,	
+V-66	chronic disease	chronic disease	arteries	arteries	with lifestyle changes—opening up	
+V-66	arteries	arteries	surgery	surgery	without drugs, without	
+V-66	beans	beans	grains	grains	(split peas, chickpeas, and lentils), whole	
+V-66	medicine	medicine	pritikin	pritikin	pioneers, and what happened next was documented in	
+V-66	lentils	lentils	grains	grains	), whole	
+V-66	ground flax	ground flax	seeds	seeds		
+V-66	liver	liver	kidney disease	kidney disease	diseases, blood cancers,	
+V-66	kidney	kidney	disease	disease		
+V-66	how not to die	how not to die	lung disease	lung disease	from heart disease, how not to die from	
+V-66	death	death	diet	diet	and disability is preventable with a plant-based	
+V-66	death	death	plant-based	plant-based	and disability is preventable with a	
+V-66	smoking	smoking	americans	americans	now only kills about a half million	
+V-66	turmeric	turmeric	flax seeds	flax seeds	a day, a tablespoon of ground	
+V-66	women	women	diet	diet	—shouldn’t that be the default	
+V-66	surgeon general	surgeon general	smoking	smoking	report against	
+V-66	liver	liver	kidney	kidney	diseases, blood cancers,	
+V-66	blood	blood	liver	liver	pressure,	
+V-66	cdc	cdc	death	death	compiles the 15 leading causes of	
+V-66	diet	diet	meat	meat	is one that minimizes the intake of	
+V-66	liver	liver	depression	depression	diseases, blood cancers, kidney disease, breast cancer, suicidal	
+V-66	liver	liver	breast cancer	breast cancer	diseases, blood cancers, kidney disease,	
+V-66	health	health	death	death	destiny and longevity—the vast majority of premature	
+V-66	blood	blood	kidney disease	kidney disease	pressure, liver diseases, blood cancers,	
+V-66	diet	diet	eggs	eggs	is one that minimizes the intake of meat,	
+V-66	lentils	lentils	herbs	herbs	), whole grains, nuts and seeds, mushrooms,	
+V-66	lentils	lentils	seeds	seeds	), whole grains, nuts and	
+V-66	smoking	smoking	cancer	cancer	with lung	
+V-66	heart disease	heart disease	plant-based diet	plant-based diet	in the majority of patients—this	
+V-66	chronic disease	chronic disease	surgery	surgery	with lifestyle changes—opening up arteries without drugs, without	
+V-66	ground flax	ground flax	greens	greens	seeds, berries every day,	
+V-66	kidney	kidney	breast cancer	breast cancer	disease,	
+V-66	disease	disease	plant-based diet	plant-based diet	in the majority of patients—this	
+V-66	blood pressure	blood pressure	diabetes	diabetes	and type 2	
+V-66	nuts	nuts	spices	spices	and seeds, mushrooms, herbs, and	
+V-66	plant-based	plant-based	united states	united states	eating simply overwhelming.most deaths in the	
+V-66	arteries	arteries	drugs	drugs	without	
+V-66	beans	beans	lentils	lentils	(split peas, chickpeas, and	
+V-66	kidney	kidney	prostate	prostate	disease, breast cancer, suicidal depression,	
+V-66	reversing chronic disease	reversing chronic disease	drugs	drugs	with lifestyle changes—opening up arteries without	
+V-66	kidney	kidney	prostate cancer	prostate cancer	disease, breast cancer, suicidal depression,	
+V-66	death	death	diet	diet	in the united states is our	
+V-66	reversing chronic disease	reversing chronic disease	arteries	arteries	with lifestyle changes—opening up	
+V-66	diet	diet	heart disease	heart disease	that’s ever been proven to reverse	
+V-66	beans	beans	chickpeas	chickpeas	(split peas,	
+V-66	diet	diet	disease	disease	that’s ever been proven to reverse heart	
+V-66	blood	blood	diabetes	diabetes	pressure and type 2	
+V-66	nuts	nuts	herbs	herbs	and seeds, mushrooms,	
+V-66	berries	berries	greens	greens	every day,	

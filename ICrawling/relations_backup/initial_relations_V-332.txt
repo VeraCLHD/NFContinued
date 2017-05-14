@@ -1,0 +1,52 @@
+
+V-332	blood	blood	cholesterol	cholesterol		
+V-332	plant-based	plant-based	whole grains	whole grains	diet of	
+V-332	lentils	lentils	eggs	eggs	), and fruit, while avoiding meat, dairy, and	
+V-332	calories	calories	plants	plants	in heat.eating	
+V-332	carbohydrates	carbohydrates	body fat	body fat	more quickly rather than storing them as	
+V-332	plant-based diet	plant-based diet	vegetables	vegetables	of whole grains,	
+V-332	plant-based	plant-based	diet	diet		
+V-332	blood	blood	sugar	sugar	cholesterol dropped, and there was better blood	
+V-332	plant-based diet	plant-based diet	chickpeas	chickpeas	of whole grains, vegetables, beans (split peas,	
+V-332	diet	diet	split peas	split peas	of whole grains, vegetables, beans (	
+V-332	plant-based diet	plant-based diet	beans	beans	of whole grains, vegetables,	
+V-332	tobacco	tobacco	chronic disease	chronic disease	industries have been blamed for manufacturing epidemics of	
+V-332	lentils	lentils	dairy	dairy	), and fruit, while avoiding meat,	
+V-332	plant-based diet	plant-based diet	grains	grains	of whole	
+V-332	diet	diet	grains	grains	of whole	
+V-332	plant-based diet	plant-based diet	peas	peas	of whole grains, vegetables, beans (split	
+V-332	insulin	insulin	carbohydrates	carbohydrates	sensitivity in our cells, allowing cells to metabolize	
+V-332	plant-based	plant-based	grains	grains	diet of whole	
+V-332	lentils	lentils	meat	meat	), and fruit, while avoiding	
+V-332	lentils	lentils	fruit	fruit	), and	
+V-332	carbohydrates	carbohydrates	fat	fat	more quickly rather than storing them as body	
+V-332	plant-based diet	plant-based diet	whole grains	whole grains	of	
+V-332	cholesterol	cholesterol	blood	blood	dropped, and there was better	
+V-332	plant-based	plant-based	calories	calories	diets tend to burn off more	
+V-332	diet	diet	chickpeas	chickpeas	of whole grains, vegetables, beans (split peas,	
+V-332	diet	diet	whole grains	whole grains	of	
+V-332	diet	diet	vegetables	vegetables	of whole grains,	
+V-332	calories	calories	metabolism	metabolism	in heat.eating plants appears to boost	
+V-332	blood	blood	blood sugar	blood sugar	cholesterol dropped, and there was better	
+V-332	plant-based	plant-based	chickpeas	chickpeas	diet of whole grains, vegetables, beans (split peas,	
+V-332	plants	plants	metabolism	metabolism	appears to boost	
+V-332	protein	protein	obesity	obesity	had nearly five times the odds of	
+V-332	plant-based	plant-based	vegetables	vegetables	diet of whole grains,	
+V-332	plant-based	plant-based	peas	peas	diet of whole grains, vegetables, beans (split	
+V-332	cholesterol	cholesterol	blood sugar	blood sugar	dropped, and there was better	
+V-332	plant-based diets	plant-based diets	calories	calories	tend to burn off more	
+V-332	medicine	medicine	obesity	obesity	revolution.the annual cost attributable to	
+V-332	diet	diet	beans	beans	of whole grains, vegetables,	
+V-332	plant-based	plant-based	beans	beans	diet of whole grains, vegetables,	
+V-332	beans	beans	peas	peas	(split	
+V-332	plant-based diets	plant-based diets	plants	plants	tend to burn off more calories in heat.eating	
+V-332	beans	beans	lentils	lentils	(split peas, chickpeas, and	
+V-332	beans	beans	fruit	fruit	(split peas, chickpeas, and lentils), and	
+V-332	lifestyle medicine	lifestyle medicine	obesity	obesity	revolution.the annual cost attributable to	
+V-332	diet	diet	peas	peas	of whole grains, vegetables, beans (split	
+V-332	plant-based diet	plant-based diet	split peas	split peas	of whole grains, vegetables, beans (	
+V-332	plant-based	plant-based	split peas	split peas	diet of whole grains, vegetables, beans (	
+V-332	beans	beans	chickpeas	chickpeas	(split peas,	
+V-332	animal protein	animal protein	obesity	obesity	had nearly five times the odds of	
+V-332	tobacco	tobacco	produce	produce	companies, for example, continuing to	
+V-332	cholesterol	cholesterol	sugar	sugar	dropped, and there was better blood	

@@ -1,0 +1,226 @@
+
+T-1681	green tea	green tea	mouth	mouth	may reduce	
+T-1681	plant-based diet	plant-based diet	cholesterol	cholesterol	can treat high	
+T-1681	mouth	mouth	bladder infections	bladder infections	plaque, cranberry juice may treat	
+T-1681	colon	colon	risk	risk	cancer	
+T-1681	tea	tea	plaque	plaque	may reduce mouth	
+T-1681	risk	risk	breast cancer	breast cancer	for diabetes,	
+T-1681	uric acid	uric acid	gout	gout	levels that could lead to	
+T-1681	hibiscus tea	hibiscus tea	high blood pressure	high blood pressure	can be as effective as taking a  	
+T-1681	cranberry	cranberry	infections	infections	juice may treat bladder	
+T-1681	risk	risk	flax	flax	of excessive platelet activation; beans,	
+T-1681	migraine	migraine	curcumin	curcumin	headache, topically applying turmeric	
+T-1681	cancer	cancer	saffron	saffron	risk; phytates may help treat cancer; and	
+T-1681	mouth	mouth	flax seeds	flax seeds	plaque, cranberry juice may treat bladder infections;	
+T-1681	blood	blood	muscle soreness	muscle soreness	pressure; watermelon may treat erectile dysfunction and	
+T-1681	uric acid	uric acid	muscle soreness	muscle soreness	levels that could lead to gout, treat	
+T-1681	mouth	mouth	cranberry	cranberry	plaque,	
+T-1681	flax	flax	amla	amla	seeds, and indian gooseberries, also known as	
+T-1681	tea	tea	cranberry	cranberry	may reduce mouth plaque,	
+T-1681	bladder	bladder	seeds	seeds	infections; flax	
+T-1681	colon	colon	cancer	cancer		
+T-1681	plant-based diet	plant-based diet	health	health	may improve	
+T-1681	juice	juice	flax	flax	may treat bladder infections;	
+T-1681	cranberry juice	cranberry juice	seeds	seeds	may treat bladder infections; flax	
+T-1681	blood	blood	watermelon	watermelon	pressure;	
+T-1681	colon cancer	colon cancer	saffron	saffron	risk; phytates may help treat cancer; and	
+T-1681	side effects	side effects	health	health	of the prescription medications used for these	
+T-1681	amla	amla	cherries	cherries	may help control diabetes;	
+T-1681	cancer	cancer	phytates	phytates	risk;	
+T-1681	juice	juice	bladder	bladder	may treat	
+T-1681	colon cancer	colon cancer	phytates	phytates	risk;	
+T-1681	tea	tea	bladder	bladder	may reduce mouth plaque, cranberry juice may treat	
+T-1681	tea	tea	blood	blood	can be as effective as taking a  high	
+T-1681	arthritis	arthritis	risk	risk	symptoms and colon cancer	
+T-1681	cranberry	cranberry	flax seeds	flax seeds	juice may treat bladder infections;	
+T-1681	symptoms	symptoms	cancer	cancer	and colon	
+T-1681	liver	liver	risk	risk	and brain protection, as well as lowering the	
+T-1681	diet	diet	cholesterol	cholesterol	can treat high	
+T-1681	rheumatoid arthritis	rheumatoid arthritis	colon	colon	symptoms and	
+T-1681	fenugreek	fenugreek	maple syrup	maple syrup	seeds may result in your armpits smelling like	
+T-1681	precancerous	precancerous	curcumin	curcumin	lesions, and eating	
+T-1681	symptoms	symptoms	colon cancer	colon cancer	and	
+T-1681	risk	risk	diabetes	diabetes	for	
+T-1681	hibiscus tea	hibiscus tea	blood	blood	can be as effective as taking a  high	
+T-1681	mouth	mouth	seeds	seeds	plaque, cranberry juice may treat bladder infections; flax	
+T-1681	colon	colon	phytates	phytates	cancer risk;	
+T-1681	risk	risk	pain	pain	for diabetes, breast cancer, heart attack, depression, menstrual	
+T-1681	nuts	nuts	green tea	green tea	may treat erectile dysfunction;	
+T-1681	arthritis	arthritis	colon cancer	colon cancer	symptoms and	
+T-1681	lemon balm	lemon balm	migraine	migraine	tea may protect against radiation and treat	
+T-1681	mouth	mouth	cranberry juice	cranberry juice	plaque,	
+T-1681	phytates	phytates	cancer	cancer	may help treat	
+T-1681	orange	orange	aromatherapy	aromatherapy		
+T-1681	orange	orange	music	music	aromatherapy and listening to certain genres of	
+T-1681	hibiscus	hibiscus	tea	tea		
+T-1681	cranberry	cranberry	juice	juice		
+T-1681	radiation	radiation	turmeric	turmeric	and treat migraine headache, topically applying	
+T-1681	growth hormone	growth hormone	eczema	eczema	linked to cancer; treat asthma and	
+T-1681	lemon	lemon	migraine	migraine	balm tea may protect against radiation and treat	
+T-1681	music	music	exercise	exercise	may reduce anxiety, and	
+T-1681	green tea	green tea	bladder	bladder	may reduce mouth plaque, cranberry juice may treat	
+T-1681	mouth	mouth	plaque	plaque		
+T-1681	green tea	green tea	plaque	plaque	may reduce mouth	
+T-1681	plant-based	plant-based	cholesterol	cholesterol	diet can treat high	
+T-1681	risk	risk	cancer	cancer	for diabetes, breast	
+T-1681	flax	flax	seeds	seeds		
+T-1681	lemon	lemon	tea	tea	balm	
+T-1681	asthma	asthma	diabetes	diabetes	and eczema; reduce the risk for	
+T-1681	supplements	supplements	health food	health food	can also have side effects, which most	
+T-1681	lemon	lemon	radiation	radiation	balm tea may protect against	
+T-1681	diet	diet	side effects	side effects	may improve health without the	
+T-1681	nuts	nuts	tea	tea	may treat erectile dysfunction; green	
+T-1681	plant-based	plant-based	health	health	diet may improve	
+T-1681	cranberry juice	cranberry juice	flax seeds	flax seeds	may treat bladder infections;	
+T-1681	risk	risk	depression	depression	for diabetes, breast cancer, heart attack,	
+T-1681	green tea	green tea	bladder infections	bladder infections	may reduce mouth plaque, cranberry juice may treat	
+T-1681	symptoms	symptoms	risk	risk	and colon cancer	
+T-1681	plant-based	plant-based	side effects	side effects	diet may improve health without the	
+T-1681	plant foods	plant foods	side effects	side effects	also have potential	
+T-1681	turmeric	turmeric	lemon balm	lemon balm	may reduce inflammation; ginger or	
+T-1681	aromatherapy	aromatherapy	music	music	and listening to certain genres of	
+T-1681	side effects	side effects	medications	medications	of the prescription	
+T-1681	lemon balm tea	lemon balm tea	radiation	radiation	may protect against	
+T-1681	diet	diet	health	health	may improve	
+T-1681	risk	risk	seeds	seeds	of excessive platelet activation; beans, flax	
+T-1681	cranberry juice	cranberry juice	infections	infections	may treat bladder	
+T-1681	turmeric	turmeric	lemon	lemon	may reduce inflammation; ginger or	
+T-1681	berries	berries	risk	risk	at least twice a day can lower the	
+T-1681	peppermint oil	peppermint oil	irritable bowel syndrome	irritable bowel syndrome	may help treat	
+T-1681	lemon balm	lemon balm	tea	tea		
+T-1681	teeth	teeth	mouth	mouth	if we don’t rinse our	
+T-1681	benign prostatic hyperplasia	benign prostatic hyperplasia	blood pressure	blood pressure	and high	
+T-1681	lemon balm	lemon balm	radiation	radiation	tea may protect against	
+T-1681	tea	tea	cranberry juice	cranberry juice	may reduce mouth plaque,	
+T-1681	risk	risk	menstrual pain	menstrual pain	for diabetes, breast cancer, heart attack, depression,	
+T-1681	lead	lead	muscle soreness	muscle soreness	to gout, treat	
+T-1681	nuts	nuts	erectile dysfunction	erectile dysfunction	may treat	
+T-1681	amla	amla	inflammation	inflammation	may help control diabetes; cherries may help reduce	
+T-1681	precancerous	precancerous	arthritis	arthritis	lesions, and eating curcumin may reduce rheumatoid	
+T-1681	phytates	phytates	saffron	saffron	may help treat cancer; and	
+T-1681	cancer	cancer	risk	risk		
+T-1681	cherries	cherries	uric acid	uric acid	may help reduce inflammation, reducing	
+T-1681	cranberry juice	cranberry juice	benign prostatic hyperplasia	benign prostatic hyperplasia	may treat bladder infections; flax seeds can help	
+T-1681	growth hormone	growth hormone	cancer	cancer	linked to	
+T-1681	curcumin	curcumin	precancerous	precancerous	may reduce	
+T-1681	green tea	green tea	cranberry juice	cranberry juice	may reduce mouth plaque,	
+T-1681	symptoms	symptoms	phytates	phytates	and colon cancer risk;	
+T-1681	amla	amla	diabetes	diabetes	may help control	
+T-1681	turmeric	turmeric	lemon balm tea	lemon balm tea	may reduce inflammation; ginger or	
+T-1681	grapefruit	grapefruit	drugs	drugs	while taking statin	
+T-1681	mouth	mouth	infections	infections	plaque, cranberry juice may treat bladder	
+T-1681	rheumatoid arthritis	rheumatoid arthritis	cancer	cancer	symptoms and colon	
+T-1681	mouth	mouth	bladder	bladder	plaque, cranberry juice may treat	
+T-1681	watermelon	watermelon	ginger	ginger	may treat erectile dysfunction and muscle soreness; cloves,	
+T-1681	tea	tea	bladder infections	bladder infections	may reduce mouth plaque, cranberry juice may treat	
+T-1681	saffron	saffron	aromatherapy	aromatherapy	may treat alzheimer’s disease.also, orange	
+T-1681	turmeric	turmeric	ginger	ginger	may reduce inflammation;	
+T-1681	peppermint oil	peppermint oil	syndrome	syndrome	may help treat irritable bowel	
+T-1681	seeds	seeds	maple syrup	maple syrup	may result in your armpits smelling like	
+T-1681	tea	tea	high blood pressure	high blood pressure	can be as effective as taking a  	
+T-1681	benign prostatic hyperplasia	benign prostatic hyperplasia	blood	blood	and high	
+T-1681	risk	risk	heart attack	heart attack	for diabetes, breast cancer,	
+T-1681	turmeric	turmeric	tea	tea	may reduce inflammation; ginger or lemon balm	
+T-1681	tea	tea	blood pressure	blood pressure	can be as effective as taking a  high	
+T-1681	health food store	health food store	plant-based diet	plant-based diet	employees may not inform customers about.a whole-food,	
+T-1681	cranberry	cranberry	bladder infections	bladder infections	juice may treat	
+T-1681	colon cancer	colon cancer	cancer	cancer	risk; phytates may help treat	
+T-1681	health food	health food	plant-based	plant-based	store employees may not inform customers about.a whole-food,	
+T-1681	asthma	asthma	breast cancer	breast cancer	and eczema; reduce the risk for diabetes,	
+T-1681	medications	medications	plant foods	plant foods	used for these health problems.specific whole,	
+T-1681	precancerous	precancerous	symptoms	symptoms	lesions, and eating curcumin may reduce rheumatoid arthritis	
+T-1681	cranberry	cranberry	bladder	bladder	juice may treat	
+T-1681	medications	medications	health	health	used for these	
+T-1681	juice	juice	benign prostatic hyperplasia	benign prostatic hyperplasia	may treat bladder infections; flax seeds can help	
+T-1681	mouth	mouth	water	water	with	
+T-1681	risk	risk	side effects	side effects	of potential serious	
+T-1681	lead	lead	insomnia	insomnia	to gout, treat muscle soreness, and help treat	
+T-1681	nuts	nuts	mouth	mouth	may treat erectile dysfunction; green tea may reduce	
+T-1681	cranberry juice	cranberry juice	bladder	bladder	may treat	
+T-1681	rheumatoid arthritis	rheumatoid arthritis	symptoms	symptoms		
+T-1681	benign prostatic hyperplasia	benign prostatic hyperplasia	erectile dysfunction	erectile dysfunction	and high blood pressure; watermelon may treat	
+T-1681	bladder	bladder	flax seeds	flax seeds	infections;	
+T-1681	curcumin	curcumin	precancerous lesions	precancerous lesions	may reduce	
+T-1681	plant-based diet	plant-based diet	side effects	side effects	may improve health without the	
+T-1681	bladder	bladder	benign prostatic hyperplasia	benign prostatic hyperplasia	infections; flax seeds can help	
+T-1681	cholesterol	cholesterol	drugs	drugs	better than some statin lowering	
+T-1681	hibiscus tea	hibiscus tea	blood pressure	blood pressure	can be as effective as taking a  high	
+T-1681	health food store	health food store	diet	diet	employees may not inform customers about.a whole-food, plant-based	
+T-1681	migraine	migraine	precancerous lesions	precancerous lesions	headache, topically applying turmeric curcumin may reduce	
+T-1681	juice	juice	infections	infections	may treat bladder	
+T-1681	supplements	supplements	health food store	health food store	can also have side effects, which most	
+T-1681	bladder	bladder	infections	infections		
+T-1681	juice	juice	flax seeds	flax seeds	may treat bladder infections;	
+T-1681	plant-based diet	plant-based diet	prescription drugs	prescription drugs	may improve health without the side effects of	
+T-1681	juice	juice	seeds	seeds	may treat bladder infections; flax	
+T-1681	arthritis	arthritis	cancer	cancer	symptoms and colon	
+T-1681	herbal	herbal	hibiscus	hibiscus	teas, like	
+T-1681	plant foods	plant foods	risk	risk	may help treat certain diseases without the	
+T-1681	rheumatoid arthritis	rheumatoid arthritis	phytates	phytates	symptoms and colon cancer risk;	
+T-1681	exercise	exercise	plant foods	plant foods	should be considered when treating adhd.some	
+T-1681	benign prostatic hyperplasia	benign prostatic hyperplasia	watermelon	watermelon	and high blood pressure;	
+T-1681	health food	health food	plant-based diet	plant-based diet	store employees may not inform customers about.a whole-food,	
+T-1681	cranberry	cranberry	seeds	seeds	juice may treat bladder infections; flax	
+T-1681	lead	lead	gout	gout	to	
+T-1681	watermelon	watermelon	cloves	cloves	may treat erectile dysfunction and muscle soreness;	
+T-1681	migraine	migraine	precancerous	precancerous	headache, topically applying turmeric curcumin may reduce	
+T-1681	side effects	side effects	medications	medications	from prescription or over-the-counter	
+T-1681	health food store	health food store	plant-based	plant-based	employees may not inform customers about.a whole-food,	
+T-1681	radiation	radiation	curcumin	curcumin	and treat migraine headache, topically applying turmeric	
+T-1681	benign prostatic hyperplasia	benign prostatic hyperplasia	high blood pressure	high blood pressure	and	
+T-1681	diet	diet	prescription drugs	prescription drugs	may improve health without the side effects of	
+T-1681	colon cancer	colon cancer	risk	risk		
+T-1681	arthritis	arthritis	symptoms	symptoms		
+T-1681	supplements	supplements	health	health	can also have side effects, which most	
+T-1681	migraine	migraine	turmeric	turmeric	headache, topically applying	
+T-1681	risk	risk	beans	beans	of excessive platelet activation;	
+T-1681	mouth	mouth	flax	flax	plaque, cranberry juice may treat bladder infections;	
+T-1681	precancerous	precancerous	rheumatoid arthritis	rheumatoid arthritis	lesions, and eating curcumin may reduce	
+T-1681	cancer	cancer	cancer	cancer	risk; phytates may help treat	
+T-1681	asthma	asthma	risk	risk	and eczema; reduce the	
+T-1681	plant-based	plant-based	diet	diet		
+T-1681	arthritis	arthritis	phytates	phytates	symptoms and colon cancer risk;	
+T-1681	watermelon	watermelon	muscle soreness	muscle soreness	may treat erectile dysfunction and	
+T-1681	grapefruit	grapefruit	side effects	side effects	while taking statin drugs can possibly worsen these	
+T-1681	risk	risk	flax seeds	flax seeds	of excessive platelet activation; beans,	
+T-1681	tea	tea	mouth	mouth	may reduce	
+T-1681	blood	blood	erectile dysfunction	erectile dysfunction	pressure; watermelon may treat	
+T-1681	flax	flax	gooseberries	gooseberries	seeds, and indian	
+T-1681	green tea	green tea	cranberry	cranberry	may reduce mouth plaque,	
+T-1681	health	health	plant foods	plant foods	problems.specific whole,	
+T-1681	peppermint oil	peppermint oil	nuts	nuts	may help treat irritable bowel syndrome, pistachio	
+T-1681	flax	flax	indian gooseberries	indian gooseberries	seeds, and	
+T-1681	mouth	mouth	juice	juice	plaque, cranberry	
+T-1681	green tea	green tea	juice	juice	may reduce mouth plaque, cranberry	
+T-1681	saffron	saffron	orange	orange	may treat alzheimer’s disease.also,	
+T-1681	asthma	asthma	eczema	eczema	and	
+T-1681	fenugreek	fenugreek	seeds	seeds		
+T-1681	peppermint	peppermint	nuts	nuts	oil may help treat irritable bowel syndrome, pistachio	
+T-1681	growth hormone	growth hormone	asthma	asthma	linked to cancer; treat	
+T-1681	supplements	supplements	side effects	side effects	can also have	
+T-1681	bladder	bladder	flax	flax	infections;	
+T-1681	lemon balm tea	lemon balm tea	migraine	migraine	may protect against radiation and treat	
+T-1681	asthma	asthma	cancer	cancer	and eczema; reduce the risk for diabetes, breast	
+T-1681	cranberry juice	cranberry juice	bladder infections	bladder infections	may treat	
+T-1681	drugs	drugs	side effects	side effects	can possibly worsen these	
+T-1681	side effects	side effects	americans	americans	kill an estimated 100,000	
+T-1681	uric acid	uric acid	lead	lead	levels that could	
+T-1681	peppermint	peppermint	irritable bowel syndrome	irritable bowel syndrome	oil may help treat	
+T-1681	symptoms	symptoms	colon	colon	and	
+T-1681	cranberry	cranberry	flax	flax	juice may treat bladder infections;	
+T-1681	music	music	anxiety	anxiety	may reduce	
+T-1681	watermelon	watermelon	erectile dysfunction	erectile dysfunction	may treat	
+T-1681	risk	risk	indian gooseberries	indian gooseberries	of excessive platelet activation; beans, flax seeds, and	
+T-1681	colon	colon	saffron	saffron	cancer risk; phytates may help treat cancer; and	
+T-1681	rheumatoid arthritis	rheumatoid arthritis	risk	risk	symptoms and colon cancer	
+T-1681	urine	urine	side effects	side effects	and red stools are potential	
+T-1681	radiation	radiation	migraine	migraine	and treat	
+T-1681	rheumatoid arthritis	rheumatoid arthritis	colon cancer	colon cancer	symptoms and	
+T-1681	teeth	teeth	water	water	if we don’t rinse our mouth with	
+T-1681	cranberry juice	cranberry juice	flax	flax	may treat bladder infections;	
+T-1681	tea	tea	juice	juice	may reduce mouth plaque, cranberry	
+T-1681	cherries	cherries	inflammation	inflammation	may help reduce	
+T-1681	peppermint	peppermint	syndrome	syndrome	oil may help treat irritable bowel	
+T-1681	juice	juice	bladder infections	bladder infections	may treat	
+T-1681	arthritis	arthritis	colon	colon	symptoms and	
+T-1681	turmeric	turmeric	inflammation	inflammation	may reduce	

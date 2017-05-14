@@ -1,0 +1,23 @@
+
+T-1299	brain damage	brain damage	dementia	dementia	 (including memory loss and 	
+T-1299	meat	meat	fish	fish	and	
+T-1299	fish	fish	brain damage	brain damage	may be contributing to 	
+T-1299	memory	memory	dementia	dementia	loss and 	
+T-1299	brain damage	brain damage	tremors	tremors	 (including memory loss and dementia) as well as muscle	
+T-1299	meat	meat	memory	memory	and fish may be contributing to brain damage (including 	
+T-1299	neurotoxins	neurotoxins	tremors	tremors	found in chicken may be linked to hand	
+T-1299	meat	meat	dementia	dementia	and fish may be contributing to brain damage (including memory loss and 	
+T-1299	memory	memory	tremors	tremors	loss and dementia) as well as muscle	
+T-1299	chicken	chicken	tremors	tremors	may be linked to hand	
+T-1299	meat	meat	brain damage	brain damage	and fish may be contributing to 	
+T-1299	seafood	seafood	als	als	may be linked to	
+T-1299	seafood	seafood	disease	disease	may be linked to als (lou gehrig’s	
+T-1299	neurotoxins	neurotoxins	meat	meat	in	
+T-1299	fish	fish	memory	memory	may be contributing to brain damage (including 	
+T-1299	dementia	dementia	tremors	tremors	) as well as muscle	
+T-1299	neurotoxins	neurotoxins	chicken	chicken	found in	
+T-1299	brain damage	brain damage	memory	memory	 (including 	
+T-1299	fish	fish	dementia	dementia	may be contributing to brain damage (including memory loss and 	
+T-1299	als	als	disease	disease	(lou gehrig’s	
+T-1299	neurotoxins	neurotoxins	fish	fish	in meat and	
+T-1299	neurotoxins	neurotoxins	brain damage	brain damage	in meat and fish may be contributing to 	

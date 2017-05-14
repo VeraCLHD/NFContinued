@@ -1,0 +1,18 @@
+
+V-168	nuts	nuts	seeds	seeds	and	
+V-168	nutrient density	nutrient density	diet	diet		
+V-168	diet	diet	greens	greens	that emphasizes all-you-can-eat	
+V-168	diet	diet	vegetables	vegetables	that emphasizes all-you-can-eat greens, lots of	
+V-168	raw	raw	greens	greens		
+V-168	a1c	a1c	sugar	sugar	is considered the best measure of blood	
+V-168	fruit	fruit	greens	greens	at every meal, a pound of cooked	
+V-168	raw	raw	nuts	nuts	greens, veggie-bean soup, a handful of	
+V-168	raw	raw	soup	soup	greens, veggie-bean	
+V-168	women	women	diet	diet	sticking to this	
+V-168	nuts	nuts	fruit	fruit	and seeds,	
+V-168	diabetes	diabetes	drugs	drugs	be rolled out, which include lots of	
+V-168	raw	raw	seeds	seeds	greens, veggie-bean soup, a handful of nuts and	
+V-168	a1c	a1c	blood sugar	blood sugar	is considered the best measure of	
+V-168	a1c	a1c	blood	blood	is considered the best measure of	
+V-168	blood	blood	sugar	sugar		
+V-168	diet	diet	beans	beans	that emphasizes all-you-can-eat greens, lots of vegetables,	

@@ -1,0 +1,43 @@
+
+V-542	grapefruit	grapefruit	cancer	cancer	consumption with breast	
+V-542	grapefruit	grapefruit	medical community	medical community	consumption with breast cancer, freaked out the	
+V-542	phytochemicals	phytochemicals	enzymes	enzymes	in grapefruit suppress the	
+V-542	heart disease	heart disease	drugs	drugs	stop taking their statin	
+V-542	grapefruit	grapefruit	side effects	side effects	alone don’t have any	
+V-542	apples	apples	pears	pears	or	
+V-542	enzymes	enzymes	juice	juice	with grapefruit	
+V-542	phytochemicals	phytochemicals	plants	plants	in	
+V-542	juice	juice	estrogen	estrogen	elevates levels of ingested	
+V-542	grapefruit juice	grapefruit juice	estrogen	estrogen	elevates levels of ingested	
+V-542	harvard	harvard	risk	risk	nurses’ study found a decreased	
+V-542	grapefruits	grapefruits	drugs	drugs	and	
+V-542	fruits	fruits	drugs	drugs	and veggies, you won’t need a lot of	
+V-542	grapefruits	grapefruits	side effects	side effects	and drugs together, and you can make drug	
+V-542	enzymes	enzymes	grapefruit juice	grapefruit juice	with	
+V-542	plants	plants	drugs	drugs	can affect the metabolism of	
+V-542	risk	risk	side effects	side effects	of	
+V-542	grapefruits	grapefruits	triglycerides	triglycerides	—and, even a little dip in	
+V-542	grapefruit	grapefruit	blood	blood	may increase	
+V-542	caffeine	caffeine	coffee	coffee	buzz from your morning	
+V-542	grapefruit	grapefruit	estrogen	estrogen	juice elevates levels of ingested	
+V-542	plants	plants	metabolism	metabolism	can affect the	
+V-542	risk	risk	breast cancer	breast cancer	of the scariest	
+V-542	drugs	drugs	grapefruit	grapefruit	in the body, and	
+V-542	drugs	drugs	side effects	side effects	together, and you can make drug	
+V-542	phytochemicals	phytochemicals	grapefruit	grapefruit	in	
+V-542	metabolism	metabolism	drugs	drugs	of	
+V-542	enzymes	enzymes	grapefruit	grapefruit	with	
+V-542	enzymes	enzymes	estrogen	estrogen	with grapefruit juice elevates levels of ingested	
+V-542	grapefruit	grapefruit	breast cancer	breast cancer	consumption with	
+V-542	risk	risk	cancer	cancer	of the scariest breast	
+V-542	risk	risk	blood	blood	of	
+V-542	phytochemicals	phytochemicals	drugs	drugs	in plants can affect the metabolism of	
+V-542	phytochemicals	phytochemicals	metabolism	metabolism	in plants can affect the	
+V-542	side effects	side effects	fruits	fruits	even worse.now, hopefully, if you eat lots of	
+V-542	blood	blood	grapefruit	grapefruit	clots, particularly, perhaps, if they have been consuming	
+V-542	metabolism	metabolism	grapefruit	grapefruit	of drugs in the body, and	
+V-542	risk	risk	blood clots	blood clots	of	
+V-542	disease	disease	drugs	drugs	stop taking their statin	
+V-542	grapefruit	grapefruit	enzymes	enzymes	suppress the	
+V-542	women	women	risk	risk	taking the pill are at a higher	
+V-542	grapefruit	grapefruit	juice	juice		

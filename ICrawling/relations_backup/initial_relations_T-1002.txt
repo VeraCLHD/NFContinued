@@ -1,0 +1,26 @@
+
+T-1002	goji	goji	berries	berries		
+T-1002	aspartame	aspartame	pineal gland	pineal gland	ingestion.melatonin is secreted at night by the	
+T-1002	sleep	sleep	lifespan	lifespan	per night is associated with a longer	
+T-1002	tart cherries	tart cherries	sleep	sleep	have been associated with improved	
+T-1002	exercise	exercise	insomnia	insomnia	has been found to help decrease	
+T-1002	pregnant	pregnant	women	women		
+T-1002	tea	tea	pregnant women	pregnant women	is commonly used as a sleep aid, but	
+T-1002	insomnia	insomnia	exercise	exercise	among the elderly.physical	
+T-1002	pregnant women	pregnant women	pregnancy	pregnancy	should avoid using it during	
+T-1002	anti-inflammatory	anti-inflammatory	lead	lead	properties, which can	
+T-1002	tea	tea	pregnant	pregnant	is commonly used as a sleep aid, but	
+T-1002	lead	lead	sleep	sleep	to improvements in	
+T-1002	immune function	immune function	fibromyalgia	fibromyalgia	for adults.insomnia has also been associated with pms,	
+T-1002	immune function	immune function	pms	pms	for adults.insomnia has also been associated with	
+T-1002	goji	goji	tomatoes	tomatoes	berries,	
+T-1002	sleep	sleep	kiwis	kiwis	.in one study where subjects had eaten two	
+T-1002	goji	goji	fenugreek	fenugreek	berries, tomatoes and	
+T-1002	pregnant	pregnant	pregnancy	pregnancy	women should avoid using it during	
+T-1002	goji	goji	seeds	seeds	berries, tomatoes and fenugreek	
+T-1002	tomatoes	tomatoes	fenugreek	fenugreek	and	
+T-1002	tea	tea	sleep	sleep	is commonly used as a	
+T-1002	cherries	cherries	sleep	sleep	have been associated with improved	
+T-1002	fenugreek	fenugreek	seeds	seeds		
+T-1002	women	women	pregnancy	pregnancy	should avoid using it during	
+T-1002	tomatoes	tomatoes	seeds	seeds	and fenugreek	

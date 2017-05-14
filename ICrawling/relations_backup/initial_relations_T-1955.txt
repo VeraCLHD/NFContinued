@@ -1,0 +1,53 @@
+
+T-1955	tea	tea	water	water	from	
+T-1955	water	water	tea	tea	and the safe limit for	
+T-1955	coffee	coffee	blood pressure	blood pressure	may raise	
+T-1955	hydration	hydration	mood	mood	can prevent fainting, dry eyes, affect	
+T-1955	fruits	fruits	greece	greece	and vegetables.in	
+T-1955	soy milk	soy milk	tea	tea	to your	
+T-1955	milk	milk	soy	soy	or	
+T-1955	water	water	fruits	fruits	cleans	
+T-1955	coffee	coffee	blood	blood	may raise	
+T-1955	blood	blood	tea	tea	pressure,	
+T-1955	milk	milk	tea	tea	or soy milk to your	
+T-1955	mouth	mouth	water	water	with	
+T-1955	phytonutrients	phytonutrients	fruits	fruits	in tea as well as the phytonutrients in	
+T-1955	cold	cold	kidney	kidney	and	
+T-1955	benzene	benzene	water	water	in drinking	
+T-1955	cold	cold	kidney stones	kidney stones	and	
+T-1955	baking	baking	water	water	soda to a liter of plain tap	
+T-1955	phytonutrients	phytonutrients	tea	tea	in	
+T-1955	fast food	fast food	french fries	french fries		
+T-1955	hibiscus tea	hibiscus tea	antioxidant	antioxidant	from water increases your daily	
+T-1955	fruits	fruits	health	health	and vegetables.in greece, where a	
+T-1955	common cold	common cold	kidney	kidney	and	
+T-1955	fruits	fruits	vegetables	vegetables	and	
+T-1955	soy	soy	milk	milk		
+T-1955	hibiscus	hibiscus	water	water	tea from	
+T-1955	water	water	soft drinks	soft drinks	over	
+T-1955	water	water	cholesterol	cholesterol	has been found to reduce	
+T-1955	water	water	antioxidant	antioxidant	increases your daily	
+T-1955	antioxidant	antioxidant	teeth	teeth	intake dramatically, but its acidity may harm your	
+T-1955	hibiscus tea	hibiscus tea	water	water	from	
+T-1955	hibiscus	hibiscus	antioxidant	antioxidant	tea from water increases your daily	
+T-1955	kidney	kidney	kids	kids	stones, and even make your	
+T-1955	cold	cold	kids	kids	and kidney stones, and even make your	
+T-1955	hibiscus	hibiscus	tea	tea		
+T-1955	milk	milk	soy milk	soy milk	or	
+T-1955	tea	tea	antioxidant	antioxidant	from water increases your daily	
+T-1955	soda	soda	water	water	to a liter of plain tap	
+T-1955	coffee	coffee	tea	tea	may raise blood pressure,	
+T-1955	tea	tea	phytonutrients	phytonutrients	as well as the	
+T-1955	baking soda	baking soda	water	water	to a liter of plain tap	
+T-1955	common cold	common cold	kidney stones	kidney stones	and	
+T-1955	water	water	vegetables	vegetables	cleans fruits and	
+T-1955	tea	tea	water	water	is equally hydrating as	
+T-1955	health	health	dietary guidelines	dietary guidelines	agency formulates the	
+T-1955	common cold	common cold	kids	kids	and kidney stones, and even make your	
+T-1955	baking	baking	soda	soda		
+T-1955	tea	tea	blood	blood	has a beneficial effect on your	
+T-1955	alkaline water	alkaline water	cholesterol	cholesterol	has been found to reduce	
+T-1955	juice	juice	benzene	benzene	has been found to have	
+T-1955	acrylamide	acrylamide	water	water	in drinking	
+T-1955	soy	soy	tea	tea	milk to your	
+T-1955	hydration	hydration	fainting	fainting	can prevent	

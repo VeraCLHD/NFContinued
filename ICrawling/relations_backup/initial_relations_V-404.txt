@@ -1,0 +1,39 @@
+
+V-404	bacteria	bacteria	lactose	lactose	in their small intestine, were fructose or	
+V-404	fruits	fruits	whole grains	whole grains	and vegetables, more	
+V-404	kale	kale	blueberries	blueberries	or	
+V-404	whole grains	whole grains	beans	beans	and	
+V-404	marshmallows	marshmallows	diet	diet	to deep-fry in vegan bacon grease.if a healthy	
+V-404	wheat	wheat	gluten	gluten	and/or	
+V-404	bacteria	bacteria	fructose	fructose	in their small intestine, were	
+V-404	vegan	vegan	diet	diet	bacon grease.if a healthy	
+V-404	bacon	bacon	diet	diet	grease.if a healthy	
+V-404	chocolate	chocolate	marshmallows	marshmallows		
+V-404	marshmallows	marshmallows	bacon	bacon	to deep-fry in vegan	
+V-404	symptoms	symptoms	gluten	gluten	of	
+V-404	skin	skin	anemia	anemia	rash or	
+V-404	blood	blood	biopsy	biopsy	tests and a small intestinal	
+V-404	fructose	fructose	lactose	lactose	or	
+V-404	chocolate	chocolate	vegan	vegan	marshmallows to deep-fry in	
+V-404	marshmallows	marshmallows	vegan	vegan	to deep-fry in	
+V-404	skin	skin	rash	rash		
+V-404	gluten	gluten	diet	diet	-free	
+V-404	gluten	gluten	diet	diet	sensitive should not go on a gluten-free	
+V-404	chocolate	chocolate	bacon	bacon	marshmallows to deep-fry in vegan	
+V-404	fruits	fruits	beans	beans	and vegetables, more whole grains and	
+V-404	symptoms	symptoms	gluten	gluten	improve, stick with it, though maybe rechallenging with	
+V-404	gluten	gluten	diet	diet	periodically.unlike celiac disease, a gluten-free	
+V-404	rash	rash	anemia	anemia	or	
+V-404	fruits	fruits	grains	grains	and vegetables, more whole	
+V-404	grains	grains	beans	beans	and	
+V-404	gluten	gluten	bloating	bloating	sensitivity include irritable bowel type symptoms such as	
+V-404	vegan	vegan	bacon	bacon		
+V-404	vegans	vegans	vegetables	vegetables	were forced to eat healthy, eat actual	
+V-404	gluten	gluten	symptoms	symptoms	-free diet, and if	
+V-404	symptoms	symptoms	gluten	gluten	should try a	
+V-404	fruits	fruits	vegetables	vegetables	and	
+V-404	beans	beans	gluten	gluten	while avoiding processed junk.in the past, a	
+V-404	gluten	gluten	symptoms	symptoms	sensitivity include irritable bowel type	
+V-404	beans	beans	diet	diet	while avoiding processed junk.in the past, a gluten-free	
+V-404	symptoms	symptoms	diet	diet	should try a gluten-free	
+V-404	fast food	fast food	restaurants	restaurants		

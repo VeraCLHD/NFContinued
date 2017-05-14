@@ -1,0 +1,120 @@
+
+A-382	skin	skin	cancer	cancer		
+A-382	aids	aids	immune system	immune system	and the	
+A-382	dna	dna	soy	soy	repair,cellular stress defenses, anti-inflammatory properties, 	
+A-382	pancreatitis	pancreatitis	liver	liver	to pancreatic cancer, chronic hepatitis to	
+A-382	plant-based	plant-based	risk	risk	diets have lower	
+A-382	liver	liver	stomach inflammation	stomach inflammation	cancer, and	
+A-382	kidney	kidney	cancer	cancer	transplant, though your skin	
+A-382	ulcerative colitis	ulcerative colitis	pancreatitis	pancreatitis	to colon cancer, chronic	
+A-382	skin cancer	skin cancer	risk	risk		
+A-382	stomach	stomach	cancer	cancer	inflammation to stomach	
+A-382	immune function	immune function	risk	risk	declines, our	
+A-382	colon	colon	cancer	cancer		
+A-382	stomach	stomach	inflammation	inflammation		
+A-382	stomach	stomach	stomach cancer	stomach cancer	inflammation to	
+A-382	ulcerative colitis	ulcerative colitis	colon cancer	colon cancer	to	
+A-382	tumors	tumors	meat	meat	use	
+A-382	meat	meat	dairy	dairy	and	
+A-382	kidney	kidney	drugs	drugs	transplants, they must be given immunosuppressive	
+A-382	kidney	kidney	risk	risk	transplant, though your skin cancer	
+A-382	skin cancer	skin cancer	cancer	cancer	risk may go up, your breast	
+A-382	environment	environment	inflammation	inflammation	of low-grade	
+A-382	immune function	immune function	cancer	cancer	declines, our risk of	
+A-382	dna	dna	stress	stress	repair,cellular	
+A-382	stomach inflammation	stomach inflammation	stomach	stomach	to	
+A-382	dna	dna	anti-inflammatory	anti-inflammatory	repair,cellular stress defenses, 	
+A-382	stress	stress	anti-inflammatory	anti-inflammatory	defenses, 	
+A-382	immune function	immune function	risk	risk	 decreases 	
+A-382	risk	risk	breast cancer	breast cancer	may go up, your	
+A-382	stress	stress	soy	soy	defenses, anti-inflammatory properties, 	
+A-382	cancer	cancer	breast cancer	breast cancer	risk may go up, your	
+A-382	inflammation	inflammation	cancer	cancer	to stomach	
+A-382	cancer	cancer	pancreatitis	pancreatitis	–ulcerative colitis to colon cancer, chronic	
+A-382	ulcerative colitis	ulcerative colitis	colon	colon	to	
+A-382	dna	dna	lignans	lignans	repair,cellular stress defenses, anti-inflammatory properties, soy, 	
+A-382	anti-inflammatory	anti-inflammatory	fiber	fiber	properties, soy, lignans, phytonutrients, and 	
+A-382	breast cancer	breast cancer	cancer	cancer	and rectal	
+A-382	stress	stress	phytonutrients	phytonutrients	defenses, anti-inflammatory properties, soy, lignans, 	
+A-382	kidney	kidney	skin cancer	skin cancer	transplant, though your	
+A-382	cancer	cancer	disease	disease	as an autoimmune	
+A-382	women	women	dairy	dairy	consume in meat and	
+A-382	liver	liver	stomach cancer	stomach cancer	cancer, and stomach inflammation to	
+A-382	hepatitis	hepatitis	stomach	stomach	to liver cancer, and	
+A-382	rectal cancer	rectal cancer	risk	risk		
+A-382	environment	environment	cancer	cancer	of low-grade inflammation that breast	
+A-382	kidney	kidney	skin	skin	transplant, though your	
+A-382	pancreatitis	pancreatitis	cancer	cancer	to pancreatic	
+A-382	inflammation	inflammation	colon cancer	colon cancer	leading to cancer–ulcerative colitis to	
+A-382	skin	skin	risk	risk	cancer	
+A-382	skin	skin	breast cancer	breast cancer	cancer risk may go up, your	
+A-382	hepatitis	hepatitis	liver	liver	to	
+A-382	chronic inflammation	chronic inflammation	ulcerative colitis	ulcerative colitis	leading to cancer–	
+A-382	chronic inflammation	chronic inflammation	colon cancer	colon cancer	leading to cancer–ulcerative colitis to	
+A-382	skin cancer	skin cancer	breast cancer	breast cancer	risk may go up, your	
+A-382	cancer	cancer	rectal cancer	rectal cancer	risk may go up, your breast cancer and	
+A-382	dna	dna	fiber	fiber	repair,cellular stress defenses, anti-inflammatory properties, soy, lignans, phytonutrients, and 	
+A-382	colon	colon	pancreatitis	pancreatitis	cancer, chronic	
+A-382	pancreatitis	pancreatitis	liver cancer	liver cancer	to pancreatic cancer, chronic hepatitis to	
+A-382	hepatitis	hepatitis	stomach inflammation	stomach inflammation	to liver cancer, and	
+A-382	dairy	dairy	environment	environment	to trick their immune systems into creating the	
+A-382	cancer	cancer	ulcerative colitis	ulcerative colitis	–	
+A-382	cancer	cancer	aids	aids	affecting those with	
+A-382	anti-inflammatory	anti-inflammatory	phytonutrients	phytonutrients	properties, soy, lignans, 	
+A-382	chronic inflammation	chronic inflammation	colon	colon	leading to cancer–ulcerative colitis to	
+A-382	cancer	cancer	inflammation	inflammation	creates its own	
+A-382	inflammation	inflammation	pancreatitis	pancreatitis	leading to cancer–ulcerative colitis to colon cancer, chronic	
+A-382	inflammation	inflammation	cancer	cancer	leading to	
+A-382	anti-inflammatory	anti-inflammatory	soy	soy	properties, 	
+A-382	kidney	kidney	immunosuppressive drugs	immunosuppressive drugs	transplants, they must be given	
+A-382	meat	meat	neu5gc	neu5gc	molecule	
+A-382	blood	blood	tumor	tumor	vessels to bring blood to the	
+A-382	risk	risk	cancer	cancer	of	
+A-382	inflammation	inflammation	ulcerative colitis	ulcerative colitis	leading to cancer–	
+A-382	chronic inflammation	chronic inflammation	cancer	cancer	leading to	
+A-382	inflammation	inflammation	colon	colon	leading to cancer–ulcerative colitis to	
+A-382	tumors	tumors	immune system	immune system	express foreign looking molecules that stimulate our	
+A-382	risk	risk	rectal cancer	rectal cancer	may go up, your breast cancer and	
+A-382	stomach inflammation	stomach inflammation	stomach cancer	stomach cancer	to	
+A-382	environment	environment	breast cancer	breast cancer	of low-grade inflammation that	
+A-382	cancer	cancer	cancer	cancer	–ulcerative colitis to colon	
+A-382	liver	liver	stomach	stomach	cancer, and	
+A-382	plant-based diets	plant-based diets	risk	risk	have lower	
+A-382	liver	liver	cancer	cancer		
+A-382	anti-inflammatory	anti-inflammatory	lignans	lignans	properties, soy, 	
+A-382	cancer	cancer	colon	colon	–ulcerative colitis to	
+A-382	hepatitis	hepatitis	liver cancer	liver cancer	to	
+A-382	tumors	tumors	women	women	appear to incorporate this molecule that	
+A-382	skin cancer	skin cancer	rectal cancer	rectal cancer	risk may go up, your breast cancer and	
+A-382	cancer	cancer	angiogenesis	angiogenesis	creates its own inflammation, which may stimulate	
+A-382	chronic inflammation	chronic inflammation	pancreatitis	pancreatitis	leading to cancer–ulcerative colitis to colon cancer, chronic	
+A-382	hepatitis	hepatitis	inflammation	inflammation	to liver cancer, and stomach	
+A-382	colon	colon	pancreatic cancer	pancreatic cancer	cancer, chronic pancreatitis to	
+A-382	inflammation	inflammation	cancer	cancer	that breast	
+A-382	stress	stress	lignans	lignans	defenses, anti-inflammatory properties, soy, 	
+A-382	immune system	immune system	cancer	cancer	acts as a natural defense system for keeping	
+A-382	hepatitis	hepatitis	cancer	cancer	to liver	
+A-382	inflammation	inflammation	stomach	stomach	to	
+A-382	ulcerative colitis	ulcerative colitis	pancreatic cancer	pancreatic cancer	to colon cancer, chronic pancreatitis to	
+A-382	skin	skin	risk	risk	cancer, the	
+A-382	cancer	cancer	pancreatic cancer	pancreatic cancer	–ulcerative colitis to colon cancer, chronic pancreatitis to	
+A-382	breast cancer	breast cancer	risk	risk	and rectal cancer	
+A-382	liver	liver	inflammation	inflammation	cancer, and stomach	
+A-382	cancer	cancer	risk	risk		
+A-382	cancer	cancer	colon cancer	colon cancer	–ulcerative colitis to	
+A-382	ulcerative colitis	ulcerative colitis	cancer	cancer	to colon	
+A-382	inflammation	inflammation	breast cancer	breast cancer	that	
+A-382	women	women	meat	meat	consume in	
+A-382	cancer	cancer	cancer	cancer	risk may go up, your breast	
+A-382	meat	meat	xeno-autoantibodies	xeno-autoantibodies	to grow:	
+A-382	stomach inflammation	stomach inflammation	cancer	cancer	to stomach	
+A-382	stress	stress	fiber	fiber	defenses, anti-inflammatory properties, soy, lignans, phytonutrients, and 	
+A-382	cancer	cancer	risk	risk	and rectal cancer	
+A-382	hepatitis	hepatitis	stomach cancer	stomach cancer	to liver cancer, and stomach inflammation to	
+A-382	risk	risk	cancer	cancer	may go up, your breast	
+A-382	colon	colon	hepatitis	hepatitis	cancer, chronic pancreatitis to pancreatic cancer, chronic	
+A-382	pancreatitis	pancreatitis	hepatitis	hepatitis	to pancreatic cancer, chronic	
+A-382	pancreatitis	pancreatitis	pancreatic cancer	pancreatic cancer	to	
+A-382	breast cancer	breast cancer	rectal cancer	rectal cancer	and	
+A-382	tumors	tumors	xeno-autoantibodies	xeno-autoantibodies	use meat to grow:	
+A-382	dna	dna	phytonutrients	phytonutrients	repair,cellular stress defenses, anti-inflammatory properties, soy, lignans, 	

@@ -1,0 +1,50 @@
+
+V-654	syndrome	syndrome	symptoms	symptoms	 	
+V-654	fibromyalgia	fibromyalgia	diet	diet	symptoms put on a mostly vegetarian	
+V-654	raw vegan	raw vegan	vegan	vegan	diets worked; mostly raw	
+V-654	raw	raw	vegan diets	vegan diets		
+V-654	fibromyalgia	fibromyalgia	vegetarian	vegetarian	symptoms put on a mostly	
+V-654	plant-based	plant-based	vegan	vegan	diets, whether vegetarian or	
+V-654	vegetarian	vegetarian	diet	diet		
+V-654	diet	diet	vegan	vegan	.so, raw	
+V-654	vegan diets	vegan diets	raw vegan	raw vegan	worked; mostly	
+V-654	diet	diet	symptoms	symptoms	would significantly improve fibromyalgia	
+V-654	vegetarian	vegetarian	fibromyalgia	fibromyalgia	diet produced dramatic improvements in [	
+V-654	raw	raw	raw vegan	raw vegan	vegan diets worked; mostly	
+V-654	raw	raw	diet	diet	[and actually vegan]	
+V-654	diet	diet	raw	raw	intervention using a mostly	
+V-654	fibromyalgia	fibromyalgia	syndrome	syndrome		
+V-654	vegan diets	vegan diets	raw	raw	worked; mostly	
+V-654	vegan	vegan	raw	raw	diets worked; mostly	
+V-654	vegan	vegan	fibromyalgia	fibromyalgia	] diet would significantly improve	
+V-654	vegan	vegan	raw	raw	diet.so,	
+V-654	vegetarian	vegetarian	symptoms	symptoms	diet produced dramatic improvements in [fibromyalgia syndrome 	
+V-654	raw	raw	symptoms	symptoms	[and actually vegan] diet would significantly improve fibromyalgia	
+V-654	raw	raw	diet	diet		
+V-654	fibromyalgia	fibromyalgia	symptoms	symptoms	syndrome 	
+V-654	treatment	treatment	mayo clinic	mayo clinic	study—for example, nearly three times the improvement that the	
+V-654	mayo clinic	mayo clinic	fibromyalgia	fibromyalgia	reported for their	
+V-654	vegan diets	vegan diets	symptoms	symptoms	seem to really help reduce fibromyalgia	
+V-654	vegan	vegan	raw vegan	raw vegan	diet.so,	
+V-654	vegetarian	vegetarian	vegan	vegan	or	
+V-654	vegetarian	vegetarian	syndrome	syndrome	diet produced dramatic improvements in [fibromyalgia	
+V-654	plant-based	plant-based	vegetarian	vegetarian	diets, whether	
+V-654	vegetarian	vegetarian	fibromyalgia	fibromyalgia	or vegan, may help people with	
+V-654	vegan	vegan	symptoms	symptoms	diets seem to really help reduce fibromyalgia	
+V-654	raw vegan	raw vegan	raw	raw	diets worked; mostly	
+V-654	diet	diet	vegetarian	vegetarian	intervention using a mostly raw, pure	
+V-654	fibromyalgia	fibromyalgia	treatment	treatment		
+V-654	symptoms	symptoms	diet	diet	 put on a mostly vegetarian	
+V-654	vegan	vegan	symptoms	symptoms	] diet would significantly improve fibromyalgia	
+V-654	vegan diets	vegan diets	vegan	vegan	worked; mostly raw	
+V-654	symptoms	symptoms	vegetarian	vegetarian	 put on a mostly	
+V-654	vegan diets	vegan diets	fibromyalgia	fibromyalgia	seem to really help reduce	
+V-654	vegan	vegan	vegan diets	vegan diets	diet.so, raw	
+V-654	raw	raw	vegan	vegan	[and actually	
+V-654	diet	diet	fibromyalgia	fibromyalgia	would significantly improve	
+V-654	raw	raw	fibromyalgia	fibromyalgia	[and actually vegan] diet would significantly improve	
+V-654	raw vegan	raw vegan	vegan diets	vegan diets	diets worked; mostly raw	
+V-654	fibromyalgia	fibromyalgia	symptoms	symptoms		
+V-654	raw	raw	vegan	vegan		
+V-654	vegan	vegan	fibromyalgia	fibromyalgia	diets seem to really help reduce	
+V-654	vegan	vegan	diet	diet		

@@ -1,0 +1,44 @@
+
+V-464	dairy	dairy	meat	meat	- the equivalent of one serving of	
+V-464	tor	tor	igf-1	igf-1	and	
+V-464	diet	diet	eggs	eggs	was fish, meat,	
+V-464	vegetarian	vegetarian	california	california	adventists in	
+V-464	aging	aging	tor	tor	engine enzyme,	
+V-464	diet	diet	meat	meat	was fish,	
+V-464	chicken	chicken	fruits	fruits	and fish, whereas plant foods have much less:	
+V-464	longevity	longevity	vegetarian	vegetarian	surpassed only by	
+V-464	dairy	dairy	meat	meat	or	
+V-464	leucine	leucine	diet	diet	amounts provided by a more standard	
+V-464	diet	diet	fish	fish	was	
+V-464	longevity	longevity	health	health	and	
+V-464	leucine	leucine	meat	meat	intake provided by dairy or	
+V-464	plant-based	plant-based	diet	diet		
+V-464	okinawan diet	okinawan diet	protein	protein	was only about 10%	
+V-464	caloric restriction	caloric restriction	lifespan	lifespan	on	
+V-464	diet	diet	plant-based diet	plant-based diet	in comparison to a	
+V-464	animal foods	animal foods	dairy	dairy	: eggs,	
+V-464	leucine	leucine	tor	tor	in regulating	
+V-464	plant foods	plant foods	grains	grains	have much less: fruits, vegetables,	
+V-464	diet	diet	plant-based	plant-based	in comparison to a	
+V-464	meta-analysis	meta-analysis	protein	protein	of dietary restriction, the proportion of	
+V-464	animal foods	animal foods	chicken	chicken	: eggs, dairy, and meat, including	
+V-464	diet	diet	cholesterol	cholesterol	was only about 10% protein, and practically no	
+V-464	leucine	leucine	dairy	dairy	intake provided by	
+V-464	longevity	longevity	japanese	japanese	of long-lived populations like the okinawa	
+V-464	leucine	leucine	animal proteins	animal proteins	levels are only reached by restriction of	
+V-464	longevity	longevity	california	california	surpassed only by vegetarian adventists in	
+V-464	chicken	chicken	fish	fish	and	
+V-464	tor	tor	rapamycin	rapamycin	.that’s why researchers were so excited about	
+V-464	diet	diet	protein	protein	was only about 10%	
+V-464	okinawan diet	okinawan diet	cholesterol	cholesterol	was only about 10% protein, and practically no	
+V-464	amino acid	amino acid	leucine	leucine	in particular,	
+V-464	plant foods	plant foods	vegetables	vegetables	have much less: fruits,	
+V-464	animal foods	animal foods	meat	meat	: eggs, dairy, and	
+V-464	protein	protein	leucine	leucine	content tend to be relatively low in	
+V-464	chicken	chicken	plant foods	plant foods	and fish, whereas	
+V-464	diet	diet	dairy	dairy	was fish, meat, eggs, and	
+V-464	caloric restriction	caloric restriction	health	health	on lifespan and	
+V-464	animal foods	animal foods	fish	fish	: eggs, dairy, and meat, including chicken and	
+V-464	cabbage	cabbage	apples	apples	—that’s like four big heads of cabbage—or 100	
+V-464	plant foods	plant foods	fruits	fruits	have much less:	
+V-464	lifespan	lifespan	health	health	and	

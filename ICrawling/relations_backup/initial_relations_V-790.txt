@@ -1,0 +1,34 @@
+
+V-790	pregnant	pregnant	kidney disease	kidney disease	or nursing women, or those with liver or	
+V-790	liver	liver	disease	disease	or kidney	
+V-790	mouth	mouth	osteoporosis	osteoporosis	ulcers,	
+V-790	women	women	aspirin	aspirin	are not supposed to take anti-inflammatory drugs, like	
+V-790	pregnant	pregnant	liver	liver	or nursing women, or those with	
+V-790	women	women	drugs	drugs	are not supposed to take anti-inflammatory	
+V-790	ductus arteriosus	ductus arteriosus	herbal tea	herbal tea	following the maternal consumption of camomile	
+V-790	herbal	herbal	tea	tea		
+V-790	pregnant women	pregnant women	aspirin	aspirin	are not supposed to take anti-inflammatory drugs, like	
+V-790	women	women	anti-inflammatory	anti-inflammatory	are not supposed to take	
+V-790	pregnant	pregnant	women	women		
+V-790	anti-inflammatory	anti-inflammatory	aspirin	aspirin	drugs, like	
+V-790	mouth	mouth	ulcers	ulcers		
+V-790	ductus arteriosus	ductus arteriosus	herbal	herbal	following the maternal consumption of camomile	
+V-790	tea	tea	pregnancy	pregnancy	during	
+V-790	pregnant	pregnant	anti-inflammatory	anti-inflammatory	women are not supposed to take	
+V-790	tea	tea	beverage	beverage		
+V-790	liver	liver	kidney disease	kidney disease	or	
+V-790	pregnant	pregnant	kidney	kidney	or nursing women, or those with liver or	
+V-790	pregnant	pregnant	women	women	or nursing	
+V-790	mouth	mouth	sore throat	sore throat	ulcers, osteoporosis, insomnia, anxiety, diabetes,	
+V-790	mouth	mouth	diabetes	diabetes	ulcers, osteoporosis, insomnia, anxiety,	
+V-790	mouth	mouth	insomnia	insomnia	ulcers, osteoporosis,	
+V-790	chamomile	chamomile	plants	plants	is one of the oldest widely used medicinal	
+V-790	pregnant	pregnant	drugs	drugs	women are not supposed to take anti-inflammatory	
+V-790	kidney	kidney	disease	disease		
+V-790	pregnant women	pregnant women	drugs	drugs	are not supposed to take anti-inflammatory	
+V-790	ductus arteriosus	ductus arteriosus	tea	tea	following the maternal consumption of camomile herbal	
+V-790	liver	liver	kidney	kidney	or	
+V-790	chamomile	chamomile	tea	tea		
+V-790	pregnant women	pregnant women	anti-inflammatory	anti-inflammatory	are not supposed to take	
+V-790	anti-inflammatory	anti-inflammatory	drugs	drugs		
+V-790	mouth	mouth	anxiety	anxiety	ulcers, osteoporosis, insomnia,	

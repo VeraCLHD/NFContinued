@@ -1,0 +1,42 @@
+
+A-421	cholesterol	cholesterol	physical activity	physical activity	with increased	
+A-421	skin	skin	abdominal pain	abdominal pain	disorders,	
+A-421	kidney	kidney	abdominal pain	abdominal pain	dysfunction, skin disorders,	
+A-421	skin	skin	constipation	constipation	disorders, abdominal pain, nausea,	
+A-421	physicians	physicians	medications	medications	jump right to cholesterol-lowering	
+A-421	medications	medications	statins	statins	such as	
+A-421	medications	medications	lipitor	lipitor	such as statins like	
+A-421	side effects	side effects	liver	liver	include	
+A-421	side effects	side effects	skin	skin	include liver, muscle, and kidney dysfunction,	
+A-421	kidney	kidney	pain	pain	dysfunction, skin disorders, abdominal	
+A-421	side effects	side effects	abdominal pain	abdominal pain	include liver, muscle, and kidney dysfunction, skin disorders,	
+A-421	drugs	drugs	cholesterol	cholesterol	for high	
+A-421	skin	skin	nausea	nausea	disorders, abdominal pain,	
+A-421	risk	risk	heart disease	heart disease	of death from	
+A-421	cholesterol	cholesterol	physicians	physicians	 with dietary change, many	
+A-421	lipitor	lipitor	side effects	side effects	that can have an array of	
+A-421	risk	risk	disease	disease	of death from heart	
+A-421	physicians	physicians	statins	statins	jump right to cholesterol-lowering medications such as	
+A-421	diet	diet	cholesterol	cholesterol	versus drugs for high	
+A-421	fat	fat	cholesterol	cholesterol	and	
+A-421	kidney	kidney	constipation	constipation	dysfunction, skin disorders, abdominal pain, nausea,	
+A-421	saturated fat	saturated fat	physical activity	physical activity	and cholesterol with increased	
+A-421	skin	skin	dizziness	dizziness	disorders, abdominal pain, nausea, constipation,	
+A-421	cholesterol	cholesterol	fiber	fiber	with increased physical activity and intake of dietary	
+A-421	nuts	nuts	cholesterol	cholesterol	and bolts of	
+A-421	physical activity	physical activity	fiber	fiber	and intake of dietary	
+A-421	statins	statins	lipitor	lipitor	like	
+A-421	kidney	kidney	dizziness	dizziness	dysfunction, skin disorders, abdominal pain, nausea, constipation,	
+A-421	saturated fat	saturated fat	cholesterol	cholesterol	and	
+A-421	kidney	kidney	nausea	nausea	dysfunction, skin disorders, abdominal pain,	
+A-421	side effects	side effects	kidney	kidney	include liver, muscle, and	
+A-421	fat	fat	physical activity	physical activity	and cholesterol with increased	
+A-421	physicians	physicians	cholesterol	cholesterol	jump right to	
+A-421	diet	diet	drugs	drugs	versus	
+A-421	death	death	heart disease	heart disease	from	
+A-421	risk	risk	death	death	of	
+A-421	death	death	disease	disease	from heart	
+A-421	statins	statins	side effects	side effects	like lipitor that can have an array of	
+A-421	kidney	kidney	skin	skin	dysfunction,	
+A-421	risk	risk	death	death	factor for our #1 cause of	
+A-421	skin	skin	pain	pain	disorders, abdominal	

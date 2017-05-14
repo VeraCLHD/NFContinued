@@ -1,0 +1,13 @@
+
+V-272	cancer	cancer	death	death		
+V-272	smoking	smoking	tobacco	tobacco	if they no longer had	
+V-272	doctors	doctors	health	health	' diets, called promoting	
+V-272	smoking	smoking	death	death	in the 80s, the lung cancer	
+V-272	exercise	exercise	apple	apple	practices, and had a bike helmet and an	
+V-272	smoking	smoking	cancer	cancer	in the 80s, the lung	
+V-272	lung cancer	lung cancer	death	death		
+V-272	dr. neal barnard	dr. neal barnard	american medical association	american medical association	wrote in the	
+V-272	nutrition	nutrition	medicine	medicine	as	
+V-272	smoking	smoking	lung cancer	lung cancer	in the 80s, the	
+V-272	health	health	medicine	medicine	promotion.are you ready for the best-kept secret in	
+V-272	diet	diet	exercise	exercise	and	

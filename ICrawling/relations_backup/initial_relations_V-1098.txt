@@ -1,0 +1,17 @@
+
+V-1098	precancerous lesions	precancerous lesions	black raspberries	black raspberries	with	
+V-1098	fruits	fruits	prevention	prevention	for cancer	
+V-1098	cancer	cancer	black raspberries	black raspberries	and precancerous lesions with	
+V-1098	cancer	cancer	precancerous	precancerous	and	
+V-1098	cancer	cancer	precancerous lesions	precancerous lesions	and	
+V-1098	precancerous	precancerous	raspberries	raspberries	lesions with black	
+V-1098	cancer	cancer	berries	berries	prevention in general are probably	
+V-1098	cancer	cancer	raspberries	raspberries	and precancerous lesions with black	
+V-1098	precancerous lesions	precancerous lesions	raspberries	raspberries	with black	
+V-1098	cancer prevention	cancer prevention	berries	berries	in general are probably	
+V-1098	fruits	fruits	cancer	cancer	for	
+V-1098	prevention	prevention	berries	berries	in general are probably	
+V-1098	fruits	fruits	berries	berries	for cancer prevention in general are probably	
+V-1098	fruits	fruits	cancer prevention	cancer prevention	for	
+V-1098	cancer	cancer	prevention	prevention		
+V-1098	precancerous	precancerous	black raspberries	black raspberries	lesions with	

@@ -1,0 +1,48 @@
+
+V-1124	heart disease	heart disease	autoimmune diseases	autoimmune diseases	—though premature puberty and	
+V-1124	premature puberty	premature puberty	autoimmune diseases	autoimmune diseases	and	
+V-1124	fat	fat	milk	milk		
+V-1124	dairy	dairy	risk	risk	protein increased the	
+V-1124	cancer	cancer	risk	risk	by 76%, so that’s like 2% increased	
+V-1124	baby	baby	cows	cows		
+V-1124	acne	acne	disease	disease	is described as a	
+V-1124	buttermilk	buttermilk	hormones	hormones	had the most	
+V-1124	risk	risk	prostate	prostate	of developing high-grade	
+V-1124	risk	risk	cancer	cancer	of developing high-grade prostate	
+V-1124	cheese	cheese	risk	risk	a day could increase one’s	
+V-1124	heart disease	heart disease	premature puberty	premature puberty	—though	
+V-1124	diet	diet	acne	acne	and	
+V-1124	milk	milk	protein	protein		
+V-1124	dairy	dairy	cancer	cancer	protein increased the risk of developing high-grade prostate	
+V-1124	protein	protein	prostate cancer	prostate cancer	increased the risk of developing high-grade	
+V-1124	acne	acne	dementia	dementia	epidemic” than i am about the epidemic of	
+V-1124	heart disease	heart disease	puberty	puberty	—though premature	
+V-1124	protein	protein	prostate	prostate	increased the risk of developing high-grade	
+V-1124	disease	disease	autoimmune diseases	autoimmune diseases	—though premature puberty and	
+V-1124	puberty	puberty	autoimmune diseases	autoimmune diseases	and	
+V-1124	dairy	dairy	prostate	prostate	protein increased the risk of developing high-grade	
+V-1124	milk	milk	acne	acne	consumption: aggravating factor [not only] of	
+V-1124	protein	protein	cancer	cancer	increased the risk of developing high-grade prostate	
+V-1124	disease	disease	premature puberty	premature puberty	—though	
+V-1124	prostate	prostate	tumors	tumors		
+V-1124	risk	risk	prostate cancer	prostate cancer	of developing high-grade	
+V-1124	soup	soup	milk	milk	of cancer-causing suspects scientists continue to find in	
+V-1124	hormones	hormones	milk	milk	in	
+V-1124	dairy	dairy	cows	cows		
+V-1124	protein	protein	risk	risk	increased the	
+V-1124	fat	fat	milk	milk	-free	
+V-1124	fat	fat	buttermilk	buttermilk	-free milk, reduced fat milk, whole milk, or	
+V-1124	steroid hormones	steroid hormones	milk	milk	in	
+V-1124	milk	milk	skin	skin	consumption include affecting the	
+V-1124	prostate	prostate	risk	risk	cancer by 76%, so that’s like 2% increased	
+V-1124	steroid hormones	steroid hormones	milk	milk	recently found in retail	
+V-1124	dairy	dairy	protein	protein		
+V-1124	fat	fat	whole milk	whole milk	-free milk, reduced fat milk,	
+V-1124	milk	milk	skim milk	skim milk	?the number two most hormone-packed milk is	
+V-1124	prostate cancer	prostate cancer	risk	risk	by 76%, so that’s like 2% increased	
+V-1124	hormones	hormones	acne	acne	in milk, then	
+V-1124	disease	disease	puberty	puberty	—though premature	
+V-1124	produce	produce	milk	milk		
+V-1124	dairy	dairy	prostate cancer	prostate cancer	protein increased the risk of developing high-grade	
+V-1124	hormones	hormones	milk	milk	recently found in retail	
+V-1124	cows	cows	pregnancy	pregnancy	 to lactate even in the late stages of	

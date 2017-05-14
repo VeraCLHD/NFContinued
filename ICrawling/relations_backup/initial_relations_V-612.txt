@@ -1,0 +1,19 @@
+
+V-612	flavoring	flavoring	fish	fish	agent in alcoholic beverages, canned	
+V-612	flavoring	flavoring	canned fish	canned fish	agent in alcoholic beverages,	
+V-612	risk	risk	health	health	to human	
+V-612	fats	fats	oils	oils	and	
+V-612	consumer protection scientific committee on food	consumer protection scientific committee on food	dna	dna	eventually concluded that one of its constituents may damage	
+V-612	blood	blood	tarragon	tarragon	cells reopened the question, finding that whole-leaf	
+V-612	diet	diet	herbal	herbal	[or	
+V-612	flavoring	flavoring	alcoholic beverages	alcoholic beverages	agent in	
+V-612	tarragon	tarragon	risk	risk	leaves themselves should present little or no	
+V-612	tarragon	tarragon	diet	diet	in both	
+V-612	tarragon	tarragon	medicine	medicine	in both diet [or herbal	
+V-612	herbal	herbal	medicine	medicine		
+V-612	tarragon	tarragon	herbal	herbal	in both diet [or	
+V-612	white blood cells	white blood cells	tarragon	tarragon	reopened the question, finding that whole-leaf	
+V-612	flavoring	flavoring	fats	fats	agent in alcoholic beverages, canned fish, and	
+V-612	diet	diet	medicine	medicine	[or herbal	
+V-612	tarragon	tarragon	liver	liver	chemical may indeed be toxic to human	
+V-612	flavoring	flavoring	beverages	beverages	agent in alcoholic	

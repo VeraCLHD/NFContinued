@@ -1,0 +1,99 @@
+
+V-310	cholesterol	cholesterol	veggie burgers	veggie burgers	the same, by adding meat fats to the	
+V-310	beef	beef	margarine	margarine	tallow every day–three tablespoons of straight beef fat	
+V-310	cholesterol	cholesterol	meat	meat	the same, by adding	
+V-310	cholesterol	cholesterol	meat	meat	levels switched as well?you switch people from	
+V-310	fish	fish	red meat	red meat	and/or poultry, meaning that switching from	
+V-310	saturated fat	saturated fat	fats	fats	and cholesterol by adding extracted animal	
+V-310	fat	fat	white meat	white meat	than chicken, so no surprise that	
+V-310	protein	protein	animal protein	animal protein	diet on the left;	
+V-310	red meat	red meat	meat	meat	to white	
+V-310	sugar	sugar	pepsi	pepsi	than	
+V-310	cholesterol	cholesterol	fats	fats	by adding extracted animal	
+V-310	diet	diet	cholesterol	cholesterol	to lower	
+V-310	beef	beef	plant proteins	plant proteins	to	
+V-310	meat	meat	saturated fat	saturated fat	products made to have the same amount of	
+V-310	cholesterol	cholesterol	fats	fats	the same, by adding meat	
+V-310	meat	meat	veggie burgers	veggie burgers	fats to the	
+V-310	eggs	eggs	cholesterol	cholesterol	may lower	
+V-310	fat	fat	chickens	chickens	we’ve genetically manipulated	
+V-310	fat	fat	fats	fats	and cholesterol the same, by adding meat	
+V-310	cholesterol	cholesterol	lard	lard	may stay the same, though tofu and	
+V-310	plant protein	plant protein	animal protein	animal protein	diet on the left;	
+V-310	animal protein	animal protein	diet	diet		
+V-310	red meat	red meat	white meat	white meat	to	
+V-310	diet	diet	cholesterol	cholesterol	to manage your	
+V-310	americans	americans	beef	beef	to limit their intake of meat, the	
+V-310	diet	diet	protein	protein	on the left; animal	
+V-310	animal fat	animal fat	fats	fats	and cholesterol the same, by adding meat	
+V-310	diet	diet	plants	plants	to lower cholesterol, we may want to move entirely to	
+V-310	diet	diet	animal protein	animal protein	on the left;	
+V-310	saturated animal fat	saturated animal fat	meat	meat	and cholesterol the same, by adding	
+V-310	beef	beef	fat	fat	that have less cholesterol-raising saturated	
+V-310	chicken	chicken	cholesterol	cholesterol	and fish on	
+V-310	fat	fat	cholesterol	cholesterol	and	
+V-310	saturated animal fat	saturated animal fat	fats	fats	and cholesterol the same, by adding meat	
+V-310	meat	meat	lard	lard	to tofu plus	
+V-310	cholesterol	cholesterol	tofu	tofu	may stay the same, though	
+V-310	meat	meat	white meat	white meat	to	
+V-310	chicken	chicken	fish	fish	and	
+V-310	beef	beef	saturated fat	saturated fat	that have less cholesterol-raising	
+V-310	meat	meat	protein	protein	—was it the animal	
+V-310	protein	protein	beef	beef	group eating three tablespoons of	
+V-310	plant protein	plant protein	protein	protein	for animal	
+V-310	fish	fish	meat	meat	and/or poultry, meaning that switching from red	
+V-310	fat	fat	animal fats	animal fats	and cholesterol by adding extracted	
+V-310	beef	beef	cholesterol	cholesterol	consumption on the	
+V-310	vegetarian	vegetarian	vegan	vegan	diets may drop our levels 10% to 15%,	
+V-310	vegan diets	vegan diets	vegan	vegan	15% to 25%, and healthier	
+V-310	beef	beef	chicken	chicken	that have less cholesterol-raising saturated fat than	
+V-310	plant protein	plant protein	protein	protein	diet on the left; animal	
+V-310	plant protein	plant protein	beef	beef	group eating three tablespoons of	
+V-310	tofu	tofu	meat	meat	and lard may indeed actually be better than	
+V-310	fats	fats	cholesterol	cholesterol	and	
+V-310	meat	meat	animal protein	animal protein	—was it the	
+V-310	saturated fat	saturated fat	animal fats	animal fats	and cholesterol by adding extracted	
+V-310	fish	fish	cholesterol	cholesterol	on	
+V-310	fat	fat	fats	fats	and cholesterol by adding extracted animal	
+V-310	saturated fat	saturated fat	white meat	white meat	than chicken, so no surprise that	
+V-310	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-310	beef	beef	fat	fat	tallow every day–three tablespoons of straight beef	
+V-310	fats	fats	veggie burgers	veggie burgers	to the	
+V-310	cholesterol	cholesterol	fish	fish	profile of humans is similar to that of	
+V-310	protein	protein	animal protein	animal protein	for	
+V-310	animal fats	animal fats	cholesterol	cholesterol	and	
+V-310	fat	fat	chicken	chicken	than	
+V-310	fish	fish	poultry	poultry	and/or	
+V-310	meat	meat	fats	fats		
+V-310	animal fat	animal fat	meat	meat	and cholesterol the same, by adding	
+V-310	protein	protein	diet	diet		
+V-310	blood sugar	blood sugar	pepsi	pepsi	found no difference between drinking coke versus	
+V-310	pepsi	pepsi	sugar	sugar	–16 spoonfuls of	
+V-310	vegan	vegan	vegan diets	vegan diets	diets 15% to 25%, and healthier	
+V-310	chickens	chickens	fat	fat	to be these days–up to ten times more	
+V-310	americans	americans	meat	meat	to limit their intake of	
+V-310	fats	fats	burgers	burgers	to the veggie	
+V-310	meat	meat	tofu	tofu	to	
+V-310	saturated fat	saturated fat	chicken	chicken	than	
+V-310	meat	meat	burgers	burgers	fats to the veggie	
+V-310	cholesterol	cholesterol	vegetarian	vegetarian	5% to 10%, but flexitarian or	
+V-310	plant protein	plant protein	animal protein	animal protein	for	
+V-310	tofu	tofu	lard	lard	and	
+V-310	vegetarian	vegetarian	vegan diets	vegan diets	diets may drop our levels 10% to 15%,	
+V-310	fake meat	fake meat	saturated fat	saturated fat	products made to have the same amount of	
+V-310	lard	lard	meat	meat	may indeed actually be better than	
+V-310	beef	beef	diet	diet	as part of a balanced	
+V-310	sugar	sugar	pepsi	pepsi	found no difference between drinking coke versus	
+V-310	animal fat	animal fat	cholesterol	cholesterol	and	
+V-310	meat	meat	cholesterol	cholesterol	to tofu, their	
+V-310	saturated fat	saturated fat	meat	meat	than chicken, so no surprise that white	
+V-310	cholesterol	cholesterol	animal fats	animal fats	by adding extracted	
+V-310	ldl	ldl	cholesterol	cholesterol		
+V-310	tofu	tofu	lard	lard	plus	
+V-310	plant protein	plant protein	diet	diet		
+V-310	saturated animal fat	saturated animal fat	cholesterol	cholesterol	and	
+V-310	blood	blood	pepsi	pepsi	sugar found no difference between drinking coke versus	
+V-310	fat	fat	margarine	margarine		
+V-310	fat	fat	meat	meat	than chicken, so no surprise that white	
+V-310	blood	blood	sugar	sugar		
+V-310	fat	fat	meat	meat	and cholesterol the same, by adding	

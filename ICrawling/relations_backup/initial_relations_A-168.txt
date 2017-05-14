@@ -1,0 +1,37 @@
+
+A-168	health	health	diet	diet	movement that claimed that a vegan	
+A-168	vegetables	vegetables	asthma	asthma	to help prevent and treat	
+A-168	eczema	eczema	vegetarian	vegetarian	were placed on a	
+A-168	vegetables	vegetables	allergies	allergies	to help prevent and treat asthma and	
+A-168	eczema	eczema	plant-based diets	plant-based diets	with	
+A-168	fruits	fruits	asthma	asthma	and vegetables may help	
+A-168	plant-based	plant-based	diet	diet		
+A-168	asthma	asthma	plant-based	plant-based	and eczema with	
+A-168	diet	diet	side effects	side effects	is that there are only good	
+A-168	fruits	fruits	asthma	asthma	and vegetables to help prevent and treat	
+A-168	vegetables	vegetables	asthma	asthma	may help	
+A-168	eczema	eczema	plant-based	plant-based	with	
+A-168	diet	diet	disease	disease	against a different allergic	
+A-168	asthma	asthma	plant-based diets	plant-based diets	and eczema with	
+A-168	vegetarian	vegetarian	diet	diet		
+A-168	asthma	asthma	allergies	allergies	and	
+A-168	eczema	eczema	diet	diet	and	
+A-168	diet	diet	plants	plants	centered around	
+A-168	diet	diet	asthma	asthma	could improve or cure	
+A-168	health	health	vegan	vegan	movement that claimed that a	
+A-168	inflammation	inflammation	antibodies	antibodies	) and ige (allergy associated	
+A-168	plant-based	plant-based	asthma	asthma	diet against a different allergic disease,	
+A-168	eczema	eczema	diet	diet	were placed on a vegetarian	
+A-168	diet	diet	asthma	asthma	against a different allergic disease,	
+A-168	plant-based diet	plant-based diet	asthma	asthma	against a different allergic disease,	
+A-168	drugs	drugs	period	period	) a total of 23 times during this	
+A-168	cholesterol	cholesterol	blood	blood	significantly improved, their	
+A-168	drugs	drugs	side effects	side effects	can often include dangerous	
+A-168	plant-based diet	plant-based diet	disease	disease	against a different allergic	
+A-168	vegan	vegan	asthma	asthma	diet could improve or cure	
+A-168	vegetables	vegetables	diet	diet	may help asthma, what about a	
+A-168	vegan	vegan	diet	diet		
+A-168	fruits	fruits	diet	diet	and vegetables may help asthma, what about a	
+A-168	plant-based	plant-based	disease	disease	diet against a different allergic	
+A-168	asthma	asthma	eczema	eczema	and	
+A-168	fruits	fruits	vegetables	vegetables	and	

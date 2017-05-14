@@ -1,0 +1,38 @@
+
+V-322	plant-based	plant-based	diet	diet	foods (in other words, the western	
+V-322	disease	disease	cancer	cancer	and	
+V-322	environment	environment	grains	grains	to support whole	
+V-322	mediterranean diet	mediterranean diet	plant foods	plant foods	are due to all the whole	
+V-322	diet	diet	plant foods	plant foods	are due to all the whole	
+V-322	seafood	seafood	mediterranean diet	mediterranean diet	consumption, the only animal foods promoted in the	
+V-322	meat	meat	california	california	at all–the	
+V-322	nuts	nuts	beans	beans	and	
+V-322	heart disease	heart disease	mortality	mortality	and cancer	
+V-322	potato chips	potato chips	french fries	french fries	and	
+V-322	french fries	french fries	vegan	vegan	and beer;	
+V-322	animal foods	animal foods	mediterranean diet	mediterranean diet	promoted in the	
+V-322	diet	diet	plant foods	plant foods	rich in	
+V-322	plant-based	plant-based	western diet	western diet	foods (in other words, the	
+V-322	vegetarian	vegetarian	diet	diet		
+V-322	fish	fish	animal foods	animal foods	and seafood consumption, the only	
+V-322	animal foods	animal foods	plant-based	plant-based	and poor in	
+V-322	cancer	cancer	mortality	mortality		
+V-322	animal foods	animal foods	diet	diet	promoted in the mediterranean	
+V-322	vegetarians	vegetarians	diet	diet	live longer, but because a pure vegetarian	
+V-322	fish	fish	seafood	seafood	and	
+V-322	environment	environment	whole grains	whole grains	to support	
+V-322	health	health	plant foods	plant foods	promotion: more	
+V-322	lifespan	lifespan	mortality	mortality	and lowering heart disease and cancer	
+V-322	environment	environment	vegetables	vegetables	to support whole grains,	
+V-322	lifespan	lifespan	disease	disease	and lowering heart	
+V-322	mortality	mortality	united states	united states	rates in the	
+V-322	seafood	seafood	animal foods	animal foods	consumption, the only	
+V-322	environment	environment	fruit	fruit	to support whole grains, vegetables,	
+V-322	lifespan	lifespan	cancer	cancer	and lowering heart disease and	
+V-322	heart disease	heart disease	cancer	cancer	and	
+V-322	disease	disease	mortality	mortality	and cancer	
+V-322	french fries	french fries	beer	beer	and	
+V-322	vegetarians	vegetarians	vegetarian	vegetarian	live longer, but because a pure	
+V-322	lifespan	lifespan	heart disease	heart disease	and lowering	
+V-322	environment	environment	plant-based	plant-based	to support whole grains, vegetables, fruit, and	
+V-322	california	california	mediterranean diet	mediterranean diet	adventist vegetarians.so if the primary benefits of the	

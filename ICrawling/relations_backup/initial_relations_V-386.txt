@@ -1,0 +1,32 @@
+
+V-386	ground flax	ground flax	insulin resistance	insulin resistance	a day decreased	
+V-386	trans fat	trans fat	meat	meat	intake (that’s code for	
+V-386	flax	flax	insulin resistance	insulin resistance	a day decreased	
+V-386	trans fat	trans fat	dairy	dairy	intake (that’s code for meat and	
+V-386	trans fat	trans fat	eggs	eggs	intake (that’s code for meat and dairy,	
+V-386	health	health	medical education	medical education	care and	
+V-386	whole grain	whole grain	prediabetes	prediabetes	consumption may also protect against	
+V-386	omega 3	omega 3	phytosterols	phytosterols	’s soluble fiber, and	
+V-386	flax	flax	seeds	seeds		
+V-386	whole grains	whole grains	risk	risk	has associated with reduced	
+V-386	diet	diet	prediabetes	prediabetes	-wise, that means individuals with	
+V-386	junk food	junk food	omega 3	omega 3	), and increases in	
+V-386	omega 3	omega 3	fiber	fiber	’s soluble	
+V-386	meat	meat	eggs	eggs	and dairy,	
+V-386	insulin	insulin	disease	disease	resistance, which is the hallmark of the	
+V-386	medical education	medical education	disease	disease	to adapt to the great transformation of	
+V-386	dietary guidelines	dietary guidelines	plant-based	plant-based	aim to shift consumption towards more	
+V-386	meat	meat	dairy	dairy	and	
+V-386	ground flax	ground flax	insulin	insulin	a day decreased	
+V-386	treatment	treatment	prediabetes	prediabetes	for	
+V-386	meat	meat	junk food	junk food	and dairy, eggs, and	
+V-386	medical profession	medical profession	medical education	medical education	and	
+V-386	junk food	junk food	fiber	fiber	), and increases in omega 3’s soluble	
+V-386	risk	risk	diabetes	diabetes	of developing type 2	
+V-386	flax	flax	insulin	insulin	a day decreased	
+V-386	diet	diet	exercise	exercise	or	
+V-386	diabetes	diabetes	treatment	treatment	groups says that lifestyle is the preferred	
+V-386	doctors	doctors	disease	disease	do it?unfortunately, the opportunity to treat this	
+V-386	diet	diet	diabetes	diabetes	-wise, that means individuals with prediabetes, or	
+V-386	grains	grains	risk	risk	has associated with reduced	
+V-386	diabetes	diabetes	prevention	prevention		

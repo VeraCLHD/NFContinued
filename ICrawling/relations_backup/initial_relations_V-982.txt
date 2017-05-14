@@ -1,0 +1,24 @@
+
+V-982	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of developing the	
+V-982	diet	diet	rheumatoid arthritis	rheumatoid arthritis	may help explain why patients with	
+V-982	rheumatoid arthritis	rheumatoid arthritis	vegetarian	vegetarian	improve on a	
+V-982	anti-inflammatory	anti-inflammatory	diet	diet	effects of a low arachidonic acid	
+V-982	arachidonic acid	arachidonic acid	rheumatoid arthritis	rheumatoid arthritis	diet may help explain why patients with	
+V-982	arachidonic acid	arachidonic acid	risk	risk	may quadruple our	
+V-982	arachidonic acid	arachidonic acid	animal products	animal products	from	
+V-982	arachidonic acid	arachidonic acid	arthritis	arthritis	diet may help explain why patients with rheumatoid	
+V-982	inflammatory bowel disease	inflammatory bowel disease	ulcerative colitis	ulcerative colitis		
+V-982	risk	risk	ulcerative colitis	ulcerative colitis	of developing the inflammatory bowel disease	
+V-982	diet	diet	arthritis	arthritis	.it’s funny; there was an	
+V-982	vegetarian	vegetarian	arthritis	arthritis	diet.it’s funny; there was an	
+V-982	diet	diet	arthritis	arthritis	may help explain why patients with rheumatoid	
+V-982	risk	risk	disease	disease	of developing the inflammatory bowel	
+V-982	disease	disease	ulcerative colitis	ulcerative colitis		
+V-982	arthritis	arthritis	vegetarian	vegetarian	improve on a	
+V-982	arachidonic acid	arachidonic acid	diet	diet		
+V-982	arthritis	arthritis	diet	diet	improve on a vegetarian	
+V-982	vegetarian	vegetarian	diet	diet		
+V-982	anti-inflammatory	anti-inflammatory	arachidonic acid	arachidonic acid	effects of a low	
+V-982	rheumatoid arthritis	rheumatoid arthritis	diet	diet	improve on a vegetarian	
+V-982	arachidonic acid	arachidonic acid	inflammatory bowel disease	inflammatory bowel disease	may quadruple our risk of developing the	
+V-982	vegetarians	vegetarians	arachidonic acid	arachidonic acid	 eating less	

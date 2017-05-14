@@ -1,0 +1,10 @@
+
+T-666	vegetables	vegetables	beets	beets	such as	
+T-666	acai berries	acai berries	vegetables	vegetables	and nitrate-rich	
+T-666	beets	beets	emphysema	emphysema	and arugula may help protect against and treat	
+T-666	risk	risk	copd	copd	for emphysema and other forms of	
+T-666	emphysema	emphysema	copd	copd	and other forms of	
+T-666	risk	risk	emphysema	emphysema	for	
+T-666	berries	berries	beets	beets	and nitrate-rich vegetables such as	
+T-666	berries	berries	vegetables	vegetables	and nitrate-rich	
+T-666	acai berries	acai berries	beets	beets	and nitrate-rich vegetables such as	

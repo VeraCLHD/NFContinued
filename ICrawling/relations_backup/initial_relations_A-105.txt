@@ -1,0 +1,45 @@
+
+A-105	bacteria	bacteria	lactose	lactose	in their small intestine, were fructose or	
+A-105	kale	kale	blueberries	blueberries	or	
+A-105	bread	bread	fast food	fast food	products, no more	
+A-105	wheat	wheat	gluten	gluten	and/or	
+A-105	bacteria	bacteria	fructose	fructose	in their small intestine, were	
+A-105	diet	diet	beans	beans	with more fruits, vegetables, whole grains, and	
+A-105	kiwifruit	kiwifruit	pepper	pepper	for irritable bowel syndrome and cayenne	
+A-105	diet	diet	vegetables	vegetables	with more fruits,	
+A-105	syndrome	syndrome	cayenne pepper	cayenne pepper	and	
+A-105	irritable bowel syndrome	irritable bowel syndrome	syndrome	syndrome	and cayenne pepper for irritable bowel	
+A-105	symptoms	symptoms	gluten	gluten	of	
+A-105	pepper	pepper	indigestion	indigestion	for irritable bowel syndrome and chronic	
+A-105	bread	bread	restaurants	restaurants	products, no more fast food	
+A-105	treatment	treatment	disease	disease	for celiac	
+A-105	treatment	treatment	diet	diet	for celiac disease, a gluten-free	
+A-105	irritable bowel syndrome	irritable bowel syndrome	pepper	pepper	and cayenne	
+A-105	blood	blood	biopsy	biopsy	tests and a small intestinal	
+A-105	diet	diet	whole grains	whole grains	with more fruits, vegetables,	
+A-105	fructose	fructose	lactose	lactose	or	
+A-105	treatment	treatment	celiac disease	celiac disease	for	
+A-105	cayenne pepper	cayenne pepper	indigestion	indigestion	for irritable bowel syndrome and chronic	
+A-105	skin	skin	rash	rash		
+A-105	syndrome	syndrome	irritable bowel syndrome	irritable bowel syndrome	and cayenne pepper for	
+A-105	gluten	gluten	diet	diet	-free	
+A-105	gluten	gluten	diet	diet	sensitive should not go on a gluten-free	
+A-105	symptoms	symptoms	diet	diet	try a gluten-free	
+A-105	treatment	treatment	gluten	gluten	for celiac disease, a	
+A-105	pepper	pepper	irritable bowel syndrome	irritable bowel syndrome	for	
+A-105	diet	diet	fruits	fruits	with more	
+A-105	symptoms	symptoms	gluten	gluten	improve, stick with it and maybe re-challenge with	
+A-105	syndrome	syndrome	pepper	pepper	and cayenne	
+A-105	pepper	pepper	syndrome	syndrome	for irritable bowel	
+A-105	kiwifruit	kiwifruit	irritable bowel syndrome	irritable bowel syndrome	for	
+A-105	gluten	gluten	bloating	bloating	sensitivity include irritable bowel type symptoms such as	
+A-105	kiwifruit	kiwifruit	cayenne pepper	cayenne pepper	for irritable bowel syndrome and	
+A-105	cayenne pepper	cayenne pepper	irritable bowel syndrome	irritable bowel syndrome	for	
+A-105	kiwifruit	kiwifruit	syndrome	syndrome	for irritable bowel	
+A-105	cayenne pepper	cayenne pepper	syndrome	syndrome	for irritable bowel	
+A-105	irritable bowel syndrome	irritable bowel syndrome	cayenne pepper	cayenne pepper	and	
+A-105	gluten	gluten	symptoms	symptoms	sensitivity include irritable bowel type	
+A-105	diet	diet	gluten	gluten	for	
+A-105	skin	skin	anemia	anemia	rash, or	
+A-105	diet	diet	grains	grains	with more fruits, vegetables, whole	
+A-105	fast food	fast food	restaurants	restaurants		

@@ -1,0 +1,23 @@
+
+V-523	sugar	sugar	ice cream	ice cream	water.people who regularly eat	
+V-523	smoking	smoking	cocaine	cocaine	crack	
+V-523	sugar	sugar	cream	cream	water.people who regularly eat ice	
+V-523	cream	cream	fat	fat	—sugar and	
+V-523	fat	fat	dopamine	dopamine	—have a deadened	
+V-523	sugar	sugar	fat	fat	water.people who regularly eat ice cream—sugar and	
+V-523	addiction	addiction	disease	disease	—as a psychiatric	
+V-523	obesity	obesity	addiction	addiction	as an	
+V-523	ice cream	ice cream	sugar	sugar	—	
+V-523	fat	fat	brains	brains	—have a deadened dopamine response in their	
+V-523	cream	cream	sugar	sugar	—	
+V-523	ice cream	ice cream	fat	fat	—sugar and	
+V-523	fat	fat	sugar	sugar	and	
+V-523	cream	cream	dopamine	dopamine	—sugar and fat—have a deadened	
+V-523	opiate	opiate	drugs	drugs	receptors are blocked.rather than taking	
+V-523	dopamine	dopamine	brains	brains	response in their	
+V-523	diet	diet	calories	calories	compared to the same number	
+V-523	calories	calories	diet	diet	in a calorie-dilute	
+V-523	obesity	obesity	disease	disease	as an addiction—as a psychiatric	
+V-523	obesity	obesity	addiction	addiction	and	
+V-523	ice cream	ice cream	dopamine	dopamine	—sugar and fat—have a deadened	
+V-523	dopamine	dopamine	fat	fat	receptors to deal with all these jolts of	

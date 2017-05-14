@@ -1,0 +1,15 @@
+
+V-809	pollution	pollution	tuna	tuna	found in canned	
+V-809	tuna	tuna	environmental protection agency	environmental protection agency	examined was above the u.s.	
+V-809	pregnant	pregnant	infants	infants	women,	
+V-809	mercury	mercury	tuna	tuna	concentrations in three national brands of canned	
+V-809	epa	epa	tuna	tuna	limit eating any more than a can of	
+V-809	pregnant	pregnant	women	women		
+V-809	children	children	microcephaly	microcephaly	and may include	
+V-809	mercury	mercury	tuna	tuna	in	
+V-809	mercury	mercury	tuna	tuna	pollution found in canned	
+V-809	pregnant	pregnant	children	children	women, infants, and	
+V-809	microcephaly	microcephaly	cognition	cognition	[which is a shrunken brain], delayed development, impaired	
+V-809	mercury	mercury	pollution	pollution		
+V-809	hearing	hearing	vision	vision	loss, diminishing	
+V-809	mercury	mercury	children	children	is not just a problem for	

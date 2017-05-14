@@ -1,0 +1,19 @@
+
+V-856	raw	raw	mortality	mortality	broccoli was associated with half the cancer	
+V-856	health	health	vegetables	vegetables	recommendations for the minimum intake of fruits and	
+V-856	fruits	fruits	lymphoma	lymphoma	and vegetables, suggesting that the	
+V-856	cancer	cancer	greens	greens	diagnosis can’t get someone to eat their	
+V-856	public health	public health	vegetables	vegetables	recommendations for the minimum intake of fruits and	
+V-856	public health	public health	fruits	fruits	recommendations for the minimum intake of	
+V-856	bladder	bladder	cancer	cancer		
+V-856	raw	raw	broccoli	broccoli		
+V-856	diet	diet	health	health	and other	
+V-856	diet	diet	cancer	cancer	to prevent	
+V-856	cancer	cancer	exercise	exercise	survivors may survive longer if they	
+V-856	raw	raw	cancer	cancer	broccoli was associated with half the	
+V-856	bladder	bladder	broccoli	broccoli	cancer, go buy them some	
+V-856	fruits	fruits	vegetables	vegetables	and	
+V-856	health	health	fruits	fruits	recommendations for the minimum intake of	
+V-856	leafy vegetables	leafy vegetables	citrus	citrus	and	
+V-856	cancer	cancer	mortality	mortality		
+V-856	vegetables	vegetables	citrus	citrus	and	

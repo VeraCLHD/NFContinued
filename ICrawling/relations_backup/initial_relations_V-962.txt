@@ -1,0 +1,22 @@
+
+V-962	mortality	mortality	disease	disease	rate from heart	
+V-962	heart disease	heart disease	cholesterol	cholesterol	is caused by high	
+V-962	breakfast	breakfast	nutrition	nutrition	program, the food stamp program and the supplemental	
+V-962	cheese	cheese	cake	cake	and chicken,	
+V-962	heart disease	heart disease	united states	united states	death rates: the	
+V-962	finland	finland	eggs	eggs	joined us in packing on the meat,	
+V-962	disease	disease	death	death		
+V-962	disease	disease	united states	united states	death rates: the	
+V-962	death	death	united states	united states	rates: the	
+V-962	nutrition	nutrition	children	children	program for women, infants, and	
+V-962	finland	finland	meat	meat	joined us in packing on the	
+V-962	disease	disease	cholesterol	cholesterol	is caused by high	
+V-962	nutrition	nutrition	infants	infants	program for women,	
+V-962	heart disease	heart disease	death	death		
+V-962	cheese	cheese	chicken	chicken	and	
+V-962	farmers	farmers	berries	berries	did switch from dairies to	
+V-962	mortality	mortality	heart disease	heart disease	rate from	
+V-962	nutrition	nutrition	women	women	program for	
+V-962	health	health	finland	finland	around.after world war ii,	
+V-962	cancer	cancer	mortality	mortality		
+V-962	dairy	dairy	farmers	farmers		

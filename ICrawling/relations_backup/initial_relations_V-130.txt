@@ -1,0 +1,33 @@
+
+V-130	turmeric	turmeric	anti-inflammatory	anti-inflammatory	curcumin along with their typical	
+V-130	turmeric	turmeric	anti-inflammatory	anti-inflammatory	spice component, curcumin, possesses significant	
+V-130	inflammation	inflammation	kidneys	kidneys	of the liver, pancreas, and	
+V-130	anti-inflammatory	anti-inflammatory	placebo	placebo	drugs, or a	
+V-130	curcumin	curcumin	placebo	placebo	along with their typical anti-inflammatory drugs, or a	
+V-130	disease	disease	fever	fever	complications—most commonly nausea, vomiting, headaches, rash,	
+V-130	curcumin	curcumin	drugs	drugs	along with their typical anti-inflammatory	
+V-130	disease	disease	rash	rash	complications—most commonly nausea, vomiting, headaches,	
+V-130	curcumin	curcumin	anti-inflammatory	anti-inflammatory	along with their typical	
+V-130	placebo	placebo	drugs	drugs	and their	
+V-130	placebo	placebo	curcumin	curcumin	—implying that	
+V-130	ulcerative colitis	ulcerative colitis	drugs	drugs	patients need to be on	
+V-130	kidneys	kidneys	immune system	immune system	—as well as wiping out our	
+V-130	placebo	placebo	disease	disease	group, eight relapsed, out of 39, meaning their	
+V-130	disease	disease	headaches	headaches	complications—most commonly nausea, vomiting,	
+V-130	pain	pain	cramping	cramping	and	
+V-130	ulcerative colitis	ulcerative colitis	curcumin	curcumin	to start	
+V-130	disease	disease	vomiting	vomiting	complications—most commonly nausea,	
+V-130	curcumin	curcumin	ulcerative colitis	ulcerative colitis	supplements.	
+V-130	turmeric	turmeric	curcumin	curcumin		
+V-130	abdominal pain	abdominal pain	cramping	cramping	and	
+V-130	disease	disease	nausea	nausea	complications—most commonly	
+V-130	inflammation	inflammation	liver	liver	of the	
+V-130	curcumin	curcumin	side effects	side effects	seems to be a promising and safe medication—no	
+V-130	immune system	immune system	fertility	fertility	and	
+V-130	turmeric	turmeric	curcumin	curcumin	spice component,	
+V-130	sugar	sugar	curcumin	curcumin	pill group.conclusion:	
+V-130	muscle soreness	muscle soreness	exercise	exercise	than they normally felt after their	
+V-130	disease	disease	inflammation	inflammation	complications—most commonly nausea, vomiting, headaches, rash, fever, and	
+V-130	anti-inflammatory	anti-inflammatory	drugs	drugs		
+V-130	turmeric	turmeric	drugs	drugs	curcumin along with their typical anti-inflammatory	
+V-130	placebo	placebo	curcumin	curcumin	group got worse, and the	

@@ -1,0 +1,55 @@
+
+A-194	oils	oils	disease	disease	extracted from plants to treat	
+A-194	lavender	lavender	anxiety	anxiety	for generalized	
+A-194	disease	disease	symptoms	symptoms	— is commonly used to treat anxiety	
+A-194	massage	massage	anxiety	anxiety	alone reduces	
+A-194	aromatherapy	aromatherapy	anxiety	anxiety	for	
+A-194	fatigue	fatigue	citrus	citrus	with	
+A-194	chemo	chemo	massage	massage	and radiation even found that the	
+A-194	orange	orange	anxiety	anxiety	aromatherapy for	
+A-194	symptoms	symptoms	side effects	side effects	can have serious	
+A-194	aromatherapy	aromatherapy	oils	oils	— the use of concentrated essential	
+A-194	orange	orange	anxiety	anxiety	aromatherapy may potentially reduce	
+A-194	anxiety	anxiety	side effects	side effects	symptoms can have serious	
+A-194	lavender	lavender	anxiety	anxiety	may also help for both	
+A-194	treatment	treatment	drugs	drugs	is challenging, because the	
+A-194	citrus	citrus	cancer treatment	cancer treatment	and their body thinks, “oh no, not another	
+A-194	anxiety	anxiety	migraines	migraines	(lavender for generalized anxiety disorder) and	
+A-194	migraines	migraines	migraine	migraine	(lavender for	
+A-194	anxiety	anxiety	lavender	lavender	disorder) and migraines (	
+A-194	oils	oils	anxiety	anxiety	on	
+A-194	citrus	citrus	sunlight	sunlight	oils can also make your skin sensitive to	
+A-194	anxiety	anxiety	symptoms	symptoms		
+A-194	oils	oils	skin	skin	can also make your	
+A-194	drugs	drugs	anxiety	anxiety	used for the relief of	
+A-194	aromatherapy	aromatherapy	anxiety	anxiety	may potentially reduce	
+A-194	orange	orange	dental	dental	was tested in a	
+A-194	dental	dental	anxiety	anxiety	office to see if it reduces	
+A-194	oils	oils	sunlight	sunlight	can also make your skin sensitive to	
+A-194	aromatherapy	aromatherapy	oils	oils	were mostly from skin irritation from essential	
+A-194	citrus	citrus	skin	skin	oils can also make your	
+A-194	migraine	migraine	headaches	headaches		
+A-194	skin	skin	sunlight	sunlight	sensitive to	
+A-194	oils	oils	symptoms	symptoms	on anxiety	
+A-194	aromatherapy	aromatherapy	massage	massage	plus	
+A-194	massage	massage	fragrance	fragrance	without the	
+A-194	disease	disease	anxiety	anxiety	— is commonly used to treat	
+A-194	radiation	radiation	massage	massage	even found that the	
+A-194	plants	plants	disease	disease	to treat	
+A-194	citrus	citrus	cancer	cancer	and their body thinks, “oh no, not another	
+A-194	orange	orange	aromatherapy	aromatherapy		
+A-194	citrus	citrus	oils	oils		
+A-194	anxiety	anxiety	mood	mood	and improves	
+A-194	migraines	migraines	migraine headaches	migraine headaches	(lavender for	
+A-194	skin	skin	oils	oils	irritation from essential	
+A-194	chemo	chemo	radiation	radiation	and	
+A-194	drugs	drugs	symptoms	symptoms	used for the relief of anxiety	
+A-194	aromatherapy	aromatherapy	massage	massage		
+A-194	aromatherapy	aromatherapy	skin	skin	were mostly from	
+A-194	oils	oils	plants	plants	extracted from	
+A-194	anxiety	anxiety	drugs	drugs	without the downer effect of valium-type	
+A-194	migraines	migraines	headaches	headaches	(lavender for migraine	
+A-194	cancer	cancer	chemo	chemo	patients got massaged during	
+A-194	cancer	cancer	radiation	radiation	patients got massaged during chemo and	
+A-194	cancer	cancer	treatment	treatment		
+A-194	radiation	radiation	fragrance	fragrance	even found that the massage without the	

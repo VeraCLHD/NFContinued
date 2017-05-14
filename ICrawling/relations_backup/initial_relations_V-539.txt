@@ -1,0 +1,92 @@
+
+V-539	prostate	prostate	disease	disease	cancer to lethal	
+V-539	risk	risk	prostate cancer	prostate cancer	of getting	
+V-539	choline	choline	meat	meat	.maybe that’s why	
+V-539	choline	choline	prostate cancer	prostate cancer	increase the risk of lethal	
+V-539	eggs	eggs	risk	risk	may both increase one’s	
+V-539	cancer	cancer	choline	choline	cells, if you follow	
+V-539	eggs	eggs	prostate cancer	prostate cancer	and	
+V-539	choline	choline	blood	blood	you have in your	
+V-539	choline	choline	risk	risk	intake and the	
+V-539	choline	choline	prostate	prostate	intake and the risk of lethal	
+V-539	meat	meat	heterocyclic amines	heterocyclic amines	carcinogens—the	
+V-539	tmao	tmao	heart attack	heart attack	levels in the blood, and strokes,	
+V-539	risk	risk	cancer progression	cancer progression	of	
+V-539	prostate	prostate	choline	choline	cancer progression is high dietary	
+V-539	cancer	cancer	cancer	cancer	—but, that’s better than dying from prostate	
+V-539	choline	choline	milk	milk	.maybe that’s why meat,	
+V-539	prostate	prostate	cancer	cancer		
+V-539	cancer progression	cancer progression	choline	choline	is high dietary	
+V-539	risk	risk	cancer	cancer	of	
+V-539	prostate	prostate	cancer progression	cancer progression		
+V-539	prostate cancer	prostate cancer	choline	choline	progression is high dietary	
+V-539	risk	risk	cancer	cancer	of getting prostate	
+V-539	choline	choline	eggs	eggs	in	
+V-539	eggs	eggs	risk	risk	that’s increasing fatal cancer	
+V-539	cholesterol	cholesterol	choline	choline	is, because of the	
+V-539	turkey	turkey	eggs	eggs	muscle than in other meats.but, what about the	
+V-539	cancer	cancer	choline	choline	—because of the	
+V-539	harvard	harvard	tmao	tmao	researchers speculated that the	
+V-539	eggs	eggs	choline	choline	and prostate cancer progression is high dietary	
+V-539	cancer	cancer	prostate	prostate	—but, that’s better than dying from	
+V-539	eggs	eggs	cholesterol	cholesterol	may increase our risk, regardless of what our	
+V-539	prostate cancer	prostate cancer	choline	choline	—because of the	
+V-539	cancer	cancer	prostate cancer	prostate cancer	—but, that’s better than dying from	
+V-539	choline	choline	gut	gut	is converted in the	
+V-539	prostate cancer	prostate cancer	prostate	prostate	—but, that’s better than dying from	
+V-539	choline	choline	cancer	cancer	increase the risk of lethal prostate	
+V-539	cholesterol	cholesterol	risk	risk	in eggs that’s increasing fatal cancer	
+V-539	risk	risk	prostate	prostate	of]	
+V-539	prostate	prostate	prostate cancer	prostate cancer	cancer—but, that’s better than dying from	
+V-539	choline	choline	inflammation	inflammation	[intake] may increase	
+V-539	choline	choline	cancer	cancer	consumption associated not just with getting	
+V-539	prostate cancer	prostate cancer	disease	disease	to lethal	
+V-539	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	—the	
+V-539	eggs	eggs	cancer progression	cancer progression	and prostate	
+V-539	choline	choline	cancer	cancer	uptake, you can track the spread of	
+V-539	cancer	cancer	disease	disease	to lethal	
+V-539	eggs	eggs	cancer	cancer	and prostate	
+V-539	cholesterol	cholesterol	cancer	cancer	in eggs that’s increasing fatal	
+V-539	poultry	poultry	risk	risk	consumption—up to four times the	
+V-539	tmao	tmao	blood	blood	levels in the	
+V-539	egg	egg	cancer	cancer	consumption double the risk of	
+V-539	eggs	eggs	egg	egg	per week [that’s just like one	
+V-539	risk	risk	prostate cancer	prostate cancer	of]	
+V-539	choline	choline	prostate cancer	prostate cancer	intake and the risk of lethal	
+V-539	risk	risk	cancer progression	cancer progression	of] prostate	
+V-539	cholesterol	cholesterol	eggs	eggs	in	
+V-539	eggs	eggs	prostate	prostate	and	
+V-539	cancer	cancer	risk	risk		
+V-539	risk	risk	prostate	prostate	of getting	
+V-539	prostate	prostate	choline	choline	cancer—because of the	
+V-539	choline	choline	cancer	cancer	intake and the risk of lethal prostate	
+V-539	choline	choline	eggs	eggs	.maybe that’s why meat, milk, and	
+V-539	cancer	cancer	choline	choline	progression is high dietary	
+V-539	choline	choline	cancer cells	cancer cells	is so concentrated in	
+V-539	tmao	tmao	inflammation	inflammation	“from the high dietary choline [intake] may increase	
+V-539	choline	choline	risk	risk	increase the	
+V-539	eggs	eggs	risk	risk	may increase our	
+V-539	cleveland clinic	cleveland clinic	carnitine	carnitine	research team that did the famous study on	
+V-539	prostate cancer	prostate cancer	cancer	cancer	—but, that’s better than dying from prostate	
+V-539	choline	choline	cancer	cancer	is so concentrated in	
+V-539	choline	choline	trimethylamine	trimethylamine	is converted in the gut into	
+V-539	cancer	cancer	choline	choline	risk; but, it could also be that	
+V-539	meat	meat	carcinogens	carcinogens		
+V-539	risk	risk	cancer	cancer	of] prostate	
+V-539	gut	gut	trimethylamine	trimethylamine	into	
+V-539	egg	egg	risk	risk	consumption double the	
+V-539	eggs	eggs	cancer	cancer	that’s increasing fatal	
+V-539	chicken	chicken	turkey	turkey	and	
+V-539	egg	egg	risk	risk	every three days] had an 81% increased	
+V-539	risk	risk	prostate	prostate	of lethal	
+V-539	choline	choline	prostate	prostate	increase the risk of lethal	
+V-539	choline	choline	risk	risk	in eggs may both increase one’s	
+V-539	tmao	tmao	choline	choline	“from the high dietary	
+V-539	heterocyclic amines	heterocyclic amines	chicken	chicken	—that, for some reason, build up more in	
+V-539	england	england	medicine	medicine	journal of	
+V-539	england	england	cleveland clinic	cleveland clinic	journal of medicine, that same	
+V-539	risk	risk	cancer	cancer	of lethal prostate	
+V-539	diet	diet	cancer	cancer	associated with a resurgence of the	
+V-539	egg	egg	cancer progression	cancer progression	consumption double the risk of	
+V-539	egg	egg	choline	choline	consumption is a determinant of how much	
+V-539	risk	risk	prostate cancer	prostate cancer	of lethal	

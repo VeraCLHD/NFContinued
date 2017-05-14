@@ -1,0 +1,10 @@
+
+V-1264	carcinogens	carcinogens	meat	meat	you find in grilled chicken	
+V-1264	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	carcinogens	carcinogens	…”—the kinds of	
+V-1264	herbal	herbal	chemicals	chemicals	tea, whose main aromatic compounds include	
+V-1264	herbal	herbal	tea	tea		
+V-1264	carcinogens	carcinogens	chicken	chicken	you find in grilled	
+V-1264	chemicals	chemicals	urine	urine	that smell like	
+V-1264	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	meat	meat	…”—the kinds of carcinogens you find in grilled chicken	
+V-1264	chicken	chicken	meat	meat		
+V-1264	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	chicken	chicken	…”—the kinds of carcinogens you find in grilled	

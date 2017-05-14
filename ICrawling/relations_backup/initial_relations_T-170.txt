@@ -1,0 +1,42 @@
+
+T-170	plant-based diets	plant-based diets	lichen planus	lichen planus	 may successfully treat autoimmune diseases such as 	
+T-170	bacteria	bacteria	autoimmune diseases	autoimmune diseases	are known to directly cause	
+T-170	meat	meat	autoimmune diseases	autoimmune diseases	can introduce compounds which may promote	
+T-170	multiple sclerosis	multiple sclerosis	cancer	cancer	and some forms of	
+T-170	ginger	ginger	turmeric	turmeric	and	
+T-170	iga	iga	antibodies	antibodies		
+T-170	plant-based	plant-based	rheumatoid arthritis	rheumatoid arthritis	diets may successfully treat autoimmune diseases such as lichen planus,	
+T-170	protein	protein	wheat	wheat	produced by	
+T-170	mushrooms	mushrooms	turmeric	turmeric	and	
+T-170	protein	protein	disease	disease	produced by wheat, which triggers autoimmune mediated celiac	
+T-170	autoimmune diseases	autoimmune diseases	arthritis	arthritis	 such as lichen planus, rheumatoid	
+T-170	autoimmune diseases	autoimmune diseases	meat	meat	among slaughterhouse,	
+T-170	plant-based	plant-based	arthritis	arthritis	diets may successfully treat autoimmune diseases such as lichen planus, rheumatoid	
+T-170	plant-based	plant-based	lichen planus	lichen planus	diets may successfully treat autoimmune diseases such as 	
+T-170	plant-based diets	plant-based diets	arthritis	arthritis	 may successfully treat autoimmune diseases such as lichen planus, rheumatoid	
+T-170	plant-based diets	plant-based diets	autoimmune diseases	autoimmune diseases	 may successfully treat 	
+T-170	meat	meat	bacteria	bacteria	consumption to antibody production against proteus mirabilis	
+T-170	protein	protein	celiac disease	celiac disease	produced by wheat, which triggers autoimmune mediated	
+T-170	meat	meat	immune system	immune system	may directly activate the	
+T-170	arachidonic acid	arachidonic acid	meat	meat	found in	
+T-170	plant-based	plant-based	autoimmune diseases	autoimmune diseases	diets may successfully treat 	
+T-170	inflammation	inflammation	autoimmune diseases	autoimmune diseases	may contribute to the development of	
+T-170	plant-based diets	plant-based diets	rheumatoid arthritis	rheumatoid arthritis	 may successfully treat autoimmune diseases such as lichen planus,	
+T-170	plants	plants	potassium	potassium	are also rich in	
+T-170	campylobacter	campylobacter	syndrome	syndrome	and guillaine barre	
+T-170	inflammation	inflammation	endotoxins	endotoxins	thought due to the introduction of bacterial	
+T-170	yersinia	yersinia	disease	disease	and grave’s	
+T-170	meat	meat	proteus mirabilis	proteus mirabilis	consumption to antibody production against	
+T-170	proteus mirabilis	proteus mirabilis	bacteria	bacteria		
+T-170	autoimmune diseases	autoimmune diseases	lichen planus	lichen planus	 such as 	
+T-170	autoimmune diseases	autoimmune diseases	disease	disease	 such as lichen planus, rheumatoid arthritis, crohn’s	
+T-170	antioxidant	antioxidant	rosemary	rosemary	compounds in foods such as	
+T-170	disease	disease	multiple sclerosis	multiple sclerosis	(see also here and here),	
+T-170	antioxidant	antioxidant	cloves	cloves	compounds in foods such as rosemary,	
+T-170	arachidonic acid	arachidonic acid	immune system	immune system	found in meat may directly activate the	
+T-170	meat	meat	contaminants	contaminants	can contain live bacterial or viral	
+T-170	meat	meat	inflammation	inflammation	is consumed, the body experiences a low-grade	
+T-170	antioxidant	antioxidant	ginger	ginger	compounds in foods such as rosemary, cloves,	
+T-170	autoimmune diseases	autoimmune diseases	rheumatoid arthritis	rheumatoid arthritis	 such as lichen planus,	
+T-170	meat	meat	inflammation	inflammation	may directly activate the immune system, further promoting	
+T-170	inflammation	inflammation	symptoms	symptoms	in vivo, sometimes with dramatic improvement in autoimmune	

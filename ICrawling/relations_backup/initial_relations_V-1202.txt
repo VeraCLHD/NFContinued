@@ -1,0 +1,10 @@
+
+V-1202	risk	risk	stroke	stroke	of cancer,	
+V-1202	health	health	longevity	longevity	and	
+V-1202	sleep	sleep	mortality	mortality	any longer, and	
+V-1202	risk	risk	cancer	cancer	of	
+V-1202	sleep	sleep	mortality	mortality	fewer hours, and	
+V-1202	mortality	mortality	sleep	sleep	goes up;	
+V-1202	risk	risk	heart disease	heart disease	of cancer, stroke, and	
+V-1202	health	health	sleep	sleep	and longevity, is the optimal	
+V-1202	risk	risk	disease	disease	of cancer, stroke, and heart	

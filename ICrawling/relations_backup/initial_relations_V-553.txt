@@ -1,0 +1,8 @@
+
+V-553	junk food	junk food	animal products	animal products	and	
+V-553	hunger	hunger	salt	salt	drives for	
+V-553	salt	salt	soup	soup	in their	
+V-553	hunger	hunger	fat	fat	drives for salt, sugar, and	
+V-553	salt	salt	soup	soup	their own	
+V-553	hunger	hunger	sugar	sugar	drives for salt,	
+V-553	low-fat diets	low-fat diets	fat	fat	start liking low-	

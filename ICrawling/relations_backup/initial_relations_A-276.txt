@@ -1,0 +1,41 @@
+
+A-276	medications	medications	symptoms	symptoms	have a defined effect on adhd	
+A-276	kids	kids	attention deficit	attention deficit	with	
+A-276	cognition	cognition	women	women	(reversing cognitive decline), and lengthen one’s lifespan (what	
+A-276	kids	kids	hyperactivity	hyperactivity	with attention deficit	
+A-276	breast cancer	breast cancer	diet	diet	and is it the	
+A-276	cognition	cognition	lifespan	lifespan	(reversing cognitive decline), and lengthen one’s	
+A-276	exercise	exercise	dopamine	dopamine	“both work to more adequately regulate	
+A-276	treatment	treatment	medications	medications	modalities is that	
+A-276	exercise	exercise	breast cancer	breast cancer	can strengthen cancer defenses (exercise &	
+A-276	medications	medications	dopamine	dopamine	and exercise “both work to more adequately regulate	
+A-276	drugs	drugs	produce	produce		
+A-276	symptoms	symptoms	exercise	exercise	alone, whereas	
+A-276	produce	produce	side effects	side effects	unwanted	
+A-276	medications	medications	exercise	exercise	and	
+A-276	exercise	exercise	cancer	cancer	can strengthen	
+A-276	ritalin	ritalin	kids	kids	for	
+A-276	attention deficit	attention deficit	hyperactivity	hyperactivity		
+A-276	symptoms	symptoms	side effects	side effects	and has essentially no	
+A-276	physical activity	physical activity	adhd	adhd	can mitigate	
+A-276	drugs	drugs	dopamine	dopamine	are thought to act by increasing	
+A-276	lifespan	lifespan	women	women	(what	
+A-276	drugs	drugs	side effects	side effects	produce unwanted	
+A-276	physical activity	physical activity	symptoms	symptoms	can mitigate adhd	
+A-276	ritalin	ritalin	hyperactivity	hyperactivity	for kids with attention deficit	
+A-276	medications	medications	physical activity	physical activity	take an hour to work;	
+A-276	cancer	cancer	exercise	exercise	defenses (	
+A-276	medications	medications	adhd	adhd	have a defined effect on	
+A-276	adhd	adhd	side effects	side effects	symptoms and has essentially no	
+A-276	ritalin	ritalin	attention deficit	attention deficit	for kids with	
+A-276	amphetamines	amphetamines	kids	kids	for a lot of	
+A-276	doctors	doctors	ritalin	ritalin	write 20 million prescriptions for stimulants like	
+A-276	adhd	adhd	symptoms	symptoms		
+A-276	cancer	cancer	breast cancer	breast cancer	defenses (exercise &	
+A-276	adhd	adhd	exercise	exercise	symptoms alone, whereas	
+A-276	exercise	exercise	cancer	cancer	& breast	
+A-276	cancer	cancer	exercise	exercise	and is it the diet, the	
+A-276	cancer	cancer	cancer	cancer	defenses (exercise & breast	
+A-276	breast cancer	breast cancer	exercise	exercise	and is it the diet, the	
+A-276	exercise	exercise	side effects	side effects	does have	
+A-276	exercise	exercise	adhd	adhd	has been shown to be effective in controlling	

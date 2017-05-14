@@ -1,0 +1,33 @@
+
+V-846	poultry	poultry	viruses	viruses	may contain oncogenic [or cancer-causing]	
+V-846	women	women	meat	meat	consuming well-done	
+V-846	cooked meat	cooked meat	chicken	chicken	carcinogens created when you grill	
+V-846	lymphoma	lymphoma	women	women	in	
+V-846	heterocyclic amines	heterocyclic amines	carcinogens	carcinogens	—the cooked meat	
+V-846	risk	risk	chicken	chicken	among those eating just a small serving of	
+V-846	risk	risk	milk	milk	in association with high	
+V-846	cancer	cancer	risk	risk		
+V-846	risk	risk	meat	meat	of non-hodgkin’s lymphoma, and have been found in	
+V-846	meat	meat	chicken	chicken	carcinogens created when you grill	
+V-846	chickens	chickens	drugs	drugs	and turkeys are often treated with antiparasitic	
+V-846	lymphoma	lymphoma	farmers	farmers	among	
+V-846	poultry	poultry	blood	blood	was so significantly associated with	
+V-846	leukemia	leukemia	risk	risk		
+V-846	meat	meat	carcinogens	carcinogens		
+V-846	viruses	viruses	chicken	chicken	in	
+V-846	meat	meat	dairy	dairy	and	
+V-846	risk	risk	meat	meat	of lymphoma in women consuming well-done	
+V-846	lymphoma	lymphoma	meat	meat	in women consuming well-done	
+V-846	chicken	chicken	viruses	viruses	—but not if it’s the	
+V-846	lymphoma	lymphoma	leukemia	leukemia	and	
+V-846	heterocyclic amines	heterocyclic amines	chicken	chicken	—the cooked meat carcinogens created when you grill	
+V-846	risk	risk	women	women	of lymphoma in	
+V-846	blood	blood	chickens	chickens	and lymph node cancers is, maybe it’s because	
+V-846	carcinogens	carcinogens	chicken	chicken	created when you grill	
+V-846	heterocyclic amines	heterocyclic amines	meat	meat	—the cooked	
+V-846	heterocyclic amines	heterocyclic amines	cooked meat	cooked meat	—the	
+V-846	cooked meat	cooked meat	carcinogens	carcinogens		
+V-846	drugs	drugs	antibiotics	antibiotics	and	
+V-846	lymphoma	lymphoma	risk	risk	and leukemia	
+V-846	risk	risk	lymphoma	lymphoma	of non-hodgkin’s	
+V-846	risk	risk	lymphoma	lymphoma	of	

@@ -1,0 +1,31 @@
+
+T-740	soy	soy	hormones	hormones		
+T-740	protein	protein	fertility	fertility	increases	
+T-740	soy	soy	roundup	roundup	is commonly contaminated with monsanto’s	
+T-740	fertility	fertility	sperm count	sperm count	by lowering	
+T-740	fish	fish	hormones	hormones	and other seafood intake may introduce	
+T-740	hormones	hormones	milk	milk	in cow’s	
+T-740	soy	soy	sperm count	sperm count	hormones do not decrease	
+T-740	hormones	hormones	meat	meat	in	
+T-740	infertility	infertility	women	women	in	
+T-740	hormones	hormones	vegetable protein	vegetable protein	do not decrease sperm count and, in fact,	
+T-740	hormones	hormones	fertility	fertility	and other pollutants that interfere with male	
+T-740	soy	soy	monsanto	monsanto	is commonly contaminated with	
+T-740	seafood	seafood	hormones	hormones	intake may introduce	
+T-740	hormones	hormones	women	women	in cow’s milk may be the reason that	
+T-740	vegan	vegan	women	women		
+T-740	hormones	hormones	pollutants	pollutants	and other	
+T-740	fish	fish	seafood	seafood	and other	
+T-740	sperm count	sperm count	fertility	fertility	and, in fact, vegetable protein increases	
+T-740	women	women	diet	diet	on a conventional	
+T-740	hormones	hormones	chicken	chicken	in meat, especially	
+T-740	hormones	hormones	sperm count	sperm count	do not decrease	
+T-740	pollutants	pollutants	sperm count	sperm count	that interfere with male fertility by lowering	
+T-740	infertility	infertility	pregnancy	pregnancy	in women; consumption during	
+T-740	monsanto	monsanto	roundup	roundup	’s	
+T-740	vegetable protein	vegetable protein	fertility	fertility	increases	
+T-740	milk	milk	women	women	may be the reason that	
+T-740	pollutants	pollutants	fertility	fertility	that interfere with male	
+T-740	seafood	seafood	pollutants	pollutants	intake may introduce hormones and other	
+T-740	sperm count	sperm count	protein	protein	and, in fact, vegetable	
+T-740	sperm count	sperm count	vegetable protein	vegetable protein	and, in fact,	

@@ -1,0 +1,42 @@
+
+V-152	prevention	prevention	coronary heart disease	coronary heart disease	of	
+V-152	breastfeeding	breastfeeding	mothers	mothers		
+V-152	dha	dha	breast milk	breast milk	level in	
+V-152	dha	dha	supplements	supplements		
+V-152	milk	milk	omega 3	omega 3	contains long chain polyunsaturated fatty acids like the	
+V-152	fish	fish	mercury	mercury	because of the toxic pollutants, such as	
+V-152	pregnant	pregnant	women	women		
+V-152	prevention	prevention	disease	disease	of coronary heart	
+V-152	breastfeeding	breastfeeding	women	women		
+V-152	fish oil	fish oil	fish	fish	intake or	
+V-152	pregnant	pregnant	women	women	and breastfeeding	
+V-152	women	women	fish	fish	to eat more	
+V-152	supplements	supplements	pregnancy	pregnancy	during	
+V-152	brain damage	brain damage	mercury	mercury	caused by the	
+V-152	dha	dha	pregnancy	pregnancy	a day during	
+V-152	dha	dha	pregnancy	pregnancy	supplements during	
+V-152	children	children	dha	dha	raised the question whether	
+V-152	prevention	prevention	heart disease	heart disease	of coronary	
+V-152	dha	dha	pregnancy	pregnancy	during	
+V-152	breastfeeding	breastfeeding	dha	dha	moms can cut out the middle-fish and get	
+V-152	pcbs	pcbs	pollutants	pollutants	and other	
+V-152	fish	fish	prevention	prevention	oil intake or fish consumption solely for the	
+V-152	fish	fish	pollutants	pollutants	because of the toxic	
+V-152	dha	dha	milk	milk	level in breast	
+V-152	fish oil	fish oil	prevention	prevention	intake or fish consumption solely for the	
+V-152	omega 3	omega 3	dha	dha		
+V-152	dha	dha	algae	algae	from	
+V-152	women	women	pregnancy	pregnancy	dha supplements during	
+V-152	women	women	dha	dha		
+V-152	pregnant	pregnant	breastfeeding	breastfeeding	and	
+V-152	doctors	doctors	fish	fish	should no longer be recommending	
+V-152	doctors	doctors	fish oil	fish oil	should no longer be recommending	
+V-152	infants	infants	dha	dha	given control formula without	
+V-152	dha	dha	infant formula	infant formula	to their	
+V-152	dha	dha	cognition	cognition	to formula does not appear to help infant	
+V-152	tuna	tuna	oils	oils		
+V-152	women	women	pollutants	pollutants	to eat more fish because of the toxic	
+V-152	women	women	dha	dha	were given a whopping 800mg of	
+V-152	dha	dha	fish	fish	from algae instead, which is where the	
+V-152	women	women	supplements	supplements	dha	
+V-152	algae	algae	fish	fish	instead, which is where the	

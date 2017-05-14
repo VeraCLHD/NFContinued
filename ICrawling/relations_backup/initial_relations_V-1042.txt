@@ -1,0 +1,6 @@
+
+V-1042	fish	fish	anisakis	anisakis	called	
+V-1042	fish	fish	parasites	parasites	raw,	
+V-1042	fish	fish	worms	worms	really aren’t; they’re allergic to the dead	
+V-1042	fish	fish	raw	raw		
+V-1042	worms	worms	fish	fish	in the	

@@ -1,0 +1,25 @@
+
+V-781	antioxidant	antioxidant	green tea	green tea	power was	
+V-781	cooked meat	cooked meat	carcinogen	carcinogen		
+V-781	mutations	mutations	carcinogen	carcinogen	caused by the	
+V-781	green tea	green tea	white tea	white tea	—unless you added lemon, in which case	
+V-781	green tea	green tea	white tea	white tea	or	
+V-781	tea	tea	antioxidant	antioxidant	with the most	
+V-781	tea	tea	green tea	green tea	with the most antioxidant power was	
+V-781	chicken	chicken	green tea	green tea	—added with	
+V-781	chicken	chicken	tea	tea	—added with green	
+V-781	antioxidant	antioxidant	lemon	lemon	power was green tea—unless you added	
+V-781	green tea	green tea	black tea	black tea	was generally more effective than	
+V-781	white tea	white tea	tea	tea	in comparison with green	
+V-781	green tea	green tea	tea	tea	or white	
+V-781	green tea	green tea	tea	tea	was generally more effective than black	
+V-781	meat	meat	carcinogen	carcinogen		
+V-781	dna	dna	carcinogen	carcinogen	mutations caused by the	
+V-781	white tea	white tea	green tea	green tea	to see what would happen.here’s with the	
+V-781	green tea	green tea	lemon	lemon	—unless you added	
+V-781	white tea	white tea	tea	tea	to see what would happen.here’s with the green	
+V-781	chicken	chicken	white tea	white tea	—added with green tea or	
+V-781	tea	tea	white tea	white tea	or	
+V-781	antioxidant	antioxidant	tea	tea	power was green	
+V-781	green tea	green tea	tea	tea	—unless you added lemon, in which case white	
+V-781	dna	dna	mutations	mutations		

@@ -1,0 +1,39 @@
+
+T-920	nausea	nausea	pain	pain	and vomiting, migraines, menstrual	
+T-920	variety	variety	menstrual pain	menstrual pain	of conditions including nausea and vomiting, migraines,	
+T-920	herbal	herbal	saffron	saffron	remedies include fennel seeds, turmeric, ginger, peppermint,	
+T-920	herbal remedies	herbal remedies	saffron	saffron	include fennel seeds, turmeric, ginger, peppermint,	
+T-920	herbal	herbal	spices	spices	remedies involve using herbs and	
+T-920	nausea	nausea	migraines	migraines	and vomiting,	
+T-920	herbal remedies	herbal remedies	spices	spices	involve using herbs and	
+T-920	variety	variety	pain	pain	of conditions including nausea and vomiting, migraines, menstrual	
+T-920	herbs	herbs	spices	spices	and	
+T-920	herbal remedies	herbal remedies	herbs	herbs	involve using	
+T-920	herbal	herbal	seeds	seeds	remedies include fennel	
+T-920	herbal	herbal	herbs	herbs	remedies involve using	
+T-920	herbal	herbal	fennel	fennel	remedies include	
+T-920	herbal	herbal	peppermint	peppermint	remedies include fennel seeds, turmeric, ginger,	
+T-920	herbal remedies	herbal remedies	fennel	fennel	include	
+T-920	herbal remedies	herbal remedies	turmeric	turmeric	include fennel seeds,	
+T-920	herbal	herbal	fennel seeds	fennel seeds	remedies include	
+T-920	fennel	fennel	seeds	seeds		
+T-920	fennel	fennel	turmeric	turmeric	seeds,	
+T-920	nausea	nausea	vomiting	vomiting	and	
+T-920	nausea	nausea	syndrome	syndrome	and vomiting, migraines, menstrual pain, and premenstrual	
+T-920	herbal	herbal	ginger	ginger	remedies include fennel seeds, turmeric,	
+T-920	fennel	fennel	ginger	ginger	seeds, turmeric,	
+T-920	variety	variety	nausea	nausea	of conditions including	
+T-920	herbal remedies	herbal remedies	seeds	seeds	include fennel	
+T-920	herbal	herbal	turmeric	turmeric	remedies include fennel seeds,	
+T-920	nausea	nausea	premenstrual syndrome	premenstrual syndrome	and vomiting, migraines, menstrual pain, and	
+T-920	herbal remedies	herbal remedies	fennel seeds	fennel seeds	include	
+T-920	herbal remedies	herbal remedies	peppermint	peppermint	include fennel seeds, turmeric, ginger,	
+T-920	herbs	herbs	variety	variety	may treat a wide	
+T-920	fennel	fennel	peppermint	peppermint	seeds, turmeric, ginger,	
+T-920	nausea	nausea	menstrual pain	menstrual pain	and vomiting, migraines,	
+T-920	variety	variety	migraines	migraines	of conditions including nausea and vomiting,	
+T-920	variety	variety	vomiting	vomiting	of conditions including nausea and	
+T-920	fennel	fennel	saffron	saffron	seeds, turmeric, ginger, peppermint,	
+T-920	herbal remedies	herbal remedies	ginger	ginger	include fennel seeds, turmeric,	
+T-920	fennel	fennel	herbs	herbs	seeds, turmeric, ginger, peppermint, saffron, and green tea.these	
+T-920	herbs	herbs	nausea	nausea	may treat a wide variety of conditions including	

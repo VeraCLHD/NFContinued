@@ -1,0 +1,57 @@
+
+V-455	blood	blood	cholesterol	cholesterol		
+V-455	statins	statins	cancer	cancer	had decreased breast	
+V-455	tumor	tumor	cancer cells	cancer cells	cells including breast	
+V-455	women	women	cancer	cancer	on statins had decreased breast	
+V-455	breast cancer	breast cancer	cholesterol	cholesterol	cells, and the thought is that reducing blood	
+V-455	cancer	cancer	cholesterol	cholesterol	do with	
+V-455	phytosterols	phytosterols	cancer	cancer	may offer protection against the development of breast	
+V-455	plant-based	plant-based	cholesterol	cholesterol	diets have been shown to lower ldl-	
+V-455	side effects	side effects	breast cancer	breast cancer	such as increased	
+V-455	cancer	cancer	women	women	cases included, and long term statin users—	
+V-455	women	women	breast cancer	breast cancer	is heart disease, not	
+V-455	phytosterols	phytosterols	nuts	nuts	in seeds and	
+V-455	cholesterol	cholesterol	breast cancer	breast cancer	boosts	
+V-455	risk	risk	cancer	cancer	of both types of breast	
+V-455	plant-based	plant-based	phytosterols	phytosterols	diets rich in	
+V-455	risk	risk	ductal carcinoma	ductal carcinoma	of both types of breast cancer: invasive	
+V-455	cancer	cancer	seeds	seeds	therapy.controlled laboratory experiments have shown that phytosterols in	
+V-455	breast cancer	breast cancer	risk	risk		
+V-455	statins	statins	breast cancer	breast cancer	had decreased	
+V-455	side effects	side effects	risk	risk	such as increased breast cancer	
+V-455	breast cancer	breast cancer	statins	statins	cases included, and long term statin users—women taking	
+V-455	drugs	drugs	cancer	cancer	without potential side effects such as increased breast	
+V-455	drugs	drugs	breast cancer	breast cancer	without potential side effects such as increased	
+V-455	breast cancer	breast cancer	cholesterol	cholesterol	do with	
+V-455	cancer	cancer	cholesterol	cholesterol	cells, and the thought is that reducing blood	
+V-455	breast cancer	breast cancer	cancer	cancer	cells, both estrogen-receptor negative and estrogen-receptor positive	
+V-455	cholesterol	cholesterol	cancer	cancer	boosts breast	
+V-455	cancer	cancer	statins	statins	cases included, and long term statin users—women taking	
+V-455	women	women	statins	statins	taking	
+V-455	cholesterol	cholesterol	cancer growth	cancer growth	boosts breast	
+V-455	phytosterols	phytosterols	seeds	seeds	in	
+V-455	cholesterol	cholesterol	cancer	cancer	-rich lipid rafts have been found in breast	
+V-455	drugs	drugs	side effects	side effects	without potential	
+V-455	statins	statins	risk	risk	had decreased breast cancer	
+V-455	cholesterol	cholesterol	estrogen	estrogen	is what our body makes	
+V-455	phytosterols	phytosterols	breast cancer	breast cancer	may offer protection against the development of	
+V-455	women	women	breast cancer	breast cancer	on statins had decreased	
+V-455	cancer	cancer	risk	risk		
+V-455	estrogen	estrogen	ldl	ldl	out of, it’s packaged into	
+V-455	women	women	statins	statins	on	
+V-455	breast cancer	breast cancer	women	women	cases included, and long term statin users—	
+V-455	seeds	seeds	nuts	nuts	and	
+V-455	tumor	tumor	cancer	cancer	cells including breast	
+V-455	women	women	cancer	cancer	is heart disease, not breast	
+V-455	side effects	side effects	cancer	cancer	such as increased breast	
+V-455	plant-based diets	plant-based diets	phytosterols	phytosterols	rich in	
+V-455	risk	risk	breast cancer	breast cancer	of both types of	
+V-455	women	women	drugs	drugs	over 45 in this country are on these	
+V-455	plant-based diets	plant-based diets	cholesterol	cholesterol	have been shown to lower ldl-	
+V-455	tumor	tumor	breast cancer	breast cancer	cells including	
+V-455	pumpkin	pumpkin	seeds	seeds		
+V-455	cancer	cancer	cancer	cancer	cell survival, as well as serve in human	
+V-455	cancer	cancer	phytosterols	phytosterols	therapy.controlled laboratory experiments have shown that	
+V-455	tumor	tumor	cholesterol	cholesterol	migration and invasion.elevated levels of	
+V-455	women	women	risk	risk	on statins had decreased breast cancer	
+V-455	cholesterol	cholesterol	cancer	cancer	targeting may be used as a	

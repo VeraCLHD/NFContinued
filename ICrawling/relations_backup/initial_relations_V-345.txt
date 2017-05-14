@@ -1,0 +1,51 @@
+
+V-345	meat	meat	women	women	intake in the u.s., 3% for the	
+V-345	vegetarians	vegetarians	asian	asian	to buddhist nonvegetarians eating traditional	
+V-345	omnivores	omnivores	plant-based diet	plant-based diet	were eating a predominantly	
+V-345	plant-based	plant-based	diet	diet		
+V-345	fish	fish	plant-based diet	plant-based diet	would further extend the protective effect of a	
+V-345	plant-based	plant-based	meat	meat	diet, consuming little	
+V-345	plant-based	plant-based	meat	meat	diet with little	
+V-345	chronic diseases	chronic diseases	death	death	–but no–apparently lower rates of	
+V-345	vegetarians	vegetarians	diabetes	diabetes	should have had more	
+V-345	prediabetes	prediabetes	diabetes	diabetes	and	
+V-345	plant-based diet	plant-based diet	meat	meat	with little	
+V-345	plant-based	plant-based	vegetarians	vegetarians	diet with little meat and fish, true	
+V-345	plant-based diet	plant-based diet	diabetes	diabetes	may be protective against	
+V-345	plant-based	plant-based	diabetes	diabetes	diet may be protective against	
+V-345	smoking	smoking	vegetarian	vegetarian	the men eating	
+V-345	diabetes	diabetes	vegan	vegan	found within the	
+V-345	vegetarian	vegetarian	vegetarians	vegetarians	to typical meateaters; they compared buddhist	
+V-345	plant-based	plant-based	women	women	diet, consuming little meat and fish, with the	
+V-345	fat	fat	asian	asian	consumption, but the westernization of	
+V-345	diabetes	diabetes	vegetarians	vegetarians	rates, and if anything,	
+V-345	plant-based	plant-based	fish	fish	diet with little meat and	
+V-345	omnivores	omnivores	meat	meat	were eating a predominantly plant-based diet, consuming little	
+V-345	vegetarian	vegetarian	diabetes	diabetes	had just half the rates of	
+V-345	eggs	eggs	dairy	dairy	and	
+V-345	meat	meat	vegetarians	vegetarians	and fish, true	
+V-345	meat	meat	western diet	western diet	and higher in plant foods compared with	
+V-345	plant-based diet	plant-based diet	asian	asian	wasn’t known, until now.traditionally,	
+V-345	omnivores	omnivores	plant-based	plant-based	were eating a predominantly	
+V-345	diet	diet	meat	meat	with little	
+V-345	fish	fish	plant-based	plant-based	would further extend the protective effect of a	
+V-345	meat	meat	diet	diet	and higher in plant foods compared with western	
+V-345	plant foods	plant foods	diet	diet	compared with western	
+V-345	asian	asian	meat	meat	diets in general tend to be lower in	
+V-345	meat	meat	plant foods	plant foods	and higher in	
+V-345	omnivores	omnivores	diet	diet	were eating a predominantly plant-based	
+V-345	plant-based diet	plant-based diet	fish	fish	with little meat and	
+V-345	plant foods	plant foods	western diet	western diet	compared with	
+V-345	diabetes	diabetes	risk	risk	after accounting for other	
+V-345	plant-based	plant-based	fish	fish	diet, consuming little meat and	
+V-345	diet	diet	vegetarians	vegetarians	with little meat and fish, true	
+V-345	plant-based	plant-based	diabetes	diabetes	had but a fraction of the	
+V-345	animal fat	animal fat	asian	asian	consumption, but the westernization of	
+V-345	plant-based diet	plant-based diet	vegetarians	vegetarians	with little meat and fish, true	
+V-345	meat	meat	fish	fish	and	
+V-345	meat	meat	women	women	and fish, with the	
+V-345	diet	diet	diabetes	diabetes	may be protective against	
+V-345	diet	diet	meat	meat	with just a little	
+V-345	diet	diet	fish	fish	with little meat and	
+V-345	plant-based	plant-based	asian	asian	diet wasn’t known, until now.traditionally,	
+V-345	prediabetes	prediabetes	risk	risk	and diabetes after accounting for other	

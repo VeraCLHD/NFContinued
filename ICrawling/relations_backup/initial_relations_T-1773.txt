@@ -1,0 +1,36 @@
+
+T-1773	vegetables	vegetables	kohlrabi	kohlrabi	like kale, cauliflower or	
+T-1773	cauliflower	cauliflower	kohlrabi	kohlrabi	or	
+T-1773	breast cancer	breast cancer	stem cells	stem cells		
+T-1773	cruciferous vegetables	cruciferous vegetables	kohlrabi	kohlrabi	like kale, cauliflower or	
+T-1773	phytonutrients	phytonutrients	supplements	supplements	appeared dramatically lower when subjects consumed broccoli	
+T-1773	sulforaphane	sulforaphane	bladder	bladder	may also reduce the mortality rate in	
+T-1773	sulforaphane	sulforaphane	mortality	mortality	may also reduce the	
+T-1773	liver	liver	enzymes	enzymes	’s own detoxifying	
+T-1773	raw	raw	broccoli	broccoli		
+T-1773	vegetables	vegetables	cauliflower	cauliflower	like kale,	
+T-1773	mortality	mortality	cancer	cancer	rate in bladder	
+T-1773	phytonutrients	phytonutrients	broccoli	broccoli	appeared dramatically lower when subjects consumed	
+T-1773	sulforaphane	sulforaphane	phytonutrient	phytonutrient	is a phenolic	
+T-1773	mortality	mortality	bladder cancer	bladder cancer	rate in	
+T-1773	cooking	cooking	mustard powder	mustard powder	or by adding a bit of	
+T-1773	mortality	mortality	bladder	bladder	rate in	
+T-1773	sulforaphane	sulforaphane	bladder cancer	bladder cancer	may also reduce the mortality rate in	
+T-1773	vegetables	vegetables	broccoli	broccoli	like kale, cauliflower or kohlrabi, with	
+T-1773	cruciferous vegetables	cruciferous vegetables	cauliflower	cauliflower	like kale,	
+T-1773	cancer	cancer	stem cells	stem cells		
+T-1773	cauliflower	cauliflower	broccoli	broccoli	or kohlrabi, with	
+T-1773	cruciferous vegetables	cruciferous vegetables	broccoli	broccoli	like kale, cauliflower or kohlrabi, with	
+T-1773	broccoli	broccoli	supplements	supplements	phytonutrients appeared dramatically lower when subjects consumed broccoli	
+T-1773	bioavailability	bioavailability	phytonutrients	phytonutrients	of broccoli	
+T-1773	bladder	bladder	cancer	cancer		
+T-1773	bioavailability	bioavailability	broccoli	broccoli	of	
+T-1773	broccoli	broccoli	sprouts	sprouts		
+T-1773	mustard powder	mustard powder	broccoli	broccoli	to the cooked	
+T-1773	liver	liver	detoxifying enzymes	detoxifying enzymes	’s own	
+T-1773	vegetables	vegetables	kale	kale	like	
+T-1773	cruciferous vegetables	cruciferous vegetables	kale	kale	like	
+T-1773	broccoli	broccoli	phytonutrients	phytonutrients		
+T-1773	sulforaphane	sulforaphane	cancer	cancer	may also reduce the mortality rate in bladder	
+T-1773	raw	raw	sulforaphane	sulforaphane	broccoli.heating broccoli may deactivate the enzyme that produces	
+T-1773	sulforaphane	sulforaphane	supplements	supplements	may also be obtained through	

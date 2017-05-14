@@ -1,0 +1,56 @@
+
+V-351	risk	risk	disease	disease	of crohn’s	
+V-351	maltodextrin	maltodextrin	bacteria	bacteria	markedly enhanced the ability of the	
+V-351	fiber	fiber	fruit	fruit	and	
+V-351	sweeteners	sweeteners	dressings	dressings	like splenda, snack foods, salad	
+V-351	risk	risk	disease	disease	of developing inflammatory bowel	
+V-351	fats	fats	meat	meat	and	
+V-351	meat	meat	disease	disease	were associated with an increased risk of crohn’s	
+V-351	plant-based	plant-based	diet	diet		
+V-351	processed foods	processed foods	polysorbate 80	polysorbate 80	that facilitated the invasion of the bacteria:	
+V-351	diet	diet	fat	fat	low in animal	
+V-351	diet	diet	disease	disease	may ultimately reduce the incidence of crohn’s	
+V-351	animal protein	animal protein	fat	fat	and animal	
+V-351	inflammatory bowel disease	inflammatory bowel disease	meat	meat	found that high intakes of fats and	
+V-351	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of developing	
+V-351	harvard	harvard	health	health	nurses'	
+V-351	fiber	fiber	colon	colon	acts as a prebiotic in our	
+V-351	fruit	fruit	risk	risk	intakes were associated with decreased	
+V-351	processed foods	processed foods	bacteria	bacteria	that facilitated the invasion of the	
+V-351	protein	protein	fat	fat	and animal	
+V-351	animal protein	animal protein	animal fat	animal fat	and	
+V-351	bacteria	bacteria	cream	cream	: polysorbate 80, found predominantly in ice	
+V-351	greens	greens	diet	diet	stuck in your teeth or something, and	
+V-351	plant foods	plant foods	processed foods	processed foods	and more	
+V-351	bacteria	bacteria	ice cream	ice cream	: polysorbate 80, found predominantly in	
+V-351	fiber	fiber	risk	risk	and fruit intakes were associated with decreased	
+V-351	diet	diet	animal fat	animal fat	low in	
+V-351	bacteria	bacteria	gut	gut	from tunneling into the	
+V-351	cheese	cheese	maltodextrin	maltodextrin	—you just have to read the labels.what about	
+V-351	disease	disease	symptoms	symptoms	and current research focuses on just controlling	
+V-351	disease	disease	meat	meat	found that high intakes of fats and	
+V-351	side effects	side effects	disease	disease	like progressive multifocal leukoencephalopathy, a disabling and deadly brain	
+V-351	women	women	fiber	fiber	who fell into the highest long-term	
+V-351	protein	protein	animal fat	animal fat	and	
+V-351	fiber	fiber	risk	risk	consumption group had a 40% reduced	
+V-351	bacteria	bacteria	gut	gut	into our	
+V-351	food additives	food additives	disease	disease	can be effective in preventing and treating crohn’s	
+V-351	fiber	fiber	supplements	supplements		
+V-351	artificial sweeteners	artificial sweeteners	dressings	dressings	like splenda, snack foods, salad	
+V-351	risk	risk	disease	disease	of developing crohn’s	
+V-351	plantains	plantains	broccoli	broccoli	and	
+V-351	fats	fats	risk	risk	and meat were associated with an increased	
+V-351	side effects	side effects	brain disease	brain disease	like progressive multifocal leukoencephalopathy, a disabling and deadly	
+V-351	teeth	teeth	diet	diet	or something, and	
+V-351	sweeteners	sweeteners	splenda	splenda	like	
+V-351	greens	greens	teeth	teeth	stuck in your	
+V-351	sweeteners	sweeteners	supplements	supplements	like splenda, snack foods, salad dressings, and fiber	
+V-351	artificial sweeteners	artificial sweeteners	fiber	fiber	like splenda, snack foods, salad dressings, and	
+V-351	sweeteners	sweeteners	fiber	fiber	like splenda, snack foods, salad dressings, and	
+V-351	fiber	fiber	food additives	food additives	intake and avoiding these	
+V-351	carboxy-methyl cellulose	carboxy-methyl cellulose	xanthan gum	xanthan gum	and	
+V-351	disease	disease	fats	fats	found that high intakes of	
+V-351	inflammatory bowel disease	inflammatory bowel disease	fats	fats	found that high intakes of	
+V-351	meat	meat	risk	risk	were associated with an increased	
+V-351	artificial sweeteners	artificial sweeteners	supplements	supplements	like splenda, snack foods, salad dressings, and fiber	
+V-351	artificial sweeteners	artificial sweeteners	splenda	splenda	like	

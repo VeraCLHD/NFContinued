@@ -1,0 +1,67 @@
+
+V-624	flax	flax	prostate cancer	prostate cancer	seed supplementation in men, with	
+V-624	animal fat	animal fat	diet	diet	in the more vegetarian-style asian	
+V-624	carcinoma in situ	carcinoma in situ	cancer	cancer	in the breast—an early stage of	
+V-624	ductal carcinoma	ductal carcinoma	cancer	cancer	in situ in the breast—an early stage of	
+V-624	phytoestrogens	phytoestrogens	prostate	prostate	 in the	
+V-624	cancer	cancer	japanese	japanese	is highest in african-americans—some 30-fold greater than in	
+V-624	animal proteins	animal proteins	fat	fat	and	
+V-624	flax	flax	seeds	seeds		
+V-624	flax	flax	cancer	cancer	seed supplementation in men, with prostate	
+V-624	prostate	prostate	cancer	cancer		
+V-624	lignans	lignans	cancer	cancer	can slow the growth of prostate	
+V-624	fat	fat	diet	diet	in their	
+V-624	in vitro studies	in vitro studies	cancer	cancer	have shown lignans can slow the growth of prostate	
+V-624	fiber	fiber	diet	diet	content is higher.so, maybe	
+V-624	lignans	lignans	cancer cells	cancer cells	can slow the growth of prostate	
+V-624	in vitro studies	in vitro studies	cancer cells	cancer cells	have shown lignans can slow the growth of prostate	
+V-624	japanese	japanese	chinese	chinese	men, and 120 times greater than seen in	
+V-624	prostate	prostate	cholesterol	cholesterol	cell growth); a drop in	
+V-624	lignans	lignans	flax seeds	flax seeds	are found throughout the plant kingdom,	
+V-624	seeds	seeds	biopsy	biopsy	to see if it made their repeat	
+V-624	ground flax	ground flax	seeds	seeds		
+V-624	prostate cancer	prostate cancer	japanese	japanese	is highest in african-americans—some 30-fold greater than in	
+V-624	animal proteins	animal proteins	fiber	fiber	and fat, and high in starch and	
+V-624	diet	diet	fiber	fiber	is low, and the	
+V-624	lignans	lignans	prostate	prostate	can slow the growth of	
+V-624	ground flax	ground flax	biopsy	biopsy	seeds to see if it made their repeat	
+V-624	western diet	western diet	animal protein	animal protein	is one in which	
+V-624	asian	asian	fiber	fiber	diet is low, and the	
+V-624	in vitro studies	in vitro studies	lignans	lignans	have shown 	
+V-624	tumor	tumor	diet	diet	biology in the	
+V-624	western diet	western diet	fat	fat	is one in which animal protein and	
+V-624	lignans	lignans	prostate cancer	prostate cancer	can slow the growth of	
+V-624	lignans	lignans	flax	flax	are found throughout the plant kingdom,	
+V-624	western diet	western diet	protein	protein	is one in which animal	
+V-624	animal protein	animal protein	fiber	fiber	and fat consumption is high, whereas the	
+V-624	fat	fat	asian	asian	in the more vegetarian-style	
+V-624	prostate	prostate	flax	flax	cancer, before surgery.why	
+V-624	fat	fat	ground flax	ground flax	in their diet, and put them on	
+V-624	animal fat	animal fat	asian	asian	in the more vegetarian-style	
+V-624	lignans	lignans	seeds	seeds	are found throughout the plant kingdom, flax	
+V-624	prostate	prostate	flax seeds	flax seeds	cancer, before surgery.why	
+V-624	in vitro studies	in vitro studies	prostate	prostate	have shown lignans can slow the growth of	
+V-624	flax	flax	prostate	prostate	seed supplementation in men, with	
+V-624	chinese	chinese	diet	diet	men in shanghai.well, in general terms, the western	
+V-624	protein	protein	fiber	fiber	and fat consumption is high, whereas the	
+V-624	prostate	prostate	carcinoma in situ	carcinoma in situ	equivalent of ductal	
+V-624	flax	flax	biopsy	biopsy	seeds to see if it made their repeat	
+V-624	in vitro studies	in vitro studies	prostate cancer	prostate cancer	have shown lignans can slow the growth of	
+V-624	prostate	prostate	seeds	seeds	cancer, before surgery.why flax	
+V-624	cholesterol	cholesterol	diet	diet	(which is what we’d expect with a lower-fat	
+V-624	prostate	prostate	cancer cells	cancer cells		
+V-624	chinese	chinese	western diet	western diet	men in shanghai.well, in general terms, the	
+V-624	lignans	lignans	kingdom	kingdom	are found throughout the plant	
+V-624	animal protein	animal protein	fat	fat	and	
+V-624	psa	psa	prostate	prostate	levels (which is a biomarker of	
+V-624	asian	asian	diet	diet		
+V-624	protein	protein	fat	fat	and	
+V-624	prostate	prostate	ductal carcinoma	ductal carcinoma	equivalent of	
+V-624	fat	fat	fiber	fiber	consumption is high, whereas the	
+V-624	fat	fat	diet	diet	in the more vegetarian-style asian	
+V-624	flax seeds	flax seeds	biopsy	biopsy	to see if it made their repeat	
+V-624	fat	fat	flax	flax	in their diet, and put them on ground	
+V-624	diet	diet	protein	protein	is one in which animal	
+V-624	diet	diet	fat	fat	is one in which animal protein and	
+V-624	diet	diet	animal protein	animal protein	is one in which	
+V-624	fat	fat	flax seeds	flax seeds	in their diet, and put them on ground	

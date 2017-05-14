@@ -1,0 +1,56 @@
+
+V-792	wheat	wheat	cholesterol	cholesterol	protein for milk protein dramatically lowered	
+V-792	skim milk	skim milk	egg	egg	and	
+V-792	protein	protein	cholesterol	cholesterol	for milk protein dramatically lowered	
+V-792	milk	milk	egg	egg	and	
+V-792	cholesterol	cholesterol	meat	meat	itself, found in	
+V-792	plant-based	plant-based	diet	diet		
+V-792	milk	milk	diet	diet	protein casein precludes the preparation of a cholesterol-free	
+V-792	animal foods	animal foods	egg	egg	that don’t: skim milk and	
+V-792	milk	milk	protein	protein		
+V-792	casein	casein	preparation	preparation	precludes the	
+V-792	casein	casein	diet	diet	precludes the preparation of a cholesterol-free	
+V-792	milk	milk	animal proteins	animal proteins	and egg whites.in animal models,	
+V-792	plant foods	plant foods	cholesterol	cholesterol	that do raise	
+V-792	wheat	wheat	protein	protein		
+V-792	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-792	milk	milk	preparation	preparation	protein casein precludes the	
+V-792	cholesterol	cholesterol	ldl cholesterol	ldl cholesterol	itself, found in meat, dairy, and especially eggs.elevated	
+V-792	milk	milk	casein	casein	protein	
+V-792	risk	risk	animal foods	animal foods	of dying from our #1 killer, and all whole	
+V-792	fat	fat	plant foods	plant foods	and cholesterol, in general, all whole	
+V-792	plant-based diet	plant-based diet	fiber	fiber	without some	
+V-792	protein	protein	casein	casein		
+V-792	cholesterol	cholesterol	vegetable oil	vegetable oil	: hydrogenated	
+V-792	animal foods	animal foods	risk	risk	tend to raise our	
+V-792	protein	protein	milk	milk	for	
+V-792	animal foods	animal foods	skim milk	skim milk	that don’t:	
+V-792	animal proteins	animal proteins	cholesterol	cholesterol	alone increase	
+V-792	plants	plants	saturated fat	saturated fat	have fiber, and all animals have	
+V-792	preparation	preparation	diet	diet	of a cholesterol-free	
+V-792	protein	protein	preparation	preparation	casein precludes the	
+V-792	saturated fat	saturated fat	plant foods	plant foods	and cholesterol, in general, all whole	
+V-792	fat	fat	cholesterol	cholesterol	and	
+V-792	plant foods	plant foods	risk	risk	tend to lower our	
+V-792	cholesterol	cholesterol	animal products	animal products	and	
+V-792	egg	egg	animal proteins	animal proteins	whites.in animal models,	
+V-792	animal fat	animal fat	cholesterol	cholesterol	and	
+V-792	plant-based	plant-based	fiber	fiber	diet without some	
+V-792	cholesterol	cholesterol	eggs	eggs	itself, found in meat, dairy, and especially	
+V-792	animal foods	animal foods	milk	milk	that don’t: skim	
+V-792	milk	milk	cholesterol	cholesterol	protein dramatically lowered	
+V-792	animal products	animal products	diet	diet	in the american	
+V-792	plants	plants	fiber	fiber	have	
+V-792	cholesterol	cholesterol	animal foods	animal foods	: hydrogenated vegetable oil, for example—and processed	
+V-792	skim milk	skim milk	animal proteins	animal proteins	and egg whites.in animal models,	
+V-792	ldl	ldl	cholesterol	cholesterol		
+V-792	animal products	animal products	cholesterol	cholesterol	in the american diet; (3) the consumption of	
+V-792	egg	egg	cholesterol	cholesterol	whites.in animal models, animal proteins alone increase	
+V-792	plant foods	plant foods	vegetable oil	vegetable oil	that do raise cholesterol: hydrogenated	
+V-792	diet	diet	fiber	fiber	without some	
+V-792	cholesterol	cholesterol	dairy	dairy	itself, found in meat,	
+V-792	plants	plants	fat	fat	have fiber, and all animals have saturated	
+V-792	wheat	wheat	milk	milk	protein for	
+V-792	eggs	eggs	cholesterol	cholesterol	.elevated ldl	
+V-792	fiber	fiber	kids	kids	slipping in, even when they tried to feed 	
+V-792	protein	protein	diet	diet	casein precludes the preparation of a cholesterol-free	

@@ -1,0 +1,7 @@
+
+V-1274	diet	diet	body odor	body odor	for two weeks, wearing axillary pads to collect	
+V-1274	gold	gold	body odor	body odor	: the effect of meat consumption on	
+V-1274	meat	meat	body odor	body odor	consumption has a negative impact on perceived	
+V-1274	meat	meat	body odor	body odor	consumption on	
+V-1274	gold	gold	meat	meat	: the effect of	
+V-1274	meat	meat	diet	diet	or non-meat	

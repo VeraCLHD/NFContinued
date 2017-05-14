@@ -1,0 +1,35 @@
+
+T-246	hibiscus	hibiscus	antioxidants	antioxidants	have more	
+T-246	antioxidants	antioxidants	tea	tea	than black	
+T-246	antioxidants	antioxidants	black tea	black tea	than	
+T-246	tea	tea	blood	blood	failed to increase aluminum	
+T-246	black tea	black tea	blood	blood	failed to increase aluminum	
+T-246	aluminum	aluminum	tea	tea	content of black	
+T-246	black tea	black tea	phytonutrients	phytonutrients	is bound to	
+T-246	tea	tea	phytonutrients	phytonutrients	is bound to	
+T-246	tea	tea	bioavailability	bioavailability	is bound to phytonutrients and thus its	
+T-246	tea	tea	black tea	black tea	and hibiscus have more antioxidants than	
+T-246	green tea	green tea	black tea	black tea	and hibiscus have more antioxidants than	
+T-246	aluminum	aluminum	blood	blood		
+T-246	green tea	green tea	hibiscus	hibiscus	and	
+T-246	earl grey tea	earl grey tea	black tea	black tea	may be healthier than plain	
+T-246	aluminum	aluminum	black tea	black tea	from	
+T-246	hibiscus	hibiscus	black tea	black tea	have more antioxidants than	
+T-246	tea	tea	water	water	has similar hydrating effects as	
+T-246	black tea	black tea	water	water	has similar hydrating effects as	
+T-246	aluminum	aluminum	phytonutrients	phytonutrients	from black tea is bound to	
+T-246	black tea	black tea	tea	tea	.white, green, oolong, and black	
+T-246	tea	tea	hibiscus	hibiscus	and	
+T-246	earl grey tea	earl grey tea	tea	tea	may be healthier than plain black	
+T-246	tea	tea	antioxidants	antioxidants	and hibiscus have more	
+T-246	green tea	green tea	antioxidants	antioxidants	and hibiscus have more	
+T-246	aluminum	aluminum	black tea	black tea	content of	
+T-246	black tea	black tea	bioavailability	bioavailability	is bound to phytonutrients and thus its	
+T-246	aluminum	aluminum	lemon	lemon	blood levels, even when taken with	
+T-246	phytonutrients	phytonutrients	bioavailability	bioavailability	and thus its	
+T-246	green tea	green tea	tea	tea	and hibiscus have more antioxidants than black	
+T-246	aluminum	aluminum	tea	tea	from black	
+T-246	tea	tea	aluminum	aluminum	failed to increase	
+T-246	blood	blood	lemon	lemon	levels, even when taken with	
+T-246	black tea	black tea	aluminum	aluminum	failed to increase	
+T-246	hibiscus	hibiscus	tea	tea	have more antioxidants than black	

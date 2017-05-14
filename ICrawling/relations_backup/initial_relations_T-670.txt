@@ -1,0 +1,43 @@
+
+T-670	obesity	obesity	endocrine disrupting chemicals	endocrine disrupting chemicals	risk, and lowered testosterone levels.specific types of	
+T-670	fat	fat	fertility	fertility	and may reduce male	
+T-670	milk	milk	cancer	cancer	) may increase	
+T-670	meat	meat	organic	organic	and fish (even	
+T-670	fish	fish	organic	organic	(even	
+T-670	xenoestrogens	xenoestrogens	animal fat	animal fat	which can build up in	
+T-670	chemical pollutants	chemical pollutants	fish	fish	can be found in meat and	
+T-670	testosterone	testosterone	endocrine disrupting chemicals	endocrine disrupting chemicals	levels.specific types of	
+T-670	chemical pollutants	chemical pollutants	organic	organic	can be found in meat and fish (even	
+T-670	milk	milk	risk	risk	) may increase cancer	
+T-670	cancer	cancer	risk	risk		
+T-670	obesity	obesity	risk	risk		
+T-670	animal fat	animal fat	fertility	fertility	and may reduce male	
+T-670	women	women	heavy metals	heavy metals	in the u.s. are contaminated with endocrine disruptors,	
+T-670	obesity	obesity	testosterone	testosterone	risk, and lowered	
+T-670	cdc	cdc	women	women	found that the majority of	
+T-670	organic	organic	early onset puberty	early onset puberty	), and may be linked to	
+T-670	california	california	pollutants	pollutants	children exceeded cancer benchmark levels for four endocrine-disrupting	
+T-670	california	california	children	children		
+T-670	animal products	animal products	milk	milk	(but may be particularly high in pregnant cow’s	
+T-670	women	women	endocrine disruptors	endocrine disruptors	in the u.s. are contaminated with	
+T-670	meat	meat	fish	fish	and	
+T-670	testosterone	testosterone	chemicals	chemicals	levels.specific types of endocrine disrupting	
+T-670	animal fat	animal fat	alkylphenols	alkylphenols	and may reduce male fertility, and endocrine-disrupting	
+T-670	animal products	animal products	pregnant	pregnant	(but may be particularly high in	
+T-670	fish	fish	early onset puberty	early onset puberty	(even organic), and may be linked to	
+T-670	pregnant	pregnant	risk	risk	cow’s milk) may increase cancer	
+T-670	pollutants	pollutants	fish	fish	can be found in meat and	
+T-670	cancer	cancer	pollutants	pollutants	benchmark levels for four endocrine-disrupting	
+T-670	pollutants	pollutants	meat	meat	can be found in	
+T-670	steroids	steroids	animal products	animal products	naturally found in all	
+T-670	alkylphenols	alkylphenols	fish	fish	(mostly found in	
+T-670	pregnant	pregnant	milk	milk	cow’s	
+T-670	pregnant	pregnant	cancer	cancer	cow’s milk) may increase	
+T-670	children	children	cancer	cancer	exceeded	
+T-670	fat	fat	alkylphenols	alkylphenols	and may reduce male fertility, and endocrine-disrupting	
+T-670	california	california	cancer	cancer	children exceeded	
+T-670	children	children	pollutants	pollutants	exceeded cancer benchmark levels for four endocrine-disrupting	
+T-670	organic	organic	puberty	puberty	), and may be linked to early onset	
+T-670	chemical pollutants	chemical pollutants	meat	meat	can be found in	
+T-670	pollutants	pollutants	organic	organic	can be found in meat and fish (even	
+T-670	xenoestrogens	xenoestrogens	fat	fat	which can build up in animal	

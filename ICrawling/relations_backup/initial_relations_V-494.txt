@@ -1,0 +1,34 @@
+
+V-494	plant-based	plant-based	corn	corn	diet centered around	
+V-494	diet	diet	plant foods	plant foods	deficient in whole	
+V-494	americans	americans	plant-based diet	plant-based diet	—a	
+V-494	native americans	native americans	squash	squash	—a plant-based diet centered around corn, beans, and	
+V-494	native americans	native americans	plant-based diet	plant-based diet	—a	
+V-494	plant-based	plant-based	diet	diet		
+V-494	americans	americans	beans	beans	—a plant-based diet centered around corn,	
+V-494	plant-based diet	plant-based diet	squash	squash	centered around corn, beans, and	
+V-494	cancer	cancer	lymphoma	lymphoma	now known as burkitt’s	
+V-494	plant foods	plant foods	fiber	fiber	—the only natural source of	
+V-494	americans	americans	plant-based	plant-based	—a	
+V-494	plant-based diet	plant-based diet	corn	corn	centered around	
+V-494	plant-based diet	plant-based diet	beans	beans	centered around corn,	
+V-494	cancer	cancer	americans	americans	was so seldom seen in native	
+V-494	native americans	native americans	plant-based	plant-based	—a	
+V-494	diet	diet	native americans	native americans	of many	
+V-494	diet	diet	plant-based	plant-based	of many native americans—a	
+V-494	cancer	cancer	native americans	native americans	was so seldom seen in	
+V-494	americans	americans	diet	diet	—a plant-based	
+V-494	water	water	disease	disease	from the tap represents the cause of	
+V-494	native americans	native americans	beans	beans	—a plant-based diet centered around corn,	
+V-494	disease	disease	africa	africa	to the ruling white class in apartheid	
+V-494	diet	diet	americans	americans	of many native	
+V-494	fiber	fiber	animal fats	animal fats	), and “a great increase in consumption of	
+V-494	native americans	native americans	diet	diet	—a plant-based	
+V-494	plant-based	plant-based	beans	beans	diet centered around corn,	
+V-494	diet	diet	plant-based diet	plant-based diet	of many native americans—a	
+V-494	plant foods	plant foods	fiber	fiber	(the sources of starch and	
+V-494	native americans	native americans	corn	corn	—a plant-based diet centered around	
+V-494	americans	americans	squash	squash	—a plant-based diet centered around corn, beans, and	
+V-494	americans	americans	corn	corn	—a plant-based diet centered around	
+V-494	diet	diet	corn	corn	of many native americans—a plant-based diet centered around	
+V-494	plant-based	plant-based	squash	squash	diet centered around corn, beans, and	

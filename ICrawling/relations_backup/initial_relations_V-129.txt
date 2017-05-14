@@ -1,0 +1,26 @@
+
+V-129	wheat	wheat	juice	juice	grass	
+V-129	wheatgrass	wheatgrass	treatment	treatment	for	
+V-129	juice	juice	ulcerative colitis	ulcerative colitis	in patients with active distal	
+V-129	wheatgrass	wheatgrass	juice	juice		
+V-129	juice	juice	ulcerative colitis	ulcerative colitis	in the treatment of	
+V-129	medicine	medicine	inflammatory bowel disease	inflammatory bowel disease	approaches to treat	
+V-129	juice	juice	treatment	treatment	in the	
+V-129	wheatgrass	wheatgrass	treatment	treatment	findings were impressive: “wheat grass juice in the	
+V-129	wheat	wheat	ulcerative colitis	ulcerative colitis	grass juice in the treatment of active distal	
+V-129	wheatgrass	wheatgrass	ulcerative colitis	ulcerative colitis	juice in patients with active distal	
+V-129	wheatgrass	wheatgrass	wheat	wheat	findings were impressive: “	
+V-129	treatment	treatment	ulcerative colitis	ulcerative colitis	of active distal	
+V-129	aloe vera	aloe vera	juice	juice	gel and wheat grass	
+V-129	medicine	medicine	disease	disease	approaches to treat inflammatory bowel	
+V-129	wheat	wheat	treatment	treatment	grass juice in the	
+V-129	alternative medicine	alternative medicine	disease	disease	approaches to treat inflammatory bowel	
+V-129	wheatgrass	wheatgrass	treatment	treatment	juice in the	
+V-129	juice	juice	disease	disease	was associated with reductions in the overall	
+V-129	treatment	treatment	juice	juice	with wheatgrass	
+V-129	alternative medicine	alternative medicine	inflammatory bowel disease	inflammatory bowel disease	approaches to treat	
+V-129	wheatgrass	wheatgrass	disease	disease	juice was associated with reductions in the overall	
+V-129	juice	juice	ulcerative colitis	ulcerative colitis	in the treatment of active distal	
+V-129	treatment	treatment	wheatgrass	wheatgrass	with	
+V-129	wheatgrass	wheatgrass	juice	juice	findings were impressive: “wheat grass	
+V-129	aloe vera	aloe vera	wheat	wheat	gel and	

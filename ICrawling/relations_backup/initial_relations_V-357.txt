@@ -1,0 +1,11 @@
+
+V-357	calories	calories	vegetables	vegetables	a day, ate the same amount of	
+V-357	chicken	chicken	weight gain	weight gain	consumption was most associated with	
+V-357	weight gain	weight gain	women	women	in both men and	
+V-357	vegetarians	vegetarians	obesity	obesity	have considerably lower	
+V-357	fruit	fruit	grains	grains	and	
+V-357	exercise	exercise	meat	meat	—but, ate different amounts of	
+V-357	women	women	calories	calories	who ate the same number of	
+V-357	obesity	obesity	chicken	chicken	led to greater	
+V-357	women	women	meat	meat	who ate less than a single serving of	
+V-357	fruit	fruit	exercise	exercise	and grains, same amount of	

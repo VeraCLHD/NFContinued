@@ -1,0 +1,76 @@
+
+T-45	heart disease	heart disease	liver inflammation	liver inflammation	but increase the risk of cancer, heartburn and	
+T-45	alcohol	alcohol	disease	disease	also increases liver	
+T-45	health	health	risk	risk	study suggests little to no	
+T-45	risk	risk	breast cancer	breast cancer	of	
+T-45	women	women	risk	risk	’s health study suggests little to no	
+T-45	risk	risk	cancer	cancer	of breast	
+T-45	cancer	cancer	alcohol	alcohol	risk linked to	
+T-45	tumors	tumors	cancer	cancer	to produce estrogen – and counteract elevated breast	
+T-45	estrogen	estrogen	cancer	cancer	– and counteract elevated breast	
+T-45	american college of cardiology	american college of cardiology	blood	blood	suggests limiting alcohol intake to reduce high	
+T-45	disease	disease	liver inflammation	liver inflammation	but increase the risk of cancer, heartburn and	
+T-45	blood	blood	breast cancer	breast cancer	pressure.even “light” drinking increases the risk of	
+T-45	breast cancer	breast cancer	risk	risk		
+T-45	wine	wine	beverages	beverages	may improve arterial function.alcoholic	
+T-45	tumors	tumors	breast cancer	breast cancer	to produce estrogen – and counteract elevated	
+T-45	estrogen	estrogen	risk	risk	– and counteract elevated breast cancer	
+T-45	alcohol	alcohol	pregnant	pregnant	consumption while	
+T-45	blood	blood	risk	risk	pressure.even “light” drinking increases the	
+T-45	harvard	harvard	risk	risk	women’s health study suggests little to no	
+T-45	alcohol	alcohol	heart disease	heart disease	consumption may decrease the risk of	
+T-45	alcohol	alcohol	blood	blood	intake to reduce high	
+T-45	alcohol	alcohol	risk	risk	consumption may decrease the	
+T-45	breast cancer	breast cancer	alcohol	alcohol	risk from	
+T-45	risk	risk	alcohol	alcohol	from	
+T-45	harvard	harvard	health	health	women’s	
+T-45	health	health	red wine	red wine	study suggests little to no risk from	
+T-45	disease	disease	liver	liver	but increase the risk of cancer, heartburn and	
+T-45	liver	liver	disease	disease		
+T-45	heartburn	heartburn	liver inflammation	liver inflammation	and	
+T-45	alcohol	alcohol	mortality	mortality	also increases liver disease	
+T-45	disease	disease	cancer	cancer	but increase the risk of	
+T-45	aromatase	aromatase	produce	produce	— the enzyme used by breast tumors to	
+T-45	harvard	harvard	women	women		
+T-45	liver	liver	atrial fibrillation	atrial fibrillation	disease mortality, but has a neutral effect on	
+T-45	heart disease	heart disease	liver	liver	but increase the risk of cancer, heartburn and	
+T-45	liver disease	liver disease	mortality	mortality		
+T-45	produce	produce	cancer	cancer	 estrogen – and counteract elevated breast	
+T-45	tumors	tumors	risk	risk	to produce estrogen – and counteract elevated breast cancer	
+T-45	alcohol	alcohol	disease	disease	consumption may decrease the risk of heart	
+T-45	risk	risk	heart disease	heart disease	of	
+T-45	cancer	cancer	alcohol	alcohol	risk from	
+T-45	produce	produce	estrogen	estrogen	 	
+T-45	cancer	cancer	risk	risk		
+T-45	heart disease	heart disease	heartburn	heartburn	but increase the risk of cancer,	
+T-45	alcohol	alcohol	liver	liver	also increases	
+T-45	liver	liver	mortality	mortality	disease	
+T-45	heartburn	heartburn	liver	liver	and	
+T-45	alcohol	alcohol	liver disease	liver disease	also increases	
+T-45	heartburn	heartburn	inflammation	inflammation	and liver	
+T-45	breast cancer	breast cancer	light drinking	light drinking	deaths annually can be attributed to	
+T-45	aromatase	aromatase	tumors	tumors	— the enzyme used by breast	
+T-45	liver	liver	inflammation	inflammation		
+T-45	disease	disease	atrial fibrillation	atrial fibrillation	mortality, but has a neutral effect on	
+T-45	nausea	nausea	vomiting	vomiting	and	
+T-45	disease	disease	mortality	mortality		
+T-45	american college of cardiology	american college of cardiology	alcohol	alcohol	suggests limiting	
+T-45	tumors	tumors	produce	produce	to	
+T-45	heart disease	heart disease	risk	risk	but increase the	
+T-45	disease	disease	heartburn	heartburn	but increase the risk of cancer,	
+T-45	risk	risk	cancer	cancer	of heart disease but increase the risk of	
+T-45	breast cancer	breast cancer	alcohol	alcohol	risk linked to	
+T-45	risk	risk	disease	disease	of heart	
+T-45	produce	produce	risk	risk	 estrogen – and counteract elevated breast cancer	
+T-45	health	health	wine	wine	study suggests little to no risk from red	
+T-45	disease	disease	risk	risk	but increase the	
+T-45	heart disease	heart disease	cancer	cancer	but increase the risk of	
+T-45	blood	blood	cancer	cancer	pressure.even “light” drinking increases the risk of breast	
+T-45	produce	produce	breast cancer	breast cancer	 estrogen – and counteract elevated	
+T-45	tumors	tumors	estrogen	estrogen	to produce 	
+T-45	liver disease	liver disease	atrial fibrillation	atrial fibrillation	mortality, but has a neutral effect on	
+T-45	grapes	grapes	aromatase	aromatase	suppress the activity of	
+T-45	wine	wine	alcohol	alcohol	or spirits are not considered hydrating.as for non-dietary	
+T-45	red wine	red wine	beverages	beverages	may improve arterial function.alcoholic	
+T-45	estrogen	estrogen	breast cancer	breast cancer	– and counteract elevated	
+T-45	pregnant	pregnant	alcohol	alcohol	 is harmful, but moderate	

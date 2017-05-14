@@ -1,0 +1,24 @@
+
+V-808	health food store	health food store	breast cancer	breast cancer	recommendations for	
+V-808	health	health	cancer	cancer	food stores asking for their recommendations on	
+V-808	health	health	breast cancer	breast cancer	food store recommendations: implications for	
+V-808	health food store	health food store	breast cancer	breast cancer	recommendations: implications for	
+V-808	breast cancer	breast cancer	mortality	mortality		
+V-808	canada	canada	health food	health food	: “	
+V-808	health	health	cancer	cancer	food store recommendations: implications for breast	
+V-808	cancer	cancer	breast cancer	breast cancer	patients”—a researcher posing as a daughter of a	
+V-808	health food store	health food store	cancer	cancer	recommendations for breast	
+V-808	health food	health food	cancer	cancer	stores asking for their recommendations on	
+V-808	health food	health food	cancer	cancer	store recommendations for breast	
+V-808	health food store	health food store	cancer	cancer	recommendations: implications for breast	
+V-808	health	health	cancer	cancer	food store recommendations for breast	
+V-808	canada	canada	health food store	health food store	: “	
+V-808	health food	health food	breast cancer	breast cancer	store recommendations: implications for	
+V-808	canada	canada	breast cancer	breast cancer	: “health food store recommendations: implications for	
+V-808	canada	canada	cancer	cancer	: “health food store recommendations: implications for breast	
+V-808	health food	health food	breast cancer	breast cancer	store recommendations for	
+V-808	health	health	breast cancer	breast cancer	food store recommendations for	
+V-808	health food stores	health food stores	cancer	cancer	asking for their recommendations on	
+V-808	cancer	cancer	mortality	mortality		
+V-808	canada	canada	health	health	: “	
+V-808	health food	health food	cancer	cancer	store recommendations: implications for breast	

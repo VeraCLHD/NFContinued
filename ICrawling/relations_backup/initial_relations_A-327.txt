@@ -1,0 +1,46 @@
+
+A-327	nutrient density	nutrient density	vegetables	vegetables	of fruits,	
+A-327	cost-effective	cost-effective	diet	diet	way to improve	
+A-327	cost per nutrition	cost per nutrition	junk food	junk food	basis, fruits and vegetables beat out meat and	
+A-327	exercise	exercise	weight loss	weight loss	for	
+A-327	fruits	fruits	junk food	junk food	and vegetables beat out meat and	
+A-327	nutrient density	nutrient density	grains	grains	of fruits, vegetables, refined	
+A-327	nutrition	nutrition	fruits	fruits	basis,	
+A-327	vegetables	vegetables	junk food	junk food	beat out meat and	
+A-327	calories	calories	fruits	fruits	of cheese, candy, chicken, chips, bread, oil,	
+A-327	junk food	junk food	vegetables	vegetables	may be 4 times cheaper than	
+A-327	nutrient-dense	nutrient-dense	meat	meat	foods by replacing some of the	
+A-327	calories	calories	bread	bread	of cheese, candy, chicken, chips,	
+A-327	cost per nutrition	cost per nutrition	meat	meat	basis, fruits and vegetables beat out	
+A-327	meat	meat	junk food	junk food	and	
+A-327	nutrient density	nutrient density	meats	meats	of fruits, vegetables, refined grains,	
+A-327	diet	diet	weight loss	weight loss	vs. exercise for	
+A-327	junk food	junk food	meat	meat	and	
+A-327	cost per nutrition	cost per nutrition	vegetables	vegetables	basis, fruits and	
+A-327	nutrition	nutrition	meat	meat	basis, fruits and vegetables beat out	
+A-327	cheap	cheap	calories	calories		
+A-327	junk food	junk food	fruits	fruits	and meat is cheaper per calorie than	
+A-327	meat	meat	nutrient-dense	nutrient-dense	with lower-cost	
+A-327	diet	diet	exercise	exercise	vs.	
+A-327	calories	calories	cheese	cheese	of	
+A-327	nutrient density	nutrient density	milk	milk	of fruits, vegetables, refined grains, meats,	
+A-327	beans	beans	sugar	sugar	and	
+A-327	nutrition	nutrition	vegetables	vegetables	basis, fruits and	
+A-327	meat	meat	vegetables	vegetables	is cheaper per calorie than fruits and	
+A-327	vegetables	vegetables	americans	americans	beat out meat and junk food: most	
+A-327	calories	calories	chicken	chicken	of cheese, candy,	
+A-327	nutrient density	nutrient density	fruits	fruits	of	
+A-327	vitamins	vitamins	minerals	minerals	and	
+A-327	cost per serving	cost per serving	vegetables	vegetables	or cost per pound fruits and	
+A-327	nutrient density	nutrient density	empty calorie foods	empty calorie foods	of fruits, vegetables, refined grains, meats, milk, and	
+A-327	cost per serving	cost per serving	fruits	fruits	or cost per pound	
+A-327	calories	calories	candy	candy	of cheese,	
+A-327	nutrition	nutrition	junk food	junk food	basis, fruits and vegetables beat out meat and	
+A-327	vegetables	vegetables	meat	meat	beat out	
+A-327	meat	meat	fruits	fruits	is cheaper per calorie than	
+A-327	meat	meat	americans	americans	and junk food: most	
+A-327	junk food	junk food	americans	americans	: most	
+A-327	cost per nutrition	cost per nutrition	fruits	fruits	basis,	
+A-327	fruits	fruits	vegetables	vegetables	or	
+A-327	fruits	fruits	vegetables	vegetables	and	
+A-327	fruits	fruits	meat	meat	and vegetables beat out	

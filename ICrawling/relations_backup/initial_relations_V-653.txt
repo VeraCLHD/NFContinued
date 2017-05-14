@@ -1,0 +1,32 @@
+
+V-653	women	women	surgery	surgery	undergoing breast reduction	
+V-653	meat	meat	mutation	mutation	chemicals trigger the original cancer-causing	
+V-653	cancer	cancer	risk	risk		
+V-653	finland	finland	uruguay	uruguay	and	
+V-653	breast cancer	breast cancer	risk	risk		
+V-653	women	women	meat	meat	undergoing breast reduction surgery about their	
+V-653	carcinogens	carcinogens	cooked meat	cooked meat	make it from	
+V-653	cooked meat	cooked meat	dna	dna	carcinogens are mutagenic—meaning they damage	
+V-653	phip	phip	cooked meat	cooked meat	you’d expect in your body after eating	
+V-653	meat	meat	carcinogens	carcinogens		
+V-653	chemicals	chemicals	mutation	mutation	trigger the original cancer-causing	
+V-653	meat	meat	dna	dna	carcinogens are mutagenic—meaning they damage	
+V-653	mutagens	mutagens	poultry	poultry	found in cooked meats,	
+V-653	mutagens	mutagens	fish	fish	found in cooked meats, poultry,	
+V-653	meat	meat	finland	finland	and broiled meat, in	
+V-653	phip	phip	estrogen	estrogen	was discovered to be “a potent	
+V-653	breast milk	breast milk	women	women	formed in those ducts of nonsmoking	
+V-653	surgery	surgery	meat	meat	about their	
+V-653	mutagens	mutagens	meats	meats	found in cooked	
+V-653	meat	meat	chemicals	chemicals		
+V-653	meat	meat	uruguay	uruguay	and broiled meat, in finland and	
+V-653	cancer cells	cancer cells	phip	phip	approaching that of pure estrogen.they concluded that “	
+V-653	carcinogens	carcinogens	meat	meat	make it from cooked	
+V-653	milk	milk	women	women	formed in those ducts of nonsmoking	
+V-653	cooked meat	cooked meat	carcinogens	carcinogens		
+V-653	phip	phip	breast milk	breast milk	in the	
+V-653	phip	phip	meat	meat	you’d expect in your body after eating cooked	
+V-653	phip	phip	milk	milk	in the breast	
+V-653	carcinogens	carcinogens	dna	dna	are mutagenic—meaning they damage	
+V-653	dna	dna	mutations	mutations		
+V-653	chemicals	chemicals	dna	dna	damaged	

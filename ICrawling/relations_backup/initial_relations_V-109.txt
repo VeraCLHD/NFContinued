@@ -1,0 +1,35 @@
+
+V-109	endometriosis	endometriosis	women	women	in	
+V-109	epa	epa	meat	meat	’s reference dose.diets high in	
+V-109	reproductive health	reproductive health	women	women	in men, endometriosis in	
+V-109	liver	liver	risk	risk		
+V-109	meat	meat	epa	epa	and dairy also exceeded the	
+V-109	organic	organic	milk	milk		
+V-109	dairy	dairy	risk	risk	consumption may exceed the allowable intake for	
+V-109	endometriosis	endometriosis	fat	fat	in women, and is associated with increased abdominal	
+V-109	phthalates	phthalates	chemicals	chemicals	are hormone-disrupting	
+V-109	diet	diet	epa	epa	high in meat and dairy also exceeded the	
+V-109	plant-based	plant-based	diet	diet		
+V-109	cows	cows	chickens	chickens	are fed.whereas, we’re not sure where the	
+V-109	milk	milk	cows	cows		
+V-109	diet	diet	meat	meat	high in	
+V-109	diet	diet	epa	epa	exceeds the	
+V-109	epa	epa	dairy	dairy	’s reference dose.diets high in meat and	
+V-109	chemicals	chemicals	health	health	linked to a number of adverse	
+V-109	reproductive health	reproductive health	endometriosis	endometriosis	in men,	
+V-109	phthalates	phthalates	urine	urine	spilling out into their	
+V-109	cows	cows	phthalates	phthalates	by machine, the milk picks up	
+V-109	meat	meat	dairy	dairy	and	
+V-109	milk	milk	cows	cows	the same	
+V-109	epa	epa	diet	diet	’s safety level, while a	
+V-109	poultry	poultry	soy	soy	appeared to be the worst, while	
+V-109	risk	risk	birth defects	birth defects	of reproductive	
+V-109	cows	cows	milk	milk	by machine, the	
+V-109	phthalates	phthalates	milk	milk	in the	
+V-109	epa	epa	meat	meat	’s safety level, while a diet high in	
+V-109	diet	diet	dairy	dairy	high in meat and	
+V-109	phthalates	phthalates	meats	meats	are found.the highest levels are found in	
+V-109	phthalates	phthalates	fats	fats	are found.the highest levels are found in meats,	
+V-109	endometriosis	endometriosis	abdominal fat	abdominal fat	in women, and is associated with increased	
+V-109	dairy	dairy	meat	meat	also exceeded the epa’s reference dose.diets high in	
+V-109	dairy	dairy	epa	epa	also exceeded the	

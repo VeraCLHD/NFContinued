@@ -1,0 +1,50 @@
+
+V-648	cooked meat	cooked meat	bacon	bacon	carcinogens: iq (found mostly in fried	
+V-648	dna	dna	blood	blood	damage present in the white	
+V-648	blood	blood	cancer	cancer	cells circulating in	
+V-648	phytonutrients	phytonutrients	apples	apples	—quercitin, found in foods like	
+V-648	cooked meat	cooked meat	dna	dna	chemicals, there was more	
+V-648	fish	fish	phip	phip	), and	
+V-648	meat	meat	dna damage	dna damage	mutagen-induced	
+V-648	meat	meat	dna	dna	mutagens increases, so does the	
+V-648	bacon	bacon	phip	phip	and baked fish), and	
+V-648	meat	meat	bacon	bacon	carcinogens: iq (found mostly in fried	
+V-648	colon	colon	cancer	cancer		
+V-648	cooked meat	cooked meat	chemicals	chemicals		
+V-648	carcinogens	carcinogens	bacon	bacon	: iq (found mostly in fried	
+V-648	bacon	bacon	fish	fish	and baked	
+V-648	blood	blood	colon cancer	colon cancer	cells from healthy individuals and	
+V-648	dna	dna	white blood cells	white blood cells	damage present in the	
+V-648	meat	meat	dna	dna	mutagen-induced	
+V-648	dna damage	dna damage	cancer	cancer	present in the white blood cells circulating in	
+V-648	carcinogen	carcinogen	phytonutrients	phytonutrients	dose continues, adding plant	
+V-648	mutagens	mutagens	dna	dna	increases, so does the	
+V-648	blood	blood	colon	colon	cancer; they had	
+V-648	blood	blood	cancer	cancer	cells from healthy individuals and colon	
+V-648	mutagens	mutagens	dna damage	dna damage	increases, so does the	
+V-648	meat	meat	mutagens	mutagens		
+V-648	phip	phip	fish	fish	(found mostly in fried bacon,	
+V-648	cooked meat	cooked meat	dna damage	dna damage	chemicals, there was more	
+V-648	blood	blood	cancer	cancer		
+V-648	white blood cells	white blood cells	colon cancer	colon cancer	from healthy individuals and	
+V-648	phip	phip	chicken	chicken	(found mostly in fried bacon, fish, and	
+V-648	meat	meat	dna damage	dna damage	mutagens increases, so does the	
+V-648	garlic	garlic	phytonutrients	phytonutrients		
+V-648	phytonutrients	phytonutrients	onions	onions	—quercitin, found in foods like apples, red	
+V-648	meat	meat	carcinogens	carcinogens		
+V-648	blood	blood	colon cancer	colon cancer	cancer; they had	
+V-648	dna damage	dna damage	blood	blood	present in the white	
+V-648	phip	phip	bacon	bacon	(found mostly in fried	
+V-648	white blood cells	white blood cells	cancer	cancer	from healthy individuals and colon	
+V-648	fish	fish	bacon	bacon	), and phip (found mostly in fried	
+V-648	dna damage	dna damage	white blood cells	white blood cells	present in the	
+V-648	white blood cells	white blood cells	colon	colon	from healthy individuals and	
+V-648	phytonutrients	phytonutrients	red onions	red onions	—quercitin, found in foods like apples,	
+V-648	white blood cells	white blood cells	cancer	cancer	circulating in	
+V-648	phytonutrients	phytonutrients	quercitin	quercitin	—	
+V-648	meat	meat	chemicals	chemicals		
+V-648	meat	meat	dna	dna	chemicals, there was more	
+V-648	blood	blood	colon	colon	cells from healthy individuals and	
+V-648	cooked meat	cooked meat	carcinogens	carcinogens		
+V-648	dna	dna	carcinogen	carcinogen	is normally supercoiled tightly together.but, you add a	
+V-648	meat	meat	dna damage	dna damage	chemicals, there was more	

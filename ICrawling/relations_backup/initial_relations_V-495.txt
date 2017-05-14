@@ -1,0 +1,38 @@
+
+V-495	risk	risk	prostate cancer	prostate cancer	factor for	
+V-495	dairy	dairy	precancerous lesions	precancerous lesions	products could [both] promote the conversion of	
+V-495	organic	organic	cows	cows		
+V-495	almond milk	almond milk	cancer cells	cancer cells	suppressed the growth of these	
+V-495	dairy	dairy	diet	diet	consumption, whereas the rest of their	
+V-495	milk	milk	cancer cells	cancer cells	suppressed the growth of these	
+V-495	organic	organic	milk	milk	cows’	
+V-495	almond	almond	cancer	cancer	milk suppressed the growth of these	
+V-495	almond	almond	milk	milk		
+V-495	milk	milk	cancer	cancer	consumption is a risk factor for prostate	
+V-495	risk	risk	prostate	prostate	factor for	
+V-495	prostate	prostate	cancer	cancer		
+V-495	milk	milk	prostate	prostate	consumption tend to have more	
+V-495	prostate	prostate	cancer cells	cancer cells		
+V-495	prostate	prostate	japan	japan	cancer in	
+V-495	precancerous	precancerous	cancer	cancer	lesions or mutated cells to invasive	
+V-495	prostate cancer	prostate cancer	milk	milk	deaths, and countries with lower	
+V-495	risk	risk	cancer	cancer	factor for prostate	
+V-495	milk	milk	prostate cancer	prostate cancer	consumption tend to have more	
+V-495	cancer	cancer	japan	japan	in	
+V-495	almond	almond	cancer cells	cancer cells	milk suppressed the growth of these	
+V-495	cancer	cancer	tumors	tumors	and enhance the progression of hormone-dependent	
+V-495	milk	milk	cancer	cancer	consumption tend to have more prostate	
+V-495	prostate cancer	prostate cancer	japan	japan	in	
+V-495	almond milk	almond milk	cancer	cancer	suppressed the growth of these	
+V-495	milk	milk	risk	risk	consumption is a	
+V-495	cows	cows	milk	milk	’	
+V-495	prostate	prostate	milk	milk	cancer deaths, and countries with lower	
+V-495	sex hormones	sex hormones	milk	milk	found naturally in all	
+V-495	tumors	tumors	dairy	dairy	”—concern that the “consumption of	
+V-495	milk	milk	adolescence	adolescence	intake during	
+V-495	milk	milk	prostate	prostate	consumption is a risk factor for	
+V-495	precancerous lesions	precancerous lesions	cancer	cancer	or mutated cells to invasive	
+V-495	cancer	cancer	milk	milk	deaths, and countries with lower	
+V-495	dairy	dairy	precancerous	precancerous	products could [both] promote the conversion of	
+V-495	milk	milk	cancer	cancer	suppressed the growth of these	
+V-495	milk	milk	prostate cancer	prostate cancer	consumption is a risk factor for	

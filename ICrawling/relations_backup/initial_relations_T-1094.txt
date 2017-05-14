@@ -1,0 +1,39 @@
+
+T-1094	meat	meat	processed meat	processed meat	consumption, particularly hot dogs and other	
+T-1094	risk	risk	blood	blood	of developing	
+T-1094	pesticides	pesticides	risk	risk	seem to increase the	
+T-1094	blood	blood	omnivores	omnivores	cancers compared to	
+T-1094	meat	meat	hot dogs	hot dogs	consumption, particularly	
+T-1094	hot dogs	hot dogs	processed meat	processed meat	and other	
+T-1094	phytates	phytates	plant foods	plant foods	(found naturally in whole	
+T-1094	hot dogs	hot dogs	poultry	poultry	and other processed meat,	
+T-1094	risk	risk	omnivores	omnivores	of developing blood cancers compared to	
+T-1094	hot dogs	hot dogs	fish	fish	and other processed meat, poultry, and	
+T-1094	organic	organic	risk	risk	can potentially mediate this	
+T-1094	breastfeeding	breastfeeding	leukemia	leukemia	may also reduce the risk of childhood	
+T-1094	dogs	dogs	meat	meat	and other processed	
+T-1094	blood	blood	meat	meat	cancers, merely handling	
+T-1094	risk	risk	leukemia	leukemia	of childhood	
+T-1094	phytates	phytates	curcumin	curcumin	(found naturally in whole plant foods),	
+T-1094	hot dogs	hot dogs	meat	meat	and other processed	
+T-1094	risk	risk	meat	meat	of developing different blood cancers, merely handling	
+T-1094	coffee	coffee	leukemia	leukemia	all seem to have protective effects against	
+T-1094	risk	risk	leukemia	leukemia	of	
+T-1094	vegetarians	vegetarians	risk	risk	may have only a quarter of the	
+T-1094	turmeric	turmeric	coffee	coffee	), periwinkle-based drugs and	
+T-1094	meat	meat	risk	risk	may also contribute to the	
+T-1094	plant foods	plant foods	turmeric	turmeric	), curcumin (the yellow pigment in the spice	
+T-1094	plants	plants	vegetarians	vegetarians	may have a beneficial effect as	
+T-1094	turmeric	turmeric	drugs	drugs	), periwinkle-based	
+T-1094	curcumin	curcumin	turmeric	turmeric	(the yellow pigment in the spice	
+T-1094	pesticides	pesticides	leukemia	leukemia	seem to increase the risk of	
+T-1094	meat	meat	dogs	dogs	consumption, particularly hot	
+T-1094	dogs	dogs	poultry	poultry	and other processed meat,	
+T-1094	dogs	dogs	fish	fish	and other processed meat, poultry, and	
+T-1094	curcumin	curcumin	drugs	drugs	(the yellow pigment in the spice turmeric), periwinkle-based	
+T-1094	drugs	drugs	coffee	coffee	and	
+T-1094	dogs	dogs	processed meat	processed meat	and other	
+T-1094	meat	meat	poultry	poultry	consumption, particularly hot dogs and other processed meat,	
+T-1094	risk	risk	organic	organic	of leukemia; however, choosing to buy	
+T-1094	risk	risk	blood	blood	of developing different	
+T-1094	breastfeeding	breastfeeding	risk	risk	may also reduce the	

@@ -1,0 +1,16 @@
+
+V-772	oatmeal	oatmeal	fiber	fiber	’s worth of	
+V-772	cholesterol	cholesterol	death	death	consumption was a significant risk factor for	
+V-772	dietary cholesterol	dietary cholesterol	death	death	consumption was a significant risk factor for	
+V-772	dietary cholesterol	dietary cholesterol	risk	risk	consumption was a significant	
+V-772	cholesterol	cholesterol	egg	egg	found in just a single	
+V-772	death	death	cancer	cancer	was smoking-related	
+V-772	longevity	longevity	nuts	nuts	was	
+V-772	health	health	women	women	study, involving more than 100,000	
+V-772	smoking	smoking	cigarettes	cigarettes	five	
+V-772	cholesterol	cholesterol	risk	risk	consumption was a significant	
+V-772	risk	risk	mortality	mortality	factors for	
+V-772	risk	risk	death	death	factor for	
+V-772	women	women	health	health	’s	
+V-772	harvard	harvard	health	health	nurses’	
+V-772	harvard	harvard	women	women	nurses’ health study, involving more than 100,000	

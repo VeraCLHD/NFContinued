@@ -1,0 +1,9 @@
+
+V-1165	fish	fish	skin	skin	—by eating the animals’	
+V-1165	chickens	chickens	skin	skin	and fish—by eating the animals’	
+V-1165	pigs	pigs	cows	cows	and	
+V-1165	skin	skin	bacteria	bacteria	itself, we're more likely to be exposed to fecal	
+V-1165	skin	skin	fecal bacteria	fecal bacteria	itself, we're more likely to be exposed to	
+V-1165	skin	skin	chicken	chicken	on	
+V-1165	chicken	chicken	digestive tract	digestive tract	gets contaminated by these ruptures of the	
+V-1165	chickens	chickens	fish	fish	and	

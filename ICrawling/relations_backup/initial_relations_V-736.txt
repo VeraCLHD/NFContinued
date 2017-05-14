@@ -1,0 +1,22 @@
+
+V-736	plant-based	plant-based	grains	grains	diet rich in fruits, vegetables, whole	
+V-736	plant-based diet	plant-based diet	beans	beans	rich in fruits, vegetables, whole grains,	
+V-736	plant-based diet	plant-based diet	lentils	lentils	rich in fruits, vegetables, whole grains, beans, peas,	
+V-736	plant-based	plant-based	fruits	fruits	diet rich in	
+V-736	plant-based diet	plant-based diet	fruits	fruits	rich in	
+V-736	plant-based	plant-based	beans	beans	diet rich in fruits, vegetables, whole grains,	
+V-736	plant-based diet	plant-based diet	whole grains	whole grains	rich in fruits, vegetables,	
+V-736	plant-based	plant-based	diet	diet		
+V-736	ornish	ornish	diet	diet	is not just	
+V-736	disease	disease	plant-based	plant-based	epidemic altogether, through	
+V-736	plant-based	plant-based	vegetables	vegetables	diet rich in fruits,	
+V-736	stress	stress	diet	diet	management.now, other studies have focused exclusively on	
+V-736	plant-based diet	plant-based diet	vegetables	vegetables	rich in fruits,	
+V-736	plant-based diet	plant-based diet	grains	grains	rich in fruits, vegetables, whole	
+V-736	plant-based diet	plant-based diet	peas	peas	rich in fruits, vegetables, whole grains, beans,	
+V-736	disease	disease	nutrition	nutrition	epidemic altogether, through plant-based	
+V-736	plant-based	plant-based	peas	peas	diet rich in fruits, vegetables, whole grains, beans,	
+V-736	workplace intervention	workplace intervention	geico	geico	study:	
+V-736	plant-based	plant-based	nutrition	nutrition		
+V-736	plant-based	plant-based	whole grains	whole grains	diet rich in fruits, vegetables,	
+V-736	exercise	exercise	stress	stress	—walking a few hours a week—in addition to	

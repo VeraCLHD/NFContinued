@@ -1,0 +1,29 @@
+
+A-35	screening	screening	disease	disease	and cholesterol-lowering medications to prevent	
+A-35	risk	risk	doctors	doctors	patient, less than a quarter of	
+A-35	death	death	united states	united states	in the	
+A-35	medicine	medicine	infections	infections	is great for acute conditions—broken bones and curing	
+A-35	cancer	cancer	medications	medications	screening and cholesterol-lowering	
+A-35	medicine	medicine	death	death	the third leading cause of	
+A-35	screening	screening	medications	medications	and cholesterol-lowering	
+A-35	disease	disease	cancer	cancer	or	
+A-35	infections	infections	death	death	—but for chronic disease, our leading causes of	
+A-35	heart disease	heart disease	cancer	cancer	or	
+A-35	medications	medications	side effects	side effects	are killed by medication errors or	
+A-35	diet	diet	drugs	drugs	vs.	
+A-35	side effects	side effects	americans	americans	from prescription drugs kill an estimated 100,000	
+A-35	medical profession	medical profession	death	death	constitutes the third leading cause of	
+A-35	physicians	physicians	mortality	mortality	greeted the horrendous	
+A-35	drugs	drugs	americans	americans	kill an estimated 100,000	
+A-35	side effects	side effects	prescription drugs	prescription drugs	from	
+A-35	death	death	drugs	drugs	presentation, i noted that side effects from prescription	
+A-35	death	death	heart disease	heart disease	since many of those we kill also had	
+A-35	death	death	side effects	side effects	presentation, i noted that	
+A-35	cancer	cancer	disease	disease	screening and cholesterol-lowering medications to prevent	
+A-35	medications	medications	disease	disease	to prevent	
+A-35	infections	infections	disease	disease	—but for chronic	
+A-35	cancer	cancer	screening	screening		
+A-35	prescription drugs	prescription drugs	americans	americans	kill an estimated 100,000	
+A-35	infections	infections	chronic disease	chronic disease	—but for	
+A-35	death	death	prescription drugs	prescription drugs	presentation, i noted that side effects from	
+A-35	side effects	side effects	drugs	drugs	from prescription	

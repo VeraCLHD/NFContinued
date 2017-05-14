@@ -1,0 +1,37 @@
+
+T-472	preservatives	preservatives	soda	soda	in junk food including	
+T-472	preservatives	preservatives	junk food	junk food	in	
+T-472	preservatives	preservatives	blood	blood	in junk food including soda may damage	
+T-472	ascorbic acid	ascorbic acid	sodium	sodium	in soda, the additive 	
+T-472	phosphorus	phosphorus	preservatives	preservatives		
+T-472	obesity	obesity	chronic disease	chronic disease	is a contributing cause of	
+T-472	hyperactivity	hyperactivity	children	children	among	
+T-472	sodium benzoate	sodium benzoate	carcinogen	carcinogen	can form the	
+T-472	ascorbic acid	ascorbic acid	soda	soda	in	
+T-472	aging	aging	osteoporosis	osteoporosis	process, and contribute to	
+T-472	obesity	obesity	disease	disease	is a contributing cause of chronic	
+T-472	blood	blood	aging	aging	vessels, accelerate the	
+T-472	phosphorus	phosphorus	soda	soda	preservatives in junk food including	
+T-472	soda	soda	blood	blood	 may damage	
+T-472	phosphorus	phosphorus	blood	blood	preservatives in junk food including soda may damage	
+T-472	coca-cola	coca-cola	empty calories	empty calories	company even acknowledges that sugar is just	
+T-472	artificial colors	artificial colors	hyperactivity	hyperactivity	may increase	
+T-472	artificial colors	artificial colors	children	children	may increase hyperactivity among	
+T-472	soda	soda	aging	aging	 may damage blood vessels, accelerate the	
+T-472	junk food	junk food	aging	aging	including soda may damage blood vessels, accelerate the	
+T-472	sodium benzoate	sodium benzoate	obesity	obesity	can form the carcinogen, benzene.given that	
+T-472	chronic disease	chronic disease	united states	united states	in the	
+T-472	sodium	sodium	obesity	obesity	benzoate can form the carcinogen, benzene.given that	
+T-472	ascorbic acid	ascorbic acid	carcinogen	carcinogen	in soda, the additive sodium benzoate can form the	
+T-472	phosphorus	phosphorus	junk food	junk food	preservatives in	
+T-472	coca-cola	coca-cola	sugar	sugar	company even acknowledges that	
+T-472	sodium	sodium	carcinogen	carcinogen	benzoate can form the	
+T-472	coca-cola	coca-cola	calories	calories	company even acknowledges that sugar is just empty	
+T-472	sugar	sugar	empty calories	empty calories	is just	
+T-472	disease	disease	united states	united states	in the	
+T-472	sugar	sugar	addiction	addiction	may parallel that of drug	
+T-472	ascorbic acid	ascorbic acid	sodium benzoate	sodium benzoate	in soda, the additive 	
+T-472	blood	blood	osteoporosis	osteoporosis	vessels, accelerate the aging process, and contribute to	
+T-472	junk food	junk food	blood	blood	including soda may damage	
+T-472	junk food	junk food	soda	soda	including	
+T-472	sugar	sugar	calories	calories	is just empty	

@@ -1,0 +1,6 @@
+
+V-1093	risk	risk	frying	frying	because of the air pollution created by deep	
+V-1093	pollution	pollution	frying	frying	created by deep	
+V-1093	risk	risk	air pollution	air pollution	because of the	
+V-1093	air pollution	air pollution	frying	frying	created by deep	
+V-1093	risk	risk	pollution	pollution	because of the air	

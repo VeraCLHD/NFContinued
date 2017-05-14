@@ -1,0 +1,12 @@
+
+V-1029	pepper	pepper	stomach inflammation	stomach inflammation	ingestion may cause	
+V-1029	stomach	stomach	lead	lead	inflammation, which could	
+V-1029	lead	lead	cancer	cancer	to bleeding, and stomach	
+V-1029	lead	lead	stomach cancer	stomach cancer	to bleeding, and	
+V-1029	pepper	pepper	stomach	stomach	ingestion may cause	
+V-1029	pepper	pepper	lead	lead	ingestion may cause stomach inflammation, which could	
+V-1029	pepper	pepper	inflammation	inflammation	ingestion may cause stomach	
+V-1029	stomach	stomach	inflammation	inflammation		
+V-1029	lead	lead	stomach	stomach	to bleeding, and	
+V-1029	stomach	stomach	stomach cancer	stomach cancer	inflammation, which could lead to bleeding, and	
+V-1029	stomach	stomach	cancer	cancer	inflammation, which could lead to bleeding, and stomach	

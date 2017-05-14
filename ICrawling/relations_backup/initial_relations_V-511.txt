@@ -1,0 +1,61 @@
+
+V-511	athletes	athletes	diet	diet	—who ate the same crappy american	
+V-511	doctors	doctors	plant-based	plant-based	ornish and esselstyn that switching to a	
+V-511	esselstyn	esselstyn	diet	diet	that switching to a plant-based	
+V-511	doctors	doctors	ornish	ornish		
+V-511	disease	disease	death	death	may be our last—sudden cardiac	
+V-511	cardiac death	cardiac death	atherosclerosis	atherosclerosis	—it’s best not to wait until	
+V-511	risk	risk	breast cancer	breast cancer	of	
+V-511	risk	risk	cancer	cancer	of breast	
+V-511	plant-based	plant-based	standard american diet	standard american diet	diets compare to those eating the	
+V-511	plant-based diet	plant-based diet	disease	disease	can reverse heart	
+V-511	esselstyn	esselstyn	plant-based	plant-based	that switching to a	
+V-511	plant-based	plant-based	diet	diet		
+V-511	standard american diet	standard american diet	bmi	bmi	were, on average, overweight, with a	
+V-511	risk	risk	lung cancer	lung cancer	of breast cancer and	
+V-511	ornish	ornish	plant-based	plant-based	and esselstyn that switching to a	
+V-511	diet	diet	bmi	bmi	were, on average, overweight, with a	
+V-511	cholesterol	cholesterol	blood pressure	blood pressure	levels and	
+V-511	ornish	ornish	esselstyn	esselstyn	and	
+V-511	diet	diet	heart disease	heart disease	can reverse	
+V-511	disease	disease	cardiac death	cardiac death	may be our last—sudden	
+V-511	sudden cardiac death	sudden cardiac death	atherosclerosis	atherosclerosis	—it’s best not to wait until	
+V-511	plant-based	plant-based	disease	disease	diet can reverse heart	
+V-511	plant-based diet	plant-based diet	heart disease	heart disease	can reverse	
+V-511	doctors	doctors	esselstyn	esselstyn	ornish and	
+V-511	plant-based diets	plant-based diets	diet	diet	compare to those eating the standard american	
+V-511	plant-based	plant-based	heart disease	heart disease	diet can reverse	
+V-511	arteries	arteries	surgery	surgery	—in some cases, without drugs, without	
+V-511	diet	diet	arteries	arteries	can reverse heart disease, open up	
+V-511	vegans	vegans	diet	diet	and the conventional	
+V-511	cholesterol	cholesterol	blood	blood	levels and	
+V-511	arteries	arteries	drugs	drugs	—in some cases, without	
+V-511	diet	diet	disease	disease	can reverse heart	
+V-511	esselstyn	esselstyn	plant-based diet	plant-based diet	that switching to a	
+V-511	cancer	cancer	lung cancer	lung cancer	and	
+V-511	heart disease	heart disease	cardiac death	cardiac death	may be our last—sudden	
+V-511	heart disease	heart disease	death	death	may be our last—sudden cardiac	
+V-511	heart disease	heart disease	sudden cardiac death	sudden cardiac death	may be our last—	
+V-511	endurance	endurance	diet	diet	athletes—who ate the same crappy american	
+V-511	death	death	atherosclerosis	atherosclerosis	—it’s best not to wait until	
+V-511	diet	diet	exercise	exercise	group were sedentary—less than an hour of	
+V-511	arteries	arteries	plant-based diets	plant-based diets	of those eating	
+V-511	cancer	cancer	cancer	cancer	and lung	
+V-511	plant-based	plant-based	arteries	arteries	diet can reverse heart disease, open up	
+V-511	ornish	ornish	diet	diet	and esselstyn that switching to a plant-based	
+V-511	endurance	endurance	athletes	athletes		
+V-511	disease	disease	sudden cardiac death	sudden cardiac death	may be our last—	
+V-511	plant-based	plant-based	diet	diet	diets compare to those eating the standard american	
+V-511	doctors	doctors	diet	diet	ornish and esselstyn that switching to a plant-based	
+V-511	esselstyn	esselstyn	heart disease	heart disease	that switching to a plant-based diet can reverse	
+V-511	risk	risk	heart attack	heart attack	of dying from a	
+V-511	ornish	ornish	plant-based diet	plant-based diet	and esselstyn that switching to a	
+V-511	arteries	arteries	plant-based	plant-based	of those eating	
+V-511	breast cancer	breast cancer	cancer	cancer	and lung	
+V-511	doctors	doctors	plant-based diet	plant-based diet	ornish and esselstyn that switching to a	
+V-511	bmi	bmi	vegans	vegans	over 26, while the	
+V-511	atherosclerosis	atherosclerosis	risk	risk	progresses that far.to predict the	
+V-511	plant-based diet	plant-based diet	arteries	arteries	can reverse heart disease, open up	
+V-511	breast cancer	breast cancer	lung cancer	lung cancer	and	
+V-511	plant-based diets	plant-based diets	standard american diet	standard american diet	compare to those eating the	
+V-511	plaque	plaque	mortality	mortality	builds up—considered a predictor of “all-cause and cardiovascular	

@@ -1,0 +1,11 @@
+
+V-1192	pregnant	pregnant	risk	risk	women should avoid peanuts to decrease their child’s	
+V-1192	risk	risk	peanut	peanut	of	
+V-1192	pregnant	pregnant	peanuts	peanuts	women should avoid	
+V-1192	women	women	risk	risk	should avoid peanuts to decrease their child’s	
+V-1192	peanuts	peanuts	risk	risk	to decrease their child’s	
+V-1192	pregnant women	pregnant women	peanuts	peanuts	should avoid	
+V-1192	pregnant women	pregnant women	risk	risk	should avoid peanuts to decrease their child’s	
+V-1192	women	women	peanuts	peanuts	should avoid	
+V-1192	pregnant	pregnant	women	women		
+V-1192	peanuts	peanuts	peanut	peanut	to decrease their child’s risk of	

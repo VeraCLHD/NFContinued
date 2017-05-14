@@ -1,0 +1,56 @@
+
+V-418	medications	medications	insulin	insulin	and injected	
+V-418	beans	beans	rice	rice	and	
+V-418	side effects	side effects	liver disease	liver disease	include weight gain, swelling, and	
+V-418	diabetes	diabetes	arsenic	arsenic	have included	
+V-418	black beans	black beans	beans	beans	may beat out kidney	
+V-418	black beans	black beans	kidney beans	kidney beans	may beat out	
+V-418	treatment	treatment	diabetes	diabetes	of	
+V-418	diabetes	diabetes	nutrition	nutrition	association	
+V-418	doctors	doctors	diabetes	diabetes	treat	
+V-418	amylase	amylase	beans	beans	just by eating	
+V-418	side effects	side effects	weight gain	weight gain	include	
+V-418	blood	blood	beans	beans	sugar spike of straight white rice, black	
+V-418	rice	rice	beans	beans	appeared to beat out kidney	
+V-418	beans	beans	legumes	legumes	that come dried, so a subset of	
+V-418	blood	blood	black beans	black beans	sugar spike of straight white rice,	
+V-418	pinto beans	pinto beans	beans	beans	and rice appeared to beat out kidney	
+V-418	peas	peas	beans	beans	and	
+V-418	diabetes	diabetes	insulin	insulin	before	
+V-418	diabetes	diabetes	uranium	uranium	have included arsenic and	
+V-418	liver	liver	disease	disease		
+V-418	arsenic	arsenic	uranium	uranium	and	
+V-418	black beans	black beans	rice	rice	and	
+V-418	doctors	doctors	insulin	insulin	treat diabetes before	
+V-418	whole grains	whole grains	legumes	legumes	and	
+V-418	blood	blood	rice	rice	sugar spike of straight white	
+V-418	insulin	insulin	diabetes	diabetes	are the mainstay of treatment of	
+V-418	blood sugar	blood sugar	black beans	black beans	spike of straight white rice,	
+V-418	pinto beans	pinto beans	rice	rice	and	
+V-418	colon	colon	gut	gut	to feed our good	
+V-418	green beans	green beans	peas	peas	and fresh green	
+V-418	beans	beans	pinto beans	pinto beans	and rice, and	
+V-418	sugar	sugar	black beans	black beans	spike of straight white rice,	
+V-418	pinto beans	pinto beans	kidney beans	kidney beans	and rice appeared to beat out	
+V-418	blood sugar	blood sugar	rice	rice	spike of straight white	
+V-418	blood sugar	blood sugar	beans	beans	spike of straight white rice, black	
+V-418	black beans	black beans	beans	beans	and rice, and pinto	
+V-418	a1c	a1c	diabetes	diabetes	levels (which is how you track	
+V-418	black beans	black beans	pinto beans	pinto beans	and rice, and	
+V-418	beans	beans	a1c	a1c	may normalize hemoglobin	
+V-418	insulin	insulin	treatment	treatment	are the mainstay of	
+V-418	treatment	treatment	blood	blood	of diabetes and are effective in controlling high	
+V-418	side effects	side effects	liver	liver	include weight gain, swelling, and	
+V-418	grains	grains	legumes	legumes	and	
+V-418	blood	blood	side effects	side effects	sugars, they have prominent	
+V-418	medications	medications	treatment	treatment	and injected insulin are the mainstay of	
+V-418	sugar	sugar	rice	rice	spike of straight white	
+V-418	kidney beans	kidney beans	rice	rice	and	
+V-418	sugar	sugar	beans	beans	spike of straight white rice, black	
+V-418	side effects	side effects	disease	disease	include weight gain, swelling, and liver	
+V-418	black beans	black beans	kidney	kidney	may beat out	
+V-418	kidney	kidney	rice	rice	beans and	
+V-418	diabetes	diabetes	blood	blood	and are effective in controlling high	
+V-418	pinto beans	pinto beans	kidney	kidney	and rice appeared to beat out	
+V-418	kidney	kidney	beans	beans		
+V-418	blood	blood	sugar	sugar		

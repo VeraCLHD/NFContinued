@@ -1,0 +1,25 @@
+
+V-938	health	health	nutrition	nutrition		
+V-938	public health	public health	nutrition	nutrition		
+V-938	pomegranate juice	pomegranate juice	health	health	maker pom wonderful for making false and unsubstantiated	
+V-938	juice	juice	health	health	maker pom wonderful for making false and unsubstantiated	
+V-938	women	women	disease	disease	at moderate risk for coronary heart	
+V-938	pomegranate	pomegranate	juice	juice		
+V-938	risk	risk	heart disease	heart disease	for coronary	
+V-938	pomegranate juice	pomegranate juice	women	women	on carotid intima–media thickness in men and	
+V-938	federal trade commission	federal trade commission	pomegranate	pomegranate	charged top corporate executives at	
+V-938	federal trade commission	federal trade commission	pomegranate juice	pomegranate juice	charged top corporate executives at	
+V-938	pomegranate	pomegranate	lying	lying	juice junk, but i do consider	
+V-938	juice	juice	lying	lying	junk, but i do consider	
+V-938	pomegranate	pomegranate	women	women	juice on carotid intima–media thickness in men and	
+V-938	women	women	risk	risk	at moderate	
+V-938	risk	risk	coronary heart disease	coronary heart disease	for	
+V-938	risk	risk	disease	disease	for coronary heart	
+V-938	plaque	plaque	pomegranate	pomegranate	] progression rate was observed between	
+V-938	plaque	plaque	pomegranate juice	pomegranate juice	] progression rate was observed between	
+V-938	federal trade commission	federal trade commission	juice	juice	charged top corporate executives at pomegranate	
+V-938	juice	juice	women	women	on carotid intima–media thickness in men and	
+V-938	pomegranate juice	pomegranate juice	lying	lying	junk, but i do consider	
+V-938	women	women	coronary heart disease	coronary heart disease	at moderate risk for	
+V-938	plaque	plaque	juice	juice	] progression rate was observed between pomegranate	
+V-938	women	women	heart disease	heart disease	at moderate risk for coronary	

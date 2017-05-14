@@ -1,0 +1,25 @@
+
+V-670	endothelium	endothelium	neu5gc	neu5gc	…could include reduction of dietary	
+V-670	inflammation	inflammation	disease	disease	to our cancer, or to our heart	
+V-670	endothelium	endothelium	arteries	arteries	[the lining of our	
+V-670	meat	meat	dairy	dairy	and	
+V-670	animal products	animal products	diet	diet	in our	
+V-670	antibodies	antibodies	inflammation	inflammation	and further aggravate chronic	
+V-670	antibodies	antibodies	chronic inflammation	chronic inflammation	and further aggravate	
+V-670	disease	disease	atherosclerosis	atherosclerosis	states such as	
+V-670	inflammatory response	inflammatory response	endothelium	endothelium	at the	
+V-670	usda	usda	protein	protein	recommends for	
+V-670	meat	meat	neu5gc	neu5gc	molecule	
+V-670	inflammation	inflammation	cancer	cancer	to our	
+V-670	antibodies	antibodies	inflammatory response	inflammatory response	can initiate, perpetuate, and/or exacerbate an	
+V-670	cancer	cancer	plants	plants	promoter “has never been reported in	
+V-670	inflammation	inflammation	heart disease	heart disease	to our cancer, or to our	
+V-670	inflammation	inflammation	atherosclerosis	atherosclerosis	in	
+V-670	disease	disease	inflammation	inflammation	states such as atherosclerosis, [where] vascular	
+V-670	blood	blood	atherosclerosis	atherosclerosis	of vessels, where	
+V-670	antibodies	antibodies	atherosclerosis	atherosclerosis	and further aggravate chronic inflammation in	
+V-670	inflammatory response	inflammatory response	arteries	arteries	at the endothelium [the lining of our	
+V-670	usda	usda	meat	meat	recommends for protein, in the form of	
+V-670	arteries	arteries	disease	disease	], potentially playing a role in	
+V-670	neu5gc	neu5gc	antibodies	antibodies	accumulation may facilitate production of anti-neu5gc	
+V-670	chronic inflammation	chronic inflammation	atherosclerosis	atherosclerosis	in	

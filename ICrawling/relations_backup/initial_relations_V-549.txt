@@ -1,0 +1,34 @@
+
+V-549	leukemia	leukemia	methionine	methionine	cells, they need that extra added	
+V-549	methionine	methionine	drugs	drugs	-depleting	
+V-549	methionine	methionine	cancer	cancer	to grow, or they just flatline.what does	
+V-549	skin	skin	cancer	cancer		
+V-549	dogs	dogs	cancer	cancer	for colorectal	
+V-549	dogs	dogs	bladder	bladder	that can diagnose	
+V-549	dogs	dogs	cancer	cancer	that can diagnose bladder	
+V-549	methionine	methionine	diet	diet	restriction may be achieved using a predominately vegan	
+V-549	methionine	methionine	beans	beans	foods, fruits, nuts, veggies, grains, and	
+V-549	pesticides	pesticides	insects	insects	can work by attacking the special exoskeleton of	
+V-549	cancer	cancer	cancer	cancer	is harder, because	
+V-549	dogs	dogs	lung cancer	lung cancer	that can pick out people with	
+V-549	treatment	treatment	cancer	cancer	strategies for metastatic	
+V-549	cancer	cancer	cancer cells	cancer cells	is harder, because	
+V-549	dogs	dogs	cancer	cancer	that can pick out skin	
+V-549	methionine	methionine	cancer	cancer	dependency is not just present in	
+V-549	amino acid	amino acid	methionine	methionine		
+V-549	dogs	dogs	colorectal cancer	colorectal cancer	for	
+V-549	antibiotics	antibiotics	bacteria	bacteria	work by attacking the bacterial cell walls—something	
+V-549	chemotherapy	chemotherapy	cancer	cancer	cures only a few types of metastatic	
+V-549	dogs	dogs	bladder cancer	bladder cancer	that can diagnose	
+V-549	methionine	methionine	grains	grains	foods, fruits, nuts, veggies,	
+V-549	bladder	bladder	cancer	cancer		
+V-549	methionine	methionine	fruits	fruits	foods,	
+V-549	cancer	cancer	methionine	methionine	do with the	
+V-549	methionine	methionine	nuts	nuts	foods, fruits,	
+V-549	dogs	dogs	skin	skin	that can pick out	
+V-549	dogs	dogs	skin cancer	skin cancer	that can pick out	
+V-549	americans	americans	cancer	cancer	develop metastatic	
+V-549	vegan	vegan	diet	diet		
+V-549	smoking	smoking	plants	plants	cessation, consumption of diets rich in [	
+V-549	methionine	methionine	vegan	vegan	restriction may be achieved using a predominately	
+V-549	dogs	dogs	cancer	cancer	that can pick out people with lung	

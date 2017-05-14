@@ -1,0 +1,22 @@
+
+V-763	cheese	cheese	tryptophan	tryptophan	breakfast dropped, whereas in the waffle-oj group, their	
+V-763	period	period	fatigue	fatigue	improved depression, tension, anger, confusion, sadness,	
+V-763	mood	mood	appetite	appetite	and	
+V-763	syndrome	syndrome	carbohydrates	carbohydrates	subjects may overconsume	
+V-763	muscles	muscles	amino acids	amino acids	to take up the non-tryptophan	
+V-763	mood	mood	syndrome	syndrome	and appetite, increases after carbohydrate intake, premenstrual	
+V-763	protein	protein	tryptophan	tryptophan	meal, serum	
+V-763	period	period	anger	anger	improved depression, tension,	
+V-763	tryptophan	tryptophan	egg	egg	levels in those given a high-protein turkey,	
+V-763	tryptophan	tryptophan	turkey	turkey	levels in those given a high-protein	
+V-763	tryptophan	tryptophan	animal proteins	animal proteins	is present in most	
+V-763	carbohydrates	carbohydrates	insulin	insulin	cause a release of	
+V-763	carbohydrates	carbohydrates	muscles	muscles	cause a release of insulin, which causes your	
+V-763	breakfast	breakfast	tryptophan	tryptophan	dropped, whereas in the waffle-oj group, their	
+V-763	carbohydrates	carbohydrates	mood	mood	in an attempt to improve their dysphoric	
+V-763	mood	mood	premenstrual syndrome	premenstrual syndrome	and appetite, increases after carbohydrate intake,	
+V-763	premenstrual syndrome	premenstrual syndrome	carbohydrates	carbohydrates	subjects may overconsume	
+V-763	muscles	muscles	tryptophan	tryptophan	to take up the non-	
+V-763	cheese	cheese	breakfast	breakfast		
+V-763	period	period	depression	depression	improved	
+V-763	tryptophan	tryptophan	cheese	cheese	levels in those given a high-protein turkey, egg,	

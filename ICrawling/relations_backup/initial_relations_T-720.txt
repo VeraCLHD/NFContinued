@@ -1,0 +1,60 @@
+
+T-720	egg	egg	health	health	samples, though the human public	
+T-720	cows	cows	sex hormones	sex hormones	and is, thus, high in steroid	
+T-720	chicken	chicken	viruses	viruses		
+T-720	pregnant	pregnant	sex hormones	sex hormones	cows and is, thus, high in steroid	
+T-720	fish	fish	chicken	chicken	and	
+T-720	chicken	chicken	bacteria	bacteria	viruses, anabolic steroids, staph (staphylococcus)	
+T-720	avian leukosis/sarcoma	avian leukosis/sarcoma	egg	egg	virus has been found in 14% of retail	
+T-720	poultry	poultry	variety	variety	exposure specifically has been associated with a	
+T-720	vegan	vegan	women	women		
+T-720	risk	risk	poultry	poultry	factor for non-hodgkin lymphoma, and	
+T-720	virus	virus	egg	egg	has been found in 14% of retail	
+T-720	chicken	chicken	pollutants	pollutants	can high levels of toxic	
+T-720	kingdom	kingdom	bugs	bugs	may ensure less exposure to these	
+T-720	soy	soy	farm animals	farm animals	grown in the us is fed to	
+T-720	antibiotics	antibiotics	farm animals	farm animals	may be used for	
+T-720	chicken	chicken	steroids	steroids	viruses, anabolic	
+T-720	drugs	drugs	bacteria	bacteria	leads to antibiotic resistant	
+T-720	vegan	vegan	twins	twins	women have five times less chance of having	
+T-720	meats	meats	nitrosamines	nitrosamines	are high in nitrites, which can form carcinogenic	
+T-720	obesity	obesity	chicken	chicken	causing	
+T-720	thyroid	thyroid	schizophrenia	schizophrenia	conditions,	
+T-720	cows	cows	hormones	hormones	and is, thus, high in steroid sex	
+T-720	pregnant	pregnant	hormones	hormones	cows and is, thus, high in steroid sex	
+T-720	obesity	obesity	viruses	viruses	causing chicken	
+T-720	meats	meats	nitrites	nitrites	are high in	
+T-720	chicken	chicken	anabolic steroids	anabolic steroids	viruses,	
+T-720	processed meats	processed meats	nitrosamines	nitrosamines	are high in nitrites, which can form carcinogenic	
+T-720	processed meats	processed meats	nitrites	nitrites	are high in	
+T-720	organic	organic	chicken	chicken		
+T-720	egg	egg	public health	public health	samples, though the human	
+T-720	fda	fda	antibiotics	antibiotics	estimates 80% of available	
+T-720	mrsa	mrsa	meat	meat	that are too often found in retail	
+T-720	chicken	chicken	dioxins	dioxins	can high levels of toxic pollutants (	
+T-720	hepatitis	hepatitis	obesity	obesity	e, e. coli, drug residues, prions,	
+T-720	obesity	obesity	bacteria	bacteria	causing chicken viruses, anabolic steroids, staph (staphylococcus)	
+T-720	pregnant	pregnant	cows	cows		
+T-720	risk	risk	lymphoma	lymphoma	factor for non-hodgkin	
+T-720	fish	fish	pollutants	pollutants	and chicken can high levels of toxic	
+T-720	hepatitis	hepatitis	e. coli	e. coli	e,	
+T-720	meat	meat	hepatitis	hepatitis	have also been found to be contaminated with:	
+T-720	bacteria	bacteria	mrsa	mrsa	such as clostridium difficile and	
+T-720	avian leukosis/sarcoma virus	avian leukosis/sarcoma virus	egg	egg	has been found in 14% of retail	
+T-720	variety	variety	schizophrenia	schizophrenia	of diseases including thyroid conditions,	
+T-720	gas	gas	farm animals	farm animals	emissions from	
+T-720	gmo	gmo	farm animals	farm animals	soy grown in the us is fed to	
+T-720	women	women	twins	twins	have five times less chance of having	
+T-720	avian leukosis/sarcoma	avian leukosis/sarcoma	virus	virus		
+T-720	obesity	obesity	anabolic steroids	anabolic steroids	causing chicken viruses,	
+T-720	obesity	obesity	steroids	steroids	causing chicken viruses, anabolic	
+T-720	risk	risk	non-hodgkin lymphoma	non-hodgkin lymphoma	factor for	
+T-720	farm animals	farm animals	meat	meat	and/or their	
+T-720	hepatitis	hepatitis	chicken	chicken	e, e. coli, drug residues, prions, obesity causing	
+T-720	chicken	chicken	sarcocystis	sarcocystis	viruses, anabolic steroids, staph (staphylococcus) bacteria, and the	
+T-720	variety	variety	thyroid	thyroid	of diseases including	
+T-720	hepatitis	hepatitis	drug residues	drug residues	e, e. coli,	
+T-720	organic	organic	bacteria	bacteria	chicken can be infected with superbug	
+T-720	chicken	chicken	bacteria	bacteria	can be infected with superbug	
+T-720	meat	meat	hepatitis e	hepatitis e	have also been found to be contaminated with:	
+T-720	gmo	gmo	soy	soy		

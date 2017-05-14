@@ -1,0 +1,20 @@
+
+V-1	fda	fda	adulterated	adulterated	has identified hundreds of dietary supplements…that have been	
+V-1	fda	fda	supplements	supplements	has identified hundreds of dietary	
+V-1	supplements	supplements	fda	fda	have “quality problem[s];” the “	
+V-1	supplements	supplements	drugs	drugs	.sometimes, the supplements may contain	
+V-1	adulterated	adulterated	medications	medications	with prescription	
+V-1	heavy metals	heavy metals	herbal	herbal	and pesticides, in 90% of	
+V-1	mycotoxins	mycotoxins	herbal	herbal	—potentially carcinogenic fungal toxins, like aflatoxin—in 96% of	
+V-1	drugs	drugs	doctors	doctors	prescribed by	
+V-1	heavy metals	heavy metals	supplements	supplements	and pesticides, in 90% of herbal	
+V-1	drugs	drugs	viagra	viagra	that haven’t even been tested—like tweaked	
+V-1	milk	milk	supplements	supplements	thistle	
+V-1	milk thistle	milk thistle	supplements	supplements		
+V-1	mycotoxins	mycotoxins	toxins	toxins	—potentially carcinogenic fungal	
+V-1	contamination	contamination	heavy metals	heavy metals	with “potentially hazardous contaminant[s]”, such as	
+V-1	prescription drugs	prescription drugs	americans	americans	don’t just harm, but actually kill 100,000 	
+V-1	herbal	herbal	supplements	supplements		
+V-1	heavy metals	heavy metals	pesticides	pesticides	and	
+V-1	drugs	drugs	americans	americans	don’t just harm, but actually kill 100,000 	
+V-1	supplements	supplements	food additives	food additives	were regulated like	

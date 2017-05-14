@@ -1,0 +1,70 @@
+
+T-428	skin	skin	cancer	cancer		
+T-428	liquid smoke	liquid smoke	drugs	drugs	products may cause dna damage comparable to chemotherapy	
+T-428	colon	colon	breast cancer	breast cancer	cancer,	
+T-428	cancer	cancer	phytates	phytates	patients undergoing chemotherapy may benefit from adding	
+T-428	fruit	fruit	vegetables	vegetables	and	
+T-428	cancer	cancer	potatoes	potatoes	include sweet	
+T-428	drugs	drugs	disease	disease	to treat their	
+T-428	plant-based	plant-based	diet	diet		
+T-428	chemotherapy	chemotherapy	phytates	phytates	may benefit from adding	
+T-428	plant-based diet	plant-based diet	cancer	cancer	may reduce	
+T-428	phytates	phytates	diet	diet	to their	
+T-428	broccoli	broccoli	sprouts	sprouts	or broccoli	
+T-428	broccoli	broccoli	broccoli sprouts	broccoli sprouts	or	
+T-428	cancer	cancer	avocados	avocados	include sweet potatoes, seaweed, strawberries, flaxseeds, amla,	
+T-428	colon	colon	cancer	cancer		
+T-428	multiple sclerosis	multiple sclerosis	disease	disease	patients sometimes use chemotherapy drugs to treat their	
+T-428	chemotherapy	chemotherapy	dna	dna	drugs, which are designed to break down	
+T-428	drugs	drugs	plant-based diet	plant-based diet	to treat their disease, and a	
+T-428	cancer	cancer	cancer	cancer	risk and also has potential to treat	
+T-428	cancer	cancer	flaxseeds	flaxseeds	include sweet potatoes, seaweed, strawberries,	
+T-428	chemotherapy	chemotherapy	taxol	taxol	drug,	
+T-428	drugs	drugs	plant-based	plant-based	to treat their disease, and a	
+T-428	chemotherapy	chemotherapy	diet	diet	may benefit from adding phytates to their	
+T-428	breast cancer	breast cancer	phytates	phytates	patients undergoing chemotherapy may benefit from adding	
+T-428	liquid smoke	liquid smoke	dna	dna	products may cause	
+T-428	plant-based	plant-based	cancer	cancer	foods that may help treat	
+T-428	skin	skin	curcumin	curcumin	cancer, perhaps due to	
+T-428	plant-based	plant-based	risk	risk	diet may reduce cancer	
+T-428	plant-based	plant-based	cancer	cancer	diet may reduce	
+T-428	cancer	cancer	seaweed	seaweed	include sweet potatoes,	
+T-428	dna	dna	drugs	drugs	damage comparable to chemotherapy	
+T-428	liquid smoke	liquid smoke	dna damage	dna damage	products may cause	
+T-428	infections	infections	chemotherapy	chemotherapy	in immune-compromised patients such as those undergoing	
+T-428	arthritis	arthritis	chemotherapy	chemotherapy	patients and multiple sclerosis patients sometimes use	
+T-428	drugs	drugs	diet	diet	to treat their disease, and a plant-based	
+T-428	cancer	cancer	amla	amla	include sweet potatoes, seaweed, strawberries, flaxseeds,	
+T-428	cancer	cancer	strawberries	strawberries	include sweet potatoes, seaweed,	
+T-428	cancer	cancer	chemotherapy	chemotherapy	patients undergoing	
+T-428	neutropenic diet	neutropenic diet	vegetables	vegetables	(one devoid of fresh fruit and	
+T-428	diet	diet	cancer	cancer	may reduce	
+T-428	fiber	fiber	shiitake mushrooms	shiitake mushrooms	found in	
+T-428	chemotherapy	chemotherapy	drugs	drugs		
+T-428	multiple sclerosis	multiple sclerosis	chemotherapy	chemotherapy	patients sometimes use	
+T-428	curcumin	curcumin	fiber	fiber	’s ability to boost immune function.a type of	
+T-428	oatmeal	oatmeal	cetuximab	cetuximab	lotion may relieve itch and irritation caused by	
+T-428	liquid smoke	liquid smoke	chemotherapy	chemotherapy	products may cause dna damage comparable to	
+T-428	neutropenic diet	neutropenic diet	fruit	fruit	(one devoid of fresh	
+T-428	chemo	chemo	drugs	drugs		
+T-428	mushrooms	mushrooms	chemotherapy	chemotherapy	is approved for use as adjunct	
+T-428	cancer	cancer	risk	risk		
+T-428	dna damage	dna damage	chemotherapy	chemotherapy	comparable to	
+T-428	peppermint	peppermint	aromatherapy	aromatherapy		
+T-428	cancer	cancer	sweet potatoes	sweet potatoes	include	
+T-428	arthritis	arthritis	drugs	drugs	patients and multiple sclerosis patients sometimes use chemotherapy	
+T-428	plant-based	plant-based	sweet potatoes	sweet potatoes	foods that may help treat cancer include	
+T-428	risk	risk	cancer	cancer	and also has potential to treat	
+T-428	diet	diet	risk	risk	may reduce cancer	
+T-428	plant-based diet	plant-based diet	risk	risk	may reduce cancer	
+T-428	dna damage	dna damage	drugs	drugs	comparable to chemotherapy	
+T-428	colon	colon	skin	skin	cancer, breast cancer, and	
+T-428	turmeric	turmeric	pancreatic cancer	pancreatic cancer	seems especially helpful in treating cancers such as	
+T-428	shiitake mushrooms	shiitake mushrooms	chemotherapy	chemotherapy	is approved for use as adjunct	
+T-428	dna	dna	chemotherapy	chemotherapy	damage comparable to	
+T-428	plant-based	plant-based	potatoes	potatoes	foods that may help treat cancer include sweet	
+T-428	multiple sclerosis	multiple sclerosis	drugs	drugs	patients sometimes use chemotherapy	
+T-428	fiber	fiber	mushrooms	mushrooms	found in shiitake	
+T-428	arthritis	arthritis	multiple sclerosis	multiple sclerosis	patients and	
+T-428	breast cancer	breast cancer	chemotherapy	chemotherapy	patients undergoing	
+T-428	colon	colon	skin cancer	skin cancer	cancer, breast cancer, and	

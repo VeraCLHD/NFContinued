@@ -1,0 +1,52 @@
+
+V-586	x-rays	x-rays	brain tumors	brain tumors	and	
+V-586	x-rays	x-rays	brain tumors	brain tumors	caused the	
+V-586	dentist	dentist	x-rays	x-rays	chair, getting	
+V-586	dental	dental	risk	risk	x-rays and	
+V-586	doctors	doctors	x-rays	x-rays	cause an estimated 29,000 cancers, dosing patients with	
+V-586	risk	risk	intracranial meningioma	intracranial meningioma	of	
+V-586	dental	dental	brain tumors	brain tumors	x-rays are associated with	
+V-586	dental	dental	radiation	radiation	x-rays—the most common artificial source of ionizing	
+V-586	americans	americans	dental	dental	are exposed to	
+V-586	x-rays	x-rays	risk	risk	and	
+V-586	intracranial meningioma	intracranial meningioma	tumor	tumor	[the most common type of brain	
+V-586	dental x-rays	dental x-rays	tumors	tumors	cause brain	
+V-586	risk	risk	tumor	tumor	of developing a brain	
+V-586	dental	dental	brain tumors	brain tumors	radiologists, doesn’t necessarily mean the x-rays caused the	
+V-586	x-rays	x-rays	teeth	teeth	for broken	
+V-586	lead	lead	thyroid	thyroid	apron and the	
+V-586	risk	risk	meningioma	meningioma	of intracranial	
+V-586	x-rays	x-rays	lead	lead	every year—but, what about the	
+V-586	dental x-rays	dental x-rays	lead	lead	every year—but, what about the	
+V-586	dental x-rays	dental x-rays	meningioma	meningioma	and risk of	
+V-586	x-rays	x-rays	brain tumors	brain tumors	are associated with	
+V-586	pain	pain	brain tumors	brain tumors	that can be caused by	
+V-586	risk	risk	meningioma	meningioma	of	
+V-586	radiation	radiation	intracranial meningioma	intracranial meningioma	—and the risk of	
+V-586	x-rays	x-rays	tumors	tumors	are associated with brain	
+V-586	dental x-rays	dental x-rays	risk	risk	and	
+V-586	radiation	radiation	meningioma	meningioma	—and the risk of intracranial	
+V-586	x-rays	x-rays	tumors	tumors	and brain	
+V-586	dental	dental	tumors	tumors	x-rays cause brain	
+V-586	dental	dental	brain tumors	brain tumors	x-rays cause	
+V-586	dentist	dentist	teeth	teeth	chair, getting x-rays for broken	
+V-586	americans	americans	x-rays	x-rays	are exposed to dental	
+V-586	x-rays	x-rays	tumors	tumors	caused the brain	
+V-586	tumors	tumors	x-rays	x-rays	—maybe, brain tumors caused the	
+V-586	brain tumors	brain tumors	x-rays	x-rays	—maybe, brain tumors caused the	
+V-586	dental	dental	meningioma	meningioma	x-rays and risk of	
+V-586	dental	dental	x-rays	x-rays	radiologists, doesn’t necessarily mean the	
+V-586	x-rays	x-rays	radiation	radiation	—the most common artificial source of ionizing	
+V-586	dental x-rays	dental x-rays	brain tumors	brain tumors	are associated with	
+V-586	dental x-rays	dental x-rays	tumors	tumors	are associated with brain	
+V-586	americans	americans	dental x-rays	dental x-rays	are exposed to	
+V-586	radiation	radiation	risk	risk	—and the	
+V-586	dental x-rays	dental x-rays	brain tumors	brain tumors	cause	
+V-586	pain	pain	tumors	tumors	that can be caused by brain	
+V-586	x-rays	x-rays	meningioma	meningioma	and risk of	
+V-586	dental	dental	x-rays	x-rays		
+V-586	dental	dental	tumors	tumors	x-rays are associated with brain	
+V-586	dental	dental	lead	lead	x-rays every year—but, what about the	
+V-586	dental	dental	dentist	dentist	radiographs—meaning you go to your	
+V-586	meningioma	meningioma	tumor	tumor	[the most common type of brain	
+V-586	dental x-rays	dental x-rays	radiation	radiation	—the most common artificial source of ionizing	

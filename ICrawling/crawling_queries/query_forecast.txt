@@ -1,0 +1,2379 @@
+A-1	A	1	on March 23rd, 2017
+A-2	A	2	on March 21st, 2017
+A-3	A	3	on March 16th, 2017
+A-4	A	4	on March 14th, 2017
+A-5	A	5	on March 7th, 2017
+A-6	A	6	on March 2nd, 2017
+A-7	A	7	on February 28th, 2017
+A-8	A	8	on February 23rd, 2017
+A-9	A	9	on February 21st, 2017
+A-10	A	10	on February 16th, 2017
+A-11	A	11	on February 14th, 2017
+A-12	A	12	on February 9th, 2017
+A-13	A	13	on February 7th, 2017
+A-14	A	14	on February 2nd, 2017
+A-15	A	15	on January 31st, 2017
+A-16	A	16	on January 26th, 2017
+A-17	A	17	on January 24th, 2017
+A-18	A	18	on January 19th, 2017
+A-19	A	19	on January 17th, 2017
+A-20	A	20	on January 12th, 2017
+A-21	A	21	on January 10th, 2017
+A-22	A	22	on January 5th, 2017
+A-23	A	23	on January 3rd, 2017
+A-24	A	24	on December 27th, 2016
+A-25	A	25	on December 22nd, 2016
+A-26	A	26	on December 20th, 2016
+A-27	A	27	on December 15th, 2016
+A-28	A	28	on December 13th, 2016
+A-29	A	29	on December 8th, 2016
+A-30	A	30	on December 6th, 2016
+A-31	A	31	on December 1st, 2016
+A-32	A	32	on November 24th, 2016
+A-33	A	33	on November 22nd, 2016
+A-34	A	34	on November 15th, 2016
+A-35	A	35	on November 10th, 2016
+A-36	A	36	on November 8th, 2016
+A-37	A	37	on November 1st, 2016
+A-38	A	38	on October 27th, 2016
+A-39	A	39	on October 25th, 2016
+A-40	A	40	on October 20th, 2016
+A-41	A	41	on October 18th, 2016
+A-42	A	42	on October 13th, 2016
+A-43	A	43	on October 11th, 2016
+A-44	A	44	on October 6th, 2016
+A-45	A	45	on October 4th, 2016
+A-46	A	46	on September 29th, 2016
+A-47	A	47	on September 27th, 2016
+A-48	A	48	on September 22nd, 2016
+A-49	A	49	on September 20th, 2016
+A-50	A	50	on September 15th, 2016
+A-51	A	51	on September 13th, 2016
+A-52	A	52	on September 8th, 2016
+A-53	A	53	on September 6th, 2016
+A-54	A	54	on September 1st, 2016
+A-55	A	55	on August 30th, 2016
+A-56	A	56	on August 25th, 2016
+A-57	A	57	on August 23rd, 2016
+A-58	A	58	on August 18th, 2016
+A-59	A	59	on August 16th, 2016
+A-60	A	60	on August 11th, 2016
+A-61	A	61	on August 9th, 2016
+A-62	A	62	on August 4th, 2016
+A-63	A	63	on July 28th, 2016
+A-64	A	64	on July 26th, 2016
+A-65	A	65	on July 21st, 2016
+A-66	A	66	on July 19th, 2016
+A-67	A	67	on July 14th, 2016
+A-68	A	68	on July 12th, 2016
+A-69	A	69	on July 7th, 2016
+A-70	A	70	on July 5th, 2016
+A-71	A	71	on June 30th, 2016
+A-72	A	72	on June 28th, 2016
+A-73	A	73	on June 23rd, 2016
+A-74	A	74	on June 21st, 2016
+A-75	A	75	on June 16th, 2016
+A-76	A	76	on June 14th, 2016
+A-77	A	77	on June 9th, 2016
+A-78	A	78	on June 7th, 2016
+A-79	A	79	on June 2nd, 2016
+A-80	A	80	on May 31st, 2016
+A-81	A	81	on May 26th, 2016
+A-82	A	82	on May 24th, 2016
+A-83	A	83	on May 19th, 2016
+A-84	A	84	on May 17th, 2016
+A-85	A	85	on May 12th, 2016
+A-86	A	86	on May 10th, 2016
+A-87	A	87	on May 5th, 2016
+A-88	A	88	on May 3rd, 2016
+A-89	A	89	on April 28th, 2016
+A-90	A	90	on April 26th, 2016
+A-91	A	91	on April 21st, 2016
+A-92	A	92	on April 14th, 2016
+A-93	A	93	on April 12th, 2016
+A-94	A	94	on April 7th, 2016
+A-95	A	95	on April 5th, 2016
+A-96	A	96	on March 31st, 2016
+A-97	A	97	on March 29th, 2016
+A-98	A	98	on March 24th, 2016
+A-99	A	99	on March 22nd, 2016
+A-100	A	100	on March 17th, 2016
+A-101	A	101	on March 15th, 2016
+A-102	A	102	on March 10th, 2016
+A-103	A	103	on March 8th, 2016
+A-104	A	104	on March 3rd, 2016
+A-105	A	105	on February 25th, 2016
+A-106	A	106	on February 23rd, 2016
+A-107	A	107	on February 18th, 2016
+A-108	A	108	on February 16th, 2016
+A-109	A	109	on February 11th, 2016
+A-110	A	110	on February 9th, 2016
+A-111	A	111	on February 4th, 2016
+A-112	A	112	on February 2nd, 2016
+A-113	A	113	on January 26th, 2016
+A-114	A	114	on January 21st, 2016
+A-115	A	115	on January 19th, 2016
+A-116	A	116	on January 14th, 2016
+A-117	A	117	on January 12th, 2016
+A-118	A	118	on January 7th, 2016
+A-119	A	119	on January 5th, 2016
+A-120	A	120	on December 29th, 2015
+A-121	A	121	on December 24th, 2015
+A-122	A	122	on December 22nd, 2015
+A-123	A	123	on December 17th, 2015
+A-124	A	124	on December 15th, 2015
+A-125	A	125	on December 10th, 2015
+A-126	A	126	on December 8th, 2015
+A-127	A	127	on December 3rd, 2015
+A-128	A	128	on December 1st, 2015
+A-129	A	129	on November 26th, 2015
+A-130	A	130	on November 24th, 2015
+A-131	A	131	on November 19th, 2015
+A-132	A	132	on November 17th, 2015
+A-133	A	133	on November 12th, 2015
+A-134	A	134	on November 10th, 2015
+A-135	A	135	on November 5th, 2015
+A-136	A	136	on November 3rd, 2015
+A-137	A	137	on October 29th, 2015
+A-138	A	138	on October 27th, 2015
+A-139	A	139	on October 22nd, 2015
+A-140	A	140	on October 20th, 2015
+A-141	A	141	on October 15th, 2015
+A-142	A	142	on October 13th, 2015
+A-143	A	143	on October 8th, 2015
+A-144	A	144	on October 6th, 2015
+A-145	A	145	on October 1st, 2015
+A-146	A	146	on September 29th, 2015
+A-147	A	147	on September 24th, 2015
+A-148	A	148	on September 22nd, 2015
+A-149	A	149	on September 17th, 2015
+A-150	A	150	on September 15th, 2015
+A-151	A	151	on September 10th, 2015
+A-152	A	152	on September 8th, 2015
+A-153	A	153	on September 3rd, 2015
+A-154	A	154	on September 1st, 2015
+A-155	A	155	on August 27th, 2015
+A-156	A	156	on August 25th, 2015
+A-157	A	157	on August 20th, 2015
+A-158	A	158	on August 18th, 2015
+A-159	A	159	on August 13th, 2015
+A-160	A	160	on August 11th, 2015
+A-161	A	161	on August 6th, 2015
+A-162	A	162	on July 30th, 2015
+A-163	A	163	on July 28th, 2015
+A-164	A	164	on July 23rd, 2015
+A-165	A	165	on July 21st, 2015
+A-166	A	166	on July 16th, 2015
+A-167	A	167	on July 14th, 2015
+A-168	A	168	on July 9th, 2015
+A-169	A	169	on July 7th, 2015
+A-170	A	170	on July 2nd, 2015
+A-171	A	171	on June 30th, 2015
+A-172	A	172	on June 25th, 2015
+A-173	A	173	on June 23rd, 2015
+A-174	A	174	on June 18th, 2015
+A-175	A	175	on June 16th, 2015
+A-176	A	176	on June 11th, 2015
+A-177	A	177	on June 9th, 2015
+A-178	A	178	on June 4th, 2015
+A-179	A	179	on June 2nd, 2015
+A-180	A	180	on May 28th, 2015
+A-181	A	181	on May 26th, 2015
+A-182	A	182	on May 21st, 2015
+A-183	A	183	on May 19th, 2015
+A-184	A	184	on May 12th, 2015
+A-185	A	185	on May 5th, 2015
+A-186	A	186	on April 28th, 2015
+A-187	A	187	on April 23rd, 2015
+A-188	A	188	on April 21st, 2015
+A-189	A	189	on April 16th, 2015
+A-190	A	190	on April 14th, 2015
+A-191	A	191	on April 9th, 2015
+A-192	A	192	on April 7th, 2015
+A-193	A	193	on April 2nd, 2015
+A-194	A	194	on March 31st, 2015
+A-195	A	195	on March 26th, 2015
+A-196	A	196	on March 24th, 2015
+A-197	A	197	on March 19th, 2015
+A-198	A	198	on March 17th, 2015
+A-199	A	199	on March 12th, 2015
+A-200	A	200	on March 10th, 2015
+A-201	A	201	on March 5th, 2015
+A-202	A	202	on March 3rd, 2015
+A-203	A	203	on February 26th, 2015
+A-204	A	204	on February 24th, 2015
+A-205	A	205	on February 19th, 2015
+A-206	A	206	on February 17th, 2015
+A-207	A	207	on February 12th, 2015
+A-208	A	208	on February 10th, 2015
+A-209	A	209	on February 5th, 2015
+A-210	A	210	on February 3rd, 2015
+A-211	A	211	on January 29th, 2015
+A-212	A	212	on January 27th, 2015
+A-213	A	213	on January 22nd, 2015
+A-214	A	214	on January 20th, 2015
+A-215	A	215	on January 15th, 2015
+A-216	A	216	on January 13th, 2015
+A-217	A	217	on January 8th, 2015
+A-218	A	218	on January 1st, 2015
+A-219	A	219	on December 30th, 2014
+A-220	A	220	on December 25th, 2014
+A-221	A	221	on December 23rd, 2014
+A-222	A	222	on December 18th, 2014
+A-223	A	223	on December 16th, 2014
+A-224	A	224	on December 11th, 2014
+A-225	A	225	on December 9th, 2014
+A-226	A	226	on December 4th, 2014
+A-227	A	227	on December 2nd, 2014
+A-228	A	228	on November 27th, 2014
+A-229	A	229	on November 25th, 2014
+A-230	A	230	on November 20th, 2014
+A-231	A	231	on November 18th, 2014
+A-232	A	232	on November 13th, 2014
+A-233	A	233	on November 11th, 2014
+A-234	A	234	on November 6th, 2014
+A-235	A	235	on November 4th, 2014
+A-236	A	236	on October 30th, 2014
+A-237	A	237	on October 28th, 2014
+A-238	A	238	on October 23rd, 2014
+A-239	A	239	on October 21st, 2014
+A-240	A	240	on October 16th, 2014
+A-241	A	241	on October 14th, 2014
+A-242	A	242	on October 9th, 2014
+A-243	A	243	on October 7th, 2014
+A-244	A	244	on October 2nd, 2014
+A-245	A	245	on September 25th, 2014
+A-246	A	246	on September 23rd, 2014
+A-247	A	247	on September 18th, 2014
+A-248	A	248	on September 16th, 2014
+A-249	A	249	on September 11th, 2014
+A-250	A	250	on September 9th, 2014
+A-251	A	251	on September 4th, 2014
+A-252	A	252	on September 2nd, 2014
+A-253	A	253	on August 28th, 2014
+A-254	A	254	on August 26th, 2014
+A-255	A	255	on August 21st, 2014
+A-256	A	256	on August 19th, 2014
+A-257	A	257	on August 14th, 2014
+A-258	A	258	on August 12th, 2014
+A-259	A	259	on August 7th, 2014
+A-260	A	260	on July 31st, 2014
+A-261	A	261	on July 29th, 2014
+A-262	A	262	on July 24th, 2014
+A-263	A	263	on July 22nd, 2014
+A-264	A	264	on July 15th, 2014
+A-265	A	265	on July 10th, 2014
+A-266	A	266	on July 8th, 2014
+A-267	A	267	on July 3rd, 2014
+A-268	A	268	on July 1st, 2014
+A-269	A	269	on June 26th, 2014
+A-270	A	270	on June 24th, 2014
+A-271	A	271	on June 19th, 2014
+A-272	A	272	on June 17th, 2014
+A-273	A	273	on June 12th, 2014
+A-274	A	274	on June 10th, 2014
+A-275	A	275	on June 5th, 2014
+A-276	A	276	on June 3rd, 2014
+A-277	A	277	on May 29th, 2014
+A-278	A	278	on May 27th, 2014
+A-279	A	279	on May 22nd, 2014
+A-280	A	280	on May 20th, 2014
+A-281	A	281	on May 15th, 2014
+A-282	A	282	on May 13th, 2014
+A-283	A	283	on May 8th, 2014
+A-284	A	284	on May 6th, 2014
+A-285	A	285	on May 1st, 2014
+A-286	A	286	on April 29th, 2014
+A-287	A	287	on April 24th, 2014
+A-288	A	288	on April 22nd, 2014
+A-289	A	289	on April 17th, 2014
+A-290	A	290	on April 15th, 2014
+A-291	A	291	on April 10th, 2014
+A-292	A	292	on April 3rd, 2014
+A-293	A	293	on April 1st, 2014
+A-294	A	294	on March 27th, 2014
+A-295	A	295	on March 25th, 2014
+A-296	A	296	on March 20th, 2014
+A-297	A	297	on March 18th, 2014
+A-298	A	298	on March 13th, 2014
+A-299	A	299	on March 11th, 2014
+A-300	A	300	on March 6th, 2014
+A-301	A	301	on March 4th, 2014
+A-302	A	302	on February 27th, 2014
+A-303	A	303	on February 25th, 2014
+A-304	A	304	on February 20th, 2014
+A-305	A	305	on February 18th, 2014
+A-305	A	305	on February 18th, 2014
+A-306	A	306	on February 13th, 2014
+A-307	A	307	on February 11th, 2014
+A-308	A	308	on February 6th, 2014
+A-309	A	309	on February 4th, 2014
+A-310	A	310	on January 28th, 2014
+A-311	A	311	on January 23rd, 2014
+A-312	A	312	on January 21st, 2014
+A-313	A	313	on January 14th, 2014
+A-314	A	314	on January 7th, 2014
+A-315	A	315	on January 2nd, 2014
+A-316	A	316	on December 31st, 2013
+A-317	A	317	on December 26th, 2013
+A-318	A	318	on December 24th, 2013
+A-319	A	319	on December 20th, 2013
+A-320	A	320	on December 19th, 2013
+A-321	A	321	on December 17th, 2013
+A-322	A	322	on December 12th, 2013
+A-323	A	323	on December 10th, 2013
+A-324	A	324	on December 5th, 2013
+A-325	A	325	on December 3rd, 2013
+A-326	A	326	on November 28th, 2013
+A-327	A	327	on November 26th, 2013
+A-328	A	328	on November 21st, 2013
+A-329	A	329	on November 19th, 2013
+A-330	A	330	on November 14th, 2013
+A-331	A	331	on November 12th, 2013
+A-332	A	332	on November 7th, 2013
+A-333	A	333	on November 5th, 2013
+A-334	A	334	on October 31st, 2013
+A-335	A	335	on October 29th, 2013
+A-336	A	336	on October 24th, 2013
+A-337	A	337	on October 22nd, 2013
+A-338	A	338	on October 17th, 2013
+A-339	A	339	on October 15th, 2013
+A-340	A	340	on October 10th, 2013
+A-341	A	341	on October 8th, 2013
+A-342	A	342	on October 3rd, 2013
+A-343	A	343	on October 1st, 2013
+A-344	A	344	on September 26th, 2013
+A-345	A	345	on September 24th, 2013
+A-346	A	346	on September 19th, 2013
+A-347	A	347	on September 17th, 2013
+A-348	A	348	on September 12th, 2013
+A-349	A	349	on September 10th, 2013
+A-350	A	350	on September 5th, 2013
+A-351	A	351	on September 3rd, 2013
+A-352	A	352	on August 29th, 2013
+A-353	A	353	on August 27th, 2013
+A-354	A	354	on August 22nd, 2013
+A-355	A	355	on August 20th, 2013
+A-356	A	356	on August 15th, 2013
+A-357	A	357	on August 13th, 2013
+A-358	A	358	on August 8th, 2013
+A-359	A	359	on August 6th, 2013
+A-360	A	360	on August 1st, 2013
+A-361	A	361	on July 30th, 2013
+A-362	A	362	on July 25th, 2013
+A-363	A	363	on July 23rd, 2013
+A-364	A	364	on July 18th, 2013
+A-365	A	365	on July 16th, 2013
+A-366	A	366	on July 11th, 2013
+A-367	A	367	on July 9th, 2013
+A-368	A	368	on July 4th, 2013
+A-369	A	369	on July 2nd, 2013
+A-370	A	370	on June 27th, 2013
+A-371	A	371	on June 25th, 2013
+A-372	A	372	on June 20th, 2013
+A-373	A	373	on June 18th, 2013
+A-374	A	374	on June 13th, 2013
+A-375	A	375	on June 11th, 2013
+A-376	A	376	on June 6th, 2013
+A-377	A	377	on June 4th, 2013
+A-378	A	378	on May 30th, 2013
+A-379	A	379	on May 28th, 2013
+A-380	A	380	on May 21st, 2013
+A-381	A	381	on May 16th, 2013
+A-382	A	382	on May 14th, 2013
+A-383	A	383	on May 9th, 2013
+A-384	A	384	on May 7th, 2013
+A-385	A	385	on May 2nd, 2013
+A-386	A	386	on April 30th, 2013
+A-387	A	387	on April 25th, 2013
+A-388	A	388	on April 23rd, 2013
+A-389	A	389	on April 18th, 2013
+A-390	A	390	on April 16th, 2013
+A-391	A	391	on April 11th, 2013
+A-392	A	392	on April 9th, 2013
+A-393	A	393	on April 4th, 2013
+A-394	A	394	on April 2nd, 2013
+A-395	A	395	on March 28th, 2013
+A-396	A	396	on March 26th, 2013
+A-397	A	397	on March 21st, 2013
+A-398	A	398	on March 19th, 2013
+A-399	A	399	on March 14th, 2013
+A-400	A	400	on March 12th, 2013
+A-401	A	401	on March 7th, 2013
+A-402	A	402	on March 5th, 2013
+A-403	A	403	on February 28th, 2013
+A-404	A	404	on February 26th, 2013
+A-405	A	405	on February 21st, 2013
+A-406	A	406	on February 19th, 2013
+A-407	A	407	on February 12th, 2013
+A-408	A	408	on February 7th, 2013
+A-409	A	409	on February 5th, 2013
+A-410	A	410	on January 31st, 2013
+A-411	A	411	on January 29th, 2013
+A-412	A	412	on January 24th, 2013
+A-413	A	413	on January 22nd, 2013
+A-414	A	414	on January 17th, 2013
+A-415	A	415	on January 15th, 2013
+A-416	A	416	on January 10th, 2013
+A-417	A	417	on January 7th, 2013
+A-418	A	418	on January 3rd, 2013
+A-419	A	419	on December 27th, 2012
+A-420	A	420	on December 20th, 2012
+A-421	A	421	on December 13th, 2012
+A-422	A	422	on December 6th, 2012
+A-423	A	423	on November 29th, 2012
+A-424	A	424	on November 22nd, 2012
+A-425	A	425	on November 15th, 2012
+A-426	A	426	on November 8th, 2012
+A-427	A	427	on November 1st, 2012
+A-428	A	428	on October 25th, 2012
+A-429	A	429	on October 18th, 2012
+A-430	A	430	on October 4th, 2012
+A-431	A	431	on September 27th, 2012
+A-432	A	432	on September 20th, 2012
+A-433	A	433	on September 20th, 2012
+A-434	A	434	on September 13th, 2012
+A-435	A	435	on September 6th, 2012
+A-436	A	436	on August 30th, 2012
+A-437	A	437	on August 23rd, 2012
+A-438	A	438	on August 9th, 2012
+A-439	A	439	on August 2nd, 2012
+A-440	A	440	on July 31st, 2012
+A-441	A	441	on July 27th, 2012
+A-442	A	442	on July 19th, 2012
+A-443	A	443	on July 12th, 2012
+A-444	A	444	on July 9th, 2012
+A-445	A	445	on July 5th, 2012
+A-446	A	446	on June 28th, 2012
+A-447	A	447	on June 21st, 2012
+A-448	A	448	on June 7th, 2012
+A-449	A	449	on May 31st, 2012
+A-450	A	450	on May 17th, 2012
+A-451	A	451	on May 10th, 2012
+A-452	A	452	on May 3rd, 2012
+A-453	A	453	on April 26th, 2012
+A-454	A	454	on April 25th, 2012
+A-455	A	455	on April 19th, 2012
+A-456	A	456	on April 12th, 2012
+A-457	A	457	on March 22nd, 2012
+A-458	A	458	on March 15th, 2012
+A-459	A	459	on February 2nd, 2012
+A-460	A	460	on January 25th, 2012
+A-461	A	461	on January 18th, 2012
+A-462	A	462	on January 17th, 2012
+A-463	A	463	on January 10th, 2012
+A-464	A	464	on January 8th, 2012
+A-465	A	465	on January 5th, 2012
+A-466	A	466	on December 27th, 2011
+A-467	A	467	on December 23rd, 2011
+A-468	A	468	on December 15th, 2011
+A-469	A	469	on December 5th, 2011
+A-470	A	470	on November 29th, 2011
+A-471	A	471	on November 14th, 2011
+A-472	A	472	on November 7th, 2011
+A-473	A	473	on November 6th, 2011
+A-474	A	474	on November 3rd, 2011
+A-475	A	475	on November 1st, 2011
+A-476	A	476	on October 24th, 2011
+A-477	A	477	on October 14th, 2011
+A-478	A	478	on October 4th, 2011
+A-479	A	479	on October 3rd, 2011
+A-480	A	480	on September 29th, 2011
+A-481	A	481	on September 26th, 2011
+A-482	A	482	on September 25th, 2011
+A-483	A	483	on September 16th, 2011
+A-484	A	484	on September 15th, 2011
+A-485	A	485	on September 8th, 2011
+A-486	A	486	on September 6th, 2011
+A-487	A	487	on August 31st, 2011
+A-488	A	488	on August 29th, 2011
+A-489	A	489	on August 28th, 2011
+A-490	A	490	on August 24th, 2011
+A-491	A	491	on August 23rd, 2011
+A-492	A	492	on August 22nd, 2011
+A-493	A	493	on August 5th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+Q_DOC-1	Q_DOC	1	on October 6th, 2016
+Q_DOC-2	Q_DOC	2	on September 15th, 2016
+Q_DOC-3	Q_DOC	3	on November 7th, 2015
+Q_DOC-4	Q_DOC	4	on November 7th, 2015
+Q_DOC-5	Q_DOC	5	on October 29th, 2015
+Q_DOC-6	Q_DOC	6	on October 14th, 2015
+A-494	A	494	on April 15th, 2011
+A-494	A	494	on April 15th, 2011
+T-1	T	1	Last Updated on November 14, 2016
+T-2	T	2	Last Updated on January 17, 2017
+T-3	T	3	Last Updated on June 13, 2016
+T-4	T	4	Last Updated on August 23, 2016
+T-5	T	5	Last Updated on December 1, 2015
+T-6	T	6	Last Updated on June 7, 2016
+T-7	T	7	Last Updated on March 10, 2017
+T-8	T	8	Last Updated on November 5, 2016
+T-9	T	9	Last Updated on December 21, 2016
+T-10	T	10	Last Updated on August 20, 2016
+T-11	T	11	Last Updated on March 15, 2016
+T-12	T	12	Last Updated on December 8, 2016
+T-13	T	13	Last Updated on November 30, 2016
+T-14	T	14	Last Updated on November 29, 2016
+T-15	T	15	Last Updated on November 30, 2016
+T-16	T	16	Last Updated on February 5, 2016
+T-17	T	17	Last Updated on August 14, 2016
+T-18	T	18	Last Updated on December 1, 2015
+T-19	T	19	Last Updated on January 18, 2017
+T-20	T	20	Last Updated on February 10, 2017
+T-21	T	21	Last Updated on November 29, 2016
+T-22	T	22	Last Updated on March 2, 2017
+T-23	T	23	Last Updated on February 23, 2017
+T-24	T	24	Last Updated on December 19, 2016
+T-25	T	25	Last Updated on February 10, 2017
+T-26	T	26	Last Updated on January 19, 2017
+T-27	T	27	Last Updated on February 22, 2017
+T-28	T	28	Last Updated on January 9, 2017
+T-29	T	29	Last Updated on October 10, 2015
+T-30	T	30	Last Updated on February 22, 2017
+T-31	T	31	Last Updated on January 19, 2017
+T-32	T	32	Last Updated on August 1, 2016
+T-33	T	33	Last Updated on May 7, 2016
+T-34	T	34	Last Updated on March 23, 2017
+T-35	T	35	Last Updated on November 26, 2016
+T-36	T	36	Last Updated on March 21, 2017
+T-37	T	37	Last Updated on February 15, 2016
+T-38	T	38	Last Updated on October 14, 2016
+T-39	T	39	Last Updated on December 10, 2016
+T-40	T	40	Last Updated on November 27, 2016
+T-41	T	41	Last Updated on May 6, 2016
+T-42	T	42	Last Updated on November 27, 2016
+T-43	T	43	Last Updated on December 1, 2015
+T-44	T	44	Last Updated on October 17, 2016
+T-45	T	45	Last Updated on March 10, 2017
+T-46	T	46	Last Updated on May 19, 2016
+T-47	T	47	Last Updated on November 29, 2016
+T-48	T	48	Last Updated on November 28, 2016
+T-49	T	49	Last Updated on June 4, 2016
+T-50	T	50	Last Updated on February 19, 2017
+T-51	T	51	Last Updated on February 1, 2017
+T-52	T	52	Last Updated on April 8, 2016
+T-53	T	53	Last Updated on March 1, 2016
+T-54	T	54	Last Updated on January 4, 2017
+T-55	T	55	Last Updated on January 20, 2017
+T-56	T	56	Last Updated on September 14, 2016
+T-57	T	57	Last Updated on July 26, 2016
+T-58	T	58	Last Updated on June 1, 2016
+T-59	T	59	Last Updated on August 20, 2016
+T-60	T	60	Last Updated on September 10, 2016
+T-61	T	61	Last Updated on March 18, 2017
+T-62	T	62	Last Updated on January 19, 2017
+T-63	T	63	Last Updated on February 27, 2017
+T-64	T	64	Last Updated on December 10, 2014
+T-65	T	65	Last Updated on February 22, 2017
+T-66	T	66	Last Updated on August 3, 2016
+T-67	T	67	Last Updated on September 30, 2016
+T-68	T	68	Last Updated on January 12, 2017
+T-69	T	69	Last Updated on February 9, 2017
+T-70	T	70	Last Updated on March 10, 2017
+T-71	T	71	Last Updated on January 11, 2016
+T-72	T	72	Last Updated on November 27, 2016
+T-73	T	73	Last Updated on July 1, 2016
+T-74	T	74	Last Updated on March 10, 2017
+T-75	T	75	Last Updated on December 20, 2016
+T-76	T	76	Last Updated on March 21, 2017
+T-77	T	77	Last Updated on March 21, 2016
+T-78	T	78	Last Updated on February 24, 2017
+T-79	T	79	Last Updated on February 9, 2017
+T-80	T	80	Last Updated on December 28, 2016
+T-81	T	81	Last Updated on November 28, 2016
+T-82	T	82	Last Updated on October 11, 2015
+T-83	T	83	Last Updated on November 28, 2016
+T-84	T	84	Last Updated on July 19, 2016
+T-85	T	85	Last Updated on December 21, 2016
+T-86	T	86	Last Updated on October 8, 2016
+T-87	T	87	Last Updated on July 12, 2016
+T-88	T	88	Last Updated on November 16, 2016
+T-89	T	89	Last Updated on November 16, 2016
+A-494	A	494	on April 15th, 2011
+T-1	T	1	Last Updated on November 14, 2016
+T-2	T	2	Last Updated on January 17, 2017
+T-3	T	3	Last Updated on June 13, 2016
+T-4	T	4	Last Updated on August 23, 2016
+T-5	T	5	Last Updated on December 1, 2015
+T-7	T	7	Last Updated on March 10, 2017
+T-8	T	8	Last Updated on November 5, 2016
+T-15	T	15	Last Updated on November 30, 2016
+T-16	T	16	Last Updated on February 5, 2016
+T-17	T	17	Last Updated on August 14, 2016
+T-18	T	18	Last Updated on December 1, 2015
+T-25	T	25	Last Updated on February 10, 2017
+T-27	T	27	Last Updated on February 22, 2017
+T-28	T	28	Last Updated on January 9, 2017
+T-30	T	30	Last Updated on February 22, 2017
+T-31	T	31	Last Updated on January 19, 2017
+T-36	T	36	Last Updated on March 21, 2017
+T-45	T	45	Last Updated on March 10, 2017
+T-47	T	47	Last Updated on November 29, 2016
+T-51	T	51	Last Updated on February 1, 2017
+T-57	T	57	Last Updated on July 26, 2016
+T-63	T	63	Last Updated on February 27, 2017
+T-65	T	65	Last Updated on February 22, 2017
+T-68	T	68	Last Updated on January 12, 2017
+T-75	T	75	Last Updated on December 20, 2016
+T-82	T	82	Last Updated on October 11, 2015
+T-96	T	96	Last Updated on September 24, 2016
+T-101	T	101	Last Updated on February 1, 2017
+T-102	T	102	Last Updated on March 10, 2017
+T-103	T	103	Last Updated on January 19, 2017
+T-104	T	104	Last Updated on March 10, 2017
+T-112	T	112	Last Updated on February 17, 2017
+T-114	T	114	Last Updated on February 1, 2017
+T-115	T	115	Last Updated on May 21, 2016
+T-120	T	120	Last Updated on March 10, 2017
+T-123	T	123	Last Updated on November 28, 2016
+T-124	T	124	Last Updated on June 13, 2016
+T-134	T	134	Last Updated on November 29, 2016
+T-137	T	137	Last Updated on January 2, 2017
+T-139	T	139	Last Updated on December 30, 2016
+T-146	T	146	Last Updated on June 8, 2016
+T-147	T	147	Last Updated on December 30, 2016
+T-151	T	151	Last Updated on March 10, 2017
+T-154	T	154	Last Updated on February 9, 2017
+T-157	T	157	Last Updated on March 10, 2017
+T-158	T	158	Last Updated on January 26, 2017
+T-159	T	159	Last Updated on February 27, 2017
+T-161	T	161	Last Updated on January 9, 2017
+T-170	T	170	Last Updated on February 23, 2017
+T-175	T	175	Last Updated on April 3, 2016
+T-178	T	178	Last Updated on August 3, 2016
+T-181	T	181	Last Updated on August 3, 2016
+T-191	T	191	Last Updated on November 29, 2016
+T-201	T	201	Last Updated on February 9, 2017
+T-202	T	202	Last Updated on February 10, 2017
+T-204	T	204	Last Updated on December 30, 2016
+T-208	T	208	Last Updated on February 10, 2017
+T-211	T	211	Last Updated on September 10, 2016
+T-219	T	219	Last Updated on February 22, 2017
+T-220	T	220	Last Updated on February 9, 2017
+T-225	T	225	Last Updated on March 4, 2017
+T-238	T	238	Last Updated on January 19, 2017
+T-242	T	242	Last Updated on July 18, 2016
+T-246	T	246	Last Updated on December 30, 2016
+T-255	T	255	Last Updated on December 30, 2016
+T-257	T	257	Last Updated on March 10, 2017
+T-258	T	258	Last Updated on February 17, 2017
+T-262	T	262	Last Updated on March 27, 2016
+T-263	T	263	Last Updated on July 30, 2016
+T-266	T	266	Last Updated on December 1, 2016
+T-275	T	275	Last Updated on March 21, 2017
+T-283	T	283	Last Updated on July 18, 2016
+T-289	T	289	Last Updated on February 22, 2017
+T-290	T	290	Last Updated on March 10, 2017
+T-291	T	291	Last Updated on January 10, 2017
+T-293	T	293	Last Updated on March 10, 2017
+T-298	T	298	Last Updated on February 10, 2017
+T-300	T	300	Last Updated on March 23, 2016
+T-301	T	301	Last Updated on March 21, 2017
+T-302	T	302	Last Updated on November 21, 2016
+T-305	T	305	Last Updated on March 21, 2017
+T-306	T	306	Last Updated on February 10, 2017
+T-308	T	308	Last Updated on February 10, 2017
+T-314	T	314	Last Updated on November 9, 2016
+T-316	T	316	Last Updated on October 9, 2015
+T-322	T	322	Last Updated on November 29, 2016
+T-327	T	327	Last Updated on January 11, 2016
+T-332	T	332	Last Updated on August 3, 2016
+A-494	A	494	on April 15th, 2011
+T-332	T	332	Last Updated on August 3, 2016
+T-339	T	339	Last Updated on March 21, 2017
+T-343	T	343	Last Updated on November 29, 2016
+T-345	T	345	Last Updated on November 29, 2016
+T-346	T	346	Last Updated on January 26, 2017
+T-347	T	347	Last Updated on February 22, 2017
+T-349	T	349	Last Updated on March 15, 2017
+T-353	T	353	Last Updated on May 31, 2016
+T-354	T	354	Last Updated on December 20, 2016
+T-356	T	356	Last Updated on November 28, 2016
+T-357	T	357	Last Updated on March 2, 2017
+T-358	T	358	Last Updated on March 10, 2017
+T-360	T	360	Last Updated on February 9, 2017
+T-362	T	362	Last Updated on December 20, 2016
+T-374	T	374	Last Updated on March 23, 2017
+T-378	T	378	Last Updated on March 10, 2017
+T-379	T	379	Last Updated on March 10, 2017
+T-387	T	387	Last Updated on February 9, 2017
+T-389	T	389	Last Updated on March 2, 2017
+T-395	T	395	Last Updated on February 1, 2017
+T-397	T	397	Last Updated on November 29, 2016
+T-400	T	400	Last Updated on March 10, 2017
+T-401	T	401	Last Updated on November 28, 2016
+T-412	T	412	Last Updated on March 21, 2017
+T-421	T	421	Last Updated on February 22, 2017
+T-428	T	428	Last Updated on March 10, 2017
+T-430	T	430	Last Updated on October 11, 2015
+T-437	T	437	Last Updated on February 22, 2017
+T-439	T	439	Last Updated on November 2, 2016
+T-440	T	440	Last Updated on March 4, 2017
+T-443	T	443	Last Updated on November 29, 2016
+T-446	T	446	Last Updated on January 12, 2016
+T-450	T	450	Last Updated on December 20, 2016
+T-453	T	453	Last Updated on March 10, 2017
+T-457	T	457	Last Updated on February 22, 2017
+A-494	A	494	on April 15th, 2011
+T-457	T	457	Last Updated on February 22, 2017
+T-461	T	461	Last Updated on January 25, 2017
+T-465	T	465	Last Updated on February 7, 2017
+T-470	T	470	Last Updated on January 25, 2017
+T-472	T	472	Last Updated on October 26, 2016
+T-478	T	478	Last Updated on March 24, 2017
+T-485	T	485	Last Updated on February 7, 2017
+T-486	T	486	Last Updated on June 7, 2016
+T-494	T	494	Last Updated on April 12, 2016
+T-495	T	495	Last Updated on March 10, 2017
+T-496	T	496	Last Updated on September 21, 2016
+T-497	T	497	Last Updated on September 21, 2016
+T-499	T	499	Last Updated on March 10, 2017
+T-502	T	502	Last Updated on November 23, 2016
+T-505	T	505	Last Updated on February 7, 2017
+T-510	T	510	Last Updated on February 22, 2017
+T-511	T	511	Last Updated on March 28, 2016
+T-512	T	512	Last Updated on November 28, 2016
+T-515	T	515	Last Updated on January 19, 2017
+T-538	T	538	Last Updated on April 12, 2016
+T-545	T	545	Last Updated on January 30, 2017
+T-547	T	547	Last Updated on June 28, 2016
+A-493	A	493	on August 5th, 2011
+A-494	A	494	on April 15th, 2011
+T-547	T	547	Last Updated on June 28, 2016
+T-554	T	554	Last Updated on February 22, 2017
+T-558	T	558	Last Updated on December 20, 2016
+T-563	T	563	Last Updated on November 29, 2016
+T-565	T	565	Last Updated on July 18, 2016
+T-568	T	568	Last Updated on February 23, 2017
+T-570	T	570	Last Updated on February 7, 2017
+T-571	T	571	Last Updated on February 27, 2017
+T-572	T	572	Last Updated on January 18, 2016
+T-573	T	573	Last Updated on February 23, 2017
+T-576	T	576	Last Updated on March 24, 2017
+T-580	T	580	Last Updated on January 20, 2017
+T-582	T	582	Last Updated on January 9, 2017
+T-585	T	585	Last Updated on December 30, 2016
+T-587	T	587	Last Updated on June 7, 2016
+T-588	T	588	Last Updated on November 28, 2016
+T-590	T	590	Last Updated on March 10, 2017
+T-602	T	602	Last Updated on December 30, 2016
+T-606	T	606	Last Updated on December 20, 2016
+T-618	T	618	Last Updated on March 10, 2017
+T-633	T	633	Last Updated on July 26, 2016
+T-643	T	643	Last Updated on November 28, 2016
+T-660	T	660	Last Updated on December 20, 2016
+T-661	T	661	Last Updated on March 10, 2017
+T-662	T	662	Last Updated on March 4, 2017
+T-666	T	666	Last Updated on January 19, 2017
+T-670	T	670	Last Updated on March 2, 2017
+T-671	T	671	Last Updated on February 9, 2017
+T-679	T	679	Last Updated on January 11, 2016
+T-687	T	687	Last Updated on September 21, 2016
+T-689	T	689	Last Updated on February 23, 2017
+T-693	T	693	Last Updated on December 7, 2016
+T-696	T	696	Last Updated on November 29, 2016
+T-701	T	701	Last Updated on February 9, 2017
+T-704	T	704	Last Updated on March 2, 2017
+T-708	T	708	Last Updated on March 21, 2017
+T-713	T	713	Last Updated on January 30, 2017
+T-714	T	714	Last Updated on February 4, 2017
+T-716	T	716	Last Updated on December 30, 2016
+T-720	T	720	Last Updated on February 17, 2017
+T-723	T	723	Last Updated on January 12, 2017
+T-724	T	724	Last Updated on March 15, 2017
+T-725	T	725	Last Updated on January 12, 2016
+T-728	T	728	Last Updated on March 23, 2017
+T-730	T	730	Last Updated on November 28, 2016
+T-735	T	735	Last Updated on November 14, 2016
+T-740	T	740	Last Updated on March 21, 2017
+T-742	T	742	Last Updated on March 24, 2017
+T-751	T	751	Last Updated on February 17, 2017
+T-752	T	752	Last Updated on November 2, 2016
+T-756	T	756	Last Updated on July 18, 2016
+T-759	T	759	Last Updated on February 9, 2017
+T-761	T	761	Last Updated on October 22, 2016
+T-768	T	768	Last Updated on October 26, 2016
+T-770	T	770	Last Updated on March 23, 2017
+T-775	T	775	Last Updated on November 28, 2016
+T-791	T	791	Last Updated on March 21, 2017
+T-793	T	793	Last Updated on January 1, 2017
+T-794	T	794	Last Updated on November 29, 2016
+T-806	T	806	Last Updated on February 4, 2017
+T-808	T	808	Last Updated on March 21, 2017
+T-824	T	824	Last Updated on March 14, 2017
+T-840	T	840	Last Updated on November 21, 2016
+T-844	T	844	Last Updated on January 25, 2017
+T-848	T	848	Last Updated on March 16, 2017
+T-849	T	849	Last Updated on December 3, 2016
+T-851	T	851	Last Updated on February 22, 2017
+T-852	T	852	Last Updated on December 30, 2016
+T-854	T	854	Last Updated on December 1, 2015
+T-858	T	858	Last Updated on November 30, 2016
+T-865	T	865	Last Updated on March 4, 2017
+T-867	T	867	Last Updated on January 19, 2017
+T-875	T	875	Last Updated on March 24, 2017
+T-884	T	884	Last Updated on August 23, 2016
+T-890	T	890	Last Updated on March 10, 2017
+T-891	T	891	Last Updated on March 26, 2016
+T-901	T	901	Last Updated on March 14, 2017
+T-902	T	902	Last Updated on December 1, 2016
+T-904	T	904	Last Updated on March 10, 2017
+T-906	T	906	Last Updated on March 10, 2017
+T-910	T	910	Last Updated on March 23, 2017
+T-916	T	916	Last Updated on November 28, 2016
+T-920	T	920	Last Updated on March 23, 2017
+T-921	T	921	Last Updated on June 7, 2016
+T-923	T	923	Last Updated on February 22, 2017
+T-929	T	929	Last Updated on March 29, 2016
+T-932	T	932	Last Updated on April 3, 2016
+T-935	T	935	Last Updated on March 10, 2017
+T-936	T	936	Last Updated on January 26, 2017
+T-953	T	953	Last Updated on March 24, 2017
+T-970	T	970	Last Updated on March 10, 2017
+T-975	T	975	Last Updated on February 17, 2017
+T-980	T	980	Last Updated on January 19, 2017
+T-981	T	981	Last Updated on March 4, 2017
+T-983	T	983	Last Updated on December 7, 2016
+T-984	T	984	Last Updated on March 10, 2017
+T-986	T	986	Last Updated on February 23, 2017
+T-990	T	990	Last Updated on August 19, 2016
+T-991	T	991	Last Updated on March 23, 2017
+T-992	T	992	Last Updated on February 17, 2017
+T-993	T	993	Last Updated on January 19, 2017
+T-994	T	994	Last Updated on February 22, 2017
+T-995	T	995	Last Updated on February 22, 2017
+T-996	T	996	Last Updated on February 22, 2017
+T-1002	T	1002	Last Updated on March 27, 2016
+T-1004	T	1004	Last Updated on March 24, 2017
+T-1012	T	1012	Last Updated on March 21, 2017
+T-1018	T	1018	Last Updated on February 1, 2017
+T-1020	T	1020	Last Updated on February 9, 2017
+T-1026	T	1026	Last Updated on March 10, 2017
+T-1034	T	1034	Last Updated on February 22, 2017
+T-1035	T	1035	Last Updated on February 22, 2017
+T-1037	T	1037	Last Updated on August 23, 2016
+T-1039	T	1039	Last Updated on February 1, 2017
+T-1041	T	1041	Last Updated on November 28, 2016
+T-1048	T	1048	Last Updated on November 20, 2015
+T-1050	T	1050	Last Updated on January 29, 2016
+T-1051	T	1051	Last Updated on February 27, 2017
+T-1052	T	1052	Last Updated on October 8, 2016
+T-1053	T	1053	Last Updated on March 2, 2017
+T-1054	T	1054	Last Updated on February 27, 2017
+T-1055	T	1055	Last Updated on February 27, 2017
+T-1058	T	1058	Last Updated on February 14, 2017
+T-1077	T	1077	Last Updated on March 21, 2017
+T-1079	T	1079	Last Updated on January 19, 2017
+T-1084	T	1084	Last Updated on September 2, 2016
+T-1088	T	1088	Last Updated on February 27, 2017
+T-1090	T	1090	Last Updated on February 1, 2017
+T-1092	T	1092	Last Updated on March 21, 2017
+T-1094	T	1094	Last Updated on March 10, 2017
+T-1097	T	1097	Last Updated on January 12, 2017
+T-1099	T	1099	Last Updated on April 2, 2016
+T-1105	T	1105	Last Updated on November 16, 2016
+T-1114	T	1114	Last Updated on February 17, 2017
+T-1115	T	1115	Last Updated on March 23, 2017
+T-1117	T	1117	Last Updated on March 23, 2017
+T-1121	T	1121	Last Updated on January 13, 2017
+T-1126	T	1126	Last Updated on April 3, 2016
+T-1129	T	1129	Last Updated on March 10, 2017
+T-1130	T	1130	Last Updated on November 9, 2016
+T-1131	T	1131	Last Updated on November 9, 2016
+T-1133	T	1133	Last Updated on April 3, 2016
+T-1135	T	1135	Last Updated on April 3, 2016
+T-1137	T	1137	Last Updated on March 10, 2017
+T-1144	T	1144	Last Updated on March 15, 2017
+T-1163	T	1163	Last Updated on May 3, 2016
+A-494	A	494	on April 15th, 2011
+T-1163	T	1163	Last Updated on May 3, 2016
+T-1173	T	1173	Last Updated on October 26, 2016
+T-1175	T	1175	Last Updated on March 15, 2017
+T-1179	T	1179	Last Updated on September 19, 2016
+T-1182	T	1182	Last Updated on January 2, 2017
+T-1184	T	1184	Last Updated on March 23, 2017
+T-1191	T	1191	Last Updated on February 23, 2017
+T-1192	T	1192	Last Updated on February 27, 2017
+T-1195	T	1195	Last Updated on January 13, 2017
+T-1197	T	1197	Last Updated on November 28, 2016
+T-1199	T	1199	Last Updated on June 7, 2016
+T-1204	T	1204	Last Updated on January 19, 2017
+T-1206	T	1206	Last Updated on March 24, 2017
+T-1208	T	1208	Last Updated on January 29, 2017
+T-1219	T	1219	Last Updated on March 24, 2017
+T-1225	T	1225	Last Updated on February 23, 2017
+T-1240	T	1240	Last Updated on March 21, 2017
+T-1246	T	1246	Last Updated on March 10, 2017
+T-1256	T	1256	Last Updated on November 28, 2016
+T-1261	T	1261	Last Updated on February 22, 2017
+T-1288	T	1288	Last Updated on December 24, 2016
+T-1293	T	1293	Last Updated on July 18, 2016
+T-1298	T	1298	Last Updated on May 21, 2016
+T-1299	T	1299	Last Updated on February 22, 2017
+T-1323	T	1323	Last Updated on September 7, 2016
+T-1326	T	1326	Last Updated on June 27, 2016
+T-1329	T	1329	Last Updated on February 1, 2017
+T-1333	T	1333	Last Updated on March 24, 2017
+T-1339	T	1339	Last Updated on December 30, 2016
+T-1343	T	1343	Last Updated on November 29, 2016
+T-1345	T	1345	Last Updated on February 23, 2017
+T-1346	T	1346	Last Updated on November 29, 2016
+T-1347	T	1347	Last Updated on March 21, 2017
+T-1349	T	1349	Last Updated on March 21, 2016
+T-1350	T	1350	Last Updated on March 10, 2017
+T-1352	T	1352	Last Updated on January 19, 2017
+T-1353	T	1353	Last Updated on November 28, 2016
+T-1356	T	1356	Last Updated on March 15, 2017
+T-1357	T	1357	Last Updated on January 26, 2017
+T-1365	T	1365	Last Updated on August 8, 2016
+T-1367	T	1367	Last Updated on February 9, 2017
+T-1368	T	1368	Last Updated on February 22, 2017
+T-1379	T	1379	Last Updated on September 2, 2016
+T-1384	T	1384	Last Updated on March 10, 2017
+T-1391	T	1391	Last Updated on April 1, 2016
+T-1393	T	1393	Last Updated on February 22, 2017
+T-1400	T	1400	Last Updated on February 1, 2017
+T-1403	T	1403	Last Updated on February 27, 2017
+T-1404	T	1404	Last Updated on February 9, 2017
+T-1406	T	1406	Last Updated on March 1, 2016
+T-1407	T	1407	Last Updated on January 18, 2016
+T-1411	T	1411	Last Updated on March 30, 2016
+T-1423	T	1423	Last Updated on February 1, 2017
+T-1424	T	1424	Last Updated on March 23, 2017
+T-1442	T	1442	Last Updated on March 10, 2017
+T-1445	T	1445	Last Updated on February 9, 2017
+T-1446	T	1446	Last Updated on February 9, 2017
+T-1463	T	1463	Last Updated on August 25, 2016
+T-1464	T	1464	Last Updated on March 10, 2017
+T-1482	T	1482	Last Updated on April 4, 2016
+T-1487	T	1487	Last Updated on August 23, 2016
+T-1488	T	1488	Last Updated on August 23, 2016
+T-1495	T	1495	Last Updated on February 10, 2017
+T-1502	T	1502	Last Updated on November 30, 2016
+T-1503	T	1503	Last Updated on September 21, 2016
+T-1504	T	1504	Last Updated on January 19, 2017
+T-1511	T	1511	Last Updated on January 19, 2017
+T-1518	T	1518	Last Updated on May 16, 2016
+T-1523	T	1523	Last Updated on September 10, 2016
+T-1524	T	1524	Last Updated on March 24, 2017
+T-1525	T	1525	Last Updated on March 10, 2017
+T-1526	T	1526	Last Updated on February 17, 2017
+T-1532	T	1532	Last Updated on December 30, 2016
+T-1533	T	1533	Last Updated on December 30, 2016
+T-1535	T	1535	Last Updated on March 15, 2017
+T-1565	T	1565	Last Updated on March 6, 2017
+T-1568	T	1568	Last Updated on March 23, 2016
+T-1573	T	1573	Last Updated on November 29, 2016
+T-1575	T	1575	Last Updated on January 25, 2017
+T-1576	T	1576	Last Updated on January 19, 2017
+T-1580	T	1580	Last Updated on March 10, 2017
+T-1582	T	1582	Last Updated on August 16, 2016
+T-1585	T	1585	Last Updated on November 2, 2016
+A-494	A	494	on April 15th, 2011
+T-1585	T	1585	Last Updated on November 2, 2016
+T-1586	T	1586	Last Updated on January 19, 2017
+T-1590	T	1590	Last Updated on February 10, 2017
+T-1592	T	1592	Last Updated on March 4, 2017
+A-494	A	494	on April 15th, 2011
+T-1592	T	1592	Last Updated on March 4, 2017
+T-1599	T	1599	Last Updated on December 30, 2016
+T-1602	T	1602	Last Updated on February 22, 2017
+T-1623	T	1623	Last Updated on February 1, 2017
+T-1627	T	1627	Last Updated on August 3, 2016
+T-1631	T	1631	Last Updated on November 29, 2016
+T-1632	T	1632	Last Updated on November 28, 2016
+T-1634	T	1634	Last Updated on February 17, 2017
+T-1643	T	1643	Last Updated on February 17, 2017
+T-1653	T	1653	Last Updated on December 30, 2016
+T-1658	T	1658	Last Updated on December 30, 2016
+T-1667	T	1667	Last Updated on December 7, 2016
+T-1668	T	1668	Last Updated on March 4, 2017
+T-1681	T	1681	Last Updated on February 27, 2017
+T-1691	T	1691	Last Updated on February 10, 2017
+T-1693	T	1693	Last Updated on February 22, 2017
+T-1699	T	1699	Last Updated on March 10, 2017
+T-1700	T	1700	Last Updated on December 20, 2016
+T-1703	T	1703	Last Updated on January 19, 2017
+T-1706	T	1706	Last Updated on March 10, 2017
+T-1707	T	1707	Last Updated on February 17, 2017
+T-1716	T	1716	Last Updated on February 17, 2017
+T-1717	T	1717	Last Updated on February 17, 2017
+T-1719	T	1719	Last Updated on February 17, 2017
+T-1725	T	1725	Last Updated on March 14, 2017
+T-1728	T	1728	Last Updated on March 21, 2017
+T-1730	T	1730	Last Updated on December 24, 2016
+T-1732	T	1732	Last Updated on November 9, 2016
+T-1736	T	1736	Last Updated on May 8, 2016
+T-1737	T	1737	Last Updated on March 31, 2016
+T-1743	T	1743	Last Updated on March 10, 2017
+T-1747	T	1747	Last Updated on January 12, 2017
+T-1753	T	1753	Last Updated on January 30, 2017
+T-1755	T	1755	Last Updated on February 17, 2017
+T-1756	T	1756	Last Updated on March 14, 2017
+T-1759	T	1759	Last Updated on September 21, 2016
+T-1760	T	1760	Last Updated on July 18, 2016
+T-1761	T	1761	Last Updated on January 19, 2017
+T-1763	T	1763	Last Updated on March 23, 2017
+T-1768	T	1768	Last Updated on March 10, 2017
+T-1771	T	1771	Last Updated on November 28, 2016
+T-1773	T	1773	Last Updated on March 29, 2016
+T-1783	T	1783	Last Updated on March 23, 2017
+T-1787	T	1787	Last Updated on February 4, 2017
+T-1792	T	1792	Last Updated on February 9, 2017
+T-1794	T	1794	Last Updated on March 10, 2017
+T-1814	T	1814	Last Updated on March 4, 2017
+T-1833	T	1833	Last Updated on March 21, 2017
+T-1834	T	1834	Last Updated on March 21, 2017
+T-1838	T	1838	Last Updated on March 10, 2017
+T-1839	T	1839	Last Updated on January 19, 2017
+T-1843	T	1843	Last Updated on March 21, 2017
+T-1855	T	1855	Last Updated on May 21, 2016
+T-1870	T	1870	Last Updated on August 19, 2016
+T-1873	T	1873	Last Updated on August 19, 2016
+T-1874	T	1874	Last Updated on January 30, 2017
+T-1886	T	1886	Last Updated on February 22, 2017
+T-1890	T	1890	Last Updated on March 15, 2017
+T-1891	T	1891	Last Updated on February 22, 2017
+T-1892	T	1892	Last Updated on April 4, 2016
+T-1896	T	1896	Last Updated on March 15, 2017
+T-1911	T	1911	Last Updated on March 10, 2017
+T-1914	T	1914	Last Updated on March 14, 2017
+T-1915	T	1915	Last Updated on March 10, 2017
+T-1930	T	1930	Last Updated on March 4, 2017
+T-1932	T	1932	Last Updated on February 10, 2017
+T-1934	T	1934	Last Updated on July 10, 2016
+T-1936	T	1936	Last Updated on February 1, 2017
+T-1939	T	1939	Last Updated on March 21, 2017
+T-1940	T	1940	Last Updated on November 28, 2016
+T-1951	T	1951	Last Updated on November 30, 2016
+T-1955	T	1955	Last Updated on March 4, 2017
+T-1961	T	1961	Last Updated on February 1, 2017
+T-1963	T	1963	Last Updated on February 9, 2017
+T-1976	T	1976	Last Updated on March 14, 2017
+T-1982	T	1982	Last Updated on February 10, 2017
+T-2000	T	2000	Last Updated on January 11, 2016
+T-2006	T	2006	Last Updated on March 15, 2017
+V-1	V	1	March 22nd 2017
+V-2	V	2	March 20th 2017
+V-3	V	3	March 17th 2017
+V-4	V	4	March 15th 2017
+V-5	V	5	March 13th 2017
+V-6	V	6	March 10th 2017
+V-7	V	7	March 8th 2017
+V-8	V	8	March 6th 2017
+V-9	V	9	March 3rd 2017
+V-10	V	10	March 1st 2017
+V-11	V	11	February 27th 2017
+V-12	V	12	February 24th 2017
+V-13	V	13	August 3rd 2015
+V-14	V	14	August 1st 2014
+V-15	V	15	July 15th 2013
+V-16	V	16	July 26th 2012
+V-17	V	17	February 22nd 2017
+V-18	V	18	February 20th 2017
+V-19	V	19	February 17th 2017
+V-20	V	20	February 15th 2017
+V-21	V	21	February 13th 2017
+V-22	V	22	February 10th 2017
+V-23	V	23	February 8th 2017
+V-24	V	24	February 6th 2017
+V-25	V	25	February 3rd 2017
+V-26	V	26	February 1st 2017
+V-27	V	27	January 30th 2017
+V-28	V	28	January 23rd 2017
+V-29	V	29	January 20th 2017
+V-30	V	30	January 18th 2017
+V-31	V	31	January 16th 2017
+V-32	V	32	January 13th 2017
+V-33	V	33	January 11th 2017
+V-34	V	34	January 9th 2017
+V-35	V	35	January 6th 2017
+V-36	V	36	January 4th 2017
+V-37	V	37	January 2nd 2017
+V-38	V	38	December 30th 2016
+V-39	V	39	December 28th 2016
+V-40	V	40	December 26th 2016
+V-41	V	41	December 23rd 2016
+V-42	V	42	December 21st 2016
+V-43	V	43	December 19th 2016
+V-44	V	44	December 16th 2016
+V-45	V	45	December 14th 2016
+V-46	V	46	December 12th 2016
+V-47	V	47	December 9th 2016
+V-48	V	48	December 7th 2016
+V-49	V	49	December 5th 2016
+V-50	V	50	December 2nd 2016
+V-51	V	51	November 30th 2016
+V-52	V	52	November 28th 2016
+V-53	V	53	November 25th 2016
+V-54	V	54	November 23rd 2016
+V-55	V	55	November 21st 2016
+V-56	V	56	November 18th 2016
+V-57	V	57	November 16th 2016
+V-58	V	58	November 14th 2016
+V-59	V	59	November 11th 2016
+V-60	V	60	November 9th 2016
+V-61	V	61	November 7th 2016
+V-62	V	62	November 4th 2016
+V-63	V	63	November 2nd 2016
+V-64	V	64	October 31st 2016
+V-65	V	65	October 28th 2016
+V-66	V	66	October 26th 2016
+V-67	V	67	October 24th 2016
+V-68	V	68	October 21st 2016
+V-69	V	69	October 19th 2016
+V-70	V	70	October 17th 2016
+V-71	V	71	October 14th 2016
+V-72	V	72	October 12th 2016
+V-73	V	73	October 10th 2016
+V-74	V	74	October 7th 2016
+V-75	V	75	October 5th 2016
+V-76	V	76	October 3rd 2016
+V-77	V	77	September 30th 2016
+V-78	V	78	September 28th 2016
+V-79	V	79	September 26th 2016
+V-80	V	80	September 23rd 2016
+V-81	V	81	September 21st 2016
+V-82	V	82	September 19th 2016
+V-83	V	83	September 16th 2016
+V-84	V	84	September 14th 2016
+V-85	V	85	September 12th 2016
+V-86	V	86	September 9th 2016
+V-87	V	87	September 7th 2016
+V-88	V	88	September 5th 2016
+V-89	V	89	September 2nd 2016
+V-90	V	90	August 31st 2016
+V-91	V	91	August 29th 2016
+V-92	V	92	August 26th 2016
+V-93	V	93	August 24th 2016
+V-94	V	94	August 22nd 2016
+V-95	V	95	August 19th 2016
+V-96	V	96	August 17th 2016
+V-97	V	97	August 15th 2016
+V-98	V	98	August 12th 2016
+V-99	V	99	August 10th 2016
+V-100	V	100	August 8th 2016
+V-101	V	101	August 5th 2016
+V-102	V	102	August 3rd 2016
+V-103	V	103	August 1st 2016
+V-104	V	104	July 29th 2016
+V-105	V	105	July 27th 2016
+V-106	V	106	July 25th 2016
+V-107	V	107	July 22nd 2016
+V-108	V	108	July 20th 2016
+V-109	V	109	July 18th 2016
+V-110	V	110	July 15th 2016
+V-111	V	111	July 13th 2016
+V-112	V	112	July 11th 2016
+V-113	V	113	July 8th 2016
+V-114	V	114	July 6th 2016
+V-115	V	115	July 4th 2016
+V-116	V	116	July 1st 2016
+V-117	V	117	June 29th 2016
+V-118	V	118	June 27th 2016
+V-119	V	119	June 24th 2016
+V-120	V	120	June 22nd 2016
+V-121	V	121	June 20th 2016
+V-122	V	122	June 17th 2016
+V-123	V	123	June 15th 2016
+V-124	V	124	June 13th 2016
+V-125	V	125	June 10th 2016
+V-126	V	126	June 8th 2016
+V-127	V	127	June 6th 2016
+V-128	V	128	June 3rd 2016
+V-129	V	129	June 1st 2016
+V-130	V	130	May 30th 2016
+V-131	V	131	May 27th 2016
+V-132	V	132	May 25th 2016
+V-133	V	133	May 23rd 2016
+V-134	V	134	May 20th 2016
+V-135	V	135	May 18th 2016
+V-136	V	136	May 16th 2016
+V-137	V	137	May 13th 2016
+V-138	V	138	May 11th 2016
+V-139	V	139	May 9th 2016
+V-140	V	140	May 6th 2016
+V-141	V	141	May 4th 2016
+V-142	V	142	May 2nd 2016
+V-143	V	143	April 29th 2016
+V-144	V	144	April 27th 2016
+V-145	V	145	April 25th 2016
+V-146	V	146	April 22nd 2016
+V-147	V	147	April 20th 2016
+V-148	V	148	April 18th 2016
+V-149	V	149	April 15th 2016
+V-150	V	150	April 13th 2016
+V-151	V	151	April 11th 2016
+V-152	V	152	April 8th 2016
+V-153	V	153	April 6th 2016
+V-154	V	154	April 4th 2016
+V-155	V	155	April 1st 2016
+V-156	V	156	March 30th 2016
+V-157	V	157	March 28th 2016
+V-158	V	158	March 25th 2016
+V-159	V	159	March 23rd 2016
+V-160	V	160	March 21st 2016
+V-161	V	161	March 18th 2016
+V-162	V	162	March 16th 2016
+V-163	V	163	March 14th 2016
+V-164	V	164	March 11th 2016
+V-165	V	165	March 9th 2016
+V-166	V	166	March 7th 2016
+V-167	V	167	March 4th 2016
+V-168	V	168	March 2nd 2016
+V-169	V	169	February 29th 2016
+V-170	V	170	February 26th 2016
+V-171	V	171	February 24th 2016
+V-172	V	172	February 22nd 2016
+V-173	V	173	February 19th 2016
+V-174	V	174	February 17th 2016
+V-175	V	175	February 15th 2016
+V-176	V	176	February 12th 2016
+V-177	V	177	February 10th 2016
+V-178	V	178	February 8th 2016
+V-179	V	179	February 5th 2016
+V-180	V	180	February 3rd 2016
+V-181	V	181	February 1st 2016
+V-182	V	182	January 29th 2016
+V-183	V	183	January 27th 2016
+V-184	V	184	January 25th 2016
+V-185	V	185	January 22nd 2016
+V-186	V	186	January 20th 2016
+V-187	V	187	January 18th 2016
+V-188	V	188	January 15th 2016
+V-189	V	189	January 13th 2016
+V-190	V	190	January 11th 2016
+V-191	V	191	January 8th 2016
+V-192	V	192	January 6th 2016
+V-193	V	193	January 4th 2016
+V-194	V	194	January 1st 2016
+V-195	V	195	December 30th 2015
+V-196	V	196	December 28th 2015
+V-197	V	197	December 25th 2015
+V-198	V	198	December 23rd 2015
+V-199	V	199	December 21st 2015
+V-200	V	200	December 18th 2015
+V-201	V	201	December 16th 2015
+V-202	V	202	December 14th 2015
+V-203	V	203	December 11th 2015
+V-204	V	204	December 9th 2015
+V-205	V	205	December 7th 2015
+V-206	V	206	December 4th 2015
+V-207	V	207	December 2nd 2015
+V-208	V	208	November 30th 2015
+V-209	V	209	November 27th 2015
+V-210	V	210	November 25th 2015
+V-211	V	211	November 23rd 2015
+V-212	V	212	November 20th 2015
+V-213	V	213	November 18th 2015
+V-214	V	214	November 16th 2015
+V-215	V	215	November 13th 2015
+V-216	V	216	November 11th 2015
+V-217	V	217	November 9th 2015
+V-218	V	218	November 6th 2015
+V-219	V	219	November 4th 2015
+V-220	V	220	November 2nd 2015
+V-221	V	221	October 30th 2015
+V-222	V	222	October 28th 2015
+V-223	V	223	October 26th 2015
+V-224	V	224	October 23rd 2015
+V-225	V	225	October 21st 2015
+V-226	V	226	October 19th 2015
+V-227	V	227	October 16th 2015
+V-228	V	228	October 14th 2015
+V-229	V	229	October 12th 2015
+V-230	V	230	October 9th 2015
+V-231	V	231	October 7th 2015
+V-232	V	232	October 5th 2015
+V-233	V	233	October 2nd 2015
+V-234	V	234	September 30th 2015
+V-235	V	235	September 28th 2015
+V-236	V	236	September 25th 2015
+V-237	V	237	September 23rd 2015
+V-238	V	238	September 21st 2015
+V-239	V	239	September 18th 2015
+V-240	V	240	September 16th 2015
+V-241	V	241	September 14th 2015
+V-242	V	242	September 11th 2015
+V-243	V	243	September 9th 2015
+V-244	V	244	September 7th 2015
+V-245	V	245	September 4th 2015
+V-246	V	246	September 2nd 2015
+V-247	V	247	August 31st 2015
+V-248	V	248	August 28th 2015
+V-249	V	249	August 26th 2015
+V-250	V	250	August 24th 2015
+V-251	V	251	August 21st 2015
+V-252	V	252	August 19th 2015
+V-253	V	253	August 17th 2015
+V-254	V	254	August 14th 2015
+V-255	V	255	August 12th 2015
+V-256	V	256	August 10th 2015
+V-257	V	257	August 7th 2015
+V-258	V	258	August 5th 2015
+V-259	V	259	July 31st 2015
+V-260	V	260	July 29th 2015
+V-261	V	261	July 27th 2015
+V-262	V	262	July 24th 2015
+V-263	V	263	July 22nd 2015
+V-264	V	264	July 20th 2015
+V-265	V	265	July 17th 2015
+V-266	V	266	July 15th 2015
+V-267	V	267	July 13th 2015
+V-268	V	268	July 10th 2015
+V-269	V	269	July 8th 2015
+V-270	V	270	July 6th 2015
+V-271	V	271	July 3rd 2015
+V-272	V	272	July 1st 2015
+V-273	V	273	June 29th 2015
+V-274	V	274	June 26th 2015
+V-275	V	275	June 24th 2015
+V-276	V	276	June 22nd 2015
+V-277	V	277	June 19th 2015
+V-278	V	278	June 17th 2015
+V-279	V	279	June 15th 2015
+V-280	V	280	June 12th 2015
+V-281	V	281	June 10th 2015
+V-282	V	282	June 8th 2015
+V-283	V	283	June 5th 2015
+V-284	V	284	June 3rd 2015
+V-285	V	285	June 1st 2015
+V-286	V	286	May 29th 2015
+V-287	V	287	May 27th 2015
+V-288	V	288	May 25th 2015
+V-289	V	289	May 22nd 2015
+V-290	V	290	May 20th 2015
+V-291	V	291	May 18th 2015
+V-292	V	292	May 15th 2015
+V-293	V	293	May 13th 2015
+V-294	V	294	May 11th 2015
+V-295	V	295	May 8th 2015
+V-296	V	296	May 6th 2015
+V-297	V	297	May 4th 2015
+V-298	V	298	May 1st 2015
+V-299	V	299	April 29th 2015
+V-300	V	300	April 27th 2015
+V-301	V	301	April 24th 2015
+V-302	V	302	April 22nd 2015
+V-303	V	303	April 20th 2015
+V-304	V	304	April 17th 2015
+V-305	V	305	April 15th 2015
+V-306	V	306	April 13th 2015
+V-307	V	307	April 10th 2015
+V-308	V	308	April 8th 2015
+V-309	V	309	April 6th 2015
+V-310	V	310	April 3rd 2015
+V-311	V	311	April 1st 2015
+V-312	V	312	March 30th 2015
+V-313	V	313	March 27th 2015
+V-314	V	314	March 25th 2015
+V-315	V	315	March 23rd 2015
+V-316	V	316	March 20th 2015
+V-317	V	317	March 18th 2015
+V-318	V	318	March 16th 2015
+V-319	V	319	March 13th 2015
+V-320	V	320	March 11th 2015
+V-321	V	321	March 9th 2015
+V-322	V	322	March 6th 2015
+V-323	V	323	March 4th 2015
+V-324	V	324	March 2nd 2015
+V-325	V	325	February 27th 2015
+V-326	V	326	February 25th 2015
+V-327	V	327	February 23rd 2015
+V-328	V	328	February 20th 2015
+V-329	V	329	February 18th 2015
+V-330	V	330	February 16th 2015
+V-331	V	331	February 13th 2015
+V-332	V	332	February 11th 2015
+V-333	V	333	February 9th 2015
+V-334	V	334	February 6th 2015
+V-335	V	335	February 4th 2015
+V-336	V	336	February 2nd 2015
+V-337	V	337	January 30th 2015
+V-338	V	338	January 28th 2015
+V-339	V	339	January 26th 2015
+V-340	V	340	January 23rd 2015
+V-341	V	341	January 21st 2015
+V-342	V	342	January 19th 2015
+V-343	V	343	January 16th 2015
+V-344	V	344	January 14th 2015
+V-345	V	345	January 12th 2015
+V-346	V	346	January 9th 2015
+V-347	V	347	January 7th 2015
+V-348	V	348	January 5th 2015
+V-349	V	349	January 2nd 2015
+V-350	V	350	December 31st 2014
+V-351	V	351	December 29th 2014
+V-352	V	352	December 26th 2014
+V-353	V	353	December 24th 2014
+V-354	V	354	December 22nd 2014
+V-355	V	355	December 19th 2014
+V-356	V	356	December 17th 2014
+V-357	V	357	December 15th 2014
+V-358	V	358	December 12th 2014
+V-359	V	359	December 10th 2014
+V-360	V	360	December 8th 2014
+V-361	V	361	December 5th 2014
+V-362	V	362	December 3rd 2014
+V-363	V	363	December 1st 2014
+V-364	V	364	November 28th 2014
+V-365	V	365	November 26th 2014
+V-366	V	366	November 24th 2014
+V-367	V	367	November 21st 2014
+V-368	V	368	November 19th 2014
+V-369	V	369	November 17th 2014
+V-370	V	370	November 14th 2014
+V-371	V	371	November 12th 2014
+V-372	V	372	November 10th 2014
+V-373	V	373	November 7th 2014
+V-374	V	374	November 5th 2014
+V-375	V	375	November 3rd 2014
+V-376	V	376	October 31st 2014
+V-377	V	377	October 29th 2014
+V-378	V	378	October 27th 2014
+V-379	V	379	October 24th 2014
+V-380	V	380	October 22nd 2014
+V-381	V	381	October 20th 2014
+V-382	V	382	October 17th 2014
+V-383	V	383	October 15th 2014
+V-384	V	384	October 13th 2014
+V-385	V	385	October 10th 2014
+V-386	V	386	October 8th 2014
+V-387	V	387	October 6th 2014
+V-388	V	388	October 3rd 2014
+V-389	V	389	October 1st 2014
+V-390	V	390	September 29th 2014
+V-391	V	391	September 26th 2014
+V-392	V	392	September 24th 2014
+V-393	V	393	September 22nd 2014
+V-394	V	394	September 19th 2014
+V-395	V	395	September 17th 2014
+V-396	V	396	September 15th 2014
+V-397	V	397	September 12th 2014
+V-398	V	398	September 10th 2014
+V-399	V	399	September 8th 2014
+V-400	V	400	September 5th 2014
+V-401	V	401	September 3rd 2014
+V-402	V	402	September 1st 2014
+V-403	V	403	August 29th 2014
+V-404	V	404	August 27th 2014
+V-405	V	405	August 25th 2014
+V-406	V	406	August 22nd 2014
+V-407	V	407	August 20th 2014
+V-408	V	408	August 18th 2014
+V-409	V	409	August 15th 2014
+V-410	V	410	August 13th 2014
+V-411	V	411	August 11th 2014
+V-412	V	412	August 8th 2014
+V-413	V	413	August 6th 2014
+V-414	V	414	August 4th 2014
+V-415	V	415	July 30th 2014
+V-416	V	416	July 28th 2014
+V-417	V	417	July 25th 2014
+V-418	V	418	July 23rd 2014
+V-419	V	419	July 21st 2014
+V-420	V	420	July 18th 2014
+V-421	V	421	July 16th 2014
+V-422	V	422	July 14th 2014
+V-423	V	423	July 11th 2014
+V-424	V	424	July 9th 2014
+V-425	V	425	July 7th 2014
+V-426	V	426	July 4th 2014
+V-427	V	427	July 2nd 2014
+V-428	V	428	June 30th 2014
+V-429	V	429	June 27th 2014
+V-430	V	430	June 25th 2014
+V-431	V	431	June 23rd 2014
+V-432	V	432	June 20th 2014
+V-433	V	433	June 18th 2014
+V-434	V	434	June 16th 2014
+V-435	V	435	June 13th 2014
+V-436	V	436	June 11th 2014
+V-437	V	437	June 9th 2014
+V-438	V	438	June 6th 2014
+V-439	V	439	June 4th 2014
+V-440	V	440	June 2nd 2014
+V-441	V	441	May 30th 2014
+V-442	V	442	May 28th 2014
+V-443	V	443	May 26th 2014
+V-444	V	444	May 23rd 2014
+V-445	V	445	May 21st 2014
+V-446	V	446	May 19th 2014
+V-447	V	447	May 16th 2014
+V-448	V	448	May 14th 2014
+V-449	V	449	May 12th 2014
+V-450	V	450	May 9th 2014
+V-451	V	451	May 7th 2014
+V-452	V	452	May 5th 2014
+V-453	V	453	May 2nd 2014
+V-454	V	454	April 30th 2014
+V-455	V	455	April 28th 2014
+V-456	V	456	April 25th 2014
+V-457	V	457	April 23rd 2014
+V-458	V	458	April 21st 2014
+V-459	V	459	April 18th 2014
+V-460	V	460	April 16th 2014
+V-461	V	461	April 14th 2014
+V-462	V	462	April 11th 2014
+V-463	V	463	April 9th 2014
+V-464	V	464	April 7th 2014
+V-465	V	465	April 4th 2014
+V-466	V	466	April 2nd 2014
+V-467	V	467	March 31st 2014
+V-468	V	468	March 28th 2014
+V-469	V	469	March 26th 2014
+V-470	V	470	March 24th 2014
+V-471	V	471	March 21st 2014
+V-472	V	472	March 19th 2014
+V-473	V	473	March 17th 2014
+V-474	V	474	March 14th 2014
+V-475	V	475	March 12th 2014
+V-476	V	476	March 10th 2014
+V-477	V	477	March 7th 2014
+V-478	V	478	March 5th 2014
+V-479	V	479	March 3rd 2014
+V-480	V	480	February 28th 2014
+V-481	V	481	February 26th 2014
+V-482	V	482	February 24th 2014
+V-483	V	483	February 21st 2014
+V-484	V	484	February 19th 2014
+V-485	V	485	February 17th 2014
+V-486	V	486	February 14th 2014
+V-487	V	487	February 12th 2014
+V-488	V	488	February 10th 2014
+V-489	V	489	February 7th 2014
+V-490	V	490	February 5th 2014
+V-491	V	491	February 3rd 2014
+V-492	V	492	January 31st 2014
+V-493	V	493	January 29th 2014
+V-494	V	494	January 27th 2014
+V-495	V	495	January 24th 2014
+V-496	V	496	January 22nd 2014
+V-497	V	497	January 20th 2014
+V-498	V	498	January 17th 2014
+V-499	V	499	January 15th 2014
+V-500	V	500	January 13th 2014
+V-501	V	501	January 10th 2014
+V-502	V	502	January 8th 2014
+V-503	V	503	January 6th 2014
+V-504	V	504	January 3rd 2014
+V-505	V	505	January 1st 2014
+V-506	V	506	December 30th 2013
+V-507	V	507	December 27th 2013
+V-508	V	508	December 25th 2013
+V-509	V	509	December 23rd 2013
+V-510	V	510	December 20th 2013
+V-511	V	511	December 18th 2013
+V-512	V	512	December 16th 2013
+V-513	V	513	December 13th 2013
+V-514	V	514	December 11th 2013
+V-515	V	515	December 9th 2013
+V-516	V	516	December 6th 2013
+V-517	V	517	December 4th 2013
+V-518	V	518	December 2nd 2013
+V-519	V	519	November 29th 2013
+V-520	V	520	November 27th 2013
+V-521	V	521	November 25th 2013
+V-522	V	522	November 22nd 2013
+V-523	V	523	November 20th 2013
+V-524	V	524	November 18th 2013
+V-525	V	525	November 15th 2013
+V-526	V	526	November 13th 2013
+V-527	V	527	November 11th 2013
+V-528	V	528	November 8th 2013
+V-529	V	529	November 6th 2013
+V-530	V	530	November 4th 2013
+V-531	V	531	November 1st 2013
+V-532	V	532	October 30th 2013
+V-533	V	533	October 28th 2013
+V-534	V	534	October 25th 2013
+V-535	V	535	October 23rd 2013
+V-536	V	536	October 21st 2013
+V-537	V	537	October 18th 2013
+V-538	V	538	October 16th 2013
+V-539	V	539	October 14th 2013
+V-540	V	540	October 11th 2013
+V-541	V	541	October 9th 2013
+V-542	V	542	October 7th 2013
+V-543	V	543	October 2nd 2013
+V-544	V	544	September 30th 2013
+V-545	V	545	September 27th 2013
+V-546	V	546	September 25th 2013
+V-547	V	547	September 23rd 2013
+V-548	V	548	September 20th 2013
+V-549	V	549	September 18th 2013
+V-550	V	550	September 16th 2013
+V-551	V	551	September 13th 2013
+V-552	V	552	September 11th 2013
+V-553	V	553	September 9th 2013
+V-554	V	554	September 6th 2013
+V-555	V	555	September 4th 2013
+V-556	V	556	September 2nd 2013
+V-557	V	557	August 30th 2013
+V-558	V	558	August 28th 2013
+V-559	V	559	August 26th 2013
+V-560	V	560	August 23rd 2013
+V-561	V	561	August 21st 2013
+V-562	V	562	August 19th 2013
+V-563	V	563	August 16th 2013
+V-564	V	564	August 14th 2013
+V-565	V	565	August 12th 2013
+V-566	V	566	August 9th 2013
+V-567	V	567	August 7th 2013
+V-568	V	568	August 5th 2013
+V-569	V	569	August 2nd 2013
+V-570	V	570	July 31st 2013
+V-571	V	571	July 29th 2013
+V-572	V	572	July 26th 2013
+V-573	V	573	July 24th 2013
+V-574	V	574	July 22nd 2013
+V-575	V	575	July 19th 2013
+V-576	V	576	July 17th 2013
+V-577	V	577	July 12th 2013
+V-578	V	578	July 10th 2013
+V-579	V	579	July 8th 2013
+V-580	V	580	July 5th 2013
+V-581	V	581	July 3rd 2013
+V-582	V	582	June 30th 2013
+V-583	V	583	June 28th 2013
+V-584	V	584	June 26th 2013
+V-585	V	585	June 24th 2013
+V-586	V	586	June 21st 2013
+V-587	V	587	June 19th 2013
+V-588	V	588	June 17th 2013
+V-589	V	589	June 14th 2013
+V-590	V	590	June 12th 2013
+V-591	V	591	June 10th 2013
+V-592	V	592	June 7th 2013
+V-593	V	593	June 5th 2013
+V-594	V	594	June 3rd 2013
+V-595	V	595	May 31st 2013
+V-596	V	596	May 29th 2013
+V-597	V	597	May 27th 2013
+V-598	V	598	May 24th 2013
+V-599	V	599	May 22nd 2013
+V-600	V	600	May 20th 2013
+V-601	V	601	May 17th 2013
+V-602	V	602	May 15th 2013
+V-603	V	603	May 13th 2013
+V-604	V	604	May 10th 2013
+V-605	V	605	May 8th 2013
+V-606	V	606	May 6th 2013
+V-607	V	607	May 3rd 2013
+V-608	V	608	May 1st 2013
+V-609	V	609	April 29th 2013
+V-610	V	610	April 26th 2013
+V-611	V	611	April 24th 2013
+V-612	V	612	April 22nd 2013
+V-613	V	613	April 19th 2013
+V-614	V	614	April 17th 2013
+V-615	V	615	April 15th 2013
+V-616	V	616	April 12th 2013
+V-617	V	617	April 10th 2013
+V-618	V	618	April 8th 2013
+V-619	V	619	April 5th 2013
+V-620	V	620	April 3rd 2013
+V-621	V	621	April 1st 2013
+V-622	V	622	March 29th 2013
+V-623	V	623	March 27th 2013
+V-624	V	624	March 25th 2013
+V-625	V	625	March 22nd 2013
+V-626	V	626	March 20th 2013
+V-627	V	627	March 18th 2013
+V-628	V	628	March 15th 2013
+V-629	V	629	March 13th 2013
+V-630	V	630	March 11th 2013
+V-631	V	631	March 8th 2013
+V-632	V	632	March 6th 2013
+V-633	V	633	March 4th 2013
+V-634	V	634	March 1st 2013
+V-635	V	635	February 27th 2013
+V-636	V	636	February 25th 2013
+V-637	V	637	February 22nd 2013
+V-638	V	638	February 20th 2013
+V-639	V	639	February 18th 2013
+V-640	V	640	February 15th 2013
+V-641	V	641	February 13th 2013
+V-642	V	642	February 11th 2013
+V-643	V	643	February 8th 2013
+V-644	V	644	February 6th 2013
+V-645	V	645	February 4th 2013
+V-646	V	646	February 1st 2013
+V-647	V	647	January 30th 2013
+V-648	V	648	January 28th 2013
+V-649	V	649	January 25th 2013
+V-650	V	650	January 23rd 2013
+V-651	V	651	January 21st 2013
+V-652	V	652	January 18th 2013
+V-653	V	653	January 16th 2013
+V-654	V	654	January 14th 2013
+V-655	V	655	January 11th 2013
+V-656	V	656	January 9th 2013
+V-657	V	657	January 7th 2013
+V-658	V	658	January 4th 2013
+V-659	V	659	January 2nd 2013
+V-660	V	660	December 31st 2012
+V-661	V	661	December 28th 2012
+V-662	V	662	December 27th 2012
+V-663	V	663	December 26th 2012
+V-664	V	664	December 25th 2012
+V-665	V	665	December 24th 2012
+V-666	V	666	December 21st 2012
+V-667	V	667	December 20th 2012
+V-668	V	668	December 19th 2012
+V-669	V	669	December 18th 2012
+V-670	V	670	December 17th 2012
+V-671	V	671	December 14th 2012
+V-672	V	672	December 13th 2012
+V-673	V	673	December 12th 2012
+V-674	V	674	December 11th 2012
+V-675	V	675	December 10th 2012
+V-676	V	676	December 7th 2012
+V-677	V	677	December 6th 2012
+V-678	V	678	December 5th 2012
+V-679	V	679	December 4th 2012
+V-680	V	680	December 3rd 2012
+V-681	V	681	November 30th 2012
+V-682	V	682	November 28th 2012
+V-683	V	683	November 28th 2012
+V-684	V	684	November 27th 2012
+V-685	V	685	November 26th 2012
+V-686	V	686	November 23rd 2012
+V-687	V	687	November 22nd 2012
+V-688	V	688	November 21st 2012
+V-689	V	689	November 20th 2012
+V-690	V	690	November 19th 2012
+V-691	V	691	November 16th 2012
+V-692	V	692	November 15th 2012
+V-693	V	693	November 14th 2012
+V-694	V	694	November 13th 2012
+V-695	V	695	November 12th 2012
+V-696	V	696	November 9th 2012
+V-697	V	697	November 8th 2012
+V-698	V	698	November 7th 2012
+V-699	V	699	November 6th 2012
+V-700	V	700	November 5th 2012
+V-701	V	701	November 2nd 2012
+V-702	V	702	November 1st 2012
+V-703	V	703	October 31st 2012
+V-704	V	704	October 30th 2012
+V-705	V	705	October 29th 2012
+V-706	V	706	October 26th 2012
+V-707	V	707	October 25th 2012
+V-708	V	708	October 24th 2012
+V-709	V	709	October 23rd 2012
+V-710	V	710	October 22nd 2012
+V-711	V	711	October 19th 2012
+V-712	V	712	October 18th 2012
+V-713	V	713	October 17th 2012
+V-714	V	714	October 16th 2012
+V-715	V	715	October 15th 2012
+V-716	V	716	October 12th 2012
+V-717	V	717	October 11th 2012
+V-718	V	718	October 10th 2012
+V-719	V	719	October 9th 2012
+V-720	V	720	October 8th 2012
+V-721	V	721	October 5th 2012
+V-722	V	722	October 4th 2012
+V-723	V	723	October 3rd 2012
+V-724	V	724	October 2nd 2012
+V-725	V	725	October 1st 2012
+V-726	V	726	September 28th 2012
+V-727	V	727	September 27th 2012
+V-728	V	728	September 26th 2012
+V-729	V	729	September 25th 2012
+V-730	V	730	September 24th 2012
+V-731	V	731	September 21st 2012
+V-732	V	732	September 20th 2012
+V-733	V	733	September 19th 2012
+V-734	V	734	September 18th 2012
+V-735	V	735	September 17th 2012
+V-736	V	736	September 14th 2012
+V-737	V	737	September 13th 2012
+V-738	V	738	September 12th 2012
+V-739	V	739	September 11th 2012
+V-740	V	740	September 10th 2012
+V-741	V	741	September 7th 2012
+V-742	V	742	September 6th 2012
+V-743	V	743	September 5th 2012
+V-744	V	744	September 4th 2012
+V-745	V	745	September 3rd 2012
+V-746	V	746	August 31st 2012
+V-747	V	747	August 30th 2012
+V-748	V	748	August 29th 2012
+V-749	V	749	August 28th 2012
+V-750	V	750	August 27th 2012
+V-751	V	751	August 24th 2012
+V-752	V	752	August 20th 2012
+V-753	V	753	August 17th 2012
+V-754	V	754	August 16th 2012
+V-755	V	755	August 15th 2012
+V-756	V	756	August 14th 2012
+V-757	V	757	August 13th 2012
+V-758	V	758	August 10th 2012
+V-759	V	759	August 9th 2012
+V-760	V	760	August 8th 2012
+V-761	V	761	August 7th 2012
+V-762	V	762	August 6th 2012
+V-763	V	763	August 3rd 2012
+V-764	V	764	August 2nd 2012
+V-765	V	765	August 1st 2012
+V-766	V	766	July 31st 2012
+V-767	V	767	July 30th 2012
+V-768	V	768	July 27th 2012
+V-769	V	769	July 25th 2012
+V-770	V	770	July 24th 2012
+V-771	V	771	July 23rd 2012
+V-772	V	772	July 20th 2012
+V-773	V	773	July 19th 2012
+V-774	V	774	July 18th 2012
+V-775	V	775	July 17th 2012
+V-776	V	776	July 16th 2012
+V-777	V	777	July 13th 2012
+V-778	V	778	July 12th 2012
+V-779	V	779	July 11th 2012
+V-780	V	780	July 10th 2012
+V-781	V	781	July 9th 2012
+V-782	V	782	July 6th 2012
+V-783	V	783	July 5th 2012
+V-784	V	784	July 4th 2012
+V-785	V	785	July 3rd 2012
+V-786	V	786	July 2nd 2012
+V-787	V	787	June 29th 2012
+V-788	V	788	June 28th 2012
+V-789	V	789	June 27th 2012
+V-790	V	790	June 26th 2012
+V-791	V	791	June 25th 2012
+V-792	V	792	June 22nd 2012
+V-793	V	793	June 21st 2012
+V-794	V	794	June 20th 2012
+V-795	V	795	June 19th 2012
+V-796	V	796	June 18th 2012
+V-797	V	797	June 15th 2012
+V-798	V	798	June 14th 2012
+V-799	V	799	June 13th 2012
+V-800	V	800	June 12th 2012
+V-801	V	801	June 11th 2012
+V-802	V	802	June 8th 2012
+V-803	V	803	June 7th 2012
+V-804	V	804	June 6th 2012
+V-805	V	805	June 5th 2012
+V-806	V	806	June 4th 2012
+V-807	V	807	June 1st 2012
+V-808	V	808	May 31st 2012
+V-809	V	809	May 30th 2012
+V-810	V	810	May 29th 2012
+V-811	V	811	May 28th 2012
+V-812	V	812	May 25th 2012
+V-813	V	813	May 24th 2012
+V-814	V	814	May 23rd 2012
+V-815	V	815	May 22nd 2012
+V-816	V	816	May 21st 2012
+V-817	V	817	May 18th 2012
+V-818	V	818	May 17th 2012
+V-819	V	819	May 16th 2012
+V-820	V	820	May 15th 2012
+V-821	V	821	May 14th 2012
+V-822	V	822	May 11th 2012
+V-823	V	823	May 10th 2012
+V-824	V	824	May 9th 2012
+V-825	V	825	May 8th 2012
+V-826	V	826	May 7th 2012
+V-827	V	827	May 4th 2012
+V-828	V	828	May 3rd 2012
+V-829	V	829	May 2nd 2012
+V-830	V	830	May 1st 2012
+V-831	V	831	April 30th 2012
+V-832	V	832	April 27th 2012
+V-833	V	833	April 26th 2012
+V-834	V	834	April 25th 2012
+V-835	V	835	April 24th 2012
+V-836	V	836	April 23rd 2012
+V-837	V	837	April 20th 2012
+V-838	V	838	April 19th 2012
+V-839	V	839	April 18th 2012
+V-840	V	840	April 17th 2012
+V-841	V	841	April 16th 2012
+V-842	V	842	April 13th 2012
+V-843	V	843	April 12th 2012
+V-844	V	844	April 11th 2012
+V-845	V	845	April 10th 2012
+V-846	V	846	April 9th 2012
+V-847	V	847	April 6th 2012
+V-848	V	848	April 5th 2012
+V-849	V	849	April 4th 2012
+V-850	V	850	April 3rd 2012
+V-851	V	851	April 2nd 2012
+V-852	V	852	March 30th 2012
+V-853	V	853	March 29th 2012
+V-854	V	854	March 28th 2012
+V-855	V	855	March 27th 2012
+V-856	V	856	March 26th 2012
+V-857	V	857	March 23rd 2012
+V-858	V	858	March 22nd 2012
+V-859	V	859	March 21st 2012
+V-860	V	860	March 20th 2012
+V-861	V	861	March 19th 2012
+V-862	V	862	March 16th 2012
+V-863	V	863	March 15th 2012
+V-864	V	864	March 14th 2012
+V-865	V	865	March 13th 2012
+V-866	V	866	March 12th 2012
+V-867	V	867	March 9th 2012
+V-868	V	868	March 8th 2012
+V-869	V	869	March 7th 2012
+V-870	V	870	March 6th 2012
+V-871	V	871	March 5th 2012
+V-872	V	872	March 2nd 2012
+V-873	V	873	March 1st 2012
+V-874	V	874	February 29th 2012
+V-875	V	875	February 28th 2012
+V-876	V	876	February 27th 2012
+V-877	V	877	February 24th 2012
+V-878	V	878	February 23rd 2012
+V-879	V	879	February 22nd 2012
+V-880	V	880	February 21st 2012
+V-881	V	881	February 20th 2012
+V-882	V	882	February 17th 2012
+V-883	V	883	February 16th 2012
+V-884	V	884	February 15th 2012
+V-885	V	885	February 14th 2012
+V-886	V	886	February 13th 2012
+V-887	V	887	February 10th 2012
+V-888	V	888	February 9th 2012
+V-889	V	889	February 8th 2012
+V-890	V	890	February 7th 2012
+V-891	V	891	February 6th 2012
+V-892	V	892	February 3rd 2012
+V-893	V	893	February 2nd 2012
+V-894	V	894	February 1st 2012
+V-895	V	895	January 31st 2012
+V-896	V	896	January 30th 2012
+V-897	V	897	January 27th 2012
+V-898	V	898	January 26th 2012
+V-899	V	899	January 25th 2012
+V-900	V	900	January 24th 2012
+V-901	V	901	January 23rd 2012
+V-902	V	902	January 20th 2012
+V-903	V	903	January 19th 2012
+V-904	V	904	January 18th 2012
+V-905	V	905	January 17th 2012
+V-906	V	906	January 16th 2012
+V-907	V	907	January 13th 2012
+V-908	V	908	January 12th 2012
+V-909	V	909	January 11th 2012
+V-910	V	910	January 10th 2012
+V-911	V	911	January 9th 2012
+V-912	V	912	January 6th 2012
+V-913	V	913	January 5th 2012
+V-914	V	914	January 4th 2012
+V-915	V	915	January 3rd 2012
+V-916	V	916	January 2nd 2012
+V-917	V	917	December 30th 2011
+V-918	V	918	December 29th 2011
+V-919	V	919	December 28th 2011
+V-920	V	920	December 27th 2011
+V-921	V	921	December 26th 2011
+V-922	V	922	December 23rd 2011
+V-923	V	923	December 22nd 2011
+V-924	V	924	December 21st 2011
+V-925	V	925	December 20th 2011
+V-926	V	926	December 19th 2011
+V-927	V	927	December 16th 2011
+V-928	V	928	December 15th 2011
+V-929	V	929	December 14th 2011
+V-930	V	930	December 13th 2011
+V-931	V	931	December 12th 2011
+V-932	V	932	December 9th 2011
+V-933	V	933	December 8th 2011
+V-934	V	934	December 7th 2011
+V-935	V	935	December 6th 2011
+V-936	V	936	December 5th 2011
+V-937	V	937	December 2nd 2011
+V-938	V	938	December 1st 2011
+V-939	V	939	November 30th 2011
+V-940	V	940	November 29th 2011
+V-941	V	941	November 28th 2011
+V-942	V	942	November 25th 2011
+V-943	V	943	November 24th 2011
+V-944	V	944	November 23rd 2011
+V-945	V	945	November 22nd 2011
+V-946	V	946	November 21st 2011
+V-947	V	947	November 18th 2011
+V-948	V	948	November 17th 2011
+V-949	V	949	November 16th 2011
+V-950	V	950	November 15th 2011
+V-951	V	951	November 14th 2011
+V-952	V	952	November 11th 2011
+V-953	V	953	November 10th 2011
+V-954	V	954	November 9th 2011
+V-955	V	955	November 8th 2011
+V-956	V	956	November 7th 2011
+V-957	V	957	November 4th 2011
+V-958	V	958	November 3rd 2011
+V-959	V	959	November 2nd 2011
+V-960	V	960	November 1st 2011
+V-961	V	961	October 31st 2011
+V-962	V	962	October 28th 2011
+V-963	V	963	October 27th 2011
+V-964	V	964	October 26th 2011
+V-965	V	965	October 25th 2011
+V-966	V	966	October 24th 2011
+V-967	V	967	October 21st 2011
+V-968	V	968	October 20th 2011
+V-969	V	969	October 19th 2011
+V-970	V	970	October 18th 2011
+V-971	V	971	October 17th 2011
+V-972	V	972	October 14th 2011
+V-973	V	973	October 13th 2011
+V-974	V	974	October 12th 2011
+V-975	V	975	October 11th 2011
+V-976	V	976	October 10th 2011
+V-977	V	977	October 7th 2011
+V-978	V	978	October 6th 2011
+V-979	V	979	October 5th 2011
+V-980	V	980	October 4th 2011
+V-981	V	981	October 3rd 2011
+V-982	V	982	September 30th 2011
+V-983	V	983	September 29th 2011
+V-984	V	984	September 28th 2011
+V-985	V	985	September 27th 2011
+V-986	V	986	September 26th 2011
+V-987	V	987	September 23rd 2011
+V-988	V	988	September 22nd 2011
+V-989	V	989	September 21st 2011
+V-990	V	990	September 20th 2011
+V-991	V	991	September 19th 2011
+V-992	V	992	September 16th 2011
+V-993	V	993	September 15th 2011
+V-994	V	994	September 14th 2011
+V-995	V	995	September 13th 2011
+V-996	V	996	September 12th 2011
+V-997	V	997	September 9th 2011
+V-998	V	998	September 8th 2011
+V-999	V	999	September 7th 2011
+V-1000	V	1000	September 6th 2011
+V-1001	V	1001	September 5th 2011
+V-1002	V	1002	September 4th 2011
+V-1003	V	1003	September 3rd 2011
+V-1004	V	1004	September 2nd 2011
+V-1005	V	1005	September 1st 2011
+V-1006	V	1006	August 31st 2011
+V-1007	V	1007	August 30th 2011
+V-1008	V	1008	August 29th 2011
+V-1009	V	1009	August 28th 2011
+V-1010	V	1010	August 27th 2011
+V-1011	V	1011	August 26th 2011
+V-1012	V	1012	August 25th 2011
+V-1013	V	1013	August 24th 2011
+V-1014	V	1014	August 23rd 2011
+V-1015	V	1015	August 22nd 2011
+V-1016	V	1016	December 30th 2010
+V-1017	V	1017	December 29th 2010
+V-1018	V	1018	December 28th 2010
+V-1019	V	1019	December 27th 2010
+V-1020	V	1020	December 24th 2010
+V-1021	V	1021	December 23rd 2010
+V-1022	V	1022	December 22nd 2010
+V-1023	V	1023	December 21st 2010
+V-1024	V	1024	December 20th 2010
+V-1025	V	1025	December 17th 2010
+V-1026	V	1026	December 16th 2010
+V-1027	V	1027	December 15th 2010
+V-1028	V	1028	December 14th 2010
+V-1029	V	1029	December 13th 2010
+V-1030	V	1030	December 10th 2010
+V-1031	V	1031	December 9th 2010
+V-1032	V	1032	December 8th 2010
+V-1033	V	1033	December 7th 2010
+V-1034	V	1034	December 6th 2010
+V-1035	V	1035	December 3rd 2010
+V-1036	V	1036	December 2nd 2010
+V-1037	V	1037	December 1st 2010
+V-1038	V	1038	November 30th 2010
+V-1039	V	1039	November 29th 2010
+V-1040	V	1040	November 26th 2010
+V-1041	V	1041	November 25th 2010
+V-1042	V	1042	November 24th 2010
+V-1043	V	1043	November 23rd 2010
+V-1044	V	1044	November 22nd 2010
+V-1045	V	1045	November 19th 2010
+V-1046	V	1046	November 18th 2010
+V-1047	V	1047	November 17th 2010
+V-1048	V	1048	November 16th 2010
+V-1049	V	1049	November 15th 2010
+V-1050	V	1050	November 12th 2010
+V-1051	V	1051	November 11th 2010
+V-1052	V	1052	November 10th 2010
+V-1053	V	1053	November 9th 2010
+V-1054	V	1054	November 8th 2010
+V-1055	V	1055	November 5th 2010
+V-1056	V	1056	November 4th 2010
+V-1057	V	1057	November 3rd 2010
+V-1058	V	1058	November 2nd 2010
+V-1059	V	1059	November 1st 2010
+V-1060	V	1060	October 29th 2010
+V-1061	V	1061	October 28th 2010
+V-1062	V	1062	October 27th 2010
+V-1063	V	1063	October 26th 2010
+V-1064	V	1064	October 25th 2010
+V-1065	V	1065	October 22nd 2010
+V-1066	V	1066	October 21st 2010
+V-1067	V	1067	October 20th 2010
+V-1068	V	1068	October 19th 2010
+V-1069	V	1069	October 18th 2010
+V-1070	V	1070	October 15th 2010
+V-1071	V	1071	October 14th 2010
+V-1072	V	1072	October 13th 2010
+V-1073	V	1073	October 12th 2010
+V-1074	V	1074	October 11th 2010
+V-1075	V	1075	October 8th 2010
+V-1076	V	1076	October 7th 2010
+V-1077	V	1077	October 6th 2010
+V-1078	V	1078	October 5th 2010
+V-1079	V	1079	October 4th 2010
+V-1080	V	1080	October 1st 2010
+V-1081	V	1081	September 30th 2010
+V-1082	V	1082	September 29th 2010
+V-1083	V	1083	September 28th 2010
+V-1084	V	1084	September 27th 2010
+V-1085	V	1085	September 24th 2010
+V-1086	V	1086	September 23rd 2010
+V-1087	V	1087	September 22nd 2010
+V-1088	V	1088	September 21st 2010
+V-1089	V	1089	September 20th 2010
+V-1090	V	1090	September 17th 2010
+V-1091	V	1091	September 16th 2010
+V-1092	V	1092	September 15th 2010
+V-1093	V	1093	September 14th 2010
+V-1094	V	1094	September 13th 2010
+V-1095	V	1095	September 10th 2010
+V-1096	V	1096	September 9th 2010
+V-1097	V	1097	September 8th 2010
+V-1098	V	1098	September 7th 2010
+V-1099	V	1099	September 6th 2010
+V-1100	V	1100	September 3rd 2010
+V-1101	V	1101	September 2nd 2010
+V-1102	V	1102	September 1st 2010
+V-1103	V	1103	August 31st 2010
+V-1104	V	1104	August 30th 2010
+V-1105	V	1105	August 27th 2010
+V-1106	V	1106	August 26th 2010
+V-1107	V	1107	August 25th 2010
+V-1108	V	1108	August 24th 2010
+V-1109	V	1109	August 23rd 2010
+V-1110	V	1110	August 20th 2010
+V-1111	V	1111	August 19th 2010
+V-1112	V	1112	August 18th 2010
+V-1113	V	1113	August 17th 2010
+V-1114	V	1114	August 16th 2010
+V-1115	V	1115	January 21st 2010
+V-1116	V	1116	January 20th 2010
+V-1117	V	1117	January 19th 2010
+V-1118	V	1118	January 18th 2010
+V-1119	V	1119	January 15th 2010
+V-1120	V	1120	January 14th 2010
+V-1121	V	1121	January 13th 2010
+V-1122	V	1122	January 12th 2010
+V-1123	V	1123	January 11th 2010
+V-1124	V	1124	January 8th 2010
+V-1125	V	1125	January 7th 2010
+V-1126	V	1126	January 6th 2010
+V-1127	V	1127	January 5th 2010
+V-1128	V	1128	January 4th 2010
+V-1129	V	1129	January 1st 2010
+V-1130	V	1130	December 31st 2009
+V-1131	V	1131	December 30th 2009
+V-1132	V	1132	December 29th 2009
+V-1133	V	1133	December 28th 2009
+V-1134	V	1134	December 25th 2009
+V-1135	V	1135	December 24th 2009
+V-1136	V	1136	December 23rd 2009
+V-1137	V	1137	December 22nd 2009
+V-1138	V	1138	December 21st 2009
+V-1139	V	1139	December 18th 2009
+V-1140	V	1140	December 17th 2009
+V-1141	V	1141	December 16th 2009
+V-1142	V	1142	December 15th 2009
+V-1143	V	1143	December 14th 2009
+V-1144	V	1144	December 11th 2009
+V-1145	V	1145	December 10th 2009
+V-1146	V	1146	December 9th 2009
+V-1147	V	1147	December 8th 2009
+V-1148	V	1148	December 7th 2009
+V-1149	V	1149	December 4th 2009
+V-1150	V	1150	December 3rd 2009
+V-1151	V	1151	December 2nd 2009
+V-1152	V	1152	December 1st 2009
+V-1153	V	1153	November 30th 2009
+V-1154	V	1154	November 27th 2009
+V-1155	V	1155	November 26th 2009
+V-1156	V	1156	November 25th 2009
+V-1157	V	1157	November 24th 2009
+V-1158	V	1158	November 23rd 2009
+V-1159	V	1159	November 20th 2009
+V-1160	V	1160	November 19th 2009
+V-1161	V	1161	November 18th 2009
+V-1162	V	1162	November 17th 2009
+V-1163	V	1163	November 16th 2009
+V-1164	V	1164	November 13th 2009
+V-1165	V	1165	November 12th 2009
+V-1166	V	1166	November 11th 2009
+V-1167	V	1167	November 10th 2009
+V-1168	V	1168	November 9th 2009
+V-1169	V	1169	November 6th 2009
+V-1170	V	1170	November 5th 2009
+V-1171	V	1171	November 4th 2009
+V-1172	V	1172	November 3rd 2009
+V-1173	V	1173	November 2nd 2009
+V-1174	V	1174	October 30th 2009
+V-1175	V	1175	October 29th 2009
+V-1176	V	1176	October 28th 2009
+V-1177	V	1177	October 27th 2009
+V-1178	V	1178	October 26th 2009
+V-1179	V	1179	October 23rd 2009
+V-1180	V	1180	October 22nd 2009
+V-1181	V	1181	October 21st 2009
+V-1182	V	1182	October 20th 2009
+V-1183	V	1183	October 19th 2009
+V-1184	V	1184	October 16th 2009
+V-1185	V	1185	October 15th 2009
+V-1186	V	1186	October 14th 2009
+V-1187	V	1187	October 13th 2009
+V-1188	V	1188	October 12th 2009
+V-1189	V	1189	October 9th 2009
+V-1190	V	1190	October 8th 2009
+V-1191	V	1191	October 7th 2009
+V-1192	V	1192	October 6th 2009
+V-1193	V	1193	October 5th 2009
+V-1194	V	1194	October 2nd 2009
+V-1195	V	1195	October 1st 2009
+V-1196	V	1196	September 30th 2009
+V-1197	V	1197	September 29th 2009
+V-1198	V	1198	September 28th 2009
+V-1199	V	1199	September 25th 2009
+V-1200	V	1200	September 24th 2009
+V-1201	V	1201	September 23rd 2009
+V-1202	V	1202	September 22nd 2009
+V-1203	V	1203	September 21st 2009
+V-1204	V	1204	September 18th 2009
+V-1205	V	1205	September 17th 2009
+V-1206	V	1206	September 16th 2009
+V-1207	V	1207	September 15th 2009
+V-1208	V	1208	September 14th 2009
+V-1209	V	1209	September 11th 2009
+V-1210	V	1210	September 10th 2009
+V-1211	V	1211	September 9th 2009
+V-1212	V	1212	September 8th 2009
+V-1213	V	1213	September 7th 2009
+V-1214	V	1214	September 4th 2009
+V-1215	V	1215	September 3rd 2009
+V-1216	V	1216	September 2nd 2009
+V-1217	V	1217	September 1st 2009
+V-1218	V	1218	August 31st 2009
+V-1219	V	1219	August 28th 2009
+V-1220	V	1220	August 27th 2009
+V-1221	V	1221	August 26th 2009
+V-1222	V	1222	August 25th 2009
+V-1223	V	1223	August 24th 2009
+V-1224	V	1224	August 21st 2009
+V-1225	V	1225	August 20th 2009
+V-1226	V	1226	August 19th 2009
+V-1227	V	1227	August 18th 2009
+V-1228	V	1228	August 17th 2009
+V-1229	V	1229	August 16th 2009
+V-1230	V	1230	August 15th 2009
+V-1231	V	1231	October 15th 2008
+V-1232	V	1232	October 14th 2008
+V-1233	V	1233	October 13th 2008
+V-1234	V	1234	October 10th 2008
+V-1235	V	1235	October 9th 2008
+V-1236	V	1236	October 8th 2008
+V-1237	V	1237	October 7th 2008
+V-1238	V	1238	October 6th 2008
+V-1239	V	1239	October 3rd 2008
+V-1240	V	1240	October 2nd 2008
+V-1241	V	1241	October 1st 2008
+V-1242	V	1242	September 30th 2008
+V-1243	V	1243	September 29th 2008
+V-1244	V	1244	September 26th 2008
+V-1245	V	1245	September 25th 2008
+V-1246	V	1246	September 24th 2008
+V-1247	V	1247	September 23rd 2008
+V-1248	V	1248	September 22nd 2008
+V-1249	V	1249	September 19th 2008
+V-1250	V	1250	September 18th 2008
+V-1251	V	1251	September 17th 2008
+V-1252	V	1252	September 16th 2008
+V-1253	V	1253	September 15th 2008
+V-1254	V	1254	September 12th 2008
+V-1255	V	1255	September 11th 2008
+V-1256	V	1256	September 10th 2008
+V-1257	V	1257	September 9th 2008
+V-1258	V	1258	September 8th 2008
+V-1259	V	1259	September 5th 2008
+V-1260	V	1260	September 4th 2008
+V-1261	V	1261	September 3rd 2008
+V-1262	V	1262	September 2nd 2008
+V-1263	V	1263	September 1st 2008
+V-1264	V	1264	August 29th 2008
+V-1265	V	1265	August 28th 2008
+V-1266	V	1266	August 27th 2008
+V-1267	V	1267	August 26th 2008
+V-1268	V	1268	August 25th 2008
+V-1269	V	1269	August 22nd 2008
+V-1270	V	1270	August 21st 2008
+V-1271	V	1271	August 20th 2008
+V-1272	V	1272	August 19th 2008
+V-1273	V	1273	August 18th 2008
+V-1274	V	1274	September 27th 2007
+V-1275	V	1275	September 26th 2007
+V-1276	V	1276	September 25th 2007
+V-1277	V	1277	September 24th 2007
+V-1278	V	1278	September 21st 2007
+V-1279	V	1279	September 20th 2007
+V-1280	V	1280	September 19th 2007
+V-1281	V	1281	September 18th 2007
+V-1282	V	1282	September 17th 2007
+V-1283	V	1283	September 14th 2007
+V-1284	V	1284	September 13th 2007
+V-1285	V	1285	September 12th 2007
+V-1286	V	1286	September 11th 2007
+V-1287	V	1287	September 10th 2007
+V-1288	V	1288	September 7th 2007
+V-1289	V	1289	September 6th 2007
+V-1290	V	1290	September 5th 2007
+V-1291	V	1291	September 4th 2007
+V-1292	V	1292	September 3rd 2007
+V-1293	V	1293	August 31st 2007
+V-1294	V	1294	August 30th 2007
+V-1295	V	1295	August 29th 2007
+V-1296	V	1296	August 28th 2007
+V-1297	V	1297	August 27th 2007
+V-1298	V	1298	August 24th 2007
+V-1299	V	1299	August 23rd 2007
+V-1300	V	1300	August 22nd 2007
+V-1301	V	1301	August 21st 2007
+V-1302	V	1302	August 20th 2007

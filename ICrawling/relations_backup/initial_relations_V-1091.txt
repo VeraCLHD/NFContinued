@@ -1,0 +1,6 @@
+
+V-1091	supplements	supplements	cold	cold	help with a	
+V-1091	supplements	supplements	zinc	zinc	help with a cold—but what about squirting	
+V-1091	cold	cold	zinc	zinc	—but what about squirting	
+V-1091	zinc	zinc	cold	cold	supplements help with a	
+V-1091	zinc	zinc	supplements	supplements		

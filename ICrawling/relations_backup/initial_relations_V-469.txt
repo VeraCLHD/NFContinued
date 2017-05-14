@@ -1,0 +1,69 @@
+
+V-469	meat	meat	phytates	phytates	industry adds	
+V-469	phytates	phytates	oxidation	oxidation	to meat—to prevent the	
+V-469	breast cancer	breast cancer	cancer	cancer	cells, voicebox	
+V-469	prostate	prostate	tumors	tumors	cancer, liver	
+V-469	colon cancer	colon cancer	estrogen	estrogen	cells, both	
+V-469	kidney	kidney	heart disease	heart disease	stone formation, protect against diabetes, dental cavities, [	
+V-469	kidney	kidney	disease	disease	stone formation, protect against diabetes, dental cavities, [heart	
+V-469	leukemia	leukemia	cancer	cancer	cells, colon	
+V-469	colon	colon	cancer cells	cancer cells		
+V-469	kidney	kidney	diabetes	diabetes	stone formation, protect against	
+V-469	colon cancer	colon cancer	cancer	cancer	cells, both estrogen receptor-positive and negative breast	
+V-469	prostate	prostate	cancer	cancer		
+V-469	phytates	phytates	cancer	cancer	battle	
+V-469	cancer	cancer	cancer	cancer	cells, both estrogen receptor-positive and negative breast	
+V-469	cancer	cancer	colon	colon	cells, but seem to leave normal	
+V-469	colon	colon	cancer	cancer		
+V-469	colon	colon	breast cancer	breast cancer	cancer cells, both estrogen receptor-positive and negative	
+V-469	phytates	phytates	blood	blood	block the formation of new	
+V-469	breast cancer	breast cancer	tumors	tumors	cells, voicebox cancer, cervical cancer, prostate cancer, liver	
+V-469	colon cancer	colon cancer	colon	colon	cells, but seem to leave normal	
+V-469	cancer	cancer	vegetarian	vegetarian	in populations consuming	
+V-469	plant-based	plant-based	phytates	phytates	benefits.but of all the things	
+V-469	cancer	cancer	anti-inflammatory	anti-inflammatory	through multiple pathways, a combination of antioxidant,	
+V-469	phytates	phytates	tumors	tumors	may not only help blockade	
+V-469	liver	liver	tumors	tumors		
+V-469	breast cancer	breast cancer	cervical cancer	cervical cancer	cells, voicebox cancer,	
+V-469	dental	dental	disease	disease	cavities, [heart	
+V-469	colon cancer	colon cancer	breast cancer	breast cancer	cells, both estrogen receptor-positive and negative	
+V-469	cancer	cancer	cancer cells	cancer cells	cells, both estrogen receptor-positive and negative breast	
+V-469	leukemia	leukemia	colon	colon	cells,	
+V-469	breast cancer	breast cancer	liver	liver	cells, voicebox cancer, cervical cancer, prostate cancer,	
+V-469	estrogen	estrogen	breast cancer	breast cancer	receptor-positive and negative	
+V-469	colon cancer	colon cancer	cancer cells	cancer cells	cells, both estrogen receptor-positive and negative breast	
+V-469	meat	meat	oxidation	oxidation	industry adds phytates to meat—to prevent the	
+V-469	leukemia	leukemia	cancer cells	cancer cells	cells, colon	
+V-469	blood	blood	tumors	tumors	vessels that may be feeding	
+V-469	dental	dental	heart disease	heart disease	cavities, [	
+V-469	kidney	kidney	dental	dental	stone formation, protect against diabetes,	
+V-469	meat industry	meat industry	meat	meat	adds phytates to	
+V-469	tumor	tumor	phytates	phytates	cells” directly,	
+V-469	cancer	cancer	breast cancer	breast cancer	cells, both estrogen receptor-positive and negative	
+V-469	phytates	phytates	phytic acid	phytic acid	can do, “[t]he anticancer activity of	
+V-469	leukemia	leukemia	colon cancer	colon cancer	cells,	
+V-469	phytates	phytates	meat	meat	to	
+V-469	oxidation	oxidation	fat	fat	of	
+V-469	colon	colon	estrogen	estrogen	cancer cells, both	
+V-469	breast cancer	breast cancer	prostate cancer	prostate cancer	cells, voicebox cancer, cervical cancer,	
+V-469	breast cancer	breast cancer	prostate	prostate	cells, voicebox cancer, cervical cancer,	
+V-469	disease	disease	variety	variety	] as well as against a	
+V-469	liver	liver	melanoma	melanoma	tumors, pancreatic,	
+V-469	dental	dental	cavities	cavities		
+V-469	phytates	phytates	fat	fat	to meat—to prevent the oxidation of	
+V-469	cancer	cancer	estrogen	estrogen	cells, both	
+V-469	phytates	phytates	cancer	cancer	appear to do.leukemia cells taken from	
+V-469	estrogen	estrogen	cancer	cancer	receptor-positive and negative breast	
+V-469	estrogen	estrogen	cervical cancer	cervical cancer	receptor-positive and negative breast cancer cells, voicebox cancer,	
+V-469	prostate	prostate	melanoma	melanoma	cancer, liver tumors, pancreatic,	
+V-469	meat industry	meat industry	phytates	phytates	adds	
+V-469	cancer	cancer	phytates	phytates	patients are killed by	
+V-469	meat industry	meat industry	oxidation	oxidation	adds phytates to meat—to prevent the	
+V-469	heart disease	heart disease	variety	variety	] as well as against a	
+V-469	leukemia	leukemia	estrogen	estrogen	cells, colon cancer cells, both	
+V-469	prostate	prostate	liver	liver	cancer,	
+V-469	estrogen	estrogen	cancer cells	cancer cells	receptor-positive and negative breast	
+V-469	dental	dental	variety	variety	cavities, [heart disease] as well as against a	
+V-469	kidney	kidney	cavities	cavities	stone formation, protect against diabetes, dental	
+V-469	meat industry	meat industry	fat	fat	adds phytates to meat—to prevent the oxidation of	
+V-469	cancer	cancer	antioxidant	antioxidant	through multiple pathways, a combination of	

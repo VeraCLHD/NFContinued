@@ -1,0 +1,31 @@
+
+T-1393	dairy	dairy	risk	risk	product intake and	
+T-1393	risk	risk	disease	disease	against neurodegenerative disorders like parkinson’s, lou gehrig’s	
+T-1393	plant-based	plant-based	symptoms	symptoms	diet, may help in the treatment of parkinson’s	
+T-1393	beans	beans	risk	risk	may also help lower	
+T-1393	risk	risk	disease	disease	for parkinson’s	
+T-1393	seafood	seafood	algae	algae	and blue-green	
+T-1393	chemicals	chemicals	pesticides	pesticides	in cheese and banned	
+T-1393	plant-based	plant-based	treatment	treatment	diet, may help in the	
+T-1393	plant-based	plant-based	diet	diet		
+T-1393	risk	risk	schizophrenia	schizophrenia	for parkinson’s,	
+T-1393	neurotoxic chemicals	neurotoxic chemicals	cheese	cheese	in	
+T-1393	neurotoxic chemicals	neurotoxic chemicals	pesticides	pesticides	in cheese and banned	
+T-1393	risk	risk	als	als	for parkinson’s disease,	
+T-1393	neurotoxic chemicals	neurotoxic chemicals	dairy	dairy	in cheese and banned pesticides in contaminated	
+T-1393	chemicals	chemicals	cheese	cheese	in	
+T-1393	cheese	cheese	dairy	dairy	and banned pesticides in contaminated	
+T-1393	pesticides	pesticides	neurotoxins	neurotoxins	in contaminated dairy products.beta-carboline	
+T-1393	treatment	treatment	symptoms	symptoms	of parkinson’s	
+T-1393	pesticides	pesticides	dairy	dairy	in contaminated	
+T-1393	risk	risk	coffee	coffee	for parkinson’s disease, als, and alzheimer’s disease.filtered	
+T-1393	seafood	seafood	risk	risk	and blue-green algae, may be linked to	
+T-1393	risk	risk	bipolar disorder	bipolar disorder	for parkinson’s, schizophrenia, and	
+T-1393	chemicals	chemicals	dairy	dairy	in cheese and banned pesticides in contaminated	
+T-1393	iron	iron	meats	meats	intake and nitrites, found in cured	
+T-1393	dairy	dairy	disease	disease	product intake and risk for parkinson’s	
+T-1393	cheese	cheese	neurotoxins	neurotoxins	and banned pesticides in contaminated dairy products.beta-carboline	
+T-1393	iron	iron	cured meats	cured meats	intake and nitrites, found in	
+T-1393	cheese	cheese	pesticides	pesticides	and banned	
+T-1393	iron	iron	nitrites	nitrites	intake and	
+T-1393	seafood	seafood	blue-green algae	blue-green algae	and	

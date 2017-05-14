@@ -1,0 +1,8 @@
+
+V-1024	raisins	raisins	oatmeal	oatmeal	—	
+V-1024	raisins	raisins	trail mix	trail mix	—oatmeal,	
+V-1024	goji	goji	berries	berries		
+V-1024	raisins	raisins	goji	goji	—oatmeal, trail mix, whatever—now start doing with	
+V-1024	raisins	raisins	berries	berries	—oatmeal, trail mix, whatever—now start doing with goji	
+V-1024	raisins	raisins	goji berries	goji berries	—oatmeal, trail mix, whatever—now start doing with	
+V-1024	asian	asian	berries	berries	market and buy them as lycium 	

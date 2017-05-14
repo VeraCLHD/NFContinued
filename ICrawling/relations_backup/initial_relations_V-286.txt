@@ -1,0 +1,9 @@
+
+V-286	infection	infection	health	health	route for the polio virus; in fact, public	
+V-286	elderly	elderly	peanut butter	peanut butter	controls, they smelled the	
+V-286	infection	infection	virus	virus	route for the polio	
+V-286	infection	infection	public health	public health	route for the polio virus; in fact,	
+V-286	elderly	elderly	butter	butter	controls, they smelled the peanut	
+V-286	peanut	peanut	butter	butter		
+V-286	elderly	elderly	peanut	peanut	controls, they smelled the	
+V-286	early detection	early detection	disease	disease	of alzheimer’s	

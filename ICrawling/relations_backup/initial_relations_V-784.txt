@@ -1,0 +1,30 @@
+
+V-784	plant foods	plant foods	inflammation	inflammation	don’t trigger	
+V-784	bacteria	bacteria	inflammation	inflammation	to slip into our bloodstream and cause the	
+V-784	fat	fat	sausage	sausage	—	
+V-784	animal fat	animal fat	chicken	chicken	: butterfat, or lard, tallow,	
+V-784	saturated animal fat	saturated animal fat	fat	fat	: butterfat, or lard, tallow, chicken	
+V-784	anti-inflammatory	anti-inflammatory	plant-based	plant-based	effect of	
+V-784	fat	fat	egg	egg	— sausage and	
+V-784	animal fat	animal fat	sausage	sausage	—	
+V-784	inflammation	inflammation	inflammatory diseases	inflammatory diseases	danger zone, which may set us up for	
+V-784	saturated animal fat	saturated animal fat	chicken fat	chicken fat	: butterfat, or lard, tallow,	
+V-784	chicken	chicken	fat	fat		
+V-784	arteries	arteries	blood	blood	and	
+V-784	animal fat	animal fat	chicken fat	chicken fat	: butterfat, or lard, tallow,	
+V-784	animal fat	animal fat	fat	fat	: butterfat, or lard, tallow, chicken	
+V-784	protein	protein	whipped cream	whipped cream	in	
+V-784	animal fat	animal fat	egg	egg	— sausage and	
+V-784	sausage	sausage	egg	egg	and	
+V-784	gut	gut	bacteria	bacteria	lining to become leaky, and allow our own	
+V-784	endotoxin	endotoxin	immune system	immune system	flooding into our system after a meal, our	
+V-784	animal fat	animal fat	lard	lard	: butterfat, or	
+V-784	anti-inflammatory	anti-inflammatory	plant-based diets	plant-based diets	effect of	
+V-784	fat	fat	gut	gut	causes our	
+V-784	saturated animal fat	saturated animal fat	chicken	chicken	: butterfat, or lard, tallow,	
+V-784	animal proteins	animal proteins	inflammation	inflammation	triggering	
+V-784	endotoxins	endotoxins	bacteria	bacteria	come from	
+V-784	protein	protein	cream	cream	in whipped	
+V-784	plant-based diets	plant-based diets	plants	plants	is more than just about the power of	
+V-784	arthritis	arthritis	animal proteins	animal proteins	—scientists thought it might be the	
+V-784	saturated animal fat	saturated animal fat	lard	lard	: butterfat, or	

@@ -1,0 +1,65 @@
+
+T-1346	omnivores	omnivores	blood sugar	blood sugar	found that vegans had better	
+T-1346	omnivores	omnivores	plant-based diets	plant-based diets	to those eating	
+T-1346	vegans	vegans	acid erosion	acid erosion	have been found to have more	
+T-1346	children	children	plant-based diet	plant-based diet	eating a	
+T-1346	diet	diet	lead	lead	had lower toxic metal levels of cadmium,	
+T-1346	blood sugar	blood sugar	insulin	insulin	and	
+T-1346	urine	urine	uric acid	uric acid	than omnivores, which helps remove	
+T-1346	plant-based	plant-based	diet	diet		
+T-1346	risk	risk	obesity	obesity	of abdominal fat, higher bmi, 	
+T-1346	toxins	toxins	pesticides	pesticides	and	
+T-1346	diet	diet	abdominal fat	abdominal fat	also appears to increase the risk of 	
+T-1346	mood	mood	omnivores	omnivores	scores by vegetarians compared to	
+T-1346	diet	diet	fat	fat	also appears to increase the risk of abdominal	
+T-1346	diet	diet	cadmium	cadmium	had lower toxic metal levels of	
+T-1346	blood	blood	insulin	insulin	sugar and	
+T-1346	risk	risk	fat	fat	of abdominal	
+T-1346	plant-based	plant-based	omnivores	omnivores	diet may be deficient in three nutrients, whereas	
+T-1346	risk	risk	abdominal fat	abdominal fat	of 	
+T-1346	vegetarian	vegetarian	diet	diet		
+T-1346	vegetarians	vegetarians	omnivores	omnivores	compared to	
+T-1346	heart disease	heart disease	vegetarians	vegetarians	than vegans and	
+T-1346	diet	diet	omnivores	omnivores	may be deficient in three nutrients, whereas	
+T-1346	disease	disease	vegans	vegans	than	
+T-1346	omnivores	omnivores	plant-based	plant-based	to those eating	
+T-1346	urine	urine	omnivores	omnivores	than	
+T-1346	omnivores	omnivores	sugar	sugar	found that vegans had better blood	
+T-1346	omnivores	omnivores	heart disease	heart disease	may have higher rates of cancer, diabetes, and	
+T-1346	vegans	vegans	blood	blood	and omnivores found that vegans had better	
+T-1346	omnivores	omnivores	toxins	toxins	apparently have a higher level of carcinogenic industrial	
+T-1346	plant-based diets	plant-based diets	omnivores	omnivores	appear to have significantly more alkaline urine than	
+T-1346	heart disease	heart disease	vegans	vegans	than	
+T-1346	risk	risk	bmi	bmi	of abdominal fat, higher	
+T-1346	plant-based diets	plant-based diets	urine	urine	appear to have significantly more alkaline	
+T-1346	omnivores	omnivores	diabetes	diabetes	may have higher rates of cancer,	
+T-1346	acid erosion	acid erosion	omnivores	omnivores	in their teeth compared to	
+T-1346	vegetarian	vegetarian	lead	lead	diet had lower toxic metal levels of cadmium,	
+T-1346	children	children	diet	diet	eating a plant-based	
+T-1346	acid erosion	acid erosion	teeth	teeth	in their	
+T-1346	children	children	plant-based	plant-based	eating a	
+T-1346	vegans	vegans	omnivores	omnivores	and	
+T-1346	omnivores	omnivores	cancer	cancer	may have higher rates of	
+T-1346	omnivores	omnivores	industrial toxins	industrial toxins	apparently have a higher level of carcinogenic	
+T-1346	animal foods	animal foods	arachidonic acid	arachidonic acid	likely means a higher ingestion of 	
+T-1346	omnivores	omnivores	vegans	vegans	found that	
+T-1346	omnivores	omnivores	animal foods	animal foods	eat both plant and	
+T-1346	diet	diet	risk	risk	also appears to increase the	
+T-1346	teeth	teeth	omnivores	omnivores	compared to	
+T-1346	industrial toxins	industrial toxins	vegans	vegans	and pesticides in their bodies than	
+T-1346	vegans	vegans	vegetarians	vegetarians	and	
+T-1346	plant-based	plant-based	urine	urine	diets appear to have significantly more alkaline	
+T-1346	vegetarian	vegetarian	cadmium	cadmium	diet had lower toxic metal levels of	
+T-1346	industrial toxins	industrial toxins	pesticides	pesticides	and	
+T-1346	sugar	sugar	insulin	insulin	and	
+T-1346	vegans	vegans	blood sugar	blood sugar	and omnivores found that vegans had better	
+T-1346	omnivores	omnivores	blood	blood	found that vegans had better	
+T-1346	omnivores	omnivores	insulin	insulin	found that vegans had better blood sugar and	
+T-1346	vegans	vegans	sugar	sugar	and omnivores found that vegans had better blood	
+T-1346	pesticides	pesticides	vegans	vegans	in their bodies than	
+T-1346	mood	mood	vegetarians	vegetarians	scores by	
+T-1346	toxins	toxins	vegans	vegans	and pesticides in their bodies than	
+T-1346	diet	diet	animal foods	animal foods	with	
+T-1346	plant-based diet	plant-based diet	omnivores	omnivores	may be deficient in three nutrients, whereas	
+T-1346	disease	disease	vegetarians	vegetarians	than vegans and	
+T-1346	blood	blood	sugar	sugar		

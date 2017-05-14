@@ -1,0 +1,17 @@
+
+A-471	doctors	doctors	nutrition	nutrition	get failing grades in tests of basic	
+A-471	medical school	medical school	nutrition	nutrition		
+A-471	medical school	medical school	nutrition education	nutrition education		
+A-471	physicians	physicians	nutrition	nutrition	…were not delivering	
+A-471	nutrition	nutrition	heart disease	heart disease	knowledge about diet and	
+A-471	diet	diet	disease	disease	and heart	
+A-471	diet	diet	heart disease	heart disease	and	
+A-471	physicians	physicians	nutrition	nutrition	that measured how much	
+A-471	nutrition	nutrition	medical education	medical education	knowledge in	
+A-471	physicians	physicians	nutrition	nutrition	and	
+A-471	united states	united states	nutrition	nutrition	fail to provide even a bare minimum of	
+A-471	doctors	doctors	nutrition	nutrition	know less than they think about	
+A-471	nutrition	nutrition	disease	disease	knowledge about diet and heart	
+A-471	nutrition	nutrition	physicians	physicians	in clinical practice, “virtually every published study about	
+A-471	nutrition	nutrition	physicians	physicians	counseling showed that primary care	
+A-471	nutrition	nutrition	diet	diet	knowledge about	

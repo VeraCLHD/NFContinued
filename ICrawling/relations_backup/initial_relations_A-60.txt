@@ -1,0 +1,39 @@
+
+A-60	blood	blood	cholesterol	cholesterol		
+A-60	kids	kids	atherosclerosis	atherosclerosis	have the beginnings of	
+A-60	atherosclerosis	atherosclerosis	arteries	arteries	can obstruct the	
+A-60	atherosclerosis	atherosclerosis	heart disease	heart disease	by age ten (	
+A-60	pain	pain	health	health	became one of the biggest problems for public	
+A-60	sciatica	sciatica	pain	pain	is back	
+A-60	back pain	back pain	children	children	is now common in	
+A-60	arteries	arteries	back pain	back pain	in people with	
+A-60	lower back pain	lower back pain	cholesterol	cholesterol	had constricted blood flow, and those with high	
+A-60	pain	pain	public health	public health	became one of the biggest problems for	
+A-60	pain	pain	blood	blood	had constricted	
+A-60	back pain	back pain	blood	blood	had constricted	
+A-60	sciatica	sciatica	cholesterol	cholesterol	may be associated with blood	
+A-60	arteries	arteries	cholesterol	cholesterol	by	
+A-60	pain	pain	cholesterol	cholesterol	had constricted blood flow, and those with high	
+A-60	cholesterol	cholesterol	aorta	aorta	plaques in the wall of the	
+A-60	sciatica	sciatica	cholesterol	cholesterol	and	
+A-60	back pain	back pain	pain	pain	that radiates down the legs, causing additional	
+A-60	back pain	back pain	cholesterol	cholesterol	had constricted blood flow, and those with high	
+A-60	aorta	aorta	arteries	arteries	obliterate the openings of spinal	
+A-60	blood	blood	cholesterol	cholesterol	flow, and those with high	
+A-60	low back pain	low back pain	children	children	is now common in	
+A-60	arteries	arteries	blood	blood	that feed the spine, and this diminished	
+A-60	arteries	arteries	pain	pain	in people with back	
+A-60	back pain	back pain	health	health	became one of the biggest problems for public	
+A-60	atherosclerosis	atherosclerosis	disease	disease	by age ten (heart	
+A-60	back pain	back pain	public health	public health	became one of the biggest problems for	
+A-60	cholesterol	cholesterol	symptoms	symptoms	appeared to suffer with more severe	
+A-60	sciatica	sciatica	back pain	back pain	is	
+A-60	arteries	arteries	plaque	plaque	most vulnerable to atherosclerotic	
+A-60	pain	pain	children	children	is now common in	
+A-60	low back pain	low back pain	health	health	became one of the biggest problems for public	
+A-60	lower back pain	lower back pain	blood	blood	had constricted	
+A-60	children	children	diabetes	diabetes	are now getting disorders like adult-onset	
+A-60	roots	roots	sciatica	sciatica	that come off the spine, causing	
+A-60	blood	blood	roots	roots	flow may also damage the nerve	
+A-60	sciatica	sciatica	blood	blood	may be associated with	
+A-60	low back pain	low back pain	public health	public health	became one of the biggest problems for	

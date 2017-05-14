@@ -1,0 +1,9 @@
+
+T-1	acne	acne	prostate	prostate	and promote breast and	
+T-1	dairy	dairy	testosterone	testosterone	products that is a direct precursor to a	
+T-1	testosterone	testosterone	acne	acne	metabolite that may cause	
+T-1	prostate	prostate	cancer	cancer		
+T-1	milk	milk	dairy	dairy	and	
+T-1	acne	acne	cancer	cancer	and promote breast and prostate	
+T-1	acne	acne	prostate cancer	prostate cancer	and promote breast and	
+T-1	5-alpha pregnanedione	5-alpha pregnanedione	milk	milk	is a sex steroid hormone present in cow’s	

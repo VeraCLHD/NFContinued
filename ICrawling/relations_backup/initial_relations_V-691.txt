@@ -1,0 +1,17 @@
+
+V-691	cancer	cancer	cancer	cancer	institute and american	
+V-691	national cancer institute	national cancer institute	american cancer society	american cancer society	and	
+V-691	treatment	treatment	cancer	cancer	of	
+V-691	organic	organic	raw	raw	diet, composed mostly of	
+V-691	national cancer institute	national cancer institute	cancer	cancer	and american	
+V-691	medicine	medicine	chemotherapy	chemotherapy	can offer is	
+V-691	treatment	treatment	organic	organic	with enzyme supplements, detox, and an	
+V-691	gerson therapy	gerson therapy	cancer	cancer	as useless or worse for the treatment of	
+V-691	chemotherapy	chemotherapy	pancreatic cancer	pancreatic cancer	agent gemcitabine, for	
+V-691	chemotherapy	chemotherapy	cancer	cancer	agent gemcitabine, for pancreatic	
+V-691	treatment	treatment	detox	detox	with enzyme supplements,	
+V-691	treatment	treatment	supplements	supplements	with enzyme	
+V-691	organic	organic	diet	diet		
+V-691	cancer	cancer	american cancer society	american cancer society	institute and	
+V-691	gerson therapy	gerson therapy	treatment	treatment	as useless or worse for the	
+V-691	treatment	treatment	diet	diet	with enzyme supplements, detox, and an organic	

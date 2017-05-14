@@ -1,0 +1,75 @@
+
+A-49	risk	risk	disease	disease	of crohn’s	
+A-49	maltodextrin	maltodextrin	bacteria	bacteria	markedly enhanced the ability of the	
+A-49	plant-based diet	plant-based diet	protein	protein	because diets rich in animal	
+A-49	fiber	fiber	fruit	fruit	and	
+A-49	sweeteners	sweeteners	dressings	dressings	like splenda, snack foods, salad	
+A-49	plant-based	plant-based	prevention	prevention	diet, which has afforded the best relapse	
+A-49	risk	risk	disease	disease	of developing inflammatory bowel	
+A-49	fats	fats	meat	meat	and	
+A-49	diet	diet	treatment	treatment	to reduce the risk of relapses: dietary	
+A-49	plant-based	plant-based	diet	diet		
+A-49	diet	diet	fat	fat	low in animal	
+A-49	diet	diet	animal fat	animal fat	because diets rich in animal protein and	
+A-49	disease	disease	fats	fats	found that a high intake of	
+A-49	diet	diet	disease	disease	may ultimately reduce the incidence of crohn’s	
+A-49	animal protein	animal protein	fat	fat	and animal	
+A-49	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of developing	
+A-49	women	women	fiber	fiber	who fell into the highest long-term	
+A-49	harvard	harvard	health	health	nurse’s	
+A-49	plant-based diet	plant-based diet	fat	fat	because diets rich in animal protein and animal	
+A-49	fiber	fiber	colon	colon	acts as a prebiotic in our	
+A-49	fats	fats	risk	risk	and meat was associated with an increased	
+A-49	inflammatory bowel disease	inflammatory bowel disease	fats	fats	found that a high intake of	
+A-49	fruit	fruit	risk	risk	intakes were associated with decreased	
+A-49	processed foods	processed foods	bacteria	bacteria	that facilitated the invasion of the	
+A-49	protein	protein	fat	fat	and animal	
+A-49	animal protein	animal protein	animal fat	animal fat	and	
+A-49	plant foods	plant foods	processed foods	processed foods	and more	
+A-49	diet	diet	fiber	fiber	low in animal fat, with lots of soluble	
+A-49	fiber	fiber	risk	risk	and fruit intakes were associated with decreased	
+A-49	plant-based	plant-based	risk	risk	diet to reduce the	
+A-49	risk	risk	treatment	treatment	of relapses: dietary	
+A-49	diet	diet	animal fat	animal fat	low in	
+A-49	treatment	treatment	disease	disease	of crohn’s	
+A-49	bacteria	bacteria	gut	gut	from tunneling into the	
+A-49	fiber	fiber	risk	risk	consumption group had a 40 percent reduced	
+A-49	meat	meat	risk	risk	was associated with an increased	
+A-49	fiber	fiber	plant foods	plant foods	containing	
+A-49	inflammatory bowel disease	inflammatory bowel disease	meat	meat	found that a high intake of fats and	
+A-49	plant-based diet	plant-based diet	animal fat	animal fat	because diets rich in animal protein and	
+A-49	diet	diet	protein	protein	because diets rich in animal	
+A-49	protein	protein	animal fat	animal fat	and	
+A-49	bacteria	bacteria	gut	gut	into our	
+A-49	disease	disease	meat	meat	found that a high intake of fats and	
+A-49	food additives	food additives	disease	disease	can be effective in preventing and treating crohn’s	
+A-49	fiber	fiber	bowel regularity	bowel regularity	was good for was helping with	
+A-49	gut	gut	inflammation	inflammation	wall, which our body then attacks, triggering the	
+A-49	fiber	fiber	supplements	supplements		
+A-49	artificial sweeteners	artificial sweeteners	dressings	dressings	like splenda, snack foods, salad	
+A-49	risk	risk	disease	disease	of developing crohn’s	
+A-49	plant-based diet	plant-based diet	treatment	treatment	to reduce the risk of relapses: dietary	
+A-49	plantains	plantains	broccoli	broccoli	and	
+A-49	plant-based diet	plant-based diet	animal protein	animal protein	because diets rich in	
+A-49	diet	diet	fat	fat	because diets rich in animal protein and animal	
+A-49	sweeteners	sweeteners	splenda	splenda	like	
+A-49	sweeteners	sweeteners	supplements	supplements	like splenda, snack foods, salad dressings, and fiber	
+A-49	diet	diet	risk	risk	to reduce the	
+A-49	plant-based	plant-based	animal fat	animal fat	diet because diets rich in animal protein and	
+A-49	artificial sweeteners	artificial sweeteners	fiber	fiber	like splenda, snack foods, salad dressings, and	
+A-49	plant-based	plant-based	animal protein	animal protein	diet because diets rich in	
+A-49	sweeteners	sweeteners	fiber	fiber	like splenda, snack foods, salad dressings, and	
+A-49	colon	colon	bacteria	bacteria	(large intestine), feeding our good	
+A-49	fiber	fiber	food additives	food additives	intake and avoiding these	
+A-49	plant-based	plant-based	treatment	treatment	diet to reduce the risk of relapses: dietary	
+A-49	risk	risk	disease	disease	of relapses: dietary treatment of crohn’s	
+A-49	polysorbate 80	polysorbate 80	ice cream	ice cream	was one of them, found predominantly in	
+A-49	carboxy-methyl cellulose	carboxy-methyl cellulose	xanthan gum	xanthan gum	and	
+A-49	diet	diet	animal protein	animal protein	because diets rich in	
+A-49	polysorbate 80	polysorbate 80	cream	cream	was one of them, found predominantly in ice	
+A-49	plant-based	plant-based	protein	protein	diet because diets rich in animal	
+A-49	disease	disease	diet	diet	with	
+A-49	plant-based diet	plant-based diet	risk	risk	to reduce the	
+A-49	artificial sweeteners	artificial sweeteners	supplements	supplements	like splenda, snack foods, salad dressings, and fiber	
+A-49	meat	meat	disease	disease	was associated with an increased risk of crohn’s	
+A-49	artificial sweeteners	artificial sweeteners	splenda	splenda	like	

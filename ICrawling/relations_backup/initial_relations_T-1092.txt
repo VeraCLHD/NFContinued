@@ -1,0 +1,19 @@
+
+T-1092	vegetables	vegetables	lettuce	lettuce	do not count a serving of iceberg	
+T-1092	vegetables	vegetables	iceberg lettuce	iceberg lettuce	do not count a serving of	
+T-1092	lettuce	lettuce	nitrates	nitrates	make the top-ten list of vegetables high in	
+T-1092	iceberg lettuce	iceberg lettuce	animal products	animal products	beats out most	
+T-1092	lettuce	lettuce	plant foods	plant foods	and other	
+T-1092	lettuce	lettuce	salt	salt	and other plant foods; a 10%	
+T-1092	vegetables	vegetables	plant-based	plant-based	among all	
+T-1092	fruits	fruits	iceberg lettuce	iceberg lettuce	and vegetables do not count a serving of	
+T-1092	lettuce	lettuce	iceberg lettuce	iceberg lettuce	is low in antioxidants, but even	
+T-1092	lettuce	lettuce	antioxidants	antioxidants	has more	
+T-1092	butter	butter	vegetables	vegetables	leaf lettuce make the top-ten list of	
+T-1092	lettuce	lettuce	antioxidants	antioxidants	is low in	
+T-1092	salt	salt	lettuce	lettuce	solution may work better.iceberg	
+T-1092	antioxidants	antioxidants	lettuce	lettuce	than green leaf	
+T-1092	fruits	fruits	vegetables	vegetables	and	
+T-1092	butter	butter	lettuce	lettuce	leaf	
+T-1092	vegetables	vegetables	nitrates	nitrates	high in	
+T-1092	lettuce	lettuce	vegetables	vegetables	make the top-ten list of	

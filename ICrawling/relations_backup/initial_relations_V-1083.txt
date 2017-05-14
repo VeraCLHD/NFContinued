@@ -1,0 +1,5 @@
+
+V-1083	disease	disease	cholesterol	cholesterol	is not saying much.having an average	
+V-1083	raw	raw	plaque	plaque	material for making artery-clogging	
+V-1083	heart disease	heart disease	cholesterol	cholesterol	is not saying much.having an average	
+V-1083	cholesterol	cholesterol	arteries	arteries	in our gallbladder, but cholesterol in our coronary	

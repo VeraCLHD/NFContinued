@@ -1,0 +1,19 @@
+
+V-1087	protein	protein	ulcers	ulcers	—within the cause of recurrent aphthous	
+V-1087	gluten	gluten	aphthous ulcers	aphthous ulcers	protein—within the cause of recurrent	
+V-1087	milk	milk	wheat	wheat	proteins and	
+V-1087	gluten	gluten	ulcers	ulcers	protein—within the cause of recurrent aphthous	
+V-1087	protein	protein	aphthous ulcers	aphthous ulcers	—within the cause of recurrent	
+V-1087	lichen planus	lichen planus	ulcers	ulcers	is not the same thing as apthous	
+V-1087	antibodies	antibodies	milk	milk	in their bloodstream.the thought is that the cow’s	
+V-1087	ulcers	ulcers	canker sores	canker sores	(also known as	
+V-1087	milk	milk	protein	protein	proteins and wheat proteins—gliadin is a gluten	
+V-1087	gluten	gluten	protein	protein		
+V-1087	protein	protein	antibodies	antibodies		
+V-1087	milk	milk	protein	protein		
+V-1087	disease	disease	dairy	dairy	—until they tried adding back	
+V-1087	wheat	wheat	protein	protein	proteins—gliadin is a gluten	
+V-1087	wheat	wheat	gluten	gluten	proteins—gliadin is a	
+V-1087	milk	milk	antibodies	antibodies	protein	
+V-1087	milk	milk	gluten	gluten	proteins and wheat proteins—gliadin is a	
+V-1087	ulcers	ulcers	disease	disease	disappeared, with no reappearance of clinical	

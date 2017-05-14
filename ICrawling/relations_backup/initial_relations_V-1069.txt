@@ -1,0 +1,55 @@
+
+V-1069	smoking	smoking	lung cancer	lung cancer	and	
+V-1069	pork	pork	antibiotics	antibiotics	producers council, on this dangerous practice of feeding	
+V-1069	turkey	turkey	sheep	sheep	federation, the national chicken council, the	
+V-1069	usda	usda	pesticides	pesticides	to test for	
+V-1069	superbugs	superbugs	antibiotics	antibiotics	is the mass feeding of	
+V-1069	health	health	american medical association	american medical association	organization, the	
+V-1069	beef	beef	copper	copper	because it contained excessive levels of	
+V-1069	superbugs	superbugs	farm animals	farm animals	is the mass feeding of antibiotics to	
+V-1069	environmental protection agency	environmental protection agency	pesticides	pesticides	routinely asks the usda to test for	
+V-1069	antibiotics	antibiotics	death	death	in] agriculture is potentially signing a	
+V-1069	pesticides	pesticides	united states	united states	approved for use in the	
+V-1069	contamination	contamination	pesticides	pesticides	of meat with residual drugs,	
+V-1069	drugs	drugs	meat	meat	and toxic metals in	
+V-1069	contamination	contamination	heavy metals	heavy metals	of meat with residual drugs, pesticides, and	
+V-1069	adulterated	adulterated	meat	meat		
+V-1069	agriculture	agriculture	death	death	is potentially signing a	
+V-1069	antibiotics	antibiotics	agriculture	agriculture	in]	
+V-1069	skin	skin	kidney failure	kidney failure	cancers, internal cancers, jaundice,	
+V-1069	drug residues	drug residues	meat	meat	getting into the	
+V-1069	sheep	sheep	pork	pork	industry association, the national	
+V-1069	skin	skin	jaundice	jaundice	cancers, internal cancers,	
+V-1069	turkey	turkey	chicken	chicken	federation, the national	
+V-1069	antibiotic resistance	antibiotic resistance	bacteria	bacteria	in	
+V-1069	meat	meat	drugs	drugs	with residual	
+V-1069	united states	united states	drugs	drugs	is the contamination of meat with residual	
+V-1069	cooking	cooking	drugs	drugs	destroy the	
+V-1069	antibiotics	antibiotics	livestock	livestock	to	
+V-1069	united states	united states	pesticides	pesticides	is the contamination of meat with residual drugs,	
+V-1069	united states	united states	meat	meat	is the contamination of	
+V-1069	epa	epa	contaminants	contaminants	are supposed to test for these	
+V-1069	antibiotics	antibiotics	chickens	chickens	to cows, pigs, and	
+V-1069	public health	public health	health	health	association, and another 100 medical and public	
+V-1069	turkey	turkey	national chicken council	national chicken council	federation, the	
+V-1069	food safety	food safety	meat	meat	and inspection service doesn’t even attempt to recall	
+V-1069	antibiotics	antibiotics	pigs	pigs	to cows,	
+V-1069	meat	meat	drug residues	drug residues	due to illegally high	
+V-1069	smoking	smoking	cancer	cancer	and lung	
+V-1069	pesticides	pesticides	health	health	that everyone agrees has high	
+V-1069	meat	meat	pesticides	pesticides	with residual drugs,	
+V-1069	meat	meat	heavy metals	heavy metals	with residual drugs, pesticides, and	
+V-1069	chicken	chicken	pork	pork	council, the sheep industry association, the national	
+V-1069	contamination	contamination	drugs	drugs	of meat with residual	
+V-1069	skin	skin	kidney	kidney	cancers, internal cancers, jaundice,	
+V-1069	drugs	drugs	meat	meat	in the	
+V-1069	antibiotics	antibiotics	cows	cows	to	
+V-1069	united states	united states	contamination	contamination	is the	
+V-1069	drugs	drugs	meat	meat	—ivermectin, sulfadimethozine, florfenicol, and sulfamethazine—yet, released the	
+V-1069	antibiotics	antibiotics	farm animals	farm animals	to	
+V-1069	contamination	contamination	meat	meat	of	
+V-1069	environmental protection agency	environmental protection agency	usda	usda	routinely asks the	
+V-1069	usda	usda	food safety	food safety	’s	
+V-1069	kidney	kidney	cooking	cooking	failure, neurotoxicity (kills brain cells), and even death.doesn’t	
+V-1069	health	health	american academy of pediatrics	american academy of pediatrics	organization, the american medical association, the	
+V-1069	chicken	chicken	sheep	sheep	council, the	

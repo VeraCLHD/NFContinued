@@ -1,0 +1,38 @@
+
+V-649	green tea	green tea	cancer	cancer	consumption and breast	
+V-649	diet	diet	disease	disease	—through a multistep	
+V-649	carcinogen	carcinogen	chicken	chicken	found predominantly in fried bacon, fish, and	
+V-649	cooked meat	cooked meat	chicken	chicken	carcinogen found predominantly in fried bacon, fish, and	
+V-649	cancer	cancer	tea	tea	risk to date concluded that green	
+V-649	environmental carcinogens	environmental carcinogens	disease	disease	—such as those in the diet—through a multistep	
+V-649	cancer cells	cancer cells	cooked meat	cooked meat	just using that	
+V-649	phip	phip	carcinogen	carcinogen	was already established as a	
+V-649	cancer	cancer	carcinogen	carcinogen	cells just using that cooked meat	
+V-649	breast cancer	breast cancer	green tea	green tea	risk to date concluded that	
+V-649	environmental carcinogens	environmental carcinogens	diet	diet	—such as those in the	
+V-649	carcinogens	carcinogens	disease	disease	—such as those in the diet—through a multistep	
+V-649	meat	meat	bacon	bacon	carcinogen found predominantly in fried	
+V-649	meat	meat	carcinogen	carcinogen		
+V-649	cancer cells	cancer cells	meat	meat	just using that cooked	
+V-649	meat	meat	cancer	cancer	“effectively induced progressive carcinogenesis”—	
+V-649	carcinogens	carcinogens	diet	diet	—such as those in the	
+V-649	tea	tea	risk	risk	consumption and breast cancer	
+V-649	risk	risk	tea	tea	to date concluded that green	
+V-649	cancer	cancer	green tea	green tea	risk to date concluded that	
+V-649	green tea	green tea	risk	risk	consumption and breast cancer	
+V-649	tea	tea	cancer	cancer	consumption and breast	
+V-649	cancer	cancer	cooked meat	cooked meat	cells just using that	
+V-649	green tea	green tea	breast cancer	breast cancer	consumption and	
+V-649	cooked meat	cooked meat	fish	fish	carcinogen found predominantly in fried bacon,	
+V-649	cooked meat	cooked meat	carcinogen	carcinogen		
+V-649	carcinogen	carcinogen	bacon	bacon	found predominantly in fried	
+V-649	carcinogen	carcinogen	fish	fish	found predominantly in fried bacon,	
+V-649	meat	meat	chicken	chicken	carcinogen found predominantly in fried bacon, fish, and	
+V-649	risk	risk	green tea	green tea	to date concluded that	
+V-649	cancer cells	cancer cells	carcinogen	carcinogen	just using that cooked meat	
+V-649	meat	meat	fish	fish	carcinogen found predominantly in fried bacon,	
+V-649	heterocyclic amines	heterocyclic amines	meats	meats	found in high-temperature cooked	
+V-649	cancer	cancer	meat	meat	cells just using that cooked	
+V-649	tea	tea	breast cancer	breast cancer	consumption and	
+V-649	cooked meat	cooked meat	bacon	bacon	carcinogen found predominantly in fried	
+V-649	breast cancer	breast cancer	tea	tea	risk to date concluded that green	

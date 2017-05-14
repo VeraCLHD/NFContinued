@@ -1,0 +1,8 @@
+
+T-470	herbs	herbs	cloves	cloves	and spices–including	
+T-470	pumpkin	pumpkin	pie	pie		
+T-470	spices	spices	antioxidants	antioxidants	–including cloves–are so rich in	
+T-470	herbs	herbs	antioxidants	antioxidants	and spices–including cloves–are so rich in	
+T-470	herbs	herbs	spices	spices	and	
+T-470	spices	spices	cloves	cloves	–including	
+T-470	cloves	cloves	inflammation	inflammation	appear reduce	

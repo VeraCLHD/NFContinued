@@ -1,0 +1,31 @@
+
+T-761	pollutants	pollutants	vegetarian	vegetarian	than those just eating	
+T-761	diabetes	diabetes	cataracts	cataracts	and prediabetes, inflammatory bowel disease, arthritis, heart disease,	
+T-761	vegetarians	vegetarians	flexitarians	flexitarians	live longer than	
+T-761	risk	risk	arthritis	arthritis	of developing diabetes and prediabetes, inflammatory bowel disease,	
+T-761	diabetes	diabetes	arthritis	arthritis	and prediabetes, inflammatory bowel disease,	
+T-761	beef	beef	fish	fish	to consuming chicken or	
+T-761	risk	risk	prediabetes	prediabetes	of developing diabetes and	
+T-761	flexitarians	flexitarians	standard american diet	standard american diet	do live longer than those eating the	
+T-761	plant-based	plant-based	diet	diet		
+T-761	plant-based diets	plant-based diets	protein	protein	contain more than enough	
+T-761	chicken	chicken	cholesterol	cholesterol	or fish does not lower	
+T-761	diabetes	diabetes	prediabetes	prediabetes	and	
+T-761	industrial pollutants	industrial pollutants	vegetarian	vegetarian	than those just eating	
+T-761	plant-based	plant-based	protein	protein	diets contain more than enough	
+T-761	diabetes	diabetes	disease	disease	and prediabetes, inflammatory bowel	
+T-761	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of developing diabetes and prediabetes,	
+T-761	diabetes	diabetes	inflammatory bowel disease	inflammatory bowel disease	and prediabetes,	
+T-761	fish	fish	cholesterol	cholesterol	does not lower	
+T-761	trans fat	trans fat	vegans	vegans	intake compared to	
+T-761	diabetes	diabetes	heart disease	heart disease	and prediabetes, inflammatory bowel disease, arthritis,	
+T-761	health	health	standard american diet	standard american diet	is better than the	
+T-761	meat	meat	mortality	mortality	intake may increase total	
+T-761	beef	beef	chicken	chicken	to consuming	
+T-761	risk	risk	disease	disease	of developing diabetes and prediabetes, inflammatory bowel	
+T-761	risk	risk	diabetes	diabetes	of developing	
+T-761	chicken	chicken	fish	fish	or	
+T-761	health	health	diet	diet	is better than the standard american	
+T-761	meat	meat	risk	risk	intake may increase total mortality, the	
+T-761	beef	beef	cholesterol	cholesterol	to consuming chicken or fish does not lower	
+T-761	meat	meat	environment	environment	may also be better for the	

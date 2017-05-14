@@ -1,0 +1,32 @@
+
+T-1632	agriculture	agriculture	eggs	eggs	warned the egg industry against claiming	
+T-1632	salmonella	salmonella	eggs	eggs	are poultry and	
+T-1632	eggs	eggs	salmonella	salmonella	may not be sufficient to kill all	
+T-1632	americans	americans	food poisoning	food poisoning	experience salmonella	
+T-1632	freedom of information act	freedom of information act	agriculture	agriculture	documents reveal that the u.s. department of	
+T-1632	poultry	poultry	food poisoning	food poisoning	and eggs, which cause hundreds of thousands of	
+T-1632	eggs	eggs	americans	americans	are safe, given that more than 100,000	
+T-1632	americans	americans	salmonella	salmonella	experience	
+T-1632	shopping carts	shopping carts	risk	risk	can pose a	
+T-1632	salmonella	salmonella	food poisoning	food poisoning		
+T-1632	cooking	cooking	eggs	eggs		
+T-1632	campylobacter	campylobacter	irritable bowel syndrome	irritable bowel syndrome	are left with	
+T-1632	cooking	cooking	salmonella	salmonella	eggs may not be sufficient to kill all	
+T-1632	syndrome	syndrome	arthritis	arthritis	(a debilitating form of	
+T-1632	risk	risk	americans	americans	as well.even though hundreds of thousands of	
+T-1632	americans	americans	poultry	poultry	are made ill by contaminated	
+T-1632	food poisoning	food poisoning	eggs	eggs	every year from	
+T-1632	bacteria	bacteria	eggs	eggs	.common methods of cooking	
+T-1632	poultry	poultry	meat	meat	every year, it remains legal to sell	
+T-1632	americans	americans	eggs	eggs	experience salmonella food poisoning every year from	
+T-1632	agriculture	agriculture	egg	egg	warned the	
+T-1632	dyspepsia	dyspepsia	arthritis	arthritis	and reiter’s syndrome (a debilitating form of	
+T-1632	salmonella	salmonella	eggs	eggs	food poisoning every year from	
+T-1632	salmonella	salmonella	poultry	poultry	are	
+T-1632	salmonella	salmonella	bacteria	bacteria		
+T-1632	egg	egg	eggs	eggs	industry against claiming	
+T-1632	dyspepsia	dyspepsia	syndrome	syndrome	and reiter’s	
+T-1632	bacteria	bacteria	cooking	cooking	.common methods of	
+T-1632	poultry	poultry	eggs	eggs	and	
+T-1632	campylobacter	campylobacter	syndrome	syndrome	are left with irritable bowel	
+T-1632	eggs	eggs	bacteria	bacteria	may not be sufficient to kill all salmonella	

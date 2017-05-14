@@ -1,0 +1,23 @@
+
+V-1076	chicken	chicken	cancer viruses	cancer viruses	wart and	
+V-1076	chicken	chicken	warts	warts	get a lot of	
+V-1076	chicken	chicken	cancer	cancer	wart and	
+V-1076	cancer	cancer	viruses	viruses		
+V-1076	cancer	cancer	meat	meat	viruses—but the problem is that	
+V-1076	cooking	cooking	cancer viruses	cancer viruses	will kill any and all chicken wart and	
+V-1076	mortality	mortality	poultry workers	poultry workers	in	
+V-1076	viruses	viruses	meat	meat	in	
+V-1076	cancer	cancer	poultry	poultry	mortality in	
+V-1076	poultry	poultry	viruses	viruses	slaughtering and processing are exposed to these cancer-causing	
+V-1076	viruses	viruses	meat	meat	—but the problem is that	
+V-1076	cancer viruses	cancer viruses	meat	meat	—but the problem is that	
+V-1076	viruses	viruses	poultry	poultry	present in	
+V-1076	chicken	chicken	viruses	viruses	wart and cancer	
+V-1076	mortality	mortality	poultry	poultry	in	
+V-1076	raw	raw	poultry	poultry		
+V-1076	cooking	cooking	cancer	cancer	will kill any and all chicken wart and	
+V-1076	cancer	cancer	mortality	mortality		
+V-1076	cancer	cancer	poultry workers	poultry workers	mortality in	
+V-1076	meat	meat	viruses	viruses	for a living because of the	
+V-1076	cooking	cooking	chicken	chicken	will kill any and all	
+V-1076	chicken	chicken	meat	meat	wart and cancer viruses—but the problem is that	

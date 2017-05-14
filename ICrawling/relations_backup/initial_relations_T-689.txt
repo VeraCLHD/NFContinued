@@ -1,0 +1,45 @@
+
+T-689	carcinogen	carcinogen	safety limits	safety limits	benzene exceeded epas	
+T-689	diet	diet	inflammation	inflammation	arachidonic acid from animal products may reduce brain	
+T-689	teeth	teeth	corn	corn	fillings, high-fructose	
+T-689	dha	dha	heavy metal	heavy metal	and epa status without	
+T-689	women	women	mercury	mercury	exceeds epa	
+T-689	epa	epa	infants	infants	standards and may damage the brain of	
+T-689	arachidonic acid	arachidonic acid	inflammation	inflammation	from animal products may reduce brain	
+T-689	women	women	epa	epa	exceeds	
+T-689	epa	epa	safety limits	safety limits	mercury	
+T-689	benzene	benzene	safety limits	safety limits	exceeded epas	
+T-689	epa	epa	heavy metal	heavy metal	status without	
+T-689	epa	epa	children	children	standards and may damage the brain of infants,	
+T-689	soda	soda	carcinogen	carcinogen	tested for the	
+T-689	teeth	teeth	supplements	supplements	fillings, high-fructose corn syrup and ayurvedic	
+T-689	women	women	safety limits	safety limits	exceeds epa mercury	
+T-689	inflammation	inflammation	mood	mood	and improve	
+T-689	arsenic	arsenic	chicken	chicken	in american	
+T-689	chicken	chicken	poultry	poultry	products and handling	
+T-689	diet	diet	arachidonic acid	arachidonic acid		
+T-689	diet	diet	animal products	animal products	arachidonic acid from	
+T-689	soda	soda	safety limits	safety limits	tested for the carcinogen benzene exceeded epas	
+T-689	mercury	mercury	fish	fish	in	
+T-689	dha	dha	epa	epa	and	
+T-689	tuna	tuna	epa	epa	in the u.s. exceeds	
+T-689	animal products	animal products	mood	mood	may reduce brain inflammation and improve	
+T-689	women	women	fish	fish	who eat a lot of	
+T-689	corn	corn	supplements	supplements	syrup and ayurvedic	
+T-689	fish	fish	epa	epa	as	
+T-689	teeth	teeth	corn syrup	corn syrup	fillings, high-fructose	
+T-689	arachidonic acid	arachidonic acid	animal products	animal products	from	
+T-689	mercury	mercury	safety limits	safety limits		
+T-689	ddt	ddt	fish	fish	is still found in products such as	
+T-689	epa	epa	mercury	mercury		
+T-689	corn syrup	corn syrup	supplements	supplements	and ayurvedic	
+T-689	arsenic	arsenic	poultry	poultry	in american chicken products and handling	
+T-689	epa	epa	women	women	limit allows, it may be advisable for	
+T-689	omega 3	omega 3	organic	organic	’s offer an	
+T-689	soda	soda	benzene	benzene	tested for the carcinogen	
+T-689	mercury	mercury	epa	epa	in fish as	
+T-689	chicken	chicken	viruses	viruses	products and handling poultry may transfer potentially cancer-causing	
+T-689	ddt	ddt	fish oil	fish oil	is still found in products such as	
+T-689	poultry	poultry	viruses	viruses	may transfer potentially cancer-causing	
+T-689	animal products	animal products	inflammation	inflammation	may reduce brain	
+T-689	carcinogen	carcinogen	benzene	benzene		

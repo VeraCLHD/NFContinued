@@ -1,0 +1,31 @@
+
+V-438	risk	risk	syndrome	syndrome	of diabetes, metabolic	
+V-438	risk	risk	disease	disease	of diabetes, metabolic syndrome, cardiovascular	
+V-438	americans	americans	vegetables	vegetables	should be eating more beans,	
+V-438	plant-based	plant-based	diet	diet		
+V-438	steak	steak	fiber	fiber	is a significant	
+V-438	americans	americans	fiber	fiber	think steak is a significant	
+V-438	vegan	vegan	vegetarian	vegetarian	versus	
+V-438	disease	disease	health	health	prevention, and optimal	
+V-438	vegetarians	vegetarians	protein	protein	and vegans get 70% more	
+V-438	risk	risk	cardiovascular disease	cardiovascular disease	of diabetes, metabolic syndrome,	
+V-438	vegetarians	vegetarians	flexitarians	flexitarians	to 20,000 vegetarians and about 5,000 vegans,	
+V-438	risk	risk	metabolic syndrome	metabolic syndrome	of diabetes,	
+V-438	americans	americans	whole grains	whole grains	should be eating more beans, vegetables, fruits, and	
+V-438	diet	diet	dietary guidelines	dietary guidelines	indexing systems, like compliance with the	
+V-438	vegetarians	vegetarians	vegans	vegans	and	
+V-438	fiber	fiber	dairy	dairy	in meat,	
+V-438	americans	americans	fruits	fruits	should be eating more beans, vegetables,	
+V-438	americans	americans	steak	steak	think	
+V-438	dairy	dairy	junk food	junk food	or eggs, and little or no fiber in	
+V-438	fiber	fiber	meat	meat	in	
+V-438	dairy	dairy	fiber	fiber	or eggs, and little or no	
+V-438	americans	americans	beans	beans	should be eating more	
+V-438	risk	risk	obesity	obesity	of diabetes, metabolic syndrome, cardiovascular disease,	
+V-438	vegetarians	vegetarians	vegans	vegans	to 20,000 vegetarians and about 5,000	
+V-438	dairy	dairy	eggs	eggs	or	
+V-438	risk	risk	diabetes	diabetes	of	
+V-438	fiber	fiber	eggs	eggs	in meat, dairy or	
+V-438	americans	americans	fiber	fiber	get even the recommended minimum adequate intake of	
+V-438	disease	disease	prevention	prevention		
+V-438	vegans	vegans	protein	protein	get 70% more	

@@ -1,0 +1,13 @@
+
+V-1110	gluten	gluten	diet	diet	-free	
+V-1110	wheat	wheat	protein	protein		
+V-1110	diarrhea	diarrhea	abdominal pain	abdominal pain	and	
+V-1110	quinoa	quinoa	protein	protein		
+V-1110	diet	diet	symptoms	symptoms	a try.but, if we don’t have those	
+V-1110	diarrhea	diarrhea	pain	pain	and abdominal	
+V-1110	diet	diet	gluten	gluten	a try.but, if we don’t have those symptoms,	
+V-1110	symptoms	symptoms	diarrhea	diarrhea	like chronic	
+V-1110	wheat	wheat	quinoa	quinoa	protein, just like	
+V-1110	symptoms	symptoms	pain	pain	like chronic diarrhea and abdominal	
+V-1110	symptoms	symptoms	abdominal pain	abdominal pain	like chronic diarrhea and	
+V-1110	diet	diet	bacteria	bacteria	was bad for our good	

@@ -1,0 +1,23 @@
+
+T-1934	cod	cod	liver	liver		
+T-1934	lead	lead	vitamin a	vitamin a	to toxic levels of	
+T-1934	leafy vegetables	leafy vegetables	potatoes	potatoes	and boiled sweet	
+T-1934	supplements	supplements	vitamin a	vitamin a	may decrease one’s lifespan.foods high in	
+T-1934	lead	lead	liver	liver	to toxic levels of vitamin a, including cod	
+T-1934	cod	cod	herbalife	herbalife	liver oil, red snapper, and	
+T-1934	americans	americans	vitamin a	vitamin a	do not get enough	
+T-1934	leafy vegetables	leafy vegetables	sweet potatoes	sweet potatoes	and boiled	
+T-1934	boiled	boiled	potatoes	potatoes	sweet	
+T-1934	lead	lead	cod liver oil	cod liver oil	to toxic levels of vitamin a, including	
+T-1934	boiled	boiled	sweet potatoes	sweet potatoes		
+T-1934	supplements	supplements	vitamin a	vitamin a	may lead to toxic levels of	
+T-1934	liver	liver	supplements	supplements	oil, red snapper, and herbalife	
+T-1934	vitamin a	vitamin a	supplements	supplements		
+T-1934	lead	lead	cod	cod	to toxic levels of vitamin a, including	
+T-1934	leafy vegetables	leafy vegetables	boiled	boiled	and	
+T-1934	supplements	supplements	lead	lead	may	
+T-1934	vitamin a	vitamin a	diet	diet	in one’s	
+T-1934	supplements	supplements	vitamin a	vitamin a	may not be the right approach, since	
+T-1934	cod	cod	supplements	supplements	liver oil, red snapper, and herbalife	
+T-1934	liver	liver	herbalife	herbalife	oil, red snapper, and	
+T-1934	herbalife	herbalife	supplements	supplements		

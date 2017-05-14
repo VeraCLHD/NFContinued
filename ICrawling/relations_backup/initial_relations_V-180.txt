@@ -1,0 +1,43 @@
+
+V-180	health	health	death	death	problems, including heart disease, premature	
+V-180	sugar	sugar	drugs	drugs	lowering with	
+V-180	insulin	insulin	obesity	obesity	itself may promote cancer,	
+V-180	drugs	drugs	diet	diet	and did not include any serious effort at	
+V-180	health	health	heart disease	heart disease	problems, including	
+V-180	heart attacks	heart attacks	diabetes	diabetes	in overweight or obese adults with type 2	
+V-180	drugs	drugs	insulin	insulin	used to treat the disease.even just injected	
+V-180	blood	blood	a1c	a1c	sugars down, but in trying to push people’s	
+V-180	health	health	kidney	kidney	problems, including heart disease, premature death, blindness,	
+V-180	kidney	kidney	depression	depression	failure, amputations, fractures, frailty,	
+V-180	insulin	insulin	inflammation	inflammation	therapy may promote	
+V-180	blood sugar	blood sugar	mortality	mortality	lowering with drugs increased	
+V-180	health	health	kidney failure	kidney failure	problems, including heart disease, premature death, blindness,	
+V-180	risk	risk	kidney	kidney	of complications like blindness and	
+V-180	drugs	drugs	mortality	mortality	increased	
+V-180	insulin	insulin	cancer	cancer	itself may promote	
+V-180	health	health	blindness	blindness	problems, including heart disease, premature death,	
+V-180	risk	risk	kidney failure	kidney failure	of complications like blindness and	
+V-180	blindness	blindness	kidney failure	kidney failure	and	
+V-180	blood sugar	blood sugar	drugs	drugs	lowering with	
+V-180	blindness	blindness	kidney	kidney	and	
+V-180	blood	blood	mortality	mortality	sugar lowering with drugs increased	
+V-180	blood	blood	drugs	drugs	sugars with	
+V-180	blood	blood	risk	risk	sugar, body weight, and cardiovascular	
+V-180	ldl	ldl	cholesterol	cholesterol		
+V-180	sugar	sugar	mortality	mortality	lowering with drugs increased	
+V-180	risk	risk	heart disease	heart disease	for a number of serious health problems, including	
+V-180	medicine	medicine	weight loss	weight loss	found that an intensive lifestyle intervention focusing on	
+V-180	risk	risk	blindness	blindness	of complications like	
+V-180	insulin	insulin	atherosclerosis	atherosclerosis	itself may promote cancer, obesity, and	
+V-180	risk	risk	weight gain	weight gain	of dying, increased	
+V-180	england	england	medicine	medicine	journal of	
+V-180	blood	blood	drugs	drugs	sugar lowering with	
+V-180	risk	risk	death	death	of	
+V-180	blood	blood	heart attacks	heart attacks	sugars are, the more	
+V-180	diabetes	diabetes	risk	risk	are at elevated	
+V-180	risk	risk	health	health	for a number of serious	
+V-180	diet	diet	england	england	and lifestyle change.a 2013 paper in the new	
+V-180	inflammation	inflammation	arteries	arteries	in the lining of our	
+V-180	health	health	disease	disease	problems, including heart	
+V-180	kidney	kidney	amputations	amputations	failure,	
+V-180	blood	blood	sugar	sugar		

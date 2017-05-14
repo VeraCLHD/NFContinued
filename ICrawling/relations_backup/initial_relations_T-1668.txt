@@ -1,0 +1,42 @@
+
+T-1668	industrial pollutants	industrial pollutants	lead	lead	such as pcbs found mostly in fish may	
+T-1668	pollutants	pollutants	pcbs	pcbs	such as	
+T-1668	cardiovascular health	cardiovascular health	sexual dysfunction	sexual dysfunction	that	
+T-1668	health	health	heart attacks	heart attacks	that sexual dysfunction,	
+T-1668	plant-based diets	plant-based diets	women	women	may improve the attractiveness of men and	
+T-1668	diet	diet	cardiovascular health	cardiovascular health	may be so detrimental to our	
+T-1668	pcbs	pcbs	fish	fish	found mostly in	
+T-1668	phthalates	phthalates	pregnant women	pregnant women	by	
+T-1668	pregnant	pregnant	women	women		
+T-1668	lead	lead	sexual dysfunction	sexual dysfunction	to loss of libido,	
+T-1668	poultry	poultry	phthalates	phthalates	with	
+T-1668	prozac	prozac	sexual dysfunction	sexual dysfunction	in dealing with depression without the common	
+T-1668	standard american diet	standard american diet	cardiovascular health	cardiovascular health	may be so detrimental to our	
+T-1668	watermelon	watermelon	erectile dysfunction	erectile dysfunction	and pistachio nuts may help with	
+T-1668	industrial pollutants	industrial pollutants	pcbs	pcbs	such as	
+T-1668	poultry	poultry	pregnant women	pregnant women	with phthalates by	
+T-1668	watermelon	watermelon	nuts	nuts	and pistachio	
+T-1668	drugs	drugs	sexual dysfunction	sexual dysfunction	may cause	
+T-1668	nuts	nuts	erectile dysfunction	erectile dysfunction	may help with	
+T-1668	industrial pollutants	industrial pollutants	fish	fish	such as pcbs found mostly in	
+T-1668	depression	depression	side effects	side effects	without the common sexual dysfunction	
+T-1668	cardiovascular health	cardiovascular health	heart attacks	heart attacks	that sexual dysfunction,	
+T-1668	calorie dense	calorie dense	dopamine	dopamine	animal and junk foods may down-regulate	
+T-1668	phthalates	phthalates	women	women	by pregnant	
+T-1668	poultry	poultry	pregnant	pregnant	with phthalates by	
+T-1668	poultry	poultry	women	women	with phthalates by pregnant	
+T-1668	standard american diet	standard american diet	health	health	may be so detrimental to our cardiovascular	
+T-1668	pcbs	pcbs	lead	lead	found mostly in fish may	
+T-1668	lead	lead	impotence	impotence	to loss of libido, sexual dysfunction, and	
+T-1668	plant-based	plant-based	women	women	diets may improve the attractiveness of men and	
+T-1668	sexual dysfunction	sexual dysfunction	side effects	side effects		
+T-1668	fish	fish	lead	lead	may	
+T-1668	prozac	prozac	depression	depression	in dealing with	
+T-1668	diet	diet	health	health	may be so detrimental to our cardiovascular	
+T-1668	pollutants	pollutants	fish	fish	such as pcbs found mostly in	
+T-1668	pollutants	pollutants	lead	lead	such as pcbs found mostly in fish may	
+T-1668	health	health	sexual dysfunction	sexual dysfunction	that	
+T-1668	depression	depression	sexual dysfunction	sexual dysfunction	without the common	
+T-1668	fish	fish	sexual dysfunction	sexual dysfunction	may lead to loss of libido,	
+T-1668	phthalates	phthalates	pregnant	pregnant	by	
+T-1668	saffron	saffron	prozac	prozac	may be as effective as	

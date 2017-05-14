@@ -1,0 +1,69 @@
+
+A-231	fecal bacteria	fecal bacteria	sushi	sushi	survey, of fish in fecal contamination of	
+A-231	preservatives	preservatives	meat	meat	in chicken in phosphate additives in	
+A-231	fecal contamination	fecal contamination	chicken	chicken	of	
+A-231	fecal bacteria	fecal bacteria	fish	fish	survey, of	
+A-231	bacteria	bacteria	contamination	contamination	survey, of fish in fecal	
+A-231	fecal contamination	fecal contamination	fecal bacteria	fecal bacteria	of chicken in	
+A-231	contaminants	contaminants	chicken	chicken	in	
+A-231	meat	meat	drug residues	drug residues	purge and cola and antibiotic contamination in	
+A-231	contamination	contamination	chicken	chicken	in about half the	
+A-231	fecal contamination	fecal contamination	bacteria	bacteria	of chicken in fecal	
+A-231	bacteria	bacteria	fecal contamination	fecal contamination	survey, of fish in	
+A-231	preservatives	preservatives	phosphate additives	phosphate additives	in chicken in 	
+A-231	poultry	poultry	physicians	physicians	in particular, something the	
+A-231	chicken	chicken	bacteria	bacteria	in fecal	
+A-231	contamination	contamination	fish	fish	of chicken in fecal bacteria survey, of	
+A-231	salmonella	salmonella	chicken	chicken	in	
+A-231	fecal bacteria	fecal bacteria	fecal contamination	fecal contamination	survey, of fish in	
+A-231	contamination	contamination	fecal bacteria	fecal bacteria	of chicken in	
+A-231	contamination	contamination	meat	meat	in drug residues in	
+A-231	pork	pork	yersinia	yersinia	in	
+A-231	meat	meat	cola	cola	purge and	
+A-231	chicken	chicken	phosphate additives	phosphate additives	in 	
+A-231	bacteria	bacteria	sushi	sushi	survey, of fish in fecal contamination of	
+A-231	fecal contamination	fecal contamination	fish	fish	of chicken in fecal bacteria survey, of	
+A-231	bacteria	bacteria	fish	fish	survey, of	
+A-231	fecal contamination	fecal contamination	chicken	chicken	in about half the	
+A-231	contamination	contamination	drug residues	drug residues	in	
+A-231	usda	usda	meat	meat	’s new	
+A-231	contamination	contamination	bacteria	bacteria	of chicken in fecal	
+A-231	chicken	chicken	meat	meat	-ish that isn’t chicken	
+A-231	fish	fish	contamination	contamination	in fecal	
+A-231	fish	fish	fecal contamination	fecal contamination	in	
+A-231	chicken	chicken	contamination	contamination	in fecal bacteria survey, of fish in fecal	
+A-231	fecal bacteria	fecal bacteria	contamination	contamination	survey, of fish in fecal	
+A-231	salmonella	salmonella	turkey	turkey	in chicken &	
+A-231	chicken	chicken	cola	cola	in phosphate additives in meat purge and	
+A-231	drug residues	drug residues	meat	meat	in	
+A-231	chicken	chicken	contamination	contamination	products in ten u.s. cities, they found fecal	
+A-231	phosphate additives	phosphate additives	contamination	contamination	in meat purge and cola and antibiotic	
+A-231	chicken	chicken	fecal bacteria	fecal bacteria	in	
+A-231	fish	fish	sushi	sushi	in fecal contamination of	
+A-231	chicken	chicken	medicine	medicine	nuggets in the american journal of	
+A-231	chicken	chicken	fecal contamination	fecal contamination	products in ten u.s. cities, they found	
+A-231	carcinogens	carcinogens	poultry	poultry	also build up in	
+A-231	cola	cola	meat	meat	and antibiotic contamination in drug residues in	
+A-231	contamination	contamination	chicken	chicken	of	
+A-231	preservatives	preservatives	chicken	chicken	in	
+A-231	meat	meat	carcinogens	carcinogens		
+A-231	blood	blood	skin	skin	vessels and nerves, and generous quantities of	
+A-231	chicken	chicken	fecal contamination	fecal contamination	in fecal bacteria survey, of fish in	
+A-231	cola	cola	contamination	contamination	and antibiotic	
+A-231	phosphate additives	phosphate additives	meat	meat	in	
+A-231	fast food	fast food	carcinogens	carcinogens	tested for	
+A-231	yersinia	yersinia	pork	pork	in	
+A-231	preservatives	preservatives	cola	cola	in chicken in phosphate additives in meat purge and	
+A-231	physicians	physicians	fast food	fast food	committee also tested for previously:	
+A-231	chicken	chicken	fish	fish	in fecal bacteria survey, of	
+A-231	cooked meat	cooked meat	poultry	poultry	carcinogens also build up in	
+A-231	chicken	chicken	meat	meat	in phosphate additives in	
+A-231	meat	meat	contamination	contamination	purge and cola and antibiotic	
+A-231	meat	meat	poultry	poultry	carcinogens also build up in	
+A-231	fish	fish	pork	pork	in fecal contamination of sushi, and of	
+A-231	cola	cola	drug residues	drug residues	and antibiotic contamination in	
+A-231	phosphate additives	phosphate additives	cola	cola	in meat purge and	
+A-231	chicken	chicken	children	children	nuggets are popular among	
+A-231	cooked meat	cooked meat	carcinogens	carcinogens		
+A-231	skin	skin	gut	gut	or	
+A-231	chicken	chicken	meat	meat		

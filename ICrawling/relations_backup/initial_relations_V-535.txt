@@ -1,0 +1,30 @@
+
+V-535	vegetarian	vegetarian	leafy vegetables	leafy vegetables	ate significantly more dark green	
+V-535	vitamins	vitamins	magnesium	magnesium	(thiamin, riboflavin, & folate); more calcium,	
+V-535	americans	americans	vitamins	vitamins	really struggle to get enough of—fiber,	
+V-535	vitamins	vitamins	riboflavin	riboflavin	(thiamin,	
+V-535	vegetarian	vegetarian	diet	diet		
+V-535	fat	fat	cholesterol	cholesterol	and	
+V-535	vitamins	vitamins	magnesium	magnesium	a, c, and e, calcium,	
+V-535	vegetarian	vegetarian	eggs	eggs	dietary pattern in this study included eating	
+V-535	greens	greens	vegetarians	vegetarians	more.in terms of weight management, the	
+V-535	vegetarians	vegetarians	calories	calories	were consuming, on average, 363 fewer	
+V-535	greens	greens	weight management	weight management	more.in terms of	
+V-535	vitamins	vitamins	calcium	calcium	(thiamin, riboflavin, & folate); more	
+V-535	vegetarians	vegetarians	sleep	sleep	may burn more calories in their	
+V-535	vegetarians	vegetarians	vegans	vegans	and	
+V-535	folate	folate	potassium	potassium	); more calcium, magnesium, iron, and	
+V-535	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-535	folate	folate	magnesium	magnesium	); more calcium,	
+V-535	vitamins	vitamins	calcium	calcium	a, c, and e,	
+V-535	folate	folate	calcium	calcium	); more	
+V-535	vitamins	vitamins	potassium	potassium	a, c, and e, calcium, magnesium,	
+V-535	calories	calories	sleep	sleep	in their	
+V-535	vitamins	vitamins	iron	iron	(thiamin, riboflavin, & folate); more calcium, magnesium,	
+V-535	vegetarian	vegetarian	vegetables	vegetables	ate significantly more dark green leafy	
+V-535	eggs	eggs	dairy	dairy	and	
+V-535	vitamins	vitamins	folate	folate	(thiamin, riboflavin, &	
+V-535	americans	americans	fiber	fiber	really struggle to get enough of—	
+V-535	vegetarians	vegetarians	calories	calories	may burn more	
+V-535	folate	folate	iron	iron	); more calcium, magnesium,	
+V-535	potassium	potassium	vegetarian	vegetarian	—and those eating	

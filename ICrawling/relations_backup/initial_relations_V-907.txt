@@ -1,0 +1,20 @@
+
+V-907	gooseberries	gooseberries	cancer cell growth	cancer cell growth	can block	
+V-907	indian gooseberries	indian gooseberries	cancer	cancer	—amla—could prevent the invasion of the	
+V-907	cancer	cancer	tumor	tumor	cell growth, but	
+V-907	cancer	cancer	tumor growth	tumor growth	cell growth, but	
+V-907	gooseberries	gooseberries	cancer	cancer	—amla—could prevent the invasion of the	
+V-907	gooseberries	gooseberries	chemo	chemo	was almost as good as the	
+V-907	indian gooseberries	indian gooseberries	tumor growth	tumor growth	can block cancer cell growth, but	
+V-907	indian gooseberries	indian gooseberries	cancer cell growth	cancer cell growth	can block	
+V-907	indian gooseberries	indian gooseberries	cancer	cancer	can block	
+V-907	gooseberries	gooseberries	amla	amla	—	
+V-907	indian gooseberries	indian gooseberries	chemo	chemo	was almost as good as the	
+V-907	indian gooseberries	indian gooseberries	amla	amla	—	
+V-907	indian gooseberries	indian gooseberries	tumor	tumor	can block cancer cell growth, but	
+V-907	gooseberries	gooseberries	tumor	tumor	can block cancer cell growth, but	
+V-907	gooseberries	gooseberries	cancer	cancer	can block	
+V-907	chemotherapy	chemotherapy	taxol	taxol	drug	
+V-907	tumor	tumor	watermelon	watermelon	the size of a	
+V-907	gooseberries	gooseberries	tumor growth	tumor growth	can block cancer cell growth, but	
+V-907	amla	amla	cancer	cancer	—could prevent the invasion of the	

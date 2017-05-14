@@ -1,0 +1,49 @@
+
+T-1088	liver	liver	fruits	fruits	cancer cells more than any other	
+T-1088	juice	juice	cancer cells	cancer cells	suppressed the growth of liver	
+T-1088	lemons	lemons	fruit juice	fruit juice	make a great addition to diy	
+T-1088	white tea	white tea	tea	tea	may boost antioxidant levels, especially in white	
+T-1088	lemon	lemon	liver	liver	and cranberry juice suppressed the growth of	
+T-1088	lemon	lemon	antioxidant	antioxidant	to green or white tea may boost	
+T-1088	tea	tea	white tea	white tea	may boost antioxidant levels, especially in	
+T-1088	tea	tea	beverage	beverage	with lemon may be the healthiest	
+T-1088	cranberry juice	cranberry juice	cancer cells	cancer cells	suppressed the growth of liver	
+T-1088	lemons	lemons	fruit	fruit	make a great addition to diy	
+T-1088	juice	juice	liver	liver	suppressed the growth of	
+T-1088	cranberry juice	cranberry juice	liver	liver	suppressed the growth of	
+T-1088	tea	tea	antioxidant	antioxidant	may boost	
+T-1088	liver cancer	liver cancer	fruits	fruits	cells more than any other	
+T-1088	cancer cells	cancer cells	fruits	fruits	more than any other	
+T-1088	lemon	lemon	juice	juice	and cranberry	
+T-1088	cranberry	cranberry	cancer	cancer	juice suppressed the growth of liver	
+T-1088	lemon	lemon	cancer cells	cancer cells	and cranberry juice suppressed the growth of liver	
+T-1088	lemon	lemon	white tea	white tea	to green or	
+T-1088	cranberry	cranberry	cancer cells	cancer cells	juice suppressed the growth of liver	
+T-1088	lemon	lemon	cranberry	cranberry	and	
+T-1088	cancer	cancer	fruits	fruits	cells more than any other	
+T-1088	lemons	lemons	juice	juice	make a great addition to diy fruit	
+T-1088	cranberry juice	cranberry juice	cancer	cancer	suppressed the growth of liver	
+T-1088	risk	risk	water	water	greater erosion of tooth enamel, so rinsing with	
+T-1088	lemon	lemon	cranberry juice	cranberry juice	and	
+T-1088	cranberry	cranberry	juice	juice		
+T-1088	beverage	beverage	lemons	lemons	you can ask for, and	
+T-1088	juice	juice	cancer	cancer	suppressed the growth of liver	
+T-1088	lemon	lemon	cancer	cancer	and cranberry juice suppressed the growth of liver	
+T-1088	white tea	white tea	antioxidant	antioxidant	may boost	
+T-1088	cranberry	cranberry	liver cancer	liver cancer	juice suppressed the growth of	
+T-1088	lemons	lemons	risk	risk	may	
+T-1088	liver	liver	cancer	cancer		
+T-1088	fruit	fruit	lemons	lemons	like	
+T-1088	antioxidant	antioxidant	white tea	white tea	levels, especially in	
+T-1088	fruit	fruit	risk	risk	like lemons may	
+T-1088	lemon	lemon	beverage	beverage	may be the healthiest	
+T-1088	liver	liver	cancer cells	cancer cells		
+T-1088	cranberry juice	cranberry juice	liver cancer	liver cancer	suppressed the growth of	
+T-1088	fruit	fruit	juice	juice		
+T-1088	tea	tea	lemon	lemon	with	
+T-1088	antioxidant	antioxidant	tea	tea	levels, especially in white	
+T-1088	lemon	lemon	tea	tea	to green or white	
+T-1088	lemon	lemon	liver cancer	liver cancer	and cranberry juice suppressed the growth of	
+T-1088	juice	juice	liver cancer	liver cancer	suppressed the growth of	
+T-1088	water	water	fruit	fruit	after eating or drinking such	
+T-1088	cranberry	cranberry	liver	liver	juice suppressed the growth of	

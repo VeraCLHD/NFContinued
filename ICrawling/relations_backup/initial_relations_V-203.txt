@@ -1,0 +1,29 @@
+
+V-203	bacteria	bacteria	diet	diet	and lots of that particular nutrient in the	
+V-203	risk	risk	colon	colon	of	
+V-203	protein	protein	bacteroides	bacteroides	and fat are associated with the	
+V-203	animal foods	animal foods	bacteroides	bacteroides	like protein and fat are associated with the	
+V-203	bacteroides	bacteroides	colon cancer	colon cancer	species are generally associated with increased risk of	
+V-203	animal foods	animal foods	fat	fat	like protein and	
+V-203	plant foods	plant foods	prevotella	prevotella	are associated with	
+V-203	bacteroides	bacteroides	risk	risk	species are generally associated with increased	
+V-203	colon	colon	death	death	cancer, our second leading cause of cancer	
+V-203	prevotella	prevotella	bacteria	bacteria	group	
+V-203	animal foods	animal foods	protein	protein	like	
+V-203	african	african	bacteroides	bacteroides	americans fell into the	
+V-203	bacteroides	bacteroides	prevotella	prevotella	enterotype, whereas most of the native africans were	
+V-203	gut	gut	flora	flora		
+V-203	colon	colon	cancer	cancer		
+V-203	bacteroides	bacteroides	bacteria	bacteria	type	
+V-203	bacteria	bacteria	gut	gut	in our	
+V-203	risk	risk	colon cancer	colon cancer	of	
+V-203	bacteroides	bacteroides	gut	gut	in their	
+V-203	americans	americans	bacteroides	bacteroides	fell into the	
+V-203	gut flora	gut flora	americans	americans	may help explain why	
+V-203	bacteroides	bacteroides	colon	colon	species are generally associated with increased risk of	
+V-203	gut	gut	americans	americans	flora may help explain why	
+V-203	african americans	african americans	bacteroides	bacteroides	fell into the	
+V-203	fat	fat	bacteroides	bacteroides	are associated with the	
+V-203	flora	flora	americans	americans	may help explain why	
+V-203	risk	risk	cancer	cancer	of colon	
+V-203	african	african	americans	americans		

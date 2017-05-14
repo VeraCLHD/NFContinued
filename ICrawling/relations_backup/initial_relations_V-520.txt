@@ -1,0 +1,72 @@
+
+V-520	disease	disease	plant-based	plant-based	with a	
+V-520	diet	diet	uganda	uganda	patterned after the black population [of] 	
+V-520	african	african	disease	disease	population of uganda coronary heart	
+V-520	junk food	junk food	saturated fat	saturated fat	and animal foods;	
+V-520	plantains	plantains	corn	corn	and sweet potatoes, other vegetables,	
+V-520	plant-based	plant-based	drugs	drugs	diet and exercise, opening up arteries without	
+V-520	medicine	medicine	doctors	doctors		
+V-520	nutrition	nutrition	plant-based	plant-based	pioneer who started reversing heart disease with a	
+V-520	plantains	plantains	vegetables	vegetables	and sweet potatoes, other	
+V-520	plant-based	plant-based	diet	diet		
+V-520	plants	plants	heart attacks	heart attacks	that was essentially free from death from	
+V-520	american journal of cardiology	american journal of cardiology	risk	risk	this year, the only	
+V-520	medicine	medicine	nathan pritikin	nathan pritikin	doctors, myself included, were greatly influenced by	
+V-520	nutrition	nutrition	disease	disease	pioneer who started reversing heart	
+V-520	dental	dental	plaque	plaque	plan.but what if instead of the	
+V-520	heart disease	heart disease	exercise	exercise	with a plant-based diet and	
+V-520	plant-based diet	plant-based diet	exercise	exercise	and	
+V-520	medicine	medicine	pritikin	pritikin	doctors, myself included, were greatly influenced by nathan	
+V-520	diet	diet	drugs	drugs	and exercise, opening up arteries without	
+V-520	drugs	drugs	surgery	surgery	and without	
+V-520	death	death	heart attacks	heart attacks	from	
+V-520	death	death	heart attack	heart attack	” from a	
+V-520	african	african	coronary heart disease	coronary heart disease	population of uganda	
+V-520	plaque	plaque	teeth	teeth	on your	
+V-520	china	china	disease	disease	as a place with a fraction of our	
+V-520	heart disease	heart disease	arteries	arteries	with a plant-based diet and exercise, opening up	
+V-520	heart disease	heart disease	plant-based	plant-based	with a	
+V-520	lifestyle medicine	lifestyle medicine	nathan pritikin	nathan pritikin	doctors, myself included, were greatly influenced by	
+V-520	african	african	heart disease	heart disease	population of uganda coronary	
+V-520	uganda	uganda	disease	disease	coronary heart	
+V-520	risk	risk	death	death	of	
+V-520	plantains	plantains	sweet potatoes	sweet potatoes	and	
+V-520	plant-based	plant-based	exercise	exercise	diet and	
+V-520	junk food	junk food	fat	fat	and animal foods; saturated	
+V-520	uganda	uganda	coronary heart disease	coronary heart disease		
+V-520	plantains	plantains	tomatoes	tomatoes	and sweet potatoes, other vegetables, corn, millet, pumpkins,	
+V-520	heart disease	heart disease	diet	diet	with a plant-based	
+V-520	disease	disease	cavities	cavities	may be a choice; like	
+V-520	heart disease	heart disease	plant-based diet	plant-based diet	with a	
+V-520	risk	risk	heart attacks	heart attacks	factor” for	
+V-520	plant-based	plant-based	arteries	arteries	diet and exercise, opening up	
+V-520	diet	diet	cholesterol	cholesterol	and of the [blood]	
+V-520	disease	disease	diet	diet	with a plant-based	
+V-520	heart disease	heart disease	cavities	cavities	may be a choice; like	
+V-520	disease	disease	plant-based diet	plant-based diet	with a	
+V-520	junk food	junk food	animal foods	animal foods	and	
+V-520	plant-based diet	plant-based diet	arteries	arteries	and exercise, opening up	
+V-520	nutrition	nutrition	heart disease	heart disease	pioneer who started reversing	
+V-520	african	african	uganda	uganda	population of	
+V-520	lifestyle medicine	lifestyle medicine	doctors	doctors		
+V-520	heart attacks	heart attacks	risk	risk	…”without needing to invoke novel, as yet undiscovered	
+V-520	disease	disease	diet	diet	that can be prevented by changing our	
+V-520	arteries	arteries	surgery	surgery	without drugs and without	
+V-520	drugs	drugs	disease	disease	and without surgery, effectively curing our #1 killer	
+V-520	risk	risk	heart attack	heart attack	of death” from a	
+V-520	arteries	arteries	drugs	drugs	without	
+V-520	plants	plants	death	death	that was essentially free from	
+V-520	uganda	uganda	heart disease	heart disease	coronary	
+V-520	ldl	ldl	cholesterol	cholesterol		
+V-520	cavities	cavities	diet	diet	when we know they’re preventable though	
+V-520	plant-based diet	plant-based diet	drugs	drugs	and exercise, opening up arteries without	
+V-520	plantains	plantains	millet	millet	and sweet potatoes, other vegetables, corn,	
+V-520	nutrition	nutrition	plant-based diet	plant-based diet	pioneer who started reversing heart disease with a	
+V-520	cholesterol	cholesterol	blood	blood	in our	
+V-520	diet	diet	arteries	arteries	and exercise, opening up	
+V-520	disease	disease	arteries	arteries	with a plant-based diet and exercise, opening up	
+V-520	diet	diet	blood	blood	and of the [	
+V-520	disease	disease	exercise	exercise	with a plant-based diet and	
+V-520	diet	diet	exercise	exercise	and	
+V-520	lifestyle medicine	lifestyle medicine	pritikin	pritikin	doctors, myself included, were greatly influenced by nathan	
+V-520	plantains	plantains	potatoes	potatoes	and sweet	

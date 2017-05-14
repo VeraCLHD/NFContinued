@@ -1,0 +1,47 @@
+
+T-345	tea	tea	water	water	is as hydrating as	
+T-345	canada	canada	caffeine	caffeine	disputes the misconception that	
+T-345	pregnant	pregnant	caffeine	caffeine	women.one may experience	
+T-345	pregnant	pregnant	symptoms	symptoms	women.one may experience caffeine withdrawal	
+T-345	lead	lead	heartburn	heartburn	to	
+T-345	caffeine	caffeine	tea	tea	exists naturally in	
+T-345	coffee	coffee	caffeine	caffeine	a day contains enough	
+T-345	coffee	coffee	heartburn	heartburn	may lead to	
+T-345	caffeine	caffeine	breast pain	breast pain	increases	
+T-345	pregnant	pregnant	women	women		
+T-345	risk	risk	symptoms	symptoms	to pregnant women.one may experience caffeine withdrawal	
+T-345	coffee	coffee	lead	lead	may	
+T-345	risk	risk	glaucoma	glaucoma	of	
+T-345	tea	tea	theanine	theanine	also contains	
+T-345	coffee	coffee	risk	risk	may lead to heartburn in some, increase	
+T-345	lead	lead	risk	risk	to heartburn in some, increase	
+T-345	caffeine	caffeine	pain	pain	increases breast	
+T-345	liver	liver	caffeine	caffeine	to clear	
+T-345	grapefruit	grapefruit	urine	urine	might have the opposite effect.no difference in	
+T-345	disease	disease	asian	asian	in both	
+T-345	canada	canada	breast pain	breast pain	disputes the misconception that caffeine increases	
+T-345	heartburn	heartburn	glaucoma	glaucoma	in some, increase risk of	
+T-345	water	water	chicken	chicken	supply and in	
+T-345	risk	risk	eye	eye	of glaucoma, and increase risk of dry	
+T-345	caffeine	caffeine	health	health	has a long list of potential	
+T-345	canada	canada	pain	pain	disputes the misconception that caffeine increases breast	
+T-345	vegetables	vegetables	caffeine	caffeine	th to get a	
+T-345	risk	risk	eye disease	eye disease	of glaucoma, and increase risk of dry	
+T-345	risk	risk	disease	disease	of glaucoma, and increase risk of dry eye	
+T-345	urine	urine	tea	tea	output was found between drinking caffeinated	
+T-345	health	health	energy	energy	benefits including increased	
+T-345	risk	risk	caffeine	caffeine	to pregnant women.one may experience	
+T-345	caffeine	caffeine	symptoms	symptoms	to improve	
+T-345	health	health	endurance	endurance	benefits including increased energy, better	
+T-345	eye	eye	disease	disease		
+T-345	caffeine	caffeine	liver	liver	buzz since they better enable the	
+T-345	lead	lead	glaucoma	glaucoma	to heartburn in some, increase risk of	
+T-345	coffee	coffee	symptoms	symptoms	a day contains enough caffeine to improve	
+T-345	cruciferous vegetables	cruciferous vegetables	caffeine	caffeine	th to get a	
+T-345	caffeine	caffeine	water	water	may be present in the	
+T-345	risk	risk	pregnant	pregnant	to	
+T-345	health	health	coffee	coffee	conditions amenable to the intake of	
+T-345	caffeine	caffeine	coffee	coffee	exists naturally in tea,	
+T-345	heartburn	heartburn	risk	risk	in some, increase	
+T-345	caffeine	caffeine	cocoa	cocoa	exists naturally in tea, coffee, and	
+T-345	tea	tea	water	water	and plain	

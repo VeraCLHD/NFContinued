@@ -1,0 +1,23 @@
+
+V-466	diet	diet	cancer	cancer	plays a role in	
+V-466	diet	diet	fat	fat	and lifestyle (less	
+V-466	fruits	fruits	smoking	smoking	and vegetables, less	
+V-466	diet	diet	sugar	sugar	and lifestyle (less fat and	
+V-466	blood type diet	blood type diet	cancer	cancer	plays a role in	
+V-466	health	health	blood	blood	benefits, despite the substantial presence and perseverance of	
+V-466	fat	fat	fruits	fruits	and sugar, more	
+V-466	fat	fat	sugar	sugar	and	
+V-466	book	book	blood	blood	cites the work of	
+V-466	diet	diet	book	book	is promoted and justified in the	
+V-466	fruits	fruits	exercise	exercise	and vegetables, less smoking, more	
+V-466	blood	blood	health	health	type diets will provide	
+V-466	blood	blood	diet	diet	type must subscribe to a specific	
+V-466	diet	diet	fruits	fruits	and lifestyle (less fat and sugar, more	
+V-466	blood	blood	cancer	cancer	type diet plays a role in	
+V-466	fat	fat	smoking	smoking	and sugar, more fruits and vegetables, less	
+V-466	blood	blood	diet	diet	type	
+V-466	blood	blood	health	health	type diets within the	
+V-466	fruits	fruits	vegetables	vegetables	and	
+V-466	blood type diet	blood type diet	book	book	is promoted and justified in the	
+V-466	fat	fat	vegetables	vegetables	and sugar, more fruits and	
+V-466	book	book	norway	norway	had been sold in	

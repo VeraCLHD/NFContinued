@@ -1,0 +1,18 @@
+
+V-1105	spirulina	spirulina	hepatotoxins	hepatotoxins	away was that it was found to produce	
+V-1105	algae	algae	toxins	toxins	supplements had the brain	
+V-1105	spirulina	spirulina	liver	liver	supplements were found to have	
+V-1105	supplements	supplements	liver	liver	had the brain toxins, spirulina supplements were found to have	
+V-1105	supplements	supplements	toxins	toxins	 were found to have liver	
+V-1105	produce	produce	hepatotoxins	hepatotoxins		
+V-1105	supplements	supplements	toxins	toxins	had the brain	
+V-1105	blue-green algae	blue-green algae	toxins	toxins	supplements had the brain	
+V-1105	spirulina	spirulina	produce	produce	away was that it was found to	
+V-1105	liver	liver	toxins	toxins		
+V-1105	spirulina	spirulina	toxins	toxins	supplements were found to have liver	
+V-1105	spirulina	spirulina	supplements	supplements		
+V-1105	algae	algae	supplements	supplements		
+V-1105	algae	algae	spirulina	spirulina	supplements had the brain toxins,	
+V-1105	blue-green algae	blue-green algae	supplements	supplements		
+V-1105	blue-green algae	blue-green algae	spirulina	spirulina	supplements had the brain toxins,	
+V-1105	supplements	supplements	spirulina	spirulina	had the brain toxins,	

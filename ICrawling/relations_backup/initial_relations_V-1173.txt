@@ -1,0 +1,17 @@
+
+V-1173	drugs	drugs	blood	blood	for diabetics that lower their	
+V-1173	diet	diet	disease	disease	slowed the progression of	
+V-1173	diet	diet	diabetes	diabetes	slowed the progression of disease, such that their	
+V-1173	american diabetes association	american diabetes association	vegan	vegan	diabetic diet versus a	
+V-1173	risk	risk	bone fractures	bone fractures	of heart failure, heart attacks, and	
+V-1173	risk	risk	heart failure	heart failure	of	
+V-1173	risk	risk	heart attacks	heart attacks	of heart failure,	
+V-1173	diabetes	diabetes	diet	diet	association diabetic	
+V-1173	blood	blood	risk	risk	sugars, but often at the expense of increased	
+V-1173	vegan	vegan	kidneys	kidneys	could save—how many lives, eyes,	
+V-1173	diet	diet	disease	disease	that prevents the	
+V-1173	vegan	vegan	diet	diet		
+V-1173	diet	diet	vegan	vegan	versus a	
+V-1173	vegan	vegan	diabetes	diabetes	diet, their	
+V-1173	diabetes	diabetes	vegan	vegan	association diabetic diet versus a	
+V-1173	american diabetes association	american diabetes association	diet	diet	diabetic	

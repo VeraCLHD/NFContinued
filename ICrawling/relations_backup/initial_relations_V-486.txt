@@ -1,0 +1,13 @@
+
+V-486	diabetes	diabetes	disease	disease	and heart	
+V-486	bmi	bmi	diabetes	diabetes	nationwide might prevent millions of cases of	
+V-486	exercise	exercise	obesity	obesity	in the treatment of	
+V-486	treatment	treatment	obesity	obesity	of	
+V-486	exercise	exercise	weight gain	weight gain	can prevent	
+V-486	weight loss	weight loss	exercise	exercise	observed from the majority of…	
+V-486	fast food	fast food	calories	calories	menu labeled with	
+V-486	obesity	obesity	calories	calories	epidemic should focus on…the…overconsumption” of	
+V-486	exercise	exercise	obesity	obesity	more, but “the priorities for reversing the	
+V-486	exercise	exercise	treatment	treatment	in the	
+V-486	diabetes	diabetes	heart disease	heart disease	and	
+V-486	physical activity	physical activity	obesity	obesity	has any role whatsoever in the epidemic of	

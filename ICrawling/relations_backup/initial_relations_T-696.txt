@@ -1,0 +1,55 @@
+
+T-696	cancer	cancer	meats	meats	include cured	
+T-696	cancer	cancer	ham	ham	include cured meats—like bologna, bacon,	
+T-696	fiber	fiber	esophageal cancer	esophageal cancer	may have highly protective effects against	
+T-696	meats	meats	dogs	dogs	—like bologna, bacon, ham, and hot	
+T-696	dogs	dogs	eggs	eggs	—and	
+T-696	esophageal cancer	esophageal cancer	meats	meats	include cured	
+T-696	esophageal cancer	esophageal cancer	ham	ham	include cured meats—like bologna, bacon,	
+T-696	esophageal cancer	esophageal cancer	hot dogs	hot dogs	include cured meats—like bologna, bacon, ham, and	
+T-696	meats	meats	ham	ham	—like bologna, bacon,	
+T-696	hot dogs	hot dogs	contamination	contamination	—and eggs, because of frequent dioxin	
+T-696	prostate	prostate	cancer	cancer		
+T-696	cancer	cancer	hot dogs	hot dogs	include cured meats—like bologna, bacon, ham, and	
+T-696	risk	risk	cancer	cancer	of	
+T-696	cancer	cancer	bologna	bologna	include cured meats—like	
+T-696	dogs	dogs	contamination	contamination	—and eggs, because of frequent dioxin	
+T-696	dioxin	dioxin	contamination	contamination		
+T-696	cured meats	cured meats	bologna	bologna	—like	
+T-696	cured meats	cured meats	hot dogs	hot dogs	—like bologna, bacon, ham, and	
+T-696	meats	meats	eggs	eggs	—like bologna, bacon, ham, and hot dogs—and	
+T-696	precancerous	precancerous	fiber	fiber	changes.a higher intake of	
+T-696	cancer	cancer	bacon	bacon	include cured meats—like bologna,	
+T-696	meat	meat	risk	risk	and high-fat meals may increase cancer	
+T-696	strawberries	strawberries	cancer	cancer	in reversing the progression of esophageal	
+T-696	lead	lead	inflammation	inflammation	to	
+T-696	esophageal cancer	esophageal cancer	dogs	dogs	include cured meats—like bologna, bacon, ham, and hot	
+T-696	esophagus	esophagus	precancerous	precancerous	with	
+T-696	cured meats	cured meats	dogs	dogs	—like bologna, bacon, ham, and hot	
+T-696	cancer	cancer	cured meats	cured meats	include	
+T-696	cured meats	cured meats	bacon	bacon	—like bologna,	
+T-696	esophagus	esophagus	fiber	fiber	with precancerous changes.a higher intake of	
+T-696	meats	meats	bologna	bologna	—like	
+T-696	risk	risk	esophagus	esophagus	of barrett’s	
+T-696	meats	meats	bacon	bacon	—like bologna,	
+T-696	hot dogs	hot dogs	dioxin	dioxin	—and eggs, because of frequent	
+T-696	cancer	cancer	risk	risk		
+T-696	supplements	supplements	risk	risk	may also be associated with a significantly elevated	
+T-696	prostate	prostate	reflux	reflux	cancer.this is likely because acid	
+T-696	risk	risk	precancerous	precancerous	of barrett’s esophagus with	
+T-696	cancer	cancer	dogs	dogs	include cured meats—like bologna, bacon, ham, and hot	
+T-696	cured meats	cured meats	ham	ham	—like bologna, bacon,	
+T-696	fiber	fiber	cancer	cancer	may have highly protective effects against esophageal	
+T-696	reflux	reflux	lead	lead	is on the rise, and acid reflux can	
+T-696	lead	lead	esophagus	esophagus	to inflammation, then esophagitis, then barrett’s	
+T-696	esophageal cancer	esophageal cancer	bacon	bacon	include cured meats—like bologna,	
+T-696	hot dogs	hot dogs	eggs	eggs	—and	
+T-696	dogs	dogs	dioxin	dioxin	—and eggs, because of frequent	
+T-696	fiber	fiber	risk	risk	intakes appear to have an approximately 30% lower	
+T-696	meats	meats	hot dogs	hot dogs	—like bologna, bacon, ham, and	
+T-696	esophageal cancer	esophageal cancer	cured meats	cured meats	include	
+T-696	esophageal cancer	esophageal cancer	bologna	bologna	include cured meats—like	
+T-696	meat	meat	cancer	cancer	and high-fat meals may increase	
+T-696	strawberries	strawberries	esophageal cancer	esophageal cancer	in reversing the progression of	
+T-696	cured meats	cured meats	eggs	eggs	—like bologna, bacon, ham, and hot dogs—and	
+T-696	folic acid	folic acid	supplements	supplements	from	

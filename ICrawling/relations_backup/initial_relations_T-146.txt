@@ -1,0 +1,37 @@
+
+T-146	arsenic	arsenic	meat	meat	in the american diet may gave come from 	
+T-146	diet	diet	meat	meat	may gave come from 	
+T-146	seafood	seafood	seaweed	seaweed	intake.one	
+T-146	diet	diet	drugs	drugs	may gave come from meat; arsenic-containing	
+T-146	diet	diet	arsenic	arsenic	may gave come from meat;	
+T-146	seaweed	seaweed	arsenic	arsenic	species, hijiki (also commonly spelled hiziki), absorbs so much	
+T-146	seafood	seafood	hijiki	hijiki	intake.one seaweed species, 	
+T-146	arsenic	arsenic	seaweed	seaweed	is used a biomarker for total fish and seafood intake.one	
+T-146	triphala	triphala	arsenic	arsenic	 has been found to be contaminated with	
+T-146	water	water	arsenic	arsenic	logged soil can absorb	
+T-146	arsenic	arsenic	fish	fish	is used a biomarker for total	
+T-146	arsenic	arsenic	environment	environment	found in the	
+T-146	environment	environment	chicken	chicken	naturally or from from pesticide use or	
+T-146	medicine	medicine	triphala	triphala	 	
+T-146	environment	environment	manure	manure	naturally or from from pesticide use or chicken	
+T-146	arsenic	arsenic	carcinogen	carcinogen	is a category one (the highest level)	
+T-146	ayurvedic medicine	ayurvedic medicine	triphala	triphala	 	
+T-146	fish	fish	seafood	seafood	and	
+T-146	rice	rice	water	water	 grown in	
+T-146	medicine	medicine	lead	lead	 triphala has been found to be contaminated with arsenic,	
+T-146	fish	fish	hijiki	hijiki	and seafood intake.one seaweed species, 	
+T-146	hijiki	hijiki	arsenic	arsenic	 (also commonly spelled hiziki), absorbs so much	
+T-146	arsenic	arsenic	diet	diet	in the american	
+T-146	fish	fish	seaweed	seaweed	and seafood intake.one	
+T-146	medicine	medicine	arsenic	arsenic	 triphala has been found to be contaminated with	
+T-146	triphala	triphala	lead	lead	 has been found to be contaminated with arsenic,	
+T-146	rice	rice	arsenic	arsenic	 grown in water logged soil can absorb	
+T-146	ayurvedic medicine	ayurvedic medicine	arsenic	arsenic	 triphala has been found to be contaminated with	
+T-146	chicken	chicken	manure	manure		
+T-146	drugs	drugs	farm animals	farm animals	have been fed to	
+T-146	farm animals	farm animals	parasites	parasites	to kill intestinal	
+T-146	seaweed	seaweed	hijiki	hijiki	species, 	
+T-146	arsenic	arsenic	seafood	seafood	is used a biomarker for total fish and	
+T-146	water	water	environment	environment	logged soil can absorb arsenic found in the	
+T-146	chicken	chicken	arsenic	arsenic	 probably has the most	
+T-146	ayurvedic medicine	ayurvedic medicine	lead	lead	 triphala has been found to be contaminated with arsenic,	

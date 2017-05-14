@@ -1,0 +1,14 @@
+
+V-1253	mothers	mothers	supplements	supplements	given dha	
+V-1253	supplements	supplements	vision	vision	had infants with significantly better	
+V-1253	infants	infants	vision	vision	with significantly better	
+V-1253	mothers	mothers	vision	vision	given dha supplements had infants with significantly better	
+V-1253	dha	dha	supplements	supplements		
+V-1253	supplements	supplements	infants	infants	had	
+V-1253	mothers	mothers	dha	dha	given	
+V-1253	dha	dha	vision	vision	supplements had infants with significantly better	
+V-1253	breastfeeding	breastfeeding	women	women		
+V-1253	pregnant	pregnant	breastfeeding	breastfeeding	and	
+V-1253	pregnant	pregnant	women	women	and breastfeeding	
+V-1253	mothers	mothers	infants	infants	given dha supplements had	
+V-1253	dha	dha	infants	infants	supplements had	

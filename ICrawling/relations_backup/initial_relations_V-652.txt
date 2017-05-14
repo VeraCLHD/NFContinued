@@ -1,0 +1,21 @@
+
+V-652	cancer cells	cancer cells	phip	phip	peeking through.add some	
+V-652	cancer	cancer	estrogen	estrogen	cell invasion-promoting than straight	
+V-652	breast cancer	breast cancer	estrogen	estrogen	cell invasion-promoting than straight	
+V-652	cooked meat	cooked meat	carcinogen	carcinogen		
+V-652	cooked meat	cooked meat	mutations	mutations	carcinogen, phip, can cause dna	
+V-652	cell proliferation	cell proliferation	phip	phip	and invasion indicates that	
+V-652	beef	beef	fish	fish	and	
+V-652	phip	phip	cancer	cancer	may then promote the invasiveness of breast	
+V-652	phip	phip	breast cancer	breast cancer	is able to exert this pro-invasive [appearance] in	
+V-652	cancer	cancer	phip	phip	cells peeking through.add some	
+V-652	meat	meat	mutations	mutations	carcinogen, phip, can cause dna	
+V-652	meat	meat	carcinogen	carcinogen		
+V-652	dna	dna	tumor	tumor	mutations that may initiate a	
+V-652	meat	meat	phip	phip	carcinogen,	
+V-652	breast cancer	breast cancer	tumors	tumors	cells.the way breast	
+V-652	meat	meat	dna	dna	carcinogen, phip, can cause	
+V-652	cooked meat	cooked meat	phip	phip	carcinogen,	
+V-652	cooked meat	cooked meat	dna	dna	carcinogen, phip, can cause	
+V-652	dna	dna	mutations	mutations		
+V-652	mutations	mutations	tumor	tumor	that may initiate a	

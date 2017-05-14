@@ -1,0 +1,16 @@
+
+V-594	gynecomastia	gynecomastia	lavender	lavender	linked to	
+V-594	lavender	lavender	flowers	flowers		
+V-594	ativan	ativan	lavender	lavender	certainly reduces anxiety, but, so does	
+V-594	aromatherapy	aromatherapy	massage	massage	and	
+V-594	valium	valium	anxiety	anxiety	(lorazepam, known as ativan), for generalized	
+V-594	valium	valium	ativan	ativan	(lorazepam, known as	
+V-594	drugs	drugs	anxiety	anxiety	] for [the] amelioration of generalised	
+V-594	ativan	ativan	anxiety	anxiety	), for generalized	
+V-594	lavender	lavender	massage	massage		
+V-594	england	england	medicine	medicine	journal of	
+V-594	massage	massage	lavender	lavender	with odorless oil to	
+V-594	benzodiazepines	benzodiazepines	downers	downers	—benzos or	
+V-594	ativan	ativan	anxiety	anxiety	certainly reduces	
+V-594	lavender	lavender	flowers	flowers	oil, distilled from lavender	
+V-594	benzodiazepines	benzodiazepines	valium	valium	—benzos or downers, like	

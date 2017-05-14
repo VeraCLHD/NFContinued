@@ -1,0 +1,27 @@
+
+V-550	meat	meat	arthritis	arthritis	proteins triggering inflammatory	
+V-550	meat industry	meat industry	risk	risk	are at increased	
+V-550	seafood	seafood	livestock	livestock	workers.growing up on a	
+V-550	cancer	cancer	livestock	livestock	rates in american seafood workers.growing up on a	
+V-550	beef	beef	sheep	sheep	or 	
+V-550	pork	pork	sheep	sheep	study, not found in beef or 	
+V-550	fish	fish	cancer	cancer	tumors, which is speculated as a cause for increased	
+V-550	arthritis	arthritis	meat	meat	in people eating	
+V-550	symptoms	symptoms	pain	pain	as mild as	
+V-550	cancer	cancer	virus	virus	-causing	
+V-550	disease	disease	symptoms	symptoms	in workers who started with	
+V-550	meat	meat	risk	risk	industry are at increased	
+V-550	meat	meat	plants	plants	cutters, and those working in processing	
+V-550	pork	pork	beef	beef	study, not found in	
+V-550	poultry	poultry	mortality	mortality	exposure appear to suffer the greatest excess	
+V-550	fish	fish	tumors	tumors		
+V-550	risk	risk	cancer	cancer	of developing and dying from	
+V-550	antibodies	antibodies	viruses	viruses	to avian leucosis, sarcoma	
+V-550	meat	meat	cancer	cancer	have higher	
+V-550	symptoms	symptoms	tingling	tingling	as mild as pain,	
+V-550	blood	blood	pigs	pigs	of	
+V-550	poultry	poultry	chicken	chicken	farm, consistent with	
+V-550	cancer	cancer	seafood	seafood	rates in american	
+V-550	cancer	cancer	meat	meat	rates in butchers, in slaughterhouse workers,	
+V-550	risk	risk	viruses	viruses	may be due to [these animal-to-human]	
+V-550	virus	virus	meat	meat	exposure could help explain why those who eat	

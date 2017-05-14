@@ -1,0 +1,9 @@
+
+A-494	medicine	medicine	medical school	medical school	at tufts, the	
+A-494	nutrition	nutrition	t. colin campbell	t. colin campbell	pioneer	
+A-494	americans	americans	heart disease	heart disease	have dropped dead from	
+A-494	medicine	medicine	nutrition	nutrition	at tufts, the medical school boasting the most	
+A-494	medical school	medical school	nutrition	nutrition	boasting the most	
+A-494	americans	americans	disease	disease	have dropped dead from heart	
+A-494	medicine	medicine	tufts	tufts	at	
+A-494	book	book	nutrition	nutrition	on	

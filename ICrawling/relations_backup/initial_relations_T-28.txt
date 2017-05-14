@@ -1,0 +1,73 @@
+
+T-28	colon cancer	colon cancer	death	death	is the second leading cause of cancer	
+T-28	health	health	diet	diet	study (ahs-2) explores the links between lifestyle,	
+T-28	blood	blood	obesity	obesity	pressure,	
+T-28	diet	diet	okinawan diet	okinawan diet	compares favorably to the traditional	
+T-28	beans	beans	split peas	split peas	(including chickpeas,	
+T-28	dried fruit	dried fruit	risk	risk	was associated with decreased	
+T-28	diet	diet	obesity	obesity	incrementally lowered one’s risk of high blood pressure,	
+T-28	vegetarians	vegetarians	california	california	in	
+T-28	colon	colon	death	death	cancer is the second leading cause of cancer	
+T-28	plant-based	plant-based	diet	diet		
+T-28	plant-based diet	plant-based diet	blood pressure	blood pressure	incrementally lowered one’s risk of high	
+T-28	plant-based	plant-based	blood pressure	blood pressure	diet incrementally lowered one’s risk of high	
+T-28	lentils	lentils	risk	risk	), and dried fruit was associated with decreased	
+T-28	diet	diet	vegetarians	vegetarians	was 96% plant-based, yet the adventist	
+T-28	obesity	obesity	brown rice	brown rice	and diabetes.studies also found that eating	
+T-28	colon	colon	cancer	cancer		
+T-28	anti-inflammatory	anti-inflammatory	vegetarians	vegetarians	diet was 96% plant-based, yet the adventist	
+T-28	anti-inflammatory	anti-inflammatory	plant-based	plant-based	diet was 96%	
+T-28	diet	diet	diabetes	diabetes	was protective against	
+T-28	diabetes	diabetes	diet	diet	among those eating a strictly plant-based	
+T-28	women	women	smoking	smoking	when they abstain from	
+T-28	fruit	fruit	polyps	polyps	was associated with decreased risk of colorectal	
+T-28	risk	risk	high blood pressure	high blood pressure	of	
+T-28	vegetarians	vegetarians	diet	diet	in california, with a 100% meat-free	
+T-28	adventist health study	adventist health study	disease	disease	(ahs-2) explores the links between lifestyle, diet and	
+T-28	beans	beans	peas	peas	(including chickpeas, split	
+T-28	fruit	fruit	colorectal polyps	colorectal polyps	was associated with decreased risk of	
+T-28	risk	risk	obesity	obesity	of high blood pressure,	
+T-28	plant-based diet	plant-based diet	blood	blood	incrementally lowered one’s risk of high	
+T-28	obesity	obesity	rice	rice	and diabetes.studies also found that eating brown	
+T-28	plant-based diet	plant-based diet	high blood pressure	high blood pressure	incrementally lowered one’s risk of	
+T-28	plant-based	plant-based	risk	risk	diet incrementally lowered one’s	
+T-28	lentils	lentils	dried fruit	dried fruit	), and	
+T-28	eggs	eggs	dairy	dairy	or	
+T-28	dairy	dairy	diet	diet	.the adventist	
+T-28	risk	risk	blood	blood	of high	
+T-28	plant-based	plant-based	diabetes	diabetes	diet was protective against	
+T-28	dried fruit	dried fruit	polyps	polyps	was associated with decreased risk of colorectal	
+T-28	diet	diet	blood pressure	blood pressure	incrementally lowered one’s risk of high	
+T-28	plant-based	plant-based	high blood pressure	high blood pressure	diet incrementally lowered one’s risk of	
+T-28	cancer	cancer	cancer	cancer	is the second leading cause of	
+T-28	plant-based diet	plant-based diet	obesity	obesity	incrementally lowered one’s risk of high blood pressure,	
+T-28	anti-inflammatory	anti-inflammatory	diet	diet		
+T-28	meat	meat	fish	fish	to eating less meat or just	
+T-28	diet	diet	plant-based	plant-based	was 96%	
+T-28	diet	diet	risk	risk	incrementally lowered one’s	
+T-28	diet	diet	disease	disease	and	
+T-28	dried fruit	dried fruit	colorectal polyps	colorectal polyps	was associated with decreased risk of	
+T-28	diet	diet	blood	blood	incrementally lowered one’s risk of high	
+T-28	beans	beans	chickpeas	chickpeas	(including	
+T-28	smoking	smoking	exercise	exercise	and	
+T-28	diabetes	diabetes	plant-based diet	plant-based diet	among those eating a strictly	
+T-28	diet	diet	high blood pressure	high blood pressure	incrementally lowered one’s risk of	
+T-28	beans	beans	fruit	fruit	(including chickpeas, split peas, lentils), and dried	
+T-28	plant-based diet	plant-based diet	diabetes	diabetes	was protective against	
+T-28	beans	beans	lentils	lentils	(including chickpeas, split peas,	
+T-28	fruit	fruit	risk	risk	was associated with decreased	
+T-28	lentils	lentils	fruit	fruit	), and dried	
+T-28	cancer	cancer	death	death	is the second leading cause of cancer	
+T-28	adventist health study	adventist health study	diet	diet	(ahs-2) explores the links between lifestyle,	
+T-28	beans	beans	dried fruit	dried fruit	(including chickpeas, split peas, lentils), and	
+T-28	blood	blood	brown rice	brown rice	pressure, obesity and diabetes.studies also found that eating	
+T-28	diabetes	diabetes	plant-based	plant-based	among those eating a strictly	
+T-28	eggs	eggs	diet	diet	or dairy.the adventist	
+T-28	women	women	exercise	exercise	when they abstain from smoking and	
+T-28	risk	risk	blood pressure	blood pressure	of high	
+T-28	plant-based diet	plant-based diet	risk	risk	incrementally lowered one’s	
+T-28	plant-based	plant-based	blood	blood	diet incrementally lowered one’s risk of high	
+T-28	fish	fish	meat	meat	and then no	
+T-28	diet	diet	california	california	was 96% plant-based, yet the adventist vegetarians in	
+T-28	colon cancer	colon cancer	cancer	cancer	is the second leading cause of	
+T-28	dairy	dairy	okinawan diet	okinawan diet	.the adventist diet compares favorably to the traditional	

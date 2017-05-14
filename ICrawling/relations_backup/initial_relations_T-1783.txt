@@ -1,0 +1,132 @@
+
+T-1783	soy	soy	supplements	supplements	foods, rather than taking soy	
+T-1783	supplements	supplements	herbalife	herbalife	exist including:	
+T-1783	lutein	lutein	supplements	supplements	pills, creatine, copper	
+T-1783	noni	noni	rice	rice	juice, and	
+T-1783	supplements	supplements	neurotoxins	neurotoxins	may contain	
+T-1783	supplements	supplements	liver	liver	may contain neurotoxins and/or	
+T-1783	b12	b12	paralysis	paralysis	decficiency, which can result in	
+T-1783	supplements	supplements	fish oil	fish oil	is	
+T-1783	folate	folate	beans	beans	in	
+T-1783	yeast	yeast	dha	dha	derived epa and	
+T-1783	liver	liver	toxins	toxins		
+T-1783	vitamins	vitamins	plants	plants	not produced by	
+T-1783	antioxidant	antioxidant	supplements	supplements	vitamin	
+T-1783	prostate	prostate	cancer	cancer		
+T-1783	vegetarian	vegetarian	syndrome	syndrome	’s myelopathy is a	
+T-1783	ddt	ddt	pollutants	pollutants	as well as other industrial	
+T-1783	neurotoxins	neurotoxins	chlorella	chlorella	and/or liver toxins (a safer alternative is	
+T-1783	spirulina	spirulina	neurotoxins	neurotoxins	and blue-green algae supplements may contain	
+T-1783	cancer	cancer	vitamin e	vitamin e	risk, and antioxidant vitamin supplements such as	
+T-1783	beans	beans	pills	pills	and greens is preferable to folic acid in	
+T-1783	cancer	cancer	supplements	supplements	risk, and antioxidant vitamin	
+T-1783	b12	b12	supplements	supplements	deficiency is an epidemic if no	
+T-1783	prostate	prostate	antioxidant	antioxidant	cancer risk, and	
+T-1783	beans	beans	folic acid	folic acid	and greens is preferable to	
+T-1783	cancer	cancer	antioxidant	antioxidant	risk, and	
+T-1783	variety	variety	herbalife	herbalife	of other potentially harmful supplements exist including:	
+T-1783	algae	algae	neurotoxins	neurotoxins	supplements may contain	
+T-1783	copper	copper	zinc	zinc	supplements (which may contribute to alzheimer’s),	
+T-1783	neurotoxins	neurotoxins	liver	liver	and/or	
+T-1783	yeast	yeast	epa	epa	derived	
+T-1783	medicine	medicine	lead	lead	(see also here) has been found to contain	
+T-1783	mercury	mercury	toxins	toxins	(which are neural and cardiac	
+T-1783	supplements	supplements	vitamin c	vitamin c	such as	
+T-1783	prostate cancer	prostate cancer	antioxidant	antioxidant	risk, and	
+T-1783	syndrome	syndrome	vitamin b12	vitamin b12	coined to describe	
+T-1783	vitamin c	vitamin c	airborne supplements	airborne supplements	and	
+T-1783	spirulina	spirulina	supplements	supplements	and blue-green algae	
+T-1783	prostate cancer	prostate cancer	vitamin e	vitamin e	risk, and antioxidant vitamin supplements such as	
+T-1783	citrulline	citrulline	erectile dysfunction	erectile dysfunction	supplements may aid	
+T-1783	myelopathy	myelopathy	syndrome	syndrome	is a	
+T-1783	zinc	zinc	noni	noni	gel, kombucha tea,	
+T-1783	algae	algae	toxins	toxins	supplements may contain neurotoxins and/or liver	
+T-1783	fish	fish	liver	liver	oil, cod	
+T-1783	supplements	supplements	health food	health food	(including bad advice from	
+T-1783	zinc	zinc	tea	tea	gel, kombucha	
+T-1783	plants	plants	synergistic effects	synergistic effects	that can display	
+T-1783	folic acid	folic acid	pills	pills	in	
+T-1783	syndrome	syndrome	b12	b12	coined to describe vitamin	
+T-1783	algae	algae	yeast	yeast	and	
+T-1783	prostate cancer	prostate cancer	supplements	supplements	risk, and antioxidant vitamin	
+T-1783	prostate	prostate	vitamin e	vitamin e	cancer risk, and antioxidant vitamin supplements such as	
+T-1783	cod	cod	liver	liver		
+T-1783	supplements	supplements	health	health	(including bad advice from	
+T-1783	phytonutrients	phytonutrients	synergistic effects	synergistic effects	in plants that can display	
+T-1783	algae	algae	dha	dha	and yeast derived epa and	
+T-1783	vitamin b12	vitamin b12	paralysis	paralysis	decficiency, which can result in	
+T-1783	liver	liver	chlorella	chlorella	toxins (a safer alternative is	
+T-1783	blue-green algae	blue-green algae	toxins	toxins	supplements may contain neurotoxins and/or liver	
+T-1783	herbalife	herbalife	vitamin a	vitamin a	(for its liver toxicity, possibly due to	
+T-1783	vitamin c	vitamin c	supplements	supplements	and airborne	
+T-1783	eye	eye	pregnancy	pregnancy	on is iodine, which is especially important during	
+T-1783	neurotoxins	neurotoxins	toxins	toxins	and/or liver	
+T-1783	zinc	zinc	rice	rice	gel, kombucha tea, noni juice, and	
+T-1783	myelopathy	myelopathy	vitamin b12	vitamin b12	is a syndrome coined to describe	
+T-1783	zinc	zinc	rice bran	rice bran	gel, kombucha tea, noni juice, and	
+T-1783	folate	folate	greens	greens	in beans and	
+T-1783	risk	risk	breast cancer	breast cancer	of	
+T-1783	folate	folate	folic acid	folic acid	in beans and greens is preferable to	
+T-1783	plant-based	plant-based	vitamins	vitamins	diets, there are two	
+T-1783	lutein	lutein	creatine	creatine	pills,	
+T-1783	risk	risk	cancer	cancer	of breast	
+T-1783	liver	liver	vitamin a	vitamin a	toxicity, possibly due to	
+T-1783	prostate cancer	prostate cancer	risk	risk		
+T-1783	produce	produce	pills	pills	not	
+T-1783	antioxidant	antioxidant	vitamin e	vitamin e	vitamin supplements such as	
+T-1783	supplements	supplements	liver	liver	exist including: herbalife (for its	
+T-1783	lutein	lutein	copper	copper	pills, creatine,	
+T-1783	beans	beans	greens	greens	and	
+T-1783	blue-green algae	blue-green algae	supplements	supplements		
+T-1783	ddt	ddt	industrial pollutants	industrial pollutants	as well as other	
+T-1783	phytonutrients	phytonutrients	plants	plants	in	
+T-1783	plant-based	plant-based	plants	plants	diets, there are two vitamins not produced by	
+T-1783	spirulina	spirulina	liver	liver	and blue-green algae supplements may contain neurotoxins and/or	
+T-1783	pcbs	pcbs	mercury	mercury	and	
+T-1783	algae	algae	epa	epa	and yeast derived	
+T-1783	prostate	prostate	supplements	supplements	cancer risk, and antioxidant vitamin	
+T-1783	noni	noni	juice	juice		
+T-1783	blue-green algae	blue-green algae	neurotoxins	neurotoxins	supplements may contain	
+T-1783	greens	greens	folic acid	folic acid	is preferable to	
+T-1783	zinc	zinc	kombucha tea	kombucha tea	gel,	
+T-1783	fish	fish	cod	cod	oil,	
+T-1783	vegetarian	vegetarian	vitamin b12	vitamin b12	’s myelopathy is a syndrome coined to describe	
+T-1783	epa	epa	inflammation	inflammation	and dha, which also lower	
+T-1783	vitamin d	vitamin d	tanning beds	tanning beds	from sun but not from	
+T-1783	fish	fish	cod liver oil	cod liver oil	oil,	
+T-1783	vegans	vegans	iodine	iodine	should keep an eye on is	
+T-1783	greens	greens	pills	pills	is preferable to folic acid in	
+T-1783	copper	copper	kombucha tea	kombucha tea	supplements (which may contribute to alzheimer’s), zinc gel,	
+T-1783	supplements	supplements	airborne supplements	airborne supplements	such as vitamin c and	
+T-1783	copper	copper	supplements	supplements		
+T-1783	algae	algae	liver	liver	supplements may contain neurotoxins and/or	
+T-1783	supplements	supplements	health food stores	health food stores	(including bad advice from	
+T-1783	toxins	toxins	chlorella	chlorella	(a safer alternative is	
+T-1783	cancer	cancer	risk	risk		
+T-1783	herbalife	herbalife	liver	liver	(for its	
+T-1783	myelopathy	myelopathy	b12	b12	is a syndrome coined to describe vitamin	
+T-1783	yeast	yeast	inflammation	inflammation	derived epa and dha, which also lower	
+T-1783	eye	eye	iodine	iodine	on is	
+T-1783	algae	algae	supplements	supplements		
+T-1783	blue-green algae	blue-green algae	liver	liver	supplements may contain neurotoxins and/or	
+T-1783	lutein	lutein	pills	pills		
+T-1783	spirulina	spirulina	algae	algae	and blue-green	
+T-1783	vitamin d	vitamin d	sun	sun	from	
+T-1783	supplements	supplements	erectile dysfunction	erectile dysfunction	may aid	
+T-1783	vitamin e	vitamin e	lifespan	lifespan	that may shorten one’s	
+T-1783	noni	noni	rice bran	rice bran	juice, and	
+T-1783	pcbs	pcbs	toxins	toxins	and mercury (which are neural and cardiac	
+T-1783	sun	sun	tanning beds	tanning beds	but not from	
+T-1783	vegans	vegans	eye	eye	should keep an	
+T-1783	supplements	supplements	fish	fish	is	
+T-1783	prostate	prostate	risk	risk	cancer	
+T-1783	ayurvedic medicine	ayurvedic medicine	lead	lead	(see also here) has been found to contain	
+T-1783	liver	liver	juice	juice	toxicity, possibly due to vitamin a),	
+T-1783	supplements	supplements	toxins	toxins	may contain neurotoxins and/or liver	
+T-1783	zinc	zinc	juice	juice	gel, kombucha tea, noni	
+T-1783	spirulina	spirulina	blue-green algae	blue-green algae	and	
+T-1783	citrulline	citrulline	supplements	supplements		
+T-1783	vegetarian	vegetarian	myelopathy	myelopathy	’s	
+T-1783	epa	epa	dha	dha	and	
+T-1783	flax	flax	cholesterol	cholesterol	seed, but not flax seed oil, lowers	
+T-1783	variety	variety	supplements	supplements	of other potentially harmful	

@@ -1,0 +1,77 @@
+
+T-1357	organic	organic	risk	risk	produce may present less of a food safety	
+T-1357	organic	organic	animal foods	animal foods		
+T-1357	hormones	hormones	animal foods	animal foods	naturally found in even organic	
+T-1357	fruit and vegetable wash	fruit and vegetable wash	produce	produce	that works better.test tube studies suggest organic	
+T-1357	hormones	hormones	disease	disease	in dairy may contribute to	
+T-1357	soybeans	soybeans	organic	organic	have substantially more pesticide residues than	
+T-1357	hormones	hormones	dairy	dairy	in	
+T-1357	gmo	gmo	organic	organic	soybeans have substantially more pesticide residues than	
+T-1357	vinegar	vinegar	salt	salt	or	
+T-1357	vinegar	vinegar	fruit and vegetable wash	fruit and vegetable wash	or salt water	
+T-1357	food safety	food safety	risk	risk		
+T-1357	pork	pork	bacteria	bacteria	may pose less risk of yersinia, an antibiotic-resistant	
+T-1357	risk	risk	bacteria	bacteria	of yersinia, an antibiotic-resistant	
+T-1357	asthma	asthma	allergies	allergies	and	
+T-1357	salt water	salt water	fruit	fruit		
+T-1357	salt	salt	water	water		
+T-1357	vitamins	vitamins	organic	organic	and minerals between	
+T-1357	pork	pork	yersinia	yersinia	may pose less risk of	
+T-1357	organic	organic	risk	risk	pork may pose less	
+T-1357	environmental cancer	environmental cancer	risk	risk		
+T-1357	produce	produce	soy	soy	or	
+T-1357	cancer	cancer	berries	berries	cells better than conventional	
+T-1357	pork	pork	risk	risk	may pose less	
+T-1357	water	water	pesticides	pesticides	may only remove around 15% of	
+T-1357	vegetarian	vegetarian	asthma	asthma	diets may have a lower prevalence of	
+T-1357	organic	organic	pork	pork		
+T-1357	organic	organic	produce	produce		
+T-1357	minerals	minerals	produce	produce	between organic and conventionally grown	
+T-1357	monsanto	monsanto	roundup	roundup	’s	
+T-1357	organic	organic	berries	berries		
+T-1357	salt	salt	fruit	fruit	water	
+T-1357	organic	organic	women	women	animal foods may help explain why	
+T-1357	phytonutrients	phytonutrients	organic	organic	have been found in	
+T-1357	risk	risk	organic	organic	at all when you can choose	
+T-1357	organic	organic	apple	apple	rather than conventional	
+T-1357	organic	organic	yersinia	yersinia	pork may pose less risk of	
+T-1357	vitamins	vitamins	produce	produce	and minerals between organic and conventionally grown	
+T-1357	organic	organic	juice	juice	rather than conventional apple	
+T-1357	animal foods	animal foods	women	women	may help explain why	
+T-1357	fruits	fruits	organic	organic	and vegetables.children raised on largely	
+T-1357	vinegar	vinegar	fruit	fruit	or salt water	
+T-1357	produce	produce	risk	risk	may present less of a food safety	
+T-1357	organic	organic	fruits	fruits		
+T-1357	cancer	cancer	children	children	panel report recommends choosing organic, especially for	
+T-1357	risk	risk	yersinia	yersinia	of	
+T-1357	dairy	dairy	disease	disease	may contribute to	
+T-1357	salt water	salt water	fruit and vegetable wash	fruit and vegetable wash		
+T-1357	phytonutrients	phytonutrients	produce	produce	have been found in organic	
+T-1357	drugs	drugs	bacteria	bacteria	and multi-drug resident	
+T-1357	soy foods	soy foods	pesticides	pesticides	likely far outweigh the risks of	
+T-1357	produce	produce	soy foods	soy foods	or	
+T-1357	soy	soy	pesticides	pesticides	foods likely far outweigh the risks of	
+T-1357	produce	produce	food safety	food safety	may present less of a	
+T-1357	fruits	fruits	vegetarian	vegetarian	and vegetables.children raised on largely organic,	
+T-1357	organic	organic	gmo	gmo	or conventional non-	
+T-1357	vinegar	vinegar	salt water	salt water	or	
+T-1357	organic	organic	apple juice	apple juice	rather than conventional	
+T-1357	salt	salt	fruit and vegetable wash	fruit and vegetable wash	water	
+T-1357	women	women	vegan	vegan	eating	
+T-1357	apple	apple	juice	juice		
+T-1357	drugs	drugs	organic	organic	and multi-drug resident bacteria, and	
+T-1357	vitamins	vitamins	minerals	minerals	and	
+T-1357	minerals	minerals	organic	organic	between	
+T-1357	organic	organic	vegan	vegan	animal foods may help explain why women eating	
+T-1357	fruit and vegetable wash	fruit and vegetable wash	organic	organic	that works better.test tube studies suggest	
+T-1357	gmo	gmo	soybeans	soybeans		
+T-1357	cancer	cancer	organic	organic	panel report recommends choosing	
+T-1357	drugs	drugs	pork	pork	and multi-drug resident bacteria, and organic	
+T-1357	hormones	hormones	organic	organic	naturally found in even	
+T-1357	animal foods	animal foods	vegan	vegan	may help explain why women eating	
+T-1357	vinegar	vinegar	water	water	or salt	
+T-1357	organic	organic	soy	soy	or conventional non-gmo	
+T-1357	organic	organic	vegetarian	vegetarian	fruits and vegetables.children raised on largely organic,	
+T-1357	cancer cells	cancer cells	berries	berries	better than conventional	
+T-1357	organic	organic	food safety	food safety	produce may present less of a	
+T-1357	produce	produce	water	water	under running	

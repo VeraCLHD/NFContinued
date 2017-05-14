@@ -1,0 +1,18 @@
+
+T-671	meats	meats	cured meats	cured meats	—especially processed and	
+T-671	cured meats	cured meats	endometrial cancer	endometrial cancer	—may increase the risk of	
+T-671	postmenopausal	postmenopausal	women	women		
+T-671	cured meats	cured meats	risk	risk	—may increase the	
+T-671	cancer	cancer	postmenopausal	postmenopausal	in	
+T-671	endometrial cancer	endometrial cancer	women	women	in postmenopausal	
+T-671	cured meats	cured meats	cancer	cancer	—may increase the risk of endometrial	
+T-671	risk	risk	cancer	cancer	of endometrial	
+T-671	risk	risk	endometrial cancer	endometrial cancer	of	
+T-671	milk	milk	risk	risk	consumption has been associated with an increased	
+T-671	french fries	french fries	acrylamide	acrylamide	can contain	
+T-671	cancer	cancer	women	women	in postmenopausal	
+T-671	meats	meats	risk	risk	—especially processed and cured meats—may increase the	
+T-671	risk	risk	women	women	of endometrial cancer in postmenopausal	
+T-671	endometrial cancer	endometrial cancer	postmenopausal	postmenopausal	in	
+T-671	diet	diet	cancer	cancer	may affect one’s vulnerability to	
+T-671	risk	risk	postmenopausal	postmenopausal	of endometrial cancer in	

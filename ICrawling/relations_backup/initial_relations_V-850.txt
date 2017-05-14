@@ -1,0 +1,13 @@
+
+V-850	risk	risk	mouth	mouth	of [cancers—especially] bladder cancer, breast [cancer], [	
+V-850	cancer	cancer	risk	risk		
+V-850	risk	risk	cancer	cancer	of [cancers—especially] bladder	
+V-850	bladder	bladder	liver	liver	cancer, breast [cancer], [mouth,] colorectal, endometrial, esophageal, [	
+V-850	diet	diet	cancer	cancer	and	
+V-850	coffee	coffee	beans	beans		
+V-850	cancer	cancer	coffee	coffee	was because people who drink	
+V-850	coffee	coffee	cancer	cancer	drinking caused	
+V-850	risk	risk	bladder cancer	bladder cancer	of [cancers—especially]	
+V-850	bladder	bladder	cancer	cancer		
+V-850	risk	risk	bladder	bladder	of [cancers—especially]	
+V-850	bladder	bladder	mouth	mouth	cancer, breast [cancer], [	

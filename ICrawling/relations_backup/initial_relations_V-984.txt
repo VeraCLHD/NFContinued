@@ -1,0 +1,22 @@
+
+V-984	plant-based	plant-based	potatoes	potatoes	diet of taro, greens, sweet	
+V-984	diet	diet	bananas	bananas	of taro, greens, sweet potatoes, fruit, more greens,	
+V-984	plant-based	plant-based	fruit	fruit	diet of taro, greens, sweet potatoes,	
+V-984	vegetarians	vegetarians	vegan	vegan	fared better, though, as did vegetarian and especially	
+V-984	plant-based diet	plant-based diet	bananas	bananas	of taro, greens, sweet potatoes, fruit, more greens,	
+V-984	diet	diet	potatoes	potatoes	of taro, greens, sweet	
+V-984	plant-based	plant-based	greens	greens	diet of taro,	
+V-984	plant-based diet	plant-based diet	greens	greens	of taro,	
+V-984	plant-based diet	plant-based diet	potatoes	potatoes	of taro, greens, sweet	
+V-984	plant-based	plant-based	sweet potatoes	sweet potatoes	diet of taro, greens,	
+V-984	vegetarian	vegetarian	vegan	vegan	and especially	
+V-984	diet	diet	taro	taro	of	
+V-984	plant-based	plant-based	diet	diet		
+V-984	plant-based diet	plant-based diet	taro	taro	of	
+V-984	plant-based diet	plant-based diet	fruit	fruit	of taro, greens, sweet potatoes,	
+V-984	diet	diet	greens	greens	of taro,	
+V-984	vegetarians	vegetarians	vegetarian	vegetarian	fared better, though, as did	
+V-984	diet	diet	sweet potatoes	sweet potatoes	of taro, greens,	
+V-984	plant-based	plant-based	taro	taro	diet of	
+V-984	plant-based diet	plant-based diet	sweet potatoes	sweet potatoes	of taro, greens,	
+V-984	diet	diet	fruit	fruit	of taro, greens, sweet potatoes,	

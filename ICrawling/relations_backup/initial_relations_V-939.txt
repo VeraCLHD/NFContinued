@@ -1,0 +1,9 @@
+
+V-939	doctors	doctors	juice	juice	give them than apple	
+V-939	apple	apple	juice	juice		
+V-939	doctors	doctors	apple	apple	give them than	
+V-939	apples	apples	apple juice	apple juice	institute funded a study suggesting	
+V-939	apple	apple	cognitive performance	cognitive performance	juice, no change in	
+V-939	doctors	doctors	apple juice	apple juice	give them than	
+V-939	apples	apples	apple	apple	institute funded a study suggesting	
+V-939	apples	apples	juice	juice	institute funded a study suggesting apple	

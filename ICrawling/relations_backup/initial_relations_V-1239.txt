@@ -1,0 +1,51 @@
+
+V-1239	tomato juice	tomato juice	apple juice	apple juice	from concentrate, hot coffee, and	
+V-1239	sugar	sugar	juice	juice	and the soda in cranberry	
+V-1239	cranberry	cranberry	sodium	sodium	juice; even without all the	
+V-1239	cranberry	cranberry	tea	tea	juice cocktail, hot	
+V-1239	tea	tea	juice	juice	.even without the sugar and the soda in cranberry	
+V-1239	soda	soda	juice	juice	in cranberry	
+V-1239	soda	soda	cranberry	cranberry	in	
+V-1239	tea	tea	cranberry juice	cranberry juice	.even without the sugar and the soda in	
+V-1239	juice	juice	orange	orange	cocktail, hot tea,	
+V-1239	soda	soda	sodium	sodium	in cranberry juice; even without all the	
+V-1239	cranberry juice	cranberry juice	tea	tea	cocktail, hot	
+V-1239	variety	variety	cranberry	cranberry	of soft drinks, water,	
+V-1239	tomato juice	tomato juice	coffee	coffee	from concentrate, hot	
+V-1239	variety	variety	cranberry juice	cranberry juice	of soft drinks, water,	
+V-1239	orange juice	orange juice	juice	juice	from concentrate, tomato	
+V-1239	tomato juice	tomato juice	apple	apple	from concentrate, hot coffee, and	
+V-1239	variety	variety	soft drinks	soft drinks	of	
+V-1239	cranberry	cranberry	orange	orange	juice cocktail, hot tea,	
+V-1239	tomato juice	tomato juice	juice	juice	from concentrate, hot coffee, and apple	
+V-1239	sodium	sodium	water	water	in the tomato juice, tea has all the	
+V-1239	sugar	sugar	soda	soda	and the	
+V-1239	sodium	sodium	tomato juice	tomato juice	in the	
+V-1239	tea	tea	sugar	sugar	.even without the	
+V-1239	orange juice	orange juice	tomato juice	tomato juice	from concentrate,	
+V-1239	sugar	sugar	cranberry	cranberry	and the soda in	
+V-1239	cranberry juice	cranberry juice	juice	juice	cocktail, hot tea, orange	
+V-1239	soda	soda	cranberry juice	cranberry juice	in	
+V-1239	cranberry	cranberry	tomato juice	tomato juice	juice cocktail, hot tea, orange juice from concentrate,	
+V-1239	orange	orange	coffee	coffee	juice from concentrate, tomato juice from concentrate, hot	
+V-1239	orange	orange	tomato juice	tomato juice	juice from concentrate,	
+V-1239	sodium	sodium	juice	juice	in the tomato	
+V-1239	cranberry juice	cranberry juice	orange	orange	cocktail, hot tea,	
+V-1239	tea	tea	cranberry	cranberry	.even without the sugar and the soda in	
+V-1239	orange	orange	juice	juice		
+V-1239	cranberry juice	cranberry juice	orange juice	orange juice	cocktail, hot tea,	
+V-1239	variety	variety	juice	juice	of soft drinks, water, cranberry	
+V-1239	sugar	sugar	cranberry juice	cranberry juice	and the soda in	
+V-1239	variety	variety	tea	tea	of soft drinks, water, cranberry juice cocktail, hot	
+V-1239	apple	apple	juice	juice		
+V-1239	cranberry	cranberry	juice	juice		
+V-1239	tea	tea	soda	soda	.even without the sugar and the	
+V-1239	juice	juice	orange juice	orange juice	cocktail, hot tea,	
+V-1239	cranberry juice	cranberry juice	tomato juice	tomato juice	cocktail, hot tea, orange juice from concentrate,	
+V-1239	juice	juice	tea	tea	cocktail, hot	
+V-1239	orange juice	orange juice	coffee	coffee	from concentrate, tomato juice from concentrate, hot	
+V-1239	cranberry	cranberry	orange juice	orange juice	juice cocktail, hot tea,	
+V-1239	juice	juice	tomato juice	tomato juice	cocktail, hot tea, orange juice from concentrate,	
+V-1239	sodium	sodium	tea	tea	in the tomato juice,	
+V-1239	variety	variety	water	water	of soft drinks,	
+V-1239	cranberry	cranberry	tomato juice	tomato juice	juice; even without all the sodium in the	

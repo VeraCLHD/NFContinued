@@ -1,0 +1,42 @@
+
+V-726	risk	risk	prostate cancer	prostate cancer	factor for	
+V-726	prostate	prostate	plant-based diets	plant-based diets	cancer, the reason	
+V-726	igf-1	igf-1	vegans	vegans	levels in meat-eaters, versus vegetarians, versus	
+V-726	igf-1	igf-1	vegetarians	vegetarians	levels in meat-eaters, versus	
+V-726	plant-based diets	plant-based diets	prostate	prostate	appear to reverse the progression of	
+V-726	risk	risk	plant-based diets	plant-based diets	factor for prostate cancer, the reason	
+V-726	vegetarians	vegetarians	prostate	prostate	and meat-eaters—which can be a risk factor for	
+V-726	plant-based	plant-based	diet	diet		
+V-726	plant-based	plant-based	prostate	prostate	diets appear to reverse the progression of	
+V-726	vegetarians	vegetarians	risk	risk	and meat-eaters—which can be a	
+V-726	growth hormone	growth hormone	animal products	animal products	levels, one apparently has to eliminate	
+V-726	igf-1	igf-1	cancer	cancer	levels drop low enough to reverse	
+V-726	risk	risk	prostate	prostate	factor for	
+V-726	vegan men	vegan men	testosterone	testosterone	tend to have significantly higher	
+V-726	risk	risk	cancer	cancer	for postmenopausal breast	
+V-726	prostate	prostate	cancer	cancer		
+V-726	plant-based	plant-based	igf-1	igf-1	diets for 14 years have half the	
+V-726	plant-based	plant-based	diet	diet	does our	
+V-726	prostate	prostate	plant-based	plant-based	cancer, the reason	
+V-726	postmenopausal	postmenopausal	breast cancer	breast cancer		
+V-726	igf-1	igf-1	women	women	in their bloodstreams.this was a study on	
+V-726	plant-based diets	plant-based diets	cancer	cancer	appear to reverse the progression of prostate	
+V-726	risk	risk	plant-based	plant-based	factor for prostate cancer, the reason	
+V-726	risk	risk	cancer	cancer	factor for prostate	
+V-726	plant-based diet	plant-based diet	igf-1	igf-1	is associated with a lower circulating level of	
+V-726	risk	risk	breast cancer	breast cancer	for postmenopausal	
+V-726	igf-1	igf-1	diet	diet	start to creep back up to standard american	
+V-726	plant-based	plant-based	prostate cancer	prostate cancer	diets appear to reverse the progression of	
+V-726	plant-based diets	plant-based diets	prostate cancer	prostate cancer	appear to reverse the progression of	
+V-726	postmenopausal	postmenopausal	cancer	cancer	breast	
+V-726	diet	diet	igf-1	igf-1	is associated with a lower circulating level of	
+V-726	testosterone	testosterone	vegetarians	vegetarians	levels than both	
+V-726	vegetarians	vegetarians	prostate cancer	prostate cancer	and meat-eaters—which can be a risk factor for	
+V-726	vegan	vegan	testosterone	testosterone	men tend to have significantly higher	
+V-726	risk	risk	postmenopausal	postmenopausal	for	
+V-726	vegan	vegan	diet	diet		
+V-726	vegans	vegans	igf-1	igf-1	were significantly more able to bind up excess	
+V-726	diet	diet	igf-1	igf-1	need to get?well, let’s look at	
+V-726	igf-1	igf-1	standard american diet	standard american diet	start to creep back up to	
+V-726	plant-based diets	plant-based diets	igf-1	igf-1	for 14 years have half the	
+V-726	plant-based	plant-based	cancer	cancer	diets appear to reverse the progression of prostate	

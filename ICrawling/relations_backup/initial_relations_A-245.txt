@@ -1,0 +1,27 @@
+
+A-245	americans	americans	beans	beans	don’t know	
+A-245	peas	peas	lentils	lentils	or	
+A-245	health	health	cheap	cheap	benefits, beans are	
+A-245	americans	americans	greens	greens	don’t eat their	
+A-245	split peas	split peas	lentils	lentils	or	
+A-245	beans	beans	folate	folate	are excellent sources of fiber,	
+A-245	minerals	minerals	potassium	potassium	such as magnesium, phosphorus,	
+A-245	canned beans	canned beans	beans	beans	cost about three times more than dried	
+A-245	minerals	minerals	magnesium	magnesium	such as	
+A-245	greens	greens	beans	beans	and	
+A-245	beans	beans	sodium	sodium	can get rid of about half the	
+A-245	canned beans	canned beans	sodium	sodium	can get rid of about half the	
+A-245	health	health	beans	beans	benefits,	
+A-245	beans	beans	protein	protein	are excellent sources of fiber, folate, plant	
+A-245	cost per serving	cost per serving	beans	beans	of	
+A-245	beans	beans	diet	diet	are an essential part of any healthful	
+A-245	beans	beans	fiber	fiber	are excellent sources of	
+A-245	beans	beans	plant protein	plant protein	are excellent sources of fiber, folate,	
+A-245	beans	beans	cheap	cheap	are	
+A-245	nutrition	nutrition	beans	beans	sciences spilled the	
+A-245	minerals	minerals	phosphorus	phosphorus	such as magnesium,	
+A-245	sodium	sodium	canned beans	canned beans	content of	
+A-245	canned beans	canned beans	beans	beans	or cooked	
+A-245	beans	beans	gas	gas	and	
+A-245	minerals	minerals	copper	copper	such as magnesium, phosphorus, potassium, and	
+A-245	sodium	sodium	beans	beans	content of canned	

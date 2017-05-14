@@ -1,0 +1,127 @@
+
+T-590	gut	gut	bile	bile	bacteria that turn our	
+T-590	almonds	almonds	green tea	green tea	and grapes, carob, broccoli, broccoli sprouts, legumes, dragon’s blood, garlic,	
+T-590	smoking	smoking	meat	meat	and	
+T-590	gut bacteria	gut bacteria	bile acids	bile acids	that turn our	
+T-590	spices	spices	dna	dna	may be particularly beneficial in protecting against	
+T-590	meat	meat	poultry	poultry	(including	
+T-590	almonds	almonds	tea	tea	and grapes, carob, broccoli, broccoli sprouts, legumes, dragon’s blood, garlic, green	
+T-590	ginger	ginger	dna	dna	and lemon balm may even reduce the	
+T-590	ginger	ginger	lemon	lemon	and	
+T-590	dna damage	dna damage	risk	risk	and have been linked with increased breast cancer	
+T-590	soy	soy	tempeh	tempeh	(edamame, tofu,	
+T-590	fish	fish	creatine	creatine	), and	
+T-590	dna damage	dna damage	rosemary	rosemary	such as turmeric, black pepper, ginger,	
+T-590	cooked meat	cooked meat	poultry	poultry	(including	
+T-590	breast cancer	breast cancer	risk	risk		
+T-590	carcinogens	carcinogens	prevention	prevention	by intercepting mutations.specific studies have shown the possible	
+T-590	heterocyclic amines	heterocyclic amines	meat	meat	found in eggs, cheese, cooked	
+T-590	cooked meat	cooked meat	creatine	creatine	(including poultry and fish), and	
+T-590	dna damage	dna damage	tarragon	tarragon	such as turmeric, black pepper, ginger, rosemary, and	
+T-590	green tea	green tea	potatoes	potatoes	and white tea, coffee, purple	
+T-590	dna	dna	tarragon	tarragon	damage such as turmeric, black pepper, ginger, rosemary, and	
+T-590	dna damage	dna damage	cancer	cancer	overall, slowed	
+T-590	prevention	prevention	broccoli	broccoli	or repair capabilities of apples, almonds and grapes, carob,	
+T-590	meats	meats	nitrosamines	nitrosamines	may contain carcinogenic	
+T-590	bacteria	bacteria	bile acids	bile acids	that turn our	
+T-590	chlorophyll	chlorophyll	carcinogens	carcinogens	may also protect our dna against	
+T-590	meat	meat	creatine	creatine	(including poultry and fish), and	
+T-590	poultry	poultry	creatine	creatine	and fish), and	
+T-590	almonds	almonds	sprouts	sprouts	and grapes, carob, broccoli, broccoli	
+T-590	lemon	lemon	dna damage	dna damage	balm may even reduce the	
+T-590	fruits	fruits	vegetables	vegetables	and	
+T-590	dna	dna	exercise	exercise	damage caused by high-intensity	
+T-590	ginger	ginger	lemon balm	lemon balm	and	
+T-590	gut	gut	bile acids	bile acids	bacteria that turn our	
+T-590	watercress	watercress	dna	dna	may counter the	
+T-590	poultry	poultry	fish	fish	and	
+T-590	tea	tea	purple potatoes	purple potatoes	and white tea, coffee,	
+T-590	frying	frying	bacon	bacon		
+T-590	tea	tea	white tea	white tea	and	
+T-590	dna	dna	carcinogens	carcinogens	against	
+T-590	meditation	meditation	stress	stress	and	
+T-590	spices	spices	dna damage	dna damage	may be particularly beneficial in protecting against	
+T-590	ginger	ginger	dna damage	dna damage	and lemon balm may even reduce the	
+T-590	liquid smoke	liquid smoke	smoked foods	smoked foods	is not likely to be as carcinogenic as	
+T-590	dna damage	dna damage	turmeric	turmeric	such as	
+T-590	green tea	green tea	coffee	coffee	and white tea,	
+T-590	meat	meat	dna damage	dna damage	consumption are associated with increased	
+T-590	almonds	almonds	broccoli sprouts	broccoli sprouts	and grapes, carob, broccoli, 	
+T-590	meats	meats	fish	fish	and	
+T-590	dna	dna	rosemary	rosemary	damage such as turmeric, black pepper, ginger,	
+T-590	green tea	green tea	purple potatoes	purple potatoes	and white tea, coffee,	
+T-590	dna	dna	cancer growth	cancer growth	damage overall, slowed	
+T-590	dna damage	dna damage	produce	produce	through pesticide exposure by eating conventional	
+T-590	bile	bile	dna damage	dna damage	acids into carcinogens.plant-based diets have been associated with decreased	
+T-590	smoking	smoking	dna damage	dna damage	and meat consumption are associated with increased	
+T-590	cooked meat	cooked meat	fish	fish	(including poultry and	
+T-590	almonds	almonds	carob	carob	and grapes, 	
+T-590	dna damage	dna damage	pepper	pepper	such as turmeric, black	
+T-590	almonds	almonds	broccoli	broccoli	and grapes, carob,	
+T-590	heterocyclic amines	heterocyclic amines	eggs	eggs	found in	
+T-590	dna	dna	pepper	pepper	damage such as turmeric, black	
+T-590	lemon balm	lemon balm	radiation	radiation	may even reduce the dna damage caused by	
+T-590	prevention	prevention	apples	apples	or repair capabilities of 	
+T-590	lemon balm	lemon balm	dna damage	dna damage	may even reduce the	
+T-590	dna damage	dna damage	ginger	ginger	such as turmeric, black pepper, 	
+T-590	bile	bile	dna	dna	acids into carcinogens.plant-based diets have been associated with decreased	
+T-590	chlorophyll	chlorophyll	dna	dna	may also protect our	
+T-590	green tea	green tea	tea	tea	and white	
+T-590	dna damage	dna damage	exercise	exercise	caused by high-intensity	
+T-590	smoking	smoking	dna	dna	and meat consumption are associated with increased	
+T-590	gut	gut	bacteria	bacteria		
+T-590	prevention	prevention	legumes	legumes	or repair capabilities of apples, almonds and grapes, carob, broccoli, broccoli sprouts, 	
+T-590	almonds	almonds	garlic	garlic	and grapes, carob, broccoli, broccoli sprouts, legumes, dragon’s blood,	
+T-590	lemon balm	lemon balm	dna	dna	may even reduce the	
+T-590	dna	dna	ginger	ginger	damage such as turmeric, black pepper, 	
+T-590	prevention	prevention	grapes	grapes	or repair capabilities of apples, almonds and	
+T-590	watercress	watercress	exercise	exercise	may counter the dna damage caused by high-intensity	
+T-590	meat	meat	dna	dna	consumption are associated with increased	
+T-590	dna damage	dna damage	cancer	cancer	and have been linked with increased breast	
+T-590	cancer	cancer	aging	aging	growth, and possibly even slowed	
+T-590	dna damage	dna damage	black pepper	black pepper	such as turmeric, 	
+T-590	dna	dna	radiation	radiation	damage caused by	
+T-590	risk	risk	dna damage	dna damage	of	
+T-590	creatine	creatine	dna damage	dna damage	may be one factor in that	
+T-590	heterocyclic amines	heterocyclic amines	poultry	poultry	found in eggs, cheese, cooked meat (including	
+T-590	meats	meats	dna damage	dna damage	in general may cause	
+T-590	tea	tea	potatoes	potatoes	and white tea, coffee, purple	
+T-590	dna damage	dna damage	travel	travel	caused by radiation, including radiation exposure from airline	
+T-590	prevention	prevention	carob	carob	or repair capabilities of apples, almonds and grapes, 	
+T-590	heterocyclic amines	heterocyclic amines	cheese	cheese	found in eggs,	
+T-590	almonds	almonds	legumes	legumes	and grapes, carob, broccoli, broccoli sprouts, 	
+T-590	dna damage	dna damage	breast cancer	breast cancer	and have been linked with increased	
+T-590	dna damage	dna damage	cancer growth	cancer growth	overall, slowed	
+T-590	tea	tea	coffee	coffee	and white tea,	
+T-590	almonds	almonds	grapes	grapes	and	
+T-590	dna	dna	dna damage	dna damage	healthy.our risk of	
+T-590	heterocyclic amines	heterocyclic amines	cooked meat	cooked meat	found in eggs, cheese,	
+T-590	creatine	creatine	dna	dna	may be one factor in that	
+T-590	meat	meat	fish	fish	(including poultry and	
+T-590	risk	risk	dna	dna	of	
+T-590	almonds	almonds	blood	blood	and grapes, carob, broccoli, broccoli sprouts, legumes, dragon’s	
+T-590	watercress	watercress	dna damage	dna damage	may counter the	
+T-590	prevention	prevention	broccoli sprouts	broccoli sprouts	or repair capabilities of apples, almonds and grapes, carob, broccoli, 	
+T-590	processed meats	processed meats	nitrosamines	nitrosamines	may contain carcinogenic	
+T-590	dna	dna	risk	risk	healthy.our	
+T-590	lemon	lemon	dna	dna	balm may even reduce the	
+T-590	gut bacteria	gut bacteria	bile	bile	that turn our	
+T-590	dna	dna	aging	aging	damage overall, slowed cancer growth, and possibly even slowed	
+T-590	cancer	cancer	risk	risk		
+T-590	dna damage	dna damage	aging	aging	overall, slowed cancer growth, and possibly even slowed	
+T-590	stress	stress	dna	dna	management is also helpful in keeping our	
+T-590	dna	dna	breast cancer	breast cancer	damage and have been linked with increased	
+T-590	meats	meats	dna	dna	in general may cause	
+T-590	bacteria	bacteria	bile	bile	that turn our	
+T-590	bile acids	bile acids	dna	dna	into carcinogens.plant-based diets have been associated with decreased	
+T-590	dna	dna	cancer	cancer	damage and have been linked with increased breast	
+T-590	dna	dna	cancer	cancer	damage overall, slowed	
+T-590	prevention	prevention	sprouts	sprouts	or repair capabilities of apples, almonds and grapes, carob, broccoli, broccoli	
+T-590	dna	dna	turmeric	turmeric	damage such as	
+T-590	green tea	green tea	white tea	white tea	and	
+T-590	soy	soy	tofu	tofu	(edamame,	
+T-590	bile acids	bile acids	dna damage	dna damage	into carcinogens.plant-based diets have been associated with decreased	
+T-590	dna damage	dna damage	radiation	radiation	caused by	
+T-590	dna	dna	black pepper	black pepper	damage such as turmeric, 	
+T-590	antioxidants	antioxidants	plant foods	plant foods	in	
+T-590	prevention	prevention	almonds	almonds	or repair capabilities of apples, 	

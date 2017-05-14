@@ -1,0 +1,15 @@
+
+A-259	wheat	wheat	protein	protein		
+A-259	protein	protein	gluten	gluten		
+A-259	symptoms	symptoms	wheat	wheat	associated with the	
+A-259	americans	americans	gluten	gluten	are	
+A-259	gluten	gluten	nutrition	nutrition	in my new dvd, latest in clinical	
+A-259	doctors	doctors	wheat	wheat	about symptoms associated with the	
+A-259	doctors	doctors	gluten	gluten	about symptoms associated with the wheat protein	
+A-259	doctors	doctors	symptoms	symptoms	about	
+A-259	symptoms	symptoms	protein	protein	associated with the wheat	
+A-259	symptoms	symptoms	gluten	gluten	associated with the wheat protein	
+A-259	gluten	gluten	clinical nutrition	clinical nutrition	in my new dvd, latest in	
+A-259	gluten	gluten	dvd	dvd	in my new	
+A-259	wheat	wheat	gluten	gluten	protein	
+A-259	doctors	doctors	protein	protein	about symptoms associated with the wheat	

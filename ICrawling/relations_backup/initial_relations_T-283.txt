@@ -1,0 +1,68 @@
+
+T-283	flora	flora	whole foods	whole foods	happy.fiber from	
+T-283	risk	risk	breast cancer	breast cancer	of	
+T-283	women	women	bowel movements	bowel movements	who have more frequent	
+T-283	risk	risk	cancer	cancer	of breast	
+T-283	ph	ph	risk	risk	(from a diet high in fiber) have less	
+T-283	plant-based	plant-based	bowel movements	bowel movements	diets can lead to two to three healthy	
+T-283	bowel movements	bowel movements	colon health	colon health	may play an important role in	
+T-283	bowel movements	bowel movements	breast cancer	breast cancer	appear to be at lower risk of	
+T-283	whole foods	whole foods	constipation	constipation	can prevent diverticulosis,	
+T-283	risk	risk	colorectal cancer	colorectal cancer	of developing	
+T-283	lead	lead	bowel movements	bowel movements	to two to three healthy	
+T-283	fat	fat	fish	fish	blocking drugs and certain	
+T-283	estrogen	estrogen	bile	bile	and excess	
+T-283	meat	meat	processed foods	processed foods	and	
+T-283	diet	diet	risk	risk	high in fiber) have less	
+T-283	prunes	prunes	supplements	supplements	were found to be more effective than fiber	
+T-283	antioxidants	antioxidants	stool size	stool size	may also help increase	
+T-283	fiber	fiber	plant-based diets	plant-based diets	diets such as traditional	
+T-283	ph	ph	diet	diet	(from a	
+T-283	fiber	fiber	colorectal cancer	colorectal cancer	) have less risk of developing	
+T-283	gut flora	gut flora	diverticulosis	diverticulosis	happy.fiber from whole foods can prevent	
+T-283	bowel movements	bowel movements	health	health	may play an important role in colon	
+T-283	gut flora	gut flora	constipation	constipation	happy.fiber from whole foods can prevent diverticulosis,	
+T-283	colon	colon	health	health		
+T-283	fiber	fiber	risk	risk	) have less	
+T-283	bowel movements	bowel movements	bile	bile	rid the body of excess estrogen and excess	
+T-283	bacteria	bacteria	colon	colon	in our	
+T-283	risk	risk	bile	bile	of breast cancer, which may be because	
+T-283	fat	fat	drugs	drugs	blocking	
+T-283	bowel movements	bowel movements	risk	risk	appear to be at lower	
+T-283	drugs	drugs	fish	fish	and certain	
+T-283	risk	risk	cancer	cancer	of developing colorectal	
+T-283	risk	risk	diverticulosis	diverticulosis	for conditions such as	
+T-283	fiber	fiber	cancer	cancer	) have less risk of developing colorectal	
+T-283	gut flora	gut flora	whole foods	whole foods	happy.fiber from	
+T-283	supplements	supplements	bowel movements	bowel movements	in increasing spontaneous	
+T-283	fiber	fiber	lead	lead	diets such as traditional plant-based diets can	
+T-283	dairy	dairy	constipation	constipation	products may cure almost all cases of childhood	
+T-283	bowel movements	bowel movements	cancer	cancer	appear to be at lower risk of breast	
+T-283	whole foods	whole foods	heartburn	heartburn	can prevent diverticulosis, constipation, and hiatal hernias,	
+T-283	fiber	fiber	plant-based	plant-based	diets such as traditional	
+T-283	transit time	transit time	bowel movements	bowel movements	of	
+T-283	prunes	prunes	fiber	fiber	were found to be more effective than	
+T-283	meat	meat	risk	risk	and processed foods may increase one’s	
+T-283	bowel movements	bowel movements	estrogen	estrogen	rid the body of excess	
+T-283	fiber	fiber	supplements	supplements		
+T-283	bowel movements	bowel movements	fiber	fiber	each day, and with enough	
+T-283	flora	flora	diverticulosis	diverticulosis	happy.fiber from whole foods can prevent	
+T-283	whole foods	whole foods	diverticulosis	diverticulosis	can prevent	
+T-283	flora	flora	constipation	constipation	happy.fiber from whole foods can prevent diverticulosis,	
+T-283	diet	diet	colorectal cancer	colorectal cancer	high in fiber) have less risk of developing	
+T-283	ph	ph	fiber	fiber	(from a diet high in	
+T-283	gut	gut	flora	flora		
+T-283	fiber	fiber	bowel movements	bowel movements	supplements in increasing spontaneous	
+T-283	plant-based diets	plant-based diets	lead	lead	can	
+T-283	plant-based	plant-based	lead	lead	diets can	
+T-283	plant-based diets	plant-based diets	bowel movements	bowel movements	can lead to two to three healthy	
+T-283	risk	risk	bile acids	bile acids	of breast cancer, which may be because	
+T-283	bowel movements	bowel movements	colon	colon	may play an important role in	
+T-283	gut	gut	constipation	constipation	flora happy.fiber from whole foods can prevent diverticulosis,	
+T-283	gut	gut	whole foods	whole foods	flora happy.fiber from	
+T-283	gut	gut	diverticulosis	diverticulosis	flora happy.fiber from whole foods can prevent	
+T-283	processed foods	processed foods	risk	risk	may increase one’s	
+T-283	processed foods	processed foods	diverticulosis	diverticulosis	may increase one’s risk for conditions such as	
+T-283	diet	diet	fiber	fiber	high in	
+T-283	cancer	cancer	prevention	prevention		
+T-283	whole foods	whole foods	gerd	gerd	can prevent diverticulosis, constipation, and hiatal hernias, heartburn,	

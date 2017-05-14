@@ -1,0 +1,17 @@
+
+V-476	dna damage	dna damage	liver	liver	in human	
+V-476	risk	risk	tumors	tumors	of thyroid	
+V-476	risk	risk	thyroid	thyroid	of	
+V-476	cancer	cancer	cancer	cancer	?due to	
+V-476	dna	dna	liver	liver	damage in human	
+V-476	symptoms	symptoms	kids	kids	in	
+V-476	food dyes	food dyes	kids	kids	in causing adh symptoms in	
+V-476	cancer	cancer	fda	fda	risk, the	
+V-476	thyroid	thyroid	tumors	tumors		
+V-476	cherries	cherries	food dyes	food dyes	in them!i’ve talked about the role of	
+V-476	cancer	cancer	risk	risk		
+V-476	sausage	sausage	cherries	cherries	to maraschino	
+V-476	chemotherapy	chemotherapy	dna	dna	drug whose whole purpose is to break down	
+V-476	cancer	cancer	health	health	… the credibility of the [department of	
+V-476	cherries	cherries	fruit	fruit	in 21st-century	
+V-476	food dyes	food dyes	symptoms	symptoms	in causing adh	

@@ -1,0 +1,21 @@
+
+V-571	women	women	diet	diet	on an anti-inflammatory	
+V-571	drugs	drugs	women	women	are effective, “though	
+V-571	pain	pain	ibuprofen	ibuprofen	is caused by inflammation, anti-inflammatory drugs, like	
+V-571	hormones	hormones	pills	pills	in	
+V-571	diet	diet	menstrual pain	menstrual pain	for two cycles, and experienced “significant reductions in	
+V-571	women	women	treatment	treatment	…[will] seek	
+V-571	symptoms	symptoms	pms	pms	of	
+V-571	anti-inflammatory	anti-inflammatory	diet	diet		
+V-571	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	drugs, like	
+V-571	pain	pain	inflammation	inflammation	caused by	
+V-571	pain	pain	inflammation	inflammation	is caused by	
+V-571	vegan	vegan	diet	diet		
+V-571	pain	pain	drugs	drugs	is caused by inflammation, anti-inflammatory	
+V-571	pain	pain	women	women	caused by inflammation, how about putting	
+V-571	risk	risk	side effects	side effects	of adverse drug	
+V-571	women	women	anti-inflammatory	anti-inflammatory	on an	
+V-571	anti-inflammatory	anti-inflammatory	drugs	drugs		
+V-571	women	women	vegan	vegan	suffering from painful periods were placed on a	
+V-571	women	women	vitamin d	vitamin d	who got the	
+V-571	pain	pain	anti-inflammatory	anti-inflammatory	is caused by inflammation,	

@@ -1,0 +1,17 @@
+
+V-579	meat industry	meat industry	penicillin	penicillin	.the discoverer of	
+V-579	fda	fda	drugs	drugs	estimates that 80% of the antimicrobial	
+V-579	lead	lead	meat industry	meat industry	to resistance, but the	
+V-579	tetracycline	tetracycline	farm animals	farm animals	to	
+V-579	meat	meat	penicillin	penicillin	industry didn’t listen, and started feeding drugs like	
+V-579	meat industry	meat industry	penicillin	penicillin	didn’t listen, and started feeding drugs like	
+V-579	meat	meat	antibiotics	antibiotics	producers feed literally millions of pounds of	
+V-579	antibiotics	antibiotics	agriculture	agriculture	in	
+V-579	farm animals	farm animals	disease	disease	who aren’t sick—just to promote growth, or prevent	
+V-579	antibiotics	antibiotics	farm animals	farm animals	to	
+V-579	lead	lead	meat	meat	to resistance, but the	
+V-579	penicillin	penicillin	tetracycline	tetracycline	and	
+V-579	fda	fda	antimicrobial drugs	antimicrobial drugs	estimates that 80% of the	
+V-579	meat	meat	penicillin	penicillin	industry.the discoverer of	
+V-579	drugs	drugs	penicillin	penicillin	like	
+V-579	penicillin	penicillin	farm animals	farm animals	and tetracycline to	

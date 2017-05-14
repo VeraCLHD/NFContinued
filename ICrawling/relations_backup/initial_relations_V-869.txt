@@ -1,0 +1,6 @@
+
+V-869	death	death	boiled	boiled	—	
+V-869	blood	blood	kale	kale	cells, drip a little	
+V-869	produce	produce	antibodies	antibodies		
+V-869	kale	kale	protein	protein		
+V-869	raw	raw	kale	kale		

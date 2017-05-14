@@ -1,0 +1,96 @@
+
+V-422	alcohol	alcohol	inflammation	inflammation	consumption was associated with liver	
+V-422	coffee	coffee	dna	dna	consumption reduces oxidative	
+V-422	disease	disease	evolution	evolution	progression and of	
+V-422	coffee	coffee	liver	liver	is the contributing factor in reducing	
+V-422	coffee	coffee	cancer	cancer	had half the risk of liver	
+V-422	risk	risk	cancer	cancer	of liver	
+V-422	risk	risk	liver disease	liver disease	for	
+V-422	coffee	coffee	cancer	cancer	a day.liver	
+V-422	disease	disease	obesity	obesity	due to	
+V-422	cancer	cancer	coffee	coffee	rates, but they were able to demonstrate that	
+V-422	dna	dna	virus	virus	damage, increases the death of	
+V-422	risk	risk	evolution	evolution	of disease progression and of	
+V-422	liver disease	liver disease	alcohol	alcohol	—those that drank a lot of	
+V-422	alcohol	alcohol	risk	risk	or were overweight, and therefore at	
+V-422	fatty liver disease	fatty liver disease	obesity	obesity	due to	
+V-422	coffee	coffee	inflammation	inflammation	may decrease liver	
+V-422	coffee	coffee	liver	liver	may decrease	
+V-422	americans	americans	obesity	obesity	with non-alcoholic fatty liver disease due to	
+V-422	alcohol	alcohol	liver	liver	consumption was associated with	
+V-422	hepatitis	hepatitis	disease	disease	c, reducing liver damage,	
+V-422	risk	risk	liver	liver	of developing	
+V-422	risk	risk	coffee	coffee	of dying from liver cancer.well,	
+V-422	risk	risk	liver	liver	for	
+V-422	liver disease	liver disease	risk	risk	due to obesity, which may quadruple one’s	
+V-422	liver	liver	risk	risk	disease, appeared to cut their	
+V-422	liver	liver	risk	risk	disease due to obesity, which may quadruple one’s	
+V-422	coffee	coffee	death	death	consumption reduces oxidative dna damage, increases the	
+V-422	evolution	evolution	cancer	cancer	to	
+V-422	hepatitis	hepatitis	liver disease	liver disease	c infection and fatty	
+V-422	liver	liver	cancer	cancer		
+V-422	risk	risk	disease	disease	of	
+V-422	hepatitis	hepatitis	liver	liver	c, reducing	
+V-422	coffee	coffee	liver disease	liver disease	is the contributing factor in reducing	
+V-422	risk	risk	liver	liver	of	
+V-422	risk	risk	liver cancer	liver cancer	of developing	
+V-422	caffeine	caffeine	fatigue	fatigue	withdrawal symptoms can include days of headache,	
+V-422	disease	disease	alcohol	alcohol	—those that drank a lot of	
+V-422	liver	liver	disease	disease		
+V-422	coffee	coffee	dna damage	dna damage	consumption reduces oxidative	
+V-422	coffee	coffee	risk	risk	for those at	
+V-422	coffee	coffee	disease	disease	for those at risk for liver	
+V-422	risk	risk	cancer	cancer	of disease progression and of evolution to	
+V-422	liver	liver	alcohol	alcohol	disease—those that drank a lot of	
+V-422	united states	united states	hepatitis	hepatitis	and europe, largely driven by the burden of	
+V-422	hepatitis	hepatitis	liver	liver	c infection and fatty	
+V-422	hepatitis	hepatitis	disease	disease	c infection and fatty liver	
+V-422	disease	disease	risk	risk	due to obesity, which may quadruple one’s	
+V-422	infection	infection	liver	liver	and fatty	
+V-422	coffee	coffee	liver cancer	liver cancer	had half the risk of	
+V-422	americans	americans	disease	disease	with non-alcoholic fatty liver	
+V-422	americans	americans	fatty liver disease	fatty liver disease	with non-alcoholic	
+V-422	alcohol	alcohol	fatty liver disease	fatty liver disease	or were overweight, and therefore at risk for	
+V-422	americans	americans	liver disease	liver disease	with non-alcoholic fatty	
+V-422	dna	dna	death	death	damage, increases the	
+V-422	caffeine	caffeine	symptoms	symptoms	withdrawal	
+V-422	risk	risk	disease	disease	for fatty liver	
+V-422	risk	risk	liver	liver	of dying from	
+V-422	fatty liver disease	fatty liver disease	risk	risk	due to obesity, which may quadruple one’s	
+V-422	coffee	coffee	risk	risk	had half the	
+V-422	risk	risk	liver	liver	for fatty	
+V-422	disease	disease	cancer	cancer	progression and of evolution to	
+V-422	coffee	coffee	liver	liver	had half the risk of	
+V-422	symptoms	symptoms	fatigue	fatigue	can include days of headache,	
+V-422	hepatitis	hepatitis	mortality	mortality	c, reducing liver damage, disease activity, and	
+V-422	hepatitis	hepatitis	fatty liver disease	fatty liver disease	c infection and	
+V-422	infection	infection	fatty liver disease	fatty liver disease	and	
+V-422	coffee	coffee	hepatitis	hepatitis	seems to help with	
+V-422	coffee	coffee	liver	liver	a day.	
+V-422	risk	risk	liver cancer	liver cancer	of	
+V-422	liver	liver	alcohol	alcohol	inflammation, but not as much as drinking less	
+V-422	risk	risk	cancer	cancer	of developing liver	
+V-422	beverages	beverages	lead	lead	can	
+V-422	infection	infection	liver disease	liver disease	and fatty	
+V-422	coffee	coffee	disease	disease	is the contributing factor in reducing liver	
+V-422	infection	infection	disease	disease	and fatty liver	
+V-422	liver	liver	inflammation	inflammation		
+V-422	liver disease	liver disease	obesity	obesity	due to	
+V-422	cancer	cancer	death	death		
+V-422	death	death	virus	virus	of	
+V-422	cancer	cancer	liver	liver	is one of the most feared complications of	
+V-422	cancer	cancer	liver inflammation	liver inflammation	is one of the most feared complications of	
+V-422	united states	united states	europe	europe	and	
+V-422	disease	disease	mortality	mortality	and related	
+V-422	americans	americans	liver	liver	with non-alcoholic fatty	
+V-422	risk	risk	disease	disease	for liver	
+V-422	risk	risk	alcohol	alcohol	for liver disease—those that drank a lot of	
+V-422	coffee	coffee	liver inflammation	liver inflammation	may decrease	
+V-422	coffee	coffee	liver	liver	seems to help with hepatitis c, reducing	
+V-422	liver	liver	mortality	mortality	disease and related	
+V-422	risk	risk	liver disease	liver disease	for fatty	
+V-422	liver disease	liver disease	mortality	mortality	and related	
+V-422	alcohol	alcohol	liver inflammation	liver inflammation	consumption was associated with	
+V-422	hepatitis	hepatitis	infection	infection	c	
+V-422	liver	liver	obesity	obesity	disease due to	
+V-422	coffee	coffee	hepatitis	hepatitis	consumption in chronic	

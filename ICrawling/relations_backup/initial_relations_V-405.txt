@@ -1,0 +1,80 @@
+
+V-405	triglyceride levels	triglyceride levels	bread	bread	better than regular gluten	
+V-405	whole grains	whole grains	grains	grains	—including the gluten	
+V-405	bread	bread	triglyceride levels	triglyceride levels	improves	
+V-405	celiac disease	celiac disease	wheat	wheat	or	
+V-405	gluten	gluten	gut	gut	-free diet may adversely affect	
+V-405	protein	protein	gluten	gluten		
+V-405	gluten	gluten	wheat	wheat	or	
+V-405	whole grains	whole grains	wheat	wheat	—including the gluten grains	
+V-405	bread	bread	gluten	gluten	improves triglyceride levels better than regular	
+V-405	gut	gut	health	health		
+V-405	whole grains	whole grains	barley	barley	—including the gluten grains wheat,	
+V-405	gluten	gluten	health	health	-free diet may adversely affect gut	
+V-405	grains	grains	rye	rye	—including the gluten grains wheat, barley and	
+V-405	disease	disease	gluten	gluten	or	
+V-405	gluten	gluten	protein	protein		
+V-405	gluten	gluten	public health	public health	from their lives, can be considered a	
+V-405	flora	flora	immune function	immune function	and	
+V-405	gluten	gluten	grains	grains		
+V-405	diet	diet	flora	flora	may hurt our gut	
+V-405	whole grains	whole grains	health	health	—including the gluten grains wheat, barley and rye—are	
+V-405	diet	diet	gut flora	gut flora	may hurt our	
+V-405	grains	grains	wheat	wheat	—including the gluten grains	
+V-405	diet	diet	health	health	may adversely affect gut	
+V-405	gluten	gluten	diet	diet	sensitivity should try reintroducing gluten back into their	
+V-405	fructans	fructans	bacteria	bacteria	that act as prebiotics and feed our good	
+V-405	diet	diet	celiac disease	celiac disease	may adversely affect gut health in those without	
+V-405	wheat	wheat	fructans	fructans	sensitive people have problems with—like the fodmap	
+V-405	prebiotics	prebiotics	gluten	gluten	and feed our good bacteria, or the	
+V-405	wheat	wheat	protein	protein		
+V-405	health	health	gluten	gluten	professionals don’t want to see people on	
+V-405	risk	risk	diabetes	diabetes	of coronary heart disease, cancer,	
+V-405	grains	grains	barley	barley	—including the gluten grains wheat,	
+V-405	barley	barley	health	health	and rye—are	
+V-405	whole grains	whole grains	rye	rye	—including the gluten grains wheat, barley and	
+V-405	gut	gut	immune function	immune function	flora and	
+V-405	fructans	fructans	prebiotics	prebiotics	that act as	
+V-405	gut	gut	gluten	gluten	health in those without celiac disease or	
+V-405	risk	risk	disease	disease	of coronary heart	
+V-405	gluten	gluten	celiac disease	celiac disease	withdrawal may undermine the ability to pick up	
+V-405	disease	disease	allergies	allergies	or wheat	
+V-405	gluten	gluten	bread	bread		
+V-405	barley	barley	rye	rye	and	
+V-405	peanut	peanut	peanuts	peanuts	allergy, doesn't mean everyone should avoid	
+V-405	gluten	gluten	diet	diet	-loaded	
+V-405	rye	rye	health	health	—are	
+V-405	diet	diet	immune function	immune function	may hurt our gut flora and	
+V-405	gut	gut	celiac disease	celiac disease	health in those without	
+V-405	celiac disease	celiac disease	allergies	allergies	or wheat	
+V-405	gluten	gluten	health	health	from their lives, can be considered a public	
+V-405	gluten	gluten	wheat	wheat	-related conditions:	
+V-405	health	health	gluten	gluten	in those without celiac disease or	
+V-405	health	health	celiac disease	celiac disease	in those without	
+V-405	rye	rye	risk	risk	—are health promoting, linked to the reduced	
+V-405	prebiotics	prebiotics	bacteria	bacteria	and feed our good	
+V-405	cancer	cancer	viral infections	viral infections	and	
+V-405	disease	disease	wheat	wheat	or	
+V-405	grains	grains	gluten	gluten	—including the	
+V-405	triglyceride levels	triglyceride levels	gluten	gluten	better than regular	
+V-405	inflammation	inflammation	gluten	gluten	caused by	
+V-405	wheat	wheat	gluten	gluten	protein	
+V-405	gut	gut	flora	flora		
+V-405	risk	risk	cancer	cancer	of coronary heart disease,	
+V-405	health	health	disease	disease	in those without celiac	
+V-405	risk	risk	obesity	obesity	of coronary heart disease, cancer, diabetes,	
+V-405	gluten	gluten	immune function	immune function	itself, which may boost	
+V-405	risk	risk	coronary heart disease	coronary heart disease	of	
+V-405	whole grains	whole grains	gluten	gluten	—including the	
+V-405	cancer	cancer	infections	infections	and viral	
+V-405	gluten	gluten	diet	diet	-free	
+V-405	celiac disease	celiac disease	gluten	gluten	or	
+V-405	diet	diet	gut	gut	may hurt our	
+V-405	gluten	gluten	triglyceride levels	triglyceride levels	bread improves	
+V-405	barley	barley	risk	risk	and rye—are health promoting, linked to the reduced	
+V-405	diet	diet	gut	gut	may adversely affect	
+V-405	gut	gut	disease	disease	health in those without celiac	
+V-405	wheat	wheat	gluten	gluten	allergy, celiac disease, and	
+V-405	gut flora	gut flora	immune function	immune function	and	
+V-405	grains	grains	health	health	—including the gluten grains wheat, barley and rye—are	
+V-405	risk	risk	heart disease	heart disease	of coronary	

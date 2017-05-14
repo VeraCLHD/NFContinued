@@ -1,0 +1,76 @@
+
+T-1054	uric acid	uric acid	water	water	kidney stones, drinking at least ten cups of	
+T-1054	poultry	poultry	meat	meat	and processed	
+T-1054	kidney stones	kidney stones	nutritional yeast	nutritional yeast	should be cautious about	
+T-1054	plant-based diets	plant-based diets	kidney	kidney	in general may help reduce	
+T-1054	tea	tea	kidney	kidney	for those with	
+T-1054	kidney	kidney	turmeric	turmeric	stones should be cautious about nutritional yeast,	
+T-1054	protein	protein	plant-based	plant-based	and salt intake may do the trick.overall,	
+T-1054	meat	meat	poultry	poultry	(including	
+T-1054	kidney	kidney	death	death	disease ranks as the ninth leading cause of	
+T-1054	kidney stones	kidney stones	turmeric	turmeric	should be cautious about nutritional yeast,	
+T-1054	chamomile tea	chamomile tea	disease	disease	for those with kidney	
+T-1054	prediabetes	prediabetes	diabetes	diabetes	(which can lead to kidney damage) and	
+T-1054	plant-based	plant-based	kidney health	kidney health	diets appear to boost	
+T-1054	animal protein	animal protein	plant-based	plant-based	and salt intake may do the trick.overall,	
+T-1054	prediabetes	prediabetes	lead	lead	(which can	
+T-1054	betel nuts	betel nuts	kidneys	kidneys	or star fruit can potentially shut down the	
+T-1054	plant-based diets	plant-based diets	health	health	appear to boost kidney	
+T-1054	kidney	kidney	risk	risk	and other cancers, reduce the	
+T-1054	disease	disease	death	death	ranks as the ninth leading cause of	
+T-1054	kidney	kidney	yeast	yeast	stones should be cautious about nutritional	
+T-1054	cooking	cooking	kidney	kidney	may create	
+T-1054	kidney	kidney	prediabetes	prediabetes	and other cancers, reduce the risk of childhood	
+T-1054	meat	meat	processed meat	processed meat	(including poultry and	
+T-1054	chamomile	chamomile	kidney disease	kidney disease	tea for those with	
+T-1054	kidney stones	kidney stones	yeast	yeast	should be cautious about nutritional	
+T-1054	uric acid	uric acid	kidney stones	kidney stones		
+T-1054	protein	protein	salt	salt	and	
+T-1054	protein	protein	plant-based diets	plant-based diets	and salt intake may do the trick.overall,	
+T-1054	poultry	poultry	processed meat	processed meat	and	
+T-1054	risk	risk	prediabetes	prediabetes	of childhood	
+T-1054	cooking	cooking	kidney cancer	kidney cancer	may create	
+T-1054	plant-based	plant-based	kidney	kidney	diets in general may help reduce	
+T-1054	kidney	kidney	nutritional yeast	nutritional yeast	stones should be cautious about	
+T-1054	tea	tea	disease	disease	for those with kidney	
+T-1054	lead	lead	diabetes	diabetes	to kidney damage) and	
+T-1054	kidney	kidney	disease	disease		
+T-1054	kidney cancer	kidney cancer	phytates	phytates	causing carcinogens.staying well hydrated, consuming	
+T-1054	animal protein	animal protein	salt	salt	and	
+T-1054	risk	risk	lead	lead	of childhood prediabetes (which can	
+T-1054	risk	risk	kidney	kidney	of childhood prediabetes (which can lead to	
+T-1054	animal protein	animal protein	plant-based diets	plant-based diets	and salt intake may do the trick.overall,	
+T-1054	plant-based diets	plant-based diets	kidney	kidney	appear to boost	
+T-1054	salt	salt	plant-based	plant-based	intake may do the trick.overall,	
+T-1054	chamomile tea	chamomile tea	kidney disease	kidney disease	for those with	
+T-1054	chamomile	chamomile	kidney	kidney	tea for those with	
+T-1054	lead	lead	kidney	kidney	to	
+T-1054	kidney	kidney	cancer	cancer		
+T-1054	poultry	poultry	sugar	sugar	and processed meat),	
+T-1054	chamomile tea	chamomile tea	kidney	kidney	for those with	
+T-1054	kidney	kidney	health	health		
+T-1054	water	water	animal protein	animal protein	per day and reducing	
+T-1054	tea	tea	kidney disease	kidney disease	for those with	
+T-1054	chamomile	chamomile	disease	disease	tea for those with kidney	
+T-1054	kidney	kidney	phytates	phytates	cancer causing carcinogens.staying well hydrated, consuming	
+T-1054	kidney stones	kidney stones	beets	beets	should be cautious about nutritional yeast, turmeric, and	
+T-1054	salt	salt	plant-based diets	plant-based diets	intake may do the trick.overall,	
+T-1054	kidney disease	kidney disease	death	death	ranks as the ninth leading cause of	
+T-1054	prediabetes	prediabetes	kidney	kidney	(which can lead to	
+T-1054	plant-based	plant-based	risk	risk	diets in general may help reduce kidney stone	
+T-1054	plant-based diets	plant-based diets	kidney health	kidney health	appear to boost	
+T-1054	plant-based diets	plant-based diets	risk	risk	in general may help reduce kidney stone	
+T-1054	uric acid	uric acid	kidney	kidney		
+T-1054	nuts	nuts	kidneys	kidneys	or star fruit can potentially shut down the	
+T-1054	cooking	cooking	cancer	cancer	may create kidney	
+T-1054	kidney	kidney	water	water	stones, drinking at least ten cups of	
+T-1054	water	water	salt	salt	per day and reducing animal protein and	
+T-1054	betel nuts	betel nuts	fruit	fruit	or star	
+T-1054	meat	meat	sugar	sugar	(including poultry and processed meat),	
+T-1054	plant-based	plant-based	kidney	kidney	diets appear to boost	
+T-1054	chamomile	chamomile	tea	tea		
+T-1054	cancer	cancer	phytates	phytates	causing carcinogens.staying well hydrated, consuming	
+T-1054	fruit	fruit	kidneys	kidneys	can potentially shut down the	
+T-1054	plant-based	plant-based	health	health	diets appear to boost kidney	
+T-1054	water	water	protein	protein	per day and reducing animal	
+T-1054	nuts	nuts	fruit	fruit	or star	

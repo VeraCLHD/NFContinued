@@ -1,0 +1,17 @@
+
+V-1163	meat	meat	prostate	prostate	carcinogens, but now, there’s also	
+V-1163	kidney	kidney	cancer	cancer		
+V-1163	breast cancer	breast cancer	meat	meat	has been the traditional target of these cooked	
+V-1163	cooked meat	cooked meat	stomach	stomach	carcinogens, but now, there’s also prostate,	
+V-1163	breast cancer	breast cancer	cooked meat	cooked meat	has been the traditional target of these	
+V-1163	cooked meat	cooked meat	colon	colon	carcinogens, but now, there’s also prostate, stomach,	
+V-1163	cancer	cancer	meat	meat	has been the traditional target of these cooked	
+V-1163	meat	meat	colon	colon	carcinogens, but now, there’s also prostate, stomach,	
+V-1163	cooked meat	cooked meat	prostate	prostate	carcinogens, but now, there’s also	
+V-1163	meat	meat	stomach	stomach	carcinogens, but now, there’s also prostate,	
+V-1163	chicken	chicken	risk	risk	breast a day, we may double our	
+V-1163	risk	risk	meat	meat	for every 10 grams of	
+V-1163	cooked meat	cooked meat	carcinogens	carcinogens		
+V-1163	meat	meat	essential tremor	essential tremor	consumption and “	
+V-1163	cancer	cancer	cooked meat	cooked meat	has been the traditional target of these	
+V-1163	meat	meat	carcinogens	carcinogens		

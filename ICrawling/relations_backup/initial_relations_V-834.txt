@@ -1,0 +1,45 @@
+
+V-834	coronary heart disease	coronary heart disease	fruits	fruits	for those with a high intake of	
+V-834	vegetarians	vegetarians	raw	raw	and other health-conscious people, daily consumption of	
+V-834	raw	raw	heart disease prevention	heart disease prevention	or cooked for	
+V-834	women	women	apples	apples	published, those who ate the most	
+V-834	phytonutrients	phytonutrients	disease	disease	like lycopene, in tomatoes, appear protective against heart	
+V-834	heart disease	heart disease	lycopene	lycopene	—and cooking dramatically boosts	
+V-834	sugar	sugar	risk	risk	—has been tied to the	
+V-834	phytonutrients	phytonutrients	lycopene	lycopene	like	
+V-834	cooking	cooking	lycopene	lycopene	dramatically boosts	
+V-834	fruit	fruit	disease	disease	and vegetable consumption in relation to coronary heart	
+V-834	juice	juice	risk	risk	consumption—no fiber, just sugar—has been tied to the	
+V-834	fruit	fruit	heart disease	heart disease	and vegetable consumption in relation to coronary	
+V-834	tomato sauce	tomato sauce	raw	raw	they had really been eating.so anyway,	
+V-834	juice	juice	sugar	sugar	consumption—no fiber, just	
+V-834	heart disease	heart disease	fruits	fruits	for those with a high intake of	
+V-834	risk	risk	heart disease	heart disease	of dying from	
+V-834	apple	apple	risk	risk	juice appeared to increase their	
+V-834	raw	raw	prevention	prevention	or cooked for heart disease	
+V-834	heart disease	heart disease	prevention	prevention		
+V-834	mortality	mortality	raw	raw	from ischemic heart disease.so we know	
+V-834	risk	risk	coronary heart disease	coronary heart disease	of	
+V-834	disease	disease	cooking	cooking	—and	
+V-834	apple	apple	juice	juice		
+V-834	disease	disease	fruits	fruits	for those with a high intake of	
+V-834	fruit	fruit	coronary heart disease	coronary heart disease	and vegetable consumption in relation to	
+V-834	raw	raw	heart disease	heart disease	or cooked for	
+V-834	raw	raw	fruit	fruit	versus processed	
+V-834	heart attacks	heart attacks	fat	fat	had a plug of	
+V-834	risk	risk	disease	disease	of coronary heart	
+V-834	apples	apples	risk	risk	appeared to have significantly less	
+V-834	disease	disease	lycopene	lycopene	—and cooking dramatically boosts	
+V-834	risk	risk	disease	disease	of dying from heart	
+V-834	heart disease	heart disease	cooking	cooking	—and	
+V-834	raw	raw	disease	disease	or cooked for heart	
+V-834	juice	juice	fiber	fiber	consumption—no	
+V-834	raw	raw	mortality	mortality	salad was associated with a 26% reduction in	
+V-834	risk	risk	heart attack	heart attack	of having a	
+V-834	phytonutrients	phytonutrients	heart disease	heart disease	like lycopene, in tomatoes, appear protective against	
+V-834	apple juice	apple juice	risk	risk	appeared to increase their	
+V-834	fruits	fruits	vegetables	vegetables	and	
+V-834	phytonutrients	phytonutrients	tomatoes	tomatoes	like lycopene, in	
+V-834	juice	juice	risk	risk	appeared to increase their	
+V-834	disease	disease	prevention	prevention		
+V-834	risk	risk	heart disease	heart disease	of coronary	

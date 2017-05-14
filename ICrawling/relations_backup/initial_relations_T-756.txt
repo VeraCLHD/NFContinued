@@ -1,0 +1,71 @@
+
+T-756	vegetables	vegetables	beans	beans	and	
+T-756	berries	berries	greens	greens	may reduce inflammatory muscle damage, and	
+T-756	dna	dna	dark chocolate	dark chocolate	damage, with	
+T-756	dna	dna	tomato juice	tomato juice	damage, with dark chocolate and	
+T-756	flavonoids	flavonoids	chemicals	chemicals	may prevent tumors from releasing angiogenic	
+T-756	phytonutrients	phytonutrients	dna	dna	reduced	
+T-756	orange	orange	blood	blood	juice had more improved	
+T-756	cherries	cherries	juice	juice	or cherry	
+T-756	flavonoids	flavonoids	antioxidant	antioxidant	are a group of	
+T-756	berries	berries	muscle damage	muscle damage	may reduce inflammatory	
+T-756	dna	dna	juice	juice	damage, with dark chocolate and tomato	
+T-756	blood	blood	fruits	fruits	flow, is mainly found in citrus	
+T-756	phytonutrients	phytonutrients	beans	beans	in tea, spices, fruit, berries, broccoli and	
+T-756	dna damage	dna damage	mutagens	mutagens	caused by consumption of meat	
+T-756	juice	juice	muscle damage	muscle damage	appear to alleviate exercise-induced	
+T-756	cherries	cherries	muscle damage	muscle damage	or cherry juice appear to alleviate exercise-induced	
+T-756	flavonoids	flavonoids	grains	grains	are found in fruits, vegetables, nuts, and	
+T-756	isoflavones	isoflavones	soy	soy	(a type of flavonoid) found in	
+T-756	dna	dna	mutagens	mutagens	damage caused by consumption of meat	
+T-756	dna	dna	chocolate	chocolate	damage, with dark	
+T-756	chemicals	chemicals	blood	blood	that spur the growth of new	
+T-756	flavonoids	flavonoids	tumors	tumors	may prevent	
+T-756	dark chocolate	dark chocolate	tomato juice	tomato juice	and	
+T-756	blood	blood	tumors	tumors	vessels that feed	
+T-756	phytonutrients	phytonutrients	tea	tea	in	
+T-756	phytonutrients	phytonutrients	meat	meat	reduced dna damage caused by consumption of	
+T-756	greens	greens	dna damage	dna damage	may reduce free radical	
+T-756	beans	beans	angiogenesis	angiogenesis	can suppress	
+T-756	dna	dna	meat	meat	damage caused by consumption of	
+T-756	juice	juice	blood	blood	had more improved	
+T-756	phytonutrients	phytonutrients	spices	spices	in tea,	
+T-756	fruits	fruits	vegetables	vegetables	and	
+T-756	citrus	citrus	fruits	fruits		
+T-756	greens	greens	dna	dna	may reduce free radical	
+T-756	phytonutrients	phytonutrients	fruit	fruit	in tea, spices,	
+T-756	phytonutrients	phytonutrients	dna damage	dna damage	reduced	
+T-756	phytonutrients	phytonutrients	broccoli	broccoli	in tea, spices, fruit, berries,	
+T-756	blood	blood	citrus	citrus	flow, is mainly found in	
+T-756	flavonoids	flavonoids	nuts	nuts	are found in fruits, vegetables,	
+T-756	dna damage	dna damage	meat	meat	caused by consumption of	
+T-756	juice	juice	risk	risk	had a 76% lower	
+T-756	meat	meat	mutagens	mutagens		
+T-756	dark chocolate	dark chocolate	juice	juice	and tomato	
+T-756	cancer	cancer	risk	risk		
+T-756	flavonoids	flavonoids	health	health	also appear to contribute important	
+T-756	soy	soy	risk	risk	may help lower cancer	
+T-756	fruit	fruit	risk	risk	and vegetable juice had a 76% lower	
+T-756	chocolate	chocolate	tomato juice	tomato juice	and	
+T-756	muscle damage	muscle damage	muscle soreness	muscle soreness	and associated	
+T-756	broccoli	broccoli	beans	beans	and	
+T-756	hesperidin	hesperidin	orange juice	orange juice	that would be found in two cups of	
+T-756	phytonutrients	phytonutrients	berries	berries	in tea, spices, fruit,	
+T-756	phytonutrients	phytonutrients	mutagens	mutagens	reduced dna damage caused by consumption of meat	
+T-756	orange	orange	juice	juice		
+T-756	chocolate	chocolate	juice	juice	and tomato	
+T-756	antioxidant	antioxidant	phytonutrients	phytonutrients		
+T-756	flavonoids	flavonoids	fruits	fruits	are found in	
+T-756	juice	juice	muscle soreness	muscle soreness	appear to alleviate exercise-induced muscle damage and associated	
+T-756	orange juice	orange juice	blood	blood	had more improved	
+T-756	health	health	flavonoids	flavonoids	benefits.there are more than 5,000 different	
+T-756	flavonoids	flavonoids	vegetables	vegetables	are found in fruits,	
+T-756	broccoli	broccoli	angiogenesis	angiogenesis	and beans can suppress	
+T-756	flavonoids	flavonoids	phytonutrients	phytonutrients	are a group of antioxidant	
+T-756	hesperidin	hesperidin	orange	orange	that would be found in two cups of	
+T-756	greens	greens	dark chocolate	dark chocolate	may reduce free radical dna damage, with	
+T-756	greens	greens	chocolate	chocolate	may reduce free radical dna damage, with dark	
+T-756	fruit	fruit	juice	juice	and vegetable	
+T-756	free radicals	free radicals	exercise	exercise	during	
+T-756	tumors	tumors	chemicals	chemicals	from releasing angiogenic	
+T-756	soy	soy	cancer	cancer	may help lower	

@@ -1,0 +1,34 @@
+
+V-597	flora	flora	infection	infection	by antibiotics, or an intestinal	
+V-597	c-section	c-section	babies	babies		
+V-597	gut	gut	babies	babies	with maternal vaginal bacteria, while c-section	
+V-597	gut	gut	immune system	immune system	flora can affect the development of our	
+V-597	soy	soy	supplements	supplements	yogurt, or	
+V-597	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of	
+V-597	flora	flora	antibiotics	antibiotics	by	
+V-597	gut	gut	infection	infection	flora by antibiotics, or an intestinal	
+V-597	bacteria	bacteria	prebiotics	prebiotics	we already have—by eating so-called	
+V-597	soy	soy	yogurt	yogurt		
+V-597	infection	infection	diarrhea	diarrhea	—unless one is symptomatic—with, like,	
+V-597	gut	gut	c-section	c-section	with maternal vaginal bacteria, while	
+V-597	plant foods	plant foods	probiotics	probiotics	—outweigh those of	
+V-597	risk	risk	infection	infection	of upper respiratory tract	
+V-597	flora	flora	asthma	asthma	during pregnancy may be associated with early	
+V-597	prebiotics	prebiotics	probiotics	probiotics	—found in plant foods—outweigh those of	
+V-597	prebiotics	prebiotics	plant foods	plant foods	—found in	
+V-597	gut	gut	flora	flora		
+V-597	flora	flora	pregnancy	pregnancy	during	
+V-597	gut	gut	bacteria	bacteria	with maternal vaginal	
+V-597	vaginal flora	vaginal flora	pregnancy	pregnancy	during	
+V-597	soy	soy	risk	risk	yogurt, or supplements, may indeed reduce one’s	
+V-597	flora	flora	immune system	immune system	can affect the development of our	
+V-597	pregnancy	pregnancy	asthma	asthma	may be associated with early	
+V-597	probiotics	probiotics	immune function	immune function	were stopped, there was still enhanced	
+V-597	gut flora	gut flora	antibiotics	antibiotics	by	
+V-597	asthma	asthma	children	children	in their	
+V-597	gut flora	gut flora	infection	infection	by antibiotics, or an intestinal	
+V-597	vaginal flora	vaginal flora	asthma	asthma	during pregnancy may be associated with early	
+V-597	gut flora	gut flora	immune system	immune system	can affect the development of our	
+V-597	infection	infection	bloating	bloating	—unless one is symptomatic—with, like, diarrhea, or	
+V-597	gut	gut	antibiotics	antibiotics	flora by	
+V-597	pregnancy	pregnancy	children	children	may be associated with early asthma in their	

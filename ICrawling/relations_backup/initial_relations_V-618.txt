@@ -1,0 +1,28 @@
+
+V-618	breast cancer	breast cancer	mortality	mortality		
+V-618	postmenopausal	postmenopausal	breast cancer	breast cancer	patients with	
+V-618	postmenopausal	postmenopausal	women	women		
+V-618	phytonutrients	phytonutrients	lignans	lignans	known as	
+V-618	postmenopausal	postmenopausal	cancer	cancer	patients with breast	
+V-618	cancer	cancer	breast cancer	breast cancer	-specific mortality of the patients operated on for	
+V-618	soy	soy	cancer	cancer	food consumption is associated with both preventing breast	
+V-618	cancer	cancer	postmenopausal	postmenopausal	mortality, associated with higher lignan intakes in	
+V-618	risk	risk	breast cancer	breast cancer	factors to subsequently impact [	
+V-618	lignans	lignans	prevention	prevention	.well, we just covered the	
+V-618	mortality	mortality	cancer	cancer	of the patients operated on for breast	
+V-618	lignans	lignans	risk	risk	may be necessary to produce effects on mortality-related	
+V-618	soy	soy	breast cancer	breast cancer	food consumption is associated with both preventing	
+V-618	cancer	cancer	mortality	mortality		
+V-618	diet	diet	plant foods	plant foods	high in	
+V-618	cancer	cancer	mortality	mortality	-specific	
+V-618	lignans	lignans	produce	produce	may be necessary to	
+V-618	risk	risk	cancer	cancer	factors to subsequently impact [breast	
+V-618	cancer	cancer	women	women	mortality, associated with higher lignan intakes in postmenopausal	
+V-618	soy	soy	asian	asian	foods, popular in traditional	
+V-618	breast cancer	breast cancer	postmenopausal	postmenopausal	mortality, associated with higher lignan intakes in	
+V-618	cancer	cancer	lignans	lignans	coming back than those with more	
+V-618	women	women	tumors	tumors	were getting their primary breast	
+V-618	breast cancer	breast cancer	women	women	mortality, associated with higher lignan intakes in postmenopausal	
+V-618	tumors	tumors	blood	blood	removed, they had some	
+V-618	mortality	mortality	breast cancer	breast cancer	of the patients operated on for	
+V-618	produce	produce	risk	risk	effects on mortality-related	

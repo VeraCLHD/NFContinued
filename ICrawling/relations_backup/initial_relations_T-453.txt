@@ -1,0 +1,73 @@
+
+T-453	blood	blood	cholesterol	cholesterol		
+T-453	saturated fat	saturated fat	dietary cholesterol	dietary cholesterol	and	
+T-453	framingham heart study	framingham heart study	plant-based diets	plant-based diets	have all promoted	
+T-453	beef	beef	chicken	chicken	to	
+T-453	eggs	eggs	cholesterol	cholesterol	may be one of the top sources of	
+T-453	saturated fat	saturated fat	cholesterol	cholesterol	and dietary	
+T-453	fat	fat	cholesterol	cholesterol	and dietary	
+T-453	fat	fat	dietary cholesterol	dietary cholesterol	and	
+T-453	heart disease	heart disease	risk	risk		
+T-453	children	children	atherosclerosis	atherosclerosis	may show signs of	
+T-453	side effects	side effects	breast cancer	breast cancer	such as increased	
+T-453	dairy	dairy	chicken	chicken	products,	
+T-453	disease	disease	risk	risk		
+T-453	plant-based	plant-based	diet	diet		
+T-453	atherosclerosis	atherosclerosis	arteries	arteries	in our coronary	
+T-453	risk	risk	cholesterol	cholesterol	of:the american diet is so high in	
+T-453	diet	diet	ldl cholesterol	ldl cholesterol	high in fiber appears to lower total and	
+T-453	cholesterol	cholesterol	restaurants	restaurants	than food eaten at fast-food and sit-down	
+T-453	breast cancer	breast cancer	risk	risk		
+T-453	risk	risk	cholesterol	cholesterol	factor for heart attacks.data suggests that	
+T-453	chicken	chicken	cholesterol	cholesterol	or fish may not lower	
+T-453	side effects	side effects	risk	risk	such as increased breast cancer	
+T-453	diet	diet	statins	statins	and/or lifestyle changes may be as effective as	
+T-453	plant-based	plant-based	fiber	fiber	diet high in	
+T-453	cholesterol	cholesterol	plaque	plaque	crystallization may be what causes atherosclerotic	
+T-453	cholesterol	cholesterol	dr. dean ornish	dr. dean ornish	.specific foods linked to lower cholesterol include:	
+T-453	heart disease	heart disease	death	death	risk, the number one cause of	
+T-453	cholesterol	cholesterol	dean ornish	dean ornish	.specific foods linked to lower cholesterol include:dr.	
+T-453	coffee	coffee	cholesterol	cholesterol	may raise	
+T-453	rice	rice	lovastatin	lovastatin	is not recommended, as the	
+T-453	framingham heart study	framingham heart study	plant-based	plant-based	have all promoted	
+T-453	beef	beef	fish	fish	to chicken or	
+T-453	coffee	coffee	olive oil	olive oil	may raise cholesterol levels, although	
+T-453	yeast	yeast	rice	rice		
+T-453	dairy	dairy	eggs	eggs	products, chicken, and	
+T-453	risk	risk	disease	disease	of coronary heart	
+T-453	cholesterol	cholesterol	ldl	ldl	level,	
+T-453	risk	risk	diet	diet	of:the american	
+T-453	diet	diet	cholesterol	cholesterol	is so high in	
+T-453	fish	fish	cholesterol	cholesterol	may not lower	
+T-453	plant-based diet	plant-based diet	ldl cholesterol	ldl cholesterol	high in fiber appears to lower total and	
+T-453	fiber	fiber	ldl cholesterol	ldl cholesterol	appears to lower total and	
+T-453	cholesterol	cholesterol	ldl	ldl	is likely 150 or lower; the optimal	
+T-453	cholesterol	cholesterol	diet	diet	may be linked to increased risk of:the american	
+T-453	beef	beef	cholesterol	cholesterol	to chicken or fish may not lower	
+T-453	plant-based diet	plant-based diet	ldl	ldl	high in fiber appears to lower total and	
+T-453	death	death	cholesterol	cholesterol	in the u.s.  higher buildup of	
+T-453	ldl	ldl	cholesterol	cholesterol	(low-density lipoprotein or “bad”	
+T-453	cancer	cancer	risk	risk		
+T-453	egg	egg	coffee	coffee	going over the safety limit.coconut oil and non-filtered	
+T-453	yeast	yeast	lovastatin	lovastatin	rice is not recommended, as the	
+T-453	diet	diet	children	children	is so high in cholesterol-raising foods that even	
+T-453	red yeast rice	red yeast rice	lovastatin	lovastatin	is not recommended, as the	
+T-453	fiber	fiber	cholesterol	cholesterol	appears to lower total and ldl	
+T-453	plant-based diet	plant-based diet	fiber	fiber	high in	
+T-453	ldl	ldl	risk	risk	(low-density lipoprotein or “bad” cholesterol may be a	
+T-453	fiber	fiber	ldl	ldl	appears to lower total and	
+T-453	risk	risk	coronary heart disease	coronary heart disease	of	
+T-453	side effects	side effects	cancer	cancer	such as increased breast	
+T-453	cholesterol	cholesterol	risk	risk	may be linked to increased	
+T-453	dietary cholesterol	dietary cholesterol	cholesterol	cholesterol	can greatly lower	
+T-453	ldl	ldl	cholesterol	cholesterol		
+T-453	plant foods	plant foods	cholesterol	cholesterol	do not contain dietary	
+T-453	cholesterol	cholesterol	ornish	ornish	.specific foods linked to lower cholesterol include:dr. dean	
+T-453	chicken	chicken	fish	fish	or	
+T-453	cholesterol	cholesterol	blood	blood	in our	
+T-453	diet	diet	ldl	ldl	high in fiber appears to lower total and	
+T-453	diet	diet	fiber	fiber	high in	
+T-453	blood	blood	atherosclerosis	atherosclerosis	appears to be linked to higher	
+T-453	plaque	plaque	heart attacks	heart attacks	rupture, the trigger for	
+T-453	disease	disease	death	death	risk, the number one cause of	
+T-453	risk	risk	heart disease	heart disease	of coronary	

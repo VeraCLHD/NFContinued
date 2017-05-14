@@ -1,0 +1,47 @@
+
+V-941	grapes	grapes	fruit juice	fruit juice	themselves.so, the best	
+V-941	grapefruit	grapefruit	orange juice	orange juice	juice,	
+V-941	grape juice	grape juice	grapefruit juice	grapefruit juice	(purple, red, and white),	
+V-941	grape juice	grape juice	grapefruit	grapefruit	(purple, red, and white),	
+V-941	fruit	fruit	disease	disease	juice that provides protection against alzheimer’s	
+V-941	grapes	grapes	fruit	fruit	themselves.so, the best	
+V-941	orange	orange	pomegranate	pomegranate	juice, pineapple juice, and	
+V-941	grape juice	grape juice	juice	juice	(purple, red, and white), grapefruit	
+V-941	juice	juice	fruit	fruit	is the one inside the whole	
+V-941	juice	juice	disease	disease	that provides protection against alzheimer’s	
+V-941	apple juice	apple juice	cranberry cocktail	cranberry cocktail	to	
+V-941	grapes	grapes	juice	juice	themselves.so, the best fruit	
+V-941	phenolics	phenolics	fruit	fruit	are what’s in	
+V-941	apple	apple	cranberry cocktail	cranberry cocktail	juice to	
+V-941	apple juice	apple juice	grape juice	grape juice	to cranberry cocktail,	
+V-941	orange	orange	pineapple juice	pineapple juice	juice,	
+V-941	juice	juice	cranberry	cranberry	to	
+V-941	phenolics	phenolics	fruit juice	fruit juice	are what’s in	
+V-941	fruit juice	fruit juice	juice	juice	that provides protection against alzheimer’s disease, then which	
+V-941	apple	apple	juice	juice	would be compared to	
+V-941	grapefruit	grapefruit	pineapple juice	pineapple juice	juice, orange juice,	
+V-941	grapefruit	grapefruit	orange	orange	juice,	
+V-941	orange	orange	juice	juice		
+V-941	grape juice	grape juice	orange juice	orange juice	(purple, red, and white), grapefruit juice,	
+V-941	fruit juice	fruit juice	fruit	fruit	is the one inside the whole	
+V-941	fruit juice	fruit juice	disease	disease	that provides protection against alzheimer’s	
+V-941	concord grapes	concord grapes	fruit juice	fruit juice	themselves.so, the best	
+V-941	apple	apple	cranberry	cranberry	juice to	
+V-941	apple juice	apple juice	cranberry	cranberry	to	
+V-941	apple	apple	juice	juice		
+V-941	juice	juice	grape juice	grape juice	to cranberry cocktail,	
+V-941	cranberry	cranberry	grapefruit	grapefruit	cocktail, grape juice (purple, red, and white),	
+V-941	juice	juice	cranberry cocktail	cranberry cocktail	to	
+V-941	cranberry	cranberry	grapefruit juice	grapefruit juice	cocktail, grape juice (purple, red, and white),	
+V-941	concord grapes	concord grapes	fruit	fruit	themselves.so, the best	
+V-941	concord grapes	concord grapes	juice	juice	themselves.so, the best fruit	
+V-941	grape juice	grape juice	orange	orange	(purple, red, and white), grapefruit juice,	
+V-941	apple	apple	grape juice	grape juice	juice to cranberry cocktail,	
+V-941	apple juice	apple juice	juice	juice	to cranberry cocktail, grape	
+V-941	phenolics	phenolics	juice	juice	are what’s in fruit	
+V-941	cranberry	cranberry	juice	juice	cocktail, grape	
+V-941	cranberry	cranberry	grape juice	grape juice	cocktail,	
+V-941	fruit	fruit	juice	juice		
+V-941	grapefruit	grapefruit	juice	juice		
+V-941	grapefruit	grapefruit	pomegranate	pomegranate	juice, orange juice, pineapple juice, and	
+V-941	grape juice	grape juice	pineapple juice	pineapple juice	(purple, red, and white), grapefruit juice, orange juice,	

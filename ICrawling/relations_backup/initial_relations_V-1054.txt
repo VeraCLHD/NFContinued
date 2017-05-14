@@ -1,0 +1,32 @@
+
+V-1054	risk	risk	birth defects	birth defects	of both	
+V-1054	breast cancer	breast cancer	cancer	cancer	and colon	
+V-1054	risk	risk	birth defects	birth defects	of	
+V-1054	vegetables	vegetables	greens	greens	and legumes.but everybody knows no one eats	
+V-1054	beans	beans	risk	risk	and greens lower the	
+V-1054	breast cancer	breast cancer	colon	colon	and	
+V-1054	folic acid	folic acid	pills	pills	in	
+V-1054	greens	greens	beans	beans	and	
+V-1054	folic acid	folic acid	colon	colon	supplementation with diseases like breast cancer and	
+V-1054	women	women	birth defects	birth defects	of child-bearing age to prevent	
+V-1054	risk	risk	cancer	cancer	of	
+V-1054	beans	beans	greens	greens	and	
+V-1054	beans	beans	birth defects	birth defects	and greens lower the risk of both	
+V-1054	colon	colon	cancer	cancer		
+V-1054	spinach	spinach	risk	risk	doesn’t raise our	
+V-1054	risk	risk	cancer	cancer	of both birth defects and	
+V-1054	cancer	cancer	colon	colon	and	
+V-1054	cancer	cancer	cancer	cancer	and colon	
+V-1054	folic acid	folic acid	supplements	supplements		
+V-1054	greens	greens	birth defects	birth defects	lower the risk of both	
+V-1054	folic acid	folic acid	breast cancer	breast cancer	supplementation with diseases like	
+V-1054	folic acid	folic acid	colon cancer	colon cancer	supplementation with diseases like breast cancer and	
+V-1054	folic acid	folic acid	cancer	cancer	supplementation with diseases like breast	
+V-1054	birth defects	birth defects	cancer	cancer	and	
+V-1054	breast cancer	breast cancer	colon cancer	colon cancer	and	
+V-1054	greens	greens	risk	risk	lower the	
+V-1054	leafy vegetables	leafy vegetables	greens	greens	and legumes.but everybody knows no one eats	
+V-1054	folic acid	folic acid	folate	folate	supplements; i recommend	
+V-1054	cancer	cancer	colon cancer	colon cancer	and	
+V-1054	spinach	spinach	cancer	cancer	doesn’t raise our risk of	
+V-1054	greens	greens	cancer	cancer	lower the risk of both birth defects and	

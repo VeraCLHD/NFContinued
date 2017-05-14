@@ -1,0 +1,44 @@
+
+T-339	cancer	cancer	breast cancer	breast cancer	prevention and survival, particularly prostate and	
+T-339	cancer prevention	cancer prevention	breast cancer	breast cancer	and survival, particularly prostate and	
+T-339	cabbage	cabbage	produce	produce	contains anthocyanins, a phytonutrient found in blue/black/purple-pigmented	
+T-339	risk	risk	sulfur	sulfur	of inflammatory bowel diseases (unlike	
+T-339	produce	produce	macular degeneration	macular degeneration	that appear to protect against	
+T-339	mustard powder	mustard powder	cruciferous vegetables	cruciferous vegetables	to cooked	
+T-339	prostate	prostate	cancer	cancer	and breast	
+T-339	mustard powder	mustard powder	vegetables	vegetables	to cooked cruciferous	
+T-339	glucosinolates	glucosinolates	antioxidants	antioxidants	and high in	
+T-339	cruciferous vegetables	cruciferous vegetables	phytonutrient	phytonutrient	also contain a	
+T-339	free radicals	free radicals	cooking	cooking	and cancer – are deactivated by	
+T-339	enzymes	enzymes	mustard powder	mustard powder	back in the form of	
+T-339	cabbage	cabbage	sulfur	sulfur	naturally contains several	
+T-339	enzymes	enzymes	sulforaphane	sulforaphane	that produce	
+T-339	risk	risk	animal proteins	animal proteins	of inflammatory bowel diseases (unlike sulfur-rich	
+T-339	cabbage	cabbage	enzymes	enzymes		
+T-339	phytonutrient	phytonutrient	ah receptor	ah receptor	that boosts immune function by stimulating the	
+T-339	immune function	immune function	ah receptor	ah receptor	by stimulating the	
+T-339	vegetables	vegetables	immune function	immune function	also contain a phytonutrient that boosts	
+T-339	free radicals	free radicals	cancer	cancer	and	
+T-339	prevention	prevention	cancer	cancer	and survival, particularly prostate and breast	
+T-339	enzymes	enzymes	produce	produce	that	
+T-339	vegetables	vegetables	phytonutrient	phytonutrient	also contain a	
+T-339	prevention	prevention	prostate	prostate	and survival, particularly	
+T-339	phytonutrient	phytonutrient	immune function	immune function	that boosts	
+T-339	cabbage	cabbage	anthocyanins	anthocyanins	contains	
+T-339	prevention	prevention	breast cancer	breast cancer	and survival, particularly prostate and	
+T-339	cabbage	cabbage	phytonutrient	phytonutrient	contains anthocyanins, a	
+T-339	cabbage	cabbage	produce	produce	enzymes that	
+T-339	urine	urine	cabbage	cabbage	using purple	
+T-339	produce	produce	sulforaphane	sulforaphane		
+T-339	cancer	cancer	cooking	cooking	– are deactivated by	
+T-339	cabbage	cabbage	steaming	steaming	are enhanced by	
+T-339	cancer prevention	cancer prevention	prostate	prostate	and survival, particularly	
+T-339	cancer prevention	cancer prevention	cancer	cancer	and survival, particularly prostate and breast	
+T-339	cruciferous vegetables	cruciferous vegetables	immune function	immune function	also contain a phytonutrient that boosts	
+T-339	phytonutrient	phytonutrient	produce	produce	found in blue/black/purple-pigmented	
+T-339	cancer	cancer	cancer	cancer	prevention and survival, particularly prostate and breast	
+T-339	cancer	cancer	prostate	prostate	prevention and survival, particularly	
+T-339	cabbage	cabbage	sulforaphane	sulforaphane	enzymes that produce	
+T-339	cancer	cancer	prevention	prevention		
+T-339	prostate	prostate	breast cancer	breast cancer	and	
+T-339	sulfur	sulfur	risk	risk	containing compounds, studies did not show an increased	

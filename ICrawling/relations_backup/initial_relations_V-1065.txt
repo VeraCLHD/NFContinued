@@ -1,0 +1,6 @@
+
+V-1065	cancer	cancer	risk	risk		
+V-1065	physical activity	physical activity	cancer	cancer	can reduce breast	
+V-1065	physical activity	physical activity	risk	risk	can reduce breast cancer	
+V-1065	breast cancer	breast cancer	risk	risk		
+V-1065	physical activity	physical activity	breast cancer	breast cancer	can reduce	

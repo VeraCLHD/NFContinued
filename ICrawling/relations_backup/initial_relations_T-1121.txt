@@ -1,0 +1,62 @@
+
+T-1121	stress	stress	plant-based	plant-based	management, along with a whole-food,	
+T-1121	cancer	cancer	heart disease	heart disease	mortality, increased	
+T-1121	nuts	nuts	beans	beans	(specifically walnuts) and	
+T-1121	diet	diet	b12	b12	with vitamin	
+T-1121	egg	egg	lifespan	lifespan	a day has been found to shorten our	
+T-1121	atrial fibrillation	atrial fibrillation	lifespan	lifespan	(a heartbeat arrhythmia, which can significantly shorten the	
+T-1121	nih-aarp study	nih-aarp study	health	health	(the largest forward looking study of diet and	
+T-1121	processed meats	processed meats	kombucha tea	kombucha tea	and fish,	
+T-1121	caloric restriction	caloric restriction	protein	protein	can easily be met by reducing animal	
+T-1121	supplements	supplements	mortality	mortality	that may increase all-cause	
+T-1121	harvard	harvard	health	health	nurses’	
+T-1121	processed meats	processed meats	fish	fish	and	
+T-1121	diet	diet	heart disease	heart disease	overall is thought to be capable of reversing	
+T-1121	caloric restriction	caloric restriction	animal protein	animal protein	can easily be met by reducing	
+T-1121	red meat	red meat	mortality	mortality	consumption to living a significantly shorter life—increased cancer	
+T-1121	processed meats	processed meats	tea	tea	and fish, kombucha	
+T-1121	heartbeat	heartbeat	lifespan	lifespan	arrhythmia, which can significantly shorten the	
+T-1121	salmon	salmon	heartbeat	heartbeat	) has been linked with atrial fibrillation (a	
+T-1121	meats	meats	egg	egg	and fish, kombucha tea, and eating just one	
+T-1121	walnuts	walnuts	beans	beans	) and	
+T-1121	nuts	nuts	walnuts	walnuts	(specifically	
+T-1121	disease	disease	lifespan	lifespan	and, thus, extending the	
+T-1121	alcohol	alcohol	lifespan	lifespan	consumption does not appear to affect the	
+T-1121	fruits	fruits	vegetables	vegetables	and	
+T-1121	iron	iron	lifespan	lifespan	pills have also been linked to a shorter	
+T-1121	supplements	supplements	lifespan	lifespan	that may increase all-cause mortality, or shorten the	
+T-1121	meat	meat	mortality	mortality	consumption to living a significantly shorter life—increased cancer	
+T-1121	harvard	harvard	health	health		
+T-1121	fish	fish	atrial fibrillation	atrial fibrillation	consumption (such as salmon) has been linked with	
+T-1121	diet	diet	health	health	and	
+T-1121	diet	diet	vitamin b12	vitamin b12	with	
+T-1121	coffee	coffee	mortality	mortality	has been associated with decreased all-cause	
+T-1121	meditation	meditation	stress	stress	and	
+T-1121	iron	iron	pills	pills		
+T-1121	meats	meats	tea	tea	and fish, kombucha	
+T-1121	vitamin c	vitamin c	multivitamins	multivitamins	and	
+T-1121	meat	meat	cancer	cancer	consumption to living a significantly shorter life—increased	
+T-1121	meats	meats	fish	fish	and	
+T-1121	cancer	cancer	mortality	mortality		
+T-1121	heart disease	heart disease	lifespan	lifespan	and, thus, extending the	
+T-1121	nih-aarp study	nih-aarp study	diet	diet	(the largest forward looking study of	
+T-1121	processed meats	processed meats	egg	egg	and fish, kombucha tea, and eating just one	
+T-1121	disease	disease	mortality	mortality		
+T-1121	atrial fibrillation	atrial fibrillation	heartbeat	heartbeat	(a	
+T-1121	meats	meats	kombucha tea	kombucha tea	and fish,	
+T-1121	meat	meat	lifespan	lifespan	one eats can increase	
+T-1121	meat	meat	mortality	mortality	intake may increase total	
+T-1121	health	health	harvard	harvard	professionals follow-up study and the	
+T-1121	aging	aging	dna	dna	of our	
+T-1121	cancer	cancer	disease	disease	mortality, increased heart	
+T-1121	meditation	meditation	plant-based	plant-based	and stress management, along with a whole-food,	
+T-1121	mortality	mortality	nih-aarp study	nih-aarp study	according to the massive	
+T-1121	risk	risk	mortality	mortality	of all cause	
+T-1121	salmon	salmon	atrial fibrillation	atrial fibrillation	) has been linked with	
+T-1121	fish	fish	salmon	salmon	consumption (such as	
+T-1121	heart disease	heart disease	mortality	mortality		
+T-1121	plant-based diets	plant-based diets	lifespan	lifespan	and	
+T-1121	pills	pills	lifespan	lifespan	have also been linked to a shorter	
+T-1121	plant-based	plant-based	lifespan	lifespan	diets and	
+T-1121	red meat	red meat	cancer	cancer	consumption to living a significantly shorter life—increased	
+T-1121	vegetarians	vegetarians	meat	meat	do not appear to live longer than british	

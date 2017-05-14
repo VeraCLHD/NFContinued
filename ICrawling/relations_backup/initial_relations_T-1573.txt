@@ -1,0 +1,55 @@
+
+T-1573	death	death	chemotherapy	chemotherapy	than	
+T-1573	water	water	fruits	fruits	to prevent dental erosion after consuming acidic	
+T-1573	diet	diet	raw	raw	as opposed to the	
+T-1573	raw	raw	cooking	cooking	or to chop it before	
+T-1573	plant-based	plant-based	fibromyalgia	fibromyalgia	diets reduced symptoms in	
+T-1573	cooking	cooking	water	water	causes nutrients to become lost in the cooking	
+T-1573	raw	raw	chemotherapy	chemotherapy	diet, resulted in a quicker death than	
+T-1573	raw	raw	plant-based diets	plant-based diets		
+T-1573	raw	raw	symptoms	symptoms	plant-based diets reduced	
+T-1573	boiling	boiling	cooking	cooking	and pressure	
+T-1573	boiled	boiled	kale	kale		
+T-1573	plant-based diets	plant-based diets	symptoms	symptoms	reduced	
+T-1573	onions	onions	cooking method	cooking method	and asparagus retain their nutrients in any	
+T-1573	onions	onions	asparagus	asparagus	and	
+T-1573	raw	raw	kale	kale		
+T-1573	pressure cooking	pressure cooking	cooking	cooking	causes nutrients to become lost in the	
+T-1573	onions	onions	cooking	cooking	and asparagus retain their nutrients in any	
+T-1573	raw	raw	peppers	peppers	is bell	
+T-1573	tomatoes	tomatoes	oranges	oranges	or	
+T-1573	broccoli	broccoli	raw	raw		
+T-1573	dental	dental	tomatoes	tomatoes	erosion after consuming acidic fruits such as	
+T-1573	raw	raw	diet	diet		
+T-1573	broccoli	broccoli	cooking	cooking	raw or to chop it before	
+T-1573	treatment	treatment	raw	raw	that includes a mostly	
+T-1573	cancer	cancer	diet	diet	treatment that includes a mostly raw	
+T-1573	raw	raw	bell peppers	bell peppers	is	
+T-1573	asparagus	asparagus	cooking	cooking	retain their nutrients in any	
+T-1573	dental	dental	fruits	fruits	erosion after consuming acidic	
+T-1573	kale	kale	raw	raw	was found to have higher immunostimulatory effects than	
+T-1573	raw	raw	vegetables	vegetables	and cooked	
+T-1573	chemotherapy	chemotherapy	cancer	cancer	for	
+T-1573	pressure cooking	pressure cooking	water	water	causes nutrients to become lost in the cooking	
+T-1573	plant-based	plant-based	symptoms	symptoms	diets reduced	
+T-1573	raw	raw	fruits	fruits		
+T-1573	carrots	carrots	celery	celery	and	
+T-1573	death	death	cancer	cancer	than chemotherapy for	
+T-1573	treatment	treatment	diet	diet	that includes a mostly raw	
+T-1573	cancer treatment	cancer treatment	diet	diet	that includes a mostly raw	
+T-1573	boiling	boiling	pressure cooking	pressure cooking	and	
+T-1573	asparagus	asparagus	cooking method	cooking method	retain their nutrients in any	
+T-1573	cancer	cancer	raw	raw	treatment that includes a mostly	
+T-1573	sulforaphane	sulforaphane	broccoli	broccoli	in	
+T-1573	raw	raw	death	death	diet, resulted in a quicker	
+T-1573	symptoms	symptoms	fibromyalgia	fibromyalgia	in	
+T-1573	plant-based diets	plant-based diets	fibromyalgia	fibromyalgia	reduced symptoms in	
+T-1573	cancer treatment	cancer treatment	raw	raw	that includes a mostly	
+T-1573	raw	raw	fibromyalgia	fibromyalgia	plant-based diets reduced symptoms in	
+T-1573	cancer	cancer	treatment	treatment		
+T-1573	mouth	mouth	water	water	out with	
+T-1573	raw	raw	plant-based	plant-based		
+T-1573	enzymes	enzymes	sulforaphane	sulforaphane	affect us physiologically, such as the formation of	
+T-1573	water	water	dental	dental	to prevent	
+T-1573	mouth	mouth	dental	dental	out with water to prevent	
+T-1573	raw	raw	vegetables	vegetables		

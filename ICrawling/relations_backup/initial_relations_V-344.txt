@@ -1,0 +1,56 @@
+
+V-344	grapes	grapes	raisins	raisins	or	
+V-344	raisins	raisins	blood	blood	were found to cause less of a	
+V-344	fruit	fruit	candy	candy	rather than on	
+V-344	pizza	pizza	calories	calories		
+V-344	fruit	fruit	cheese	cheese	and the meal is a pepperoni and three	
+V-344	raisins	raisins	children	children	lowers cumulative food intake in young	
+V-344	cheese	cheese	appetite	appetite	pizza, the more we can ruin their	
+V-344	women	women	raisins	raisins	assigned to consume a cup of	
+V-344	blood sugar	blood sugar	cola	cola	spike than coca	
+V-344	raisins	raisins	cookies	cookies	to chips and	
+V-344	sugar	sugar	cookies	cookies	levels…compared to fudge	
+V-344	raisins	raisins	blood sugar	blood sugar	were found to cause less of a	
+V-344	sugar	sugar	coca cola	coca cola	spike than	
+V-344	health	health	dried fruit	dried fruit	benefits, but	
+V-344	potato chips	potato chips	chocolate	chocolate	and	
+V-344	raisins	raisins	blood	blood	may reduce	
+V-344	blood	blood	cookies	cookies	sugar levels…compared to fudge	
+V-344	grapes	grapes	calories	calories	before the meal, they ate 128	
+V-344	raisins	raisins	cookies	cookies	may reduce blood sugar levels…compared to fudge	
+V-344	raisins	raisins	sugar	sugar	were found to cause less of a blood	
+V-344	sugar	sugar	candy	candy	spike than coca cola and	
+V-344	cola	cola	candy	candy	and	
+V-344	kids	kids	snacks	snacks	eat	
+V-344	pizza	pizza	calories	calories	that they ate fewer	
+V-344	fruit	fruit	calories	calories	is higher in	
+V-344	kids	kids	raisins	raisins		
+V-344	blood sugar	blood sugar	cookies	cookies	levels…compared to fudge	
+V-344	blood sugar	blood sugar	coca cola	coca cola	spike than	
+V-344	cheese	cheese	pizza	pizza		
+V-344	health	health	fruit	fruit	benefits, but dried	
+V-344	kids	kids	cookies	cookies	raisins, grapes, chips or	
+V-344	coca cola	coca cola	candy	candy	and	
+V-344	variety	variety	fruit	fruit	of health benefits, but dried	
+V-344	california	california	marketing	marketing	raisin	
+V-344	blood	blood	candy	candy	sugar spike than coca cola and	
+V-344	variety	variety	dried fruit	dried fruit	of health benefits, but	
+V-344	blood sugar	blood sugar	candy	candy	spike than coca cola and	
+V-344	sugar	sugar	cola	cola	spike than coca	
+V-344	health	health	calories	calories	benefits, but dried fruit is higher in	
+V-344	dried fruit	dried fruit	calories	calories	is higher in	
+V-344	raisins	raisins	sugar	sugar	may reduce blood	
+V-344	raisins	raisins	young children	young children	lowers cumulative food intake in	
+V-344	blood	blood	cola	cola	sugar spike than coca	
+V-344	variety	variety	health	health	of	
+V-344	kids	kids	grapes	grapes	raisins,	
+V-344	kids	kids	cookies	cookies	prefer	
+V-344	calories	calories	pizza	pizza	worth of	
+V-344	calories	calories	grapes	grapes	of	
+V-344	calories	calories	pizza	pizza	are certainly better than	
+V-344	chocolate	chocolate	cookies	cookies	chip	
+V-344	potato chips	potato chips	cookies	cookies	and chocolate chip	
+V-344	raisins	raisins	calories	calories	instead, they ate even more snack	
+V-344	blood	blood	coca cola	coca cola	sugar spike than	
+V-344	raisins	raisins	blood sugar	blood sugar	may reduce	
+V-344	blood	blood	sugar	sugar		

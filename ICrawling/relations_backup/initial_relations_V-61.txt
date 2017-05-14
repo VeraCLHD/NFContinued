@@ -1,0 +1,12 @@
+
+V-61	disease	disease	drugs	drugs	-modifying antirheumatic	
+V-61	gold	gold	disease	disease	lung, a gold-induced lung	
+V-61	seeds	seeds	arthritis	arthritis	on inflammatory markers in people with	
+V-61	treatment	treatment	inflammatory diseases	inflammatory diseases	for various	
+V-61	symptoms	symptoms	osteoarthritis	osteoarthritis	in patients with knee [	
+V-61	arthritis	arthritis	gold	gold	patients with	
+V-61	seeds	seeds	inflammation	inflammation	] on	
+V-61	doctors	doctors	arthritis	arthritis	have been injecting	
+V-61	doctors	doctors	gold	gold	have been injecting arthritis patients with	
+V-61	seeds	seeds	anti-inflammatory	anti-inflammatory	contain	
+V-61	sesame seeds	sesame seeds	arthritis	arthritis	on inflammatory markers in people with	

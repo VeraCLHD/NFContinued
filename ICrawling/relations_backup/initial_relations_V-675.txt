@@ -1,0 +1,89 @@
+
+V-675	skin	skin	cancer	cancer		
+V-675	cancer	cancer	ulcerative colitis	ulcerative colitis	—like	
+V-675	pancreatitis	pancreatitis	liver cancer	liver cancer	to pancreatic cancer, chronic hepatitis turning into 	
+V-675	cancer	cancer	inflammation	inflammation	creates its own	
+V-675	inflammation	inflammation	cancer	cancer	leading to	
+V-675	cancer	cancer	inflammation	inflammation	.oftentimes,	
+V-675	kidney	kidney	immunosuppressive drugs	immunosuppressive drugs	transplants, they must be given	
+V-675	liver	liver	stomach	stomach	cancer,	
+V-675	ulcerative colitis	ulcerative colitis	pancreatitis	pancreatitis	to colon cancer, chronic	
+V-675	skin cancer	skin cancer	risk	risk		
+V-675	breast cancer	breast cancer	risk	risk		
+V-675	stomach	stomach	cancer	cancer	inflammation to stomach	
+V-675	risk	risk	cancer	cancer	of	
+V-675	immune function	immune function	risk	risk	declines, our	
+V-675	cancer	cancer	colon	colon	—like ulcerative colitis to	
+V-675	chronic inflammation	chronic inflammation	cancer	cancer	leading to	
+V-675	colon	colon	cancer	cancer		
+V-675	stomach	stomach	inflammation	inflammation		
+V-675	ulcerative colitis	ulcerative colitis	colon cancer	colon cancer	to	
+V-675	breast cancer	breast cancer	rectal cancer	rectal cancer	risk goes down; your	
+V-675	hepatitis	hepatitis	liver	liver	turning into 	
+V-675	cancer	cancer	tumors	tumors	cells from noncancer cells is because	
+V-675	pancreatitis	pancreatitis	stomach	stomach	to pancreatic cancer, chronic hepatitis turning into liver cancer,	
+V-675	hepatitis	hepatitis	inflammation	inflammation	turning into liver cancer, stomach	
+V-675	breast cancer	breast cancer	cancer	cancer	risk goes down; your rectal	
+V-675	kidney	kidney	drugs	drugs	transplants, they must be given immunosuppressive	
+V-675	inflammation	inflammation	cancer	cancer	stimulates	
+V-675	liver	liver	stomach inflammation	stomach inflammation	cancer,	
+V-675	immune system	immune system	cancer cells	cancer cells	is even able to pick out	
+V-675	risk	risk	cancer	cancer	may go up, but your breast	
+V-675	stomach inflammation	stomach inflammation	inflammation	inflammation	to stomach cancer.oftentimes,	
+V-675	liver	liver	cancer	cancer		
+V-675	inflammation	inflammation	cancer growth	cancer growth	stimulates	
+V-675	immune function	immune function	cancer	cancer	declines, our risk of	
+V-675	cancer	cancer	disease	disease	may be considered an autoimmune	
+V-675	cancer	cancer	cancer	cancer	—like ulcerative colitis to colon	
+V-675	stomach inflammation	stomach inflammation	stomach	stomach	to	
+V-675	immune system	immune system	cancer	cancer	is even able to pick out	
+V-675	cancer	cancer	colon cancer	colon cancer	—like ulcerative colitis to	
+V-675	cancer	cancer	angiogenesis	angiogenesis	creates its own inflammation, which may stimulate	
+V-675	stomach	stomach	inflammation	inflammation	cancer.oftentimes,	
+V-675	cancer	cancer	breast cancer	breast cancer	risk may go up, but your	
+V-675	skin	skin	breast cancer	breast cancer	cancer risk may go up, but your	
+V-675	inflammation	inflammation	cancer	cancer	to stomach	
+V-675	colon	colon	pancreatic cancer	pancreatic cancer	cancer, chronic pancreatitis to	
+V-675	ulcerative colitis	ulcerative colitis	colon	colon	to	
+V-675	kidney	kidney	cancer	cancer	transplant, your skin	
+V-675	kidney	kidney	risk	risk	transplant, your skin cancer	
+V-675	risk	risk	breast cancer	breast cancer	may go up, but your	
+V-675	immune system	immune system	cancer	cancer	acts as a natural defense system for keeping	
+V-675	hepatitis	hepatitis	stomach inflammation	stomach inflammation	turning into liver cancer,	
+V-675	cancer cells	cancer cells	tumors	tumors	from noncancer cells is because	
+V-675	cancer	cancer	cancer	cancer	risk may go up, but your breast	
+V-675	inflammation	inflammation	stomach	stomach	to	
+V-675	ulcerative colitis	ulcerative colitis	pancreatic cancer	pancreatic cancer	to colon cancer, chronic pancreatitis to	
+V-675	skin	skin	risk	risk	cancer, the	
+V-675	kidney	kidney	skin	skin	transplant, your	
+V-675	cancer	cancer	risk	risk		
+V-675	risk	risk	cancer	cancer	goes down; your rectal	
+V-675	rectal cancer	rectal cancer	risk	risk		
+V-675	chronic inflammation	chronic inflammation	ulcerative colitis	ulcerative colitis	leading to cancer—like	
+V-675	chronic inflammation	chronic inflammation	colon cancer	colon cancer	leading to cancer—like ulcerative colitis to	
+V-675	ulcerative colitis	ulcerative colitis	cancer	cancer	to colon	
+V-675	kidney	kidney	skin cancer	skin cancer	transplant, your	
+V-675	hepatitis	hepatitis	cancer	cancer	turning into liver	
+V-675	inflammation	inflammation	ulcerative colitis	ulcerative colitis	leading to cancer—like	
+V-675	inflammation	inflammation	colon cancer	colon cancer	leading to cancer—like ulcerative colitis to	
+V-675	cancer	cancer	cancer	cancer	.oftentimes, inflammation, the body’s immune response, can further	
+V-675	pancreatitis	pancreatitis	cancer	cancer	to pancreatic	
+V-675	stomach inflammation	stomach inflammation	cancer	cancer	to stomach	
+V-675	blood	blood	tumor	tumor	to the	
+V-675	skin	skin	risk	risk	cancer	
+V-675	cancer	cancer	pancreatitis	pancreatitis	—like ulcerative colitis to colon cancer, chronic	
+V-675	skin cancer	skin cancer	breast cancer	breast cancer	risk may go up, but your	
+V-675	hepatitis	hepatitis	liver cancer	liver cancer	turning into 	
+V-675	colon	colon	hepatitis	hepatitis	cancer, chronic pancreatitis to pancreatic cancer, chronic	
+V-675	pancreatitis	pancreatitis	hepatitis	hepatitis	to pancreatic cancer, chronic	
+V-675	inflammation	inflammation	colon	colon	leading to cancer—like ulcerative colitis to	
+V-675	cancer	cancer	inflammation	inflammation	tends to thrive in a setting of low-level	
+V-675	pancreatitis	pancreatitis	pancreatic cancer	pancreatic cancer	to	
+V-675	hepatitis	hepatitis	stomach	stomach	turning into liver cancer,	
+V-675	chronic inflammation	chronic inflammation	colon	colon	leading to cancer—like ulcerative colitis to	
+V-675	colon	colon	pancreatitis	pancreatitis	cancer, chronic	
+V-675	pancreatitis	pancreatitis	liver	liver	to pancreatic cancer, chronic hepatitis turning into 	
+V-675	pancreatitis	pancreatitis	stomach inflammation	stomach inflammation	to pancreatic cancer, chronic hepatitis turning into liver cancer,	
+V-675	liver	liver	inflammation	inflammation	cancer, stomach	
+V-675	skin cancer	skin cancer	cancer	cancer	risk may go up, but your breast	
+V-675	cancer	cancer	aids	aids	affecting those with	

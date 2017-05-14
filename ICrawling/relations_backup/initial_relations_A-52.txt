@@ -1,0 +1,157 @@
+
+A-52	risk	risk	smoking	smoking	factor has been tobacco use, but cigarette	
+A-52	vegetables	vegetables	risk	risk	without the cancer	
+A-52	cancer	cancer	bacon	bacon	just be related to the processed meats like	
+A-52	vegetables	vegetables	cancer	cancer	without the	
+A-52	processed meats	processed meats	cold	cold	like bacon, sausage, hot dogs, and	
+A-52	disease	disease	sodium	sodium	risk, but that’s not just because	
+A-52	blood	blood	carcinogens	carcinogens	flow with nitrate-rich vegetables: more on	
+A-52	antioxidants	antioxidants	carcinogens	carcinogens	in plant foods block the formation of these	
+A-52	meats	meats	sausage	sausage	like bacon,	
+A-52	kidney cancer	kidney cancer	meats	meats	just be related to the processed	
+A-52	kidney cancer	kidney cancer	processed meats	processed meats	just be related to the	
+A-52	risk	risk	kidney	kidney	of	
+A-52	nitrite	nitrite	meats	meats	from all animal sources, not just processed	
+A-52	disease	disease	risk	risk		
+A-52	nitrites	nitrites	nitrates	nitrates	from vegetables on our tongue harmless, but	
+A-52	americans	americans	kidney cancer	kidney cancer	are diagnosed with	
+A-52	health	health	kidney failure	kidney failure	in preventing	
+A-52	smoking	smoking	kidney cancer	kidney cancer	rates have dropped, perhaps the rise in	
+A-52	nitrates	nitrates	nitrites	nitrites	and	
+A-52	smoking	smoking	cancer	cancer	rates have dropped, perhaps the rise in kidney	
+A-52	celery	celery	juice	juice		
+A-52	kidney health	kidney health	kidney failure	kidney failure	in preventing	
+A-52	americans	americans	cancer	cancer	are diagnosed with kidney	
+A-52	sodium	sodium	kidney	kidney	intake and	
+A-52	meats	meats	dogs	dogs	like bacon, sausage, hot	
+A-52	nitrite	nitrite	meat	meat	additives, or fresh	
+A-52	risk	risk	kidney cancer	kidney cancer	of	
+A-52	kidney	kidney	diabetes	diabetes	cancer, such as obesity, high blood pressure, and	
+A-52	cancer	cancer	meats	meats	just be related to the processed	
+A-52	meat	meat	pork	pork	as well: beef, chicken, and	
+A-52	plant foods	plant foods	carcinogens	carcinogens	block the formation of these	
+A-52	nitrates	nitrates	risk	risk	in vegetables without the cancer	
+A-52	salt	salt	risk	risk	is associated with increased cancer	
+A-52	kidney health	kidney health	kidney	kidney	in preventing	
+A-52	diet	diet	cancer	cancer	protect against kidney	
+A-52	cancer	cancer	hypertension	hypertension	risk even independently of	
+A-52	bacon	bacon	nitrites	nitrites	or lunch meat as “uncured,” this means no	
+A-52	meats	meats	cold	cold	like bacon, sausage, hot dogs, and	
+A-52	vitamin c	vitamin c	plant foods	plant foods	and other antioxidants in	
+A-52	nitrites	nitrites	bacteria	bacteria	can happen thanks to	
+A-52	nitrates	nitrates	bacteria	bacteria	to nitrites can happen thanks to	
+A-52	carcinogens	carcinogens	nitrosamines	nitrosamines	are not nitrites, but	
+A-52	sodium	sodium	disease	disease	intake increases kidney	
+A-52	carcinogens	carcinogens	cooking meat	cooking meat	caused by	
+A-52	nitrate	nitrate	vegetables	vegetables		
+A-52	nitrites	nitrites	vegetables	vegetables	from	
+A-52	diet	diet	kidney	kidney	protect against	
+A-52	meat	meat	chicken	chicken	as well: beef,	
+A-52	kidney disease	kidney disease	sodium	sodium	risk, but that’s not just because	
+A-52	carcinogens	carcinogens	stomach	stomach	in our	
+A-52	kidney	kidney	health	health		
+A-52	nitrates	nitrates	nitrites	nitrites	to	
+A-52	bacteria	bacteria	vegetables	vegetables	on our tongue when we eat	
+A-52	diet	diet	health	health	and	
+A-52	vitamin c	vitamin c	antioxidants	antioxidants	and other	
+A-52	blood	blood	diabetes	diabetes	pressure, and	
+A-52	americans	americans	kidney	kidney	are diagnosed with	
+A-52	sodium	sodium	kidney cancer	kidney cancer	intake and	
+A-52	vegetables	vegetables	nitrates	nitrates	on our tongue harmless, but	
+A-52	vegetables	vegetables	cooking meat	cooking meat	: more on carcinogens caused by	
+A-52	meat	meat	nitrites	nitrites	producers ferment the nitrates in celery to create	
+A-52	carcinogens	carcinogens	nitrites	nitrites	are not	
+A-52	celery	celery	nitrites	nitrites	to create	
+A-52	kidney	kidney	high blood pressure	high blood pressure	cancer, such as obesity,	
+A-52	cold	cold	nitrite	nitrite	cuts that have nitrate and	
+A-52	processed meat	processed meat	nitrites	nitrites	producers ferment the nitrates in celery to create	
+A-52	kidney	kidney	blood	blood	cancer, such as obesity, high	
+A-52	nitrate	nitrate	collards	collards	vegetables, like arugula, kale, and	
+A-52	blood	blood	vegetables	vegetables	flow with nitrate-rich	
+A-52	nih-aarp study	nih-aarp study	kidney	kidney	 featured in my video can diet protect against	
+A-52	nitrates	nitrates	cancer	cancer	in vegetables without the	
+A-52	diet	diet	kidney cancer	kidney cancer	protect against	
+A-52	nitrates	nitrates	nitrites	nitrites	in celery to create	
+A-52	processed meats	processed meats	sausage	sausage	like bacon,	
+A-52	diet	diet	kidney	kidney	and treating	
+A-52	plant-based	plant-based	cancer	cancer	diets and fiber-rich diets are recommended to prevent	
+A-52	kidney	kidney	blood pressure	blood pressure	cancer, such as obesity, high	
+A-52	nitrate	nitrate	kale	kale	vegetables, like arugula,	
+A-52	kidney	kidney	sodium	sodium	disease risk, but that’s not just because	
+A-52	nitrate	nitrate	meat	meat	and nitrite intake from processed	
+A-52	salt	salt	cancer	cancer	is associated with increased	
+A-52	nitrite	nitrite	processed meats	processed meats	from all animal sources, not just	
+A-52	risk	risk	cancer	cancer	of kidney	
+A-52	plant-based diets	plant-based diets	cancer	cancer	and fiber-rich diets are recommended to prevent	
+A-52	plant-based	plant-based	cancer	cancer	and fiber-rich diets appear to do both: decrease	
+A-52	vegetables	vegetables	carcinogens	carcinogens	: more on	
+A-52	smoking	smoking	kidney	kidney	rates have dropped, perhaps the rise in	
+A-52	kidney	kidney	obesity	obesity	cancer, such as	
+A-52	kidney failure	kidney failure	diet	diet	through	
+A-52	celery	celery	meat	meat	to create nitrites, then add it to the	
+A-52	processed meats	processed meats	bacon	bacon	like	
+A-52	kidney	kidney	risk	risk	disease	
+A-52	blood	blood	nitrate	nitrate	flow with	
+A-52	nitrate	nitrate	meat	meat	and nitrite additives, or fresh	
+A-52	nitrite	nitrite	meat	meat	intake from processed	
+A-52	nitrates	nitrates	vegetables	vegetables	in	
+A-52	meats	meats	hot dogs	hot dogs	like bacon, sausage,	
+A-52	meats	meats	bacon	bacon	like	
+A-52	vegetables	vegetables	nitrites	nitrites	on our tongue harmless, but nitrates and	
+A-52	nitrite	nitrite	processed meat	processed meat	intake from	
+A-52	cooking	cooking	meat	meat		
+A-52	carcinogens	carcinogens	beef	beef	are also found in fresh meat as well:	
+A-52	nitrates	nitrates	vegetables	vegetables	and nitrites from	
+A-52	bacon	bacon	meat	meat	or lunch	
+A-52	plant foods	plant foods	stomach	stomach	block the formation of these carcinogens in our	
+A-52	health	health	women	women	ever performed—about 500,000 men and	
+A-52	health	health	diet	diet	in preventing kidney failure through	
+A-52	sodium	sodium	kidney disease	kidney disease	intake increases	
+A-52	kidney	kidney	disease	disease		
+A-52	nitrates	nitrates	celery	celery	in	
+A-52	cold	cold	nitrate	nitrate	cuts that have	
+A-52	sodium	sodium	risk	risk	intake increases kidney disease	
+A-52	nitrosamines	nitrosamines	carcinogens	carcinogens	are one of the most potent	
+A-52	carcinogens	carcinogens	meat	meat	are also found in fresh	
+A-52	kidney	kidney	cancer	cancer		
+A-52	sodium	sodium	kidney	kidney	intake increases	
+A-52	kidney failure	kidney failure	kidney	kidney	through diet and treating	
+A-52	kidney	kidney	meats	meats	cancer just be related to the processed	
+A-52	meat	meat	cancer	cancer	linked to	
+A-52	nitrate	nitrate	nitrite	nitrite	and	
+A-52	kidney	kidney	kidney failure	kidney failure	health in preventing	
+A-52	tobacco	tobacco	smoking	smoking	use, but cigarette	
+A-52	kidney disease	kidney disease	risk	risk		
+A-52	diet	diet	women	women	and health ever performed—about 500,000 men and	
+A-52	risk	risk	tobacco	tobacco	factor has been	
+A-52	kidney	kidney	processed meats	processed meats	cancer just be related to the	
+A-52	cancer	cancer	risk	risk		
+A-52	processed meats	processed meats	hot dogs	hot dogs	like bacon, sausage,	
+A-52	vegetables	vegetables	meat	meat	: more on carcinogens caused by cooking	
+A-52	carcinogens	carcinogens	cooking	cooking	caused by	
+A-52	processed meats	processed meats	dogs	dogs	like bacon, sausage, hot	
+A-52	nih-aarp study	nih-aarp study	kidney cancer	kidney cancer	 featured in my video can diet protect against	
+A-52	kidney cancer	kidney cancer	bacon	bacon	just be related to the processed meats like	
+A-52	nitrosamines	nitrosamines	cigarettes	cigarettes	and nitrosamides as five	
+A-52	nitrate	nitrate	processed meat	processed meat	and nitrite intake from	
+A-52	vegetables	vegetables	cooking	cooking	: more on carcinogens caused by	
+A-52	kidney	kidney	diet	diet	failure through	
+A-52	nitrate	nitrate	nitrite	nitrite	or	
+A-52	nitrites	nitrites	nitrates	nitrates	or	
+A-52	meat	meat	celery	celery	producers ferment the nitrates in	
+A-52	diet	diet	kidney failure	kidney failure	and treating	
+A-52	processed meat	processed meat	nitrates	nitrates	producers ferment the	
+A-52	meat	meat	beef	beef	as well:	
+A-52	kidney	kidney	diet	diet	health in preventing kidney failure through	
+A-52	meat	meat	bacon	bacon	producers advertise their	
+A-52	risk	risk	hypertension	hypertension	even independently of	
+A-52	meat	meat	nitrates	nitrates	producers ferment the	
+A-52	processed meat	processed meat	celery	celery	producers ferment the nitrates in	
+A-52	health	health	kidney	kidney	in preventing	
+A-52	nitrate	nitrate	blood	blood	story, involving improving athletic performance and	
+A-52	carcinogens	carcinogens	meat	meat	caused by cooking	
+A-52	antioxidants	antioxidants	plant foods	plant foods	in	
+A-52	nih-aarp study	nih-aarp study	diet	diet	 featured in my video can	
+A-52	kidney health	kidney health	diet	diet	in preventing kidney failure through	
+A-52	cancer	cancer	processed meats	processed meats	just be related to the	
+A-52	sodium	sodium	cancer	cancer	intake and kidney	

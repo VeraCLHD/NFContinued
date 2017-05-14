@@ -1,0 +1,64 @@
+
+V-460	bacteria	bacteria	fermented foods	fermented foods	that’s found in	
+V-460	asthma	asthma	soy	soy	in schoolchildren, whereas consumptions of	
+V-460	fats	fats	fat	fat	gave a 10-fold protection, presumably because of saturated	
+V-460	fiber	fiber	carbohydrates	carbohydrates	and	
+V-460	asthma	asthma	vegetarian	vegetarian	than those who were strictly	
+V-460	risk	risk	asthma	asthma	of allergic disease, but the increase in	
+V-460	symptoms	symptoms	soy	soy	and asthma in schoolchildren, whereas consumptions of	
+V-460	fruits	fruits	risk	risk	were associated with reduced	
+V-460	asthma	asthma	disease	disease	is the most common chronic	
+V-460	asthma	asthma	chronic disease	chronic disease	is the most common	
+V-460	asthma	asthma	allergies	allergies	and	
+V-460	allergies	allergies	children	children	in childhood, studying more than a million	
+V-460	symptoms	symptoms	asthma	asthma	of	
+V-460	fruits	fruits	symptoms	symptoms	were associated with reduced risk of respiratory	
+V-460	risk	risk	symptoms	symptoms	of respiratory	
+V-460	plants	plants	fats	fats	foods, while the lowest intake of saturated	
+V-460	fat	fat	sodium	sodium	and	
+V-460	fat	fat	fiber	fiber	and sodium, and low	
+V-460	soy foods	soy foods	fruits	fruits	and	
+V-460	eggs	eggs	dairy	dairy	from the diet, along with	
+V-460	immune system	immune system	allergies	allergies	in early childhood.kids with	
+V-460	asthma	asthma	soy foods	soy foods	in schoolchildren, whereas consumptions of	
+V-460	asthma	asthma	fruits	fruits	in schoolchildren, whereas consumptions of soy foods and	
+V-460	fats	fats	saturated fat	saturated fat	gave a 10-fold protection, presumably because of	
+V-460	intestinal flora	intestinal flora	immune system	immune system	might affect the development and priming of the	
+V-460	fiber	fiber	asthma	asthma	and carbohydrates are linked with	
+V-460	probiotics	probiotics	asthma	asthma	may actually help with childhood	
+V-460	carbohydrates	carbohydrates	vegetarian	vegetarian	are linked with asthma, while traditional and	
+V-460	fat	fat	carbohydrates	carbohydrates	and sodium, and low fiber and	
+V-460	disease	disease	children	children	in	
+V-460	saturated fat	saturated fat	inflammation	inflammation	’s role in triggering	
+V-460	fat	fat	inflammation	inflammation	’s role in triggering	
+V-460	flora	flora	immune system	immune system	might affect the development and priming of the	
+V-460	soy	soy	risk	risk	foods and fruits were associated with reduced	
+V-460	risk	risk	asthma	asthma	of respiratory symptoms and	
+V-460	calories	calories	protein	protein	and	
+V-460	pollutants	pollutants	meat	meat	building up in the	
+V-460	industrial pollutants	industrial pollutants	meat	meat	building up in the	
+V-460	fruits	fruits	vegetables	vegetables	and	
+V-460	chronic disease	chronic disease	children	children	in	
+V-460	organic	organic	vegetarian	vegetarian		
+V-460	symptoms	symptoms	eczema	eczema	of asthma, allergic runny nose, and atopic	
+V-460	meat	meat	disease	disease	supply that may increase the risk of allergic	
+V-460	symptoms	symptoms	soy foods	soy foods	and asthma in schoolchildren, whereas consumptions of	
+V-460	eggs	eggs	diet	diet	from the	
+V-460	meat	meat	risk	risk	supply that may increase the	
+V-460	smoking	smoking	diet	diet	rates, but the most significant associations were with	
+V-460	air pollution	air pollution	smoking	smoking	and	
+V-460	asthma	asthma	children	children	is the most common chronic disease in	
+V-460	soy foods	soy foods	risk	risk	and fruits were associated with reduced	
+V-460	vitamin c	vitamin c	plants	plants	from	
+V-460	symptoms	symptoms	asthma	asthma	and	
+V-460	children	children	vegetarian	vegetarian	raised on largely organic	
+V-460	risk	risk	disease	disease	of allergic	
+V-460	fermented foods	fermented foods	fruits	fruits	and just naturally on	
+V-460	pollution	pollution	smoking	smoking	and	
+V-460	fermented foods	fermented foods	vegetables	vegetables	and just naturally on fruits and	
+V-460	children	children	organic	organic	raised on largely	
+V-460	soy	soy	fruits	fruits	foods and	
+V-460	protein	protein	allergies	allergies	came from plant sources, the less	
+V-460	asthma	asthma	fruits	fruits	prevalence and a decreased consumption of fresh	
+V-460	carbohydrates	carbohydrates	asthma	asthma	are linked with	
+V-460	calories	calories	allergies	allergies	and protein came from plant sources, the less	

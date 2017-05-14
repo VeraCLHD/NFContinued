@@ -1,0 +1,13 @@
+
+T-395	dogs	dogs	risk	risk	appeared equally effective in reducing the	
+T-395	risk	risk	cold	cold	of getting the common	
+T-395	cats	cats	risk	risk	or dogs appeared equally effective in reducing the	
+T-395	dogs	dogs	bacteria	bacteria	appear to act like a bridge to pass	
+T-395	pets	pets	blood	blood	can help lower a person’s	
+T-395	gut	gut	bacteria	bacteria		
+T-395	risk	risk	common cold	common cold	of getting the	
+T-395	cats	cats	dogs	dogs	or	
+T-395	children	children	cats	cats	from tummy aches, living with either	
+T-395	cats	cats	pets	pets	and other furry	
+T-395	respiratory illnesses	respiratory illnesses	risk	risk	in half, and may even decrease the	
+T-395	children	children	dogs	dogs	from tummy aches, living with either cats or	

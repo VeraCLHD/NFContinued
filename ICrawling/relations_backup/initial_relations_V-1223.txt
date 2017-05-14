@@ -1,0 +1,22 @@
+
+V-1223	carcinogen	carcinogen	epa	epa	benzene.the fda and	
+V-1223	sodium benzoate	sodium benzoate	benzene	benzene	get together, they can form the potent carcinogen	
+V-1223	benzene	benzene	fda	fda	.the	
+V-1223	sodium	sodium	carcinogen	carcinogen	benzoate get together, they can form the potent	
+V-1223	environmental protection agency	environmental protection agency	benzene	benzene	—measured and reported	
+V-1223	coca cola	coca cola	benzene	benzene	responded, saying that there was “much more	
+V-1223	epa	epa	environmental protection agency	environmental protection agency	—the	
+V-1223	ascorbic acid	ascorbic acid	sodium benzoate	sodium benzoate	and	
+V-1223	fda	fda	environmental protection agency	environmental protection agency	and epa—the	
+V-1223	carcinogen	carcinogen	fda	fda	benzene.the	
+V-1223	benzene	benzene	environmental protection agency	environmental protection agency	.the fda and epa—the	
+V-1223	sodium benzoate	sodium benzoate	carcinogen	carcinogen	get together, they can form the potent	
+V-1223	carcinogen	carcinogen	environmental protection agency	environmental protection agency	benzene.the fda and epa—the	
+V-1223	benzene	benzene	epa	epa	.the fda and	
+V-1223	fda	fda	benzene	benzene	and epa—the environmental protection agency—measured and reported	
+V-1223	benzene	benzene	tuna	tuna	in cigarette smoke, car exhaust, and canned	
+V-1223	cola	cola	benzene	benzene	responded, saying that there was “much more	
+V-1223	epa	epa	benzene	benzene	—the environmental protection agency—measured and reported	
+V-1223	ascorbic acid	ascorbic acid	sodium	sodium	and	
+V-1223	fda	fda	epa	epa	and	
+V-1223	carcinogen	carcinogen	benzene	benzene		

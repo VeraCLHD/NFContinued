@@ -1,0 +1,53 @@
+
+T-238	pollutants	pollutants	cancer cell growth	cancer cell growth	such as alkylphenols, which may increase	
+T-238	prozac	prozac	urine	urine	—excreted in	
+T-238	ddt	ddt	poultry	poultry	(banned decades ago) have bioaccumulated in seafood,	
+T-238	industrial pollutants	industrial pollutants	cancer	cancer	such as alkylphenols, which may increase	
+T-238	drugs	drugs	fda	fda	that have bioaccumulated in food.the usda,	
+T-238	plant-based	plant-based	diet	diet		
+T-238	plant-based diet	plant-based diet	meat	meat	and decreasing or eliminating	
+T-238	fish	fish	biomagnification	biomagnification	intake may significantly reduce exposure.one example of	
+T-238	ddt	ddt	seafood	seafood	(banned decades ago) have bioaccumulated in	
+T-238	plant-based	plant-based	meat	meat	diet and decreasing or eliminating	
+T-238	industrial pollutants	industrial pollutants	cancer cell growth	cancer cell growth	such as alkylphenols, which may increase	
+T-238	plant-based	plant-based	fish	fish	diet and decreasing or eliminating meat, dairy, and	
+T-238	pollutants	pollutants	alkylphenols	alkylphenols	such as	
+T-238	fat	fat	contaminants	contaminants	of animals, and humans are exposed to the	
+T-238	contaminants	contaminants	fat	fat	may accumulate in the	
+T-238	biomagnification	biomagnification	bmaa	bmaa	relates to the	
+T-238	industrial pollutants	industrial pollutants	alkylphenols	alkylphenols	such as	
+T-238	biomagnification	biomagnification	toxins	toxins	refers to the concentration of	
+T-238	diet	diet	dairy	dairy	and decreasing or eliminating meat,	
+T-238	pollutants	pollutants	cancer	cancer	such as alkylphenols, which may increase	
+T-238	medications	medications	urine	urine	like benadryl, cardizem, tegretol, lopid, zoloft, and prozac—excreted in	
+T-238	plants	plants	toxins	toxins	or animals in which the	
+T-238	toxins	toxins	fat	fat	: contaminants may accumulate in the	
+T-238	toxins	toxins	ddt	ddt	like arsenic, lead, mercury, dioxins, pcbs, and even	
+T-238	bmaa	bmaa	blue-green algae	blue-green algae	is produced by	
+T-238	diet	diet	meat	meat	and decreasing or eliminating	
+T-238	blue-green algae	blue-green algae	oceans	oceans	in many rivers, lakes, and	
+T-238	pollutants	pollutants	toxins	toxins	and other	
+T-238	toxins	toxins	salmon	salmon	are found in fatty fish like	
+T-238	epa	epa	contaminants	contaminants	are supposed to test for these	
+T-238	bmaa	bmaa	algae	algae	is produced by blue-green	
+T-238	toxins	toxins	arsenic	arsenic	like	
+T-238	biomagnification	biomagnification	pollutants	pollutants	is one way humans are exposed to dangerous	
+T-238	medications	medications	zoloft	zoloft	like benadryl, cardizem, tegretol, lopid,	
+T-238	toxins	toxins	pcbs	pcbs	like arsenic, lead, mercury, dioxins,	
+T-238	diet	diet	fish	fish	and decreasing or eliminating meat, dairy, and	
+T-238	toxins	toxins	lead	lead	like arsenic,	
+T-238	algae	algae	oceans	oceans	in many rivers, lakes, and	
+T-238	drugs	drugs	usda	usda	that have bioaccumulated in food.the	
+T-238	plant-based	plant-based	dairy	dairy	diet and decreasing or eliminating meat,	
+T-238	toxins	toxins	fish	fish	are found in fatty	
+T-238	ddt	ddt	dairy	dairy	(banned decades ago) have bioaccumulated in seafood, poultry,	
+T-238	plant-based diet	plant-based diet	dairy	dairy	and decreasing or eliminating meat,	
+T-238	medications	medications	prozac	prozac	like benadryl, cardizem, tegretol, lopid, zoloft, and	
+T-238	pollutants	pollutants	fat	fat	and other toxins: contaminants may accumulate in the	
+T-238	drugs	drugs	epa	epa	that have bioaccumulated in food.the usda, fda, and	
+T-238	toxins	toxins	dioxins	dioxins	like arsenic, lead, mercury,	
+T-238	fish	fish	salmon	salmon	like	
+T-238	bmaa	bmaa	als	als	neurotoxin, which may contribute to	
+T-238	pollutants	pollutants	contaminants	contaminants	and other toxins:	
+T-238	plant-based diet	plant-based diet	fish	fish	and decreasing or eliminating meat, dairy, and	
+T-238	toxins	toxins	mercury	mercury	like arsenic, lead,	

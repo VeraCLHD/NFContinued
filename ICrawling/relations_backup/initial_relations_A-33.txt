@@ -1,0 +1,76 @@
+
+A-33	obesity	obesity	diabetes	diabetes	to	
+A-33	lipotoxicity	lipotoxicity	blood sugar	blood sugar	: how saturated fat raises	
+A-33	blood	blood	muscles	muscles	directly inhibits glucose transport and usage in our	
+A-33	fat	fat	blood	blood	in the	
+A-33	heart disease	heart disease	risk	risk		
+A-33	spillover effect	spillover effect	disease	disease	may also help explain the increased heart	
+A-33	blood	blood	glucose	glucose	directly inhibits	
+A-33	disease	disease	risk	risk		
+A-33	insulin	insulin	diabetes	diabetes	resistance that promotes the onset of type 2	
+A-33	fat	fat	pollutants	pollutants	leaking into our bloodstream may also contain fat-soluble	
+A-33	insulin resistance	insulin resistance	diabetes	diabetes	is what causes prediabetes and type 2	
+A-33	spillover effect	spillover effect	heart disease	heart disease	may also help explain the increased	
+A-33	diet	diet	fat	fat	can have the same level of	
+A-33	fat	fat	muscles	muscles	found in the	
+A-33	disease	disease	obesity	obesity	risk associated with	
+A-33	triglycerides	triglycerides	fat	fat	) result in inflammation, toxic	
+A-33	insulin	insulin	lead	lead	receptor pathway and	
+A-33	lead	lead	insulin resistance	insulin resistance	to	
+A-33	insulin resistance	insulin resistance	prediabetes	prediabetes	is what causes	
+A-33	diet	diet	fat	fat	can increase	
+A-33	low carb	low carb	blood	blood	diets and coronary	
+A-33	fat	fat	sugar	sugar	raises blood	
+A-33	risk	risk	blood	blood	associated with obesity: low carb diets and coronary	
+A-33	lead	lead	muscles	muscles	to insulin resistance in our	
+A-33	bacon	bacon	diet	diet	and butter	
+A-33	insulin resistance	insulin resistance	diabetes	diabetes	that promotes the onset of type 2	
+A-33	risk	risk	obesity	obesity	associated with	
+A-33	lipotoxicity	lipotoxicity	fat	fat	: how saturated	
+A-33	lipotoxicity	lipotoxicity	sugar	sugar	: how saturated fat raises blood	
+A-33	diet	diet	blood	blood	can increase fat in the	
+A-33	fat	fat	blood	blood	in our	
+A-33	fat	fat	blood	blood	raises	
+A-33	fat	fat	diet	diet		
+A-33	lipotoxicity	lipotoxicity	saturated fat	saturated fat	: how	
+A-33	lead	lead	insulin	insulin	to	
+A-33	fat	fat	blood	blood	in their	
+A-33	heart disease	heart disease	obesity	obesity	risk associated with	
+A-33	insulin	insulin	prediabetes	prediabetes	resistance is what causes	
+A-33	salmon	salmon	fat	fat	and our own	
+A-33	fat	fat	glucose	glucose	in the blood directly inhibits	
+A-33	fat	fat	blood	blood	-rich diet can increase fat in the	
+A-33	butter	butter	diet	diet		
+A-33	pollutants	pollutants	diet	diet	that accumulated from our	
+A-33	saturated fat	saturated fat	blood	blood	raises	
+A-33	risk	risk	low carb	low carb	associated with obesity:	
+A-33	sugar	sugar	blood	blood	from the	
+A-33	obesity	obesity	blood	blood	: low carb diets and coronary	
+A-33	saturated fat	saturated fat	blood sugar	blood sugar	raises	
+A-33	disease	disease	low carb	low carb	risk associated with obesity:	
+A-33	fat	fat	blood sugar	blood sugar	raises	
+A-33	insulin resistance	insulin resistance	muscles	muscles	in our	
+A-33	diet	diet	fat	fat	: pollutants in salmon and our own	
+A-33	glucose	glucose	muscles	muscles	transport and usage in our	
+A-33	spillover effect	spillover effect	diabetes	diabetes	links obesity to	
+A-33	fat	fat	diet	diet	-rich	
+A-33	saturated fat	saturated fat	sugar	sugar	raises blood	
+A-33	triglycerides	triglycerides	inflammation	inflammation	) result in	
+A-33	obesity	obesity	diabetes	diabetes	and	
+A-33	bacon	bacon	butter	butter	and	
+A-33	prediabetes	prediabetes	diabetes	diabetes	and type 2	
+A-33	lipotoxicity	lipotoxicity	blood	blood	: how saturated fat raises	
+A-33	insulin	insulin	insulin resistance	insulin resistance	receptor pathway and lead to	
+A-33	blood	blood	sugar	sugar	rises, the body’s ability to clear	
+A-33	pollutants	pollutants	salmon	salmon	that accumulated from our diet: pollutants in	
+A-33	insulin	insulin	diabetes	diabetes	resistance is what causes prediabetes and type 2	
+A-33	diet	diet	salmon	salmon	: pollutants in	
+A-33	fat	fat	triglycerides	triglycerides	circulating in the bloodstream not packaged into	
+A-33	muscles	muscles	insulin	insulin	within two hours and	
+A-33	diet	diet	fat	fat	all day, because obese persons are constantly spilling	
+A-33	fat	fat	muscles	muscles	builds up in their	
+A-33	spillover effect	spillover effect	obesity	obesity	links	
+A-33	spillover effect	spillover effect	risk	risk	may also help explain the increased heart disease	
+A-33	heart disease	heart disease	low carb	low carb	risk associated with obesity:	
+A-33	fat	fat	blood	blood	floating around in our	
+A-33	blood	blood	sugar	sugar		

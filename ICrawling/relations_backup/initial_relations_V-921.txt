@@ -1,0 +1,6 @@
+
+V-921	lead	lead	inflammation	inflammation	to	
+V-921	aorta	aorta	cholesterol	cholesterol	becomes stiffened with atherosclerosis, inflamed with oxidized	
+V-921	saturated fat	saturated fat	diet	diet	in one’s	
+V-921	aorta	aorta	atherosclerosis	atherosclerosis	becomes stiffened with	
+V-921	fat	fat	diet	diet	in one’s	

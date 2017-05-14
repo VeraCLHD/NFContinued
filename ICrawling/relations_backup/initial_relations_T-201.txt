@@ -1,0 +1,16 @@
+
+T-201	health	health	diet	diet	benefits from switching to a healthier	
+T-201	longevity	longevity	beans	beans	among older populations around the world.black	
+T-201	black beans	black beans	antioxidant	antioxidant	for	
+T-201	beans	beans	diet	diet	as a part of a healthy	
+T-201	beans	beans	health	health	are so	
+T-201	salt	salt	beans	beans	than	
+T-201	black beans	black beans	antioxidant content	antioxidant content	for	
+T-201	beans	beans	antioxidant	antioxidant	for	
+T-201	beans	beans	antioxidants	antioxidants	are rich in phytonutrients and	
+T-201	cans	cans	americans	americans	produced by certain companies contain bpa.unfortunately, 98% of	
+T-201	beans	beans	phytonutrients	phytonutrients	are rich in	
+T-201	plastic	plastic	cans	cans	linings in bean	
+T-201	dietary guidelines	dietary guidelines	americans	americans	for	
+T-201	beans	beans	antioxidant content	antioxidant content	for	
+T-201	phytonutrients	phytonutrients	antioxidants	antioxidants	and	

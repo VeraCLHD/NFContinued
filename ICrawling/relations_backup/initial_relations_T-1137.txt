@@ -1,0 +1,34 @@
+
+T-1137	zoonotic diseases	zoonotic diseases	disease	disease	–	
+T-1137	diet	diet	cancer	cancer	and	
+T-1137	dairy	dairy	viruses	viruses	– and egg-borne	
+T-1137	viruses	viruses	lymphoma	lymphoma	may play a role in causing	
+T-1137	poultry	poultry	lymphoma	lymphoma	consumed daily, the risk of	
+T-1137	diet	diet	risk	risk	and cancer, poultry was associated with the highest	
+T-1137	poultry	poultry	lymphoma	lymphoma	was associated with the highest risk of	
+T-1137	leukemia	leukemia	virus	virus		
+T-1137	mortality	mortality	lymphoma	lymphoma	rate varies with the kind and extent of	
+T-1137	diet	diet	poultry	poultry	and cancer,	
+T-1137	poultry	poultry	risk	risk	consumed daily, the	
+T-1137	lymphoma	lymphoma	cancer	cancer	is	
+T-1137	leukemia	leukemia	disease	disease	may actually be zoonotic diseases–	
+T-1137	viruses	viruses	cancer	cancer	may also have a role in	
+T-1137	cancer	cancer	blood	blood	of cells in the	
+T-1137	poultry	poultry	risk	risk	was associated with the highest	
+T-1137	diet	diet	fruit	fruit	rich in vegetables, grains,	
+T-1137	lymphoma	lymphoma	zoonotic diseases	zoonotic diseases	and leukemia may actually be	
+T-1137	leukemia	leukemia	zoonotic diseases	zoonotic diseases	may actually be	
+T-1137	diet	diet	nuts	nuts	rich in vegetables, grains, fruit, and	
+T-1137	cancer	cancer	animal products	animal products	with	
+T-1137	lymphoma	lymphoma	leukemia	leukemia	and	
+T-1137	diet	diet	vegetables	vegetables	rich in	
+T-1137	diet	diet	grains	grains	rich in vegetables,	
+T-1137	lymphoma	lymphoma	disease	disease	and leukemia may actually be zoonotic diseases–	
+T-1137	lymphoma	lymphoma	cancer	cancer	(and leukemia—	
+T-1137	lymphoma	lymphoma	blood	blood	(and leukemia—cancer of cells in the	
+T-1137	infection	infection	milk	milk	in cattle that can make its way into	
+T-1137	lymphoma	lymphoma	leukemia	leukemia	(and	
+T-1137	risk	risk	poultry	poultry	of lymphoma; for every 50 grams of	
+T-1137	viruses	viruses	leukemia	leukemia	may play a role in causing lymphoma (and	
+T-1137	risk	risk	lymphoma	lymphoma	of	
+T-1137	leukemia	leukemia	infection	infection	virus, a viral	

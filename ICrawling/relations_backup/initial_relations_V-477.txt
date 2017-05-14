@@ -1,0 +1,52 @@
+
+V-477	cancer cells	cancer cells	plastic	plastic	in certain types of	
+V-477	milk	milk	fish	fish	samples from mothers who said they ate	
+V-477	pollutants	pollutants	milk	milk	contaminate human	
+V-477	europe	europe	chemicals	chemicals	started banning and restricting uses of these	
+V-477	mackerel	mackerel	salmon	salmon	were the worst in this study, and	
+V-477	tufts	tufts	cancer	cancer	observed an excessive proliferation of human breast	
+V-477	milk	milk	mothers	mothers	of	
+V-477	anchovies	anchovies	mackerel	mackerel	and	
+V-477	chicken	chicken	cooking	cooking	fat, lard, and tallow, which were considered	
+V-477	organic	organic	pollutants	pollutants		
+V-477	xenoestrogens	xenoestrogens	phytoestrogens	phytoestrogens	are playing a role, what about natural	
+V-477	seafood	seafood	asthma	asthma	consumption has been associated with “severe	
+V-477	phytoestrogens	phytoestrogens	asthma	asthma	] is associated with better lung function and better 	
+V-477	milk	milk	bioaccumulation	bioaccumulation	”—again, thanks to	
+V-477	organic	organic	alkylphenols	alkylphenols	pollutants,” not just the	
+V-477	water	water	birds	birds	animals and	
+V-477	oils	oils	fish oil	fish oil	here, or	
+V-477	chicken	chicken	oils	oils	fat, lard, and tallow, which were considered cooking	
+V-477	memory	memory	infants	infants	functions [in] breastfed	
+V-477	alkylphenols	alkylphenols	breast milk	breast milk	have been found to concentrate in human	
+V-477	disease	disease	skin	skin	of the	
+V-477	milk	milk	mothers	mothers	samples from	
+V-477	chicken	chicken	lard	lard	fat,	
+V-477	mothers	mothers	fish	fish	who said they ate	
+V-477	fish oil	fish oil	fish	fish	capsules and processed	
+V-477	milk	milk	diet	diet	of mothers with a seafood-rich	
+V-477	cooking	cooking	fish	fish	oils here, or	
+V-477	breast cancer	breast cancer	plastic	plastic	cells in certain types of	
+V-477	salmon	salmon	cod	cod	and	
+V-477	soy	soy	asthma	asthma	[phytoestrogens] is associated with better lung function and better 	
+V-477	oils	oils	fish	fish	here, or	
+V-477	alkylphenols	alkylphenols	milk	milk	have been found to concentrate in human breast	
+V-477	pollutants	pollutants	infants	infants	in their	
+V-477	tufts	tufts	breast cancer	breast cancer	observed an excessive proliferation of human	
+V-477	diet	diet	phytoestrogens	phytoestrogens	with moderate to high amounts of soy [	
+V-477	chicken	chicken	fat	fat		
+V-477	tufts	tufts	cancer cells	cancer cells	observed an excessive proliferation of human breast	
+V-477	allergies	allergies	disease	disease	] and current and severe eczema,” an allergic-type	
+V-477	alkylphenols	alkylphenols	tufts	tufts	first surfaced decades ago, when a group at	
+V-477	memory	memory	contaminants	contaminants	functions [in] breastfed infants,” because “these	
+V-477	diet	diet	soy	soy	with moderate to high amounts of	
+V-477	pollutants	pollutants	mothers	mothers	were recorded in milk samples from	
+V-477	women	women	fish	fish	who eat	
+V-477	cooking	cooking	oils	oils		
+V-477	cancer	cancer	plastic	plastic	cells in certain types of	
+V-477	pollutants	pollutants	milk	milk	were recorded in	
+V-477	chemicals	chemicals	environment	environment	continue to be spewed out into the	
+V-477	contamination	contamination	fish	fish	in	
+V-477	allergies	allergies	eczema	eczema	] and current and severe	
+V-477	mothers	mothers	diet	diet	with a seafood-rich	
+V-477	cooking	cooking	fish oil	fish oil	oils here, or	

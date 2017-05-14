@@ -1,0 +1,33 @@
+
+V-529	vegetables	vegetables	sprouts	sprouts	—broccoli, brussels	
+V-529	weeds	weeds	vegetables	vegetables	—wild plants, dark green leafy	
+V-529	stomach	stomach	ah receptor	ah receptor	acid into the key that fits into the	
+V-529	broccoli	broccoli	phytonutrient	phytonutrient	.cruciferous vegetables—broccoli, brussels sprouts, kale, cauliflower, cabbage—contain a	
+V-529	vegetables	vegetables	cauliflower	cauliflower	—broccoli, brussels sprouts, kale,	
+V-529	broccoli	broccoli	cabbage	cabbage	.cruciferous vegetables—broccoli, brussels sprouts, kale, cauliflower,	
+V-529	broccoli	broccoli	brussels sprouts	brussels sprouts	.cruciferous vegetables—broccoli,	
+V-529	immune system	immune system	plant foods	plant foods	evolve this requirement for broccoli and other	
+V-529	broccoli	broccoli	vegetables	vegetables	.cruciferous	
+V-529	vegetables	vegetables	kale	kale	—broccoli, brussels sprouts,	
+V-529	ulcerative colitis	ulcerative colitis	diet	diet	—whereas the more meat-centered western	
+V-529	weeds	weeds	plants	plants	—wild	
+V-529	vegetables	vegetables	broccoli	broccoli	—	
+V-529	vegetables	vegetables	cabbage	cabbage	—broccoli, brussels sprouts, kale, cauliflower,	
+V-529	ulcerative colitis	ulcerative colitis	western diet	western diet	—whereas the more meat-centered	
+V-529	cabbage	cabbage	phytonutrient	phytonutrient	—contain a	
+V-529	phytonutrient	phytonutrient	stomach	stomach	that is transformed by our	
+V-529	broccoli	broccoli	cauliflower	cauliflower	.cruciferous vegetables—broccoli, brussels sprouts, kale,	
+V-529	immune system	immune system	broccoli	broccoli	evolve this requirement for	
+V-529	diet	diet	risk	risk	is associated with higher	
+V-529	cabbage	cabbage	stomach	stomach	—contain a phytonutrient that is transformed by our	
+V-529	cruciferous vegetables	cruciferous vegetables	immune function	immune function	act through the ah [receptors] to promote intestinal	
+V-529	vegetables	vegetables	phytonutrient	phytonutrient	—broccoli, brussels sprouts, kale, cauliflower, cabbage—contain a	
+V-529	broccoli	broccoli	sprouts	sprouts	.cruciferous vegetables—broccoli, brussels	
+V-529	vegetables	vegetables	brussels sprouts	brussels sprouts	—broccoli,	
+V-529	risk	risk	ulcerative colitis	ulcerative colitis	of inflammatory bowel diseases, such as	
+V-529	western diet	western diet	risk	risk	is associated with higher	
+V-529	broccoli	broccoli	plant foods	plant foods	and other	
+V-529	vegetables	vegetables	immune function	immune function	act through the ah [receptors] to promote intestinal	
+V-529	cabbage	cabbage	immune function	immune function	are essential for sustaining intestinal	
+V-529	weeds	weeds	leafy vegetables	leafy vegetables	—wild plants, dark green	
+V-529	broccoli	broccoli	kale	kale	.cruciferous vegetables—broccoli, brussels sprouts,	

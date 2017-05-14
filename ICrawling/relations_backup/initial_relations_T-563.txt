@@ -1,0 +1,25 @@
+
+T-563	lead	lead	birth defects	birth defects	to genital	
+T-563	fish	fish	ddt	ddt	generally have higher levels of	
+T-563	pesticides	pesticides	fish	fish	than wild-caught	
+T-563	ddt	ddt	weight gain	weight gain	metabolite, dde, the higher the	
+T-563	ddt	ddt	fish	fish	and other pesticides than wild-caught	
+T-563	pollutants	pollutants	plant-based	plant-based	like ddt than a	
+T-563	mothers	mothers	blood	blood	’ umbilical cord	
+T-563	pollutants	pollutants	ddt	ddt	like	
+T-563	bamboo shoots	bamboo shoots	china	china	from	
+T-563	pollutants	pollutants	diet	diet	like ddt than a plant-based	
+T-563	plant-based	plant-based	diet	diet		
+T-563	fish	fish	pollutants	pollutants	may result in greater exposure to persistent	
+T-563	weight gain	weight gain	risk	risk		
+T-563	mothers	mothers	umbilical cord blood	umbilical cord blood	’	
+T-563	fish	fish	pesticides	pesticides	generally have higher levels of ddt and other	
+T-563	bamboo shoots	bamboo shoots	ddt	ddt	from china are other food sources of	
+T-563	china	china	ddt	ddt	are other food sources of	
+T-563	ddt	ddt	lead	lead	may explain how exposure may	
+T-563	dairy	dairy	bamboo shoots	bamboo shoots	and canned	
+T-563	ddt	ddt	risk	risk	metabolite, dde, the higher the weight gain	
+T-563	ddt	ddt	birth defects	birth defects	may explain how exposure may lead to genital	
+T-563	pollutants	pollutants	plant-based diet	plant-based diet	like ddt than a	
+T-563	dairy	dairy	china	china	and canned bamboo shoots from	
+T-563	ddt	ddt	pesticides	pesticides	and other	

@@ -1,0 +1,130 @@
+
+T-1525	gluten	gluten	symptoms	symptoms	sensitivity	
+T-1525	processed foods	processed foods	butter	butter	have health benefits, including peanut	
+T-1525	cranberry	cranberry	juice	juice	“	
+T-1525	formaldehyde	formaldehyde	cocoa	cocoa	), popcorn (but not with butter flavor), and	
+T-1525	mangosteen	mangosteen	white bread	white bread	juice,	
+T-1525	nitrites	nitrites	meats	meats	used in processed	
+T-1525	cranberry	cranberry	soy	soy	“juice,” apple juice, grape juice,	
+T-1525	thyroid cancer	thyroid cancer	risk	risk		
+T-1525	corn	corn	sugar	sugar	syrup,	
+T-1525	indonesia	indonesia	formaldehyde	formaldehyde	processed with	
+T-1525	indonesia	indonesia	butter flavor	butter flavor	processed with formaldehyde), popcorn (but not with	
+T-1525	disease	disease	risk	risk		
+T-1525	nih-aarp study	nih-aarp study	kidney cancer	kidney cancer	found nitrites associated with increased	
+T-1525	u.s. food and drug administration	u.s. food and drug administration	heart disease	heart disease	announced plans to eliminate trans fats, linked to	
+T-1525	butter flavor	butter flavor	chocolate	chocolate	), and cocoa (but not	
+T-1525	gluten	gluten	processed foods	processed foods	sensitivity symptoms, avoiding	
+T-1525	formaldehyde	formaldehyde	butter flavor	butter flavor	), popcorn (but not with	
+T-1525	health	health	cranberry	cranberry	benefits, including peanut butter, blueberry jam, homemade	
+T-1525	kidney cancer	kidney cancer	u.s. food and drug administration	u.s. food and drug administration	risk.in november 2013, the	
+T-1525	heart disease	heart disease	processed foods	processed foods	risk, from	
+T-1525	apple	apple	tofu	tofu	juice, grape juice, soy products (but not	
+T-1525	hyperactivity	hyperactivity	young children	young children	among	
+T-1525	nih-aarp study	nih-aarp study	kidney	kidney	found nitrites associated with increased	
+T-1525	mangosteen	mangosteen	juice	juice		
+T-1525	cancer	cancer	u.s. food and drug administration	u.s. food and drug administration	risk.in november 2013, the	
+T-1525	mangosteen	mangosteen	corn	corn	juice, white bread,	
+T-1525	sweeteners	sweeteners	antioxidant	antioxidant	do have significant	
+T-1525	popcorn	popcorn	butter	butter	(but not with	
+T-1525	sweeteners	sweeteners	processed foods	processed foods	do have significant antioxidant content.some	
+T-1525	food and drug administration	food and drug administration	fats	fats	announced plans to eliminate trans	
+T-1525	cranberry	cranberry	grape juice	grape juice	“juice,” apple juice,	
+T-1525	peanut	peanut	jam	jam	butter, blueberry	
+T-1525	plant foods	plant foods	plant-based diet	plant-based diet	(especially a varied	
+T-1525	u.s. food and drug administration	u.s. food and drug administration	fats	fats	announced plans to eliminate trans	
+T-1525	thyroid	thyroid	cancer	cancer		
+T-1525	nitrites	nitrites	kidney	kidney	associated with increased	
+T-1525	antioxidant	antioxidant	butter	butter	content.some processed foods have health benefits, including peanut	
+T-1525	formaldehyde	formaldehyde	butter	butter	), popcorn (but not with	
+T-1525	cranberry	cranberry	apple	apple	“juice,”	
+T-1525	indonesia	indonesia	butter	butter	processed with formaldehyde), popcorn (but not with	
+T-1525	antioxidant	antioxidant	peanut butter	peanut butter	content.some processed foods have health benefits, including	
+T-1525	health	health	peanut butter	peanut butter	benefits, including	
+T-1525	peanut	peanut	apple juice	apple juice	butter, blueberry jam, homemade cranberry “juice,”	
+T-1525	u.s. food and drug administration	u.s. food and drug administration	trans fats	trans fats	announced plans to eliminate	
+T-1525	plant-based	plant-based	animal foods	animal foods	diet that discourages	
+T-1525	soy	soy	tofu	tofu	products (but not	
+T-1525	plant-based	plant-based	aluminum	aluminum	foods is a good way to avoid	
+T-1525	apple	apple	grape juice	grape juice	juice,	
+T-1525	nitrites	nitrites	risk	risk	associated with increased kidney cancer	
+T-1525	nih-aarp study	nih-aarp study	nitrites	nitrites	found	
+T-1525	kidney	kidney	risk	risk	cancer	
+T-1525	kidney	kidney	u.s. food and drug administration	u.s. food and drug administration	cancer risk.in november 2013, the	
+T-1525	mangosteen	mangosteen	corn syrup	corn syrup	juice, white bread,	
+T-1525	peanut	peanut	apple	apple	butter, blueberry jam, homemade cranberry “juice,”	
+T-1525	processed foods	processed foods	hyperactivity	hyperactivity	may increase inattentiveness, impulsivity, and	
+T-1525	antioxidant	antioxidant	health	health	content.some processed foods have	
+T-1525	soy	soy	formaldehyde	formaldehyde	products (but not tofu from indonesia processed with	
+T-1525	tofu	tofu	indonesia	indonesia	from	
+T-1525	gum arabic	gum arabic	preservatives	preservatives	can be considered harmless.processed foods often contain additives,	
+T-1525	kidney cancer	kidney cancer	food and drug administration	food and drug administration	risk.in november 2013, the u.s.	
+T-1525	indonesia	indonesia	popcorn	popcorn	processed with formaldehyde),	
+T-1525	aluminum	aluminum	processed foods	processed foods	compounds that may be added to	
+T-1525	dna	dna	mutations	mutations		
+T-1525	food and drug administration	food and drug administration	trans fats	trans fats	announced plans to eliminate	
+T-1525	food additives	food additives	risk	risk	like polysorbate 80 may help reduce	
+T-1525	popcorn	popcorn	cocoa	cocoa	(but not with butter flavor), and	
+T-1525	nih-aarp study	nih-aarp study	cancer	cancer	found nitrites associated with increased kidney	
+T-1525	disease	disease	processed foods	processed foods	risk, from	
+T-1525	health	health	butter	butter	benefits, including peanut	
+T-1525	hyperactivity	hyperactivity	children	children	among young	
+T-1525	heart disease	heart disease	risk	risk		
+T-1525	cranberry	cranberry	apple juice	apple juice	“juice,”	
+T-1525	popcorn	popcorn	butter flavor	butter flavor	(but not with	
+T-1525	plant-based	plant-based	diet	diet		
+T-1525	peanut	peanut	cranberry	cranberry	butter, blueberry jam, homemade	
+T-1525	cocoa	cocoa	chocolate	chocolate	(but not	
+T-1525	tofu	tofu	popcorn	popcorn	from indonesia processed with formaldehyde),	
+T-1525	plant foods	plant foods	plant-based	plant-based	(especially a varied	
+T-1525	processed foods	processed foods	jam	jam	have health benefits, including peanut butter, blueberry	
+T-1525	nih-aarp study	nih-aarp study	risk	risk	found nitrites associated with increased kidney cancer	
+T-1525	kidney cancer	kidney cancer	risk	risk		
+T-1525	animal foods	animal foods	processed foods	processed foods	as well as all refined and	
+T-1525	risk	risk	disease	disease	for crohn’s	
+T-1525	peanut	peanut	butter	butter		
+T-1525	tofu	tofu	formaldehyde	formaldehyde	from indonesia processed with	
+T-1525	food additives	food additives	polysorbate 80	polysorbate 80	like	
+T-1525	cancer	cancer	food and drug administration	food and drug administration	risk.in november 2013, the u.s.	
+T-1525	peanut	peanut	grape juice	grape juice	butter, blueberry jam, homemade cranberry “juice,” apple juice,	
+T-1525	nitrites	nitrites	processed meats	processed meats	used in	
+T-1525	processed foods	processed foods	peanut butter	peanut butter	have health benefits, including	
+T-1525	soy	soy	indonesia	indonesia	products (but not tofu from	
+T-1525	peanut	peanut	juice	juice	butter, blueberry jam, homemade cranberry “	
+T-1525	processed foods	processed foods	health	health	may be detrimental to our	
+T-1525	nitrites	nitrites	cancer	cancer	associated with increased kidney	
+T-1525	mangosteen	mangosteen	sugar	sugar	juice, white bread, corn syrup,	
+T-1525	kidney	kidney	food and drug administration	food and drug administration	cancer risk.in november 2013, the u.s.	
+T-1525	polysorbate 80	polysorbate 80	disease	disease	may help reduce risk for crohn’s	
+T-1525	health	health	jam	jam	benefits, including peanut butter, blueberry	
+T-1525	kidney	kidney	cancer	cancer		
+T-1525	processed foods	processed foods	children	children	may increase inattentiveness, impulsivity, and hyperactivity among young	
+T-1525	grains	grains	tea	tea	and even	
+T-1525	risk	risk	food and drug administration	food and drug administration	.in november 2013, the u.s.	
+T-1525	meat	meat	mutations	mutations	is linked to increased breast tissue dna	
+T-1525	health	health	peanut	peanut	benefits, including	
+T-1525	antioxidant	antioxidant	peanut	peanut	content.some processed foods have health benefits, including	
+T-1525	cancer	cancer	risk	risk		
+T-1525	apple	apple	soy	soy	juice, grape juice,	
+T-1525	food dyes	food dyes	processed foods	processed foods	overall in	
+T-1525	thyroid	thyroid	risk	risk	cancer	
+T-1525	plant-based diet	plant-based diet	animal foods	animal foods	that discourages	
+T-1525	processed foods	processed foods	peanut	peanut	have health benefits, including	
+T-1525	plant foods	plant foods	diet	diet	(especially a varied plant-based	
+T-1525	meat	meat	dna	dna	is linked to increased breast tissue	
+T-1525	sweeteners	sweeteners	health	health	do have significant antioxidant content.some processed foods have	
+T-1525	apple	apple	juice	juice		
+T-1525	processed foods	processed foods	juice	juice	may be harmful to one’s health, including carrot	
+T-1525	polysorbate 80	polysorbate 80	risk	risk	may help reduce	
+T-1525	diet	diet	processed foods	processed foods	is high in	
+T-1525	food and drug administration	food and drug administration	heart disease	heart disease	announced plans to eliminate trans fats, linked to	
+T-1525	processed foods	processed foods	health	health	may be harmful to one’s	
+T-1525	nitrites	nitrites	kidney cancer	kidney cancer	associated with increased	
+T-1525	risk	risk	u.s. food and drug administration	u.s. food and drug administration	.in november 2013, the	
+T-1525	mangosteen	mangosteen	bread	bread	juice, white	
+T-1525	butter flavor	butter flavor	cocoa	cocoa	), and	
+T-1525	sweetener	sweetener	aspartame	aspartame		
+T-1525	antioxidant	antioxidant	processed foods	processed foods	content.some	
+T-1525	processed foods	processed foods	health	health	have	
+T-1525	processed foods	processed foods	young children	young children	may increase inattentiveness, impulsivity, and hyperactivity among	
+T-1525	diet	diet	animal foods	animal foods	that discourages	

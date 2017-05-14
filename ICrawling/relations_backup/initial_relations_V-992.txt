@@ -1,0 +1,12 @@
+
+V-992	fish	fish	eggs	eggs	meat 35;	
+V-992	eggs	eggs	milk	milk	: “fish and fish-derived products followed by eggs,	
+V-992	fish	fish	eggs	eggs	and fish-derived products followed by	
+V-992	fish	fish	meat	meat		
+V-992	contamination	contamination	eggs	eggs	level was observed in fish and	
+V-992	contamination	contamination	fish	fish	level was observed in	
+V-992	meat	meat	eggs	eggs	35;	
+V-992	fish	fish	eggs	eggs	and	
+V-992	plant-based	plant-based	diet	diet		
+V-992	eggs	eggs	fish	fish	: “	
+V-992	milk	milk	meat	meat	and their products, and [then]	

@@ -1,0 +1,106 @@
+
+T-1976	postmenopausal	postmenopausal	women	women		
+T-1976	mint	mint	tea	tea		
+T-1976	apples	apples	postmenopausal	postmenopausal	may reduce ldl cholesterol in	
+T-1976	cholesterol	cholesterol	women	women	in pelvic arteries may cause sexual problems in	
+T-1976	diabetes	diabetes	women	women	in	
+T-1976	oatmeal	oatmeal	nuts	nuts	daily, or two handfuls of	
+T-1976	hormones	hormones	meat	meat	in	
+T-1976	women	women	peanut butter	peanut butter	who do not eat	
+T-1976	nausea	nausea	morning sickness	morning sickness	and vomiting associated with	
+T-1976	diet	diet	women	women	may help reduce the likelihood of diabetes in	
+T-1976	disease	disease	butter	butter	who eat peanut	
+T-1976	hormones	hormones	infertility	infertility	in meat have been associated with female	
+T-1976	virus	virus	dna	dna		
+T-1976	diet	diet	diabetes	diabetes	may help reduce the likelihood of	
+T-1976	health	health	menstruation	menstruation	issues for women, including many types of cancer,	
+T-1976	ginger	ginger	nausea	nausea	has been shown to ease	
+T-1976	peanut	peanut	risk	risk	butter every day may have a lower	
+T-1976	breast cancer	breast cancer	symptoms	symptoms	patients.spices have proven helpful in alleviating	
+T-1976	symptoms	symptoms	mouth	mouth	related to cancers of the vulva, skin,	
+T-1976	vegetables	vegetables	exercise	exercise	daily, along with moderate walking	
+T-1976	infections	infections	e. coli	e. coli	from	
+T-1976	fruits	fruits	vegetables	vegetables	and	
+T-1976	plant-based diets	plant-based diets	infections	infections	may help prevent genitourinary	
+T-1976	cholesterol	cholesterol	women	women	in postmenopausal	
+T-1976	steroid hormones	steroid hormones	meat	meat	in	
+T-1976	disease	disease	peanut	peanut	who eat	
+T-1976	plant-based diet	plant-based diet	diabetes	diabetes	may help reduce the likelihood of	
+T-1976	vomiting	vomiting	morning sickness	morning sickness	associated with	
+T-1976	risk	risk	peanut	peanut	for heart disease who eat	
+T-1976	mint	mint	women	women	tea has been found to lower testosterone in	
+T-1976	plant-based diet	plant-based diet	women	women	may help reduce the likelihood of diabetes in	
+T-1976	plant-based	plant-based	health	health	foods for women’s	
+T-1976	ldl	ldl	women	women	cholesterol in postmenopausal	
+T-1976	heart attack	heart attack	butter	butter	than women who do not eat peanut	
+T-1976	butter	butter	risk	risk	every day may have a lower	
+T-1976	leukemia	leukemia	virus	virus		
+T-1976	menstruation	menstruation	menopause	menopause	and	
+T-1976	plant-based	plant-based	risk	risk	foods for women’s health:women at high	
+T-1976	infections	infections	poultry	poultry	from e. coli may be caused by	
+T-1976	health	health	cancer	cancer	issues for women, including many types of	
+T-1976	heart disease	heart disease	butter	butter	who eat peanut	
+T-1976	mint tea	mint tea	testosterone	testosterone	has been found to lower	
+T-1976	ldl	ldl	postmenopausal	postmenopausal	cholesterol in	
+T-1976	arteries	arteries	women	women	may cause sexual problems in	
+T-1976	plant-based	plant-based	diabetes	diabetes	diet may help reduce the likelihood of	
+T-1976	heart disease	heart disease	peanut	peanut	who eat	
+T-1976	risk	risk	disease	disease	for heart	
+T-1976	dried apples	dried apples	ldl cholesterol	ldl cholesterol	may reduce	
+T-1976	ldl cholesterol	ldl cholesterol	women	women	in postmenopausal	
+T-1976	risk	risk	heart disease	heart disease	for	
+T-1976	ibuprofen	ibuprofen	meat	meat	in reducing menstrual cramps.the sex steroid hormones in	
+T-1976	dried apples	dried apples	women	women	may reduce ldl cholesterol in postmenopausal	
+T-1976	heart attack	heart attack	peanut	peanut	than women who do not eat	
+T-1976	plant-based	plant-based	diet	diet		
+T-1976	turmeric	turmeric	symptoms	symptoms	ointment, for example, may help reduce	
+T-1976	tea	tea	women	women	has been found to lower testosterone in	
+T-1976	dried apples	dried apples	cholesterol	cholesterol	may reduce ldl	
+T-1976	risk	risk	butter	butter	for heart disease who eat peanut	
+T-1976	ginger	ginger	vomiting	vomiting	has been shown to ease nausea and	
+T-1976	women	women	butter	butter	who do not eat peanut	
+T-1976	peanut	peanut	butter	butter		
+T-1976	cholesterol	cholesterol	arteries	arteries	in pelvic	
+T-1976	e. coli	e. coli	poultry	poultry	may be caused by	
+T-1976	apples	apples	ldl	ldl	may reduce	
+T-1976	fruits	fruits	exercise	exercise	and vegetables daily, along with moderate walking	
+T-1976	apples	apples	ldl cholesterol	ldl cholesterol	may reduce	
+T-1976	women	women	syndrome	syndrome	with polycystic ovarian	
+T-1976	tea	tea	testosterone	testosterone	has been found to lower	
+T-1976	menstruation	menstruation	pregnancy	pregnancy	and menopause,	
+T-1976	apples	apples	women	women	may reduce ldl cholesterol in postmenopausal	
+T-1976	health	health	women	women	issues for	
+T-1976	dried apples	dried apples	postmenopausal	postmenopausal	may reduce ldl cholesterol in	
+T-1976	urinary tract infections	urinary tract infections	poultry	poultry	from e. coli may be caused by	
+T-1976	peanut butter	peanut butter	risk	risk	every day may have a lower	
+T-1976	risk	risk	peanut butter	peanut butter	for heart disease who eat	
+T-1976	urinary tract infections	urinary tract infections	e. coli	e. coli	from	
+T-1976	cranberries	cranberries	cancer	cancer	have been shown to suppress the growth of	
+T-1976	plant-based	plant-based	heart disease	heart disease	foods for women’s health:women at high risk for	
+T-1976	breast cancer	breast cancer	cancer	cancer	—as many as 37% of breast	
+T-1976	mint	mint	testosterone	testosterone	tea has been found to lower	
+T-1976	disease	disease	peanut butter	peanut butter	who eat	
+T-1976	plant-based	plant-based	women	women	foods for	
+T-1976	apples	apples	cholesterol	cholesterol	may reduce ldl	
+T-1976	ibuprofen	ibuprofen	steroid hormones	steroid hormones	in reducing menstrual cramps.the sex	
+T-1976	ibuprofen	ibuprofen	hormones	hormones	in reducing menstrual cramps.the sex steroid	
+T-1976	ldl cholesterol	ldl cholesterol	postmenopausal	postmenopausal	in	
+T-1976	cancer	cancer	breast cancer	breast cancer	—as many as 37% of	
+T-1976	testosterone	testosterone	syndrome	syndrome	in women with polycystic ovarian	
+T-1976	mint tea	mint tea	women	women	has been found to lower testosterone in	
+T-1976	steroid hormones	steroid hormones	infertility	infertility	in meat have been associated with female	
+T-1976	heart attack	heart attack	women	women	than	
+T-1976	plant-based	plant-based	infections	infections	diets may help prevent genitourinary	
+T-1976	nausea	nausea	vomiting	vomiting	and	
+T-1976	meat	meat	infertility	infertility	have been associated with female	
+T-1976	bovine leukemia virus	bovine leukemia virus	dna	dna		
+T-1976	cholesterol	cholesterol	postmenopausal	postmenopausal	in	
+T-1976	heart disease	heart disease	peanut butter	peanut butter	who eat	
+T-1976	testosterone	testosterone	women	women	in	
+T-1976	ldl	ldl	cholesterol	cholesterol		
+T-1976	dried apples	dried apples	ldl	ldl	may reduce	
+T-1976	women	women	peanut	peanut	who do not eat	
+T-1976	symptoms	symptoms	skin	skin	related to cancers of the vulva,	
+T-1976	cancer	cancer	cancer	cancer	—as many as 37% of breast	
+T-1976	heart attack	heart attack	peanut butter	peanut butter	than women who do not eat	
+T-1976	leukemia	leukemia	dna	dna	virus	

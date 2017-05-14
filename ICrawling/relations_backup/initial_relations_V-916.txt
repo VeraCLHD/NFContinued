@@ -1,0 +1,18 @@
+
+V-916	poland	poland	children	children	recently of vegetarian	
+V-916	hay fever	hay fever	meat	meat	—though in men,	
+V-916	vegetarian	vegetarian	allergies	allergies	was associated with significantly fewer	
+V-916	fever	fever	meat	meat	—though in men,	
+V-916	poland	poland	meat	meat	recently of vegetarian children suggested the benefits of	
+V-916	vegetarian	vegetarian	meat	meat	children suggested the benefits of	
+V-916	plant-based	plant-based	allergies	allergies	diet on the prevalence of	
+V-916	plant-based	plant-based	diet	diet		
+V-916	meat	meat	risk	risk	consumption may decrease the	
+V-916	women	women	meat	meat	who eat	
+V-916	poland	poland	vegetarian	vegetarian	recently of	
+V-916	vegetarian	vegetarian	children	children		
+V-916	diet	diet	allergies	allergies	on the prevalence of	
+V-916	vegetarians	vegetarians	meat	meat	to non-vegetarians, women who eat	
+V-916	children	children	meat	meat	suggested the benefits of	
+V-916	plant-based diet	plant-based diet	allergies	allergies	on the prevalence of	
+V-916	vegetarians	vegetarians	women	women	to non-vegetarians,	

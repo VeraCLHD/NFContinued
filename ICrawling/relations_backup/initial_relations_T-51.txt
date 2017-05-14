@@ -1,0 +1,53 @@
+
+T-51	fruit	fruit	vegetables	vegetables	and	
+T-51	women	women	peanut	peanut	consuming peanuts results in children with	
+T-51	plant-based	plant-based	diet	diet		
+T-51	pregnant	pregnant	women	women		
+T-51	meat	meat	asthma	asthma	consumption were associated with higher prevalence of	
+T-51	diet	diet	gluten	gluten	before going on a	
+T-51	pregnant	pregnant	children	children	women consuming peanuts results in	
+T-51	risk	risk	allergies	allergies	of	
+T-51	diet	diet	allergies	allergies	may reduce the risk of	
+T-51	probiotics	probiotics	common cold	common cold	and prebiotics have a positive effect on the	
+T-51	fish	fish	worms	worms		
+T-51	pregnant	pregnant	peanuts	peanuts	women consuming	
+T-51	pregnant women	pregnant women	peanuts	peanuts	consuming	
+T-51	diet	diet	risk	risk	may reduce the	
+T-51	children	children	allergies	allergies	with peanut	
+T-51	common cold	common cold	asthma	asthma	), were much less likely to report	
+T-51	fruit	fruit	prebiotics	prebiotics	and vegetables, rather than supplements (though probiotics and	
+T-51	children	children	peanut	peanut	with	
+T-51	prebiotics	prebiotics	cold	cold	have a positive effect on the common	
+T-51	prebiotics	prebiotics	common cold	common cold	have a positive effect on the	
+T-51	meat	meat	allergies	allergies		
+T-51	women	women	allergies	allergies	consuming peanuts results in children with peanut	
+T-51	pregnant women	pregnant women	peanut	peanut	consuming peanuts results in children with	
+T-51	probiotics	probiotics	prebiotics	prebiotics	and	
+T-51	women	women	children	children	consuming peanuts results in	
+T-51	supplements	supplements	probiotics	probiotics	(though	
+T-51	plant-based	plant-based	risk	risk	diet may reduce the	
+T-51	antibiotics	antibiotics	fish	fish	and parasitic	
+T-51	supplements	supplements	prebiotics	prebiotics	(though probiotics and	
+T-51	disease	disease	meat	meat	altogether.components in	
+T-51	pregnant women	pregnant women	children	children	consuming peanuts results in	
+T-51	pregnant	pregnant	allergies	allergies	women consuming peanuts results in children with peanut	
+T-51	peanut	peanut	allergies	allergies		
+T-51	seafood	seafood	meat	meat	and	
+T-51	peanuts	peanuts	children	children	results in	
+T-51	fruit	fruit	supplements	supplements	and vegetables, rather than	
+T-51	dairy	dairy	canker sores	canker sores	has been linked to the recurrence of	
+T-51	antibiotics	antibiotics	worms	worms	and parasitic fish	
+T-51	gluten	gluten	diet	diet	-free	
+T-51	pregnant women	pregnant women	allergies	allergies	consuming peanuts results in children with peanut	
+T-51	plant-based	plant-based	allergies	allergies	diet may reduce the risk of	
+T-51	wheat	wheat	gluten	gluten	allergy, and	
+T-51	asthma	asthma	allergies	allergies	or other	
+T-51	women	women	peanuts	peanuts	consuming	
+T-51	meat	meat	antibiotics	antibiotics	that may trigger allergic reactions include	
+T-51	peanuts	peanuts	peanut	peanut	results in children with	
+T-51	peanuts	peanuts	allergies	allergies	results in children with peanut	
+T-51	plant-based diet	plant-based diet	allergies	allergies	may reduce the risk of	
+T-51	plant-based diet	plant-based diet	risk	risk	may reduce the	
+T-51	fruit	fruit	probiotics	probiotics	and vegetables, rather than supplements (though	
+T-51	pregnant	pregnant	peanut	peanut	women consuming peanuts results in children with	
+T-51	cold	cold	asthma	asthma	), were much less likely to report	

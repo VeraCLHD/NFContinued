@@ -1,0 +1,41 @@
+
+V-1262	soy	soy	breast cancer	breast cancer	prevent	
+V-1262	diabetes	diabetes	weight loss	weight loss	risk in half, can help us double our	
+V-1262	cancer	cancer	estrogen	estrogen	that reacts to	
+V-1262	breast cancer	breast cancer	soy	soy	eating	
+V-1262	mortality	mortality	soy	soy	for those women diagnosed with breast cancer eating	
+V-1262	soy	soy	diet	diet	milk to our	
+V-1262	soy	soy	cancer	cancer	prevent breast	
+V-1262	women	women	cancer	cancer	with breast	
+V-1262	cancer survival	cancer survival	long island	long island	on	
+V-1262	risk	risk	weight loss	weight loss	in half, can help us double our	
+V-1262	women	women	soy	soy	with breast cancer eating	
+V-1262	women	women	breast cancer	breast cancer	diagnosed with	
+V-1262	soy	soy	women	women	prevent breast cancer, but	
+V-1262	women	women	breast cancer	breast cancer	with	
+V-1262	mortality	mortality	cancer	cancer	for those women diagnosed with breast	
+V-1262	women	women	cancer	cancer	with active estrogen receptor-positive breast	
+V-1262	women	women	soy	soy	diagnosed with breast cancer eating	
+V-1262	women	women	estrogen	estrogen	with active	
+V-1262	milk	milk	diet	diet	to our	
+V-1262	soy	soy	diabetes	diabetes	can cut our	
+V-1262	phytoestrogens	phytoestrogens	soy	soy	—the plant estrogens in	
+V-1262	soy	soy	tofu	tofu	foods like	
+V-1262	breast cancer survival	breast cancer survival	long island	long island	on	
+V-1262	diabetes	diabetes	risk	risk		
+V-1262	cancer	cancer	soy	soy	eating	
+V-1262	breast cancer	breast cancer	estrogen	estrogen	that reacts to	
+V-1262	mortality	mortality	women	women	for those	
+V-1262	women	women	cancer	cancer	diagnosed with breast	
+V-1262	soy	soy	risk	risk	cut their	
+V-1262	soy foods	soy foods	tofu	tofu	like	
+V-1262	estrogen	estrogen	breast cancer	breast cancer	receptor-positive	
+V-1262	cancer	cancer	long island	long island	survival on	
+V-1262	soy	soy	milk	milk		
+V-1262	soy milk	soy milk	diet	diet	to our	
+V-1262	soy	soy	risk	risk	 cut our	
+V-1262	soy	soy	risk	risk	can cut our diabetes	
+V-1262	women	women	breast cancer	breast cancer	with active estrogen receptor-positive	
+V-1262	estrogen	estrogen	cancer	cancer	receptor-positive breast	
+V-1262	breast cancer	breast cancer	long island	long island	survival on	
+V-1262	mortality	mortality	breast cancer	breast cancer	for those women diagnosed with	

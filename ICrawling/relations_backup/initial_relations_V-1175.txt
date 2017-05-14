@@ -1,0 +1,15 @@
+
+V-1175	meat	meat	dairy	dairy	and	
+V-1175	meat	meat	eggs	eggs	and dairy and	
+V-1175	meat	meat	healthy weight	healthy weight	and dairy and eggs to achieve a	
+V-1175	meat	meat	vegetarian	vegetarian	once or twice a month, but is basically	
+V-1175	vegetarians	vegetarians	flexitarians	flexitarians	turned out fatter than	
+V-1175	vegetarians	vegetarians	dairy	dairy	cut out	
+V-1175	eggs	eggs	healthy weight	healthy weight	to achieve a	
+V-1175	dairy	dairy	eggs	eggs	and	
+V-1175	vegans	vegans	healthy weight	healthy weight	are, on average, a	
+V-1175	healthy weight	healthy weight	vegans	vegans	?this is america, and that means only the	
+V-1175	vegans	vegans	american diabetes association	american diabetes association	was just published in the journal of the	
+V-1175	vegetarians	vegetarians	eggs	eggs	cut out dairy and	
+V-1175	flexitarians	flexitarians	vegetarians	vegetarians	are overweight.what about the full-time	
+V-1175	dairy	dairy	healthy weight	healthy weight	and eggs to achieve a	

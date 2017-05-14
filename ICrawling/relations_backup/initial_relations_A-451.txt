@@ -1,0 +1,29 @@
+
+A-451	reflux	reflux	blood	blood	(heartburn), high	
+A-451	women	women	caffeine	caffeine	should restrict	
+A-451	risk	risk	bladder	bladder	of cancers, especially	
+A-451	fruit	fruit	apples	apples	choices (	
+A-451	risk	risk	mouth	mouth	of cancers, especially bladder, breast,	
+A-451	health	health	coffee	coffee	conditions may be worsened by	
+A-451	health	health	insomnia	insomnia	conditions may be worsened by coffee, such as	
+A-451	blood	blood	heartbeat	heartbeat	pressure, and certain	
+A-451	pregnant	pregnant	women	women		
+A-451	coffee	coffee	lead	lead	consumption may	
+A-451	coffee	coffee	cancer	cancer	and	
+A-451	coffee	coffee	chronic diseases	chronic diseases	consumption and risk of	
+A-451	caffeine	caffeine	coffee	coffee	consumption to less than two cups of	
+A-451	coffee	coffee	risk	risk	consumption and	
+A-451	heartburn	heartburn	blood pressure	blood pressure	), high	
+A-451	pregnant	pregnant	caffeine	caffeine	women should restrict	
+A-451	apples	apples	berries	berries	are better,	
+A-451	heartburn	heartburn	heartbeat	heartbeat	), high blood pressure, and certain	
+A-451	fruit	fruit	berries	berries	choices (apples are better,	
+A-451	reflux	reflux	high blood pressure	high blood pressure	(heartburn),	
+A-451	heartburn	heartburn	blood	blood	), high	
+A-451	pregnant women	pregnant women	caffeine	caffeine	should restrict	
+A-451	reflux	reflux	blood pressure	blood pressure	(heartburn), high	
+A-451	lead	lead	cancer	cancer	to a modest reduction in overall	
+A-451	health	health	coffee	coffee	benefits associated with	
+A-451	reflux	reflux	heartbeat	heartbeat	(heartburn), high blood pressure, and certain	
+A-451	coffee	coffee	cholesterol	cholesterol	that increase	
+A-451	risk	risk	chronic diseases	chronic diseases	of	

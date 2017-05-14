@@ -1,0 +1,16 @@
+
+V-780	beverage	beverage	water	water	to drink is tea—even healthier than	
+V-780	nutrition	nutrition	calories	calories	without adding	
+V-780	blood	blood	urine	urine	or	
+V-780	tea	tea	water	water	—even healthier than	
+V-780	tea	tea	beverage	beverage	could be considered a healthy choice of	
+V-780	caffeine	caffeine	pills	pills		
+V-780	water	water	blood	blood	for any of the average	
+V-780	black tea	black tea	water	water	to six cups of	
+V-780	tea	tea	water	water	to six cups of	
+V-780	beverage	beverage	tea	tea	to drink is	
+V-780	black tea	black tea	water	water	to four cups of	
+V-780	tea	tea	water	water	has all the	
+V-780	tea	tea	water	water	and	
+V-780	tea	tea	blood	blood	and water for any of the average	
+V-780	water	water	urine	urine	for any of the average blood or	

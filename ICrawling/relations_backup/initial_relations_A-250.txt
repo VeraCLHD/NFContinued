@@ -1,0 +1,31 @@
+
+A-250	vegans	vegans	metabolism	metabolism	seem to have a naturally revved up	
+A-250	metabolism	metabolism	meat	meat	compared to those eating	
+A-250	vegetarian	vegetarian	leafy vegetables	leafy vegetables	ate significantly more dark green	
+A-250	greens	greens	meat	meat	than	
+A-250	nutrient-dense	nutrient-dense	weight management	weight management	approach to	
+A-250	vitamins	vitamins	riboflavin	riboflavin	(thiamin,	
+A-250	plant-based	plant-based	diet	diet		
+A-250	vegetarian	vegetarian	diet	diet		
+A-250	fat	fat	cholesterol	cholesterol	and	
+A-250	americans	americans	vitamins	vitamins	really struggle to get enough of—like fiber,	
+A-250	vitamins	vitamins	magnesium	magnesium	a, c, and e, calcium,	
+A-250	vegetarians	vegetarians	eggs	eggs	in the first study mentioned were also eating	
+A-250	folate	folate	iron	iron	), more calcium, more magnesium, more	
+A-250	vegetarians	vegetarians	calories	calories	were consuming, on average, 363 fewer	
+A-250	vegetarians	vegetarians	sleep	sleep	may burn more calories in their	
+A-250	vegetarians	vegetarians	vegans	vegans	and	
+A-250	folate	folate	calcium	calcium	), more	
+A-250	saturated fat	saturated fat	cholesterol	cholesterol	and	
+A-250	vitamins	vitamins	calcium	calcium	a, c, and e,	
+A-250	vitamins	vitamins	magnesium	magnesium	(thiamin, riboflavin, & folate), more calcium, more	
+A-250	vitamins	vitamins	potassium	potassium	a, c, and e, calcium, magnesium,	
+A-250	calories	calories	sleep	sleep	in their	
+A-250	vegetarian	vegetarian	vegetables	vegetables	ate significantly more dark green leafy	
+A-250	folate	folate	magnesium	magnesium	), more calcium, more	
+A-250	eggs	eggs	dairy	dairy	and	
+A-250	vitamins	vitamins	folate	folate	(thiamin, riboflavin, &	
+A-250	americans	americans	fiber	fiber	really struggle to get enough of—like	
+A-250	vegetarians	vegetarians	calories	calories	may burn more	
+A-250	vitamins	vitamins	calcium	calcium	(thiamin, riboflavin, & folate), more	
+A-250	potassium	potassium	vegetarian	vegetarian	—and those eating	

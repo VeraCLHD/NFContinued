@@ -1,0 +1,13 @@
+
+V-1251	french fries	french fries	acrylamide	acrylamide	and potato chips, tagging	
+V-1251	kidney	kidney	cancer	cancer		
+V-1251	french fries	french fries	potato chips	potato chips	and	
+V-1251	nutrition	nutrition	acrylamide	acrylamide	stories of the year.	
+V-1251	kidney	kidney	endometrial cancer	endometrial cancer	cancer,	
+V-1251	kidney	kidney	breast cancer	breast cancer	cancer, endometrial cancer, ovarian cancer, and human	
+V-1251	acrylamide	acrylamide	carcinogen	carcinogen	has been considered a “probable human	
+V-1251	kidney	kidney	ovarian cancer	ovarian cancer	cancer, endometrial cancer,	
+V-1251	acrylamide	acrylamide	nutrition	nutrition	 one of the most important	
+V-1251	salt	salt	potato chips	potato chips	to stick to	
+V-1251	fast food	fast food	french fries	french fries		
+V-1251	saccharin	saccharin	carcinogen	carcinogen	into a	

@@ -1,0 +1,67 @@
+
+T-225	tea	tea	risk	risk	may pose the potential	
+T-225	risk	risk	dental	dental	of	
+T-225	cancer	cancer	heart disease	heart disease	and	
+T-225	juice	juice	beet juice	beet juice	has been found to significantly	
+T-225	risk	risk	dental fluorosis	dental fluorosis	of	
+T-225	cancer	cancer	disease	disease	and heart	
+T-225	green tea	green tea	risk	risk	may pose the potential	
+T-225	sodium benzoate	sodium benzoate	cancer	cancer	and caramel coloring which may contribute to	
+T-225	lung cancer	lung cancer	smoking	smoking	and heart disease rates given the level of	
+T-225	dental	dental	children	children	fluorosis in	
+T-225	fruit	fruit	noni	noni	juices such as	
+T-225	milk	milk	tea	tea	to	
+T-225	lung cancer	lung cancer	heart disease	heart disease	and	
+T-225	risk	risk	weight gain	weight gain		
+T-225	sodium	sodium	cancer	cancer	benzoate and caramel coloring which may contribute to	
+T-225	disease	disease	smoking	smoking	rates given the level of	
+T-225	green tea	green tea	dental	dental	may pose the potential risk of	
+T-225	puberty	puberty	milk	milk	in girls and appears equal to cow’s	
+T-225	green tea	green tea	dental fluorosis	dental fluorosis	may pose the potential risk of	
+T-225	cancer	cancer	smoking	smoking	and heart disease rates given the level of	
+T-225	nutrient absorption	nutrient absorption	sugar	sugar	without risking overly rapid	
+T-225	dental fluorosis	dental fluorosis	children	children	in	
+T-225	liver	liver	cancer	cancer		
+T-225	tea	tea	cancer	cancer	consumption may help explain comparatively low lung	
+T-225	fruit	fruit	mangosteen	mangosteen	juices such as noni and	
+T-225	risk	risk	children	children	of dental fluorosis in	
+T-225	noni	noni	juice	juice		
+T-225	children	children	cognitive performance	cognitive performance	’s’	
+T-225	heart disease	heart disease	smoking	smoking	rates given the level of	
+T-225	noni	noni	water	water	and mangosteen may be toxic to the liver.cold	
+T-225	milk	milk	nutrient absorption	nutrient absorption	to tea to maximize	
+T-225	noni	noni	dairy	dairy	juice,	
+T-225	tea	tea	lung cancer	lung cancer	consumption may help explain comparatively low	
+T-225	water	water	alcohol	alcohol	.even light	
+T-225	women	women	water	water	should drink four to seven cups of	
+T-225	tea	tea	lead	lead	may	
+T-225	supplements	supplements	fruit	fruit	containing tropical	
+T-225	green tea	green tea	fluorosis	fluorosis	may pose the potential risk of dental	
+T-225	cancer	cancer	risk	risk		
+T-225	herbal	herbal	dandelion	dandelion	teas include tulsi, osmanthus,	
+T-225	coffee	coffee	tea	tea	vs.	
+T-225	water	water	tea	tea	steeping of	
+T-225	fluorosis	fluorosis	children	children	in	
+T-225	noni	noni	mangosteen	mangosteen	and	
+T-225	milk	milk	calcium	calcium	in terms of	
+T-225	tea	tea	nutrient absorption	nutrient absorption	to maximize	
+T-225	supplements	supplements	mangosteen	mangosteen	containing tropical fruit juices such as noni and	
+T-225	sodium benzoate	sodium benzoate	risk	risk	and caramel coloring which may contribute to cancer	
+T-225	green tea	green tea	cancer	cancer	consumption may help explain comparatively low lung	
+T-225	matcha	matcha	tea	tea		
+T-225	beet juice	beet juice	juice	juice	has been found to significantly beet	
+T-225	tea	tea	dental	dental	may pose the potential risk of	
+T-225	tea	tea	fluorosis	fluorosis	may pose the potential risk of dental	
+T-225	mangosteen	mangosteen	water	water	may be toxic to the liver.cold	
+T-225	coffee	coffee	alcohol	alcohol	vs. tea, and bottled vs. tap water.even light	
+T-225	dietary guidelines	dietary guidelines	beverages	beverages	and other studies on healthy	
+T-225	green tea	green tea	lung cancer	lung cancer	consumption may help explain comparatively low	
+T-225	herbal	herbal	hibiscus	hibiscus	teas include tulsi, osmanthus, dandelion, and	
+T-225	tea	tea	dental fluorosis	dental fluorosis	may pose the potential risk of	
+T-225	water	water	lead	lead	steeping of tea may	
+T-225	coffee	coffee	water	water	vs. tea, and bottled vs. tap	
+T-225	noni	noni	beverages	beverages	juice, dairy, commercial carrot juice, artificially sweetened	
+T-225	risk	risk	fluorosis	fluorosis	of dental	
+T-225	dental	dental	fluorosis	fluorosis		
+T-225	lung cancer	lung cancer	disease	disease	and heart	
+T-225	supplements	supplements	noni	noni	containing tropical fruit juices such as	

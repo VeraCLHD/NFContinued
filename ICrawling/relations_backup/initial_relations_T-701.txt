@@ -1,0 +1,38 @@
+
+T-701	produce	produce	estrogen	estrogen	their own	
+T-701	breast cancer	breast cancer	tumors	tumors		
+T-701	hormones	hormones	skim milk	skim milk	levels (buttermilk and	
+T-701	buttermilk	buttermilk	skim milk	skim milk	and	
+T-701	pregnant	pregnant	hormones	hormones	cows, who have exceptionally high	
+T-701	pregnant	pregnant	buttermilk	buttermilk	cows, who have exceptionally high hormones levels (	
+T-701	hormones	hormones	milk	milk	levels (buttermilk and skim	
+T-701	hormones	hormones	buttermilk	buttermilk	levels (	
+T-701	chemicals	chemicals	fish	fish	found contaminating	
+T-701	beef	beef	dairy	dairy	from growth hormone-implanted cattle and	
+T-701	diet	diet	estrogen	estrogen	flushes excess	
+T-701	vegetables	vegetables	breast cancer	breast cancer	may inhibit aromatase, the enzyme used by	
+T-701	pregnant	pregnant	cows	cows		
+T-701	flax	flax	seeds	seeds		
+T-701	xenoestrogens	xenoestrogens	chemicals	chemicals	(human-made environmental	
+T-701	xenoestrogens	xenoestrogens	fish	fish	(human-made environmental chemicals found contaminating	
+T-701	buttermilk	buttermilk	milk	milk	and skim	
+T-701	fish	fish	puberty	puberty	flesh) have been linked to early	
+T-701	skim milk	skim milk	acne	acne	consumption is linked to	
+T-701	cancer	cancer	produce	produce	tumors to	
+T-701	milk	milk	pregnant	pregnant	may come from	
+T-701	milk	milk	cows	cows	may come from pregnant	
+T-701	soy	soy	cancer	cancer	seems to be protective against breast	
+T-701	hormones	hormones	cancer	cancer	in adulthood may be useful in slowing	
+T-701	tumors	tumors	produce	produce	to	
+T-701	puberty	puberty	sperm counts	sperm counts	and low	
+T-701	tumors	tumors	estrogen	estrogen	to produce their own	
+T-701	hormones	hormones	cancer growth	cancer growth	in adulthood may be useful in slowing	
+T-701	breast cancer	breast cancer	produce	produce	tumors to	
+T-701	soy	soy	breast cancer	breast cancer	seems to be protective against	
+T-701	cancer	cancer	tumors	tumors		
+T-701	milk	milk	acne	acne	consumption is linked to	
+T-701	breast cancer	breast cancer	estrogen	estrogen	tumors to produce their own	
+T-701	soy	soy	cancer	cancer	products, do not appear to promote	
+T-701	vegetables	vegetables	aromatase	aromatase	may inhibit	
+T-701	cancer	cancer	estrogen	estrogen	tumors to produce their own	
+T-701	vegetables	vegetables	cancer	cancer	may inhibit aromatase, the enzyme used by breast	

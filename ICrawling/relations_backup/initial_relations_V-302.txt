@@ -1,0 +1,63 @@
+
+V-302	plant foods	plant foods	health	health	and food-derived phytochemicals have been associated with	
+V-302	carotenoid	carotenoid	phytonutrients	phytonutrients		
+V-302	vegetables	vegetables	greens	greens	but could also be the folate in	
+V-302	risk	risk	depression	depression	factor for severe	
+V-302	folate	folate	depression	depression	led to	
+V-302	phytochemicals	phytochemicals	antioxidants	antioxidants	have been associated with health benefits,	
+V-302	greens	greens	beans	beans	and	
+V-302	antioxidants	antioxidants	supplements	supplements	from dietary	
+V-302	free radicals	free radicals	vitamin e	vitamin e	than	
+V-302	anxiety	anxiety	mental health	mental health	disorders and poor perceived	
+V-302	antioxidants	antioxidants	fruits	fruits	in	
+V-302	vegetables	vegetables	folic acid	folic acid	like spinach, whereas	
+V-302	diet	diet	vegetables	vegetables	comprised of a high intake of fruits and	
+V-302	vegetables	vegetables	spinach	spinach	like	
+V-302	folic acid	folic acid	supplements	supplements		
+V-302	mood	mood	health	health	and anxiety disorders and poor perceived mental	
+V-302	folate	folate	supplements	supplements	intake, not folic acid	
+V-302	vegetables	vegetables	risk	risk	has been found to lead to a lower	
+V-302	risk	risk	depression	depression	of developing	
+V-302	antioxidants	antioxidants	depression	depression	were protectively associated with	
+V-302	antioxidant	antioxidant	carotenoid	carotenoid	amongst the	
+V-302	fruits	fruits	folate	folate	and vegetables but could also be the	
+V-302	folate	folate	greens	greens	in	
+V-302	folate	folate	risk	risk	may indeed be a	
+V-302	mood	mood	anxiety	anxiety	and	
+V-302	fruits	fruits	antioxidants	antioxidants	and vegetables is rich in	
+V-302	leafy vegetables	leafy vegetables	spinach	spinach	like	
+V-302	folate	folate	depression	depression	may indeed be a risk factor for severe	
+V-302	prevention	prevention	fruits	fruits	of depressive symptoms.higher consumption of	
+V-302	diet	diet	fruits	fruits	comprised of a high intake of	
+V-302	phytochemicals	phytochemicals	health	health	have been associated with	
+V-302	fruits	fruits	vegetables	vegetables	and	
+V-302	risk	risk	depression	depression	of	
+V-302	folic acid	folic acid	pills	pills		
+V-302	vegetables	vegetables	lead	lead	has been found to	
+V-302	lead	lead	risk	risk	to a lower	
+V-302	anxiety	anxiety	health	health	disorders and poor perceived mental	
+V-302	blood	blood	depression	depression	are associated with	
+V-302	risk	risk	depression	depression	factor for at least mild to moderate	
+V-302	vegetables	vegetables	folate	folate	but could also be the	
+V-302	vegetables	vegetables	antioxidants	antioxidants	is rich in	
+V-302	lead	lead	depression	depression	to a lower risk of developing	
+V-302	diet	diet	prevention	prevention	may have a beneficial effect on the	
+V-302	health	health	supplements	supplements	benefits, antioxidants from dietary	
+V-302	folate	folate	depression	depression	levels in the blood are associated with	
+V-302	folate	folate	leafy vegetables	leafy vegetables	is found in dark green	
+V-302	vitamin c	vitamin c	mood	mood	improves	
+V-302	antioxidant	antioxidant	supplements	supplements	food sources rather than dietary	
+V-302	mood	mood	mental health	mental health	and anxiety disorders and poor perceived	
+V-302	plant foods	plant foods	phytochemicals	phytochemicals	and food-derived	
+V-302	antioxidants	antioxidants	vegetables	vegetables	in fruits and	
+V-302	folate	folate	beans	beans	in greens and	
+V-302	fruits	fruits	lead	lead	and vegetables has been found to	
+V-302	folate	folate	folic acid	folic acid	intake, not	
+V-302	risk	risk	antioxidants	antioxidants	of developing depression, but if it’s the	
+V-302	folate	folate	spinach	spinach	is found in dark green leafy vegetables like	
+V-302	folate	folate	vegetables	vegetables	is found in dark green leafy	
+V-302	prevention	prevention	vegetables	vegetables	of depressive symptoms.higher consumption of fruits and	
+V-302	depression	depression	risk	risk	–as much as a threefold higher	
+V-302	leafy vegetables	leafy vegetables	folic acid	folic acid	like spinach, whereas	
+V-302	health	health	antioxidants	antioxidants	benefits,	
+V-302	blood	blood	carotenoid	carotenoid		

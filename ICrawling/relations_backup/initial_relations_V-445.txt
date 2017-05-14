@@ -1,0 +1,21 @@
+
+V-445	strawberries	strawberries	antioxidant	antioxidant	have [more]	
+V-445	water	water	stress	stress	deficit, or nutrient deficit	
+V-445	cold	cold	water	water	stress, light stress,	
+V-445	antioxidant	antioxidant	phytonutrients	phytonutrients	[s]” and	
+V-445	sunlight	sunlight	plants	plants	can damage the dna in	
+V-445	lettuce	lettuce	cold	cold	and fruits, can be nutritionally enhanced by	
+V-445	sunlight	sunlight	dna	dna	can damage the	
+V-445	lettuce	lettuce	fruits	fruits	and	
+V-445	plants	plants	stress	stress	and their	
+V-445	dna	dna	plants	plants	in	
+V-445	plants	plants	dna	dna	have	
+V-445	plants	plants	bacteria	bacteria	get attacked by	
+V-445	lettuce	lettuce	stress	stress	and fruits, can be nutritionally enhanced by cold	
+V-445	grapes	grapes	health	health	in terms of…	
+V-445	strawberries	strawberries	phytonutrients	phytonutrients	have [more] antioxidant[s]” and	
+V-445	produce	produce	aspirin	aspirin		
+V-445	cold	cold	stress	stress		
+V-445	plants	plants	aspirin	aspirin	get infected, they produce	
+V-445	plants	plants	dna	dna	in the same way it can damage our	
+V-445	plants	plants	produce	produce	get infected, they	

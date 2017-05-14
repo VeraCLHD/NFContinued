@@ -1,0 +1,65 @@
+
+T-730	risk	risk	meat	meat	food poisoning from undercooked	
+T-730	children	children	produce	produce	up for life-threatening reactions to e. coli toxins.organic	
+T-730	contamination	contamination	preparation	preparation	in the	
+T-730	bladder	bladder	women	women	infections in	
+T-730	phosphorus	phosphorus	preservatives	preservatives		
+T-730	cancer	cancer	heart disease	heart disease	and	
+T-730	lead	lead	e. coli	e. coli	to exposure to antibiotic resistant	
+T-730	cooked meat	cooked meat	transglutaminase	transglutaminase	carcinogens in well-cooked meat.the “meat glue” enzyme,	
+T-730	cancer	cancer	disease	disease	and heart	
+T-730	food poisoning	food poisoning	cooked meat	cooked meat	from undercooked meat, but also exposure to	
+T-730	e. coli	e. coli	pathogens	pathogens	toxins.organic produce may be contaminated with fecal	
+T-730	pesticides	pesticides	water	water	in	
+T-730	usda	usda	meat	meat	’s	
+T-730	carcinogens	carcinogens	cooked meat	cooked meat	in well-	
+T-730	meat glue	meat glue	transglutaminase	transglutaminase	” enzyme,	
+T-730	risk	risk	contamination	contamination	of cross	
+T-730	cooking	cooking	bacteria	bacteria	the meat kills the	
+T-730	carcinogens	carcinogens	meat glue	meat glue	in well-cooked meat.the “	
+T-730	salmonella	salmonella	food poisoning	food poisoning	causes a million cases of	
+T-730	contamination	contamination	fecal contamination	fecal contamination	meat via	
+T-730	contamination	contamination	meat	meat		
+T-730	bladder infections	bladder infections	women	women	in	
+T-730	listeria	listeria	infection	infection	is the third most common bacterial	
+T-730	e. coli	e. coli	produce	produce	toxins.organic	
+T-730	gut	gut	muscles	muscles	into the	
+T-730	meat	meat	food poisoning	food poisoning	risk	
+T-730	carcinogens	carcinogens	meat	meat	in well-cooked	
+T-730	cancer	cancer	children	children	and heart disease, but can set	
+T-730	phosphorus	phosphorus	poultry	poultry	preservatives injected into	
+T-730	preparation	preparation	poultry	poultry	of the	
+T-730	children	children	e. coli	e. coli	up for life-threatening reactions to	
+T-730	meat	meat	neu5gc	neu5gc	molecule,	
+T-730	chicken	chicken	e. coli	e. coli	can lead to exposure to antibiotic resistant	
+T-730	gut	gut	beef	beef	into the muscles (meat) of the animal.in supreme	
+T-730	produce	produce	pathogens	pathogens	may be contaminated with fecal	
+T-730	chicken	chicken	lead	lead	can	
+T-730	meat	meat	risk	risk		
+T-730	cooking	cooking	meat	meat	the	
+T-730	bladder	bladder	infections	infections		
+T-730	contamination	contamination	poultry	poultry	in the preparation of the	
+T-730	meat	meat	contamination	contamination	via fecal	
+T-730	cooked meat	cooked meat	meat glue	meat glue	carcinogens in well-cooked meat.the “	
+T-730	pathogens	pathogens	produce	produce	due to noroviruses linked to	
+T-730	risk	risk	preparation	preparation	of cross contamination in the	
+T-730	campylobacter	campylobacter	bacteria	bacteria		
+T-730	food poisoning	food poisoning	meat	meat	from undercooked	
+T-730	meat	meat	fecal contamination	fecal contamination	via	
+T-730	chicken	chicken	plants	plants	processing	
+T-730	gut	gut	meat	meat	into the muscles (	
+T-730	cooking	cooking	bacteria	bacteria	the meat may kill the	
+T-730	contamination	contamination	chicken	chicken	in	
+T-730	e. coli	e. coli	contamination	contamination		
+T-730	infections	infections	women	women	in	
+T-730	contamination	contamination	plants	plants	in chicken processing	
+T-730	risk	risk	food poisoning	food poisoning		
+T-730	risk	risk	poultry	poultry	of cross contamination in the preparation of the	
+T-730	cooked meat	cooked meat	meat	meat	carcinogens in well-cooked	
+T-730	carcinogens	carcinogens	transglutaminase	transglutaminase	in well-cooked meat.the “meat glue” enzyme,	
+T-730	meat	meat	bacteria	bacteria	may kill the	
+T-730	cooked meat	cooked meat	carcinogens	carcinogens		
+T-730	muscles	muscles	usda	usda	(meat) of the animal.in supreme beef vs.	
+T-730	beef	beef	usda	usda	vs.	
+T-730	muscles	muscles	beef	beef	(meat) of the animal.in supreme	
+T-730	preservatives	preservatives	poultry	poultry	injected into	

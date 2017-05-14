@@ -1,0 +1,24 @@
+
+V-759	kidney	kidney	nausea	nausea	dysfunctions; skin disorders; abdominal pain;	
+V-759	saturated fat	saturated fat	physical activity	physical activity	and cholesterol while increasing	
+V-759	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-759	kidney	kidney	skin	skin	dysfunctions;	
+V-759	cholesterol	cholesterol	fiber	fiber	while increasing physical activity and intake of dietary	
+V-759	treatment	treatment	drugs	drugs	options that include	
+V-759	produce	produce	side effects	side effects	adverse	
+V-759	skin	skin	abdominal pain	abdominal pain	disorders;	
+V-759	skin	skin	pain	pain	disorders; abdominal	
+V-759	kidney	kidney	dizziness	dizziness	dysfunctions; skin disorders; abdominal pain; nausea; constipation;	
+V-759	fat	fat	physical activity	physical activity	and cholesterol while increasing	
+V-759	kidney	kidney	abdominal pain	abdominal pain	dysfunctions; skin disorders;	
+V-759	skin	skin	constipation	constipation	disorders; abdominal pain; nausea;	
+V-759	kidney	kidney	constipation	constipation	dysfunctions; skin disorders; abdominal pain; nausea;	
+V-759	drugs	drugs	side effects	side effects	are effective, but produce adverse	
+V-759	skin	skin	dizziness	dizziness	disorders; abdominal pain; nausea; constipation;	
+V-759	cholesterol	cholesterol	physical activity	physical activity	while increasing	
+V-759	treatment	treatment	diet	diet	options that include drugs,	
+V-759	fat	fat	cholesterol	cholesterol	and	
+V-759	kidney	kidney	pain	pain	dysfunctions; skin disorders; abdominal	
+V-759	physical activity	physical activity	fiber	fiber	and intake of dietary	
+V-759	skin	skin	nausea	nausea	disorders; abdominal pain;	
+V-759	drugs	drugs	produce	produce	are effective, but	

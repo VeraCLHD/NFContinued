@@ -1,0 +1,22 @@
+
+T-293	dental	dental	dentists	dentists	association cautions that	
+T-293	leukemia	leukemia	pesticides	pesticides	and brain tumors.	
+T-293	leukemia	leukemia	blood	blood	and brain tumors.pesticides can get into our	
+T-293	radiation	radiation	x-rays	x-rays	such as dental	
+T-293	brain tumors	brain tumors	tumors	tumors	’ is a broad term referring to ‘	
+T-293	dental x-rays	dental x-rays	blood	blood	can easily penetrate the	
+T-293	american dental association	american dental association	x-rays	x-rays	cautions that dentists only obtain	
+T-293	x-rays	x-rays	blood	blood	can easily penetrate the	
+T-293	radiation	radiation	blood	blood	such as dental x-rays can easily penetrate the	
+T-293	dental	dental	x-rays	x-rays		
+T-293	treatment	treatment	screening	screening	decisions rather than routine	
+T-293	radiation	radiation	dental	dental	such as	
+T-293	dentists	dentists	treatment	treatment	only obtain x-rays for diagnosis or	
+T-293	american dental association	american dental association	dentists	dentists	cautions that	
+T-293	radiation	radiation	dental x-rays	dental x-rays	such as	
+T-293	dentists	dentists	x-rays	x-rays	only obtain	
+T-293	dental	dental	x-rays	x-rays	association cautions that dentists only obtain	
+T-293	dental	dental	blood	blood	x-rays can easily penetrate the	
+T-293	x-rays	x-rays	treatment	treatment	for diagnosis or	
+T-293	x-rays	x-rays	screening	screening	for diagnosis or treatment decisions rather than routine	
+T-293	organic	organic	organic foods	organic foods	and	

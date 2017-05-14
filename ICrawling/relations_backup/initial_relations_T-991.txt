@@ -1,0 +1,36 @@
+
+T-991	doctors	doctors	medical profession	medical profession	was weakened by apparent	
+T-991	california	california	doctors	doctors	legislation supporting nutrition education for	
+T-991	food industry	food industry	doctors	doctors	promotes a positive image with	
+T-991	plant-based	plant-based	industry influence	industry influence	foods being emphasized more than ever before.meat	
+T-991	health	health	nutrition	nutrition	promotion.proposed california legislation supporting	
+T-991	nutrition education	nutrition education	medical profession	medical profession	for doctors was weakened by apparent	
+T-991	california	california	nutrition	nutrition	legislation supporting	
+T-991	diet	diet	doctors	doctors	is often rejected by	
+T-991	produce	produce	chocolate	chocolate	results consistent with non-industry-funded research, as with the	
+T-991	kiwifruit	kiwifruit	insomnia	insomnia	may help treat	
+T-991	industry influence	industry influence	antibiotics	antibiotics	may be a reason why	
+T-991	nutrition education	nutrition education	doctors	doctors	for	
+T-991	kiwifruit	kiwifruit	water	water	may help treat insomnia, and another boosting	
+T-991	supplements	supplements	marketing	marketing	industry has frequently been charged with exaggerating its	
+T-991	health	health	doctors	doctors	promotion.proposed california legislation supporting nutrition education for	
+T-991	agribusiness	agribusiness	diet	diet	can conflict with its responsibility to provide public	
+T-991	drugs	drugs	health	health	with very specific actions rather than overall	
+T-991	jelly beans	jelly beans	kiwifruit	kiwifruit	may help boost sports performance, another demonstrating that	
+T-991	usda	usda	agribusiness	agribusiness	’s mandate to promote	
+T-991	antibiotics	antibiotics	bacteria	bacteria	continue to be used as livestock feed,	
+T-991	health	health	california	california	promotion.proposed	
+T-991	beans	beans	sports	sports	may help boost	
+T-991	sports	sports	insomnia	insomnia	performance, another demonstrating that kiwifruit may help treat	
+T-991	nutrition	nutrition	medical profession	medical profession	education for doctors was weakened by apparent	
+T-991	antibiotics	antibiotics	livestock	livestock	continue to be used as	
+T-991	nutrition	nutrition	doctors	doctors	education for	
+T-991	beans	beans	kiwifruit	kiwifruit	may help boost sports performance, another demonstrating that	
+T-991	sports	sports	kiwifruit	kiwifruit	performance, another demonstrating that	
+T-991	california	california	nutrition education	nutrition education	legislation supporting	
+T-991	fast food	fast food	doctors	doctors	industry promotes a positive image with	
+T-991	jelly beans	jelly beans	sports	sports	may help boost	
+T-991	livestock	livestock	bacteria	bacteria	feed,	
+T-991	plant-based	plant-based	treatment	treatment	foods as	
+T-991	doctors	doctors	restaurants	restaurants	and patients by locating their	
+T-991	health	health	nutrition education	nutrition education	promotion.proposed california legislation supporting	

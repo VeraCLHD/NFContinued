@@ -1,0 +1,22 @@
+
+T-112	liver	liver	ulcers	ulcers	disease, certain cancers, inflammation, glaucoma, diabetes, allergies, cox-inhibitor-induced	
+T-112	anthocyanins	anthocyanins	blackberries	blackberries	include blueberries, cherries, cranberries,	
+T-112	liver	liver	allergies	allergies	disease, certain cancers, inflammation, glaucoma, diabetes,	
+T-112	anthocyanins	anthocyanins	blueberries	blueberries	include	
+T-112	vinegar	vinegar	beans	beans	and darkly pigmented	
+T-112	eye	eye	cranberries	cranberries	tissue.good sources of anthocyanins include blueberries, cherries,	
+T-112	liver	liver	glaucoma	glaucoma	disease, certain cancers, inflammation,	
+T-112	anthocyanins	anthocyanins	cranberries	cranberries	include blueberries, cherries,	
+T-112	eye	eye	blackberries	blackberries	tissue.good sources of anthocyanins include blueberries, cherries, cranberries,	
+T-112	liver	liver	disease	disease		
+T-112	liver	liver	diabetes	diabetes	disease, certain cancers, inflammation, glaucoma,	
+T-112	anthocyanins	anthocyanins	phytonutrients	phytonutrients	are the red/blue/violet	
+T-112	eye	eye	cherries	cherries	tissue.good sources of anthocyanins include blueberries,	
+T-112	anthocyanins	anthocyanins	carrots	carrots	include blueberries, cherries, cranberries, blackberries, black currents, purple	
+T-112	liver	liver	inflammation	inflammation	disease, certain cancers,	
+T-112	eye	eye	anthocyanins	anthocyanins	tissue.good sources of	
+T-112	berries	berries	vegetables	vegetables	and	
+T-112	eye	eye	blueberries	blueberries	tissue.good sources of anthocyanins include	
+T-112	anthocyanins	anthocyanins	cherries	cherries	include blueberries,	
+T-112	phytonutrients	phytonutrients	berries	berries	responsible for the vibrant pigmentation of many	
+T-112	muscle soreness	muscle soreness	eye	eye	and age-related deterioration of brain and	

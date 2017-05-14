@@ -1,0 +1,39 @@
+
+T-1039	junk food	junk food	animal fat	animal fat	and	
+T-1039	diet	diet	junk food	junk food	agree that	
+T-1039	junk food	junk food	cholesterol	cholesterol	can raise ldl	
+T-1039	junk food	junk food	trans fats	trans fats	may contribute to excess intake of phosphorus and	
+T-1039	junk food	junk food	plant foods	plant foods	eaten.unlike whole	
+T-1039	nutrition	nutrition	physicians	physicians	and dietetics and the american academy of family	
+T-1039	ldl	ldl	diabetes	diabetes	cholesterol, increase the severity of	
+T-1039	phytonutrients	phytonutrients	fruits	fruits	available in	
+T-1039	phosphorus	phosphorus	trans fats	trans fats	and	
+T-1039	junk food	junk food	diabetes	diabetes	can raise ldl cholesterol, increase the severity of	
+T-1039	junk food	junk food	ldl	ldl	can raise	
+T-1039	junk food	junk food	fat	fat	and animal	
+T-1039	phosphorus	phosphorus	junk food	junk food	and trans fats, considered harmful to health.	
+T-1039	phosphorus	phosphorus	fats	fats	and trans	
+T-1039	academy of nutrition and dietetics	academy of nutrition and dietetics	physicians	physicians	and the american academy of family	
+T-1039	phytonutrients	phytonutrients	vegetables	vegetables	available in fruits and	
+T-1039	fruit	fruit	junk food	junk food	and more	
+T-1039	risk	risk	blood	blood	for high	
+T-1039	physicians	physicians	dairy	dairy	receive sponsorship dollars from meat,	
+T-1039	physicians	physicians	meat	meat	receive sponsorship dollars from	
+T-1039	junk food	junk food	fruits	fruits	and animal fat, and eat more	
+T-1039	risk	risk	acne	acne	for high blood pressure,	
+T-1039	fiber	fiber	phytonutrients	phytonutrients	and generally lack the thousands of	
+T-1039	ldl	ldl	cholesterol	cholesterol		
+T-1039	cost per calorie	cost per calorie	fruits	fruits	is junk foodcheaper than	
+T-1039	fruits	fruits	calorie dense	calorie dense	and vegetables.when people regularly eat	
+T-1039	risk	risk	arteries	arteries	of diseased	
+T-1039	risk	risk	blood pressure	blood pressure	for high	
+T-1039	blood	blood	obesity	obesity	pressure, acne, and	
+T-1039	physicians	physicians	junk food	junk food	receive sponsorship dollars from meat, dairy, processed, and	
+T-1039	paleo diet	paleo diet	junk food	junk food	agree that	
+T-1039	risk	risk	high blood pressure	high blood pressure	for	
+T-1039	fruits	fruits	vegetables	vegetables	and	
+T-1039	junk food	junk food	vegetables	vegetables	and animal fat, and eat more fruits and	
+T-1039	junk food	junk food	phosphorus	phosphorus	may contribute to excess intake of	
+T-1039	junk food	junk food	ldl cholesterol	ldl cholesterol	can raise	
+T-1039	risk	risk	obesity	obesity	for high blood pressure, acne, and	
+T-1039	blood	blood	acne	acne	pressure,	

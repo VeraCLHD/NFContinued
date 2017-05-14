@@ -1,0 +1,23 @@
+
+A-458	disease	disease	mortality	mortality		
+A-458	risk	risk	cardiovascular disease	cardiovascular disease	of death from cancer or	
+A-458	risk	risk	disease	disease	of death from cancer or cardiovascular	
+A-458	cancer	cancer	heart disease	heart disease	mortality, increased	
+A-458	meat	meat	nih-aarp study	nih-aarp study	institute, how about the largest such study ever—the	
+A-458	harvard	harvard	meat	meat	’s	
+A-458	cancer	cancer	disease	disease	mortality, increased heart	
+A-458	death	death	cardiovascular disease	cardiovascular disease	from cancer or	
+A-458	death	death	cancer	cancer	from	
+A-458	death	death	disease	disease	from cancer or cardiovascular	
+A-458	meat	meat	nutrition	nutrition	institute asserted that “	
+A-458	risk	risk	cancer	cancer	of death from	
+A-458	diet	diet	disease	disease	and	
+A-458	heart disease	heart disease	mortality	mortality		
+A-458	cancer	cancer	cardiovascular disease	cardiovascular disease	or	
+A-458	meat	meat	mortality	mortality	& 	
+A-458	risk	risk	death	death	of	
+A-458	cancer	cancer	mortality	mortality		
+A-458	medicine	medicine	risk	risk	tries to predict the future	
+A-458	harvard	harvard	mortality	mortality	’s meat & 	
+A-458	medicine	medicine	death	death	tries to predict the future risk of	
+A-458	cancer	cancer	disease	disease	or cardiovascular	

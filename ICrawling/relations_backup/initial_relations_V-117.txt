@@ -1,0 +1,47 @@
+
+V-117	beta carotene	beta carotene	cancer	cancer	pills increased	
+V-117	calcium	calcium	fertility	fertility	regulation and bone health, but a hormone of	
+V-117	blood	blood	cancer	cancer	had 50% higher	
+V-117	risk	risk	beta carotene	beta carotene	of cancer; so, we should give people	
+V-117	vitamin d	vitamin d	physical activity	physical activity	levels may just be a sign of higher	
+V-117	risk	risk	cancer	cancer	of heart disease, and	
+V-117	vitamin a	vitamin a	beta carotene	beta carotene	or	
+V-117	medical community	medical community	vitamin d	vitamin d	regarding claims about	
+V-117	vitamin e	vitamin e	cancer	cancer	in their blood had 50% higher	
+V-117	greens	greens	beta carotene	beta carotene	and sweet potatoes and other	
+V-117	diabetes	diabetes	vitamin d	vitamin d	rates among those with higher	
+V-117	risk	risk	heart disease	heart disease	of	
+V-117	cancer	cancer	risk	risk		
+V-117	treatment	treatment	obesity	obesity	for	
+V-117	vitamin e	vitamin e	supplements	supplements		
+V-117	blood	blood	risk	risk	with lower disease	
+V-117	potatoes	potatoes	risk	risk	and other beta carotene-rich foods have lower	
+V-117	skin	skin	sunlight	sunlight	in response to	
+V-117	risk	risk	autoimmune diseases	autoimmune diseases	of heart disease, and cancer, and diabetes,	
+V-117	vitamin d	vitamin d	supplements	supplements		
+V-117	calcium	calcium	health	health	regulation and bone	
+V-117	risk	risk	cancer	cancer	of	
+V-117	sweet potatoes	sweet potatoes	risk	risk	and other beta carotene-rich foods have lower	
+V-117	beta carotene	beta carotene	cancer	cancer	-rich foods have lower risk of	
+V-117	risk	risk	diabetes	diabetes	of heart disease, and cancer, and	
+V-117	greens	greens	sweet potatoes	sweet potatoes	and	
+V-117	vitamin d	vitamin d	atherosclerosis	atherosclerosis	levels have worse coronary blood flow, more	
+V-117	vitamin e	vitamin e	risk	risk	in their blood had 50% higher cancer	
+V-117	pills	pills	cancer	cancer	increased	
+V-117	greens	greens	potatoes	potatoes	and sweet	
+V-117	blood	blood	disease	disease	with lower	
+V-117	beta carotene	beta carotene	risk	risk	-rich foods have lower	
+V-117	risk	risk	disease	disease	of heart	
+V-117	calcium	calcium	bone health	bone health	regulation and	
+V-117	vitamin d	vitamin d	obesity	obesity	deficiency plays a role in	
+V-117	vitamin e	vitamin e	mortality	mortality	supplements may increase	
+V-117	vitamin e	vitamin e	blood	blood	in their	
+V-117	blood	blood	risk	risk	had 50% higher cancer	
+V-117	vitamin d	vitamin d	skin	skin	since they have more	
+V-117	vitamin d	vitamin d	treatment	treatment	to the test, try vitamin d as a	
+V-117	beta carotene	beta carotene	pills	pills		
+V-117	vitamin d	vitamin d	blood	blood	levels have worse coronary	
+V-117	sweet potatoes	sweet potatoes	beta carotene	beta carotene	and other	
+V-117	potatoes	potatoes	beta carotene	beta carotene	and other	
+V-117	supplements	supplements	mortality	mortality	may increase	
+V-117	blood	blood	atherosclerosis	atherosclerosis	flow, more	

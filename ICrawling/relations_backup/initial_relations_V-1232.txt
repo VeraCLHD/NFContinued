@@ -1,0 +1,15 @@
+
+V-1232	nutrition	nutrition	cooking	cooking	counseling,	
+V-1232	cooking	cooking	fruit	fruit	classes, and newsletters meant to boost	
+V-1232	diet	diet	fruits	fruits	“very high” in	
+V-1232	diet	diet	fruits	fruits	high in	
+V-1232	women	women	cancer	cancer	diagnosed with breast	
+V-1232	cancer	cancer	diet	diet	were asked to eat a	
+V-1232	diet	diet	fruits	fruits	very high in	
+V-1232	women	women	fruit	fruit	were eating 3.5 servings of	
+V-1232	medicine	medicine	diet	diet	’s idea of a	
+V-1232	fruits	fruits	cancer	cancer	and veggies to prevent	
+V-1232	women	women	breast cancer	breast cancer	diagnosed with	
+V-1232	medicine	medicine	fruits	fruits	’s idea of a diet “very high” in	
+V-1232	breast cancer	breast cancer	diet	diet	were asked to eat a	
+V-1232	nutrition	nutrition	fruit	fruit	counseling, cooking classes, and newsletters meant to boost	

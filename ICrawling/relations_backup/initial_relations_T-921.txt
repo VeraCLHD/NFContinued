@@ -1,0 +1,77 @@
+
+T-921	lemon	lemon	antioxidant	antioxidant	verbena tea, which unlike	
+T-921	lemon	lemon	supplements	supplements	verbena tea, which unlike antioxidant	
+T-921	death	death	cancer	cancer	and may have the capacity to cause 	
+T-921	endurance	endurance	lemon	lemon	athletes can especially benefit from	
+T-921	children	children	fluorosis	fluorosis	who may otherwise be at risk for dental	
+T-921	herbal	herbal	antioxidant	antioxidant	teas, such as hibiscus tea, may contain 	
+T-921	herbal	herbal	tea	tea		
+T-921	pregnant women	pregnant women	chamomile	chamomile	should be especially careful drinking	
+T-921	herbal	herbal	hibiscus	hibiscus	teas, such as 	
+T-921	antioxidant	antioxidant	supplements	supplements		
+T-921	herbal	herbal	hibiscus tea	hibiscus tea	teas, such as 	
+T-921	lemon	lemon	tea	tea	verbena	
+T-921	lemon verbena	lemon verbena	tea	tea		
+T-921	children	children	dental fluorosis	dental fluorosis	who may otherwise be at risk for 	
+T-921	pregnant	pregnant	women	women		
+T-921	fluorosis	fluorosis	tea	tea	by consuming regular	
+T-921	children	children	dental	dental	who may otherwise be at risk for 	
+T-921	tea	tea	estrogen	estrogen	due to its high	
+T-921	estrogen	estrogen	tea	tea	levels should be wary of nettle	
+T-921	women	women	chamomile tea	chamomile tea	should be especially careful drinking	
+T-921	athletes	athletes	lemon	lemon	can especially benefit from	
+T-921	women	women	nettle tea	nettle tea	with high estrogen levels should be wary of 	
+T-921	endurance	endurance	lemon verbena	lemon verbena	athletes can especially benefit from	
+T-921	athletes	athletes	lemon verbena	lemon verbena	can especially benefit from	
+T-921	tea	tea	cell death	cell death	has been found to cause an increase in	
+T-921	peppermint	peppermint	nausea	nausea	tea may also improve athletic performance and help	
+T-921	dental	dental	tea	tea	fluorosis by consuming regular	
+T-921	tea	tea	nausea	nausea	may also improve athletic performance and help	
+T-921	herbal	herbal	blood	blood	tea may be associated with reduced	
+T-921	herbal tea	herbal tea	blood	blood	may be associated with reduced	
+T-921	lemon verbena	lemon verbena	supplements	supplements	tea, which unlike antioxidant	
+T-921	hibiscus	hibiscus	antioxidant	antioxidant	tea, may contain 	
+T-921	cell death	cell death	cancer	cancer	and may have the capacity to cause 	
+T-921	risk	risk	fluorosis	fluorosis	for dental	
+T-921	lemon verbena	lemon verbena	antioxidant	antioxidant	tea, which unlike	
+T-921	women	women	chamomile	chamomile	should be especially careful drinking	
+T-921	risk	risk	tea	tea	for dental fluorosis by consuming regular	
+T-921	radiation	radiation	anti-inflammatory	anti-inflammatory	damage, alleviated stress levels, and 	
+T-921	women	women	tea	tea	should be especially careful drinking chamomile	
+T-921	herbal	herbal	tea	tea	teas, such as hibiscus	
+T-921	peppermint	peppermint	tea	tea		
+T-921	pregnant women	pregnant women	chamomile tea	chamomile tea	should be especially careful drinking	
+T-921	tea	tea	radiation	radiation	may be associated with reduced blood pressure, protection against	
+T-921	nausea	nausea	tea	tea	and irritable bowel syndromeherbal	
+T-921	stress	stress	anti-inflammatory	anti-inflammatory	levels, and 	
+T-921	endurance	endurance	athletes	athletes		
+T-921	women	women	tea	tea	with high estrogen levels should be wary of nettle	
+T-921	pregnant	pregnant	chamomile tea	chamomile tea	women should be especially careful drinking	
+T-921	estrogen	estrogen	nettle tea	nettle tea	levels should be wary of 	
+T-921	herbal tea	herbal tea	radiation	radiation	may be associated with reduced blood pressure, protection against	
+T-921	pregnant	pregnant	tea	tea	women should be especially careful drinking chamomile	
+T-921	endurance	endurance	tea	tea	athletes can especially benefit from lemon verbena	
+T-921	tea	tea	blood	blood	may be associated with reduced	
+T-921	women	women	estrogen	estrogen	with high	
+T-921	blood	blood	radiation	radiation	pressure, protection against	
+T-921	maté	maté	tea	tea		
+T-921	dental fluorosis	dental fluorosis	tea	tea	by consuming regular	
+T-921	radiation	radiation	stress	stress	damage, alleviated	
+T-921	hibiscus	hibiscus	tea	tea		
+T-921	children	children	risk	risk	who may otherwise be at	
+T-921	athletes	athletes	tea	tea	can especially benefit from lemon verbena	
+T-921	blood	blood	anti-inflammatory	anti-inflammatory	pressure, protection against radiation damage, alleviated stress levels, and 	
+T-921	tea	tea	blood pressure	blood pressure	may be associated with reduced	
+T-921	nettle tea	nettle tea	estrogen	estrogen	due to its high	
+T-921	risk	risk	dental	dental	for 	
+T-921	blood	blood	stress	stress	pressure, protection against radiation damage, alleviated	
+T-921	pregnant	pregnant	chamomile	chamomile	women should be especially careful drinking	
+T-921	herbal	herbal	radiation	radiation	tea may be associated with reduced blood pressure, protection against	
+T-921	pregnant women	pregnant women	tea	tea	should be especially careful drinking chamomile	
+T-921	risk	risk	dental fluorosis	dental fluorosis	for 	
+T-921	chamomile	chamomile	tea	tea		
+T-921	mouth	mouth	water	water	out with	
+T-921	dental	dental	fluorosis	fluorosis		
+T-921	herbal tea	herbal tea	blood pressure	blood pressure	may be associated with reduced	
+T-921	herbal	herbal	blood pressure	blood pressure	tea may be associated with reduced	
+T-921	manganese	manganese	aluminum	aluminum	and	

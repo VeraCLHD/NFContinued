@@ -1,0 +1,95 @@
+
+T-793	cranberry juice	cranberry juice	juice	juice	may help to prevent bladder infections, concord grape	
+T-793	juice	juice	grape juice	grape juice	may help to prevent bladder infections, concord	
+T-793	amyloid	amyloid	juice	juice	beta.while grape fruit	
+T-793	cranberry juice	cranberry juice	bladder	bladder	may help to prevent	
+T-793	juice	juice	insulin	insulin	may not produce the same	
+T-793	tomato juice	tomato juice	juice	juice	may yield more antioxidants than tomatoes.fruit	
+T-793	produce	produce	insulin	insulin	the same	
+T-793	amyloid	amyloid	fruit	fruit	beta.while grape	
+T-793	juice	juice	antioxidants	antioxidants	may yield more	
+T-793	cognitive performance	cognitive performance	juice	juice	in alzheimer’s patients, but apple	
+T-793	sugar	sugar	corn	corn	and high fructose	
+T-793	fructose	fructose	produce	produce	found in fruit juice may not	
+T-793	juice	juice	produce	produce	may not	
+T-793	cranberry juice	cranberry juice	infections	infections	may help to prevent bladder	
+T-793	fructose	fructose	fruit	fruit	found in	
+T-793	produce	produce	fructose	fructose	the same insulin spike as “industrial	
+T-793	produce	produce	cognitive performance	cognitive performance	any change in	
+T-793	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
+T-793	grape juice	grape juice	orange	orange	seems to improve verbal learning skills,	
+T-793	water	water	fruit	fruit	after consuming	
+T-793	plaque	plaque	fruit juice	fruit juice	protein, amyloid beta.while grape	
+T-793	juice	juice	uric acid	uric acid	may produce	
+T-793	juice	juice	lead	lead	may also	
+T-793	grape juice	grape juice	juice	juice	seems to improve verbal learning skills, orange	
+T-793	insulin	insulin	fructose	fructose	spike as “industrial	
+T-793	hunger	hunger	calories	calories	leading to fewer	
+T-793	cranberry juice	cranberry juice	bladder infections	bladder infections	may help to prevent	
+T-793	juice	juice	bladder infections	bladder infections	may help to prevent	
+T-793	orange	orange	blood	blood	juice may improve	
+T-793	apple	apple	uric acid	uric acid	juice may produce	
+T-793	fruit juice	fruit juice	insulin	insulin	may not produce the same	
+T-793	apples	apples	insulin	insulin	leads to a spike in	
+T-793	blood	blood	apple juice	apple juice	flow, and a daily cup of	
+T-793	plaque	plaque	juice	juice	protein, amyloid beta.while grape fruit	
+T-793	fruit juice	fruit juice	enamel erosion	enamel erosion	may also lead to	
+T-793	plaque	plaque	amyloid	amyloid	protein,	
+T-793	apple juice	apple juice	produce	produce	may not	
+T-793	phytonutrients	phytonutrients	fiber	fiber	may be bound to the	
+T-793	fruit juice	fruit juice	lead	lead	may also	
+T-793	fructose	fructose	fruit juice	fruit juice	found in	
+T-793	produce	produce	apples	apples	uric acid in the body, and even pureed	
+T-793	blood	blood	juice	juice	flow, and a daily cup of apple	
+T-793	apple	apple	produce	produce	juice may not	
+T-793	blood	blood	apple	apple	flow, and a daily cup of	
+T-793	apple	apple	cognitive performance	cognitive performance	juice may not produce any change in	
+T-793	fruit	fruit	produce	produce	juice may not	
+T-793	apple juice	apple juice	cognitive performance	cognitive performance	may not produce any change in	
+T-793	cognitive performance	cognitive performance	apple juice	apple juice	in alzheimer’s patients, but	
+T-793	tomato juice	tomato juice	antioxidants	antioxidants	may yield more	
+T-793	cranberry juice	cranberry juice	grape juice	grape juice	may help to prevent bladder infections, concord	
+T-793	orange juice	orange juice	blood	blood	may improve	
+T-793	bladder	bladder	juice	juice	infections, concord grape	
+T-793	water	water	fruit juice	fruit juice	after consuming	
+T-793	fructose	fructose	juice	juice	found in fruit	
+T-793	bladder	bladder	infections	infections		
+T-793	apple juice	apple juice	produce	produce	may	
+T-793	juice	juice	pain	pain	seems to reduce muscle	
+T-793	cranberry	cranberry	bladder infections	bladder infections	juice may help to prevent	
+T-793	plaque	plaque	fruit	fruit	protein, amyloid beta.while grape	
+T-793	sugar	sugar	fructose	fructose	and high	
+T-793	apple juice	apple juice	uric acid	uric acid	may produce	
+T-793	plaque	plaque	protein	protein		
+T-793	amyloid	amyloid	fruit juice	fruit juice	beta.while grape	
+T-793	juice	juice	enamel erosion	enamel erosion	may also lead to	
+T-793	juice	juice	produce	produce	may	
+T-793	insulin	insulin	high fructose corn syrup	high fructose corn syrup	spike as “industrial fructose” (table sugar and	
+T-793	cranberry	cranberry	infections	infections	juice may help to prevent bladder	
+T-793	orange	orange	juice	juice		
+T-793	pain	pain	insomnia	insomnia	in long-distance runners and help	
+T-793	juice	juice	bladder	bladder	may help to prevent	
+T-793	juice	juice	infections	infections	may help to prevent bladder	
+T-793	apple	apple	produce	produce	juice may	
+T-793	fruit	fruit	insulin	insulin	juice may not produce the same	
+T-793	cognitive performance	cognitive performance	apple	apple	in alzheimer’s patients, but	
+T-793	fiber	fiber	fruit	fruit	found in the whole	
+T-793	fruit	fruit	enamel erosion	enamel erosion	juice may also lead to	
+T-793	lead	lead	enamel erosion	enamel erosion	to	
+T-793	bladder	bladder	grape juice	grape juice	infections, concord	
+T-793	produce	produce	uric acid	uric acid		
+T-793	apple	apple	juice	juice		
+T-793	fruit	fruit	lead	lead	juice may also	
+T-793	grape juice	grape juice	orange juice	orange juice	seems to improve verbal learning skills,	
+T-793	cranberry	cranberry	juice	juice		
+T-793	fruit juice	fruit juice	produce	produce	may not	
+T-793	cranberry	cranberry	bladder	bladder	juice may help to prevent	
+T-793	produce	produce	sugar	sugar	the same insulin spike as “industrial fructose” (table	
+T-793	uric acid	uric acid	apples	apples	in the body, and even pureed	
+T-793	insulin	insulin	sugar	sugar	spike as “industrial fructose” (table	
+T-793	antioxidants	antioxidants	juice	juice	than tomatoes.fruit	
+T-793	fruit	fruit	juice	juice		
+T-793	sugar	sugar	corn syrup	corn syrup	and high fructose	
+T-793	pain	pain	cherries	cherries	in long-distance runners and help insomnia, although whole	
+T-793	water	water	juice	juice	after consuming fruit	
+T-793	cranberry	cranberry	grape juice	grape juice	juice may help to prevent bladder infections, concord	

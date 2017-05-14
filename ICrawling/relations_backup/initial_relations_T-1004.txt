@@ -1,0 +1,44 @@
+
+T-1004	hormones	hormones	sugar	sugar	that regulate how the body uses	
+T-1004	symptoms	symptoms	sugar	sugar	of hypoglycemia (low blood	
+T-1004	insulin resistance	insulin resistance	blood	blood	shortly after ingestion and for hours later, causing	
+T-1004	amino acids	amino acids	protein	protein	(building blocks of	
+T-1004	insulin	insulin	prediabetes	prediabetes	resistance also usually exists in type i.	
+T-1004	plant-based	plant-based	growth hormones	growth hormones	eating, also helps.dairy has	
+T-1004	insulin resistance	insulin resistance	prediabetes	prediabetes	also usually exists in type i.	
+T-1004	weight loss	weight loss	plant-based	plant-based	itself, independent of	
+T-1004	diabetes	diabetes	insulin	insulin	mellitus, there is a relative	
+T-1004	risk	risk	cholesterol	cholesterol	factor for high	
+T-1004	vision	vision	health	health	problems (retinal damage), and cardiovascular	
+T-1004	sugar	sugar	insulin	insulin	rises after a meal, the pancreas releases	
+T-1004	insulin	insulin	blood	blood	into the	
+T-1004	blood	blood	diabetes	diabetes	sugar.in	
+T-1004	sugar	sugar	diabetes	diabetes	rises after a meal in a patient with	
+T-1004	insulin	insulin	hormones	hormones	is one of a number of	
+T-1004	glucose	glucose	blood	blood	) out of the	
+T-1004	symptoms	symptoms	blood sugar	blood sugar	of hypoglycemia (low	
+T-1004	insulin	insulin	blood	blood	deficiency leads to high	
+T-1004	blood	blood	insulin	insulin	sugar rises after a meal, the pancreas releases	
+T-1004	medications	medications	insulin	insulin	like	
+T-1004	risk	risk	vision	vision	factor for high cholesterol,	
+T-1004	diabetes	diabetes	vision	vision	is a strong risk factor for high cholesterol,	
+T-1004	tumor	tumor	cancer cells	cancer cells	cells or	
+T-1004	insulin	insulin	sugar	sugar	into the blood, which moves	
+T-1004	insulin	insulin	diabetes	diabetes	deficiency leads to high blood sugar.in	
+T-1004	diabetes	diabetes	cholesterol	cholesterol	is a strong risk factor for high	
+T-1004	vision	vision	cardiovascular health	cardiovascular health	problems (retinal damage), and	
+T-1004	weight loss	weight loss	growth hormones	growth hormones	itself, independent of plant-based eating, also helps.dairy has	
+T-1004	blood	blood	insulin	insulin	sugar.in diabetes mellitus, there is a relative	
+T-1004	insulin resistance	insulin resistance	blood sugar	blood sugar	shortly after ingestion and for hours later, causing	
+T-1004	insulin	insulin	glucose	glucose	that they can’t remove the	
+T-1004	prediabetes	prediabetes	diabetes	diabetes	is a state of borderline	
+T-1004	hormones	hormones	fat	fat	that regulate how the body uses sugar,	
+T-1004	sugar	sugar	blood	blood	(glucose) out of the	
+T-1004	blood sugar	blood sugar	diabetes	diabetes	rises after a meal in a patient with	
+T-1004	tumor	tumor	cancer	cancer	cells or	
+T-1004	insulin	insulin	glucose	glucose	into the blood, which moves sugar (	
+T-1004	plant-based	plant-based	hormones	hormones	eating, also helps.dairy has growth	
+T-1004	symptoms	symptoms	blood	blood	of hypoglycemia (low	
+T-1004	blood sugar	blood sugar	insulin	insulin	rises after a meal, the pancreas releases	
+T-1004	diabetes	diabetes	risk	risk	is a strong	
+T-1004	blood	blood	sugar	sugar		

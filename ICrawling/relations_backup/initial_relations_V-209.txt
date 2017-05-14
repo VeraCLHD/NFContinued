@@ -1,0 +1,50 @@
+
+V-209	diabetes	diabetes	risk	risk	has been proposed as a coronary heart disease	
+V-209	insulin	insulin	stress	stress	sensitivity, and oxidative	
+V-209	diet	diet	plant-based diet	plant-based diet	was more restrictive than the	
+V-209	plant-based diets	plant-based diets	diabetes	diabetes	not only appear to guard against getting	
+V-209	heart disease	heart disease	risk	risk		
+V-209	nuts	nuts	animal products	animal products	with	
+V-209	diet	diet	insulin	insulin	on controlling weight, blood sugars, cholesterol,	
+V-209	diet	diet	american diabetes association	american diabetes association	beat out the conventional	
+V-209	blood	blood	oxidative stress	oxidative stress	sugars, cholesterol, insulin sensitivity, and	
+V-209	plant-based	plant-based	diet	diet		
+V-209	disease	disease	risk	risk		
+V-209	blood	blood	stress	stress	sugars, cholesterol, insulin sensitivity, and oxidative	
+V-209	plant-based	plant-based	diabetes	diabetes	diet beat out the conventional american	
+V-209	vegetarian	vegetarian	diet	diet		
+V-209	plant-based diet	plant-based diet	diet	diet	beat out the conventional american diabetes association	
+V-209	plant-based	plant-based	cholesterol	cholesterol	diets;	
+V-209	insulin	insulin	oxidative stress	oxidative stress	sensitivity, and	
+V-209	diet	diet	blood	blood	on controlling weight,	
+V-209	vegetarian	vegetarian	blood	blood	diet on controlling weight,	
+V-209	blood	blood	cholesterol	cholesterol	sugars,	
+V-209	diet	diet	diabetes	diabetes	beat out the conventional american	
+V-209	meat	meat	diabetes	diabetes	may play in increasing the risk of	
+V-209	american diabetes association	american diabetes association	diet	diet		
+V-209	blood	blood	risk	risk	sugars, body weight, and cardiovascular	
+V-209	diabetes	diabetes	diet	diet	association	
+V-209	vegetarian	vegetarian	cholesterol	cholesterol	diet on controlling weight, blood sugars,	
+V-209	diabetes	diabetes	coronary heart disease	coronary heart disease	has been proposed as a	
+V-209	calories	calories	strawberries	strawberries	of broccoli, tomatoes,	
+V-209	diabetes	diabetes	disease	disease	has been proposed as a coronary heart	
+V-209	risk	risk	disease	disease	to that of non-diabetic individuals with confirmed heart	
+V-209	calories	calories	tomatoes	tomatoes	of broccoli,	
+V-209	calories	calories	broccoli	broccoli	of	
+V-209	meat	meat	risk	risk	may play in increasing the	
+V-209	plant foods	plant foods	weight loss	weight loss	can result in significant	
+V-209	plant-based	plant-based	american diabetes association	american diabetes association	diet beat out the conventional	
+V-209	plant-based diet	plant-based diet	american diabetes association	american diabetes association	beat out the conventional	
+V-209	plant-based	plant-based	diabetes	diabetes	diets not only appear to guard against getting	
+V-209	diet	diet	plant-based	plant-based	was more restrictive than the	
+V-209	plant-based diet	plant-based diet	diabetes	diabetes	beat out the conventional american	
+V-209	plant-based diets	plant-based diets	blood	blood	experience improved reductions in	
+V-209	blood	blood	insulin	insulin	sugars, cholesterol,	
+V-209	ldl	ldl	cholesterol	cholesterol		
+V-209	diabetes	diabetes	heart disease	heart disease	has been proposed as a coronary	
+V-209	plant-based	plant-based	blood	blood	diets experience improved reductions in	
+V-209	diet	diet	cholesterol	cholesterol	on controlling weight, blood sugars,	
+V-209	coronary heart disease	coronary heart disease	risk	risk		
+V-209	vegetarian	vegetarian	insulin	insulin	diet on controlling weight, blood sugars, cholesterol,	
+V-209	disease	disease	risk	risk	have an equivalent	
+V-209	risk	risk	diabetes	diabetes	of	

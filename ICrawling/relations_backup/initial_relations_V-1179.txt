@@ -1,0 +1,14 @@
+
+V-1179	alcohol	alcohol	potatoes	potatoes	consumption—health freaks or couch	
+V-1179	stroke	stroke	risk	risk	—the bleeding kind—but decreases our	
+V-1179	breast cancer	breast cancer	stroke	stroke	—and increases our risk of one type of	
+V-1179	cancer	cancer	risk	risk	—and increases our	
+V-1179	risk	risk	heart attack	heart attack	of a	
+V-1179	risk	risk	stroke	stroke	of the other type of	
+V-1179	breast cancer	breast cancer	risk	risk	—and increases our	
+V-1179	alcohol	alcohol	health	health	consumption—	
+V-1179	pregnancy	pregnancy	alcohol	alcohol	is bad.but the reason moderate	
+V-1179	health	health	potatoes	potatoes	freaks or couch	
+V-1179	fruits	fruits	vegetables	vegetables	and	
+V-1179	alcohol	alcohol	lifespan	lifespan	consumption do for their overall	
+V-1179	cancer	cancer	stroke	stroke	—and increases our risk of one type of	

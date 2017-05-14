@@ -1,0 +1,11 @@
+
+V-1092	apple	apple	wine	wine	juice, beer, carrot juice, coffee, red	
+V-1092	juice	juice	carrots	carrots	has no benzene; nor do	
+V-1092	juice	juice	benzene	benzene	has no	
+V-1092	apple	apple	juice	juice		
+V-1092	apple	apple	beer	beer	juice,	
+V-1092	apple	apple	coffee	coffee	juice, beer, carrot juice,	
+V-1092	apple	apple	red wine	red wine	juice, beer, carrot juice, coffee,	
+V-1092	juice	juice	benzene	benzene	that are turned to	
+V-1092	soft drinks	soft drinks	benzene	benzene	have	
+V-1092	beverage	beverage	benzene	benzene	was found to have	

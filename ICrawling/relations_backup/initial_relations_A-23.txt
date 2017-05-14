@@ -1,0 +1,75 @@
+
+A-23	diet	diet	plant-based	plant-based	is mainly	
+A-23	diet	diet	meat	meat	differed from that of the general population—they ate	
+A-23	risk	risk	cancer	cancer	of heart disease,	
+A-23	restaurants	restaurants	mediterranean diet	mediterranean diet	brag about the healthy	
+A-23	cheese	cheese	plant foods	plant foods	at the expense of	
+A-23	magnesium	magnesium	cardiac death	cardiac death	is found in how do nuts prevent sudden	
+A-23	disease	disease	ancel keys	ancel keys	in the region, nutrition scientist	
+A-23	pizza	pizza	restaurants	restaurants	or spaghetti with meat sauce, but while “italian	
+A-23	nutrition	nutrition	ancel keys	ancel keys	scientist	
+A-23	produce	produce	vegetarian	vegetarian	the well-established health benefits of	
+A-23	risk	risk	stroke	stroke	of developing type 2 diabetes; a reduced risk for	
+A-23	plant-based	plant-based	iron	iron		
+A-23	diet	diet	vegetarian	vegetarian	can be considered to be a “near	
+A-23	mediterranean diet	mediterranean diet	plant-based	plant-based	is mainly	
+A-23	risk	risk	iron	iron	of diabetes, whereas plant-based, non-heme	
+A-23	magnesium	magnesium	nuts	nuts	is found in how do	
+A-23	diet	diet	risk	risk	: for more information on heme iron, see 	
+A-23	risk	risk	plant-based	plant-based	of diabetes, whereas	
+A-23	meat	meat	dairy	dairy	and	
+A-23	variety	variety	mediterranean diet	mediterranean diet	of	
+A-23	phytonutrients	phytonutrients	plant foods	plant foods	in	
+A-23	mediterranean diet	mediterranean diet	iron	iron	: for more information on heme	
+A-23	standard american diet	standard american diet	plant foods	plant foods	—no question—but any diet rich in whole	
+A-23	mediterranean diet	mediterranean diet	diet	diet	is protective compared to the standard american	
+A-23	magnesium	magnesium	risk	risk	consumption is also associated with a significantly lower	
+A-23	plant-based	plant-based	aspirin	aspirin	diets have more plant-based compounds, like	
+A-23	risk	risk	disease	disease	of coronary heart	
+A-23	disease	disease	nutrition	nutrition	in the region,	
+A-23	meat	meat	dairy	dairy	or	
+A-23	produce	produce	health	health	the well-established	
+A-23	meat	meat	cheese	cheese	and	
+A-23	mediterranean diet	mediterranean diet	vegetarian	vegetarian	can be considered to be a “near	
+A-23	mediterranean diet	mediterranean diet	risk	risk	: for more information on heme iron, see 	
+A-23	plant-based diets	plant-based diets	aspirin	aspirin	have more plant-based compounds, like	
+A-23	mediterranean diet	mediterranean diet	dairy	dairy	is mainly plant-based, and low in meat and	
+A-23	vegetarian	vegetarian	diet	diet	”	
+A-23	risk	risk	leafy vegetables	leafy vegetables	of dying, and is found in dark green	
+A-23	nuts	nuts	cardiac death	cardiac death	prevent sudden	
+A-23	risk	risk	heme iron	heme iron	of diabetes, whereas plant-based, non-	
+A-23	nuts	nuts	death	death	prevent sudden cardiac	
+A-23	mediterranean diet	mediterranean diet	meat	meat	is mainly plant-based, and low in	
+A-23	pizza	pizza	meat	meat	or spaghetti with	
+A-23	mediterranean diet	mediterranean diet	diet	diet	can be considered to be a “near vegetarian”	
+A-23	health	health	vegetarian	vegetarian	benefits of	
+A-23	risk	risk	heart disease	heart disease	of	
+A-23	restaurants	restaurants	diet	diet	brag about the healthy mediterranean	
+A-23	diet	diet	heme iron	heme iron	: for more information on	
+A-23	plant foods	plant foods	risk	risk	are associated with a significantly lower	
+A-23	diet	diet	dairy	dairy	is mainly plant-based, and low in meat and	
+A-23	variety	variety	diet	diet	of mediterranean	
+A-23	meat	meat	plant foods	plant foods	and cheese at the expense of	
+A-23	risk	risk	iron supplements	iron supplements	associated with	
+A-23	risk	risk	coronary heart disease	coronary heart disease	of	
+A-23	risk	risk	iron	iron	associated with	
+A-23	nuts	nuts	sudden cardiac death	sudden cardiac death	prevent	
+A-23	heart disease	heart disease	nutrition	nutrition	in the region,	
+A-23	standard american diet	standard american diet	diet	diet	—no question—but any	
+A-23	diet	diet	standard american diet	standard american diet	is protective compared to the	
+A-23	diet	diet	iron	iron	: for more information on heme	
+A-23	risk	risk	disease	disease	of heart	
+A-23	mediterranean diet	mediterranean diet	standard american diet	standard american diet	is protective compared to the	
+A-23	risk	risk	diabetes	diabetes	of developing type 2	
+A-23	plant-based diets	plant-based diets	plant-based	plant-based	have more	
+A-23	heart disease	heart disease	ancel keys	ancel keys	in the region, nutrition scientist	
+A-23	meat	meat	restaurants	restaurants	sauce, but while “italian	
+A-23	mediterranean diet	mediterranean diet	heme iron	heme iron	: for more information on	
+A-23	diet	diet	meat	meat	is mainly plant-based, and low in	
+A-23	risk	risk	death	death	of heart disease, cancer, and	
+A-23	magnesium	magnesium	sudden cardiac death	sudden cardiac death	is found in how do nuts prevent	
+A-23	risk	risk	diabetes	diabetes	of	
+A-23	iron	iron	risk	risk	was found to significantly increase the	
+A-23	iron	iron	coronary heart disease	coronary heart disease	was found to significantly increase the risk of	
+A-23	risk	risk	heart disease	heart disease	of coronary	
+A-23	risk	risk	supplements	supplements	associated with iron	

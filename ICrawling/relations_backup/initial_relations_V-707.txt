@@ -1,0 +1,14 @@
+
+V-707	bpa	bpa	disease	disease	is associated with cardiovascular	
+V-707	urine	urine	bpa	bpa		
+V-707	bpa	bpa	cans	cans	—a plastics chemical “used for lining metal	
+V-707	green beans	green beans	tuna	tuna	to sardines,	
+V-707	cans	cans	plastic	plastic	and	
+V-707	public health	public health	bpa	bpa	implications given the widespread human exposure to	
+V-707	beans	beans	tuna	tuna	to sardines,	
+V-707	bpa	bpa	sexual dysfunction	sexual dysfunction	is associated with cardiovascular disease, diabetes, and male	
+V-707	bpa	bpa	cardiovascular disease	cardiovascular disease	is associated with	
+V-707	beans	beans	sardines	sardines	to	
+V-707	health	health	bpa	bpa	implications given the widespread human exposure to	
+V-707	bpa	bpa	diabetes	diabetes	is associated with cardiovascular disease,	
+V-707	green beans	green beans	sardines	sardines	to	

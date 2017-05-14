@@ -1,0 +1,9 @@
+
+V-919	kidney	kidney	disease	disease		
+V-919	kidney	kidney	osteoporosis	osteoporosis	disease,	
+V-919	arteries	arteries	hypertension	hypertension	and heart,	
+V-919	arteries	arteries	atherosclerosis	atherosclerosis	and heart, hypertension,	
+V-919	aging	aging	toxins	toxins		
+V-919	cataracts	cataracts	macular degeneration	macular degeneration	and	
+V-919	arteries	arteries	stroke	stroke	and heart, hypertension, atherosclerosis, heart failure, and	
+V-919	arteries	arteries	heart failure	heart failure	and heart, hypertension, atherosclerosis,	

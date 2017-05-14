@@ -1,0 +1,10 @@
+
+V-1182	soy	soy	turmeric	turmeric	and	
+V-1182	soy	soy	fat	fat	and turmeric can suppress human	
+V-1182	fat	fat	tofu	tofu	cells, not all vegetarians eat curried	
+V-1182	turmeric	turmeric	fat	fat	can suppress human	
+V-1182	vegetarian	vegetarian	diet	diet		
+V-1182	turmeric	turmeric	vegetarians	vegetarians	can suppress human fat cells, not all	
+V-1182	fat	fat	vegetarians	vegetarians	cells, not all	
+V-1182	carnitine	carnitine	fat	fat	palmitoyltransferase—cpt here—shovels the	
+V-1182	vegetarians	vegetarians	tofu	tofu	eat curried	

@@ -1,0 +1,17 @@
+
+V-882	meat	meat	fruits	fruits	restriction, and eating more	
+V-882	babies	babies	breast milk	breast milk	anything but	
+V-882	pediatrics	pediatrics	vegetables	vegetables	recommends we not feed	
+V-882	beets	beets	oxalates	oxalates	do have a lot of	
+V-882	pediatrics	pediatrics	infants	infants	recommends we not feed vegetables to	
+V-882	american academy of pediatrics	american academy of pediatrics	infants	infants	recommends we not feed vegetables to	
+V-882	american academy of pediatrics	american academy of pediatrics	vegetables	vegetables	recommends we not feed	
+V-882	urine	urine	beeturia	beeturia	) and red stools.that’s actually the real name:	
+V-882	babies	babies	milk	milk	anything but breast	
+V-882	vegetables	vegetables	infants	infants	to	
+V-882	beeturia	beeturia	urine	urine	(red	
+V-882	infants	infants	babies	babies	under three months of age—but we shouldn’t be feeding	
+V-882	meat	meat	vegetables	vegetables	restriction, and eating more fruits and	
+V-882	fruits	fruits	vegetables	vegetables	and	
+V-882	kidney	kidney	meat	meat	stone formation involves	
+V-882	kidney	kidney	fruits	fruits	stone formation involves meat restriction, and eating more	

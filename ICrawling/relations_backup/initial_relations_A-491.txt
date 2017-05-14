@@ -1,0 +1,51 @@
+
+A-491	eggs	eggs	bread	bread	they wanted, white	
+A-491	glucose	glucose	fat	fat	[sugar] and lipid [	
+A-491	meat	meat	iceberg lettuce	iceberg lettuce	that can beat out	
+A-491	heart disease	heart disease	risk	risk		
+A-491	disease	disease	risk	risk		
+A-491	plant-based	plant-based	diet	diet		
+A-491	herbs	herbs	spices	spices	and	
+A-491	sugar	sugar	antioxidant	antioxidant	] and lipid [fat] homeostasis [control] while enhancing	
+A-491	sugar	sugar	fat	fat	] and lipid [	
+A-491	iceberg lettuce	iceberg lettuce	cucumbers	cucumbers	and	
+A-491	spices	spices	diet	diet	into the daily	
+A-491	eggs	eggs	pasta	pasta	they wanted, white bread and	
+A-491	diet	diet	antioxidants	antioxidants	especially low in	
+A-491	antioxidant content	antioxidant content	candy	candy	of a	
+A-491	meat	meat	lettuce	lettuce	that can beat out iceberg	
+A-491	herbs	herbs	ginger	ginger	and spices such as cinnamon, cloves,	
+A-491	blood	blood	triglyceride levels	triglyceride levels	)–30% lower	
+A-491	spices	spices	cinnamon	cinnamon	such as	
+A-491	eggs	eggs	cola	cola	or coca	
+A-491	spices	spices	ginger	ginger	such as cinnamon, cloves,	
+A-491	vegetables	vegetables	iceberg lettuce	iceberg lettuce	that were allowed in unlimited quantities were	
+A-491	antioxidants	antioxidants	coca cola	coca cola	: eggs or	
+A-491	kingdom	kingdom	antioxidant	antioxidant	–pale in comparison to the	
+A-491	fat	fat	blood	blood	levels in the	
+A-491	pasta	pasta	whole grain	whole grain	too, as long as it was “not	
+A-491	vegetables	vegetables	lettuce	lettuce	that were allowed in unlimited quantities were iceberg	
+A-491	herbs	herbs	oregano	oregano	and spices such as cinnamon, cloves, ginger, and	
+A-491	diet	diet	sugar	sugar	may help normalize postprandial disturbances in glucose [	
+A-491	cancer	cancer	risk	risk		
+A-491	glucose	glucose	antioxidant	antioxidant	[sugar] and lipid [fat] homeostasis [control] while enhancing	
+A-491	greens	greens	risk	risk	to reduce cancer	
+A-491	herbs	herbs	cloves	cloves	and spices such as cinnamon,	
+A-491	herbs	herbs	cinnamon	cinnamon	and spices such as	
+A-491	antioxidant	antioxidant	candy	candy	content of a	
+A-491	antioxidant	antioxidant	metabolism	metabolism	status and	
+A-491	greens	greens	cancer	cancer	to reduce	
+A-491	eggs	eggs	coca cola	coca cola	or	
+A-491	eggs	eggs	white bread	white bread	they wanted,	
+A-491	antioxidants	antioxidants	cola	cola	: eggs or coca	
+A-491	spices	spices	oregano	oregano	such as cinnamon, cloves, ginger, and	
+A-491	bread	bread	pasta	pasta	and	
+A-491	white bread	white bread	pasta	pasta	and	
+A-491	lettuce	lettuce	cucumbers	cucumbers	and	
+A-491	diet	diet	glucose	glucose	may help normalize postprandial disturbances in	
+A-491	lettuce	lettuce	animal foods	animal foods	against the best	
+A-491	spices	spices	cloves	cloves	such as cinnamon,	
+A-491	iceberg lettuce	iceberg lettuce	animal foods	animal foods	against the best	
+A-491	fat	fat	antioxidant	antioxidant	] homeostasis [control] while enhancing	
+A-491	kingdom	kingdom	antioxidant content	antioxidant content	–pale in comparison to the	
+A-491	fat	fat	triglyceride levels	triglyceride levels	levels in the blood)–30% lower	

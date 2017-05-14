@@ -1,0 +1,9 @@
+
+T-660	cooking	cooking	vegetables	vegetables	water generally decrease the health-promoting effects of	
+T-660	water	water	vegetables	vegetables	generally decrease the health-promoting effects of	
+T-660	boiling	boiling	cooking	cooking	methods that discard the	
+T-660	bile	bile	bile acids	bile acids	acids, which helps remove	
+T-660	bioavailability	bioavailability	boiling	boiling	of their health-promoting components; deep-frying and	
+T-660	preparation	preparation	bioavailability	bioavailability	method may dramatically change the	
+T-660	boiling	boiling	water	water	methods that discard the cooking	
+T-660	cooking	cooking	water	water		

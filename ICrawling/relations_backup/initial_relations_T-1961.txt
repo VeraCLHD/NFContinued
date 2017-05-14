@@ -1,0 +1,72 @@
+
+T-1961	diet	diet	flavonoids	flavonoids	rich in	
+T-1961	fat	fat	breast cancer	breast cancer	loss while protecting against	
+T-1961	diet	diet	green tea	green tea	and drinking	
+T-1961	exercise	exercise	diet	diet	may be less important than	
+T-1961	atkins diet	atkins diet	mortality	mortality	is associated with greater	
+T-1961	low carb	low carb	diet	diet		
+T-1961	vegetarians	vegetarians	united states	united states	are, on average, overweight in the	
+T-1961	plant-based	plant-based	diet	diet		
+T-1961	risk	risk	plant-based diets	plant-based diets	of being overweight, obesity and obesity-related diseases.conversely,	
+T-1961	energy	energy	satiety	satiety	expenditure, lowering energy gain, up-regulating metabolism, improving	
+T-1961	diet	diet	arginine	arginine	rich in flavonoids and	
+T-1961	weight loss	weight loss	energy expenditure	energy expenditure	and maintain desired weight by increasing resting	
+T-1961	atkins	atkins	mortality	mortality	diet is associated with greater	
+T-1961	obesity	obesity	plant-based	plant-based	and obesity-related diseases.conversely,	
+T-1961	soy foods	soy foods	abdominal fat	abdominal fat	may help double weight loss and promote	
+T-1961	exercise	exercise	obesity	obesity	may be less important than diet in reducing	
+T-1961	gut	gut	diet	diet	microflora established and maintained by a plant	
+T-1961	weight loss	weight loss	energy	energy	and maintain desired weight by increasing resting	
+T-1961	weight loss	weight loss	abdominal fat	abdominal fat	and promote	
+T-1961	dates	dates	diet	diet	to your	
+T-1961	abdominal fat	abdominal fat	cancer	cancer	loss while protecting against breast	
+T-1961	obesity	obesity	insulin	insulin	metabolically contributes to	
+T-1961	diet	diet	aging	aging	in reducing obesity or slowing cellular	
+T-1961	diet	diet	mortality	mortality	is associated with greater	
+T-1961	flavonoids	flavonoids	fat	fat	and arginine promote	
+T-1961	atkins	atkins	diet	diet		
+T-1961	arginine	arginine	fat	fat	promote	
+T-1961	fat	fat	cancer	cancer	loss while protecting against breast	
+T-1961	oatmeal	oatmeal	beans	beans	and	
+T-1961	body mass index	body mass index	obesity	obesity	for the general u.s. population is approaching	
+T-1961	abdominal fat	abdominal fat	breast cancer	breast cancer	loss while protecting against	
+T-1961	nuts	nuts	diet	diet	and dates to your	
+T-1961	obesity	obesity	weight gain	weight gain	and obesity-related diseases.conversely, plant-based diets may help prevent	
+T-1961	protein	protein	low carb	low carb	with plant sources does improve survival in plant-based,	
+T-1961	fat	fat	protein	protein	and	
+T-1961	weight loss	weight loss	breast cancer	breast cancer	and promote abdominal fat loss while protecting against	
+T-1961	nuts	nuts	green tea	green tea	and dates to your diet and drinking	
+T-1961	dates	dates	tea	tea	to your diet and drinking green	
+T-1961	flavonoids	flavonoids	arginine	arginine	and	
+T-1961	plant-based	plant-based	weight loss	weight loss	diets may help prevent weight gain, promote	
+T-1961	plant-based	plant-based	weight gain	weight gain	diets may help prevent	
+T-1961	obesity	obesity	insulin resistance	insulin resistance	metabolically contributes to	
+T-1961	children	children	surgery	surgery	as young as five are now getting bariatric	
+T-1961	risk	risk	obesity	obesity	of being overweight,	
+T-1961	nuts	nuts	dates	dates	and	
+T-1961	obesity	obesity	aging	aging	or slowing cellular	
+T-1961	weight loss	weight loss	fat	fat	and promote abdominal	
+T-1961	diet	diet	fat	fat	rich in flavonoids and arginine promote	
+T-1961	energy	energy	metabolism	metabolism	expenditure, lowering energy gain, up-regulating	
+T-1961	plant-based diets	plant-based diets	weight loss	weight loss	may help prevent weight gain, promote	
+T-1961	soy	soy	abdominal fat	abdominal fat	foods may help double weight loss and promote	
+T-1961	cancer	cancer	plant-based diet	plant-based diet	as well as a healthy	
+T-1961	cancer	cancer	diet	diet	as well as a healthy plant-based	
+T-1961	diet	diet	tea	tea	and drinking green	
+T-1961	fat	fat	adiponectin	adiponectin	cells from taking up fat and improving plasma	
+T-1961	dates	dates	green tea	green tea	to your diet and drinking	
+T-1961	mortality	mortality	fat	fat	from all causes, although replacing its animal	
+T-1961	risk	risk	plant-based	plant-based	of being overweight, obesity and obesity-related diseases.conversely,	
+T-1961	soy foods	soy foods	fat	fat	may help double weight loss and promote abdominal	
+T-1961	diet	diet	obesity	obesity	in reducing	
+T-1961	animal fat	animal fat	protein	protein	and	
+T-1961	mortality	mortality	animal fat	animal fat	from all causes, although replacing its	
+T-1961	soy	soy	weight loss	weight loss	foods may help double	
+T-1961	cancer	cancer	plant-based	plant-based	as well as a healthy	
+T-1961	protein	protein	plant-based	plant-based	with plant sources does improve survival in	
+T-1961	insulin resistance	insulin resistance	blood	blood	because of free fatty acid spillover into the	
+T-1961	obesity	obesity	plant-based diets	plant-based diets	and obesity-related diseases.conversely,	
+T-1961	plant-based diets	plant-based diets	weight gain	weight gain	may help prevent	
+T-1961	nuts	nuts	tea	tea	and dates to your diet and drinking green	
+T-1961	meat	meat	risk	risk	has been found to increase the	
+T-1961	soy foods	soy foods	weight loss	weight loss	may help double	

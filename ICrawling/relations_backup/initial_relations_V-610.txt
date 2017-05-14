@@ -1,0 +1,160 @@
+
+V-610	prostate	prostate	disease	disease	cancer to lethal	
+V-610	tmao	tmao	inflammation	inflammation	from the “high dietary choline [intake] may increase	
+V-610	choline	choline	meat	meat	.maybe that’s why	
+V-610	death	death	surgery	surgery	—and, if that isn’t enough, cardiac	
+V-610	tmao	tmao	bacteria	bacteria	was produced.apparently, the vegans don’t develop those tmao-producing	
+V-610	cleveland clinic	cleveland clinic	meat	meat	offered a novel explanation as to why	
+V-610	cancer	cancer	choline	choline	cells, if you follow	
+V-610	risk	risk	cancer	cancer	of heart disease and, perhaps,	
+V-610	antibiotics	antibiotics	gut	gut	to wipe out	
+V-610	eggs	eggs	prostate cancer	prostate cancer	and	
+V-610	disease	disease	risk	risk		
+V-610	vegans	vegans	tmao	tmao	don’t develop those	
+V-610	carnitine	carnitine	gut	gut	consumption—eating a sirloin steak, taking a carnitine supplement—certain	
+V-610	carnitine	carnitine	red meat	red meat	is concentrated in	
+V-610	choline	choline	cancer	cancer	increase the risk of lethal prostate	
+V-610	prostate	prostate	cancer	cancer		
+V-610	risk	risk	prostate cancer	prostate cancer	” of getting	
+V-610	choline	choline	cancer	cancer	consumption is associated not just with getting	
+V-610	tmao	tmao	heart attacks	heart attacks	levels in the blood and strokes,	
+V-610	bacteria	bacteria	carnitine	carnitine	metabolize the	
+V-610	eggs	eggs	risk	risk	that’s increasing fatal cancer	
+V-610	energy	energy	lecithin	lecithin	drinks, or take carnitine supplements, or	
+V-610	cholesterol	cholesterol	choline	choline	is, because of the	
+V-610	risk	risk	inflammatory cells	inflammatory cells	of buildup of cholesterol in the	
+V-610	antibiotics	antibiotics	bacteria	bacteria	to wipe out gut	
+V-610	tmao	tmao	vegans	vegans	was produced.apparently, the	
+V-610	carnitine	carnitine	steak	steak	consumption—eating a sirloin	
+V-610	steak	steak	tmao	tmao	you want without making any	
+V-610	lecithin	lecithin	supplements	supplements		
+V-610	choline	choline	risk	risk	intake and [the]	
+V-610	eggs	eggs	cholesterol	cholesterol	may increase our risk regardless what our	
+V-610	dietary cholesterol	dietary cholesterol	saturated fat	saturated fat	and	
+V-610	vegans	vegans	beans	beans	be worried about the choline they’re getting from	
+V-610	risk	risk	disease	disease	[heart	
+V-610	gut	gut	tmao	tmao	for those bacteria to feast upon—resulting in	
+V-610	carnitine	carnitine	fruits	fruits	found in	
+V-610	cancer	cancer	choline	choline	throughout your body.but why may dietary	
+V-610	choline	choline	inflammation	inflammation	[intake] may increase	
+V-610	vegans	vegans	choline	choline	be worried about the	
+V-610	carnitine	carnitine	meat	meat	is concentrated in red	
+V-610	prostate cancer	prostate cancer	disease	disease	to lethal	
+V-610	vegan	vegan	omnivores	omnivores	and vegetarian individuals compared to	
+V-610	gut bacteria	gut bacteria	choline	choline	can turn	
+V-610	bacteria	bacteria	heart disease	heart disease	in your gut, and increase your risk of	
+V-610	bacteria	bacteria	gut	gut	in their	
+V-610	eggs	eggs	cancer progression	cancer progression	and prostate	
+V-610	cancer	cancer	disease	disease	to lethal	
+V-610	eggs	eggs	cancer	cancer	and prostate	
+V-610	cholesterol	cholesterol	cancer	cancer	in eggs that’s increasing fatal	
+V-610	risk	risk	prostate cancer	prostate cancer	of lethal 	
+V-610	tmao	tmao	blood	blood	levels in the	
+V-610	gut	gut	carnitine	carnitine	bacteria metabolize the	
+V-610	liver	liver	tmao	tmao	to	
+V-610	cholesterol	cholesterol	eggs	eggs	in	
+V-610	risk	risk	heart disease	heart disease	of	
+V-610	eggs	eggs	prostate	prostate	and	
+V-610	risk	risk	cancer	cancer	of prostate	
+V-610	risk	risk	cholesterol	cholesterol	regardless what our	
+V-610	choline	choline	eggs	eggs	.maybe that’s why meat, milk, and	
+V-610	eggs	eggs	risk	risk	may increase our	
+V-610	cholesterol	cholesterol	saturated fat	saturated fat	and	
+V-610	bacteria	bacteria	risk	risk	in your gut, and increase your	
+V-610	choline	choline	cancer	cancer	is so concentrated in	
+V-610	bacteria	bacteria	tmao	tmao	to feast upon—resulting in	
+V-610	risk	risk	prostate	prostate	” of getting	
+V-610	risk	risk	cancer	cancer	of lethal prostate	
+V-610	risk	risk	choline	choline	regardless what our cholesterol is, because of the	
+V-610	cancer	cancer	choline	choline	risk, but it could also be that 	
+V-610	carnitine	carnitine	grains	grains	found in fruits, veggies, and	
+V-610	eggs	eggs	cancer	cancer	have all been associated with advanced prostate	
+V-610	prostate	prostate	choline	choline	cancer, because of the	
+V-610	risk	risk	prostate	prostate	of lethal 	
+V-610	egg	egg	risk	risk	a day had “a significant 2-fold increased	
+V-610	risk	risk	prostate	prostate	of lethal	
+V-610	risk	risk	cancer progression	cancer progression	of prostate	
+V-610	cleveland clinic	cleveland clinic	carnitine	carnitine	research team that did the	
+V-610	cholesterol	cholesterol	fat	fat	and saturated	
+V-610	choline	choline	risk	risk	in eggs may both increase one’s	
+V-610	gut	gut	bacteria	bacteria		
+V-610	carnitine	carnitine	tmao	tmao	load, but, essentially no	
+V-610	risk	risk	cancer	cancer	of lethal prostate	
+V-610	egg	egg	choline	choline	consumption is a determinant of how much	
+V-610	risk	risk	cholesterol	cholesterol	of buildup of	
+V-610	risk	risk	prostate cancer	prostate cancer	of lethal	
+V-610	dietary cholesterol	dietary cholesterol	fat	fat	and saturated	
+V-610	liver	liver	trimethylamine	trimethylamine	to tmao (	
+V-610	carnitine	carnitine	tmao	tmao	itself we’re worried about, but the toxic	
+V-610	eggs	eggs	egg	egg	per week—that’s just like one	
+V-610	carnitine	carnitine	gut bacteria	gut bacteria	consumption—eating a sirloin steak, taking a carnitine supplement—certain	
+V-610	carnitine	carnitine	bacteria	bacteria	can end up in our gut for those	
+V-610	gut	gut	bacteria	bacteria	for those	
+V-610	choline	choline	tmao	tmao	into	
+V-610	eggs	eggs	risk	risk	may both increase one’s	
+V-610	carnitine	carnitine	energy	energy	-containing	
+V-610	choline	choline	blood	blood	you have in your	
+V-610	prostate	prostate	choline	choline	cancer progression is high dietary	
+V-610	antibiotics	antibiotics	gut bacteria	gut bacteria	to wipe out	
+V-610	carnitine	carnitine	choline	choline	and	
+V-610	choline	choline	milk	milk	.maybe that’s why meat,	
+V-610	bacteria	bacteria	tmao	tmao	can turn choline into	
+V-610	vegan	vegan	steak	steak	a	
+V-610	cancer progression	cancer progression	choline	choline	is high dietary	
+V-610	prostate	prostate	cancer progression	cancer progression		
+V-610	prostate cancer	prostate cancer	choline	choline	progression is high dietary	
+V-610	risk	risk	prostate	prostate	of	
+V-610	choline	choline	eggs	eggs	in	
+V-610	cholesterol	cholesterol	inflammatory cells	inflammatory cells	in the	
+V-610	harvard	harvard	tmao	tmao	researchers speculated that the	
+V-610	risk	risk	vegetarian	vegetarian	[heart disease, our #1 killer] in vegan and	
+V-610	disease	disease	vegan	vegan	risk [heart disease, our #1 killer] in	
+V-610	vegans	vegans	gut	gut	don’t develop those tmao-producing bacteria in their	
+V-610	disease	disease	cancer	cancer	and, perhaps,	
+V-610	eggs	eggs	choline	choline	and prostate cancer progression is high dietary	
+V-610	vegetarian	vegetarian	omnivores	omnivores	individuals compared to	
+V-610	egg	egg	risk	risk	every three days—”had an 81% increased	
+V-610	meat	meat	mortality	mortality	intake may be related to	
+V-610	cholesterol	cholesterol	risk	risk	in eggs that’s increasing fatal cancer	
+V-610	vegan	vegan	vegetarian	vegetarian	and	
+V-610	energy	energy	carnitine	carnitine	drinks, or take	
+V-610	gut bacteria	gut bacteria	trimethylamine	trimethylamine	metabolize the carnitine to a toxic substance called	
+V-610	england	england	cleveland clinic	cleveland clinic	journal of medicine, that same	
+V-610	carnitine	carnitine	vegans	vegans	load, but, essentially no tmao was produced.apparently, the	
+V-610	prostate	prostate	prostate cancer	prostate cancer	cancer, but that’s better than dying from	
+V-610	bacteria	bacteria	gut	gut	in your	
+V-610	heart disease	heart disease	cancer	cancer	and, perhaps,	
+V-610	cancer	cancer	risk	risk		
+V-610	vegans	vegans	bacteria	bacteria	don’t develop those tmao-producing	
+V-610	gut bacteria	gut bacteria	carnitine	carnitine	metabolize the	
+V-610	cancer	cancer	choline	choline	progression is high dietary	
+V-610	risk	risk	cancer	cancer	” of getting prostate	
+V-610	choline	choline	cancer cells	cancer cells	is so concentrated in	
+V-610	disease	disease	heart disease	heart disease	risk [	
+V-610	cancer	cancer	meat	meat	risk, but it could also be that choline.maybe that’s why	
+V-610	fiber	fiber	propionate	propionate	are beneficial, like the	
+V-610	gut bacteria	gut bacteria	tmao	tmao	can turn choline into	
+V-610	risk	risk	prostate cancer	prostate cancer	of	
+V-610	carnitine	carnitine	gut	gut	can end up in our	
+V-610	carnitine	carnitine	supplements	supplements	-containing energy drinks, or take carnitine	
+V-610	gut	gut	tmao	tmao	bacteria can turn choline into	
+V-610	blood	blood	heart attacks	heart attacks	and strokes,	
+V-610	eggs	eggs	cancer	cancer	that’s increasing fatal	
+V-610	liver	liver	trimethylamine-n-oxide	trimethylamine-n-oxide	to tmao (	
+V-610	risk	risk	disease	disease	of heart	
+V-610	inflammatory cells	inflammatory cells	arteries	arteries	in the atherosclerotic plaques in our	
+V-610	bacteria	bacteria	trimethylamine	trimethylamine	metabolize the carnitine to a toxic substance called	
+V-610	bacteria	bacteria	choline	choline	can turn	
+V-610	carnitine	carnitine	lecithin	lecithin	-containing energy drinks, or take carnitine supplements, or	
+V-610	blood	blood	death	death	and strokes, heart attacks, and	
+V-610	choline	choline	cancer	cancer	intake and [the] risk of lethal prostate	
+V-610	lecithin	lecithin	choline	choline	supplements, which contain	
+V-610	gut	gut	choline	choline	bacteria can turn	
+V-610	energy	energy	supplements	supplements	drinks, or take carnitine	
+V-610	carnitine	carnitine	energy drinks	energy drinks	-containing	
+V-610	choline	choline	prostate cancer	prostate cancer	intake and [the] risk of lethal	
+V-610	tmao	tmao	choline	choline	from the “high dietary	
+V-610	england	england	medicine	medicine	journal of	
+V-610	risk	risk	vegan	vegan	[heart disease, our #1 killer] in	
+V-610	diet	diet	cancer	cancer	associated with a resurgence of the	
+V-610	choline	choline	prostate	prostate	intake and [the] risk of lethal	

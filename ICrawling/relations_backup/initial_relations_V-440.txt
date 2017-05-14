@@ -1,0 +1,42 @@
+
+V-440	chronic diseases	chronic diseases	smoking	smoking	: not	
+V-440	physical activity	physical activity	death	death	can substantially reduce their risk for early	
+V-440	cancer	cancer	coronary heart disease	coronary heart disease	are avoidable, over 80% of	
+V-440	prevention	prevention	smoking	smoking	of chronic diseases: not	
+V-440	colon	colon	heart disease	heart disease	cancer are avoidable, over 80% of coronary	
+V-440	risk	risk	disease	disease	of developing a chronic	
+V-440	heart attack	heart attack	risk	risk		
+V-440	stroke	stroke	cancer	cancer	risk, a third of	
+V-440	cdc	cdc	americans	americans	followed about 8,000	
+V-440	prevention	prevention	disease	disease	of	
+V-440	cancer	cancer	risk	risk		
+V-440	heart attack	heart attack	diabetes	diabetes	or stroke, a million get	
+V-440	colon	colon	coronary heart disease	coronary heart disease	cancer are avoidable, over 80% of	
+V-440	heart attack	heart attack	stroke	stroke	or	
+V-440	cancer	cancer	heart disease	heart disease	are avoidable, over 80% of coronary	
+V-440	americans	americans	heart attack	heart attack	experience their first	
+V-440	mortality	mortality	risk	risk		
+V-440	risk	risk	chronic disease	chronic disease	of developing a	
+V-440	prevention	prevention	chronic diseases	chronic diseases	of	
+V-440	colon	colon	cancer	cancer		
+V-440	risk	risk	disease	disease	countries, their	
+V-440	cancer	cancer	disease	disease	are avoidable, over 80% of coronary heart	
+V-440	colon cancer	colon cancer	coronary heart disease	coronary heart disease	are avoidable, over 80% of	
+V-440	stroke	stroke	risk	risk		
+V-440	vitamin c	vitamin c	blood	blood	in people’s	
+V-440	plants	plants	risk	risk	people were eating, and the drop in mortality	
+V-440	diabetes	diabetes	heart attack	heart attack	risk out the window, 80% of	
+V-440	risk	risk	heart attack	heart attack	out the window, 80% of	
+V-440	plants	plants	mortality	mortality	people were eating, and the drop in	
+V-440	diabetes	diabetes	risk	risk		
+V-440	united states	united states	death	death	… and the leading causes of	
+V-440	risk	risk	death	death	for early	
+V-440	diet	diet	prevention	prevention	and in the cause and	
+V-440	exercise	exercise	fruits	fruits	a day, and eating healthier—like more	
+V-440	colon cancer	colon cancer	disease	disease	are avoidable, over 80% of coronary heart	
+V-440	americans	americans	stroke	stroke	experience their first heart attack or	
+V-440	colon	colon	disease	disease	cancer are avoidable, over 80% of coronary heart	
+V-440	exercise	exercise	whole grains	whole grains	a day, and eating healthier—like more fruits, veggies,	
+V-440	diet	diet	disease	disease	and in the cause and prevention of	
+V-440	physical activity	physical activity	risk	risk	can substantially reduce their	
+V-440	colon cancer	colon cancer	heart disease	heart disease	are avoidable, over 80% of coronary	

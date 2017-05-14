@@ -1,0 +1,48 @@
+
+V-106	breast cancer	breast cancer	women	women	cells within 21 days.obese	
+V-106	cancer cells	cancer cells	cancer growth	cancer growth	in a petri dish, you can double the	
+V-106	cancer	cancer	breast cancer	breast cancer	patients than to normal weight	
+V-106	risk	risk	cancer	cancer	of developing zeranol-induced breast	
+V-106	pregnant	pregnant	pregnant women	pregnant women	women—all	
+V-106	cancer cells	cancer cells	cancer	cancer	in a petri dish, you can double the	
+V-106	des	des	estrogen	estrogen	is another synthetic	
+V-106	estrogen	estrogen	pregnant	pregnant	marketed to	
+V-106	meat	meat	meat industry	meat industry	.in the absence of effective federal regulation, the	
+V-106	growth promoters	growth promoters	meat	meat	in	
+V-106	pregnant	pregnant	women	women		
+V-106	meat industry	meat industry	feed additives	feed additives	uses hundreds of animal	
+V-106	meat	meat	drugs	drugs	from animals injected with	
+V-106	poultry	poultry	veal	veal	or	
+V-106	estrogen	estrogen	women	women	marketed to pregnant	
+V-106	europe	europe	growth promoters	growth promoters	banned the use of anabolic	
+V-106	fat	fat	cancer	cancer	cells, that can itself promote breast	
+V-106	cancer	cancer	cancer	cancer	patients than to normal weight breast	
+V-106	des	des	meat	meat	in the	
+V-106	pregnant women	pregnant women	pregnant	pregnant	—all	
+V-106	europe	europe	agriculture	agriculture	banned the use of anabolic growth promoters in	
+V-106	fat	fat	cancer growth	cancer growth	cells, that can itself promote breast	
+V-106	women	women	pregnant women	pregnant women	—all	
+V-106	cancer cells	cancer cells	risk	risk	within 21 days.obese women may be at greater	
+V-106	breast cancer	breast cancer	cancer	cancer	patients than to normal weight breast	
+V-106	meat	meat	hormones	hormones	production are, by far, the most potent	
+V-106	fat	fat	breast cancer	breast cancer	cells, that can itself promote	
+V-106	cancer cells	cancer cells	women	women	within 21 days.obese	
+V-106	estrogen	estrogen	pregnant women	pregnant women	marketed to	
+V-106	women	women	risk	risk	may be at greater	
+V-106	meat	meat	cancer	cancer	extracts, also stimulated breast	
+V-106	women	women	des	des	and	
+V-106	women	women	pregnant	pregnant	—all	
+V-106	farm animals	farm animals	weight gain	weight gain	to accelerate their	
+V-106	cancer	cancer	women	women	cells within 21 days.obese	
+V-106	risk	risk	breast cancer	breast cancer	of developing zeranol-induced	
+V-106	meat	meat	breast cancer	breast cancer	extracts, also stimulated	
+V-106	growth promoters	growth promoters	agriculture	agriculture	in	
+V-106	women	women	breast cancer	breast cancer	may be at greater risk of developing zeranol-induced	
+V-106	meat	meat	milk	milk	products, including	
+V-106	des	des	pregnant	pregnant	is another synthetic estrogen marketed to	
+V-106	meat	meat	eggs	eggs	products, including milk and	
+V-106	pregnant women	pregnant women	women	women	—all pregnant	
+V-106	endocrine disruptors	endocrine disruptors	bpa	bpa	—100,000 times more estrogenic than the plastics chemical,	
+V-106	des	des	women	women	is another synthetic estrogen marketed to pregnant	
+V-106	des	des	pregnant women	pregnant women	is another synthetic estrogen marketed to	
+V-106	milk	milk	eggs	eggs	and	

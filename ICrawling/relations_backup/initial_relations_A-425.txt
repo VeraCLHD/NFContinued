@@ -1,0 +1,44 @@
+
+A-425	neurotransmitters	neurotransmitters	serotonin	serotonin	like the “happiness hormone”	
+A-425	drugs	drugs	serotonin	serotonin	like prozac that appear to work by boosting	
+A-425	tryptophan	tryptophan	mood	mood	pills to improve their	
+A-425	breakfast	breakfast	tryptophan	tryptophan	experienced a drop in	
+A-425	period	period	fatigue	fatigue	improved depression, tension, anger, confusion, sadness,	
+A-425	tryptophan	tryptophan	pills	pills		
+A-425	plants	plants	neurotransmitters	neurotransmitters	have animal	
+A-425	serotonin	serotonin	blood	blood	in our	
+A-425	prozac	prozac	serotonin	serotonin	that appear to work by boosting	
+A-425	tryptophan	tryptophan	amino acids	amino acids		
+A-425	medications	medications	side effects	side effects	can carry significant	
+A-425	plants	plants	dopamine	dopamine	 i show how plants may contain levels of	
+A-425	period	period	anger	anger	improved depression, tension,	
+A-425	amino acids	amino acids	tryptophan	tryptophan	as fuel, potentially leaving our	
+A-425	fruit	fruit	depression	depression	as a treatment for	
+A-425	neurotransmitters	neurotransmitters	plants	plants	in	
+A-425	protein	protein	seeds	seeds	ratio, which would mean primarily	
+A-425	tryptophan	tryptophan	breakfast	breakfast	levels, whereas those given a waffle/orange juice	
+A-425	period	period	depression	depression	improved	
+A-425	tryptophan	tryptophan	amino acid	amino acid	is one	
+A-425	tryptophan	tryptophan	diet	diet	that we get from our	
+A-425	disease	disease	neurotransmitters	neurotransmitters	can be; how abnormally low levels of	
+A-425	fruit	fruit	treatment	treatment	as a	
+A-425	tryptophan	tryptophan	supplements	supplements		
+A-425	insulin	insulin	muscles	muscles	that causes our	
+A-425	treatment	treatment	depression	depression	for	
+A-425	amino acid	amino acid	tryptophan	tryptophan	called	
+A-425	happiness	happiness	serotonin	serotonin	hormone”	
+A-425	tryptophan	tryptophan	mood	mood	deficient diets, their	
+A-425	muscles	muscles	amino acids	amino acids	to take up many of the non-tryptophan	
+A-425	serotonin	serotonin	amino acid	amino acid	concentrations appears to be the ratio of this	
+A-425	tryptophan	tryptophan	juice	juice	levels, whereas those given a waffle/orange	
+A-425	tryptophan	tryptophan	animal proteins	animal proteins	is present in most	
+A-425	neurotransmitters	neurotransmitters	happiness	happiness	like the “	
+A-425	carbohydrates	carbohydrates	muscles	muscles	trigger a release of insulin that causes our	
+A-425	muscles	muscles	tryptophan	tryptophan	to take up many of the non-	
+A-425	amino acid	amino acid	diet	diet	called tryptophan that we get from our	
+A-425	tryptophan	tryptophan	serotonin	serotonin	and	
+A-425	drugs	drugs	prozac	prozac	like	
+A-425	juice	juice	breakfast	breakfast		
+A-425	pills	pills	mood	mood	to improve their	
+A-425	carbohydrates	carbohydrates	insulin	insulin	trigger a release of	
+A-425	mood	mood	diet	diet	elevating benefits of	

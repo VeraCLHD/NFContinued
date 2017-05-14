@@ -1,0 +1,52 @@
+
+T-96	doctors	doctors	medications	medications	prescribe blood vessel-dilating	
+T-96	exercise	exercise	angina	angina	regimens, could lower patients’	
+T-96	angina	angina	cardiovascular disease	cardiovascular disease	represents early	
+T-96	plant-based	plant-based	plaque	plaque	diets can reverse heart disease, dissolve	
+T-96	medicine	medicine	drugs	drugs	relies more on	
+T-96	ldl	ldl	fats	fats	cholesterol that comes from eating saturated and trans	
+T-96	doctors	doctors	nitroglycerin	nitroglycerin	prescribe blood vessel-dilating medications (e.g.,	
+T-96	ldl cholesterol	ldl cholesterol	cholesterol	cholesterol	that comes from eating saturated and trans fats,	
+T-96	arteries	arteries	cholesterol	cholesterol	is a direct result of buildup of ldl	
+T-96	angina	angina	heart health	heart health	attacks and improve	
+T-96	plant-based	plant-based	diet	diet		
+T-96	plant-based diet	plant-based diet	angina	angina	alone may prevent	
+T-96	plant-based	plant-based	heart health	heart health	diet alone may prevent angina attacks and improve	
+T-96	cramping	cramping	arteries	arteries	from blockage of the	
+T-96	arteries	arteries	drugs	drugs	(in many instances without	
+T-96	plant-based diets	plant-based diets	disease	disease	can reverse heart	
+T-96	risk	risk	heart disease	heart disease	of developing	
+T-96	angina	angina	disease	disease	represents early cardiovascular	
+T-96	blood	blood	nitroglycerin	nitroglycerin	vessel-dilating medications (e.g.,	
+T-96	risk	risk	disease	disease	of developing heart	
+T-96	angina	angina	health	health	attacks and improve heart	
+T-96	arteries	arteries	surgery	surgery	(in many instances without drugs or	
+T-96	doctors	doctors	blood	blood	prescribe	
+T-96	medications	medications	nitroglycerin	nitroglycerin	(e.g.,	
+T-96	plant-based	plant-based	disease	disease	diets can reverse heart	
+T-96	stress	stress	risk	risk	management techniques may minimize the	
+T-96	ldl cholesterol	ldl cholesterol	fats	fats	that comes from eating saturated and trans	
+T-96	diet	diet	angina	angina	alone may prevent	
+T-96	arteries	arteries	ldl	ldl	is a direct result of buildup of	
+T-96	cholesterol	cholesterol	fats	fats	that comes from eating saturated and trans	
+T-96	plant-based	plant-based	angina	angina	diet alone may prevent	
+T-96	arteries	arteries	ldl cholesterol	ldl cholesterol	is a direct result of buildup of	
+T-96	diet	diet	health	health	alone may prevent angina attacks and improve heart	
+T-96	blood	blood	medications	medications	vessel-dilating	
+T-96	animal products	animal products	fiber	fiber	and processed foods, and lack of	
+T-96	plant-based diets	plant-based diets	plaque	plaque	can reverse heart disease, dissolve	
+T-96	stress	stress	heart disease	heart disease	management techniques may minimize the risk of developing	
+T-96	ldl	ldl	trans fats	trans fats	cholesterol that comes from eating saturated and	
+T-96	cholesterol	cholesterol	trans fats	trans fats	that comes from eating saturated and	
+T-96	drugs	drugs	surgery	surgery	or	
+T-96	ldl cholesterol	ldl cholesterol	trans fats	trans fats	that comes from eating saturated and	
+T-96	diet	diet	heart health	heart health	alone may prevent angina attacks and improve	
+T-96	plant-based	plant-based	heart disease	heart disease	diets can reverse	
+T-96	ldl	ldl	cholesterol	cholesterol		
+T-96	plant-based diet	plant-based diet	heart health	heart health	alone may prevent angina attacks and improve	
+T-96	arteries	arteries	physicians	physicians	(in many instances without drugs or surgery),	
+T-96	drugs	drugs	physicians	physicians	or surgery),	
+T-96	animal products	animal products	processed foods	processed foods	and	
+T-96	angina	angina	cramping	cramping	pectoris, or simply angina, is recurring heart muscle	
+T-96	plant-based diet	plant-based diet	health	health	alone may prevent angina attacks and improve heart	
+T-96	plant-based diets	plant-based diets	heart disease	heart disease	can reverse	

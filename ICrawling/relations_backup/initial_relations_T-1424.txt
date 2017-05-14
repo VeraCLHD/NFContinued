@@ -1,0 +1,73 @@
+
+T-1424	water	water	pesticides	pesticides	used to spray	
+T-1424	china	china	contamination	contamination	had pesticide	
+T-1424	water	water	plant foods	plant foods	used to spray pesticides on crops.while some	
+T-1424	risk	risk	male infertility	male infertility	of multiple allergic symptoms,	
+T-1424	supplements	supplements	pcbs	pcbs	may be contaminated with	
+T-1424	viruses	viruses	manure	manure	due to	
+T-1424	pesticides	pesticides	fish oil	fish oil	than wild-caught fish, and even	
+T-1424	pesticides	pesticides	male infertility	male infertility	may increase the risk of multiple allergic symptoms,	
+T-1424	soybeans	soybeans	organic	organic	have significantly higher pesticide residues than	
+T-1424	organic	organic	fruit	fruit	produce, the benefits from adequate vegetable and	
+T-1424	organic	organic	vegetables	vegetables	fruits and	
+T-1424	roundup	roundup	health	health	on is harmful to human	
+T-1424	risk	risk	infertility	infertility	of multiple allergic symptoms, male	
+T-1424	vegetables	vegetables	fruits	fruits	and	
+T-1424	salt	salt	water	water		
+T-1424	organic	organic	fruits	fruits	vegetables and	
+T-1424	produce	produce	water	water	in a salt	
+T-1424	plants	plants	viruses	viruses	may contain fecal	
+T-1424	women	women	toxins	toxins	have pesticides and other	
+T-1424	risk	risk	disease	disease	of multiple allergic symptoms, male infertility, diabetes, parkinson’s	
+T-1424	pesticides	pesticides	united states	united states	are used annually in the	
+T-1424	ddt	ddt	pesticides	pesticides	and other banned	
+T-1424	fish oil	fish oil	supplements	supplements		
+T-1424	pesticides	pesticides	omnivores	omnivores	than	
+T-1424	pesticides	pesticides	symptoms	symptoms	may increase the risk of multiple allergic	
+T-1424	manure	manure	water	water	contamination of the	
+T-1424	dairy	dairy	meat	meat	products and	
+T-1424	organic	organic	produce	produce		
+T-1424	pesticides	pesticides	supplements	supplements	than wild-caught fish, and even fish oil	
+T-1424	viruses	viruses	water	water	due to manure contamination of the	
+T-1424	fruits	fruits	vegetables	vegetables	and	
+T-1424	fish	fish	ddt	ddt	have higher levels of	
+T-1424	manure	manure	pesticides	pesticides	contamination of the water used to spray	
+T-1424	plants	plants	contamination	contamination	may contain fecal viruses due to manure	
+T-1424	pesticides	pesticides	toxins	toxins	and other	
+T-1424	pesticides	pesticides	risk	risk	may increase the	
+T-1424	manure	manure	contamination	contamination		
+T-1424	fish	fish	pesticides	pesticides	have higher levels of ddt and other banned	
+T-1424	fruits	fruits	organic	organic	to reduce pesticide intake, and indeed, by eating	
+T-1424	pesticides	pesticides	health	health	may be connected to	
+T-1424	organic	organic	fruits	fruits		
+T-1424	supplements	supplements	insecticides	insecticides	may be contaminated with pcbs and	
+T-1424	gmo	gmo	bt corn	bt corn	crop known as	
+T-1424	produce	produce	salt	salt	in a	
+T-1424	fish oil	fish oil	insecticides	insecticides	supplements may be contaminated with pcbs and	
+T-1424	bamboo shoots	bamboo shoots	china	china	imported from	
+T-1424	pcbs	pcbs	insecticides	insecticides	and	
+T-1424	contamination	contamination	water	water	of the	
+T-1424	bamboo shoots	bamboo shoots	contamination	contamination	imported from china had pesticide	
+T-1424	organic	organic	vegetables	vegetables		
+T-1424	pesticides	pesticides	plant foods	plant foods	on crops.while some	
+T-1424	pesticides	pesticides	bamboo shoots	bamboo shoots	via residues on plant food sources:	
+T-1424	contamination	contamination	pesticides	pesticides	of the water used to spray	
+T-1424	women	women	pesticides	pesticides	have	
+T-1424	organic	organic	gmo	gmo	or conventional non-	
+T-1424	viruses	viruses	contamination	contamination	due to manure	
+T-1424	pesticides	pesticides	fish	fish	than wild-caught	
+T-1424	produce	produce	salt water	salt water	in a	
+T-1424	pus	pus	fat	fat	cells, cholesterol, and saturated	
+T-1424	gmo	gmo	soybeans	soybeans		
+T-1424	pus	pus	saturated fat	saturated fat	cells, cholesterol, and	
+T-1424	organic	organic	soy	soy	or conventional non-gmo	
+T-1424	saturated fat	saturated fat	milk	milk	have all been found in	
+T-1424	ddt	ddt	fish	fish	and other banned pesticides than wild-caught	
+T-1424	gmo	gmo	corn	corn	crop known as bt	
+T-1424	fat	fat	milk	milk	have all been found in	
+T-1424	fish oil	fish oil	pcbs	pcbs	supplements may be contaminated with	
+T-1424	plants	plants	manure	manure	may contain fecal viruses due to	
+T-1424	gmo	gmo	organic	organic	soybeans have significantly higher pesticide residues than	
+T-1424	pus	pus	cholesterol	cholesterol	cells,	
+T-1424	risk	risk	symptoms	symptoms	of multiple allergic	
+T-1424	risk	risk	diabetes	diabetes	of multiple allergic symptoms, male infertility,	

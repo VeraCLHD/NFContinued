@@ -1,0 +1,24 @@
+
+V-384	juice	juice	cola	cola	or coca	
+V-384	hibiscus	hibiscus	tea	tea		
+V-384	plant-based diets	plant-based diets	health	health	appear to have superior periodontal	
+V-384	orange juice	orange juice	cola	cola	or coca	
+V-384	ph	ph	orange juice	orange juice	under 3, meaning as acidic as	
+V-384	water	water	teeth	teeth	to clear the acid from our	
+V-384	ph	ph	juice	juice	under 3, meaning as acidic as orange	
+V-384	orange	orange	coca cola	coca cola	juice or	
+V-384	blackberries	blackberries	burgers	burgers	to	
+V-384	ph	ph	orange	orange	under 3, meaning as acidic as	
+V-384	tea	tea	hibiscus	hibiscus	with the most	
+V-384	juice	juice	coca cola	coca cola	or	
+V-384	hibiscus	hibiscus	tea	tea	fit in perfectly.hibiscus	
+V-384	orange juice	orange juice	coca cola	coca cola	or	
+V-384	plant-based	plant-based	health	health	diets appear to have superior periodontal	
+V-384	fruits	fruits	vegetables	vegetables	and	
+V-384	dental	dental	teeth	teeth	erosions, areas on the	
+V-384	mouth	mouth	water	water	with	
+V-384	citrus	citrus	water	water	we should swish our mouths with	
+V-384	orange	orange	juice	juice		
+V-384	inflammation	inflammation	dental	dental	like bleeding, but twice the prevalence of	
+V-384	orange	orange	cola	cola	juice or coca	
+V-384	plant-based diets	plant-based diets	disease	disease	appear to have superior periodontal health, less gum	

@@ -1,0 +1,22 @@
+
+V-424	chronic disease	chronic disease	prevention	prevention		
+V-424	cooking	cooking	microwaving	microwaving	was like	
+V-424	obesity	obesity	diabetes	diabetes	and	
+V-424	americans	americans	breakfast	breakfast	are described as eating	
+V-424	cooking	cooking	women	women	was like microwaving a poptart, whereas	
+V-424	microwaving	microwaving	pizza	pizza	a frozen	
+V-424	americans	americans	cooking	cooking	are eating out more and more and	
+V-424	exercise	exercise	chewing	chewing	people got grocery shopping, and physical function and	
+V-424	television	television	cooking	cooking	shows, but what are they actually	
+V-424	microwaving	microwaving	women	women	a poptart, whereas	
+V-424	convenience	convenience	cooking	cooking	foods so their idea of	
+V-424	breakfast	breakfast	chicken	chicken	in their cars, lunch at their desks and	
+V-424	microwaving	microwaving	cooking	cooking	a frozen pizza ain’t exactly home	
+V-424	vegetables	vegetables	boiled	boiled	are frequently	
+V-424	mortality	mortality	risk	risk		
+V-424	mortality	mortality	women	women	was much more evident in	
+V-424	convenience	convenience	microwaving	microwaving	foods so their idea of cooking was like	
+V-424	disease	disease	prevention	prevention		
+V-424	cholesterol	cholesterol	sodium	sodium	and	
+V-424	cholesterol	cholesterol	fiber	fiber	and sodium, more	
+V-424	pizza	pizza	cooking	cooking	ain’t exactly home	

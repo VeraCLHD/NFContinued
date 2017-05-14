@@ -1,0 +1,8 @@
+
+V-793	arteries	arteries	inflammatory cells	inflammatory cells	.other	
+V-793	inflammation	inflammation	inflammatory cells	inflammatory cells	inside the walls of our arteries.other	
+V-793	blood	blood	arteries	arteries	flow inside our	
+V-793	cholesterol	cholesterol	inflammation	inflammation	in our bloodstream, and it causes damage and	
+V-793	ldl	ldl	cholesterol	cholesterol	—the bad	
+V-793	inflammation	inflammation	arteries	arteries	inside the walls of our	
+V-793	ldl	ldl	bad cholesterol	bad cholesterol	—the	

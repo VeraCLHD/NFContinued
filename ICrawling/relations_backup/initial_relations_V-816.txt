@@ -1,0 +1,20 @@
+
+V-816	smoking	smoking	radiation	radiation	can increase risk; long-term	
+V-816	blindness	blindness	vision	vision	and	
+V-816	fish	fish	vegetarian	vegetarian	but no other meat,” versus those eating “	
+V-816	eggs	eggs	risk	risk	and dairy for the full 40% drop in	
+V-816	fish	fish	meat	meat	but no other	
+V-816	vision	vision	cataracts	cataracts	loss is	
+V-816	diabetes	diabetes	risk	risk		
+V-816	animal products	animal products	diet	diet	in the	
+V-816	vegans	vegans	risk	risk	had approximately 20%, 30%, and 40% lower	
+V-816	smoking	smoking	diet	diet	can increase risk; long-term radiation exposure—what about	
+V-816	smoking	smoking	risk	risk	can increase	
+V-816	risk	risk	cataracts	cataracts	of	
+V-816	meat	meat	risk	risk	group, cutting back on meat cuts down your	
+V-816	eggs	eggs	dairy	dairy	and	
+V-816	radiation	radiation	diet	diet	exposure—what about	
+V-816	risk	risk	meat	meat	of cataracts?compared with the “high”	
+V-816	risk	risk	diabetes	diabetes	of cataracts, respectively.it’s like with the	
+V-816	dairy	dairy	risk	risk	for the full 40% drop in	
+V-816	blindness	blindness	cataracts	cataracts	and vision loss is	

@@ -1,0 +1,20 @@
+
+V-497	bioavailability	bioavailability	curcumin	curcumin	of	
+V-497	curry powder	curry powder	turmeric	turmeric	is besides	
+V-497	malaria	malaria	disease	disease	long before the	
+V-497	tea	tea	asthma	asthma	has been used traditionally to treat	
+V-497	curcumin	curcumin	bioavailability	bioavailability	consumed, but the	
+V-497	turmeric	turmeric	curcumin	curcumin		
+V-497	black pepper	black pepper	piperine	piperine	by weight is this compound called	
+V-497	piperine	piperine	pepper	pepper	for the pungent flavor of	
+V-497	malaria	malaria	raw	raw	long before the disease was identified and the	
+V-497	oils	oils	turmeric	turmeric	found in	
+V-497	symptoms	symptoms	disease	disease	of malaria long before the	
+V-497	pepper	pepper	piperine	piperine	by weight is this compound called	
+V-497	quinine	quinine	symptoms	symptoms	from cinchona bark was used to treat the	
+V-497	raw	raw	aspirin	aspirin	ingredients of a common…	
+V-497	curcumin	curcumin	turmeric	turmeric	is to consume it as the whole food,	
+V-497	curcumin	curcumin	turmeric	turmeric	is responsible for the yellow color of	
+V-497	symptoms	symptoms	malaria	malaria	of	
+V-497	turmeric	turmeric	curcumin	curcumin	is an active compound called	
+V-497	disease	disease	raw	raw	was identified and the	

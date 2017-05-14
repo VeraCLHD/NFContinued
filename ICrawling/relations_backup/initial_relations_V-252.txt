@@ -1,0 +1,46 @@
+
+V-252	decaf	decaf	gerd	gerd	did cause less though, so	
+V-252	cardiovascular disease	cardiovascular disease	stroke	stroke	risk, especially when it comes to	
+V-252	tea	tea	disease	disease	consumption also appears to lower cardiovascular	
+V-252	diet	diet	health	health	and	
+V-252	risk	risk	atrial fibrillation	atrial fibrillation	of	
+V-252	caffeine	caffeine	coffee	coffee	content of	
+V-252	tea	tea	cardiovascular disease	cardiovascular disease	consumption also appears to lower	
+V-252	women	women	united states	united states	in the	
+V-252	disease	disease	risk	risk		
+V-252	risk	risk	women	women	of bone fractures in	
+V-252	bone fractures	bone fractures	risk	risk	in women, but a decreased	
+V-252	epilepsy	epilepsy	coffee	coffee	having fewer seizures after stopping	
+V-252	cardiovascular disease	cardiovascular disease	risk	risk		
+V-252	coffee	coffee	heartburn	heartburn	consumption and symptoms of gerd, such as	
+V-252	caffeine	caffeine	risk	risk	does not increase the	
+V-252	disease	disease	stroke	stroke	risk, especially when it comes to	
+V-252	energy drinks	energy drinks	caffeine	caffeine	that contain massive quantities of	
+V-252	meta-analysis	meta-analysis	coffee	coffee	suggested that daily	
+V-252	coffee	coffee	symptoms	symptoms	consumption and	
+V-252	caffeine	caffeine	atrial fibrillation	atrial fibrillation	does not increase the risk of	
+V-252	symptoms	symptoms	gerd	gerd	of	
+V-252	coffee	coffee	reflux	reflux	induces significant acid	
+V-252	coffee	coffee	death	death	was found to increase the	
+V-252	caffeine	caffeine	risk	risk	might increase the	
+V-252	coffee	coffee	gerd	gerd	consumption and symptoms of	
+V-252	risk	risk	bone fractures	bone fractures	of	
+V-252	bone fractures	bone fractures	women	women	in	
+V-252	coffee	coffee	mortality	mortality	drinking and subsequent	
+V-252	risk	risk	atrial fibrillation	atrial fibrillation	of an irregular heart rhythm called	
+V-252	tea	tea	risk	risk	consumption also appears to lower cardiovascular disease	
+V-252	coffee	coffee	tea	tea	induces significant acid reflux, whereas	
+V-252	coffee	coffee	caffeine	caffeine	a day worth of	
+V-252	coffee	coffee	tea	tea	consumption and the risk of hip fracture, though	
+V-252	seizures	seizures	coffee	coffee	after stopping	
+V-252	caffeine	caffeine	tea	tea	content of coffee down to that of	
+V-252	mortality	mortality	women	women	among hundreds of thousands of older men and	
+V-252	caffeine	caffeine	women	women	intake should be discussed with	
+V-252	risk	risk	tea	tea	of hip fracture, though	
+V-252	epilepsy	epilepsy	seizures	seizures	having fewer	
+V-252	risk	risk	death	death	of	
+V-252	coffee	coffee	tea	tea	down to that of	
+V-252	symptoms	symptoms	heartburn	heartburn	of gerd, such as	
+V-252	tea	tea	caffeine	caffeine	has less	
+V-252	coffee	coffee	risk	risk	consumption and the	
+V-252	energy	energy	caffeine	caffeine	drinks that contain massive quantities of	

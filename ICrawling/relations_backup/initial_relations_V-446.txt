@@ -1,0 +1,30 @@
+
+V-446	chickens	chickens	fish	fish	that were fed on	
+V-446	hives	hives	children	children	at some point in their lives, but some	
+V-446	syndrome	syndrome	hives	hives	present with [just skin manifestations, such as	
+V-446	fat	fat	meat	meat	in the	
+V-446	worms	worms	cod	cod	are found particularly in	
+V-446	worms	worms	fish	fish	within the	
+V-446	skin	skin	hives	hives	manifestations, such as	
+V-446	worms	worms	anisakis	anisakis	within the fish—like	
+V-446	bacon	bacon	breakfast	breakfast	for	
+V-446	fish	fish	chickens	chickens	worm eating	
+V-446	alpha-gal	alpha-gal	fat	fat	is thought to be absorbed along with the	
+V-446	hives	hives	itching	itching	and intractable chronic	
+V-446	skin	skin	worms	worms	and pig-blood proteins.anisakis	
+V-446	kids	kids	allergies	allergies	don’t tend to outgrow fish and shellfish	
+V-446	syndrome	syndrome	skin	skin	present with [just	
+V-446	children	children	skin	skin	with this syndrome present with [just	
+V-446	allergies	allergies	fish	fish	are actually allergies not to the	
+V-446	fish	fish	allergies	allergies		
+V-446	meats	meats	pork	pork	[like]	
+V-446	allergies	allergies	fish	fish	.and, many	
+V-446	meat	meat	allergies	allergies		
+V-446	children	children	hives	hives	who [have] been diagnosed with [mysterious	
+V-446	mouth	mouth	bacon	bacon	can get all itchy eating	
+V-446	worms	worms	anchovies	anchovies	are found particularly in cod,	
+V-446	fish	fish	allergies	allergies	and shellfish	
+V-446	children	children	syndrome	syndrome	with this	
+V-446	kids	kids	fish	fish	don’t tend to outgrow	
+V-446	meats	meats	pork rinds	pork rinds	[like]	
+V-446	skin	skin	cod	cod	and pig-blood proteins.anisakis worms are found particularly in	

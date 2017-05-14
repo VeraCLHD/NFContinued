@@ -1,0 +1,32 @@
+
+T-68	diabetes	diabetes	disease	disease	and heart	
+T-68	milk	milk	type 1 diabetes	type 1 diabetes	(including formula) for children at risk for	
+T-68	baby	baby	diet	diet	and child care that the optimal	
+T-68	diet	diet	children	children	for	
+T-68	heart disease	heart disease	children	children	in overweight and obese	
+T-68	fat	fat	vegetables	vegetables	and added sugars, and not enough fruits and	
+T-68	fat	fat	fruits	fruits	and added sugars, and not enough	
+T-68	risk	risk	heart disease	heart disease	for type 2 diabetes and	
+T-68	baby	baby	children	children	and child care that the optimal diet for	
+T-68	disease	disease	children	children	in overweight and obese	
+T-68	milk	milk	protein	protein		
+T-68	risk	risk	milk	milk	.the aap warns against consumption of cow’s	
+T-68	milk	milk	children	children	(including formula) for	
+T-68	diabetes	diabetes	heart disease	heart disease	and	
+T-68	children	children	obesity	obesity	is a vegan diet.however, we have seen childhood	
+T-68	children	children	risk	risk	at	
+T-68	children	children	peanuts	peanuts		
+T-68	risk	risk	disease	disease	for type 2 diabetes and heart	
+T-68	risk	risk	diabetes	diabetes	for type 2	
+T-68	milk	milk	risk	risk	(including formula) for children at	
+T-68	diet	diet	vegan	vegan	for children is a	
+T-68	vegan	vegan	diet	diet		
+T-68	diabetes	diabetes	children	children	and heart disease in overweight and obese	
+T-68	vegan	vegan	obesity	obesity	diet.however, we have seen childhood	
+T-68	children	children	fat	fat	are eating too much	
+T-68	fruits	fruits	vegetables	vegetables	and	
+T-68	milk	milk	breast milk	breast milk	is not recommended for any infants, with	
+T-68	health	health	risk	risk		
+T-68	children	children	diet	diet	is a vegan	
+T-68	children	children	vegan	vegan	is a	
+T-68	milk	milk	infants	infants	is not recommended for any	

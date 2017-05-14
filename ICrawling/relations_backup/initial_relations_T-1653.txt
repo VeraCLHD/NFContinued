@@ -1,0 +1,38 @@
+
+T-1653	heavy metals	heavy metals	arsenic	arsenic	such as	
+T-1653	fish	fish	neurotoxins	neurotoxins	contaminated with	
+T-1653	seafood	seafood	children	children	may give birth to	
+T-1653	pcbs	pcbs	hormonal function	hormonal function	) and alkylphenols, which can interfere with	
+T-1653	seafood	seafood	food poisoning	food poisoning	is a potential source of	
+T-1653	fukushima	fukushima	nuclear power plant	nuclear power plant		
+T-1653	pregnant	pregnant	mothers	mothers		
+T-1653	polonium	polonium	pacific ocean	pacific ocean	levels in seafood from the	
+T-1653	gut	gut	syndrome	syndrome		
+T-1653	seafood	seafood	arsenic	arsenic	may contain heavy metals such as	
+T-1653	contaminants	contaminants	xenoestrogens	xenoestrogens	found in seafood include	
+T-1653	seafood	seafood	pacific ocean	pacific ocean	from the	
+T-1653	seafood	seafood	xenoestrogens	xenoestrogens	include	
+T-1653	seafood	seafood	puberty	puberty	include xenoestrogens, which have been linked to early-onset	
+T-1653	seafood	seafood	heavy metals	heavy metals	may contain	
+T-1653	pregnant	pregnant	seafood	seafood	mothers who eat a lot of	
+T-1653	contaminants	contaminants	seafood	seafood	found in	
+T-1653	seafood	seafood	worms	worms	sushi, due to parasitic	
+T-1653	pcbs	pcbs	alkylphenols	alkylphenols	) and	
+T-1653	food poisoning	food poisoning	toxins	toxins		
+T-1653	mothers	mothers	seafood	seafood	who eat a lot of	
+T-1653	seafood	seafood	cancer	cancer	industry work may be linked with higher	
+T-1653	heavy metals	heavy metals	mercury	mercury	such as arsenic,	
+T-1653	brains	brains	mercury	mercury	due to the high levels of	
+T-1653	puberty	puberty	domoic acid	domoic acid	in girls, and	
+T-1653	polonium	polonium	seafood	seafood	levels in	
+T-1653	seafood	seafood	toxins	toxins	is a potential source of food poisoning	
+T-1653	children	children	brains	brains	with smaller than normal	
+T-1653	seafood	seafood	sushi	sushi		
+T-1653	seafood	seafood	purines	purines	is also a source of	
+T-1653	nuclear power plant	nuclear power plant	seafood	seafood	disaster resulted in greater radioactive polonium levels in	
+T-1653	nuclear power plant	nuclear power plant	polonium	polonium	disaster resulted in greater radioactive	
+T-1653	fukushima	fukushima	polonium	polonium	nuclear power plant disaster resulted in greater radioactive	
+T-1653	worms	worms	fish	fish	that may be in	
+T-1653	heavy metals	heavy metals	cadmium	cadmium	such as arsenic, mercury, and	
+T-1653	gout	gout	risk	risk		
+T-1653	seafood	seafood	mercury	mercury	may contain heavy metals such as arsenic,	

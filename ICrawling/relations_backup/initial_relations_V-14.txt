@@ -1,0 +1,443 @@
+
+V-14	doctors	doctors	nutrition	nutrition	and	
+V-14	disease	disease	animal fat	animal fat	in japan was the increased consumption of	
+V-14	retinopathy	retinopathy	plant-based	plant-based	?kempner at duke used a	
+V-14	lead	lead	cholesterol	cholesterol	and mercury, as well as	
+V-14	ham	ham	health	health	largely outweighs other considerations, although	
+V-14	physicians	physicians	kaiser permanente	kaiser permanente	was published in the official journal of	
+V-14	blood	blood	cholesterol	cholesterol	pressure and high	
+V-14	vegetarian	vegetarian	diet	diet		
+V-14	prevention	prevention	meat	meat	guidelines now urge people to avoid processed	
+V-14	arteries	arteries	surgery	surgery	opened up without drugs, without	
+V-14	copd	copd	pain	pain	as a leading killer, what about, low back	
+V-14	colon	colon	cancer	cancer		
+V-14	fat	fat	blood	blood	and cholesterol, closing off the artery, restricting	
+V-14	arteries	arteries	blood	blood	that feed the spine and it's this diminished	
+V-14	fiber	fiber	lead	lead	can bind up and remove toxic elements like	
+V-14	angina	angina	plant-based	plant-based	patients deserve to be offered the	
+V-14	angina	angina	surgery	surgery	comparable to that of bypass	
+V-14	prevention	prevention	processed meat	processed meat	guidelines now urge people to avoid	
+V-14	arteries	arteries	drugs	drugs	opened up without	
+V-14	disease	disease	women	women	deaths among	
+V-14	heart disease	heart disease	plant-based diet	plant-based diet	and put them on the kind of	
+V-14	plant-based diet	plant-based diet	surgery	surgery	alternative before being shunted to expensive	
+V-14	dairy	dairy	inflammatory response	inflammatory response	that could be causing an	
+V-14	egg	egg	chewing	chewing	industry, the benefits of	
+V-14	physicians	physicians	nutrition	nutrition	ignore the potential benefits of good	
+V-14	plant-based diet	plant-based diet	fat	fat	appeared to remove all the trans	
+V-14	tobacco	tobacco	health	health	and cancer for effective public	
+V-14	plant-based	plant-based	nutrition	nutrition		
+V-14	eggs	eggs	chewing	chewing	from the egg industry, the benefits of	
+V-14	whole grain	whole grain	tomato sauce	tomato sauce	pasta with	
+V-14	disease	disease	diet	diet	in the majority of patients, a plant-based	
+V-14	plants	plants	bile	bile	can even bind	
+V-14	risk	risk	meat	meat	of consuming	
+V-14	diet	diet	trans fat	trans fat	had no detectable	
+V-14	diet	diet	heart disease	heart disease	that's ever been proven to reverse	
+V-14	meat	meat	cancer	cancer	and	
+V-14	diet	diet	plants	plants	packed with	
+V-14	disease	disease	lifespan	lifespan	perhaps best captures the difference between	
+V-14	heart disease	heart disease	diet	diet	and put them on the kind of plant-based	
+V-14	high blood pressure	high blood pressure	plant-based	plant-based	would seem to make the case for	
+V-14	physicians	physicians	plant-based diet	plant-based diet	should therefore consider recommending a	
+V-14	heart disease	heart disease	plant-based diet	plant-based diet	in the majority of patients, a	
+V-14	diabetes	diabetes	meat	meat	it's no surprise processed	
+V-14	diet	diet	fat	fat	had no detectable trans	
+V-14	women	women	cancer	cancer	appear to be at higher risk for breast	
+V-14	angina	angina	diet	diet	patients deserve to be offered the plant-based	
+V-14	diabetes	diabetes	blood	blood	and high	
+V-14	whole grain	whole grain	apple	apple	pasta with tomato sauce, and an	
+V-14	kids	kids	teenagers	teenagers	now getting adult-onset diabetes,	
+V-14	cancer	cancer	meat	meat	and smoking, maybe	
+V-14	fats	fats	meat	meat	indispensable in the manufacture of	
+V-14	fat	fat	skin	skin	under the	
+V-14	dairy	dairy	trans fats	trans fats	and eggs was	
+V-14	kids	kids	atherosclerosis	atherosclerosis	have the beginnings of	
+V-14	plant-based	plant-based	fruit	fruit	diet of mostly rice and	
+V-14	meat	meat	eggs	eggs	or even just dairy and	
+V-14	whole grains	whole grains	beans	beans	and	
+V-14	health	health	cheap	cheap	promoting activities (like eating healthy) are too	
+V-14	processed meat	processed meat	risk	risk	consumption has been associated with increased	
+V-14	dairy	dairy	fats	fats	and eggs was trans	
+V-14	blood	blood	sugar	sugar	pressure or blood	
+V-14	high blood pressure	high blood pressure	medications	medications		
+V-14	risk	risk	cancer	cancer	for breast	
+V-14	bile acids	bile acids	fiber	fiber	independent of	
+V-14	plant foods	plant foods	diet	diet	-the type of	
+V-14	blood	blood	medications	medications	pressure	
+V-14	angina	angina	plant-based	plant-based	using a	
+V-14	angina	angina	diet	diet	using a plant-based	
+V-14	arteries	arteries	disease	disease	is the link between coronary artery	
+V-14	meat	meat	obesity	obesity	to other risky practices-alcohol, inactivity,	
+V-14	blood	blood	back pain	back pain	pressure, and stroke, and	
+V-14	diet	diet	disease	disease	that's ever been proven to reverse heart	
+V-14	low back pain	low back pain	children	children	is now common in	
+V-14	diet	diet	diabetes	diabetes	to control the	
+V-14	smoking	smoking	death	death	in the 80's, the lung cancer	
+V-14	atherosclerosis	atherosclerosis	arteries	arteries	in our brain	
+V-14	lung cancer	lung cancer	death	death		
+V-14	blind	blind	eye	eye	in one	
+V-14	arteries	arteries	heart attacks	heart attacks	-erectile dysfunction, can precede	
+V-14	diet	diet	blood pressure	blood pressure	to all their patients, especially those with high	
+V-14	pasta	pasta	tomato sauce	tomato sauce	with	
+V-14	grains	grains	cholesterol	cholesterol	and vegetables... then changes in	
+V-14	women	women	breast cancer	breast cancer	appear to be at higher risk for	
+V-14	smoking	smoking	tobacco	tobacco	if they no longer had	
+V-14	cancer prevention	cancer prevention	processed meat	processed meat	guidelines now urge people to avoid	
+V-14	neuropathy	neuropathy	plant-based	plant-based	with a	
+V-14	treatment	treatment	blood	blood	of vascular risk factors like high	
+V-14	plant-based diet	plant-based diet	heart disease	heart disease	followed by thesepopulations that didn't suffer from	
+V-14	diet	diet	arteries	arteries	and their	
+V-14	esselstyn	esselstyn	plant-based diet	plant-based diet	was able to improve angina using a	
+V-14	fats	fats	skin	skin	inside their bodies, under their	
+V-14	plant-based	plant-based	rice	rice	diet of mostly	
+V-14	meat	meat	trans fats	trans fats	or even just dairy and eggs was	
+V-14	plants	plants	bile	bile	greatly increased	
+V-14	plant-based	plant-based	trans fat	trans fat	diet had no detectable	
+V-14	sausage	sausage	meats	meats	and lunch meat, avoid processed	
+V-14	blood	blood	pain	pain	pressure, and stroke, and back	
+V-14	disease	disease	plant-based	plant-based	and put them on the kind of	
+V-14	trans fats	trans fats	dairy	dairy	naturally found in meat and	
+V-14	diet	diet	disease	disease	followed by thesepopulations that didn't suffer from heart	
+V-14	plant-based	plant-based	surgery	surgery	diet alternative before being shunted to expensive	
+V-14	blood	blood	medications	medications	sugars off of all	
+V-14	red meat	red meat	meat	meat	was bad, but processed	
+V-14	arteries	arteries	plaque	plaque	can literally get cleaned out... 20% less atherosclerotic	
+V-14	blood	blood	plant-based	plant-based	pressure would seem to make the case for	
+V-14	disease	disease	african	african	in an	
+V-14	meat	meat	inflammatory response	inflammatory response	and dairy that could be causing an	
+V-14	plant-based diets	plant-based diets	hypertension	hypertension	can reverse diabetes and	
+V-14	back pain	back pain	heart disease	heart disease	may predict fatal	
+V-14	back pain	back pain	disease	disease	may predict fatal heart	
+V-14	dr. esselstyn	dr. esselstyn	diet	diet	was able to improve angina using a plant-based	
+V-14	fat	fat	meat	meat	under the skin of those who eat	
+V-14	heart disease	heart disease	african	african	in an	
+V-14	plant-based	plant-based	physicians	physicians	diets, many	
+V-14	fat	fat	vegan	vegan		
+V-14	disease	disease	arteries	arteries	-inflamed clogged crippled	
+V-14	blood	blood	sugar	sugar		
+V-14	diet	diet	blood	blood	to all their patients, especially those with high	
+V-14	plant-based diet	plant-based diet	rice	rice	of mostly	
+V-14	animal protein	animal protein	cancer	cancer	and fat no matter how much	
+V-14	pasta	pasta	apple	apple	with tomato sauce, and an	
+V-14	lung cancer	lung cancer	smoking	smoking	and	
+V-14	united states	united states	fiber	fiber	dietary	
+V-14	nutrition	nutrition	medications	medications	and quickly prescribe	
+V-14	blood	blood	obesity	obesity	pressure, diabetes, cardiovascular disease, or	
+V-14	blood pressure	blood pressure	sugar	sugar	or blood	
+V-14	dementia	dementia	heart attack	heart attack	just as a	
+V-14	plant-based diets	plant-based diets	diabetes	diabetes	can reverse	
+V-14	diet	diet	fruit	fruit	of mostly rice and	
+V-14	diet	diet	disease	disease	and lifestyle modifications should be a part of	
+V-14	vegetables	vegetables	cholesterol	cholesterol	... then changes in	
+V-14	meat	meat	dairy	dairy	and	
+V-14	blood pressure	blood pressure	blood sugar	blood sugar	or	
+V-14	exercise	exercise	diet	diet	and a healthy enough	
+V-14	sugar	sugar	physicians	physicians	could actually drop too low, so	
+V-14	arteries	arteries	brain disease	brain disease	is the link between coronary artery disease, degenerative	
+V-14	diet	diet	pain	pain	to control the diabetes, whereas the	
+V-14	risk	risk	vision	vision	of retinopathy-diabetic	
+V-14	blood pressure	blood pressure	plant-based	plant-based	would seem to make the case for	
+V-14	meat	meat	prevention	prevention	science, the industry acknowledged that the cancer	
+V-14	cheap	cheap	health	health		
+V-14	diabetes	diabetes	hypertension	hypertension	and	
+V-14	blood pressure	blood pressure	cholesterol	cholesterol	and	
+V-14	pain	pain	disease	disease	people with advanced heart	
+V-14	low carb	low carb	blood	blood	diet, their	
+V-14	diet	diet	grains	grains	around whole plant foods, not just whole	
+V-14	dr. esselstyn	dr. esselstyn	plant-based	plant-based	was able to improve angina using a	
+V-14	doctors	doctors	antidepressants	antidepressants	are just left with steroids, opiates, and	
+V-14	eyeballs	eyeballs	risk	risk	of diabetics and decrease the	
+V-14	cholesterol	cholesterol	bile acids	bile acids	and	
+V-14	processed meats	processed meats	meat	meat	intake cannot be denied, the	
+V-14	medications	medications	sugar	sugar	their blood pressure or blood	
+V-14	meat	meat	fats	fats	or even just dairy and eggs was trans	
+V-14	igf-1	igf-1	risk	risk	inside the eyeballs of diabetics and decrease the	
+V-14	plant-based diet	plant-based diet	clogged arteries	clogged arteries	for a year and their	
+V-14	meat	meat	death	death	consumption has been associated with increased risk of	
+V-14	risk	risk	obesity	obesity	of consuming meat to other risky practices-alcohol, inactivity,	
+V-14	atherosclerosis	atherosclerosis	back pain	back pain	by age 10 in this country.and sadly, low	
+V-14	vegetarian	vegetarian	neuropathy	neuropathy	diet works to alleviate the problem of diabetic	
+V-14	diet	diet	arteries	arteries	for a year and their clogged	
+V-14	treatment	treatment	high blood pressure	high blood pressure	of vascular risk factors like	
+V-14	disease	disease	diet	diet	and put them on the kind of plant-based	
+V-14	plant-based	plant-based	arteries	arteries	diet for a year and their clogged	
+V-14	medications	medications	blood sugar	blood sugar	their blood pressure or	
+V-14	angina	angina	plant-based diet	plant-based diet	using a	
+V-14	arteries	arteries	blood	blood	opened right up increasing the	
+V-14	treatment	treatment	blood pressure	blood pressure	of vascular risk factors like high	
+V-14	meat	meat	dairy	dairy	or even just	
+V-14	disease	disease	japan	japan	in	
+V-14	disease	disease	fat	fat	in japan was the increased consumption of animal	
+V-14	vegan	vegan	diet	diet		
+V-14	prevention	prevention	cancer	cancer	of	
+V-14	disease	disease	plant-based diet	plant-based diet	in the majority of patients, a	
+V-14	lead	lead	bile acids	bile acids	and mercury, as well as cholesterol and	
+V-14	diet	diet	clogged arteries	clogged arteries	for a year and their	
+V-14	vegetables	vegetables	lead	lead	... then changes in cholesterol may	
+V-14	blood pressure	blood pressure	cholesterol	cholesterol	and high	
+V-14	diabetes	diabetes	stroke	stroke	and cardiovascular diseases such as	
+V-14	diet	diet	grains	grains	around	
+V-14	cancer	cancer	meat	meat	prevention guidelines now urge people to avoid processed	
+V-14	neuropathy	neuropathy	diabetes	diabetes	cured, so was, apparently, their	
+V-14	plant-based	plant-based	diet	diet		
+V-14	heart disease	heart disease	plant-based	plant-based	in the majority of patients, a	
+V-14	coca-cola	coca-cola	beverages	beverages		
+V-14	cholesterol	cholesterol	lead	lead	may	
+V-14	copd	copd	low back pain	low back pain	as a leading killer, what about,	
+V-14	eggs	eggs	egg	egg	from the	
+V-14	doctors	doctors	steroids	steroids	are just left with	
+V-14	meat	meat	risk	risk	consumption has been associated with increased	
+V-14	diet	diet	trans fat	trans fat	appeared to remove all the	
+V-14	processed meat	processed meat	white meat	white meat	was worst, and that included	
+V-14	cholesterol	cholesterol	bile	bile	and	
+V-14	cancer prevention	cancer prevention	meat	meat	guidelines now urge people to avoid processed	
+V-14	trans fats	trans fats	skin	skin	inside their bodies, under their	
+V-14	plant foods	plant foods	bile	bile	all day long,	
+V-14	teenagers	teenagers	chronic disease	chronic disease	starting their lives out with a	
+V-14	meats	meats	meat industry	meat industry	intake cannot be denied, the	
+V-14	plant-based diet	plant-based diet	trans fat	trans fat	appeared to remove all the	
+V-14	coronary heart disease	coronary heart disease	african	african	in an	
+V-14	physicians	physicians	medications	medications	may need to adjust	
+V-14	angina	angina	diet	diet	and the vegan	
+V-14	medications	medications	blood pressure	blood pressure	their	
+V-14	dr. esselstyn	dr. esselstyn	plant-based diet	plant-based diet	was able to improve angina using a	
+V-14	clogged arteries	clogged arteries	disease	disease	is the link between coronary artery	
+V-14	angina	angina	vegan	vegan	and the	
+V-14	plant-based diet	plant-based diet	fruit	fruit	of mostly rice and	
+V-14	risk	risk	death	death	of	
+V-14	lung cancer	lung cancer	risk	risk		
+V-14	clogged arteries	clogged arteries	plaque	plaque	can literally get cleaned out... 20% less atherosclerotic	
+V-14	plant-based diets	plant-based diets	igf-1	igf-1	may also lower the level of	
+V-14	risk	risk	women	women	for breast cancer, whereas	
+V-14	whole grain	whole grain	pasta	pasta		
+V-14	diet	diet	rice	rice	of mostly	
+V-14	plant-based	plant-based	clogged arteries	clogged arteries	diet for a year and their	
+V-14	treatment	treatment	risk	risk	of vascular	
+V-14	sausage	sausage	processed meats	processed meats	and lunch meat, avoid	
+V-14	clogged arteries	clogged arteries	brain disease	brain disease	is the link between coronary artery disease, degenerative	
+V-14	meat	meat	cancer prevention	cancer prevention	science, the industry acknowledged that the	
+V-14	low-carb diets	low-carb diets	risk	risk	were associated with a significantly higher	
+V-14	eggs	eggs	ham	ham	and	
+V-14	fruits	fruits	grains	grains	and whole	
+V-14	copd	copd	back pain	back pain	as a leading killer, what about, low	
+V-14	bile	bile	fiber	fiber	acids independent of	
+V-14	risk	risk	mortality	mortality	of death-all-cause	
+V-14	meat	meat	health	health	products could have	
+V-14	japan	japan	fat	fat	was the increased consumption of animal	
+V-14	medical school	medical school	smoking	smoking	was that within 10 years of stopping	
+V-14	risk	risk	disease	disease	of heart	
+V-14	animal protein	animal protein	fat	fat	and	
+V-14	skin	skin	meat	meat	of those who eat	
+V-14	risk	risk	blood	blood	factors like high	
+V-14	grains	grains	disease	disease	to be strongly protective, in relation to alzheimer's	
+V-14	plants	plants	bile acids	bile acids	can even bind	
+V-14	ornish	ornish	plant-based	plant-based	didn't just put people on a	
+V-14	tobacco	tobacco	cancer	cancer	and	
+V-14	disease	disease	plant-based	plant-based	in the majority of patients, a	
+V-14	meat	meat	cancer	cancer	science, the industry acknowledged that the	
+V-14	plant foods	plant foods	bile acids	bile acids	all day long,	
+V-14	whole foods	whole foods	diet	diet	plant-based	
+V-14	plant-based diet	plant-based diet	trans fat	trans fat	had no detectable	
+V-14	fiber	fiber	plants	plants	a day-huge amounts of	
+V-14	diet	diet	risk	risk	used to help lower cancer	
+V-14	blood	blood	disease	disease	pressure, and stroke, and back pain, and heart	
+V-14	diet	diet	bile	bile	packed with plants greatly increased	
+V-14	prevention	prevention	health	health	should, therefore, be a key public	
+V-14	vegetarian	vegetarian	arteries	arteries		
+V-14	disease	disease	diet	diet	with the same kind of	
+V-14	processed meat	processed meat	chicken	chicken	was worst, and that included white meat, like	
+V-14	diabetes	diabetes	diet	diet	can be eliminated, reversed-cured with	
+V-14	smoking	smoking	lung cancer	lung cancer	in the 80's, the	
+V-14	plant-based diet	plant-based diet	arteries	arteries	and their	
+V-14	diet	diet	surgery	surgery	alternative before being shunted to expensive	
+V-14	lung cancer	lung cancer	meat	meat	and smoking, maybe	
+V-14	grains	grains	lead	lead	and vegetables... then changes in cholesterol may	
+V-14	blood	blood	blood sugar	blood sugar	pressure or	
+V-14	tobacco	tobacco	smoking	smoking	industry sounded a similar theme:	
+V-14	lead	lead	mercury	mercury	and	
+V-14	mortality	mortality	low carb	low carb	in the long run, meaning those on	
+V-14	colon	colon	bile	bile	transit can increases	
+V-14	rice	rice	fruit	fruit	and	
+V-14	diet	diet	japan	japan	in	
+V-14	atherosclerosis	atherosclerosis	arteries	arteries	can obstruct the	
+V-14	vegan	vegan	fat	fat	diet-and not even a low	
+V-14	fat	fat	cholesterol	cholesterol	and	
+V-14	blood	blood	diabetes	diabetes	pressure,	
+V-14	stroke	stroke	risk	risk		
+V-14	triglycerides	triglycerides	cholesterol	cholesterol	and	
+V-14	heart disease	heart disease	women	women	deaths among	
+V-14	diet	diet	heart disease	heart disease	followed by thesepopulations that didn't suffer from	
+V-14	plant-based diet	plant-based diet	fat	fat	had no detectable trans	
+V-14	meat	meat	egg-free	egg-free	consumption, with 40% of indians eating meat-free and	
+V-14	protein	protein	cancer	cancer	and fat no matter how much	
+V-14	japan	japan	animal fat	animal fat	was the increased consumption of	
+V-14	esselstyn	esselstyn	diet	diet	was able to improve angina using a plant-based	
+V-14	bile	bile	cancer	cancer	acid levels in newly diagnosed breast	
+V-14	disease	disease	dementia	dementia	and	
+V-14	cancer	cancer	health	health	for effective public	
+V-14	skin	skin	dairy	dairy	of those who eat meat or even just	
+V-14	ornish	ornish	plant-based diet	plant-based diet	didn't just put people on a	
+V-14	diet	diet	cancer	cancer	used to help lower	
+V-14	plant-based	plant-based	low carb	low carb	versus	
+V-14	eyeballs	eyeballs	vision	vision	of diabetics and decrease the risk of retinopathy-diabetic	
+V-14	sausage	sausage	period	period	and lunch meat, avoid processed meats,	
+V-14	risk	risk	cancer	cancer	of breast	
+V-14	bile	bile	breast cancer	breast cancer	acid levels in newly diagnosed	
+V-14	heart disease	heart disease	diet	diet	in the majority of patients, a plant-based	
+V-14	risk	risk	breast cancer	breast cancer	for	
+V-14	pain	pain	heart disease	heart disease	people with advanced	
+V-14	bile acids	bile acids	bile	bile	they were able to show that intestinal	
+V-14	processed meats	processed meats	meat industry	meat industry	intake cannot be denied, the	
+V-14	blood	blood	disease	disease	pressure, diabetes, cardiovascular	
+V-14	americans	americans	meat	meat	are cutting down on	
+V-14	plant-based diet	plant-based diet	arteries	arteries	for a year and their clogged	
+V-14	neuropathy	neuropathy	plant-based diet	plant-based diet	with a	
+V-14	diet	diet	vegetables	vegetables	around grains and	
+V-14	plant-based	plant-based	heart disease	heart disease	diet followed by thesepopulations that didn't suffer from	
+V-14	neuropathy	neuropathy	diet	diet	with a plant-based	
+V-14	liver	liver	bile	bile	dumps	
+V-14	disease	disease	diabetes	diabetes	and	
+V-14	esselstyn	esselstyn	plant-based	plant-based	was able to improve angina using a	
+V-14	grains	grains	animal products	animal products	and away from	
+V-14	plant-based	plant-based	fat	fat	diet had no detectable trans	
+V-14	lead	lead	bile	bile	and mercury, as well as cholesterol and	
+V-14	blood sugar	blood sugar	physicians	physicians	could actually drop too low, so	
+V-14	blood	blood	arteries	arteries	flow to our brain... which kind of	
+V-14	retinopathy	retinopathy	plant-based diet	plant-based diet	?kempner at duke used a	
+V-14	women	women	risk	risk	appear to be at higher	
+V-14	cancer	cancer	processed meat	processed meat	prevention guidelines now urge people to avoid	
+V-14	cancer	cancer	risk	risk		
+V-14	prevention	prevention	public health	public health	should, therefore, be a key	
+V-14	diet	diet	fat	fat	is low enough in animal	
+V-14	plant-based diet	plant-based diet	blood	blood	to all their patients, especially those with high	
+V-14	esselstyn	esselstyn	angina	angina	was able to improve	
+V-14	plant-based	plant-based	fat	fat	diet appeared to remove all the trans	
+V-14	kids	kids	diabetes	diabetes	now getting adult-onset	
+V-14	lard	lard	heart disease	heart disease	is not the best thing in the world,	
+V-14	teenagers	teenagers	disease	disease	starting their lives out with a chronic	
+V-14	meats	meats	meat	meat	intake cannot be denied, the	
+V-14	protein	protein	fat	fat	and	
+V-14	plant-based diet	plant-based diet	blood pressure	blood pressure	to all their patients, especially those with high	
+V-14	blood pressure	blood pressure	blood	blood	or	
+V-14	mouth	mouth	colon	colon	to toilet, because slowed	
+V-14	cancer	cancer	prevention	prevention		
+V-14	fat	fat	cancer	cancer	no matter how much	
+V-14	meat	meat	salt	salt	industry is cost, as	
+V-14	bile	bile	bile acids	bile acids	acids they were able to show that intestinal	
+V-14	back pain	back pain	children	children	is now common in	
+V-14	cancer	cancer	colon	colon	risk in the	
+V-14	vegan	vegan	bile	bile	diets, bind significantly more	
+V-14	retinopathy	retinopathy	diet	diet	?kempner at duke used a plant-based	
+V-14	plant-based diet	plant-based diet	blood	blood	and their arteries opened right up increasing the	
+V-14	fat	fat	health	health	smearing on knives should trump our families'	
+V-14	blood	blood	risk	risk	flow significantly clogged down.this is not just measuring	
+V-14	trans fats	trans fats	meat	meat	naturally found in	
+V-14	stress	stress	angina	angina	management-and got a 91% reduction in	
+V-14	risk	risk	cholesterol	cholesterol	factors like high blood pressure and high	
+V-14	blood	blood	cholesterol	cholesterol	sugars and 100 point drop in her	
+V-14	diet	diet	high blood pressure	high blood pressure	to all their patients, especially those with	
+V-14	fats	fats	meat	meat	naturally found in	
+V-14	blood	blood	cardiovascular disease	cardiovascular disease	pressure, diabetes,	
+V-14	diabetes	diabetes	blood pressure	blood pressure	and high	
+V-14	blood	blood	stroke	stroke	pressure, and	
+V-14	cancer	cancer	preservatives	preservatives	with the positive effects of these substances as	
+V-14	angina	angina	plant-based diet	plant-based diet	patients deserve to be offered the	
+V-14	angina	angina	pain	pain	attacks (that's the crushing chest	
+V-14	risk	risk	blood	blood	factors, but actual	
+V-14	heart disease	heart disease	plant-based	plant-based	and put them on the kind of	
+V-14	diet	diet	fiber	fiber	to get a total of 72 grams of	
+V-14	eggs	eggs	trans fats	trans fats	was	
+V-14	plant-based	plant-based	trans fat	trans fat	diet appeared to remove all the	
+V-14	beans	beans	cancer	cancer	that have protective effects against	
+V-14	plant-based diet	plant-based diet	disease	disease	followed by thesepopulations that didn't suffer from heart	
+V-14	physicians	physicians	diet	diet	should therefore consider recommending a plant-based	
+V-14	plant-based	plant-based	arteries	arteries	diet and their	
+V-14	heart disease	heart disease	diabetes	diabetes	and	
+V-14	plant-based diet	plant-based diet	high blood pressure	high blood pressure	to all their patients, especially those with	
+V-14	red meat	red meat	processed meat	processed meat	was bad, but	
+V-14	fiber	fiber	disease	disease	intake is protectively associated to some chronic	
+V-14	risk	risk	diabetes	diabetes	of heart disease and	
+V-14	plants	plants	fiber	fiber	can even bind bile acids independent of	
+V-14	meat	meat	processed meat	processed meat	was bad, but	
+V-14	fiber	fiber	chronic disease	chronic disease	intake is protectively associated to some	
+V-14	risk	risk	heart disease	heart disease	of	
+V-14	high blood pressure	high blood pressure	cholesterol	cholesterol	and high	
+V-14	diet	diet	blood	blood	and their arteries opened right up increasing the	
+V-14	dr. esselstyn	dr. esselstyn	angina	angina	was able to improve	
+V-14	pain	pain	pills	pills		
+V-14	whole foods	whole foods	plant-based	plant-based		
+V-14	plant-based	plant-based	high blood pressure	high blood pressure	diet to all their patients, especially those with	
+V-14	blood	blood	cholesterol	cholesterol	pressure and	
+V-14	processed meat	processed meat	meat	meat	was worst, and that included white	
+V-14	fruits	fruits	whole grains	whole grains	and	
+V-14	medications	medications	blood	blood	their	
+V-14	meat	meat	smoking	smoking	to other risky practices-alcohol, inactivity, obesity, and	
+V-14	liver	liver	bile acids	bile acids	dumps	
+V-14	meat industry	meat industry	salt	salt	is cost, as	
+V-14	diet	diet	cholesterol	cholesterol	around grains and vegetables... then changes in	
+V-14	atherosclerosis	atherosclerosis	low back pain	low back pain	by age 10 in this country.and sadly,	
+V-14	sausage	sausage	meat	meat	and lunch	
+V-14	plaque	plaque	arteries	arteries	in their	
+V-14	plant-based	plant-based	diabetes	diabetes	diets can reverse	
+V-14	plant-based	plant-based	hypertension	hypertension	diets can reverse diabetes and	
+V-14	diet	diet	neuropathy	neuropathy	works to alleviate the problem of diabetic	
+V-14	salt	salt	meat industry	meat industry	replacement within the	
+V-14	dna	dna	mutations	mutations		
+V-14	heart disease	heart disease	diet	diet	with the same kind of	
+V-14	disease	disease	plant-based diet	plant-based diet	and put them on the kind of	
+V-14	diet	diet	plant foods	plant foods	composed of whole	
+V-14	risk	risk	breast cancer	breast cancer	of	
+V-14	grains	grains	vegetables	vegetables	and	
+V-14	low carb	low carb	diet	diet		
+V-14	eggs	eggs	chewing gum	chewing gum	from the egg industry, the benefits of	
+V-14	meat	meat	salt	salt	that can help compensate for the	
+V-14	tobacco	tobacco	public health	public health	and cancer for effective	
+V-14	egg	egg	chewing gum	chewing gum	industry, the benefits of	
+V-14	cancer	cancer	smoking	smoking	and	
+V-14	diet	diet	fat	fat	appeared to remove all the trans	
+V-14	neuropathy	neuropathy	disease	disease	have shown arterial	
+V-14	salt	salt	meat	meat	reduction in	
+V-14	fiber	fiber	plant foods	plant foods	intake, which is to say whole	
+V-14	processed meat	processed meat	death	death	consumption has been associated with increased risk of	
+V-14	diet	diet	plant foods	plant foods	around whole	
+V-14	blood	blood	arteries	arteries	flow through the coronary	
+V-14	plant-based	plant-based	smoking	smoking	diets, are the nutritional equivalent, of quitting	
+V-14	eggs	eggs	fats	fats	was trans	
+V-14	arteries	arteries	pain	pain	in people with back	
+V-14	cancer	cancer	diet	diet	risk, is the same type of	
+V-14	ornish	ornish	diet	diet	didn't just put people on a plant-based	
+V-14	diet	diet	animal fat	animal fat	is low enough in	
+V-14	blood	blood	heart disease	heart disease	pressure, and stroke, and back pain, and	
+V-14	grains	grains	beans	beans	and	
+V-14	cancer	cancer	public health	public health	for effective	
+V-14	diet	diet	fiber	fiber	is so deficient in	
+V-14	pain	pain	children	children	is now common in	
+V-14	igf-1	igf-1	eyeballs	eyeballs	inside the	
+V-14	risk	risk	blood pressure	blood pressure	factors like high	
+V-14	blood pressure	blood pressure	medications	medications		
+V-14	salt	salt	meat	meat	replacement within the	
+V-14	diabetes	diabetes	processed meat	processed meat	it's no surprise	
+V-14	diet	diet	cancer	cancer	and	
+V-14	diabetes	diabetes	high blood pressure	high blood pressure	and	
+V-14	diet	diet	whole grains	whole grains	around whole plant foods, not just	
+V-14	arteries	arteries	back pain	back pain	in people with	
+V-14	dairy	dairy	eggs	eggs	and	
+V-14	plant foods	plant foods	diet	diet	in the	
+V-14	risk	risk	high blood pressure	high blood pressure	factors like	
+V-14	colorectal cancer	colorectal cancer	risk	risk		
+V-14	dr. neal barnard	dr. neal barnard	american medical association	american medical association	wrote a compelling editorial, in the	
+V-14	meta-analysis	meta-analysis	low-carb diets	low-carb diets	found that	
+V-14	pain	pain	heart disease	heart disease	may predict fatal	
+V-14	fats	fats	dairy	dairy	naturally found in meat and	
+V-14	physicians	physicians	plant-based	plant-based	should therefore consider recommending a	
+V-14	japan	japan	diet	diet	has changed from a more traditional rice-based	
+V-14	treatment	treatment	neuropathy	neuropathy	for diabetic	
+V-14	cancer	cancer	death	death		
+V-14	whole foods	whole foods	plant-based diet	plant-based diet		
+V-14	high blood pressure	high blood pressure	cholesterol	cholesterol	and	
+V-14	risk	risk	cholesterol	cholesterol	factors like high blood pressure and	
+V-14	risk	risk	colon	colon	in the	
+V-14	smoking	smoking	cancer	cancer	in the 80's, the lung	
+V-14	pain	pain	disease	disease	may predict fatal heart	
+V-14	mouth	mouth	bile	bile	to toilet, because slowed colon transit can increases	

@@ -1,0 +1,151 @@
+
+T-1326	vitamin a	vitamin a	juice	juice	), mangosteen	
+T-1326	cod liver oil	cod liver oil	arachidonic acid	arachidonic acid	), meat due to	
+T-1326	cod	cod	meat	meat	liver oil),	
+T-1326	soy	soy	tamoxifen	tamoxifen	(even for women on	
+T-1326	cod	cod	arachidonic acid	arachidonic acid	liver oil), meat due to	
+T-1326	tea	tea	cold	cold	made with	
+T-1326	fertility	fertility	vegetables	vegetables	), coffee, tea made with cold water, cooking	
+T-1326	tea	tea	water	water	made with cold	
+T-1326	alkaline water	alkaline water	water	water	(but not alkaline	
+T-1326	industrial pollutants	industrial pollutants	cod liver oil	cod liver oil	– this includes distilled	
+T-1326	tea	tea	cooking	cooking	made with cold water,	
+T-1326	fructose	fructose	yerba mate	yerba mate	corn syrup, kimchi, kombucha tea, noni juice, and	
+T-1326	vitamin c	vitamin c	supplements	supplements		
+T-1326	pollutants	pollutants	meat	meat	– this includes distilled cod liver oil),	
+T-1326	industrial pollutants	industrial pollutants	cod	cod	– this includes distilled	
+T-1326	raw	raw	vegans	vegans	food diet, b12 deficiency present in non-supplementing	
+T-1326	raw food	raw food	b12	b12	diet,	
+T-1326	ayurvedic medicine	ayurvedic medicine	spirulina	spirulina	(see here, here), blue-green algae supplements, iron pills,	
+T-1326	plant-based	plant-based	soy	soy	diets, protein (which is not bad for bones),	
+T-1326	corn	corn	kimchi	kimchi	syrup,	
+T-1326	rice	rice	supplements	supplements		
+T-1326	raw	raw	diet	diet	food	
+T-1326	raw	raw	b12	b12	food diet,	
+T-1326	yeast	yeast	rice	rice		
+T-1326	mangosteen	mangosteen	juice	juice		
+T-1326	toxins	toxins	vitamin e	vitamin e	), multivitamin supplements,	
+T-1326	corn	corn	juice	juice	syrup, kimchi, kombucha tea, noni	
+T-1326	blue-green algae	blue-green algae	pills	pills	supplements, iron	
+T-1326	fertility	fertility	water	water	), coffee, tea made with cold	
+T-1326	iron	iron	supplements	supplements	pills, spirulina	
+T-1326	meat	meat	arachidonic acid	arachidonic acid	due to	
+T-1326	medicine	medicine	blue-green algae	blue-green algae	(see here, here),	
+T-1326	blue-green algae	blue-green algae	iron	iron	supplements,	
+T-1326	alfalfa	alfalfa	juice	juice	sprouts, non-organic apple	
+T-1326	medicine	medicine	iron	iron	(see here, here), blue-green algae supplements,	
+T-1326	industrial pollutants	industrial pollutants	liver	liver	– this includes distilled cod	
+T-1326	insects	insects	ayurvedic medicine	ayurvedic medicine	), aspartame, some types of	
+T-1326	fertility	fertility	cold	cold	), coffee, tea made with	
+T-1326	ayurvedic medicine	ayurvedic medicine	algae	algae	(see here, here), blue-green	
+T-1326	fruits	fruits	vegetables	vegetables	and	
+T-1326	plant-based	plant-based	protein	protein	diets,	
+T-1326	tea	tea	vegetables	vegetables	made with cold water, cooking	
+T-1326	spirulina	spirulina	neurotoxins	neurotoxins	supplements (for their	
+T-1326	blue-green algae	blue-green algae	neurotoxins	neurotoxins	supplements, iron pills, spirulina supplements (for their	
+T-1326	pomegranate	pomegranate	juice	juice		
+T-1326	msg	msg	citric acid	citric acid	(despite alleged allergic reactions), vitamin c supplements,	
+T-1326	women	women	tamoxifen	tamoxifen	on	
+T-1326	neurotoxins	neurotoxins	liver	liver	and	
+T-1326	neurotoxins	neurotoxins	vitamin e	vitamin e	and liver toxins), multivitamin supplements,	
+T-1326	apple	apple	insects	insects	juice, artificial colorings (especially ones derived from	
+T-1326	fructose	fructose	juice	juice	corn syrup, kimchi, kombucha tea, noni	
+T-1326	cod	cod	liver	liver		
+T-1326	soy	soy	women	women	(even for	
+T-1326	spirulina	spirulina	toxins	toxins	supplements (for their neurotoxins and liver	
+T-1326	iron	iron	neurotoxins	neurotoxins	pills, spirulina supplements (for their	
+T-1326	toxins	toxins	herbalife	herbalife	), multivitamin supplements, vitamin e supplements,	
+T-1326	fruits	fruits	plant-based diets	plant-based diets	and vegetables (see here, here),	
+T-1326	medicine	medicine	pills	pills	(see here, here), blue-green algae supplements, iron	
+T-1326	b12	b12	vegans	vegans	deficiency present in non-supplementing	
+T-1326	red yeast rice	red yeast rice	supplements	supplements		
+T-1326	herbalife	herbalife	vitamin a	vitamin a	(for its liver toxicity, possibly due to	
+T-1326	raw food	raw food	vegans	vegans	diet, b12 deficiency present in non-supplementing	
+T-1326	ayurvedic medicine	ayurvedic medicine	blue-green algae	blue-green algae	(see here, here),	
+T-1326	corn	corn	noni	noni	syrup, kimchi, kombucha tea,	
+T-1326	alkaline water	alkaline water	cholesterol	cholesterol	(but not alkaline water machines), various	
+T-1326	protein	protein	soy	soy	(which is not bad for bones),	
+T-1326	ddt	ddt	cod liver oil	cod liver oil	and other industrial pollutants – this includes distilled	
+T-1326	apple	apple	aspartame	aspartame	juice, artificial colorings (especially ones derived from insects),	
+T-1326	medicine	medicine	algae	algae	(see here, here), blue-green	
+T-1326	alfalfa	alfalfa	sprouts	sprouts		
+T-1326	neurotoxins	neurotoxins	supplements	supplements	and liver toxins), multivitamin	
+T-1326	algae	algae	pills	pills	supplements, iron	
+T-1326	medicine	medicine	spirulina	spirulina	(see here, here), blue-green algae supplements, iron pills,	
+T-1326	vitamin e	vitamin e	supplements	supplements		
+T-1326	liver	liver	meat	meat	oil),	
+T-1326	industrial pollutants	industrial pollutants	meat	meat	– this includes distilled cod liver oil),	
+T-1326	blue-green algae	blue-green algae	supplements	supplements		
+T-1326	cold	cold	cooking	cooking	water,	
+T-1326	fish oil	fish oil	ddt	ddt	(due to	
+T-1326	vegetables	vegetables	plant-based diets	plant-based diets	(see here, here),	
+T-1326	corn	corn	tea	tea	syrup, kimchi, kombucha	
+T-1326	liver	liver	supplements	supplements	toxins), multivitamin	
+T-1326	neurotoxins	neurotoxins	herbalife	herbalife	and liver toxins), multivitamin supplements, vitamin e supplements,	
+T-1326	fertility	fertility	cooking	cooking	), coffee, tea made with cold water,	
+T-1326	pollutants	pollutants	cod	cod	– this includes distilled	
+T-1326	insects	insects	medicine	medicine	), aspartame, some types of ayurvedic	
+T-1326	pollutants	pollutants	cod liver oil	cod liver oil	– this includes distilled	
+T-1326	cognition	cognition	fertility	fertility	and has no negative effects on male	
+T-1326	fructose	fructose	noni	noni	corn syrup, kimchi, kombucha tea,	
+T-1326	ddt	ddt	pollutants	pollutants	and other industrial	
+T-1326	ddt	ddt	cod	cod	and other industrial pollutants – this includes distilled	
+T-1326	liver	liver	arachidonic acid	arachidonic acid	oil), meat due to	
+T-1326	fructose	fructose	corn syrup	corn syrup		
+T-1326	ayurvedic medicine	ayurvedic medicine	pills	pills	(see here, here), blue-green algae supplements, iron	
+T-1326	ddt	ddt	industrial pollutants	industrial pollutants	and other	
+T-1326	medicine	medicine	supplements	supplements	(see here, here), blue-green algae	
+T-1326	alfalfa	alfalfa	apple	apple	sprouts, non-organic	
+T-1326	algae	algae	iron	iron	supplements,	
+T-1326	cooking	cooking	gluten	gluten	vegetables (especially in the microwave),	
+T-1326	noni	noni	juice	juice		
+T-1326	cognition	cognition	coffee	coffee	and has no negative effects on male fertility),	
+T-1326	fish oil	fish oil	pollutants	pollutants	(due to ddt and other industrial	
+T-1326	cold	cold	gluten	gluten	water, cooking vegetables (especially in the microwave),	
+T-1326	fructose	fructose	kombucha tea	kombucha tea	corn syrup, kimchi,	
+T-1326	vegetables	vegetables	plant-based	plant-based	(see here, here),	
+T-1326	algae	algae	neurotoxins	neurotoxins	supplements, iron pills, spirulina supplements (for their	
+T-1326	iron	iron	liver	liver	pills, spirulina supplements (for their neurotoxins and	
+T-1326	fructose	fructose	kimchi	kimchi	corn syrup,	
+T-1326	spirulina	spirulina	liver	liver	supplements (for their neurotoxins and	
+T-1326	iron	iron	toxins	toxins	pills, spirulina supplements (for their neurotoxins and liver	
+T-1326	fructose	fructose	corn	corn		
+T-1326	pollutants	pollutants	liver	liver	– this includes distilled cod	
+T-1326	cold	cold	vegetables	vegetables	water, cooking	
+T-1326	fertility	fertility	tea	tea	), coffee,	
+T-1326	ayurvedic medicine	ayurvedic medicine	iron	iron	(see here, here), blue-green algae supplements,	
+T-1326	babies	babies	iodine	iodine	(up to 20% of them), too little	
+T-1326	fructose	fructose	tea	tea	corn syrup, kimchi, kombucha	
+T-1326	noni	noni	yerba mate	yerba mate	juice, and	
+T-1326	iron	iron	pills	pills		
+T-1326	vitamin e	vitamin e	herbalife	herbalife	supplements,	
+T-1326	fruits	fruits	plant-based	plant-based	and vegetables (see here, here),	
+T-1326	alfalfa	alfalfa	apple juice	apple juice	sprouts, non-organic	
+T-1326	corn	corn	kombucha tea	kombucha tea	syrup, kimchi,	
+T-1326	corn	corn	yerba mate	yerba mate	syrup, kimchi, kombucha tea, noni juice, and	
+T-1326	women	women	cognition	cognition	on tamoxifen; it also produces positive effects on	
+T-1326	cold	cold	water	water		
+T-1326	algae	algae	spirulina	spirulina	supplements, iron pills,	
+T-1326	herbalife	herbalife	liver	liver	(for its	
+T-1326	vitamin c	vitamin c	citric acid	citric acid	supplements,	
+T-1326	spirulina	spirulina	supplements	supplements		
+T-1326	vitamin c	vitamin c	alcohol	alcohol	supplements, citric acid, crop nutrient decline and moderate	
+T-1326	blue-green algae	blue-green algae	spirulina	spirulina	supplements, iron pills,	
+T-1326	algae	algae	supplements	supplements		
+T-1326	neurotoxins	neurotoxins	toxins	toxins	and liver	
+T-1326	msg	msg	supplements	supplements	(despite alleged allergic reactions), vitamin c	
+T-1326	iron	iron	spirulina	spirulina	pills,	
+T-1326	vitamin e	vitamin e	liver	liver	supplements, herbalife (for its	
+T-1326	fruits	fruits	protein	protein	and vegetables (see here, here), plant-based diets,	
+T-1326	vegans	vegans	babies	babies	as well as their	
+T-1326	apple	apple	juice	juice		
+T-1326	raw food	raw food	diet	diet		
+T-1326	vegetables	vegetables	protein	protein	(see here, here), plant-based diets,	
+T-1326	meat	meat	cholesterol	cholesterol	due to arachidonic acid, deep-frying foods, having ‘average’	
+T-1326	msg	msg	vitamin c	vitamin c	(despite alleged allergic reactions),	
+T-1326	toxins	toxins	supplements	supplements	), multivitamin	
+T-1326	fish oil	fish oil	industrial pollutants	industrial pollutants	(due to ddt and other	
+T-1326	cooking	cooking	vegetables	vegetables		
+T-1326	nutrition education	nutrition education	doctors	doctors	in medical schools, resulting in some	
+T-1326	ayurvedic medicine	ayurvedic medicine	supplements	supplements	(see here, here), blue-green algae	
+T-1326	yeast	yeast	supplements	supplements	rice	

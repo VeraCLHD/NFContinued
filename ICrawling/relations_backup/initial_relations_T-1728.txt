@@ -1,0 +1,43 @@
+
+T-1728	spinach	spinach	zeaxanthin	zeaxanthin	also has as much lutein and	
+T-1728	kidney	kidney	cancer	cancer		
+T-1728	folate	folate	mental health	mental health	may contribute to improved	
+T-1728	zeaxanthin	zeaxanthin	eggs	eggs	as nine	
+T-1728	spinach	spinach	eye	eye	a day is recommended for optimal	
+T-1728	variety	variety	plant-based	plant-based	in a healthy	
+T-1728	dna	dna	folate	folate	against mutations.spinach is a great source of	
+T-1728	chlorophyll	chlorophyll	dna	dna	content, which may protect	
+T-1728	spinach	spinach	variety	variety	is a great way to add	
+T-1728	prostate cancer	prostate cancer	chlorophyll	chlorophyll	cells, due perhaps in part to its	
+T-1728	stomach	stomach	cancer cells	cancer cells	cancer, pancreatic cancer, and prostate	
+T-1728	spinach	spinach	breast cancer	breast cancer	appears to be protective in vitro against	
+T-1728	mental health	mental health	depression	depression	and lower risks of	
+T-1728	plant-based	plant-based	diet	diet		
+T-1728	lutein	lutein	zeaxanthin	zeaxanthin	and	
+T-1728	spinach	spinach	lutein	lutein	also has as much	
+T-1728	kidney	kidney	stomach cancer	stomach cancer	cancer, lung cancer, pediatric brain tumor,	
+T-1728	prostate	prostate	cancer	cancer		
+T-1728	lutein	lutein	eggs	eggs	and zeaxanthin as nine	
+T-1728	folate	folate	health	health	may contribute to improved mental	
+T-1728	prostate	prostate	cancer cells	cancer cells		
+T-1728	health	health	anxiety	anxiety	and lower risks of depression and	
+T-1728	spinach	spinach	antioxidants	antioxidants	is also a good source of	
+T-1728	eye	eye	macular degeneration	macular degeneration	protection against age-related	
+T-1728	prostate	prostate	chlorophyll	chlorophyll	cancer cells, due perhaps in part to its	
+T-1728	chlorophyll	chlorophyll	spinach	spinach	content, which may protect dna against mutations.	
+T-1728	folic acid	folic acid	supplements	supplements		
+T-1728	depression	depression	anxiety	anxiety	and	
+T-1728	variety	variety	diet	diet	in a healthy plant-based	
+T-1728	kidney	kidney	stomach	stomach	cancer, lung cancer, pediatric brain tumor,	
+T-1728	stomach	stomach	pancreatic cancer	pancreatic cancer	cancer,	
+T-1728	dna	dna	spinach	spinach	against mutations.	
+T-1728	kidney	kidney	pancreatic cancer	pancreatic cancer	cancer, lung cancer, pediatric brain tumor, stomach cancer,	
+T-1728	stomach	stomach	cancer	cancer		
+T-1728	kidney	kidney	lung cancer	lung cancer	cancer,	
+T-1728	health	health	depression	depression	and lower risks of	
+T-1728	stomach	stomach	prostate	prostate	cancer, pancreatic cancer, and	
+T-1728	spinach	spinach	cancer	cancer	appears to be protective in vitro against breast	
+T-1728	kidney	kidney	tumor	tumor	cancer, lung cancer, pediatric brain	
+T-1728	stomach	stomach	prostate cancer	prostate cancer	cancer, pancreatic cancer, and	
+T-1728	variety	variety	plant-based diet	plant-based diet	in a healthy	
+T-1728	mental health	mental health	anxiety	anxiety	and lower risks of depression and	

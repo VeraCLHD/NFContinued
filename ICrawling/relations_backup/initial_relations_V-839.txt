@@ -1,0 +1,20 @@
+
+V-839	chocolate	chocolate	ice cream	ice cream		
+V-839	phytonutrients	phytonutrients	chocolate	chocolate	.of course, no one should be eating three	
+V-839	cocoa	cocoa	phytonutrients	phytonutrients	solids, the equivalent dose of those wonderful cocoa	
+V-839	cherries	cherries	strawberries	strawberries	or	
+V-839	fatigue	fatigue	syndrome	syndrome		
+V-839	erythritol	erythritol	chocolate	chocolate	or some dates, and you have instant, decadent	
+V-839	cherries	cherries	milk	milk	or strawberries, a touch of nondairy	
+V-839	sugar	sugar	cream	cream	chocolate ice	
+V-839	sugar	sugar	cocoa	cocoa	and fat, but one had	
+V-839	sugar	sugar	fat	fat	and	
+V-839	sugar	sugar	ice cream	ice cream	chocolate	
+V-839	sugar	sugar	chocolate	chocolate		
+V-839	cocoa	cocoa	phytonutrients	phytonutrients	solids—	
+V-839	chocolate	chocolate	cholesterol	cholesterol	ice cream; low-fat, low-calorie, no	
+V-839	erythritol	erythritol	dates	dates	or some	
+V-839	sugar	sugar	phytonutrients	phytonutrients	and fat, but one had cocoa solids—	
+V-839	fatigue	fatigue	symptoms	symptoms		
+V-839	chocolate	chocolate	cream	cream	ice	
+V-839	chocolate	chocolate	sugar	sugar	ice cream; low-fat, low-calorie, no cholesterol, no added	

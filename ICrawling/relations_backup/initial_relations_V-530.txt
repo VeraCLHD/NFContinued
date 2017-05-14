@@ -1,0 +1,65 @@
+
+V-530	heart disease	heart disease	drugs	drugs	—open up arteries without	
+V-530	high blood pressure	high blood pressure	diabetes	diabetes	], heart failure, stroke, cancer,	
+V-530	blood pressure	blood pressure	cancer	cancer	], heart failure, stroke,	
+V-530	doctors	doctors	risk	risk	treat ‘	
+V-530	plant-based	plant-based	diet	diet		
+V-530	blood	blood	heart failure	heart failure	pressure],	
+V-530	death	death	arteries	arteries	—heart disease—open up	
+V-530	blood pressure	blood pressure	arteries	arteries	is just a symptom of diseased, dysfunctional	
+V-530	diet	diet	medicine	medicine	and exercise, “the penicillin of lifestyle	
+V-530	medicine	medicine	disease	disease	is not just about preventing chronic	
+V-530	death	death	drugs	drugs	—heart disease—open up arteries without	
+V-530	disease	disease	drugs	drugs	—open up arteries without	
+V-530	blood	blood	blood sugar	blood sugar	pressure, elevated	
+V-530	medicine	medicine	chronic disease	chronic disease	is not just about preventing	
+V-530	penicillin	penicillin	medicine	medicine	of lifestyle	
+V-530	arteries	arteries	surgery	surgery	without drugs, without	
+V-530	dean ornish	dean ornish	death	death	proved you could reverse our #1 cause of	
+V-530	arteries	arteries	plant-based diet	plant-based diet	without drugs, without surgery, just with a	
+V-530	heart disease	heart disease	arteries	arteries	—open up	
+V-530	lifestyle medicine	lifestyle medicine	risk	risk	is instead of just treating	
+V-530	blood	blood	arteries	arteries	pressure is just a symptom of diseased, dysfunctional	
+V-530	water	water	disease	disease	from the tap represents the cost of	
+V-530	blood	blood	drugs	drugs	pressure with	
+V-530	disease	disease	surgery	surgery	—open up arteries without drugs, without	
+V-530	arteries	arteries	plant-based	plant-based	without drugs, without surgery, just with a	
+V-530	risk	risk	disease	disease	factors’ for	
+V-530	blood	blood	stroke	stroke	pressure], heart failure,	
+V-530	blood	blood	mortality	mortality	pressure], heart failure, stroke, cancer, diabetes, and all-cause	
+V-530	risk	risk	disease	disease	factors, we treat the underlying causes of	
+V-530	blood	blood	cholesterol	cholesterol	pressure, elevated blood sugar, and high	
+V-530	medications	medications	blood	blood	to lower high	
+V-530	diabetes	diabetes	heart attacks	heart attacks	and	
+V-530	high blood pressure	high blood pressure	arteries	arteries	is just a symptom of diseased, dysfunctional	
+V-530	blood	blood	cancer	cancer	pressure], heart failure, stroke,	
+V-530	penicillin	penicillin	lifestyle medicine	lifestyle medicine	of	
+V-530	medicine	medicine	risk	risk	and lifestyle medicine is instead of just treating	
+V-530	ornish	ornish	death	death	proved you could reverse our #1 cause of	
+V-530	high blood pressure	high blood pressure	stroke	stroke	], heart failure,	
+V-530	high blood pressure	high blood pressure	cancer	cancer	], heart failure, stroke,	
+V-530	medicine	medicine	lifestyle medicine	lifestyle medicine	and	
+V-530	high blood pressure	high blood pressure	mortality	mortality	], heart failure, stroke, cancer, diabetes, and all-cause	
+V-530	blood pressure	blood pressure	diabetes	diabetes	], heart failure, stroke, cancer,	
+V-530	diet	diet	plant foods	plant foods	that emphasizes whole	
+V-530	disease	disease	medications	medications	such as giving a lifetime’s worth of	
+V-530	death	death	disease	disease	—heart	
+V-530	blood	blood	sugar	sugar	pressure, elevated blood	
+V-530	blood pressure	blood pressure	stroke	stroke	], heart failure,	
+V-530	blood	blood	diabetes	diabetes	pressure], heart failure, stroke, cancer,	
+V-530	diet	diet	lifestyle medicine	lifestyle medicine	and exercise, “the penicillin of	
+V-530	medications	medications	sugar	sugar	to lower high blood pressure, elevated blood	
+V-530	death	death	surgery	surgery	—heart disease—open up arteries without drugs, without	
+V-530	heart disease	heart disease	surgery	surgery	—open up arteries without drugs, without	
+V-530	blood pressure	blood pressure	mortality	mortality	], heart failure, stroke, cancer, diabetes, and all-cause	
+V-530	blood pressure	blood pressure	drugs	drugs	with	
+V-530	medications	medications	blood sugar	blood sugar	to lower high blood pressure, elevated	
+V-530	arteries	arteries	drugs	drugs	without	
+V-530	diet	diet	penicillin	penicillin	and exercise, “the	
+V-530	medications	medications	high blood pressure	high blood pressure	to lower	
+V-530	doctors	doctors	disease	disease	treat ‘risk factors’ for	
+V-530	medications	medications	blood pressure	blood pressure	to lower high	
+V-530	arteries	arteries	diet	diet	without drugs, without surgery, just with a plant-based	
+V-530	disease	disease	arteries	arteries	—open up	
+V-530	death	death	heart disease	heart disease	—	
+V-530	diet	diet	exercise	exercise	and	

@@ -1,0 +1,65 @@
+
+T-775	fish	fish	food poisoning	food poisoning	that can cause	
+T-775	sausages	sausages	iodine	iodine	containing thyroid glands) can lead to	
+T-775	salmonella	salmonella	chicken	chicken	and campylobacter from raw	
+T-775	alfalfa	alfalfa	sprouts	sprouts		
+T-775	vegetables	vegetables	kelp	kelp	are an excellent source of iodine, but eating	
+T-775	thyroid	thyroid	lead	lead	glands) can	
+T-775	eggs	eggs	salmonella	salmonella	cause an eggborne epidemic of	
+T-775	amnesia	amnesia	sushi	sushi	from	
+T-775	raw	raw	oysters	oysters		
+T-775	protein	protein	bacteria	bacteria	which allows the	
+T-775	cholera	cholera	oysters	oysters	from raw	
+T-775	alfalfa	alfalfa	broccoli	broccoli	sprouts, so	
+T-775	poultry	poultry	food poisoning	food poisoning	is the #1 cause of	
+T-775	salmonella	salmonella	broccoli sprouts	broccoli sprouts	has been found in alfalfa sprouts, so	
+T-775	bacteria	bacteria	poultry	poultry	from	
+T-775	campylobacter	campylobacter	raw	raw	from	
+T-775	animal products	animal products	water	water	: several brands of bottled	
+T-775	poultry	poultry	infections	infections	samples tested, may cause urinary tract	
+T-775	toxins	toxins	food poisoning	food poisoning	in fish that can cause	
+T-775	salmonella	salmonella	broccoli	broccoli	has been found in alfalfa sprouts, so	
+T-775	kelp	kelp	lead	lead	(and sausages containing thyroid glands) can	
+T-775	toxins	toxins	fish	fish	in	
+T-775	raw	raw	meat	meat		
+T-775	salmonella	salmonella	alfalfa	alfalfa	has been found in	
+T-775	meat	meat	e. coli	e. coli	is not only the #1 source of toxin-producing	
+T-775	bacteria	bacteria	meat	meat	in	
+T-775	thyroid	thyroid	iodine	iodine	glands) can lead to	
+T-775	sea vegetables	sea vegetables	iodine	iodine	are an excellent source of	
+T-775	raw	raw	fish	fish	meat and	
+T-775	viruses	viruses	poultry	poultry	from	
+T-775	salmonella	salmonella	campylobacter	campylobacter	and	
+T-775	sausages	sausages	lead	lead	containing thyroid glands) can	
+T-775	lead	lead	iodine	iodine	to	
+T-775	salmonella	salmonella	raw	raw	and campylobacter from	
+T-775	cholera	cholera	raw	raw	from	
+T-775	water	water	campylobacter	campylobacter	may not eliminate the threat of salmonella and	
+T-775	children	children	raw	raw	in the basket of a shopping cart with	
+T-775	campylobacter	campylobacter	chicken	chicken	from raw	
+T-775	water	water	salmonella	salmonella	may not eliminate the threat of	
+T-775	foodborne illness	foodborne illness	pork	pork	from	
+T-775	hepatitis	hepatitis	virus	virus	e	
+T-775	kelp	kelp	thyroid	thyroid	(and sausages containing	
+T-775	stomach	stomach	food poisoning	food poisoning	flu” is typically	
+T-775	kelp	kelp	sausages	sausages	(and	
+T-775	pork	pork	tapeworms	tapeworms		
+T-775	water	water	contamination	contamination	and water sprayed on crops have shown bacterial	
+T-775	bacteria	bacteria	paralysis	paralysis	from poultry have been associated with	
+T-775	kelp	kelp	iodine	iodine	(and sausages containing thyroid glands) can lead to	
+T-775	raw	raw	tapeworms	tapeworms	oysters;	
+T-775	sausages	sausages	thyroid	thyroid	containing	
+T-775	salmonella	salmonella	sprouts	sprouts	has been found in alfalfa	
+T-775	meat	meat	fish	fish	and	
+T-775	vegetables	vegetables	iodine	iodine	are an excellent source of	
+T-775	virus	virus	pigs	pigs	is carried in the livers and bloodstreams of	
+T-775	meat	meat	united states	united states	for sale in the	
+T-775	hepatitis e	hepatitis e	virus	virus		
+T-775	poultry	poultry	bacteria	bacteria	may even be associated with neurological diseases, and	
+T-775	broccoli	broccoli	sprouts	sprouts		
+T-775	poultry	poultry	urinary tract infections	urinary tract infections	samples tested, may cause	
+T-775	cholera	cholera	tapeworms	tapeworms	from raw oysters;	
+T-775	sea vegetables	sea vegetables	kelp	kelp	are an excellent source of iodine, but eating	
+T-775	mrsa	mrsa	meat	meat	also affects the u.s.	
+T-775	alfalfa	alfalfa	broccoli sprouts	broccoli sprouts	sprouts, so	
+T-775	salmonella	salmonella	alfalfa sprouts	alfalfa sprouts	has been found in	

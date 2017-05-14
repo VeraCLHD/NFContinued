@@ -1,0 +1,27 @@
+
+V-1281	meat	meat	penn state	penn state	laboratory at	
+V-1281	fat	fat	egg mcmuffin	egg mcmuffin	meal consisted of mcdonald’s sausage and	
+V-1281	nuts	nuts	risk	risk	a day may cut our	
+V-1281	fat	fat	olive oil	olive oil		
+V-1281	nuts	nuts	heart attack	heart attack	a day may cut our risk of fatal	
+V-1281	nuts	nuts	avocados	avocados	and	
+V-1281	avocados	avocados	nuts	nuts	and	
+V-1281	fat	fat	walnuts	walnuts	to 80 grams—but from olive oil or	
+V-1281	nuts	nuts	health	health	are	
+V-1281	risk	risk	heart attack	heart attack	of fatal	
+V-1281	sausage	sausage	fat	fat	and egg mcmuffin—42 grams of	
+V-1281	walnuts	walnuts	meat	meat	to	
+V-1281	sausage	sausage	egg	egg	and	
+V-1281	egg	egg	fat	fat	mcmuffin—42 grams of	
+V-1281	walnut	walnut	nutrition	nutrition	paste into steaks to improve people’s	
+V-1281	marketing	marketing	children	children	animal-source foods for	
+V-1281	olive oil	olive oil	walnuts	walnuts	or	
+V-1281	egg mcmuffin	egg mcmuffin	fat	fat	—42 grams of	
+V-1281	avocados	avocados	health	health	and nuts are	
+V-1281	fat	fat	sausage	sausage	meal consisted of mcdonald’s	
+V-1281	fat	fat	egg	egg	meal consisted of mcdonald’s sausage and	
+V-1281	beef	beef	chickens	chickens	jerky and a potato chip, made out of	
+V-1281	nuts	nuts	plant foods	plant foods	and avocados, even though they are whole	
+V-1281	raw	raw	kids	kids	bunny batter to sell to	
+V-1281	sausage	sausage	egg mcmuffin	egg mcmuffin	and	
+V-1281	fat	fat	olive oil	olive oil	to 80 grams—but from	

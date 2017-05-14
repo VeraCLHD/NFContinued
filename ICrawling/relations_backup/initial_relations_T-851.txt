@@ -1,0 +1,48 @@
+
+T-851	plant foods	plant foods	cauliflower	cauliflower	like	
+T-851	doctors	doctors	contamination	contamination	and nutritionists factor in the risk of lead	
+T-851	lead	lead	contamination	contamination		
+T-851	uric acid	uric acid	risk	risk	production in the body, increasing the	
+T-851	doctors	doctors	lead	lead	and nutritionists factor in the risk of	
+T-851	gout	gout	disease	disease	is a painful inflammatory arthritic	
+T-851	beverages	beverages	risk	risk	may also reduce the	
+T-851	inflammation	inflammation	uric acid	uric acid	and may lower	
+T-851	cherries	cherries	anti-inflammatory	anti-inflammatory	a day for a month, with some	
+T-851	alkaline diet	alkaline diet	vegetarian	vegetarian	—	
+T-851	corn syrup	corn syrup	uric acid	uric acid	leads to	
+T-851	risk	risk	lead	lead	of	
+T-851	soda	soda	risk	risk	beverages may also reduce the	
+T-851	doctors	doctors	risk	risk	and nutritionists factor in the	
+T-851	sugar	sugar	corn	corn	and high fructose	
+T-851	sugar	sugar	fructose	fructose	and high	
+T-851	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
+T-851	immune system	immune system	purines	purines	regulator) is high in	
+T-851	risk	risk	alkaline diet	alkaline diet	of gout.in general, individuals eating a more	
+T-851	uric acid	uric acid	blood	blood	in the	
+T-851	disease	disease	blood	blood	caused by too much uric acid in the	
+T-851	risk	risk	contamination	contamination	of lead	
+T-851	risk	risk	contamination	contamination	of gout.lead	
+T-851	immune system	immune system	gout	gout	regulator) is high in purines, so those with	
+T-851	cherries	cherries	uric acid	uric acid	fight inflammation and may lower	
+T-851	high fructose corn syrup	high fructose corn syrup	uric acid	uric acid	leads to	
+T-851	plant foods	plant foods	plant-based	plant-based	(see also	
+T-851	risk	risk	diet	diet	of gout.in general, individuals eating a more alkaline	
+T-851	risk	risk	uric acid	uric acid	of	
+T-851	plant foods	plant foods	beans	beans	like cauliflower, mushrooms, peas,	
+T-851	sugar	sugar	uric acid	uric acid	and high fructose corn syrup leads to	
+T-851	plant foods	plant foods	lentils	lentils	like cauliflower, mushrooms, peas, beans, asparagus, and	
+T-851	plant foods	plant foods	asparagus	asparagus	like cauliflower, mushrooms, peas, beans,	
+T-851	plant-based	plant-based	uric acid	uric acid	diets) have not been associated with high	
+T-851	soda	soda	beverages	beverages		
+T-851	risk	risk	diet	diet	of gout through	
+T-851	plant foods	plant foods	peas	peas	like cauliflower, mushrooms,	
+T-851	plant foods	plant foods	mushrooms	mushrooms	like cauliflower,	
+T-851	plant foods	plant foods	plant-based diets	plant-based diets	(see also	
+T-851	risk	risk	gout	gout	of	
+T-851	sugar	sugar	corn syrup	corn syrup	and high fructose	
+T-851	gout	gout	diet	diet	through	
+T-851	diet	diet	vegetarian	vegetarian	—	
+T-851	cherries	cherries	inflammation	inflammation	fight	
+T-851	disease	disease	uric acid	uric acid	caused by too much	
+T-851	corn	corn	uric acid	uric acid	syrup leads to	
+T-851	plant-based diets	plant-based diets	uric acid	uric acid	) have not been associated with high	

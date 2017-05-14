@@ -1,0 +1,79 @@
+
+A-306	brain tumors	brain tumors	leukemia	leukemia	and	
+A-306	death	death	disease	disease	and disability associated with heart	
+A-306	surgery	surgery	heart disease	heart disease	), but the risks associated with	
+A-306	treatment	treatment	surgery	surgery	(such as open heart	
+A-306	cancer	cancer	ct scan	ct scan	after a single	
+A-306	cancer	cancer	risk	risk	to develop, though, which is why the	
+A-306	fukushima	fukushima	seafood	seafood	fallout or the polonium naturally found in all	
+A-306	polonium	polonium	seafood	seafood	naturally found in all	
+A-306	radiation	radiation	fukushima	fukushima	exposure risk comes not from the	
+A-306	ct scan	ct scan	radiation	radiation		
+A-306	risk	risk	ct scan	ct scan	of developing cancer after a single	
+A-306	ct scan	ct scan	risk	risk	radiation, you can see the	
+A-306	cancer	cancer	japanese	japanese	estimates were based on data from	
+A-306	cancer	cancer	ct scan	ct scan	risk from	
+A-306	death	death	treatment	treatment	and disability associated with heart disease and its	
+A-306	death	death	drugs	drugs	), adverse drug reactions from prescription	
+A-306	cancer	cancer	cat scan	cat scan	but die from cancer attributable to the	
+A-306	risk	risk	leukemia	leukemia	of brain tumors and	
+A-306	dental x-rays	dental x-rays	tumors	tumors	cause brain	
+A-306	heart disease	heart disease	surgery	surgery	and its treatment (such as open heart	
+A-306	doctors	doctors	cancer	cancer	causing a lot of	
+A-306	risk	risk	elderly	elderly	is lower in the	
+A-306	cancer	cancer	radiation	radiation	risk from ct scan	
+A-306	women	women	cancer	cancer	that get an angiogram may get	
+A-306	radiation	radiation	risk	risk	exposure	
+A-306	disease	disease	treatment	treatment	and its	
+A-306	death	death	heart disease	heart disease	and disability associated with	
+A-306	seafood	seafood	fukushima	fukushima	(see my last video,	
+A-306	radioactivity	radioactivity	doctors	doctors	in seafood), but from	
+A-306	smoking	smoking	cigarettes	cigarettes	700	
+A-306	angiogram	angiogram	cancer	cancer	may get	
+A-306	risk	risk	smoking	smoking	corresponds to	
+A-306	cell phones	cell phones	cancer	cancer	cause	
+A-306	risk	risk	tumors	tumors	of brain	
+A-306	ct scan	ct scan	stress test	stress test	is like getting 400 chest x-rays, and a	
+A-306	x-rays	x-rays	tumors	tumors	cause brain	
+A-306	ct scan	ct scan	cancer	cancer	radiation, you can see the risk of developing	
+A-306	surgery	surgery	disease	disease	), but the risks associated with heart	
+A-306	risk	risk	children	children	of brain tumors and leukemia in	
+A-306	tumors	tumors	leukemia	leukemia	and	
+A-306	ct scan	ct scan	x-rays	x-rays	is like getting 400 chest	
+A-306	leukemia	leukemia	children	children	in	
+A-306	risk	risk	radiation	radiation	from ct scan	
+A-306	ct scan	ct scan	stress	stress	is like getting 400 chest x-rays, and a	
+A-306	dental	dental	tumors	tumors	x-rays cause brain	
+A-306	risk	risk	thallium heart scans	thallium heart scans	associated with the	
+A-306	cancer	cancer	ct scan	ct scan	for different groups after getting one	
+A-306	iatrogenic	iatrogenic	radiation	radiation	” (physician-caused) harm, such as these	
+A-306	risk	risk	fukushima	fukushima	comes not from the	
+A-306	dental	dental	brain tumors	brain tumors	x-rays cause	
+A-306	death	death	prescription drugs	prescription drugs	), adverse drug reactions from	
+A-306	risk	risk	cigarettes	cigarettes	corresponds to smoking 1400	
+A-306	risk	risk	polonium	polonium	comes not from the fukushima fallout or the	
+A-306	fukushima	fukushima	polonium	polonium	fallout or the	
+A-306	united states	united states	doctors	doctors	every year, making	
+A-306	women	women	united states	united states	in the	
+A-306	cancer	cancer	risk	risk		
+A-306	risk	risk	cancer	cancer	of developing	
+A-306	smoking	smoking	cigarettes	cigarettes	1400	
+A-306	radiation	radiation	risk	risk		
+A-306	tumors	tumors	children	children	and leukemia in	
+A-306	fukushima	fukushima	seafood	seafood	and radioactivity in	
+A-306	dental x-rays	dental x-rays	brain tumors	brain tumors	cause	
+A-306	women	women	angiogram	angiogram	that get an	
+A-306	doctors	doctors	death	death	the sixth leading cause of	
+A-306	radioactivity	radioactivity	seafood	seafood	in	
+A-306	seafood	seafood	radioactivity	radioactivity	(see my last video, fukushima and	
+A-306	cat scan	cat scan	radiation	radiation		
+A-306	dental	dental	x-rays	x-rays		
+A-306	cancer	cancer	cancer	cancer	but die from	
+A-306	radiation	radiation	infections	infections	risks or medication errors or	
+A-306	x-rays	x-rays	dentist	dentist	at the	
+A-306	risk	risk	ct scan	ct scan	from	
+A-306	risk	risk	brain tumors	brain tumors	of	
+A-306	disease	disease	surgery	surgery	and its treatment (such as open heart	
+A-306	x-rays	x-rays	brain tumors	brain tumors	cause	
+A-306	brain tumors	brain tumors	children	children	and leukemia in	
+A-306	heart disease	heart disease	treatment	treatment	and its	

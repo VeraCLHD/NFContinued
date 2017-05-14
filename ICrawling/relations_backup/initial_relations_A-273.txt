@@ -1,0 +1,42 @@
+
+A-273	cholesterol	cholesterol	cancer	cancer	: tolerable upper intake of zero, and breast	
+A-273	fruit	fruit	cream	cream	when there was birthday cake, ice	
+A-273	meat	meat	cholesterol	cholesterol	and dairy, trans fat, saturated fat, and	
+A-273	fat	fat	trans fat	trans fat	in meat and dairy,	
+A-273	broccoli	broccoli	green beans	green beans	increased by 109.4%, and	
+A-273	breast cancer	breast cancer	trans fat	trans fat	survival and	
+A-273	cancer survival	cancer survival	fat	fat	and trans	
+A-273	cancer survival	cancer survival	trans fat	trans fat	and	
+A-273	fat	fat	meat	meat	in	
+A-273	carrots	carrots	vision	vision	if they were called “x-ray	
+A-273	meat	meat	saturated fat	saturated fat	and dairy, trans fat,	
+A-273	meat	meat	fat	fat	and dairy, trans	
+A-273	cholesterol	cholesterol	breast cancer	breast cancer	: tolerable upper intake of zero, and	
+A-273	fruit	fruit	cheese puffs	cheese puffs	when there was birthday cake, ice cream, and	
+A-273	breast cancer	breast cancer	fat	fat	survival and trans	
+A-273	kids	kids	cookies	cookies	a plate of	
+A-273	trans fat	trans fat	fat	fat	in meat and dairy, trans	
+A-273	cholesterol	cholesterol	breast cancer survival	breast cancer survival	: tolerable upper intake of zero, and	
+A-273	kids	kids	fruit	fruit	actually eat	
+A-273	kids	kids	cake	cake	actually eat fruit when there was birthday	
+A-273	meat	meat	trans fat	trans fat	and dairy,	
+A-273	broccoli	broccoli	beans	beans	increased by 109.4%, and green	
+A-273	trans fat	trans fat	saturated fat	saturated fat	in meat and dairy, trans fat,	
+A-273	cancer	cancer	fat	fat	survival and trans	
+A-273	meat	meat	dairy	dairy	and	
+A-273	breast cancer survival	breast cancer survival	fat	fat	and trans	
+A-273	breast cancer survival	breast cancer survival	trans fat	trans fat	and	
+A-273	fruit	fruit	cupcakes	cupcakes	in addition to the	
+A-273	nutrition	nutrition	fiber	fiber	mantras like ”	
+A-273	fruit	fruit	cake	cake	when there was birthday	
+A-273	vision	vision	carrots	carrots		
+A-273	cookies	cookies	children	children	(without altering the total amount of food) decreases	
+A-273	fat	fat	dairy	dairy	in meat and	
+A-273	kids	kids	ice cream	ice cream	actually eat fruit when there was birthday cake,	
+A-273	fat	fat	saturated fat	saturated fat	in meat and dairy, trans fat,	
+A-273	trans fat	trans fat	dairy	dairy	in meat and	
+A-273	fruit	fruit	cheese	cheese	when there was birthday cake, ice cream, and	
+A-273	fruit	fruit	ice cream	ice cream	when there was birthday cake,	
+A-273	cancer	cancer	trans fat	trans fat	survival and	
+A-273	trans fat	trans fat	meat	meat	in	
+A-273	cholesterol	cholesterol	cancer survival	cancer survival	: tolerable upper intake of zero, and breast	

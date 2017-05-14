@@ -1,0 +1,16 @@
+
+V-684	health	health	public health	public health	organization, american academy of pediatrics, the american	
+V-684	health	health	american public health association	american public health association	organization, american academy of pediatrics, the	
+V-684	antibiotics	antibiotics	livestock	livestock	fed to	
+V-684	antimicrobial drugs	antimicrobial drugs	farm animals	farm animals	going to	
+V-684	health	health	american academy of pediatrics	american academy of pediatrics	organization,	
+V-684	antibiotics	antibiotics	livestock	livestock	produced in the u.s. go to	
+V-684	drugs	drugs	union of concerned scientists	union of concerned scientists	going to farm animals, like the	
+V-684	health	health	pediatrics	pediatrics	organization, american academy of	
+V-684	public health	public health	livestock	livestock	association, etc. that antibiotics fed to	
+V-684	antimicrobial drugs	antimicrobial drugs	union of concerned scientists	union of concerned scientists	going to farm animals, like the	
+V-684	drugs	drugs	farm animals	farm animals	approved for use in	
+V-684	union of concerned scientists	union of concerned scientists	antibiotics	antibiotics	estimate that as much as 70% of	
+V-684	livestock	livestock	health	health	by the truckload poses a human	
+V-684	public health	public health	antibiotics	antibiotics	association, etc. that	
+V-684	drugs	drugs	farm animals	farm animals	going to	

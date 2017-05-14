@@ -1,0 +1,25 @@
+
+V-506	lettuce	lettuce	spinach	spinach	than	
+V-506	cholesterol	cholesterol	risk	risk	levels, and	
+V-506	cholesterol	cholesterol	disease	disease	levels, and risk of heart	
+V-506	sunburn	sunburn	sunlight	sunlight	knows how damaging the uv rays in	
+V-506	bad cholesterol	bad cholesterol	heart disease	heart disease	levels, and risk of	
+V-506	eye	eye	sunlight	sunlight	is designed to take	
+V-506	organic	organic	eggs	eggs		
+V-506	phytonutrients	phytonutrients	egg	egg	from the	
+V-506	eggs	eggs	zeaxanthin	zeaxanthin	can increase	
+V-506	phytonutrients	phytonutrients	chicken	chicken	from the egg, that came from the	
+V-506	goji	goji	berries	berries		
+V-506	risk	risk	disease	disease	of heart	
+V-506	eggs	eggs	blood	blood	can increase zeaxanthin levels in the	
+V-506	egg	egg	eggs	eggs	nearly every day—six	
+V-506	egg	egg	eggs	eggs	industry brags that	
+V-506	risk	risk	heart disease	heart disease	of	
+V-506	egg	egg	zeaxanthin	zeaxanthin	yolk-based dietary strategy to increase plasma	
+V-506	cholesterol	cholesterol	heart disease	heart disease	levels, and risk of	
+V-506	risk	risk	blindness	blindness	of	
+V-506	zeaxanthin	zeaxanthin	bad cholesterol	bad cholesterol	levels in the blood, but they also raise	
+V-506	bad cholesterol	bad cholesterol	disease	disease	levels, and risk of heart	
+V-506	zeaxanthin	zeaxanthin	blood	blood	levels in the	
+V-506	bad cholesterol	bad cholesterol	risk	risk	levels, and	
+V-506	iceberg lettuce	iceberg lettuce	spinach	spinach	than	

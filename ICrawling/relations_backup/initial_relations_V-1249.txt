@@ -1,0 +1,18 @@
+
+V-1249	antioxidant	antioxidant	americans	americans	content of much of what	
+V-1249	americans	americans	peas	peas	eat—	
+V-1249	goji	goji	berries	berries		
+V-1249	peas	peas	corn	corn	and carrots,	
+V-1249	peas	peas	lettuce	lettuce	and carrots, corn,	
+V-1249	antioxidant	antioxidant	peas	peas	content of much of what americans eat—	
+V-1249	americans	americans	carrots	carrots	eat—peas and	
+V-1249	americans	americans	lettuce	lettuce	eat—peas and carrots, corn,	
+V-1249	antioxidant content	antioxidant content	peas	peas	of much of what americans eat—	
+V-1249	americans	americans	bananas	bananas	eat—peas and carrots, corn, lettuce,	
+V-1249	antioxidant content	antioxidant content	americans	americans	of much of what	
+V-1249	peas	peas	bananas	bananas	and carrots, corn, lettuce,	
+V-1249	americans	americans	corn	corn	eat—peas and carrots,	
+V-1249	antioxidant content	antioxidant content	corn	corn	of much of what americans eat—peas and carrots,	
+V-1249	antioxidant	antioxidant	carrots	carrots	content of much of what americans eat—peas and	
+V-1249	peas	peas	carrots	carrots	and	
+V-1249	antioxidant content	antioxidant content	carrots	carrots	of much of what americans eat—peas and	

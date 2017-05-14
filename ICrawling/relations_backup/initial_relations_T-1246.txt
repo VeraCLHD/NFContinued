@@ -1,0 +1,61 @@
+
+T-1246	eggs	eggs	mortality	mortality	appear associated with higher	
+T-1246	meat	meat	diet	diet	than the standard	
+T-1246	sun	sun	vitamin d supplements	vitamin d supplements	or from	
+T-1246	foodborne illness	foodborne illness	poultry	poultry	related deaths are attributed to	
+T-1246	meat	meat	mortality	mortality	consumption, milk, and eggs appear associated with higher	
+T-1246	red meat	red meat	mortality	mortality	consumption, milk, and eggs appear associated with higher	
+T-1246	diet	diet	death	death	as the number one cause of	
+T-1246	vitamin d	vitamin d	sun	sun	intake from the	
+T-1246	vitamin e	vitamin e	supplements	supplements		
+T-1246	phytonutrients	phytonutrients	salt	salt	from plant food, more nuts, and less	
+T-1246	meat	meat	milk	milk	consumption,	
+T-1246	flax	flax	coffee	coffee	seed, and	
+T-1246	junk food	junk food	meat	meat	and	
+T-1246	saturated fat	saturated fat	mortality	mortality	intake from animal foods helped reduce the all-cause	
+T-1246	saturated fat	saturated fat	animal foods	animal foods	intake from	
+T-1246	longevity	longevity	coffee	coffee	are legumes, flax seed, and	
+T-1246	red meat	red meat	milk	milk	consumption,	
+T-1246	low-carb diets	low-carb diets	milk	milk	based on animal foods, red meat consumption,	
+T-1246	global burden of disease study	global burden of disease study	diet	diet	cited	
+T-1246	kidney	kidney	uric acid	uric acid	function, excess	
+T-1246	low-carb diets	low-carb diets	meat	meat	based on animal foods, red	
+T-1246	finland	finland	animal foods	animal foods	to reduce saturated fat intake from	
+T-1246	salt	salt	risk	risk	are associated with a significantly lower	
+T-1246	vitamin d	vitamin d	vitamin d supplements	vitamin d supplements	intake from the sun or from	
+T-1246	sleep	sleep	mortality	mortality	are associated with increased	
+T-1246	mortality	mortality	poultry	poultry	risk.most foodborne illness related deaths are attributed to	
+T-1246	plant foods	plant foods	mortality	mortality	appears associated with lower	
+T-1246	death	death	united states	united states	and disability in the	
+T-1246	vitamin e	vitamin e	mortality	mortality	supplements specifically appear to increase all-cause	
+T-1246	longevity	longevity	legumes	legumes	are	
+T-1246	blood	blood	phosphorus	phosphorus	levels of	
+T-1246	animal foods	animal foods	mortality	mortality	helped reduce the all-cause	
+T-1246	sun	sun	mortality	mortality	or from vitamin d supplements may help lower	
+T-1246	global burden of disease study	global burden of disease study	death	death	cited diet as the number one cause of	
+T-1246	supplements	supplements	risk	risk	may help lower mortality	
+T-1246	finland	finland	saturated fat	saturated fat	to reduce	
+T-1246	vitamin d	vitamin d	supplements	supplements	intake from the sun or from vitamin d	
+T-1246	phytonutrients	phytonutrients	nuts	nuts	from plant food, more	
+T-1246	disease	disease	diet	diet	study cited	
+T-1246	red meat	red meat	eggs	eggs	consumption, milk, and	
+T-1246	finland	finland	fat	fat	to reduce saturated	
+T-1246	mortality	mortality	foodborne illness	foodborne illness	risk.most	
+T-1246	mortality	mortality	risk	risk		
+T-1246	low-carb diets	low-carb diets	red meat	red meat	based on animal foods,	
+T-1246	plant foods	plant foods	risk	risk	appears associated with lower mortality	
+T-1246	kidney	kidney	puberty	puberty	function, excess uric acid, and earlier	
+T-1246	low-carb diets	low-carb diets	animal foods	animal foods	based on	
+T-1246	supplements	supplements	mortality	mortality	specifically appear to increase all-cause	
+T-1246	sun	sun	supplements	supplements	or from vitamin d	
+T-1246	obesity	obesity	death	death	is likely the main preventable cause of premature	
+T-1246	fat	fat	animal foods	animal foods	intake from	
+T-1246	supplements	supplements	mortality	mortality	may help lower	
+T-1246	vitamin d supplements	vitamin d supplements	risk	risk	may help lower mortality	
+T-1246	vitamin d supplements	vitamin d supplements	mortality	mortality	may help lower	
+T-1246	fat	fat	mortality	mortality	intake from animal foods helped reduce the all-cause	
+T-1246	junk food	junk food	mortality	mortality	and meat, is an independent predictor for	
+T-1246	meat	meat	eggs	eggs	consumption, milk, and	
+T-1246	blood	blood	junk food	junk food	levels of phosphorus, which can come from	
+T-1246	longevity	longevity	flax	flax	are legumes,	
+T-1246	sun	sun	vitamin d	vitamin d	or from	

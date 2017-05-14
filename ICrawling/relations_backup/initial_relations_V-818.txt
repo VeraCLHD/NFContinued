@@ -1,0 +1,10 @@
+
+V-818	meat	meat	fats	fats	department, then more whole foods, less trans	
+V-818	fruits	fruits	fruit	fruit	a day gets you a perfect	
+V-818	meat	meat	whole foods	whole foods	department, then more	
+V-818	meat	meat	trans fats	trans fats	department, then more whole foods, less	
+V-818	diabetes	diabetes	blindness	blindness	—the leading cause of new cases of	
+V-818	americans	americans	blind	blind	are	
+V-818	plant-based	plant-based	diet	diet		
+V-818	diet	diet	macular degeneration	macular degeneration	quality and age-related	
+V-818	macular degeneration	macular degeneration	diet	diet	was significantly related to overall	

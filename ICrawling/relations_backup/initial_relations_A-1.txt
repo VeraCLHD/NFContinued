@@ -1,0 +1,48 @@
+
+A-1	united states	united states	diet	diet	is our	
+A-1	nuts	nuts	seeds	seeds	and	
+A-1	disease	disease	risk	risk	mortality	
+A-1	plant foods	plant foods	heart disease	heart disease	), reduced the risk of dying prematurely from	
+A-1	mortality	mortality	chronic diseases	chronic diseases	and preventing	
+A-1	mortality	mortality	coronary heart disease	coronary heart disease	and preventing chronic diseases such as	
+A-1	chronic diseases	chronic diseases	cancer	cancer	such as coronary heart disease, stroke, diabetes, and	
+A-1	heart disease	heart disease	risk	risk		
+A-1	chronic diseases	chronic diseases	coronary heart disease	coronary heart disease	such as	
+A-1	risk	risk	plant foods	plant foods	found that those scoring higher (e.g. more whole	
+A-1	heart disease	heart disease	children	children	may already be present in	
+A-1	chronic diseases	chronic diseases	stroke	stroke	such as coronary heart disease,	
+A-1	disease	disease	risk	risk		
+A-1	death	death	diet	diet	and disability in the united states is our	
+A-1	united states	united states	period	period	during a recent five-year	
+A-1	nuts	nuts	salt	salt	and seeds, we eat too much	
+A-1	diet	diet	fruit	fruit	are: we don’t eat enough	
+A-1	mortality	mortality	risk	risk		
+A-1	plant foods	plant foods	risk	risk	), reduced the	
+A-1	nuts	nuts	longevity	longevity	made the	
+A-1	chronic diseases	chronic diseases	heart disease	heart disease	such as coronary	
+A-1	obesity	obesity	exercise	exercise	is up,	
+A-1	disease	disease	atherosclerosis	atherosclerosis	may be present by age 20—with	
+A-1	disease	disease	diet	diet	study, the worst five things about our	
+A-1	disease	disease	mortality	mortality		
+A-1	diet	diet	disease	disease	quality and chronic	
+A-1	mortality	mortality	disease	disease	and preventing chronic diseases such as coronary heart	
+A-1	atherosclerosis	atherosclerosis	young children	young children	often even present in	
+A-1	death	death	nutrition	nutrition	row	
+A-1	americans	americans	lead	lead		
+A-1	diet	diet	mortality	mortality	quality and chronic disease	
+A-1	slovenia	slovenia	united states	united states	live a year longer than citizens of the	
+A-1	diet	diet	risk	risk	quality and chronic disease mortality	
+A-1	fruits	fruits	longevity	longevity	and veggies and living longer, see fruits and	
+A-1	atherosclerosis	atherosclerosis	children	children	often even present in young	
+A-1	chronic disease	chronic disease	risk	risk	mortality	
+A-1	lifespan	lifespan	beans	beans	from	
+A-1	chronic diseases	chronic diseases	disease	disease	such as coronary heart	
+A-1	nuts	nuts	death	death	may help prevent	
+A-1	fruits	fruits	vegetables	vegetables	and	
+A-1	risk	risk	death	death	factors ever published, the number one cause of	
+A-1	chronic disease	chronic disease	mortality	mortality		
+A-1	disease	disease	children	children	may already be present in	
+A-1	diet	diet	chronic disease	chronic disease	quality and	
+A-1	mortality	mortality	heart disease	heart disease	and preventing chronic diseases such as coronary	
+A-1	chronic diseases	chronic diseases	diabetes	diabetes	such as coronary heart disease, stroke,	
+A-1	death	death	united states	united states	and disability in the	

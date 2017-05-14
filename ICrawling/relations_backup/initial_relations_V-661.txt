@@ -1,0 +1,31 @@
+
+V-661	vegan	vegan	fruits	fruits	diet rich in	
+V-661	diet	diet	vegetables	vegetables	rich in fruits and	
+V-661	risk	risk	breast cancer	breast cancer	of	
+V-661	cancer	cancer	health	health	in the black women’s	
+V-661	fruit	fruit	breast cancer	breast cancer	and vegetable intake in relation to risk of	
+V-661	risk	risk	cancer	cancer	of breast	
+V-661	cancer	cancer	cancer	cancer	risk, reversing the increases in	
+V-661	cancer	cancer	risk	risk		
+V-661	cancer	cancer	estrogen	estrogen	—	
+V-661	breast cancer	breast cancer	estrogen	estrogen	—	
+V-661	fruit	fruit	risk	risk	and vegetable intake in relation to	
+V-661	risk	risk	cancer	cancer	of the nastiest type of breast	
+V-661	broccoli	broccoli	women	women	consumption appeared especially protective in premenopausal	
+V-661	breast cancer	breast cancer	women	women	in the black	
+V-661	fruits	fruits	exercise	exercise	and vegetables, especially if coupled with regular	
+V-661	diet	diet	fruits	fruits	rich in	
+V-661	exercise	exercise	smoking	smoking	and	
+V-661	african-american	african-american	risk	risk	cancer	
+V-661	risk	risk	breast cancer	breast cancer	of the nastiest type of	
+V-661	cancer	cancer	women	women	in the black	
+V-661	breast cancer	breast cancer	health	health	in the black women’s	
+V-661	african	african	women	women	american	
+V-661	african-american	african-american	cancer	cancer		
+V-661	risk	risk	women	women	of breast cancer in the black	
+V-661	apples	apples	oranges	oranges	to	
+V-661	vegan	vegan	diet	diet		
+V-661	fruits	fruits	vegetables	vegetables	and	
+V-661	risk	risk	estrogen	estrogen	of the nastiest type of breast cancer—	
+V-661	vegan	vegan	vegetables	vegetables	diet rich in fruits and	
+V-661	risk	risk	health	health	of breast cancer in the black women’s	

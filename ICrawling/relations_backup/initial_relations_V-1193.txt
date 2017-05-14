@@ -1,0 +1,17 @@
+
+V-1193	patulin	patulin	apple	apple	levels in	
+V-1193	apple	apple	juice	juice		
+V-1193	world health organization	world health organization	juice	juice	safety guidelines.always better to consume apples than apple	
+V-1193	patulin	patulin	juice	juice	levels in apple	
+V-1193	health	health	apple juice	apple juice	organization safety guidelines.always better to consume apples than	
+V-1193	world health organization	world health organization	apple	apple	safety guidelines.always better to consume apples than	
+V-1193	patulin	patulin	fruit	fruit	levels in apple juice—the #1 source of	
+V-1193	patulin	patulin	apple juice	apple juice	levels in	
+V-1193	health	health	apple	apple	organization safety guidelines.always better to consume apples than	
+V-1193	world health organization	world health organization	apple juice	apple juice	safety guidelines.always better to consume apples than	
+V-1193	apple	apple	organic	organic	juice, choose	
+V-1193	apples	apples	apple	apple	than	
+V-1193	apples	apples	juice	juice	than apple	
+V-1193	world health organization	world health organization	apples	apples	safety guidelines.always better to consume	
+V-1193	apples	apples	apple juice	apple juice	than	
+V-1193	health	health	apples	apples	organization safety guidelines.always better to consume	

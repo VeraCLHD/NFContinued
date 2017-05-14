@@ -1,0 +1,6 @@
+
+V-1079	cancer	cancer	cholesterol	cholesterol	led to the low	
+V-1079	cholesterol	cholesterol	ldl	ldl	—	
+V-1079	doctors	doctors	cholesterol	cholesterol	telling people not to let their	
+V-1079	bad cholesterol	bad cholesterol	ldl	ldl	—	
+V-1079	cancer	cancer	cholesterol	cholesterol	have really low	

@@ -1,0 +1,45 @@
+
+T-1707	salt	salt	disease	disease	may contribute to kidney stones, dry eye	
+T-1707	gargling	gargling	salt water	salt water	with	
+T-1707	eye	eye	blood	blood	disease, obesity, heart disease, stroke, and high	
+T-1707	kidney	kidney	stroke	stroke	stones, dry eye disease, obesity, heart disease,	
+T-1707	kidney	kidney	heart disease	heart disease	stones, dry eye disease, obesity,	
+T-1707	sodium	sodium	chicken	chicken	coming from bread,	
+T-1707	kidney	kidney	disease	disease	stones, dry eye	
+T-1707	kidney	kidney	eye disease	eye disease	stones, dry	
+T-1707	diabetes	diabetes	cancer	cancer	and	
+T-1707	eye	eye	obesity	obesity	disease,	
+T-1707	meat	meat	europe	europe	and poultry preservation is banned in	
+T-1707	meat	meat	poultry	poultry	and	
+T-1707	standard american diet	standard american diet	sodium	sodium	can be heavy in salt, with most	
+T-1707	salt	salt	water	water		
+T-1707	salt	salt	obesity	obesity	may contribute to kidney stones, dry eye disease,	
+T-1707	eye	eye	stroke	stroke	disease, obesity, heart disease,	
+T-1707	blood	blood	salt	salt	pressure.while iodized	
+T-1707	kidney	kidney	obesity	obesity	stones, dry eye disease,	
+T-1707	diet	diet	sodium	sodium	can be heavy in salt, with most	
+T-1707	gargling	gargling	water	water	with salt	
+T-1707	meat	meat	preservation	preservation	and poultry	
+T-1707	salt	salt	kidney stones	kidney stones	may contribute to	
+T-1707	diet	diet	salt	salt	can be heavy in	
+T-1707	kidney	kidney	eye	eye	stones, dry	
+T-1707	diabetes	diabetes	salt	salt	and cancer are	
+T-1707	eye	eye	heart disease	heart disease	disease, obesity,	
+T-1707	blood	blood	iodine	iodine	pressure.while iodized salt provides needed	
+T-1707	cancer	cancer	salt	salt	are	
+T-1707	salt	salt	eye	eye	may contribute to kidney stones, dry	
+T-1707	eye	eye	disease	disease		
+T-1707	sodium	sodium	bread	bread	coming from	
+T-1707	salt	salt	eye disease	eye disease	may contribute to kidney stones, dry	
+T-1707	salt	salt	kidney	kidney	may contribute to	
+T-1707	blood	blood	seaweed	seaweed	pressure.while iodized salt provides needed iodine,	
+T-1707	preservation	preservation	europe	europe	is banned in	
+T-1707	seaweed	seaweed	iodine	iodine	may be the best source of	
+T-1707	sodium	sodium	salt	salt	than	
+T-1707	standard american diet	standard american diet	salt	salt	can be heavy in	
+T-1707	poultry	poultry	europe	europe	preservation is banned in	
+T-1707	gargling	gargling	salt	salt	with	
+T-1707	sodium	sodium	pizza	pizza	coming from bread, chicken,	
+T-1707	salt	salt	taste buds	taste buds	-free diet, the	
+T-1707	salt	salt	diet	diet	-free	
+T-1707	poultry	poultry	preservation	preservation		

@@ -1,0 +1,15 @@
+
+V-210	blood	blood	sigmoidoscopy	sigmoidoscopy	every year, no scoping at all; or a	
+V-210	cancer	cancer	prevention	prevention	screening and	
+V-210	doctors	doctors	colonoscopy	colonoscopy	recommend	
+V-210	new york times	new york times	doctors	doctors	exposé concluded that the reason	
+V-210	colorectal cancer	colorectal cancer	prevention	prevention	screening and	
+V-210	goose	goose	egg	egg	that laid the golden	
+V-210	colon	colon	screening	screening	cancer	
+V-210	colon cancer	colon cancer	screening	screening		
+V-210	colon	colon	cancer	cancer		
+V-210	screening	screening	prevention	prevention	and	
+V-210	colorectal cancer	colorectal cancer	screening	screening		
+V-210	cancer	cancer	screening	screening		
+V-210	colonoscopy	colonoscopy	goose	goose	is the	
+V-210	colonoscopy	colonoscopy	egg	egg	is the goose that laid the golden	

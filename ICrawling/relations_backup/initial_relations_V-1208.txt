@@ -1,0 +1,14 @@
+
+V-1208	chocolate	chocolate	cocoa	cocoa	isn’t good for you; the fat in chocolate—the	
+V-1208	sugar	sugar	fat	fat	in chocolate isn’t good for you; the	
+V-1208	fat	fat	butter	butter	in chocolate—the cocoa	
+V-1208	fat	fat	cocoa butter	cocoa butter	in chocolate—the	
+V-1208	sugar	sugar	chocolate	chocolate	in	
+V-1208	chocolate	chocolate	cocoa butter	cocoa butter	isn’t good for you; the fat in chocolate—the	
+V-1208	fat	fat	cocoa	cocoa	in chocolate—the	
+V-1208	american heart association	american heart association	cocoa	cocoa	this year to conclude that "	
+V-1208	yale	yale	dark chocolate	dark chocolate	examining, “acute	
+V-1208	yale	yale	chocolate	chocolate	examining, “acute dark	
+V-1208	cocoa	cocoa	butter	butter		
+V-1208	chocolate	chocolate	fat	fat	isn’t good for you; the	
+V-1208	fat	fat	chocolate	chocolate	in	

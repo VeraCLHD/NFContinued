@@ -1,0 +1,18 @@
+
+V-185	fish oil	fish oil	americans	americans	capsules, millions of	
+V-185	fish oil	fish oil	heart disease	heart disease	appears useless in preventing	
+V-185	fish	fish	fat	fat		
+V-185	fish	fish	heart disease	heart disease	oil appears useless in preventing	
+V-185	atherosclerosis	atherosclerosis	arteries	arteries	in her aorta and coronary	
+V-185	fish	fish	americans	americans	oil capsules, millions of	
+V-185	diet	diet	health	health	as dangerous to	
+V-185	stroke	stroke	health	health	rate and don’t live particularly long.considering the dismal	
+V-185	fish oil	fish oil	disease	disease	appears useless in preventing heart	
+V-185	fish	fish	disease	disease	oil appears useless in preventing heart	
+V-185	atherosclerosis	atherosclerosis	aorta	aorta	in her	
+V-185	fruits	fruits	vegetables	vegetables	and	
+V-185	vegetables	vegetables	nutrition	nutrition	—violating all principles of heart-healthy	
+V-185	aorta	aorta	arteries	arteries	and coronary	
+V-185	diet	diet	twinkies	twinkies	’s bad when the arrival of	
+V-185	fruits	fruits	nutrition	nutrition	and vegetables—violating all principles of heart-healthy	
+V-185	disease	disease	diet	diet	would be strange in a meat-based	

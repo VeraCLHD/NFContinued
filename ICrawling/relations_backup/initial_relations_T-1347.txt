@@ -1,0 +1,71 @@
+
+T-1347	vegetables	vegetables	antioxidants	antioxidants	determined the worst cooking method to preserve	
+T-1347	tor	tor	breast cancer	breast cancer	expression has been seen in	
+T-1347	phytonutrients	phytonutrients	fruits	fruits	in	
+T-1347	cooking method	cooking method	microwaving	microwaving	is	
+T-1347	phytonutrients	phytonutrients	red wine	red wine	in fruits, vegetables, tea,	
+T-1347	cooking method	cooking method	antioxidants	antioxidants	to preserve	
+T-1347	meat	meat	dairy	dairy	and fish, and	
+T-1347	phytonutrients	phytonutrients	vegetables	vegetables	in fruits,	
+T-1347	cauliflower	cauliflower	onions	onions	and cabbage), and alliums (including garlic,	
+T-1347	onions	onions	leeks	leeks	and	
+T-1347	cooking	cooking	boiling	boiling	method to preserve antioxidants is	
+T-1347	cooking method	cooking method	boiling	boiling	to preserve antioxidants is	
+T-1347	wine	wine	beans	beans	and	
+T-1347	cooking	cooking	antioxidants	antioxidants	method is microwaving, which preserves 97.3% of the	
+T-1347	garlic	garlic	raw	raw	possess powerful anti-blood clotting qualities when consumed	
+T-1347	cooked meat	cooked meat	fish	fish	and	
+T-1347	antioxidants	antioxidants	pressure cooking	pressure cooking	is boiling, followed by	
+T-1347	vegetables	vegetables	cabbage	cabbage	(like broccoli, kale, cauliflower and	
+T-1347	beans	beans	dioxins	dioxins	block the effects of	
+T-1347	beets	beets	cooking	cooking	and onions weren’t affected by	
+T-1347	phytonutrients	phytonutrients	tea	tea	in fruits, vegetables,	
+T-1347	beets	beets	onions	onions	and	
+T-1347	cruciferous vegetables	cruciferous vegetables	cauliflower	cauliflower	(like broccoli, kale,	
+T-1347	onions	onions	cooking	cooking	weren’t affected by	
+T-1347	red wine	red wine	dioxins	dioxins	and beans block the effects of	
+T-1347	raw	raw	dioxin	dioxin	red onion daily may cut	
+T-1347	breast cancer	breast cancer	garlic	garlic	tumors.onions and	
+T-1347	baking	baking	frying	frying	and	
+T-1347	vegetables	vegetables	broccoli	broccoli	(like	
+T-1347	phytonutrients	phytonutrients	beans	beans	in fruits, vegetables, tea, red wine and	
+T-1347	risk	risk	heart attack	heart attack	of	
+T-1347	vegetables	vegetables	cooking	cooking	determined the worst	
+T-1347	antioxidants	antioxidants	cooking	cooking	is boiling, followed by pressure	
+T-1347	dioxins	dioxins	fish	fish	in cigarette smoke, exhaust fumes, cooked meat and	
+T-1347	cabbage	cabbage	onions	onions	), and alliums (including garlic,	
+T-1347	antioxidants	antioxidants	frying	frying	is boiling, followed by pressure cooking, baking and	
+T-1347	cauliflower	cauliflower	cabbage	cabbage	and	
+T-1347	tea	tea	strawberries	strawberries	and	
+T-1347	dioxins	dioxins	cooked meat	cooked meat	in cigarette smoke, exhaust fumes,	
+T-1347	cruciferous vegetables	cruciferous vegetables	kale	kale	(like broccoli,	
+T-1347	cruciferous vegetables	cruciferous vegetables	cabbage	cabbage	(like broccoli, kale, cauliflower and	
+T-1347	cauliflower	cauliflower	leeks	leeks	and cabbage), and alliums (including garlic, onions and	
+T-1347	cabbage	cabbage	leeks	leeks	), and alliums (including garlic, onions and	
+T-1347	cabbage	cabbage	garlic	garlic	), and alliums (including	
+T-1347	antioxidants	antioxidants	boiling	boiling	is	
+T-1347	cooking	cooking	antioxidants	antioxidants	method to preserve	
+T-1347	green tea	green tea	strawberries	strawberries	and	
+T-1347	cruciferous vegetables	cruciferous vegetables	broccoli	broccoli	(like	
+T-1347	dioxins	dioxins	diet	diet	we absorb are absorbed through	
+T-1347	cooking method	cooking method	antioxidants	antioxidants	is microwaving, which preserves 97.3% of the	
+T-1347	antioxidants	antioxidants	baking	baking	is boiling, followed by pressure cooking,	
+T-1347	vegetables	vegetables	cauliflower	cauliflower	(like broccoli, kale,	
+T-1347	tor	tor	cancer	cancer	expression has been seen in breast	
+T-1347	cooked meat	cooked meat	dairy	dairy	and fish, and	
+T-1347	meat	meat	fish	fish	and	
+T-1347	vegetables	vegetables	antioxidant content	antioxidant content	lose some	
+T-1347	dioxins	dioxins	meat	meat	in cigarette smoke, exhaust fumes, cooked	
+T-1347	phytonutrients	phytonutrients	wine	wine	in fruits, vegetables, tea, red	
+T-1347	wine	wine	dioxins	dioxins	and beans block the effects of	
+T-1347	cooking method	cooking method	cooking	cooking	to preserve antioxidants is boiling, followed by pressure	
+T-1347	cooking method	cooking method	pressure cooking	pressure cooking	to preserve antioxidants is boiling, followed by	
+T-1347	vegetables	vegetables	antioxidant	antioxidant	lose some	
+T-1347	cooking	cooking	microwaving	microwaving	method is	
+T-1347	cancer	cancer	garlic	garlic	tumors.onions and	
+T-1347	cauliflower	cauliflower	garlic	garlic	and cabbage), and alliums (including	
+T-1347	cancer	cancer	prevention	prevention		
+T-1347	cooking	cooking	pressure cooking	pressure cooking	method to preserve antioxidants is boiling, followed by	
+T-1347	red wine	red wine	beans	beans	and	
+T-1347	vegetables	vegetables	cooking method	cooking method	determined the worst	
+T-1347	vegetables	vegetables	kale	kale	(like broccoli,	

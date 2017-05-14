@@ -1,0 +1,39 @@
+
+T-1761	mood	mood	anxiety	anxiety	disturbance, depression,	
+T-1761	plant-based	plant-based	heart disease	heart disease	diet; moderate exercise; and stress management can reverse	
+T-1761	stress	stress	risk	risk	on their bodies that may increase their	
+T-1761	eggs	eggs	depression	depression	may improve mood disturbance,	
+T-1761	stress	stress	health	health	can be harmful to our	
+T-1761	disease	disease	risk	risk		
+T-1761	plant-based	plant-based	diet	diet		
+T-1761	cardiovascular disease	cardiovascular disease	risk	risk		
+T-1761	inflammation	inflammation	fish	fish	could explain why eliminating chicken,	
+T-1761	plant-based	plant-based	stress	stress	diet; moderate exercise; and	
+T-1761	risk	risk	antioxidant	antioxidant	of infection.stress may reduce our	
+T-1761	mood	mood	depression	depression	disturbance,	
+T-1761	saffron	saffron	stress	stress	may bring down	
+T-1761	stress	stress	symptoms	symptoms		
+T-1761	anxiety	anxiety	symptoms	symptoms	and stress	
+T-1761	mood	mood	stress	stress	disturbance, depression, anxiety and	
+T-1761	stress	stress	telomeres	telomeres	management may help protect	
+T-1761	rooibos	rooibos	stress	stress	tea may also help reduce	
+T-1761	mood	mood	symptoms	symptoms	disturbance, depression, anxiety and stress	
+T-1761	inflammation	inflammation	chicken	chicken	could explain why eliminating	
+T-1761	eggs	eggs	stress	stress	may improve mood disturbance, depression, anxiety and	
+T-1761	plant-based	plant-based	exercise	exercise	diet; moderate	
+T-1761	anxiety	anxiety	stress	stress	and	
+T-1761	eggs	eggs	symptoms	symptoms	may improve mood disturbance, depression, anxiety and stress	
+T-1761	athletes	athletes	stress	stress	who overtrain may actually put excessive	
+T-1761	vegetarians	vegetarians	omnivores	omnivores	appear be less stressed than	
+T-1761	antioxidant	antioxidant	stress	stress	levels, but	
+T-1761	rooibos	rooibos	tea	tea		
+T-1761	rooibos tea	rooibos tea	stress	stress	may also help reduce	
+T-1761	eggs	eggs	mood disturbance	mood disturbance	may improve	
+T-1761	stress	stress	disease	disease	management can reverse heart	
+T-1761	stress	stress	heart disease	heart disease	management can reverse	
+T-1761	eggs	eggs	mood	mood	may improve	
+T-1761	inflammation	inflammation	eggs	eggs	could explain why eliminating chicken, fish, and	
+T-1761	eggs	eggs	anxiety	anxiety	may improve mood disturbance, depression,	
+T-1761	exercise	exercise	stress	stress	can help reduce	
+T-1761	risk	risk	stress	stress	of infection.	
+T-1761	tea	tea	stress	stress	may also help reduce	

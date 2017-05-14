@@ -1,0 +1,55 @@
+
+T-1367	soy	soy	cranberries	cranberries	foods, tea, apples,	
+T-1367	risk	risk	smoking	smoking	include:	
+T-1367	ovarian cancer	ovarian cancer	indian gooseberries	indian gooseberries	include: soy foods, tea, apples, cranberries,	
+T-1367	risk	risk	meat	meat	include: smoking, acrylamide, dairy products, and	
+T-1367	cancer	cancer	acrylamide	acrylamide	risk include: smoking,	
+T-1367	soy	soy	sweet potatoes	sweet potatoes	foods, tea, apples, cranberries, indian gooseberries,	
+T-1367	ovarian cancer	ovarian cancer	acrylamide	acrylamide	risk include: smoking,	
+T-1367	risk	risk	milk	milk	for ovarian cancer might also consider limiting	
+T-1367	ovarian cancer	ovarian cancer	tea	tea	include: soy foods,	
+T-1367	milk	milk	pregnant	pregnant	consumption, especially milk from	
+T-1367	women	women	ovarian cancer	ovarian cancer	at risk for	
+T-1367	meat	meat	bladder	bladder	intake may increase	
+T-1367	ovarian cancer	ovarian cancer	sweet potatoes	sweet potatoes	include: soy foods, tea, apples, cranberries, indian gooseberries,	
+T-1367	meat	meat	cancer	cancer	intake may increase bladder	
+T-1367	ovarian cancer	ovarian cancer	apples	apples	include: soy foods, tea,	
+T-1367	ovarian cancer	ovarian cancer	soy foods	soy foods	include:	
+T-1367	cancer	cancer	tea	tea	include: soy foods,	
+T-1367	women	women	cancer	cancer	at risk for ovarian	
+T-1367	soy	soy	gooseberries	gooseberries	foods, tea, apples, cranberries, indian	
+T-1367	risk	risk	cancer	cancer	for ovarian	
+T-1367	cancer	cancer	soy	soy	include:	
+T-1367	cancer	cancer	dairy	dairy	risk include: smoking, acrylamide,	
+T-1367	risk	risk	ovarian cancer	ovarian cancer	for	
+T-1367	cancer	cancer	indian gooseberries	indian gooseberries	include: soy foods, tea, apples, cranberries,	
+T-1367	women	women	risk	risk	at	
+T-1367	soy	soy	indian gooseberries	indian gooseberries	foods, tea, apples, cranberries,	
+T-1367	soy	soy	potatoes	potatoes	foods, tea, apples, cranberries, indian gooseberries, sweet	
+T-1367	ovarian cancer	ovarian cancer	gooseberries	gooseberries	include: soy foods, tea, apples, cranberries, indian	
+T-1367	ovarian cancer	ovarian cancer	milk	milk	might also consider limiting	
+T-1367	soy	soy	tea	tea	foods,	
+T-1367	cancer	cancer	meat	meat	risk include: smoking, acrylamide, dairy products, and	
+T-1367	cancer	cancer	cranberries	cranberries	include: soy foods, tea, apples,	
+T-1367	pregnant	pregnant	cows	cows		
+T-1367	ovarian cancer	ovarian cancer	meat	meat	risk include: smoking, acrylamide, dairy products, and	
+T-1367	prevention	prevention	treatment	treatment	and	
+T-1367	cancer	cancer	risk	risk		
+T-1367	ovarian cancer	ovarian cancer	risk	risk		
+T-1367	cancer	cancer	soy foods	soy foods	include:	
+T-1367	dairy	dairy	meat	meat	products, and	
+T-1367	ovarian cancer	ovarian cancer	smoking	smoking	risk include:	
+T-1367	risk	risk	acrylamide	acrylamide	include: smoking,	
+T-1367	ovarian cancer	ovarian cancer	cranberries	cranberries	include: soy foods, tea, apples,	
+T-1367	milk	milk	cows	cows	consumption, especially milk from pregnant	
+T-1367	cancer	cancer	smoking	smoking	risk include:	
+T-1367	risk	risk	dairy	dairy	include: smoking, acrylamide,	
+T-1367	ovarian cancer	ovarian cancer	dairy	dairy	risk include: smoking, acrylamide,	
+T-1367	cancer	cancer	apples	apples	include: soy foods, tea,	
+T-1367	meat	meat	bladder cancer	bladder cancer	intake may increase	
+T-1367	bladder	bladder	cancer	cancer		
+T-1367	cancer	cancer	gooseberries	gooseberries	include: soy foods, tea, apples, cranberries, indian	
+T-1367	ovarian cancer	ovarian cancer	soy	soy	include:	
+T-1367	cancer	cancer	sweet potatoes	sweet potatoes	include: soy foods, tea, apples, cranberries, indian gooseberries,	
+T-1367	cancer	cancer	milk	milk	might also consider limiting	
+T-1367	soy	soy	apples	apples	foods, tea,	

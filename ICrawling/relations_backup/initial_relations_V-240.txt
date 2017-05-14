@@ -1,0 +1,17 @@
+
+V-240	hormones	hormones	adrenaline	adrenaline	like	
+V-240	stress	stress	cortisol	cortisol	hormone	
+V-240	heavy metal	heavy metal	music	music		
+V-240	blood	blood	music	music	pressure listening to fast classical	
+V-240	suicide	suicide	heavy metal	heavy metal	or some crime under the influence of	
+V-240	stress	stress	adrenaline	adrenaline	hormones like	
+V-240	mozart	mozart	hormones	hormones	cut stress	
+V-240	blood pressure	blood pressure	music	music	listening to fast classical	
+V-240	stress	stress	hormones	hormones		
+V-240	heavy metal	heavy metal	amylase	amylase	caused a heightened	
+V-240	amylase	amylase	saliva	saliva	is an enzyme in our	
+V-240	shock	shock	stress	stress	techno magnetiko,	
+V-240	mozart	mozart	adrenaline	adrenaline	cut stress hormones like	
+V-240	medical community	medical community	indigestion	indigestion		
+V-240	mozart	mozart	stress	stress	cut	
+V-240	endorphins	endorphins	painkillers	painkillers	are our body’s natural	

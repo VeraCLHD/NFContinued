@@ -1,0 +1,52 @@
+
+T-1747	statins	statins	disease	disease	typically reduce cardiovascular	
+T-1747	statins	statins	risk	risk	typically reduce cardiovascular disease	
+T-1747	american journal of cardiology	american journal of cardiology	cholesterol	cholesterol	states that eating a plant-based diet to lower	
+T-1747	cholesterol	cholesterol	drugs	drugs	levels to below the range for which statin	
+T-1747	disease	disease	drugs	drugs	apparently stop taking their statin	
+T-1747	risk	risk	produce	produce	of breast cancer.statins may	
+T-1747	statins	statins	ldl	ldl	days to have a significant	
+T-1747	disease	disease	risk	risk		
+T-1747	plant-based	plant-based	diet	diet		
+T-1747	heart attack	heart attack	risk	risk		
+T-1747	heart disease	heart disease	drugs	drugs	apparently stop taking their statin	
+T-1747	american journal of cardiology	american journal of cardiology	plant-based	plant-based	states that eating a	
+T-1747	lovastatin	lovastatin	red yeast rice	red yeast rice	amounts are not standard in	
+T-1747	lovastatin	lovastatin	yeast	yeast	amounts are not standard in red	
+T-1747	american journal of cardiology	american journal of cardiology	plant-based diet	plant-based diet	states that eating a	
+T-1747	cholesterol	cholesterol	exercise	exercise	with lifestyle choices such as diet,	
+T-1747	plant-based diet	plant-based diet	risk	risk	could possibly reduce absolute	
+T-1747	diet	diet	cholesterol	cholesterol	to lower	
+T-1747	drugs	drugs	cholesterol	cholesterol	commonly prescribed to lower	
+T-1747	plant-based diet	plant-based diet	cholesterol	cholesterol	to lower	
+T-1747	yeast	yeast	rice	rice		
+T-1747	plant-based	plant-based	cholesterol	cholesterol	diet to lower	
+T-1747	drugs	drugs	side effects	side effects	within a couple of years due to these	
+T-1747	rice	rice	cholesterol	cholesterol	to lower	
+T-1747	statins	statins	stomach	stomach	can have side effects, such as upset	
+T-1747	cholesterol	cholesterol	lovastatin	lovastatin	is not recommended because actual	
+T-1747	drugs	drugs	risk	risk	can do in reducing absolute heart attack	
+T-1747	plant-based	plant-based	risk	risk	diet could possibly reduce absolute	
+T-1747	drugs	drugs	heart attack	heart attack	can do in reducing absolute	
+T-1747	red yeast rice	red yeast rice	lovastatin	lovastatin	actually contains	
+T-1747	statins	statins	side effects	side effects	can have	
+T-1747	statins	statins	cardiovascular disease	cardiovascular disease	typically reduce	
+T-1747	drugs	drugs	fast food	fast food	be given out free with	
+T-1747	cardiovascular disease	cardiovascular disease	risk	risk		
+T-1747	peas	peas	cholesterol	cholesterol	per day may able to cut	
+T-1747	red yeast rice	red yeast rice	lovastatin	lovastatin	to lower cholesterol is not recommended because actual	
+T-1747	cholesterol	cholesterol	diet	diet	with lifestyle choices such as	
+T-1747	rice	rice	lovastatin	lovastatin	to lower cholesterol is not recommended because actual	
+T-1747	rice	rice	lovastatin	lovastatin	actually contains	
+T-1747	red yeast rice	red yeast rice	cholesterol	cholesterol	to lower	
+T-1747	risk	risk	whole foods	whole foods	is 3.1% over six years, while a	
+T-1747	yeast	yeast	cholesterol	cholesterol	rice to lower	
+T-1747	split peas	split peas	cholesterol	cholesterol	per day may able to cut	
+T-1747	diet	diet	risk	risk	could possibly reduce absolute	
+T-1747	ldl	ldl	cholesterol	cholesterol		
+T-1747	drugs	drugs	risk	risk	may be associated with more than double the	
+T-1747	american journal of cardiology	american journal of cardiology	diet	diet	states that eating a plant-based	
+T-1747	lovastatin	lovastatin	rice	rice	amounts are not standard in red yeast	
+T-1747	yeast	yeast	lovastatin	lovastatin	rice actually contains	
+T-1747	statins	statins	drugs	drugs	are a class of	
+T-1747	heart attack	heart attack	whole foods	whole foods	risk is 3.1% over six years, while a	
