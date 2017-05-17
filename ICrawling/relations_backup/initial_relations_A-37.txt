@@ -1,102 +1,19 @@
 
-A-37	high blood pressure	high blood pressure	plant-based diets	plant-based diets	as well: hibiscus tea vs.	
-A-37	disease	disease	cancer	cancer	and	
-A-37	blood pressure	blood pressure	pills	pills		
-A-37	blood	blood	tea	tea	pressure as well: hibiscus	
-A-37	cancer	cancer	disease	disease	and cardiovascular	
-A-37	how not to die	how not to die	heart disease	heart disease	from	
-A-37	how not to die	how not to die	diet	diet	from high blood pressure and kempner rice	
-A-37	flax seeds	flax seeds	flax	flax	for hypertension, compared to the side effect of	
-A-37	hibiscus tea	hibiscus tea	hibiscus	hibiscus	may help with high blood pressure as well:	
-A-37	plant-based diets	plant-based diets	diet	diet	for hypertension	
-A-37	how not to die	how not to die	blood	blood	from high	
-A-37	flax seeds	flax seeds	hypertension	hypertension	for	
-A-37	hibiscus	hibiscus	high blood pressure	high blood pressure	tea may help with	
-A-37	seeds	seeds	flax	flax	for hypertension, compared to the side effect of	
-A-37	flaxseeds	flaxseeds	blood pressure	blood pressure	every day, dropped their systolic	
-A-37	hibiscus tea	hibiscus tea	blood pressure	blood pressure	may help with high	
-A-37	plant-based	plant-based	salt	salt	diets or keep their	
-A-37	blood	blood	diet	diet	pressure pills, and don’t improve their	
-A-37	blood	blood	plant-based	plant-based	pressure as well: hibiscus tea vs.	
-A-37	hibiscus	hibiscus	blood pressure	blood pressure	tea may help with high	
-A-37	saturated fat	saturated fat	sugar	sugar	intake and maybe eat less	
-A-37	health	health	meat	meat	because of studies associating	
-A-37	how not to die	how not to die	rice diet	rice diet	from high blood pressure and kempner	
-A-37	plant-based diets	plant-based diets	hypertension	hypertension	for	
-A-37	blood pressure	blood pressure	plant-based	plant-based	as well: hibiscus tea vs.	
-A-37	plant-based	plant-based	hypertension	hypertension	diets for	
-A-37	heart disease	heart disease	disease	disease	(how not to die from heart	
-A-37	disease	disease	heart disease	heart disease	(how not to die from	
-A-37	tomatoes	tomatoes	cancer	cancer	are healthy, associated with reduced risks of	
-A-37	plant-based diets	plant-based diets	diabetes	diabetes	and	
-A-37	blood	blood	hibiscus tea	hibiscus tea	pressure as well:	
-A-37	health	health	disease	disease	because of studies associating meat consumption with heart	
-A-37	high blood pressure	high blood pressure	hibiscus	hibiscus	as well:	
-A-37	plant-based	plant-based	diabetes	diabetes	diets and	
-A-37	flax	flax	tomatoes	tomatoes	seeds and	
-A-37	flaxseeds	flaxseeds	blood	blood	every day, dropped their systolic	
-A-37	stroke	stroke	risk	risk		
+A-37	diet	diet	high blood pressure	high blood pressure	can even reverse some of the worst ravages of	
 A-37	flax seeds	flax seeds	tomatoes	tomatoes	and	
-A-37	blood pressure	blood pressure	tea	tea	as well: hibiscus	
-A-37	hibiscus	hibiscus	tea	tea		
-A-37	plant-based	plant-based	diet	diet	diets for hypertension	
-A-37	blood pressure	blood pressure	diet	diet	pills, and don’t improve their	
-A-37	blood	blood	hibiscus	hibiscus	pressure as well:	
-A-37	meat	meat	antioxidants	antioxidants	to reach those health-oriented consumers by boosting	
+A-37	disease	disease	cancer	cancer	and	
+A-37	diet	diet	blood pressure	blood pressure	can even reverse some of the worst ravages of high	
+A-37	hibiscus tea	hibiscus tea	blood pressure	blood pressure	may help with high	
 A-37	hibiscus tea	hibiscus tea	high blood pressure	high blood pressure	may help with	
-A-37	high blood pressure	high blood pressure	plant-based	plant-based	as well: hibiscus tea vs.	
-A-37	blood	blood	blood pressure	blood pressure	pressure: how not to die from high	
-A-37	high blood pressure	high blood pressure	hibiscus tea	hibiscus tea	as well:	
-A-37	blood pressure	blood pressure	hypertension	hypertension	as well: hibiscus tea vs. plant-based diets for	
-A-37	diabetes	diabetes	plant-based	plant-based	(how not to die from diabetes and 	
-A-37	how not to die	how not to die	disease	disease	from heart	
-A-37	placebo	placebo	molasses	molasses	containing foods, and even added bran and	
-A-37	seeds	seeds	hypertension	hypertension	for	
-A-37	how not to die	how not to die	rice	rice	from high blood pressure and kempner	
-A-37	hibiscus tea	hibiscus tea	blood	blood	may help with high	
-A-37	how not to die	how not to die	high blood pressure	high blood pressure	from	
-A-37	blood	blood	high blood pressure	high blood pressure	pressure: how not to die from	
-A-37	diabetes	diabetes	plant-based diets	plant-based diets	(how not to die from diabetes and 	
-A-37	side effects	side effects	drugs	drugs	of these	
-A-37	flax	flax	seeds	seeds		
-A-37	flax	flax	placebo	placebo	or	
-A-37	diet	diet	drugs	drugs	at all, despite the	
-A-37	flax seeds	flax seeds	risk	risk	can cut	
-A-37	fat	fat	sugar	sugar	intake and maybe eat less	
-A-37	how not to die	how not to die	diabetes	diabetes	from	
-A-37	blood	blood	how not to die	how not to die	pressure:	
-A-37	seeds	seeds	flax seeds	flax seeds	for hypertension, compared to the side effect of	
-A-37	blood pressure	blood pressure	blood	blood	: how not to die from high	
-A-37	flax	flax	hypertension	hypertension	seeds for	
-A-37	stroke	stroke	disease	disease	risk 46 percent and heart	
+A-37	plant-based diets	plant-based diets	diabetes	diabetes	and	
 A-37	seeds	seeds	risk	risk	can cut	
-A-37	high blood pressure	high blood pressure	blood pressure	blood pressure	: how not to die from high	
-A-37	ground flax	ground flax	seeds	seeds		
-A-37	hypertension	hypertension	diet	diet		
-A-37	health	health	heart disease	heart disease	because of studies associating meat consumption with	
-A-37	flax	flax	risk	risk	seeds can cut	
-A-37	heart disease	heart disease	cancer	cancer	and	
-A-37	rice	rice	diet	diet		
-A-37	risk	risk	disease	disease	46 percent and heart	
-A-37	blood	blood	pills	pills	pressure	
-A-37	tea	tea	hibiscus	hibiscus	may help with high blood pressure as well:	
-A-37	blood	blood	plant-based diets	plant-based diets	pressure as well: hibiscus tea vs.	
-A-37	risk	risk	heart disease	heart disease	46 percent and	
-A-37	tea	tea	high blood pressure	high blood pressure	may help with	
-A-37	high blood pressure	high blood pressure	tea	tea	as well: hibiscus	
-A-37	tea	tea	blood pressure	blood pressure	may help with high	
-A-37	blood pressure	blood pressure	plant-based diets	plant-based diets	as well: hibiscus tea vs.	
-A-37	blood pressure	blood pressure	hibiscus tea	hibiscus tea	as well:	
-A-37	high blood pressure	high blood pressure	hypertension	hypertension	as well: hibiscus tea vs. plant-based diets for	
-A-37	stroke	stroke	heart disease	heart disease	risk 46 percent and	
-A-37	tea	tea	blood	blood	may help with high	
-A-37	tea	tea	hibiscus tea	hibiscus tea	may help with high blood pressure as well:	
-A-37	blood pressure	blood pressure	hibiscus	hibiscus	as well:	
-A-37	diet	diet	heart disease	heart disease	can also play an important role in preventing	
-A-37	how not to die	how not to die	blood pressure	blood pressure	from high	
 A-37	seeds	seeds	tomatoes	tomatoes	and	
-A-37	blood pressure	blood pressure	high blood pressure	high blood pressure	: how not to die from	
-A-37	plant-based diets	plant-based diets	salt	salt	or keep their	
-A-37	high blood pressure	high blood pressure	blood	blood	: how not to die from high	
-A-37	hibiscus	hibiscus	blood	blood	tea may help with high	
+A-37	flax	flax	placebo	placebo	or	
+A-37	tea	tea	high blood pressure	high blood pressure	may help with	
+A-37	tea	tea	blood pressure	blood pressure	may help with high	
+A-37	heart disease	heart disease	cancer	cancer	and	
+A-37	diet	diet	blood	blood	can even reverse some of the worst ravages of high	
+A-37	flax seeds	flax seeds	risk	risk	can cut	
+A-37	tea	tea	blood	blood	may help with high	
 A-37	cancer	cancer	cardiovascular disease	cardiovascular disease	and	
+A-37	hibiscus tea	hibiscus tea	blood	blood	may help with high	

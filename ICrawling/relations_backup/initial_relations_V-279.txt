@@ -1,84 +1,16 @@
 
-V-279	colon	colon	risk	risk	cancer	
-V-279	death	death	united states	united states	in the	
-V-279	african	african	fiber	fiber	diet is highly processed and low in	
-V-279	colon	colon	meat	meat	cancer risk are the levels of	
-V-279	colon	colon	fiber	fiber	cancer in africans is not the	
-V-279	cancer	cancer	smoking	smoking	killer, by just not	
-V-279	saturated fat	saturated fat	cholesterol	cholesterol	they have total	
-V-279	colon cancer	colon cancer	meat	meat	risk are the levels of	
-V-279	colon	colon	fiber	fiber	cancer incidence.the modern african diet has a low	
-V-279	meat	meat	animal fat	animal fat	and	
-V-279	african	african	colon	colon	americans get more	
-V-279	cancer	cancer	animal fat	animal fat	risk are the levels of meat and	
-V-279	african	african	colon cancer	colon cancer	americans get more	
-V-279	fiber	fiber	colon	colon	—like us–why do they have 50 times less	
-V-279	cancer	cancer	diet	diet	incidence.the modern african	
-V-279	colon cancer	colon cancer	fiber	fiber	in africans is not the	
-V-279	colon	colon	cancer	cancer		
-V-279	fat	fat	cholesterol	cholesterol	they have total	
-V-279	colon	colon	african	african	cancer is extremely rare in native	
-V-279	protein	protein	risk	risk	that is most responsible for the increased cancer	
-V-279	african americans	african americans	cancer	cancer	get more colon	
-V-279	smoking	smoking	risk	risk	we can throw 90% of our	
-V-279	cancer	cancer	fiber	fiber	in africans is not the	
-V-279	risk	risk	fiber	fiber	for every 10 grams of	
-V-279	african	african	meat	meat	-americans and caucasian-americans is rich in	
-V-279	animal protein	animal protein	cancer	cancer	that is most responsible for the increased	
-V-279	colon cancer	colon cancer	fiber	fiber	incidence.the modern african diet has a low	
-V-279	whole grains	whole grains	fiber	fiber	and, therefore,	
-V-279	colorectal cancer	colorectal cancer	death	death	is the second leading cause of cancer	
-V-279	diet	diet	african	african	of both	
-V-279	african	african	diet	diet		
-V-279	risk	risk	animal fat	animal fat	are the levels of meat and	
-V-279	diet	diet	fiber	fiber	that was high in whole grains and, therefore,	
-V-279	colon	colon	diet	diet	cancer incidence.the modern african	
-V-279	fiber	fiber	colon cancer	colon cancer	—like us–why do they have 50 times less	
-V-279	colon	colon	animal fat	animal fat	cancer risk are the levels of meat and	
-V-279	colon cancer	colon cancer	african	african	incidence.the modern	
-V-279	diet	diet	meat	meat	of both african-americans and caucasian-americans is rich in	
-V-279	animal protein	animal protein	risk	risk	that is most responsible for the increased cancer	
-V-279	african	african	americans	americans		
-V-279	cancer	cancer	fiber	fiber	incidence.the modern african diet has a low	
-V-279	disease	disease	colon	colon	still remains rare; still 50 times less	
-V-279	smoking	smoking	lung cancer	lung cancer	is responsible for 90% of	
 V-279	americans	americans	colon cancer	colon cancer	get more	
-V-279	colon cancer	colon cancer	fat	fat	risk are the levels of meat and animal	
-V-279	protein	protein	cancer	cancer	that is most responsible for the increased	
-V-279	african	african	meat	meat	diet is so low in	
-V-279	fiber	fiber	united states	united states	intake; we’re talking	
-V-279	risk	risk	fat	fat	are the levels of meat and animal	
-V-279	cancer	cancer	cancer	cancer	is the second leading cause of	
-V-279	fiber	fiber	animal fat	animal fat	anymore, but they continue to minimize meat and	
-V-279	colon	colon	african	african	cancer incidence.the modern	
-V-279	cancer	cancer	risk	risk		
-V-279	death	death	lung cancer	lung cancer	in the united states, after	
-V-279	cancer	cancer	african	african	incidence.the modern	
-V-279	diet	diet	fiber	fiber	is highly processed and low in	
-V-279	colorectal cancer	colorectal cancer	cancer	cancer	is the second leading cause of	
-V-279	african americans	african americans	colon	colon	get more	
-V-279	african	african	fiber	fiber	diet has a low	
-V-279	diet	diet	fiber	fiber	has a low	
-V-279	diet	diet	whole grains	whole grains	that was high in	
-V-279	grains	grains	fiber	fiber	and, therefore,	
-V-279	colon cancer	colon cancer	animal fat	animal fat	risk are the levels of meat and	
 V-279	americans	americans	colon	colon	get more	
-V-279	smoking	smoking	cancer	cancer	is responsible for 90% of lung	
 V-279	cancer	cancer	african	african	is extremely rare in native	
 V-279	fiber	fiber	meat	meat	anymore, but they continue to minimize	
-V-279	americans	americans	cancer	cancer	get more colon	
 V-279	risk	risk	meat	meat	are the levels of	
-V-279	cancer	cancer	death	death	is the second leading cause of cancer	
-V-279	cancer	cancer	fat	fat	risk are the levels of meat and animal	
-V-279	diet	diet	grains	grains	that was high in whole	
-V-279	african	african	cancer	cancer	americans get more colon	
-V-279	colon cancer	colon cancer	diet	diet	incidence.the modern african	
-V-279	colon	colon	disease	disease		
+V-279	meat	meat	animal fat	animal fat	and	
+V-279	whole grains	whole grains	fiber	fiber	and, therefore,	
+V-279	diet	diet	fiber	fiber	is highly processed and low in	
+V-279	african americans	african americans	colon	colon	get more	
+V-279	diet	diet	fiber	fiber	has a low	
 V-279	colon cancer	colon cancer	african	african	is extremely rare in native	
 V-279	african americans	african americans	colon cancer	colon cancer	get more	
-V-279	death	death	cancer	cancer	in the united states, after lung	
-V-279	colon disease	colon disease	colon	colon	still remains rare; still 50 times less	
-V-279	cancer	cancer	meat	meat	risk are the levels of	
-V-279	colon cancer	colon cancer	risk	risk		
-V-279	meat	meat	fat	fat	and animal	
+V-279	grains	grains	fiber	fiber	and, therefore,	
+V-279	smoking	smoking	lung cancer	lung cancer	is responsible for 90% of	
 V-279	diet	diet	meat	meat	is so low in	

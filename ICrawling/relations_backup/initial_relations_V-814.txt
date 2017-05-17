@@ -1,11 +1,5 @@
 
-V-814	fish	fish	amnesia	amnesia	toxins, but, most interestingly, causes	
-V-814	seafood	seafood	tuna	tuna	toxin has been found in	
-V-814	fish	fish	toxins	toxins		
-V-814	fish	fish	memory	memory	toxins, but, most interestingly, causes amnesia, permanent short-term	
 V-814	health	health	seafood	seafood	and	
+V-814	cooking	cooking	domoic acid	domoic acid	will not increase the safety [of the products contaminated with	
 V-814	lies	lies	infants	infants	in	
-V-814	lies	lies	children	children	in infants and	
 V-814	infants	infants	children	children	and	
-V-814	seafood	seafood	anchovies	anchovies	toxin has been found in tuna,	
-V-814	seafood	seafood	mackerel	mackerel	toxin has been found in tuna, anchovies,	

@@ -1,24 +1,3 @@
 
-V-957	plant-based diet	plant-based diet	vegetables	vegetables	that emphasizes	
-V-957	beans	beans	grains	grains	and peas, fruits, whole	
-V-957	beans	beans	nuts	nuts	and peas, fruits, whole grains,	
-V-957	beans	beans	whole grains	whole grains	and peas, fruits,	
-V-957	plant-based diet	plant-based diet	beans	beans	that emphasizes vegetables, cooked dry	
-V-957	orange	orange	meat	meat	represents grains, and purple, the	
-V-957	diet	diet	beans	beans	that emphasizes vegetables, cooked dry	
-V-957	diet	diet	fruits	fruits	that emphasizes vegetables, cooked dry beans and peas,	
-V-957	plant-based	plant-based	cholesterol	cholesterol	adaptation, for those who aim to eliminate	
-V-957	plant-based	plant-based	diet	diet		
-V-957	plant-based	plant-based	beans	beans	diet that emphasizes vegetables, cooked dry	
-V-957	diet	diet	vegetables	vegetables	that emphasizes	
-V-957	plant-based diet	plant-based diet	fruits	fruits	that emphasizes vegetables, cooked dry beans and peas,	
-V-957	trans fat	trans fat	diet	diet	from their	
-V-957	diet	diet	peas	peas	that emphasizes vegetables, cooked dry beans and	
 V-957	beans	beans	peas	peas	and	
-V-957	plant-based	plant-based	saturated animal fat	saturated animal fat	adaptation, for those who aim to eliminate cholesterol,	
-V-957	plant-based	plant-based	vegetables	vegetables	diet that emphasizes	
-V-957	plant-based diet	plant-based diet	peas	peas	that emphasizes vegetables, cooked dry beans and	
-V-957	plant-based	plant-based	peas	peas	diet that emphasizes vegetables, cooked dry beans and	
 V-957	orange	orange	grains	grains	represents	
-V-957	beans	beans	seeds	seeds	and peas, fruits, whole grains, nuts, and	
-V-957	beans	beans	fruits	fruits	and peas,	

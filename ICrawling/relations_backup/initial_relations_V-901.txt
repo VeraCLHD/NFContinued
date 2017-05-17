@@ -1,19 +1,2 @@
 
-V-901	mercury	mercury	arsenic	arsenic	sulfide,	
-V-901	burning	burning	lead	lead		
 V-901	azarcon	azarcon	greta	greta	and	
-V-901	chinese	chinese	herbal	herbal		
-V-901	produce	produce	infants	infants	pleasant fumes to calm	
-V-901	greta	greta	chinese	chinese	—almost pure lead, used to treat constipation.in traditional	
-V-901	lead	lead	arsenic	arsenic	oxide, mercury sulfide,	
-V-901	burning	burning	produce	produce	lead sulfides to	
-V-901	azarcon	azarcon	lead	lead	and greta—almost pure	
-V-901	burning	burning	infants	infants	lead sulfides to produce pleasant fumes to calm	
-V-901	lead	lead	mercury	mercury	oxide,	
-V-901	saoott	saoott	infants	infants	is used as a teething powder for	
-V-901	chinese	chinese	mercury	mercury	herbal medicine,	
-V-901	herbal	herbal	medicine	medicine		
-V-901	herbal	herbal	india	india	mixtures in cow’s urine.this is not just an	
-V-901	chinese	chinese	medicine	medicine	herbal	
-V-901	herbal	herbal	mercury	mercury	medicine,	
-V-901	greta	greta	lead	lead	—almost pure	

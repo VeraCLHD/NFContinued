@@ -1,19 +1,5 @@
 
 T-461	cinnamon	cinnamon	antioxidants	antioxidants	is a great source of 	
-T-461	herbs	herbs	antioxidants	antioxidants	and spices, including cinnamon, are so rich in	
 T-461	cinnamon	cinnamon	chinese	chinese	may be safer than the more common cassia (	
-T-461	oxalates	oxalates	turmeric	turmeric	as you do with	
-T-461	cinnamon	cinnamon	nutrition	nutrition	provides 	
-T-461	treatment	treatment	diabetes	diabetes	for 	
-T-461	herbs	herbs	spices	spices	and	
-T-461	pie	pie	cinnamon	cinnamon	 recipe.ceylon (true)	
-T-461	pumpkin	pumpkin	pie	pie		
-T-461	pumpkin	pumpkin	cinnamon	cinnamon	pie recipe.ceylon (true)	
-T-461	herbs	herbs	cinnamon	cinnamon	and spices, including	
-T-461	nutrition	nutrition	calories	calories	without	
-T-461	chinese	chinese	coumarin	coumarin	) cinnamon due to the compound,	
-T-461	antioxidants	antioxidants	antioxidant	antioxidant	that just a small pinch can double your	
-T-461	cinnamon	cinnamon	calories	calories	provides nutrition without	
-T-461	cassia cinnamon	cassia cinnamon	liver	liver	which data suggests may be toxic to the	
 T-461	cinnamon	cinnamon	antioxidants	antioxidants	is chock full of	
-T-461	cinnamon	cinnamon	antioxidants	antioxidants	is also one of the cheapest source	
+T-461	herbs	herbs	spices	spices	and	

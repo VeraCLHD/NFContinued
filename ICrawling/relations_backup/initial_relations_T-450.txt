@@ -1,42 +1,8 @@
 
-T-450	chocolate	chocolate	cocoa	cocoa	we should stick with using	
-T-450	sugar	sugar	cholesterol	cholesterol	and fat which may raise ldl	
-T-450	cocoa	cocoa	antioxidants	antioxidants	powder, especially since it has so many	
-T-450	pregnant women	pregnant women	anti-inflammatory	anti-inflammatory	should therefore be cautious when consuming high	
-T-450	chocolate	chocolate	fat	fat	usually contains added sugar and	
-T-450	disease	disease	cancer	cancer	and	
-T-450	fat	fat	ldl	ldl	which may raise	
-T-450	cancer	cancer	americans	americans	than	
-T-450	pregnant	pregnant	women	women		
-T-450	sugar	sugar	ldl	ldl	and fat which may raise	
-T-450	sugar	sugar	saturated fat	saturated fat	and	
-T-450	women	women	anti-inflammatory	anti-inflammatory	should therefore be cautious when consuming high	
-T-450	anti-inflammatory	anti-inflammatory	kuna indians	kuna indians	foods like cocoa powder.the	
-T-450	chocolate	chocolate	sugar	sugar	usually contains added	
-T-450	sugar	sugar	cocoa	cocoa	and fat which may raise ldl cholesterol, while	
-T-450	fat	fat	chocolate	chocolate	in	
-T-450	chocolate	chocolate	colon	colon	substitute, may protect	
-T-450	disease	disease	americans	americans	and cancer than	
-T-450	anti-inflammatory	anti-inflammatory	cocoa	cocoa	foods like	
-T-450	fat	fat	cholesterol	cholesterol	which may raise ldl	
-T-450	saturated fat	saturated fat	cocoa	cocoa	in chocolate we should stick with using	
-T-450	colon	colon	dna	dna	cells from	
-T-450	ldl	ldl	cocoa	cocoa	cholesterol, while	
-T-450	fatigue	fatigue	syndrome	syndrome		
-T-450	chocolate	chocolate	dna	dna	substitute, may protect colon cells from	
-T-450	sugar	sugar	ldl cholesterol	ldl cholesterol	and fat which may raise	
-T-450	ldl	ldl	cholesterol	cholesterol		
-T-450	sugar	sugar	fat	fat	and	
-T-450	heart disease	heart disease	americans	americans	and cancer than	
-T-450	colon	colon	chocolate	chocolate	cells from dna damage.check out this healthy	
-T-450	fat	fat	cocoa	cocoa	in chocolate we should stick with using	
-T-450	sugar	sugar	fat	fat	and saturated	
 T-450	heart disease	heart disease	cancer	cancer	and	
-T-450	sugar	sugar	chocolate	chocolate	and saturated fat in	
+T-450	fat	fat	chocolate	chocolate	in	
+T-450	disease	disease	cancer	cancer	and	
 T-450	saturated fat	saturated fat	chocolate	chocolate	in	
-T-450	fat	fat	ldl cholesterol	ldl cholesterol	which may raise	
-T-450	fat	fat	cocoa	cocoa	which may raise ldl cholesterol, while	
-T-450	cocoa	cocoa	kuna indians	kuna indians	powder.the	
-T-450	dna	dna	chocolate	chocolate	damage.check out this healthy	
-T-450	pregnant	pregnant	anti-inflammatory	anti-inflammatory	women should therefore be cautious when consuming high	
+T-450	sugar	sugar	fat	fat	and	
+T-450	sugar	sugar	saturated fat	saturated fat	and	
 T-450	kuna indians	kuna indians	cocoa	cocoa	drink over five cups of	

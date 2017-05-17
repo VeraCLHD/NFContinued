@@ -1,17 +1,3 @@
 
-V-699	pcbs	pcbs	children	children	on	
-V-699	children	children	breastfeeding	breastfeeding	versus the benefits of	
-V-699	blood	blood	pcbs	pcbs	concentrations of	
-V-699	pcbs	pcbs	pregnancy	pregnancy	during	
-V-699	milk	milk	pregnancy	pregnancy	after your first	
-V-699	infants	infants	milk	milk	tend to have higher levels in their breast	
-V-699	infants	infants	breast milk	breast milk	tend to have higher levels in their	
-V-699	pbcs	pbcs	breast milk	breast milk	in human	
-V-699	baby	baby	breast milk	breast milk	brothers and sisters down the line.same thing with	
-V-699	pbcs	pbcs	milk	milk	in human breast	
-V-699	pcbs	pcbs	breastfeeding	breastfeeding	on children versus the benefits of	
-V-699	toxins	toxins	baby	baby	—transfer them to your	
-V-699	blood	blood	pregnancy	pregnancy	concentrations of pcbs during	
 V-699	women	women	toxins	toxins	eat now may affect the levels of	
-V-699	breast milk	breast milk	pregnancy	pregnancy	after your first	
-V-699	mothers	mothers	infants	infants	who were breast fed as	
+V-699	infants	infants	breast milk	breast milk	tend to have higher levels in their	

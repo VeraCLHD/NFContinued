@@ -1,20 +1,6 @@
 
 V-1167	nuts	nuts	seeds	seeds	and	
-V-1167	nutrition	nutrition	salads	salads	in our	
-V-1167	walnut	walnut	fat	fat	halves is all the	
-V-1167	fat	fat	salsa	salsa	we need to add to	
-V-1167	avocado	avocado	fat	fat	is probably all the	
-V-1167	fat	fat	nutrition	nutrition	helps suck up the	
-V-1167	nuts	nuts	cashews	cashews	like	
-V-1167	fat	fat	nuts	nuts	is from whole foods, like	
-V-1167	phytonutrient	phytonutrient	cancer	cancer	that protects against	
-V-1167	phytonutrients	phytonutrients	fat	fat	in salad are	
-V-1167	salsa	salsa	phytonutrient	phytonutrient	—that great red	
-V-1167	lycopene	lycopene	salsa	salsa	we absorb from	
-V-1167	salsa	salsa	cancer	cancer	—that great red phytonutrient that protects against	
 V-1167	fat	fat	whole foods	whole foods	is from	
 V-1167	salsa	salsa	lycopene	lycopene	is packed with	
-V-1167	nutrition	nutrition	fat	fat	you absorb from a	
-V-1167	fat	fat	seeds	seeds	is from whole foods, like nuts and	
-V-1167	lycopene	lycopene	phytonutrient	phytonutrient	we absorb from salsa—that great red	
-V-1167	avocado	avocado	salsa	salsa	to that	
+V-1167	avocado	avocado	fat	fat	is probably all the	
+V-1167	fat	fat	nutrition	nutrition	helps suck up the	

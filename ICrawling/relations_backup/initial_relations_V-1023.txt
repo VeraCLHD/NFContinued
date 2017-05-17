@@ -1,15 +1,2 @@
 
-V-1023	pregnant	pregnant	memory	memory	suffer from diminished speech, visual, and	
-V-1023	licorice	licorice	kidney function	kidney function	so sweet can affect	
-V-1023	health food	health food	licorice	licorice	store	
-V-1023	licorice	licorice	pregnant	pregnant	when	
-V-1023	licorice	licorice	kidney	kidney	so sweet can affect	
 V-1023	kids	kids	licorice	licorice	born to moms who ate a lot of	
-V-1023	pregnant	pregnant	women	women		
-V-1023	health	health	licorice	licorice	food store	
-V-1023	licorice	licorice	corn syrup	corn syrup	root—not the artificially-flavored	
-V-1023	health food store	health food store	licorice	licorice		
-V-1023	licorice	licorice	memory	memory	when pregnant suffer from diminished speech, visual, and	
-V-1023	prostate	prostate	cancer	cancer		
-V-1023	licorice	licorice	corn	corn	root—not the artificially-flavored	
-V-1023	prostate	prostate	cancer cells	cancer cells		

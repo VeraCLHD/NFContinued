@@ -1,72 +1,10 @@
 
-V-768	postmenopausal	postmenopausal	women	women		
-V-768	supplements	supplements	iron supplements	iron supplements	.and so, before going on	
-V-768	iron	iron	iron supplements	iron supplements	supplements.and so, before going on	
-V-768	blood	blood	iron	iron	—heme	
-V-768	fat	fat	dna damage	dna damage	oxidation,	
-V-768	risk	risk	infection	infection	of colorectal cancer, heart disease,	
-V-768	iron	iron	plant foods	plant foods	in the human diet—the iron found in	
-V-768	breast cancer	breast cancer	risk	risk		
-V-768	risk	risk	anemia	anemia		
-V-768	chickpeas	chickpeas	vitamin c	vitamin c	and pumpkin seeds, while consuming	
-V-768	stress	stress	women	women	happened within the bodies of	
-V-768	chickpeas	chickpeas	pumpkin	pumpkin	and	
-V-768	dna	dna	cancer	cancer	damage, and may contribute to breast [	
-V-768	oxidative stress	oxidative stress	iron supplements	iron supplements	happened within the bodies of women on	
-V-768	vitamin c	vitamin c	citrus	citrus	-rich foods at the same meal, such as	
-V-768	iron supplements	iron supplements	iron	iron	.and so, before going on	
-V-768	iron	iron	supplements	supplements		
-V-768	iron	iron	lead	lead	in developed societies may, over time,	
-V-768	iron	iron	arthritis	arthritis	intake include alzheimer’s, parkinson’s,	
-V-768	tea	tea	coffee	coffee	and	
-V-768	iron	iron	free radicals	free radicals	overload favors the production of	
-V-768	iron	iron	diet	diet	in the human	
-V-768	women	women	supplements	supplements	on iron	
-V-768	coffee	coffee	organic	organic	with your meals, which can impair iron absorption.since	
-V-768	iron	iron	oxidation	oxidation	overload favors the production of free radicals, fat	
-V-768	coffee	coffee	iron	iron	with your meals, which can impair	
-V-768	stress	stress	supplements	supplements	happened within the bodies of women on iron	
-V-768	iron supplements	iron supplements	supplements	supplements	.and so, before going on iron	
-V-768	risk	risk	cancer	cancer	of colorectal	
-V-768	meat	meat	cancer	cancer	consumption has been tied to breast	
-V-768	fat	fat	oxidation	oxidation		
-V-768	iron	iron	anemia	anemia	deficiency	
-V-768	diet	diet	plant foods	plant foods	—the iron found in	
-V-768	oxidative stress	oxidative stress	women	women	happened within the bodies of	
-V-768	iron	iron	fat oxidation	fat oxidation	overload favors the production of free radicals,	
-V-768	pumpkin	pumpkin	vitamin c	vitamin c	seeds, while consuming	
-V-768	vitamin c	vitamin c	iron	iron	can boost	
-V-768	risk	risk	disease	disease	of colorectal cancer, heart	
-V-768	iron	iron	blood	blood	in ingested	
-V-768	risk	risk	heart disease	heart disease	of colorectal cancer,	
-V-768	cancer	cancer	risk	risk		
 V-768	risk	risk	colorectal cancer	colorectal cancer	of	
-V-768	meat	meat	risk	risk	consumption has been tied to breast cancer	
-V-768	iron	iron	fat	fat	overload favors the production of free radicals,	
-V-768	oxidative stress	oxidative stress	iron	iron	happened within the bodies of women on	
-V-768	organic	organic	iron	iron	acids like vitamin c can boost	
 V-768	chickpeas	chickpeas	pumpkin seeds	pumpkin seeds	and	
-V-768	fat	fat	dna	dna	oxidation,	
-V-768	diet	diet	iron	iron	—the	
-V-768	organic	organic	vitamin c	vitamin c	acids like	
-V-768	oxidative stress	oxidative stress	supplements	supplements	happened within the bodies of women on iron	
-V-768	anemia	anemia	iron	iron	should consider supplementing their	
-V-768	iron	iron	stress	stress	is a pro-oxidant, and can induce oxidative	
-V-768	meat	meat	breast cancer	breast cancer	consumption has been tied to	
-V-768	chickpeas	chickpeas	seeds	seeds	and pumpkin	
-V-768	iron	iron	heme iron	heme iron	in ingested blood—	
-V-768	lead	lead	postmenopausal	postmenopausal	to a physiologic state of iron overload in	
-V-768	lead	lead	iron	iron	to a physiologic state of	
-V-768	women	women	iron	iron	on	
-V-768	diet	diet	iron	iron	alone—by eating lots of healthy	
-V-768	tea	tea	iron	iron	and coffee with your meals, which can impair	
-V-768	postmenopausal	postmenopausal	blood	blood	women, who are no longer losing	
-V-768	diet	diet	chickpeas	chickpeas	alone—by eating lots of healthy iron-rich foods, like	
-V-768	stress	stress	iron	iron	happened within the bodies of women on	
-V-768	supplements	supplements	iron	iron	.and so, before going on	
-V-768	pumpkin	pumpkin	seeds	seeds		
-V-768	women	women	iron supplements	iron supplements	on	
-V-768	blood	blood	heme iron	heme iron	—	
+V-768	vitamin c	vitamin c	iron	iron	can boost	
 V-768	iron	iron	animal foods	animal foods	in	
-V-768	stress	stress	iron supplements	iron supplements	happened within the bodies of women on	
-V-768	iron	iron	oxidative stress	oxidative stress	is a pro-oxidant, and can induce	
+V-768	anemia	anemia	iron	iron	should consider supplementing their	
+V-768	oxidative stress	oxidative stress	women	women	happened within the bodies of	
+V-768	stress	stress	women	women	happened within the bodies of	
+V-768	tea	tea	coffee	coffee	and	
+V-768	chickpeas	chickpeas	pumpkin	pumpkin	and	

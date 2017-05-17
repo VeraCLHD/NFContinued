@@ -1,94 +1,31 @@
 
-V-251	iron	iron	lead	lead	in meat can	
-V-251	risk	risk	meat	meat	for every 50 grams of daily	
-V-251	glycotoxins	glycotoxins	saturated fat	saturated fat	in meat, or the	
 V-251	oxidative stress	oxidative stress	inflammation	inflammation	and	
-V-251	obesity	obesity	diet	diet	in a six-month old is not related to	
 V-251	diabetes	diabetes	obesity	obesity	and	
 V-251	pollutants	pollutants	diabetes	diabetes	and	
-V-251	lead	lead	oxidative stress	oxidative stress	to free radicals, and this iron-induced	
-V-251	diabetes	diabetes	meat	meat	in those who handle	
-V-251	heme iron	heme iron	lead	lead	in meat can	
+V-251	saturated fat	saturated fat	animal fat	animal fat	and	
+V-251	heavy metals	heavy metals	environment	environment	released every year into our	
+V-251	dairy	dairy	meat	meat	or	
 V-251	leucine	leucine	diet	diet	amounts provided by a more standard	
-V-251	diet	diet	plant-based	plant-based	in comparison to a more	
-V-251	leucine	leucine	meat	meat	intake provided by dairy or	
+V-251	glycotoxins	glycotoxins	meat	meat	in	
 V-251	meat	meat	diabetes	diabetes	and	
 V-251	animal fat	animal fat	meats	meats	and	
 V-251	fat	fat	meats	meats	and	
-V-251	plant-based	plant-based	diet	diet		
-V-251	toxins	toxins	insulin resistance	insulin resistance	alone induces weight gain and	
-V-251	lead	lead	free radicals	free radicals	to	
-V-251	iron	iron	lead	lead	-induced oxidative stress may	
-V-251	diet	diet	exercise	exercise	or lack of	
+V-251	fat	fat	animal fat	animal fat	and	
+V-251	oxidative stress	oxidative stress	lead	lead	may	
 V-251	animal proteins	animal proteins	igf-1	igf-1	may not only stimulate	
 V-251	weight gain	weight gain	insulin	insulin	and	
-V-251	chicken	chicken	meat	meat	breast's worth of	
-V-251	leucine	leucine	dairy	dairy	intake provided by	
-V-251	cabbage	cabbage	apples	apples	or 100	
-V-251	meta-analysis	meta-analysis	diabetes	diabetes	of all the cohorts looking at meat and	
-V-251	boiling	boiling	meat	meat		
-V-251	viruses	viruses	meat	meat	present in fresh cuts of	
-V-251	diabetes	diabetes	meat	meat	found significantly higher risk associated with total	
-V-251	glycotoxins	glycotoxins	roasted	roasted	are found in meat—particularly	
 V-251	chemicals	chemicals	heavy metals	heavy metals	and	
-V-251	iron	iron	free radicals	free radicals	in meat can lead to	
-V-251	meat	meat	free radicals	free radicals	can lead to	
-V-251	diabetes	diabetes	pollutants	pollutants	and obesity, but these industrial	
-V-251	animal fat	animal fat	diabetes	diabetes	and meats, and the development of type 2	
-V-251	saturated fat	saturated fat	fat	fat	and animal	
-V-251	diabetes	diabetes	industrial pollutants	industrial pollutants	and obesity, but these	
+V-251	diabetes	diabetes	bioaccumulation	bioaccumulation	noted, yes, we can be exposed through some toxic spill, but most of the human exposure nowadays is from the ingestion of contaminated food as a result of	
+V-251	glycotoxins	glycotoxins	animal fat	animal fat	may be the missing link between the increased consumption of	
+V-251	weight gain	weight gain	insulin resistance	insulin resistance	and	
+V-251	obesity	obesity	diabetes	diabetes	and	
 V-251	glycotoxins	glycotoxins	meat	meat	are found in	
-V-251	meat	meat	roasted	roasted	—particularly	
-V-251	diabetes	diabetes	viruses	viruses	-causing zoonotic infectious agents, like	
-V-251	oxidative stress	oxidative stress	diabetes	diabetes	may lead to chronic inflammation, and type 2	
 V-251	stress	stress	inflammation	inflammation	and	
-V-251	processed meat	processed meat	poultry	poultry	—particularly	
-V-251	stress	stress	diabetes	diabetes	may lead to chronic inflammation, and type 2	
 V-251	steaming	steaming	boiling	boiling	and	
 V-251	risk	risk	meat	meat	associated with total	
-V-251	steaming	steaming	meat	meat	and boiling	
 V-251	carcinogens	carcinogens	nitrosamines	nitrosamines	called	
-V-251	risk	risk	diabetes	diabetes	factors for type 2	
-V-251	chemicals	chemicals	environment	environment	and heavy metals released every year into our	
 V-251	iron	iron	meat	meat	in	
-V-251	lead	lead	iron	iron	to free radicals, and this	
-V-251	glycotoxins	glycotoxins	fat	fat	in meat, or the saturated	
-V-251	meat	meat	risk	risk	and diabetes found significantly higher	
-V-251	toxins	toxins	weight gain	weight gain	alone induces	
-V-251	stress	stress	chronic inflammation	chronic inflammation	may lead to	
-V-251	stress	stress	inflammation	inflammation	may lead to chronic	
-V-251	meat	meat	lead	lead	can	
-V-251	meat	meat	risk	risk	for the entire day may significantly increase the	
-V-251	saturated fat	saturated fat	animal fat	animal fat	and	
-V-251	heavy metals	heavy metals	environment	environment	released every year into our	
-V-251	tumor	tumor	c-reactive protein	c-reactive protein	necrosis factor,	
-V-251	dairy	dairy	meat	meat	or	
-V-251	glycotoxins	glycotoxins	meat	meat	in	
-V-251	plant-based	plant-based	pollutants	pollutants	diet.i’ve previously reviewed the role endocrine-disrupting industrial	
-V-251	industrial toxins	industrial toxins	weight gain	weight gain	alone induces	
-V-251	fat	fat	animal fat	animal fat	and	
-V-251	meat	meat	oxidative stress	oxidative stress	can lead to free radicals, and this iron-induced	
-V-251	oxidative stress	oxidative stress	lead	lead	may	
-V-251	protein	protein	leucine	leucine	.in general, lower	
-V-251	oxidative stress	oxidative stress	inflammation	inflammation	may lead to chronic	
-V-251	tumor	tumor	protein	protein	necrosis factor, c-reactive	
-V-251	diabetes	diabetes	meta-analysis	meta-analysis	in the first place.since the 2013	
-V-251	meta-analysis	meta-analysis	meat	meat	of all the cohorts looking at	
-V-251	oxidative stress	oxidative stress	chronic inflammation	chronic inflammation	may lead to	
-V-251	animal protein	animal protein	leucine	leucine	.in general, lower	
-V-251	toxins	toxins	insulin	insulin	alone induces weight gain and	
-V-251	weight gain	weight gain	insulin resistance	insulin resistance	and	
-V-251	lead	lead	stress	stress	to free radicals, and this iron-induced oxidative	
-V-251	obesity	obesity	diabetes	diabetes	and	
-V-251	industrial toxins	industrial toxins	insulin	insulin	alone induces weight gain and	
-V-251	fat	fat	diabetes	diabetes	and meats, and the development of type 2	
-V-251	heme iron	heme iron	free radicals	free radicals	in meat can lead to	
-V-251	diet	diet	diabetes	diabetes	and lifestyle contribute to the epidemic of	
-V-251	standard american diet	standard american diet	diabetes	diabetes	and lifestyle contribute to the epidemic of	
-V-251	plant-based	plant-based	industrial pollutants	industrial pollutants	diet.i’ve previously reviewed the role endocrine-disrupting	
-V-251	meat	meat	iron	iron	can lead to free radicals, and this	
 V-251	heme iron	heme iron	meat	meat	in	
-V-251	aging	aging	tor	tor	enzyme	
 V-251	stress	stress	lead	lead	may	
 V-251	risk	risk	diabetes	diabetes	of	
-V-251	industrial toxins	industrial toxins	insulin resistance	insulin resistance	alone induces weight gain and	
+V-251	meat	meat	lead	lead	can	

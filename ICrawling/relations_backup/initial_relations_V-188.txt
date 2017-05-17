@@ -1,36 +1,6 @@
 
-V-188	insulin resistance	insulin resistance	diabetes	diabetes	and ultimately, type 2	
-V-188	fat	fat	blood	blood	levels in the	
-V-188	prediabetes	prediabetes	risk	risk	is a disease in itself, increasing the	
-V-188	blood	blood	a1c	a1c	sugars, glucose tolerance, hemoglobin	
-V-188	blood	blood	glucose	glucose	sugars,	
-V-188	curcumin	curcumin	blood	blood	group saw a significant improvement in fasting	
-V-188	risk	risk	cancer	cancer	of death,	
-V-188	disease	disease	death	death	in itself, increasing the risk of	
-V-188	risk	risk	heart disease	heart disease	of death, cancer,	
-V-188	disease	disease	risk	risk	in itself, increasing the	
-V-188	curcumin	curcumin	diabetes	diabetes	extract for prevention of type 2	
-V-188	glucose	glucose	insulin	insulin	tolerance, hemoglobin a1c,	
-V-188	fats	fats	blood	blood	in the	
 V-188	supplements	supplements	curcumin	curcumin	of	
-V-188	prediabetes	prediabetes	plant-based	plant-based	may be cured completely, with a healthy	
-V-188	curcumin	curcumin	fasting blood sugars	fasting blood sugars	group saw a significant improvement in	
-V-188	glucose	glucose	a1c	a1c	tolerance, hemoglobin	
-V-188	supplements	supplements	turmeric	turmeric	of curcumin, the yellow pigment in the spice	
-V-188	insulin	insulin	diabetes	diabetes	resistance and ultimately, type 2	
-V-188	risk	risk	vision	vision	of death, cancer, heart disease, and	
-V-188	prediabetes	prediabetes	disease	disease	is a	
-V-188	diet	diet	supplements	supplements	rather than	
 V-188	turmeric	turmeric	curry powder	curry powder	and	
-V-188	diabetes	diabetes	treatment	treatment	.after nine months of	
-V-188	blood	blood	glucose tolerance	glucose tolerance	sugars,	
-V-188	risk	risk	disease	disease	of death, cancer, heart	
-V-188	placebo	placebo	diabetes	diabetes	group went on to get full-blown	
-V-188	curcumin	curcumin	prevention	prevention	extract for	
-V-188	prevention	prevention	diabetes	diabetes	of type 2	
-V-188	disease	disease	heart disease	heart disease	in itself, increasing the risk of death, cancer,	
 V-188	risk	risk	death	death	of	
-V-188	disease	disease	cancer	cancer	in itself, increasing the risk of death,	
-V-188	risk	risk	plants	plants	by eating powerful	
-V-188	blood	blood	insulin	insulin	sugars, glucose tolerance, hemoglobin a1c,	
 V-188	curcumin	curcumin	fat	fat	was able to do to	
+V-188	prediabetes	prediabetes	disease	disease	is a	

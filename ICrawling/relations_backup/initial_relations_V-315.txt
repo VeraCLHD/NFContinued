@@ -1,57 +1,13 @@
 
-V-315	blood	blood	cholesterol	cholesterol		
-V-315	whole grains	whole grains	disease	disease	could help prevent and treat fatty liver	
-V-315	grains	grains	liver	liver	could help prevent and treat fatty	
-V-315	blood	blood	sugar	sugar	cholesterol and blood	
-V-315	oatmeal	oatmeal	breakfast	breakfast	for	
-V-315	lead	lead	cancer	cancer	in rare cases to cirrhosis of the liver,	
-V-315	cholesterol	cholesterol	sugar	sugar	and blood	
-V-315	cholesterol	cholesterol	antioxidant	antioxidant	and blood sugar, boosting our immune system, anti-cancer,	
-V-315	cholesterol	cholesterol	immune system	immune system	and blood sugar, boosting our	
-V-315	exercise	exercise	diet	diet	and	
-V-315	whole grains	whole grains	liver	liver	could help prevent and treat fatty	
-V-315	risk	risk	cardiovascular disease	cardiovascular disease	of type 2 diabetes,	
-V-315	grains	grains	variety	variety	to be protective, via a	
-V-315	risk	risk	disease	disease	of type 2 diabetes, cardiovascular	
-V-315	grains	grains	fatty liver disease	fatty liver disease	could help prevent and treat	
-V-315	blood	blood	blood sugar	blood sugar	cholesterol and	
-V-315	weight gain	weight gain	whole grains	whole grains	for those who consumed a few servings of	
-V-315	cholesterol	cholesterol	blood	blood	and	
-V-315	fiber	fiber	fruit	fruit	than those who instead reach for	
-V-315	liver	liver	fatty liver disease	fatty liver disease	function.nonalcoholic	
-V-315	variety	variety	weight control	weight control	of mechanisms.so for example, in helping with	
-V-315	chemotherapy	chemotherapy	skin	skin	when just applied to the	
 V-315	heart disease	heart disease	whole grain	whole grain	show	
 V-315	whole grains	whole grains	fatty liver disease	fatty liver disease	could help prevent and treat	
-V-315	fiber	fiber	stomach	stomach	of oatmeal forms a gel in the	
-V-315	liver	liver	disease	disease		
-V-315	placebo	placebo	oatmeal	oatmeal		
-V-315	liver	liver	liver disease	liver disease	function.nonalcoholic fatty	
-V-315	oatmeal	oatmeal	stomach	stomach	forms a gel in the	
-V-315	whole grains	whole grains	liver disease	liver disease	could help prevent and treat fatty	
-V-315	diabetes	diabetes	disease	disease	and heart	
-V-315	diabetes	diabetes	whole grain	whole grain	and heart disease show	
-V-315	oatmeal	oatmeal	disease	disease	consumers have lower rates of	
-V-315	heart disease	heart disease	risk	risk	show whole grain intake is associated with lower	
-V-315	cancer	cancer	liver	liver	of the	
-V-315	risk	risk	weight gain	weight gain	of type 2 diabetes, cardiovascular disease, and	
-V-315	disease	disease	risk	risk	show whole grain intake is associated with lower	
 V-315	cholesterol	cholesterol	blood sugar	blood sugar	and	
-V-315	liver	liver	disease	disease	function.nonalcoholic fatty liver	
-V-315	risk	risk	diabetes	diabetes	of type 2	
-V-315	cancer	cancer	death	death	of the liver, and	
-V-315	obesity	obesity	weight gain	weight gain	—consistently less	
-V-315	lead	lead	liver	liver	in rare cases to cirrhosis of the	
-V-315	diabetes	diabetes	heart disease	heart disease	and	
-V-315	lead	lead	cirrhosis	cirrhosis	in rare cases to	
-V-315	grains	grains	liver disease	liver disease	could help prevent and treat fatty	
 V-315	fiber	fiber	oatmeal	oatmeal	of	
-V-315	cirrhosis	cirrhosis	death	death	of the liver, cancer of the liver, and	
-V-315	blood	blood	immune system	immune system	cholesterol and blood sugar, boosting our	
-V-315	disease	disease	whole grain	whole grain	show	
-V-315	cirrhosis	cirrhosis	cancer	cancer	of the liver,	
-V-315	whole grain	whole grain	risk	risk	intake is associated with lower	
-V-315	body mass index	body mass index	weight gain	weight gain	and body	
-V-315	cirrhosis	cirrhosis	liver	liver	of the	
-V-315	grains	grains	disease	disease	could help prevent and treat fatty liver	
-V-315	whole grains	whole grains	variety	variety	to be protective, via a	
+V-315	liver	liver	liver disease	liver disease	caused by excess food rather than excess drink, is now the most common cause of	
+V-315	cholesterol	cholesterol	blood	blood	and	
+V-315	exercise	exercise	diet	diet	and	
+V-315	oats	oats	blood	blood	are reported to possess varied drug-like activities like lowering of	
+V-315	oatmeal	oatmeal	stomach	stomach	forms a gel in the	
+V-315	grains	grains	fatty liver disease	fatty liver disease	could help prevent and treat	
+V-315	oatmeal	oatmeal	chemotherapy	chemotherapy	is so powerful that it can clear up some of the ravages of	
+V-315	diabetes	diabetes	heart disease	heart disease	and	

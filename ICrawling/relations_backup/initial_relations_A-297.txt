@@ -1,70 +1,8 @@
 
-A-297	women	women	cancer	cancer	contract hpv,  most don’t get cervical	
-A-297	health	health	cancer	cancer	study 2 is the first study of	
-A-297	igf-1	igf-1	meat	meat	(the answer to the pritikin puzzle), the foreign	
-A-297	pritikin	pritikin	tumors	tumors	puzzle), the foreign meat molecule neu5gc (how	
-A-297	growth hormone	growth hormone	pritikin	pritikin	igf-1 (the answer to the	
-A-297	virus	virus	dna	dna	’	
-A-297	vegetables	vegetables	risk	risk	may decrease the	
-A-297	cancer	cancer	growth hormone	growth hormone	-promoting	
-A-297	cooked meat	cooked meat	carcinogens	carcinogens	(estrogenic cooked meat	
-A-297	lutein	lutein	vegetables	vegetables	(found in dark green leafy	
-A-297	omnivores	omnivores	health	health	), but the adventist	
-A-297	meat	meat	neu5gc	neu5gc	molecule	
-A-297	vegan	vegan	women	women		
-A-297	cancer	cancer	disease	disease	is now considered a sexually transmitted	
-A-297	risk	risk	infection	infection	of hpv	
 A-297	nutrition	nutrition	inflammation	inflammation	can be found in boosting immunity while reducing	
-A-297	cancer	cancer	pritikin	pritikin	-promoting growth hormone igf-1 (the answer to the	
-A-297	vegetables	vegetables	lycopene	lycopene	) and	
-A-297	omnivores	omnivores	adventist health study	adventist health study	), but the	
-A-297	tumors	tumors	meat	meat	use	
-A-297	lutein	lutein	lycopene	lycopene	(found in dark green leafy vegetables) and	
-A-297	lutein	lutein	leafy vegetables	leafy vegetables	(found in dark green	
-A-297	neu5gc	neu5gc	xeno-autoantibodies	xeno-autoantibodies	(how tumors use meat to grow:	
-A-297	xeno-autoantibodies	xeno-autoantibodies	cooked meat	cooked meat	), and heterocyclines in	
-A-297	risk	risk	plant-based diets	plant-based diets	of hpv infection among those eating	
-A-297	igf-1	igf-1	pritikin	pritikin	(the answer to the	
-A-297	vegetarians	vegetarians	omnivores	omnivores	also have lower rates (see vegetarians versus healthy	
-A-297	dna	dna	cancer	cancer	fingerprinting proof that virtually all cervical	
-A-297	cooked meat	cooked meat	meat	meat	(estrogenic cooked	
-A-297	leafy vegetables	leafy vegetables	tomatoes	tomatoes	) and lycopene (the red pigment in	
-A-297	green tea	green tea	genital warts	genital warts	on	
-A-297	women	women	infection	infection	had significantly lower	
-A-297	pritikin	pritikin	meat	meat	puzzle), the foreign	
-A-297	virus	virus	cancer	cancer	can cause	
-A-297	cervical cancer	cervical cancer	human papilloma virus	human papilloma virus	is caused by a sexually transmitted virus,	
-A-297	xeno-autoantibodies	xeno-autoantibodies	meat	meat	), and heterocyclines in cooked	
-A-297	tea	tea	warts	warts	on genital	
-A-297	phytonutrients	phytonutrients	lutein	lutein	like	
-A-297	tumors	tumors	cooked meat	cooked meat	use meat to grow: xeno-autoantibodies), and heterocyclines in	
-A-297	pritikin	pritikin	neu5gc	neu5gc	puzzle), the foreign meat molecule	
-A-297	inflammation	inflammation	diet	diet	and boosting immunity through	
-A-297	risk	risk	plant-based	plant-based	of hpv infection among those eating	
-A-297	neu5gc	neu5gc	tumors	tumors	(how	
-A-297	dna	dna	cervical cancer	cervical cancer	fingerprinting proof that virtually all	
-A-297	immune function	immune function	nutrition	nutrition	with improved	
-A-297	meat	meat	tumors	tumors	molecule neu5gc (how	
-A-297	cervical cancer	cervical cancer	virus	virus	is caused by a sexually transmitted	
 A-297	women	women	infection	infection	clear the	
-A-297	green tea	green tea	warts	warts	on genital	
-A-297	cancer	cancer	human papilloma virus	human papilloma virus	is caused by a sexually transmitted virus,	
-A-297	cancer	cancer	igf-1	igf-1	-promoting growth hormone	
-A-297	growth hormone	growth hormone	igf-1	igf-1		
-A-297	vegetables	vegetables	tomatoes	tomatoes	) and lycopene (the red pigment in	
-A-297	fruit	fruit	cancer	cancer	fights	
-A-297	phytonutrients	phytonutrients	leafy vegetables	leafy vegetables	like lutein (found in dark green	
-A-297	vegetarian	vegetarian	women	women		
-A-297	adventist health study	adventist health study	cancer	cancer	2 is the first study of	
-A-297	cancer	cancer	vegans	vegans	rates among thousands of north american	
-A-297	tumors	tumors	xeno-autoantibodies	xeno-autoantibodies	use meat to grow:	
-A-297	lycopene	lycopene	tomatoes	tomatoes	(the red pigment in	
-A-297	cervical cancer	cervical cancer	disease	disease	is now considered a sexually transmitted	
-A-297	women	women	cervical cancer	cervical cancer	contract hpv,  most don’t get	
-A-297	tea	tea	genital warts	genital warts	on	
-A-297	phytonutrients	phytonutrients	vegetables	vegetables	like lutein (found in dark green leafy	
-A-297	cancer	cancer	virus	virus	is caused by a sexually transmitted	
-A-297	vegetarian	vegetarian	infection	infection	women had significantly lower	
-A-297	meat	meat	xeno-autoantibodies	xeno-autoantibodies	molecule neu5gc (how tumors use meat to grow:	
-A-297	leafy vegetables	leafy vegetables	lycopene	lycopene	) and	
-A-297	neu5gc	neu5gc	meat	meat	(how tumors use	
+A-297	women	women	infection	infection	had significantly lower	
+A-297	antioxidants	antioxidants	virus	virus	appear to suppress the activation of critical segments of the	
+A-297	vegetables	vegetables	risk	risk	may decrease the	
+A-297	tumors	tumors	meat	meat	use	
+A-297	virus	virus	cancer	cancer	can cause	

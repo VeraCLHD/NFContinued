@@ -1,58 +1,13 @@
 
-V-299	organic foods	organic foods	chemicals	chemicals	to avoid	
-V-299	antioxidant	antioxidant	vegetables	vegetables	phytonutrients found in organic	
-V-299	mutations	mutations	organic	organic	in the petri dishes where they added	
-V-299	broccoli	broccoli	sulforaphane	sulforaphane	releases the bitter compound	
-V-299	colon	colon	cancer cells	cancer cells		
+V-299	plants	plants	bugs	bugs	are bitten less by	
+V-299	strawberries	strawberries	colon	colon	suppressed the growth of	
 V-299	strawberries	strawberries	colon cancer	colon cancer	suppressed the growth of	
 V-299	cancer cells	cancer cells	breast cancer	breast cancer	and	
-V-299	organic	organic	vegetables	vegetables	fruits and	
-V-299	precancerous	precancerous	esophageal cancer	esophageal cancer	lesions, reversing the progression of	
-V-299	cancer	cancer	cancer	cancer	cells and breast	
-V-299	phytonutrient	phytonutrient	produce	produce	levels, organic	
-V-299	colon	colon	cancer	cancer		
-V-299	phytonutrients	phytonutrients	antioxidant	antioxidant	found in organic vegetables, and so yes, more	
-V-299	strawberries	strawberries	cancer	cancer	directly onto	
-V-299	cancer	cancer	breast cancer	breast cancer	cells and	
-V-299	organic	organic	antioxidant	antioxidant	vegetables, and so yes, more	
-V-299	in vitro studies	in vitro studies	antioxidant	antioxidant	show higher	
-V-299	antioxidant	antioxidant	phytonutrients	phytonutrients	activity and more phenolic	
-V-299	antioxidant	antioxidant	produce	produce	phytonutrient levels, organic	
-V-299	organic	organic	produce	produce		
-V-299	mutations	mutations	vegetables	vegetables	in the petri dishes where they added organic	
-V-299	strawberries	strawberries	cancer cells	cancer cells	directly onto	
-V-299	antioxidant	antioxidant	phytonutrient	phytonutrient		
-V-299	colon cancer	colon cancer	breast cancer	breast cancer	cells and	
-V-299	strawberries	strawberries	cancer cells	cancer cells	suppressed the growth of colon	
-V-299	fruits	fruits	vegetables	vegetables	and	
-V-299	phytonutrients	phytonutrients	organic	organic	found in	
-V-299	strawberries	strawberries	cancer	cancer	suppressed the growth of colon	
-V-299	plants	plants	bugs	bugs	are bitten less by	
-V-299	antioxidant	antioxidant	organic	organic	phytonutrients found in	
-V-299	cancer cells	cancer cells	cancer	cancer	and breast	
-V-299	bacteria	bacteria	chemicals	chemicals	to a variety of mutagenic	
-V-299	organic	organic	strawberries	strawberries		
-V-299	bacteria	bacteria	variety	variety	to a	
-V-299	organic	organic	fruits	fruits		
-V-299	breast cancer	breast cancer	strawberries	strawberries	cells significantly better than extracts from conventional	
-V-299	dna damage	dna damage	bacteria	bacteria	in	
-V-299	strawberries	strawberries	antioxidant	antioxidant	may taste sweeter and better, and have higher	
-V-299	organic	organic	chemicals	chemicals	foods to avoid	
-V-299	colon	colon	breast cancer	breast cancer	cancer cells and	
-V-299	organic	organic	vegetables	vegetables		
-V-299	strawberries	strawberries	breast cancer	breast cancer	suppressed the growth of colon cancer cells and	
-V-299	variety	variety	chemicals	chemicals	of mutagenic	
-V-299	cancer	cancer	cancer cells	cancer cells	cells and breast	
-V-299	antioxidant	antioxidant	phytonutrients	phytonutrients		
-V-299	dna	dna	organic	organic	mutations in the petri dishes where they added	
-V-299	precancerous	precancerous	cancer	cancer	lesions, reversing the progression of esophageal	
 V-299	vegetables	vegetables	variety	variety	had between 19% and 69% more of a	
 V-299	vitamins	vitamins	minerals	minerals	and	
-V-299	colon cancer	colon cancer	cancer cells	cancer cells	cells and breast	
-V-299	strawberries	strawberries	colon	colon	suppressed the growth of	
-V-299	antioxidant	antioxidant	organic	organic	phytonutrient levels,	
-V-299	phytonutrient	phytonutrient	organic	organic	levels,	
-V-299	variety	variety	antioxidant	antioxidant	of these	
-V-299	colon cancer	colon cancer	cancer	cancer	cells and breast	
-V-299	phytonutrients	phytonutrients	vegetables	vegetables	found in organic	
-V-299	dna	dna	mutations	mutations		
+V-299	fruits	fruits	vegetables	vegetables	and	
+V-299	plants	plants	antioxidants	antioxidants	given high dose synthetic nitrogen fertilizers may divert more resources to growth rather than defense.these	
+V-299	phytonutrients	phytonutrients	organic	organic	found in	
+V-299	in vitro studies	in vitro studies	antioxidant	antioxidant	show higher	
+V-299	plants	plants	fruits	fruits	are thought to be behind many of the benefits ascribed to eating	
+V-299	dna damage	dna damage	bacteria	bacteria	in	

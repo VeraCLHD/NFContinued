@@ -1,19 +1,6 @@
 
-A-484	vegetables	vegetables	red meat	red meat	in general, and	
-A-484	chickens	chickens	phthalates	phthalates	themselves may be contaminated with	
+A-484	phthalates	phthalates	pregnant	pregnant	flowing through the bodies of	
 A-484	phthalates	phthalates	meat	meat	were just leaching into the	
 A-484	phthalates	phthalates	pregnant women	pregnant women	flowing through the bodies of	
-A-484	women	women	syndrome	syndrome	stay away from to avoid the “phthalate-related	
-A-484	chicken	chicken	intelligence	intelligence	to increased odds of cesarean section, diminished child	
-A-484	pregnant	pregnant	women	women		
-A-484	meat	meat	plastic	plastic	from the	
-A-484	contaminants	contaminants	chicken	chicken	found in	
-A-484	pregnant	pregnant	syndrome	syndrome	women stay away from to avoid the “phthalate-related	
-A-484	phthalates	phthalates	pregnant	pregnant	flowing through the bodies of	
-A-484	phthalates	phthalates	plastic	plastic	were just leaching into the meat from the	
-A-484	pregnant women	pregnant women	syndrome	syndrome	stay away from to avoid the “phthalate-related	
-A-484	phthalates	phthalates	women	women	flowing through the bodies of pregnant	
 A-484	phthalates	phthalates	chicken	chicken	found in	
-A-484	vegetables	vegetables	meat	meat	in general, and red	
-A-484	urine	urine	americans	americans	phthalate levels of thousands of	
-A-484	hyperactivity	hyperactivity	symptoms	symptoms	disorder	
+A-484	contaminants	contaminants	chicken	chicken	found in	

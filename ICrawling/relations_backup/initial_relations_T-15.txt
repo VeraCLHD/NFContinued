@@ -1,47 +1,13 @@
 
-T-15	kidney	kidney	plant-based	plant-based	function, the people who have the most	
-T-15	whole grains	whole grains	beans	beans	and	
-T-15	kidney stones	kidney stones	protein	protein	) than the amount of	
-T-15	kidneys	kidneys	ammonia	ammonia	via increased	
-T-15	vegetarian	vegetarian	beans	beans	diets containing whole grains and	
-T-15	western diet	western diet	diet	diet	(standard american	
-T-15	kidneys	kidneys	ammonia	ammonia	create	
-T-15	urine	urine	uric acid	uric acid	is effective for removing	
-T-15	dairy	dairy	sulfur	sulfur	are comprised proteins that contain acid forming	
-T-15	plant-based	plant-based	diet	diet		
-T-15	vegetarian	vegetarian	grains	grains	diets containing whole	
-T-15	kidney	kidney	diet	diet	function, the people who have the most plant-based	
-T-15	fruits	fruits	diet	diet	and veggies and eschewing the standard american	
-T-15	kidney	kidney	kidney stones	kidney stones	disease (and the formation of	
-T-15	fiber	fiber	rice	rice	–such as eating white flour and white	
-T-15	risk	risk	stroke	stroke	of fatal	
-T-15	vegetarian	vegetarian	diet	diet		
-T-15	uric acid	uric acid	diet	diet	from the body, and a plant-based	
-T-15	plant-based	plant-based	fruits	fruits	and are high in the most alkalizing foods,	
-T-15	plant-based	plant-based	kidney	kidney	diet were associated with less	
-T-15	ph	ph	free radicals	free radicals	may also increase the production of	
-T-15	vegan	vegan	vegetarian	vegetarian	diet appeared more beneficial than	
+T-15	grains	grains	beans	beans	and	
 T-15	diet	diet	vegetarian	vegetarian	is alkalizing and a non-	
+T-15	whole grains	whole grains	beans	beans	and	
+T-15	diet	diet	vegetarian	vegetarian	appeared more beneficial than	
+T-15	plant-based diet	plant-based diet	risk	risk	does just that—this is good news for those wanting to reduce the	
 T-15	meat	meat	plants	plants	or	
 T-15	plant foods	plant foods	sulfur	sulfur	contain less	
 T-15	plant-based diet	plant-based diet	kidney	kidney	were associated with less	
-T-15	vegetarian	vegetarian	whole grains	whole grains	diets containing	
-T-15	diet	diet	kidney	kidney	were associated with less	
-T-15	ammonia	ammonia	kidneys	kidneys	in the	
-T-15	fruits	fruits	standard american diet	standard american diet	and veggies and eschewing the	
-T-15	kidney disease	kidney disease	kidney stones	kidney stones	(and the formation of	
-T-15	grains	grains	beans	beans	and	
-T-15	kidney	kidney	disease	disease		
-T-15	ammonia	ammonia	aging	aging	overproduction, not	
-T-15	grains	grains	fiber	fiber	and less	
-T-15	risk	risk	heart disease	heart disease	of fatal stroke,	
-T-15	vegan	vegan	diet	diet		
-T-15	disease	disease	kidney	kidney	(and the formation of	
-T-15	kidney	kidney	plant-based diet	plant-based diet	function, the people who have the most	
-T-15	uric acid	uric acid	plant-based	plant-based	from the body, and a	
-T-15	kidney disease	kidney disease	kidney	kidney	(and the formation of	
-T-15	diet	diet	vegetarian	vegetarian	appeared more beneficial than	
-T-15	risk	risk	disease	disease	of fatal stroke, heart	
-T-15	disease	disease	kidney stones	kidney stones	(and the formation of	
 T-15	fruits	fruits	vegetables	vegetables	and	
-T-15	uric acid	uric acid	plant-based diet	plant-based diet	from the body, and a	
+T-15	kidneys	kidneys	ammonia	ammonia	create	
+T-15	urine	urine	uric acid	uric acid	is effective for removing	
+T-15	diet	diet	kidney	kidney	were associated with less	

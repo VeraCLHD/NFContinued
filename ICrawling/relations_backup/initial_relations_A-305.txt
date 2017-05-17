@@ -1,57 +1,13 @@
 
-A-305	dental	dental	lead	lead	x-rays every year, but don’t the	
-A-305	radiation	radiation	air travel	air travel	exposure from	
-A-305	dental	dental	risk	risk	x-rays and	
+A-305	americans	americans	dental	dental	are exposed to	
+A-305	risk	risk	meningioma	meningioma	of	
+A-305	fukushima	fukushima	radioactivity	radioactivity	and	
+A-305	x-rays	x-rays	risk	risk	and	
+A-305	radioactivity	radioactivity	seafood	seafood	in	
+A-305	dentists	dentists	x-rays	x-rays	should select patients wisely—only take	
+A-305	dental x-rays	dental x-rays	risk	risk	and	
+A-305	americans	americans	dental x-rays	dental x-rays	are exposed to	
 A-305	risk	risk	intracranial meningioma	intracranial meningioma	of	
 A-305	ginger	ginger	lemon	lemon	and	
-A-305	ct scan	ct scan	radiation	radiation		
-A-305	americans	americans	dental	dental	are exposed to	
-A-305	dental x-rays	dental x-rays	lead	lead	every year, but don’t the	
-A-305	x-rays	x-rays	risk	risk	and	
-A-305	radiation	radiation	travel	travel	exposure from air	
-A-305	cancer	cancer	ct scan	ct scan	risk from	
-A-305	dental x-rays	dental x-rays	tumors	tumors	cause brain	
-A-305	dentists	dentists	dental	dental	should not prescribe routine	
-A-305	cancer	cancer	radiation	radiation	risk from ct scan	
-A-305	x-rays	x-rays	thyroid	thyroid	every year, but don’t the lead apron and	
-A-305	fukushima	fukushima	radioactivity	radioactivity	and	
-A-305	risk	risk	meningioma	meningioma	of intracranial	
-A-305	mouth	mouth	x-rays	x-rays		
-A-305	ct scan	ct scan	doctors	doctors	radiation detailed the estimated 29,000 cancers that	
-A-305	dental x-rays	dental x-rays	meningioma	meningioma	and risk of	
-A-305	risk	risk	meningioma	meningioma	of	
-A-305	x-rays	x-rays	radiation	radiation	—the most common artificial source of high-energy	
-A-305	dental x-rays	dental x-rays	thyroid	thyroid	every year, but don’t the lead apron and	
-A-305	radiation	radiation	intracranial meningioma	intracranial meningioma	—and the risk of	
-A-305	risk	risk	radiation	radiation	from ct scan	
-A-305	lead	lead	thyroid	thyroid	apron and	
-A-305	dental x-rays	dental x-rays	risk	risk	and	
-A-305	radiation	radiation	meningioma	meningioma	—and the risk of intracranial	
-A-305	dental	dental	tumors	tumors	x-rays cause brain	
-A-305	ginger	ginger	lemon balm	lemon balm	and	
-A-305	dental	dental	brain tumors	brain tumors	x-rays cause	
-A-305	americans	americans	x-rays	x-rays	are exposed to dental	
-A-305	dental	dental	meningioma	meningioma	x-rays and risk of	
-A-305	dental x-rays	dental x-rays	radiation	radiation	—the most common artificial source of high-energy	
-A-305	x-rays	x-rays	ct scan	ct scan	during cat scans (see cancer risk from	
-A-305	cancer	cancer	risk	risk		
-A-305	dentists	dentists	dental x-rays	dental x-rays	should not prescribe routine	
-A-305	dentists	dentists	x-rays	x-rays	should select patients wisely—only take	
-A-305	americans	americans	dental x-rays	dental x-rays	are exposed to	
-A-305	dental	dental	radiation	radiation	x-rays—the most common artificial source of high-energy	
-A-305	fukushima	fukushima	seafood	seafood	and radioactivity in	
-A-305	radiation	radiation	risk	risk	—and the	
 A-305	dental x-rays	dental x-rays	brain tumors	brain tumors	cause	
-A-305	radiation	radiation	ginger	ginger	damage with	
-A-305	x-rays	x-rays	meningioma	meningioma	and risk of	
-A-305	radioactivity	radioactivity	seafood	seafood	in	
-A-305	x-rays	x-rays	cancer	cancer	during cat scans (see	
-A-305	radiation	radiation	doctors	doctors	detailed the estimated 29,000 cancers that	
-A-305	dental	dental	x-rays	x-rays		
-A-305	radiation	radiation	lemon	lemon	damage with ginger and	
-A-305	dentists	dentists	x-rays	x-rays	should not prescribe routine dental	
-A-305	radioactive isotopes	radioactive isotopes	diet	diet	in our	
-A-305	risk	risk	ct scan	ct scan	from	
-A-305	x-rays	x-rays	risk	risk	during cat scans (see cancer	
-A-305	x-rays	x-rays	lead	lead	every year, but don’t the	
-A-305	radiation	radiation	lemon balm	lemon balm	damage with ginger and	
+A-305	ginger	ginger	lemon balm	lemon balm	and	

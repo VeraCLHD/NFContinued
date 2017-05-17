@@ -1,33 +1,5 @@
 
-A-447	milk	milk	apnea	apnea		
-A-447	milk	milk	autism	autism	casomorphin and	
-A-447	sids	sids	infants	infants	is the leading cause of death for healthy	
-A-447	peptides	peptides	milk	milk	from cow	
-A-447	apnea	apnea	casomorphin	casomorphin	with increased serum content of bovine beta	
-A-447	hypercapnia	hypercapnia	apnea	apnea	[too much carbon dioxide], hypoxia [not enough oxygen],	
-A-447	death	death	syndrome	syndrome		
-A-447	protein	protein	milk	milk	in cow’s	
-A-447	hypoxia	hypoxia	apnea	apnea	[not enough oxygen],	
-A-447	casomorphin	casomorphin	death	death	and crib	
-A-447	blood	blood	peptides	peptides	levels of the morphine-like	
-A-447	hypoxia	hypoxia	death	death	[not enough oxygen], apnea, and	
-A-447	milk	milk	crib death	crib death	casomorphin and	
-A-447	syndrome	syndrome	death	death	(also known as crib	
-A-447	death	death	infants	infants	for healthy	
-A-447	milk	milk	protein	protein		
-A-447	casomorphin	casomorphin	autism	autism	and	
-A-447	milk	milk	casein	casein	protein,	
-A-447	death	death	crib death	crib death	syndrome (also known as	
-A-447	hypercapnia	hypercapnia	hypoxia	hypoxia	[too much carbon dioxide],	
-A-447	peptides	peptides	infants	infants	from cow milk averaged three times higher in	
-A-447	casomorphin	casomorphin	blood	blood	in the child’s	
-A-447	sids	sids	death	death	is the leading cause of	
-A-447	milk	milk	casomorphin	casomorphin		
-A-447	breastfeeding	breastfeeding	milk	milk	mother is herself effectively suckling by still drinking	
-A-447	syndrome	syndrome	crib death	crib death	(also known as	
-A-447	blood	blood	milk	milk	levels of the morphine-like peptides from cow	
-A-447	milk	milk	death	death	casomorphin and crib	
 A-447	casomorphin	casomorphin	crib death	crib death	and	
+A-447	casomorphin	casomorphin	autism	autism	and	
 A-447	apnea	apnea	baby	baby	refers to when a	
-A-447	milk	milk	peptides	peptides	that break down into	
-A-447	risk	risk	sids	sids	for	
+A-447	babies	babies	risk	risk	may just not be able to clear it out of their systems fast enough and are placed at	

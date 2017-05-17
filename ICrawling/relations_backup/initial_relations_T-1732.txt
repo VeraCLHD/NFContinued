@@ -1,38 +1,7 @@
 
-T-1732	diabetes	diabetes	disease	disease	and heart	
-T-1732	diet	diet	peas	peas	rich in split	
-T-1732	iron	iron	peas	peas	(“non-heme iron”) is found in split	
-T-1732	anti-inflammatory	anti-inflammatory	split peas	split peas	effects.	
-T-1732	legumes	legumes	hypertension	hypertension	may help reduce cholesterol,	
-T-1732	peas	peas	protein	protein	offer significant levels of	
-T-1732	split peas	split peas	cholesterol	cholesterol	and other legumes may help reduce	
-T-1732	peas	peas	legumes	legumes	and other	
-T-1732	legumes	legumes	risk	risk	may help reduce cholesterol, hypertension, and the	
-T-1732	colon	colon	cancer	cancer		
-T-1732	diet	diet	legumes	legumes	rich in split peas and other	
-T-1732	diabetes	diabetes	heart disease	heart disease	and	
-T-1732	peas	peas	cholesterol	cholesterol	and other legumes may help reduce	
 T-1732	split peas	split peas	protein	protein	offer significant levels of	
-T-1732	anti-inflammatory	anti-inflammatory	peas	peas	effects.split	
-T-1732	split peas	split peas	legumes	legumes	and other	
-T-1732	split peas	split peas	phosphorus	phosphorus	offer significant levels of protein, iron, zinc, and	
-T-1732	split peas	split peas	iron	iron	offer significant levels of protein,	
-T-1732	peas	peas	iron	iron	offer significant levels of protein,	
-T-1732	legumes	legumes	cholesterol	cholesterol	may help reduce	
-T-1732	peas	peas	zinc	zinc	offer significant levels of protein, iron,	
-T-1732	split peas	split peas	zinc	zinc	offer significant levels of protein, iron,	
-T-1732	peas	peas	hypertension	hypertension	and other legumes may help reduce cholesterol,	
-T-1732	anti-inflammatory	anti-inflammatory	phytates	phytates	effects.split peas are high in	
-T-1732	peas	peas	phosphorus	phosphorus	offer significant levels of protein, iron, zinc, and	
-T-1732	split peas	split peas	whole foods	whole foods	and other	
+T-1732	peas	peas	protein	protein	offer significant levels of	
 T-1732	whole foods	whole foods	magnesium	magnesium	contain	
-T-1732	peas	peas	whole foods	whole foods	and other	
-T-1732	split peas	split peas	magnesium	magnesium	and other whole foods contain	
-T-1732	split peas	split peas	hypertension	hypertension	and other legumes may help reduce cholesterol,	
+T-1732	legumes	legumes	cholesterol	cholesterol	may help reduce	
 T-1732	risk	risk	prediabetes	prediabetes	of	
-T-1732	colon	colon	osteoporosis	osteoporosis	cancer, and may also have protective effects against	
-T-1732	iron	iron	legumes	legumes	(“non-heme iron”) is found in split peas, other	
-T-1732	diet	diet	split peas	split peas	rich in	
-T-1732	risk	risk	anti-inflammatory	anti-inflammatory	of prediabetes, and may also offer significant	
-T-1732	iron	iron	split peas	split peas	(“non-heme iron”) is found in	
-T-1732	peas	peas	magnesium	magnesium	and other whole foods contain	
+T-1732	diabetes	diabetes	heart disease	heart disease	and	

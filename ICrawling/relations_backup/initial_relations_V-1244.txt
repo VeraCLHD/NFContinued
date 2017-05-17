@@ -1,5 +1,2 @@
 
-V-1244	baby	baby	carrots	carrots		
-V-1244	boston	boston	lettuce	lettuce		
-V-1244	baby	baby	carrots	carrots	”	
 V-1244	grapes	grapes	carrots	carrots	work for 	

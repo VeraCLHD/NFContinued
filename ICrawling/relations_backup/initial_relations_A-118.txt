@@ -1,83 +1,24 @@
 
-A-118	puberty	puberty	cancer	cancer	and acne, but then may later contribute to obesity, diabetes,	
-A-118	acne	acne	dairy	dairy	and cancer and covered acne and	
-A-118	cancer prevention	cancer prevention	diet	diet		
-A-118	erectile dysfunction	erectile dysfunction	greens	greens	and death and 50 shades of	
-A-118	acne	acne	women	women	has been associated with breast cancer risk in	
-A-118	dairy	dairy	acne	acne	products in	
-A-118	baby	baby	cows	cows		
-A-118	premature puberty	premature puberty	diabetes	diabetes	and acne, but then may later contribute to obesity,	
-A-118	dairy	dairy	acne	acne	products as enhancers of	
-A-118	risk	risk	prostate cancer	prostate cancer	in women, for example, and 	
-A-118	skin	skin	disease	disease		
-A-118	cancer	cancer	diet	diet	prevention	
-A-118	acne	acne	puberty	puberty	is not some “physiological” phenomenon of	
-A-118	cancer	cancer	acne	acne	and covered	
-A-118	breast cancer	breast cancer	risk	risk		
-A-118	prostate	prostate	cancer	cancer		
-A-118	tor	tor	diet	diet	stimulation induced by the standard american	
-A-118	caloric restriction	caloric restriction	animal protein	animal protein	vs.	
-A-118	caloric restriction	caloric restriction	protein	protein	vs. animal	
-A-118	puberty	puberty	obesity	obesity	and acne, but then may later contribute to	
-A-118	cancer	cancer	prostate cancer	prostate cancer	risk in women, for example, and 	
-A-118	diet	diet	acne	acne	may initially manifest as premature puberty and	
-A-118	tor	tor	standard american diet	standard american diet	stimulation induced by the	
-A-118	puberty	puberty	diabetes	diabetes	and acne, but then may later contribute to obesity,	
-A-118	cows	cows	infants	infants	grow nearly 40 times faster than human	
-A-118	diet	diet	tor	tor	to suppress	
-A-118	premature puberty	premature puberty	acne	acne	and	
-A-118	risk	risk	women	women	in	
-A-118	cancer	cancer	prostate	prostate	risk in women, for example, and 	
-A-118	acne	acne	cancer	cancer	and	
-A-118	standard american diet	standard american diet	acne	acne	may initially manifest as premature puberty and	
-A-118	treatment	treatment	acne	acne	of	
-A-118	milk	milk	dairy	dairy	and	
-A-118	animal protein	animal protein	cancer	cancer	restriction, as well as my video prevent	
-A-118	milk	milk	acne	acne	and other dairy products in	
-A-118	death	death	greens	greens	and 50 shades of	
-A-118	breast cancer	breast cancer	women	women	risk in	
-A-118	cancer	cancer	dairy	dairy	and covered acne and	
-A-118	premature puberty	premature puberty	cancer	cancer	and acne, but then may later contribute to obesity, diabetes,	
-A-118	acne	acne	disease	disease	is an epidemic skin	
-A-118	premature puberty	premature puberty	obesity	obesity	and acne, but then may later contribute to	
-A-118	protein	protein	cancer	cancer	restriction, as well as my video prevent	
 A-118	vegetables	vegetables	fruit	fruit	and	
 A-118	acne	acne	disease	disease	is considered a	
+A-118	acne	acne	vegetables	vegetables	can only be achieved by higher consumption of	
+A-118	cows	cows	infants	infants	grow nearly 40 times faster than human	
+A-118	acne	acne	skin	skin	is an epidemic	
 A-118	tor	tor	acne	acne	may not only improve	
+A-118	standard american diet	standard american diet	puberty	puberty	may initially manifest as premature	
 A-118	erectile dysfunction	erectile dysfunction	death	death	and	
-A-118	breast cancer	breast cancer	cancer	cancer	risk in women, for example, and prostate	
-A-118	cancer	cancer	risk	risk		
+A-118	acne	acne	skin disease	skin disease	is an epidemic	
+A-118	acne	acne	obesity	obesity	and	
+A-118	premature puberty	premature puberty	acne	acne	and	
 A-118	milk	milk	babies	babies	is for	
 A-118	diet	diet	puberty	puberty	may initially manifest as premature	
-A-118	milk	milk	acne	acne	and dairy products as enhancers of	
-A-118	milk	milk	leucine	leucine	has three times more	
-A-118	cancer	cancer	cancer	cancer	risk in women, for example, and prostate	
-A-118	tor	tor	acne	acne	inhibitors in the treatment of	
-A-118	disease	disease	japan	japan	of western civilization, as in places like okinawa,	
-A-118	acne	acne	fruit	fruit	can only be achieved by higher consumption of vegetables and	
-A-118	acne	acne	adolescence	adolescence	even continues after	
-A-118	acne	acne	breast cancer	breast cancer	has been associated with	
-A-118	cancer	cancer	tor	tor	from going on	
-A-118	acne	acne	cancer	cancer	has been associated with breast	
-A-118	prevention	prevention	diet	diet		
-A-118	acne	acne	risk	risk	has been associated with breast cancer	
-A-118	risk	risk	prostate	prostate	in women, for example, and 	
-A-118	acne	acne	vegetables	vegetables	can only be achieved by higher consumption of	
-A-118	acne	acne	tor	tor	on and off via dietary manipulation of	
-A-118	acne	acne	skin	skin	is an epidemic	
-A-118	standard american diet	standard american diet	puberty	puberty	may initially manifest as premature	
-A-118	acne	acne	skin disease	skin disease	is an epidemic	
-A-118	baby	baby	infants	infants	cows grow nearly 40 times faster than human	
-A-118	acne	acne	obesity	obesity	and	
 A-118	diet	diet	premature puberty	premature puberty	may initially manifest as	
-A-118	diet	diet	acne	acne	to suppress tor may not only improve	
+A-118	risk	risk	women	women	in	
+A-118	milk	milk	leucine	leucine	has three times more	
+A-118	acne	acne	cancer	cancer	and	
 A-118	puberty	puberty	acne	acne	and	
-A-118	cancer	cancer	women	women	risk in	
+A-118	treatment	treatment	acne	acne	of	
+A-118	milk	milk	dairy	dairy	and	
 A-118	milk	milk	tor	tor	is naturally supposed to stimulate	
-A-118	tor	tor	treatment	treatment	inhibitors in the	
-A-118	milk	milk	dairy	dairy	and other	
-A-118	breast cancer	breast cancer	prostate	prostate	risk in women, for example, and 	
-A-118	cancer	cancer	prevention	prevention		
-A-118	risk	risk	cancer	cancer	in women, for example, and prostate	
+A-118	acne	acne	breast cancer	breast cancer	has been associated with	
 A-118	standard american diet	standard american diet	premature puberty	premature puberty	may initially manifest as	
-A-118	breast cancer	breast cancer	prostate cancer	prostate cancer	risk in women, for example, and 	

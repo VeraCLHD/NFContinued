@@ -1,27 +1,7 @@
 
 V-628	plums	plums	constipation	constipation	resulted in a greater improvement in	
-V-628	fda	fda	plums	plums	to change the name from prunes to “dried	
-V-628	prunes	prunes	dried plums	dried plums	to “	
-V-628	symptoms	symptoms	psyllium	psyllium	…[than the] commonly used fibre supplement,	
+V-628	dried plums	dried plums	constipation	constipation	should be considered” as a first-line therapy for chronic	
 V-628	california	california	fda	fda	prune board successfully pressured the	
-V-628	plums	plums	fruit	fruit	”—which evidently evokes more of a “positive ‘fresh	
-V-628	americans	americans	women	women	suffer from chronic constipation;” particularly a problem in	
-V-628	fiber	fiber	supplements	supplements		
-V-628	fda	fda	prunes	prunes	to change the name from	
-V-628	women	women	elderly	elderly	and the	
-V-628	treatment	treatment	dried plums	dried plums	with	
-V-628	plums	plums	symptoms	symptoms	resulted in a greater improvement in constipation	
-V-628	prunes	prunes	metamucil	metamucil	vs. [	
-V-628	dried plums	dried plums	symptoms	symptoms	resulted in a greater improvement in constipation	
-V-628	fiber	fiber	bloating	bloating	supplements can be inconvenient, taste nasty, cause	
-V-628	fda	fda	dried plums	dried plums	to change the name from prunes to “	
-V-628	constipation	constipation	psyllium	psyllium	symptoms…[than the] commonly used fibre supplement,	
-V-628	treatment	treatment	plums	plums	with dried	
-V-628	prunes	prunes	psyllium	psyllium	vs. [metamucil, also known as]	
-V-628	supplements	supplements	bloating	bloating	can be inconvenient, taste nasty, cause	
+V-628	plums	plums	constipation	constipation	should be considered” as a first-line therapy for chronic	
 V-628	dried plums	dried plums	constipation	constipation	resulted in a greater improvement in	
-V-628	california prune board	california prune board	fda	fda	successfully pressured the	
-V-628	dried plums	dried plums	fruit	fruit	”—which evidently evokes more of a “positive ‘fresh	
-V-628	constipation	constipation	symptoms	symptoms		
-V-628	prunes	prunes	plums	plums	to “dried	
 V-628	americans	americans	constipation	constipation	suffer from chronic	

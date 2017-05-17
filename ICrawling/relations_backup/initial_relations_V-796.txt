@@ -1,5 +1,0 @@
-
-V-796	dementia	dementia	vitamin b12	vitamin b12	due to	
-V-796	variety	variety	schizophrenia	schizophrenia	of brain diseases such as	
-V-796	variety	variety	dementia	dementia	of brain diseases such as schizophrenia,	
-V-796	dementia	dementia	b12	b12	due to vitamin	

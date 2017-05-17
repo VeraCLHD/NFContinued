@@ -1,6 +1,0 @@
-
-V-807	book	book	medical education	medical education	on	
-V-807	supplement industry	supplement industry	health food stores	health food stores	itself than	
-V-807	health	health	health food	health food	information provided by retail	
-V-807	supplement industry	supplement industry	health	health	itself than	
-V-807	supplement industry	supplement industry	health food	health food	itself than	

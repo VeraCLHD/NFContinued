@@ -1,527 +1,104 @@
 
-V-101	plant-based	plant-based	cancer cell growth	cancer cell growth	diet,	
-V-101	poultry	poultry	meats	meats	microbiologist said: “raw	
-V-101	philip morris	philip morris	prevention	prevention	—but, an ounce of	
 V-101	diabetes	diabetes	obesity	obesity	and	
-V-101	smoking	smoking	cheese	cheese	with the effect of meat and	
-V-101	blood	blood	cancer	cancer	that just kind of rolls over when new	
 V-101	americans	americans	plant-based	plant-based	die, and a	
-V-101	colorectal cancer	colorectal cancer	disease	disease	—a leading cause of cancer-related death; diverticulitis—the #1	
-V-101	plant-based diet	plant-based diet	cancer	cancer	and walking—that’s the kind of	
-V-101	animal protein	animal protein	plant protein	plant protein	cause the overload reaction, but not	
-V-101	blood pressure	blood pressure	blood	blood	need not occur.researchers measured the	
-V-101	vegetarian	vegetarian	diet	diet		
-V-101	arteries	arteries	surgery	surgery	opened up without drugs, without	
-V-101	blood	blood	diet	diet	taken from those who ate a plant-based	
-V-101	kidney	kidney	protein	protein	function: animal	
-V-101	death	death	heart disease	heart disease	 here, but a rarity among plant-based populations.this suggests	
-V-101	copd	copd	plant-based	plant-based	can be prevented with the help of a	
-V-101	bacteria	bacteria	bladder	bladder	creeping up from the rectum that cause	
-V-101	diet	diet	disease	disease	reduce risk of parkinson’s	
-V-101	surgeon general	surgeon general	smoking	smoking	’s report against	
-V-101	cancer	cancer	igf-1	igf-1	the exact same amount of	
-V-101	potassium	potassium	beans	beans	in the diet are:	
-V-101	plant-based diets	plant-based diets	disease	disease	have been used to treat kidney	
-V-101	bacteria	bacteria	campylobacter	campylobacter	: salmonella,	
-V-101	arteries	arteries	drugs	drugs	opened up without	
-V-101	risk	risk	fat	fat	factors for declining kidney function: animal protein, animal	
-V-101	plant-based	plant-based	igf-1	igf-1	diet, their	
-V-101	heart disease	heart disease	plant-based diet	plant-based diet	and put them on the kind of	
-V-101	animal foods	animal foods	plant foods	plant foods	tend to be acid-forming, whereas	
-V-101	dna	dna	cell death	cell death	fragmentation or	
-V-101	medicine	medicine	pritikin	pritikin	pioneers.and what happened next is chronicled in	
-V-101	diet	diet	animal proteins	animal proteins	rich in	
-V-101	blood pressure	blood pressure	laxatives	laxatives	medications,	
-V-101	plant-based	plant-based	women	women	diet and exercise; they had these	
-V-101	diet	diet	women	women	and exercise; they had these	
-V-101	cancer	cancer	cancer	cancer	.slowing down the growth of	
-V-101	disease	disease	plant-based	plant-based	in the majority of patients—a	
-V-101	ornish	ornish	cancer	cancer	and colleagues found that the progression of prostate	
-V-101	prescription drugs	prescription drugs	americans	americans	kill more than 100,000 	
-V-101	cavities	cavities	diet	diet	when we know they’re preventable through	
-V-101	dairy	dairy	smoking	smoking	could be as harmful to health as	
-V-101	heart disease	heart disease	diet	diet	and put them on the kind of plant-based	
-V-101	smoking	smoking	animal protein	animal protein	supposedly suggested that people who eat lots of	
-V-101	plant-based	plant-based	risk	risk	diet reduce	
-V-101	plant-based diet	plant-based diet	liver failure	liver failure	could be used to treat	
-V-101	diet	diet	cancer cells	cancer cells	can do to breast	
-V-101	plant-based	plant-based	standard american diet	standard american diet	diet, ate 14 years of a	
-V-101	marketing	marketing	milk	milk	ploy; if you look at the actual science,	
-V-101	united states	united states	nutrition	nutrition	are preventable, and related to	
-V-101	smoking	smoking	cancer	cancer	and lung	
-V-101	lung cancer	lung cancer	risk	risk	from secondhand smoke may be “well below the	
-V-101	blood pressure	blood pressure	americans	americans	is next, affecting nearly 78 million	
-V-101	diet	diet	plant foods	plant foods	centered around whole	
-V-101	plant-based diet	plant-based diet	heart disease	heart disease	followed by those populations that didn’t suffer from	
-V-101	protein	protein	igf-1	igf-1	into our bloodstream to tie up any excess	
-V-101	medicine	medicine	smoking	smoking	is saying that	
-V-101	plant-based	plant-based	liver	liver	diets have worsening	
-V-101	smoking	smoking	cheese	cheese	if my ham and	
-V-101	exercise	exercise	cancer cells	cancer cells	group, killing off	
-V-101	animal products	animal products	processed foods	processed foods	and	
-V-101	dairy	dairy	health	health	could be as harmful to	
-V-101	berries	berries	cigarettes	cigarettes	to	
-V-101	risk	risk	diabetes	diabetes	of dying from	
-V-101	heart disease	heart disease	diet	diet	in the majority of patients—a plant-based	
-V-101	angiography	angiography	disease	disease	that coronary artery 	
-V-101	cancer	cancer	smoking	smoking	—”a mortality risk factor comparable to	
-V-101	copd	copd	emphysema	emphysema	—chronic obstructive pulmonary diseases, like	
-V-101	liver	liver	igf-1	igf-1	’s production of	
-V-101	cancer cells	cancer cells	cancer growth	cancer growth	growing in a petri dish,	
-V-101	diet	diet	kidney	kidney	can leave diabetics with moderate vision loss, moderate	
-V-101	blood	blood	medications	medications	pressure	
-V-101	diet	diet	risk	risk	reduce	
-V-101	cancer	cancer	cancer	cancer	—a leading cause of	
-V-101	diet	diet	beans	beans	are:	
-V-101	plant-based	plant-based	cancer	cancer	diet,	
-V-101	tobacco	tobacco	smoking	smoking		
-V-101	kidney function	kidney function	animal fat	animal fat	: animal protein,	
-V-101	cigarettes	cigarettes	children	children	for	
-V-101	plant-based diet	plant-based diet	liver	liver	could be used to treat	
-V-101	plant-based diet	plant-based diet	exercise	exercise	and	
-V-101	protein	protein	diet	diet	intake, if you put people on a plant-based	
-V-101	cancer	cancer	plant-based	plant-based	could be reversed with a	
-V-101	cdc	cdc	food poisoning	food poisoning	’s	
-V-101	dean ornish	dean ornish	cancer	cancer	and colleagues found that the progression of prostate	
-V-101	risk	risk	disease	disease	of parkinson’s	
-V-101	cdc	cdc	surgery	surgery	encourages people not to wait for open-heart	
-V-101	cancer	cancer	cancer	cancer	cell growth.now, this was for prostate	
-V-101	fast food	fast food	milk	milk	vanilla	
-V-101	cigarettes	cigarettes	smoking	smoking	evidently has a protective effect against emphysema in	
-V-101	meat	meat	white meat	white meat	—red meat or	
-V-101	dean ornish	dean ornish	prostate	prostate	and colleagues found that the progression of	
-V-101	colorectal cancer	colorectal cancer	death	death	—a leading cause of cancer-related	
-V-101	plant-based	plant-based	meat	meat	diet.we think it’s because of the animal proteins—	
-V-101	vegan	vegan	kidney	kidney	diet; conventional; plant-based; conventional; plant-based—turning	
-V-101	risk	risk	smoking	smoking	factor comparable to	
-V-101	inflammation	inflammation	protein	protein	triggered by the animal	
-V-101	maggots	maggots	meat	meat	thrive on rotting	
-V-101	prostate cancer	prostate cancer	cancer	cancer	—the leading	
-V-101	dean ornish	dean ornish	prostate cancer	prostate cancer	and colleagues found that the progression of	
-V-101	cancer	cancer	blood	blood	cells pop up, or do we want	
-V-101	diet	diet	liver	liver	can bring down your	
-V-101	plant-based diet	plant-based diet	igf-1	igf-1	for years, their levels drop even further.and their	
-V-101	laxatives	laxatives	insulin	insulin	(of course), and	
-V-101	disease	disease	plant-based	plant-based	and put them on the kind of	
-V-101	africa	africa	china	china	and	
-V-101	urinary tract infections	urinary tract infections	bladder	bladder	can be a zoonosis,	
-V-101	blood	blood	plant-based diet	plant-based diet	taken from those who ate a	
-V-101	animal protein	animal protein	plant-based	plant-based	intake, if you put people on a	
-V-101	gut	gut	flora	flora		
-V-101	gallbladder disease	gallbladder disease	surgery	surgery	—the #1 cause of nonemergency abdominal	
-V-101	cancer	cancer	diverticulitis	diverticulitis	—a leading cause of cancer-related death;	
-V-101	blood	blood	laxatives	laxatives	pressure medications,	
-V-101	protein	protein	cholesterol	cholesterol	almost exclusively from plant sources, and they had the	
-V-101	doctors	doctors	africa	africa	throughout sub-saharan	
-V-101	mortality	mortality	smoking	smoking	risk factor comparable to	
-V-101	diet	diet	disease	disease	already have fatty streaks—the first stage of the	
-V-101	diet	diet	blood	blood	for a year, though, and their	
-V-101	milk	milk	bananas	bananas	shakes, then	
-V-101	blood	blood	cancer	cancer	of those eating the standard american diet onto	
-V-101	blood pressure	blood pressure	blood	blood	under 120 over 80 appear to benefit from	
-V-101	e. coli	e. coli	chicken	chicken	was coming from:	
-V-101	cancer	cancer	plant-based	plant-based	tush than a	
-V-101	americans	americans	diet	diet	die, and a plant-based	
-V-101	blood	blood	infections	infections		
-V-101	women	women	protein	protein	with high	
-V-101	diet	diet	disease	disease	that’s ever been proven to reverse heart	
-V-101	produce	produce	plant-based	plant-based	aisle rather than the pharmacy aisle.no wonder	
-V-101	cancer	cancer	smoking	smoking	and died.back then, even the paleo folks were	
-V-101	standard american diet	standard american diet	breast cancer	breast cancer	can do to	
-V-101	plant-based	plant-based	igf-1	igf-1	diet can bring down your liver’s production of	
-V-101	surgery	surgery	plant-based	plant-based	—just a	
-V-101	drugs	drugs	plant-based	plant-based	or surgery—just a	
-V-101	cancer cells	cancer cells	cancer	cancer	growing in a petri dish,	
-V-101	death	death	bananas	bananas	(unintentional injuries),	
-V-101	drugs	drugs	americans	americans	kill more than 100,000 	
-V-101	sugar	sugar	apple	apple	is a lot better than that	
-V-101	animal protein	animal protein	risk	risk	didn’t have just four times more	
-V-101	plant-based	plant-based	anxiety	anxiety	diets resulted in significant reported improvements in depression,	
-V-101	blood	blood	americans	americans	pressure is next, affecting nearly 78 million	
-V-101	cancer	cancer	risk	risk	—”a mortality	
-V-101	risk	risk	cancer	cancer	of dying from	
-V-101	vegetables	vegetables	suicide	suicide	can significantly improve immune function.killer #10 is	
-V-101	blood	blood	diet	diet	pressure-lowering benefits of a vegetarian	
-V-101	diet	diet	physicians	physicians	that	
-V-101	kale	kale	immune system	immune system	and the	
-V-101	plant-based	plant-based	animal proteins	animal proteins	diet.we think it’s because of the	
-V-101	cancer	cancer	cancer cells	cancer cells	.slowing down the growth of	
-V-101	campylobacter	campylobacter	pathogens	pathogens	—both serious human	
-V-101	vision	vision	amputations	amputations	loss, moderate kidney failure, and moderate	
-V-101	meat	meat	dairy	dairy	and	
-V-101	plants	plants	diet	diet	to one’s	
-V-101	prostate	prostate	plant-based	plant-based	cancer could be reversed with a	
-V-101	berries	berries	emphysema	emphysema	to cigarettes evidently has a protective effect against	
-V-101	diet	diet	weight loss	weight loss	had unique benefits beyond all the	
-V-101	cancer	cancer	cancer	cancer	cells.this was the before:	
-V-101	heart attack	heart attack	uganda	uganda	rates in	
-V-101	philip morris	philip morris	dairy	dairy	stopped throwing	
-V-101	anti-inflammatory	anti-inflammatory	tuna	tuna	drug along with the	
-V-101	ornish	ornish	prostate	prostate	and colleagues found that the progression of	
-V-101	american heart association	american heart association	diet	diet	recommend a no-meat	
-V-101	blood	blood	cancer cells	cancer cells	of those eating the standard american diet onto	
-V-101	vision	vision	kidney	kidney	loss, moderate	
-V-101	urinary tract infections	urinary tract infections	infections	infections	can be a zoonosis, bladder	
-V-101	kidney	kidney	animal protein	animal protein	function:	
-V-101	health	health	inflammation	inflammation	via a cascade of neuroinflammation; brain	
-V-101	egg	egg	igf-1	igf-1	white, and dairy proteins—increasing the level of	
-V-101	plant-based	plant-based	liver	liver	diet could be used to treat	
-V-101	blood	blood	plant-based diets	plant-based diets	circulating within the bodies of those eating 	
-V-101	plant-based	plant-based	vegetarians	vegetarians	diet.seriously, though, compared to 15,000 american	
-V-101	smoking	smoking	meat	meat	with the effect of	
-V-101	bladder	bladder	infections	infections		
-V-101	standard american diet	standard american diet	exercise	exercise	—but, had 14 years of daily, strenuous, hour-long	
-V-101	disease	disease	surgery	surgery	—the #1 cause of nonemergency abdominal	
-V-101	chicken	chicken	bacteria	bacteria		
-V-101	brains	brains	disease	disease	of people who die from parkinson’s	
-V-101	animal protein	animal protein	kidney	kidney	induces the formation of acid within the	
-V-101	plant-based	plant-based	disease	disease	diets have been used to treat kidney	
-V-101	cancer	cancer	protein	protein	—from excessive growth—by releasing a binding	
-V-101	disease	disease	produce	produce	might lie in the	
-V-101	disease	disease	diet	diet	and put them on the kind of plant-based	
-V-101	protein	protein	risk	risk	—only had 23 times the	
-V-101	cancer	cancer	death	death	—a leading cause of cancer-related	
-V-101	plant-based	plant-based	united states	united states	eating overwhelming.most deaths in the	
-V-101	risk	risk	death	death	factors ever published, the #1 cause of	
-V-101	diet	diet	heart disease	heart disease	followed by those populations that didn’t suffer from	
-V-101	fat	fat	kidneys	kidneys	literally clogging up the works in autopsied	
-V-101	plant-based diet	plant-based diet	weight loss	weight loss	had unique benefits beyond all the	
-V-101	bladder infections	bladder infections	infections	infections	—solid evidence that urinary tract	
-V-101	blood pressure	blood pressure	insulin	insulin	medications, laxatives (of course), and	
-V-101	diet	diet	breast cancer	breast cancer	can do to	
-V-101	varicose veins	varicose veins	colorectal cancer	colorectal cancer	and hemorrhoids—two of the most common venous problems;	
-V-101	cooking	cooking	disease	disease	with oil, or tripling your risk of heart	
-V-101	cancer	cancer	cancer	cancer	growth.how much less	
-V-101	vegan	vegan	diet	diet		
-V-101	fast food	fast food	bananas	bananas	vanilla milk shakes, then	
-V-101	death	death	disease	disease	(unintentional injuries), bananas could be downright dangerous.alzheimer’s	
-V-101	standard american diet	standard american diet	cancer	cancer	onto	
-V-101	death	death	diabetes	diabetes	from	
-V-101	lamb	lamb	juice	juice	carcasses with kiwifruit	
-V-101	milk	milk	neurotoxic chemicals	neurotoxic chemicals	is contaminated with	
-V-101	plant-based	plant-based	plants	plants	diet, and even treated with	
-V-101	plant-based	plant-based	diet	diet		
-V-101	plant-based	plant-based	disease	disease	populations.this suggests heart	
-V-101	diet	diet	side effects	side effects	to rule them all.and what about drug	
-V-101	tuna	tuna	tofu	tofu	salad sandwich, though, you had a	
-V-101	viruses	viruses	food industry	food industry	may present something of a challenge to the	
-V-101	harvard	harvard	kidney function	kidney function	researchers found three dietary risk factors for declining	
-V-101	women	women	standard american diet	standard american diet	eating the	
-V-101	ama	ama	tobacco	tobacco	may have been sucking up to the	
-V-101	cancer	cancer	cancer growth	cancer growth	cells.this was the before:	
-V-101	blood	blood	diet	diet	of those eating the standard american	
-V-101	standard american diet	standard american diet	cancer	cancer	can do to breast	
-V-101	plant-based	plant-based	blood	blood	diets.killer #11 is	
-V-101	appendicitis	appendicitis	disease	disease	—the #1 cause of emergency abdominal surgery; gallbladder	
-V-101	cooking	cooking	heart disease	heart disease	with oil, or tripling your risk of	
-V-101	african	african	heart disease	heart disease	population of uganda, coronary	
-V-101	ischemic heart disease	ischemic heart disease	death	death	—the commonest cause of	
-V-101	tuna	tuna	fish	fish		
-V-101	cancer	cancer	mortality	mortality	—”a	
-V-101	risk	risk	lung cancer	lung cancer	of	
-V-101	cancer	cancer	diet	diet	on a plant-based	
-V-101	cancer	cancer	risk	risk	from secondhand smoke may be “well below the	
-V-101	kidney	kidney	produce	produce	disease might lie in the	
-V-101	lung cancer	lung cancer	smoking	smoking	and died.back then, even the paleo folks were	
-V-101	protein	protein	diet	diet	leakage on the low-sodium	
-V-101	colorectal cancer	colorectal cancer	diverticulitis	diverticulitis	—a leading cause of cancer-related death;	
-V-101	kidneys	kidneys	plant protein	plant protein	can deal with	
-V-101	cancer	cancer	prostate cancer	prostate cancer	cell growth.now, this was for	
-V-101	plant-based	plant-based	infections	infections	diets.killer #11 is blood	
-V-101	milk	milk	women	women	-drinking	
-V-101	lung cancer	lung cancer	risk	risk		
-V-101	pneumovax	pneumovax	pneumonia	pneumonia	vaccination (their	
-V-101	varicose veins	varicose veins	hemorrhoids	hemorrhoids	and	
-V-101	plant-based diets	plant-based diets	drugs	drugs	are great for those that don’t like taking	
-V-101	risk	risk	kidney	kidney	factors for declining	
-V-101	physicians	physicians	cigarettes	cigarettes	themselves smoked	
-V-101	cigarettes	cigarettes	water	water	are just as pure as the	
-V-101	red meat	red meat	meat	meat	or white	
-V-101	risk	risk	plant-based	plant-based	eating strictly	
-V-101	african	african	disease	disease	population of uganda, coronary heart	
-V-101	appendicitis	appendicitis	surgery	surgery	—the #1 cause of emergency abdominal	
-V-101	vegan	vegan	plant-based	plant-based	diet; conventional;	
-V-101	diverticulitis	diverticulitis	disease	disease	—the #1	
-V-101	cancer cell growth	cancer cell growth	death	death	drops, and cancer cell	
-V-101	americans	americans	plant-based diet	plant-based diet	die, and a	
-V-101	plant-based	plant-based	blood	blood	diet for a year, though, and their	
-V-101	drugs	drugs	surgery	surgery	or	
-V-101	cancer cell growth	cancer cell growth	cancer	cancer	drops, and	
-V-101	bladder	bladder	urinary tract infections	urinary tract infections	infections—solid evidence that	
-V-101	standard american diet	standard american diet	cancer cells	cancer cells	onto	
-V-101	cancer cell growth	cancer cell growth	cell death	cell death	drops, and cancer	
-V-101	cancer	cancer	diabetes	diabetes	or	
-V-101	meat industry	meat industry	meat	meat	to downplay the risks of	
-V-101	bladder	bladder	bacteria	bacteria	.we’ve known for decades that it’s	
-V-101	blood	blood	blood pressure	blood pressure	pressure, the no-benefit-from-reducing-it-further	
-V-101	bacteria	bacteria	pathogens	pathogens	: salmonella, campylobacter—both serious human	
-V-101	plant-based diets	plant-based diets	anxiety	anxiety	resulted in significant reported improvements in depression,	
-V-101	igf-1	igf-1	eggs	eggs	circulating in your bloodstream from the bacon and	
-V-101	meat	meat	red meat	red meat	—	
-V-101	vegetarians	vegetarians	meat	meat	and give them	
-V-101	disease	disease	surgery	surgery	of the intestines; appendicitis—the #1 cause of emergency abdominal	
-V-101	diet	diet	igf-1	igf-1	can bring down your liver’s production of	
-V-101	animal protein	animal protein	plant-based diet	plant-based diet	intake, if you put people on a	
-V-101	kidney	kidney	amputations	amputations	failure, and moderate	
-V-101	dash diet	dash diet	diet	diet	was frank sacks.see, the dash	
-V-101	plant-based diets	plant-based diets	stress	stress	resulted in significant reported improvements in depression, anxiety,	
+V-101	africa	africa	health	health	uncovered what may be one of the most important advances in	
 V-101	lifestyle medicine	lifestyle medicine	pritikin	pritikin	pioneers.and what happened next is chronicled in	
 V-101	animal protein	animal protein	cancer	cancer	are four times as likely to die from	
-V-101	kidney	kidney	liver failure	liver failure	failure; what about	
-V-101	blood	blood	diet	diet	of the average woman eating a standard american	
-V-101	dietary guidelines	dietary guidelines	prevention	prevention	for the	
-V-101	blood pressure	blood pressure	plant-based	plant-based	 rates as people eat more and more	
-V-101	e. coli	e. coli	chicken	chicken	jump from the	
-V-101	prostate	prostate	cancer	cancer		
-V-101	kidney	kidney	animal fat	animal fat	function: animal protein,	
-V-101	cancer	cancer	death	death	cell growth drops, and cancer cell	
-V-101	cancer	cancer	plant-based	plant-based	on a	
-V-101	bacon	bacon	eggs	eggs	and	
-V-101	usda	usda	meats	meats	poultry microbiologist said: “raw	
-V-101	breast cancer	breast cancer	plant-based	plant-based	cell growth, within just two weeks of eating a	
-V-101	kiwifruit	kiwifruit	juice	juice		
-V-101	united states	united states	diet	diet	and the #1 cause of disability is our	
-V-101	dairy	dairy	kraft	kraft	under the bus when they purchased	
-V-101	cigarettes	cigarettes	emphysema	emphysema	evidently has a protective effect against	
-V-101	potassium	potassium	diet	diet	in the	
-V-101	fruits	fruits	vegetables	vegetables	and	
-V-101	plant-based	plant-based	exercise	exercise	diet and	
-V-101	chemicals	chemicals	national confectioners association	national confectioners association	are the same paid by the	
-V-101	dairy	dairy	igf-1	igf-1	proteins—increasing the level of	
-V-101	protein	protein	animal protein	animal protein	 without even batting an eyelash.why does	
-V-101	tofu	tofu	protein	protein	salad sandwich with the same amount of	
-V-101	bladder infections	bladder infections	urinary tract infections	urinary tract infections	—solid evidence that	
-V-101	women	women	milk	milk	followed for up to 20 years, and	
-V-101	usda	usda	raw	raw	poultry microbiologist said: “	
-V-101	prostate	prostate	plant-based diet	plant-based diet	cancer could be reversed with a	
-V-101	appendicitis	appendicitis	gallbladder disease	gallbladder disease	—the #1 cause of emergency abdominal surgery;	
-V-101	milk	milk	death	death	-drinking women had higher rates of	
-V-101	liver	liver	toxins	toxins	failure, significantly reducing the	
-V-101	milk	milk	brains	brains	supply, and in the	
-V-101	drugs	drugs	diet	diet	or surgery—just a plant-based	
-V-101	plant-based	plant-based	liver	liver	diet can bring down your	
-V-101	meat	meat	diet	diet	from their	
-V-101	dna	dna	death	death	fragmentation or cell	
-V-101	fecal bacteria	fecal bacteria	campylobacter	campylobacter	: salmonella,	
-V-101	dairy	dairy	milk	milk	industry should require toxin screenings of the	
-V-101	blood	blood	cancer	cancer	became that much more hostile to	
-V-101	blood	blood	pills	pills	sugars; a couple different	
-V-101	tobacco	tobacco	doctors	doctors	industry—but why weren’t individual	
-V-101	egg	egg	dairy	dairy	white, and	
-V-101	pork	pork	preservation	preservation		
-V-101	protein	protein	kidney	kidney	can have a profound effect on normal	
-V-101	plant-based diets	plant-based diets	kidney disease	kidney disease	have been used to treat	
-V-101	protein	protein	mortality	mortality	intakes had a 75% increase in total 	
-V-101	diet	diet	greens	greens	are: beans, and	
-V-101	diet	diet	cancer	cancer	and walking—that’s the kind of	
-V-101	chicken	chicken	eggs	eggs	and	
-V-101	hemorrhoids	hemorrhoids	cancer	cancer	—two of the most common venous problems; colorectal	
-V-101	gut	gut	volunteer	volunteer	of the	
-V-101	plant protein	plant protein	animal protein	animal protein	 without even batting an eyelash.why does	
-V-101	stress	stress	meat	meat	scores compared to those that eat	
-V-101	diet	diet	exercise	exercise	and	
-V-101	animal proteins	animal proteins	dairy	dairy	—meat, egg white, and	
-V-101	blood	blood	standard american diet	standard american diet	of the average woman eating a	
-V-101	exercise	exercise	cancer	cancer	group, killing off	
-V-101	diet	diet	igf-1	igf-1	for years, their levels drop even further.and their	
-V-101	fruits	fruits	diet	diet	and vegetables to their daily	
-V-101	meat	meat	blood	blood	from their diet, and their	
-V-101	national confectioners association	national confectioners association	candy	candy	to downplay the risks of	
-V-101	americans	americans	diet	diet	every year—whereas our	
-V-101	breast cancer	breast cancer	cancer growth	cancer growth	cells.this was the before:	
-V-101	plant-based diet	plant-based diet	women	women	and exercise; they had these	
-V-101	kidney	kidney	cholesterol	cholesterol	function: animal protein, animal fat, and	
-V-101	virus	virus	meat	meat	to spray on the	
-V-101	plant-based diet	plant-based diet	liver	liver	can bring down your	
-V-101	urinary tract infections	urinary tract infections	bladder infections	bladder infections	can be a zoonosis,	
-V-101	milk	milk	chemicals	chemicals	is contaminated with neurotoxic	
-V-101	lamb	lamb	kiwifruit	kiwifruit	carcasses with	
-V-101	red meat	red meat	white meat	white meat	or	
-V-101	fda	fda	virus	virus	approval for a bacteria-eating	
-V-101	inflammation	inflammation	animal protein	animal protein	triggered by the	
-V-101	plant-based	plant-based	heart disease	heart disease	populations.this suggests	
-V-101	harvard	harvard	kidney	kidney	researchers found three dietary risk factors for declining	
-V-101	risk	risk	animal protein	animal protein	factors for declining kidney function:	
-V-101	blood	blood	plant-based	plant-based	pressure rates as people eat more and more	
-V-101	fda	fda	bacteria-eating virus	bacteria-eating virus	approval for a	
-V-101	health	health	smoking	smoking	as	
-V-101	plant-based	plant-based	liver failure	liver failure	diet could be used to treat	
-V-101	plant-based diet	plant-based diet	disease	disease	reduce risk of parkinson’s	
-V-101	kidney	kidney	fat	fat	function: animal protein, animal	
-V-101	plant-based	plant-based	depression	depression	diets resulted in significant reported improvements in	
-V-101	plant-based diet	plant-based diet	blood	blood	for a year, though, and their	
-V-101	kidney	kidney	disease	disease		
-V-101	fruit	fruit	burgers	burgers	extracts to	
-V-101	death	death	kidney failure	kidney failure	from diabetes.killer #8 is	
-V-101	meat	meat	cheese	cheese	and	
-V-101	toxins	toxins	meat	meat	that would otherwise build up eating	
-V-101	plant-based	plant-based	cancer	cancer	diet and walking—that’s the kind of	
-V-101	plant-based diets	plant-based diets	liver	liver	have worsening	
-V-101	plant-based diet	plant-based diet	risk	risk	reduce	
-V-101	blood	blood	diet	diet	from women eating the standard american	
-V-101	dairy	dairy	philip morris	philip morris	thing.that reminds me of a famous	
-V-101	women	women	diet	diet	eating the standard american	
-V-101	pills	pills	diet	diet	for high blood pressure.the same	
-V-101	smoking	smoking	americans	americans	now only kills about a half million	
-V-101	blood	blood	standard american diet	standard american diet	of those eating the	
-V-101	disease	disease	appendicitis	appendicitis	of the intestines;	
-V-101	cancer	cancer	cancer	cancer	cell growth drops, and	
-V-101	cancer	cancer	risk	risk		
-V-101	drugs	drugs	plant-based diet	plant-based diet	or surgery—just a	
-V-101	risk	risk	dementia	dementia	of	
-V-101	kidney function	kidney function	cholesterol	cholesterol	: animal protein, animal fat, and	
-V-101	mortality	mortality	risk	risk		
-V-101	diverticulitis	diverticulitis	appendicitis	appendicitis	—the #1 disease of the intestines;	
-V-101	kids	kids	standard american diet	standard american diet	raised on the	
-V-101	animal protein	animal protein	kidney function	kidney function	can have a profound effect on normal	
-V-101	plant-based	plant-based	kidney disease	kidney disease	diets have been used to treat	
-V-101	blood	blood	women	women	that was now coursing through these	
-V-101	usda	usda	poultry	poultry		
-V-101	kidney	kidney	liver	liver	failure; what about	
-V-101	prostate cancer	prostate cancer	diet	diet	could be reversed with a plant-based	
-V-101	standard american diet	standard american diet	cancer cells	cancer cells	can do to breast	
-V-101	dairy	dairy	milk	milk	products and parkinson’s—but why?well, there’s evidence that	
-V-101	plant-based	plant-based	blood	blood	diet.what kind of	
-V-101	food industry	food industry	tobacco	tobacco	uses the same	
-V-101	plant-based	plant-based	weight loss	weight loss	diet—even with zero	
-V-101	fat	fat	kidneys	kidneys	can alter the actual structure of our	
-V-101	infections	infections	urinary tract infections	urinary tract infections	—solid evidence that	
-V-101	diet	diet	heart disease	heart disease	that’s ever been proven to reverse	
-V-101	blood	blood	cancer cells	cancer cells	that just kind of rolls over when new	
-V-101	dementia	dementia	diabetes	diabetes	drops.next on the list: type 2	
-V-101	surgery	surgery	diet	diet	—just a plant-based	
-V-101	vision	vision	kidney failure	kidney failure	loss, moderate	
-V-101	emphysema	emphysema	smoking	smoking	in	
-V-101	diet	diet	liver	liver	could be used to treat	
-V-101	plant-based	plant-based	blood	blood	living, her	
-V-101	animal proteins	animal proteins	egg	egg	—meat,	
-V-101	plant-based diet	plant-based diet	weight loss	weight loss	—even with zero	
-V-101	death	death	united states	united states	in the	
-V-101	cancer	cancer	plant-based	plant-based	cell growth, within just two weeks of eating a	
-V-101	blood	blood	women	women	from	
+V-101	sugar	sugar	apple	apple	is a lot better than that	
+V-101	animal protein	animal protein	risk	risk	didn’t have just four times more	
 V-101	dr. kim williams	dr. kim williams	american college of cardiology	american college of cardiology	became president of the	
-V-101	disease	disease	plant-based diet	plant-based diet	in the majority of patients—a	
-V-101	risk	risk	cooking	cooking	by frequently	
-V-101	diet	diet	cholesterol	cholesterol	usually result in only modest reductions in	
-V-101	diet	diet	cancer	cancer	can do to breast	
-V-101	colorectal cancer	colorectal cancer	cancer	cancer	—a leading cause of	
-V-101	risk	risk	diabetes	diabetes	of dementia drops.next on the list: type 2	
+V-101	animal protein	animal protein	plant protein	plant protein	cause the overload reaction, but not	
+V-101	blood pressure	blood pressure	blood	blood	need not occur.researchers measured the	
+V-101	bacon	bacon	eggs	eggs	and	
 V-101	plant-based diets	plant-based diets	kidney	kidney	have been used to treat	
-V-101	apples	apples	tobacco	tobacco	do “connote goodness and freshness,” reads one internal	
-V-101	protein	protein	physicians	physicians	leakage on the low-sodium diet that	
-V-101	cancer	cancer	prostate	prostate	cell growth.now, this was for	
-V-101	surgeon general	surgeon general	medical community	medical community	’s report was released, the	
-V-101	kidneys	kidneys	protein	protein	can deal with plant	
-V-101	heart disease	heart disease	plant-based	plant-based	and put them on the kind of	
-V-101	mental health	mental health	inflammation	inflammation	via a cascade of neuroinflammation; brain	
-V-101	igf-1	igf-1	bacon	bacon	circulating in your bloodstream from the	
-V-101	medical school	medical school	smoking	smoking	was that within about 15 years of stopping	
+V-101	disease	disease	drugs	drugs	could indeed be reversed in the majority of patients without	
+V-101	meat	meat	dairy	dairy	and	
+V-101	copd	copd	plant-based	plant-based	can be prevented with the help of a	
+V-101	diet	diet	weight loss	weight loss	had unique benefits beyond all the	
 V-101	prostate cancer	prostate cancer	plant-based diet	plant-based diet	could be reversed with a	
-V-101	hemorrhoids	hemorrhoids	colorectal cancer	colorectal cancer	—two of the most common venous problems;	
-V-101	diabetes	diabetes	insulin	insulin	for 20 years, then off all	
-V-101	blood	blood	insulin	insulin	sugars on 32 units less	
-V-101	ornish	ornish	prostate cancer	prostate cancer	and colleagues found that the progression of	
-V-101	milk	milk	risk	risk	does not appear to protect against hip fracture	
-V-101	ham	ham	cheese	cheese	 and	
-V-101	risk	risk	diabetes	diabetes	of death from	
+V-101	arteries	arteries	drugs	drugs	opened up without	
+V-101	philip morris	philip morris	dairy	dairy	stopped throwing	
+V-101	fruits	fruits	vegetables	vegetables	and	
+V-101	medicine	medicine	pritikin	pritikin	pioneers.and what happened next is chronicled in	
+V-101	chemicals	chemicals	national confectioners association	national confectioners association	are the same paid by the	
 V-101	high blood pressure	high blood pressure	blood	blood	need not occur.researchers measured the	
 V-101	plant-based diets	plant-based diets	depression	depression	resulted in significant reported improvements in	
-V-101	kids	kids	diet	diet	raised on the standard american	
-V-101	produce	produce	plant-based diets	plant-based diets	aisle rather than the pharmacy aisle.no wonder	
-V-101	standard american diet	standard american diet	disease	disease	already have fatty streaks—the first stage of the	
-V-101	animal proteins	animal proteins	meat	meat	—	
-V-101	animal protein	animal protein	protein	protein	cause the overload reaction, but not plant	
-V-101	ama	ama	surgeon general	surgeon general	actually went on record refusing to endorse the	
-V-101	blood	blood	insulin	insulin	pressure medications, laxatives (of course), and	
-V-101	raw	raw	meats	meats		
-V-101	cancer	cancer	plant-based diet	plant-based diet	on a	
-V-101	poultry	poultry	raw	raw	microbiologist said: “	
-V-101	plant-based	plant-based	weight loss	weight loss	diet had unique benefits beyond all the	
-V-101	diet	diet	dash diet	dash diet	was frank sacks.see, the	
-V-101	disease	disease	diet	diet	in the majority of patients—a plant-based	
-V-101	risk	risk	animal fat	animal fat	factors for declining kidney function: animal protein,	
-V-101	plant-based	plant-based	death	death	diet, cancer cell growth drops, and cancer cell	
+V-101	blood	blood	plant-based diets	plant-based diets	circulating within the bodies of those eating 	
+V-101	insulin	insulin	plant-based diet	plant-based diet	altogether, thanks to less than two weeks on a	
 V-101	copd	copd	plant-based diet	plant-based diet	can be prevented with the help of a	
-V-101	cancer	cancer	diet	diet	could be reversed with a plant-based	
-V-101	diet	diet	weight loss	weight loss	—even with zero	
+V-101	plant-based diet	plant-based diet	liver failure	liver failure	could be used to treat	
 V-101	diet	diet	vision	vision	can leave diabetics with moderate	
-V-101	pain	pain	pills	pills		
+V-101	animal protein	animal protein	kidney	kidney	induces the formation of acid within the	
+V-101	disease	disease	produce	produce	might lie in the	
+V-101	blood	blood	cancer	cancer	became that much more hostile to	
 V-101	animal protein	animal protein	kidney	kidney	can have a profound effect on normal	
-V-101	vegetarian	vegetarian	animal products	animal products	diet, yet contain enough	
-V-101	surgery	surgery	plant-based diet	plant-based diet	—just a	
-V-101	pills	pills	blood	blood	for high	
-V-101	smoking	smoking	ham	ham	if my	
-V-101	prostate	prostate	diet	diet	cancer could be reversed with a plant-based	
-V-101	animal protein	animal protein	risk	risk	—only had 23 times the	
-V-101	protein	protein	plant-based diet	plant-based diet	intake, if you put people on a	
+V-101	diet	diet	heart disease	heart disease	followed by those populations that didn’t suffer from	
+V-101	egg	egg	dairy	dairy	white, and	
+V-101	diet	diet	plant foods	plant foods	centered around whole	
+V-101	plant-based diet	plant-based diet	heart disease	heart disease	followed by those populations that didn’t suffer from	
+V-101	plant-based diet	plant-based diet	weight loss	weight loss	had unique benefits beyond all the	
+V-101	medicine	medicine	smoking	smoking	is saying that	
+V-101	diet	diet	breast cancer	breast cancer	can do to	
+V-101	protein	protein	kidney	kidney	can have a profound effect on normal	
+V-101	plant-based diets	plant-based diets	kidney disease	kidney disease	have been used to treat	
 V-101	berries	berries	meat	meat	in	
-V-101	death	death	diet	diet	sentence, and thanks to a healthy	
+V-101	animal products	animal products	processed foods	processed foods	and	
 V-101	diet	diet	liver failure	liver failure	could be used to treat	
-V-101	meat industry	meat industry	animal products	animal products	to downplay the risks of meat.consumption of	
-V-101	mood	mood	anxiety	anxiety	states—in fact, only about half the depression,	
-V-101	heart disease	heart disease	death	death	—the commonest cause of	
-V-101	disease	disease	plant-based diet	plant-based diet	and put them on the kind of	
+V-101	chicken	chicken	eggs	eggs	and	
+V-101	dairy	dairy	health	health	could be as harmful to	
+V-101	diet	diet	exercise	exercise	and	
 V-101	smoking	smoking	lung cancer	lung cancer	and	
-V-101	harvard	harvard	risk	risk	researchers found three dietary	
+V-101	insulin	insulin	plant-based	plant-based	altogether, thanks to less than two weeks on a	
+V-101	milk	milk	neurotoxic chemicals	neurotoxic chemicals	is contaminated with	
 V-101	cancer	cancer	plant-based diet	plant-based diet	could be reversed with a	
 V-101	blood	blood	plant-based	plant-based	taken from those who ate a	
-V-101	plant protein	plant protein	protein	protein	 without even batting an eyelash.why does animal	
-V-101	african	african	coronary heart disease	coronary heart disease	population of uganda,	
-V-101	kidney function	kidney function	fat	fat	: animal protein, animal	
-V-101	cancer	cancer	disease	disease	—a leading cause of cancer-related death; diverticulitis—the #1	
-V-101	meat	meat	animal products	animal products	industry to downplay the risks of meat.consumption of	
-V-101	blood	blood	vegetarian	vegetarian	pressure-lowering benefits of a	
-V-101	usda	usda	bananas	bananas	expanded their list, and now	
-V-101	barley	barley	plant-based	plant-based	—in fact, strictly	
-V-101	diet	diet	kidney failure	kidney failure	can leave diabetics with moderate vision loss, moderate	
-V-101	risk	risk	kidney function	kidney function	factors for declining	
-V-101	plant-based	plant-based	disease	disease	diet reduce risk of parkinson’s	
+V-101	viruses	viruses	food industry	food industry	may present something of a challenge to the	
+V-101	diet	diet	risk	risk	reduce	
+V-101	women	women	standard american diet	standard american diet	eating the	
+V-101	ama	ama	tobacco	tobacco	may have been sucking up to the	
+V-101	diet	diet	beans	beans	are:	
+V-101	plant-based diet	plant-based diet	liver	liver	can bring down your	
+V-101	milk	milk	chemicals	chemicals	is contaminated with neurotoxic	
+V-101	red meat	red meat	white meat	white meat	or	
+V-101	inflammation	inflammation	animal protein	animal protein	triggered by the	
+V-101	plant-based diet	plant-based diet	liver	liver	could be used to treat	
+V-101	plant-based diet	plant-based diet	exercise	exercise	and	
+V-101	risk	risk	lung cancer	lung cancer	of	
 V-101	prostate cancer	prostate cancer	plant-based	plant-based	could be reversed with a	
-V-101	diet	diet	bananas	bananas	are: beans, and greens, and dates.	
-V-101	dna	dna	farm animals	farm animals	fingerprinting proof of a direct link between	
-V-101	fecal bacteria	fecal bacteria	pathogens	pathogens	: salmonella, campylobacter—both serious human	
-V-101	anti-inflammatory	anti-inflammatory	fish	fish	drug along with the tuna	
-V-101	potassium	potassium	greens	greens	in the diet are: beans, and	
-V-101	vegetables	vegetables	diet	diet	to their daily	
+V-101	cancer	cancer	plant-based	plant-based	could be reversed with a	
+V-101	cdc	cdc	surgery	surgery	encourages people not to wait for open-heart	
 V-101	protein	protein	risk	risk	didn’t have just four times more	
-V-101	cooking	cooking	risk	risk	with oil, or tripling your	
 V-101	protein	protein	cancer	cancer	are four times as likely to die from	
-V-101	risk	risk	cancer	cancer	of lung	
-V-101	plant-based	plant-based	egg	egg	diet.we think it’s because of the animal proteins—meat,	
+V-101	kidneys	kidneys	plant protein	plant protein	can deal with	
+V-101	meat	meat	cheese	cheese	and	
+V-101	plant-based diets	plant-based diets	liver	liver	have worsening	
+V-101	plant-based diet	plant-based diet	risk	risk	reduce	
 V-101	animal fat	animal fat	kidneys	kidneys	can alter the actual structure of our	
-V-101	blood pressure	blood pressure	medications	medications		
-V-101	blood	blood	women	women	was drawn from those same	
+V-101	varicose veins	varicose veins	hemorrhoids	hemorrhoids	and	
 V-101	kidney disease	kidney disease	produce	produce	might lie in the	
-V-101	heart disease	heart disease	plant-based diet	plant-based diet	in the majority of patients—a	
-V-101	e. coli	e. coli	gut	gut	jump from the chicken into the	
+V-101	maggots	maggots	meat	meat	thrive on rotting	
+V-101	plant-based diets	plant-based diets	drugs	drugs	are great for those that don’t like taking	
 V-101	diet	diet	cancer	cancer	and	
+V-101	cigarettes	cigarettes	water	water	are just as pure as the	
+V-101	diet	diet	liver	liver	can bring down your	
 V-101	protein	protein	kidney	kidney	induces the formation of acid within the	
-V-101	risk	risk	protein	protein	factors for declining kidney function: animal	
-V-101	bacteria-eating virus	bacteria-eating virus	meat	meat	to spray on the	
-V-101	diabetes	diabetes	plant-based	plant-based	—is significantly lower in those eating	
-V-101	heart disease	heart disease	plant-based	plant-based	in the majority of patients—a	
-V-101	plaque	plaque	teeth	teeth	on our	
-V-101	milk	milk	heart disease	heart disease	-drinking women had higher rates of death, more	
-V-101	cancer cells	cancer cells	blood	blood	pop up, or do we want	
-V-101	kidney function	kidney function	protein	protein	: animal	
-V-101	plant-based diet	plant-based diet	igf-1	igf-1	can bring down your liver’s production of	
-V-101	african	african	uganda	uganda	population of	
-V-101	heart disease	heart disease	risk	risk	by eating non-vegetarian, or multiplying your	
-V-101	meat	meat	philip morris	philip morris	and dairy thing.that reminds me of a famous	
-V-101	protein	protein	plant-based	plant-based	intake, if you put people on a	
-V-101	standard american diet	standard american diet	cancer growth	cancer growth	onto cancer cells growing in a petri dish,	
-V-101	plant-based	plant-based	cell death	cell death	diet, cancer cell growth drops, and cancer	
-V-101	milk	milk	risk	risk	consumption was associated with an increase in fracture	
+V-101	women	women	pneumovax	pneumovax	were split into two groups right before they were going to get their	
+V-101	bacteria	bacteria	gut flora	gut flora	had multiplied to the point of becoming a major part of the person’s	
+V-101	africa	africa	china	china	and	
+V-101	americans	americans	plant-based diet	plant-based diet	die, and a	
+V-101	blood	blood	plant-based diet	plant-based diet	taken from those who ate a	
+V-101	risk	risk	dementia	dementia	of	
+V-101	bacteria	bacteria	gut	gut	had multiplied to the point of becoming a major part of the person’s	
+V-101	drugs	drugs	surgery	surgery	or	
+V-101	kids	kids	standard american diet	standard american diet	raised on the	
+V-101	animal protein	animal protein	kidney function	kidney function	can have a profound effect on normal	
+V-101	cancer	cancer	diabetes	diabetes	or	
+V-101	milk	milk	bananas	bananas	shakes, then	
 V-101	blood	blood	plant-based	plant-based	circulating within the bodies of those eating 	
-V-101	cancer	cancer	cell death	cell death	cell growth drops, and cancer	
-V-101	plant-based	plant-based	kidney	kidney	diets have been used to treat	
-V-101	mood	mood	depression	depression	states—in fact, only about half the	
-V-101	protein	protein	meat	meat	leakage effect in response to	
-V-101	plant-based	plant-based	meat	meat	day-to-day, with	
-V-101	breast cancer	breast cancer	cancer	cancer	cells.this was the before:	
-V-101	death	death	kidney	kidney	from diabetes.killer #8 is	
-V-101	blood	blood	standard american diet	standard american diet	from women eating the	
-V-101	animal protein	animal protein	diet	diet	intake, if you put people on a plant-based	
-V-101	disease	disease	risk	risk	by eating non-vegetarian, or multiplying your	
+V-101	e. coli	e. coli	chicken	chicken	was coming from:	
+V-101	food industry	food industry	tobacco	tobacco	uses the same	
+V-101	fat	fat	kidneys	kidneys	can alter the actual structure of our	
 V-101	protein	protein	kidney function	kidney function	can have a profound effect on normal	
-V-101	insulin	insulin	diet	diet	on the control	
+V-101	standard american diet	standard american diet	breast cancer	breast cancer	can do to	
+V-101	emphysema	emphysema	smoking	smoking	in	
+V-101	diet	diet	liver	liver	could be used to treat	

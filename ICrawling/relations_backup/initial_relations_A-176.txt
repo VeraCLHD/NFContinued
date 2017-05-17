@@ -1,25 +1,8 @@
 
-A-176	rapamycin	rapamycin	bacteria	bacteria	—named after the	
-A-176	symptoms	symptoms	blood	blood	may include dropping our	
-A-176	lifespan	lifespan	tor	tor	mainly through the inhibition of	
-A-176	caloric restriction	caloric restriction	tor	tor	may extend lifespan mainly through the inhibition of	
-A-176	health	health	longevity	longevity	and	
-A-176	blood	blood	infertility	infertility	pressure too low, loss of libido, menstrual irregularities,	
-A-176	longevity	longevity	diet	diet	benefits of such a	
-A-176	rapamycin	rapamycin	easter island	easter island	—named after the bacteria’s home,	
-A-176	tor	tor	aging	aging	may be a master determinant of lifespan and	
-A-176	rapamycin	rapamycin	tor	tor	inhibits an enzyme called	
-A-176	diet	diet	symptoms	symptoms	regimen may be numerous, but	
-A-176	blood pressure	blood pressure	infertility	infertility	too low, loss of libido, menstrual irregularities,	
-A-176	cold	cold	wound healing	wound healing	sensitivity, loss of strength, slower	
-A-176	symptoms	symptoms	blood pressure	blood pressure	may include dropping our	
 A-176	lifespan	lifespan	aging	aging	and	
-A-176	health	health	diet	diet	and longevity benefits of such a	
+A-176	health	health	longevity	longevity	and	
 A-176	caloric restriction	caloric restriction	lifespan	lifespan	may extend	
 A-176	caloric restriction	caloric restriction	youth	youth	has been heralded as a fountain of	
-A-176	caloric restriction	caloric restriction	animal protein	animal protein	vs.	
 A-176	medicine	medicine	health	health	increases the number of old people in bad	
-A-176	caloric restriction	caloric restriction	protein	protein	vs. animal	
-A-176	bacteria	bacteria	easter island	easter island	’s home,	
-A-176	lifespan	lifespan	aging	aging	by slowing	
+A-176	rapamycin	rapamycin	tor	tor	inhibits an enzyme called	
 A-176	tor	tor	lifespan	lifespan	may be a master determinant of	

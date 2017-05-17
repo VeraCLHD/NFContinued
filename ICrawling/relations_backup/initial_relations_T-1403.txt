@@ -1,48 +1,14 @@
 
-T-1403	butter	butter	peanut	peanut	has even been suggested for vegetable-resistant children.peanuts and	
 T-1403	disease	disease	sense of smell	sense of smell	is changes in the	
-T-1403	peanuts	peanuts	peanut butter	peanut butter	or half a cup of	
-T-1403	peanut	peanut	corn	corn	butter, nuts, beans, lentils, soybeans, or	
-T-1403	fat	fat	burning	burning	–	
-T-1403	peanuts	peanuts	peanut	peanut	or half a cup of	
-T-1403	peanut	peanut	nuts	nuts	butter,	
-T-1403	butter	butter	antioxidants	antioxidants	contain many vitamins, minerals, plant compounds, and	
-T-1403	butter	butter	peanut butter	peanut butter	has even been suggested for vegetable-resistant children.peanuts and	
-T-1403	peanuts	peanuts	butter	butter	and peanut	
-T-1403	risk	risk	breast disease	breast disease	for fibrocystic	
-T-1403	peanut	peanut	vitamins	vitamins	butter contain many	
-T-1403	butter	butter	vitamins	vitamins	contain many	
-T-1403	vegetables	vegetables	peanut butter	peanut butter	with	
-T-1403	fat	fat	breast cancer	breast cancer	–burning in the body.early nut consumption may prevent	
-T-1403	nuts	nuts	burning	burning	may boost fat–	
-T-1403	arginine	arginine	burning	burning	content of nuts may boost fat–	
-T-1403	peanuts	peanuts	minerals	minerals	and peanut butter contain many vitamins,	
-T-1403	vegetables	vegetables	peanut	peanut	with	
-T-1403	vegetables	vegetables	butter	butter	with peanut	
-T-1403	peanuts	peanuts	peanut	peanut	and	
-T-1403	peanut	peanut	antioxidants	antioxidants	butter contain many vitamins, minerals, plant compounds, and	
-T-1403	peanuts	peanuts	butter	butter	or half a cup of peanut	
-T-1403	peanut	peanut	lentils	lentils	butter, nuts, beans,	
-T-1403	nuts	nuts	fat	fat	may boost	
-T-1403	corn	corn	breast disease	breast disease	had a fraction of the risk for fibrocystic	
-T-1403	burning	burning	breast cancer	breast cancer	in the body.early nut consumption may prevent	
-T-1403	peanut butter	peanut butter	antioxidants	antioxidants	contain many vitamins, minerals, plant compounds, and	
 T-1403	peanuts	peanuts	peanut butter	peanut butter	and	
 T-1403	corn	corn	risk	risk	had a fraction of the	
-T-1403	burning	burning	cancer	cancer	in the body.early nut consumption may prevent breast	
-T-1403	peanut	peanut	soybeans	soybeans	butter, nuts, beans, lentils,	
-T-1403	peanut	peanut	butter	butter		
+T-1403	peanut butter	peanut butter	disease	disease	had to get all the way up to two inches from the left nostril to be detected in all patients with probable alzheimer’s	
 T-1403	peanut butter	peanut butter	vitamins	vitamins	contain many	
-T-1403	arginine	arginine	fat	fat	content of nuts may boost	
 T-1403	amino acid	amino acid	protein	protein	involved in	
-T-1403	butter	butter	minerals	minerals	contain many vitamins,	
-T-1403	peanut butter	peanut butter	peanut	peanut	has even been suggested for vegetable-resistant children.peanuts and	
-T-1403	risk	risk	disease	disease	for fibrocystic breast	
-T-1403	arginine	arginine	nuts	nuts	content of	
-T-1403	risk	risk	fibrocystic breast disease	fibrocystic breast disease	for	
-T-1403	peanuts	peanuts	vitamins	vitamins	and peanut butter contain many	
-T-1403	peanut	peanut	minerals	minerals	butter contain many vitamins,	
-T-1403	corn	corn	fibrocystic breast disease	fibrocystic breast disease	had a fraction of the risk for	
-T-1403	peanut	peanut	beans	beans	butter, nuts,	
+T-1403	peanut butter	peanut butter	diet	diet	was fed to people in addition to their regular	
+T-1403	butter	butter	vitamins	vitamins	contain many	
+T-1403	butter	butter	disease	disease	had to get all the way up to two inches from the left nostril to be detected in all patients with probable alzheimer’s	
+T-1403	peanuts	peanuts	peanut	peanut	and	
+T-1403	butter	butter	diet	diet	was fed to people in addition to their regular	
+T-1403	nuts	nuts	fat	fat	may boost	
 T-1403	peanuts	peanuts	nuts	nuts	are technically not	
-T-1403	peanut butter	peanut butter	minerals	minerals	contain many vitamins,	

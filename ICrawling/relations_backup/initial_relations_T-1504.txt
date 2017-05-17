@@ -1,139 +1,23 @@
 
-T-1504	endotoxins	endotoxins	poultry	poultry	from	
-T-1504	salt	salt	phosphorus	phosphorus	water and with	
-T-1504	drugs	drugs	poultry	poultry	and chemicals in	
-T-1504	phosphorus	phosphorus	preservatives	preservatives		
-T-1504	poultry	poultry	fat oxidation	fat oxidation	intake may also increase	
-T-1504	stroke	stroke	water	water	risk.processing plants inject poultry carcasses with salt	
-T-1504	risk	risk	blood	blood	factor for high	
-T-1504	poultry	poultry	meat	meat		
-T-1504	water	water	preservatives	preservatives	and with phosphorus	
-T-1504	water	water	phosphorus	phosphorus	and with	
-T-1504	salmonella	salmonella	poultry	poultry	bacteria transfer rate of store-bought contaminated	
-T-1504	poultry	poultry	bacteria	bacteria	products are frequently contaminated with multidrug-resistant	
-T-1504	prostate	prostate	cancer	cancer		
-T-1504	fat oxidation	fat oxidation	choline	choline	and can increase	
-T-1504	cdc	cdc	poultry	poultry	has found that	
-T-1504	heart attack	heart attack	plants	plants	and stroke risk.processing	
-T-1504	sodium	sodium	high blood pressure	high blood pressure	(a risk factor for	
-T-1504	bacteria	bacteria	guillain-barré syndrome	guillain-barré syndrome	campylobacter found in poultry can trigger	
-T-1504	fat	fat	tmao	tmao	oxidation and can increase choline and	
-T-1504	poultry	poultry	uric acid	uric acid	may increase inflammation and raise	
-T-1504	cancer	cancer	cancer	cancer	at the top of the stomach, lymphoma, pancreatic	
-T-1504	bacteria	bacteria	poultry	poultry	that one is advised against rinsing	
-T-1504	cooking	cooking	carcinogens	carcinogens	poultry until it is well done creates	
-T-1504	blood	blood	osteoporosis	osteoporosis	pressure) and contribute to	
-T-1504	poultry	poultry	e. coli	e. coli	can trigger guillain-barré syndrome, and certain strains of	
-T-1504	fecal bacteria	fecal bacteria	campylobacter	campylobacter		
-T-1504	raw	raw	risk	risk	meat or poultry raises the	
-T-1504	meat	meat	poultry	poultry	or	
-T-1504	stroke	stroke	plants	plants	risk.processing	
-T-1504	lead	lead	risk	risk	to high levels of sodium (a	
-T-1504	prostate	prostate	endometrial cancer	endometrial cancer	cancer, and	
-T-1504	blood pressure	blood pressure	osteoporosis	osteoporosis	) and contribute to	
-T-1504	risk	risk	high blood pressure	high blood pressure	factor for	
-T-1504	drugs	drugs	chemicals	chemicals	and	
-T-1504	campylobacter	campylobacter	syndrome	syndrome	found in poultry can trigger guillain-barré	
-T-1504	risk	risk	blood pressure	blood pressure	factor for high	
-T-1504	aging	aging	pcbs	pcbs	process.poultry has been found to contain antibiotic residues,	
-T-1504	campylobacter	campylobacter	guillain-barré syndrome	guillain-barré syndrome	found in poultry can trigger	
-T-1504	contamination	contamination	cooking	cooking	in the kitchen before	
-T-1504	sodium	sodium	blood pressure	blood pressure	(a risk factor for high	
-T-1504	bacteria	bacteria	poultry	poultry	campylobacter found in	
-T-1504	carcinogens	carcinogens	poultry	poultry	that also increase the risk of cancer.avoiding	
-T-1504	plants	plants	salt water	salt water	inject poultry carcasses with	
-T-1504	poultry	poultry	food poisoning	food poisoning	raises the risk of bacteria-caused	
-T-1504	poultry	poultry	inflammation	inflammation	may increase	
-T-1504	sodium	sodium	blood	blood	(a risk factor for high	
-T-1504	poultry	poultry	estrogen	estrogen	may be a source of	
-T-1504	meat	meat	poultry	poultry	studied,	
-T-1504	fecal bacteria	fecal bacteria	syndrome	syndrome	campylobacter found in poultry can trigger guillain-barré	
-T-1504	poultry	poultry	bacteria	bacteria	tends to be so covered in fecal	
-T-1504	salt	salt	preservatives	preservatives	water and with phosphorus	
-T-1504	cooking	cooking	poultry	poultry		
-T-1504	stroke	stroke	salt water	salt water	risk.processing plants inject poultry carcasses with	
-T-1504	risk	risk	poultry	poultry	of cancer.avoiding	
-T-1504	food poisoning	food poisoning	poultry	poultry	to that child.	
-T-1504	plants	plants	salt	salt	inject poultry carcasses with	
-T-1504	cancer	cancer	lymphoma	lymphoma	at the top of the stomach,	
-T-1504	fat oxidation	fat oxidation	tmao	tmao	and can increase choline and	
-T-1504	aging	aging	antibiotic residues	antibiotic residues	process.poultry has been found to contain	
-T-1504	cancer	cancer	stomach	stomach	at the top of the	
-T-1504	heart attack	heart attack	stroke	stroke	and	
-T-1504	food poisoning	food poisoning	risk	risk	to that child.poultry has been associated with increased	
+T-1504	salmonella	salmonella	poultry	poultry	in	
 T-1504	poultry	poultry	weight gain	weight gain	has been most associated with	
 T-1504	cholesterol	cholesterol	beef	beef	may be similar to that of	
 T-1504	poultry	poultry	fecal bacteria	fecal bacteria	tends to be so covered in	
-T-1504	heart attack	heart attack	salt water	salt water	and stroke risk.processing plants inject poultry carcasses with	
-T-1504	endotoxins	endotoxins	inflammation	inflammation	from poultry may increase	
-T-1504	cholesterol	cholesterol	fish	fish	may be similar to that of beef and	
-T-1504	infertility	infertility	risk	risk		
-T-1504	risk	risk	osteoporosis	osteoporosis	factor for high blood pressure) and contribute to	
-T-1504	choline	choline	tmao	tmao	and	
-T-1504	fecal bacteria	fecal bacteria	poultry	poultry	that one is advised against rinsing	
-T-1504	carcinogens	carcinogens	risk	risk	that also increase the	
-T-1504	bacteria	bacteria	campylobacter	campylobacter		
-T-1504	weight gain	weight gain	infertility	infertility	and may increase	
-T-1504	high blood pressure	high blood pressure	osteoporosis	osteoporosis	) and contribute to	
-T-1504	poultry	poultry	risk	risk	raises the	
-T-1504	salmonella	salmonella	poultry	poultry	in	
-T-1504	meat	meat	weight gain	weight gain	studied, poultry has been most associated with	
-T-1504	harvard	harvard	poultry	poultry	researchers found	
-T-1504	oxidation	oxidation	choline	choline	and can increase	
-T-1504	e. coli	e. coli	poultry	poultry	found in	
-T-1504	heart attack	heart attack	poultry	poultry	and stroke risk.processing plants inject	
-T-1504	poultry	poultry	risk	risk	has been associated with increased	
-T-1504	fat	fat	choline	choline	oxidation and can increase	
-T-1504	salt	salt	water	water		
-T-1504	bacteria	bacteria	poultry	poultry	transfer rate of store-bought contaminated	
-T-1504	salt water	salt water	preservatives	preservatives	and with phosphorus	
-T-1504	meat	meat	risk	risk	or poultry raises the	
-T-1504	e. coli	e. coli	urinary tract infections	urinary tract infections	found in poultry are associated with	
-T-1504	poultry	poultry	cholesterol	cholesterol	on	
-T-1504	drugs	drugs	meat	meat	and chemicals in poultry	
-T-1504	cooking	cooking	contamination	contamination	fecal matter will kill the pathogens, but cross	
-T-1504	prostate	prostate	cancer growth	cancer growth		
-T-1504	sodium	sodium	risk	risk	(a	
-T-1504	salt water	salt water	phosphorus	phosphorus	and with	
-T-1504	animal products	animal products	mood	mood	appears to help boost one’s	
-T-1504	poultry	poultry	beef	beef	on cholesterol may be similar to that of	
-T-1504	raw	raw	meat	meat		
-T-1504	cancer	cancer	heterocyclic amines	heterocyclic amines	risk, and	
-T-1504	meat	meat	food poisoning	food poisoning	or poultry raises the risk of bacteria-caused	
-T-1504	fat	fat	oxidation	oxidation		
-T-1504	poultry	poultry	carcinogens	carcinogens	until it is well done creates	
-T-1504	mrsa	mrsa	bacteria	bacteria		
-T-1504	cancer	cancer	pancreatic cancer	pancreatic cancer	at the top of the stomach, lymphoma,	
-T-1504	inflammation	inflammation	uric acid	uric acid	and raise	
-T-1504	poultry	poultry	fat	fat	intake may also increase	
-T-1504	cancer	cancer	carcinogens	carcinogens	risk, and heterocyclic amines, which are	
-T-1504	weight gain	weight gain	risk	risk	and may increase infertility	
-T-1504	e. coli	e. coli	infections	infections	found in poultry are associated with urinary tract	
 T-1504	beef	beef	fish	fish	and	
-T-1504	poultry	poultry	oxidation	oxidation	intake may also increase fat	
-T-1504	risk	risk	food poisoning	food poisoning	of bacteria-caused	
-T-1504	stroke	stroke	salt	salt	risk.processing plants inject poultry carcasses with	
+T-1504	poultry	poultry	inflammation	inflammation	may increase	
+T-1504	e. coli	e. coli	poultry	poultry	found in	
+T-1504	meat	meat	poultry	poultry	or	
+T-1504	poultry	poultry	estrogen	estrogen	may be a source of	
+T-1504	meat	meat	poultry	poultry	studied,	
+T-1504	poultry	poultry	salmonella	salmonella	ranks as the 4th worst infected food in the u.s.  a study found that the	
+T-1504	choline	choline	tmao	tmao	and	
+T-1504	poultry	poultry	bacteria	bacteria	tends to be so covered in fecal	
 T-1504	plants	plants	poultry	poultry	inject	
-T-1504	heart attack	heart attack	salt	salt	and stroke risk.processing plants inject poultry carcasses with	
-T-1504	cancer	cancer	risk	risk		
+T-1504	poultry	poultry	risk	risk	has been associated with increased	
 T-1504	poultry	poultry	pesticides	pesticides	may not help to remove	
-T-1504	raw	raw	poultry	poultry	meat or	
-T-1504	tmao	tmao	heart attack	heart attack	levels, both of which can contribute to	
-T-1504	fecal bacteria	fecal bacteria	guillain-barré syndrome	guillain-barré syndrome	campylobacter found in poultry can trigger	
-T-1504	endotoxins	endotoxins	uric acid	uric acid	from poultry may increase inflammation and raise	
-T-1504	raw	raw	food poisoning	food poisoning	meat or poultry raises the risk of bacteria-caused	
-T-1504	oxidation	oxidation	tmao	tmao	and can increase choline and	
-T-1504	cooking	cooking	pathogens	pathogens	fecal matter will kill the	
-T-1504	bacteria	bacteria	syndrome	syndrome	campylobacter found in poultry can trigger guillain-barré	
-T-1504	plants	plants	water	water	inject poultry carcasses with salt	
-T-1504	lead	lead	sodium	sodium	to high levels of	
-T-1504	fat	fat	cholesterol	cholesterol	intake and total	
-T-1504	plants	plants	phosphorus	phosphorus	inject poultry carcasses with salt water and with	
-T-1504	risk	risk	poultry	poultry	of bacteria-caused food poisoning to that child.	
-T-1504	risk	risk	animal products	animal products	of cancer.avoiding poultry and other	
-T-1504	saturated fat	saturated fat	cholesterol	cholesterol	intake and total	
-T-1504	fecal bacteria	fecal bacteria	poultry	poultry	campylobacter found in	
-T-1504	stroke	stroke	poultry	poultry	risk.processing plants inject	
-T-1504	poultry	poultry	syndrome	syndrome	can trigger guillain-barré	
+T-1504	drugs	drugs	chemicals	chemicals	and	
+T-1504	cdc	cdc	poultry	poultry	has found that	
 T-1504	campylobacter	campylobacter	poultry	poultry	found in	
 T-1504	poultry	poultry	guillain-barré syndrome	guillain-barré syndrome	can trigger	
+T-1504	poultry	poultry	risk	risk	raises the	
+T-1504	heart attack	heart attack	stroke	stroke	and	

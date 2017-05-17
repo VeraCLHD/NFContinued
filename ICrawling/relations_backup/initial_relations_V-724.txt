@@ -1,13 +1,5 @@
 
-V-724	growth hormone	growth hormone	plant protein	plant protein	igf-1, but not	
 V-724	animal protein	animal protein	cancer	cancer	does, so you don’t get as many new	
-V-724	protein	protein	growth hormone	growth hormone	associated with increased levels of the cancer-promoting	
-V-724	animal protein	animal protein	gelatin	gelatin		
 V-724	protein	protein	cancer	cancer	does, so you don’t get as many new	
-V-724	growth hormone	growth hormone	igf-1	igf-1		
-V-724	protein	protein	gelatin	gelatin		
 V-724	liver	liver	insulin-like growth factor 1	insulin-like growth factor 1	and	
 V-724	liver	liver	animal proteins	animal proteins	gets hit with a big load of incoming	
-V-724	growth hormone	growth hormone	protein	protein	igf-1, but not plant	
-V-724	kingdom	kingdom	cannibalism	cannibalism		
-V-724	animal protein	animal protein	growth hormone	growth hormone	associated with increased levels of the cancer-promoting	

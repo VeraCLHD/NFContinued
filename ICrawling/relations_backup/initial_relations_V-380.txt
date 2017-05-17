@@ -1,103 +1,16 @@
 
-V-380	mortality	mortality	cancer	cancer	among breast	
-V-380	lignans	lignans	breast cancer	breast cancer	are not a magic bullet to prevent	
-V-380	risk	risk	lignans	lignans	.as flaxseeds are packed with	
-V-380	tamoxifen	tamoxifen	seeds	seeds	or by eating flax	
-V-380	side effects	side effects	uterine cancer	uterine cancer	such as	
-V-380	tamoxifen	tamoxifen	flax seeds	flax seeds	or by eating	
-V-380	drugs	drugs	cognition	cognition	and supplements on	
-V-380	berries	berries	lignans	lignans	—so how do we know	
-V-380	breast cancer	breast cancer	risk	risk		
-V-380	flax	flax	cancer	cancer	seeds to breast	
-V-380	inflammatory molecule	inflammatory molecule	tumors	tumors	called interleukin-1, which may help	
-V-380	breast cancer	breast cancer	breast cancer survival	breast cancer survival	risk and improvement in	
-V-380	cognition	cognition	flax	flax	in older adults, that found	
 V-380	flax seeds	flax seeds	breast cancer	breast cancer	and	
-V-380	flax	flax	risk	risk	and decreased	
-V-380	cancer	cancer	breast cancer	breast cancer	patients, but what about preventing	
-V-380	ground flax	ground flax	cancer	cancer	seeds to breast	
-V-380	diet	diet	breast cancer	breast cancer	and life-style they might help to reduce	
-V-380	cancer	cancer	flaxseeds	flaxseeds	a teaspoon of ground	
-V-380	risk	risk	flaxseeds	flaxseeds	for breast cancer a teaspoon of ground	
-V-380	breast cancer	breast cancer	flax	flax	patients found that	
-V-380	flax	flax	health	health	and brain	
-V-380	flax seeds	flax seeds	breast cancer	breast cancer	to	
-V-380	risk	risk	breast cancer survival	breast cancer survival	and improvement in	
-V-380	kingdom	kingdom	seeds	seeds	—	
-V-380	side effects	side effects	cancer	cancer	such as uterine	
-V-380	women	women	lignans	lignans	with breast cancer who ate the most	
-V-380	tamoxifen	tamoxifen	cancer	cancer	may reduce the incidence of breast	
-V-380	kingdom	kingdom	whole grains	whole grains	—seeds,	
-V-380	risk	risk	cancer survival	cancer survival	and improvement in breast	
-V-380	women	women	breast cancer	breast cancer	at high risk for	
-V-380	flax	flax	anti-inflammatory	anti-inflammatory	was able to increase the	
-V-380	women	women	flax seeds	flax seeds	eating	
-V-380	seeds	seeds	breast cancer	breast cancer	to	
-V-380	flax	flax	cancer	cancer	seeds and breast	
-V-380	flax	flax	brain health	brain health	and	
-V-380	risk	risk	breast cancer	breast cancer	and improvement in	
-V-380	women	women	risk	risk	at high	
-V-380	cancer	cancer	breast cancer survival	breast cancer survival	risk and improvement in	
-V-380	bacon	bacon	diet	diet	cheeseburger—but as a part of a healthy	
-V-380	side effects	side effects	blood clots	blood clots	such as uterine cancer and	
+V-380	lignans	lignans	breast cancer	breast cancer	are not a magic bullet to prevent	
 V-380	uterine cancer	uterine cancer	blood	blood	and	
-V-380	breast cancer	breast cancer	flaxseeds	flaxseeds	a teaspoon of ground	
-V-380	lignans	lignans	breast cancer	breast cancer	in the reduction of	
-V-380	flax	flax	bread	bread		
-V-380	seeds	seeds	cancer	cancer	to breast	
-V-380	mortality	mortality	breast cancer	breast cancer	among	
-V-380	cancer	cancer	diet	diet	preventive strategies such as	
-V-380	breast cancer	breast cancer	cancer survival	cancer survival	risk and improvement in breast	
-V-380	flax	flax	cancer	cancer	and decreased risk of breast	
-V-380	breast cancer	breast cancer	cancer	cancer	patients, but what about preventing breast	
-V-380	supplements	supplements	flax	flax	on cognition in older adults, that found	
-V-380	breast cancer	breast cancer	cancer	cancer	risk and improvement in breast	
-V-380	women	women	cancer	cancer	with breast	
-V-380	diet	diet	phytoestrogens	phytoestrogens	modifications need to be developed, and these lignin	
-V-380	tamoxifen	tamoxifen	flax	flax	or by eating	
-V-380	risk	risk	cancer	cancer	for breast	
 V-380	inflammatory molecule	inflammatory molecule	interleukin-1	interleukin-1	called	
-V-380	diet	diet	cancer	cancer	and life-style they might help to reduce breast	
-V-380	flax	flax	seeds	seeds		
-V-380	cancer	cancer	women	women	to 3,000	
-V-380	flax	flax	breast cancer	breast cancer	bread, was associated with a 20–30% reduction in	
-V-380	risk	risk	breast cancer	breast cancer	for	
-V-380	tamoxifen	tamoxifen	breast cancer	breast cancer	may reduce the incidence of	
-V-380	women	women	breast cancer	breast cancer	with	
-V-380	flax	flax	bacon	bacon	on your	
-V-380	cancer	cancer	breast cancer	breast cancer	risk and improvement in	
-V-380	cancer	cancer	cancer survival	cancer survival	risk and improvement in breast	
-V-380	women	women	cancer	cancer	at high risk for breast	
-V-380	flax	flax	breast cancer	breast cancer	seeds to	
-V-380	ground flax	ground flax	seeds	seeds		
-V-380	flax	flax	breast cancer	breast cancer	seeds and	
-V-380	drugs	drugs	supplements	supplements	and	
-V-380	cancer	cancer	cancer	cancer	patients, but what about preventing breast	
-V-380	flaxseeds	flaxseeds	lignans	lignans	are packed with	
-V-380	supplements	supplements	cognition	cognition	on	
-V-380	cancer	cancer	flax	flax	patients found that	
-V-380	kingdom	kingdom	berries	berries	—seeds, whole grains, vegetables, fruits,	
-V-380	risk	risk	flaxseeds	flaxseeds	.as	
-V-380	lignans	lignans	cancer	cancer	are not a magic bullet to prevent breast	
-V-380	flax seeds	flax seeds	cancer	cancer	to breast	
-V-380	seeds	seeds	cancer	cancer	and breast	
-V-380	risk	risk	cancer	cancer	and improvement in breast	
-V-380	cancer	cancer	risk	risk		
-V-380	flax	flax	breast cancer	breast cancer	and decreased risk of	
-V-380	flaxseeds	flaxseeds	breast cancer	breast cancer	may play a role in preventing and treating	
-V-380	women	women	flax	flax	eating	
-V-380	flax seeds	flax seeds	cancer	cancer	and breast	
-V-380	breast cancer	breast cancer	women	women	to 3,000	
-V-380	breast cancer	breast cancer	diet	diet	preventive strategies such as	
-V-380	women	women	seeds	seeds	eating flax	
-V-380	ground flax	ground flax	breast cancer	breast cancer	seeds to	
-V-380	cancer	cancer	cancer	cancer	risk and improvement in breast	
-V-380	lignans	lignans	risk	risk	in the reduction of breast cancer	
-V-380	kingdom	kingdom	grains	grains	—seeds, whole	
 V-380	phytoestrogens	phytoestrogens	flaxseeds	flaxseeds	in	
-V-380	kingdom	kingdom	vegetables	vegetables	—seeds, whole grains,	
 V-380	seeds	seeds	breast cancer	breast cancer	and	
+V-380	flax	flax	anti-inflammatory	anti-inflammatory	was able to increase the	
+V-380	tamoxifen	tamoxifen	breast cancer	breast cancer	may reduce the incidence of	
 V-380	uterine cancer	uterine cancer	blood clots	blood clots	and	
-V-380	kingdom	kingdom	fruits	fruits	—seeds, whole grains, vegetables,	
-V-380	side effects	side effects	blood	blood	such as uterine cancer and	
-V-380	lignans	lignans	cancer	cancer	in the reduction of breast	
+V-380	women	women	flax seeds	flax seeds	eating	
+V-380	drugs	drugs	supplements	supplements	and	
+V-380	flaxseeds	flaxseeds	breast cancer	breast cancer	may play a role in preventing and treating	
+V-380	flaxseeds	flaxseeds	lignans	lignans	are packed with	
+V-380	women	women	flax	flax	eating	
+V-380	flax	flax	brain health	brain health	and	

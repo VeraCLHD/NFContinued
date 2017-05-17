@@ -1,59 +1,17 @@
 
 T-1323	broccoli	broccoli	kale	kale	and	
-T-1323	b12	b12	cost-effective	cost-effective	in such a way that the most	
-T-1323	spices	spices	cinnamon	cinnamon	with potential benefits are turmeric and	
-T-1323	plant-based	plant-based	iron	iron	foods (non-heme	
-T-1323	calcium	calcium	broccoli	broccoli	from	
-T-1323	seeds	seeds	supplements	supplements	and nuts than	
-T-1323	nuts	nuts	diet	diet	and nut butters to one’s	
-T-1323	supplements	supplements	pregnant	pregnant	is especially important for non-anemic,	
-T-1323	calcium	calcium	kale	kale	from broccoli and	
-T-1323	seeds	seeds	beverages	beverages	and nuts than supplements or phytosterol-fortified spreads and	
-T-1323	iron	iron	supplements	supplements	absorption from	
-T-1323	supplements	supplements	vegetables	vegetables	is especially important for non-anemic, pregnant women.the allium	
-T-1323	cancer	cancer	nutrient absorption	nutrient absorption	protection.too much	
-T-1323	seeds	seeds	phytonutrient	phytonutrient	can help maximize	
-T-1323	pregnant	pregnant	garlic	garlic	women.the allium vegetables, which include	
-T-1323	diet	diet	lead	lead	doesn’t	
+T-1323	sprouts	sprouts	breast cancer	breast cancer	can make it into breast tissue it critical for explaining how crucifers may help with	
 T-1323	broccoli	broccoli	broccoli sprouts	broccoli sprouts	and	
-T-1323	flax	flax	bacteria	bacteria	could also help nourish our good	
-T-1323	nuts	nuts	beverages	beverages	than supplements or phytosterol-fortified spreads and	
-T-1323	cost-effective	cost-effective	b12	b12	way to take	
-T-1323	fats	fats	phytonutrient	phytonutrient	from nuts or seeds can help maximize	
-T-1323	breast cancer	breast cancer	nutrient absorption	nutrient absorption	protection.too much	
-T-1323	dressings	dressings	nuts	nuts	or toppings with healthy fats from	
-T-1323	pregnant	pregnant	vegetables	vegetables	women.the allium	
-T-1323	fats	fats	nuts	nuts	from	
-T-1323	garlic	garlic	minerals	minerals	and onions, may help us absorb	
-T-1323	fat	fat	walnuts	walnuts	absorption from	
-T-1323	dressings	dressings	seeds	seeds	or toppings with healthy fats from nuts or	
-T-1323	nuts	nuts	phytonutrient	phytonutrient	or seeds can help maximize	
-T-1323	fats	fats	seeds	seeds	from nuts or	
-T-1323	plant foods	plant foods	raw	raw	are cooked rather than	
-T-1323	sulforaphane	sulforaphane	broccoli	broccoli	from	
-T-1323	raw	raw	plant foods	plant foods	and cooked	
-T-1323	sulforaphane	sulforaphane	sprouts	sprouts	from broccoli and broccoli	
-T-1323	nuts	nuts	seeds	seeds	or	
-T-1323	plant-based	plant-based	nitrate	nitrate		
 T-1323	kale	kale	calcium	calcium	may be absorbed almost twice as well as	
 T-1323	turmeric	turmeric	cinnamon	cinnamon	and	
-T-1323	spices	spices	turmeric	turmeric	with potential benefits are	
-T-1323	iron	iron	pregnant	pregnant	absorption from supplements is especially important for non-anemic,	
-T-1323	diet	diet	vitamin d	vitamin d	doesn’t lead to significant weight gain.to maximize	
-T-1323	vitamin d	vitamin d	supplements	supplements	absorption, researchers have suggested that vitamin d	
-T-1323	phytonutrients	phytonutrients	plant foods	plant foods	are better absorbed if the	
-T-1323	plant-based	plant-based	risk	risk	foods (non-heme iron) may help reduce excess iron	
-T-1323	dressings	dressings	fats	fats	or toppings with healthy	
-T-1323	lead	lead	vitamin d	vitamin d	to significant weight gain.to maximize	
-T-1323	health	health	b12	b12	to take the	
-T-1323	seeds	seeds	nuts	nuts	and	
-T-1323	broccoli	broccoli	sprouts	sprouts	and broccoli	
-T-1323	garlic	garlic	onions	onions	and	
-T-1323	pregnant	pregnant	onions	onions	women.the allium vegetables, which include garlic and	
-T-1323	vitamin d	vitamin d	vitamin d supplements	vitamin d supplements	absorption, researchers have suggested that	
-T-1323	nuts	nuts	supplements	supplements	than	
-T-1323	sulforaphane	sulforaphane	broccoli sprouts	broccoli sprouts	from broccoli and	
-T-1323	nuts	nuts	lead	lead	and nut butters to one’s diet doesn’t	
+T-1323	supplements	supplements	calcium	calcium	are best taken with the largest meal of the day.if you drink	
 T-1323	iron	iron	plant-based	plant-based	needs through	
-T-1323	supplements	supplements	beverages	beverages	or phytosterol-fortified spreads and	
-T-1323	bacteria	bacteria	phytonutrient	phytonutrient	that in turn can aid with	
+T-1323	phytonutrients	phytonutrients	plant foods	plant foods	are better absorbed if the	
+T-1323	seeds	seeds	phytonutrient	phytonutrient	can help maximize	
+T-1323	vitamin d supplements	vitamin d supplements	calcium	calcium	are best taken with the largest meal of the day.if you drink	
+T-1323	diet	diet	lead	lead	doesn’t	
+T-1323	seeds	seeds	nuts	nuts	and	
+T-1323	plant foods	plant foods	raw	raw	are cooked rather than	
+T-1323	broccoli sprouts	broccoli sprouts	breast cancer	breast cancer	can make it into breast tissue it critical for explaining how crucifers may help with	
+T-1323	garlic	garlic	onions	onions	and	
+T-1323	nuts	nuts	seeds	seeds	or	

@@ -1,34 +1,7 @@
 
 V-744	diet	diet	vegetarian	vegetarian	compared to those eating	
-V-744	weight gain	weight gain	poultry	poultry	] was observed for	
-V-744	fat	fat	meat	meat	content,	
+V-744	meat	meat	weight gain	weight gain	is associated with	
 V-744	weight gain	weight gain	calories	calories	remained even after controlling for	
-V-744	meat	meat	weight management	weight management	consumption may improve	
+V-744	calories	calories	fat	fat	and	
 V-744	meat	meat	weight gain	weight gain	and	
 V-744	calories	calories	processed meat	processed meat	of	
-V-744	meat	meat	weight gain	weight gain	intake is positively associated with	
-V-744	meat	meat	health	health	consumption for	
-V-744	lead	lead	weight gain	weight gain	to an annual	
-V-744	calories	calories	meat	meat	of processed	
-V-744	weight gain	weight gain	women	women	in men and	
-V-744	meat	meat	lead	lead	a day—like a steak—would	
-V-744	public health	public health	health	health	recommendation to decrease meat consumption for	
-V-744	calories	calories	fat	fat	and	
-V-744	steak	steak	weight gain	weight gain	—would lead to an annual	
-V-744	diet	diet	meat	meat	with lower	
-V-744	health	health	meat	meat	recommendation to decrease	
-V-744	calories	calories	meat	meat	.one would assume that sure,	
-V-744	steak	steak	lead	lead	—would	
-V-744	meat	meat	weight gain	weight gain	consumption has been considered a determinant of	
-V-744	meat	meat	steak	steak	a day—like a	
-V-744	meat	meat	weight gain	weight gain	a day—like a steak—would lead to an annual	
-V-744	calories	calories	diet	diet	in your daily	
-V-744	meat	meat	calories	calories	and weight gain remained even after controlling for	
-V-744	public health	public health	meat	meat	recommendation to decrease	
-V-744	energy	energy	meat	meat	density and fat content,	
-V-744	energy	energy	fat	fat	density and	
-V-744	smoking	smoking	energy	energy	status,  and total	
-V-744	calories	calories	vegetarian	vegetarian	in your daily diet compared to those eating	
-V-744	meat	meat	weight gain	weight gain	is associated with	
-V-744	meat	meat	weight gain	weight gain	consumption was positively associated with	
-V-744	diet	diet	weight gain	weight gain	compared to those eating vegetarian, and so, more	

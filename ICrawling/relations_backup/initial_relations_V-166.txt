@@ -1,68 +1,11 @@
 
-V-166	fish	fish	pesticides	pesticides	may contain various pollutants, including dioxins, pcbs,	
-V-166	chemicals	chemicals	cadmium	cadmium	and heavy metals—including mercury, lead, and	
-V-166	algae	algae	fish	fish	oil, rather than	
-V-166	chia seeds	chia seeds	flax seeds	flax seeds	or ground	
-V-166	world health organization	world health organization	food safety	food safety	and the european	
-V-166	heart disease	heart disease	risk	risk		
-V-166	risk	risk	stroke	stroke	of hemorrhagic	
-V-166	salmon	salmon	pcbs	pcbs	is the worst, though	
-V-166	pesticides	pesticides	mercury	mercury	like ddt, flame retardant chemicals and heavy metals—including	
-V-166	heavy metals	heavy metals	mercury	mercury	—including	
-V-166	disease	disease	risk	risk		
-V-166	flax	flax	seeds	seeds		
-V-166	pesticides	pesticides	chemicals	chemicals	like ddt, flame retardant	
-V-166	pesticides	pesticides	heavy metals	heavy metals	like ddt, flame retardant chemicals and	
-V-166	chia seeds	chia seeds	ground flax	ground flax	or	
-V-166	fish oil	fish oil	heart disease	heart disease	capsules may help with	
-V-166	world health organization	world health organization	european food safety authority	european food safety authority	and the	
-V-166	risk	risk	fiber	fiber	when diets were low in	
-V-166	coronary heart disease	coronary heart disease	constipation	constipation	and reduce	
-V-166	dha	dha	epa	epa	and	
 V-166	chemicals	chemicals	heavy metals	heavy metals	and	
-V-166	fish	fish	nutrition	nutrition	oil capsules may help with heart disease,	
-V-166	algae	algae	fish oil	fish oil	oil, rather than	
-V-166	oceans	oceans	fish	fish	have become so polluted that	
-V-166	chia	chia	seeds	seeds		
-V-166	chia seeds	chia seeds	seeds	seeds	or ground flax	
-V-166	ground flax	ground flax	seeds	seeds		
-V-166	chia	chia	ground flax	ground flax	seeds or	
-V-166	women	women	pcbs	pcbs	that found that dietary exposure to	
-V-166	pcbs	pcbs	fish	fish	is	
-V-166	algae	algae	contaminants	contaminants	oil is free of toxic	
-V-166	chemicals	chemicals	lead	lead	and heavy metals—including mercury,	
-V-166	heart disease	heart disease	fiber	fiber	risk when diets were low in	
-V-166	seeds	seeds	ground flax	ground flax	or	
-V-166	chia seeds	chia seeds	flax	flax	or ground	
-V-166	seeds	seeds	flax	flax	or ground	
-V-166	heart disease	heart disease	constipation	constipation	and reduce	
-V-166	nutrition	nutrition	health	health	authorities, the world	
-V-166	pcbs	pcbs	salmon	salmon	is fish consumption—of which perhaps	
-V-166	dha	dha	fish	fish	/epa, which can be gotten from	
-V-166	nutrition	nutrition	food safety	food safety	authorities, the world health organization and the european	
-V-166	disease	disease	constipation	constipation	and reduce	
-V-166	chia	chia	flax	flax	seeds or ground	
-V-166	heavy metals	heavy metals	lead	lead	—including mercury,	
-V-166	nutrition	nutrition	european food safety authority	european food safety authority	authorities, the world health organization and the	
-V-166	risk	risk	stroke	stroke	of	
-V-166	seeds	seeds	flax seeds	flax seeds	or ground	
-V-166	health	health	food safety	food safety	organization and the european	
-V-166	heavy metals	heavy metals	cadmium	cadmium	—including mercury, lead, and	
-V-166	fish	fish	disease	disease	oil capsules may help with heart	
-V-166	fish	fish	salmon	salmon	consumption—of which perhaps	
-V-166	disease	disease	fiber	fiber	risk when diets were low in	
-V-166	fish oil	fish oil	nutrition	nutrition	capsules may help with heart disease,	
-V-166	fish	fish	dioxins	dioxins	may contain various pollutants, including	
-V-166	fish	fish	pcbs	pcbs	may contain various pollutants, including dioxins,	
-V-166	chia	chia	flax seeds	flax seeds	seeds or ground	
-V-166	health	health	european food safety authority	european food safety authority	organization and the	
-V-166	risk	risk	pollutants	pollutants	of diabetes, emphasizing that even levels of these	
-V-166	pesticides	pesticides	ddt	ddt	like	
 V-166	fish	fish	pollutants	pollutants	may contain various	
-V-166	chemicals	chemicals	mercury	mercury	and heavy metals—including	
-V-166	fish oil	fish oil	disease	disease	capsules may help with heart	
-V-166	fish	fish	heart disease	heart disease	oil capsules may help with	
-V-166	fish	fish	pcbs	pcbs	consumption—of which perhaps salmon is the worst, though	
+V-166	risk	risk	stroke	stroke	of	
+V-166	chia seeds	chia seeds	ground flax	ground flax	or	
+V-166	oceans	oceans	fish	fish	have become so polluted that	
 V-166	risk	risk	diabetes	diabetes	of	
-V-166	nutrition	nutrition	world health organization	world health organization	authorities, the	
+V-166	pcbs	pcbs	fish	fish	is	
 V-166	epa	epa	dha	dha	and	
+V-166	seeds	seeds	ground flax	ground flax	or	
+V-166	dha	dha	epa	epa	and	

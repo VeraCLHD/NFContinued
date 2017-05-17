@@ -1,98 +1,20 @@
 
-T-1623	risk	risk	disease	disease	for cardiovascular	
-T-1623	epa	epa	water	water	safety limit for arsenic in a glass of	
-T-1623	chinese	chinese	coumarin	coumarin	cinnamon contains the compound	
-T-1623	mercury	mercury	tuna	tuna	concentrations in 55% of	
+T-1623	acrylamide	acrylamide	french fries	french fries	in	
+T-1623	tuna	tuna	women	women	would put	
 T-1623	supplements	supplements	heavy metals	heavy metals	have been found to be contaminated with	
 T-1623	chicken	chicken	epa	epa	may exceed the	
-T-1623	disease	disease	risk	risk		
-T-1623	fecal bacteria	fecal bacteria	sushi	sushi	on ready to eat food is 30,000;	
-T-1623	vegetarians	vegetarians	meat	meat	live longer than even healthy	
-T-1623	antioxidant	antioxidant	supplements	supplements	vitamin	
-T-1623	contaminants	contaminants	heavy metals	heavy metals	and	
-T-1623	risk	risk	women	women	for	
-T-1623	vegetarian	vegetarian	plaque	plaque	) to stop	
-T-1623	fast food	fast food	chicken	chicken		
-T-1623	ldl	ldl	cholesterol	cholesterol	level of	
-T-1623	tuna	tuna	women	women	would put	
-T-1623	juice	juice	toxins	toxins	(non-organic) was tested and found to contain fungal	
-T-1623	fish oil	fish oil	pcbs	pcbs	found in stores was found to contain	
-T-1623	fish	fish	eggs	eggs	fillets,	
-T-1623	women	women	pregnant	pregnant	considering getting	
-T-1623	arsenic	arsenic	water	water	in a glass of	
-T-1623	heavy metals	heavy metals	safety limits	safety limits	that exceed the	
-T-1623	safety limits	safety limits	canned fish	canned fish	(40 mg/meal) in	
-T-1623	kelp	kelp	iodine	iodine	consumption has resulted in	
-T-1623	blood	blood	heart disease	heart disease	may be the best indicator of	
-T-1623	safety limits	safety limits	fish	fish	(40 mg/meal) in canned	
-T-1623	fish	fish	dairy	dairy	fillets, eggs, and	
-T-1623	epa	epa	arsenic	arsenic	safety limit for	
-T-1623	fish	fish	dioxins	dioxins	in general is especially high in all	
-T-1623	blood	blood	disease	disease	may be the best indicator of heart	
-T-1623	fish	fish	tuna	tuna	(sardines and	
-T-1623	chinese cinnamon	chinese cinnamon	coumarin	coumarin	contains the compound	
-T-1623	acrylamide	acrylamide	french fries	french fries	in	
-T-1623	heavy metals	heavy metals	european food safety authority	european food safety authority	that exceed the safety limits recommended by the	
-T-1623	toxins	toxins	health	health	at levels exceeding the world	
-T-1623	eggs	eggs	brains	brains	and	
-T-1623	chicken	chicken	arsenic	arsenic	may exceed the epa safety limit for	
-T-1623	bad cholesterol	bad cholesterol	institute of medicine	institute of medicine	(ldl), so the	
-T-1623	epa	epa	mercury	mercury	safety limit for	
-T-1623	fast food	fast food	epa	epa	chicken may exceed the	
-T-1623	mercury	mercury	epa	epa	levels in triphala have been found to exceed	
-T-1623	risk	risk	cardiovascular disease	cardiovascular disease	for	
-T-1623	cholesterol	cholesterol	blood	blood	in the	
-T-1623	fast food	fast food	arsenic	arsenic	chicken may exceed the epa safety limit for	
-T-1623	pcbs	pcbs	dairy	dairy	: fish fillets, eggs, and	
-T-1623	creatine	creatine	supplements	supplements		
-T-1623	safety limits	safety limits	sardines	sardines	(40 mg/meal) in canned fish (	
-T-1623	chicken	chicken	pregnancy	pregnancy	and eggs; when consumed during	
-T-1623	mercury	mercury	fructose	fructose	has also been found in high	
 T-1623	triphala	triphala	epa	epa	have been found to exceed	
-T-1623	canned fish	canned fish	tuna	tuna	(sardines and	
-T-1623	apple juice	apple juice	toxins	toxins	(non-organic) was tested and found to contain fungal	
-T-1623	cholesterol	cholesterol	blood	blood	in our	
-T-1623	fish	fish	pcbs	pcbs	oil found in stores was found to contain	
-T-1623	ldl	ldl	blood	blood	level of cholesterol in the	
-T-1623	chicken	chicken	eggs	eggs	and	
-T-1623	french fries	french fries	safety limits	safety limits	has been found at levels exceeding certain	
-T-1623	mercury	mercury	corn	corn	has also been found in high fructose	
-T-1623	bad cholesterol	bad cholesterol	medicine	medicine	(ldl), so the institute of	
-T-1623	usda	usda	dietary guidelines	dietary guidelines		
-T-1623	heart disease	heart disease	risk	risk		
-T-1623	plant-based	plant-based	diet	diet		
-T-1623	ldl	ldl	institute of medicine	institute of medicine	), so the	
-T-1623	mercury	mercury	high fructose corn syrup	high fructose corn syrup	has also been found in	
-T-1623	organic	organic	safety limits	safety limits	contaminants and heavy metals that exceed the	
+T-1623	dietary guidelines	dietary guidelines	plant-based	plant-based	recommended a shift of food intake patterns to a more	
+T-1623	eggs	eggs	brains	brains	and	
+T-1623	women	women	pregnant	pregnant	considering getting	
 T-1623	supplements	supplements	organic	organic	have been found to contain	
-T-1623	bacteria	bacteria	sushi	sushi	on ready to eat food is 30,000;	
-T-1623	creatine	creatine	contaminants	contaminants	supplements have been found to contain organic	
-T-1623	mercury	mercury	triphala	triphala	levels in	
-T-1623	chinese	chinese	cinnamon	cinnamon		
-T-1623	organic	organic	heavy metals	heavy metals	contaminants and	
-T-1623	fructose	fructose	corn syrup	corn syrup		
-T-1623	contaminants	contaminants	safety limits	safety limits	and heavy metals that exceed the	
-T-1623	safety limits	safety limits	food safety	food safety	recommended by the european	
-T-1623	cholesterol	cholesterol	bad cholesterol	bad cholesterol	above zero has been found to increase	
-T-1623	women	women	mercury	mercury	of child bearing age over the epa	
-T-1623	sardines	sardines	tuna	tuna	and	
-T-1623	toxins	toxins	world health organization	world health organization	at levels exceeding the	
-T-1623	pcbs	pcbs	eggs	eggs	: fish fillets,	
-T-1623	blood	blood	risk	risk	may be the best indicator of heart disease	
-T-1623	eggs	eggs	cholesterol	cholesterol	and brains, the two foods with the most	
-T-1623	mercury	mercury	corn syrup	corn syrup	has also been found in high fructose	
-T-1623	fructose	fructose	corn	corn		
-T-1623	cinnamon	cinnamon	coumarin	coumarin	contains the compound	
-T-1623	ldl	ldl	medicine	medicine	), so the institute of	
-T-1623	creatine	creatine	organic	organic	supplements have been found to contain	
-T-1623	benzene	benzene	soda	soda	levels in	
-T-1623	supplements	supplements	contaminants	contaminants	have been found to contain organic	
-T-1623	risk	risk	pregnant	pregnant	for women considering getting	
-T-1623	women	women	epa	epa	of child bearing age over the	
-T-1623	supplements	supplements	heavy metals	heavy metals	have been found to contain organic contaminants and	
-T-1623	apple	apple	juice	juice		
-T-1623	epa	epa	mercury	mercury		
-T-1623	safety limits	safety limits	tuna	tuna	(40 mg/meal) in canned fish (sardines and	
-T-1623	organic	organic	contaminants	contaminants		
 T-1623	putrescine	putrescine	safety limits	safety limits	has been found in levels exceeding	
+T-1623	blood	blood	vegetarian	vegetarian	needs to be lowered to the 150 area (around the level of the average pure	
+T-1623	sardines	sardines	tuna	tuna	and	
+T-1623	chicken	chicken	eggs	eggs	and	
+T-1623	contaminants	contaminants	heavy metals	heavy metals	and	
 T-1623	safety limits	safety limits	european food safety authority	european food safety authority	recommended by the	
+T-1623	dietary guidelines	dietary guidelines	plant-based diet	plant-based diet	recommended a shift of food intake patterns to a more	
+T-1623	mercury	mercury	risk	risk	may not be sufficiently specific to completely prevent fetal	
+T-1623	caffeine	caffeine	coffee	coffee	has been found to be safe in moderate amounts (up to 10 cups of	
+T-1623	french fries	french fries	safety limits	safety limits	has been found at levels exceeding certain	

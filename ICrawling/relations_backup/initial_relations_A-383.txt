@@ -1,19 +1,4 @@
 
-A-383	fat	fat	diet	diet	because they drink	
-A-383	soda	soda	diet soda	diet soda	for	
-A-383	diet	diet	cake	cake	soda, so i can have two pieces of	
-A-383	fat	fat	soda	soda	because they drink diet	
-A-383	sweeteners	sweeteners	calories	calories	may actually end up eating more	
-A-383	sodium	sodium	salt	salt	foods taste perfectly fine and adding table	
 A-383	artificial sweeteners	artificial sweeteners	calories	calories	may actually end up eating more	
-A-383	soda	soda	diet	diet	for	
-A-383	cereal	cereal	breakfast	breakfast	for	
-A-383	sweetener	sweetener	weight gain	weight gain	use and	
 A-383	gut	gut	overeating	overeating	may result in	
-A-383	fat	fat	diet soda	diet soda	because they drink	
-A-383	sweetener	sweetener	erythritol	erythritol	like 	
-A-383	salt	salt	diet	diet		
-A-383	diet	diet	fat	fat	soda; they drink diet soda because they’re	
-A-383	sodium	sodium	table salt	table salt	foods taste perfectly fine and adding	
-A-383	diet	diet	soda	soda		
-A-383	diet	diet	diet soda	diet soda	soda; they drink	
+A-383	sweeteners	sweeteners	calories	calories	may actually end up eating more	

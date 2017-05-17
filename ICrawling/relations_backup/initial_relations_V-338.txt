@@ -1,30 +1,7 @@
 
-V-338	death	death	heart attack	heart attack	from	
-V-338	whole foods	whole foods	diet	diet	plant-based	
-V-338	pills	pills	side effects	side effects	don’t do anything —we’re risking	
-V-338	pills	pills	disease	disease	and procedures to prevent	
-V-338	exercise	exercise	meditation	meditation	requirement, no	
-V-338	stress	stress	plant-based	plant-based	management, no yoga; just a healthy whole food	
-V-338	risk	risk	heart attack	heart attack	of getting a	
-V-338	drugs	drugs	risk	risk	can do here is an absolute	
-V-338	plant-based	plant-based	diet	diet		
-V-338	blood	blood	medications	medications	pressure	
-V-338	stress	stress	plant-based diet	plant-based diet	management, no yoga; just a healthy whole food	
-V-338	plant-based	plant-based	drugs	drugs	diet may work twenty times better than	
-V-338	ornish	ornish	stress	stress	study; so, no exercise requirement, no meditation, no	
-V-338	whole foods	whole foods	plant-based	plant-based		
-V-338	diet	diet	death	death	avoided major cardiac events, such as	
+V-338	diet	diet	risk	risk	has been shown to work twenty times better–an absolute	
 V-338	plant-based diet	plant-based diet	drugs	drugs	may work twenty times better than	
-V-338	drugs	drugs	surgery	surgery	and without	
-V-338	diet	diet	drugs	drugs	may work twenty times better than	
-V-338	whole foods	whole foods	plant-based diet	plant-based diet		
-V-338	exercise	exercise	stress	stress	requirement, no meditation, no	
-V-338	diet	diet	heart attack	heart attack	avoided major cardiac events, such as death from	
-V-338	diet	diet	plaque	plaque	and our bodies can start dissolving that	
-V-338	plaque	plaque	drugs	drugs	away, opening up arteries, in some cases, without	
-V-338	ornish	ornish	exercise	exercise	study; so, no	
-V-338	blood	blood	drugs	drugs	pressure, and blood-thinning	
+V-338	drugs	drugs	risk	risk	can do here is an absolute	
 V-338	plaque	plaque	arteries	arteries	away, opening up	
-V-338	blood pressure	blood pressure	medications	medications		
-V-338	ornish	ornish	meditation	meditation	study; so, no exercise requirement, no	
-V-338	medicine	medicine	drugs	drugs	is to practice deceptive medicine.the best cholesterol-lowering statin	
+V-338	diet	diet	drugs	drugs	may work twenty times better than	
+V-338	plant-based diet	plant-based diet	risk	risk	has been shown to work twenty times better–an absolute	

@@ -1,36 +1,6 @@
 
-V-813	new york city	new york city	water	water		
-V-813	flaxseeds	flaxseeds	walnuts	walnuts	and	
-V-813	omega 3	omega 3	risk	risk	found in flaxseeds and walnuts, may]” reduce depression	
-V-813	fish	fish	harvard	harvard	consumption and depression—the	
-V-813	plant-based	plant-based	walnuts	walnuts	omega 3 found in flaxseeds and	
-V-813	hormones	hormones	antibiotics	antibiotics	like estrone and testosterone; some	
-V-813	omega 3	omega 3	walnuts	walnuts	found in flaxseeds and	
-V-813	flaxseeds	flaxseeds	risk	risk	and walnuts, may]” reduce depression	
-V-813	omega 3	omega 3	depression	depression	found in flaxseeds and walnuts, may]” reduce	
-V-813	drugs	drugs	ibuprofen	ibuprofen	like tylenol,	
-V-813	drugs	drugs	hormones	hormones	like tylenol, ibuprofen; stimulants like nicotine, caffeine;	
-V-813	brains	brains	fish	fish	of	
-V-813	prozac	prozac	fish	fish	metabolites in	
-V-813	harvard	harvard	depression	depression	study looked at fish consumption and	
-V-813	drugs	drugs	brains	brains	are mostly concentrated in the	
-V-813	depression	depression	harvard	harvard	—the	
-V-813	drugs	drugs	nicotine	nicotine	like tylenol, ibuprofen; stimulants like	
-V-813	drugs	drugs	urine	urine	we take are excreted in our	
-V-813	harvard	harvard	fish	fish	study looked at	
-V-813	fish	fish	depression	depression	on	
-V-813	harvard study	harvard study	depression	depression	looked at fish consumption and	
-V-813	fish	fish	depression	depression	consumption and	
 V-813	harvard study	harvard study	fish	fish	looked at	
-V-813	harvard study	harvard study	harvard	harvard	looked at fish consumption and depression—the	
+V-813	brains	brains	fish	fish	of	
+V-813	drugs	drugs	brains	brains	are mostly concentrated in the	
 V-813	omega 3	omega 3	flaxseeds	flaxseeds	found in	
-V-813	pharmaceuticals	pharmaceuticals	fish	fish	and personal care products in	
-V-813	plant-based	plant-based	omega 3	omega 3		
-V-813	drugs	drugs	tylenol	tylenol	like	
-V-813	flaxseeds	flaxseeds	depression	depression	and walnuts, may]” reduce	
-V-813	hormones	hormones	testosterone	testosterone	like estrone and	
-V-813	drugs	drugs	caffeine	caffeine	like tylenol, ibuprofen; stimulants like nicotine,	
-V-813	depression	depression	risk	risk		
-V-813	plant-based	plant-based	flaxseeds	flaxseeds	omega 3 found in	
-V-813	hormones	hormones	valium	valium	like estrone and testosterone; some antibiotics; a barbiturate,	
-V-813	drugs	drugs	fish	fish	are mostly concentrated in the brains of	
+V-813	flaxseeds	flaxseeds	walnuts	walnuts	and	

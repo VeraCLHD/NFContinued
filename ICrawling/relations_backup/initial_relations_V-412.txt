@@ -1,73 +1,12 @@
 
-V-412	sugar	sugar	green tea	green tea	water, you swished with some	
-V-412	tea	tea	plaque	plaque	worked better than chlorhexidine at reducing	
-V-412	nutrition	nutrition	health	health	may improve periodontal	
-V-412	green tea	green tea	plaque	plaque	worked better than chlorhexidine at reducing	
-V-412	free radicals	free radicals	oral health	oral health	and our antioxidant defense system.traditionally, dietary advice for	
-V-412	vegetarian	vegetarian	diet	diet		
-V-412	plaque	plaque	bacteria	bacteria		
-V-412	antiseptic	antiseptic	gold	gold	mouthwashes with fancy chemicals like chlorhexidine, considered the	
-V-412	tea	tea	mouthwash	mouthwash	as a	
-V-412	bacteria	bacteria	sugar	sugar	that the same	
 V-412	tea	tea	chlorhexidine	chlorhexidine	worked better than	
-V-412	disease	disease	nutrition	nutrition	changed their dietary patterns to so-called wholesome	
-V-412	green tea	green tea	plaque	plaque	strongly inhibited the growth of the	
-V-412	bacteria	bacteria	plaque	plaque	like green tea, but just by suppressing it’s	
-V-412	obesity	obesity	oral health	oral health	can adversely affect	
-V-412	free radicals	free radicals	antioxidant	antioxidant	and our	
-V-412	tea	tea	phytonutrients	phytonutrients		
-V-412	mouthwash	mouthwash	cost-effective	cost-effective	or adding it to toothpaste could be a	
-V-412	ph	ph	teeth	teeth	on our	
-V-412	tea	tea	bacteria	bacteria	phytonutrients effectively inhibit the growth of these	
-V-412	plaque	plaque	teeth	teeth	bacteria on our	
-V-412	chemicals	chemicals	gold	gold	like chlorhexidine, considered the	
-V-412	health	health	sugar	sugar	was just about avoiding	
-V-412	sugar	sugar	ph	ph	water in their mouths, within three minutes the	
-V-412	spices	spices	beverage	beverage	with water as the preferred	
-V-412	antiseptic	antiseptic	chlorhexidine	chlorhexidine	mouthwashes with fancy chemicals like	
-V-412	green tea	green tea	bacteria	bacteria	strongly inhibited the growth of the plaque	
 V-412	oral health	oral health	sugar	sugar	was just about avoiding	
-V-412	diarrhea	diarrhea	teeth	teeth	and	
-V-412	bacteria	bacteria	tea	tea	like green	
-V-412	diet	diet	diabetes	diabetes	on systemic diseases like cancer,	
-V-412	obesity	obesity	health	health	can adversely affect oral	
-V-412	antiseptic	antiseptic	chemicals	chemicals		
-V-412	plaque	plaque	antibiotics	antibiotics	is caused by bacteria, why not just use	
-V-412	plaque	plaque	chemicals	chemicals	better than other antiseptic	
-V-412	water	water	beverage	beverage	as the preferred	
-V-412	green tea	green tea	phytonutrients	phytonutrients		
-V-412	plaque	plaque	bacteria	bacteria	producing	
-V-412	bacteria	bacteria	green tea	green tea	like	
-V-412	water	water	ph	ph	in their mouths, within three minutes the	
-V-412	spices	spices	water	water	with	
-V-412	sugar	sugar	water	water		
 V-412	plaque	plaque	amla	amla	is formed without	
-V-412	diet	diet	cancer	cancer	on systemic diseases like	
-V-412	vegetarian	vegetarian	diabetes	diabetes	diet on systemic diseases like cancer,	
-V-412	periodontal disease	periodontal disease	nutrition	nutrition	changed their dietary patterns to so-called wholesome	
-V-412	phytonutrients	phytonutrients	bacteria	bacteria	effectively inhibit the growth of these	
-V-412	chemicals	chemicals	chlorhexidine	chlorhexidine	like	
-V-412	plaque	plaque	teeth	teeth	scrape from people’s	
-V-412	chlorhexidine	chlorhexidine	tea	tea	and green	
-V-412	antioxidant	antioxidant	health	health	defense system.traditionally, dietary advice for oral	
-V-412	green tea	green tea	mouthwash	mouthwash	as a	
-V-412	bacteria	bacteria	teeth	teeth	on our	
-V-412	bacteria	bacteria	water	water	that the same sugar	
+V-412	obesity	obesity	oral health	oral health	can adversely affect	
+V-412	health	health	sugar	sugar	was just about avoiding	
+V-412	diarrhea	diarrhea	teeth	teeth	and	
 V-412	green tea	green tea	chlorhexidine	chlorhexidine	worked better than	
-V-412	antioxidant	antioxidant	oral health	oral health	defense system.traditionally, dietary advice for	
-V-412	plaque	plaque	bacteria	bacteria	is caused by	
-V-412	bacteria	bacteria	plaque	plaque	in the	
-V-412	cost-effective	cost-effective	prevention	prevention	cavity	
-V-412	vegetarian	vegetarian	cancer	cancer	diet on systemic diseases like	
-V-412	tea	tea	plaque	plaque	strongly inhibited the growth of the	
-V-412	chlorhexidine	chlorhexidine	plaque	plaque	at reducing	
-V-412	plaque	plaque	antiseptic	antiseptic	better than other	
-V-412	plaque	plaque	water	water	bacteria that the same sugar	
-V-412	antiseptic	antiseptic	chlorhexidine	chlorhexidine	chemicals, however, it might be doubtful whether	
-V-412	sugar	sugar	tea	tea	water, you swished with some green	
-V-412	green tea	green tea	bacteria	bacteria	phytonutrients effectively inhibit the growth of these	
 V-412	chlorhexidine	chlorhexidine	green tea	green tea	and	
-V-412	tea	tea	bacteria	bacteria	strongly inhibited the growth of the plaque	
-V-412	bacteria	bacteria	teeth	teeth	in the plaque scrape from people’s	
-V-412	plaque	plaque	sugar	sugar	bacteria that the same	
-V-412	antiseptic	antiseptic	chemicals	chemicals	mouthwashes with fancy	
+V-412	obesity	obesity	health	health	can adversely affect oral	
+V-412	plaque	plaque	bacteria	bacteria	is caused by	
+V-412	plaque	plaque	bacteria	bacteria	producing	

@@ -1,12 +1,2 @@
 
-V-804	livestock	livestock	feed additives	feed additives		
-V-804	feed additives	feed additives	monsanto	monsanto	division of	
-V-804	drugs	drugs	americans	americans	kill an estimated 106,000	
-V-804	american medical association	american medical association	medicine	medicine	 and the new england journal of	
-V-804	american medical association	american medical association	england	england	 and the new	
-V-804	prescription drugs	prescription drugs	americans	americans	kill an estimated 106,000	
-V-804	death	death	supplement industry	supplement industry	in the united states.so, for the	
-V-804	marketing	marketing	supplements	supplements	of dietary	
 V-804	marketing	marketing	supplements	supplements	of	
-V-804	england	england	medicine	medicine	journal of	
-V-804	livestock	livestock	monsanto	monsanto	feed additives division of	

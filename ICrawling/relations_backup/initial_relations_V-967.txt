@@ -1,25 +1,5 @@
 
-V-967	egg	egg	pork	pork	producers argued that meat was worse; the	
-V-967	meat	meat	pork	pork	was worse; the	
 V-967	shelf life	shelf life	cheese	cheese	of	
-V-967	sodium	sodium	national dairy council	national dairy council	in the american diet, the	
-V-967	cheese	cheese	sodium	sodium	is one of the top ten contributors of	
-V-967	pork	pork	chicken	chicken	producers argued that	
-V-967	sodium	sodium	the national dairy council	the national dairy council	in the american diet,	
-V-967	dietary guidelines	dietary guidelines	salt	salt	committee people just don’t understand;	
-V-967	meat	meat	chicken	chicken	was worse; the pork producers argued that	
-V-967	dairy	dairy	salt	salt	council stood shoulder to shoulder with big	
-V-967	trans fats	trans fats	shelf life	shelf life	: good for	
-V-967	sodium	sodium	dairy	dairy	in the american diet, the national	
-V-967	salt	salt	sodium	sodium	.sure, reducing	
-V-967	americans	americans	dietary guidelines	dietary guidelines	a year, but you	
-V-967	fats	fats	shelf life	shelf life	: good for	
 V-967	national dairy council	national dairy council	salt	salt	stood shoulder to shoulder with big	
-V-967	american heart association	american heart association	salt	salt	about a cdc report about the dangers of	
-V-967	american heart association	american heart association	cdc	cdc	about a	
 V-967	the national dairy council	the national dairy council	salt	salt	stood shoulder to shoulder with big	
-V-967	sodium	sodium	diet	diet	in the american	
-V-967	egg	egg	meat	meat	producers argued that	
-V-967	national dairy council	national dairy council	sodium	sodium	stood shoulder to shoulder with big salt.sure, reducing	
-V-967	the national dairy council	the national dairy council	sodium	sodium	stood shoulder to shoulder with big salt.sure, reducing	
-V-967	cdc	cdc	salt	salt	report about the dangers of	
+V-967	salt institute	salt institute	dietary guidelines	dietary guidelines	was probably the most strident in their condemnation of the u.s.	

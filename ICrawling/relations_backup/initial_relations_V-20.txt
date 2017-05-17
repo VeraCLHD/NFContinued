@@ -1,77 +1,17 @@
 
-V-20	miso	miso	soy protein	soy protein	is squeezing our blood pressures up, but the	
-V-20	meat	meat	risk	risk	were [each] associated with” about a 25% greater	
-V-20	fish	fish	processed meat	processed meat	and	
-V-20	milk	milk	soy	soy	to skim milk, to avoid the saturated butterfat—	
-V-20	risk	risk	cancer	cancer	of stomach	
-V-20	risk	risk	salt	salt	for every extra gram of	
-V-20	cancer	cancer	cancer	cancer	risk even lower.but,	
-V-20	salt	salt	blood	blood	in miso is squeezing our	
-V-20	miso	miso	soy	soy	is squeezing our blood pressures up, but the	
-V-20	blood	blood	soy	soy	pressures up, but the	
-V-20	risk	risk	cancer	cancer	of stomach	
-V-20	protein	protein	blood	blood	in miso may be relaxing our	
-V-20	soy protein	soy protein	miso	miso	in	
-V-20	milk	milk	soy	soy	to cow’s milk—and, to make it fairer, compare	
-V-20	stomach cancer	stomach cancer	smoking	smoking	associated with salt intake appears on par with	
-V-20	miso	miso	high blood pressure	high blood pressure	soup and	
-V-20	soy	soy	protein	protein		
-V-20	soy milk	soy milk	soy	soy	to cow’s milk—and, to make it fairer, compare	
-V-20	salt	salt	risk	risk	intake [is] directly associated with [the]	
-V-20	risk	risk	stomach cancer	stomach cancer	of	
-V-20	salt	salt	miso	miso	in	
-V-20	stomach	stomach	salt	salt	cancer happen every year just because of excess	
-V-20	stomach cancer	stomach cancer	salt	salt	associated with	
-V-20	blood	blood	protein	protein	pressures up, but the soy	
 V-20	protein	protein	miso	miso	in	
-V-20	soy milk	soy milk	milk	milk	to skim	
-V-20	korea	korea	stomach cancer	stomach cancer	appears to have the highest	
-V-20	american institute for cancer research	american institute for cancer research	risk	risk	expert report, of an 8% increase in	
-V-20	cancer	cancer	salt	salt	associated with	
-V-20	cancer	cancer	smoking	smoking	associated with salt intake appears on par with	
-V-20	scallions	scallions	cancer	cancer	 thrown in, it may drop our	
-V-20	salt	salt	smoking	smoking	intake appears on par with	
-V-20	stomach	stomach	cancer	cancer		
-V-20	cancer	cancer	american institute for cancer research	american institute for cancer research	research fund /	
-V-20	stomach cancer	stomach cancer	salt	salt	happen every year just because of excess	
-V-20	soup	soup	blood pressure	blood pressure	and high	
-V-20	korea	korea	cancer	cancer	appears to have the highest stomach	
-V-20	korea	korea	stomach	stomach	appears to have the highest	
-V-20	soy	soy	miso	miso	protein in	
-V-20	soy	soy	milk	milk		
-V-20	soup	soup	cancer	cancer	with some scallions thrown in, it may drop our	
-V-20	scallions	scallions	risk	risk	 thrown in, it may drop our cancer	
-V-20	miso	miso	blood	blood	soup and high	
-V-20	blood pressure	blood pressure	women	women	among	
 V-20	miso	miso	blood	blood	is squeezing our	
-V-20	soy	soy	blood	blood	protein in miso may be relaxing our	
-V-20	risk	risk	stomach cancer	stomach cancer	of 	
-V-20	soup	soup	scallions	scallions	with some	
+V-20	meat	meat	risk	risk	were [each] associated with” about a 25% greater	
 V-20	soup	soup	high blood pressure	high blood pressure	and	
-V-20	miso	miso	soup	soup		
-V-20	risk	risk	stomach	stomach	of 	
+V-20	cancer	cancer	salt	salt	associated with	
+V-20	fish	fish	processed meat	processed meat	and	
+V-20	risk	risk	stomach	stomach	of	
 V-20	cancer	cancer	salt	salt	happen every year just because of excess	
 V-20	risk	risk	salt	salt	.we know “[d]ietary	
-V-20	miso	miso	blood pressure	blood pressure	soup and high	
-V-20	cancer	cancer	risk	risk		
-V-20	world cancer research fund	world cancer research fund	cancer	cancer	/ american institute for	
-V-20	salt	salt	soy	soy	are counteracted by the anti-carcinogenic effects of the	
-V-20	cancer	cancer	cancer	cancer	research fund / american institute for	
-V-20	milk	milk	soy milk	soy milk	to cow’s milk—and, to make it fairer, compare	
-V-20	miso	miso	blood	blood	may be relaxing our	
-V-20	women	women	hypertension	hypertension	with	
-V-20	soy protein	soy protein	blood	blood	in miso may be relaxing our	
-V-20	blood	blood	soy protein	soy protein	pressures up, but the	
-V-20	risk	risk	salt	salt	of stomach cancer associated with	
-V-20	blood	blood	miso	miso	pressures up, but the soy protein in	
-V-20	fish	fish	meat	meat	and processed	
-V-20	blood pressure	blood pressure	hypertension	hypertension	among women with	
-V-20	risk	risk	stomach	stomach	of	
-V-20	blood	blood	women	women	pressure among	
-V-20	soy milk	soy milk	milk	milk	to cow’s	
-V-20	risk	risk	cancer	cancer	even lower.but,	
-V-20	soup	soup	blood	blood	and high	
-V-20	salt	salt	alcohol	alcohol	intake appears on par with smoking, or heavy	
+V-20	stomach cancer	stomach cancer	salt	salt	happen every year just because of excess	
+V-20	soy protein	soy protein	miso	miso	in	
 V-20	processed meat	processed meat	risk	risk	were [each] associated with” about a 25% greater	
-V-20	blood	blood	hypertension	hypertension	pressure among women with	
-V-20	stomach	stomach	salt	salt	cancer associated with	
+V-20	risk	risk	stomach cancer	stomach cancer	of	
+V-20	salt	salt	miso	miso	in	
+V-20	stomach cancer	stomach cancer	salt	salt	associated with	
+V-20	miso	miso	blood	blood	may be relaxing our	

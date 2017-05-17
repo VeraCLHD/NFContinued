@@ -1,51 +1,17 @@
 
-V-263	curcumin	curcumin	treatment	treatment	may be a potential alternative	
-V-263	postmenopausal	postmenopausal	women	women		
-V-263	synergistic effects	synergistic effects	exercise	exercise	of all the wonderful things in plants.	
-V-263	endothelial	endothelial	curcumin	curcumin	benefits of exercise to those of	
 V-263	heart disease	heart disease	stroke	stroke	or a	
-V-263	exercise	exercise	endothelial	endothelial	group significantly boosted their	
-V-263	endurance	endurance	exercise	exercise		
-V-263	turmeric	turmeric	exercise	exercise	curcumin or	
-V-263	endothelial	endothelial	heart disease	heart disease	dysfunction may set us up for	
-V-263	japan	japan	endothelial	endothelial	recently compared the	
-V-263	plants	plants	pills	pills	to	
-V-263	fruit	fruit	endothelial	endothelial	and vegetable-associated improvements in	
-V-263	japan	japan	exercise	exercise	recently compared the endothelial benefits of	
-V-263	exercise	exercise	turmeric	turmeric	to those of curcumin, the yellow pigment in	
-V-263	oxidation	oxidation	fruits	fruits	and inflammation, then	
 V-263	cardiovascular disease	cardiovascular disease	postmenopausal	postmenopausal	in	
-V-263	anti-inflammatory	anti-inflammatory	pills	pills		
-V-263	endothelial	endothelial	vitamin c	vitamin c	function are in contrast to several negative	
-V-263	endothelial	endothelial	disease	disease	dysfunction may set us up for heart	
-V-263	curcumin	curcumin	exercise	exercise	or	
-V-263	endothelium	endothelium	oxidation	oxidation	's early warning signals?well, if it's all about	
-V-263	curcumin	curcumin	cardiovascular disease	cardiovascular disease	could be a preventive measure against	
-V-263	turmeric	turmeric	curry powder	curry powder	and	
-V-263	disease	disease	women	women	in postmenopausal	
-V-263	fruits	fruits	vegetables	vegetables	or	
-V-263	endothelium	endothelium	arteries	arteries	is impaired, our	
-V-263	exercise	exercise	curcumin	curcumin	combined with daily	
-V-263	fruits	fruits	vegetables	vegetables	and	
-V-263	endothelial	endothelial	anti-inflammatory	anti-inflammatory	function plummets.antioxidant pills didn't work; what about	
-V-263	cardiovascular disease	cardiovascular disease	women	women	in postmenopausal	
-V-263	endothelium	endothelium	inflammation	inflammation	is to oxidation and	
 V-263	endothelium	endothelium	oxidation	oxidation	is to	
-V-263	endothelium	endothelium	blood	blood	is the inner lining of our	
-V-263	curcumin	curcumin	treatment	treatment	group.the magnitude of the improvement achieved by curcumin	
-V-263	disease	disease	postmenopausal	postmenopausal	in	
-V-263	curcumin	curcumin	disease	disease	could be a preventive measure against cardiovascular	
-V-263	endurance	endurance	curcumin	curcumin	exercise combined with daily	
-V-263	turmeric	turmeric	curcumin	curcumin		
-V-263	treatment	treatment	exercise	exercise	for patients who are unable to	
-V-263	anti-inflammatory	anti-inflammatory	turmeric	turmeric	foods is the spice	
-V-263	pills	pills	anti-inflammatory	anti-inflammatory	didn't work; what about	
+V-263	curcumin	curcumin	exercise	exercise	or	
 V-263	oxidation	oxidation	inflammation	inflammation	and	
 V-263	disease	disease	stroke	stroke	or a	
-V-263	plants	plants	anti-inflammatory	anti-inflammatory	to pills, one of the most	
 V-263	treatment	treatment	exercise	exercise	was comparable to that obtained with	
-V-263	endothelial	endothelial	pills	pills	function plummets.antioxidant	
-V-263	exercise	exercise	curcumin	curcumin	to those of	
+V-263	curcumin	curcumin	cardiovascular disease	cardiovascular disease	could be a preventive measure against	
+V-263	endothelium	endothelium	blood	blood	is the inner lining of our	
+V-263	turmeric	turmeric	curry powder	curry powder	and	
+V-263	disease	disease	postmenopausal	postmenopausal	in	
+V-263	fruits	fruits	vegetables	vegetables	or	
 V-263	vegetables	vegetables	endothelial	endothelial	was associated with a 6% improvement in	
-V-263	oxidation	oxidation	vegetables	vegetables	and inflammation, then fruits and	
-V-263	endothelial	endothelial	exercise	exercise	benefits of	
+V-263	exercise	exercise	curcumin	curcumin	combined with daily	
+V-263	fruits	fruits	vegetables	vegetables	and	
+V-263	curcumin	curcumin	disease	disease	could be a preventive measure against cardiovascular	

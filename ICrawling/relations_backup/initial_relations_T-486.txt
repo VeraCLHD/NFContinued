@@ -1,46 +1,12 @@
 
-T-486	tea	tea	caffeine	caffeine	(and the	
-T-486	pollutants	pollutants	chemicals	chemicals	such as flame retardant	
-T-486	tuna	tuna	baby	baby	) may impair a	
-T-486	vegetables	vegetables	beans	beans	and soy	
-T-486	berries	berries	aging	aging	may slow brain	
+T-486	beans	beans	memory	memory	may help improve	
+T-486	diet	diet	intelligence	intelligence	has been associated with increased	
+T-486	plant-based diet	plant-based diet	intelligence	intelligence	has been associated with increased	
+T-486	contamination	contamination	fish	fish	in	
+T-486	leafy vegetables	leafy vegetables	soy	soy	and	
 T-486	plant foods	plant foods	cognition	cognition	may have a positive effect on	
+T-486	vegetables	vegetables	soy	soy	and	
 T-486	coffee	coffee	tea	tea	and	
 T-486	mercury	mercury	fish	fish	found in	
-T-486	dha	dha	supplements	supplements		
-T-486	aging	aging	lavender	lavender	and improve memory;	
-T-486	pregnant	pregnant	women	women		
-T-486	fish	fish	tuna	tuna	(such as	
-T-486	plant-based	plant-based	diet	diet		
-T-486	lavender	lavender	anxiety	anxiety	extracts may alleviate generalized	
-T-486	chemicals	chemicals	tuna	tuna	and mercury found in fish (such as	
-T-486	milk	milk	dairy	dairy	as	
-T-486	milk	milk	phytonutrient	phytonutrient	as dairy can block	
-T-486	vegetables	vegetables	memory	memory	and soy beans may help improve	
-T-486	plant-based diet	plant-based diet	intelligence	intelligence	has been associated with increased	
-T-486	industrial pollutants	industrial pollutants	mercury	mercury	such as flame retardant chemicals and	
-T-486	plant-based	plant-based	intelligence	intelligence	diet has been associated with increased	
-T-486	soy	soy	beans	beans		
-T-486	leafy vegetables	leafy vegetables	beans	beans	and soy	
-T-486	aging	aging	memory	memory	and improve	
 T-486	chemicals	chemicals	mercury	mercury	and	
-T-486	dha	dha	children	children	benefits on brain development measured as	
 T-486	dairy	dairy	phytonutrient	phytonutrient	can block	
-T-486	beans	beans	memory	memory	may help improve	
-T-486	leafy vegetables	leafy vegetables	memory	memory	and soy beans may help improve	
-T-486	soy	soy	memory	memory	beans may help improve	
-T-486	diet	diet	intelligence	intelligence	has been associated with increased	
-T-486	leafy vegetables	leafy vegetables	soy	soy	and	
-T-486	vegetables	vegetables	soy	soy	and	
-T-486	pollutants	pollutants	mercury	mercury	such as flame retardant chemicals and	
-T-486	mercury	mercury	tuna	tuna	found in fish (such as	
-T-486	industrial pollutants	industrial pollutants	chemicals	chemicals	such as flame retardant	
-T-486	chemicals	chemicals	fish	fish	and mercury found in	
-T-486	fish	fish	baby	baby	(such as tuna) may impair a	
-T-486	contamination	contamination	fish	fish	in	
-T-486	aging	aging	anxiety	anxiety	and improve memory; lavender extracts may alleviate generalized	
-T-486	berries	berries	lavender	lavender	may slow brain aging and improve memory;	
-T-486	contamination	contamination	dha	dha	in fish generally outweighs	
-T-486	berries	berries	memory	memory	may slow brain aging and improve	
-T-486	coffee	coffee	caffeine	caffeine	and tea (and the	
-T-486	fish	fish	pregnancy	pregnancy	at least one year before	

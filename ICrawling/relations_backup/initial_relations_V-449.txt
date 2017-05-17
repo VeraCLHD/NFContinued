@@ -1,39 +1,10 @@
 
-V-449	blood	blood	cholesterol	cholesterol		
-V-449	cholesterol	cholesterol	diet	diet	in the american	
-V-449	risk	risk	diabetes	diabetes	between 6% and 40%, and the risk of	
-V-449	egg	egg	disease	disease	consumption and risk of heart	
-V-449	heart disease	heart disease	risk	risk		
-V-449	egg	egg	risk	risk	a day may increase heart disease	
-V-449	risk	risk	cardiovascular disease	cardiovascular disease	of	
-V-449	eggs	eggs	disease	disease	increase our risk of cardiovascular	
-V-449	disease	disease	risk	risk		
-V-449	risk	risk	heart disease	heart disease	of	
-V-449	risk	risk	meta-analysis	meta-analysis	of cardiovascular disease, or not?here’s the latest	
-V-449	eggs	eggs	cardiovascular disease	cardiovascular disease	had a 19% increased risk of	
 V-449	eggs	eggs	cholesterol	cholesterol	are by far the #1 source of	
-V-449	eggs	eggs	atherosclerosis	atherosclerosis	vs. cigarettes in	
+V-449	eggs	eggs	risk	risk	increase our	
 V-449	dietary cholesterol	dietary cholesterol	blood	blood	may have very little impact on [	
-V-449	cholesterol	cholesterol	eggs	eggs	in atherosclerosis, [sic — i meant	
-V-449	egg	egg	risk	risk	consumption and	
-V-449	cigarettes	cigarettes	atherosclerosis	atherosclerosis	in	
-V-449	egg	egg	heart disease	heart disease	consumption and risk of	
-V-449	eggs	eggs	disease	disease	had a 19% increased risk of cardiovascular	
-V-449	dietary cholesterol	dietary cholesterol	cholesterol	cholesterol	may have very little impact on [blood]	
-V-449	cholesterol	cholesterol	cigarettes	cigarettes	in atherosclerosis, [sic — i meant eggs vs.	
-V-449	risk	risk	diabetes	diabetes	of cardiovascular disease, a 68% increased risk of	
 V-449	cholesterol	cholesterol	atherosclerosis	atherosclerosis	in	
 V-449	plaque	plaque	arteries	arteries	is building up inside our	
-V-449	risk	risk	disease	disease	of heart	
-V-449	egg	egg	risk	risk	a day was associated with a significantly increased	
-V-449	eggs	eggs	atherosclerosis	atherosclerosis	vs. cholesterol in	
-V-449	egg	egg	smoking	smoking	[s]…and	
-V-449	eggs	eggs	risk	risk	increase our	
-V-449	eggs	eggs	cholesterol	cholesterol	vs.	
-V-449	cholesterol	cholesterol	diet	diet	-free	
-V-449	eggs	eggs	cardiovascular disease	cardiovascular disease	increase our risk of	
 V-449	eggs	eggs	risk	risk	had a 19% increased	
-V-449	risk	risk	disease	disease	of cardiovascular	
-V-449	egg	egg	disease	disease	a day may increase heart	
-V-449	egg	egg	heart disease	heart disease	a day may increase	
-V-449	egg	egg	plaque	plaque	yolks alone” in non-smokers was associated with artery-clogging	
+V-449	cigarettes	cigarettes	atherosclerosis	atherosclerosis	in	
+V-449	risk	risk	cardiovascular disease	cardiovascular disease	of	
+V-449	risk	risk	heart disease	heart disease	of	

@@ -1,34 +1,8 @@
 
-V-576	phytonutrients	phytonutrients	nutmeg	nutmeg	in spices, such as cloves, oregano, cinnamon,	
-V-576	chicken	chicken	mental health	mental health	and eggs, which may adversely impact	
-V-576	phytonutrients	phytonutrients	cinnamon	cinnamon	in spices, such as cloves, oregano,	
-V-576	mood	mood	arachidonic acid	arachidonic acid	within two weeks, the researchers blamed	
-V-576	tobacco	tobacco	cigarettes	cigarettes	—which may actually be one of the reasons	
-V-576	plants	plants	phytonutrients	phytonutrients	—a class of	
-V-576	ecstasy	ecstasy	serotonin	serotonin	works like speed, but just causes comparatively more	
-V-576	vegetables	vegetables	mood	mood	may improve our	
-V-576	health	health	inflammation	inflammation	via a cascade of brain	
-V-576	phytonutrient	phytonutrient	onions	onions	found in apples, berries, and grapes, and kale,	
-V-576	phytonutrient	phytonutrient	grapes	grapes	found in apples, berries, and	
-V-576	drugs	drugs	side effects	side effects	of last resort because of serious	
-V-576	phytonutrient	phytonutrient	apples	apples	found in	
-V-576	phytonutrient	phytonutrient	kale	kale	found in apples, berries, and grapes, and	
-V-576	chicken	chicken	health	health	and eggs, which may adversely impact mental	
-V-576	arachidonic acid	arachidonic acid	chicken	chicken	—primarily in	
-V-576	animal products	animal products	arachidonic acid	arachidonic acid	improved mood within two weeks, the researchers blamed	
-V-576	animal products	animal products	mood	mood	improved	
-V-576	arachidonic acid	arachidonic acid	eggs	eggs	—primarily in chicken and	
-V-576	mood	mood	chicken	chicken	within two weeks, the researchers blamed arachidonic acid—primarily in	
-V-576	fruits	fruits	mood	mood	and vegetables may improve our	
-V-576	plant-based diets	plant-based diets	plants	plants	could also be from the good stuff in	
-V-576	phytonutrient	phytonutrient	berries	berries	found in apples,	
-V-576	chemicals	chemicals	dopamine	dopamine	into that gap, including three monoamines, serotonin,	
 V-576	phytonutrients	phytonutrients	spices	spices	in	
+V-576	phytonutrient	phytonutrient	apples	apples	found in	
 V-576	vegetables	vegetables	depression	depression	appear to cut one’s odds of	
-V-576	chemicals	chemicals	serotonin	serotonin	into that gap, including three monoamines,	
-V-576	phytonutrients	phytonutrients	cloves	cloves	in spices, such as	
-V-576	phytonutrients	phytonutrients	oregano	oregano	in spices, such as cloves,	
 V-576	chicken	chicken	eggs	eggs	and	
 V-576	fruits	fruits	vegetables	vegetables	and	
-V-576	prozac	prozac	serotonin	serotonin	—the selective	
-V-576	mental health	mental health	inflammation	inflammation	via a cascade of brain	
+V-576	vegetables	vegetables	mood	mood	may improve our	
+V-576	animal products	animal products	mood	mood	improved	

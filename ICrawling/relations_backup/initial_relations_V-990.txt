@@ -1,30 +1,4 @@
 
-V-990	risk	risk	breast cancer	breast cancer	of strokes, heart attacks, blood clots, and	
-V-990	risk	risk	heart attacks	heart attacks	of strokes,	
-V-990	estrogen	estrogen	tumors	tumors	around, many breast	
-V-990	aromatase	aromatase	drugs	drugs	inhibitor	
-V-990	blood	blood	breast cancer	breast cancer	clots, and	
-V-990	women	women	estrogen	estrogen	is that there isn’t much	
-V-990	aromatase	aromatase	chemotherapy	chemotherapy	inhibitor drugs, which are used as	
-V-990	tumors	tumors	estrogen	estrogen	in postmenopasal women is that there isn’t much	
-V-990	risk	risk	cancer	cancer	of strokes, heart attacks, blood clots, and breast	
-V-990	cancer cells	cancer cells	aromatase	aromatase	synthesize estrogen themselves using an enzyme called	
-V-990	testosterone	testosterone	estrogen	estrogen	to	
-V-990	estrogen	estrogen	testosterone	testosterone	themselves using an enzyme called aromatase, which converts	
-V-990	risk	risk	blood clots	blood clots	of strokes, heart attacks,	
-V-990	cancer	cancer	women	women	.thankfully, millions of	
-V-990	blood	blood	women	women	clots, and breast cancer.thankfully, millions of	
-V-990	broccoli	broccoli	spinach	spinach	—that would have been my guess—not	
-V-990	risk	risk	blood	blood	of strokes, heart attacks,	
-V-990	blood	blood	cancer	cancer	clots, and breast	
 V-990	cancer cells	cancer cells	estrogen	estrogen	synthesize	
+V-990	women	women	estrogen	estrogen	is that there isn’t much	
 V-990	tumors	tumors	estrogen	estrogen	are	
-V-990	breast cancer	breast cancer	women	women	.thankfully, millions of	
-V-990	estrogen	estrogen	aromatase	aromatase	themselves using an enzyme called	
-V-990	vegetables	vegetables	anti-aromatase	anti-aromatase	with significant	
-V-990	tumors	tumors	women	women	in postmenopasal	
-V-990	cancer	cancer	aromatase	aromatase	cells synthesize estrogen themselves using an enzyme called	
-V-990	breast cancer	breast cancer	estrogen	estrogen	cells synthesize	
-V-990	pregnant	pregnant	urine	urine	mares’	
-V-990	cancer	cancer	estrogen	estrogen	cells synthesize	
-V-990	breast cancer	breast cancer	aromatase	aromatase	cells synthesize estrogen themselves using an enzyme called	

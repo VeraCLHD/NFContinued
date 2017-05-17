@@ -1,37 +1,9 @@
 
-T-157	aspartame	aspartame	glucose	glucose	and other nnss have been shown to induce	
-T-157	soda	soda	depression	depression	consumption has been linked to increased	
-T-157	prevention	prevention	obesity	obesity	strategy in the fight against	
-T-157	aspartame	aspartame	sweeteners	sweeteners	and other artificial	
-T-157	sweeteners	sweeteners	prevention	prevention	as a	
-T-157	diet soda	diet soda	risk	risk	may increase the	
-T-157	obesity	obesity	health	health	and diabetes.women’s	
-T-157	risk	risk	hypertension	hypertension	of multiple myeloma, fibromyalgia,	
-T-157	aspartame	aspartame	risk	risk	consumption and	
 T-157	soda	soda	risk	risk	may increase the	
-T-157	diet soda	diet soda	weight gain	weight gain	and increased	
-T-157	diet	diet	risk	risk	soda may increase the	
-T-157	aspartame	aspartame	multiple myeloma	multiple myeloma	consumption and risk of	
-T-157	health	health	pregnancy	pregnancy	and	
-T-157	overeating	overeating	calories	calories	in light of the	
-T-157	diet	diet	weight gain	weight gain	soda and increased	
 T-157	calories	calories	diet	diet	saved by drinking	
-T-157	obesity	obesity	pregnancy	pregnancy	and diabetes.women’s health and	
-T-157	risk	risk	fibromyalgia	fibromyalgia	of multiple myeloma,	
-T-157	fda	fda	aspartame	aspartame	’s recommended daily allowance of	
+T-157	health	health	pregnancy	pregnancy	and	
 T-157	aspartame	aspartame	health	health	may cause adverse	
-T-157	soda	soda	weight gain	weight gain	and increased	
-T-157	sweeteners	sweeteners	obesity	obesity	as a prevention strategy in the fight against	
-T-157	mood	mood	aspartame	aspartame	disorders having a higher risk when consuming	
-T-157	mood	mood	risk	risk	disorders having a higher	
-T-157	aspartame	aspartame	myeloma	myeloma	consumption and risk of multiple	
-T-157	aspartame	aspartame	artificial sweeteners	artificial sweeteners	and other	
-T-157	aspartame	aspartame	formaldehyde	formaldehyde	is metabolized into methanol, which is converted to	
-T-157	glucose	glucose	gut	gut	intolerance by affecting	
+T-157	diet soda	diet soda	risk	risk	may increase the	
+T-157	pregnancy	pregnancy	diet	diet	may be affected by nns use, as daily intake of	
 T-157	risk	risk	multiple myeloma	multiple myeloma	of	
-T-157	risk	risk	lymphoma	lymphoma	of multiple myeloma, fibromyalgia, hypertension, non-hodgkin’s	
-T-157	aspartame	aspartame	hypertension	hypertension	consumption and risk of multiple myeloma, fibromyalgia,	
-T-157	risk	risk	myeloma	myeloma	of multiple	
-T-157	diet	diet	soda	soda		
-T-157	aspartame	aspartame	fibromyalgia	fibromyalgia	consumption and risk of multiple myeloma,	
-T-157	overeating	overeating	diet	diet	in light of the calories saved by drinking	
+T-157	pregnancy	pregnancy	diet soda	diet soda	may be affected by nns use, as daily intake of	

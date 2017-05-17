@@ -1,65 +1,15 @@
 
-A-260	urine	urine	steak	steak	after eating a	
-A-260	diet	diet	salt	salt	but add in an alkali	
-A-260	protein	protein	variety	variety	is preferable to animal protein for a	
-A-260	diet	diet	vegetables	vegetables	that limited fruits and	
-A-260	diet	diet	vegetables	vegetables	emphasizing fruits and	
-A-260	meat	meat	eggs	eggs	and	
-A-260	protein	protein	salt	salt	diet but add in an alkali	
-A-260	protein	protein	calcium	calcium	boosts	
-A-260	protein	protein	calcium	calcium	results in greater	
-A-260	diet	diet	fruits	fruits	that limited	
-A-260	nutrition	nutrition	meat	meat	was that by eating acid-forming foods such as	
-A-260	pills	pills	tums	tums	like	
-A-260	meat	meat	diet	diet	to our	
-A-260	protein	protein	calcium	calcium	consumption boosted	
-A-260	fruits	fruits	alkaline diet	alkaline diet	and vegetables versus an	
-A-260	calcium	calcium	urine	urine	being lost in the	
-A-260	protein	protein	diet	diet	we add to our daily	
-A-260	protein	protein	alkaline diet	alkaline diet	diet that limited fruits and vegetables versus an	
-A-260	alkaline diet	alkaline diet	vegetables	vegetables	emphasizing fruits and	
-A-260	calcium	calcium	urine	urine	in the	
-A-260	calcium	calcium	diet	diet	and then put them on a high protein	
-A-260	urine	urine	diet	diet	was coming from their	
-A-260	protein	protein	stomach	stomach	increases the solubility of calcium by stimulating	
-A-260	meat	meat	calcium	calcium	leads to acid, which leads to	
-A-260	diet	diet	cabbage	cabbage	with pee and purple	
-A-260	calcium	calcium	burgers	burgers	in the urine on	
-A-260	plant protein	plant protein	animal protein	animal protein	is preferable to	
-A-260	grains	grains	beans	beans	and	
-A-260	lead	lead	osteoporosis	osteoporosis	to	
-A-260	protein	protein	health	health	intake and bone	
-A-260	variety	variety	methionine	methionine	of reasons (tends to have less	
-A-260	protein	protein	animal protein	animal protein	is preferable to	
-A-260	eggs	eggs	amino acids	amino acids	have a lot of sulphur-containing	
-A-260	calcium	calcium	stomach	stomach	by stimulating	
-A-260	diet	diet	fruits	fruits	emphasizing	
-A-260	vegetables	vegetables	fruits	fruits	versus an alkaline diet emphasizing	
-A-260	diet	diet	alkaline diet	alkaline diet	that limited fruits and vegetables versus an	
-A-260	fruits	fruits	vegetables	vegetables	and	
-A-260	calcium	calcium	protein	protein	and then put them on a high	
-A-260	animal protein	animal protein	diet	diet		
-A-260	protein	protein	diet	diet		
-A-260	protein	protein	bone health	bone health	intake and	
+A-260	steak	steak	diet	diet	doesn’t appear to be coming from our bones but from our	
 A-260	calcium	calcium	urine	urine	is lost in the	
-A-260	plant protein	plant protein	variety	variety	is preferable to animal protein for a	
-A-260	vegetables	vegetables	alkaline diet	alkaline diet	versus an	
-A-260	protein	protein	vegetables	vegetables	diet that limited fruits and	
-A-260	urine	urine	burgers	burgers	on	
-A-260	meat	meat	amino acids	amino acids	and eggs have a lot of sulphur-containing	
-A-260	alkaline diet	alkaline diet	fruits	fruits	emphasizing	
-A-260	protein	protein	fruits	fruits	diet that limited	
-A-260	vegetables	vegetables	diet	diet	versus an alkaline	
-A-260	plant protein	plant protein	protein	protein	is preferable to animal	
-A-260	animal protein	animal protein	variety	variety	for a	
-A-260	calcium	calcium	steak	steak	in the urine after eating a	
-A-260	amino acids	amino acids	grains	grains	(two to five times more than	
-A-260	urine	urine	calcium	calcium	on burgers, but significantly greater	
-A-260	animal protein	animal protein	salt	salt	diet but add in an alkali	
-A-260	calcium	calcium	blood	blood	in the	
-A-260	fruits	fruits	diet	diet	and vegetables versus an alkaline	
-A-260	calcium	calcium	urine	urine	in their	
-A-260	calcium	calcium	kidneys	kidneys	in the blood, so presumably the	
-A-260	calcium	calcium	diet	diet	in their urine was coming from their	
+A-260	meat	meat	eggs	eggs	and	
+A-260	protein	protein	calcium	calcium	boosts	
+A-260	plant protein	plant protein	animal protein	animal protein	is preferable to	
+A-260	protein	protein	calcium	calcium	results in greater	
+A-260	nutrition	nutrition	meat	meat	was that by eating acid-forming foods such as	
+A-260	grains	grains	beans	beans	and	
+A-260	protein	protein	animal protein	animal protein	is preferable to	
+A-260	igf-1	igf-1	bone health	bone health	promoting, etc.), but it’s not clear how much of an advantage it has when it comes to	
+A-260	calcium	calcium	urine	urine	being lost in the	
 A-260	protein	protein	calcium	calcium	increases the solubility of	
-A-260	amino acids	amino acids	beans	beans	(two to five times more than grains and	
+A-260	fruits	fruits	vegetables	vegetables	and	
+A-260	urine	urine	diet	diet	was coming from their	

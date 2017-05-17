@@ -1,25 +1,3 @@
 
-V-874	turkey	turkey	foie gras	foie gras	slices, hot dogs,	
 V-874	cigarettes	cigarettes	nitrosamines	nitrosamines	have 11 times more	
-V-874	processed meat	processed meat	dogs	dogs	—which kind of suggests a few hot	
-V-874	meat	meat	diet	diet		
-V-874	meat	meat	hot dogs	hot dogs	—which kind of suggests a few	
-V-874	turkey	turkey	sausage	sausage	slices, hot dogs, foie gras, and	
 V-874	cigarettes	cigarettes	tobacco	tobacco	have less than a gram of	
-V-874	processed meats	processed meats	carcinogens	carcinogens	come prepackaged with	
-V-874	turkey	turkey	hot dogs	hot dogs	slices,	
-V-874	turkey	turkey	dogs	dogs	slices, hot	
-V-874	processed meat	processed meat	hot dogs	hot dogs	—which kind of suggests a few	
-V-874	carcinogens	carcinogens	nitrite	nitrite	—thanks to the transformation that occurs from	
-V-874	chicken	chicken	turkey	turkey	meatballs, to pork,	
-V-874	turkey	turkey	meats	meats	slices, hot dogs, foie gras, and sausage, processed	
-V-874	vegetarian	vegetarian	diet	diet		
-V-874	chicken	chicken	hot dogs	hot dogs	meatballs, to pork, turkey slices,	
-V-874	meats	meats	carcinogens	carcinogens	come prepackaged with	
-V-874	dogs	dogs	hot dogs	hot dogs	are about 60 times heavier, and so four	
-V-874	turkey	turkey	processed meats	processed meats	slices, hot dogs, foie gras, and sausage,	
-V-874	chicken	chicken	dogs	dogs	meatballs, to pork, turkey slices, hot	
-V-874	meat	meat	vegetarian	vegetarian	diet to a	
-V-874	chicken	chicken	pork	pork	meatballs, to	
-V-874	meat	meat	dogs	dogs	—which kind of suggests a few hot	
-V-874	chicken	chicken	foie gras	foie gras	meatballs, to pork, turkey slices, hot dogs,	

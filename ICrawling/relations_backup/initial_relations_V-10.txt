@@ -1,83 +1,12 @@
 
-V-10	pancreatic cancer	pancreatic cancer	sugar	sugar	risk here was the “milk	
+V-10	women	women	blood	blood	get higher	
+V-10	nih-aarp study	nih-aarp study	blood cancer	blood cancer	tracked	
+V-10	sugar	sugar	cancer	cancer	tied to pancreatic	
+V-10	aspartame	aspartame	fda	fda	anyway, before he left the	
 V-10	nih-aarp study	nih-aarp study	blood	blood	tracked	
 V-10	pancreatic cancer	pancreatic cancer	diet soda	diet soda	and	
-V-10	lymphoma	lymphoma	diet	diet	risk associated with	
-V-10	multiple myeloma	multiple myeloma	leukemia	leukemia	in men and	
-V-10	aspartame	aspartame	cancer	cancer	intake and	
-V-10	diet	diet	risk	risk	soda and total aspartame intake and [the	
-V-10	diet	diet	aspartame	aspartame	soda and total	
-V-10	cancer	cancer	lactose	lactose	risk here was the “milk sugar	
-V-10	aspartame	aspartame	risk	risk	intake were not associated with the	
-V-10	multiple myeloma	multiple myeloma	women	women	in men and leukemia in both men and	
-V-10	aspartame	aspartame	formaldehyde	formaldehyde	if this whole	
-V-10	risk	risk	aspartame	aspartame	in men—the higher conversion rates from	
-V-10	diet soda	diet soda	risk	risk	and total aspartame intake and [the	
-V-10	cancer	cancer	sugar	sugar	risk here was the “milk	
-V-10	nih-aarp study	nih-aarp study	cancer	cancer	tracked blood	
-V-10	liver	liver	women	women	samples from men and	
-V-10	milk	milk	sugar	sugar		
-V-10	aspartame	aspartame	risk	risk	…[would] not pose a	
-V-10	cancer	cancer	diet	diet	and	
-V-10	sugar	sugar	cancer	cancer	tied to pancreatic	
-V-10	myeloma	myeloma	leukemia	leukemia	in men and	
-V-10	pancreatic cancer	pancreatic cancer	soda	soda	and diet	
-V-10	aspartame	aspartame	brain damage	brain damage	…[would] not pose a risk of	
-V-10	risk	risk	formaldehyde	formaldehyde	in men—the higher conversion rates from aspartame to	
-V-10	sugar	sugar	pancreatic cancer	pancreatic cancer	tied to	
-V-10	risk	risk	sugar	sugar	here was the “milk	
-V-10	women	women	blood	blood	get higher	
-V-10	cancer	cancer	women	women	in men than	
-V-10	saccharin	saccharin	bladder cancer	bladder cancer	story, where it caused	
-V-10	risk	risk	lactose	lactose	here was the “milk sugar	
-V-10	pancreatic cancer	pancreatic cancer	lactose	lactose	risk here was the “milk sugar	
-V-10	diet	diet	period	period	soda during a ten-year follow-up	
-V-10	cancer	cancer	aspartame	aspartame	risk from 	
-V-10	diet	diet	soda	soda		
-V-10	carcinogen	carcinogen	alcohol	alcohol	” by this enzyme here,	
-V-10	cancer	cancer	soda	soda	and diet	
-V-10	soda	soda	period	period	during a ten-year follow-up	
-V-10	health	health	aspartame	aspartame	and diets of medical professionals since before	
-V-10	cancer	cancer	milk	milk	risk here was the “	
-V-10	lymphoma	lymphoma	diet soda	diet soda	risk associated with	
+V-10	cancer	cancer	diet soda	diet soda	and	
 V-10	pancreatic cancer	pancreatic cancer	diet	diet	and	
 V-10	risk	risk	brain damage	brain damage	of	
-V-10	aspartame	aspartame	cancer	cancer	intake were not associated with the risk of…	
-V-10	risk	risk	cancer	cancer	of…	
-V-10	cancer	cancer	risk	risk		
-V-10	soda	soda	risk	risk	and total aspartame intake and [the	
-V-10	women	women	alcohol	alcohol	get higher blood	
-V-10	nih-aarp study	nih-aarp study	blood cancer	blood cancer	tracked	
-V-10	blood	blood	cancer	cancer		
-V-10	lymphoma	lymphoma	myeloma	myeloma	] and multiple	
-V-10	diet soda	diet soda	period	period	during a ten-year follow-up	
-V-10	aspartame	aspartame	risk	risk	intake and cancer	
-V-10	lymphoma	lymphoma	risk	risk		
-V-10	cancer	cancer	aspartame	aspartame	risk in men—the higher conversion rates from	
-V-10	formaldehyde	formaldehyde	aspartame	aspartame	conversion rates from	
-V-10	lymphoma	lymphoma	soda	soda	risk associated with diet	
-V-10	alcohol	alcohol	cancer	cancer	that appeared to have the greatest	
-V-10	pancreatic cancer	pancreatic cancer	risk	risk		
-V-10	myeloma	myeloma	women	women	in men and leukemia in both men and	
-V-10	fda	fda	cancer	cancer	…actually prevented the national toxicology program…from doing” further	
-V-10	aspartame	aspartame	fda	fda	anyway, before he left the	
-V-10	lymphoma	lymphoma	multiple myeloma	multiple myeloma	] and	
-V-10	leukemia	leukemia	women	women	in both men and	
-V-10	diet soda	diet soda	aspartame	aspartame	and total	
-V-10	blood	blood	alcohol	alcohol		
-V-10	aspartame	aspartame	formaldehyde	formaldehyde	to	
-V-10	cancer	cancer	diet soda	diet soda	and	
-V-10	aspartame	aspartame	tumor	tumor	company’s] own brain	
-V-10	bladder	bladder	cancer	cancer		
-V-10	saccharin	saccharin	bladder	bladder	story, where it caused	
-V-10	risk	risk	aspartame	aspartame	from 	
-V-10	sugar	sugar	risk	risk	tied to pancreatic cancer	
-V-10	pancreatic cancer	pancreatic cancer	milk	milk	risk here was the “	
-V-10	fda	fda	aspartame	aspartame	scientists advised against the approval, citing [the	
-V-10	alcohol	alcohol	risk	risk	that appeared to have the greatest cancer	
-V-10	aspartame	aspartame	risk	risk	intake and [the	
-V-10	soda	soda	aspartame	aspartame	and total	
-V-10	lymphoma	lymphoma	leukemia	leukemia	] and multiple myeloma in men and	
-V-10	risk	risk	milk	milk	here was the “	
-V-10	milk	milk	lactose	lactose	sugar	
-V-10	saccharin	saccharin	cancer	cancer	story, where it caused bladder	
+V-10	sugar	sugar	pancreatic cancer	pancreatic cancer	tied to	
+V-10	cancer	cancer	diet	diet	and	

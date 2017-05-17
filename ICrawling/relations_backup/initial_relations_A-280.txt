@@ -1,21 +1,6 @@
 
-A-280	symptoms	symptoms	disease	disease	of vascular	
 A-280	erectile dysfunction	erectile dysfunction	angina	angina	has been called “penile	
 A-280	hardening of the arteries	hardening of the arteries	lead	lead	can	
-A-280	heart disease	heart disease	risk	risk		
-A-280	acne	acne	disease	disease	and blocking the first step of heart	
-A-280	lead	lead	arteries	arteries	to softening of the penis because stiffened	
-A-280	erectile dysfunction	erectile dysfunction	symptoms	symptoms	(even if he doesn’t have cardiac	
-A-280	disease	disease	risk	risk		
-A-280	risk	risk	sudden death	sudden death	of having a cardiac event (like	
-A-280	erectile dysfunction	erectile dysfunction	disease	disease	and our #1 killer, coronary artery	
-A-280	pills	pills	symptoms	symptoms	just cover up the	
-A-280	acne	acne	heart disease	heart disease	and blocking the first step of	
-A-280	erectile dysfunction	erectile dysfunction	heart attacks	heart attacks	later in life, which in turn predicts	
+A-280	atherosclerosis	atherosclerosis	blood	blood	is considered a systemic disorder that uniformly affects all major	
 A-280	arteries	arteries	lead	lead	can	
-A-280	risk	risk	atherosclerosis	atherosclerosis	factor for	
-A-280	pills	pills	viagra	viagra	like	
-A-280	nuts	nuts	erectile dysfunction	erectile dysfunction	for	
-A-280	risk	risk	death	death	of having a cardiac event (like sudden	
-A-280	pills	pills	disease	disease	just cover up the symptoms of vascular	
 A-280	cholesterol	cholesterol	erectile dysfunction	erectile dysfunction	is because it predicts	

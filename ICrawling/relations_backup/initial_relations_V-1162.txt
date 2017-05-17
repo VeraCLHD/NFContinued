@@ -1,12 +1,4 @@
 
-V-1162	chemicals	chemicals	asthma	asthma	may play a role in our childhood	
-V-1162	coffee	coffee	beans	beans		
-V-1162	frying	frying	meat	meat	veggie burgers; again, they’re not “muscle	
-V-1162	frying	frying	veggie burgers	veggie burgers		
 V-1162	children	children	carcinogens	carcinogens	have the highest levels of these	
-V-1162	fish	fish	roasted	roasted	for carcinogenic contamination.chickens aren’t the only things	
-V-1162	asthma	asthma	meat	meat	epidemic as well.two things seem to do it:	
 V-1162	chicken	chicken	fish	fish	beats out	
-V-1162	frying	frying	burgers	burgers	veggie	
-V-1162	children	children	meat	meat	’s intake of grilled and smoked	
 V-1162	lamb	lamb	pork	pork	chop,	

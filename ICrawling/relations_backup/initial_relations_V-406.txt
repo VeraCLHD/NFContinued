@@ -1,40 +1,5 @@
 
-V-406	wheat	wheat	variety	variety	sensitivity have a	
-V-406	mood	mood	wheat	wheat	of those with	
-V-406	variety	variety	food sensitivities	food sensitivities	of other	
-V-406	symptoms	symptoms	gluten	gluten	and then challenge them with	
-V-406	symptoms	symptoms	diet	diet	who claimed they felt better on a gluten-free	
-V-406	gluten	gluten	diet	diet	–free	
-V-406	wheat	wheat	gluten	gluten	sensitivity, not	
+V-406	eggs	eggs	diet	diet	were the most common culprit.so if you put people on a	
 V-406	americans	americans	gluten	gluten	are	
-V-406	symptoms	symptoms	gluten	gluten	with high	
-V-406	gluten	gluten	symptoms	symptoms	sensitivity.gluten itself may not be causing gut	
-V-406	disease	disease	gut	gut	of the mind or the	
-V-406	placebo	placebo	bread	bread	gluten-free	
-V-406	gluten	gluten	disease	disease	sensitivity is a	
-V-406	wheat	wheat	food sensitivities	food sensitivities	sensitivity have a variety of other	
-V-406	gluten	gluten	gut	gut	sensitivity.gluten itself may not be causing	
-V-406	gluten	gluten	celiac disease	celiac disease	-free diet, yet didn’t have evidence of	
-V-406	diet	diet	celiac disease	celiac disease	—despite not having	
-V-406	celiac disease	celiac disease	bread	bread	—actually could tell if they were given gluten-containing	
-V-406	milk	milk	protein	protein		
-V-406	gluten	gluten	diet	diet	sensitivity requires a gluten-free	
-V-406	gluten	gluten	diet	diet	-free	
-V-406	gluten	gluten	disease	disease	-free diet, yet didn’t have evidence of celiac	
-V-406	diet	diet	symptoms	symptoms	low in common triggers of irritable bowel	
-V-406	gut	gut	gluten	gluten	symptoms, many participants opted to continue following a	
-V-406	diarrhea	diarrhea	gluten	gluten	that resolved on a	
-V-406	women	women	diarrhea	diarrhea	who suffered from chronic	
-V-406	gut	gut	symptoms	symptoms		
-V-406	diarrhea	diarrhea	diet	diet	that resolved on a gluten-free	
-V-406	placebo	placebo	wheat	wheat	or better on the	
-V-406	bread	bread	placebo	placebo	and muffins or the	
-V-406	disease	disease	bread	bread	—actually could tell if they were given gluten-containing	
-V-406	protein	protein	eggs	eggs	as well, then	
-V-406	wheat	wheat	gluten	gluten	sensitivity and indeed, short-term exposure to	
-V-406	diet	diet	disease	disease	—despite not having celiac	
-V-406	milk	milk	eggs	eggs	protein as well, then	
-V-406	diet	diet	gluten	gluten	and continued on a	
-V-406	wheat	wheat	diet	diet	-free	
+V-406	italy	italy	gluten	gluten	took 920 patients that had been diagnosed with non-celiac	
 V-406	england	england	women	women	reported a series of	
-V-406	medical community	medical community	health	health	each time, however, these	

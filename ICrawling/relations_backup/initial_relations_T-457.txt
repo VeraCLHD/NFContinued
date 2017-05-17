@@ -1,82 +1,15 @@
 
-T-457	oxidation	oxidation	mitochondria	mitochondria	of our	
-T-457	plant-based diet	plant-based diet	heart disease	heart disease	may be able to prevent and treat diabetes,	
-T-457	chronic disease	chronic disease	treatment	treatment	prevention,	
-T-457	hormones	hormones	dairy	dairy	in	
-T-457	cholesterol	cholesterol	heart disease	heart disease	and should be avoided to prevent	
-T-457	apple	apple	pomegranate	pomegranate	rings, goji berries,	
-T-457	goji	goji	berries	berries		
-T-457	diet	diet	diabetes	diabetes	may be able to prevent and treat	
-T-457	plant-based	plant-based	diet	diet		
-T-457	apple	apple	berries	berries	rings, goji	
-T-457	risk	risk	cancer	cancer	for breast	
-T-457	chronic disease	chronic disease	diet	diet	through	
-T-457	risk	risk	breast cancer	breast cancer	for	
-T-457	apple	apple	blackberries	blackberries	rings, goji berries, pomegranate seeds, indian gooseberries,	
-T-457	goji	goji	seeds	seeds	berries, pomegranate	
-T-457	prostate	prostate	cancer	cancer		
-T-457	mitochondria	mitochondria	plant-based diet	plant-based diet	and slow aging; a	
-T-457	goji	goji	blackberries	blackberries	berries, pomegranate seeds, indian gooseberries,	
-T-457	apple	apple	goji	goji	rings,	
-T-457	disease	disease	medicine	medicine	through diet and nutrition is an area of	
+T-457	plant-based diet	plant-based diet	diabetes	diabetes	may be able to prevent and treat	
 T-457	antioxidants	antioxidants	stress	stress	appear to help prevent many chronic oxidative	
-T-457	prevention	prevention	diet	diet	of chronic disease through	
+T-457	hormones	hormones	dairy	dairy	in	
+T-457	diet	diet	diabetes	diabetes	may be able to prevent and treat	
 T-457	antioxidants	antioxidants	oxidative stress	oxidative stress	appear to help prevent many chronic	
 T-457	blackberries	blackberries	green tea	green tea	and	
+T-457	vegetarians	vegetarians	chronic diseases	chronic diseases	found that they had lower levels of several	
+T-457	eggs	eggs	brains	brains	and	
 T-457	brains	brains	cholesterol	cholesterol	are the two most concentrated sources of	
-T-457	diet	diet	medicine	medicine	and nutrition is an area of	
-T-457	dairy	dairy	risk	risk	have also been associated with an increased cancer	
+T-457	diet	diet	nutrition	nutrition	and	
 T-457	nutrition	nutrition	medicine	medicine	is an area of	
-T-457	apple	apple	gooseberries	gooseberries	rings, goji berries, pomegranate seeds, indian	
-T-457	medicine	medicine	doctors	doctors	in which most	
+T-457	healthy eating index	healthy eating index	phytonutrient	phytonutrient	can be calculated based on	
 T-457	multivitamins	multivitamins	chronic diseases	chronic diseases	are often taken to prevent	
 T-457	prevention	prevention	chronic disease	chronic disease	of	
-T-457	goji	goji	pomegranate	pomegranate	berries,	
-T-457	apple	apple	indian gooseberries	indian gooseberries	rings, goji berries, pomegranate seeds,	
-T-457	diet	diet	heart disease	heart disease	may be able to prevent and treat diabetes,	
-T-457	goji	goji	indian gooseberries	indian gooseberries	berries, pomegranate seeds,	
-T-457	pomegranate	pomegranate	seeds	seeds		
-T-457	disease	disease	prevention	prevention		
-T-457	pomegranate	pomegranate	blackberries	blackberries	seeds, indian gooseberries,	
-T-457	chronic disease	chronic disease	prevention	prevention		
-T-457	plant-based diet	plant-based diet	diabetes	diabetes	may be able to prevent and treat	
-T-457	apple	apple	goji berries	goji berries	rings,	
-T-457	pomegranate	pomegranate	tea	tea	seeds, indian gooseberries, blackberries and green	
-T-457	apple	apple	seeds	seeds	rings, goji berries, pomegranate	
-T-457	mitochondria	mitochondria	plant-based	plant-based	and slow aging; a	
-T-457	oxidation	oxidation	aging	aging	of our mitochondria and slow	
-T-457	goji	goji	tea	tea	berries, pomegranate seeds, indian gooseberries, blackberries and green	
-T-457	oxidation	oxidation	diet	diet	of our mitochondria and slow aging; a plant-based	
-T-457	vegetarians	vegetarians	chronic diseases	chronic diseases	found that they had lower levels of several	
-T-457	prostate	prostate	hypertension	hypertension	cancer, obesity, and	
-T-457	disease	disease	diet	diet	through	
-T-457	nutrition	nutrition	doctors	doctors	is an area of medicine in which most	
-T-457	eggs	eggs	brains	brains	and	
-T-457	disease	disease	nutrition	nutrition	through diet and	
-T-457	diet	diet	nutrition	nutrition	and	
-T-457	cancer	cancer	risk	risk		
-T-457	prevention	prevention	disease	disease	of chronic	
-T-457	disease	disease	treatment	treatment	prevention,	
-T-457	disease	disease	healthy eating index	healthy eating index	prevention, treatment, and cure, and a	
-T-457	oxidation	oxidation	plant-based diet	plant-based diet	of our mitochondria and slow aging; a	
-T-457	blood	blood	diabetes	diabetes	pressure,	
-T-457	chronic disease	chronic disease	medicine	medicine	through diet and nutrition is an area of	
-T-457	pomegranate	pomegranate	gooseberries	gooseberries	seeds, indian	
-T-457	goji	goji	gooseberries	gooseberries	berries, pomegranate seeds, indian	
-T-457	blackberries	blackberries	tea	tea	and green	
-T-457	americans	americans	chronic diseases	chronic diseases	each year are from	
-T-457	pomegranate	pomegranate	green tea	green tea	seeds, indian gooseberries, blackberries and	
-T-457	oxidation	oxidation	plant-based	plant-based	of our mitochondria and slow aging; a	
-T-457	blood	blood	diverticulosis	diverticulosis	pressure, diabetes, and	
-T-457	prevention	prevention	nutrition	nutrition	of chronic disease through diet and	
-T-457	chronic disease	chronic disease	healthy eating index	healthy eating index	prevention, treatment, and cure, and a	
-T-457	dairy	dairy	cancer	cancer	have also been associated with an increased	
-T-457	chronic disease	chronic disease	nutrition	nutrition	through diet and	
-T-457	plant-based	plant-based	diabetes	diabetes	diet may be able to prevent and treat	
-T-457	healthy eating index	healthy eating index	phytonutrient	phytonutrient	can be calculated based on	
-T-457	cholesterol	cholesterol	disease	disease	and should be avoided to prevent heart	
-T-457	prostate	prostate	obesity	obesity	cancer,	
-T-457	pomegranate	pomegranate	indian gooseberries	indian gooseberries	seeds,	
-T-457	mitochondria	mitochondria	diet	diet	and slow aging; a plant-based	
-T-457	mitochondria	mitochondria	aging	aging	and slow	
-T-457	goji	goji	green tea	green tea	berries, pomegranate seeds, indian gooseberries, blackberries and	

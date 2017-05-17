@@ -1,65 +1,18 @@
 
+V-278	diet	diet	blood pressure	blood pressure	may prevent high	
 V-278	diet	diet	high blood pressure	high blood pressure	may prevent	
-V-278	high blood pressure	high blood pressure	death	death	ranks as the #1 risk factor for	
-V-278	endurance	endurance	exercise	exercise		
-V-278	vegetables	vegetables	dairy	dairy	and low-fat	
-V-278	dairy	dairy	blood	blood	the lactovegetarians ate, the higher their	
-V-278	blood	blood	risk	risk	pressure ranks as the #1	
-V-278	plant-based	plant-based	diet	diet		
-V-278	plant-based	plant-based	vegan diets	vegan diets	diets,	
-V-278	blood	blood	vegetarian	vegetarian	pressure-lowering benefits of a	
-V-278	plant-based	plant-based	table salt	table salt	diet, no processed foods, no	
-V-278	alcohol	alcohol	exercise	exercise	intake, engage in regular	
-V-278	blood	blood	diet	diet	pressure-lowering benefits of a vegetarian	
-V-278	vegetarian	vegetarian	diet	diet		
-V-278	vegetarian	vegetarian	plant-based diets	plant-based diets	diets are good, but strictly	
-V-278	fruits	fruits	dairy	dairy	and vegetables and low-fat	
-V-278	elderly	elderly	blood pressure	blood pressure	have perfect	
-V-278	dash diet	dash diet	diet	diet	has been described as a lactovegetarian	
-V-278	blood pressure	blood pressure	cookies	cookies	–but only, apparently, compared to fudge	
-V-278	blood	blood	death	death	pressure ranks as the #1 risk factor for	
-V-278	plant-based	plant-based	blood	blood	diet may prevent high	
 V-278	raisins	raisins	blood	blood	can reduce	
 V-278	plant-based diet	plant-based diet	blood	blood	may prevent high	
-V-278	risk	risk	high blood pressure	high blood pressure	of	
-V-278	plant-based	plant-based	vegan	vegan	diets,	
-V-278	elderly	elderly	blood	blood	have perfect	
-V-278	risk	risk	death	death	factor for	
-V-278	plant-based	plant-based	salt	salt	diet, no processed foods, no table	
-V-278	fruits	fruits	vegetables	vegetables	and	
-V-278	prevention	prevention	treatment	treatment	recommend, as the first-line	
-V-278	meta-analysis	meta-analysis	vegetarian	vegetarian	showed	
-V-278	vegetarian	vegetarian	plant-based	plant-based	diets are good, but strictly	
-V-278	high blood pressure	high blood pressure	risk	risk	ranks as the #1	
-V-278	diet	diet	blood pressure	blood pressure	may prevent high	
-V-278	risk	risk	blood	blood	of high	
-V-278	california	california	marketing	marketing	raisin	
-V-278	meta-analysis	meta-analysis	plant-based	plant-based	showed vegetarian diets are good, but strictly	
-V-278	vegan	vegan	obesity	obesity	diets, seem to offer additional protection for	
-V-278	vegan	vegan	hypertension	hypertension	diets, seem to offer additional protection for obesity,	
-V-278	plant-based diet	plant-based diet	high blood pressure	high blood pressure	may prevent	
-V-278	plant-based	plant-based	processed foods	processed foods	diet, no	
-V-278	high blood pressure	high blood pressure	egg-free	egg-free	55%, but those eating meat-free,	
-V-278	vegetables	vegetables	meat	meat	and low-fat dairy, but just a reduction in	
-V-278	plant-based	plant-based	high blood pressure	high blood pressure	diet may prevent	
-V-278	wine	wine	alcohol	alcohol	may help, but only if the	
-V-278	red wine	red wine	alcohol	alcohol	may help, but only if the	
-V-278	centers for disease control and prevention	centers for disease control and prevention	treatment	treatment	recommend, as the first-line	
-V-278	blood	blood	cookies	cookies	pressure–but only, apparently, compared to fudge	
-V-278	meta-analysis	meta-analysis	plant-based diets	plant-based diets	showed vegetarian diets are good, but strictly	
-V-278	disease	disease	mortality	mortality		
-V-278	blood pressure	blood pressure	egg-free	egg-free	55%, but those eating meat-free,	
-V-278	disease	disease	treatment	treatment	control and prevention recommend, as the first-line	
 V-278	raisins	raisins	blood pressure	blood pressure	can reduce	
-V-278	blood pressure	blood pressure	death	death	ranks as the #1 risk factor for	
+V-278	risk	risk	high blood pressure	high blood pressure	of	
+V-278	plant-based diet	plant-based diet	high blood pressure	high blood pressure	may prevent	
 V-278	blood pressure	blood pressure	risk	risk	ranks as the #1	
 V-278	diet	diet	blood	blood	may prevent high	
-V-278	vegetarian	vegetarian	animal products	animal products	diet, yet containing enough	
-V-278	heart disease	heart disease	mortality	mortality		
-V-278	risk	risk	blood pressure	blood pressure	of high	
-V-278	plant-based	plant-based	blood pressure	blood pressure	diet may prevent high	
-V-278	marketing	marketing	raisins	raisins	board, which came out with this study showing	
-V-278	blood	blood	egg-free	egg-free	pressure 55%, but those eating meat-free,	
-V-278	raw	raw	vegetables	vegetables		
+V-278	elderly	elderly	blood	blood	have perfect	
+V-278	centers for disease control and prevention	centers for disease control and prevention	treatment	treatment	recommend, as the first-line	
+V-278	fruits	fruits	vegetables	vegetables	and	
+V-278	prevention	prevention	treatment	treatment	recommend, as the first-line	
+V-278	elderly	elderly	blood pressure	blood pressure	have perfect	
+V-278	meta-analysis	meta-analysis	vegetarian	vegetarian	showed	
+V-278	high blood pressure	high blood pressure	risk	risk	ranks as the #1	
 V-278	plant-based diet	plant-based diet	blood pressure	blood pressure	may prevent high	
-V-278	disease	disease	prevention	prevention	control and	

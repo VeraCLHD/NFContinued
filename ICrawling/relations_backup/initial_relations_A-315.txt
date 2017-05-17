@@ -1,43 +1,6 @@
 
-A-315	oatmeal	oatmeal	water	water	and milk, milk alone, apple juice, or	
-A-315	beverage	beverage	fat	fat	that contained some	
-A-315	probiotics	probiotics	prebiotics	prebiotics	to	
-A-315	probiotics	probiotics	common cold	common cold	to prebiotics in preventing the	
-A-315	prebiotics	prebiotics	cold	cold	in preventing the common	
-A-315	gut flora	gut flora	mental health	mental health	on your mood in gut feelings: probiotics and	
-A-315	probiotics	probiotics	health	health	and mental	
-A-315	pharmacists	pharmacists	natural food store	natural food store	and	
 A-315	probiotics	probiotics	oatmeal	oatmeal	fared when taken in	
-A-315	probiotics	probiotics	cold	cold	to prebiotics in preventing the common	
-A-315	flora	flora	mental health	mental health	on your mood in gut feelings: probiotics and	
-A-315	stomach	stomach	saliva	saliva	and intestines, but complete with real	
-A-315	saliva	saliva	enzymes	enzymes	and digestive	
-A-315	saliva	saliva	bile	bile	and digestive enzymes, acid,	
-A-315	vitamin d	vitamin d	supplements	supplements		
-A-315	gut flora	gut flora	mood	mood	on your	
-A-315	gut flora	gut flora	probiotics	probiotics	on your mood in gut feelings:	
-A-315	oatmeal	oatmeal	apple	apple	and milk, milk alone,	
-A-315	gut	gut	flora	flora		
-A-315	mood	mood	health	health	in gut feelings: probiotics and mental	
-A-315	gut flora	gut flora	gut	gut	on your mood in	
-A-315	diarrhea	diarrhea	probiotics	probiotics	with	
-A-315	mood	mood	mental health	mental health	in gut feelings: probiotics and	
 A-315	oatmeal	oatmeal	milk	milk	and	
-A-315	probiotics	probiotics	supplements	supplements	than	
-A-315	oatmeal	oatmeal	apple juice	apple juice	and milk, milk alone,	
-A-315	apple	apple	juice	juice		
-A-315	flora	flora	mood	mood	on your	
-A-315	mood	mood	probiotics	probiotics	in gut feelings:	
-A-315	gut	gut	mood	mood	flora on your	
-A-315	prebiotics	prebiotics	probiotics	probiotics	in preventing the common cold with	
-A-315	cold	cold	probiotics	probiotics	with	
-A-315	probiotics	probiotics	mental health	mental health	and	
-A-315	apple	apple	water	water	juice, or	
-A-315	common cold	common cold	probiotics	probiotics	with	
-A-315	flora	flora	probiotics	probiotics	on your mood in gut feelings:	
 A-315	mood	mood	gut	gut	in	
-A-315	flora	flora	gut	gut	on your mood in	
-A-315	oatmeal	oatmeal	juice	juice	and milk, milk alone, apple	
-A-315	gut	gut	probiotics	probiotics	flora on your mood in gut feelings:	
-A-315	probiotics	probiotics	milk	milk	fared when taken in oatmeal and	
-A-315	prebiotics	prebiotics	common cold	common cold	in preventing the	
+A-315	probiotics	probiotics	mental health	mental health	and	
+A-315	pharmacists	pharmacists	natural food store	natural food store	and	

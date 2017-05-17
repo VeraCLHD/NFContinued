@@ -1,17 +1,7 @@
 
-V-888	plant-based diets	plant-based diets	vitamin b12	vitamin b12	be tested for	
-V-888	breastfeeding	breastfeeding	vegan	vegan		
-V-888	blood	blood	urine	urine	or	
-V-888	b12	b12	doctors	doctors	level drawn, though, which most	
-V-888	plant-based	plant-based	b12	b12	diets be tested for vitamin	
-V-888	symptoms	symptoms	infants	infants	be tested—especially in	
 V-888	pregnant	pregnant	breastfeeding	breastfeeding	and	
-V-888	pregnant	pregnant	vegan	vegan	and breastfeeding	
-V-888	b12	b12	blood	blood	deficiency, despite normal levels of b12 in their	
-V-888	plant-based	plant-based	vitamin b12	vitamin b12	diets be tested for	
+V-888	plant-based diets	plant-based diets	vitamin b12	vitamin b12	be tested for	
+V-888	blood	blood	urine	urine	or	
 V-888	vegans	vegans	b12	b12	had functional	
-V-888	plant-based diets	plant-based diets	b12	b12	be tested for vitamin	
 V-888	doctors	doctors	methylmalonic acid	methylmalonic acid	do, a	
-V-888	methylmalonic acid	methylmalonic acid	b12	b12	level is a superior test for	
-V-888	b12	b12	methylmalonic acid	methylmalonic acid	level drawn, though, which most doctors do, a	
-V-888	symptoms	symptoms	vegans	vegans	be tested—especially in infants, toddlers,	
+V-888	symptoms	symptoms	infants	infants	be tested—especially in	

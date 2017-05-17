@@ -1,27 +1,6 @@
 
 V-760	walnuts	walnuts	cardiovascular disease	cardiovascular disease	have been shown to decrease	
-V-760	salami	salami	anti-inflammatory	anti-inflammatory	sandwich, though, and they’re so packed with	
-V-760	salami	salami	white bread	white bread	and…cheese on…	
-V-760	walnut oil	walnut oil	walnut	walnut	is within the	
-V-760	cheese	cheese	bread	bread	on…white	
-V-760	salami	salami	butter	butter	and…cheese on…white bread smeared with” two spoonfuls of	
-V-760	walnuts	walnuts	antioxidant	antioxidant	[for example] have nearly 10 times as much	
-V-760	disease	disease	risk	risk		
-V-760	cardiovascular disease	cardiovascular disease	risk	risk		
-V-760	salami	salami	cheese	cheese	and…	
-V-760	cardiovascular disease	cardiovascular disease	walnuts	walnuts	risk; however, black	
-V-760	cheese	cheese	butter	butter	on…white bread smeared with” two spoonfuls of	
 V-760	bread	bread	butter	butter	smeared with” two spoonfuls of	
-V-760	bread	bread	yogurt	yogurt	smeared with” two spoonfuls of butter along with…	
-V-760	cheese	cheese	white bread	white bread	on…	
-V-760	walnuts	walnuts	salami	salami	with the	
-V-760	salami	salami	bread	bread	and…cheese on…white	
-V-760	disease	disease	walnuts	walnuts	risk; however, black	
-V-760	walnuts	walnuts	disease	disease	have been shown to decrease cardiovascular	
-V-760	butter	butter	yogurt	yogurt	along with…	
-V-760	arteries	arteries	fat	fat	with that kind of load of saturated animal	
+V-760	walnut oil	walnut oil	walnut	walnut	is within the	
 V-760	white bread	white bread	butter	butter	smeared with” two spoonfuls of	
-V-760	arteries	arteries	animal fat	animal fat	with that kind of load of saturated	
-V-760	walnuts	walnuts	risk	risk	have been shown to decrease cardiovascular disease	
-V-760	arteries	arteries	saturated animal fat	saturated animal fat	with that kind of load of	
-V-760	white bread	white bread	yogurt	yogurt	smeared with” two spoonfuls of butter along with…	
+V-760	walnuts	walnuts	disease	disease	have been shown to decrease cardiovascular	

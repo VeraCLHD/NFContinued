@@ -1,78 +1,18 @@
 
-V-389	saturated fat	saturated fat	dairy	dairy	in salmon, and found in meat, eggs, and	
 V-389	oxidative stress	oxidative stress	inflammation	inflammation	and	
-V-389	diet	diet	weight loss	weight loss	specifically, the exercise, or the	
-V-389	fat	fat	dairy	dairy	in salmon, and found in meat, eggs, and	
 V-389	fruit	fruit	vegetables	vegetables	and	
-V-389	diet	diet	exercise	exercise	versus	
-V-389	saturated fat	saturated fat	fat	fat	itself, though saturated	
-V-389	telomeres	telomeres	death	death	leads to cell	
-V-389	ornish	ornish	exercise	exercise	30 minute stroll, but 45 minutes of moderate-to-vigorous	
-V-389	saturated fat	saturated fat	eggs	eggs	in salmon, and found in meat,	
-V-389	telomeres	telomeres	cancer	cancer	leads to cell death or transformation into	
-V-389	ham	ham	bologna	bologna	or hot dogs,	
-V-389	fish	fish	fats	fats	consumption was also significantly associated with shortened telomeres.saturated	
-V-389	plant-based	plant-based	diet	diet		
-V-389	death	death	lifespan	lifespan	or transformation into cancer, affecting the health and	
-V-389	ornish	ornish	diet	diet	group on the plant-based	
-V-389	fruit	fruit	meat	meat	and vegetables and less	
-V-389	diet	diet	stress	stress	and exercise,	
-V-389	telomeres	telomeres	cell death	cell death	leads to	
-V-389	exercise	exercise	aging	aging	for slowing cellular	
-V-389	ham	ham	hot dogs	hot dogs	or	
-V-389	stress	stress	diet	diet	management seems to help, but what about the	
-V-389	diet	diet	exercise	exercise	group, and	
-V-389	shortening	shortening	cell death	cell death	of our telomeres leads to	
-V-389	ham	ham	meats	meats	or hot dogs, bologna, salami, or other lunch	
-V-389	fats	fats	saturated fat	saturated fat	like palmitic acid, the primary	
-V-389	fat	fat	eggs	eggs	in salmon, and found in meat,	
-V-389	saturated fat	saturated fat	meat	meat	in salmon, and found in	
-V-389	fat	fat	meat	meat	in salmon, and found in	
-V-389	exercise	exercise	diet	diet	group, and a portion controlled	
-V-389	stress	stress	inflammation	inflammation	and	
-V-389	inflammation	inflammation	saturated fat	saturated fat	associated with those foods.with this link to	
-V-389	fat	fat	diet	diet	calories in our	
-V-389	saturated fat	saturated fat	diet	diet	calories in our	
-V-389	plant-based	plant-based	weight loss	weight loss	diet specifically, the exercise, or the	
-V-389	fat	fat	saturated fat	saturated fat	itself, though	
-V-389	plant-based	plant-based	exercise	exercise	diet specifically, the	
-V-389	exercise	exercise	ornish	ornish	group was no whimpy	
-V-389	death	death	cancer	cancer	or transformation into	
-V-389	fiber	fiber	saturated fat	saturated fat	and vitamins, but the key may be avoiding	
-V-389	plant-based diet	plant-based diet	weight loss	weight loss	specifically, the exercise, or the	
-V-389	ornish	ornish	plant-based	plant-based	group on the	
-V-389	cell death	cell death	health	health	or transformation into cancer, affecting the	
-V-389	fat	fat	salmon	salmon	in	
-V-389	fats	fats	salmon	salmon	like palmitic acid, the primary saturated fat in	
-V-389	ornish	ornish	telomeres	telomeres	intervention that so powerfully protected	
-V-389	diet	diet	exercise	exercise	specifically, the	
-V-389	health	health	lifespan	lifespan	and	
-V-389	blood	blood	animal products	animal products	stream of people who eat a lot of	
-V-389	ham	ham	salami	salami	or hot dogs, bologna,	
-V-389	fats	fats	palmitic acid	palmitic acid	like	
-V-389	risk	risk	heart disease	heart disease	of some of the potential consequences, like	
-V-389	shortening	shortening	telomeres	telomeres	of our	
-V-389	fat	fat	calories	calories		
 V-389	inflammation	inflammation	fat	fat	associated with those foods.with this link to saturated	
-V-389	cell death	cell death	lifespan	lifespan	or transformation into cancer, affecting the health and	
-V-389	calories	calories	diet	diet	in our	
-V-389	fats	fats	fat	fat	like palmitic acid, the primary saturated	
-V-389	saturated fat	saturated fat	calories	calories		
-V-389	risk	risk	disease	disease	of some of the potential consequences, like heart	
-V-389	cell death	cell death	cancer	cancer	or transformation into	
+V-389	saturated fat	saturated fat	fat	fat	itself, though saturated	
+V-389	fat	fat	salmon	salmon	in	
+V-389	stress	stress	inflammation	inflammation	and	
+V-389	telomeres	telomeres	athletes	athletes	get eaten away as we age.but what about the	
 V-389	plant-based diet	plant-based diet	exercise	exercise	specifically, the	
 V-389	fiber	fiber	vitamins	vitamins	and	
-V-389	antioxidant	antioxidant	exercise	exercise	defenses, a healthy diet and	
-V-389	ham	ham	dogs	dogs	or hot	
-V-389	aging	aging	telomeres	telomeres	's worth of length onto our	
-V-389	death	death	health	health	or transformation into cancer, affecting the	
-V-389	ornish	ornish	plant-based diet	plant-based diet	group on the	
-V-389	antioxidant	antioxidant	stress	stress	defenses, a healthy diet and exercise,	
-V-389	shortening	shortening	death	death	of our telomeres leads to cell	
-V-389	aging	aging	cholesterol	cholesterol	with lower	
-V-389	vegetables	vegetables	meat	meat	and less	
-V-389	antioxidant	antioxidant	diet	diet	defenses, a healthy	
+V-389	inflammation	inflammation	saturated fat	saturated fat	associated with those foods.with this link to	
+V-389	diet	diet	exercise	exercise	specifically, the	
+V-389	health	health	lifespan	lifespan	and	
+V-389	ham	ham	hot dogs	hot dogs	or	
+V-389	fat	fat	saturated fat	saturated fat	itself, though	
 V-389	exercise	exercise	weight loss	weight loss	and	
-V-389	cholesterol	cholesterol	telomeres	telomeres	levels have been related to longer	
 V-389	diet	diet	exercise	exercise	and	
 V-389	saturated fat	saturated fat	salmon	salmon	in	

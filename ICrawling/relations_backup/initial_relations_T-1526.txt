@@ -1,54 +1,8 @@
 
-T-1526	cured meats	cured meats	dogs	dogs	like bacon, hot	
-T-1526	american institute for cancer research	american institute for cancer research	smoking	smoking	defines processed meat as “meat preserved by	
-T-1526	infertility	infertility	puberty	puberty	and in early-onset	
-T-1526	meats	meats	diabetes	diabetes	before pregnancy may raise the risk of gestational	
-T-1526	american institute for cancer research	american institute for cancer research	processed meat	processed meat	defines	
-T-1526	risk	risk	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	of	
-T-1526	processed meats	processed meats	botulism	botulism	to combat the threat of	
-T-1526	nitrates	nitrates	nitrosamines	nitrosamines	become carcinogenic	
 T-1526	hot dogs	hot dogs	cold	cold	and	
-T-1526	meats	meats	cold	cold	like bacon, hot dogs and	
-T-1526	meat	meat	weight gain	weight gain	also appears linked to long-term	
-T-1526	processed meat	processed meat	smoking	smoking	as “meat preserved by	
-T-1526	risk	risk	diabetes	diabetes	of gestational	
-T-1526	diabetes	diabetes	infertility	infertility	and may play a role in	
-T-1526	meats	meats	bacon	bacon	like	
-T-1526	risk	risk	copd	copd	of chronic obstructive pulmonary disease, known as	
-T-1526	meat	meat	smoking	smoking	as “meat preserved by	
-T-1526	meats	meats	risk	risk	before pregnancy may raise the	
-T-1526	gestational diabetes	gestational diabetes	infertility	infertility	and may play a role in	
-T-1526	dogs	dogs	cancer	cancer	and cold cuts have been linked to increased	
-T-1526	cancer	cancer	smoking	smoking	research defines processed meat as “meat preserved by	
-T-1526	american institute for cancer research	american institute for cancer research	meat	meat	defines processed	
-T-1526	cured meats	cured meats	hot dogs	hot dogs	like bacon,	
-T-1526	processed meats	processed meats	aging	aging	may also contribute to	
-T-1526	meat	meat	risk	risk	consumption appears to be linked to	
-T-1526	nitrites	nitrites	processed meats	processed meats	that are often added as a preservative in	
-T-1526	meats	meats	aging	aging	may also contribute to	
-T-1526	processed meat	processed meat	meat	meat	as “	
-T-1526	meats	meats	botulism	botulism	to combat the threat of	
-T-1526	meats	meats	gestational diabetes	gestational diabetes	before pregnancy may raise the risk of	
-T-1526	pregnancy	pregnancy	gestational diabetes	gestational diabetes	may raise the risk of	
-T-1526	risk	risk	gestational diabetes	gestational diabetes	of	
-T-1526	cancer	cancer	breast cancer	breast cancer	risk overall and	
-T-1526	hot dogs	hot dogs	cancer	cancer	and cold cuts have been linked to increased	
-T-1526	meats	meats	dogs	dogs	like bacon, hot	
-T-1526	cancer	cancer	processed meat	processed meat	research defines	
-T-1526	cancer	cancer	risk	risk		
 T-1526	dogs	dogs	cold	cold	and	
-T-1526	cured meats	cured meats	bacon	bacon	like	
-T-1526	risk	risk	breast cancer	breast cancer	overall and	
-T-1526	risk	risk	disease	disease	of chronic obstructive pulmonary	
-T-1526	meats	meats	hot dogs	hot dogs	like bacon,	
-T-1526	cured meats	cured meats	cold	cold	like bacon, hot dogs and	
-T-1526	meats	meats	pregnancy	pregnancy	before	
-T-1526	meat	meat	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	consumption appears to be linked to risk of	
-T-1526	cold	cold	cancer	cancer	cuts have been linked to increased	
-T-1526	cancer	cancer	cancer	cancer	risk overall and breast	
+T-1526	risk	risk	gestational diabetes	gestational diabetes	of	
 T-1526	pregnancy	pregnancy	risk	risk	may raise the	
-T-1526	pregnancy	pregnancy	diabetes	diabetes	may raise the risk of gestational	
-T-1526	cancer	cancer	meat	meat	research defines processed	
-T-1526	cold	cold	risk	risk	cuts have been linked to increased cancer	
-T-1526	dna	dna	telomeres	telomeres		
-T-1526	risk	risk	cancer	cancer	overall and breast	
+T-1526	american institute for cancer research	american institute for cancer research	processed meat	processed meat	defines	
+T-1526	american institute for cancer research	american institute for cancer research	meat	meat	defines processed	
+T-1526	risk	risk	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	of	

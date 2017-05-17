@@ -1,168 +1,20 @@
 
-T-499	resistant starch	resistant starch	beans	beans	” that comes from plant foods like cooked	
-T-499	death	death	lung cancer	lung cancer	in the united states, behind	
-T-499	organic	organic	coffee	coffee	strawberries), broccoli, black beans, a number of herbal varieties of tea, carob, 	
-T-499	plant-based	plant-based	bowel movements	bowel movements	diet produces the healthiest stools, and leads to consistently larger	
+T-499	risk	risk	colon cancer	colon cancer	of	
 T-499	risk	risk	colon	colon	of	
-T-499	plant foods	plant foods	oatmeal	oatmeal	like cooked beans, peas, lentils, and raw	
-T-499	death	death	united states	united states	in the	
-T-499	poultry	poultry	viruses	viruses	 and other animal products contain 	
-T-499	gooseberries	gooseberries	broccoli	broccoli	 and organic strawberries), 	
-T-499	strawberries	strawberries	apples	apples	), broccoli, black beans, a number of herbal varieties of tea, carob, coffee,	
-T-499	animal products	animal products	bile	bile	stimulates elevated levels of	
-T-499	colon	colon	risk	risk	resulting from a plant-based diet helps lower the	
-T-499	plant-based	plant-based	risk	risk	diet helps lower the	
-T-499	organic	organic	beans	beans	strawberries), broccoli, black	
-T-499	animal products	animal products	cancer	cancer	 contain viruses that are known to cause	
-T-499	gooseberries	gooseberries	organic	organic	 and 	
-T-499	carcinogens	carcinogens	cooking	cooking	created by 	
-T-499	strawberries	strawberries	black beans	black beans	), broccoli, 	
-T-499	plant foods	plant foods	raw	raw	like cooked beans, peas, lentils, and	
-T-499	fish	fish	colon cancer	colon cancer	and eggs may contribute to	
-T-499	colon	colon	cancer	cancer		
-T-499	colon	colon	diet	diet	resulting from a plant-based	
-T-499	strawberries	strawberries	coffee	coffee	), broccoli, black beans, a number of herbal varieties of tea, carob, 	
-T-499	viruses	viruses	cancer	cancer	 that are known to cause	
-T-499	cooking	cooking	cancer	cancer	muscle tissue, are associated with colon	
-T-499	animal protein	animal protein	ammonia	ammonia	putrefies in the colon,	
-T-499	ammonia	ammonia	cancer	cancer	is produced, which is associated with	
-T-499	eggs	eggs	cancer	cancer	may contribute to colon	
-T-499	organic	organic	herbal	herbal	strawberries), broccoli, black beans, a number of 	
-T-499	carcinogens	carcinogens	cancer	cancer	created by cooking muscle tissue, are associated with colon	
-T-499	gooseberries	gooseberries	strawberries	strawberries	 and organic	
-T-499	diet	diet	treatment	treatment	 may be beneficial in the prevention,	
-T-499	diet	diet	risk	risk	helps lower the	
-T-499	plant-based	plant-based	prevention	prevention	diet may be beneficial in the 	
-T-499	animal products	animal products	viruses	viruses	 contain 	
-T-499	berries	berries	black beans	black beans	 (including indian gooseberries and organic strawberries), broccoli, 	
-T-499	gooseberries	gooseberries	tea	tea	 and organic strawberries), broccoli, black beans, a number of herbal varieties of	
-T-499	carcinogens	carcinogens	colon cancer	colon cancer	created by cooking muscle tissue, are associated with	
-T-499	risk	risk	cancer	cancer	of colon	
-T-499	eggs	eggs	colon cancer	colon cancer	may contribute to	
-T-499	ph	ph	plant-based diet	plant-based diet	in the colon resulting from a	
-T-499	saturated fat	saturated fat	bile acids	bile acids	from animal products stimulates elevated levels of	
-T-499	gooseberries	gooseberries	herbal	herbal	 and organic strawberries), broccoli, black beans, a number of 	
-T-499	herbal	herbal	cranberries	cranberries	varieties of tea, carob, coffee, apples, turmeric,	
-T-499	dioxins	dioxins	eggs	eggs	in fish and	
-T-499	resistant starch	resistant starch	plant foods	plant foods	” that comes from	
-T-499	ammonia	ammonia	risk	risk	is produced, which is associated with cancer	
-T-499	plant-based	plant-based	treatment	treatment	diet may be beneficial in the prevention,	
-T-499	berries	berries	strawberries	strawberries	 (including indian gooseberries and organic	
-T-499	ph	ph	plant-based	plant-based	in the colon resulting from a	
-T-499	colon	colon	colon cancer	colon cancer	cancer risk.the rarity of	
-T-499	saturated fat	saturated fat	animal products	animal products	from	
-T-499	cooking	cooking	colon	colon	muscle tissue, are associated with	
-T-499	herbal	herbal	sweet potatoes	sweet potatoes	varieties of tea, carob, coffee, apples, turmeric, cranberries,	
-T-499	fat	fat	animal products	animal products	from	
-T-499	berries	berries	herbal	herbal	 (including indian gooseberries and organic strawberries), broccoli, black beans, a number of 	
+T-499	nitrosamines	nitrosamines	cured meats	cured meats	found in	
+T-499	eggs	eggs	colon	colon	may contribute to	
+T-499	animal products	animal products	bile acids	bile acids	stimulates elevated levels of	
 T-499	plant-based diet	plant-based diet	prevention	prevention	 may be beneficial in the 	
-T-499	berries	berries	indian gooseberries	indian gooseberries	 (including 	
-T-499	cancer	cancer	colon	colon	risk.the rarity of	
-T-499	dioxins	dioxins	fish	fish	in	
-T-499	stool size	stool size	colon cancer	colon cancer	may be an important factor in	
-T-499	protein	protein	colon	colon	putrefies in the	
-T-499	vitamin d	vitamin d	colon cancer	colon cancer	 may also play a role in preventing	
-T-499	herbal	herbal	potatoes	potatoes	varieties of tea, carob, coffee, apples, turmeric, cranberries, sweet	
-T-499	indian gooseberries	indian gooseberries	tea	tea	 and organic strawberries), broccoli, black beans, a number of herbal varieties of	
-T-499	strawberries	strawberries	broccoli	broccoli	), 	
-T-499	herbal	herbal	carob	carob	varieties of tea, 	
-T-499	cancer	cancer	death	death	is the second-leading cause of cancer	
-T-499	fat	fat	bile	bile	from animal products stimulates elevated levels of	
-T-499	ph	ph	colon	colon	in the	
-T-499	indian gooseberries	indian gooseberries	broccoli	broccoli	 and organic strawberries), 	
-T-499	colon cancer	colon cancer	prevention	prevention		
-T-499	herbal	herbal	tea	tea	varieties of	
-T-499	plant foods	plant foods	beans	beans	like cooked	
-T-499	plant-based	plant-based	colon	colon	diet helps lower the risk of	
-T-499	berries	berries	beans	beans	 (including indian gooseberries and organic strawberries), broccoli, black	
-T-499	indian gooseberries	indian gooseberries	beans	beans	 and organic strawberries), broccoli, black	
-T-499	saturated fat	saturated fat	bile	bile	from animal products stimulates elevated levels of	
-T-499	organic	organic	apples	apples	strawberries), broccoli, black beans, a number of herbal varieties of tea, carob, coffee,	
-T-499	cancer	cancer	cancer	cancer	risk.the rarity of colon	
-T-499	fish	fish	colon	colon	and eggs may contribute to	
-T-499	colon	colon	plant-based diet	plant-based diet	resulting from a	
-T-499	indian gooseberries	indian gooseberries	strawberries	strawberries	 and organic	
-T-499	cancer	cancer	carcinogens	carcinogens	.heterocyclic amines,	
-T-499	indian gooseberries	indian gooseberries	herbal	herbal	 and organic strawberries), broccoli, black beans, a number of 	
-T-499	plant foods	plant foods	lentils	lentils	like cooked beans, peas,	
-T-499	dioxins	dioxins	colon cancer	colon cancer	in fish and eggs may contribute to	
-T-499	plant-based	plant-based	colon cancer	colon cancer	diet helps lower the risk of	
-T-499	plant-based	plant-based	diet	diet		
 T-499	fish	fish	eggs	eggs	and	
-T-499	colon cancer	colon cancer	cancer	cancer	is the second-leading cause of	
-T-499	colon	colon	cancer prevention	cancer prevention		
+T-499	animal products	animal products	bile	bile	stimulates elevated levels of	
+T-499	colon	colon	plant-based	plant-based	resulting from a	
+T-499	growth hormone	growth hormone	igf-1	igf-1	called	
+T-499	diet	diet	risk	risk	helps lower the	
 T-499	diet	diet	prevention	prevention	 may be beneficial in the 	
 T-499	nitrosamines	nitrosamines	meats	meats	found in cured	
-T-499	dioxins	dioxins	cancer	cancer	in fish and eggs may contribute to colon	
-T-499	plant-based diet	plant-based diet	bowel movements	bowel movements	 produces the healthiest stools, and leads to consistently larger	
-T-499	organic	organic	carob	carob	strawberries), broccoli, black beans, a number of herbal varieties of tea, 	
-T-499	strawberries	strawberries	carob	carob	), broccoli, black beans, a number of herbal varieties of tea, 	
-T-499	fat	fat	bile acids	bile acids	from animal products stimulates elevated levels of	
-T-499	protein	protein	ammonia	ammonia	putrefies in the colon,	
-T-499	diet	diet	cancer	cancer	 may be beneficial in the prevention, treatment, and even reversal of	
-T-499	poultry	poultry	cancer	cancer	 and other animal products contain viruses that are known to cause	
-T-499	strawberries	strawberries	tea	tea	), broccoli, black beans, a number of herbal varieties of	
-T-499	herbal	herbal	coffee	coffee	varieties of tea, carob, 	
-T-499	plant-based diet	plant-based diet	cancer	cancer	helps lower the risk of colon	
-T-499	dioxins	dioxins	colon	colon	in fish and eggs may contribute to	
-T-499	diet	diet	colon	colon	helps lower the risk of	
-T-499	stool size	stool size	prevention	prevention	may be an important factor in colon cancer	
-T-499	plant-based diet	plant-based diet	colon	colon	helps lower the risk of	
-T-499	lemon	lemon	seeds	seeds	rind and	
-T-499	organic	organic	broccoli	broccoli	strawberries), 	
-T-499	herbal	herbal	nuts	nuts	varieties of tea, carob, coffee, apples, turmeric, cranberries, sweet potatoes,	
-T-499	ph	ph	diet	diet	in the colon resulting from a plant-based	
-T-499	berries	berries	organic	organic	 (including indian gooseberries and 	
-T-499	gooseberries	gooseberries	black beans	black beans	 and organic strawberries), broccoli, 	
-T-499	fish	fish	cancer	cancer	and eggs may contribute to colon	
-T-499	plant foods	plant foods	peas	peas	like cooked beans,	
-T-499	gooseberries	gooseberries	beans	beans	 and organic strawberries), broccoli, black	
-T-499	stool size	stool size	colon	colon	may be an important factor in	
-T-499	organic	organic	black beans	black beans	strawberries), broccoli, 	
-T-499	cancer	cancer	cancer	cancer	is the second-leading cause of	
-T-499	vitamin d	vitamin d	cancer	cancer	 may also play a role in preventing colon	
-T-499	animal protein	animal protein	colon	colon	putrefies in the	
-T-499	colon cancer	colon cancer	death	death	is the second-leading cause of cancer	
-T-499	colon	colon	death	death	cancer is the second-leading cause of cancer	
-T-499	vitamin d	vitamin d	colon	colon	 may also play a role in preventing	
-T-499	organic	organic	strawberries	strawberries		
-T-499	herbal	herbal	turmeric	turmeric	varieties of tea, carob, coffee, apples,	
-T-499	nitrosamines	nitrosamines	cured meats	cured meats	found in	
-T-499	stool size	stool size	cancer prevention	cancer prevention	may be an important factor in colon	
-T-499	herbal	herbal	apples	apples	varieties of tea, carob, coffee,	
-T-499	colon cancer	colon cancer	cancer	cancer	risk.the rarity of colon	
-T-499	colon	colon	plant-based	plant-based	resulting from a	
-T-499	cancer	cancer	risk	risk		
-T-499	plant-based	plant-based	cancer	cancer	diet may be beneficial in the prevention, treatment, and even reversal of	
-T-499	metabolism	metabolism	colon	colon	in the	
-T-499	plant-based diet	plant-based diet	colon cancer	colon cancer	helps lower the risk of	
-T-499	organic	organic	tea	tea	strawberries), broccoli, black beans, a number of herbal varieties of	
-T-499	cancer	cancer	cooking	cooking	.heterocyclic amines, carcinogens created by 	
-T-499	death	death	cancer	cancer	in the united states, behind lung	
+T-499	animal products	animal products	viruses	viruses	 contain 	
+T-499	carcinogens	carcinogens	cooking	cooking	created by 	
+T-499	dioxins	dioxins	fish	fish	in	
+T-499	eggs	eggs	colon cancer	colon cancer	may contribute to	
+T-499	colon	colon	plant-based diet	plant-based diet	resulting from a	
 T-499	plant-based diet	plant-based diet	risk	risk	helps lower the	
-T-499	stool size	stool size	cancer	cancer	may be an important factor in colon	
-T-499	plant-based	plant-based	cancer	cancer	diet helps lower the risk of colon	
-T-499	berries	berries	gooseberries	gooseberries	 (including indian	
-T-499	risk	risk	colon cancer	colon cancer	of	
-T-499	berries	berries	broccoli	broccoli	 (including indian gooseberries and organic strawberries), 	
-T-499	colon cancer	colon cancer	colon	colon	risk.the rarity of	
-T-499	carcinogens	carcinogens	colon	colon	created by cooking muscle tissue, are associated with	
-T-499	eggs	eggs	colon	colon	may contribute to	
-T-499	strawberries	strawberries	beans	beans	), broccoli, black	
-T-499	animal products	animal products	bile acids	bile acids	stimulates elevated levels of	
-T-499	cooking	cooking	colon cancer	colon cancer	muscle tissue, are associated with	
-T-499	indian gooseberries	indian gooseberries	black beans	black beans	 and organic strawberries), broccoli, 	
-T-499	indian gooseberries	indian gooseberries	organic	organic	 and 	
-T-499	plant-based diet	plant-based diet	treatment	treatment	 may be beneficial in the prevention,	
-T-499	diet	diet	cancer	cancer	helps lower the risk of colon	
-T-499	growth hormone	growth hormone	igf-1	igf-1	called	
-T-499	cancer	cancer	colon cancer	colon cancer	risk.the rarity of	
-T-499	colon	colon	prevention	prevention	cancer	
-T-499	strawberries	strawberries	herbal	herbal	), broccoli, black beans, a number of 	
-T-499	diet	diet	colon cancer	colon cancer	helps lower the risk of	
-T-499	raw	raw	oatmeal	oatmeal		
-T-499	colon	colon	nitrosamines	nitrosamines	cancer, as are dangerous compounds called	
-T-499	plant-based diet	plant-based diet	cancer	cancer	 may be beneficial in the prevention, treatment, and even reversal of	
-T-499	cancer	cancer	prevention	prevention		
-T-499	diet	diet	bowel movements	bowel movements	 produces the healthiest stools, and leads to consistently larger	
-T-499	poultry	poultry	animal products	animal products	 and other 	

@@ -1,75 +1,12 @@
 
-A-82	vitamin a	vitamin a	cod liver oil	cod liver oil	in the	
-A-82	fish	fish	dha	dha	tale and should we take epa and	
-A-82	cod	cod	asthma	asthma	liver oil doesn’t lead to	
-A-82	children	children	fish	fish	’s dietary supplements containing	
-A-82	liver	liver	risk	risk	oil supplements may increase their	
-A-82	fish oil	fish oil	children	children	we may not want our	
-A-82	supplements	supplements	fish	fish	made from small, short-lived	
-A-82	tuna	tuna	biomagnification	biomagnification	to reduce the impact of	
-A-82	fish oil	fish oil	fish	fish	and dha: omega-3’s and the eskimo	
-A-82	children	children	fish oil	fish oil	’s	
-A-82	cod liver oil	cod liver oil	supplements	supplements		
-A-82	cod	cod	lead	lead	liver oil doesn’t	
-A-82	liver	liver	lead	lead	oil doesn’t	
-A-82	cod	cod	asthma	asthma	liver oil supplements may increase their risk of	
-A-82	dha	dha	fish	fish	: omega-3’s and the eskimo	
-A-82	anchovies	anchovies	fish	fish	instead of big predator	
-A-82	children	children	supplements	supplements	’s dietary	
-A-82	pcbs	pcbs	supplements	supplements	in children’s fish oil	
-A-82	supplements	supplements	asthma	asthma	may increase their risk of	
-A-82	pcbs	pcbs	fish	fish	in children’s	
-A-82	pcbs	pcbs	fish oil	fish oil	in children’s	
-A-82	fish oil	fish oil	dha	dha	and	
-A-82	cod liver oil	cod liver oil	asthma	asthma	doesn’t lead to	
-A-82	supplements	supplements	anchovies	anchovies	made from small, short-lived fish like	
-A-82	fish	fish	anchovies	anchovies	like	
-A-82	pcb	pcb	chemical pollutants	chemical pollutants		
-A-82	fish oil	fish oil	supplements	supplements		
-A-82	kids	kids	cod	cod		
-A-82	lead	lead	asthma	asthma	to	
-A-82	supplements	supplements	risk	risk	may increase their	
-A-82	fish	fish	children	children	oil supplements, recently looked at 13 over-the-counter	
-A-82	fish	fish	oils	oils		
-A-82	children	children	fish	fish	’s dietary supplements containing the long-chain omega-3’s from	
-A-82	cod	cod	risk	risk	liver oil supplements may increase their	
-A-82	kids	kids	cod liver oil	cod liver oil		
-A-82	supplements	supplements	fish	fish	in: and speaking of which, is	
-A-82	milk	milk	gold	gold	is the	
-A-82	fish	fish	tuna	tuna	like anchovies instead of big predator fish like	
-A-82	fish	fish	dha	dha	oil and	
-A-82	fish	fish	children	children	oil we may not want our	
-A-82	fish oil	fish oil	snake oil	snake oil	just	
+A-82	cod liver oil	cod liver oil	lead	lead	doesn’t	
 A-82	brains	brains	infants	infants	compared to	
 A-82	breast milk	breast milk	gold	gold	is the	
-A-82	kids	kids	supplements	supplements	cod liver oil	
-A-82	pcbs	pcbs	children	children	in	
-A-82	anchovies	anchovies	tuna	tuna	instead of big predator fish like	
-A-82	vitamin a	vitamin a	liver	liver	in the cod	
-A-82	liver	liver	asthma	asthma	oil doesn’t lead to	
-A-82	supplements	supplements	oils	oils	containing the long-chain omega-3’s from fish	
-A-82	pcb	pcb	pollutants	pollutants	chemical	
-A-82	kids	kids	risk	risk	cod liver oil supplements may increase their	
+A-82	supplements	supplements	fish	fish	were labeled as molecularly distilled or how high up the food chain the	
 A-82	supplements	supplements	fish	fish	containing the long-chain omega-3’s from	
-A-82	cod	cod	supplements	supplements	liver oil	
 A-82	risk	risk	asthma	asthma	of	
-A-82	children	children	supplements	supplements	’s fish oil	
-A-82	cod liver oil	cod liver oil	risk	risk	supplements may increase their	
-A-82	children	children	fish	fish	’s	
-A-82	cod	cod	liver	liver		
-A-82	children	children	fish oil	fish oil	’s dietary supplements containing	
-A-82	fish	fish	snake oil	snake oil	oil just	
-A-82	fish	fish	supplements	supplements	oil	
-A-82	liver	liver	supplements	supplements	oil	
-A-82	kids	kids	liver	liver	cod	
-A-82	risk	risk	asthma	asthma	of childhood	
-A-82	fish oil	fish oil	children	children	supplements, recently looked at 13 over-the-counter	
-A-82	pcb	pcb	supplements	supplements	levels whether the	
-A-82	cod liver oil	cod liver oil	lead	lead	doesn’t	
-A-82	pollutants	pollutants	oceans	oceans	that have contaminated our	
-A-82	industrial pollutants	industrial pollutants	oceans	oceans	that have contaminated our	
-A-82	liver	liver	asthma	asthma	oil supplements may increase their risk of	
-A-82	vitamin a	vitamin a	cod	cod	in the	
-A-82	supplements	supplements	fish oil	fish oil	in: and speaking of which, is	
+A-82	pcbs	pcbs	children	children	in	
+A-82	milk	milk	gold	gold	is the	
+A-82	supplements	supplements	risk	risk	may increase their	
 A-82	epa	epa	dha	dha	and	
-A-82	cod liver oil	cod liver oil	asthma	asthma	supplements may increase their risk of	
+A-82	fish oil	fish oil	dha	dha	and	

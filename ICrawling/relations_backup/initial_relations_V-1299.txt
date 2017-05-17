@@ -1,29 +1,5 @@
 
-V-1299	risk	risk	hiatal hernia	hiatal hernia	for	
-V-1299	risk	risk	heart disease	heart disease	for the #1 and #2 killers of americans—	
-V-1299	risk	risk	disease	disease	for the #1 and #2 killers of americans—heart	
-V-1299	disease	disease	cancer	cancer	and	
-V-1299	risk	risk	hemorrhoids	hemorrhoids	for hiatal hernia, varicose veins,	
-V-1299	meat	meat	vegetarians	vegetarians	eaters to 5,000	
-V-1299	americans	americans	cancer	cancer	—heart disease and	
-V-1299	vegetarians	vegetarians	vegans	vegans	and 1,000	
-V-1299	plant foods	plant foods	risk	risk	is about more than just reducing our	
-V-1299	flax	flax	seeds	seeds		
-V-1299	seeds	seeds	plant foods	plant foods	and other whole	
-V-1299	constipation	constipation	hernia	hernia	can increase risk for hiatal	
-V-1299	meat	meat	vegans	vegans	eaters to 5,000 vegetarians and 1,000	
-V-1299	risk	risk	americans	americans	for the #1 and #2 killers of	
-V-1299	risk	risk	hernia	hernia	for hiatal	
-V-1299	americans	americans	heart disease	heart disease	—	
-V-1299	flax seeds	flax seeds	plant foods	plant foods	and other whole	
-V-1299	constipation	constipation	risk	risk	can increase	
-V-1299	fiber	fiber	flax seeds	flax seeds	 in	
-V-1299	constipation	constipation	hiatal hernia	hiatal hernia	can increase risk for	
-V-1299	fiber	fiber	seeds	seeds	 in flax	
-V-1299	constipation	constipation	united states	united states	is the most common gastrointestinal complaint in the	
 V-1299	heart disease	heart disease	cancer	cancer	and	
-V-1299	fiber	fiber	plant foods	plant foods	 in flax seeds and other whole	
-V-1299	fiber	fiber	flax	flax	 in	
-V-1299	flax	flax	plant foods	plant foods	seeds and other whole	
-V-1299	constipation	constipation	hemorrhoids	hemorrhoids	can increase risk for hiatal hernia, varicose veins,	
-V-1299	americans	americans	disease	disease	—heart	
+V-1299	disease	disease	cancer	cancer	and	
+V-1299	constipation	constipation	risk	risk	can increase	
+V-1299	plant foods	plant foods	risk	risk	is about more than just reducing our	

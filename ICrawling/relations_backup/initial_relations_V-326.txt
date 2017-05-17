@@ -1,58 +1,16 @@
 
-V-326	diet	diet	vegetarian	vegetarian	is mainly	
-V-326	plant foods	plant foods	animal fat	animal fat	and low in	
-V-326	disease	disease	ancel keys	ancel keys	in the region, nutrition scientist	
-V-326	pizza	pizza	restaurants	restaurants	or spaghetti with meat sauce, but while “italian	
-V-326	nutrition	nutrition	ancel keys	ancel keys	scientist	
-V-326	produce	produce	vegetarian	vegetarian	the well-established health benefits of	
-V-326	plant-based	plant-based	iron	iron		
-V-326	diet	diet	animal fat	animal fat	rich in whole plant foods and low in	
-V-326	risk	risk	iron	iron	of diabetes, whereas plant-based, non-heme	
+V-326	risk	risk	coronary heart disease	coronary heart disease	of	
 V-326	meat	meat	dairy	dairy	and	
 V-326	variety	variety	mediterranean diet	mediterranean diet	of	
 V-326	phytonutrients	phytonutrients	plant foods	plant foods	in	
-V-326	mediterranean diet	mediterranean diet	diet	diet	is protective compared to the standard american	
-V-326	death	death	risk	risk	and less inflammation, improved arterial function, a lower	
-V-326	plant-based	plant-based	aspirin	aspirin	diets have more plant-based compounds, like	
-V-326	risk	risk	disease	disease	of coronary heart	
-V-326	plant foods	plant foods	fat	fat	and low in animal	
-V-326	disease	disease	nutrition	nutrition	in the region,	
-V-326	meat	meat	dairy	dairy	or	
-V-326	produce	produce	health	health	the well-established	
-V-326	meat	meat	cheese	cheese	and	
-V-326	plant-based diets	plant-based diets	aspirin	aspirin	have more plant-based compounds, like	
-V-326	death	death	inflammation	inflammation	and less	
-V-326	pizza	pizza	meat	meat	or spaghetti with	
-V-326	dairy	dairy	diet	diet	–which keys considered the major villains in the	
-V-326	fat	fat	mediterranean diet	mediterranean diet	content.unfortunately, no one is really eating the traditional	
-V-326	magnesium	magnesium	risk	risk	consumption, also associated with a significantly lower	
-V-326	mediterranean diet	mediterranean diet	diet	diet	can be considered to be a near-vegetarian	
-V-326	health	health	vegetarian	vegetarian	benefits of	
-V-326	risk	risk	heart disease	heart disease	of	
-V-326	plant foods	plant foods	risk	risk	are associated with a significantly lower	
-V-326	variety	variety	diet	diet	of mediterranean	
-V-326	diet	diet	plant foods	plant foods	rich in whole	
-V-326	diet	diet	meat	meat	is mainly vegetarian, much lower in	
-V-326	saturated fat	saturated fat	mediterranean diet	mediterranean diet	content.unfortunately, no one is really eating the traditional	
-V-326	diet	diet	dairy	dairy	is mainly vegetarian, much lower in meat and	
-V-326	mediterranean diet	mediterranean diet	meat	meat	is mainly vegetarian, much lower in	
-V-326	risk	risk	coronary heart disease	coronary heart disease	of	
-V-326	heart disease	heart disease	nutrition	nutrition	in the region,	
-V-326	heart disease	heart disease	iron	iron	: animal-based	
 V-326	diet	diet	standard american diet	standard american diet	is protective compared to the	
-V-326	risk	risk	disease	disease	of heart	
+V-326	diet	diet	vegetarian	vegetarian	is mainly	
 V-326	mediterranean diet	mediterranean diet	standard american diet	standard american diet	is protective compared to the	
-V-326	risk	risk	diabetes	diabetes	of developing type 2	
 V-326	plant-based diets	plant-based diets	plant-based	plant-based	have more	
-V-326	heart disease	heart disease	ancel keys	ancel keys	in the region, nutrition scientist	
-V-326	meat	meat	restaurants	restaurants	sauce, but while “italian	
-V-326	risk	risk	vegetables	vegetables	of dying, is found in dark green leafy	
-V-326	risk	risk	cancer	cancer	of heart disease, lower risk of	
-V-326	disease	disease	iron	iron	: animal-based	
+V-326	risk	risk	heart disease	heart disease	of	
+V-326	meat	meat	dairy	dairy	or	
+V-326	plant foods	plant foods	risk	risk	are associated with a significantly lower	
+V-326	meat	meat	cheese	cheese	and	
 V-326	mediterranean diet	mediterranean diet	vegetarian	vegetarian	is mainly	
-V-326	mediterranean diet	mediterranean diet	dairy	dairy	is mainly vegetarian, much lower in meat and	
+V-326	diet	diet	meat	meat	differed from that of the general population: they ate	
 V-326	iron	iron	risk	risk	was found to significantly increase the	
-V-326	restaurants	restaurants	diet	diet	brag about the healthy mediterranean 	
-V-326	iron	iron	coronary heart disease	coronary heart disease	was found to significantly increase the risk of	
-V-326	risk	risk	leafy vegetables	leafy vegetables	of dying, is found in dark green	
-V-326	risk	risk	heart disease	heart disease	of coronary	

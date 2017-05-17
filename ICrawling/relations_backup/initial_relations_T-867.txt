@@ -1,132 +1,26 @@
 
-T-867	greens	greens	risk	risk	appears to reduce the	
 T-867	greens	greens	sulforaphane	sulforaphane	can boost	
-T-867	leafy vegetables	leafy vegetables	kidney	kidney	may also reduce risk for breast cancer,	
-T-867	mustard powder	mustard powder	greens	greens	o cooked	
-T-867	calcium	calcium	vegetables	vegetables	in dark green leafy	
-T-867	nitrates	nitrates	plant-based diet	plant-based diet	from a	
-T-867	risk	risk	kidney cancer	kidney cancer	for breast cancer,	
-T-867	cardiac disease	cardiac disease	heart attack	heart attack	 and	
-T-867	dental	dental	health	health		
-T-867	raw	raw	greens	greens	vegetables, including	
-T-867	greens	greens	antioxidants	antioxidants	can also provide iron and zinc,	
-T-867	leafy vegetables	leafy vegetables	plant-based	plant-based	are the best source of	
-T-867	diet	diet	heart attack	heart attack	that could reduce risk for cardiac disease  and	
-T-867	kidney	kidney	lymphoma	lymphoma	cancer, and	
-T-867	plant-based	plant-based	greens	greens	diets, including	
-T-867	risk	risk	kidney stones	kidney stones	of gout and	
-T-867	greens	greens	plant-based	plant-based	can be an important part of a	
-T-867	risk	risk	disease	disease	for cardiac	
-T-867	nitric oxide	nitric oxide	plant-based	plant-based	formed from	
-T-867	americans	americans	vegetables	vegetables	could not meet the recommended minimum for	
-T-867	fats	fats	nuts	nuts	like	
-T-867	risk	risk	depression	depression	of	
-T-867	vegetables	vegetables	plant-based	plant-based	are the best source of	
-T-867	nitrates	nitrates	plant-based	plant-based	from a	
-T-867	nuts	nuts	seeds	seeds	or	
-T-867	diet	diet	risk	risk	that could reduce	
-T-867	plant-based	plant-based	nitrate	nitrate		
-T-867	calcium	calcium	leafy vegetables	leafy vegetables	in dark green	
-T-867	nitrates	nitrates	diet	diet	from a plant-based	
-T-867	greens	greens	glaucoma	glaucoma	appears to reduce the risk of	
-T-867	leafy vegetables	leafy vegetables	cancer	cancer	may also reduce risk for breast	
-T-867	kidney	kidney	risk	risk	cancer, and lymphoma, and overall cancer	
-T-867	fat	fat	fats	fats	soluble, which means including some healthy whole food	
+T-867	plant foods	plant foods	health	health	is likely better for your	
+T-867	leafy vegetables	leafy vegetables	milk	milk	is more effectively absorbed by the body than that found in cow’s	
+T-867	iron	iron	zinc	zinc	and	
+T-867	lutein	lutein	zeaxanthin	zeaxanthin	and	
 T-867	cataracts	cataracts	macular degeneration	macular degeneration	and	
-T-867	nitric oxide	nitric oxide	nitrate	nitrate	formed from plant-based	
 T-867	disease	disease	high blood pressure	high blood pressure	and	
 T-867	gout	gout	kidney stones	kidney stones	and	
-T-867	gout	gout	kidney	kidney	and	
-T-867	dna	dna	greens	greens	damage.two or more daily servings of	
-T-867	greens	greens	anti-inflammatory	anti-inflammatory	may be	
-T-867	risk	risk	heart disease	heart disease	of a range of health concerns including diabetes,	
-T-867	prevention	prevention	disease	disease	of heart	
-T-867	health	health	sudden cardiac death	sudden cardiac death	concerns including diabetes, heart disease, and	
-T-867	risk	risk	kidney	kidney	for breast cancer,	
-T-867	greens	greens	iron	iron	can also provide	
-T-867	risk	risk	cardiac disease	cardiac disease	for	
-T-867	heart disease	heart disease	high blood pressure	high blood pressure	and	
-T-867	dental	dental	immune system	immune system	health, better	
-T-867	plant-based	plant-based	cardiac disease	cardiac disease	diet that could reduce risk for	
-T-867	risk	risk	health	health	of a range of	
-T-867	risk	risk	greens	greens	of depression, in	
-T-867	plant-based	plant-based	prevention	prevention	nitrate may play a role in the	
-T-867	health	health	supplements	supplements	than taking	
-T-867	risk	risk	lymphoma	lymphoma	for breast cancer, kidney cancer, and	
-T-867	iron	iron	magnesium	magnesium	and zinc, antioxidants, and	
-T-867	vegetables	vegetables	risk	risk	may also reduce	
-T-867	greens	greens	organic greens	organic greens	may be healthier than non-	
-T-867	nitrate	nitrate	heart disease	heart disease	may play a role in the prevention of	
-T-867	diet	diet	cardiac disease	cardiac disease	that could reduce risk for	
-T-867	vegetables	vegetables	kidney cancer	kidney cancer	may also reduce risk for breast cancer,	
-T-867	greens	greens	organic	organic	may be healthier than non-	
-T-867	plant-based	plant-based	nitrates	nitrates		
-T-867	greens	greens	zinc	zinc	can also provide iron and	
-T-867	prevention	prevention	blood pressure	blood pressure	of heart disease and high	
-T-867	health	health	heart disease	heart disease	concerns including diabetes,	
-T-867	plant foods	plant foods	health	health	is likely better for your	
-T-867	plant-based diet	plant-based diet	risk	risk	that could reduce	
-T-867	greens	greens	supplements	supplements	appears preferable to folic acid	
-T-867	plant-based	plant-based	diet	diet		
-T-867	risk	risk	cancer	cancer	for breast	
-T-867	lutein	lutein	zeaxanthin	zeaxanthin	and	
-T-867	iron	iron	antioxidants	antioxidants	and zinc,	
-T-867	health	health	cardiac death	cardiac death	concerns including diabetes, heart disease, and sudden	
-T-867	health	health	disease	disease	concerns including diabetes, heart	
-T-867	leafy vegetables	leafy vegetables	nitrates	nitrates	are the best source of plant-based	
-T-867	risk	risk	breast cancer	breast cancer	for	
 T-867	risk	risk	glaucoma	glaucoma	of	
-T-867	prevention	prevention	high blood pressure	high blood pressure	of heart disease and	
-T-867	plant foods	plant foods	supplements	supplements	is likely better for your health than taking	
-T-867	risk	risk	kidney	kidney	of gout and	
-T-867	risk	risk	folic acid	folic acid	of depression, in greens appears preferable to	
-T-867	leafy vegetables	leafy vegetables	breast cancer	breast cancer	may also reduce risk for	
-T-867	prevention	prevention	blood	blood	of heart disease and high	
-T-867	lutein	lutein	greens	greens	and zeaxanthin, nutrients found	
-T-867	folic acid	folic acid	supplements	supplements		
-T-867	greens	greens	magnesium	magnesium	can also provide iron and zinc, antioxidants, and	
-T-867	plant-based diet	plant-based diet	cardiac disease	cardiac disease	that could reduce risk for	
-T-867	risk	risk	heart attack	heart attack	for cardiac disease  and	
-T-867	nitrate	nitrate	prevention	prevention	may play a role in the	
-T-867	organic greens	organic greens	greens	greens	may be healthier than non-organic	
-T-867	anti-inflammatory	anti-inflammatory	disease	disease	and may prevent strokes and heart	
-T-867	heart disease	heart disease	blood pressure	blood pressure	and high	
-T-867	disease	disease	heart attack	heart attack	 and	
-T-867	health	health	diabetes	diabetes	concerns including	
-T-867	vegetables	vegetables	nitrates	nitrates	are the best source of plant-based	
-T-867	kidney	kidney	cancer	cancer		
-T-867	mustard powder	mustard powder	sulforaphane	sulforaphane	o cooked greens can boost	
-T-867	heart disease	heart disease	blood	blood	and high	
-T-867	organic	organic	organic greens	organic greens	greens may be healthier than non-	
-T-867	plant-based diet	plant-based diet	heart attack	heart attack	that could reduce risk for cardiac disease  and	
-T-867	greens	greens	folic acid	folic acid	appears preferable to	
-T-867	leafy vegetables	leafy vegetables	risk	risk	may also reduce	
-T-867	iron	iron	zinc	zinc	and	
-T-867	disease	disease	blood	blood	and high	
-T-867	risk	risk	diabetes	diabetes	of a range of health concerns including	
-T-867	potassium	potassium	greens	greens	from	
+T-867	gout	gout	kidney	kidney	and	
 T-867	greens	greens	plant-based diet	plant-based diet	can be an important part of a	
-T-867	diet	diet	disease	disease	that could reduce risk for cardiac	
-T-867	smoothies	smoothies	juice	juice	(not made from	
-T-867	greens	greens	vegetables	vegetables	are considered one of the healthiest	
-T-867	disease	disease	blood pressure	blood pressure	and high	
-T-867	plant-based	plant-based	risk	risk	diet that could reduce	
-T-867	vegetables	vegetables	kidney	kidney	may also reduce risk for breast cancer,	
-T-867	greens	greens	diet	diet	can be an important part of a plant-based	
-T-867	potassium	potassium	anti-inflammatory	anti-inflammatory	from greens may be	
-T-867	health	health	greens	greens	benefits from wild	
+T-867	vegetables	vegetables	milk	milk	is more effectively absorbed by the body than that found in cow’s	
+T-867	leafy vegetables	leafy vegetables	plant-based	plant-based	are the best source of	
+T-867	greens	greens	anti-inflammatory	anti-inflammatory	may be	
+T-867	heart disease	heart disease	high blood pressure	high blood pressure	and	
+T-867	greens	greens	plant-based	plant-based	can be an important part of a	
 T-867	greens	greens	fat	fat	are	
-T-867	vegetables	vegetables	breast cancer	breast cancer	may also reduce risk for	
 T-867	prevention	prevention	heart disease	heart disease	of	
-T-867	leafy vegetables	leafy vegetables	kidney cancer	kidney cancer	may also reduce risk for breast cancer,	
-T-867	organic greens	organic greens	organic	organic	may be healthier than non-	
-T-867	fats	fats	seeds	seeds	like nuts or	
-T-867	plant-based diet	plant-based diet	disease	disease	that could reduce risk for cardiac	
-T-867	anti-inflammatory	anti-inflammatory	heart disease	heart disease	and may prevent strokes and	
-T-867	health	health	death	death	concerns including diabetes, heart disease, and sudden cardiac	
-T-867	greens	greens	heart disease	heart disease	may be anti-inflammatory and may prevent strokes and	
-T-867	organic	organic	greens	greens		
+T-867	nitric oxide	nitric oxide	plant-based	plant-based	formed from	
+T-867	americans	americans	vegetables	vegetables	could not meet the recommended minimum for	
+T-867	nitrate	nitrate	prevention	prevention	may play a role in the	
 T-867	risk	risk	gout	gout	of	
-T-867	plant-based	plant-based	disease	disease	diet that could reduce risk for cardiac	
-T-867	vegetables	vegetables	cancer	cancer	may also reduce risk for breast	
-T-867	raw	raw	vegetables	vegetables		
+T-867	risk	risk	depression	depression	of	
+T-867	vegetables	vegetables	plant-based	plant-based	are the best source of	
+T-867	nuts	nuts	seeds	seeds	or	

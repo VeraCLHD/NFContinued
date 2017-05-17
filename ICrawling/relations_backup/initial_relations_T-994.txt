@@ -1,58 +1,13 @@
 
-T-994	semen	semen	fruits	fruits	quality in humans, while some	
-T-994	women	women	infertility	infertility	’s	
-T-994	soda	soda	obesity	obesity	linked to	
-T-994	pollutants	pollutants	fat	fat	that build up in animal	
-T-994	bacon	bacon	hot dogs	hot dogs	and	
-T-994	women	women	bacon	bacon	’s infertility risk more than 50 percent—worse than	
-T-994	risk	risk	endometriosis	endometriosis	of	
-T-994	pregnant	pregnant	women	women		
-T-994	saturated fat	saturated fat	meat	meat	–laden foods like	
-T-994	meat	meat	milk	milk	products and	
-T-994	pregnant women	pregnant women	meat	meat	may want to stay away from all	
-T-994	saturated fat	saturated fat	milk	milk	–laden foods like meat products and	
-T-994	meat	meat	hormones	hormones	because it is so packed with sex steroid	
-T-994	meat	meat	semen	semen	products and milk may negatively affect	
-T-994	women	women	risk	risk	’s infertility	
-T-994	fat	fat	milk	milk	–laden foods like meat products and	
-T-994	meat	meat	steroid hormones	steroid hormones	because it is so packed with sex	
-T-994	bacon	bacon	dogs	dogs	and hot	
-T-994	risk	risk	infertility	infertility	of endometriosis.	
-T-994	beans	beans	infertility	infertility	—may reduce	
-T-994	pollutants	pollutants	animal fat	animal fat	that build up in	
-T-994	industrial pollutants	industrial pollutants	animal fat	animal fat	that build up in	
-T-994	protein	protein	infertility	infertility	with vegetable sources of protein—like beans—may reduce	
-T-994	chicken	chicken	women	women	a day (half a chicken breast) may increase	
-T-994	soy	soy	risk	risk	food consumption may reduce the	
-T-994	industrial pollutants	industrial pollutants	fish	fish	that build up in animal fat, particularly	
 T-994	fertility	fertility	sperm count	sperm count	is not just about	
-T-994	fruits	fruits	vegetables	vegetables	and	
-T-994	infertility	infertility	chicken	chicken	risk 40 percent; however, eating one serving of	
-T-994	pregnant	pregnant	meat	meat	women may want to stay away from all	
-T-994	fat	fat	sperm count	sperm count	intake, the lower the	
-T-994	women	women	meat	meat	may want to stay away from all	
-T-994	soy	soy	endometriosis	endometriosis	food consumption may reduce the risk of	
-T-994	pollutants	pollutants	fish	fish	that build up in animal fat, particularly	
-T-994	semen	semen	vegetables	vegetables	quality in humans, while some fruits and	
-T-994	protein	protein	beans	beans	with vegetable sources of protein—like	
-T-994	soy	soy	infertility	infertility	food consumption may reduce the risk of endometriosis.	
-T-994	meat	meat	infertility	infertility	increases	
-T-994	red meat	red meat	risk	risk	increases infertility	
-T-994	animal protein	animal protein	growth hormone	growth hormone	intake increases the levels of a	
-T-994	meat	meat	infertility	infertility	intake is associated with	
-T-994	risk	risk	chicken	chicken	40 percent; however, eating one serving of	
-T-994	steroid hormones	steroid hormones	meat	meat	that eating	
-T-994	beans	beans	risk	risk	—may reduce infertility	
-T-994	hormones	hormones	meat	meat	that eating	
-T-994	protein	protein	risk	risk	with vegetable sources of protein—like beans—may reduce infertility	
-T-994	infertility	infertility	risk	risk		
-T-994	vegetables	vegetables	semen	semen	may maintain or improve	
-T-994	industrial pollutants	industrial pollutants	fat	fat	that build up in animal	
-T-994	growth hormone	growth hormone	igf-1	igf-1	called	
+T-994	soda	soda	obesity	obesity	linked to	
+T-994	pregnant women	pregnant women	meat	meat	may want to stay away from all	
 T-994	red meat	red meat	infertility	infertility	increases	
-T-994	saturated fat	saturated fat	sperm count	sperm count	intake, the lower the	
+T-994	women	women	meat	meat	may want to stay away from all	
+T-994	vegetables	vegetables	semen	semen	may maintain or improve	
+T-994	meat	meat	infertility	infertility	increases	
 T-994	milk	milk	semen	semen	may negatively affect	
-T-994	fat	fat	meat	meat	–laden foods like	
-T-994	meat	meat	risk	risk	increases infertility	
-T-994	fruits	fruits	semen	semen	and vegetables may maintain or improve	
-T-994	protein	protein	growth hormone	growth hormone	intake increases the levels of a	
+T-994	fruits	fruits	vegetables	vegetables	and	
+T-994	bacon	bacon	hot dogs	hot dogs	and	
+T-994	risk	risk	endometriosis	endometriosis	of	
+T-994	growth hormone	growth hormone	igf-1	igf-1	called	

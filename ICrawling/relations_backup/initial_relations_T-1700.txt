@@ -1,35 +1,5 @@
 
-T-1700	fiber	fiber	phytonutrients	phytonutrients	and the	
-T-1700	fruit	fruit	fiber	fiber	juice as of the many health benefits of	
-T-1700	health	health	phytonutrients	phytonutrients	benefits of fiber and the	
-T-1700	flax seeds	flax seeds	appetite	appetite	to smoothies might help suppress	
-T-1700	fruit juice	fruit juice	fiber	fiber	as of the many health benefits of	
-T-1700	smoothies	smoothies	cholesterol	cholesterol	might help suppress appetite and lower	
-T-1700	seeds	seeds	cholesterol	cholesterol	to smoothies might help suppress appetite and lower	
-T-1700	seeds	seeds	smoothies	smoothies	to	
-T-1700	fruit	fruit	teeth	teeth	and vegetable cell walls better than our	
-T-1700	health	health	fiber	fiber	benefits of	
-T-1700	smoothies	smoothies	appetite	appetite	might help suppress	
-T-1700	ground flax	ground flax	appetite	appetite	seeds to smoothies might help suppress	
-T-1700	flax	flax	seeds	seeds		
-T-1700	juice	juice	fiber	fiber	as of the many health benefits of	
-T-1700	seeds	seeds	appetite	appetite	to smoothies might help suppress	
-T-1700	amla	amla	antioxidant	antioxidant	powder added to a smoothie may significantly boost	
-T-1700	flax seeds	flax seeds	smoothies	smoothies	to	
-T-1700	mouth	mouth	water	water	with	
-T-1700	juice	juice	health	health	as of the many	
-T-1700	phytonutrients	phytonutrients	fiber	fiber	may be attached to	
-T-1700	flax	flax	smoothies	smoothies	seeds to	
-T-1700	ground flax	ground flax	smoothies	smoothies	seeds to	
-T-1700	fruit	fruit	health	health	juice as of the many	
-T-1700	appetite	appetite	cholesterol	cholesterol	and lower	
-T-1700	fruits	fruits	fruit juice	fruit juice	rather than extracted	
-T-1700	fruits	fruits	juice	juice	rather than extracted fruit	
-T-1700	fruit juice	fruit juice	health	health	as of the many	
-T-1700	ground flax	ground flax	seeds	seeds		
-T-1700	amla	amla	antioxidant content	antioxidant content	powder added to a smoothie may significantly boost	
-T-1700	flax seeds	flax seeds	cholesterol	cholesterol	to smoothies might help suppress appetite and lower	
-T-1700	fruits	fruits	fruit	fruit	rather than extracted	
-T-1700	fruit	fruit	juice	juice		
 T-1700	fruits	fruits	vegetables	vegetables	and	
-T-1700	flax	flax	appetite	appetite	seeds to smoothies might help suppress	
+T-1700	smoothies	smoothies	fruits	fruits	may be an excellent way to increase one’s intake of	
+T-1700	phytonutrients	phytonutrients	fiber	fiber	may be attached to	
+T-1700	smoothies	smoothies	appetite	appetite	might help suppress	

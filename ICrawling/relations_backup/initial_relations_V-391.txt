@@ -1,14 +1,6 @@
 
-V-391	turmeric	turmeric	curcumin	curcumin	in its medicinal value better than	
 V-391	irritability	irritability	accidents	accidents	were relieved and she had less	
-V-391	phytochemicals	phytochemicals	turmeric	turmeric	found in	
-V-391	supplements	supplements	turmeric	turmeric	rather than	
-V-391	treatment	treatment	dementia	dementia	of the behavioral and psychological symptom of	
-V-391	curcumin	curcumin	supplements	supplements		
-V-391	curcumin	curcumin	turmeric	turmeric	supplements rather than	
 V-391	turmeric	turmeric	treatment	treatment	may be effective and safe for the	
+V-391	phytochemicals	phytochemicals	turmeric	turmeric	found in	
 V-391	turmeric	turmeric	anxiety	anxiety	though, her agitation, apathy,	
 V-391	curcumin	curcumin	phytochemicals	phytochemicals	is just one of hundreds of	
-V-391	dementia	dementia	disease	disease	in alzheimer's	
-V-391	turmeric	turmeric	irritability	irritability	though, her agitation, apathy, anxiety, and	
-V-391	disease	disease	turmeric	turmeric	with the spice	

@@ -1,59 +1,11 @@
 
-T-716	chicken	chicken	bacteria	bacteria	is often infected with superbug	
-T-716	chicken	chicken	bladder	bladder	has been linked to utis (	
-T-716	organic milk	organic milk	manure	manure	) tainted with antibiotics,	
-T-716	milk	milk	organic milk	organic milk	(including in some cases	
-T-716	salmonella	salmonella	influenza	influenza	and avian	
-T-716	pus	pus	hormones	hormones	cells as well as	
-T-716	chicken	chicken	women	women	has been linked to utis (bladder infections) in	
-T-716	bacteria	bacteria	yersinia	yersinia	such as clostridium difficile,  	
-T-716	mad cow disease	mad cow disease	fda	fda	prions.the	
-T-716	milk	milk	organic	organic	(including in some cases	
-T-716	calories	calories	fat	fat	and	
-T-716	salmonella	salmonella	chicken	chicken	found in retail	
-T-716	antibiotics	antibiotics	farmers	farmers	by	
-T-716	e. coli	e. coli	bladder	bladder	from chicken has been linked to utis (	
-T-716	infections	infections	women	women	) in	
-T-716	drugs	drugs	bacteria	bacteria	leads to antibiotic resistant	
-T-716	organic milk	organic milk	pus	pus	) tainted with antibiotics, manure,	
-T-716	organic	organic	antibiotics	antibiotics	milk) tainted with	
-T-716	fish	fish	toxins	toxins	may also be contaminated with industrial	
-T-716	disease	disease	antibiotics	antibiotics	prions.the fda issued voluntary guidance to remove nontherapeutic	
-T-716	fda	fda	drugs	drugs	estimates 80% of available antimicrobial	
-T-716	e. coli	e. coli	chicken	chicken	from	
-T-716	treatment	treatment	fda	fda	drugs according to a 2013	
-T-716	organic milk	organic milk	antibiotics	antibiotics	) tainted with	
-T-716	chicken	chicken	infections	infections	has been linked to utis (bladder	
-T-716	mad cow disease	mad cow disease	antibiotics	antibiotics	prions.the fda issued voluntary guidance to remove nontherapeutic	
-T-716	treatment	treatment	drugs	drugs		
-T-716	organic	organic	chicken	chicken		
-T-716	chicken	chicken	bladder infections	bladder infections	has been linked to utis (	
-T-716	bladder	bladder	women	women	infections) in	
-T-716	organic	organic	bacteria	bacteria	chicken is often infected with superbug	
 T-716	fda	fda	antimicrobial drugs	antimicrobial drugs	estimates 80% of available	
-T-716	milk	milk	antibiotics	antibiotics	(including in some cases organic milk) tainted with	
-T-716	organic	organic	milk	milk		
-T-716	pathogens	pathogens	salmonella	salmonella	such as	
-T-716	e. coli	e. coli	bladder infections	bladder infections	from chicken has been linked to utis (	
-T-716	mrsa	mrsa	meat	meat	that are too often found in retail	
-T-716	meat	meat	fat	fat	is also high in calories and	
-T-716	organic	organic	manure	manure	milk) tainted with antibiotics,	
-T-716	disease	disease	fda	fda	prions.the	
-T-716	drugs	drugs	meat	meat	according to a 2013 fda retail	
-T-716	fda	fda	meat	meat	retail	
-T-716	meat	meat	calories	calories	is also high in	
-T-716	bladder	bladder	infections	infections		
-T-716	bacteria	bacteria	mrsa	mrsa	such as clostridium difficile,  yersinia, and	
-T-716	bladder infections	bladder infections	women	women	) in	
-T-716	pathogens	pathogens	influenza	influenza	such as salmonella and avian	
 T-716	drugs	drugs	farm animals	farm animals	are used for	
 T-716	e. coli	e. coli	arsenic	arsenic	and	
 T-716	agriculture	agriculture	milk	milk	has brought us commercial	
 T-716	drugs	drugs	fda	fda	according to a 2013	
-T-716	treatment	treatment	meat	meat	drugs according to a 2013 fda retail	
-T-716	meat	meat	industrial pollutants	industrial pollutants	supply has been found to be contaminated with	
-T-716	fda	fda	antibiotics	antibiotics	issued voluntary guidance to remove nontherapeutic	
-T-716	organic	organic	pus	pus	milk) tainted with antibiotics, manure,	
-T-716	fish	fish	industrial toxins	industrial toxins	may also be contaminated with	
-T-716	e. coli	e. coli	infections	infections	from chicken has been linked to utis (bladder	
+T-716	chicken	chicken	e. coli	e. coli	is often tainted with fecal residues as well as	
+T-716	calories	calories	fat	fat	and	
 T-716	antimicrobial drugs	antimicrobial drugs	farm animals	farm animals	are used for	
+T-716	fda	fda	drugs	drugs	estimates 80% of available antimicrobial	
+T-716	salmonella	salmonella	chicken	chicken	found in retail	

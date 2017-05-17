@@ -1,36 +1,8 @@
 
-V-257	energy	energy	capsaicin	capsaicin	expenditure, specific food components, such as	
-V-257	calories	calories	energy	energy	and fat.there was a significant rise in	
+V-257	pepper	pepper	ginger	ginger	and	
 V-257	physical activity	physical activity	energy expenditure	energy expenditure	is usually recommended to increase	
-V-257	babies	babies	burning	burning	and small children, generating heat by	
-V-257	variety	variety	soy foods	soy foods	of mechanisms, which just means eating more	
-V-257	soy	soy	nuts	nuts	foods, seeds,	
-V-257	peppers	peppers	physical activity	physical activity	hot.whereas increased	
-V-257	calories	calories	energy expenditure	energy expenditure	and fat.there was a significant rise in	
-V-257	japanese	japanese	fat	fat	women, and you can boost the	
-V-257	pain	pain	stomach	stomach	on our tongues, and sometimes in our	
-V-257	energy expenditure	energy expenditure	brown fat	brown fat	in human individuals with	
 V-257	fat	fat	energy	energy	.there was a significant rise in	
 V-257	physical activity	physical activity	energy	energy	is usually recommended to increase	
 V-257	fat	fat	energy expenditure	energy expenditure	.there was a significant rise in	
-V-257	fat	fat	burning	burning		
-V-257	burning	burning	fat	fat		
 V-257	calories	calories	fat	fat	and	
-V-257	energy	energy	brown fat	brown fat	expenditure in human individuals with	
 V-257	black pepper	black pepper	ginger	ginger	and	
-V-257	jalapeno	jalapeno	calories	calories	pepper.normally, when we cut down on	
-V-257	japanese	japanese	women	women		
-V-257	babies	babies	fat	fat	and small children, generating heat by burning	
-V-257	brown fat	brown fat	cold	cold	is present in adult humans, involved in	
-V-257	jalapeno	jalapeno	metabolism	metabolism	pepper.normally, when we cut down on calories, our	
-V-257	energy expenditure	energy expenditure	fat	fat	in human individuals with brown	
-V-257	lead	lead	body fat	body fat	to a significant reduction in	
-V-257	pepper	pepper	ginger	ginger	and	
-V-257	soy	soy	seeds	seeds	foods,	
-V-257	babies	babies	children	children	and small	
-V-257	metabolism	metabolism	weight loss	weight loss	slows down, undercutting our	
-V-257	energy	energy	fat	fat	expenditure in human individuals with brown	
-V-257	soy	soy	beans	beans	foods, seeds, nuts, and	
-V-257	lead	lead	fat	fat	to a significant reduction in body	
-V-257	variety	variety	soy	soy	of mechanisms, which just means eating more	
-V-257	pepper	pepper	cayenne pepper	cayenne pepper	powder.we've known for decades that	

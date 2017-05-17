@@ -1,7 +1,0 @@
-
-V-799	fish	fish	toxins	toxins		
-V-799	cdc	cdc	infectious diseases	infectious diseases	journal, emerging	
-V-799	sushi	sushi	fish	fish	worm found living in someone’s stomach, or a swallowed	
-V-799	eggs	eggs	parasites	parasites	that hatch in our intestines into wormlike, bloodsucking	
-V-799	sushi	sushi	stomach	stomach	worm found living in someone’s	
-V-799	tongue worm	tongue worm	eye	eye	in human	

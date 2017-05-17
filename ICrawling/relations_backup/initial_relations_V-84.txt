@@ -1,20 +1,6 @@
 
-V-84	hypertension	hypertension	plant-based	plant-based	—would seem to make the case for	
-V-84	physicians	physicians	cigarettes	cigarettes	themselves smoked	
 V-84	animal foods	animal foods	processed foods	processed foods	and	
-V-84	plant-based	plant-based	doctors	doctors	eating simply overwhelming.so, why don’t more	
-V-84	surgeon general	surgeon general	smoking	smoking	’s report against	
-V-84	diet	diet	women	women	could do—reverse the number one killer of men and	
-V-84	tobacco	tobacco	doctors	doctors	industry—but why weren’t individual	
-V-84	heart disease	heart disease	diet	diet	in the majority of patients—a	
-V-84	disease	disease	diet	diet	in the majority of patients—a	
-V-84	plant-based	plant-based	diet	diet		
-V-84	dr. kim williams	dr. kim williams	american college of cardiology	american college of cardiology	became president of the	
-V-84	american medical association	american medical association	surgeon general	surgeon general	actually went on record refusing to endorse the	
-V-84	cigarettes	cigarettes	physicians	physicians	—just like the majority of	
 V-84	plant-based diet	plant-based diet	women	women	could do—reverse the number one killer of men and	
 V-84	ama	ama	tobacco	tobacco	may have been sucking up to the	
-V-84	cdc	cdc	surgery	surgery	encourages people not to wait for open heart	
-V-84	diet	diet	heart disease	heart disease	that’s ever been proven to reverse	
-V-84	surgeon general	surgeon general	medical community	medical community	’s report came out, the	
-V-84	diet	diet	disease	disease	that’s ever been proven to reverse heart	
+V-84	diet	diet	women	women	could do—reverse the number one killer of men and	
+V-84	dr. kim williams	dr. kim williams	american college of cardiology	american college of cardiology	became president of the	

@@ -1,88 +1,17 @@
 
-T-1384	preservatives	preservatives	pancreatic cancer	pancreatic cancer	in processed meat have been significantly associated with	
-T-1384	viruses	viruses	death	death	in poultry may explain increased risks of	
-T-1384	nitrite	nitrite	preservatives	preservatives		
-T-1384	bacon	bacon	chicken	chicken	and	
-T-1384	fat	fat	herbal	herbal	and animal protein with pancreatic cancer.the ayurvedic	
-T-1384	chronic inflammation	chronic inflammation	lead	lead	of the pancreas, may	
-T-1384	animal fat	animal fat	herbal	herbal	and animal protein with pancreatic cancer.the ayurvedic	
-T-1384	animal fat	animal fat	cancer	cancer	and animal protein with pancreatic	
-T-1384	plant-based diet	plant-based diet	cancer	cancer	may be an effective way of preventing	
-T-1384	plant-based	plant-based	diet	diet		
-T-1384	lead	lead	pancreatic cancer	pancreatic cancer	to	
-T-1384	viruses	viruses	poultry	poultry	in	
-T-1384	nitrite	nitrite	processed meat	processed meat	preservatives in	
-T-1384	meat	meat	cancer	cancer	have been significantly associated with pancreatic	
-T-1384	pancreatic cancer	pancreatic cancer	nitrite	nitrite	.the	
-T-1384	processed meat	processed meat	pancreatic cancer	pancreatic cancer	have been significantly associated with	
-T-1384	cancer	cancer	pancreatic cancer	pancreatic cancer	cells, including those of	
-T-1384	nuts	nuts	pancreatic cancer	pancreatic cancer	per week may help protect against	
-T-1384	processed meat	processed meat	cancer	cancer	have been significantly associated with pancreatic	
-T-1384	inflammation	inflammation	lead	lead	of the pancreas, may	
-T-1384	chicken	chicken	risk	risk	consumption may significantly increase the	
-T-1384	animal fat	animal fat	protein	protein	and animal	
-T-1384	nutrition	nutrition	fat	fat	ever has linked the consumption of animal	
-T-1384	nitrite preservatives	nitrite preservatives	pancreatic cancer	pancreatic cancer	in processed meat have been significantly associated with	
-T-1384	risk	risk	cancer	cancer	of different cancers, including pancreatic	
-T-1384	risk	risk	pancreatic cancer	pancreatic cancer	of different cancers, including	
-T-1384	animal protein	animal protein	pancreatic cancer	pancreatic cancer	with	
-T-1384	chicken	chicken	cancer	cancer	consumption may significantly increase the risk of pancreatic	
-T-1384	nitrite preservatives	nitrite preservatives	meat	meat	in processed	
-T-1384	treatment	treatment	cancer	cancer	of pancreatic	
-T-1384	chronic inflammation	chronic inflammation	cancer	cancer	of the pancreas, may lead to pancreatic	
-T-1384	bacon	bacon	risk	risk	and chicken consumption may significantly increase the	
-T-1384	chicken	chicken	pancreatic cancer	pancreatic cancer	consumption may significantly increase the risk of	
-T-1384	animal fat	animal fat	pancreatic cancer	pancreatic cancer	and animal protein with	
-T-1384	inflammation	inflammation	cancer	cancer	of the pancreas, may lead to pancreatic	
-T-1384	fat	fat	cancer	cancer	and animal protein with pancreatic	
-T-1384	animal protein	animal protein	cancer	cancer	with pancreatic	
-T-1384	pancreatic cancer	pancreatic cancer	preservatives	preservatives	.the nitrite	
-T-1384	pancreatic cancer	pancreatic cancer	cancer	cancer	is among the most aggressive forms of human	
-T-1384	herbal	herbal	treatment	treatment	formulation, triphala, may be helpful in the	
-T-1384	cancer	cancer	cancer	cancer	cells, including those of pancreatic	
-T-1384	protein	protein	herbal	herbal	with pancreatic cancer.the ayurvedic	
-T-1384	inflammation	inflammation	pancreatic cancer	pancreatic cancer	of the pancreas, may lead to	
-T-1384	poultry workers	poultry workers	poultry	poultry	indicates that cancer-causing viruses in	
-T-1384	fat	fat	animal protein	animal protein	and	
-T-1384	pancreatic cancer	pancreatic cancer	meat	meat	.the nitrite preservatives in processed	
-T-1384	lead	lead	cancer	cancer	to pancreatic	
-T-1384	preservatives	preservatives	processed meat	processed meat	in	
-T-1384	poultry	poultry	viruses	viruses	workers indicates that cancer-causing	
-T-1384	herbal	herbal	pancreatic cancer	pancreatic cancer	formulation, triphala, may be helpful in the treatment of	
-T-1384	plant-based	plant-based	cancer	cancer	diet may be an effective way of preventing	
-T-1384	curcumin	curcumin	cancer	cancer	has been tested against different cancers, including pancreatic	
-T-1384	cancer	cancer	triphala	triphala	.the ayurvedic herbal formulation, 	
-T-1384	curcumin	curcumin	pancreatic cancer	pancreatic cancer	has been tested against different cancers, including	
-T-1384	pancreatic cancer	pancreatic cancer	nitrite preservatives	nitrite preservatives	.the	
-T-1384	treatment	treatment	pancreatic cancer	pancreatic cancer	of	
-T-1384	animal fat	animal fat	animal protein	animal protein	and	
-T-1384	pancreatic cancer	pancreatic cancer	triphala	triphala	.the ayurvedic herbal formulation, 	
-T-1384	chronic inflammation	chronic inflammation	pancreatic cancer	pancreatic cancer	of the pancreas, may lead to	
-T-1384	cancer	cancer	nitrite	nitrite	.the	
-T-1384	cancer	cancer	cancer	cancer	is among the most aggressive forms of human	
-T-1384	meat	meat	pancreatic cancer	pancreatic cancer	have been significantly associated with	
-T-1384	protein	protein	cancer	cancer	with pancreatic	
-T-1384	herbal	herbal	triphala	triphala	formulation, 	
-T-1384	animal protein	animal protein	triphala	triphala	with pancreatic cancer.the ayurvedic herbal formulation, 	
-T-1384	cancer	cancer	preservatives	preservatives	.the nitrite	
-T-1384	cancer	cancer	meat	meat	.the nitrite preservatives in processed	
 T-1384	risk	risk	pancreatic cancer	pancreatic cancer	of	
 T-1384	nitrite preservatives	nitrite preservatives	processed meat	processed meat	in	
-T-1384	risk	risk	cancer	cancer	of pancreatic	
-T-1384	death	death	liver	liver	from	
-T-1384	animal protein	animal protein	herbal	herbal	with pancreatic cancer.the ayurvedic	
-T-1384	pancreatic cancer	pancreatic cancer	processed meat	processed meat	.the nitrite preservatives in	
-T-1384	nuts	nuts	cancer	cancer	per week may help protect against pancreatic	
-T-1384	preservatives	preservatives	meat	meat	in processed	
-T-1384	cancer	cancer	nitrite preservatives	nitrite preservatives	.the	
-T-1384	protein	protein	pancreatic cancer	pancreatic cancer	with	
-T-1384	nitrite	nitrite	meat	meat	preservatives in processed	
-T-1384	fat	fat	protein	protein	and animal	
-T-1384	pancreatic cancer	pancreatic cancer	herbal	herbal	.the ayurvedic	
+T-1384	pancreatic cancer	pancreatic cancer	cancer	cancer	is among the most aggressive forms of human	
+T-1384	bacon	bacon	chicken	chicken	and	
+T-1384	fat	fat	animal protein	animal protein	and	
+T-1384	preservatives	preservatives	processed meat	processed meat	in	
+T-1384	plant-based diet	plant-based diet	cancer	cancer	may be an effective way of preventing	
+T-1384	viruses	viruses	poultry	poultry	in	
 T-1384	diet	diet	cancer	cancer	may be an effective way of preventing	
-T-1384	cancer	cancer	processed meat	processed meat	.the nitrite preservatives in	
-T-1384	protein	protein	triphala	triphala	with pancreatic cancer.the ayurvedic herbal formulation, 	
-T-1384	fat	fat	pancreatic cancer	pancreatic cancer	and animal protein with	
-T-1384	cancer	cancer	herbal	herbal	.the ayurvedic	
-T-1384	poultry workers	poultry workers	viruses	viruses	indicates that cancer-causing	
-T-1384	nutrition	nutrition	animal fat	animal fat	ever has linked the consumption of	
+T-1384	meat	meat	cancer	cancer	have been significantly associated with pancreatic	
+T-1384	treatment	treatment	pancreatic cancer	pancreatic cancer	of	
+T-1384	animal fat	animal fat	animal protein	animal protein	and	
+T-1384	processed meat	processed meat	pancreatic cancer	pancreatic cancer	have been significantly associated with	
+T-1384	cancer	cancer	cancer	cancer	is among the most aggressive forms of human	
+T-1384	meat	meat	pancreatic cancer	pancreatic cancer	have been significantly associated with	
+T-1384	processed meat	processed meat	cancer	cancer	have been significantly associated with pancreatic	

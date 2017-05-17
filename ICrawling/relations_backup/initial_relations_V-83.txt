@@ -1,61 +1,13 @@
 
-V-83	cold	cold	beans	beans	starches, but from eating	
-V-83	colon	colon	risk	risk	cancer	
-V-83	protein	protein	bile	bile	fermentation—also known as products of putrefaction—and decreasing secondary	
-V-83	cancer cells	cancer cells	berries	berries	survive.or, we can eat	
-V-83	bacteria	bacteria	colon	colon	with the leftovers.once in our	
-V-83	colon cancer	colon cancer	colon	colon	is somehow different than regular	
-V-83	resistant starch	resistant starch	beans	beans	in those	
-V-83	cancer	cancer	cancer	cancer	is somehow different than regular colon	
-V-83	risk	risk	resistant starch	resistant starch	—as in virtually 100% chance of getting cancer—and	
-V-83	gut bacteria	gut bacteria	colon	colon	with the leftovers.once in our	
-V-83	resistant starch	resistant starch	bacteria	bacteria	in those beans, the ph drops, as good	
-V-83	diet	diet	stool size	stool size	doubled their	
-V-83	risk	risk	cancer	cancer	—as in virtually 100% chance of getting	
-V-83	colon	colon	colon cancer	colon cancer	cancer is somehow different than regular	
-V-83	resistant starch	resistant starch	cold	cold	is, therefore, not from eating	
-V-83	colon	colon	cancer	cancer		
-V-83	jam	jam	strawberries	strawberries	on one’s toast,	
-V-83	colon cancer	colon cancer	cancer	cancer	is somehow different than regular colon	
-V-83	resistant starch	resistant starch	africa	africa	—up near the levels in	
-V-83	strawberries	strawberries	pancakes	pancakes	on one’s cornflakes, or making blueberry	
-V-83	cancer	cancer	resistant starch	resistant starch	trials—or consume foods rich in both	
-V-83	fiber	fiber	beans	beans	and resistant starch in those	
-V-83	pop-tarts	pop-tarts	corn	corn	bragging that they contain resistant	
-V-83	cancer	cancer	colon	colon	is somehow different than regular	
-V-83	cancer	cancer	ph	ph	risk by decreasing	
-V-83	fiber	fiber	resistant starch	resistant starch	and	
-V-83	ph	ph	short-chain fatty acids	short-chain fatty acids	drops, as good bacteria churn out beneficial	
-V-83	ph	ph	bacteria	bacteria	dropped, as our	
-V-83	fiber	fiber	colon cancer	colon cancer	: softening and bulking our stools, and reducing	
-V-83	fiber	fiber	ph	ph	and resistant starch in those beans, the	
-V-83	resistant starch	resistant starch	ph	ph	in those beans, the	
-V-83	bile	bile	resistant starch	resistant starch	products.so, hey, if	
-V-83	pancakes	pancakes	bacteria	bacteria	may allow one’s good	
-V-83	corn	corn	resistant starch	resistant starch	starch.but just taking	
-V-83	gut	gut	colon	colon	bacteria with the leftovers.once in our	
-V-83	bacteria	bacteria	breakfast	breakfast	to share in some of the	
-V-83	grains	grains	whole foods	whole foods	– they were eating	
-V-83	whole grains	whole grains	grains	grains	are great, but intact whole	
-V-83	resistant starch	resistant starch	grains	grains	is found naturally in many common foods, including	
-V-83	breakfast	breakfast	bacteria	bacteria	bounty.another way to feed our good	
-V-83	ph	ph	bacteria	bacteria	drops, as good	
-V-83	whole grain	whole grain	breakfast	breakfast	group got muesli for	
-V-83	colon	colon	cancer cells	cancer cells	cancer, the fewer	
-V-83	bacteria	bacteria	short-chain fatty acids	short-chain fatty acids	churn out beneficial	
-V-83	colon cancer	colon cancer	ph	ph	risk by decreasing	
-V-83	cancer	cancer	risk	risk		
 V-83	cancer	cancer	colon cancer	colon cancer	is somehow different than regular	
-V-83	risk	risk	ph	ph	by decreasing	
-V-83	whole grain	whole grain	stool size	stool size	diet doubled their	
-V-83	fiber	fiber	colon	colon	: softening and bulking our stools, and reducing	
-V-83	grains	grains	whole grains	whole grains	are great, but intact	
-V-83	bacteria	bacteria	fiber	fiber	—just like	
-V-83	resistant starch	resistant starch	supplements	supplements		
-V-83	corn	corn	supplements	supplements	starch.but just taking resistant starch	
-V-83	fiber	fiber	resistant starch	resistant starch	in plant-rich diets by just giving people some	
+V-83	cancer	cancer	colon	colon	is somehow different than regular	
 V-83	beans	beans	salads	salads	were added to	
-V-83	whole grains	whole grains	whole foods	whole foods	– they were eating	
-V-83	gut	gut	bacteria	bacteria		
-V-83	colon cancer	colon cancer	risk	risk		
-V-83	whole grain	whole grain	diet	diet		
+V-83	fiber	fiber	resistant starch	resistant starch	and	
+V-83	diet	diet	stool size	stool size	doubled their	
+V-83	bacteria	bacteria	short-chain fatty acids	short-chain fatty acids	were able to churn out so many of those	
+V-83	colon cancer	colon cancer	colon	colon	is somehow different than regular	
+V-83	ph	ph	bacteria	bacteria	dropped, as our	
+V-83	resistant starch	resistant starch	cold	cold	is, therefore, not from eating	
+V-83	pop-tarts	pop-tarts	corn	corn	bragging that they contain resistant	
+V-83	bacteria	bacteria	short-chain fatty acids	short-chain fatty acids	churn out beneficial	
+V-83	pancakes	pancakes	bacteria	bacteria	may allow one’s good	

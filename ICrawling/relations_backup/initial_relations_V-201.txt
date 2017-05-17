@@ -1,54 +1,7 @@
 
-V-201	risk	risk	disease	disease	for cardiovascular	
-V-201	blood	blood	risk	risk	sugar, and blood pressure, which reduces the	
-V-201	syndrome	syndrome	inflammation	inflammation	appears to go down: less	
-V-201	fiber	fiber	metabolic syndrome	metabolic syndrome	intake goes up, the risk of	
-V-201	wheat	wheat	bread	bread	wonder	
-V-201	fiber	fiber	disease	disease	intake reduces risk for diabetes, heart	
-V-201	fruits	fruits	fiber	fiber	and vegetables.how does	
-V-201	fiber	fiber	grains	grains	rich foods, which means eating more whole	
-V-201	fiber	fiber	whole grains	whole grains	rich foods, which means eating more	
-V-201	fiber	fiber	lifespan	lifespan	may extend our	
-V-201	gut	gut	cholesterol	cholesterol	hormones, which collectively helps control our	
-V-201	heart disease	heart disease	doctors	doctors	meta-analysis implored	
-V-201	rice	rice	beans	beans	and	
-V-201	obesity	obesity	risk	risk		
-V-201	beans	beans	fruits	fruits	or a few servings of	
-V-201	gut	gut	hormones	hormones		
-V-201	fiber	fiber	disease	disease	may help prevent chronic	
 V-201	inflammation	inflammation	fiber	fiber	is a whole ‘nother mechanism by which	
-V-201	disease	disease	fiber	fiber	.the accompanying editorial to the	
-V-201	fiber	fiber	risk	risk	intake goes up, the	
-V-201	fiber	fiber	diabetes	diabetes	intake reduces risk for	
-V-201	carbohydrates	carbohydrates	fiber	fiber	to grams of dietary	
-V-201	heart disease	heart disease	meta-analysis	meta-analysis		
-V-201	rice	rice	fruits	fruits	and beans or a few servings of	
-V-201	breakfast	breakfast	cereal	cereal		
-V-201	risk	risk	weight gain	weight gain	for diabetes, heart disease, certain cancers,	
-V-201	risk	risk	heart disease	heart disease	for diabetes,	
-V-201	inflammation	inflammation	obesity	obesity	and an apparent step-wise drop in	
-V-201	fiber	fiber	vegetables	vegetables	rich foods, which means eating more whole grains,	
-V-201	risk	risk	inflammation	inflammation	of metabolic syndrome appears to go down: less	
+V-201	rice	rice	beans	beans	and	
 V-201	meta-analysis	meta-analysis	doctors	doctors	implored	
 V-201	risk	risk	metabolic syndrome	metabolic syndrome	of	
-V-201	whole wheat	whole wheat	bread	bread	wonder	
-V-201	obesity	obesity	fiber	fiber	risk.and so, no surprise, perhaps, that greater dietary	
-V-201	risk	risk	diabetes	diabetes	for	
-V-201	metabolic syndrome	metabolic syndrome	inflammation	inflammation	appears to go down: less	
-V-201	risk	risk	cardiovascular disease	cardiovascular disease	for	
-V-201	risk	risk	obesity	obesity	for diabetes, heart disease, certain cancers, weight gain,	
-V-201	legumes	legumes	peas	peas	(beans,	
-V-201	carbohydrates	carbohydrates	fiber	fiber	by the dietary	
-V-201	blood	blood	blood pressure	blood pressure	sugar, and	
-V-201	fiber	fiber	heart disease	heart disease	intake reduces risk for diabetes,	
-V-201	fiber	fiber	risk	risk	intake is associated with a lower	
-V-201	fiber	fiber	syndrome	syndrome	intake goes up, the risk of metabolic	
-V-201	inflammation	inflammation	risk	risk	and an apparent step-wise drop in obesity	
-V-201	disease	disease	heart disease	heart disease	.the accompanying editorial to the fiber and	
-V-201	fiber	fiber	disease	disease	and heart	
-V-201	risk	risk	fiber	fiber	for every additional 7 g/day of total	
-V-201	legumes	legumes	lentils	lentils	(beans, peas, and	
-V-201	risk	risk	disease	disease	for diabetes, heart	
-V-201	risk	risk	syndrome	syndrome	of metabolic	
-V-201	fiber	fiber	risk	risk	intake reduces	
-V-201	blood	blood	sugar	sugar		
+V-201	fiber	fiber	disease	disease	may help prevent chronic	
+V-201	fiber	fiber	lifespan	lifespan	may extend our	

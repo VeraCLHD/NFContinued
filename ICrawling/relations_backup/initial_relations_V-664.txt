@@ -1,66 +1,13 @@
 
-V-664	health	health	cancer prevention	cancer prevention	of our bowels, weight, blood sugar,	
-V-664	blood	blood	high blood pressure	high blood pressure	pressure-lowering medication for	
-V-664	blood	blood	blood pressure	blood pressure	pressure-lowering medication for high	
-V-664	rice	rice	grains	grains	with other whole	
-V-664	blood	blood	disease	disease	pressure could decrease the incidence of coronary artery	
-V-664	barley	barley	grains	grains	may lower our cholesterol.see, whole	
-V-664	whole grain	whole grain	health	health	contributions to the	
-V-664	blood pressure	blood pressure	disease	disease	could decrease the incidence of coronary artery	
-V-664	health	health	blood	blood	of our bowels, weight,	
-V-664	whole grains	whole grains	rice	rice	may be even better than brown	
-V-664	blood	blood	cancer prevention	cancer prevention	sugar,	
-V-664	health	health	prevention	prevention	of our bowels, weight, blood sugar, cancer	
-V-664	rice	rice	risk	risk	was associated with higher	
-V-664	health	health	cancer	cancer	of our bowels, weight, blood sugar,	
-V-664	whole grains	whole grains	grains	grains	are good, refined	
-V-664	oats	oats	barley	barley	and	
-V-664	barley	barley	whole grains	whole grains	may lower our cholesterol.see,	
-V-664	diabetes	diabetes	risk	risk		
-V-664	risk	risk	diabetes	diabetes	of [type 2	
-V-664	whole grains	whole grains	brown rice	brown rice	may be even better than	
-V-664	rice	rice	diabetes	diabetes	was associated with a 17% greater risk of	
-V-664	rice	rice	whole grains	whole grains	with other	
-V-664	harvard	harvard	brown rice	brown rice	: “white rice,	
 V-664	rice	rice	risk	risk	was associated with a 17% greater	
-V-664	whole grain	whole grain	blood sugar	blood sugar	contributions to the health of our bowels, weight,	
-V-664	diabetes	diabetes	brown rice	brown rice	], whereas	
-V-664	grains	grains	blood pressure	blood pressure	a day: “the observed decrease in systolic	
-V-664	grains	grains	rice	rice	may be even better than brown	
-V-664	rice	rice	risk	risk	intake was associated with lower	
-V-664	whole grains	whole grains	fiber	fiber	are more than just refined grains with a	
-V-664	oats	oats	grains	grains	or barley may lower our cholesterol.see, whole	
-V-664	heart attack	heart attack	risk	risk	by 15%, and the	
-V-664	disease	disease	stroke	stroke	and	
-V-664	risk	risk	heart attack	heart attack	of getting a	
-V-664	grains	grains	brown rice	brown rice	may be even better than	
-V-664	blood pressure	blood pressure	blood	blood	-lowering medication for high	
-V-664	whole grains	whole grains	blood	blood	a day: “the observed decrease in systolic	
-V-664	rice	rice	barley	barley	with other whole grains, such as oats and	
-V-664	heart attack	heart attack	stroke	stroke	by 15%, and the risk of getting a	
-V-664	risk	risk	diabetes	diabetes	of type 2	
-V-664	harvard	harvard	risk	risk	: “white rice, brown rice, and	
-V-664	high blood pressure	high blood pressure	risk	risk	may reduce the	
-V-664	high blood pressure	high blood pressure	heart attack	heart attack	may reduce the risk of getting a	
-V-664	health	health	sugar	sugar	of our bowels, weight, blood	
-V-664	diabetes	diabetes	rice	rice	], whereas brown	
-V-664	whole grains	whole grains	blood pressure	blood pressure	a day: “the observed decrease in systolic	
-V-664	oats	oats	barley	barley	or	
-V-664	grains	grains	fiber	fiber	are more than just refined grains with a	
-V-664	grains	grains	blood	blood	a day: “the observed decrease in systolic	
-V-664	risk	risk	rice	rice	of [type 2 diabetes], whereas brown	
-V-664	harvard	harvard	rice	rice	: “white	
-V-664	blood	blood	cancer	cancer	sugar,	
-V-664	whole grain	whole grain	blood	blood	contributions to the health of our bowels, weight,	
-V-664	blood pressure	blood pressure	high blood pressure	high blood pressure	-lowering medication for	
-V-664	blood	blood	prevention	prevention	sugar, cancer	
-V-664	rice	rice	oats	oats	with other whole grains, such as	
+V-664	oats	oats	barley	barley	and	
 V-664	whole grains	whole grains	grains	grains	are more than just refined	
+V-664	grains	grains	brown rice	brown rice	may be even better than	
+V-664	high blood pressure	high blood pressure	risk	risk	may reduce the	
+V-664	grains	grains	rice	rice	may be even better than brown	
+V-664	whole grains	whole grains	rice	rice	may be even better than brown	
 V-664	risk	risk	diabetes	diabetes	of	
-V-664	brown rice	brown rice	risk	risk	intake was associated with lower	
-V-664	risk	risk	brown rice	brown rice	of [type 2 diabetes], whereas	
-V-664	cancer	cancer	prevention	prevention		
-V-664	oats	oats	whole grains	whole grains	or barley may lower our cholesterol.see,	
-V-664	health	health	blood sugar	blood sugar	of our bowels, weight,	
-V-664	rice	rice	diabetes	diabetes	was associated with higher risk of [type 2	
-V-664	blood	blood	sugar	sugar		
+V-664	rice	rice	risk	risk	was associated with higher	
+V-664	disease	disease	stroke	stroke	and	
+V-664	whole grains	whole grains	brown rice	brown rice	may be even better than	
+V-664	oats	oats	barley	barley	or	

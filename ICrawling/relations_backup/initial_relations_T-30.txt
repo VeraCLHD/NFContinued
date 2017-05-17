@@ -1,68 +1,16 @@
 
-T-30	women	women	prolactin	prolactin	have been found to have lower	
-T-30	uganda	uganda	disease	disease	the rate of heart	
-T-30	reflux	reflux	lead	lead	which can	
-T-30	americans	americans	appendicitis	appendicitis	have more gallstones,	
-T-30	african	african	disease	disease	population of uganda the rate of heart	
-T-30	colon	colon	americans	americans	cancer compared to	
-T-30	plant-based	plant-based	diet	diet		
-T-30	african	african	women	women		
-T-30	stomach	stomach	lead	lead	contents, reducing the reflux which can	
-T-30	diet	diet	prolactin	prolactin	may lower	
-T-30	grains	grains	sugar	sugar	while decreasing consumption of food high in added	
-T-30	greens	greens	african	african	dominate the traditional	
-T-30	colon	colon	cancer	cancer		
-T-30	vitamin d	vitamin d	health	health	exposure may be related to the	
-T-30	gut	gut	animal fat	animal fat	flora, minimal	
-T-30	dementia	dementia	india	india	and alzheimer’s are found in africa,	
 T-30	colon cancer	colon cancer	americans	americans	compared to	
-T-30	stomach	stomach	reflux	reflux	contents, reducing the	
 T-30	africa	africa	diet	diet	found that before the	
-T-30	prolactin	prolactin	cancer	cancer	levels.colon	
-T-30	grains	grains	african	african	and greens dominate the traditional	
-T-30	pain	pain	women	women	affects up to two-thirds of western	
-T-30	plant-based	plant-based	africa	africa	diets found in	
-T-30	fat	fat	vitamin d	vitamin d	intake and maximum	
-T-30	african	african	prolactin	prolactin	women have been found to have lower	
-T-30	nigeria	nigeria	african	african	than for	
-T-30	african	african	diet	diet		
-T-30	plant-based diets	plant-based diets	africa	africa	found in	
-T-30	african	african	heart disease	heart disease	population of uganda the rate of	
-T-30	cancer	cancer	americans	americans	compared to	
-T-30	india	india	asia	asia	and south	
-T-30	plant-based diet	plant-based diet	autoimmune diseases	autoimmune diseases	rates of	
-T-30	grains	grains	greens	greens	and	
-T-30	diet	diet	chronic diseases	chronic diseases	concluded that many	
-T-30	women	women	cancer	cancer	have been found to have lower prolactin levels.colon	
-T-30	nigeria	nigeria	african americans	african americans	than for	
-T-30	greens	greens	diet	diet	dominate the traditional african	
-T-30	vegetables	vegetables	whole grains	whole grains	and	
-T-30	african	african	americans	americans		
-T-30	hypertension	hypertension	pain	pain	were found in almost 2000 patients.although breast	
-T-30	diet	diet	fiber	fiber	and are loaded with	
+T-30	women	women	prolactin	prolactin	have been found to have lower	
 T-30	hypertension	hypertension	breast pain	breast pain	were found in almost 2000 patients.although	
-T-30	gut	gut	vitamin d	vitamin d	flora, minimal animal fat intake and maximum	
-T-30	uganda	uganda	heart disease	heart disease	the rate of	
-T-30	vegetables	vegetables	grains	grains	and whole	
-T-30	americans	americans	dementia	dementia	eating a western diet.the lowest rates of	
-T-30	african	african	uganda	uganda	population of	
-T-30	gut	gut	flora	flora		
-T-30	breast pain	breast pain	women	women	affects up to two-thirds of western	
-T-30	health	health	plant-based	plant-based	advantages of the traditional	
-T-30	gut	gut	fat	fat	flora, minimal animal	
-T-30	african	african	plant-based diets	plant-based diets	women who eat traditional	
-T-30	african	african	chronic diseases	chronic diseases	diet concluded that many	
-T-30	plant-based	plant-based	autoimmune diseases	autoimmune diseases	diet rates of	
-T-30	african	african	fiber	fiber	diet and are loaded with	
+T-30	pain	pain	women	women	affects up to two-thirds of western	
 T-30	salt	salt	fat	fat	and	
-T-30	nigeria	nigeria	americans	americans	than for african	
-T-30	diet	diet	autoimmune diseases	autoimmune diseases	rates of	
-T-30	dementia	dementia	africa	africa	and alzheimer’s are found in	
-T-30	animal fat	animal fat	vitamin d	vitamin d	intake and maximum	
-T-30	grains	grains	diet	diet	and greens dominate the traditional african	
-T-30	plant-based	plant-based	african	african		
-T-30	african	african	plant-based	plant-based	women who eat traditional	
-T-30	whole grains	whole grains	sugar	sugar	while decreasing consumption of food high in added	
+T-30	diet	diet	prolactin	prolactin	may lower	
+T-30	plant-based diets	plant-based diets	africa	africa	found in	
+T-30	cancer	cancer	americans	americans	compared to	
+T-30	grains	grains	greens	greens	and	
+T-30	greens	greens	african	african	dominate the traditional	
+T-30	diet	diet	chronic diseases	chronic diseases	concluded that many	
 T-30	americans	americans	gallstones	gallstones	have more	
-T-30	health	health	african	african	advantages of the traditional plant-based	
-T-30	diet	diet	multiple sclerosis	multiple sclerosis	became westernized, not a single case of	
+T-30	vegetables	vegetables	whole grains	whole grains	and	
+T-30	breast pain	breast pain	women	women	affects up to two-thirds of western	

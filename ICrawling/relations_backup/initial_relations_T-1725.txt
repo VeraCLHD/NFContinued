@@ -1,84 +1,20 @@
 
-T-1725	phytonutrients	phytonutrients	turmeric	turmeric	in spices such as ginger, rosemary, cilantro and	
-T-1725	skin	skin	cancer	cancer		
-T-1725	health	health	cancer	cancer	issues such as	
-T-1725	pepper	pepper	indigestion	indigestion	could help with irritable bowel syndrome and chronic	
-T-1725	variety	variety	skin	skin	of cancers such as	
-T-1725	side effects	side effects	turmeric	turmeric	from over consuming spices such as	
-T-1725	health	health	disease	disease	issues such as cancer, arthritis, alzheimer’s	
-T-1725	phytonutrients	phytonutrients	ginger	ginger	in spices such as	
-T-1725	spices	spices	ginger	ginger	such as	
+T-1725	diet	diet	tea	tea	is very important.drinking green	
+T-1725	cilantro	cilantro	turmeric	turmeric	and	
+T-1725	cloves	cloves	cinnamon	cinnamon	and	
+T-1725	turmeric	turmeric	bioavailability	bioavailability	boosts the	
+T-1725	nutmeg	nutmeg	tarragon	tarragon	and	
+T-1725	cancer	cancer	inflammation	inflammation	and	
+T-1725	mgus	mgus	multiple myeloma	multiple myeloma	and	
+T-1725	pepper	pepper	cancer	cancer	has been found to be potentially protective against	
+T-1725	phytonutrients	phytonutrients	spices	spices	in	
+T-1725	diet	diet	green tea	green tea	is very important.drinking	
+T-1725	spices	spices	health	health	may provide multiple benefits to improve chronic	
 T-1725	chai tea	chai tea	tea	tea	has all the benefits of	
 T-1725	pepper	pepper	irritable bowel syndrome	irritable bowel syndrome	could help with	
-T-1725	variety	variety	colon cancer	colon cancer	of cancers such as skin cancer, pancreatic and	
-T-1725	syndrome	syndrome	indigestion	indigestion	and chronic	
-T-1725	fat	fat	burning	burning		
-T-1725	colon	colon	cancer	cancer		
-T-1725	pepper	pepper	bioavailability	bioavailability	with turmeric boosts the	
-T-1725	cloves	cloves	diet	diet	and cinnamon into your	
-T-1725	risk	risk	spices	spices	of toxicity and side effects from over consuming	
-T-1725	mgus	mgus	myeloma	myeloma	and multiple	
-T-1725	diet	diet	tea	tea	is very important.drinking green	
-T-1725	phytonutrients	phytonutrients	rosemary	rosemary	in spices such as ginger,	
-T-1725	indigestion	indigestion	burning	burning	and may also help boost the fat	
-T-1725	variety	variety	colon	colon	of cancers such as skin cancer, pancreatic and	
-T-1725	side effects	side effects	nutmeg	nutmeg	from over consuming spices such as turmeric,	
-T-1725	pepper	pepper	syndrome	syndrome	could help with irritable bowel	
-T-1725	prevention	prevention	cancer	cancer	and development of	
-T-1725	spices	spices	cilantro	cilantro	such as ginger, rosemary,	
-T-1725	spices	spices	nutmeg	nutmeg	such as turmeric,	
-T-1725	cloves	cloves	cinnamon	cinnamon	and	
-T-1725	nutmeg	nutmeg	tarragon	tarragon	and	
-T-1725	skin	skin	multiple myeloma	multiple myeloma	cancer, pancreatic and colon cancer, osteoarthritis, mgus and	
-T-1725	skin	skin	colon	colon	cancer, pancreatic and	
-T-1725	side effects	side effects	spices	spices	from over consuming	
-T-1725	turmeric	turmeric	drugs	drugs	to act as dietary restriction mimetics, multi-purpose	
-T-1725	pie	pie	cinnamon	cinnamon	is an excellent way to incorporate cloves and	
-T-1725	cilantro	cilantro	turmeric	turmeric	and	
-T-1725	treatment	treatment	aricept	aricept	of alzheimer’s as the leading drug	
-T-1725	black pepper	black pepper	turmeric	turmeric	with	
-T-1725	black pepper	black pepper	bioavailability	bioavailability	with turmeric boosts the	
-T-1725	colon	colon	myeloma	myeloma	cancer, osteoarthritis, mgus and multiple	
-T-1725	angiogenesis	angiogenesis	prevention	prevention	inhibitors, all which may help in the	
-T-1725	colon	colon	osteoarthritis	osteoarthritis	cancer,	
-T-1725	cancer	cancer	inflammation	inflammation	and	
-T-1725	cinnamon	cinnamon	diet	diet	into your	
-T-1725	supplements	supplements	insomnia	insomnia	to aid in	
-T-1725	supplements	supplements	muscle strength	muscle strength	to aid in insomnia, improve	
-T-1725	cayenne pepper	cayenne pepper	indigestion	indigestion	could help with irritable bowel syndrome and chronic	
-T-1725	spices	spices	turmeric	turmeric	such as	
-T-1725	pepper	pepper	cancer	cancer	has been found to be potentially protective against	
-T-1725	tea	tea	lifespan	lifespan	every day may increase our	
-T-1725	spices	spices	tarragon	tarragon	such as turmeric, nutmeg and	
-T-1725	diet	diet	green tea	green tea	is very important.drinking	
-T-1725	skin	skin	colon cancer	colon cancer	cancer, pancreatic and	
-T-1725	spices	spices	health	health	may provide multiple benefits to improve chronic	
-T-1725	green tea	green tea	lifespan	lifespan	every day may increase our	
-T-1725	spices	spices	turmeric	turmeric	such as ginger, rosemary, cilantro and	
+T-1725	saffron	saffron	treatment	treatment	has been found to be just as effective in the	
+T-1725	black pepper	black pepper	cancer	cancer	has been found to be potentially protective against	
 T-1725	spices	spices	medicine	medicine	have been used in	
 T-1725	cayenne pepper	cayenne pepper	irritable bowel syndrome	irritable bowel syndrome	could help with	
-T-1725	variety	variety	cancer	cancer	of cancers such as skin	
 T-1725	pie	pie	cloves	cloves	is an excellent way to incorporate	
 T-1725	ginger	ginger	migraines	migraines	may even help cure	
-T-1725	skin	skin	osteoarthritis	osteoarthritis	cancer, pancreatic and colon cancer,	
-T-1725	colon	colon	mgus	mgus	cancer, osteoarthritis,	
-T-1725	pepper	pepper	turmeric	turmeric	with	
-T-1725	spices	spices	rosemary	rosemary	such as ginger,	
-T-1725	cayenne pepper	cayenne pepper	syndrome	syndrome	could help with irritable bowel	
-T-1725	disease	disease	mood	mood	and even improve your overall	
-T-1725	pumpkin	pumpkin	cloves	cloves	pie is an excellent way to incorporate	
-T-1725	turmeric	turmeric	bioavailability	bioavailability	boosts the	
-T-1725	health	health	arthritis	arthritis	issues such as cancer,	
-T-1725	colon	colon	multiple myeloma	multiple myeloma	cancer, osteoarthritis, mgus and	
-T-1725	pumpkin	pumpkin	pie	pie		
-T-1725	phytonutrients	phytonutrients	cilantro	cilantro	in spices such as ginger, rosemary,	
-T-1725	muscle strength	muscle strength	plaque	plaque	and even remove	
-T-1725	irritable bowel syndrome	irritable bowel syndrome	indigestion	indigestion	and chronic	
-T-1725	variety	variety	skin cancer	skin cancer	of cancers such as	
-T-1725	mgus	mgus	multiple myeloma	multiple myeloma	and	
-T-1725	phytonutrients	phytonutrients	spices	spices	in	
-T-1725	black pepper	black pepper	cancer	cancer	has been found to be potentially protective against	
-T-1725	indigestion	indigestion	fat	fat	and may also help boost the	
-T-1725	skin	skin	mgus	mgus	cancer, pancreatic and colon cancer, osteoarthritis,	
-T-1725	risk	risk	side effects	side effects	of toxicity and	
-T-1725	spices	spices	supplements	supplements	may also replace common household	

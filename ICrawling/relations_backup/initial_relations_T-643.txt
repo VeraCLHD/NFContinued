@@ -1,52 +1,10 @@
 
-T-643	e. coli	e. coli	dairy	dairy	contaminated foods such as undercooked eggs, meat,	
-T-643	cranberry juice	cranberry juice	bladder infections	bladder infections	may help prevent	
-T-643	juice	juice	infections	infections	may help prevent bladder	
-T-643	cancer	cancer	heart disease	heart disease	and	
-T-643	irritable bowel syndrome	irritable bowel syndrome	infections	infections	and urinary tract	
-T-643	meat	meat	bacteria	bacteria	may also contain dangerous amounts of the e. coli	
-T-643	bacteria	bacteria	fecal contamination	fecal contamination		
-T-643	cancer	cancer	disease	disease	and heart	
-T-643	e. coli	e. coli	bacteria	bacteria		
-T-643	lead	lead	urinary tract infections	urinary tract infections	to health problems such as irritable bowel syndrome and 	
-T-643	cranberry	cranberry	bladder	bladder	juice may help prevent	
-T-643	health	health	infections	infections	problems such as irritable bowel syndrome and urinary tract	
-T-643	urinary tract infections	urinary tract infections	chicken	chicken	caused by contaminated	
-T-643	e. coli	e. coli	meat	meat	contaminated foods such as undercooked eggs,	
-T-643	lead	lead	syndrome	syndrome	to health problems such as irritable bowel	
-T-643	turkey meat	turkey meat	e. coli	e. coli	may also contain dangerous amounts of the	
-T-643	meat	meat	e. coli	e. coli	may also contain dangerous amounts of the	
-T-643	kidneys	kidneys	neu5gc	neu5gc	of children, attaches to 	
-T-643	syndrome	syndrome	infections	infections	and urinary tract	
-T-643	irritable bowel syndrome	irritable bowel syndrome	urinary tract infections	urinary tract infections	and 	
-T-643	irritable bowel syndrome	irritable bowel syndrome	chicken	chicken	and urinary tract infections caused by contaminated	
-T-643	e. coli	e. coli	eggs	eggs	contaminated foods such as undercooked	
-T-643	turkey meat	turkey meat	bacteria	bacteria	may also contain dangerous amounts of the e. coli	
-T-643	lead	lead	health	health	to	
-T-643	turkey	turkey	meat	meat		
-T-643	e. coli	e. coli	lead	lead	exposure may	
-T-643	syndrome	syndrome	chicken	chicken	and urinary tract infections caused by contaminated	
-T-643	cranberry	cranberry	infections	infections	juice may help prevent bladder	
-T-643	health	health	syndrome	syndrome	problems such as irritable bowel	
-T-643	cranberry juice	cranberry juice	infections	infections	may help prevent bladder	
-T-643	turkey	turkey	e. coli	e. coli	meat may also contain dangerous amounts of the	
 T-643	juice	juice	bladder infections	bladder infections	may help prevent	
-T-643	bacteria	bacteria	contamination	contamination	fecal	
-T-643	kidneys	kidneys	meat	meat	of children, attaches to neu5gc, a foreign	
-T-643	lead	lead	irritable bowel syndrome	irritable bowel syndrome	to health problems such as 	
-T-643	e. coli	e. coli	contamination	contamination	exposure due to bacteria fecal	
-T-643	bladder	bladder	infections	infections		
-T-643	health	health	irritable bowel syndrome	irritable bowel syndrome	problems such as 	
-T-643	e. coli	e. coli	irritable bowel syndrome	irritable bowel syndrome	exposure may lead to health problems such as 	
-T-643	chemotherapy	chemotherapy	e. coli	e. coli	should be cautious of eating potentially	
-T-643	e. coli	e. coli	bacteria	bacteria	exposure due to	
+T-643	cranberry juice	cranberry juice	bladder infections	bladder infections	may help prevent	
+T-643	cancer	cancer	heart disease	heart disease	and	
 T-643	cranberry juice	cranberry juice	bladder	bladder	may help prevent	
-T-643	cranberry	cranberry	juice	juice		
-T-643	e. coli	e. coli	health	health	exposure may lead to	
-T-643	e. coli	e. coli	fecal contamination	fecal contamination	exposure due to bacteria	
+T-643	e. coli	e. coli	eggs	eggs	contaminated foods such as undercooked	
 T-643	kidneys	kidneys	children	children	of	
+T-643	urinary tract infections	urinary tract infections	chicken	chicken	caused by contaminated	
 T-643	infections	infections	chicken	chicken	caused by contaminated	
-T-643	syndrome	syndrome	urinary tract infections	urinary tract infections	and 	
-T-643	cranberry	cranberry	bladder infections	bladder infections	juice may help prevent	
-T-643	health	health	urinary tract infections	urinary tract infections	problems such as irritable bowel syndrome and 	
 T-643	juice	juice	bladder	bladder	may help prevent	

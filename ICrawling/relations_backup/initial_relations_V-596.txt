@@ -1,14 +1,3 @@
 
-V-596	digestive tract	digestive tract	saliva	saliva	—fake stomach; fake intestines—but complete with real	
 V-596	oatmeal	oatmeal	milk	milk	and	
-V-596	digestive tract	digestive tract	stomach	stomach	—fake	
-V-596	probiotics	probiotics	supplements	supplements	than	
-V-596	oatmeal	oatmeal	water	water	and milk, milk alone, apple juice, or	
-V-596	oatmeal	oatmeal	apple juice	apple juice	and milk, milk alone,	
-V-596	apple	apple	juice	juice		
-V-596	probiotics	probiotics	oatmeal	oatmeal	before, during, and after meals; and separately, in	
-V-596	apple	apple	water	water	juice, or	
-V-596	saliva	saliva	enzymes	enzymes	and digestive	
-V-596	saliva	saliva	bile	bile	and digestive enzymes, acid,	
-V-596	oatmeal	oatmeal	juice	juice	and milk, milk alone, apple	
-V-596	oatmeal	oatmeal	apple	apple	and milk, milk alone,	
+V-596	supplements	supplements	probiotics	probiotics	sold in capsules the commercial literature is often confusing in that sometimes the consumer is instructed to take the	

@@ -1,51 +1,10 @@
 
-V-139	vinegar	vinegar	sugar	sugar	with a meal reduces the spike in blood	
-V-139	boiled	boiled	vinegar	vinegar	white potatoes by adding	
-V-139	blood sugar	blood sugar	insulin	insulin	and	
-V-139	vinegar	vinegar	drugs	drugs	twice a day—worked better than the leading	
-V-139	potatoes	potatoes	vinegar	vinegar	by adding	
-V-139	blood	blood	satiety	satiety	sugar and insulin responses, but increases	
-V-139	rice	rice	japan	japan	—in	
-V-139	blood	blood	insulin	insulin	sugar and	
-V-139	bread	bread	insulin	insulin	doesn’t just lower blood sugar and	
-V-139	vinegar	vinegar	fasting blood sugars	fasting blood sugars	drink,	
-V-139	medicine	medicine	drugs	drugs	for the treatment of diabetes before diabetes	
-V-139	white bread	white bread	blood sugar	blood sugar	doesn’t just lower	
-V-139	oatmeal	oatmeal	berries	berries	with	
-V-139	treatment	treatment	diabetes	diabetes	of	
-V-139	blood	blood	insulin	insulin	sugar,	
-V-139	insulin	insulin	diabetes	diabetes	resistant, on their way to type 2	
-V-139	berries	berries	vinegar	vinegar	instead.what if you consume	
-V-139	blood sugar	blood sugar	satiety	satiety	and insulin responses, but increases	
-V-139	variety	variety	blood	blood	of sourdough breads throughout europe, which cause lower	
-V-139	bread	bread	vinegar	vinegar	with some	
-V-139	bread	bread	sugar	sugar	doesn’t just lower blood	
-V-139	boiled	boiled	potatoes	potatoes	white	
-V-139	medicine	medicine	treatment	treatment	for the	
 V-139	satiety	satiety	vinegar	vinegar	took nearly two tablespoons of	
-V-139	vinegar	vinegar	blood	blood	with a meal reduces the spike in	
-V-139	rice	rice	bread	bread	—in japan, for example, to make sushi; dipping	
-V-139	medicine	medicine	diabetes	diabetes	for the treatment of	
+V-139	insulin	insulin	diabetes	diabetes	resistant, on their way to type 2	
+V-139	white bread	white bread	blood sugar	blood sugar	doesn’t just lower	
 V-139	bread	bread	blood	blood	doesn’t just lower	
+V-139	blood sugar	blood sugar	insulin	insulin	and	
 V-139	bread	bread	blood sugar	blood sugar	doesn’t just lower	
-V-139	sugar	sugar	juice	juice	spike of a refined carb meal—a bagel and	
-V-139	oatmeal	oatmeal	vinegar	vinegar	with berries instead.what if you consume	
-V-139	vinegar	vinegar	blood sugar	blood sugar	with a meal reduces the spike in	
-V-139	white bread	white bread	insulin	insulin	doesn’t just lower blood sugar and	
+V-139	treatment	treatment	diabetes	diabetes	of	
 V-139	sugar	sugar	insulin	insulin	and	
-V-139	white bread	white bread	sugar	sugar	doesn’t just lower blood	
-V-139	variety	variety	blood sugar	blood sugar	of sourdough breads throughout europe, which cause lower	
-V-139	vinegar	vinegar	blood	blood	drink, fasting	
-V-139	treatment	treatment	drugs	drugs	of diabetes before diabetes	
-V-139	variety	variety	europe	europe	of sourdough breads throughout	
-V-139	insulin	insulin	satiety	satiety	responses, but increases	
-V-139	blood sugar	blood sugar	juice	juice	spike of a refined carb meal—a bagel and	
-V-139	bread	bread	variety	variety	into balsamic in the mediterranean; a	
-V-139	blood	blood	triglycerides	triglycerides	sugar, insulin, and	
-V-139	vinegar	vinegar	medicine	medicine	with meals was used as a folk	
-V-139	sugar	sugar	satiety	satiety	and insulin responses, but increases	
-V-139	rice	rice	sushi	sushi	—in japan, for example, to make	
-V-139	tea	tea	lemon	lemon	with	
 V-139	white bread	white bread	blood	blood	doesn’t just lower	
-V-139	apple	apple	vinegar	vinegar	cider	
-V-139	blood	blood	sugar	sugar		

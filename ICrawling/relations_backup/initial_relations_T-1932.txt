@@ -1,35 +1,8 @@
 
-T-1932	drugs	drugs	vision	vision	for erectile dysfunction may cause	
-T-1932	cataracts	cataracts	vision	vision	are the leading cause of overall	
-T-1932	vision	vision	eye	eye	-related conditions such as computer	
-T-1932	plant-based	plant-based	phytonutrients	phytonutrients	diet.lutein and zeaxanthin are two yellow-pigmented	
-T-1932	dha	dha	pregnant	pregnant	supplements while	
-T-1932	babies	babies	licorice	licorice	of women who ate significant amounts of	
-T-1932	pregnant	pregnant	vision	vision	may have significantly better	
-T-1932	aging	aging	vision	vision	process and may protect against other	
-T-1932	dha	dha	supplements	supplements		
-T-1932	plant-based	plant-based	diet	diet		
-T-1932	phytonutrients	phytonutrients	macular degeneration	macular degeneration	that help defend against	
-T-1932	supplements	supplements	pregnant	pregnant	while	
-T-1932	plant-based	plant-based	zeaxanthin	zeaxanthin	diet.lutein and	
-T-1932	eye	eye	supplements	supplements	strain.babies of women who took algae-based dha	
-T-1932	dha	dha	vision	vision	supplements while pregnant may have significantly better	
-T-1932	women	women	dha	dha	who took algae-based	
-T-1932	phytonutrients	phytonutrients	aging	aging	known as anthocyanins, also may decelerate the	
 T-1932	zeaxanthin	zeaxanthin	phytonutrients	phytonutrients	are two yellow-pigmented	
-T-1932	eye	eye	dha	dha	strain.babies of women who took algae-based	
-T-1932	erectile dysfunction	erectile dysfunction	vision	vision	may cause	
-T-1932	animal products	animal products	risk	risk	proportionally increased one’s	
-T-1932	diabetes	diabetes	blindness	blindness	is the number-one cause of adult-onset	
-T-1932	women	women	pregnant	pregnant	who took algae-based dha supplements while	
-T-1932	eye	eye	women	women	strain.babies of	
-T-1932	drugs	drugs	erectile dysfunction	erectile dysfunction	for	
-T-1932	babies	babies	women	women	of	
 T-1932	risk	risk	cataracts	cataracts	of	
-T-1932	supplements	supplements	vision	vision	while pregnant may have significantly better	
-T-1932	vision	vision	women	women	-related conditions such as computer eye strain.babies of	
+T-1932	erectile dysfunction	erectile dysfunction	vision	vision	may cause	
+T-1932	diabetes	diabetes	blindness	blindness	is the number-one cause of adult-onset	
 T-1932	phytonutrients	phytonutrients	anthocyanins	anthocyanins	known as	
-T-1932	zeaxanthin	zeaxanthin	macular degeneration	macular degeneration	are two yellow-pigmented phytonutrients that help defend against	
-T-1932	women	women	licorice	licorice	who ate significant amounts of	
-T-1932	animal products	animal products	cataracts	cataracts	proportionally increased one’s risk of	
-T-1932	women	women	supplements	supplements	who took algae-based dha	
+T-1932	pregnant	pregnant	vision	vision	may have significantly better	
+T-1932	babies	babies	women	women	of	

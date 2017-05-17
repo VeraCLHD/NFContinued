@@ -1,40 +1,7 @@
 
-V-239	diet	diet	depression	depression	pattern was significantly associated with reduced odds of	
-V-239	plant-based	plant-based	mood	mood	tend to have healthier	
-V-239	plant-based	plant-based	depression	depression	tend to have healthier mood states—less tension, anxiety,	
-V-239	pms	pms	women	women	—but what about long term?overweight men and	
-V-239	plant-based	plant-based	diet	diet		
-V-239	plant-based	plant-based	depression	depression	nutrition program in a multicenter, corporate setting improve	
-V-239	eggs	eggs	mood	mood	improved several	
-V-239	depression	depression	diet	diet	concluded that a healthy	
-V-239	protein	protein	depression	depression	are associated with lower levels of anxiety and	
-V-239	antioxidant	antioxidant	depression	depression	status, which may help with	
-V-239	mood	mood	poultry	poultry	through diet, in which removing meat, fish,	
-V-239	poultry	poultry	mood	mood	and eggs improved several	
-V-239	arachidonic acid	arachidonic acid	chicken	chicken	primarily through	
-V-239	chicken	chicken	meat	meat	and eggs, and other	
-V-239	vegetarian	vegetarian	antioxidant	antioxidant	does give you a better	
-V-239	mood	mood	fat	fat	in the low-	
-V-239	suicide	suicide	risk	risk		
-V-239	arachidonic acid	arachidonic acid	eggs	eggs	primarily through chicken and	
-V-239	mood	mood	meat	meat	through diet, in which removing	
-V-239	mood	mood	diet	diet	through	
-V-239	treatment	treatment	depression	depression	studies investigating the impact of diet on	
-V-239	nutrition	nutrition	depression	depression	program in a multicenter, corporate setting improve	
-V-239	plant-based	plant-based	energy	energy	intervention group reported improved digestion, increased	
 V-239	anxiety	anxiety	depression	depression	and	
-V-239	diet	diet	treatment	treatment	.so, while high-quality	
-V-239	nutrition	nutrition	anxiety	anxiety	program in a multicenter, corporate setting improve depression,	
-V-239	arachidonic acid	arachidonic acid	diet	diet	from our	
-V-239	plant-based	plant-based	digestion	digestion	intervention group reported improved	
+V-239	eggs	eggs	mood	mood	improved several	
 V-239	protein	protein	anxiety	anxiety	are associated with lower levels of	
-V-239	treatment	treatment	diet	diet	studies investigating the impact of	
-V-239	arachidonic acid	arachidonic acid	treatment	treatment	from our diet.so, while high-quality	
-V-239	meta-analysis	meta-analysis	depression	depression	of dietary patterns and	
+V-239	vegetarian	vegetarian	antioxidant	antioxidant	does give you a better	
 V-239	chicken	chicken	eggs	eggs	and	
-V-239	plant-based	plant-based	anxiety	anxiety	tend to have healthier mood states—less tension,	
 V-239	poultry	poultry	eggs	eggs	and	
-V-239	women	women	diet	diet	were randomized into a low-carb, high-fat	
-V-239	plant-based	plant-based	nutrition	nutrition		
-V-239	mood	mood	fish	fish	through diet, in which removing meat,	
-V-239	plant-based diet	plant-based diet	diet	diet	or no	

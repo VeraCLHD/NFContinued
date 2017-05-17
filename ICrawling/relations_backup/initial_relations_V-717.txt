@@ -1,15 +1,2 @@
 
-V-717	x-rays	x-rays	deer	deer	of “30 eviscerated carcasses of white-tailed	
-V-717	lead	lead	health	health	ammunition may be exposed to	
-V-717	venison	venison	deer	deer	from	
 V-717	deer	deer	lead	lead	killed with standard	
-V-717	lead	lead	deer	deer	from bullet fragments when they eat venison from	
-V-717	health	health	lead	lead	risks associated with	
-V-717	lead	lead	venison	venison	bullet fragments in	
-V-717	ground meat	ground meat	deer	deer	packages from 80% of the	
-V-717	lead	lead	venison	venison	from bullet fragments when they eat	
-V-717	venison	venison	lead	lead	from deer killed with standard	
-V-717	meat	meat	ground meat	ground meat	packages, revealing tiny metal fragments in the	
-V-717	meat	meat	venison	venison	might benefit from switching to something like	
-V-717	lead	lead	deer	deer	bullet fragments in venison from rifle-killed	
-V-717	risk	risk	lead	lead	exposure to bioavailable	

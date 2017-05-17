@@ -1,19 +1,5 @@
 
-T-1730	risk	risk	spirulina	spirulina	to health or other public health concern when	
 T-1730	spirulina	spirulina	blue-green algae	blue-green algae	is a type of	
-T-1730	algae	algae	toxins	toxins		
-T-1730	risk	risk	public health	public health	to health or other	
-T-1730	health	health	supplements	supplements	claims for spirulina	
 T-1730	supplements	supplements	liver	liver	were found to contain	
-T-1730	liver	liver	neurotoxins	neurotoxins	toxins and	
-T-1730	liver	liver	toxins	toxins		
-T-1730	supplements	supplements	toxins	toxins	were found to contain liver	
-T-1730	public health	public health	spirulina	spirulina	concern when	
-T-1730	health	health	spirulina	spirulina	or other public health concern when	
-T-1730	spirulina	spirulina	supplements	supplements		
-T-1730	health	health	public health	public health	or other	
-T-1730	supplements	supplements	neurotoxins	neurotoxins	were found to contain liver toxins and	
-T-1730	risk	risk	health	health	to	
 T-1730	spirulina	spirulina	algae	algae	is a type of blue-green	
-T-1730	health	health	spirulina	spirulina	claims for	
 T-1730	toxins	toxins	neurotoxins	neurotoxins	and	

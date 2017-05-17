@@ -1,88 +1,10 @@
 
-T-970	risk	risk	blood pressure	blood pressure	involving 89,000 californians found a drop in	
 T-970	diabetes	diabetes	obesity	obesity	and	
-T-970	fruit	fruit	blood	blood	daily does not appear to raise	
-T-970	americans	americans	blood	blood	reach 60, nearly half have high	
-T-970	high blood pressure	high blood pressure	medications	medications	with	
-T-970	plant-based	plant-based	diet	diet		
-T-970	diet	diet	blood	blood	and	
-T-970	blood	blood	diet	diet	pressure.in one study of rural kenyans, the traditional	
-T-970	beans	beans	grains	grains	and other legumes, whole	
-T-970	americans	americans	high blood pressure	high blood pressure	reach 60, nearly half have	
-T-970	blood pressure	blood pressure	drugs	drugs		
-T-970	chinese	chinese	blood	blood	residents who adhered to a traditional plant-based diet,	
-T-970	beans	beans	beets	beets	and other legumes, whole grains,	
-T-970	hibiscus	hibiscus	potatoes	potatoes	tea, purple	
-T-970	drugs	drugs	high blood pressure	high blood pressure	on the market,	
-T-970	diabetes	diabetes	plant foods	plant foods	and obesity rates, that correlated with volume of	
-T-970	blood	blood	americans	americans	pressure, and by the time	
-T-970	beans	beans	juice	juice	and other legumes, whole grains, beets, beet	
-T-970	risk	risk	blood	blood	for high	
-T-970	blood pressure	blood pressure	diet	diet	.in one study of rural kenyans, the traditional	
-T-970	hibiscus	hibiscus	purple potatoes	purple potatoes	tea,	
-T-970	diet	diet	grains	grains	of whole	
-T-970	beverages	beverages	beans	beans	that may help reduce high blood pressure includes	
-T-970	beverages	beverages	blood pressure	blood pressure	that may help reduce high	
-T-970	risk	risk	death	death	factor for	
-T-970	kidney	kidney	disease	disease		
-T-970	potatoes	potatoes	seaweed	seaweed	and the	
-T-970	meat	meat	blood	blood	from the diet can lower	
-T-970	risk	risk	dr. walter kempner	dr. walter kempner	by eating and living healthfully.in the 1940s,	
-T-970	blood pressure	blood pressure	drugs	drugs	-lowering	
-T-970	rice	rice	fruit	fruit	and	
-T-970	risk	risk	high blood pressure	high blood pressure	for	
-T-970	purple potatoes	purple potatoes	seaweed	seaweed	and the	
-T-970	plant-based	plant-based	blood	blood	diet,	
-T-970	physicians	physicians	high blood pressure	high blood pressure	today fail to prescribe dietary changes to lower	
-T-970	diet	diet	blood	blood	can lower	
-T-970	beans	beans	whole grains	whole grains	and other legumes,	
-T-970	death	death	risk	risk	in the world, as it is a	
 T-970	diet	diet	whole grains	whole grains	of	
-T-970	uric acid	uric acid	risk	risk	levels, which are associated with an increased	
-T-970	hibiscus	hibiscus	wakame	wakame	tea, purple potatoes and the seaweed	
-T-970	high blood pressure	high blood pressure	drugs	drugs		
-T-970	beverages	beverages	high blood pressure	high blood pressure	that may help reduce	
-T-970	beans	beans	beet juice	beet juice	and other legumes, whole grains, beets,	
-T-970	blood	blood	drugs	drugs	pressure-lowering	
-T-970	blood pressure	blood pressure	high blood pressure	high blood pressure	in just seven days, without medication.attempting to reduce	
-T-970	meat	meat	blood pressure	blood pressure	from the diet can lower	
-T-970	fructose	fructose	blood	blood	(added sugars) may also be linked to high	
-T-970	fructose	fructose	fruit	fruit	found in up to 20 servings of whole	
-T-970	fructose	fructose	blood pressure	blood pressure	(added sugars) may also be linked to high	
-T-970	high blood pressure	high blood pressure	diet	diet	with a low-salt, low-protein	
-T-970	kidney	kidney	stroke	stroke	disease,	
-T-970	drugs	drugs	blood	blood	on the market, high	
-T-970	hibiscus	hibiscus	seaweed	seaweed	tea, purple potatoes and the	
-T-970	blood	blood	hypertension	hypertension	pressure, also known as	
-T-970	meat	meat	diet	diet	from the	
-T-970	diet	diet	beans	beans	of whole grains,	
-T-970	drugs	drugs	risk	risk	can gain a further 78% drop in	
-T-970	beans	beans	legumes	legumes	and other	
-T-970	seaweed	seaweed	wakame	wakame		
-T-970	diet	diet	rice	rice	consisting of white	
-T-970	blood pressure	blood pressure	blood	blood	risk involving 89,000 californians found a drop in	
-T-970	obesity	obesity	plant foods	plant foods	rates, that correlated with volume of	
-T-970	diet	diet	fruit	fruit	consisting of white rice and	
-T-970	hibiscus	hibiscus	tea	tea		
-T-970	drugs	drugs	blood pressure	blood pressure	on the market, high	
-T-970	blood	blood	drugs	drugs	pressure	
-T-970	salt	salt	fructose	fructose	intake and industrially-manufactured	
-T-970	diet	diet	vegetables	vegetables	of whole grains, beans,	
+T-970	rice	rice	fruit	fruit	and	
 T-970	diet	diet	blood pressure	blood pressure	can lower	
-T-970	chinese	chinese	diet	diet	residents who adhered to a traditional plant-based	
-T-970	risk	risk	blood	blood	involving 89,000 californians found a drop in	
-T-970	beans	beans	cocoa	cocoa	and other legumes, whole grains, beets, beet juice,	
-T-970	risk	risk	blood pressure	blood pressure	for high	
-T-970	diet	diet	fruit	fruit	of whole grains, beans, vegetables,	
-T-970	potatoes	potatoes	wakame	wakame	and the seaweed	
-T-970	high blood pressure	high blood pressure	rice	rice	with a low-salt, low-protein diet consisting of white	
-T-970	blindness	blindness	disease	disease	and possibly alzheimer’s	
-T-970	chinese	chinese	plant-based diet	plant-based diet	residents who adhered to a traditional	
-T-970	americans	americans	blood pressure	blood pressure	reach 60, nearly half have high	
-T-970	fruit	fruit	blood pressure	blood pressure	daily does not appear to raise	
-T-970	kidney	kidney	blindness	blindness	disease, stroke,	
-T-970	purple potatoes	purple potatoes	wakame	wakame	and the seaweed	
-T-970	sugar	sugar	uric acid	uric acid	increase	
-T-970	fructose	fructose	high blood pressure	high blood pressure	(added sugars) may also be linked to	
-T-970	chinese	chinese	plant-based	plant-based	residents who adhered to a traditional	
-T-970	beverages	beverages	blood	blood	that may help reduce high	
+T-970	drugs	drugs	risk	risk	can gain a further 78% drop in	
+T-970	diet	diet	blood	blood	and	
+T-970	diet	diet	blood	blood	can lower	
+T-970	fructose	fructose	fruit	fruit	found in up to 20 servings of whole	
+T-970	diet	diet	rice	rice	consisting of white	

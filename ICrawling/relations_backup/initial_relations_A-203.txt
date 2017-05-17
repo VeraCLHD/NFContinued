@@ -1,34 +1,10 @@
 
-A-203	risk	risk	mortality	mortality	of total	
-A-203	fish oil	fish oil	snake oil	snake oil	just	
-A-203	risk	risk	breast cancer	breast cancer	of	
-A-203	risk	risk	women	women	of total mortality, meaning that	
-A-203	risk	risk	cancer	cancer	of breast	
-A-203	mortality	mortality	cancer	cancer	or	
-A-203	women	women	multivitamins	multivitamins	’s health study came out we were worried	
-A-203	multivitamins	multivitamins	cardiovascular disease	cardiovascular disease	are a distraction from effective	
-A-203	health	health	multivitamins	multivitamins	study came out we were worried	
-A-203	b12	b12	supplements	supplements	(vitamin	
-A-203	vitamins	vitamins	supplements	supplements	d and b12 (vitamin	
-A-203	cancer	cancer	mortality	mortality		
-A-203	fish	fish	snake oil	snake oil	oil just	
-A-203	supplements	supplements	cancer	cancer	and breast	
 A-203	multivitamins	multivitamins	disease	disease	are a distraction from effective cardiovascular	
-A-203	fish	fish	supplements	supplements	oil	
-A-203	fish oil	fish oil	supplements	supplements		
-A-203	health	health	women	women	study followed tens of thousands of	
-A-203	health	health	fruits	fruits	would be eating more	
-A-203	harvard	harvard	physicians	physicians		
-A-203	vitamins	vitamins	minerals	minerals	and	
-A-203	multivitamins	multivitamins	prevention	prevention	are a distraction from effective cardiovascular disease	
-A-203	cancer	cancer	cancer	cancer	mortality or	
-A-203	health	health	vegetables	vegetables	would be eating more fruits and	
-A-203	vitamins	vitamins	b12	b12	d and	
-A-203	women	women	health	health	’s	
 A-203	supplements	supplements	breast cancer	breast cancer	and	
-A-203	women	women	multivitamins	multivitamins	up into two groups and put half on	
-A-203	cardiovascular disease	cardiovascular disease	prevention	prevention		
-A-203	cancer	cancer	cancer	cancer	mortality, some found less	
-A-203	americans	americans	supplements	supplements	spend billions on vitamin and mineral	
+A-203	multivitamins	multivitamins	cardiovascular disease	cardiovascular disease	are a distraction from effective	
+A-203	risk	risk	breast cancer	breast cancer	of	
+A-203	health	health	fruits	fruits	would be eating more	
+A-203	vitamins	vitamins	minerals	minerals	and	
+A-203	multivitamins	multivitamins	heart disease	heart disease	appear to offer no consistent evidence of benefit for	
 A-203	fruits	fruits	vegetables	vegetables	and	
-A-203	disease	disease	prevention	prevention		
+A-203	mortality	mortality	cancer	cancer	or	

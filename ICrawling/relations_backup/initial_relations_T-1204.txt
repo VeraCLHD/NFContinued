@@ -1,109 +1,20 @@
 
-T-1204	high triglycerides	high triglycerides	blood pressure	blood pressure	and high	
-T-1204	triglycerides	triglycerides	blood	blood	and high	
-T-1204	sweeteners	sweeteners	syndrome	syndrome	such as saccharin is also related to metabolic	
-T-1204	triglycerides	triglycerides	blood pressure	blood pressure	and high	
-T-1204	risk	risk	fatty liver disease	fatty liver disease	for nonalcoholic	
-T-1204	risk	risk	diabetes	diabetes	for nonalcoholic fatty liver disease, stroke,	
-T-1204	produce	produce	gastric emptying	gastric emptying	beneficial compounds such as propionate which slow	
-T-1204	organic	organic	pollutants	pollutants		
-T-1204	sugar	sugar	triglycerides	triglycerides	levels, high	
-T-1204	fiber	fiber	metabolic syndrome	metabolic syndrome	intake has been linked to	
-T-1204	high triglycerides	high triglycerides	blood	blood	and high	
-T-1204	diabetes	diabetes	fat	fat	may be to reduce abdominal	
-T-1204	fish	fish	blood sugar	blood sugar	consumption increases	
-T-1204	liver	liver	diabetes	diabetes	disease, stroke,	
-T-1204	risk	risk	liver disease	liver disease	for nonalcoholic fatty	
-T-1204	smoking	smoking	metabolic syndrome	metabolic syndrome	and exercise.animal protein consumption is tied to	
-T-1204	gut	gut	produce	produce	bacteria feed on the fiber,	
+T-1204	triglycerides	triglycerides	high blood pressure	high blood pressure	and	
+T-1204	blood sugar	blood sugar	syndrome	syndrome	following a meal.one of the best ways to treat metabolic	
+T-1204	sugar	sugar	syndrome	syndrome	following a meal.one of the best ways to treat metabolic	
 T-1204	metabolic syndrome	metabolic syndrome	obesity	obesity	is a medical disorder characterized by abdominal	
-T-1204	blood	blood	cholesterol	cholesterol	sugar,	
-T-1204	blood	blood	blood pressure	blood pressure	sugar, cholesterol, and	
-T-1204	beans	beans	lentils	lentils	and	
-T-1204	weight loss	weight loss	caloric restriction	caloric restriction	strategies have focused on	
-T-1204	fish	fish	blood	blood	consumption increases	
-T-1204	gut	gut	glucose	glucose	microbiome and induce	
-T-1204	syndrome	syndrome	obesity	obesity	is a medical disorder characterized by abdominal	
-T-1204	bacteria	bacteria	fiber	fiber	feed on the	
-T-1204	gut	gut	sugar	sugar	bacteria, as well as control body weight, blood	
-T-1204	risk	risk	metabolic syndrome	metabolic syndrome	for	
-T-1204	gut	gut	fiber	fiber	bacteria feed on the	
-T-1204	blood	blood	high blood pressure	high blood pressure	sugar levels, high triglycerides and	
 T-1204	diabetes	diabetes	abdominal fat	abdominal fat	may be to reduce	
 T-1204	fiber	fiber	bile	bile	helps to get rid of excess	
-T-1204	heme iron	heme iron	pollutants	pollutants	acting as a pro-oxidant, and environmental	
-T-1204	smoking	smoking	protein	protein	and exercise.animal	
-T-1204	pollutants	pollutants	animal products	animal products	that are present in	
-T-1204	saccharin	saccharin	metabolic syndrome	metabolic syndrome	is also related to	
-T-1204	high triglycerides	high triglycerides	high blood pressure	high blood pressure	and	
-T-1204	propionate	propionate	gastric emptying	gastric emptying	which slow	
-T-1204	glucose	glucose	fiber	fiber	intolerance.low dietary	
-T-1204	gut	gut	microbiome	microbiome		
-T-1204	triglycerides	triglycerides	high blood pressure	high blood pressure	and	
-T-1204	sweeteners	sweeteners	metabolic syndrome	metabolic syndrome	such as saccharin is also related to	
-T-1204	vegetarians	vegetarians	syndrome	syndrome	have the lowest risk for metabolic	
-T-1204	syndrome	syndrome	abdominal obesity	abdominal obesity	is a medical disorder characterized by	
-T-1204	blood	blood	blood pressure	blood pressure	sugar levels, high triglycerides and high	
-T-1204	gut bacteria	gut bacteria	fiber	fiber	feed on the	
-T-1204	glucose	glucose	metabolic syndrome	metabolic syndrome	intolerance.low dietary fiber intake has been linked to	
-T-1204	beans	beans	prediabetes	prediabetes	saw reductions in	
-T-1204	gut	gut	bacteria	bacteria		
-T-1204	fiber	fiber	inflammation	inflammation	helps to get rid of excess bile, reduce	
-T-1204	blood sugar	blood sugar	triglycerides	triglycerides	levels, high	
-T-1204	risk	risk	nonalcoholic fatty liver disease	nonalcoholic fatty liver disease	for	
-T-1204	artificial sweeteners	artificial sweeteners	saccharin	saccharin	such as	
-T-1204	blood	blood	obesity	obesity	pressure,	
-T-1204	gut	gut	fiber	fiber	microbiome and induce glucose intolerance.low dietary	
-T-1204	beans	beans	second meal effect	second meal effect	and lentils, produces the “	
-T-1204	smoking	smoking	syndrome	syndrome	and exercise.animal protein consumption is tied to metabolic	
-T-1204	fiber	fiber	syndrome	syndrome	intake has been linked to metabolic	
-T-1204	fiber	fiber	heart disease	heart disease	intake has been linked to metabolic syndrome,	
-T-1204	risk	risk	syndrome	syndrome	for metabolic	
-T-1204	microbiome	microbiome	fiber	fiber	and induce glucose intolerance.low dietary	
-T-1204	protein	protein	metabolic syndrome	metabolic syndrome	consumption is tied to	
-T-1204	liver	liver	cancer	cancer	disease, stroke, diabetes,	
-T-1204	blood	blood	high blood sugar	high blood sugar	pressure, obesity, and	
-T-1204	blood sugar	blood sugar	high triglycerides	high triglycerides	levels,	
-T-1204	vegetarians	vegetarians	risk	risk	have the lowest	
-T-1204	protein	protein	syndrome	syndrome	consumption is tied to metabolic	
-T-1204	blood sugar	blood sugar	blood pressure	blood pressure	levels, high triglycerides and high	
-T-1204	risk	risk	stroke	stroke	for nonalcoholic fatty liver disease,	
-T-1204	egg	egg	artificial sweeteners	artificial sweeteners	consumption in adults for preventing cardiometabolic disease.consumption of	
-T-1204	gut	gut	blood sugar	blood sugar	bacteria, as well as control body weight,	
-T-1204	liver	liver	disease	disease		
-T-1204	microbiome	microbiome	glucose	glucose	and induce	
-T-1204	prediabetes	prediabetes	diabetes	diabetes	from turning into full-blown	
-T-1204	iron	iron	pollutants	pollutants	acting as a pro-oxidant, and environmental	
-T-1204	beans	beans	risk	risk	saw reductions in prediabetes	
-T-1204	produce	produce	propionate	propionate	beneficial compounds such as	
-T-1204	sugar	sugar	blood	blood	levels, high triglycerides and high	
-T-1204	sugar	sugar	high triglycerides	high triglycerides	levels,	
-T-1204	beans	beans	diet	diet	into their	
-T-1204	sugar	sugar	high blood pressure	high blood pressure	levels, high triglycerides and	
-T-1204	risk	risk	liver	liver	for nonalcoholic fatty	
-T-1204	artificial sweeteners	artificial sweeteners	syndrome	syndrome	such as saccharin is also related to metabolic	
-T-1204	fish	fish	sugar	sugar	consumption increases blood	
-T-1204	blood	blood	sugar	sugar	pressure, obesity, and high blood	
-T-1204	gut bacteria	gut bacteria	produce	produce	feed on the fiber,	
-T-1204	blood	blood	high triglycerides	high triglycerides	sugar levels,	
-T-1204	organic	organic	animal products	animal products	pollutants, which are found in	
-T-1204	risk	risk	cancer	cancer	for nonalcoholic fatty liver disease, stroke, diabetes,	
-T-1204	prediabetes	prediabetes	risk	risk		
-T-1204	sweeteners	sweeteners	saccharin	saccharin	such as	
-T-1204	fiber	fiber	disease	disease	intake has been linked to metabolic syndrome, heart	
-T-1204	saccharin	saccharin	syndrome	syndrome	is also related to metabolic	
-T-1204	risk	risk	vegetarians	vegetarians	for metabolic syndrome, followed by semi-	
-T-1204	vegetarians	vegetarians	metabolic syndrome	metabolic syndrome	have the lowest risk for	
-T-1204	bacteria	bacteria	produce	produce	feed on the fiber,	
-T-1204	blood sugar	blood sugar	blood	blood	levels, high triglycerides and high	
-T-1204	gut	gut	blood	blood	bacteria, as well as control body weight,	
-T-1204	blood sugar	blood sugar	high blood pressure	high blood pressure	levels, high triglycerides and	
-T-1204	risk	risk	disease	disease	for nonalcoholic fatty liver	
-T-1204	liver	liver	stroke	stroke	disease,	
-T-1204	blood	blood	triglycerides	triglycerides	sugar levels, high	
 T-1204	american heart association	american heart association	egg	egg	advises restricted	
-T-1204	artificial sweeteners	artificial sweeteners	metabolic syndrome	metabolic syndrome	such as saccharin is also related to	
-T-1204	sugar	sugar	blood pressure	blood pressure	levels, high triglycerides and high	
+T-1204	syndrome	syndrome	abdominal obesity	abdominal obesity	is a medical disorder characterized by	
+T-1204	vegetarians	vegetarians	risk	risk	have the lowest	
+T-1204	gut bacteria	gut bacteria	fiber	fiber	feed on the	
+T-1204	beans	beans	lentils	lentils	and	
+T-1204	sugar	sugar	metabolic syndrome	metabolic syndrome	following a meal.one of the best ways to treat	
 T-1204	metabolic syndrome	metabolic syndrome	abdominal obesity	abdominal obesity	is a medical disorder characterized by	
-T-1204	blood	blood	blood sugar	blood sugar	pressure, obesity, and high	
-T-1204	blood	blood	sugar	sugar		
+T-1204	high triglycerides	high triglycerides	high blood pressure	high blood pressure	and	
+T-1204	blood sugar	blood sugar	metabolic syndrome	metabolic syndrome	following a meal.one of the best ways to treat	
+T-1204	beans	beans	prediabetes	prediabetes	saw reductions in	
+T-1204	syndrome	syndrome	obesity	obesity	is a medical disorder characterized by abdominal	
+T-1204	bacteria	bacteria	fiber	fiber	feed on the	
+T-1204	diabetes	diabetes	fat	fat	may be to reduce abdominal	

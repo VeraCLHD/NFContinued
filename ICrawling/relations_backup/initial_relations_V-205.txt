@@ -1,15 +1,4 @@
 
-V-205	death	death	women	women	for both men and	
-V-205	death	death	united states	united states	in the	
-V-205	ornish	ornish	disease	disease	proved what my family already knew: heart	
-V-205	how not to die	how not to die	heart disease	heart disease	from	
-V-205	how not to die	how not to die	disease	disease	from heart	
-V-205	book	book	diet	diet	on some dr. greger	
-V-205	dr. ornish	dr. ornish	disease	disease	proved what my family already knew: heart	
-V-205	how not to die	how not to die	lung disease	lung disease	from heart disease; how not to die from	
-V-205	disease	disease	diet	diet	with	
 V-205	dr. ornish	dr. ornish	heart disease	heart disease	proved what my family already knew:	
-V-205	heart disease	heart disease	diet	diet	with	
-V-205	how not to die	how not to die	disease	disease	from lung	
 V-205	health	health	nutrition	nutrition	and	
 V-205	ornish	ornish	heart disease	heart disease	proved what my family already knew:	

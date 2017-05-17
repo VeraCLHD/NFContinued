@@ -1,60 +1,12 @@
 
-A-477	china study	china study	death	death	on sudden cardiac	
-A-477	tomato effect	tomato effect	caldwell esselstyn	caldwell esselstyn	i feature dr.	
-A-477	china	china	sudden cardiac death	sudden cardiac death	study on	
-A-477	china study	china study	sudden cardiac death	sudden cardiac death	on	
-A-477	death	death	heart disease	heart disease	explained that there is nothing natural about getting	
-A-477	plant-based diet	plant-based diet	heart disease	heart disease	can prevent, stop, and reverse	
-A-477	plant-based	plant-based	diet	diet		
-A-477	china	china	cardiac death	cardiac death	study on sudden	
-A-477	plant-based	plant-based	heart disease	heart disease	diet programs for	
-A-477	plant-based diet	plant-based diet	disease	disease	programs for heart	
-A-477	diet	diet	heart disease	heart disease	programs for	
-A-477	dr. dean ornish	dr. dean ornish	disease	disease	’s landmark 1990 study proving that heart	
-A-477	heart disease	heart disease	drugs	drugs	can be reversed without	
-A-477	drugs	drugs	china study	china study	and surgery, and yesterday,	
-A-477	dr. dean ornish	dr. dean ornish	heart disease	heart disease	’s landmark 1990 study proving that	
-A-477	medical profession	medical profession	plant-based	plant-based	in general appear so resistant to embracing	
-A-477	dean ornish	dean ornish	heart disease	heart disease	’s landmark 1990 study proving that	
-A-477	medical profession	medical profession	plant-based diets	plant-based diets	in general appear so resistant to embracing	
-A-477	plant-based	plant-based	heart disease	heart disease	diet can prevent, stop, and reverse	
-A-477	ornish	ornish	disease	disease	’s landmark 1990 study proving that heart	
-A-477	tomato effect	tomato effect	dr. caldwell esselstyn	dr. caldwell esselstyn	i feature	
-A-477	americans	americans	disease	disease	to perish from cardiovascular	
-A-477	drugs	drugs	sudden cardiac death	sudden cardiac death	and surgery, and yesterday, china study on	
-A-477	disease	disease	diet	diet	could be reversed with a plant-based	
-A-477	drugs	drugs	surgery	surgery	and	
-A-477	esselstyn	esselstyn	american journal of cardiology	american journal of cardiology	concludes an editorial he published in the	
-A-477	dr. esselstyn	dr. esselstyn	american journal of cardiology	american journal of cardiology	concludes an editorial he published in the	
-A-477	heart disease	heart disease	diet	diet	could be reversed with a plant-based	
-A-477	disease	disease	surgery	surgery	can be reversed without drugs and	
-A-477	plant-based diet	plant-based diet	heart disease	heart disease	programs for	
-A-477	plant-based diet	plant-based diet	disease	disease	can prevent, stop, and reverse heart	
-A-477	plant-based	plant-based	nutrition	nutrition		
-A-477	sudden cardiac death	sudden cardiac death	heart disease	heart disease	explained that there is nothing natural about getting	
-A-477	diet	diet	heart disease	heart disease	can prevent, stop, and reverse	
-A-477	heart disease	heart disease	surgery	surgery	can be reversed without drugs and	
-A-477	ornish	ornish	heart disease	heart disease	’s landmark 1990 study proving that	
-A-477	cardiac death	cardiac death	heart disease	heart disease	explained that there is nothing natural about getting	
-A-477	disease	disease	nutrition	nutrition	epidemic through plant-based	
-A-477	book	book	disease	disease	prevent and reverse heart	
-A-477	plant-based	plant-based	disease	disease	diet can prevent, stop, and reverse heart	
-A-477	diet	diet	disease	disease	can prevent, stop, and reverse heart	
-A-477	heart disease	heart disease	plant-based	plant-based	could be reversed with a	
-A-477	tomato effect	tomato effect	esselstyn	esselstyn	i feature dr. caldwell	
-A-477	china	china	death	death	study on sudden cardiac	
-A-477	dean ornish	dean ornish	disease	disease	’s landmark 1990 study proving that heart	
-A-477	disease	disease	plant-based	plant-based	epidemic through	
 A-477	disease	disease	plant-based	plant-based	could be reversed with a	
-A-477	drugs	drugs	cardiac death	cardiac death	and surgery, and yesterday, china study on sudden	
-A-477	china study	china study	cardiac death	cardiac death	on sudden	
-A-477	heart disease	heart disease	plant-based diet	plant-based diet	could be reversed with a	
-A-477	plant-based	plant-based	disease	disease	diet programs for heart	
-A-477	drugs	drugs	china	china	and surgery, and yesterday,	
-A-477	agribusiness	agribusiness	usda	usda	influence resulting in	
-A-477	americans	americans	cardiovascular disease	cardiovascular disease	to perish from	
 A-477	disease	disease	plant-based diet	plant-based diet	could be reversed with a	
-A-477	diet	diet	disease	disease	programs for heart	
+A-477	heart disease	heart disease	plant-based	plant-based	could be reversed with a	
+A-477	heart disease	heart disease	plant-based diet	plant-based diet	could be reversed with a	
 A-477	disease	disease	drugs	drugs	can be reversed without	
+A-477	death	death	heart disease	heart disease	explained that there is nothing natural about getting	
+A-477	heart disease	heart disease	drugs	drugs	can be reversed without	
+A-477	drugs	drugs	surgery	surgery	and	
+A-477	cardiac death	cardiac death	heart disease	heart disease	explained that there is nothing natural about getting	
 A-477	book	book	heart disease	heart disease	prevent and reverse	
-A-477	book	book	prevent and reverse heart disease	prevent and reverse heart disease		
+A-477	sudden cardiac death	sudden cardiac death	heart disease	heart disease	explained that there is nothing natural about getting	

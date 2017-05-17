@@ -1,16 +1,5 @@
 
-V-515	asia	asia	europe	europe	in 2011, and	
-V-515	death	death	blindness	blindness	and amputations,	
-V-515	harvard	harvard	egg	egg	researchers found that a single	
-V-515	eggs	eggs	diabetes	diabetes	associated with	
-V-515	death	death	kidney	kidney	and amputations, blindness, and	
-V-515	diabetes	diabetes	risk	risk		
-V-515	eggs	eggs	diabetes	diabetes	and	
-V-515	risk	risk	women	women	of type 2 diabetes in men and	
-V-515	death	death	amputations	amputations	and	
-V-515	eggs	eggs	risk	risk	associated with diabetes	
-V-515	risk	risk	eggs	eggs	the more and more	
-V-515	risk	risk	diabetes	diabetes	of type 2	
 V-515	eggs	eggs	chronic diseases	chronic diseases	is related to the development of some other	
-V-515	diabetes	diabetes	women	women	in men and	
-V-515	egg	egg	diabetes	diabetes	 a week appeared to increase the odds of	
+V-515	eggs	eggs	diabetes	diabetes	associated with	
+V-515	eggs	eggs	diabetes	diabetes	and	
+V-515	death	death	amputations	amputations	and	

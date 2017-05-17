@@ -1,21 +1,5 @@
 
 V-756	nuts	nuts	seeds	seeds	and	
-V-756	nuts	nuts	phytosterols	phytosterols	and seeds, and	
-V-756	phytosterols	phytosterols	plants	plants	and phytostanols work.just like phytoestrogens in	
-V-756	phytosterols	phytosterols	cholesterol	cholesterol	in plant foods to reduce	
-V-756	phytosterols	phytosterols	cholesterol	cholesterol	into our gut, less excess	
-V-756	plant foods	plant foods	cholesterol	cholesterol	to reduce	
-V-756	phytosterols	phytosterols	phytoestrogens	phytoestrogens	and phytostanols work.just like	
-V-756	phytosterols	phytosterols	cholesterol	cholesterol	—leaving the other half’s worth of	
-V-756	plant-based	plant-based	cholesterol	cholesterol		
-V-756	cholesterol	cholesterol	phytosterols	phytosterols	can help us understand how	
-V-756	cholesterol	cholesterol	phytosterol	phytosterol	looks like; here’s what a	
-V-756	phytosterols	phytosterols	gut	gut	into our	
 V-756	phytosterols	phytosterols	plant foods	plant foods	in	
-V-756	fiber	fiber	cholesterol	cholesterol	on	
-V-756	estrogen	estrogen	phytosterols	phytosterols	(which is a thousand times stronger),	
-V-756	estrogen	estrogen	plant-based	plant-based	(which is a thousand times stronger), phytosterols are	
-V-756	plant-based	plant-based	seeds	seeds	cholesterol lookalikes, found predominantly in nuts and	
-V-756	plant-based	plant-based	nuts	nuts	cholesterol lookalikes, found predominantly in	
-V-756	fiber	fiber	phytosterols	phytosterols	on cholesterol can help us understand how	
+V-756	cholesterol	cholesterol	phytosterols	phytosterols	can help us understand how	
 V-756	phytoestrogens	phytoestrogens	plants	plants	in	

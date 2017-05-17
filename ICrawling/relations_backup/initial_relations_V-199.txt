@@ -1,25 +1,11 @@
 
 V-199	smoking	smoking	lung cancer	lung cancer	and	
-V-199	produce	produce	kids	kids	evidence from randomized controlled trials: a thousand	
-V-199	sugar	sugar	drugs	drugs	pill—works great for evaluating new	
-V-199	medicine	medicine	placebo	placebo	organized and participated in a double blind, randomized,	
+V-199	cancer	cancer	smoking	smoking	and	
+V-199	evidence-based medicine	evidence-based medicine	blind	blind	organized and participated in a double	
+V-199	medical community	medical community	smoking	smoking	regarding the causal link between	
 V-199	lung cancer	lung cancer	smoking	smoking	and	
 V-199	cancer	cancer	inflammation	inflammation	may cause	
-V-199	fat	fat	treatment	treatment	diet, the most effective	
 V-199	smoking	smoking	lung cancer	lung cancer	causing	
 V-199	lung cancer	lung cancer	inflammation	inflammation	may cause	
-V-199	saturated fat	saturated fat	diet	diet		
-V-199	cancer	cancer	smoking	smoking	and	
-V-199	evidence-based medicine	evidence-based medicine	placebo	placebo	organized and participated in a double blind, randomized,	
-V-199	evidence-based medicine	evidence-based medicine	blind	blind	organized and participated in a double	
-V-199	saturated fat	saturated fat	treatment	treatment	diet, the most effective	
-V-199	medical community	medical community	smoking	smoking	regarding the causal link between	
-V-199	medical community	medical community	lung cancer	lung cancer	regarding the causal link between smoking and	
-V-199	medical community	medical community	cancer	cancer	regarding the causal link between smoking and lung	
-V-199	fat	fat	diet	diet		
-V-199	multiple sclerosis	multiple sclerosis	cochrane collaboration	cochrane collaboration	by the esteemed	
 V-199	kids	kids	smoking	smoking	banned from	
-V-199	smoking	smoking	cancer	cancer	causing lung	
 V-199	medicine	medicine	blind	blind	organized and participated in a double	
-V-199	americans	americans	diet	diet	every year, but a healthy	
-V-199	smoking	smoking	cancer	cancer	and lung	

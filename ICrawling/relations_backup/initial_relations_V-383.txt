@@ -1,38 +1,11 @@
 
-V-383	aluminum	aluminum	tea	tea	excretion through the urine after drinking	
-V-383	beverage	beverage	kidney failure	kidney failure	for children with	
-V-383	tea	tea	water	water	to	
-V-383	meat	meat	gravy	gravy	binders,	
-V-383	mouth	mouth	bladder	bladder	to our	
-V-383	plants	plants	aluminum	aluminum	tend suck up	
-V-383	meat	meat	baking	baking	binders, gravy thickeners, rising agents in some	
-V-383	urine	urine	tea	tea	after drinking	
-V-383	tea	tea	children	children	may not be a good beverage for	
-V-383	bioavailability	bioavailability	tea	tea	of aluminum in	
-V-383	children	children	kidney	kidney	with	
-V-383	bioavailability	bioavailability	aluminum	aluminum	of	
-V-383	beverage	beverage	kidney	kidney	for children with	
-V-383	tea	tea	aluminum	aluminum	is unlikely and that only little	
-V-383	aluminum	aluminum	tea	tea	in brewed	
-V-383	tea	tea	beverage	beverage	may not be a good	
-V-383	aluminum	aluminum	tea	tea	content was no different	
-V-383	aluminum	aluminum	tea	tea	absorption from	
-V-383	children	children	kidney failure	kidney failure	with	
+V-383	tea	tea	aluminum	aluminum	is bound up.but what about studies like this showing a large spike in	
 V-383	aluminum	aluminum	tea	tea	was in	
-V-383	tea	tea	plants	plants		
-V-383	aluminum	aluminum	cans	cans	in dented	
-V-383	cans	cans	aluminum	aluminum	can leach into the liquid boosting	
-V-383	baking	baking	candy	candy	powders, and dye-binders in	
-V-383	urine	urine	water	water	after drinking tea compared to	
-V-383	aluminum	aluminum	water	water	content was no different tea versus	
-V-383	kidney	kidney	aluminum	aluminum	failure, since they can’t get rid of	
 V-383	tea	tea	aluminum	aluminum	could provide 100% of one’s daily	
-V-383	gravy	gravy	baking	baking	thickeners, rising agents in some	
-V-383	antacids	antacids	aluminum	aluminum	that have the highest levels, though	
-V-383	tea	tea	cans	cans	out of a can, buy undented	
-V-383	tea	tea	aluminum	aluminum	versus water, suggesting that gross	
-V-383	beverage	beverage	children	children	for	
-V-383	tea	tea	aluminum	aluminum	is low, possibly because most of the extractable	
-V-383	drugs	drugs	antacids	antacids	on the market like	
-V-383	tea	tea	aluminum	aluminum	plants tend suck up	
+V-383	cans	cans	aluminum	aluminum	can leach into the liquid boosting	
+V-383	bioavailability	bioavailability	aluminum	aluminum	of	
+V-383	tea	tea	aluminum	aluminum	is unlikely and that only little	
+V-383	plants	plants	aluminum	aluminum	tend suck up	
+V-383	tea	tea	beverage	beverage	may not be a good	
+V-383	aluminum	aluminum	tea	tea	is potentially available for absorption.so though as few as 4 cups of	
 V-383	aluminum	aluminum	tea	tea	in	

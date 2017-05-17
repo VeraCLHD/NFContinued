@@ -1,27 +1,8 @@
 
-T-1298	myelopathy	myelopathy	b12	b12	refers to vitamin	
-T-1298	chicken	chicken	fish	fish	and mercury in	
-T-1298	meat	meat	tremors	tremors	may have an increased risk of getting muscle	
-T-1298	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	known as	
-T-1298	meat	meat	drug residues	drug residues	supply from	
-T-1298	tremors	tremors	carcinogens	carcinogens	due to the levels of cooked meat	
-T-1298	plant-based diets	plant-based diets	b12	b12	must ensure a regular, reliable source of vitamin	
-T-1298	tremors	tremors	meat	meat	due to the levels of cooked	
-T-1298	plant-based diets	plant-based diets	vitamin b12	vitamin b12	must ensure a regular, reliable source of	
-T-1298	vegetarian	vegetarian	vitamin b12	vitamin b12	’s myelopathy refers to	
+T-1298	chicken	chicken	mercury	mercury	and	
 T-1298	mercury	mercury	fish	fish	in	
 T-1298	usda	usda	meat	meat	has failed to safeguard the	
-T-1298	usda	usda	drug residues	drug residues	has failed to safeguard the meat supply from	
-T-1298	cooked meat	cooked meat	heterocyclic amines	heterocyclic amines	carcinogens known as	
-T-1298	tremors	tremors	cooked meat	cooked meat	due to the levels of	
-T-1298	risk	risk	tremors	tremors	of getting muscle	
-T-1298	plant-based	plant-based	vitamin b12	vitamin b12	diets must ensure a regular, reliable source of	
-T-1298	myelopathy	myelopathy	vitamin b12	vitamin b12	refers to	
-T-1298	arsenic	arsenic	fish	fish	in chicken and mercury in	
-T-1298	chicken	chicken	mercury	mercury	and	
-T-1298	arsenic	arsenic	mercury	mercury	in chicken and	
-T-1298	cooked meat	cooked meat	carcinogens	carcinogens		
-T-1298	vegetarian	vegetarian	b12	b12	’s myelopathy refers to vitamin	
 T-1298	meat	meat	risk	risk	may have an increased	
-T-1298	vegetarian	vegetarian	myelopathy	myelopathy	’s	
 T-1298	arsenic	arsenic	chicken	chicken	in	
+T-1298	myelopathy	myelopathy	vitamin b12	vitamin b12	refers to	
+T-1298	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	known as	

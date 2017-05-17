@@ -1,68 +1,21 @@
 
-T-1602	protein	protein	diet	diet	nature of the	
-T-1602	manure	manure	arsenic	arsenic	is one of the sources of how	
-T-1602	rice	rice	risk	risk	reduced diabetes	
-T-1602	grains	grains	phytonutrients	phytonutrients	contain helpful	
-T-1602	asia	asia	rice	rice	–	
-T-1602	antioxidants	antioxidants	rice	rice	out of the tested pigmented varieties of	
-T-1602	retinopathy	retinopathy	rice diet	rice diet	in the kempner	
-T-1602	arsenic	arsenic	rice	rice	than	
-T-1602	whole grains	whole grains	phytonutrients	phytonutrients	contain helpful	
-T-1602	iron	iron	rice	rice	and zinc in	
-T-1602	water	water	arsenic	arsenic	logged soil can absorb	
-T-1602	arsenic	arsenic	rice	rice	gets into	
-T-1602	grains	grains	phytonutrients	phytonutrients	have their	
-T-1602	vegetables	vegetables	garlic	garlic	from the allium family, such as	
-T-1602	hypertension	hypertension	retinopathy	retinopathy	and diabetic	
-T-1602	blood sugar	blood sugar	rice	rice	spike of the starches in white	
-T-1602	rice	rice	macular degeneration	macular degeneration	may also be protective against age-related	
-T-1602	hypertension	hypertension	rice	rice	and diabetic retinopathy in the kempner	
-T-1602	beans	beans	glycemic index	glycemic index	to lower the total	
-T-1602	asia	asia	rice bran	rice bran	–	
-T-1602	asia	asia	europe	europe	or	
-T-1602	diabetes	diabetes	rice	rice	while brown	
-T-1602	glycemic index	glycemic index	rice	rice	of the meal.	
-T-1602	yeast	yeast	rice	rice		
-T-1602	rice	rice	diabetes	diabetes	was associated with a 17% greater risk of	
-T-1602	risk	risk	brown rice	brown rice	of diabetes while	
-T-1602	rice	rice	risk	risk	was associated with a 17% greater	
-T-1602	diabetes	diabetes	risk	risk	while brown rice reduced diabetes	
-T-1602	poultry	poultry	manure	manure		
-T-1602	diet	diet	sodium	sodium	was more likely due to the low	
-T-1602	yeast	yeast	lovastatin	lovastatin	rice contains	
-T-1602	glycemic index	glycemic index	water	water	of the meal.rice grown in	
-T-1602	rice	rice	lovastatin	lovastatin	 contains	
 T-1602	arsenic	arsenic	environment	environment	found naturally in the	
-T-1602	sugar	sugar	rice	rice	spike of the starches in white	
-T-1602	anthocyanins	anthocyanins	rice	rice	in purple	
-T-1602	retinopathy	retinopathy	rice	rice	in the kempner	
-T-1602	hypertension	hypertension	diet	diet	and diabetic retinopathy in the kempner rice	
-T-1602	diabetes	diabetes	china	china	rates in	
-T-1602	phytonutrients	phytonutrients	risk	risk	that appear to lower the	
-T-1602	diabetes	diabetes	brown rice	brown rice	while	
-T-1602	retinopathy	retinopathy	diet	diet	in the kempner rice	
+T-1602	manure	manure	arsenic	arsenic	is one of the sources of how	
+T-1602	red yeast rice	red yeast rice	lovastatin	lovastatin	 contains	
+T-1602	grains	grains	phytonutrients	phytonutrients	contain helpful	
+T-1602	asia	asia	europe	europe	or	
 T-1602	iron	iron	zinc	zinc	and	
-T-1602	red yeast rice	red yeast rice	cholesterol	cholesterol	 contains lovastatin, a drug used to combat	
+T-1602	whole grains	whole grains	phytonutrients	phytonutrients	contain helpful	
 T-1602	zinc	zinc	rice	rice	in	
 T-1602	brown rice	brown rice	diabetes	diabetes	reduced	
-T-1602	grains	grains	risk	risk	contain helpful phytonutrients that appear to lower the	
-T-1602	risk	risk	rice	rice	of diabetes while brown	
-T-1602	rice	rice	antioxidants	antioxidants	appears to have the most	
-T-1602	insulin	insulin	sugar	sugar	to combat the blood	
-T-1602	blood	blood	rice	rice	sugar spike of the starches in white	
-T-1602	arsenic	arsenic	europe	europe	than rice grown in asia or	
-T-1602	hypertension	hypertension	rice diet	rice diet	and diabetic retinopathy in the kempner	
-T-1602	red yeast rice	red yeast rice	lovastatin	lovastatin	 contains	
-T-1602	whole grains	whole grains	risk	risk	contain helpful phytonutrients that appear to lower the	
-T-1602	poultry	poultry	arsenic	arsenic	manure is one of the sources of how	
-T-1602	brown rice	brown rice	risk	risk	reduced diabetes	
-T-1602	insulin	insulin	blood	blood	to combat the	
-T-1602	arsenic	arsenic	asia	asia	than rice grown in	
-T-1602	rice bran	rice bran	rice	rice	(the brown part of	
-T-1602	insulin	insulin	blood sugar	blood sugar	to combat the	
+T-1602	rice	rice	risk	risk	was associated with a 17% greater	
+T-1602	water	water	arsenic	arsenic	logged soil can absorb	
+T-1602	protein	protein	insulin	insulin	causes the pancreas to work twice as hard to pump out enough	
 T-1602	rice diet	rice diet	sodium	sodium	was more likely due to the low	
 T-1602	risk	risk	diabetes	diabetes	of	
-T-1602	yeast	yeast	cholesterol	cholesterol	rice contains lovastatin, a drug used to combat	
+T-1602	diet	diet	sodium	sodium	was more likely due to the low	
+T-1602	animal protein	animal protein	insulin	insulin	causes the pancreas to work twice as hard to pump out enough	
 T-1602	rice	rice	diabetes	diabetes	reduced	
-T-1602	rice	rice	cholesterol	cholesterol	 contains lovastatin, a drug used to combat	
-T-1602	blood	blood	sugar	sugar		
+T-1602	arsenic	arsenic	rice	rice	gets into	
+T-1602	rice	rice	lovastatin	lovastatin	 contains	
+T-1602	grains	grains	phytonutrients	phytonutrients	have their	

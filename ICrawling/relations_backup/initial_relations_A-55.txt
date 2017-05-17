@@ -1,19 +1,4 @@
 
-A-55	chicken	chicken	obesity	obesity	big: poultry and	
-A-55	calories	calories	vegetables	vegetables	a day, ate the same amount of	
-A-55	chicken	chicken	weight gain	weight gain	consumption was most associated with	
-A-55	weight gain	weight gain	women	women	in both men and	
 A-55	vegetarians	vegetarians	obesity	obesity	have considerably lower	
-A-55	women	women	meat	meat	who ate less than a small serving of	
-A-55	meat	meat	plants	plants	or because they’re eating more	
-A-55	poultry	poultry	weight gain	weight gain	consumption appeared to be the worst (see meat and	
-A-55	meat	meat	weight gain	weight gain	and	
-A-55	obesity	obesity	meat	meat	rates compared to those who eat	
-A-55	women	women	poultry	poultry	which showed that	
-A-55	grains	grains	exercise	exercise	and did the same amount of	
-A-55	calories	calories	fruits	fruits	a day, ate the same amount of vegetables,	
-A-55	poultry	poultry	meat	meat	consumption appeared to be the worst (see 	
 A-55	poultry	poultry	obesity	obesity	and	
-A-55	obesity	obesity	chicken	chicken	leading to greater	
-A-55	women	women	calories	calories	who ate the same number of	
-A-55	chicken	chicken	poultry	poultry	big:	
+A-55	meat	meat	weight gain	weight gain	and	

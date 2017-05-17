@@ -1,56 +1,10 @@
 
-V-51	type 1 diabetes	type 1 diabetes	milk	milk	among children and cow	
-V-51	milk	milk	type 1 diabetes	type 1 diabetes	consumption and	
-V-51	casein	casein	protein	protein		
-V-51	produce	produce	milk	milk	mostly a2	
-V-51	milk	milk	cows	cows	you get with holstein	
-V-51	milk	milk	insulin	insulin	contains bovine	
-V-51	milk	milk	type 1 diabetes	type 1 diabetes	exposure” appears to “increase the risk” of	
-V-51	insulin	insulin	milk	milk	in the cow’s	
-V-51	milk	milk	type 1 diabetes	type 1 diabetes	may serve as a trigger of	
-V-51	diabetes	diabetes	risk	risk	in genetically at	
-V-51	milk	milk	protein	protein		
-V-51	milk	milk	risk	risk	exposure” appears to “increase the	
-V-51	children	children	risk	risk	at high genetic	
-V-51	children	children	type 1 diabetes	type 1 diabetes	and adolescents was] correlated with the incidence” of	
-V-51	casein	casein	casomorphin	casomorphin	breaks down into	
-V-51	antibodies	antibodies	insulin	insulin	to bovine	
-V-51	immune function	immune function	infections	infections	—perhaps increasing susceptibility to	
-V-51	kids	kids	dairy	dairy	with	
-V-51	kids	kids	allergies	allergies	with dairy	
-V-51	milk	milk	risk	risk	had about five times the	
-V-51	diabetes	diabetes	children	children	among	
-V-51	disease	disease	casein	casein	—just what effect the hydrolyzed	
-V-51	antibodies	antibodies	insulin	insulin	our body produces to attack our own	
-V-51	infections	infections	type 1 diabetes	type 1 diabetes	that may themselves trigger	
-V-51	insulin	insulin	antibodies	antibodies	autoantibodies [	
-V-51	risk	risk	antibodies	antibodies	would be less likely to develop	
 V-51	milk	milk	diabetes	diabetes	may serve as a trigger of type 1	
-V-51	babies	babies	risk	risk	at high genetic	
-V-51	diabetes	diabetes	casomorphin	casomorphin	in iceland.see, a1 casein breaks down into	
-V-51	antibodies	antibodies	insulin	insulin	…cross-reacted [to] human	
-V-51	antibodies	antibodies	milk	milk	to bovine insulin in the cow’s	
-V-51	children	children	diabetes	diabetes	who get type 1	
-V-51	dairy	dairy	allergies	allergies		
-V-51	diabetes	diabetes	casein	casein	in iceland.see, a1	
-V-51	milk	milk	diabetes	diabetes	consumption and type 1	
-V-51	risk	risk	type 1 diabetes	type 1 diabetes	” of	
-V-51	milk	milk	type 1 diabetes	type 1 diabetes	protein…may reduce…or delay [the onset of	
-V-51	children	children	milk	milk	and cow	
-V-51	children	children	milk	milk	fed with cow’s	
-V-51	type 1 diabetes	type 1 diabetes	children	children	among	
-V-51	risk	risk	disease	disease	of coming down with the	
-V-51	antibodies	antibodies	milk	milk	in children fed with cow’s	
 V-51	casomorphin	casomorphin	immune function	immune function	has opioid properties that may alter	
-V-51	milk	milk	children	children	…consumption [in	
-V-51	children	children	diabetes	diabetes	at high genetic risk, with	
-V-51	diabetes	diabetes	milk	milk	among children and cow	
-V-51	milk	milk	disease	disease	is or is not a trigger for the	
-V-51	type 1 diabetes	type 1 diabetes	casomorphin	casomorphin	in iceland.see, a1 casein breaks down into	
-V-51	milk	milk	diabetes	diabetes	protein…may reduce…or delay [the onset of type 1	
 V-51	antibodies	antibodies	children	children	in	
-V-51	infections	infections	diabetes	diabetes	that may themselves trigger type 1	
-V-51	type 1 diabetes	type 1 diabetes	casein	casein	in iceland.see, a1	
-V-51	protein	protein	diabetes	diabetes	…may reduce…or delay [the onset of type 1	
-V-51	protein	protein	type 1 diabetes	type 1 diabetes	…may reduce…or delay [the onset of	
-V-51	risk	risk	diabetes	diabetes	” of type 1	
+V-51	milk	milk	insulin	insulin	contains bovine	
+V-51	children	children	milk	milk	fed with cow’s	
+V-51	milk	milk	type 1 diabetes	type 1 diabetes	may serve as a trigger of	
+V-51	risk	risk	antibodies	antibodies	would be less likely to develop	
+V-51	milk	milk	disease	disease	is or is not a trigger for the	
+V-51	milk	milk	risk	risk	had about five times the	

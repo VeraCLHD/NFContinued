@@ -1,5 +1,2 @@
 
-V-926	disease	disease	diet	diet	in your family, or you’re feeling your	
 V-926	diet	diet	cholesterol	cholesterol	hasn’t been the greatest—and your	
-V-926	heart disease	heart disease	diet	diet	in your family, or you’re feeling your	
-V-926	cholesterol	cholesterol	heart attacks	heart attacks	of people who have	

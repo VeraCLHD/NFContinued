@@ -1,45 +1,8 @@
 
-V-409	cancer cell growth	cancer cell growth	cauliflower	cauliflower	from raw broccoli,	
-V-409	mustard seeds	mustard seeds	broccoli	broccoli	to the heat processed	
-V-409	sulforaphane	sulforaphane	broccoli	broccoli	in boiled	
-V-409	mustard seeds	mustard seeds	vegetables	vegetables	to cooked cabbage-family	
-V-409	raw	raw	brussels sprouts	brussels sprouts	broccoli, cauliflower,	
 V-409	broccoli	broccoli	sulforaphane	sulforaphane	prevents the formation of any significant levels of	
-V-409	cancer	cancer	brussels sprouts	brussels sprouts	cell growth from raw broccoli, cauliflower,	
-V-409	cancer	cancer	cauliflower	cauliflower	cell growth from raw broccoli,	
-V-409	raw	raw	glucoraphanin	glucoraphanin	broccoli, when the sulforaphane precursor, called	
-V-409	sulforaphane	sulforaphane	boiled	boiled	in	
-V-409	raw	raw	broccoli	broccoli		
-V-409	raw	raw	sulforaphane	sulforaphane	broccoli, when the	
-V-409	cancer	cancer	sprouts	sprouts	cell growth from raw broccoli, cauliflower, brussels	
 V-409	soup	soup	broccoli	broccoli	made from fresh	
-V-409	sulforaphane	sulforaphane	vegetables	vegetables	because	
-V-409	sulforaphane	sulforaphane	seeds	seeds	formation, but addition of powdered mustard	
-V-409	sulforaphane	sulforaphane	breast cancer	breast cancer	targeting	
-V-409	broccoli	broccoli	soup	soup		
-V-409	raw	raw	boiled	boiled	broccoli, cauliflower, brussels sprouts, but hardly anything	
-V-409	sulforaphane	sulforaphane	cancer	cancer	targeting breast	
-V-409	stomach	stomach	sulforaphane	sulforaphane	for example, waiting to get digested,	
-V-409	cancer cell growth	cancer cell growth	sprouts	sprouts	from raw broccoli, cauliflower, brussels	
-V-409	detoxification	detoxification	cancer	cancer	enzymes, help prevent	
-V-409	cancer cell growth	cancer cell growth	broccoli	broccoli	from raw	
-V-409	sulforaphane	sulforaphane	glucoraphanin	glucoraphanin	precursor, called	
-V-409	cancer	cancer	broccoli	broccoli	cell growth from raw	
-V-409	seeds	seeds	vegetables	vegetables	to cooked cabbage-family	
-V-409	seeds	seeds	broccoli	broccoli	to the heat processed	
-V-409	kale	kale	cancer	cancer	suppresses	
-V-409	broccoli	broccoli	vegetables	vegetables	lacks the ability to form sulforaphane because	
-V-409	cancer	cancer	raw	raw	cell growth from	
-V-409	kale	kale	cancer cell growth	cancer cell growth	suppresses	
-V-409	sulforaphane	sulforaphane	broccoli	broccoli	out of the frozen	
-V-409	raw	raw	cauliflower	cauliflower	broccoli,	
-V-409	raw	raw	sprouts	sprouts	broccoli, cauliflower, brussels	
-V-409	boiled	boiled	broccoli	broccoli	microwaved or steamed, except for microwaved	
-V-409	sulforaphane	sulforaphane	mustard seeds	mustard seeds	formation, but addition of powdered	
+V-409	sulforaphane	sulforaphane	boiled	boiled	in	
 V-409	broccoli	broccoli	sulforaphane	sulforaphane	lacks the ability to form	
-V-409	broccoli	broccoli	sulforaphane	sulforaphane	significantly increased the formation of	
-V-409	boiled	boiled	broccoli	broccoli		
-V-409	mustard powder	mustard powder	broccoli	broccoli	on your cooked frozen	
-V-409	cancer cell growth	cancer cell growth	brussels sprouts	brussels sprouts	from raw broccoli, cauliflower,	
-V-409	detoxification	detoxification	enzymes	enzymes		
-V-409	cancer cell growth	cancer cell growth	raw	raw	from	
+V-409	kale	kale	cancer	cancer	suppresses	
+V-409	sulforaphane	sulforaphane	breast cancer	breast cancer	targeting	
+V-409	kale	kale	cancer cell growth	cancer cell growth	suppresses	

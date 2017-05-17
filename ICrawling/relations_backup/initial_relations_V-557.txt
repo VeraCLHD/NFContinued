@@ -1,31 +1,6 @@
 
-V-557	food dyes	food dyes	drugs	drugs	are used every year in foods,	
-V-557	lead	lead	gas	gas	in leaded	
 V-557	gas	gas	brain cancer	brain cancer	may have been causing	
-V-557	nitrites	nitrites	meats	meats	in processed	
-V-557	margarine	margarine	cream	cream	wouldn’t be yellow and mint ice	
-V-557	margarine	margarine	mint	mint	wouldn’t be yellow and	
-V-557	fda	fda	food dyes	food dyes	to ban	
-V-557	cspi	cspi	fda	fda	 continues to call on the	
-V-557	hyperactivity	hyperactivity	young children	young children	” among	
-V-557	risk	risk	cancer	cancer	of	
-V-557	fda	fda	margarine	margarine	: “without color additives, colas wouldn’t be brown,	
-V-557	kraft	kraft	cheese	cheese	mac &	
-V-557	food dyes	food dyes	cosmetics	cosmetics	are used every year in foods, drugs, and	
-V-557	mint	mint	ice cream	ice cream		
-V-557	margarine	margarine	ice cream	ice cream	wouldn’t be yellow and mint	
-V-557	mint	mint	cream	cream	ice	
-V-557	artificial colors	artificial colors	children	children	increased “inattentiveness, impulsivity, and hyperactivity” among young	
-V-557	gas	gas	cancer	cancer	may have been causing brain	
-V-557	hyperactivity	hyperactivity	children	children	” among young	
-V-557	artificial colors	artificial colors	hyperactivity	hyperactivity	increased “inattentiveness, impulsivity, and	
-V-557	cspi	cspi	food dyes	food dyes	 continues to call on the fda to ban	
-V-557	lead	lead	cspi	cspi	levels in the air pretty closely.anyway, the	
 V-557	nitrites	nitrites	processed meats	processed meats	in	
-V-557	children	children	artificial colors	artificial colors	’s brain—advising parents to test	
-V-557	food dyes	food dyes	diet	diet	in our daily	
-V-557	agriculture	agriculture	meat	meat	’s	
-V-557	risk	risk	preservatives	preservatives	of cancer, but, as	
-V-557	lead	lead	brain cancer	brain cancer	in leaded gas may have been causing	
-V-557	lead	lead	cancer	cancer	in leaded gas may have been causing brain	
-V-557	artificial colors	artificial colors	young children	young children	increased “inattentiveness, impulsivity, and hyperactivity” among	
+V-557	risk	risk	cancer	cancer	of	
+V-557	margarine	margarine	mint	mint	wouldn’t be yellow and	
+V-557	cspi	cspi	fda	fda	 continues to call on the	

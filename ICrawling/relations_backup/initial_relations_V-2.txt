@@ -1,30 +1,6 @@
 
-V-2	risk	risk	infection	infection	of influenza	
-V-2	tea	tea	influenza	influenza	may drop the risk of	
-V-2	influenza	influenza	water	water	infection seven- or eight-fold, compared to gargling with	
-V-2	green tea	green tea	dates	dates	as a ‘wonder weapon’ against diseases	
-V-2	tea	tea	infection	infection	may drop the risk of influenza	
-V-2	green tea	green tea	influenza	influenza	may drop the risk of	
-V-2	cancer cells	cancer cells	pathogens	pathogens	and	
-V-2	tea	tea	dates	dates		
-V-2	viruses	viruses	bacteria	bacteria	and	
-V-2	green tea	green tea	infection	infection	may drop the risk of influenza	
-V-2	gargling	gargling	green tea	green tea	with	
-V-2	cancer	cancer	pathogens	pathogens	cells and	
-V-2	risk	risk	influenza	influenza	of	
-V-2	gargling	gargling	tea	tea	with green	
-V-2	gargling	gargling	influenza	influenza	with green tea may drop the risk of	
-V-2	gargling	gargling	risk	risk	with green tea may drop the	
 V-2	tea	tea	risk	risk	may drop the	
-V-2	influenza	influenza	gargling	gargling	infection seven- or eight-fold, compared to	
-V-2	infection	infection	gargling	gargling	seven- or eight-fold, compared to	
-V-2	pathogens	pathogens	apples	apples	with “edible plant products, such as tea,	
-V-2	pathogens	pathogens	mushrooms	mushrooms	with “edible plant products, such as tea, apples,	
-V-2	tea	tea	dates	dates	as a ‘wonder weapon’ against diseases	
-V-2	infection	infection	water	water	seven- or eight-fold, compared to gargling with	
+V-2	viruses	viruses	bacteria	bacteria	and	
+V-2	risk	risk	influenza	influenza	of	
+V-2	cancer cells	cancer cells	pathogens	pathogens	and	
 V-2	green tea	green tea	risk	risk	may drop the	
-V-2	pathogens	pathogens	tea	tea	with “edible plant products, such as	
-V-2	cancer cells	cancer cells	tea	tea	and pathogens with “edible plant products, such as	
-V-2	influenza	influenza	infection	infection		
-V-2	bugs	bugs	fever	fever	that caused typhoid	
-V-2	risk	risk	gargling	gargling	of influenza infection seven- or eight-fold, compared to	

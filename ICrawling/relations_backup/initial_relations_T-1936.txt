@@ -1,34 +1,4 @@
 
-T-1936	vitamin b12	vitamin b12	plants	plants	is made by neither animals nor	
-T-1936	plant-based	plant-based	symptoms	symptoms	diet may improve alzheimer’s	
-T-1936	b12	b12	plant-based	plant-based	supplementation, a	
-T-1936	diet	diet	pregnant	pregnant	or take b12 supplements, especially	
-T-1936	supplements	supplements	myelopathy	myelopathy	and can result in paralysis,	
-T-1936	plant-based	plant-based	diet	diet	diets include b12-fortified foods in their	
-T-1936	diet	diet	b12	b12	or take	
-T-1936	omnivores	omnivores	b12	b12	under age 50 are rarely deficient in vitamin	
-T-1936	plant-based	plant-based	diet	diet		
-T-1936	plant-based diets	plant-based diets	diet	diet	include b12-fortified foods in their	
-T-1936	vitamin b12	vitamin b12	vegans	vegans	deficiency is common in	
-T-1936	b12	b12	plants	plants	is made by neither animals nor	
-T-1936	b12	b12	supplements	supplements	-fortified foods in their diet or take b12	
-T-1936	omnivores	omnivores	vitamin b12	vitamin b12	under age 50 are rarely deficient in	
-T-1936	b12	b12	diet	diet	-fortified foods in their	
-T-1936	supplements	supplements	paralysis	paralysis	and can result in	
-T-1936	vegans	vegans	b12	b12	who don’t eat	
-T-1936	pregnant	pregnant	women	women	or nursing	
+T-1936	diet	diet	symptoms	symptoms	may improve alzheimer’s	
 T-1936	plant-based diets	plant-based diets	b12	b12	include	
 T-1936	plant-based diet	plant-based diet	symptoms	symptoms	may improve alzheimer’s	
-T-1936	supplements	supplements	psychosis	psychosis	and can result in paralysis, myelopathy,	
-T-1936	plant-based diet	plant-based diet	b12	b12	may improve alzheimer’s symptoms, but if without	
-T-1936	plant-based	plant-based	b12	b12	diet may improve alzheimer’s symptoms, but if without	
-T-1936	b12	b12	plant-based diet	plant-based diet	supplementation, a	
-T-1936	diet	diet	symptoms	symptoms	may improve alzheimer’s	
-T-1936	diet	diet	b12	b12	may improve alzheimer’s symptoms, but if without	
-T-1936	plant-based	plant-based	b12	b12	diets include	
-T-1936	vitamin b12	vitamin b12	b12	b12	deficiency is common in vegans who don’t eat	
-T-1936	diet	diet	women	women	or take b12 supplements, especially pregnant or nursing	
-T-1936	supplements	supplements	atherosclerosis	atherosclerosis	and can result in paralysis, myelopathy, psychosis, or	
-T-1936	b12	b12	vegans	vegans	deficiency is common in	
-T-1936	b12	b12	diet	diet	supplementation, a plant-based	
-T-1936	diet	diet	supplements	supplements	or take b12	

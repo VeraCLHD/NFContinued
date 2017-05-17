@@ -1,25 +1,7 @@
 
-T-1356	meat	meat	meats	meats	—especially organ	
-T-1356	copper	copper	blood	blood	in their	
-T-1356	cadmium	cadmium	heart disease	heart disease	may contribute to a range of diseases, including	
-T-1356	plant-based	plant-based	bioavailability	bioavailability	foods may be much lower than cadmium	
-T-1356	copper	copper	supplements	supplements	and iron are also often found in multi-vitamin	
-T-1356	grains	grains	vegetables	vegetables	and	
-T-1356	cancer	cancer	diabetes	diabetes	and	
-T-1356	cadmium	cadmium	plant-based	plant-based	absorption from	
-T-1356	plant-based	plant-based	cadmium	cadmium	foods may be much lower than	
-T-1356	bioavailability	bioavailability	meats	meats	in animal products.organ	
-T-1356	meat	meat	organ meats	organ meats	—especially	
-T-1356	cadmium	cadmium	organ meats	organ meats	levels.the highest levels of cadmium are found in	
-T-1356	usda	usda	brains	brains	nutrient database,	
 T-1356	brains	brains	cholesterol	cholesterol	are the #1 source of	
-T-1356	organ meats	organ meats	heavy metals	heavy metals	also tend to be high in	
-T-1356	meats	meats	heavy metals	heavy metals	also tend to be high in	
-T-1356	arthritis	arthritis	uric acid	uric acid	made painful by needle-sharp crystals of	
 T-1356	meats	meats	gout	gout	can be the culprit in	
 T-1356	copper	copper	iron	iron	and	
-T-1356	iron	iron	supplements	supplements	are also often found in multi-vitamin	
-T-1356	meats	meats	copper	copper	and shellfish are the richest food sources of	
-T-1356	organ meats	organ meats	copper	copper	and shellfish are the richest food sources of	
-T-1356	usda	usda	cholesterol	cholesterol	nutrient database, brains are the #1 source of	
+T-1356	grains	grains	vegetables	vegetables	and	
+T-1356	cancer	cancer	diabetes	diabetes	and	
 T-1356	iron	iron	copper	copper	and	

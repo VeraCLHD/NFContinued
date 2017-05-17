@@ -1,14 +1,5 @@
 
-T-255	blood clots	blood clots	inflammation	inflammation	and the type of unwanted	
 T-255	tomatoes	tomatoes	berries	berries	and	
-T-255	risk	risk	blood	blood	of	
-T-255	platelets	platelets	blood	blood	to avoid internal	
-T-255	inflammation	inflammation	disease	disease	that can support heart	
-T-255	inflammation	inflammation	heart disease	heart disease	that can support	
-T-255	inflammation	inflammation	cancer	cancer	that can support heart disease,	
 T-255	blood clots	blood clots	arteries	arteries	can form inside	
-T-255	blood clots	blood clots	blood	blood	can form inside arteries,	
-T-255	inflammation	inflammation	inflammatory diseases	inflammatory diseases	that can support heart disease, cancer, and other	
-T-255	blood	blood	inflammation	inflammation	clots and the type of unwanted	
-T-255	platelets	platelets	blood clots	blood clots	to avoid internal	
+T-255	risk	risk	blood	blood	of	
 T-255	risk	risk	blood clots	blood clots	of	

@@ -1,52 +1,8 @@
 
-V-148	gout	gout	uric acid	uric acid	and hyperuricemia, elevated levels of	
-V-148	tuna	tuna	heavy metals	heavy metals	by-products, they could bioaccumulate	
-V-148	lead	lead	risk	risk	means lower uric acid levels and lower gout	
-V-148	doctors	doctors	risk	risk	and nutritionists take the	
-V-148	dioxins	dioxins	cooked meat	cooked meat	and pcbs to the	
-V-148	tuna	tuna	mercury	mercury	may have sardines beat when it comes to	
-V-148	arsenic	arsenic	mercury	mercury	and	
-V-148	chicken	chicken	lead	lead	bones was found to have markedly high	
-V-148	disease	disease	lead	lead	control and the world health organization, a blood	
-V-148	symptoms	symptoms	constipation	constipation	of chronic exposure range from memory loss and	
-V-148	doctors	doctors	contamination	contamination	and nutritionists take the risk of lead	
-V-148	health	health	lead	lead	organization, a blood	
-V-148	uric acid	uric acid	blood	blood	in the	
-V-148	symptoms	symptoms	memory	memory	of chronic exposure range from	
 V-148	impotence	impotence	depression	depression	and	
-V-148	blood	blood	lead	lead		
-V-148	risk	risk	contamination	contamination	of lead	
-V-148	dioxins	dioxins	carcinogens	carcinogens	and pcbs to the cooked meat	
-V-148	lead	lead	uric acid	uric acid	means lower	
-V-148	dioxins	dioxins	meat	meat	and pcbs to the cooked	
-V-148	lead	lead	doctors	doctors	consumption to the human body, they recommend that	
-V-148	doctors	doctors	lead	lead	and nutritionists take the risk of	
-V-148	disease	disease	blood	blood	control and the world health organization, a	
 V-148	dioxins	dioxins	pcbs	pcbs	and	
 V-148	tuna	tuna	sardines	sardines	may have	
-V-148	health	health	blood	blood	organization, a	
 V-148	sardines	sardines	arsenic	arsenic	have the most	
-V-148	gout	gout	risk	risk		
-V-148	lead	lead	contamination	contamination		
-V-148	disease	disease	health	health	control and the world	
-V-148	memory	memory	constipation	constipation	loss and	
+V-148	lead	lead	uric acid	uric acid	means lower	
+V-148	arsenic	arsenic	mercury	mercury	and	
 V-148	risk	risk	lead	lead	of	
-V-148	pcbs	pcbs	carcinogens	carcinogens	to the cooked meat	
-V-148	sardines	sardines	tuna	tuna	have the most arsenic, but	
-V-148	health	health	fish	fish	protection do not consider the	
-V-148	mercury	mercury	fish	fish	and lead.the problem is that	
-V-148	fish	fish	health	health	-consumption advisories related to human	
-V-148	disease	disease	world health organization	world health organization	control and the	
-V-148	uric acid	uric acid	risk	risk	levels and lower gout	
-V-148	health	health	lead	lead	outcomes, but even throughout this “acceptable” range, lower	
-V-148	memory	memory	impotence	impotence	loss and constipation to	
-V-148	lead	lead	gout	gout	means lower uric acid levels and lower	
-V-148	pcbs	pcbs	meat	meat	to the cooked	
-V-148	constipation	constipation	depression	depression	to impotence and	
-V-148	risk	risk	lead	lead	of being contaminated with	
-V-148	uric acid	uric acid	gout	gout	levels and lower	
-V-148	pcbs	pcbs	cooked meat	cooked meat	to the	
-V-148	constipation	constipation	impotence	impotence	to	
-V-148	memory	memory	depression	depression	loss and constipation to impotence and	
-V-148	cooked meat	cooked meat	carcinogens	carcinogens		
-V-148	arsenic	arsenic	fish	fish	and mercury, are found in	

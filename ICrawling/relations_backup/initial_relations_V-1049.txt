@@ -1,17 +1,3 @@
 
-V-1049	risk	risk	prostate cancer	prostate cancer	of breast cancer,	
 V-1049	risk	risk	breast cancer	breast cancer	of	
-V-1049	risk	risk	cancer	cancer	of breast	
-V-1049	protein	protein	hormones	hormones	your body makes that takes excess	
-V-1049	risk	risk	prostate	prostate	of breast cancer,	
-V-1049	plant-based	plant-based	diet	diet		
-V-1049	produce	produce	protein	protein	a sex hormone-binding globulin, a	
-V-1049	sex hormones	sex hormones	risk	risk	in the bloodstream can be deleterious—increasing our	
-V-1049	prostate	prostate	cancer	cancer		
-V-1049	prostate	prostate	diabetes	diabetes	cancer, and other disorders, like	
-V-1049	meat	meat	diabetes	diabetes	intake remained an important factor for	
 V-1049	risk	risk	diabetes	diabetes	of	
-V-1049	meat	meat	diabetes	diabetes	weekly significantly increases our risk of	
-V-1049	hormones	hormones	risk	risk	in the bloodstream can be deleterious—increasing our	
-V-1049	diet	diet	meat	meat	that includes	
-V-1049	meat	meat	risk	risk	weekly significantly increases our	

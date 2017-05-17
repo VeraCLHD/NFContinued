@@ -2,6 +2,7 @@ package relations_identification;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -55,7 +56,7 @@ public class RelationsFilter {
 	
 	public static boolean startsWithVP(String candidate){
 		boolean result = false;
-		if(!candidate.isEmpty() && !candidate.matches("\\s+") && candidate.equals(" ") && candidate !=null){
+		if(!candidate.isEmpty() && !candidate.matches("\\s+") && !candidate.equals(" ") && candidate !=null){
 			Sentence sent = new Sentence(candidate);
 			// pos tags penn tree bank
 		    //https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
@@ -65,24 +66,55 @@ public class RelationsFilter {
 		    	result = pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD");
 			}
 		}
+		
+	
 	    
 	    
 		return result;
 	}
 	
-	public static boolean startsWithVPAndNotOtherSentence(String candidate){
+	/**
+	 * A method that checks for incomplete nout phrases - if the first or the last elements of a candidate are nouns, the noun phrase is incomplete
+	 * example: disease study about heart disease. Candidate: study about heart -> makes no sense.
+	 * @param candidate
+	 * @return
+	 */
+	public static boolean startsWithN(List<String> pos, String candidate){
+		String pos0 = null;
 		boolean result = false;
-		if(!candidate.isEmpty() && !candidate.matches("\\s+") && candidate.equals(" ") && candidate !=null){
-			Sentence sent = new Sentence(candidate);
-			// pos tags penn tree bank
-		    //https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
-		   List<String> pos =  sent.posTags();
+		
+		    if(!pos.isEmpty()){
+		    	// avoids extracting incomplete noun phrases: if the first word of candidate is noun or the last is noun or adjective
+		    	result = pos.get(0).matches("NN|NNS|NNP|NNPS") || pos.get(pos.size()-1).matches("NN|NNS|NNP|NNPS|JJ|JJR|JJS");
+		    	pos0 = pos.get(0);//;
+		    }
+		
+		return result;
+	}
+	
+	public static boolean startsWithVPAndNotOtherSentence(List<String> pos, String candidate){
+		boolean result = false;
+		
 		    if(!pos.isEmpty()){
 		    	// if the candidate starts with a verb, then it is a verbal phrase
-		    	if(pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD") == true && !candidate.contains(",")){
+		    	if(pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD") == true && !candidate.contains(",") && !candidate.contains(";")){
 		    		result = true;
 		    	}
-			}
+			
+		}
+	    
+	    
+		return result;
+	}
+	
+	public static boolean candidateContainsOtherTerms(String candidate){
+		boolean result = false;
+		Set<String> set = InitialRelationsManager.allTermsAndVariations;
+		
+		int index = StringUtils.indexOfAny(candidate, set.toArray(new String[set.size()]));
+		    if(index !=-1){
+		    	result = true;
+			
 		}
 	    
 	    

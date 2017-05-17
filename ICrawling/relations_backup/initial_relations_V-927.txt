@@ -1,19 +1,5 @@
 
-V-927	nasal irrigation	nasal irrigation	salt water	salt water	with	
 V-927	salt water	salt water	neti pot	neti pot	using something like a	
-V-927	pain	pain	symptoms	symptoms	and fever,	
-V-927	water	water	neti pot	neti pot	using something like a	
-V-927	symptoms	symptoms	fever	fever	in immunocompetent individuals—just mild pain and	
-V-927	pain	pain	nasal irrigation	nasal irrigation	and fever, symptoms lasting less than a week—	
-V-927	nasal irrigation	nasal irrigation	water	water	with salt	
-V-927	treatment	treatment	disease	disease	of serious	
-V-927	nasal irrigation	nasal irrigation	salt	salt	with	
-V-927	bugs	bugs	infection	infection	that caused your sinus	
-V-927	boiling	boiling	water	water		
 V-927	water	water	microwaving	microwaving	or	
-V-927	salt	salt	neti pot	neti pot	water using something like a	
-V-927	boiling	boiling	microwaving	microwaving	water or	
+V-927	water	water	neti pot	neti pot	using something like a	
 V-927	pain	pain	fever	fever	and	
-V-927	symptoms	symptoms	pain	pain	in immunocompetent individuals—just mild	
-V-927	salt	salt	water	water		
-V-927	nasal irrigation	nasal irrigation	neti pot	neti pot	with salt water using something like a	

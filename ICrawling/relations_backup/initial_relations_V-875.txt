@@ -1,31 +1,7 @@
 
 V-875	nitrites	nitrites	meat	meat	be bad in	
-V-875	nitrosamines	nitrosamines	nitrites	nitrites	that form in the meat when they add 	
-V-875	nitrates	nitrates	vitamin c	vitamin c	plus plant foods; no problem.but is there any	
-V-875	cancer	cancer	risk	risk		
-V-875	cancer	cancer	vegetables	vegetables	risk—childhood leukemia, for example—yet, higher intake of	
-V-875	fast food	fast food	meat	meat	and processed	
-V-875	meat	meat	risk	risk	increases cancer	
-V-875	beets	beets	blood	blood	and	
-V-875	mouth	mouth	nitrates	nitrates	 from all the	
-V-875	nitrosamines	nitrosamines	meat	meat	preform in the	
-V-875	nitrites	nitrites	nitrosamines	nitrosamines	to meat, and	
-V-875	nitrites	nitrites	meat	meat	to	
-V-875	vegetables	vegetables	risk	risk	is associated with a reduced	
-V-875	nitrates	nitrates	plants	plants	.so, nitrates in	
-V-875	nitrites	nitrites	nitrosamines	nitrosamines	added to the meat, but eating the	
-V-875	vegetables	vegetables	plants	plants	are significantly lower in nitrates.so, nitrates in	
-V-875	nitrates	nitrates	nitric oxide	nitric oxide	turn into nitrites, which turn into	
-V-875	risk	risk	leukemia	leukemia	—childhood	
-V-875	nitrosamines	nitrosamines	nitrites	nitrites	are the carcinogens, not the	
-V-875	organic	organic	vegetables	vegetables	producers, in fact, brag that their	
-V-875	nitrates	nitrates	plant foods	plant foods	plus	
-V-875	phytonutrients	phytonutrients	plants	plants	—like caffeic acid, found in all	
-V-875	meat	meat	leukemia	leukemia	increases cancer risk—childhood	
-V-875	nitrosamines	nitrosamines	meat	meat	that form in the	
 V-875	beets	beets	blood pressure	blood pressure	and	
 V-875	vitamin c	vitamin c	meat	meat	in	
-V-875	cancer	cancer	leukemia	leukemia	risk—childhood	
 V-875	nitrites	nitrites	nitric oxide	nitric oxide	turn into no [	
 V-875	meat	meat	cancer	cancer	increases	
 V-875	nitrosamines	nitrosamines	carcinogens	carcinogens	are the	
@@ -33,8 +9,8 @@ V-875	nitrites	nitrites	nitrosamines	nitrosamines	form
 V-875	vegetables	vegetables	nitrates	nitrates	are significantly lower in	
 V-875	nitrates	nitrates	nitrites	nitrites	turn into	
 V-875	fast food	fast food	processed meat	processed meat	and	
+V-875	beets	beets	blood	blood	and	
+V-875	nitrosamines	nitrosamines	meat	meat	preform in the	
 V-875	nitrates	nitrates	nitrites	nitrites	is that they form	
 V-875	nitrites	nitrites	meat	meat	added to the	
-V-875	lies	lies	nitrites	nitrites	in the circumstances in which	
-V-875	risk	risk	vegetables	vegetables	—childhood leukemia, for example—yet, higher intake of	
-V-875	lies	lies	nitrosamines	nitrosamines	in the circumstances in which nitrites form	
+V-875	vegetables	vegetables	risk	risk	is associated with a reduced	

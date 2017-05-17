@@ -1,40 +1,6 @@
 
-V-241	organic	organic	vegetarian	vegetarian		
-V-241	gas	gas	livestock	livestock	emissions from	
-V-241	vegetarian	vegetarian	organic	organic	diet of conventional foods, beaten out by an	
-V-241	animal protein	animal protein	taxes	taxes		
-V-241	diet	diet	dietary guidelines	dietary guidelines	adhering to	
-V-241	meat	meat	animal protein	animal protein	or	
-V-241	protein	protein	calories	calories	production systems is like 25	
-V-241	dairy	dairy	grains	grains	were found to have the greatest environmental impact, whereas	
-V-241	plant-based	plant-based	diet	diet		
-V-241	calories	calories	energy	energy	of fossil	
-V-241	organic	organic	vegan	vegan		
-V-241	diet	diet	climate change	climate change	would cut the cost of mitigating	
-V-241	health	health	chronic diseases	chronic diseases	threat of the 21st century, and currently,	
-V-241	animal protein	animal protein	calories	calories	production systems is like 25	
-V-241	diet	diet	vegetarian	vegetarian	would be better, similar to a	
-V-241	animal protein	animal protein	gas	gas	taxes, educational campaigns, and putting the greenhouse	
-V-241	vegetarian	vegetarian	diet	diet		
-V-241	protein	protein	taxes	taxes		
-V-241	chronic diseases	chronic diseases	death	death	are, by far, the leading cause of	
-V-241	energy	energy	animal protein	animal protein	input for	
-V-241	organic	organic	diet	diet	vegan	
-V-241	vegan	vegan	diet	diet	and organic vegan	
 V-241	meat	meat	dairy	dairy	and	
-V-241	meat	meat	protein	protein	or animal	
-V-241	protein	protein	energy	energy	production systems is like 25 calories of fossil	
-V-241	meat	meat	taxes	taxes	or animal protein	
-V-241	organic	organic	diet	diet	omnivorous	
-V-241	organic	organic	diet	diet	vegetarian	
-V-241	vegetarian	vegetarian	organic	organic	diet, conventional vegan and	
-V-241	medical journals	medical journals	climate change	climate change	in the world editorialized that	
-V-241	organic	organic	vegetarian	vegetarian	omnivorous diet would be better, similar to a	
-V-241	energy	energy	protein	protein	input for animal	
-V-241	diet	diet	organic	organic	adhering to dietary guidelines, to an	
-V-241	diet	diet	vegetarian	vegetarian	of conventional foods, beaten out by an organic	
-V-241	protein	protein	gas	gas	taxes, educational campaigns, and putting the greenhouse	
+V-241	meat	meat	animal protein	animal protein	or	
 V-241	fruits	fruits	vegetables	vegetables	and	
 V-241	vegan	vegan	organic	organic	and	
 V-241	climate change	climate change	health	health	represents the biggest global	
-V-241	animal protein	animal protein	energy	energy	production systems is like 25 calories of fossil	

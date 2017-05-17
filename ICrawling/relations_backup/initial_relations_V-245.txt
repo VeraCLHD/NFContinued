@@ -1,55 +1,15 @@
 
-V-245	chewing	chewing	pizza	pizza	is a five-cheese	
+V-245	risk	risk	blood	blood	spiking your	
+V-245	stomach	stomach	blood sugar	blood sugar	faster, producing greater	
+V-245	vegetables	vegetables	phytonutrients	phytonutrients	?there are special classes of	
 V-245	blood sugar	blood sugar	insulin	insulin	and	
 V-245	phytonutrients	phytonutrients	fruits	fruits	in	
-V-245	cream	cream	rice	rice	of brown	
-V-245	blood sugar	blood sugar	beans	beans	spikes.even blended	
-V-245	blood	blood	insulin	insulin	sugar and	
-V-245	nuts	nuts	hummus	hummus	are better than bread,	
-V-245	whole grain	whole grain	chewing	chewing	flour products.even just	
-V-245	grains	grains	beans	beans	or more like	
-V-245	colon	colon	cancer	cancer		
-V-245	vegetables	vegetables	greens	greens	” were	
-V-245	risk	risk	blood	blood	spiking your	
-V-245	fruits	fruits	phytonutrients	phytonutrients	and vegetables?there are special classes of	
-V-245	sugar	sugar	beans	beans	spikes.even blended	
-V-245	stomach	stomach	colon	colon	and small intestine, and end up in our	
-V-245	fruit	fruit	grains	grains	more like	
-V-245	fruits	fruits	grains	grains	and vegetables, the same may be true for	
-V-245	nutrient-dense	nutrient-dense	vegetables	vegetables	foods on the planet, and dark green leafy	
-V-245	nuts	nuts	bread	bread	are better than	
-V-245	cream	cream	cereal	cereal	of brown rice hot	
-V-245	stomach	stomach	insulin	insulin	faster, producing greater blood sugar and	
-V-245	fruits	fruits	vegetables	vegetables	and	
-V-245	fruit	fruit	beans	beans	more like grains or more like	
-V-245	nutrient-dense	nutrient-dense	leafy vegetables	leafy vegetables	foods on the planet, and dark green	
-V-245	fiber	fiber	beans	beans	foods like	
-V-245	vegetables	vegetables	phytonutrients	phytonutrients	?there are special classes of	
-V-245	whole grains	whole grains	chewing	chewing	are better than whole grain flour products.even just	
-V-245	colon	colon	prebiotics	prebiotics	to act as	
 V-245	whole grains	whole grains	whole grain	whole grain	are better than	
-V-245	fruits	fruits	greens	greens	and vegetables” were	
-V-245	chewing	chewing	insulin	insulin	really well can boost the glycemic and	
-V-245	vegetables	vegetables	nutrient-dense	nutrient-dense	are the most	
-V-245	fiber	fiber	colon	colon	for transport down to your	
-V-245	blood	blood	beans	beans	sugar spikes.even blended	
-V-245	gut	gut	flora	flora		
-V-245	sugar	sugar	insulin	insulin	and	
-V-245	fruits	fruits	nutrient-dense	nutrient-dense	and vegetables are the most	
-V-245	grains	grains	chewing	chewing	are better than whole grain flour products.even just	
-V-245	digestion	digestion	stomach	stomach	and absorption in our	
-V-245	stomach	stomach	blood	blood	faster, producing greater	
-V-245	vegetables	vegetables	fruits	fruits	?there are special classes of phytonutrients in	
-V-245	blood	blood	insulin	insulin	sugar, twice the	
-V-245	risk	risk	sugar	sugar	spiking your blood	
-V-245	fiber	fiber	bacteria	bacteria	for transport down to your colon	
-V-245	stomach	stomach	blood sugar	blood sugar	faster, producing greater	
-V-245	stomach	stomach	sugar	sugar	faster, producing greater blood	
-V-245	phytonutrients	phytonutrients	vegetables	vegetables	in fruits and	
+V-245	nuts	nuts	bread	bread	are better than	
 V-245	risk	risk	blood sugar	blood sugar	spiking your	
 V-245	cream	cream	brown rice	brown rice	of	
-V-245	colon	colon	bacteria	bacteria		
 V-245	grains	grains	whole grain	whole grain	are better than	
-V-245	leafy vegetables	leafy vegetables	lead	lead		
-V-245	rice	rice	stomach	stomach	particles empty out of your	
-V-245	blood	blood	sugar	sugar		
+V-245	vegetables	vegetables	nutrient-dense	nutrient-dense	are the most	
+V-245	fruits	fruits	vegetables	vegetables	and	
+V-245	sugar	sugar	insulin	insulin	and	
+V-245	stomach	stomach	blood	blood	faster, producing greater	

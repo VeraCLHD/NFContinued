@@ -1,17 +1,4 @@
 
 V-1064	soy	soy	breast cancer	breast cancer	helps prevent	
-V-1064	tamoxifen	tamoxifen	breast cancer	breast cancer	—a drug	
 V-1064	phytoestrogens	phytoestrogens	soy	soy	found in	
-V-1064	women	women	soy	soy	who have breast cancer who eat	
-V-1064	breast cancer	breast cancer	soy	soy	survivors on tamoxifen should avoid	
-V-1064	cancer	cancer	soy	soy	who eat	
-V-1064	estrogen	estrogen	phytoestrogens	phytoestrogens	activity, do you want to be eating the	
-V-1064	cancer	cancer	tamoxifen	tamoxifen	survivors on	
-V-1064	breast cancer	breast cancer	tamoxifen	tamoxifen	survivors on	
-V-1064	women	women	breast cancer	breast cancer	who have	
-V-1064	cancer	cancer	soy	soy	survivors on tamoxifen should avoid	
-V-1064	breast cancer	breast cancer	soy	soy	who eat	
-V-1064	tamoxifen	tamoxifen	cancer	cancer	—a drug breast	
 V-1064	tamoxifen	tamoxifen	soy	soy	should avoid	
-V-1064	women	women	cancer	cancer	who have breast	
-V-1064	soy	soy	cancer	cancer	helps prevent breast	

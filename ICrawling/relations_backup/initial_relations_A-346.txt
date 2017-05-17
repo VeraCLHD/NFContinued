@@ -1,27 +1,8 @@
 
 A-346	figs	figs	fiber	fiber	are so satiating and packed with	
 A-346	dried fruit	dried fruit	nuts	nuts	and	
-A-346	americans	americans	dried fruit	dried fruit	that average a tablespoon or more of	
-A-346	figs	figs	lead	lead	to people’s daily diets did not	
-A-346	cholesterol	cholesterol	figs	figs	that adding 14	
-A-346	nuts	nuts	obesity	obesity	and	
-A-346	fruit	fruit	weight gain	weight gain	& nut bars cause	
-A-346	dried fruit	dried fruit	figs	figs	for cholesterol that adding 14	
-A-346	fruit	fruit	cholesterol	cholesterol	for	
-A-346	trail mix	trail mix	nuts	nuts	and eat dried fruits and	
+A-346	fruits	fruits	nuts	nuts	and	
+A-346	fruit	fruit	nuts	nuts	and	
 A-346	calories	calories	figs	figs	of	
 A-346	calories	calories	prunes	prunes	of	
-A-346	lead	lead	weight gain	weight gain	to significant	
-A-346	americans	americans	fruit	fruit	that average a tablespoon or more of dried	
-A-346	fruit	fruit	figs	figs	for cholesterol that adding 14	
-A-346	fruits	fruits	nuts	nuts	and	
-A-346	candy	candy	calories	calories		
-A-346	fruit	fruit	nuts	nuts	and	
-A-346	nuts	nuts	body mass index	body mass index	and nut butters, lower	
-A-346	trail mix	trail mix	fruits	fruits	and eat dried	
-A-346	dried fruit	dried fruit	cholesterol	cholesterol	for	
-A-346	variety	variety	fruit	fruit	of healthier	
-A-346	cholesterol	cholesterol	nuts	nuts	didn’t get better despite the	
-A-346	apples	apples	diet	diet	to our	
-A-346	dried apples	dried apples	diet	diet	to our	
-A-346	fruit	fruit	diet	diet	and nut bars on top of one’s regular	
+A-346	nuts	nuts	obesity	obesity	and	

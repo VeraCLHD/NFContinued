@@ -1,130 +1,27 @@
 
-A-455	broccoli	broccoli	cancer stem cells	cancer stem cells	versus breast	
 A-455	broccoli	broccoli	detoxifying enzymes	detoxifying enzymes	boosts the	
-A-455	breast cancer	breast cancer	stem cells	stem cells		
-A-455	breast cancer	breast cancer	women	women	is the leading cancer killer of young	
-A-455	sprouts	sprouts	cancer	cancer	may decrease the metastatic potential of lung	
-A-455	metastatic potential	metastatic potential	lung cancer	lung cancer	of	
-A-455	vegetables	vegetables	produce	produce		
-A-455	japanese	japanese	health	health		
-A-455	broccoli	broccoli	cancer	cancer	versus breast	
-A-455	food poisoning	food poisoning	broccoli sprouts	broccoli sprouts	(as noted in	
-A-455	raw	raw	cancer	cancer	broccoli and bladder	
-A-455	produce	produce	cancer cells	cancer cells	a compound that appears to target breast	
-A-455	cruciferous vegetables	cruciferous vegetables	breast cancer	breast cancer	produce a compound that appears to target	
-A-455	sprouts	sprouts	lung cancer	lung cancer	may decrease the metastatic potential of	
-A-455	kale	kale	amla	amla	can boost our good cholesterol, like	
-A-455	vegetables	vegetables	cancer	cancer	produce a compound that appears to target breast	
-A-455	kale	kale	immune system	immune system	and the	
-A-455	cancer	cancer	women	women	is the leading cancer killer of young	
-A-455	raw	raw	alfalfa	alfalfa		
-A-455	phytonutrient	phytonutrient	broccoli	broccoli	in	
-A-455	smoking	smoking	kale	kale	versus	
-A-455	smoking	smoking	japanese	japanese	versus kale juice looks at the	
-A-455	kale	kale	juice	juice		
-A-455	lung cancer	lung cancer	broccoli	broccoli	metastases and	
-A-455	vegetables	vegetables	cancer	cancer	helps prevent	
-A-455	fruits	fruits	cancer	cancer	and vegetables in	
-A-455	alfalfa sprouts	alfalfa sprouts	alfalfa	alfalfa	and update on	
-A-455	health	health	kale	kale	fad of doing shots of	
-A-455	broccoli	broccoli	breast cancer	breast cancer	versus	
-A-455	fruits	fruits	vegetables	vegetables	and	
-A-455	enzymes	enzymes	liver	liver	in the	
-A-455	smoking	smoking	juice	juice	versus kale	
-A-455	greens	greens	cancer stem cells	cancer stem cells	play in a new theory of cancer biology,	
-A-455	alfalfa	alfalfa	raw	raw	(don’t eat	
-A-455	broccoli	broccoli	cancer	cancer	and bladder	
-A-455	detoxifying enzymes	detoxifying enzymes	liver	liver	in the	
-A-455	cruciferous vegetables	cruciferous vegetables	cancer	cancer	produce a compound that appears to target breast	
-A-455	women	women	surgery	surgery	scheduled for breast reduction	
-A-455	raw	raw	broccoli	broccoli		
-A-455	juice	juice	health	health	looks at the japanese	
-A-455	vegetables	vegetables	cancer cells	cancer cells	produce a compound that appears to target breast	
-A-455	broccoli	broccoli	stem cells	stem cells	versus breast cancer	
-A-455	alfalfa	alfalfa	sprouts	sprouts	(don’t eat raw alfalfa	
-A-455	risk	risk	broccoli sprouts	broccoli sprouts	of food poisoning (as noted in	
-A-455	metastatic potential	metastatic potential	cancer	cancer	of lung	
-A-455	smoking	smoking	health	health	versus kale juice looks at the japanese	
-A-455	sprouts	sprouts	alfalfa	alfalfa	and update on	
-A-455	cancer	cancer	stem cells	stem cells	biology, cancer	
-A-455	kale	kale	japanese	japanese	juice looks at the	
-A-455	broccoli sprouts	broccoli sprouts	risk	risk	appear much safer in terms of the	
-A-455	alfalfa	alfalfa	alfalfa sprouts	alfalfa sprouts	(don’t eat raw	
-A-455	cancer	cancer	metastases	metastases		
-A-455	breast cancer	breast cancer	cancer	cancer	is the leading	
-A-455	phytonutrient	phytonutrient	enzymes	enzymes	in broccoli boosts the detoxifying	
-A-455	greens	greens	dna	dna	protect our	
-A-455	raw	raw	sprouts	sprouts	alfalfa	
-A-455	risk	risk	broccoli	broccoli	of food poisoning (as noted in	
-A-455	food poisoning	food poisoning	broccoli	broccoli	(as noted in	
-A-455	bladder	bladder	cancer	cancer		
-A-455	vegetables	vegetables	breast cancer	breast cancer	produce a compound that appears to target	
-A-455	lung cancer	lung cancer	metastases	metastases		
-A-455	broccoli	broccoli	sprouts	sprouts		
-A-455	cancer	cancer	cancer	cancer	stem cells, which explains why breast	
-A-455	cancer	cancer	women	women	is the #1 cancer killer of	
-A-455	broccoli	broccoli	bladder	bladder	and	
-A-455	raw	raw	bladder	bladder	broccoli and	
-A-455	broccoli	broccoli	phytonutrients	phytonutrients		
-A-455	food poisoning	food poisoning	sprouts	sprouts	(as noted in broccoli	
-A-455	fruits	fruits	prevention	prevention	and vegetables in cancer	
-A-455	kale	kale	health	health	juice looks at the japanese	
-A-455	broccoli	broccoli	cancer survival	cancer survival	and bladder	
-A-455	carcinogens	carcinogens	dna	dna	isn’t the only way greens protect our	
-A-455	health	health	juice	juice	fad of doing shots of kale	
-A-455	risk	risk	food poisoning	food poisoning	of	
-A-455	broccoli sprouts	broccoli sprouts	lung cancer	lung cancer	may decrease the metastatic potential of	
-A-455	alfalfa	alfalfa	sprouts	sprouts		
-A-455	juice	juice	japanese	japanese	looks at the	
-A-455	produce	produce	breast cancer	breast cancer	a compound that appears to target	
-A-455	prevention	prevention	vegetables	vegetables	side of the story in the healthiest	
-A-455	produce	produce	cancer	cancer	a compound that appears to target breast	
-A-455	sprouts	sprouts	alfalfa sprouts	alfalfa sprouts	and update on	
-A-455	raw	raw	sprouts	sprouts		
-A-455	raw	raw	kale	kale		
-A-455	cruciferous vegetables	cruciferous vegetables	cancer cells	cancer cells	produce a compound that appears to target breast	
-A-455	broccoli sprouts	broccoli sprouts	cancer	cancer	may decrease the metastatic potential of lung	
-A-455	broccoli	broccoli	enzymes	enzymes	boosts the detoxifying	
-A-455	japanese	japanese	kale	kale	health fad of doing shots of	
-A-455	sulforaphane	sulforaphane	broccoli	broccoli	: from	
-A-455	bladder	bladder	cancer survival	cancer survival		
-A-455	raw	raw	cooking	cooking	kale, a follow-up on my best	
-A-455	kale	kale	cholesterol	cholesterol	can boost our good	
-A-455	phytonutrients	phytonutrients	greens	greens	in certain	
-A-455	broccoli	broccoli	bladder cancer	bladder cancer	and	
-A-455	metastases	metastases	broccoli	broccoli	and	
-A-455	risk	risk	sprouts	sprouts	of food poisoning (as noted in broccoli	
-A-455	broccoli	broccoli	liver	liver	boosts the detoxifying enzymes in the	
-A-455	dna	dna	broccoli	broccoli	of	
-A-455	alfalfa sprouts	alfalfa sprouts	sprouts	sprouts	and update on alfalfa	
-A-455	lung cancer	lung cancer	women	women	is the #1 cancer killer of	
-A-455	phytonutrient	phytonutrient	detoxifying enzymes	detoxifying enzymes	in broccoli boosts the	
-A-455	carcinogens	carcinogens	greens	greens	isn’t the only way	
 A-455	sprouts	sprouts	metastatic potential	metastatic potential	may decrease the	
-A-455	broccoli	broccoli	risk	risk	sprouts appear much safer in terms of the	
-A-455	phytonutrient	phytonutrient	liver	liver	in broccoli boosts the detoxifying enzymes in the	
-A-455	kale	kale	cocoa	cocoa	can boost our good cholesterol, like amla and	
-A-455	cruciferous vegetables	cruciferous vegetables	produce	produce		
-A-455	broccoli	broccoli	dna	dna	-eaters found that eating broccoli appears to make	
-A-455	japanese	japanese	juice	juice	health fad of doing shots of kale	
+A-455	metastatic potential	metastatic potential	lung cancer	lung cancer	of	
+A-455	risk	risk	food poisoning	food poisoning	of	
+A-455	cancer survival	cancer survival	cruciferous vegetables	cruciferous vegetables	completed my 13-video series on the latest research on	
 A-455	broccoli sprouts	broccoli sprouts	metastatic potential	metastatic potential	may decrease the	
-A-455	raw	raw	alfalfa sprouts	alfalfa sprouts		
+A-455	juice	juice	japanese	japanese	looks at the	
 A-455	sprouts	sprouts	risk	risk	appear much safer in terms of the	
-A-455	raw	raw	bladder cancer	bladder cancer	broccoli and	
 A-455	lung cancer	lung cancer	cancer	cancer	is the #1	
-A-455	immune system	immune system	raw	raw	compares the immune system-boosting effect of cooked versus	
-A-455	cancer	cancer	cancer	cancer	is the leading	
+A-455	broccoli sprouts	broccoli sprouts	risk	risk	appear much safer in terms of the	
 A-455	amla	amla	cocoa	cocoa	and	
+A-455	phytonutrient	phytonutrient	broccoli	broccoli	in	
 A-455	cancer	cancer	cancer	cancer	is the #1	
-A-455	fruits	fruits	cancer prevention	cancer prevention	and vegetables in	
-A-455	cancer	cancer	stem cells	stem cells		
-A-455	cancer	cancer	broccoli	broccoli	metastases and	
 A-455	vegetables	vegetables	cancer	cancer	in	
 A-455	broccoli	broccoli	juice	juice	sprout	
-A-455	cancer	cancer	broccoli	broccoli	cell migration, suggesting that	
-A-455	raw	raw	cancer survival	cancer survival	broccoli and bladder	
-A-455	raw	raw	cooking method	cooking method	kale, a follow-up on my best	
+A-455	greens	greens	dna	dna	protect our	
+A-455	kale	kale	cholesterol	cholesterol	can boost our good	
+A-455	vegetables	vegetables	cancer	cancer	helps prevent	
+A-455	broccoli	broccoli	bladder cancer	bladder cancer	and	
+A-455	broccoli	broccoli	bladder	bladder	and	
+A-455	metastases	metastases	broccoli	broccoli	and	
 A-455	vegetables	vegetables	cancer prevention	cancer prevention	in	
-A-455	vegetables	vegetables	prevention	prevention	in cancer	
+A-455	dna	dna	broccoli	broccoli	of	
 A-455	greens	greens	cancer	cancer	play in a new theory of	
-A-455	cancer	cancer	prevention	prevention		
+A-455	fruits	fruits	vegetables	vegetables	and	
+A-455	cancer survival	cancer survival	vegetables	vegetables	completed my 13-video series on the latest research on cruciferous	

@@ -1,33 +1,6 @@
 
-V-102	fat	fat	mortality	mortality	and protein was associated with higher	
-V-102	fruits	fruits	apples	apples	—with some bugs thrown in, thanks to wormy	
+V-102	plant foods	plant foods	health	health	promote	
 V-102	protein	protein	mortality	mortality	was associated with higher	
 V-102	health	health	longevity	longevity	and	
-V-102	fruits	fruits	scurvy	scurvy	and vegetables—from the vitamin c-deficiency disease,	
-V-102	plants	plants	diet	diet	in our	
-V-102	antioxidant	antioxidant	antioxidants	antioxidants	defense?plants create	
-V-102	mammals	mammals	vitamin c	vitamin c	unable to synthesize their own	
-V-102	low carb	low carb	diet	diet		
-V-102	plant-based	plant-based	diet	diet		
-V-102	plant foods	plant foods	diet	diet	in our	
-V-102	junk food	junk food	vegetables	vegetables	for	
-V-102	paleolithic diets	paleolithic diets	meat	meat	with lots of lean	
-V-102	fruits	fruits	bugs	bugs	—with some	
-V-102	antioxidants	antioxidants	free radicals	free radicals	to defend their own structures against	
-V-102	low carb	low carb	vegetables	vegetables	community said they were eating more of was	
-V-102	antioxidant	antioxidant	enzymes	enzymes		
-V-102	fruit	fruit	apes	apes	bats) are all, like us great	
-V-102	fruits	fruits	disease	disease	and vegetables—from the vitamin c-deficiency	
-V-102	vegetables	vegetables	disease	disease	—from the vitamin c-deficiency	
-V-102	plant foods	plant foods	health	health	promote	
-V-102	bugs	bugs	apples	apples	thrown in, thanks to wormy	
-V-102	diet	diet	fruit	fruit	pull some of the weight, like the-not-bothering-to-make-vitamin-c-thing—let the	
-V-102	low carb	low carb	protein	protein	diet high in animal sources of fat and	
-V-102	low carb	low carb	fat	fat	diet high in animal sources of	
-V-102	plant foods	plant foods	longevity	longevity	promote health and	
-V-102	vegetables	vegetables	scurvy	scurvy	—from the vitamin c-deficiency disease,	
-V-102	diet	diet	protein	protein	high in animal sources of fat and	
 V-102	fruits	fruits	vegetables	vegetables	and	
-V-102	diet	diet	fat	fat	high in animal sources of	
-V-102	low carb	low carb	vegetables	vegetables	advocates may be eating more	
 V-102	fat	fat	protein	protein	and	

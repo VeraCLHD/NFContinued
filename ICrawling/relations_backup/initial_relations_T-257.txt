@@ -1,88 +1,10 @@
 
-T-257	risk	risk	blood pressure	blood pressure	involving 89,000 californians found a drop in	
 T-257	diabetes	diabetes	obesity	obesity	and	
-T-257	fruit	fruit	blood	blood	daily does not appear to raise	
-T-257	americans	americans	blood	blood	reach 60, nearly half have high	
-T-257	high blood pressure	high blood pressure	medications	medications	with	
-T-257	plant-based	plant-based	diet	diet		
-T-257	diet	diet	blood	blood	and	
-T-257	blood	blood	diet	diet	pressure.in one study of rural kenyans, the traditional	
-T-257	beans	beans	grains	grains	and other legumes, whole	
-T-257	americans	americans	high blood pressure	high blood pressure	reach 60, nearly half have	
-T-257	blood pressure	blood pressure	drugs	drugs		
-T-257	chinese	chinese	blood	blood	residents who adhered to a traditional plant-based diet,	
-T-257	beans	beans	beets	beets	and other legumes, whole grains,	
-T-257	hibiscus	hibiscus	potatoes	potatoes	tea, purple	
-T-257	drugs	drugs	high blood pressure	high blood pressure	on the market,	
-T-257	diabetes	diabetes	plant foods	plant foods	and obesity rates, that correlated with volume of	
-T-257	blood	blood	americans	americans	pressure, and by the time	
-T-257	beans	beans	juice	juice	and other legumes, whole grains, beets, beet	
-T-257	risk	risk	blood	blood	for high	
-T-257	blood pressure	blood pressure	diet	diet	.in one study of rural kenyans, the traditional	
-T-257	hibiscus	hibiscus	purple potatoes	purple potatoes	tea,	
-T-257	diet	diet	grains	grains	of whole	
-T-257	beverages	beverages	beans	beans	that may help reduce high blood pressure includes	
-T-257	beverages	beverages	blood pressure	blood pressure	that may help reduce high	
-T-257	risk	risk	death	death	factor for	
-T-257	kidney	kidney	disease	disease		
-T-257	potatoes	potatoes	seaweed	seaweed	and the	
-T-257	meat	meat	blood	blood	from the diet can lower	
-T-257	risk	risk	dr. walter kempner	dr. walter kempner	by eating and living healthfully.in the 1940s,	
-T-257	blood pressure	blood pressure	drugs	drugs	-lowering	
-T-257	rice	rice	fruit	fruit	and	
-T-257	risk	risk	high blood pressure	high blood pressure	for	
-T-257	purple potatoes	purple potatoes	seaweed	seaweed	and the	
-T-257	plant-based	plant-based	blood	blood	diet,	
-T-257	physicians	physicians	high blood pressure	high blood pressure	today fail to prescribe dietary changes to lower	
-T-257	diet	diet	blood	blood	can lower	
-T-257	beans	beans	whole grains	whole grains	and other legumes,	
-T-257	death	death	risk	risk	in the world, as it is a	
 T-257	diet	diet	whole grains	whole grains	of	
-T-257	uric acid	uric acid	risk	risk	levels, which are associated with an increased	
-T-257	hibiscus	hibiscus	wakame	wakame	tea, purple potatoes and the seaweed	
-T-257	high blood pressure	high blood pressure	drugs	drugs		
-T-257	beverages	beverages	high blood pressure	high blood pressure	that may help reduce	
-T-257	beans	beans	beet juice	beet juice	and other legumes, whole grains, beets,	
-T-257	blood	blood	drugs	drugs	pressure-lowering	
-T-257	blood pressure	blood pressure	high blood pressure	high blood pressure	in just seven days, without medication.attempting to reduce	
-T-257	meat	meat	blood pressure	blood pressure	from the diet can lower	
-T-257	fructose	fructose	blood	blood	(added sugars) may also be linked to high	
-T-257	fructose	fructose	fruit	fruit	found in up to 20 servings of whole	
-T-257	fructose	fructose	blood pressure	blood pressure	(added sugars) may also be linked to high	
-T-257	high blood pressure	high blood pressure	diet	diet	with a low-salt, low-protein	
-T-257	kidney	kidney	stroke	stroke	disease,	
-T-257	drugs	drugs	blood	blood	on the market, high	
-T-257	hibiscus	hibiscus	seaweed	seaweed	tea, purple potatoes and the	
-T-257	blood	blood	hypertension	hypertension	pressure, also known as	
-T-257	meat	meat	diet	diet	from the	
-T-257	diet	diet	beans	beans	of whole grains,	
-T-257	drugs	drugs	risk	risk	can gain a further 78% drop in	
-T-257	beans	beans	legumes	legumes	and other	
-T-257	seaweed	seaweed	wakame	wakame		
-T-257	diet	diet	rice	rice	consisting of white	
-T-257	blood pressure	blood pressure	blood	blood	risk involving 89,000 californians found a drop in	
-T-257	obesity	obesity	plant foods	plant foods	rates, that correlated with volume of	
-T-257	diet	diet	fruit	fruit	consisting of white rice and	
-T-257	hibiscus	hibiscus	tea	tea		
-T-257	drugs	drugs	blood pressure	blood pressure	on the market, high	
-T-257	blood	blood	drugs	drugs	pressure	
-T-257	salt	salt	fructose	fructose	intake and industrially-manufactured	
-T-257	diet	diet	vegetables	vegetables	of whole grains, beans,	
+T-257	rice	rice	fruit	fruit	and	
 T-257	diet	diet	blood pressure	blood pressure	can lower	
-T-257	chinese	chinese	diet	diet	residents who adhered to a traditional plant-based	
-T-257	risk	risk	blood	blood	involving 89,000 californians found a drop in	
-T-257	beans	beans	cocoa	cocoa	and other legumes, whole grains, beets, beet juice,	
-T-257	risk	risk	blood pressure	blood pressure	for high	
-T-257	diet	diet	fruit	fruit	of whole grains, beans, vegetables,	
-T-257	potatoes	potatoes	wakame	wakame	and the seaweed	
-T-257	high blood pressure	high blood pressure	rice	rice	with a low-salt, low-protein diet consisting of white	
-T-257	blindness	blindness	disease	disease	and possibly alzheimer’s	
-T-257	chinese	chinese	plant-based diet	plant-based diet	residents who adhered to a traditional	
-T-257	americans	americans	blood pressure	blood pressure	reach 60, nearly half have high	
-T-257	fruit	fruit	blood pressure	blood pressure	daily does not appear to raise	
-T-257	kidney	kidney	blindness	blindness	disease, stroke,	
-T-257	purple potatoes	purple potatoes	wakame	wakame	and the seaweed	
-T-257	sugar	sugar	uric acid	uric acid	increase	
-T-257	fructose	fructose	high blood pressure	high blood pressure	(added sugars) may also be linked to	
-T-257	chinese	chinese	plant-based	plant-based	residents who adhered to a traditional	
-T-257	beverages	beverages	blood	blood	that may help reduce high	
+T-257	drugs	drugs	risk	risk	can gain a further 78% drop in	
+T-257	diet	diet	blood	blood	and	
+T-257	diet	diet	blood	blood	can lower	
+T-257	fructose	fructose	fruit	fruit	found in up to 20 servings of whole	
+T-257	diet	diet	rice	rice	consisting of white	

@@ -1,23 +1,7 @@
 
-T-123	anxiety	anxiety	arachidonic acid	arachidonic acid	producing chemical ractopamine, or the inflammatory	
-T-123	orange	orange	lavender	lavender	aromatherapy may decrease anxiety while increasing concentration, and	
-T-123	mozart	mozart	mood	mood	to maximize your	
-T-123	apple	apple	juice	juice		
-T-123	apple juice	apple juice	mood	mood	might improve the	
-T-123	anxiety	anxiety	ractopamine	ractopamine	producing chemical	
-T-123	orange	orange	anxiety	anxiety	aromatherapy may decrease	
-T-123	carotenoid	carotenoid	serotonin	serotonin	levels and increased	
-T-123	lavender	lavender	drugs	drugs	may be more effective than benzodiazepine	
-T-123	lavender	lavender	valium	valium	may be more effective than benzodiazepine drugs like	
-T-123	saffron	saffron	pms	pms	to improve	
-T-123	mood	mood	omnivores	omnivores	when compared to	
-T-123	aromatherapy	aromatherapy	lavender	lavender	may decrease anxiety while increasing concentration, and	
-T-123	apple	apple	mood	mood	juice might improve the	
+T-123	bacteria	bacteria	mood	mood	may actually be able to communicate with our brain to affect our	
 T-123	juice	juice	mood	mood	might improve the	
-T-123	mood	mood	memory	memory	of alzheimer’s patients (though not their	
 T-123	vegetarians	vegetarians	mood	mood	appear to have a better overall	
-T-123	gut	gut	bacteria	bacteria		
-T-123	anxiety	anxiety	lavender	lavender	while increasing concentration, and	
+T-123	apple juice	apple juice	mood	mood	might improve the	
+T-123	gut bacteria	gut bacteria	mood	mood	may actually be able to communicate with our brain to affect our	
 T-123	aromatherapy	aromatherapy	anxiety	anxiety	may decrease	
-T-123	drugs	drugs	valium	valium	like	
-T-123	orange	orange	aromatherapy	aromatherapy		

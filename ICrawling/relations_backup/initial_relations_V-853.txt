@@ -1,42 +1,4 @@
 
-V-853	cancer	cancer	long island	long island	study project estimated the quantity of lignans	
-V-853	postmenopausal	postmenopausal	women	women		
-V-853	flax	flax	risk	risk	use may increase the	
-V-853	lignans	lignans	flax	flax	are found in a single teaspoon of	
-V-853	plant-based diets	plant-based diets	vegetables	vegetables	rich in fruits,	
-V-853	plant-based	plant-based	grains	grains	diets rich in fruits, vegetables, and	
-V-853	women	women	cancer	cancer	with breast	
-V-853	plant-based	plant-based	vegetables	vegetables	diets rich in fruits,	
-V-853	cancer	cancer	diet	diet	appears to be the same type of	
-V-853	plant-based diets	plant-based diets	fruits	fruits	rich in	
-V-853	cancer	cancer	risk	risk		
-V-853	flax	flax	seeds	seeds		
-V-853	cancer	cancer	tumors	tumors	is initially so slow-growing that women may have	
-V-853	breast cancer	breast cancer	tumors	tumors	is initially so slow-growing that women may have	
-V-853	cancer	cancer	lignans	lignans	study project estimated the quantity of	
-V-853	breast cancer	breast cancer	risk	risk		
-V-853	plant-based	plant-based	fruits	fruits	diets rich in	
-V-853	women	women	breast cancer	breast cancer	with	
-V-853	long island	long island	lignans	lignans	breast cancer study project estimated the quantity of	
-V-853	mortality	mortality	risk	risk		
-V-853	lignans	lignans	women	women	long island	
-V-853	vegetables	vegetables	seeds	seeds	like kale, big jump to sesame	
-V-853	vegetables	vegetables	sesame seeds	sesame seeds	like kale, big jump to	
-V-853	postmenopausal	postmenopausal	cancer	cancer	women with breast	
-V-853	breast cancer	breast cancer	long island	long island	study project estimated the quantity of lignans	
-V-853	long island	long island	cancer	cancer	breast	
 V-853	women	women	tumors	tumors	may have	
-V-853	plant-based diets	plant-based diets	grains	grains	rich in fruits, vegetables, and	
-V-853	breast cancer	breast cancer	diet	diet	appears to be the same type of	
-V-853	lignans	lignans	seeds	seeds	are found in a single teaspoon of flax	
-V-853	phytonutrients	phytonutrients	kingdom	kingdom	found throughout the plant	
-V-853	cancer	cancer	women	women	is initially so slow-growing that	
-V-853	breast cancer	breast cancer	lignans	lignans	study project estimated the quantity of	
-V-853	lignans	lignans	flax seeds	flax seeds	are found in a single teaspoon of	
-V-853	diet	diet	cancer	cancer	that helps prevent breast	
-V-853	vegetables	vegetables	kale	kale	like	
-V-853	lignans	lignans	long island	long island		
 V-853	breast cancer	breast cancer	women	women	is initially so slow-growing that	
-V-853	postmenopausal	postmenopausal	breast cancer	breast cancer	women with	
-V-853	diet	diet	breast cancer	breast cancer	that helps prevent	
-V-853	long island	long island	breast cancer	breast cancer		
+V-853	cancer	cancer	women	women	is initially so slow-growing that	

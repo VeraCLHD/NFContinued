@@ -1,69 +1,14 @@
 
-A-210	china study	china study	death	death	on sudden cardiac	
-A-210	drugs	drugs	pain-killers	pain-killers	and	
-A-210	china	china	sudden cardiac death	sudden cardiac death	study on	
-A-210	china study	china study	health	health	“showed the serious	
-A-210	oxidative stress	oxidative stress	inflammation	inflammation	and	
-A-210	curcumin	curcumin	osteoarthritis	osteoarthritis	in turmeric play in the treatment of	
-A-210	curcumin	curcumin	turmeric	turmeric	and who shouldn’t consume curcumin or	
-A-210	china study	china study	sudden cardiac death	sudden cardiac death	on	
-A-210	bioavailability	bioavailability	turmeric	turmeric	of curcumin and who shouldn’t consume curcumin or	
-A-210	curry powder	curry powder	turmeric	turmeric	spice	
-A-210	vegetables	vegetables	peas	peas	and fruits, and beans, split	
-A-210	china	china	cardiac death	cardiac death	study on sudden	
-A-210	china	china	health	health	study “showed the serious	
-A-210	turmeric	turmeric	treatment	treatment	play in the	
-A-210	chickpeas	chickpeas	lentils	lentils	and	
-A-210	vegetables	vegetables	fruits	fruits	and	
-A-210	vegetables	vegetables	beans	beans	and fruits, and	
-A-210	curcumin	curcumin	ibuprofen	ibuprofen	group did as good or better than the	
 A-210	bioavailability	bioavailability	curcumin	curcumin	of	
-A-210	anti-inflammatory	anti-inflammatory	fruits	fruits	plant foods (whole grains, vegetables and	
+A-210	drugs	drugs	pain-killers	pain-killers	and	
+A-210	oxidative stress	oxidative stress	inflammation	inflammation	and	
+A-210	treatment	treatment	osteoarthritis	osteoarthritis	of	
 A-210	phytonutrients	phytonutrients	plants	plants	in	
 A-210	spices	spices	inflammation	inflammation	fight	
-A-210	western diet	western diet	inflammation	inflammation	“contributes to low-grade systemic	
-A-210	vegetables	vegetables	lentils	lentils	and fruits, and beans, split peas, chickpeas and	
-A-210	stress	stress	inflammation	inflammation	and	
-A-210	plant foods	plant foods	grains	grains	(whole	
-A-210	anti-inflammatory	anti-inflammatory	disease	disease	foods help with this	
-A-210	anti-inflammatory	anti-inflammatory	treatment	treatment	drugs and pain-killers, or the best available	
-A-210	diet	diet	stress	stress	“contributes to low-grade systemic inflammation, and oxidative tissue	
-A-210	turmeric	turmeric	osteoarthritis	osteoarthritis	play in the treatment of	
-A-210	anti-inflammatory	anti-inflammatory	grains	grains	plant foods (whole	
-A-210	plant foods	plant foods	split peas	split peas	(whole grains, vegetables and fruits, and beans,	
-A-210	anti-inflammatory	anti-inflammatory	diet	diet		
-A-210	diet	diet	inflammation	inflammation	“contributes to low-grade systemic	
 A-210	curcumin	curcumin	turmeric	turmeric	in	
-A-210	anti-inflammatory	anti-inflammatory	vegetables	vegetables	plant foods (whole grains,	
-A-210	plant foods	plant foods	beans	beans	(whole grains, vegetables and fruits, and	
-A-210	ibuprofen	ibuprofen	turmeric	turmeric	or concentrated	
-A-210	plant foods	plant foods	vegetables	vegetables	(whole grains,	
-A-210	inflammation	inflammation	joint inflammation	joint inflammation	both play a role in	
+A-210	stress	stress	inflammation	inflammation	and	
 A-210	obesity	obesity	stress	stress	doesn’t just put more	
-A-210	health	health	dairy	dairy	consequences of high consumption of pro-inflammatory foods (meat,	
-A-210	vegetables	vegetables	split peas	split peas	and fruits, and beans,	
-A-210	oxidative stress	oxidative stress	joint inflammation	joint inflammation	and inflammation both play a role in	
-A-210	rose hips	rose hips	osteoarthritis	osteoarthritis	for	
-A-210	china	china	death	death	study on sudden cardiac	
-A-210	anti-inflammatory	anti-inflammatory	whole grains	whole grains	plant foods (	
-A-210	plant foods	plant foods	peas	peas	(whole grains, vegetables and fruits, and beans, split	
-A-210	health	health	meat	meat	consequences of high consumption of pro-inflammatory foods (	
-A-210	turmeric	turmeric	osteoarthritis	osteoarthritis	curcumin and	
-A-210	china study	china study	cardiac death	cardiac death	on sudden	
-A-210	treatment	treatment	osteoarthritis	osteoarthritis	of	
-A-210	osteoarthritis	osteoarthritis	treatment	treatment	and gave them either the best available medical	
-A-210	turmeric	turmeric	curcumin	curcumin		
-A-210	plant foods	plant foods	fruits	fruits	(whole grains, vegetables and	
-A-210	stress	stress	joint inflammation	joint inflammation	and inflammation both play a role in	
-A-210	drugs	drugs	treatment	treatment	and pain-killers, or the best available	
-A-210	anti-inflammatory	anti-inflammatory	pain-killers	pain-killers	drugs and	
-A-210	anti-inflammatory	anti-inflammatory	plant foods	plant foods		
-A-210	curcumin	curcumin	treatment	treatment	in turmeric play in the	
-A-210	vegetables	vegetables	chickpeas	chickpeas	and fruits, and beans, split peas,	
 A-210	osteoarthritis	osteoarthritis	rose hips	rose hips	is	
-A-210	anti-inflammatory	anti-inflammatory	drugs	drugs		
-A-210	turmeric	turmeric	osteoarthritis	osteoarthritis	extracts in patients with knee	
+A-210	chickpeas	chickpeas	lentils	lentils	and	
+A-210	vegetables	vegetables	fruits	fruits	and	
 A-210	nutrition	nutrition	exercise	exercise	and	
-A-210	anti-inflammatory	anti-inflammatory	beans	beans	plant foods (whole grains, vegetables and fruits, and	
-A-210	stress	stress	immune system	immune system	and irritation, placing the	
-A-210	western diet	western diet	stress	stress	“contributes to low-grade systemic inflammation, and oxidative tissue	

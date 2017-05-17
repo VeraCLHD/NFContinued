@@ -1,9 +1,0 @@
-
-V-795	usda	usda	poultry	poultry		
-V-795	usda	usda	raw	raw	poultry microbiologist nelson cox said, “	
-V-795	poultry	poultry	raw	raw	microbiologist nelson cox said, “	
-V-795	usda	usda	meats	meats	poultry microbiologist nelson cox said, “raw	
-V-795	poultry	poultry	meats	meats	microbiologist nelson cox said, “raw	
-V-795	raw	raw	meats	meats		
-V-795	meat	meat	hamburger	hamburger	industry, ‘“that if a consumer undercooks a	
-V-795	meat	meat	bacteria	bacteria	with food-poisoning	

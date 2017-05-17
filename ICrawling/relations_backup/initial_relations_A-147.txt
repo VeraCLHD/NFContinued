@@ -1,40 +1,6 @@
 
-A-147	chronic diseases	chronic diseases	cancer	cancer	—cardiovascular disease, diabetes,	
-A-147	drugs	drugs	heart disease	heart disease	for the treatment of	
-A-147	chronic diseases	chronic diseases	hypertension	hypertension	—cardiovascular disease, diabetes, cancer,	
-A-147	longevity	longevity	exercise	exercise	videos include: more videos on	
-A-147	prevention	prevention	cardiovascular disease	cardiovascular disease	of several chronic diseases—	
-A-147	prevention	prevention	disease	disease	of several chronic diseases—cardiovascular	
-A-147	physical activity	physical activity	diabetes	diabetes	in the prevention of several chronic diseases—cardiovascular disease,	
-A-147	physical activity	physical activity	chronic diseases	chronic diseases	in the prevention of several	
-A-147	health	health	physical activity	physical activity	benefits to	
-A-147	drugs	drugs	stroke	stroke	for the treatment of heart disease,	
-A-147	exercise	exercise	stress	stress	: what about the	
-A-147	prevention	prevention	hypertension	hypertension	of several chronic diseases—cardiovascular disease, diabetes, cancer,	
 A-147	calories	calories	exercise	exercise	of	
-A-147	prevention	prevention	obesity	obesity	of several chronic diseases—cardiovascular disease, diabetes, cancer, hypertension,	
-A-147	chronic diseases	chronic diseases	diabetes	diabetes	—cardiovascular disease,	
-A-147	physical activity	physical activity	disease	disease	in the prevention of several chronic diseases—cardiovascular	
-A-147	chronic diseases	chronic diseases	cardiovascular disease	cardiovascular disease	—	
-A-147	drugs	drugs	diabetes	diabetes	for the treatment of heart disease, stroke, and	
-A-147	physical activity	physical activity	doctors	doctors	such that	
-A-147	drugs	drugs	treatment	treatment	for the	
-A-147	chronic diseases	chronic diseases	disease	disease	—cardiovascular	
-A-147	treatment	treatment	stroke	stroke	of heart disease,	
-A-147	physical activity	physical activity	cardiovascular disease	cardiovascular disease	in the prevention of several chronic diseases—	
-A-147	treatment	treatment	disease	disease	of heart	
-A-147	risk	risk	smoking	smoking	behavior, alongside	
-A-147	chronic diseases	chronic diseases	depression	depression	—cardiovascular disease, diabetes, cancer, hypertension, obesity,	
-A-147	prevention	prevention	diabetes	diabetes	of several chronic diseases—cardiovascular disease,	
-A-147	treatment	treatment	heart disease	heart disease	of	
-A-147	drugs	drugs	disease	disease	for the treatment of heart	
-A-147	chronic diseases	chronic diseases	osteoporosis	osteoporosis	—cardiovascular disease, diabetes, cancer, hypertension, obesity, depression,	
-A-147	prevention	prevention	chronic diseases	chronic diseases	of several	
-A-147	health	health	doctors	doctors	benefits to physical activity such that	
+A-147	exercise	exercise	lifespan	lifespan	is just one of four lifestyle behaviors found to significantly extend our	
+A-147	exercise	exercise	risk	risk	is so important that not walking an hour a day is considered a high	
 A-147	exercise	exercise	medicine	medicine	is	
-A-147	treatment	treatment	diabetes	diabetes	of heart disease, stroke, and	
-A-147	chronic diseases	chronic diseases	obesity	obesity	—cardiovascular disease, diabetes, cancer, hypertension,	
-A-147	risk	risk	death	death	factors for	
-A-147	physical activity	physical activity	prevention	prevention	in the	
-A-147	diet	diet	smoking	smoking	is by far our greatest killer, followed by	
-A-147	prevention	prevention	cancer	cancer	of several chronic diseases—cardiovascular disease, diabetes,	
+A-147	treatment	treatment	heart disease	heart disease	of	

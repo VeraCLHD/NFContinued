@@ -1,15 +1,4 @@
 
-V-868	pathogens	pathogens	toxins	toxins	as viruses, bacteria, and	
-V-868	kale	kale	juice	juice		
-V-868	disease	disease	risk	risk		
-V-868	cholesterol	cholesterol	kale	kale	consumed three or four shots of	
-V-868	risk	risk	juice	juice	factors.did you know that kale	
-V-868	disease	disease	juice	juice	risk factors.did you know that kale	
-V-868	pathogens	pathogens	viruses	viruses	as	
-V-868	risk	risk	kale	kale	factors.did you know that	
 V-868	smoking	smoking	antioxidants	antioxidants	can use up the	
-V-868	cholesterol	cholesterol	juice	juice	consumed three or four shots of kale	
-V-868	antioxidant	antioxidant	blood	blood	level of their	
 V-868	antioxidants	antioxidants	smoking	smoking	up.when	
-V-868	disease	disease	kale	kale	risk factors.did you know that	
-V-868	pathogens	pathogens	bacteria	bacteria	as viruses,	
+V-868	cholesterol	cholesterol	kale	kale	consumed three or four shots of	

@@ -1,56 +1,10 @@
 
 A-461	pancreatitis	pancreatitis	thyroid cancer	thyroid cancer	and	
-A-461	diabetes	diabetes	amputations	amputations	is the leading cause of kidney failure, nontraumatic	
-A-461	death	death	united states	united states	in the	
-A-461	television	television	sleep	sleep	watching,	
-A-461	ham	ham	cream cheese	cream cheese	and philadelphia	
-A-461	kidney	kidney	blindness	blindness	failure, nontraumatic amputations, and new cases of	
-A-461	plant-based	plant-based	diet	diet		
-A-461	pancreatitis	pancreatitis	cancer	cancer	and thyroid	
-A-461	pancreatitis	pancreatitis	thyroid	thyroid	and	
-A-461	smoking	smoking	plant-based diets	plant-based diets	), those that ate	
-A-461	alcohol	alcohol	plant-based	plant-based	use, and smoking), those that ate	
-A-461	smithfield	smithfield	cheese	cheese	ham and philadelphia cream	
-A-461	plant-based	plant-based	diabetes	diabetes	diets had just a fraction of the	
-A-461	television	television	smoking	smoking	watching, sleep, alcohol use, and	
-A-461	alcohol	alcohol	smoking	smoking	use, and	
-A-461	cream	cream	paula deen	paula deen	cheese,	
-A-461	yul brynner	yul brynner	chemo	chemo	’s last breaths were instead spent hawking	
-A-461	smithfield	smithfield	paula deen	paula deen	ham and philadelphia cream cheese,	
-A-461	smithfield	smithfield	cream cheese	cream cheese	ham and philadelphia	
-A-461	television	television	alcohol	alcohol	watching, sleep,	
+A-461	smithfield ham	smithfield ham	philadelphia cream cheese	philadelphia cream cheese	and	
 A-461	vegetarians	vegetarians	vegans	vegans	and	
 A-461	vegans	vegans	obesity	obesity	published recently found that even after controlling for	
-A-461	smithfield ham	smithfield ham	cheese	cheese	and philadelphia cream	
-A-461	diabetes	diabetes	risk	risk		
-A-461	diabetes	diabetes	kidney failure	kidney failure	is the leading cause of	
-A-461	ham	ham	cream	cream	and philadelphia	
 A-461	yul brynner	yul brynner	american cancer society	american cancer society	taped a commercial for the	
-A-461	ham	ham	paula deen	paula deen	and philadelphia cream cheese,	
-A-461	plant-based diets	plant-based diets	diabetes	diabetes	had just a fraction of the	
-A-461	alcohol	alcohol	plant-based diets	plant-based diets	use, and smoking), those that ate	
-A-461	ham	ham	philadelphia cream cheese	philadelphia cream cheese	and	
-A-461	plant-based	plant-based	risk	risk	diets had just a fraction of the diabetes	
-A-461	diabetes	diabetes	pancreatitis	pancreatitis	drug (with side-effects that may include	
-A-461	smithfield ham	smithfield ham	cream cheese	cream cheese	and philadelphia	
-A-461	obesity	obesity	sleep	sleep	(and exercise, age, gender, education, income, television watching,	
-A-461	smithfield	smithfield	ham	ham		
-A-461	kidney	kidney	amputations	amputations	failure, nontraumatic	
-A-461	thyroid	thyroid	cancer	cancer		
-A-461	diabetes	diabetes	thyroid	thyroid	drug (with side-effects that may include pancreatitis and	
-A-461	obesity	obesity	exercise	exercise	(and	
-A-461	obesity	obesity	television	television	(and exercise, age, gender, education, income,	
-A-461	diabetes	diabetes	thyroid cancer	thyroid cancer	drug (with side-effects that may include pancreatitis and	
-A-461	smithfield	smithfield	philadelphia cream cheese	philadelphia cream cheese	ham and	
-A-461	ham	ham	cheese	cheese	and philadelphia cream	
-A-461	smithfield ham	smithfield ham	paula deen	paula deen	and philadelphia cream cheese,	
-A-461	cream	cream	cheese	cheese		
-A-461	doughnuts	doughnuts	burgers	burgers	to bun her bacon-and-egg	
-A-461	smithfield	smithfield	cream	cream	ham and philadelphia	
-A-461	smithfield ham	smithfield ham	philadelphia cream cheese	philadelphia cream cheese	and	
 A-461	yul brynner	yul brynner	cancer	cancer	taped a commercial for the american	
-A-461	plant-based diets	plant-based diets	risk	risk	had just a fraction of the diabetes	
-A-461	diabetes	diabetes	kidney	kidney	is the leading cause of	
-A-461	smithfield ham	smithfield ham	cream	cream	and philadelphia	
-A-461	smoking	smoking	plant-based	plant-based	), those that ate	
-A-461	dr. neal barnard	dr. neal barnard	diabetes	diabetes	’s program for reversing	
+A-461	plant-based diets	plant-based diets	diabetes	diabetes	had just a fraction of the	
+A-461	ham	ham	philadelphia cream cheese	philadelphia cream cheese	and	
+A-461	pancreatitis	pancreatitis	thyroid	thyroid	and	

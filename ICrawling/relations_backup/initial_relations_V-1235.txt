@@ -1,24 +1,5 @@
 
-V-1235	boiled	boiled	greens	greens		
-V-1235	greens	greens	water	water	doesn’t disappear; it’s just transferred to the cooking	
-V-1235	water	water	boiled	boiled	(which is good), the nutrition in	
-V-1235	microwaving	microwaving	steaming	steaming	destroys more nutrients than	
-V-1235	greens	greens	cooking	cooking	doesn’t disappear; it’s just transferred to the	
-V-1235	nuts	nuts	raw	raw	healthier	
-V-1235	nutrition	nutrition	tea	tea	in dark green leafy leaves of green	
-V-1235	tea	tea	nutrition	nutrition	leaches into the water (which is good), the	
-V-1235	water	water	nutrition	nutrition	(which is good), the	
-V-1235	water	water	greens	greens	(which is good), the nutrition in boiled	
-V-1235	boiled	boiled	cooking	cooking	greens doesn’t disappear; it’s just transferred to the	
-V-1235	raw	raw	broccoli	broccoli		
-V-1235	green tea	green tea	nutrition	nutrition	leaches into the water (which is good), the	
-V-1235	boiling	boiling	water	water		
-V-1235	nutrition	nutrition	green tea	green tea	in dark green leafy leaves of	
-V-1235	nuts	nuts	roasted	roasted	healthier raw or	
 V-1235	tea	tea	water	water	leaches into the	
-V-1235	cream	cream	soup	soup	of broccoli	
 V-1235	raw	raw	roasted	roasted	or	
 V-1235	cream	cream	broccoli	broccoli	of	
-V-1235	broccoli	broccoli	soup	soup		
 V-1235	green tea	green tea	water	water	leaches into the	
-V-1235	cooking	cooking	water	water		

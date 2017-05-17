@@ -1,83 +1,8 @@
 
-A-326	alcoholic beverages	alcoholic beverages	beverages	beverages	—all alcoholic	
-A-326	breast cancer	breast cancer	prevention	prevention	development against the benefits for heart disease	
-A-326	cancer	cancer	white wine	white wine	risk: red wine vs.	
+A-326	cancer	cancer	alcohol	alcohol	and	
+A-326	breast cancer	breast cancer	alcohol	alcohol	and	
 A-326	risk	risk	breast cancer	breast cancer	of	
-A-326	breast cancer	breast cancer	disease	disease	development against the benefits for heart	
-A-326	risk	risk	cancer	cancer	of breast	
-A-326	breast cancer	breast cancer	heart disease prevention	heart disease prevention	development against the benefits for	
-A-326	risk	risk	white wine	white wine	: red wine vs.	
-A-326	risk	risk	cancer	cancer	for breast	
-A-326	acetaldehyde	acetaldehyde	saliva	saliva	in	
-A-326	plant-based	plant-based	diet	diet		
-A-326	bacteria	bacteria	alcohol	alcohol	in our mouths appear to oxidize	
-A-326	women	women	heart disease	heart disease	isn’t breast cancer, but	
-A-326	beverages	beverages	alcoholic beverages	alcoholic beverages	—all	
-A-326	risk	risk	breast cancer	breast cancer	for	
-A-326	acetaldehyde	acetaldehyde	health	health	in saliva, prudent public	
-A-326	public health	public health	alcohol	alcohol	policy would recommend generally refraining from using	
-A-326	breast cancer	breast cancer	risk	risk		
-A-326	women	women	disease	disease	isn’t breast cancer, but heart	
-A-326	plant-based diet	plant-based diet	beverages	beverages	that excludes certain plant-based (alcoholic)	
-A-326	heart disease	heart disease	prevention	prevention		
-A-326	vegetables	vegetables	beet juice	beet juice	(if interested, start here: doping with	
 A-326	women	women	breast cancer	breast cancer	isn’t	
 A-326	beverages	beverages	longevity	longevity	may therefore be the best for overall	
-A-326	vegetables	vegetables	juice	juice	(if interested, start here: doping with beet	
-A-326	cancer	cancer	light drinking	light drinking	deaths a year may be attributable to just	
-A-326	margin of safety	margin of safety	mouthwash	mouthwash	in the use of alcohol-containing	
-A-326	exercise	exercise	alcohol	alcohol	is better, for	
-A-326	alcohol	alcohol	cancer	cancer	consumption increases the risk of breast	
-A-326	alcohol	alcohol	risk	risk	consumption appears to increase the	
-A-326	acetaldehyde	acetaldehyde	carcinogen	carcinogen		
-A-326	cancer	cancer	disease	disease	development against the benefits for heart	
-A-326	disease	disease	alcohol	alcohol	prevention to make the best personal choice regarding	
-A-326	diet	diet	plant-based	plant-based	that excludes certain	
-A-326	red wine	red wine	wine	wine	vs. white	
-A-326	heart disease prevention	heart disease prevention	alcohol	alcohol	to make the best personal choice regarding	
-A-326	cancer	cancer	alcohol	alcohol	and	
-A-326	cancer	cancer	wine	wine	risk: red	
-A-326	risk	risk	alcohol	alcohol	of developing an	
-A-326	risk	risk	wine	wine	: red	
-A-326	alcohol	alcohol	breast cancer	breast cancer	consumption increases the risk of	
-A-326	disease	disease	prevention	prevention		
-A-326	breast cancer	breast cancer	light drinking	light drinking	deaths a year are attributable to	
-A-326	alcohol	alcohol	acetaldehyde	acetaldehyde	into this	
-A-326	cancer	cancer	heart disease	heart disease	development against the benefits for	
-A-326	breast cancer	breast cancer	light drinking	light drinking	deaths a year may be attributable to just	
-A-326	liquor	liquor	mouth	mouth	in our	
-A-326	women	women	cancer	cancer	isn’t breast	
-A-326	risk	risk	cancer	cancer	of developing an alcohol-related	
-A-326	cancer	cancer	red wine	red wine	risk:	
-A-326	alcohol	alcohol	carcinogen	carcinogen	into this acetaldehyde	
+A-326	acetaldehyde	acetaldehyde	saliva	saliva	in	
 A-326	risk	risk	heart disease	heart disease	of	
-A-326	cancer	cancer	risk	risk		
-A-326	prevention	prevention	alcohol	alcohol	to make the best personal choice regarding	
-A-326	women	women	alcohol	alcohol	who consume	
-A-326	alcohol	alcohol	cancer	cancer	use on breast	
-A-326	alcohol	alcohol	breast cancer	breast cancer	use on	
-A-326	health	health	alcohol	alcohol	policy would recommend generally refraining from using	
-A-326	alcohol	alcohol	risk	risk	consumption increases the	
-A-326	cancer	cancer	prevention	prevention	development against the benefits for heart disease	
-A-326	wine	wine	white wine	white wine	vs.	
-A-326	red wine	red wine	white wine	white wine	vs.	
-A-326	cancer	cancer	heart disease prevention	heart disease prevention	development against the benefits for	
-A-326	risk	risk	disease	disease	of heart	
-A-326	alcohol	alcohol	breast cancer	breast cancer	consumption that doesn’t raise	
-A-326	breast cancer	breast cancer	red wine	red wine	risk:	
-A-326	women	women	cancer	cancer	that died of breast	
-A-326	acetaldehyde	acetaldehyde	public health	public health	in saliva, prudent	
-A-326	women	women	breast cancer	breast cancer	that died of	
-A-326	breast cancer	breast cancer	heart disease	heart disease	development against the benefits for	
-A-326	alcohol	alcohol	cancer	cancer	consumption that doesn’t raise breast	
-A-326	plant-based	plant-based	beverages	beverages	diet that excludes certain plant-based (alcoholic)	
-A-326	breast cancer	breast cancer	wine	wine	risk: red	
-A-326	breast cancer	breast cancer	alcohol	alcohol	and	
-A-326	plant-based diet	plant-based diet	plant-based	plant-based	that excludes certain	
-A-326	antiseptic	antiseptic	mouthwash	mouthwash		
-A-326	cancer	cancer	light drinking	light drinking	deaths a year are attributable to	
-A-326	diet	diet	beverages	beverages	that excludes certain plant-based (alcoholic)	
-A-326	alcohol	alcohol	risk	risk	consumption that doesn’t raise breast cancer	
-A-326	heart disease	heart disease	alcohol	alcohol	prevention to make the best personal choice regarding	
-A-326	mouth	mouth	acetaldehyde	acetaldehyde	for 5 seconds results in carcinogenic concentrations of	
-A-326	breast cancer	breast cancer	white wine	white wine	risk: red wine vs.	

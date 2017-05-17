@@ -1,49 +1,17 @@
 
 V-292	vegetarians	vegetarians	risk	risk	have just a quarter the	
+V-292	meat	meat	risk	risk	may double one's	
 V-292	green tea	green tea	risk	risk	was significantly associated with a reduced	
-V-292	soy	soy	tea	tea	foods, and green	
 V-292	myeloma	myeloma	mgus	mgus	is almost always preceded by	
-V-292	chicken	chicken	risk	risk	meat may double one's	
-V-292	diet soda	diet soda	myeloma	myeloma	and multiple	
 V-292	mgus	mgus	myeloma	myeloma	and	
-V-292	mgus	mgus	myeloma	myeloma	to multiple	
-V-292	vegetarians	vegetarians	multiple myeloma	multiple myeloma	have just a quarter the risk of	
-V-292	african-american	african-american	mgus	mgus	populations.	
-V-292	mgus	mgus	multiple myeloma	multiple myeloma	to	
-V-292	diet	diet	aspartame	aspartame	soda and multiple myeloma, implicating	
 V-292	harvard	harvard	diet	diet	reported a controversial link between	
 V-292	soda	soda	multiple myeloma	multiple myeloma	and	
-V-292	risk	risk	vegetables	vegetables	of multiple myeloma, intake of pickled	
-V-292	vegetarians	vegetarians	myeloma	myeloma	have just a quarter the risk of multiple	
-V-292	tea	tea	multiple myeloma	multiple myeloma	was significantly associated with a reduced risk of	
-V-292	tea	tea	risk	risk	was significantly associated with a reduced	
-V-292	harvard	harvard	diet soda	diet soda	reported a controversial link between	
-V-292	mgus	mgus	multiple myeloma	multiple myeloma	patients as well as those with so-called smoldering	
-V-292	meat	meat	risk	risk	may double one's	
-V-292	disease	disease	blood	blood	by the rise in	
-V-292	green tea	green tea	multiple myeloma	multiple myeloma	was significantly associated with a reduced risk of	
-V-292	soda	soda	myeloma	myeloma	and multiple	
-V-292	blood	blood	mgus	mgus	levels of paraprotein, which is what's made by	
-V-292	diet	diet	myeloma	myeloma	soda and multiple	
-V-292	soda	soda	aspartame	aspartame	and multiple myeloma, implicating	
-V-292	chicken	chicken	multiple myeloma	multiple myeloma	meat may double one's risk of	
-V-292	harvard	harvard	soda	soda	reported a controversial link between diet	
 V-292	multiple myeloma	multiple myeloma	mgus	mgus	is almost always preceded by	
 V-292	curcumin	curcumin	disease	disease	might have the potential to slow the	
-V-292	chicken	chicken	myeloma	myeloma	meat may double one's risk of multiple	
 V-292	french fries	french fries	potato chips	potato chips	and	
-V-292	soy	soy	green tea	green tea	foods, and	
-V-292	disease	disease	mgus	mgus	is called monoclonal gammopathy of undetermined significance, or	
-V-292	risk	risk	pickled vegetables	pickled vegetables	of multiple myeloma, intake of	
-V-292	harvard	harvard	multiple myeloma	multiple myeloma	reported a controversial link between diet soda and	
-V-292	diet soda	diet soda	aspartame	aspartame	and multiple myeloma, implicating	
 V-292	potato chips	potato chips	vegetables	vegetables	should not be the way we get our	
-V-292	diet	diet	multiple myeloma	multiple myeloma	soda and	
+V-292	tea	tea	risk	risk	was significantly associated with a reduced	
 V-292	risk	risk	multiple myeloma	multiple myeloma	of	
-V-292	meat	meat	myeloma	myeloma	may double one's risk of multiple	
-V-292	meat	meat	multiple myeloma	multiple myeloma	may double one's risk of	
-V-292	chicken	chicken	meat	meat		
-V-292	risk	risk	myeloma	myeloma	of multiple	
 V-292	diet soda	diet soda	multiple myeloma	multiple myeloma	and	
+V-292	harvard	harvard	diet soda	diet soda	reported a controversial link between	
 V-292	mgus	mgus	cancer	cancer	early, before it turns into	
-V-292	diet	diet	soda	soda		

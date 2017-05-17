@@ -1,9 +1,4 @@
 
-V-1246	apples	apples	juice	juice	for	
-V-1246	nutrition	nutrition	juice	juice	thrown in the trash when we just drink the	
 V-1246	grape juice	grape juice	nutrition	nutrition	found 90% of the	
-V-1246	fruit	fruit	sugar	sugar	in general (without added	
 V-1246	juice	juice	cancer	cancer	helps fight	
 V-1246	juice	juice	nutrition	nutrition	found 90% of the	
-V-1246	oranges	oranges	juice	juice	to make that much	
-V-1246	dried fruit	dried fruit	sugar	sugar	in general (without added	

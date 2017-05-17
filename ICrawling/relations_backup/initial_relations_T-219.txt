@@ -1,93 +1,17 @@
 
-T-219	dental	dental	bladder infections	bladder infections	plaque formation and prevent recurring	
-T-219	fruits	fruits	antioxidant	antioxidant	and vegetables, but not	
+T-219	dna damage	dna damage	meat	meat	induced by mutagenic agents present in cooked	
+T-219	berries	berries	immune function	immune function	may promote	
 T-219	cancer	cancer	heart disease	heart disease	and	
 T-219	berries	berries	prevention	prevention	may be helpful in the	
-T-219	lymphoma	lymphoma	fruits	fruits	and gastric cancer risks.whole	
-T-219	cancer cell growth	cancer cell growth	dna damage	dna damage	in vitro and to reduce	
-T-219	heart disease	heart disease	risk	risk		
-T-219	cranberries	cranberries	dental	dental	in particular may reduce	
 T-219	strawberries	strawberries	raspberries	raspberries	and	
-T-219	goji	goji	berries	berries		
-T-219	dental plaque	dental plaque	infections	infections	formation and prevent recurring bladder	
-T-219	cancer	cancer	disease	disease	and heart	
-T-219	gerd	gerd	fatigue	fatigue	acid reflux heartburn, and relief from visual	
-T-219	reflux	reflux	heartburn	heartburn		
-T-219	dental plaque	dental plaque	bladder	bladder	formation and prevent recurring	
-T-219	berries	berries	diet	diet	in your	
-T-219	disease	disease	risk	risk		
-T-219	goji	goji	antioxidant	antioxidant	berries rank among the highest in terms of	
-T-219	berries	berries	chronic disease	chronic disease	may be helpful in the prevention of	
-T-219	immune function	immune function	berries	berries	and relieve arthritic pain.organic	
-T-219	heavy metal	heavy metal	contamination	contamination		
-T-219	raspberries	raspberries	precancerous	precancerous	can reverse	
-T-219	goji berries	goji berries	antioxidant	antioxidant	rank among the highest in terms of	
-T-219	prevention	prevention	heart disease	heart disease	of chronic disease, including cancer and	
-T-219	dna damage	dna damage	meat	meat	induced by mutagenic agents present in cooked	
-T-219	lymphoma	lymphoma	vegetables	vegetables	and gastric cancer risks.whole fruits and	
-T-219	plaque	plaque	bladder infections	bladder infections	formation and prevent recurring	
-T-219	cancer	cancer	dna	dna	cell growth in vitro and to reduce	
-T-219	berries	berries	immune function	immune function	may promote	
-T-219	risk	risk	platelets	platelets	by keeping our	
-T-219	antioxidants	antioxidants	berries	berries	appear to survive processing, but eating	
-T-219	insulin	insulin	fructose	fructose	spike even though they contain a lot of	
-T-219	gooseberries	gooseberries	cancer cell growth	cancer cell growth	may be effective in treating diabetes,	
-T-219	cancer	cancer	fruits	fruits	risks.whole	
-T-219	cranberries	cranberries	plaque	plaque	in particular may reduce dental	
-T-219	cranberries	cranberries	dental plaque	dental plaque	in particular may reduce	
-T-219	heart disease	heart disease	platelets	platelets	risk by keeping our	
-T-219	dental	dental	bladder	bladder	plaque formation and prevent recurring	
-T-219	corn	corn	sugar	sugar	syrup or table	
-T-219	gerd	gerd	heartburn	heartburn	acid reflux	
-T-219	disease	disease	platelets	platelets	risk by keeping our	
-T-219	cancer	cancer	dna damage	dna damage	cell growth in vitro and to reduce	
-T-219	gooseberries	gooseberries	cancer	cancer	may be effective in treating diabetes,	
-T-219	cancer cell growth	cancer cell growth	triphala	triphala	and invasion, but avoid ayurvedic preparations such as	
-T-219	dental	dental	plaque	plaque		
-T-219	prevention	prevention	chronic disease	chronic disease	of	
-T-219	fruits	fruits	vegetables	vegetables	and	
-T-219	indian gooseberries	indian gooseberries	diabetes	diabetes	may be effective in treating	
-T-219	risk	risk	berries	berries	by keeping our platelets in an inactivated state.	
-T-219	fruits	fruits	berries	berries	in general, and	
-T-219	sleep	sleep	melatonin	melatonin	quality due to their	
-T-219	antioxidant	antioxidant	lymphoma	lymphoma	intake may also be associated with lower	
-T-219	strawberries	strawberries	precancerous	precancerous	and raspberries can reverse	
-T-219	platelets	platelets	antioxidant content	antioxidant content	in an inactivated state.berries have the greatest	
-T-219	cancer	cancer	pills	pills	risks.whole fruits and vegetables, but not antioxidant	
-T-219	high fructose corn syrup	high fructose corn syrup	sugar	sugar	or table	
 T-219	dna damage	dna damage	cooked meat	cooked meat	induced by mutagenic agents present in	
 T-219	berries	berries	cholesterol	cholesterol	do not seem to lower	
-T-219	fruits	fruits	pills	pills	and vegetables, but not antioxidant	
 T-219	blueberries	blueberries	strawberries	strawberries	and	
 T-219	gooseberries	gooseberries	diabetes	diabetes	may be effective in treating	
-T-219	plaque	plaque	bladder	bladder	formation and prevent recurring	
-T-219	antioxidant content	antioxidant content	spices	spices	per serving compared to any other food except	
-T-219	antioxidant	antioxidant	nutrition	nutrition	levels and offer one of the best	
-T-219	berries	berries	cancer cell growth	cancer cell growth	in particular, have the ability to suppress	
-T-219	prevention	prevention	disease	disease	of chronic	
-T-219	bladder	bladder	infections	infections		
-T-219	platelets	platelets	berries	berries	in an inactivated state.	
-T-219	plaque	plaque	infections	infections	formation and prevent recurring bladder	
-T-219	cancer cell growth	cancer cell growth	dna	dna	in vitro and to reduce	
-T-219	lymphoma	lymphoma	cancer	cancer	and gastric	
-T-219	corn syrup	corn syrup	sugar	sugar	or table	
-T-219	platelets	platelets	antioxidant	antioxidant	in an inactivated state.berries have the greatest	
-T-219	cancer	cancer	antioxidant	antioxidant	risks.whole fruits and vegetables, but not	
-T-219	berries	berries	dairy	dairy	in the presence of	
-T-219	dental	dental	infections	infections	plaque formation and prevent recurring bladder	
-T-219	berries	berries	cancer	cancer	in particular, have the ability to suppress	
-T-219	dental plaque	dental plaque	bladder infections	bladder infections	formation and prevent recurring	
-T-219	dna	dna	meat	meat	damage induced by mutagenic agents present in cooked	
-T-219	indian gooseberries	indian gooseberries	cancer cell growth	cancer cell growth	may be effective in treating diabetes,	
-T-219	indian gooseberries	indian gooseberries	cancer	cancer	may be effective in treating diabetes,	
-T-219	osteoarthritis	osteoarthritis	insulin	insulin	pain.berries do not create an	
-T-219	cancer	cancer	vegetables	vegetables	risks.whole fruits and	
 T-219	berries	berries	antioxidant	antioxidant	rank among the highest in terms of	
 T-219	allergies	allergies	asthma	asthma	and	
-T-219	prevention	prevention	cancer	cancer	of chronic disease, including	
-T-219	dna	dna	cooked meat	cooked meat	damage induced by mutagenic agents present in	
-T-219	gerd	gerd	reflux	reflux	acid	
-T-219	dairy	dairy	antioxidant	antioxidant	products may suppress their	
-T-219	nitric oxide	nitric oxide	arteries	arteries	activity, which helps our	
-T-219	reflux	reflux	fatigue	fatigue	heartburn, and relief from visual	
-T-219	berries	berries	disease	disease	may be helpful in the prevention of chronic	
+T-219	prevention	prevention	chronic disease	chronic disease	of	
+T-219	fruits	fruits	vegetables	vegetables	and	
+T-219	raspberries	raspberries	precancerous	precancerous	can reverse	
+T-219	goji berries	goji berries	antioxidant	antioxidant	rank among the highest in terms of	
+T-219	indian gooseberries	indian gooseberries	diabetes	diabetes	may be effective in treating	

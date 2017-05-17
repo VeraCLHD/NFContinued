@@ -1,63 +1,14 @@
 
+A-442	blindness	blindness	vision	vision	and	
 A-442	lycopene	lycopene	tomatoes	tomatoes	is the red pigment in	
-A-442	plant-based	plant-based	macular degeneration	macular degeneration	diet—age-related	
-A-442	fish	fish	risk	risk	had 21% lower	
-A-442	plant-based	plant-based	diet	diet		
-A-442	lutein	lutein	zeaxanthin	zeaxanthin	and	
-A-442	plant-based diet	plant-based diet	cataracts	cataracts	—age-related macular degeneration, diabetes, glaucoma, and	
-A-442	meat	meat	vegetarians	vegetarians	—the	
-A-442	meat	meat	risk	risk	other than fish had 21% lower	
-A-442	beta carotene	beta carotene	ovarian cancer	ovarian cancer	in foods may prevent	
-A-442	prostate	prostate	cancer	cancer		
-A-442	vision	vision	diet	diet	loss may be prevented with a healthy plant-based	
-A-442	phytonutrients	phytonutrients	greens	greens	from	
-A-442	dairy	dairy	risk	risk	had 40% less	
-A-442	plant-based diet	plant-based diet	glaucoma	glaucoma	—age-related macular degeneration, diabetes,	
-A-442	pills	pills	supplements	supplements	(and beta-carotene	
-A-442	zeaxanthin	zeaxanthin	greens	greens	phytonutrients from	
-A-442	beta carotene	beta carotene	cancer	cancer	in foods may prevent ovarian	
-A-442	macular degeneration	macular degeneration	diet	diet	with	
-A-442	vision	vision	plant-based	plant-based	loss may be prevented with a healthy	
-A-442	diet	diet	macular degeneration	macular degeneration	—age-related	
+A-442	americans	americans	blind	blind	are	
 A-442	collard greens	collard greens	kale	kale	or	
-A-442	diet	diet	vision	vision	for a discussion of the relationship between	
+A-442	fish	fish	risk	risk	had 21% lower	
+A-442	greens	greens	kale	kale	or	
+A-442	lutein	lutein	zeaxanthin	zeaxanthin	and	
 A-442	amputations	amputations	kidney	kidney	and	
 A-442	eggs	eggs	dairy	dairy	and	
-A-442	vision	vision	plant-based diet	plant-based diet	loss may be prevented with a healthy	
-A-442	eggs	eggs	risk	risk	and dairy had 40% less	
-A-442	vision	vision	healthy eating index	healthy eating index	loss and harvard’s alternative	
-A-442	blindness	blindness	cataracts	cataracts	and vision loss:	
-A-442	plant-based	plant-based	diabetes	diabetes	diet—age-related macular degeneration,	
-A-442	diet	diet	cataracts	cataracts	—age-related macular degeneration, diabetes, glaucoma, and	
-A-442	phytonutrients	phytonutrients	vision	vision	not only protect, but also may improve our	
-A-442	diabetes	diabetes	blindness	blindness	is not only a leading cause of	
-A-442	vision	vision	cataracts	cataracts	loss:	
-A-442	lutein	lutein	phytonutrients	phytonutrients	and zeaxanthin	
-A-442	meat	meat	risk	risk	—the vegetarians—appeared to drop their	
-A-442	tomatoes	tomatoes	cancer	cancer	found protective against prostate	
-A-442	plant-based diet	plant-based diet	diabetes	diabetes	—age-related macular degeneration,	
-A-442	plant-based	plant-based	cataracts	cataracts	diet—age-related macular degeneration, diabetes, glaucoma, and	
-A-442	lutein	lutein	pills	pills		
-A-442	cataracts	cataracts	diet	diet	with	
-A-442	cataracts	cataracts	blindness	blindness	as the world’s leading cause of	
-A-442	blindness	blindness	vision	vision	and	
-A-442	vegetarian	vegetarian	vegan	vegan	and those eating	
-A-442	harvard	harvard	healthy eating index	healthy eating index	’s alternative	
-A-442	americans	americans	blind	blind	are	
-A-442	plant-based	plant-based	glaucoma	glaucoma	diet—age-related macular degeneration, diabetes,	
-A-442	plant-based diet	plant-based diet	macular degeneration	macular degeneration	—age-related	
-A-442	greens	greens	kale	kale	or	
-A-442	lutein	lutein	greens	greens	and zeaxanthin, two yellow plant pigments in	
-A-442	diet	diet	glaucoma	glaucoma	—age-related macular degeneration, diabetes,	
-A-442	eye	eye	disease	disease		
-A-442	lutein	lutein	supplements	supplements	pills (and beta-carotene	
 A-442	amputations	amputations	kidney failure	kidney failure	and	
-A-442	vegetarians	vegetarians	risk	risk	—appeared to drop their	
-A-442	vision	vision	harvard	harvard	loss and	
 A-442	tomatoes	tomatoes	prostate cancer	prostate cancer	found protective against	
-A-442	diet	diet	diabetes	diabetes	—age-related macular degeneration,	
-A-442	meat	meat	fish	fish	other than	
-A-442	zeaxanthin	zeaxanthin	phytonutrients	phytonutrients		
-A-442	lutein	lutein	greens	greens	and zeaxanthin phytonutrients from	
+A-442	dairy	dairy	risk	risk	had 40% less	
 A-442	tomatoes	tomatoes	prostate	prostate	found protective against	
-A-442	egg	egg	blind	blind	industry	

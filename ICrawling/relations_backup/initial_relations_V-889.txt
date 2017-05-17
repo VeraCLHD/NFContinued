@@ -1,4 +1,0 @@
-
-V-889	nutrition	nutrition	b12	b12	facts labels for	
-V-889	b12	b12	breakfast	breakfast	three times a day—	
-V-889	supplements	supplements	nutritional yeast	nutritional yeast	at all!so, for example, there’s a vitamin b12-fortified	

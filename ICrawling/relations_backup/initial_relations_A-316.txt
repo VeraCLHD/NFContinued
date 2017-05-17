@@ -1,62 +1,14 @@
 
-A-316	c-section	c-section	babies	babies		
-A-316	gut	gut	immune system	immune system	flora can affect the development of our	
-A-316	soy	soy	supplements	supplements	yogurt, or	
-A-316	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of	
-A-316	flora	flora	antibiotics	antibiotics	by	
-A-316	gut	gut	infection	infection	flora by antibiotics or an intestinal	
-A-316	fruits	fruits	lactic acid	lactic acid	and vegetables are covered with millions of	
-A-316	bacteria	bacteria	prebiotics	prebiotics	we already have, by eating so-called	
-A-316	vaginal delivery	vaginal delivery	baby	baby	leads to the first colonization of the	
-A-316	soy	soy	yogurt	yogurt		
-A-316	plant foods	plant foods	probiotics	probiotics	—outweigh those of	
-A-316	risk	risk	infection	infection	of upper respiratory tract	
-A-316	caesarean section	caesarean section	risk	risk	appear to be at increased	
-A-316	vegetables	vegetables	lactic acid	lactic acid	are covered with millions of	
-A-316	prebiotics	prebiotics	probiotics	probiotics	—found in plant foods—outweigh those of	
-A-316	kale	kale	immune system	immune system	and the	
-A-316	flora	flora	pregnancy	pregnancy	during	
-A-316	vegetables	vegetables	prebiotics	prebiotics	boosts immunity,	
-A-316	vaginal flora	vaginal flora	pregnancy	pregnancy	during	
+A-316	prebiotics	prebiotics	probiotics	probiotics	and	
 A-316	flora	flora	immune system	immune system	can affect the development of our	
-A-316	bloating	bloating	bacteria	bacteria	—i would suggest focusing on feeding the good	
+A-316	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of	
+A-316	vegetables	vegetables	lactic acid bacteria	lactic acid bacteria	are covered with millions of	
 A-316	pregnancy	pregnancy	asthma	asthma	may be associated with early	
-A-316	probiotics	probiotics	immune function	immune function	were stopped, there was still enhanced	
-A-316	gut flora	gut flora	antibiotics	antibiotics	by	
-A-316	cold	cold	probiotics	probiotics	with	
+A-316	diarrhea	diarrhea	bloating	bloating	or	
+A-316	white blood cells	white blood cells	acai berries	acai berries	doing their thing in my video clinical studies on	
+A-316	caesarean section	caesarean section	risk	risk	appear to be at increased	
+A-316	babies	babies	gut flora	gut flora	are deprived of this natural exposure and have been found to exhibit a different	
+A-316	vegetables	vegetables	lactic acid	lactic acid	are covered with millions of	
+A-316	babies	babies	gut	gut	are deprived of this natural exposure and have been found to exhibit a different	
 A-316	fruits	fruits	vegetables	vegetables	and	
 A-316	gut flora	gut flora	immune system	immune system	can affect the development of our	
-A-316	babies	babies	caesarean section	caesarean section	delivered via	
-A-316	gut	gut	antibiotics	antibiotics	flora by	
-A-316	vaginal delivery	vaginal delivery	gut	gut	leads to the first colonization of the baby’s	
-A-316	fruits	fruits	prebiotics	prebiotics	and vegetables boosts immunity,	
-A-316	antibiotics	antibiotics	infection	infection	or an intestinal	
-A-316	gut flora	gut flora	infection	infection	by antibiotics or an intestinal	
-A-316	vegetables	vegetables	probiotics	probiotics	boosts immunity, prebiotics and	
-A-316	fruit	fruit	common cold	common cold	and vegetable video i reference in preventing the	
-A-316	flora	flora	infection	infection	by antibiotics or an intestinal	
-A-316	lactic acid	lactic acid	bacteria	bacteria		
-A-316	raw	raw	fruits	fruits		
-A-316	fruit	fruit	cold	cold	and vegetable video i reference in preventing the common	
-A-316	flora	flora	asthma	asthma	during pregnancy may be associated with early	
-A-316	fruits	fruits	probiotics	probiotics	and vegetables boosts immunity, prebiotics and	
-A-316	prebiotics	prebiotics	plant foods	plant foods	—found in	
-A-316	gut	gut	flora	flora		
-A-316	baby	baby	gut	gut	’s	
-A-316	diarrhea	diarrhea	probiotics	probiotics	with	
-A-316	risk	risk	infection	infection	of getting an upper respiratory	
-A-316	vegetables	vegetables	bacteria	bacteria	are covered with millions of lactic acid	
-A-316	gut	gut	bacteria	bacteria	with maternal vaginal	
-A-316	prebiotics	prebiotics	probiotics	probiotics	and	
-A-316	soy	soy	risk	risk	yogurt, or supplements, may indeed reduce one’s	
-A-316	vegetables	vegetables	lactic acid bacteria	lactic acid bacteria	are covered with millions of	
-A-316	diarrhea	diarrhea	bloating	bloating	or	
-A-316	baby	baby	bacteria	bacteria	’s gut with maternal vaginal	
-A-316	common cold	common cold	probiotics	probiotics	with	
-A-316	placebo	placebo	probiotics	probiotics	controlled studies showing that those taking	
-A-316	asthma	asthma	children	children	in their	
-A-316	raw	raw	vegetables	vegetables	fruits and	
-A-316	vaginal flora	vaginal flora	asthma	asthma	during pregnancy may be associated with early	
-A-316	infection	infection	diarrhea	diarrhea	—in other words unless one is symptomatic with	
-A-316	pregnancy	pregnancy	children	children	may be associated with early asthma in their	
-A-316	fruits	fruits	lactic acid bacteria	lactic acid bacteria	and vegetables are covered with millions of	

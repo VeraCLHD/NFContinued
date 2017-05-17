@@ -1,41 +1,5 @@
 
-V-922	trans fat	trans fat	ldl	ldl	intake above zero increased	
-V-922	fat	fat	milk	milk		
-V-922	fat	fat	ldl	ldl	intake above zero increased	
-V-922	medicine	medicine	trans fat	trans fat	did not set upper limits for	
-V-922	trans fat	trans fat	ldl cholesterol	ldl cholesterol	intake above zero increased	
-V-922	eggs	eggs	chicken	chicken	and	
-V-922	eggs	eggs	cheese	cheese	and chicken, and then beef,	
-V-922	institute of medicine	institute of medicine	saturated fat	saturated fat	did not set upper limits for trans fat,	
-V-922	blood	blood	medications	medications	pressure	
-V-922	trans fat	trans fat	cholesterol	cholesterol	intake above zero increased ldl	
-V-922	medicine	medicine	saturated fat	saturated fat	did not set upper limits for trans fat,	
-V-922	fish	fish	cookies	cookies	before getting to cakes,	
-V-922	drugs	drugs	blood	blood	: a statin; three	
-V-922	fish	fish	doughnuts	doughnuts	before getting to cakes, cookies,	
-V-922	institute of medicine	institute of medicine	fat	fat	did not set upper limits for trans	
-V-922	fat	fat	ldl cholesterol	ldl cholesterol	intake above zero increased	
-V-922	drugs	drugs	blood pressure medications	blood pressure medications	: a statin; three	
-V-922	eggs	eggs	beef	beef	and chicken, and then	
-V-922	eggs	eggs	fish	fish	and chicken, and then beef, cheese, pork, and	
 V-922	cholesterol	cholesterol	diet	diet	found in the american	
-V-922	cholesterol	cholesterol	trans fats	trans fats	through diet, we need to avoid three things:	
-V-922	statins	statins	happy meal	happy meal	on our	
-V-922	cholesterol	cholesterol	bad cholesterol	bad cholesterol	because any intake level above zero increased	
-V-922	drugs	drugs	blood pressure	blood pressure	: a statin; three	
 V-922	fats	fats	junk food	junk food	are mostly in	
-V-922	eggs	eggs	pork	pork	and chicken, and then beef, cheese,	
-V-922	drugs	drugs	medications	medications	: a statin; three blood pressure	
 V-922	trans fats	trans fats	junk food	junk food	are mostly in	
-V-922	fat	fat	cholesterol	cholesterol	milk, and then our burger.where is	
-V-922	ldl cholesterol	ldl cholesterol	risk	risk	concentration,” the #1 	
-V-922	ldl	ldl	cholesterol	cholesterol		
-V-922	institute of medicine	institute of medicine	trans fat	trans fat	did not set upper limits for	
-V-922	ldl	ldl	risk	risk	cholesterol concentration,” the #1 	
-V-922	medicine	medicine	fat	fat	did not set upper limits for trans	
-V-922	cholesterol	cholesterol	risk	risk	concentration,” the #1 	
-V-922	bad cholesterol	bad cholesterol	cholesterol	cholesterol	(ldl	
-V-922	fat	fat	cholesterol	cholesterol	intake above zero increased ldl	
-V-922	blood pressure	blood pressure	medications	medications		
-V-922	cholesterol	cholesterol	diet	diet	through	
-V-922	risk	risk	saturated fat	saturated fat	factor for our #1 killer: heart disease.and same with	
+V-922	eggs	eggs	chicken	chicken	and	

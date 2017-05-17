@@ -1,14 +1,3 @@
 
-T-5	pain	pain	indigestion	indigestion	from chronic	
-T-5	inflammation	inflammation	side effects	side effects	without gastrointestinal	
-T-5	stomach	stomach	constipation	constipation	ulcers.	
-T-5	stomach	stomach	hiatal hernia	hiatal hernia	ulcers.constipation and its complications, including	
-T-5	abdominal pain	abdominal pain	constipation	constipation	has several causes, including	
-T-5	abdominal pain	abdominal pain	indigestion	indigestion	from chronic	
-T-5	pain	pain	constipation	constipation	has several causes, including	
-T-5	syndrome	syndrome	chili peppers	chili peppers	may be reduced with the ingestion of hot	
 T-5	irritable bowel syndrome	irritable bowel syndrome	chili peppers	chili peppers	may be reduced with the ingestion of hot	
-T-5	pain	pain	indigestion	indigestion	has several causes, including constipation,	
-T-5	abdominal pain	abdominal pain	indigestion	indigestion	has several causes, including constipation,	
-T-5	stomach	stomach	hernia	hernia	ulcers.constipation and its complications, including hiatal	
-T-5	stomach	stomach	varicose veins	varicose veins	ulcers.constipation and its complications, including hiatal hernia,	
+T-5	syndrome	syndrome	chili peppers	chili peppers	may be reduced with the ingestion of hot	

@@ -1,60 +1,15 @@
 
-A-209	raw	raw	aspirin	aspirin	ingredients of a common	
-A-209	curcumin	curcumin	bioavailability	bioavailability	consumed, but the	
-A-209	piperine	piperine	pepper	pepper	for the pungent flavor of	
-A-209	turmeric	turmeric	curcumin	curcumin	is composed of an active compound called	
-A-209	curcumin	curcumin	rheumatoid arthritis	rheumatoid arthritis	and	
-A-209	oranges	oranges	variety	variety	: dietary diversity and garden	
-A-209	turmeric	turmeric	osteoarthritis	osteoarthritis	curcumin and rheumatoid arthritis, and turmeric curcumin and	
-A-209	butter	butter	india	india	fat, which may explain	
-A-209	variety	variety	anti-inflammation	anti-inflammation		
-A-209	turmeric	turmeric	piperine	piperine	and	
-A-209	oranges	oranges	anti-inflammation	anti-inflammation	: dietary diversity and garden variety	
 A-209	bioavailability	bioavailability	curcumin	curcumin	of	
-A-209	kingdom	kingdom	plant foods	plant foods	: aspirin levels in	
-A-209	heart disease	heart disease	turmeric	turmeric	despite all their	
-A-209	curcumin	curcumin	osteoarthritis	osteoarthritis	and rheumatoid arthritis, and turmeric curcumin and	
-A-209	malaria	malaria	disease	disease	long before the	
-A-209	liver	liver	water	water	gets rid of foreign substances is making them	
-A-209	spices	spices	inflammation	inflammation	fight	
-A-209	fat	fat	black pepper	black pepper	and	
-A-209	symptoms	symptoms	disease	disease	of malaria long before the	
-A-209	black pepper	black pepper	grapefruit	grapefruit	mechanism reminds me of the	
-A-209	black pepper	black pepper	piperine	piperine	by weight is comprised of this compound called	
-A-209	dna	dna	turmeric	turmeric	protection,	
-A-209	broccoli	broccoli	detox	detox	(the best	
-A-209	turmeric	turmeric	pepper	pepper	and piperine for the pungent flavor of	
-A-209	fat	fat	pepper	pepper	and black	
 A-209	tea	tea	asthma	asthma	has been used traditionally to treat	
-A-209	curcumin	curcumin	turmeric	turmeric	and rheumatoid arthritis, and	
-A-209	curcumin	curcumin	bioavailability	bioavailability	levels skyrocket (see boosting the	
-A-209	butter	butter	fat	fat		
-A-209	dna	dna	rheumatoid arthritis	rheumatoid arthritis	protection, turmeric curcumin and	
-A-209	dna	dna	curcumin	curcumin	protection, turmeric	
-A-209	apples	apples	anti-inflammation	anti-inflammation	and oranges: dietary diversity and garden variety	
-A-209	medicine	medicine	tomato effect	tomato effect	wisdom seems incredible (	
-A-209	piperine	piperine	metabolism	metabolism	is a potent inhibitor of drug	
-A-209	apples	apples	oranges	oranges	and	
-A-209	disease	disease	raw	raw	was identified, and the	
-A-209	turmeric	turmeric	arthritis	arthritis	curcumin and rheumatoid	
-A-209	turmeric	turmeric	rheumatoid arthritis	rheumatoid arthritis	curcumin and	
-A-209	curcumin	curcumin	arthritis	arthritis	and rheumatoid	
-A-209	india	india	heart disease	heart disease	’s relatively high rates of	
-A-209	dna	dna	arthritis	arthritis	protection, turmeric curcumin and rheumatoid	
-A-209	apples	apples	variety	variety	and oranges: dietary diversity and garden	
-A-209	curry powder	curry powder	turmeric	turmeric	is besides	
-A-209	india	india	disease	disease	’s relatively high rates of heart	
-A-209	turmeric	turmeric	curcumin	curcumin		
-A-209	grapefruit	grapefruit	broccoli	broccoli	(tell your doctor if you eat grapefruit) and	
-A-209	curcumin	curcumin	turmeric	turmeric	is to consume it in the whole food,	
+A-209	curcumin	curcumin	bioavailability	bioavailability	consumed, but the	
+A-209	turmeric	turmeric	curcumin	curcumin	is composed of an active compound called	
+A-209	liver	liver	water	water	gets rid of foreign substances is making them	
+A-209	curcumin	curcumin	rheumatoid arthritis	rheumatoid arthritis	and	
+A-209	spices	spices	inflammation	inflammation	fight	
 A-209	oils	oils	turmeric	turmeric	found in	
-A-209	anti-inflammation	anti-inflammation	variety	variety	that emphasize the importance of eating a	
-A-209	disease	disease	turmeric	turmeric	despite all their	
-A-209	pepper	pepper	piperine	piperine	by weight is comprised of this compound called	
+A-209	fat	fat	black pepper	black pepper	and	
+A-209	apples	apples	oranges	oranges	and	
 A-209	curcumin	curcumin	turmeric	turmeric	or	
-A-209	quinine	quinine	symptoms	symptoms	from cinchona bark was used to treat the	
 A-209	curcumin	curcumin	turmeric	turmeric	is responsible for the yellow color of	
-A-209	tomato effect	tomato effect	lead	lead	); in others, dangerous (get the	
+A-209	turmeric	turmeric	piperine	piperine	and	
 A-209	symptoms	symptoms	malaria	malaria	of	
-A-209	malaria	malaria	raw	raw	long before the disease was identified, and the	
-A-209	pepper	pepper	grapefruit	grapefruit	mechanism reminds me of the	

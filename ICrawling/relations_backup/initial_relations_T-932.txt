@@ -1,65 +1,23 @@
 
-T-932	hibiscus	hibiscus	nitric oxide	nitric oxide	tea may significantly lower blood pressure by boosting	
-T-932	aluminum	aluminum	bioavailability	bioavailability	absorption; research suggests that the	
+T-932	green tea	green tea	hibiscus tea	hibiscus tea	or	
+T-932	tea	tea	antioxidant	antioxidant	ranked highest in	
 T-932	hibiscus tea	hibiscus tea	antioxidant content	antioxidant content	ranked highest in	
-T-932	tea	tea	nitric oxide	nitric oxide	may significantly lower blood pressure by boosting	
-T-932	beverages	beverages	antioxidant	antioxidant	revealed that hibiscus tea ranked highest in	
 T-932	hibiscus tea	hibiscus tea	antioxidant	antioxidant	ranked highest in	
-T-932	hibiscus tea	hibiscus tea	blood pressure	blood pressure	may significantly lower	
-T-932	antioxidant content	antioxidant content	tea	tea	̶ higher than even green	
-T-932	antioxidant content	antioxidant content	green tea	green tea	̶ higher than even	
-T-932	pregnant	pregnant	women	women		
-T-932	arteries	arteries	hibiscus	hibiscus	relax and dilate better.while	
-T-932	antioxidants	antioxidants	hibiscus tea	hibiscus tea	at every meal, and sip green tea or	
-T-932	tea	tea	hibiscus	hibiscus	or	
-T-932	green tea	green tea	hibiscus	hibiscus	or	
-T-932	tea	tea	blood	blood	may significantly lower	
-T-932	beverages	beverages	hibiscus tea	hibiscus tea	revealed that	
-T-932	hibiscus	hibiscus	orange juice	orange juice	teas are as acidic as	
-T-932	hibiscus	hibiscus	blood	blood	tea may significantly lower	
 T-932	kids	kids	pregnant	pregnant	or	
-T-932	health	health	side effects	side effects	benefits, excess consumption may come with its own	
-T-932	beverages	beverages	tea	tea	revealed that hibiscus	
-T-932	beverages	beverages	antioxidant content	antioxidant content	revealed that hibiscus tea ranked highest in	
-T-932	hibiscus	hibiscus	juice	juice	teas are as acidic as orange	
-T-932	blood pressure	blood pressure	nitric oxide	nitric oxide	by boosting	
+T-932	hibiscus tea	hibiscus tea	blood pressure	blood pressure	may significantly lower	
+T-932	tea	tea	citric acid	citric acid	may be different because it contains natural acids, like	
+T-932	hibiscus tea	hibiscus tea	citric acid	citric acid	may be different because it contains natural acids, like	
+T-932	arteries	arteries	hibiscus	hibiscus	relax and dilate better.while	
+T-932	tea	tea	hibiscus	hibiscus	or	
 T-932	beverages	beverages	teeth	teeth	can erode the enamel on your	
-T-932	antioxidant	antioxidant	vegetables	vegetables	fruits and	
+T-932	tea	tea	blood pressure	blood pressure	may significantly lower	
 T-932	arteries	arteries	hibiscus tea	hibiscus tea	relax and dilate better.while	
+T-932	bioavailability	bioavailability	aluminum	aluminum	of	
+T-932	green tea	green tea	hibiscus	hibiscus	or	
 T-932	fruits	fruits	vegetables	vegetables	and	
+T-932	tea	tea	blood	blood	may significantly lower	
 T-932	tea	tea	hibiscus tea	hibiscus tea	or	
 T-932	manganese	manganese	hibiscus	hibiscus	found in	
-T-932	tea	tea	antioxidant	antioxidant	ranked highest in	
-T-932	blood	blood	nitric oxide	nitric oxide	pressure by boosting	
-T-932	hibiscus	hibiscus	antioxidant	antioxidant	tea ranked highest in	
-T-932	arteries	arteries	tea	tea	relax and dilate better.while hibiscus	
-T-932	hibiscus tea	hibiscus tea	nitric oxide	nitric oxide	may significantly lower blood pressure by boosting	
-T-932	hibiscus	hibiscus	antioxidant content	antioxidant content	tea ranked highest in	
-T-932	hibiscus	hibiscus	aluminum	aluminum	tea acids boost absorption of its	
-T-932	hibiscus	hibiscus	orange	orange	teas are as acidic as	
-T-932	antioxidants	antioxidants	tea	tea	at every meal, and sip green	
-T-932	kids	kids	women	women	or pregnant	
-T-932	tea	tea	blood pressure	blood pressure	may significantly lower	
-T-932	hibiscus	hibiscus	blood pressure	blood pressure	tea may significantly lower	
-T-932	bioavailability	bioavailability	tea	tea	of aluminum in	
-T-932	antioxidant	antioxidant	fruits	fruits		
-T-932	bioavailability	bioavailability	aluminum	aluminum	of	
-T-932	green tea	green tea	free radicals	free radicals	or matcha.each time we eat,	
-T-932	orange	orange	juice	juice		
 T-932	tea	tea	antioxidant content	antioxidant content	ranked highest in	
-T-932	antioxidants	antioxidants	green tea	green tea	at every meal, and sip	
-T-932	green tea	green tea	hibiscus tea	hibiscus tea	or	
-T-932	hibiscus	hibiscus	tea	tea		
-T-932	beverages	beverages	hibiscus	hibiscus	revealed that	
-T-932	blood pressure	blood pressure	arteries	arteries	by boosting nitric oxide production, which could help	
-T-932	antioxidant	antioxidant	green tea	green tea	content ̶ higher than even	
-T-932	tea	tea	aluminum	aluminum	acids boost absorption of its	
-T-932	hibiscus tea	hibiscus tea	aluminum	aluminum	acids boost absorption of its	
-T-932	aluminum	aluminum	diet	diet	in the	
-T-932	antioxidant	antioxidant	tea	tea	content ̶ higher than even green	
-T-932	green tea	green tea	tea	tea	or hibiscus	
-T-932	mouth	mouth	water	water	out with	
-T-932	antioxidants	antioxidants	hibiscus	hibiscus	at every meal, and sip green tea or	
-T-932	nitric oxide	nitric oxide	arteries	arteries	production, which could help	
 T-932	hibiscus tea	hibiscus tea	blood	blood	may significantly lower	
 T-932	kids	kids	pregnant women	pregnant women	or	

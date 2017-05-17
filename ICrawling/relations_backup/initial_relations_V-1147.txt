@@ -1,31 +1,6 @@
 
-V-1147	animal products	animal products	mercury	mercury	can also contain other neurotoxic substances like methyl	
-V-1147	egg	egg	animal products	animal products	products, because farm animals that are fed contaminated	
-V-1147	fat	fat	lead	lead	tissues, the	
-V-1147	milk	milk	egg	egg	and	
-V-1147	farm animals	farm animals	animal products	animal products	that are fed contaminated	
-V-1147	animal products	animal products	produce	produce		
-V-1147	farm animals	farm animals	produce	produce	that are fed contaminated animal products	
-V-1147	plant-based	plant-based	diet	diet		
-V-1147	mercury	mercury	fat	fat	and lead, because the industrial plop accumulates in	
-V-1147	united states	united states	blood	blood	—slaughterhouse waste,	
-V-1147	milk	milk	farm animals	farm animals	and egg products, because	
-V-1147	saturated fat	saturated fat	industrial pollutants	industrial pollutants	(with the	
-V-1147	organic	organic	pollutants	pollutants		
+V-1147	mercury	mercury	fish	fish	isn’t just in	
 V-1147	farm animals	farm animals	meat	meat	are fed	
 V-1147	mercury	mercury	lead	lead	and	
-V-1147	vegetarian	vegetarian	mercury	mercury	lifestyle can lower the body burden of plop,	
-V-1147	united states	united states	manure	manure	—slaughterhouse waste, blood, and	
-V-1147	fat	fat	pollutants	pollutants	(with the industrial	
-V-1147	farm animals	farm animals	toxins	toxins	are fed meat and bone meal, the	
-V-1147	vegetarian	vegetarian	mercury	mercury	diets and exposure to organochlorine pollutants, lead, and	
+V-1147	milk	milk	egg	egg	and	
 V-1147	produce	produce	animal products	animal products	contaminated	
-V-1147	mercury	mercury	fish	fish	isn’t just in	
-V-1147	meat	meat	toxins	toxins	and bone meal, the	
-V-1147	organic	organic	pesticides	pesticides	pollutants, or “plop,” such as	
-V-1147	fat	fat	industrial pollutants	industrial pollutants	(with the	
-V-1147	vegetarian	vegetarian	lead	lead	diets and exposure to organochlorine pollutants,	
-V-1147	farm animals	farm animals	united states	united states	to other farm animals in the	
-V-1147	egg	egg	farm animals	farm animals	products, because	
-V-1147	vegetarian	vegetarian	pollutants	pollutants	diets and exposure to organochlorine	
-V-1147	saturated fat	saturated fat	pollutants	pollutants	(with the industrial	

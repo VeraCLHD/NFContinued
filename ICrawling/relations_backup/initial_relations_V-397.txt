@@ -1,53 +1,16 @@
 
-V-397	blood	blood	cholesterol	cholesterol		
-V-397	egg	egg	cholesterol	cholesterol	mcmuffins every day for two weeks, our	
-V-397	egg	egg	cholesterol	cholesterol	board funds a study they only measure fasting	
-V-397	cholesterol	cholesterol	dietary cholesterol	dietary cholesterol	levels more than	
-V-397	saturated fat	saturated fat	cholesterol	cholesterol	without the	
-V-397	drugs	drugs	liver	liver	suppressing our	
-V-397	mouth	mouth	cholesterol	cholesterol	means putting	
-V-397	sausage	sausage	egg	egg	and	
-V-397	saturated fat	saturated fat	dietary cholesterol	dietary cholesterol	may increase fasting cholesterol levels more than	
-V-397	lead	lead	smoking	smoking	investigator of that study that compared	
 V-397	cholesterol	cholesterol	sausage	sausage	found in two	
-V-397	blood	blood	dietary cholesterol	dietary cholesterol	cholesterol concentration is clearly increased by adding	
+V-397	egg	egg	fat	fat	would have saturated	
 V-397	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-397	cholesterol	cholesterol	dietary cholesterol	dietary cholesterol	concentration is clearly increased by adding	
-V-397	saturated fat	saturated fat	sausage	sausage	and cholesterol found in two	
-V-397	egg	egg	cholesterol	cholesterol	consumption pointed out, measuring fasting	
-V-397	triglycerides	triglycerides	cholesterol	cholesterol	shoot up, and blood	
-V-397	egg	egg	saturated fat	saturated fat	would have	
-V-397	fat	fat	sausage	sausage	and cholesterol found in two	
-V-397	cholesterol	cholesterol	mouth	mouth	in our	
-V-397	cholesterol	cholesterol	blood	blood	in our mouth means putting cholesterol in our	
-V-397	cholesterol	cholesterol	egg	egg	found in two sausage and	
 V-397	fat	fat	cholesterol	cholesterol	may increase fasting	
-V-397	fat	fat	arteries	arteries	and cholesterol in our	
-V-397	fat	fat	egg	egg	and more and more	
-V-397	fat	fat	blood	blood	and cholesterol in our	
-V-397	eggs	eggs	cholesterol	cholesterol	worth less	
-V-397	smoking	smoking	egg	egg	to	
-V-397	mouth	mouth	blood	blood	means putting cholesterol in our	
+V-397	cholesterol	cholesterol	egg	egg	shoots up.that’s the kind of data that’s bad for	
+V-397	sausage	sausage	eggs	eggs	and	
+V-397	drugs	drugs	liver	liver	suppressing our	
+V-397	fat	fat	bacon	bacon	too, so to even it out we have to add three strips of	
+V-397	saturated fat	saturated fat	bacon	bacon	too, so to even it out we have to add three strips of	
 V-397	fat	fat	cholesterol	cholesterol	and	
 V-397	cholesterol	cholesterol	drugs	drugs	is appropriate for measuring the effects of	
-V-397	sausage	sausage	egg	egg	mcmuffins without the	
-V-397	liver	liver	cholesterol	cholesterol	’s	
-V-397	saturated fat	saturated fat	egg	egg	and cholesterol found in two sausage and	
-V-397	egg	egg	fat	fat	would have saturated	
-V-397	saturated fat	saturated fat	sausage	sausage	without the cholesterol, some kind of cholesterol-free	
-V-397	drugs	drugs	cholesterol	cholesterol	suppressing our liver’s	
-V-397	lead	lead	egg	egg	investigator of that study that compared smoking to	
-V-397	fat	fat	sausage	sausage	without the cholesterol, some kind of cholesterol-free	
-V-397	ldl	ldl	cholesterol	cholesterol		
-V-397	triglycerides	triglycerides	blood	blood	shoot up, and	
-V-397	fat	fat	egg	egg	and cholesterol found in two sausage and	
-V-397	smoking	smoking	cholesterol	cholesterol	to egg consumption pointed out, measuring fasting	
-V-397	fat	fat	dietary cholesterol	dietary cholesterol	may increase fasting cholesterol levels more than	
-V-397	cholesterol	cholesterol	blood	blood	in our	
-V-397	fat	fat	cholesterol	cholesterol	without the	
-V-397	sausage	sausage	eggs	eggs	and	
-V-397	cholesterol	cholesterol	eggs	eggs	in those meals—they actually used	
-V-397	eggs	eggs	breakfast	breakfast	for	
-V-397	cholesterol	cholesterol	arteries	arteries	in our	
+V-397	mouth	mouth	cholesterol	cholesterol	means putting	
+V-397	sausage	sausage	egg	egg	and	
+V-397	egg	egg	saturated fat	saturated fat	would have	
 V-397	saturated fat	saturated fat	cholesterol	cholesterol	may increase fasting	
-V-397	eggs	eggs	egg	egg	in this study, so the amount of	

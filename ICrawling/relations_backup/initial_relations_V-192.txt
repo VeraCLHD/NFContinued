@@ -1,14 +1,2 @@
 
-V-192	cancer	cancer	vitamin c	vitamin c	patients with	
-V-192	breast cancer	breast cancer	cancer	cancer	—remember these were all terminal	
-V-192	cancer	cancer	vitamin c	vitamin c	after being given large doses of	
-V-192	cancer	cancer	cancer	cancer	—remember these were all terminal	
-V-192	blind	blind	cancer	cancer	trial, meaning take a group of incurable	
-V-192	women	women	breast cancer	breast cancer	with terminal	
-V-192	radiation	radiation	cancer	cancer	and chemo, but when the	
 V-192	radiation	radiation	chemo	chemo	and	
-V-192	treatment	treatment	cancer	cancer	of patients with advanced	
-V-192	cancer	cancer	cancer	cancer	institute with promising data on the first 40	
-V-192	national cancer institute	national cancer institute	cancer	cancer	with promising data on the first 40	
-V-192	women	women	vitamin c	vitamin c	were dead, but in the	
-V-192	women	women	cancer	cancer	with terminal breast	

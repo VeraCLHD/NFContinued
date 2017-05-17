@@ -1,99 +1,31 @@
 
+A-171	chronic disease	chronic disease	children	children	in	
 A-171	vegetables	vegetables	copd	copd	can be found in preventing	
-A-171	eggs	eggs	diet	diet	and dairy from the	
-A-171	asthma	asthma	vegetarian	vegetarian	than those who were strictly	
-A-171	anti-inflammatory	anti-inflammatory	antioxidants	antioxidants		
-A-171	eczema	eczema	plant-based diets	plant-based diets	with	
-A-171	fruits	fruits	risk	risk	were associated with reduced	
-A-171	eczema	eczema	plant-based	plant-based	with	
-A-171	asthma	asthma	plants	plants	with	
-A-171	diet	diet	plants	plants	filled with	
-A-171	asthma	asthma	allergies	allergies	and	
-A-171	symptoms	symptoms	asthma	asthma	of	
-A-171	fruits	fruits	symptoms	symptoms	were associated with reduced risk of respiratory	
-A-171	animal foods	animal foods	plants	plants	and more	
-A-171	plants	plants	supplements	supplements	to pills (treating asthma with plants vs.	
-A-171	soy foods	soy foods	fruits	fruits	and	
-A-171	dairy	dairy	diet	diet	from the	
-A-171	plants	plants	asthma	asthma	to pills (treating	
-A-171	disease	disease	children	children	in	
-A-171	cold	cold	probiotics	probiotics	with	
-A-171	fat	fat	inflammation	inflammation	’s role in triggering	
-A-171	flora	flora	immune system	immune system	might affect the development and priming of the	
-A-171	risk	risk	asthma	asthma	of respiratory symptoms and	
-A-171	eggs	eggs	dairy	dairy	and	
-A-171	gut	gut	mental health	mental health	feelings: probiotics and	
-A-171	asthma	asthma	supplements	supplements	with plants vs.	
-A-171	calories	calories	protein	protein	and	
-A-171	fruits	fruits	vegetables	vegetables	and	
-A-171	copd	copd	diet	diet	with	
-A-171	allergies	allergies	asthma	asthma	in childhood, highlighted in my video, preventing	
-A-171	probiotics	probiotics	immune function	immune function	can affect	
-A-171	kids	kids	allergies	allergies	with	
-A-171	pollutants	pollutants	endocrine disruptors	endocrine disruptors	(see dietary sources of alkylphenol	
-A-171	fat	fat	carbohydrates	carbohydrates	and sodium, and low intakes of fiber and	
-A-171	gut	gut	probiotics	probiotics	feelings:	
-A-171	asthma	asthma	plant-based diets	plant-based diets	and eczema with	
-A-171	meat	meat	risk	risk	supply that may increase the	
-A-171	smoking	smoking	diet	diet	rates, but the most significant associations were with	
-A-171	asthma	asthma	fruits	fruits	with	
-A-171	eczema	eczema	plant foods	plant foods	with increases in per capita consumption of	
-A-171	vitamin c	vitamin c	plant foods	plant foods	from	
-A-171	symptoms	symptoms	asthma	asthma	and	
-A-171	industrial pollutants	industrial pollutants	endocrine disruptors	endocrine disruptors	(see dietary sources of alkylphenol	
-A-171	endocrine disruptors	endocrine disruptors	allergies	allergies	and	
-A-171	children	children	vegetarian	vegetarian	raised on largely organic	
-A-171	eczema	eczema	symptoms	symptoms	—a 20 to 60-fold difference in prevalence of	
-A-171	pills	pills	supplements	supplements	(treating asthma with plants vs.	
-A-171	common cold	common cold	probiotics	probiotics	with	
-A-171	plants	plants	plant-based diets	plant-based diets	might play in treating asthma and eczema with	
-A-171	chicken	chicken	eggs	eggs	and	
-A-171	protein	protein	allergies	allergies	came from plant sources, the less	
-A-171	bacteria	bacteria	fermented foods	fermented foods	that’s found in	
 A-171	fiber	fiber	carbohydrates	carbohydrates	and	
-A-171	probiotics	probiotics	health	health	and mental	
-A-171	risk	risk	asthma	asthma	of allergic disease, but the increase in	
+A-171	fruits	fruits	risk	risk	were associated with reduced	
+A-171	diet	diet	plants	plants	filled with	
 A-171	asthma	asthma	disease	disease	is the most common chronic	
 A-171	asthma	asthma	chronic disease	chronic disease	is the most common	
-A-171	risk	risk	symptoms	symptoms	of respiratory	
-A-171	fat	fat	sodium	sodium	and	
-A-171	plants	plants	pills	pills	to	
-A-171	endocrine disruptors	endocrine disruptors	meat	meat	) building up in the	
-A-171	fruits	fruits	copd	copd	and vegetables can be found in preventing	
-A-171	intestinal flora	intestinal flora	immune system	immune system	might affect the development and priming of the	
-A-171	fiber	fiber	asthma	asthma	and carbohydrates, are linked with	
-A-171	probiotics	probiotics	asthma	asthma	may actually help with childhood	
-A-171	probiotics	probiotics	mental health	mental health	and	
-A-171	saturated fat	saturated fat	inflammation	inflammation	’s role in triggering	
-A-171	pills	pills	asthma	asthma	(treating	
-A-171	plants	plants	asthma	asthma	might play in treating	
-A-171	asthma	asthma	fruits	fruits	prevalence and a decrease in consumption of fresh	
-A-171	soy	soy	risk	risk	foods and fruits were associated with reduced	
-A-171	diet	diet	children	children	may improve lung function in asthmatic	
-A-171	asthma	asthma	eczema	eczema	and	
-A-171	chronic disease	chronic disease	children	children	in	
-A-171	organic	organic	vegetarian	vegetarian		
-A-171	diet	diet	asthma	asthma	filled with plants might play in treating	
-A-171	meat	meat	asthma	asthma	(daily or occasionally) were more likely to report	
-A-171	asthma	asthma	vegetables	vegetables	with fruits and	
-A-171	symptoms	symptoms	eczema	eczema	of asthma, allergic runny nose, and atopic	
-A-171	meat	meat	disease	disease	supply that may increase the risk of allergic	
-A-171	asthma	asthma	plant-based	plant-based	and eczema with	
-A-171	pills	pills	plants	plants	(treating asthma with	
-A-171	gut	gut	health	health	feelings: probiotics and mental	
-A-171	fats	fats	saturated fat	saturated fat	may have a 10-fold protection, presumably because of	
+A-171	asthma	asthma	allergies	allergies	and	
+A-171	symptoms	symptoms	asthma	asthma	of	
 A-171	air pollution	air pollution	smoking	smoking	and	
-A-171	plants	plants	plant-based	plant-based	might play in treating asthma and eczema with	
-A-171	asthma	asthma	children	children	is the most common chronic disease in	
-A-171	soy foods	soy foods	risk	risk	and fruits were associated with reduced	
-A-171	plants	plants	eczema	eczema	might play in treating asthma and	
-A-171	chicken	chicken	inflammation	inflammation	and eggs that may contribute to	
-A-171	risk	risk	disease	disease	of allergic	
+A-171	fat	fat	sodium	sodium	and	
+A-171	soy foods	soy foods	fruits	fruits	and	
+A-171	intestinal flora	intestinal flora	immune system	immune system	might affect the development and priming of the	
+A-171	symptoms	symptoms	asthma	asthma	and	
+A-171	endocrine disruptors	endocrine disruptors	allergies	allergies	and	
+A-171	disease	disease	children	children	in	
+A-171	asthma	asthma	environment	environment	may be a combination of both a more toxic	
+A-171	probiotics	probiotics	mental health	mental health	and	
 A-171	pollution	pollution	smoking	smoking	and	
-A-171	eggs	eggs	inflammation	inflammation	that may contribute to	
+A-171	plants	plants	asthma	asthma	might play in treating	
 A-171	eczema	eczema	children	children	in	
-A-171	vegetables	vegetables	diet	diet	can be found in preventing copd with	
+A-171	flora	flora	immune system	immune system	might affect the development and priming of the	
+A-171	eggs	eggs	dairy	dairy	and	
+A-171	calories	calories	protein	protein	and	
+A-171	eggs	eggs	risk	risk	have been associated (along with soft drink consumption) with increased	
+A-171	asthma	asthma	eczema	eczema	and	
 A-171	children	children	organic	organic	raised on largely	
-A-171	soy	soy	fruits	fruits	foods and	
-A-171	calories	calories	allergies	allergies	and protein came from plant sources, the less	
-A-171	fat	fat	fiber	fiber	and sodium, and low intakes of	
+A-171	chicken	chicken	eggs	eggs	and	
+A-171	fruits	fruits	vegetables	vegetables	and	
+A-171	probiotics	probiotics	immune function	immune function	can affect	

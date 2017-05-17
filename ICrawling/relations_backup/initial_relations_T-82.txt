@@ -1,7 +1,0 @@
-
-T-82	tumor	tumor	amla	amla	growth, and the	
-T-82	antioxidant	antioxidant	diabetes	diabetes	boost.amla may be effective in treating	
-T-82	chemotherapy	chemotherapy	tumor	tumor	drug in cutting	
-T-82	chemotherapy	chemotherapy	tumor growth	tumor growth	drug in cutting	
-T-82	antioxidant	antioxidant	amla	amla	boost.	
-T-82	chemotherapy	chemotherapy	amla	amla	drug in cutting tumor growth, and the	

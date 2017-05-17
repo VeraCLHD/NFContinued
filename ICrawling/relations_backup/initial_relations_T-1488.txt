@@ -1,16 +1,6 @@
 
 T-1488	pomegranate juice	pomegranate juice	pomegranate	pomegranate	or	
 T-1488	pomegranates	pomegranates	antioxidants	antioxidants	are high in	
-T-1488	pomegranate juice	pomegranate juice	fruit	fruit	or pomegranate	
-T-1488	juice	juice	pomegranate	pomegranate	or	
-T-1488	pomegranate	pomegranate	juice	juice		
-T-1488	pomegranate	pomegranate	fruits	fruits	seeds are one of the most-antioxidant-packed dried	
-T-1488	seeds	seeds	fruits	fruits	are one of the most-antioxidant-packed dried	
-T-1488	supplements	supplements	fruit	fruit	labeled as containing only pomegranate juice or pomegranate	
-T-1488	pomegranate	pomegranate	fruit	fruit	juice or pomegranate	
 T-1488	supplements	supplements	pomegranate	pomegranate	labeled as containing only	
 T-1488	supplements	supplements	pomegranate juice	pomegranate juice	labeled as containing only	
-T-1488	juice	juice	fruit	fruit	and the	
-T-1488	juice	juice	fruit	fruit	or pomegranate	
-T-1488	pomegranate	pomegranate	seeds	seeds		
-T-1488	supplements	supplements	juice	juice	labeled as containing only pomegranate	
+T-1488	juice	juice	pomegranate	pomegranate	or	

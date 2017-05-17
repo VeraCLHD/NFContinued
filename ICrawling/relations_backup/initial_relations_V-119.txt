@@ -1,43 +1,4 @@
 
-V-119	turmeric	turmeric	colon	colon	against pancreatic cancer,	
-V-119	curcumin	curcumin	cancer cells	cancer cells	against seven different types of human	
-V-119	colon	colon	colorectal cancer	colorectal cancer	cancer, multiple myeloma, myelogenous leukemia, and more	
-V-119	curcumin	curcumin	turmeric	turmeric	-free	
-V-119	curcumin	curcumin	cancer	cancer	against pancreatic	
-V-119	curcumin	curcumin	pancreatic cancer	pancreatic cancer	against	
-V-119	colon	colon	leukemia	leukemia	cancer, multiple myeloma, myelogenous	
-V-119	turmeric	turmeric	curcumin	curcumin	components other than	
 V-119	curcumin	curcumin	turmeric	turmeric	is believed to account for most activities of	
-V-119	cancer	cancer	turmeric	turmeric	cells, but	
-V-119	curcumin	curcumin	anti-inflammatory	anti-inflammatory	-free turmeric exhibits	
-V-119	turmeric	turmeric	myeloma	myeloma	against pancreatic cancer, colon cancer, multiple	
-V-119	turmeric	turmeric	curcumin	curcumin	was more potent compared to	
-V-119	turmeric	turmeric	breast cancer	breast cancer	.curcumin kicks butt against	
-V-119	colon	colon	myeloma	myeloma	cancer, multiple	
-V-119	texas	texas	cancer cells	cancer cells	pitted curcumin against seven different types of human	
-V-119	colon	colon	cancer cells	cancer cells		
-V-119	turmeric	turmeric	curcumin	curcumin	with	
-V-119	curcumin	curcumin	colon cancer	colon cancer	against pancreatic cancer; turmeric against pancreatic cancer,	
-V-119	turmeric	turmeric	multiple myeloma	multiple myeloma	against pancreatic cancer, colon cancer,	
-V-119	colon	colon	cancer	cancer		
-V-119	curcumin	curcumin	cancer	cancer	against seven different types of human	
-V-119	cancer	cancer	curcumin	curcumin	center in texas pitted	
-V-119	turmeric	turmeric	curcumin	curcumin	exhibits anti-inflammatory and anticancer activities.although	
-V-119	texas	texas	cancer	cancer	pitted curcumin against seven different types of human	
-V-119	cancer	cancer	texas	texas	center in	
-V-119	turmeric	turmeric	colon cancer	colon cancer	against pancreatic cancer,	
-V-119	curcumin	curcumin	turmeric	turmeric	against pancreatic cancer;	
-V-119	curcumin	curcumin	turmeric	turmeric	is described as the active ingredient in	
-V-119	turmeric	turmeric	leukemia	leukemia	against pancreatic cancer, colon cancer, multiple myeloma, myelogenous	
-V-119	turmeric	turmeric	pancreatic cancer	pancreatic cancer	against	
-V-119	turmeric	turmeric	anti-inflammatory	anti-inflammatory	exhibits	
-V-119	anti-inflammatory	anti-inflammatory	curcumin	curcumin	and anticancer activities.although	
-V-119	curcumin	curcumin	supplements	supplements		
-V-119	curcumin	curcumin	colon	colon	against pancreatic cancer; turmeric against pancreatic cancer,	
-V-119	turmeric	turmeric	cancer	cancer	.curcumin kicks butt against breast	
-V-119	colon	colon	multiple myeloma	multiple myeloma	cancer,	
 V-119	texas	texas	curcumin	curcumin	pitted	
-V-119	breast cancer	breast cancer	turmeric	turmeric	cells, but	
-V-119	turmeric	turmeric	cancer cells	cancer cells	.curcumin kicks butt against breast	
-V-119	turmeric	turmeric	cancer	cancer	against pancreatic	
-V-119	curcumin	curcumin	turmeric	turmeric	-containing	
+V-119	turmeric	turmeric	curcumin	curcumin	was more potent compared to	

@@ -1,35 +1,11 @@
 
-A-380	roy swank	roy swank	fat	fat	‘s low saturated	
-A-380	meat	meat	diet	diet	and dairy-restricted	
-A-380	igf-1	igf-1	animal protein	animal protein	(starting with the answer to the pritikin puzzle)	
-A-380	cancer	cancer	growth hormone	growth hormone	-promoting	
-A-380	plant-based	plant-based	diet	diet		
-A-380	animal protein	animal protein	cancer	cancer	consumption increases the level of a	
-A-380	saturated fat	saturated fat	diet	diet		
-A-380	roy swank	roy swank	saturated fat	saturated fat	‘s low	
 A-380	treatment	treatment	multiple sclerosis	multiple sclerosis	of	
 A-380	plant-based diet	plant-based diet	auto-immune disease	auto-immune disease	may be so successful in treating the disabling	
-A-380	plant-based	plant-based	autoimmune diseases	autoimmune diseases	diets appear protected from	
-A-380	diet	diet	treatment	treatment	remains the “most effective	
-A-380	diet	diet	multiple sclerosis	multiple sclerosis	remains the “most effective treatment of	
-A-380	igf-1	igf-1	cancer	cancer	levels are linked to	
-A-380	pritikin	pritikin	animal protein	animal protein	puzzle)	
-A-380	death	death	cell death	cell death	by apopotosis (programmed	
-A-380	disease	disease	meat	meat	34 years after adopting his	
-A-380	igf-1	igf-1	pritikin	pritikin	(starting with the answer to the	
-A-380	fat	fat	multiple sclerosis	multiple sclerosis	diet remains the “most effective treatment of	
+A-380	igf-1	igf-1	blood	blood	might contribute to the inappropriate survival of self-reactive white	
 A-380	antibodies	antibodies	immune system	immune system	are one of the main weapons our	
-A-380	saturated fat	saturated fat	multiple sclerosis	multiple sclerosis	diet remains the “most effective treatment of	
-A-380	fat	fat	treatment	treatment	diet remains the “most effective	
-A-380	protein	protein	cancer	cancer	consumption increases the level of a	
-A-380	animal protein	animal protein	growth hormone	growth hormone	consumption increases the level of a cancer-promoting	
-A-380	antibodies	antibodies	bacteria	bacteria	against the tail proteins of	
-A-380	igf-1	igf-1	white blood cells	white blood cells	might contribute to the inappropriate survival of self-reactive	
-A-380	protein	protein	growth hormone	growth hormone	consumption increases the level of a cancer-promoting	
-A-380	disease	disease	diet	diet	34 years after adopting his meat and dairy-restricted	
-A-380	roy swank	roy swank	diet	diet	‘s low saturated fat	
-A-380	saturated fat	saturated fat	treatment	treatment	diet remains the “most effective	
+A-380	diet	diet	treatment	treatment	remains the “most effective	
 A-380	diet	diet	auto-immune disease	auto-immune disease	may be so successful in treating the disabling	
-A-380	fat	fat	diet	diet		
-A-380	pritikin	pritikin	protein	protein	puzzle) animal	
+A-380	plant-based diet	plant-based diet	disease	disease	may be so successful in treating the disabling auto-immune	
+A-380	igf-1	igf-1	white blood cells	white blood cells	might contribute to the inappropriate survival of self-reactive	
+A-380	diet	diet	disease	disease	may be so successful in treating the disabling auto-immune	
 A-380	plant-based diets	plant-based diets	autoimmune diseases	autoimmune diseases	appear protected from	

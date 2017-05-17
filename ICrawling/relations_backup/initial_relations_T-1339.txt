@@ -1,46 +1,12 @@
 
 T-1339	nuts	nuts	seeds	seeds	and	
 T-1339	seeds	seeds	cholesterol	cholesterol	may be even better at lowering bad	
-T-1339	cancer	cancer	carcinogens	carcinogens	risk due to	
-T-1339	pain	pain	disease	disease	in people with known coronary artery	
-T-1339	plant-based	plant-based	fat	fat	diet low in	
-T-1339	chicken	chicken	inflammation	inflammation	and eggs thought to cause	
-T-1339	cancer	cancer	cooking	cooking	risk due to carcinogens formed at high	
-T-1339	anti-inflammatory	anti-inflammatory	nuts	nuts	phytonutrients.whole food sources of fat found in	
-T-1339	fat	fat	nuts	nuts	found in	
-T-1339	fat	fat	carbohydrates	carbohydrates	and high in	
-T-1339	plant-based	plant-based	diet	diet		
-T-1339	plant-based	plant-based	carbohydrates	carbohydrates	diet low in fat and high in	
-T-1339	nuts	nuts	bad cholesterol	bad cholesterol	and seeds may be even better at lowering	
-T-1339	cancer	cancer	risk	risk		
-T-1339	eggs	eggs	inflammation	inflammation	thought to cause	
-T-1339	mood	mood	symptoms	symptoms	and relieve	
-T-1339	oils	oils	cooking	cooking	can become rancid, but the true shelf-life of	
-T-1339	carbohydrates	carbohydrates	symptoms	symptoms	may improve mood and relieve	
-T-1339	plant-based diet	plant-based diet	carbohydrates	carbohydrates	low in fat and high in	
-T-1339	diet	diet	fat	fat	low in	
 T-1339	carcinogens	carcinogens	cooking	cooking	formed at high	
 T-1339	trans fat	trans fat	animal foods	animal foods	is found naturally in	
-T-1339	food industry	food industry	vegetable oil	vegetable oil	synthetically derives them from	
-T-1339	plant-based diet	plant-based diet	fat	fat	low in	
+T-1339	eggs	eggs	inflammation	inflammation	thought to cause	
 T-1339	seeds	seeds	bad cholesterol	bad cholesterol	may be even better at lowering	
-T-1339	omega 6	omega 6	eggs	eggs	fatty acid found in chicken and	
-T-1339	fat	fat	food industry	food industry	is found naturally in animal foods, however, the	
-T-1339	cholesterol	cholesterol	olive oil	olive oil	than extra virgin	
-T-1339	risk	risk	carcinogens	carcinogens	due to	
-T-1339	symptoms	symptoms	depression	depression	of	
-T-1339	trans fat	trans fat	food industry	food industry	is found naturally in animal foods, however, the	
-T-1339	mood	mood	depression	depression	and relieve symptoms of	
-T-1339	fat	fat	animal foods	animal foods	is found naturally in	
-T-1339	bad cholesterol	bad cholesterol	olive oil	olive oil	than extra virgin	
-T-1339	risk	risk	cooking	cooking	due to carcinogens formed at high	
-T-1339	omega 6	omega 6	chicken	chicken	fatty acid found in	
-T-1339	arteries	arteries	blood	blood	and reduce	
-T-1339	cooking	cooking	oils	oils		
-T-1339	fat	fat	seeds	seeds	found in nuts and	
 T-1339	carbohydrates	carbohydrates	mood	mood	may improve	
 T-1339	chicken	chicken	eggs	eggs	and	
-T-1339	fat	fat	mood	mood	and high in carbohydrates may improve	
-T-1339	carbohydrates	carbohydrates	depression	depression	may improve mood and relieve symptoms of	
-T-1339	diet	diet	carbohydrates	carbohydrates	low in fat and high in	
-T-1339	anti-inflammatory	anti-inflammatory	fat	fat	phytonutrients.whole food sources of	
+T-1339	fat	fat	nuts	nuts	found in	
+T-1339	symptoms	symptoms	depression	depression	of	
+T-1339	fat	fat	animal foods	animal foods	is found naturally in	

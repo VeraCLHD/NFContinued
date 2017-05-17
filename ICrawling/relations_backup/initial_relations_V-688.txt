@@ -1,12 +1,3 @@
 
-V-688	risk	risk	disease	disease	of all-cause and [cardiovascular	
 V-688	sleep	sleep	risk	risk	may be “a novel and independent	
-V-688	disease	disease	mortality	mortality		
-V-688	disease	disease	mortality	mortality	] 	
-V-688	heart disease	heart disease	mortality	mortality		
-V-688	risk	risk	cardiovascular disease	cardiovascular disease	of all-cause and [	
 V-688	american heart association	american heart association	death	death	linked tv watching with	
-V-688	television	television	risk	risk	viewing time was associated with increased	
-V-688	risk	risk	mortality	mortality	of all-cause and [cardiovascular disease] 	
-V-688	risk	risk	obesity	obesity	factor for	
-V-688	cardiovascular disease	cardiovascular disease	mortality	mortality	] 	

@@ -1,36 +1,9 @@
 
 V-873	tempeh	tempeh	plant-based	plant-based	is probably the closest	
-V-873	cooking	cooking	tempeh	tempeh	by-products from frying burgers, bacon and	
-V-873	frying	frying	bacon	bacon		
-V-873	risk	risk	cancer	cancer	of respiratory tract	
-V-873	mutagens	mutagens	pork	pork	produced by frying beef,	
-V-873	bacon	bacon	beef	beef	—found 15 times worse than the	
-V-873	pork	pork	beef	beef	and	
-V-873	risk	risk	respiratory tract cancer	respiratory tract cancer	of	
-V-873	frying	frying	bacon	bacon	pork and beef were mutagenic, especially the	
-V-873	bacon	bacon	barbeque	barbeque	and eggs, the	
-V-873	frying	frying	burgers	burgers		
-V-873	mutagens	mutagens	frying	frying	produced by	
-V-873	cooking	cooking	burgers	burgers	by-products from frying	
-V-873	beef	beef	bacon	bacon	were mutagenic, especially the	
-V-873	frying	frying	beef	beef		
+V-873	bacon	bacon	tempeh	tempeh	and	
+V-873	carcinogens	carcinogens	bacon	bacon	have been discovered even in the vapors from fried	
+V-873	nitrosamines	nitrosamines	bacon	bacon	in	
 V-873	bacon	bacon	carcinogens	carcinogens	is so high that these	
 V-873	bacon	bacon	eggs	eggs	and	
-V-873	tempeh	tempeh	meat	meat	is probably the closest plant-based thing to cured	
-V-873	frying	frying	tempeh	tempeh	burgers, bacon and	
-V-873	nitrosamines	nitrosamines	carcinogens	carcinogens	in bacon is so high that these	
-V-873	frying	frying	pork	pork	beef,	
-V-873	frying	frying	beef	beef	pork and	
-V-873	mutagens	mutagens	beef	beef	produced by frying	
-V-873	cooking	cooking	bacon	bacon	by-products from frying burgers,	
-V-873	nitrosamines	nitrosamines	bacon	bacon	in	
-V-873	pork	pork	bacon	bacon	and beef were mutagenic, especially the	
-V-873	tempeh	tempeh	bacon	bacon		
-V-873	meat	meat	tempeh	tempeh	world.what about	
-V-873	frying	frying	pork	pork		
-V-873	bacon	bacon	tempeh	tempeh	and	
-V-873	lung cancer	lung cancer	vegetarians	vegetarians	among	
-V-873	plant-based	plant-based	meat	meat	thing to cured	
-V-873	cooking	cooking	frying	frying	by-products from	
-V-873	frying	frying	bacon	bacon	burgers,	
-V-873	meat	meat	bacon	bacon	world.what about tempeh	
+V-873	pork	pork	beef	beef	and	
+V-873	risk	risk	respiratory tract cancer	respiratory tract cancer	of	

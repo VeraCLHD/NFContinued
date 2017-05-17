@@ -1,19 +1,10 @@
 
-V-395	vegetables	vegetables	beans	beans	and	
-V-395	obesity	obesity	beverage	beverage	problem is the food and	
-V-395	cancer	cancer	chicken	chicken	charity, to sell pink buckets of fried	
-V-395	obesity	obesity	united states	united states	epidemic in the	
-V-395	breast cancer	breast cancer	chicken	chicken	charity, to sell pink buckets of fried	
-V-395	taxes	taxes	children	children	did not fit the way save the	
-V-395	energy	energy	obesity	obesity	in” side of the	
-V-395	food industry	food industry	public health	public health	would do well to strengthen their	
 V-395	animal products	animal products	fruit	fruit	compared with	
-V-395	animal products	animal products	vegetables	vegetables	compared with fruit,	
-V-395	soda	soda	children	children	taxes did not fit the way save the	
-V-395	animal products	animal products	beans	beans	compared with fruit, vegetables and	
+V-395	vegetables	vegetables	beans	beans	and	
+V-395	food industry	food industry	public health	public health	is now causing what promises to be one of the greatest	
 V-395	health	health	obesity	obesity	caused by	
-V-395	soda	soda	taxes	taxes		
-V-395	animal products	animal products	food industry	food industry	artificially cheap.the	
-V-395	disease	disease	tobacco	tobacco	than	
+V-395	taxes	taxes	children	children	did not fit the way save the	
 V-395	food industry	food industry	health	health	would do well to strengthen their public	
-V-395	united states	united states	physical activity	physical activity	is now the food supply, and interventions targeting	
+V-395	food industry	food industry	health	health	is now causing what promises to be one of the greatest public	
+V-395	diet	diet	disease	disease	is now responsible for an even greater burden of	
+V-395	food industry	food industry	public health	public health	would do well to strengthen their	

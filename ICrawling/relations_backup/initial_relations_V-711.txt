@@ -1,12 +1,2 @@
 
 V-711	americans	americans	depression	depression	suffer from	
-V-711	prozac	prozac	saffron	saffron	group; the other, the	
-V-711	prozac	prozac	sexual dysfunction	sexual dysfunction	users suffered from	
-V-711	depression	depression	saffron	saffron	got capsules containing the spice	
-V-711	americans	americans	disease	disease	suffer from depression each year; a disabling	
-V-711	depression	depression	disease	disease	each year; a disabling	
-V-711	pms	pms	symptoms	symptoms		
-V-711	disease	disease	saffron	saffron	that can even end up fatal—due to suicide.enter	
-V-711	saffron	saffron	prozac	prozac	versus	
-V-711	saffron	saffron	symptoms	symptoms	for pms	
-V-711	saffron	saffron	pms	pms	for	

@@ -1,17 +1,3 @@
 
-V-995	carotenoid	carotenoid	skin	skin	concentration in the	
 V-995	kale	kale	carotenoid	carotenoid	was at increasing	
-V-995	kale	kale	sugar	sugar	.what if instead of the	
-V-995	beta carotene	beta carotene	carotenoid	carotenoid	pills, leutein pills, mixed	
-V-995	sugar	sugar	beta carotene	beta carotene	pill, though, you compared kale to 	
-V-995	antioxidant	antioxidant	skin	skin	substances in the	
-V-995	carotenoid	carotenoid	supplements	supplements	 	
-V-995	free radicals	free radicals	fruit	fruit	…[v]egetables,	
-V-995	kale	kale	skin	skin	was at increasing carotenoid concentration in the	
-V-995	sugar	sugar	kale	kale	pill, though, you compared	
-V-995	supplements	supplements	placebo	placebo	each mixed in with the	
-V-995	carotenoid	carotenoid	pills	pills		
-V-995	beta carotene	beta carotene	pills	pills		
-V-995	carotenoid	carotenoid	placebo	placebo	 supplements each mixed in with the	
-V-995	antioxidants	antioxidants	skin	skin	in the	
-V-995	sugar	sugar	pills	pills	pill, though, you compared kale to beta carotene	
+V-995	skin	skin	antioxidant	antioxidant	may possibly be caused by the fact that the	

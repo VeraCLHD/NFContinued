@@ -1,8 +1,3 @@
 
-V-1026	cancer	cancer	risk	risk		
-V-1026	prostate	prostate	cancer	cancer		
 V-1026	risk	risk	breast cancer	breast cancer	of	
-V-1026	cancer	cancer	vegetables	vegetables	risk, but what about fermented	
 V-1026	vegetables	vegetables	cancer	cancer	reduce	
-V-1026	risk	risk	cancer	cancer	of breast	
-V-1026	vegetables	vegetables	risk	risk	reduce cancer	

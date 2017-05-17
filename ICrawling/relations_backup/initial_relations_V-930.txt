@@ -1,6 +1,3 @@
 
-V-930	vitamin d	vitamin d	bone health	bone health	it feels comfortable with for	
-V-930	vitamin d	vitamin d	health	health	it feels comfortable with for bone	
-V-930	vitamin d	vitamin d	health	health	for adequate bone	
-V-930	vitamin d	vitamin d	bone health	bone health	for adequate	
-V-930	disease	disease	prevention	prevention		
+V-930	medicine	medicine	vitamin d	vitamin d	figured, why don’t we just listen in on the body’s own innate wisdom, and find out which level of	
+V-930	institute of medicine	institute of medicine	vitamin d	vitamin d	figured, why don’t we just listen in on the body’s own innate wisdom, and find out which level of	

@@ -1,10 +1,3 @@
 
 V-316	phytonutrients	phytonutrients	oats	oats	found in	
-V-316	skin	skin	surgery	surgery	fragments from plastic	
-V-316	oatmeal	oatmeal	skin	skin	lotion, but look, if it helps with dry	
-V-316	chemo	chemo	cetuximab	cetuximab	drugs, like	
-V-316	chemo	chemo	rash	rash	drugs, like cetuximab, that causes an awful	
-V-316	chemo	chemo	drugs	drugs		
-V-316	plastic	plastic	surgery	surgery		
-V-316	symptoms	symptoms	cancer	cancer	were to be overlooked.ironically, two of the	
-V-316	skin	skin	plastic	plastic	fragments from	
+V-316	oatmeal	oatmeal	skin	skin	has been used for centuries as a topical soothing agent on the	

@@ -1,11 +1,3 @@
 
 V-1191	betel nuts	betel nuts	nuts	nuts	are like any other	
-V-1191	health	health	betel nuts	betel nuts	community has known for a long time that	
-V-1191	public health	public health	betel nuts	betel nuts	community has known for a long time that	
-V-1191	chestnuts	chestnuts	nuts	nuts	and coconuts, which really can’t be considered	
-V-1191	nuts	nuts	coconuts	coconuts	count, including peanuts, but excluding chestnuts and	
-V-1191	heart disease	heart disease	risk	risk		
-V-1191	nuts	nuts	peanuts	peanuts	count, including	
-V-1191	disease	disease	risk	risk		
-V-1191	nuts	nuts	chestnuts	chestnuts	count, including peanuts, but excluding 	
 V-1191	chestnuts	chestnuts	coconuts	coconuts	and	

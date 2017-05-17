@@ -1,112 +1,21 @@
 
-A-387	yersinia	yersinia	infection	infection	enterocolitica and pork products the main source of human	
-A-387	yersinia	yersinia	stomach	stomach	 food poisoning causes an acute “	
-A-387	livestock	livestock	yersinia	yersinia	industry see:	
-A-387	yersinia	yersinia	stress	stress	 infection on organic farms to lower levels of	
-A-387	infection	infection	stress	stress	through to slaughter, the impact of	
-A-387	infection	infection	inflammation	inflammation	include chronic	
-A-387	meat	meat	yersinia	yersinia	supply, see: the campylobacter in chicken that i end the	
-A-387	europe	europe	u.s. food and drug administration	u.s. food and drug administration	’s equivalent to the	
-A-387	blood sugar	blood sugar	anxiety	anxiety	levels or behavioral effects such as restlessness or	
-A-387	pigs	pigs	health	health	is associated with increased	
-A-387	animal welfare	animal welfare	pork	pork	concerns, why does the u.s.	
-A-387	stomach	stomach	fever	fever	flu” characterized by	
-A-387	stress	stress	pigs	pigs	levels on disease resistance of breeding	
-A-387	food poisoning	food poisoning	fever	fever	causes an acute “stomach flu” characterized by	
-A-387	food poisoning	food poisoning	stomach	stomach	causes an acute “	
-A-387	yersinia	yersinia	poultry	poultry	video on is the 	
-A-387	european food safety authority	european food safety authority	u.s. food and drug administration	u.s. food and drug administration	—europe’s equivalent to the	
-A-387	infection	infection	organic	organic	on	
+A-387	pigs	pigs	organic	organic	raised using	
 A-387	national pork producers council	national pork producers council	ractopamine	ractopamine	tried to address concerns about	
-A-387	pigs	pigs	risk	risk	fed paylean are at an increased	
-A-387	europe	europe	organic	organic	suggests pigs raised using	
-A-387	organic	organic	stress	stress	farms to lower levels of	
-A-387	pork	pork	gestation crates	gestation crates	industry have started phasing out	
-A-387	sugar	sugar	anxiety	anxiety	levels or behavioral effects such as restlessness or	
-A-387	yersinia	yersinia	pigs	pigs	 enterocolitica infection compared to	
-A-387	pathogens	pathogens	variety	variety	come from a	
-A-387	pork	pork	health	health	industry acknowledges overcrowding pigs is associated with increased	
-A-387	ractopamine	ractopamine	pork	pork	safety analysis the national	
-A-387	stress	stress	disease	disease	levels on	
-A-387	disease	disease	pigs	pigs	in	
-A-387	disease	disease	pigs	pigs	resistance of breeding	
-A-387	yersinia	yersinia	paralysis	paralysis	video on is the poultry and	
-A-387	chronic inflammation	chronic inflammation	kidneys	kidneys	of the eyes,	
-A-387	disease	disease	health	health	resistance of breeding pigs can have human	
-A-387	united states	united states	pork	pork	from 1999 through 2008 were caused by	
-A-387	food poisoning	food poisoning	abdominal pain	abdominal pain	causes an acute “stomach flu” characterized by fever,	
-A-387	pork	pork	pigs	pigs	industry acknowledges overcrowding	
-A-387	food safety	food safety	food and drug administration	food and drug administration	authority—europe’s equivalent to the u.s.	
-A-387	yersinia	yersinia	united states	united states	 monitoring and control programs in the	
-A-387	organic	organic	europe	europe	methods – which in	
-A-387	pregnant	pregnant	pigs	pigs		
-A-387	pork	pork	pigs	pigs	producers feed millions of fattening	
-A-387	pork	pork	ractopamine	ractopamine	producers council tried to address concerns about	
-A-387	food safety	food safety	europe	europe	authority—	
-A-387	food safety	food safety	u.s. food and drug administration	u.s. food and drug administration	authority—europe’s equivalent to the	
-A-387	children	children	heart disease	heart disease	or people with	
-A-387	risk	risk	arthritis	arthritis	of coming down with autoimmune	
-A-387	infection	infection	stress	stress	on organic farms to lower levels of	
 A-387	pigs	pigs	health	health	can have human	
 A-387	yersinia	yersinia	pork	pork	in	
-A-387	yersinia	yersinia	disease	disease	 enterocolitica doesn’t cause clinical	
-A-387	yersinia	yersinia	bacteria	bacteria	video on is the poultry and paralysis 	
-A-387	paralysis	paralysis	bacteria	bacteria	 	
-A-387	ractopamine	ractopamine	health	health	– animal	
-A-387	yersinia	yersinia	bacteria	bacteria	 	
-A-387	china	china	ractopamine	ractopamine	in reaffirming the ban on	
-A-387	contamination	contamination	meat	meat	of the	
-A-387	consumer reports	consumer reports	pork	pork	recently released a study in which they analyzed u.s. retail	
-A-387	pork	pork	infection	infection	products the main source of human	
-A-387	bacteria	bacteria	americans	americans	that sickens nearly 100,000	
-A-387	ractopamine	ractopamine	pork	pork	in	
-A-387	chicken	chicken	yersinia	yersinia	that i end the	
-A-387	yersinia	yersinia	organic	organic	 infection on	
-A-387	yersinia	yersinia	united states	united states	 outbreaks reported in the	
-A-387	foodborne bacteria	foodborne bacteria	americans	americans	that sickens nearly 100,000	
-A-387	risk	risk	syndrome	syndrome	for exhibiting the downer pig	
-A-387	risk	risk	autoimmune arthritis	autoimmune arthritis	of coming down with	
-A-387	campylobacter	campylobacter	chicken	chicken	 in	
-A-387	contamination	contamination	chicken	chicken	of the meat supply, see: the campylobacter in	
-A-387	contamination	contamination	pork	pork	of the u.s.	
-A-387	foodborne pathogens	foodborne pathogens	variety	variety	come from a	
-A-387	yersinia	yersinia	pork	pork	 bacteria found contaminating the	
-A-387	yersinia	yersinia	pork	pork	enterocolitica and	
-A-387	contamination	contamination	campylobacter	campylobacter	of the meat supply, see: the 	
-A-387	variety	variety	yersinia	yersinia	of sources, 100 percent of the attributable 	
-A-387	european food safety authority	european food safety authority	food and drug administration	food and drug administration	—europe’s equivalent to the u.s.	
-A-387	animal welfare	animal welfare	meat	meat	and the safety of the	
-A-387	pigs	pigs	organic	organic	raised using	
 A-387	poultry	poultry	paralysis	paralysis	and	
-A-387	pigs	pigs	ractopamine	ractopamine	on	
-A-387	gestation crates	gestation crates	pigs	pigs	– restrictive cages that virtually immobilize breeding	
+A-387	pigs	pigs	risk	risk	fed paylean are at an increased	
 A-387	europe	europe	pigs	pigs	suggests	
-A-387	poultry	poultry	bacteria	bacteria	and paralysis 	
-A-387	ractopamine	ractopamine	national pork producers council	national pork producers council	safety analysis the	
-A-387	gestation crates	gestation crates	pregnant	pregnant	for	
-A-387	gestation crates	gestation crates	pigs	pigs	for pregnant	
+A-387	infection	infection	inflammation	inflammation	include chronic	
+A-387	pigs	pigs	ractopamine	ractopamine	fed	
 A-387	infection	infection	pigs	pigs	compared to	
 A-387	bacteria	bacteria	pork	pork	found contaminating the	
-A-387	inflammation	inflammation	kidneys	kidneys	of the eyes,	
-A-387	yersinia	yersinia	infection	infection	 	
-A-387	yersinia	yersinia	infection	infection	 enterocolitica	
-A-387	yersinia	yersinia	food poisoning	food poisoning	 	
-A-387	americans	americans	pork	pork	falling ill from contaminated	
-A-387	meat	meat	campylobacter	campylobacter	supply, see: the 	
-A-387	pigs	pigs	ractopamine	ractopamine	fed	
-A-387	americans	americans	pork	pork	every year called yersina in two-thirds of	
+A-387	foodborne pathogens	foodborne pathogens	variety	variety	come from a	
+A-387	pigs	pigs	health	health	is associated with increased	
+A-387	pigs	pigs	yersinia	yersinia	are considered to be to be the main reservoir for 	
+A-387	ractopamine	ractopamine	pork	pork	in	
+A-387	pathogens	pathogens	variety	variety	come from a	
 A-387	pork	pork	antibiotics	antibiotics	was resistant to one or more	
-A-387	europe	europe	food and drug administration	food and drug administration	’s equivalent to the u.s.	
-A-387	campylobacter	campylobacter	yersinia	yersinia	 in chicken that i end the	
-A-387	meat	meat	chicken	chicken	supply, see: the campylobacter in	
-A-387	yersinia	yersinia	pigs	pigs	 enterocolitica doesn’t cause clinical disease in	
-A-387	stomach	stomach	pain	pain	flu” characterized by fever, abdominal	
-A-387	pigs	pigs	europe	europe	raised using organic methods – which in	
-A-387	thyroid	thyroid	disease	disease	condition known as graves’	
-A-387	ractopamine	ractopamine	stress	stress	may have chronically elevated heart rates, increased	
-A-387	infection	infection	kidneys	kidneys	include chronic inflammation of the eyes,	
-A-387	european food safety authority	european food safety authority	europe	europe	—	
-A-387	children	children	disease	disease	or people with heart	
-A-387	stomach	stomach	abdominal pain	abdominal pain	flu” characterized by fever,	
 A-387	infection	infection	chronic inflammation	chronic inflammation	include	
-A-387	blood	blood	sugar	sugar		
+A-387	disease	disease	pigs	pigs	in	
+A-387	food poisoning	food poisoning	stomach	stomach	causes an acute “	

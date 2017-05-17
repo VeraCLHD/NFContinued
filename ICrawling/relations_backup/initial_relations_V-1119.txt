@@ -1,48 +1,6 @@
 
-V-1119	cancer	cancer	plant-based	plant-based	activity on the	
-V-1119	drugs	drugs	vegan	vegan	—a near-	
-V-1119	heart disease	heart disease	heart attack	heart attack	just drop dead; so our first	
-V-1119	blood	blood	cancer cell growth	cancer cell growth	of the standard diet patients did reduce the	
-V-1119	diet	diet	surgery	surgery	group were forced to go into	
-V-1119	vegan	vegan	atherosclerosis	atherosclerosis	diet could reverse	
-V-1119	diet	diet	cancer	cancer	patients did reduce the	
-V-1119	vegan	vegan	prostate gland	prostate gland	diet reprogrammed gene expression within the	
-V-1119	drugs	drugs	diet	diet	—a near-vegan	
-V-1119	impotence	impotence	surgery	surgery	in 60% of men coming out of	
-V-1119	dean ornish	dean ornish	vegan	vegan	’s landmark research showing that—without drugs—a near-	
-V-1119	plant-based	plant-based	diet	diet		
-V-1119	vegan	vegan	cancer	cancer	diet, though, knocked the	
-V-1119	plant-based	plant-based	exercise	exercise	diet, with	
-V-1119	vegan	vegan	cancer growth	cancer growth	diet, though, knocked the	
-V-1119	diet	diet	plaque	plaque	could reverse atherosclerosis, dissolve the	
-V-1119	ornish	ornish	diet	diet	’s landmark research showing that—without drugs—a near-vegan	
-V-1119	heart attack	heart attack	plaque	plaque	to dissolve the	
-V-1119	prostate	prostate	cancer	cancer		
-V-1119	blood	blood	prostate	prostate	from each group, and dripped their blood on	
-V-1119	blood	blood	cancer	cancer	of the standard diet patients did reduce the	
-V-1119	drugs	drugs	atherosclerosis	atherosclerosis	—a near-vegan diet could reverse	
-V-1119	disease	disease	heart attack	heart attack	just drop dead; so our first	
-V-1119	drugs	drugs	surgery	surgery	or	
-V-1119	prostate	prostate	cancer cells	cancer cells		
-V-1119	surgery	surgery	prostatectomy	prostatectomy	for what’s called a radical	
-V-1119	diet	diet	disease	disease	that prevents heart	
 V-1119	incontinence	incontinence	impotence	impotence	and	
-V-1119	dean ornish	dean ornish	drugs	drugs	’s landmark research showing that—without	
-V-1119	blood	blood	prostate cancer	prostate cancer	from each group, and dripped their blood on	
-V-1119	blood	blood	diet	diet	of the standard	
-V-1119	diet	diet	cancer cell growth	cancer cell growth	patients did reduce the	
 V-1119	diet	diet	atherosclerosis	atherosclerosis	could reverse	
 V-1119	diet	diet	prostate	prostate	reprogrammed gene expression within the	
-V-1119	blood	blood	vegan	vegan	of people on a	
-V-1119	diet	diet	vegan	vegan	group, they got worse; in the	
-V-1119	ornish	ornish	vegan	vegan	’s landmark research showing that—without drugs—a near-	
-V-1119	dean ornish	dean ornish	diet	diet	’s landmark research showing that—without drugs—a near-vegan	
-V-1119	vegan	vegan	plaque	plaque	diet could reverse atherosclerosis, dissolve the	
-V-1119	blood	blood	diet	diet	of people on a vegan	
-V-1119	vegan	vegan	diet	diet		
-V-1119	vegan	vegan	plaque	plaque	after our first heart attack to dissolve the	
-V-1119	vegan	vegan	prostate	prostate	diet reprogrammed gene expression within the	
-V-1119	drugs	drugs	plaque	plaque	—a near-vegan diet could reverse atherosclerosis, dissolve the	
-V-1119	ornish	ornish	drugs	drugs	’s landmark research showing that—without	
-V-1119	diet	diet	heart disease	heart disease	that prevents	
+V-1119	drugs	drugs	surgery	surgery	or	
 V-1119	diet	diet	prostate gland	prostate gland	reprogrammed gene expression within the	

@@ -1,17 +1,3 @@
 
-V-986	colon	colon	stool size	stool size	cancer incidence quadruples.the link between	
-V-986	colon cancer	colon cancer	colon	colon	incidence quadruples.the link between stool size and	
-V-986	stool size	stool size	cancer	cancer	and colon	
-V-986	colon cancer	colon cancer	cancer	cancer	incidence quadruples.the link between stool size and colon	
-V-986	colon	colon	colon cancer	colon cancer	cancer incidence quadruples.the link between stool size and	
-V-986	colon cancer	colon cancer	stool size	stool size	incidence quadruples.the link between	
-V-986	risk	risk	cancer	cancer	of low stool weight includes bowel	
-V-986	risk	risk	disease	disease	of low stool weight includes bowel cancer, diverticular	
-V-986	cancer	cancer	stool size	stool size	incidence quadruples.the link between	
-V-986	cancer	cancer	colon	colon	incidence quadruples.the link between stool size and	
-V-986	cancer	cancer	colon cancer	colon cancer	incidence quadruples.the link between stool size and	
-V-986	stool size	stool size	transit time	transit time	and colon cancer may be related to	
-V-986	colon	colon	cancer	cancer		
 V-986	stool size	stool size	colon	colon	and	
-V-986	cancer	cancer	cancer	cancer	incidence quadruples.the link between stool size and colon	
 V-986	stool size	stool size	colon cancer	colon cancer	and	

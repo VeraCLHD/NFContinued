@@ -1,29 +1,8 @@
 
 V-111	constipation	constipation	risk	risk	may increase the	
-V-111	protein	protein	mad cow disease	mad cow disease	amyloid beta; in creutzfeldt–jakob and	
-V-111	amyloid	amyloid	disease	disease	beta; in creutzfeldt–jakob and mad cow	
-V-111	blueberries	blueberries	strawberries	strawberries	and	
-V-111	flavonoids	flavonoids	disease	disease	in our diet may be combating parkinson’s	
-V-111	risk	risk	constipation	constipation	of parkinson’s disease, as	
-V-111	pesticides	pesticides	risk	risk	to an increased	
-V-111	drugs	drugs	protein	protein	yet that can prevent this	
 V-111	variety	variety	phytonutrients	phytonutrients	of	
+V-111	fruits	fruits	vegetables	vegetables	and	
+V-111	blueberries	blueberries	strawberries	strawberries	and	
 V-111	variety	variety	flavonoids	flavonoids	of	
 V-111	variety	variety	pesticides	pesticides	of	
 V-111	berries	berries	risk	risk	were associated with significantly lower	
-V-111	protein	protein	amyloid	amyloid		
-V-111	mutations	mutations	disease	disease	that increase susceptibility for the	
-V-111	diet	diet	disease	disease	may be combating parkinson’s	
-V-111	variety	variety	disease	disease	of phytonutrients were less likely to develop parkinson’s	
-V-111	brains	brains	disease	disease	of parkinson’s	
-V-111	risk	risk	disease	disease	of parkinson’s	
-V-111	protein	protein	phytonutrients	phytonutrients	aggregation.what about flavonoid	
-V-111	flavonoids	flavonoids	diet	diet	in our	
-V-111	dna	dna	disease	disease	mutations that increase susceptibility for the	
-V-111	apple	apple	disease	disease	a day to prevent parkinson	
-V-111	constipation	constipation	disease	disease	may increase the risk of parkinson’s	
-V-111	fruits	fruits	vegetables	vegetables	and	
-V-111	phytonutrients	phytonutrients	disease	disease	were less likely to develop parkinson’s	
-V-111	amyloid	amyloid	mad cow disease	mad cow disease	beta; in creutzfeldt–jakob and	
-V-111	protein	protein	disease	disease	amyloid beta; in creutzfeldt–jakob and mad cow	
-V-111	dna	dna	mutations	mutations		

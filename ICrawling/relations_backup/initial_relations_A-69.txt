@@ -1,23 +1,7 @@
 
-A-69	roundup	roundup	soy	soy	ready	
 A-69	roundup	roundup	variety	variety	is, which contains a	
-A-69	roundup	roundup	fertility	fertility	in male	
-A-69	monsanto	monsanto	glyphosate	glyphosate	’s roundup pesticide	
-A-69	testosterone	testosterone	puberty	puberty	levels and testicular shape,” but they’re talking about	
-A-69	roundup	roundup	chemicals	chemicals		
-A-69	gmo	gmo	pesticides	pesticides	thing, go back to using fewer	
-A-69	women	women	babies	babies	are having	
-A-69	glyphosate	glyphosate	roundup	roundup	isn’t sprayed on crops,	
-A-69	gmo	gmo	soybeans	soybeans		
-A-69	soy	soy	cancer	cancer	and breast	
-A-69	roundup	roundup	glyphosate	glyphosate	pesticide	
-A-69	roundup	roundup	pesticides	pesticides	turned out to be among the most toxic	
-A-69	organic	organic	soy	soy	and conventional non-gmo	
-A-69	monsanto	monsanto	roundup	roundup	’s	
 A-69	roundup	roundup	hormones	hormones	may disrupt	
-A-69	gmo	gmo	cancer	cancer	soy and breast	
-A-69	variety	variety	glyphosate	glyphosate	of adjuvants and surfactants meant to help the	
-A-69	norway	norway	gmo	gmo	described the amount of pesticide residues found in	
-A-69	gmo	gmo	breast cancer	breast cancer	soy and	
+A-69	roundup	roundup	glyphosate	glyphosate	was found to be 100 times more toxic than	
+A-69	women	women	babies	babies	are having	
 A-69	soy	soy	breast cancer	breast cancer	and	
-A-69	gmo	gmo	soy	soy		
+A-69	roundup	roundup	pesticides	pesticides	turned out to be among the most toxic	

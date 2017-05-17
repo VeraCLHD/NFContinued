@@ -1,8 +1,2 @@
 
-V-713	health	health	women	women	problems reported by	
-V-713	asia	asia	saffron	saffron	and persia, used a spice called	
 V-713	symptoms	symptoms	pms	pms	of	
-V-713	mood	mood	depression	depression	(anxiety, irritability,	
-V-713	pms	pms	symptoms	symptoms		
-V-713	saffron	saffron	menstrual disorders	menstrual disorders	to treat	
-V-713	mood	mood	irritability	irritability	(anxiety,	

@@ -1,16 +1,2 @@
 
-T-808	treatment	treatment	pneumonia	pneumonia	for	
-T-808	prostate	prostate	risk	risk	enlargement	
 T-808	garlic	garlic	health	health	has a range of potential	
-T-808	garlic	garlic	risk	risk	ranks among the top vegetables in reducing cancer	
-T-808	prostate	prostate	minerals	minerals	enlargement risk, increasing the body’s ability to absorb	
-T-808	radiation	radiation	cancer cell growth	cancer cell growth	damage, and suppressing breast	
-T-808	radiation	radiation	breast cancer	breast cancer	damage, and suppressing	
-T-808	prostate enlargement	prostate enlargement	risk	risk		
-T-808	prostate enlargement	prostate enlargement	minerals	minerals	risk, increasing the body’s ability to absorb	
-T-808	garlic	garlic	vegetables	vegetables	ranks among the top	
-T-808	vegetables	vegetables	cancer	cancer	in reducing	
-T-808	cancer	cancer	risk	risk		
-T-808	radiation	radiation	cancer	cancer	damage, and suppressing breast	
-T-808	garlic	garlic	cancer	cancer	ranks among the top vegetables in reducing	
-T-808	vegetables	vegetables	risk	risk	in reducing cancer	

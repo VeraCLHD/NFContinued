@@ -1,33 +1,7 @@
 
-V-356	nutrasweet	nutrasweet	serotonin	serotonin	—may modulate brain neurotransmitters such as dopamine and	
-V-356	depression	depression	coffee	coffee	risk among older adults, whereas	
-V-356	aspartame	aspartame	diet	diet		
-V-356	harvard study	harvard study	coffee	coffee	of hundreds of thousands of people compared	
-V-356	aspartame	aspartame	diet	diet	consumption put people on a high aspartame	
-V-356	mood	mood	aspartame	aspartame	disorders may be particularly sensitive to	
-V-356	depression	depression	coffee	coffee	try to use very high doses of	
-V-356	aspartame	aspartame	neurotransmitters	neurotransmitters	—the chemical in equal and nutrasweet—may modulate brain	
-V-356	coffee	coffee	sugar	sugar	drinkers compared to non-drinkers, but add	
-V-356	tea	tea	coffee	coffee	or	
-V-356	aspartame	aspartame	nutrasweet	nutrasweet	—the chemical in equal and	
-V-356	harvard	harvard	coffee	coffee	study of hundreds of thousands of people compared	
-V-356	nutrasweet	nutrasweet	neurotransmitters	neurotransmitters	—may modulate brain	
-V-356	neurotransmitters	neurotransmitters	serotonin	serotonin	such as dopamine and	
-V-356	mit	mit	americans	americans	noted that given the very large number of	
-V-356	suicide	suicide	risk	risk		
-V-356	dopamine	dopamine	serotonin	serotonin	and	
-V-356	nih-aarp study	nih-aarp study	americans	americans	of hundreds of thousands of	
-V-356	neurotransmitters	neurotransmitters	dopamine	dopamine	such as	
-V-356	mood	mood	aspartame	aspartame	disorders are particularly vulnerable to adverse effects of	
-V-356	kaiser permanente	kaiser permanente	suicide	suicide	study of a hundred thousand people found that	
-V-356	diet	diet	depression	depression	drinks, may increase	
-V-356	disease	disease	brains	brains	that makes their	
 V-356	diet	diet	aspartame	aspartame	compared to a low	
-V-356	aspartame	aspartame	placebo	placebo	group than in the	
-V-356	risk	risk	coffee	coffee	among older adults, whereas	
-V-356	diet	diet	risk	risk	drinks, may increase depression	
-V-356	depression	depression	risk	risk		
+V-356	tea	tea	coffee	coffee	or	
+V-356	mit	mit	americans	americans	noted that given the very large number of	
 V-356	insomnia	insomnia	seizures	seizures	and	
-V-356	nutrasweet	nutrasweet	dopamine	dopamine	—may modulate brain neurotransmitters such as	
-V-356	coffee	coffee	risk	risk	consumption may lower the	
-V-356	aspartame	aspartame	sweetener	sweetener	ever exceed the	
+V-356	dopamine	dopamine	serotonin	serotonin	and	
+V-356	depression	depression	coffee	coffee	try to use very high doses of	

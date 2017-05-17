@@ -1,31 +1,9 @@
 
+T-343	produce	produce	cadmium	cadmium	may contain half the amount of	
 T-343	cadmium	cadmium	heavy metal	heavy metal	is a toxic	
-T-343	organic	organic	cadmium	cadmium	produce may contain half the amount of	
-T-343	tuna	tuna	meats	meats	), meat and organ	
-T-343	tuna	tuna	protein	protein	), meat and organ meats, some	
+T-343	meat	meat	organ meats	organ meats	and	
+T-343	bioavailability	bioavailability	cadmium	cadmium	of	
 T-343	cadmium	cadmium	plant foods	plant foods	in	
 T-343	plant foods	plant foods	cadmium	cadmium	may inhibit	
-T-343	seafood	seafood	meats	meats	(particularly tuna), meat and organ	
-T-343	cadmium	cadmium	animal foods	animal foods	in plant foods, however, is poor compared to	
-T-343	plant-based	plant-based	diet	diet		
-T-343	protein	protein	whole grains	whole grains	powders, as well as in vegetables and	
-T-343	vegetables	vegetables	grains	grains	and whole	
-T-343	vegetarian	vegetarian	diet	diet		
-T-343	meat	meat	protein	protein	and organ meats, some	
-T-343	bioavailability	bioavailability	cadmium	cadmium	of	
-T-343	seafood	seafood	meat	meat	(particularly tuna),	
-T-343	bioavailability	bioavailability	plant foods	plant foods	of cadmium in	
-T-343	seafood	seafood	protein	protein	(particularly tuna), meat and organ meats, some	
-T-343	seafood	seafood	tuna	tuna	(particularly	
-T-343	tuna	tuna	organ meats	organ meats	), meat and	
-T-343	cadmium	cadmium	produce	produce	found in conventional	
-T-343	meat	meat	meats	meats	and organ	
-T-343	plant foods	plant foods	animal foods	animal foods	may inhibit cadmium absorption from	
-T-343	protein	protein	grains	grains	powders, as well as in vegetables and whole	
-T-343	organic	organic	produce	produce		
-T-343	produce	produce	cadmium	cadmium	may contain half the amount of	
-T-343	seafood	seafood	organ meats	organ meats	(particularly tuna), meat and	
-T-343	cadmium	cadmium	animal foods	animal foods	absorption from	
-T-343	meat	meat	organ meats	organ meats	and	
-T-343	protein	protein	vegetables	vegetables	powders, as well as in	
 T-343	vegetables	vegetables	whole grains	whole grains	and	
+T-343	cadmium	cadmium	produce	produce	found in conventional	

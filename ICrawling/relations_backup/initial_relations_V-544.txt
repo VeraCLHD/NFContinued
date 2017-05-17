@@ -1,21 +1,3 @@
 
-V-544	fruit	fruit	sugar	sugar	and vegetable consumption, and decreasing meat, fat, and	
-V-544	fruit	fruit	fat	fat	and vegetable consumption, and decreasing meat,	
-V-544	americans	americans	cancer	cancer	who die from	
-V-544	cancer	cancer	plant-based	plant-based	survivors to determine if a	
-V-544	diet	diet	cancer	cancer	could influence breast	
-V-544	women	women	cancer	cancer	with breast	
-V-544	estrogen	estrogen	tumors	tumors	receptor negative	
-V-544	breast cancer	breast cancer	diet	diet	survivors to determine if a plant-based, low-fat, high-fiber	
-V-544	women	women	tumors	tumors	with estrogen receptor negative	
-V-544	fruits	fruits	exercise	exercise	and veggies and 	
-V-544	fruit	fruit	physical activity	physical activity	and vegetable consumption, and low	
-V-544	mortality	mortality	fruits	fruits	—unless, you eat a few	
-V-544	women	women	estrogen	estrogen	with	
 V-544	diet	diet	breast cancer	breast cancer	could influence	
-V-544	cancer	cancer	diet	diet	survivors to determine if a plant-based, low-fat, high-fiber	
-V-544	women	women	breast cancer	breast cancer	with	
-V-544	breast cancer	breast cancer	plant-based	plant-based	survivors to determine if a	
-V-544	americans	americans	cancer	cancer	are expected to die this year from	
-V-544	estrogen	estrogen	mortality	mortality	receptor negative tumors, which normally have twice the	
-V-544	fruit	fruit	meat	meat	and vegetable consumption, and decreasing	
+V-544	women	women	mexico	mexico	would remortgage their homes to fly to some quack clinic in	

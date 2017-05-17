@@ -1,22 +1,6 @@
 
-T-1533	amino acid	amino acid	methionine	methionine		
-T-1533	diet	diet	choline	choline	: the amino acid methionine,	
-T-1533	ornish	ornish	plant-based	plant-based	study indicated that the	
-T-1533	diet	diet	methionine	methionine	: the amino acid	
-T-1533	diet	diet	cows	cows	: the amino acid methionine, choline and	
-T-1533	prostate	prostate	bph	bph	cancer are also helpful in keeping	
-T-1533	amino acid	amino acid	choline	choline	methionine,	
-T-1533	ornish	ornish	plant-based diet	plant-based diet	study indicated that the	
-T-1533	plant-based	plant-based	diet	diet		
-T-1533	prostate cancer	prostate cancer	bph	bph	are also helpful in keeping	
-T-1533	diet	diet	amino acid	amino acid	: the	
-T-1533	cancer	cancer	bph	bph	are also helpful in keeping	
-T-1533	cows	cows	milk	milk	’	
-T-1533	amino acid	amino acid	milk	milk	methionine, choline and cows’	
-T-1533	ornish	ornish	diet	diet	study indicated that the plant-based	
-T-1533	almond	almond	milk	milk		
-T-1533	diet	diet	milk	milk	: the amino acid methionine, choline and cows’	
-T-1533	choline	choline	milk	milk	and cows’	
-T-1533	prostate	prostate	cancer	cancer		
+T-1533	diet	diet	prostate cancer	prostate cancer	may be beneficial for reducing and reversing the occurrence of	
+T-1533	plant-based diet	plant-based diet	prostate	prostate	may be beneficial for reducing and reversing the occurrence of	
 T-1533	choline	choline	cows	cows	and	
-T-1533	amino acid	amino acid	cows	cows	methionine, choline and	
+T-1533	plant-based diet	plant-based diet	prostate cancer	prostate cancer	may be beneficial for reducing and reversing the occurrence of	
+T-1533	diet	diet	prostate	prostate	may be beneficial for reducing and reversing the occurrence of	

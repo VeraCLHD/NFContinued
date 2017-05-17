@@ -1,26 +1,7 @@
 
 V-971	soda	soda	sodium bicarbonate	sodium bicarbonate	is	
-V-971	baking	baking	water	water	soda	
-V-971	water	water	alkaline water	alkaline water	machines are indeed a scam, but	
-V-971	soda	soda	blood	blood	water had no change in	
-V-971	baking soda	baking soda	blood	blood	water had no change in	
-V-971	soda	soda	water	water	to a liter (or quart) of	
-V-971	alkaline water	alkaline water	water	water	machines are indeed a scam, but alkaline	
-V-971	baking soda	baking soda	water	water		
+V-971	water	water	blood	blood	had no change in	
 V-971	baking soda	baking soda	sodium bicarbonate	sodium bicarbonate	is	
-V-971	baking	baking	blood	blood	soda water had no change in	
-V-971	baking	baking	blood pressure	blood pressure	soda water had no change in	
+V-971	water	water	blood pressure	blood pressure	had no change in	
 V-971	soda	soda	sodium	sodium	is	
 V-971	baking soda	baking soda	sodium	sodium	is	
-V-971	baking soda	baking soda	water	water	to a liter (or quart) of	
-V-971	eye	eye	water	water	on it.so, alkaline	
-V-971	baking	baking	sodium	sodium	soda is	
-V-971	baking soda	baking soda	blood pressure	blood pressure	water had no change in	
-V-971	baking	baking	water	water	soda to a liter (or quart) of	
-V-971	baking	baking	sodium bicarbonate	sodium bicarbonate	soda is	
-V-971	soda	soda	water	water		
-V-971	baking	baking	soda	soda		
-V-971	water	water	blood	blood	had no change in	
-V-971	soda	soda	blood pressure	blood pressure	water had no change in	
-V-971	water	water	blood pressure	blood pressure	had no change in	
-V-971	eye	eye	alkaline water	alkaline water	on it.so,	

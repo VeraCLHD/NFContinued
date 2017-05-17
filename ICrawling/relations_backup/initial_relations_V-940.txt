@@ -1,34 +1,8 @@
 
-V-940	carrots	carrots	vegetables	vegetables	and cruciferous cabbage-family	
-V-940	plant-based diet	plant-based diet	diet	diet	doesn’t mean it’s a healthy plant-based	
-V-940	plant foods	plant foods	potatoes	potatoes	associated with better cognitive performance, including white	
-V-940	fruit	fruit	dementia	dementia	and vegetable consumption may lower the risk of	
-V-940	diet	diet	health	health	for cognitive	
+V-940	risk	risk	dementia	dementia	of	
+V-940	fruits	fruits	fruit juice	fruit juice	appeared to beat out	
+V-940	fruits	fruits	vegetables	vegetables	and	
 V-940	plant foods	plant foods	rutabagas	rutabagas	were tested—all the way down to	
-V-940	plant-based	plant-based	diet	diet		
-V-940	diet	diet	fruits	fruits	doesn’t mean it’s a healthy plant-based diet.whole	
-V-940	fruit	fruit	risk	risk	and vegetable consumption may lower the	
-V-940	fruits	fruits	juice	juice	appeared to beat out fruit	
+V-940	fruits	fruits	fruit	fruit	appeared to beat out	
 V-940	plant foods	plant foods	norway	norway	in	
 V-940	plant foods	plant foods	cognitive performance	cognitive performance	associated with better	
-V-940	variety	variety	plant foods	plant foods	of whole healthy	
-V-940	plant-based diet	plant-based diet	fruits	fruits	doesn’t mean it’s a healthy plant-based diet.whole	
-V-940	risk	risk	dementia	dementia	of	
-V-940	fruit	fruit	fruits	fruits	juice; there was a nice dose response with	
-V-940	fruits	fruits	diet	diet	and vegetables in the	
-V-940	dementia	dementia	disease	disease	and alzheimer’s	
-V-940	plant-based	plant-based	plant-based diet	plant-based diet	diet doesn’t mean it’s a healthy	
-V-940	vegetables	vegetables	diet	diet	in the	
-V-940	plant-based diet	plant-based diet	plant-based	plant-based	doesn’t mean it’s a healthy	
-V-940	kidney	kidney	plant foods	plant foods	bean.they found nearly all	
-V-940	fruits	fruits	fruit	fruit	appeared to beat out	
-V-940	risk	risk	disease	disease	of dementia and alzheimer’s	
-V-940	diet	diet	plant-based diet	plant-based diet	doesn’t mean it’s a healthy	
-V-940	fruits	fruits	fruit juice	fruit juice	appeared to beat out	
-V-940	plant-based	plant-based	fruits	fruits	diet doesn’t mean it’s a healthy plant-based diet.whole	
-V-940	vegetables	vegetables	health	health	in the diet for cognitive	
-V-940	fruit	fruit	juice	juice		
-V-940	fruits	fruits	vegetables	vegetables	and	
-V-940	fruits	fruits	health	health	and vegetables in the diet for cognitive	
-V-940	juice	juice	fruits	fruits	study—what about whole	
-V-940	diet	diet	plant-based	plant-based	doesn’t mean it’s a healthy	

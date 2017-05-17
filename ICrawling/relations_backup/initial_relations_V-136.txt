@@ -1,31 +1,6 @@
 
-V-136	plant-based	plant-based	plants	plants	foods.any	
-V-136	phytonutrients	phytonutrients	enzymes	enzymes	that can boost our detoxification	
-V-136	choy sum	choy sum	broccoli	broccoli	(which is like skinny bok choy), 	
-V-136	vitamin c	vitamin c	lemon	lemon	from the	
-V-136	fruits	fruits	risk	risk	and vegetables helps to reduce the	
-V-136	dna	dna	mutations	mutations	damage can cause	
-V-136	cancer	cancer	dna	dna	—if not repaired.thankfully, the regulation of	
 V-136	dna damage	dna damage	mutations	mutations	can cause	
-V-136	bok choy	bok choy	apples	apples	), broccoli, celery, lettuce, and	
-V-136	choy sum	choy sum	bok choy	bok choy	(which is like skinny	
-V-136	choy sum	choy sum	celery	celery	(which is like skinny bok choy), broccoli,	
-V-136	bok choy	bok choy	lettuce	lettuce	), broccoli, celery,	
-V-136	dna	dna	strawberries	strawberries	repair: lemons, persimmons,	
-V-136	mutations	mutations	cancer	cancer	that can give rise to	
-V-136	detoxification	detoxification	dna	dna	enzymes, modulate gene expression, and even repair	
-V-136	dna	dna	oranges	oranges	repair: lemons, persimmons, strawberries,	
-V-136	dna	dna	lemons	lemons	protection at very low doses.here’s what	
-V-136	choy sum	choy sum	lettuce	lettuce	(which is like skinny bok choy), broccoli, celery,	
 V-136	vegetables	vegetables	antioxidants	antioxidants	are not just vehicles for	
-V-136	boiled	boiled	lemon	lemon	the	
-V-136	vegetables	vegetables	risk	risk	helps to reduce the	
-V-136	phytonutrients	phytonutrients	detoxification	detoxification	that can boost our	
-V-136	bok choy	bok choy	celery	celery	), broccoli,	
-V-136	bok choy	bok choy	broccoli	broccoli	), 	
-V-136	dna	dna	lemons	lemons	repair:	
-V-136	celery	celery	dna	dna	each conferred	
-V-136	dna damage	dna damage	cancer	cancer	can cause mutations that can give rise to	
 V-136	fruits	fruits	vegetables	vegetables	and	
-V-136	dna	dna	choy sum	choy sum	repair: lemons, persimmons, strawberries, oranges,	
-V-136	detoxification	detoxification	enzymes	enzymes		
+V-136	vegetables	vegetables	risk	risk	helps to reduce the	
+V-136	vegetables	vegetables	dna	dna	were tested to see which was better able to boost	

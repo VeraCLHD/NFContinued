@@ -1,123 +1,16 @@
 
-A-332	women	women	sugar	sugar	a western diet—meat, butter, milk, eggs, bread and	
-A-332	women	women	breast pain	breast pain	experience some type of	
-A-332	women	women	plant-based	plant-based	on a	
-A-332	variety	variety	symptoms	symptoms	of menstrual	
-A-332	plant-based diets	plant-based diets	african	african	all their lives, like rural bantu	
-A-332	breast pain	breast pain	mastalgia	mastalgia	accompanying one’s period, called cyclical	
-A-332	saffron	saffron	pms	pms	for the treatment of	
-A-332	african	african	women	women		
-A-332	vegetarian	vegetarian	diet	diet		
-A-332	flax seeds	flax seeds	pain	pain	for breast	
-A-332	women	women	plant-based	plant-based	eating traditional	
-A-332	fat	fat	women	women	diet for three months and all ten	
-A-332	women	women	pain	pain	in	
-A-332	women	women	mastalgia	mastalgia	with severe cyclical	
-A-332	breast pain	breast pain	cyclical mastalgia	cyclical mastalgia	accompanying one’s period, called	
-A-332	breast pain	breast pain	period	period	accompanying one’s	
-A-332	african	african	prolactin	prolactin	women, have lower	
-A-332	variety	variety	breast pain	breast pain	of menstrual symptoms, including cramping, bloating, and	
-A-332	plant-based diets	plant-based diets	women	women	all their lives, like rural bantu african	
-A-332	women	women	pain	pain	always knew, breast	
-A-332	western diet	western diet	bread	bread	was responsible, though—maybe it was the	
-A-332	variety	variety	menstrual symptoms	menstrual symptoms	of	
-A-332	diet	diet	meat	meat	—	
-A-332	plant-based	plant-based	fat	fat	low	
-A-332	symptoms	symptoms	water	water	related to concentration, behavioral change, and	
-A-332	diet	diet	prolactin	prolactin	for two weeks, and that alone brought their	
-A-332	women	women	cyclical mastalgia	cyclical mastalgia	with severe	
-A-332	hormones	hormones	infertility	infertility	& female	
-A-332	women	women	pain	pain	experience some type of breast	
-A-332	pain	pain	cyclical mastalgia	cyclical mastalgia	accompanying one’s period, called	
-A-332	breast tenderness	breast tenderness	pain	pain	during one’s cycle is normal, but breast	
-A-332	plant-based	plant-based	women	women	diets all their lives, like rural bantu african	
-A-332	pms	pms	saffron	saffron	and wake up and smell the	
-A-332	hormonal changes	hormonal changes	diet	diet	on a westernized	
-A-332	breast pain	breast pain	prolactin	prolactin	have elevated levels, and a	
-A-332	women	women	plant-based diet	plant-based diet	on a	
-A-332	diet	diet	bread	bread	—meat, butter, milk, eggs,	
-A-332	breast tenderness	breast tenderness	breast pain	breast pain	during one’s cycle is normal, but	
-A-332	women	women	western diet	western diet	a	
-A-332	plant-based	plant-based	bloating	bloating	low fat diets may also experience significantly less	
-A-332	variety	variety	cramping	cramping	of menstrual symptoms, including	
-A-332	women	women	breast pain	breast pain	with cyclical	
-A-332	diet	diet	women	women	were comparable to those found in western	
-A-332	plant-based diet	plant-based diet	pain	pain	may offer relief from breast	
-A-332	treatment	treatment	saffron	saffron	of pms and wake up and smell the	
-A-332	women	women	meat	meat	a western diet—	
-A-332	women	women	breast pain	breast pain	always knew,	
-A-332	western diet	western diet	sugar	sugar	was responsible, though—maybe it was the bread and	
-A-332	diet	diet	pain	pain	may offer relief from breast	
-A-332	menstrual pain	menstrual pain	symptoms	symptoms	duration, pain intensity, and duration of premenstrual	
-A-332	flax	flax	breast pain	breast pain	seeds for	
-A-332	vegan	vegan	diet	diet		
-A-332	bloating	bloating	placebo	placebo	compared to	
-A-332	flax seeds	flax seeds	breast pain	breast pain	for	
-A-332	plant-based	plant-based	pain	pain	diet may offer relief from breast	
-A-332	plant-based	plant-based	breast pain	breast pain	diet may offer relief from	
-A-332	diet	diet	eggs	eggs	—meat, butter, milk,	
-A-332	plant-based	plant-based	african	african	diets all their lives, like rural bantu	
-A-332	saffron	saffron	treatment	treatment	for the	
-A-332	water	water	bloating	bloating	retention [	
-A-332	variety	variety	pain	pain	of menstrual symptoms, including cramping, bloating, and breast	
-A-332	western diet	western diet	meat	meat	—	
-A-332	prolactin	prolactin	meat	meat	levels down, suggesting that	
-A-332	plant-based	plant-based	diet	diet		
-A-332	menstrual pain	menstrual pain	premenstrual symptoms	premenstrual symptoms	duration, pain intensity, and duration of	
-A-332	flax	flax	seeds	seeds		
-A-332	western diet	western diet	bread	bread	—meat, butter, milk, eggs,	
-A-332	seeds	seeds	breast pain	breast pain	for	
-A-332	flax	flax	pain	pain	seeds for breast	
-A-332	women	women	diet	diet	with painful menstrual cramps placed on a vegan	
-A-332	western diet	western diet	butter	butter	—meat,	
-A-332	women	women	milk	milk	a western diet—meat, butter,	
-A-332	plant-based	plant-based	pain	pain	diets for breast	
-A-332	women	women	fat	fat	into a lower	
-A-332	pain	pain	prolactin	prolactin	have elevated levels, and a	
-A-332	plant-based	plant-based	low fat diet	low fat diet		
-A-332	treatment	treatment	pms	pms	of	
-A-332	variety	variety	bloating	bloating	of menstrual symptoms, including cramping,	
-A-332	women	women	diet	diet	on a plant-based	
-A-332	women	women	bread	bread	a western diet—meat, butter, milk, eggs,	
-A-332	bloating	bloating	women	women	compared to placebo, and	
-A-332	women	women	diet	diet	a western	
-A-332	fat	fat	bloating	bloating	diets may also experience significantly less	
-A-332	women	women	anovulatory	anovulatory	were found to be	
-A-332	diet	diet	sugar	sugar	was responsible, though—maybe it was the bread and	
-A-332	western diet	western diet	eggs	eggs	—meat, butter, milk,	
-A-332	fat	fat	diet	diet		
-A-332	diet	diet	women	women	for three months and all ten	
-A-332	prolactin	prolactin	women	women	is considered to be a central factor, as	
-A-332	diet	diet	milk	milk	—meat, butter,	
-A-332	diet	diet	sugar	sugar	—meat, butter, milk, eggs, bread and	
-A-332	plant-based	plant-based	breast pain	breast pain	diets for	
-A-332	plant-based diets	plant-based diets	pain	pain	for breast	
-A-332	plant-based diets	plant-based diets	breast pain	breast pain	for	
-A-332	anovulatory	anovulatory	egg	egg	(meaning they failed to release an	
-A-332	plant-based	plant-based	diet	diet	low fat	
-A-332	women	women	butter	butter	a western diet—meat,	
-A-332	women	women	vegan	vegan	with painful menstrual cramps placed on a	
-A-332	pain	pain	period	period	accompanying one’s	
-A-332	pain	pain	mastalgia	mastalgia	accompanying one’s period, called cyclical	
-A-332	fat	fat	precancerous	precancerous	reduction in patients with	
-A-332	diet	diet	butter	butter	—meat,	
 A-332	plant-based diet	plant-based diet	breast pain	breast pain	may offer relief from	
-A-332	seeds	seeds	pain	pain	for breast	
-A-332	women	women	pain	pain	with cyclical breast	
+A-332	women	women	breast pain	breast pain	experience some type of	
+A-332	diet	diet	women	women	were comparable to those found in western	
 A-332	diet	diet	breast pain	breast pain	may offer relief from	
-A-332	menstrual pain	menstrual pain	pain	pain	duration,	
+A-332	breast pain	breast pain	period	period	accompanying one’s	
 A-332	women	women	breast pain	breast pain	suffer from	
-A-332	vegetarian	vegetarian	anovulatory	anovulatory	women were found to be	
-A-332	women	women	pain	pain	suffer from breast	
+A-332	treatment	treatment	pms	pms	of	
 A-332	bread	bread	sugar	sugar	and	
-A-332	low fat diet	low fat diet	women	women	for three months and all ten	
-A-332	premenstrual symptoms	premenstrual symptoms	water	water	related to concentration, behavioral change, and	
-A-332	symptoms	symptoms	fat	fat	after reduction of dietary	
-A-332	vegetarian	vegetarian	women	women		
-A-332	women	women	pain	pain	with breast	
-A-332	diet	diet	bread	bread	was responsible, though—maybe it was the	
-A-332	women	women	eggs	eggs	a western diet—meat, butter, milk,	
-A-332	western diet	western diet	milk	milk	—meat, butter,	
-A-332	western diet	western diet	sugar	sugar	—meat, butter, milk, eggs, bread and	
-A-332	women	women	breast pain	breast pain	with	
+A-332	variety	variety	menstrual symptoms	menstrual symptoms	of	
+A-332	women	women	anovulatory	anovulatory	were found to be	
+A-332	bloating	bloating	placebo	placebo	compared to	
+A-332	women	women	plant-based	plant-based	eating traditional	
+A-332	women	women	pain	pain	in	
+A-332	pain	pain	period	period	accompanying one’s	
 A-332	women	women	plant-based diets	plant-based diets	eating traditional	

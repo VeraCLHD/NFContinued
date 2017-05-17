@@ -1,38 +1,11 @@
 
-T-1523	dean ornish	dean ornish	dr. caldwell esselstyn	dr. caldwell esselstyn	and	
-T-1523	nathan pritikin	nathan pritikin	heart disease	heart disease	has shown that plant-based diets can both stop	
-T-1523	ornish	ornish	caldwell esselstyn	caldwell esselstyn	and dr.	
-T-1523	pritikin	pritikin	heart disease	heart disease	has shown that plant-based diets can both stop	
-T-1523	plant-based diets	plant-based diets	disease	disease	can both stop heart	
-T-1523	dean ornish	dean ornish	nathan pritikin	nathan pritikin	and dr. caldwell esselstyn, research from engineer,	
-T-1523	ornish	ornish	pritikin	pritikin	and dr. caldwell esselstyn, research from engineer, nathan	
 T-1523	pritikin	pritikin	heart disease	heart disease	began reversing	
-T-1523	disease	disease	plant-based	plant-based	with low-fat, whole food	
-T-1523	dr. dean ornish	dr. dean ornish	dr. caldwell esselstyn	dr. caldwell esselstyn	and	
-T-1523	plant-based diets	plant-based diets	prostate	prostate	may also reduce benign	
-T-1523	heart disease	heart disease	plant-based diets	plant-based diets	with low-fat, whole food	
-T-1523	dean ornish	dean ornish	pritikin	pritikin	and dr. caldwell esselstyn, research from engineer, nathan	
-T-1523	pritikin	pritikin	plant-based	plant-based	began reversing heart disease with low-fat, whole food	
-T-1523	pritikin	pritikin	plant-based diets	plant-based diets	has shown that	
-T-1523	plant-based	plant-based	disease	disease	diets can both stop heart	
-T-1523	dr. dean ornish	dr. dean ornish	pritikin	pritikin	and dr. caldwell esselstyn, research from engineer, nathan	
-T-1523	plant-based	plant-based	heart disease	heart disease	diets can both stop	
-T-1523	dr. dean ornish	dr. dean ornish	esselstyn	esselstyn	and dr. caldwell	
-T-1523	nathan pritikin	nathan pritikin	plant-based	plant-based	has shown that	
-T-1523	ornish	ornish	dr. caldwell esselstyn	dr. caldwell esselstyn	and	
-T-1523	ornish	ornish	nathan pritikin	nathan pritikin	and dr. caldwell esselstyn, research from engineer,	
-T-1523	pritikin	pritikin	disease	disease	began reversing heart	
-T-1523	dr. dean ornish	dr. dean ornish	caldwell esselstyn	caldwell esselstyn	and dr.	
-T-1523	prostate	prostate	cancer	cancer	cell growth and even help reverse	
 T-1523	nathan pritikin	nathan pritikin	plant-based diets	plant-based diets	has shown that	
-T-1523	prostate	prostate	cancer growth	cancer growth	cell growth and even help reverse	
-T-1523	ornish	ornish	esselstyn	esselstyn	and dr. caldwell	
-T-1523	pritikin	pritikin	plant-based diets	plant-based diets	began reversing heart disease with low-fat, whole food	
+T-1523	dr. dean ornish	dr. dean ornish	dr. caldwell esselstyn	dr. caldwell esselstyn	and	
+T-1523	dean ornish	dean ornish	dr. caldwell esselstyn	dr. caldwell esselstyn	and	
 T-1523	pritikin	pritikin	plant-based	plant-based	has shown that	
 T-1523	plant-based diets	plant-based diets	heart disease	heart disease	can both stop	
-T-1523	dean ornish	dean ornish	caldwell esselstyn	caldwell esselstyn	and dr.	
-T-1523	dr. dean ornish	dr. dean ornish	nathan pritikin	nathan pritikin	and dr. caldwell esselstyn, research from engineer,	
-T-1523	dean ornish	dean ornish	esselstyn	esselstyn	and dr. caldwell	
-T-1523	plant-based	plant-based	prostate	prostate	diets may also reduce benign	
-T-1523	disease	disease	plant-based diets	plant-based diets	with low-fat, whole food	
-T-1523	heart disease	heart disease	plant-based	plant-based	with low-fat, whole food	
+T-1523	nathan pritikin	nathan pritikin	plant-based	plant-based	has shown that	
+T-1523	exercise	exercise	cancer	cancer	may be even more effective in trying to treat	
+T-1523	ornish	ornish	dr. caldwell esselstyn	dr. caldwell esselstyn	and	
+T-1523	pritikin	pritikin	plant-based diets	plant-based diets	has shown that	

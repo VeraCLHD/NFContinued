@@ -1,24 +1,7 @@
 
-V-533	beans	beans	gas	gas	are going to cause	
-V-533	dietary guidelines	dietary guidelines	plant-based	plant-based	…supports the benefits of a	
-V-533	beans	beans	mortality	mortality	is 250 grams, and you get 8% lower	
-V-533	death	death	legumes	legumes	for every 20 grams increase in daily	
-V-533	plant-based	plant-based	diet	diet		
-V-533	diet	diet	beans	beans	without any 	
 V-533	beans	beans	peas	peas	and	
-V-533	dietary guidelines	dietary guidelines	legumes	legumes	…supports the benefits of a plant-based diet, and	
 V-533	legumes	legumes	disease	disease	specifically, in the reduction of chronic	
-V-533	japanese	japanese	beans	beans	eating their soy, the swedes eating their “brown	
-V-533	diet	diet	risk	risk	” may increase the	
+V-533	beans	beans	gas	gas	are going to cause	
 V-533	legumes	legumes	chronic disease	chronic disease	specifically, in the reduction of	
-V-533	dietary guidelines	dietary guidelines	plant-based diet	plant-based diet	…supports the benefits of a	
-V-533	flatulence	flatulence	beans	beans	from eating	
-V-533	plant-based	plant-based	chronic disease	chronic disease	diet, and legumes specifically, in the reduction of	
 V-533	japanese	japanese	soy	soy	eating their	
 V-533	risk	risk	death	death	of	
-V-533	symptoms	symptoms	flatulence	flatulence	at all—though a few percent did report increased	
-V-533	flatulence	flatulence	beans	beans	on the control diet without any 	
-V-533	dietary guidelines	dietary guidelines	diet	diet	…supports the benefits of a plant-based	
-V-533	kidney	kidney	beans	beans		
-V-533	flatulence	flatulence	diet	diet	on the control	
-V-533	plant-based	plant-based	legumes	legumes	diet, and	

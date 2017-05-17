@@ -1,74 +1,16 @@
 
 T-103	protein	protein	health	health	has been linked to other negative	
-T-103	sleep	sleep	apnea	apnea		
 T-103	leucine	leucine	methionine	methionine	and	
 T-103	plant-based diet	plant-based diet	protein	protein	can supply adequate amounts of	
-T-103	protein	protein	igf-1	igf-1	’s stimulation of	
-T-103	leucine	leucine	rapamycin	rapamycin	in protein stimulates tor (target of	
-T-103	plant-based	plant-based	diet	diet		
-T-103	protein	protein	iron	iron	and	
-T-103	diabetes	diabetes	animal protein	animal protein	may also be related to	
-T-103	carcinogens	carcinogens	phip	phip	such as	
-T-103	animal protein	animal protein	igf-1	igf-1	’s stimulation of	
-T-103	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	such as phip and other	
-T-103	health	health	acne	acne	effects, including	
-T-103	obesity	obesity	protein	protein	with later diabetic consequences.animal	
-T-103	sleep	sleep	plant-based diet	plant-based diet	apnea, autism, crib death, and premature puberty.a	
-T-103	protein	protein	insulin	insulin	may also exacerbate the	
-T-103	iron	iron	chicken	chicken	equal to regular	
-T-103	colon	colon	cancer	cancer		
-T-103	cancer	cancer	disease	disease	and inflammatory bowel	
-T-103	cancer	cancer	protein	protein	link may be attributed to animal	
-T-103	potassium	potassium	leucine	leucine	and fewer sulfur-containing amino acids, such as	
-T-103	colon	colon	inflammatory bowel disease	inflammatory bowel disease	cancer and	
-T-103	protein	protein	chicken	chicken	and iron equal to regular	
-T-103	colon	colon	disease	disease	cancer and inflammatory bowel	
-T-103	tor	tor	aging	aging	(target of rapamycin), which can accelerate	
 T-103	colon cancer	colon cancer	inflammatory bowel disease	inflammatory bowel disease	and	
-T-103	sleep	sleep	plant-based	plant-based	apnea, autism, crib death, and premature puberty.a	
-T-103	cancer	cancer	animal protein	animal protein	link may be attributed to	
-T-103	leucine	leucine	tor	tor	in protein stimulates	
-T-103	aging	aging	colon	colon	and promote	
-T-103	kidney function	kidney function	kidney stones	kidney stones	and contribute to	
-T-103	phip	phip	heterocyclic amines	heterocyclic amines	and other	
-T-103	sleep	sleep	diet	diet	apnea, autism, crib death, and premature puberty.a plant-based	
-T-103	plant-based	plant-based	protein	protein	“chicken” has	
-T-103	leucine	leucine	protein	protein	in	
-T-103	animal protein	animal protein	kidney stones	kidney stones	can impair kidney function and contribute to	
-T-103	sleep	sleep	death	death	apnea, autism, crib	
-T-103	colon	colon	diabetes	diabetes	and breast cancer.kidney problems and	
-T-103	sleep	sleep	crib death	crib death	apnea, autism,	
-T-103	diabetes	diabetes	protein	protein	may also be related to animal	
-T-103	health	health	sleep	sleep	effects, including acne, female infertility, infant	
 T-103	protein	protein	kidney function	kidney function	can impair	
 T-103	diet	diet	protein	protein	can supply adequate amounts of	
-T-103	rapamycin	rapamycin	aging	aging	), which can accelerate	
-T-103	chicken	chicken	protein	protein	” has	
-T-103	kidney	kidney	kidney stones	kidney stones	function and contribute to	
-T-103	protein	protein	kidney	kidney	can impair	
-T-103	chicken	chicken	iron	iron	” has protein and	
-T-103	animal protein	animal protein	kidney function	kidney function	can impair	
-T-103	plant-based	plant-based	protein	protein	diet can supply adequate amounts of	
-T-103	fiber	fiber	animal products	animal products	missing from	
-T-103	plant-based	plant-based	chicken	chicken	“	
-T-103	cancer	cancer	inflammatory bowel disease	inflammatory bowel disease	and	
-T-103	health	health	infertility	infertility	effects, including acne, female	
-T-103	iron	iron	fiber	fiber	equal to regular chicken, as well as providing	
-T-103	animal protein	animal protein	insulin	insulin	may also exacerbate the	
-T-103	plant-based	plant-based	iron	iron	“chicken” has protein and	
-T-103	rapamycin	rapamycin	colon	colon	), which can accelerate aging and promote	
-T-103	protein	protein	rapamycin	rapamycin	stimulates tor (target of	
-T-103	protein	protein	kidney stones	kidney stones	can impair kidney function and contribute to	
-T-103	protein	protein	aging	aging	stimulates tor (target of rapamycin), which can accelerate	
 T-103	americans	americans	protein	protein	may eat more	
-T-103	aging	aging	diabetes	diabetes	and promote colon and breast cancer.kidney problems and	
+T-103	protein	protein	kidney	kidney	can impair	
+T-103	protein	protein	iron	iron	and	
 T-103	animal protein	animal protein	kidney	kidney	can impair	
-T-103	potassium	potassium	amino acids	amino acids	and fewer sulfur-containing	
-T-103	insulin	insulin	retinopathy	retinopathy	spike of carbohydrate ingestion and contribute to diabetic	
 T-103	protein	protein	tor	tor	stimulates	
-T-103	tor	tor	rapamycin	rapamycin	(target of	
-T-103	colon cancer	colon cancer	disease	disease	and inflammatory bowel	
-T-103	sleep	sleep	autism	autism	apnea,	
-T-103	health	health	autism	autism	effects, including acne, female infertility, infant sleep apnea,	
-T-103	health	health	apnea	apnea	effects, including acne, female infertility, infant sleep	
-T-103	kidney function	kidney function	kidney	kidney	and contribute to	
+T-103	animal protein	animal protein	kidney function	kidney function	can impair	
+T-103	fiber	fiber	animal products	animal products	missing from	
+T-103	leucine	leucine	protein	protein	in	
+T-103	cancer	cancer	inflammatory bowel disease	inflammatory bowel disease	and	

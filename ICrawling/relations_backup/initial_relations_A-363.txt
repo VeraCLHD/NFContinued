@@ -1,41 +1,10 @@
 
 A-363	pregnant women	pregnant women	grilling	grilling	exposed to the	
 A-363	cooking meat	cooking meat	risk	risk	may not only increase the	
-A-363	pregnant	pregnant	newborns	newborns	women,	
 A-363	young children	young children	risk	risk	may be at particular	
-A-363	frying	frying	bacon	bacon		
-A-363	risk	risk	cancer	cancer	of respiratory tract	
-A-363	children	children	risk	risk	may be at particular	
-A-363	carcinogens	carcinogens	bacon	bacon	in the smell of frying	
-A-363	risk	risk	respiratory tract cancer	respiratory tract cancer	of	
-A-363	pregnant	pregnant	women	women		
-A-363	pregnant	pregnant	meat	meat	women exposed to the grilling of	
-A-363	risk	risk	fetal development	fetal development	of cancer, but also be hazardous for	
-A-363	bacon	bacon	barbeque	barbeque	and eggs, the	
-A-363	pregnant	pregnant	children	children	women, newborns, and young	
 A-363	women	women	grilling	grilling	exposed to the	
 A-363	risk	risk	cancer	cancer	of	
-A-363	cooking meat	cooking meat	cancer	cancer	may not only increase the risk of	
-A-363	restaurants	restaurants	barbeque	barbeque	—chinese, american-style, and	
-A-363	bacon	bacon	eggs	eggs	and	
-A-363	meat	meat	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	fumes: dietary secondhand smoke i show that the	
-A-363	cancer	cancer	restaurants	restaurants	cases expected among neighbors of various types of	
-A-363	pregnant	pregnant	grilling	grilling	women exposed to the	
-A-363	restaurants	restaurants	chinese	chinese	—	
-A-363	women	women	meat	meat	exposed to the grilling of	
-A-363	cooking	cooking	meat	meat		
-A-363	pregnant	pregnant	young children	young children	women, newborns, and	
-A-363	diet	diet	copd	copd	and treating	
-A-363	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	meat	meat	in the vapors released from cooking	
-A-363	lung cancer	lung cancer	vegetarians	vegetarians	among	
-A-363	pregnant women	pregnant women	meat	meat	exposed to the grilling of	
-A-363	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	cooking	cooking	in the vapors released from	
-A-363	carcinogens	carcinogens	frying	frying	in the smell of	
-A-363	cooking	cooking	cancer	cancer	meat may not only increase the risk of	
-A-363	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	cooking meat	cooking meat	in the vapors released from	
 A-363	grilling	grilling	meat	meat	of	
-A-363	meat fumes	meat fumes	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	: dietary secondhand smoke i show that the	
-A-363	frying meat	frying meat	dna	dna	to mutate	
-A-363	cooking	cooking	risk	risk	meat may not only increase the	
-A-363	copd	copd	diet	diet	with	
-A-363	meat	meat	dna	dna	to mutate	
+A-363	bacon	bacon	eggs	eggs	and	
+A-363	children	children	risk	risk	may be at particular	
+A-363	risk	risk	respiratory tract cancer	respiratory tract cancer	of	

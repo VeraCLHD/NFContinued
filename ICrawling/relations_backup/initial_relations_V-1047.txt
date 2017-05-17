@@ -1,28 +1,8 @@
 
-V-1047	dairy	dairy	breast cancer	breast cancer	seems to exist for acne,	
-V-1047	organic	organic	cows	cows	milk, where they’re not allowed to inject the	
+V-1047	hormones	hormones	milk	milk	in	
+V-1047	5-alpha pregnanedione	5-alpha pregnanedione	milk	milk	is another sex steroid hormone present in cow’s	
+V-1047	acne	acne	hormones	hormones	is not the only thing the	
 V-1047	acne	acne	dairy	dairy	is almost exclusively due to excess	
 V-1047	hormones	hormones	dairy	dairy	in	
-V-1047	organic	organic	milk	milk		
-V-1047	prostate	prostate	cancer	cancer	and breast	
-V-1047	acne	acne	milk	milk	is not the only thing the hormones in	
-V-1047	dairy	dairy	prostate cancer	prostate cancer	seems to exist for acne, breast cancer, and	
-V-1047	dairy	dairy	cancer	cancer	seems to exist for acne, breast	
-V-1047	dairy	dairy	milk	milk	intake, but not necessarily	
-V-1047	prostate	prostate	cancer	cancer		
-V-1047	milk	milk	testosterone	testosterone	that is a direct precursor to a	
-V-1047	testosterone	testosterone	acne	acne	metabolite that not only drives	
-V-1047	prostate	prostate	dairy	dairy	and breast cancer, like the other	
-V-1047	milk	milk	dairy	dairy	itself—it could be other	
-V-1047	cows	cows	hormones	hormones	with extra	
-V-1047	dairy	dairy	hormones	hormones	without the offending	
-V-1047	5-alpha pregnanedione	5-alpha pregnanedione	milk	milk	is another sex steroid hormone present in cow’s	
-V-1047	dairy	dairy	prostate	prostate	seems to exist for acne, breast cancer, and	
-V-1047	baby	baby	hormones	hormones	calf.the problem with humans drinking cow	
-V-1047	prostate	prostate	hormones	hormones	and breast cancer, like the other dairy	
-V-1047	hormones	hormones	milk	milk	in	
-V-1047	acne	acne	hormones	hormones	is not the only thing the	
-V-1047	cows	cows	growth hormones	growth hormones	with extra hormones, has	
 V-1047	dairy	dairy	acne	acne	seems to exist for	
-V-1047	dairy	dairy	hormones	hormones		
 V-1047	prostate	prostate	breast cancer	breast cancer	and	

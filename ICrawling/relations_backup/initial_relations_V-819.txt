@@ -1,31 +1,9 @@
 
-V-819	protein	protein	vegetables	vegetables	levels—between those eating six servings of	
-V-819	disease	disease	variety	variety	risk, independent from quantity of consumption; sometimes	
-V-819	inflammation	inflammation	vegetables	vegetables	—c-reactive protein levels—between those eating six servings of	
-V-819	disease	disease	fruit	fruit	reduction to the quantity of	
-V-819	variety	variety	fruit	fruit	of	
-V-819	disease	disease	risk	risk		
-V-819	inflammation	inflammation	protein	protein	—c-reactive	
-V-819	iceberg lettuce	iceberg lettuce	whole foods	whole foods	makes ten cups.we know that	
-V-819	black pepper	black pepper	turmeric	turmeric	boosts the level of the	
-V-819	bananas	bananas	blueberries	blueberries	than	
-V-819	phytonutrient	phytonutrient	pepper	pepper	in black	
-V-819	fruit	fruit	disease	disease	and vegetable consumption decrease	
-V-819	c-reactive protein	c-reactive protein	vegetables	vegetables	levels—between those eating six servings of	
-V-819	variety	variety	disease	disease	of fruit and vegetable consumption decrease	
-V-819	turmeric	turmeric	phytonutrient	phytonutrient		
-V-819	bananas	bananas	cucumbers	cucumbers	than blueberries; more likely to eat	
-V-819	phytonutrient	phytonutrient	turmeric	turmeric	in black pepper boosts the level of the	
-V-819	beta carotene	beta carotene	nutrient synergy	nutrient synergy	pill because of what’s called	
 V-819	pepper	pepper	turmeric	turmeric	boosts the level of the	
-V-819	american heart association	american heart association	dietary guidelines	dietary guidelines	’s latest	
-V-819	cucumbers	cucumbers	kale	kale	instead of	
-V-819	pepper	pepper	phytonutrient	phytonutrient	boosts the level of the turmeric	
-V-819	inflammation	inflammation	c-reactive protein	c-reactive protein	—	
-V-819	variety	variety	risk	risk	of fruit and vegetable consumption decrease disease	
+V-819	black pepper	black pepper	turmeric	turmeric	boosts the level of the	
 V-819	fruits	fruits	vegetables	vegetables	or	
-V-819	fruit	fruit	risk	risk	and vegetable consumption decrease disease	
+V-819	variety	variety	fruit	fruit	of	
 V-819	phytonutrient	phytonutrient	black pepper	black pepper	in	
 V-819	fruits	fruits	vegetables	vegetables	and	
 V-819	lettuce	lettuce	whole foods	whole foods	makes ten cups.we know that	
-V-819	black pepper	black pepper	phytonutrient	phytonutrient	boosts the level of the turmeric	
+V-819	iceberg lettuce	iceberg lettuce	whole foods	whole foods	makes ten cups.we know that	

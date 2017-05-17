@@ -1,7 +1,2 @@
 
-V-845	raw	raw	chicken	chicken		
 V-845	plants	plants	risk	risk	have increased	
-V-845	poultry	poultry	plants	plants	slaughtering and processing	
-V-845	viruses	viruses	poultry	poultry	present in	
-V-845	poultry	poultry	risk	risk	slaughtering and processing plants have increased	
-V-845	poultry	poultry	plants	plants	slaughtering and packing	

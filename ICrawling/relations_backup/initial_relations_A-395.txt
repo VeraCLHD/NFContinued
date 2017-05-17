@@ -1,73 +1,15 @@
 
-A-395	consumer reports	consumer reports	drugs	drugs	—launched a meat without	
-A-395	chicken	chicken	antibiotics	antibiotics	dioxins, viruses, or	
-A-395	industrial pollutants	industrial pollutants	vegans	vegans	in	
-A-395	organic	organic	pcbs	pcbs	pollutants like dioxins and	
-A-395	epic	epic	dioxins	dioxins	findings on lymphoma and chicken	
-A-395	pollutants	pollutants	dioxins	dioxins	like	
-A-395	chicken	chicken	viruses	viruses	dioxins,	
-A-395	organic	organic	pollutants	pollutants		
-A-395	prevention	prevention	antibiotics	antibiotics	commemorated “get smart about	
-A-395	drugs	drugs	meat	meat	 campaign to pressure retailers to demand	
-A-395	consumers union	consumers union	consumer reports	consumer reports	—the publishers of 	
-A-395	lymphoma	lymphoma	viruses	viruses	 and chicken dioxins,	
-A-395	meat	meat	drugs	drugs	without	
-A-395	consumers union	consumers union	drugs	drugs	—the publishers of consumer reports—launched a meat without	
-A-395	leukemia	leukemia	risk	risk		
-A-395	white meat	white meat	meat	meat	or dark	
-A-395	meat	meat	dark meat	dark meat	or	
-A-395	organic	organic	dioxins	dioxins	pollutants like	
-A-395	consumers union	consumers union	meat	meat	—the publishers of consumer reports—launched a 	
-A-395	united states	united states	disease	disease	to help fatten animals faster and prevent	
-A-395	persistent organic pollutants	persistent organic pollutants	pcbs	pcbs	like dioxins and	
-A-395	antibiotics	antibiotics	urine	urine	in	
-A-395	chicken	chicken	dioxins	dioxins		
-A-395	persistent organic pollutants	persistent organic pollutants	dioxins	dioxins	like	
-A-395	contaminants	contaminants	antibiotic residues	antibiotic residues	such as	
-A-395	antibiotics	antibiotics	antibiotic resistance	antibiotic resistance	week,” which aimed to raise awareness about growing	
-A-395	meat	meat	beef	beef	directly found that “consumption levels of	
-A-395	dioxins	dioxins	pcbs	pcbs	and	
-A-395	epic	epic	viruses	viruses	findings on lymphoma and chicken dioxins,	
-A-395	consumer reports	consumer reports	meat	meat	—launched a 	
-A-395	drugs	drugs	chickens	chickens	given to turkeys and	
-A-395	lymphoma	lymphoma	risk	risk	and leukemia	
-A-395	lymphoma	lymphoma	chicken	chicken	 and 	
 A-395	antibiotics	antibiotics	united states	united states	sold in the	
-A-395	antibiotics	antibiotics	dark meat	dark meat	in white meat or	
-A-395	organic pollutants	organic pollutants	pcbs	pcbs	like dioxins and	
+A-395	prevention	prevention	meat	meat	is better than cured	
+A-395	antibiotics	antibiotics	urine	urine	in	
 A-395	drug residues	drug residues	meat	meat	in	
 A-395	antibiotics	antibiotics	white meat	white meat	in	
-A-395	meat	meat	chicken	chicken	directly found that “consumption levels of beef, pork,	
-A-395	lymphoma	lymphoma	dioxins	dioxins	 and chicken	
-A-395	nitrosamines	nitrosamines	meat	meat	(see prevention is better than cured	
-A-395	antibiotics	antibiotics	drug residues	drug residues	in meat, see 	
-A-395	antibiotics	antibiotics	meat	meat	in	
-A-395	poultry	poultry	lymphoma	lymphoma	consumption has been associated with significantly higher	
-A-395	antibiotic resistance	antibiotic resistance	public health	public health	as one of the world’s most pressing	
-A-395	centers for disease control and prevention	centers for disease control and prevention	antibiotics	antibiotics	commemorated “get smart about	
-A-395	pollutants	pollutants	industrial pollutants	industrial pollutants	(see flame retardant chemical contamination and 	
-A-395	lymphoma	lymphoma	antibiotics	antibiotics	 and chicken dioxins, viruses, or	
-A-395	meat	meat	pork	pork	directly found that “consumption levels of beef,	
-A-395	pollutants	pollutants	contamination	contamination	(see flame retardant chemical	
-A-395	contamination	contamination	industrial pollutants	industrial pollutants	 and 	
-A-395	epic	epic	lymphoma	lymphoma	findings on	
-A-395	vegetarians	vegetarians	nitrosamines	nitrosamines	may also have lower exposure to carcinogenic	
-A-395	antibiotics	antibiotics	meat	meat	before and after a 5 day vacation from	
-A-395	children	children	pcbs	pcbs	detoxify from	
-A-395	chickens	chickens	poultry	poultry	may be one reason	
-A-395	drug residues	drug residues	fish	fish	may also end up in the flesh of	
-A-395	contamination	contamination	pollutants	pollutants	 and industrial	
-A-395	epic	epic	chicken	chicken	findings on lymphoma and 	
-A-395	pollutants	pollutants	pcbs	pcbs	like dioxins and	
-A-395	prevention	prevention	meat	meat	is better than cured	
-A-395	organic pollutants	organic pollutants	dioxins	dioxins	like	
+A-395	industrial pollutants	industrial pollutants	vegans	vegans	in	
 A-395	white meat	white meat	dark meat	dark meat	or	
 A-395	lymphoma	lymphoma	leukemia	leukemia	and	
-A-395	epic	epic	antibiotics	antibiotics	findings on lymphoma and chicken dioxins, viruses, or	
-A-395	nitrosamines	nitrosamines	prevention	prevention	(see 	
-A-395	contamination	contamination	vegans	vegans	 and industrial pollutants in	
-A-395	pollutants	pollutants	vegans	vegans	(see flame retardant chemical contamination and industrial pollutants in	
-A-395	disease	disease	antibiotics	antibiotics	control and prevention commemorated “get smart about	
-A-395	antibiotics	antibiotics	meat	meat	in white	
-A-395	antibiotic resistance	antibiotic resistance	health	health	as one of the world’s most pressing public	
-A-395	disease	disease	prevention	prevention	control and	
+A-395	antibiotics	antibiotics	meat	meat	in	
+A-395	dioxins	dioxins	pcbs	pcbs	and	
+A-395	prevention	prevention	antibiotics	antibiotics	commemorated “get smart about	
+A-395	centers for disease control and prevention	centers for disease control and prevention	antibiotics	antibiotics	commemorated “get smart about	
+A-395	pcbs	pcbs	children	children	can persist for years in our bodies (see my 2-min video how fast can	
+A-395	meat	meat	dark meat	dark meat	or	

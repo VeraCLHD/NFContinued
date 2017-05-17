@@ -1,6 +1,2 @@
 
-T-1058	kiwis	kiwis	cholesterol	cholesterol	in the world, kiwifruit may improve	
-T-1058	dna	dna	enzymes	enzymes	repair	
-T-1058	kiwifruit	kiwifruit	kiwis	kiwis	organization and zepri, the largest marketer of	
-T-1058	sleep	sleep	insomnia	insomnia	quality and duration for those suffering from	
-T-1058	kiwis	kiwis	kiwifruit	kiwifruit	in the world,	
+T-1058	kiwifruit	kiwifruit	produce	produce	have had more research done on them than most	

@@ -1,48 +1,8 @@
 
-V-1219	rice	rice	sugar	sugar	syrup, corn syrup, date	
-V-1219	sugar	sugar	organic	organic	versus raw, pure,	
-V-1219	sugar	sugar	agave nectar	agave nectar	versus raw, pure, organic	
-V-1219	sweetener	sweetener	date sugar	date sugar	on the planet is	
-V-1219	agave	agave	nutrition	nutrition	nectar have less	
-V-1219	molasses	molasses	sugar	sugar	and date	
-V-1219	corn	corn	brown sugar	brown sugar	syrup, date sugar, dark	
-V-1219	date sugar	date sugar	sweetener	sweetener	fall to second place?the healthiest	
-V-1219	rice	rice	date sugar	date sugar	syrup, corn syrup,	
-V-1219	brown rice	brown rice	brown sugar	brown sugar	syrup, corn syrup, date sugar, dark	
-V-1219	organic	organic	agave nectar	agave nectar		
-V-1219	agave	agave	corn	corn	nectar, blackstrap molasses, brown rice syrup,	
-V-1219	rice	rice	corn syrup	corn syrup	syrup,	
+V-1219	sugar	sugar	nutrition	nutrition	have less	
+V-1219	tea	tea	coffee	coffee	or	
+V-1219	american dietetic association	american dietetic association	antioxidant	antioxidant	measured the	
+V-1219	agave nectar	agave nectar	nutrition	nutrition	have less	
 V-1219	date sugar	date sugar	sugar	sugar	is not really	
 V-1219	american dietetic association	american dietetic association	antioxidant content	antioxidant content	measured the	
 V-1219	molasses	molasses	date sugar	date sugar	and	
-V-1219	sugar	sugar	nutrition	nutrition	have less	
-V-1219	brown rice	brown rice	corn	corn	syrup,	
-V-1219	tea	tea	coffee	coffee	or	
-V-1219	agave	agave	molasses	molasses	nectar, blackstrap	
-V-1219	sugar	sugar	dates	dates	is not really sugar; it’s just whole dried	
-V-1219	american dietetic association	american dietetic association	antioxidant	antioxidant	measured the	
-V-1219	molasses	molasses	date sugar	date sugar	is less healthy than	
-V-1219	sugar	sugar	agave	agave	is here;	
-V-1219	organic	organic	agave	agave		
-V-1219	rice	rice	brown sugar	brown sugar	syrup, corn syrup, date sugar, dark	
-V-1219	agave	agave	date sugar	date sugar	nectar, blackstrap molasses, brown rice syrup, corn syrup,	
-V-1219	sweetener	sweetener	sugar	sugar	on the planet is date	
-V-1219	antioxidant	antioxidant	sweetener	sweetener	power.there’s one	
-V-1219	agave	agave	brown rice	brown rice	nectar, blackstrap molasses,	
-V-1219	brown rice	brown rice	sugar	sugar	syrup, corn syrup, date	
-V-1219	sugar	sugar	agave	agave	versus raw, pure, organic	
-V-1219	agave	agave	corn syrup	corn syrup	nectar, blackstrap molasses, brown rice syrup,	
-V-1219	raw	raw	sugar	sugar	cane	
-V-1219	brown rice	brown rice	date sugar	date sugar	syrup, corn syrup,	
-V-1219	agave nectar	agave nectar	nutrition	nutrition	have less	
-V-1219	corn	corn	sugar	sugar	syrup, date	
-V-1219	corn	corn	date sugar	date sugar	syrup,	
-V-1219	date sugar	date sugar	dates	dates	is not really sugar; it’s just whole dried	
-V-1219	brown rice	brown rice	corn syrup	corn syrup	syrup,	
-V-1219	sugar	sugar	sweetener	sweetener	fall to second place?the healthiest	
-V-1219	molasses	molasses	sugar	sugar	is less healthy than date	
-V-1219	agave	agave	rice	rice	nectar, blackstrap molasses, brown	
-V-1219	agave	agave	brown rice syrup	brown rice syrup	nectar, blackstrap molasses,	
-V-1219	rice	rice	corn	corn	syrup,	
-V-1219	sugar	sugar	raw	raw	versus	
-V-1219	sweeteners	sweeteners	nutrition	nutrition	that do have some	

@@ -1,32 +1,7 @@
 
-V-437	drugs	drugs	naproxen	naproxen	like ibuprofen, and	
 V-437	phytonutrients	phytonutrients	cherries	cherries	in	
 V-437	cherries	cherries	anti-inflammatory	anti-inflammatory	were shown to have a greater	
-V-437	anti-inflammatory	anti-inflammatory	naproxen	naproxen	drugs like ibuprofen, and	
-V-437	sheep	sheep	stomach	stomach	on our plate, without digesting our own	
-V-437	anti-inflammatory	anti-inflammatory	cherries	cherries	activity than tart	
-V-437	inflammation	inflammation	stomach	stomach	of cox-2 without inhibiting the	
 V-437	enzymes	enzymes	stomach	stomach	and	
-V-437	ibuprofen	ibuprofen	inflammation	inflammation	are great at relieving pain and	
 V-437	ibuprofen	ibuprofen	pain	pain	are great at relieving	
 V-437	anthocyanin phytonutrients	anthocyanin phytonutrients	cherries	cherries	in	
-V-437	oatmeal	oatmeal	stomach	stomach	traditionally stuffed inside of a	
-V-437	drugs	drugs	inflammation	inflammation	like ibuprofen are great at relieving pain and	
-V-437	drugs	drugs	ibuprofen	ibuprofen	like	
-V-437	drugs	drugs	stomach	stomach	easier on the	
-V-437	pain	pain	stomach	stomach	and inflammation of cox-2 without inhibiting the	
 V-437	pain	pain	inflammation	inflammation	and	
-V-437	internal bleeding	internal bleeding	heart attack	heart attack	from one type of drug, or death from	
-V-437	insomnia	insomnia	muscle soreness	muscle soreness	and reducing	
-V-437	pudding	pudding	oatmeal	oatmeal	of heart, liver, lungs, and	
-V-437	death	death	internal bleeding	internal bleeding	from	
-V-437	pudding	pudding	liver	liver	of heart,	
-V-437	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	drugs like	
-V-437	stomach	stomach	enzymes	enzymes	goes into our own stomach, our digestive	
-V-437	anti-inflammatory	anti-inflammatory	stomach	stomach	drugs easier on the	
-V-437	internal bleeding	internal bleeding	death	death	from one type of drug, or	
-V-437	drugs	drugs	pain	pain	like ibuprofen are great at relieving	
-V-437	stomach	stomach	sheep	sheep	lining of a	
-V-437	anti-inflammatory	anti-inflammatory	tart cherries	tart cherries	activity than	
-V-437	anti-inflammatory	anti-inflammatory	drugs	drugs		
-V-437	death	death	anti-inflammatory	anti-inflammatory	rate from	

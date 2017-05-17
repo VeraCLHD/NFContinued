@@ -1,10 +1,2 @@
 
-V-1146	tuna	tuna	baby	baby	companies, tuna’s safe for both mom and	
-V-1146	pcbs	pcbs	fish	fish	and insecticides.but which is worse—	
-V-1146	salt	salt	chemicals	chemicals		
-V-1146	shark oil	shark oil	pcbs	pcbs	capsules?well, for	
 V-1146	seals	seals	fish	fish	eat	
-V-1146	mothers	mothers	salt	salt	to trust you when your company’s called killing	
-V-1146	shark oil	shark oil	fish oil	fish oil	capsules?well, for pcbs, here’s how much is in	
-V-1146	pcbs	pcbs	shark oil	shark oil	and insecticides.but which is worse—fish, seal, or	
-V-1146	shark oil	shark oil	fish	fish	capsules?well, for pcbs, here’s how much is in	

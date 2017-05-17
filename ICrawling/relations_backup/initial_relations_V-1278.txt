@@ -1,13 +1,6 @@
 
-V-1278	epic	epic	vegans	vegans	study found this year that	
 V-1278	broccoli	broccoli	calcium	calcium	is absorbed nearly twice as well as the	
-V-1278	calcium	calcium	broccoli	broccoli	in kale and	
-V-1278	vegans	vegans	calcium	calcium	not getting enough	
-V-1278	epic study	epic study	calcium	calcium	found this year that vegans not getting enough	
 V-1278	epic study	epic study	vegans	vegans	found this year that	
 V-1278	omnivores	omnivores	calcium	calcium	are deficient in seven nutrients:	
-V-1278	omnivores	omnivores	iodine	iodine	are deficient in seven nutrients: calcium,	
 V-1278	calcium	calcium	kale	kale	in	
-V-1278	vegans	vegans	risk	risk	not getting enough calcium have increased bone fracture	
-V-1278	calcium	calcium	risk	risk	have increased bone fracture	
 V-1278	kale	kale	broccoli	broccoli	and	

@@ -1,15 +1,2 @@
 
-V-1000	united states	united states	stroke	stroke	are heart disease, cancer, and	
-V-1000	death	death	united states	united states	in the	
-V-1000	treatment	treatment	disease	disease	of patients with…alzheimer’s	
-V-1000	united states	united states	cancer	cancer	are heart disease,	
-V-1000	disease	disease	paella	paella	horror, i’d be cooking them some	
-V-1000	cooking	cooking	paella	paella	them some	
-V-1000	saffron	saffron	placebo	placebo	to	
-V-1000	disease	disease	cooking	cooking	horror, i’d be	
-V-1000	saffron	saffron	diet	diet	to our	
-V-1000	kidney	kidney	disease	disease		
 V-1000	united states	united states	heart disease	heart disease	are	
-V-1000	saffron	saffron	disease	disease	in the treatment of patients with…alzheimer’s	
-V-1000	saffron	saffron	treatment	treatment	in the	
-V-1000	united states	united states	disease	disease	are heart	

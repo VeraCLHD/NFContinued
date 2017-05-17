@@ -1,4 +1,2 @@
 
-V-994	skin	skin	blood	blood		
-V-994	caucasian	caucasian	skin	skin	faces, to enhance healthy appearance people also increased	
 V-994	women	women	caucasian	caucasian	prefer a tint of yellow in	

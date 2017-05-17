@@ -1,11 +1,5 @@
 
-V-100	bpa	bpa	chemicals	chemicals	and some other plastics	
 V-100	bpa	bpa	fat	fat	can accelerate the production of new	
-V-100	lead	lead	obesity	obesity	to	
 V-100	chemicals	chemicals	weight gain	weight gain	were significantly associated with faster	
-V-100	chemicals	chemicals	bpa	bpa	besides	
-V-100	bpa	bpa	lead	lead	levels didn’t	
-V-100	bpa	bpa	obesity	obesity	levels didn’t lead to	
-V-100	soup	soup	diet	diet	to people’s daily	
 V-100	bpa	bpa	children	children	flowing through the bodies of	
-V-100	lead	lead	bpa	bpa	to obesity; maybe the obesity led to high	
+V-100	bpa	bpa	processed foods	processed foods	is just a marker for the same kinds of	

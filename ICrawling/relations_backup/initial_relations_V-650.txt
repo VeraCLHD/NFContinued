@@ -1,33 +1,6 @@
 
-V-650	cooked meat	cooked meat	vegetarian	vegetarian	carcinogens in a	
-V-650	phip	phip	mutagens	mutagens	and meiqx (one of the most potent	
-V-650	creatine	creatine	supplements	supplements	”	
-V-650	boiled	boiled	diet	diet	eggs as part of their	
-V-650	vegetarian	vegetarian	meat	meat	—or, even just refrain from eating	
 V-650	meats	meats	poultry	poultry	or	
-V-650	heterocyclic amines	heterocyclic amines	poultry	poultry	have been reported in cooked meats, fish, and	
-V-650	meat	meat	carcinogen	carcinogen		
-V-650	cheese	cheese	eggs	eggs	and/or boiled	
-V-650	urine	urine	meat	meat	after refraining from	
-V-650	poultry	poultry	cooking	cooking	prepared under common household	
-V-650	vegetarians	vegetarians	meat	meat	and	
-V-650	meat	meat	carcinogens	carcinogens		
-V-650	cheese	cheese	diet	diet	and/or boiled eggs as part of their	
-V-650	cooked meat	cooked meat	carcinogen	carcinogen		
-V-650	heterocyclic amines	heterocyclic amines	fish	fish	have been reported in cooked meats,	
-V-650	meat	meat	carcinogen	carcinogen	consumption” (which is an isomer of a powerful animal	
-V-650	cheese	cheese	boiled	boiled	and/or	
-V-650	meat	meat	cooked meat	cooked meat	-eaters alike.another finding of	
-V-650	cooked meat	cooked meat	vegetarian	vegetarian	carcinogens, one could, of course, eat	
-V-650	meat	meat	vegetarian	vegetarian	carcinogens, one could, of course, eat	
-V-650	carcinogens	carcinogens	vegetarian	vegetarian	in a	
-V-650	supplements	supplements	heterocyclic amines	heterocyclic amines	“could result in [the] formation of “genotoxic [	
-V-650	creatine	creatine	sports	sports	by	
-V-650	vegetarians	vegetarians	carcinogens	carcinogens	and meat-eaters alike.another finding of cooked meat	
 V-650	heterocyclic amines	heterocyclic amines	meats	meats	have been reported in cooked	
-V-650	boiled	boiled	eggs	eggs		
+V-650	vegetarian	vegetarian	phip	phip	was reported in a study comparing the levels of	
 V-650	heterocyclic amines	heterocyclic amines	eggs	eggs	have been reported in fried	
-V-650	cooked meat	cooked meat	carcinogens	carcinogens		
-V-650	vegetarians	vegetarians	cooked meat	cooked meat	and meat-eaters alike.another finding of	
-V-650	eggs	eggs	diet	diet	as part of their	
-V-650	meat	meat	carcinogens	carcinogens	-eaters alike.another finding of cooked meat	
+V-650	vegetarians	vegetarians	meat	meat	and	

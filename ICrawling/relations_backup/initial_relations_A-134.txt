@@ -1,20 +1,7 @@
 
-A-134	health	health	eggs	eggs	and nutrition; “	
-A-134	egg	egg	beverage	beverage	board’s egg nutrition center; “adult	
-A-134	doctors	doctors	smoking	smoking	promoting cigarette	
-A-134	american egg board	american egg board	egg nutrition center	egg nutrition center	’s	
-A-134	egg	egg	egg nutrition center	egg nutrition center	board’s	
 A-134	pediatrics	pediatrics	pepsi	pepsi	has had relationships with	
 A-134	cocoa	cocoa	chocolate	chocolate	and	
 A-134	american academy of pediatrics	american academy of pediatrics	pepsi	pepsi	has had relationships with	
 A-134	american dietetic association	american dietetic association	academy of nutrition and dietetics	academy of nutrition and dietetics	changed their name to the	
-A-134	american dietetic association	american dietetic association	nutrition	nutrition	(ada) is the world’s largest association of	
-A-134	american egg board	american egg board	nutrition	nutrition	’s egg	
-A-134	pediatrics	pediatrics	pepsi	pepsi	was also collaborating with	
-A-134	american egg board	american egg board	egg	egg	’s	
-A-134	coca-cola	coca-cola	beverages	beverages		
-A-134	coca-cola	coca-cola	beverage	beverage	company and other food and	
-A-134	american egg board	american egg board	beverage	beverage	’s egg nutrition center; “adult	
 A-134	health	health	nutrition	nutrition	and	
 A-134	american dietetic association	american dietetic association	nutrition	nutrition	changed their name to the academy of	
-A-134	egg	egg	nutrition	nutrition	board’s egg	

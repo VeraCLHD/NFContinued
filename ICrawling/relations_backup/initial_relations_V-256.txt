@@ -1,50 +1,7 @@
 
-V-256	high blood pressure	high blood pressure	americans	americans	may wipe out 400,000	
-V-256	dr. walter kempner	dr. walter kempner	diet	diet	and his rice and fruit	
-V-256	plant-based	plant-based	obesity	obesity	diet, get lots of exercise, and have no	
-V-256	salt	salt	blood pressure	blood pressure	that experience no rise in 	
-V-256	plant-based	plant-based	diet	diet		
-V-256	blind	blind	kidneys	kidneys	from bleeding into your eyes, your	
-V-256	dr. walter kempner	dr. walter kempner	fruit	fruit	and his rice and	
-V-256	blood	blood	medications	medications	pressure	
-V-256	hypertension	hypertension	blood pressure	blood pressure	—that rising of	
-V-256	dr. walter kempner	dr. walter kempner	rice	rice	and his	
-V-256	blood pressure	blood pressure	diet	diet	can often be lowered with a	
-V-256	salt	salt	blood	blood	that experience no rise in 	
-V-256	blood	blood	diet	diet	pressure medications and treat with	
-V-256	blood	blood	diet	diet	pressure can often be lowered with a	
-V-256	salt	salt	lead	lead	.having a “normal” salt intake can	
-V-256	blood	blood	disease	disease	pressures over 100 are associated with	
-V-256	prevention	prevention	blood pressure	blood pressure	of essential hypertension—that rising of	
-V-256	blood pressure medications	blood pressure medications	death	death	so their fate is certain	
-V-256	rice	rice	diet	diet	and fruit	
-V-256	rice	rice	diet	diet		
-V-256	yanomamo	yanomamo	salt	salt	people, a no-	
-V-256	prevention	prevention	hypertension	hypertension	of essential	
-V-256	blood	blood	hypertension	hypertension	pressure, so called malignant	
-V-256	rice	rice	fruit	fruit	and	
-V-256	blood pressure	blood pressure	medications	medications		
-V-256	lead	lead	blood pressure	blood pressure	to a “normal”	
-V-256	salt	salt	blood	blood	intakes, apparently leading to truly normal	
-V-256	lead	lead	blood	blood	to a “normal”	
-V-256	yanomamo	yanomamo	salt	salt	level of	
 V-256	high blood pressure	high blood pressure	diet	diet	can often be lowered with a	
 V-256	diet	diet	salt	salt	wasn’t just extremely low	
-V-256	plant-based	plant-based	exercise	exercise	diet, get lots of	
-V-256	blood pressure	blood pressure	americans	americans	may wipe out 400,000	
-V-256	medications	medications	diet	diet	and treat with	
-V-256	hypertension	hypertension	blood	blood	—that rising of	
 V-256	babies	babies	blood pressure	blood pressure	start out with a	
-V-256	medications	medications	death	death	so their fate is certain	
-V-256	blood	blood	americans	americans	pressure may wipe out 400,000	
+V-256	rice	rice	fruit	fruit	and	
 V-256	babies	babies	blood	blood	start out with a	
-V-256	blood	blood	blind	blind	pressure, so called malignant hypertension—where you go	
-V-256	blood pressure	blood pressure	diet	diet	medications and treat with	
-V-256	diet	diet	plant-based	plant-based	wasn’t just extremely low salt, but strictly	
-V-256	fruit	fruit	diet	diet		
-V-256	prevention	prevention	blood	blood	of essential hypertension—that rising of	
-V-256	salt	salt	blood	blood	on	
-V-256	hypertension	hypertension	blind	blind	—where you go	
-V-256	plant-based	plant-based	salt	salt	populations eating little	
-V-256	blood pressure medications	blood pressure medications	diet	diet	and treat with	
-V-256	heart attacks	heart attacks	risk	risk	and strokes are normal too, since	
+V-256	blood pressure	blood pressure	diet	diet	can often be lowered with a	

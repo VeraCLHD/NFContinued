@@ -1,78 +1,13 @@
 
-T-1199	mercury	mercury	dairy	dairy	include factory-farmed chicken and	
-T-1199	diabetes	diabetes	contaminants	contaminants	risk, and mercury or other	
-T-1199	dioxins	dioxins	mercury	mercury	in fish may also increase diabetes risk, and	
-T-1199	pregnancy	pregnancy	baby	baby	appears to raise the risk of the	
-T-1199	fish	fish	als	als	that raises the risk of alzheimer’s disease and	
-T-1199	risk	risk	atrial fibrillation	atrial fibrillation	of	
-T-1199	dioxins	dioxins	diabetes	diabetes	in fish may also increase	
-T-1199	diet	diet	fiber	fiber	and dietary	
-T-1199	dioxins	dioxins	risk	risk	in fish may also increase diabetes	
-T-1199	mercury	mercury	risk	risk	in fish that raises the	
-T-1199	vaccinations	vaccinations	mercury	mercury	also contain small amounts of	
-T-1199	disease	disease	fish	fish	who eat more oily	
-T-1199	mercury	mercury	fish	fish	from	
-T-1199	disease	disease	als	als	and	
-T-1199	vegetarian	vegetarian	diet	diet		
-T-1199	mercury	mercury	fish	fish	in	
-T-1199	chicken	chicken	corn	corn	and dairy and foods containing high-fructose	
-T-1199	mercury	mercury	disease	disease	in fish that raises the risk of alzheimer’s	
-T-1199	vegetarian	vegetarian	mercury	mercury	diet and dietary fiber may help reduce	
-T-1199	women	women	fish	fish	who eat a lot of	
 T-1199	mercury	mercury	anti-inflammatory	anti-inflammatory	may counteract the	
-T-1199	chicken	chicken	corn syrup	corn syrup	and dairy and foods containing high-fructose	
-T-1199	mercury	mercury	tuna	tuna	levels in three national brands of canned	
-T-1199	fish	fish	risk	risk	intake during pregnancy appears to raise the	
-T-1199	fish	fish	hair testing	hair testing	should consider getting tested for mercury (via	
-T-1199	fish oil	fish oil	death	death	capsules have a higher cardiac	
-T-1199	diabetes	diabetes	risk	risk		
-T-1199	contaminants	contaminants	disease	disease	may help explain why men with heart	
-T-1199	chicken	chicken	dairy	dairy	and	
-T-1199	death	death	risk	risk		
-T-1199	mercury	mercury	seafood	seafood	to be	
-T-1199	mercury	mercury	fish	fish	content in	
-T-1199	fish oil	fish oil	cardiac death	cardiac death	capsules have a higher	
-T-1199	risk	risk	baby	baby	of the	
-T-1199	fish	fish	mercury	mercury	may also increase diabetes risk, and	
-T-1199	mercury	mercury	pregnancy	pregnancy	from fish intake during	
-T-1199	risk	risk	heart attack	heart attack	of atrial fibrillation and fatal	
-T-1199	fish	fish	pregnancy	pregnancy	intake during	
-T-1199	pregnancy	pregnancy	risk	risk	appears to raise the	
-T-1199	anti-inflammatory	anti-inflammatory	tuna	tuna	benefits of omega-3 fatty acids.fish, including	
-T-1199	mercury	mercury	chicken	chicken	include factory-farmed	
-T-1199	fish	fish	pregnant	pregnant	consumption for a year before they get	
-T-1199	brain damage	brain damage	mercury	mercury	to significantly lower intelligence.the	
-T-1199	dha	dha	fish oil	fish oil	from the ingested	
-T-1199	mercury	mercury	dioxins	dioxins	and	
-T-1199	children	children	dha	dha	’s iq scores exceeded the beneficial effects of	
-T-1199	diabetes	diabetes	mercury	mercury	risk, and	
-T-1199	heart disease	heart disease	fish	fish	who eat more oily	
-T-1199	brain damage	brain damage	fish	fish	to significantly lower intelligence.the mercury content in	
-T-1199	dairy	dairy	corn syrup	corn syrup	and foods containing high-fructose	
-T-1199	mercury	mercury	children	children	on the	
-T-1199	risk	risk	disease	disease	of alzheimer’s	
-T-1199	mothers	mothers	fish	fish	should consider avoiding polluted	
-T-1199	mercury	mercury	diabetes	diabetes	and dioxins in fish may also increase	
-T-1199	fish oil	fish oil	risk	risk	capsules have a higher cardiac death	
 T-1199	fiber	fiber	mercury	mercury	may help reduce	
-T-1199	cardiac death	cardiac death	risk	risk		
-T-1199	fish	fish	risk	risk	that raises the	
+T-1199	disease	disease	als	als	and	
 T-1199	tuna	tuna	brain damage	brain damage	may cause enough	
-T-1199	fish	fish	disease	disease	that raises the risk of alzheimer’s	
-T-1199	dioxins	dioxins	fish	fish	in	
-T-1199	diet	diet	mercury	mercury	and dietary fiber may help reduce	
-T-1199	mercury	mercury	risk	risk	and dioxins in fish may also increase diabetes	
-T-1199	fish	fish	diabetes	diabetes	may also increase	
-T-1199	disease	disease	fish oil	fish oil	who eat more oily fish or take	
-T-1199	california	california	children	children		
 T-1199	contaminants	contaminants	heart disease	heart disease	may help explain why men with	
-T-1199	heart disease	heart disease	fish oil	fish oil	who eat more oily fish or take	
-T-1199	vegetarian	vegetarian	fiber	fiber	diet and dietary	
-T-1199	dairy	dairy	corn	corn	and foods containing high-fructose	
-T-1199	atrial fibrillation	atrial fibrillation	heart attack	heart attack	and fatal	
-T-1199	risk	risk	als	als	of alzheimer’s disease and	
-T-1199	fish	fish	risk	risk	may also increase diabetes	
-T-1199	mercury	mercury	hair testing	hair testing	(via	
-T-1199	dha	dha	fish	fish	from the ingested	
-T-1199	mercury	mercury	fish	fish	and dioxins in	
+T-1199	dioxins	dioxins	fish	fish	in	
+T-1199	risk	risk	atrial fibrillation	atrial fibrillation	of	
+T-1199	chicken	chicken	dairy	dairy	and	
+T-1199	mercury	mercury	fish	fish	in	
+T-1199	mothers	mothers	fish	fish	should consider avoiding polluted	
+T-1199	mercury	mercury	dioxins	dioxins	and	
 T-1199	fish	fish	mercury	mercury	should consider getting tested for	

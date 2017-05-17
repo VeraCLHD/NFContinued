@@ -1,72 +1,15 @@
 
-T-400	phytonutrient	phytonutrient	genital warts	genital warts	ointment may be helpful in clearing external	
+T-400	cdc	cdc	health	health	has reported on a number of research findings in order to raise public awareness of these	
 T-400	bacteria	bacteria	chicken	chicken	was found to contaminate 38% of sampled	
-T-400	health	health	meat	meat	threat of antibiotic-resistant microbes in	
-T-400	campylobacter	campylobacter	chicken	chicken	bacteria was found to contaminate 38% of sampled	
-T-400	cdc	cdc	fish	fish	reported the public should avoid specific	
-T-400	alfalfa	alfalfa	sprouts	sprouts		
-T-400	cdc	cdc	lead	lead	has described how undercooking meat can	
-T-400	pregnant	pregnant	women	women		
-T-400	disease	disease	cdc	cdc	control (	
-T-400	pregnant women	pregnant women	tapeworms	tapeworms	in the u.s., on average, harbor 35 different chemicals; pork	
-T-400	green tea	green tea	genital warts	genital warts	phytonutrient ointment may be helpful in clearing external	
-T-400	hepatitis	hepatitis	raw	raw	e; intake of 	
-T-400	sprouts	sprouts	food safety	food safety	is risky from a	
-T-400	salmonella	salmonella	bacteria	bacteria	poisoning, about 38 are not reported; in 2012, campylobacter	
-T-400	meat	meat	mrsa	mrsa	can lead to parasite infestation and how antibiotic-resistant 	
-T-400	raw	raw	alfalfa	alfalfa		
-T-400	cdc	cdc	lead poisoning	lead poisoning	started noting	
-T-400	cdc	cdc	hepatitis	hepatitis	says eating contaminated pork can result in	
-T-400	hepatitis	hepatitis	alfalfa sprouts	alfalfa sprouts	e; intake of raw	
+T-400	vegetables	vegetables	fruit	fruit	and	
 T-400	cdc	cdc	lead	lead	started noting	
-T-400	women	women	tapeworms	tapeworms	in the u.s., on average, harbor 35 different chemicals; pork	
+T-400	food poisoning	food poisoning	ciguatera	ciguatera	known as 	
+T-400	cdc	cdc	fish	fish	reported the public should avoid specific	
+T-400	americans	americans	arginine	arginine	are not getting enough 	
 T-400	pork	pork	hepatitis e	hepatitis e	can result in	
-T-400	chicken	chicken	women	women	breasts; a 2003-04 survey found pregnant	
-T-400	lead	lead	bacteria	bacteria	to parasite infestation and how antibiotic-resistant mrsa	
-T-400	pork	pork	alfalfa	alfalfa	can result in hepatitis e; intake of raw	
+T-400	salt	salt	health	health	may be deleterious to our	
 T-400	cdc	cdc	pork	pork	says eating contaminated	
-T-400	chicken	chicken	pregnant	pregnant	breasts; a 2003-04 survey found	
-T-400	alfalfa sprouts	alfalfa sprouts	food safety	food safety	is risky from a	
-T-400	lead	lead	mrsa	mrsa	to parasite infestation and how antibiotic-resistant 	
-T-400	women	women	pork	pork	in the u.s., on average, harbor 35 different chemicals; 	
 T-400	pork	pork	hepatitis	hepatitis	can result in	
-T-400	mrsa	mrsa	bacteria	bacteria		
 T-400	bacteria	bacteria	meat	meat	has been found in some samples of purchased	
 T-400	meat	meat	lead	lead	can	
-T-400	pathogens	pathogens	contamination	contamination	from fecal matter	
-T-400	cdc	cdc	medications	medications	started noting lead poisoning cases connected to ayurvedic	
-T-400	vegetables	vegetables	fruit	fruit	and	
-T-400	tea	tea	phytonutrient	phytonutrient		
-T-400	pregnant women	pregnant women	pork	pork	in the u.s., on average, harbor 35 different chemicals; 	
-T-400	lead poisoning	lead poisoning	medications	medications	cases connected to ayurvedic	
-T-400	health	health	pathogens	pathogens	threat of antibiotic-resistant microbes in meat, including	
-T-400	food poisoning	food poisoning	ciguatera	ciguatera	known as 	
-T-400	lead	lead	medications	medications	poisoning cases connected to ayurvedic	
-T-400	women	women	chemicals	chemicals	in the u.s., on average, harbor 35 different	
-T-400	americans	americans	arginine	arginine	are not getting enough 	
-T-400	pork	pork	sprouts	sprouts	can result in hepatitis e; intake of raw alfalfa	
-T-400	salt	salt	health	health	may be deleterious to our	
-T-400	green tea	green tea	phytonutrient	phytonutrient		
-T-400	raw	raw	alfalfa sprouts	alfalfa sprouts		
-T-400	raw	raw	food safety	food safety	alfalfa sprouts is risky from a	
-T-400	phytonutrient	phytonutrient	warts	warts	ointment may be helpful in clearing external genital	
-T-400	campylobacter	campylobacter	bacteria	bacteria		
-T-400	tea	tea	genital warts	genital warts	phytonutrient ointment may be helpful in clearing external	
-T-400	food safety	food safety	salmonella	salmonella	perspective; for every reported case of 	
-T-400	hepatitis	hepatitis	sprouts	sprouts	e; intake of raw alfalfa	
-T-400	cdc	cdc	hepatitis e	hepatitis e	says eating contaminated pork can result in	
-T-400	cdc	cdc	meat	meat	has described how undercooking	
-T-400	chicken	chicken	pregnant women	pregnant women	breasts; a 2003-04 survey found	
-T-400	pregnant	pregnant	chemicals	chemicals	women in the u.s., on average, harbor 35 different	
-T-400	raw	raw	sprouts	sprouts	alfalfa	
-T-400	salmonella	salmonella	campylobacter	campylobacter	poisoning, about 38 are not reported; in 2012, 	
-T-400	alfalfa	alfalfa	food safety	food safety	sprouts is risky from a	
-T-400	pork	pork	alfalfa sprouts	alfalfa sprouts	can result in hepatitis e; intake of raw	
-T-400	hepatitis	hepatitis	alfalfa	alfalfa	e; intake of raw	
-T-400	pregnant women	pregnant women	chemicals	chemicals	in the u.s., on average, harbor 35 different	
-T-400	fish	fish	ciguatera	ciguatera	due to the food poisoning known as 	
-T-400	fish	fish	food poisoning	food poisoning	due to the	
-T-400	pork	pork	raw	raw	can result in hepatitis e; intake of 	
-T-400	meat	meat	bacteria	bacteria	can lead to parasite infestation and how antibiotic-resistant mrsa	
-T-400	medications	medications	cdc	cdc	and lastly, in 2012, the	
-T-400	disease	disease	americans	americans	in the u.s; 78 million	
+T-400	cdc	cdc	lead poisoning	lead poisoning	started noting	

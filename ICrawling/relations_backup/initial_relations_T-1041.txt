@@ -1,41 +1,6 @@
 
-T-1041	kidney	kidney	cancer	cancer		
-T-1041	kidney	kidney	risk	risk	cancer) increase cancer survival rates, and reduce the	
-T-1041	cancer	cancer	kidney cancer	kidney cancer	(like breast and	
-T-1041	bile	bile	vegetables	vegetables	acid-binding	
-T-1041	produce	produce	sulforaphane	sulforaphane	the anti-cancer nutrient,	
-T-1041	mustard powder	mustard powder	produce	produce	to cooked kale helps	
-T-1041	cooking	cooking	kale	kale	it or mixing some mustard powder to cooked	
-T-1041	lutein	lutein	zeaxanthin	zeaxanthin	and	
-T-1041	cancer survival	cancer survival	risk	risk	rates, and reduce the	
-T-1041	phytonutrients	phytonutrients	lutein	lutein	such as	
-T-1041	cooking	cooking	mustard powder	mustard powder	it or mixing some	
-T-1041	mustard powder	mustard powder	kale	kale	to cooked	
-T-1041	dna	dna	cancer	cancer	damage, improve immune function, prevent	
 T-1041	vegetables	vegetables	mood	mood	may boost	
-T-1041	vegetables	vegetables	dna damage	dna damage	may boost mood, lower cholesterol, prevent	
-T-1041	dna	dna	immune function	immune function	damage, improve	
-T-1041	vegetables	vegetables	cholesterol	cholesterol	may boost mood, lower	
-T-1041	kidney cancer	kidney cancer	cancer survival	cancer survival	) increase	
-T-1041	raw	raw	kale	kale		
-T-1041	kidney cancer	kidney cancer	cancer	cancer	) increase	
-T-1041	lutein	lutein	glaucoma	glaucoma	and zeaxanthin, which may be protective against	
-T-1041	phytonutrients	phytonutrients	zeaxanthin	zeaxanthin	such as lutein and	
-T-1041	kale	kale	vegetables	vegetables	is one of the more effective bile acid-binding	
-T-1041	cancer	cancer	kidney	kidney	(like breast and	
-T-1041	cruciferous vegetables	cruciferous vegetables	cholesterol	cholesterol	may boost mood, lower	
-T-1041	mustard powder	mustard powder	sulforaphane	sulforaphane	to cooked kale helps produce the anti-cancer nutrient,	
+T-1041	fruits	fruits	vegetables	vegetables	and	
 T-1041	cruciferous vegetables	cruciferous vegetables	mood	mood	may boost	
 T-1041	kale	kale	antioxidants	antioxidants	is a good source of	
-T-1041	vegetables	vegetables	dna	dna	may boost mood, lower cholesterol, prevent	
-T-1041	kidney cancer	kidney cancer	risk	risk	) increase cancer survival rates, and reduce the	
-T-1041	kale	kale	calcium	calcium	is a good source of antioxidants,	
-T-1041	cancer	cancer	cancer	cancer	(like breast and kidney	
-T-1041	cancer	cancer	cancer survival	cancer survival	(like breast and kidney cancer) increase	
-T-1041	kale	kale	cooking	cooking	and then waiting at least 40 minutes before	
-T-1041	risk	risk	kale	kale	of chronic age-related diseases.	
-T-1041	cruciferous vegetables	cruciferous vegetables	dna damage	dna damage	may boost mood, lower cholesterol, prevent	
-T-1041	kale	kale	nitrates	nitrates	is a good source of antioxidants, calcium,	
-T-1041	fruits	fruits	vegetables	vegetables	and	
-T-1041	kidney	kidney	cancer survival	cancer survival	cancer) increase	
-T-1041	cruciferous vegetables	cruciferous vegetables	dna	dna	may boost mood, lower cholesterol, prevent	
+T-1041	lutein	lutein	zeaxanthin	zeaxanthin	and	

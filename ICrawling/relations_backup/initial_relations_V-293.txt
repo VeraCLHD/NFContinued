@@ -1,93 +1,28 @@
 
-V-293	plant-based	plant-based	arthritis	arthritis	diets for rheumatoid	
-V-293	antibodies	antibodies	lead	lead	against the organism, should	
 V-293	women	women	arthritis	arthritis	seem to get rheumatoid	
 V-293	bacteria	bacteria	proteus mirabilis	proteus mirabilis	called	
-V-293	plant-based diets	plant-based diets	arthritis	arthritis	for rheumatoid	
-V-293	protein	protein	bacteria	bacteria	on the strep	
-V-293	vegan diets	vegan diets	flora	flora	work too, changing the intestinal	
+V-293	arthritis	arthritis	infection	infection	might be triggered by an	
 V-293	rheumatoid arthritis	rheumatoid arthritis	infection	infection	might be triggered by an	
-V-293	arthritis	arthritis	diet	diet	sufferers on that kind of	
-V-293	plant-based	plant-based	diet	diet		
-V-293	intestinal flora	intestinal flora	arthritis	arthritis	and improving rheumatoid	
 V-293	lignans	lignans	plant-based	plant-based	 protected people eating more	
 V-293	disease	disease	fever	fever	called rheumatic	
-V-293	raw	raw	vegan diets	vegan diets		
 V-293	immune system	immune system	bacteria	bacteria	attacks the strep	
 V-293	bacteria	bacteria	protein	protein	is mimicking a	
-V-293	bacteria	bacteria	protein	protein	that has a	
 V-293	infections	infections	fecal flora	fecal flora	originate from the	
-V-293	bugs	bugs	colon	colon	in one’s	
-V-293	urine	urine	arthritis	arthritis	of rheumatoid	
-V-293	vegetarian	vegetarian	diet	diet		
-V-293	diet	diet	rheumatoid arthritis	rheumatoid arthritis	have to do with inflammatory joint disease?well,	
-V-293	bugs	bugs	bladder	bladder	crawl up from the rectum into the	
 V-293	gut flora	gut flora	raw	raw	were done using	
-V-293	arthritis	arthritis	bacteria	bacteria	sufferers, and lo and behold found this	
-V-293	urinary tract infections	urinary tract infections	fecal flora	fecal flora	originate from the	
-V-293	gut	gut	vegan	vegan	flora were done using raw	
-V-293	vegetarian	vegetarian	vegan	vegan	and	
-V-293	symptoms	symptoms	uti	uti	of a	
-V-293	plant-based diets	plant-based diets	antibodies	antibodies	brought down anti-proteus	
-V-293	gut flora	gut flora	vegan	vegan	were done using raw	
-V-293	lignans	lignans	vegetarian	vegetarian	in the urine of those eating	
-V-293	flora	flora	raw vegan	raw vegan	were done using	
-V-293	almonds	almonds	vegan	vegan	and fermented cucumber juice.thankfully, regular vegetarian and	
-V-293	urine	urine	rheumatoid arthritis	rheumatoid arthritis	of	
-V-293	vegan	vegan	intestinal flora	intestinal flora	diets work too, changing the	
-V-293	flora	flora	vegan	vegan	were done using raw	
-V-293	flora	flora	vegan diets	vegan diets	were done using raw	
-V-293	flora	flora	raw	raw	were done using	
-V-293	disease	disease	arthritis	arthritis	?well, rheumatoid	
-V-293	plant-based	plant-based	antibodies	antibodies	diet showed a significant drop in anti-proteus mirabilis	
-V-293	intestinal flora	intestinal flora	rheumatoid arthritis	rheumatoid arthritis	and improving	
-V-293	vegan diets	vegan diets	rheumatoid arthritis	rheumatoid arthritis	work too, changing the intestinal flora and improving	
-V-293	rheumatoid arthritis	rheumatoid arthritis	disease	disease	is a chronic systemic autoimmune	
-V-293	infections	infections	flora	flora	originate from the fecal	
-V-293	flora	flora	arthritis	arthritis	and improving rheumatoid	
-V-293	plant-based	plant-based	lignans	lignans	from getting cancer, but now we know	
-V-293	rheumatoid arthritis	rheumatoid arthritis	bacteria	bacteria	sufferers, and lo and behold found this	
-V-293	rheumatoid arthritis	rheumatoid arthritis	diet	diet	sufferers on that kind of	
-V-293	infections	infections	bugs	bugs	originate from the fecal flora; the	
-V-293	arthritis	arthritis	infection	infection	might be triggered by an	
-V-293	gut	gut	vegan diets	vegan diets	flora were done using raw	
-V-293	gut flora	gut flora	vegan diets	vegan diets	were done using raw	
-V-293	vegan diets	vegan diets	intestinal flora	intestinal flora	work too, changing the	
-V-293	almonds	almonds	vegan diets	vegan diets	and fermented cucumber juice.thankfully, regular vegetarian and	
-V-293	antibodies	antibodies	bacteria	bacteria	against the	
-V-293	vegan	vegan	flora	flora	diets work too, changing the intestinal	
-V-293	vegetarian	vegetarian	intestinal flora	intestinal flora	and vegan diets work too, changing the	
-V-293	lignans	lignans	urine	urine	in the	
-V-293	plant-based	plant-based	antibodies	antibodies	diets brought down anti-proteus	
-V-293	plant-based diets	plant-based diets	vegan	vegan	for rheumatoid arthritis, patients were put on a	
-V-293	diet	diet	antibodies	antibodies	showed a significant drop in anti-proteus mirabilis	
 V-293	vegetarian	vegetarian	vegan diets	vegan diets	and	
 V-293	rheumatoid arthritis	rheumatoid arthritis	disease	disease	is an autoimmune	
-V-293	gut	gut	flora	flora		
-V-293	disease	disease	rheumatoid arthritis	rheumatoid arthritis	?well,	
-V-293	diet	diet	disease	disease	have to do with inflammatory joint	
-V-293	flora	flora	rheumatoid arthritis	rheumatoid arthritis	and improving	
 V-293	urinary tract infections	urinary tract infections	flora	flora	originate from the fecal	
 V-293	diet	diet	gut	gut	reduced urinary or	
-V-293	diet	diet	plant-based	plant-based	at all, the	
-V-293	gut	gut	raw vegan	raw vegan	flora were done using	
-V-293	plant-based	plant-based	cancer	cancer	from getting	
-V-293	gut	gut	raw	raw	flora were done using	
-V-293	urine	urine	lignans	lignans	–for example, higher levels of	
-V-293	plant-based diet	plant-based diet	antibodies	antibodies	showed a significant drop in anti-proteus mirabilis	
-V-293	almonds	almonds	vegetarian	vegetarian	and fermented cucumber juice.thankfully, regular	
-V-293	disease	disease	pain	pain	affecting millions, characterized by persistent	
+V-293	urinary tract infections	urinary tract infections	fecal flora	fecal flora	originate from the	
+V-293	vegetarian	vegetarian	vegan	vegan	and	
 V-293	arthritis	arthritis	disease	disease	is a chronic systemic autoimmune	
-V-293	plant-based	plant-based	rheumatoid arthritis	rheumatoid arthritis	diets for	
 V-293	women	women	rheumatoid arthritis	rheumatoid arthritis	seem to get	
 V-293	gut flora	gut flora	raw vegan	raw vegan	were done using	
-V-293	plant-based diets	plant-based diets	rheumatoid arthritis	rheumatoid arthritis	for	
+V-293	plant-based diets	plant-based diets	antibodies	antibodies	brought down anti-proteus	
+V-293	flora	flora	raw vegan	raw vegan	were done using	
+V-293	urine	urine	rheumatoid arthritis	rheumatoid arthritis	of	
 V-293	arthritis	arthritis	disease	disease	is an autoimmune	
 V-293	infection	infection	women	women	do	
-V-293	urinary tract infections	urinary tract infections	bugs	bugs	originate from the fecal flora; the	
-V-293	raw	raw	vegan	vegan		
-V-293	vegan	vegan	diet	diet		
-V-293	lignans	lignans	cancer	cancer	 protected people eating more plant-based from getting	
-V-293	egg-free	egg-free	diet	diet	lactovegetarian	
-V-293	vegetarian	vegetarian	flora	flora	and vegan diets work too, changing the intestinal	
-V-293	diet	diet	arthritis	arthritis	have to do with inflammatory joint disease?well, rheumatoid	
+V-293	flora	flora	raw	raw	were done using	
+V-293	rheumatoid arthritis	rheumatoid arthritis	disease	disease	is a chronic systemic autoimmune	
+V-293	infections	infections	flora	flora	originate from the fecal	

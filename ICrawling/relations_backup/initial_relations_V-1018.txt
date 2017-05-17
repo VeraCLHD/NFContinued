@@ -1,28 +1,10 @@
 
 V-1018	aging	aging	disease	disease	is a	
-V-1018	lemon	lemon	juice	juice		
-V-1018	superoxide dismutase	superoxide dismutase	vegetarian	vegetarian	gene in the	
-V-1018	fruits	fruits	bananas	bananas	: apples and	
-V-1018	cancer	cancer	disease	disease	and cardiovascular	
-V-1018	cancer	cancer	omnivores	omnivores	and chronic cardiovascular disease, compared to	
-V-1018	cancer	cancer	cardiovascular disease	cardiovascular disease	and chronic	
-V-1018	aging	aging	superoxide dismutase	superoxide dismutase	process.that’s why our bodies have an enzyme called	
-V-1018	vegetarian	vegetarian	diet	diet		
-V-1018	aging	aging	oxidation	oxidation	has been considered the slow	
-V-1018	apples	apples	bananas	bananas	and	
-V-1018	vitamin c	vitamin c	antioxidant	antioxidant	in it, an	
-V-1018	disease	disease	vegetarians	vegetarians	in	
 V-1018	chronic disease	chronic disease	vegetarians	vegetarians	in	
-V-1018	vegetarians	vegetarians	cancer	cancer	live longer; no wonder they have less	
-V-1018	bananas	bananas	antioxidants	antioxidants	turn brown right away—not a lot of	
-V-1018	antioxidants	antioxidants	mitochondria	mitochondria	can’t penetrate through the mitochondrial membrane into the	
-V-1018	oxidant stress	oxidant stress	wrinkles	wrinkles	is why we get	
-V-1018	lemon	lemon	vitamin c	vitamin c	juice, which has	
-V-1018	cancer	cancer	dvd	dvd	before it starts	
-V-1018	energy	energy	plants	plants	by	
-V-1018	lemon	lemon	antioxidant	antioxidant	juice, which has vitamin c in it, an	
+V-1018	aging	aging	oxidation	oxidation	has been considered the slow	
 V-1018	stress	stress	wrinkles	wrinkles	is why we get	
-V-1018	omnivores	omnivores	vegetarians	vegetarians	versus	
-V-1018	cancer	cancer	disease	disease	and chronic cardiovascular	
-V-1018	fat	fat	skin	skin	under the	
+V-1018	bananas	bananas	antioxidants	antioxidants	turn brown right away—not a lot of	
+V-1018	oxidant stress	oxidant stress	wrinkles	wrinkles	is why we get	
+V-1018	apples	apples	bananas	bananas	and	
 V-1018	cancer	cancer	cardiovascular disease	cardiovascular disease	and	
+V-1018	disease	disease	vegetarians	vegetarians	in	

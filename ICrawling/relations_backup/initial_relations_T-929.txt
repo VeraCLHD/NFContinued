@@ -1,27 +1,8 @@
 
-T-929	essential tremor	essential tremor	carcinogen	carcinogen	(see also here), and phip, considered an estrogenic	
-T-929	carcinogen	carcinogen	risk	risk	that may increase breast cancer	
-T-929	carcinogens	carcinogens	cheese	cheese	may be present in eggs,	
-T-929	heterocyclic amines	heterocyclic amines	essential tremor	essential tremor	include harmane, which may cause	
-T-929	carcinogens	carcinogens	supplements	supplements	may be present in eggs, cheese, creatine	
 T-929	vegetables	vegetables	heterocyclic amines	heterocyclic amines	have been shown to reduce the absorption of	
-T-929	poultry	poultry	meat	meat		
-T-929	carcinogen	carcinogen	breast cancer	breast cancer	that may increase	
-T-929	cruciferous vegetables	cruciferous vegetables	heterocyclic amines	heterocyclic amines	have been shown to reduce the absorption of	
-T-929	cooking method	cooking method	carcinogen	carcinogen	in terms of	
-T-929	cancer	cancer	risk	risk		
-T-929	essential tremor	essential tremor	phip	phip	(see also here), and	
-T-929	risk	risk	cancer	cancer	of developing	
-T-929	breast cancer	breast cancer	risk	risk		
-T-929	creatine	creatine	supplements	supplements		
-T-929	cooking	cooking	carcinogen	carcinogen	method in terms of	
-T-929	boiling	boiling	cooking	cooking	appears to be the safest	
-T-929	carcinogens	carcinogens	eggs	eggs	may be present in	
-T-929	muscles	muscles	toxins	toxins	are not the only source of these	
-T-929	meat	meat	cancer	cancer	can do to reduce the risk of developing	
 T-929	heterocyclic amines	heterocyclic amines	harmane	harmane	include	
+T-929	carcinogens	carcinogens	eggs	eggs	may be present in	
 T-929	phip	phip	melqx	melqx	and	
 T-929	meat	meat	risk	risk	can do to reduce the	
-T-929	boiling	boiling	cooking method	cooking method	appears to be the safest	
-T-929	carcinogens	carcinogens	creatine	creatine	may be present in eggs, cheese,	
-T-929	carcinogen	carcinogen	cancer	cancer	that may increase breast	
+T-929	cruciferous vegetables	cruciferous vegetables	heterocyclic amines	heterocyclic amines	have been shown to reduce the absorption of	
+T-929	muscles	muscles	toxins	toxins	are not the only source of these	

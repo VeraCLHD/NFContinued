@@ -1,25 +1,8 @@
 
-T-220	antioxidants	antioxidants	vitamin c	vitamin c	like beta-carotene and	
-T-220	diet	diet	bacterial vaginosis	bacterial vaginosis	could also help prevent	
-T-220	dna	dna	oxidative stress	oxidative stress	damage and	
-T-220	carotenoid	carotenoid	fruits	fruits	levels; adding a few servings of	
+T-220	vitamin c	vitamin c	diet	diet	taken from	
+T-220	diet	diet	asthma	asthma	reduced	
 T-220	potatoes	potatoes	skin	skin	would be to boil them with their	
-T-220	dna damage	dna damage	stress	stress	and oxidative	
+T-220	fruits	fruits	vegetables	vegetables	and	
 T-220	asthma	asthma	carotenoid	carotenoid	had lower circulating	
-T-220	vegetables	vegetables	asthma	asthma	to the diet reduced	
 T-220	sweet potatoes	sweet potatoes	skin	skin	would be to boil them with their	
 T-220	dna damage	dna damage	oxidative stress	oxidative stress	and	
-T-220	fruits	fruits	asthma	asthma	and vegetables to the diet reduced	
-T-220	vitamin c	vitamin c	diet	diet	taken from	
-T-220	vegetables	vegetables	diet	diet	to the	
-T-220	carotenoid	carotenoid	vegetables	vegetables	levels; adding a few servings of fruits and	
-T-220	diet	diet	vaginosis	vaginosis	could also help prevent bacterial	
-T-220	dna	dna	stress	stress	damage and oxidative	
-T-220	diet	diet	asthma	asthma	reduced	
-T-220	vitamin c	vitamin c	bacterial vaginosis	bacterial vaginosis	taken from diet could also help prevent	
-T-220	fruits	fruits	vegetables	vegetables	and	
-T-220	vitamin c	vitamin c	vaginosis	vaginosis	taken from diet could also help prevent bacterial	
-T-220	antioxidants	antioxidants	diet	diet	like beta-carotene and vitamin c taken from	
-T-220	cooking	cooking	sweet potatoes	sweet potatoes	matters: the best way to cook	
-T-220	fruits	fruits	diet	diet	and vegetables to the	
-T-220	cooking	cooking	potatoes	potatoes	matters: the best way to cook sweet	

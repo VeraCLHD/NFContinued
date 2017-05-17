@@ -1,49 +1,15 @@
 
-V-419	risk	risk	diabetes	diabetes	of prediabetes turning into full-blown	
 V-419	split peas	split peas	lentils	lentils	and	
-V-419	prediabetes	prediabetes	blood sugar	blood sugar	risk factors, like slimming waistlines and better	
-V-419	risk	risk	metabolic syndrome	metabolic syndrome	factors of the	
-V-419	risk	risk	syndrome	syndrome	for a type of prediabetes known as metabolic	
 V-419	fat	fat	syndrome	syndrome	may be the best way to treat metabolic	
-V-419	syndrome	syndrome	beans	beans	is due to physiological effects of the	
-V-419	peas	peas	diet	diet	and lentils in an ad libitum	
-V-419	risk	risk	syndrome	syndrome	factors of metabolic	
 V-419	obesity	obesity	blood pressure	blood pressure	and	
 V-419	belly fat	belly fat	metabolic syndrome	metabolic syndrome	may be the best way to treat	
 V-419	prediabetes	prediabetes	metabolic syndrome	metabolic syndrome	known as	
 V-419	beans	beans	peas	peas	and	
-V-419	syndrome	syndrome	prediabetes	prediabetes	and reduce the risk of	
-V-419	split peas	split peas	diet	diet	and lentils in an ad libitum	
-V-419	risk	risk	blood sugar	blood sugar	factors, like slimming waistlines and better	
 V-419	prediabetes	prediabetes	diabetes	diabetes	turning into full-blown	
-V-419	metabolic syndrome	metabolic syndrome	prediabetes	prediabetes	and reduce the risk of	
-V-419	prediabetes	prediabetes	risk	risk		
-V-419	peas	peas	lentils	lentils	and	
-V-419	belly fat	belly fat	syndrome	syndrome	may be the best way to treat metabolic	
-V-419	diet	diet	lead	lead	and spontaneously	
-V-419	obesity	obesity	blood	blood	and	
-V-419	syndrome	syndrome	risk	risk	and reduce the	
-V-419	blood	blood	diet	diet	sugar control, but the bean	
-V-419	metabolic syndrome	metabolic syndrome	beans	beans	is due to physiological effects of the	
-V-419	sugar	sugar	diet	diet	control, but the bean	
-V-419	lentils	lentils	diet	diet	in an ad libitum	
-V-419	prediabetes	prediabetes	blood	blood	risk factors, like slimming waistlines and better	
-V-419	blood sugar	blood sugar	diet	diet	control, but the bean	
-V-419	risk	risk	metabolic syndrome	metabolic syndrome	factors of	
-V-419	risk	risk	diabetes	diabetes	for type 2	
-V-419	metabolic syndrome	metabolic syndrome	risk	risk	and reduce the	
-V-419	risk	risk	metabolic syndrome	metabolic syndrome	for a type of prediabetes known as	
-V-419	diet	diet	beans	beans	changes, such as the inclusion of	
-V-419	risk	risk	prediabetes	prediabetes	for a type of	
-V-419	risk	risk	sugar	sugar	factors, like slimming waistlines and better blood	
 V-419	fat	fat	metabolic syndrome	metabolic syndrome	may be the best way to treat	
-V-419	prediabetes	prediabetes	sugar	sugar	risk factors, like slimming waistlines and better blood	
-V-419	diabetes	diabetes	diet	diet	since they indicate that simple	
-V-419	risk	risk	syndrome	syndrome	factors of the metabolic	
-V-419	calories	calories	diet	diet	from their daily	
+V-419	peas	peas	lentils	lentils	and	
 V-419	legumes	legumes	risk	risk	appear to only have a fraction of the	
+V-419	belly fat	belly fat	syndrome	syndrome	may be the best way to treat metabolic	
+V-419	obesity	obesity	blood	blood	and	
 V-419	prediabetes	prediabetes	syndrome	syndrome	known as metabolic	
 V-419	risk	risk	prediabetes	prediabetes	of	
-V-419	beans	beans	caloric restriction	caloric restriction	versus	
-V-419	risk	risk	blood	blood	factors, like slimming waistlines and better	
-V-419	blood	blood	sugar	sugar		

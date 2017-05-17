@@ -1,93 +1,31 @@
 
-T-289	glycotoxins	glycotoxins	chicken	chicken	(found mostly in	
-T-289	risk	risk	bmaa	bmaa	of developing alzheimer’s disease, and	
 T-289	algae	algae	produce	produce	can	
-T-289	coffee	coffee	risk	risk	may also reduce the	
-T-289	apple	apple	cognitive performance	cognitive performance	juice did not appear to increase	
-T-289	blue-green algae	blue-green algae	neurotoxins	neurotoxins	can produce	
-T-289	b12	b12	vegans	vegans	deficiency, which is more frequent in	
-T-289	risk	risk	tumor	tumor	of meningioma, the most common type of brain	
-T-289	mortality	mortality	disease	disease	from the	
-T-289	toxoplasma	toxoplasma	americans	americans	is found in lambs; 10% of	
-T-289	worms	worms	sushi	sushi	from	
-T-289	aspirin	aspirin	plants	plants	naturally found in	
-T-289	dairy	dairy	disease	disease	consumption and parkinson’s	
-T-289	fruit	fruit	risk	risk	and vegetable juices had a 76% lower	
+T-289	milk	milk	hormones	hormones	has been found to have especially high levels of	
+T-289	blueberries	blueberries	strawberries	strawberries	and	
+T-289	dentist	dentist	risk	risk	may be associated with an increased	
 T-289	neurotoxins	neurotoxins	fish	fish	in	
 T-289	dementia	dementia	formaldehyde	formaldehyde	may be related to	
 T-289	mercury	mercury	tuna	tuna	is found in	
-T-289	formaldehyde	formaldehyde	contamination	contamination		
 T-289	mercury	mercury	lead	lead	and	
-T-289	risk	risk	phytonutrient	phytonutrient	of developing alzheimer’s, possibly due to	
-T-289	brain damage	brain damage	mothers	mothers	in the children of	
-T-289	tofu	tofu	formaldehyde	formaldehyde	and dementia may be related to	
-T-289	fish	fish	cooking	cooking	that cannot be neutralized with	
-T-289	tofu	tofu	dementia	dementia	and	
-T-289	produce	produce	neurotoxins	neurotoxins		
-T-289	neurotoxic chemicals	neurotoxic chemicals	chicken	chicken	in	
-T-289	glycotoxins	glycotoxins	risk	risk	(found mostly in chicken) may increase the	
-T-289	algae	algae	neurotoxins	neurotoxins	can produce	
-T-289	mediterranean diet	mediterranean diet	risk	risk	may not only reduce	
-T-289	strawberries	strawberries	aging	aging	is associated with delayed cognitive	
-T-289	b12	b12	vegetarians	vegetarians	deficiency, which is more frequent in vegans and	
-T-289	tofu	tofu	contamination	contamination	and dementia may be related to formaldehyde	
-T-289	risk	risk	disease	disease	of developing alzheimer’s	
-T-289	chemicals	chemicals	chicken	chicken	in	
-T-289	chicken	chicken	disease	disease	) may increase the risk of developing alzheimer’s	
-T-289	brain damage	brain damage	children	children	in the	
-T-289	risk	risk	meningioma	meningioma	of	
-T-289	vegans	vegans	omnivores	omnivores	and vegetarians than	
-T-289	diet	diet	risk	risk	may not only reduce	
-T-289	chicken	chicken	risk	risk	) may increase the	
-T-289	meat	meat	essential tremor	essential tremor	consumption and the common neurological disorder	
-T-289	mercury	mercury	fish	fish	is found in tuna and	
-T-289	tuna	tuna	fish	fish	and	
-T-289	juice	juice	cognitive performance	cognitive performance	did not appear to increase	
-T-289	fish	fish	pregnant	pregnant	consumption for a year before they get	
-T-289	pregnant	pregnant	pregnancy	pregnancy	in addition to just during	
-T-289	fruits	fruits	vegetables	vegetables	and	
-T-289	children	children	mercury	mercury	of mothers who ingest	
-T-289	medications	medications	mercury	mercury	have also been found to be contaminated with	
-T-289	neuropathy	neuropathy	children	children	as well as neurocognitive deficits in	
-T-289	children	children	mothers	mothers	of	
-T-289	mothers	mothers	mercury	mercury	who ingest	
-T-289	dentist	dentist	meningioma	meningioma	may be associated with an increased risk of	
-T-289	children	children	pregnant	pregnant	of mothers who ingest mercury while	
-T-289	variety	variety	diet	diet	and quantity in the	
-T-289	blueberries	blueberries	strawberries	strawberries	and	
-T-289	chemicals	chemicals	beta-carboline alkaloids	beta-carboline alkaloids	in chicken, including	
-T-289	dentist	dentist	risk	risk	may be associated with an increased	
-T-289	blueberries	blueberries	aging	aging	and strawberries is associated with delayed cognitive	
-T-289	skin	skin	sushi	sushi	worms from	
-T-289	curcumin	curcumin	symptoms	symptoms	supplements, was found to alleviate alzheimer patients’	
-T-289	omega-3 fatty acids	omega-3 fatty acids	health	health	our brain needs for optimal	
 T-289	vegans	vegans	vegetarians	vegetarians	and	
-T-289	mothers	mothers	pregnant	pregnant	who ingest mercury while	
-T-289	contamination	contamination	brain damage	brain damage	has also been linked to lower iqs and	
-T-289	dementia	dementia	disease	disease	and alzheimer’s	
-T-289	mercury	mercury	contamination	contamination		
-T-289	mercury	mercury	cognition	cognition	can result in microcephaly, impaired	
-T-289	risk	risk	mortality	mortality	of alzheimer’s, but may also reduce	
-T-289	vegetarians	vegetarians	omnivores	omnivores	than	
+T-289	tofu	tofu	dementia	dementia	and	
 T-289	coconut oil	coconut oil	disease	disease	helps with alzheimer’s	
+T-289	neurotoxic chemicals	neurotoxic chemicals	chicken	chicken	in	
 T-289	blue-green algae	blue-green algae	produce	produce	can	
 T-289	women	women	fish	fish	may want to avoid polluted	
-T-289	apple	apple	juice	juice		
+T-289	mediterranean diet	mediterranean diet	risk	risk	may not only reduce	
 T-289	ellagic acid	ellagic acid	berries	berries	may play a role in the ability of	
-T-289	dehydration	dehydration	tapeworms	tapeworms	may impair cognitive functions.pork	
-T-289	prevention	prevention	disease	disease	of alzheimer’s	
-T-289	skin	skin	worms	worms		
-T-289	chickens	chickens	neuropathy	neuropathy	and may be related to	
-T-289	neurotoxins	neurotoxins	cooking	cooking	in fish that cannot be neutralized with	
+T-289	strawberries	strawberries	aging	aging	is associated with delayed cognitive	
 T-289	apple juice	apple juice	cognitive performance	cognitive performance	did not appear to increase	
 T-289	mercury	mercury	microcephaly	microcephaly	can result in	
-T-289	migraines	migraines	headaches	headaches	or chronic tension	
-T-289	neurotoxic chemicals	neurotoxic chemicals	beta-carboline alkaloids	beta-carboline alkaloids	in chicken, including	
-T-289	curcumin	curcumin	supplements	supplements		
-T-289	x-rays	x-rays	dentist	dentist	at the	
-T-289	dementia	dementia	contamination	contamination	may be related to formaldehyde	
-T-289	epilepsy	epilepsy	migraines	migraines	(see also here), and may present as	
+T-289	chemicals	chemicals	chicken	chicken	in	
+T-289	risk	risk	meningioma	meningioma	of	
+T-289	diet	diet	risk	risk	may not only reduce	
+T-289	tuna	tuna	fish	fish	and	
+T-289	juice	juice	cognitive performance	cognitive performance	did not appear to increase	
+T-289	fruits	fruits	vegetables	vegetables	and	
 T-289	arsenic	arsenic	chickens	chickens	is fed to	
 T-289	plants	plants	aspirin	aspirin	may explain the presence of	
-T-289	brain damage	brain damage	mercury	mercury	in the children of mothers who ingest	
+T-289	skim milk	skim milk	hormones	hormones	has been found to have especially high levels of	
 T-289	aluminum	aluminum	cheese	cheese	is added to processed	
+T-289	children	children	mothers	mothers	of	

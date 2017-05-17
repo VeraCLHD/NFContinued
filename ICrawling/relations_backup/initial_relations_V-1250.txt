@@ -1,16 +1,3 @@
 
-V-1250	antioxidants	antioxidants	nuts	nuts	than cloves, since the serving size of	
-V-1250	cloves	cloves	oregano	oregano	—and	
-V-1250	nuts	nuts	antioxidant	antioxidant	before—the new reigning	
-V-1250	nuts	nuts	antioxidants	antioxidants	actually have more	
-V-1250	goji	goji	berries	berries		
-V-1250	antioxidant	antioxidant	blueberries	blueberries	power of	
-V-1250	herbs	herbs	spices	spices	and	
-V-1250	nuts	nuts	pomegranates	pomegranates	before—the new reigning antioxidant champs—with	
-V-1250	goji	goji	fruits	fruits	berries, and all these exotic new 	
-V-1250	blueberries	blueberries	fruits	fruits	as the healthiest	
-V-1250	antioxidant	antioxidant	pomegranates	pomegranates	champs—with	
-V-1250	antioxidants	antioxidants	cloves	cloves	than	
-V-1250	blueberries	blueberries	kale	kale	as the healthiest fruits, and	
 V-1250	fruits	fruits	vegetables	vegetables	and	
-V-1250	nuts	nuts	cloves	cloves	actually have more antioxidants than	
+V-1250	herbs	herbs	spices	spices	and	

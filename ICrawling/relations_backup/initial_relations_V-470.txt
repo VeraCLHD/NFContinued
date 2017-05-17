@@ -1,44 +1,8 @@
 
-V-470	colon cancer	colon cancer	death	death	is the second leading cause of cancer	
-V-470	cancer	cancer	red meat	red meat	for higher intakes of “both	
-V-470	red meat	red meat	white meat	white meat	and	
-V-470	standard american diet	standard american diet	iron	iron	may be a double whammy—the heme	
-V-470	meat	meat	white meat	white meat	and	
-V-470	heme iron	heme iron	meat	meat	in muscle	
-V-470	meat	meat	risk	risk	eaters, and three times the	
-V-470	colon	colon	cancer	cancer	[ic]	
-V-470	red meat	red meat	risk	risk	eaters, and three times the	
-V-470	cancer	cancer	cancer	cancer	is the second leading cause of	
-V-470	colon	colon	death	death	cancer is the second leading cause of cancer	
-V-470	cancer prevention	cancer prevention	diet	diet	strongly acknowledges the importance of	
-V-470	plant foods	plant foods	iron	iron	to extinguish those	
-V-470	meat	meat	meats	meats	and white meat,” suggesting “all	
-V-470	red meat	red meat	meats	meats	and white meat,” suggesting “all	
-V-470	risk	risk	meat	meat	for red	
-V-470	iron	iron	meat	meat	in muscle	
-V-470	cancer	cancer	diet	diet	prevention strongly acknowledges the importance of	
-V-470	cancer	cancer	meat	meat	for higher intakes of “both red	
-V-470	risk	risk	cancer	cancer	of	
-V-470	colon	colon	cancer	cancer		
-V-470	standard american diet	standard american diet	heme iron	heme iron	may be a double whammy—the	
-V-470	red meat	red meat	meat	meat	and white	
-V-470	risk	risk	cancer	cancer	factors for	
-V-470	cancer	cancer	white meat	white meat	for higher intakes of “both red meat and	
 V-470	chicken	chicken	fish	fish	and	
-V-470	meat	meat	colon	colon	and white meat,” suggesting “all meats contribute to…	
-V-470	prevention	prevention	diet	diet	strongly acknowledges the importance of	
-V-470	cancer	cancer	plant-based	plant-based	rates among	
-V-470	cancer	cancer	death	death	is the second leading cause of cancer	
-V-470	red meat	red meat	colon	colon	and white meat,” suggesting “all meats contribute to…	
-V-470	risk	risk	red meat	red meat	for	
-V-470	diet	diet	heme iron	heme iron	may be a double whammy—the	
-V-470	risk	risk	meat	meat	in two ways—by cutting down on	
+V-470	red meat	red meat	white meat	white meat	and	
 V-470	meat	meat	risk	risk	could reduce their	
-V-470	diet	diet	iron	iron	may be a double whammy—the heme	
-V-470	risk	risk	red meat	red meat	of cancer for higher intakes of “both	
-V-470	risk	risk	meat	meat	of cancer for higher intakes of “both red	
-V-470	cancer	cancer	prevention	prevention		
-V-470	meats	meats	cancer	cancer	contribute to…colon [	
+V-470	meat	meat	white meat	white meat	and	
+V-470	risk	risk	cancer	cancer	of	
 V-470	fiber	fiber	plant foods	plant foods	isn’t the only thing only found in whole	
 V-470	meats	meats	colon	colon	contribute to…	
-V-470	colon cancer	colon cancer	cancer	cancer	is the second leading cause of	

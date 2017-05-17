@@ -1,21 +1,3 @@
 
-V-910	calories	calories	snacks	snacks	worth of	
 V-910	health	health	postmenopausal	postmenopausal	in	
-V-910	calories	calories	diet	diet	worth of snacks to their daily	
-V-910	berries	berries	apple	apple	at the top.they also analyzed dried	
-V-910	postmenopausal	postmenopausal	women	women		
-V-910	goji	goji	apple	apple	berries at the top.they also analyzed dried	
-V-910	snacks	snacks	diet	diet	to their daily	
-V-910	goji	goji	berries	berries		
-V-910	apple	apple	bad cholesterol	bad cholesterol	rings a day for a year saw their	
-V-910	cherries	cherries	goji	goji	(through the roof), with	
-V-910	goji berries	goji berries	apple	apple	at the top.they also analyzed dried	
-V-910	cherries	cherries	goji berries	goji berries	(through the roof), with	
-V-910	dried fruit	dried fruit	nutrition	nutrition	is convenient, packed with	
-V-910	cherries	cherries	berries	berries	(through the roof), with goji	
-V-910	nutrition	nutrition	apple	apple	conference, suggesting that daily dried	
 V-910	cardiovascular health	cardiovascular health	postmenopausal	postmenopausal	in	
-V-910	health	health	women	women	in postmenopausal	
-V-910	cardiovascular health	cardiovascular health	women	women	in postmenopausal	
-V-910	fruit	fruit	nutrition	nutrition	is convenient, packed with	
-V-910	nutrition	nutrition	cardiovascular health	cardiovascular health	conference, suggesting that daily dried apple consumption promotes	

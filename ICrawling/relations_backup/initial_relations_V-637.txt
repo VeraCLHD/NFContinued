@@ -1,69 +1,15 @@
 
-V-637	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of [getting]	
-V-637	ulcerative colitis	ulcerative colitis	disease	disease	and crohn’s	
-V-637	chewing	chewing	marshmallows	marshmallows	gums,	
-V-637	endotoxins	endotoxins	gut	gut	from the inside of our	
-V-637	protein	protein	fish	fish	from meat and	
-V-637	coffee	coffee	cheese	cheese	whitener, white	
-V-637	risk	risk	disease	disease	of inflammatory bowel	
-V-637	titanium dioxide	titanium dioxide	cheese	cheese	(coffee whitener, white	
-V-637	chewing	chewing	doughnuts	doughnuts	gums, marshmallows, powdered	
-V-637	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of	
-V-637	cooking	cooking	meats	meats	muscle; or, added to processed	
-V-637	meats	meats	arachidonic acid	arachidonic acid	intentionally; and then, of course, there’s the	
-V-637	diet	diet	disease	disease	had a significant decrease in	
-V-637	animal protein	animal protein	fish	fish	from meat and	
-V-637	processed meats	processed meats	fish	fish	and	
-V-637	colon	colon	cancer	cancer		
-V-637	blood	blood	carbon monoxide	carbon monoxide	components in meat, that degrade into	
-V-637	processed meats	processed meats	microparticles	microparticles	and fish, fearing that they had	
-V-637	protein	protein	risk	risk	” may be associated with not only “increased	
 V-637	meat	meat	intestinal flora	intestinal flora	may even be mucking with people’s	
-V-637	titanium dioxide	titanium dioxide	sugar	sugar	(coffee whitener, white cheese, powdered	
-V-637	meat	meat	seafood	seafood	and	
-V-637	diet	diet	disease	disease	and [the] risk of inflammatory bowel	
-V-637	risk	risk	ulcerative colitis	ulcerative colitis	of inflammatory bowel disease, such as	
-V-637	processed foods	processed foods	doughnuts	doughnuts	(like crispy shell chewing gums, marshmallows, powdered	
-V-637	carcinogens	carcinogens	processed meats	processed meats	 created by cooking muscle; or, added to	
-V-637	titanium dioxide	titanium dioxide	powdered sugar	powdered sugar	(coffee whitener, white cheese,	
-V-637	carcinogens	carcinogens	meats	meats	 created by cooking muscle; or, added to processed	
-V-637	carcinogens	carcinogens	cooking	cooking	 created by	
-V-637	microparticles	microparticles	diet	diet	out of their	
-V-637	animal protein	animal protein	risk	risk	” may be associated with not only “increased	
-V-637	microparticles	microparticles	titanium dioxide	titanium dioxide	such as	
-V-637	diet	diet	protein	protein	high in…animal	
-V-637	processed meat	processed meat	seafood	seafood	and	
-V-637	antibiotics	antibiotics	intestinal flora	intestinal flora	in meat may even be mucking with people’s	
-V-637	diet	diet	risk	risk	and [the]	
-V-637	sugar	sugar	fish	fish	), they also removed processed meats and	
-V-637	cooking	cooking	processed meats	processed meats	muscle; or, added to	
-V-637	sugar	sugar	meats	meats	), they also removed processed	
-V-637	powdered sugar	powdered sugar	fish	fish	), they also removed processed meats and	
-V-637	fish	fish	risk	risk	was found most “associated with a higher	
-V-637	powdered sugar	powdered sugar	meats	meats	), they also removed processed	
-V-637	antibiotics	antibiotics	meat	meat	in	
-V-637	coffee	coffee	sugar	sugar	whitener, white cheese, powdered	
-V-637	sugar	sugar	processed meats	processed meats	), they also removed	
-V-637	processed foods	processed foods	chewing gums	chewing gums	(like crispy shell	
-V-637	meats	meats	microparticles	microparticles	and fish, fearing that they had	
-V-637	meats	meats	fish	fish	and	
-V-637	animal protein	animal protein	meat	meat	from	
-V-637	meat	meat	bacteria	bacteria	contains huge amounts of certain	
-V-637	diet	diet	inflammatory bowel disease	inflammatory bowel disease	and [the] risk of	
-V-637	coffee	coffee	powdered sugar	powdered sugar	whitener, white cheese,	
-V-637	titanium dioxide	titanium dioxide	gut	gut	itself is inert, nontoxic, in the	
 V-637	meat	meat	fish	fish	and	
-V-637	risk	risk	disease	disease	of [getting] inflammatory bowel	
-V-637	processed foods	processed foods	marshmallows	marshmallows	(like crispy shell chewing gums,	
-V-637	blood	blood	meat	meat	components in	
+V-637	meat	meat	seafood	seafood	and	
+V-637	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of	
+V-637	fish	fish	risk	risk	was found most “associated with a higher	
 V-637	meat	meat	flora	flora	may even be mucking with people’s intestinal	
-V-637	processed foods	processed foods	chewing	chewing	(like crispy shell	
-V-637	diet	diet	animal protein	animal protein	high in…	
-V-637	powdered sugar	powdered sugar	processed meats	processed meats	), they also removed	
-V-637	coffee	coffee	processed meats	processed meats	whitener, white cheese, powdered sugar), they also removed	
-V-637	bacteria	bacteria	inflammation	inflammation	that have been linked to	
+V-637	diet	diet	disease	disease	had a significant decrease in	
+V-637	antibiotics	antibiotics	meat	meat	in	
+V-637	carcinogens	carcinogens	cooking	cooking	 created by	
+V-637	processed meats	processed meats	fish	fish	and	
 V-637	diet	diet	disease	disease	was highly effective in preventing relapses in crohn’s	
-V-637	titanium dioxide	titanium dioxide	inflammation	inflammation	to see if it would cause	
-V-637	antibiotics	antibiotics	flora	flora	in meat may even be mucking with people’s intestinal	
-V-637	protein	protein	meat	meat	from	
-V-637	processed meats	processed meats	arachidonic acid	arachidonic acid	intentionally; and then, of course, there’s the	
+V-637	meats	meats	fish	fish	and	
+V-637	meat	meat	bacteria	bacteria	contains huge amounts of certain	
+V-637	processed meat	processed meat	seafood	seafood	and	

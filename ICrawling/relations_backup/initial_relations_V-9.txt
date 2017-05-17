@@ -1,49 +1,6 @@
 
-V-9	cell death	cell death	chemo	chemo	)—while leaving normal cells alone.there’s lots of	
-V-9	disease	disease	death	death	], stroke,” and premature	
-V-9	prevention	prevention	dna damage	dna damage	and/or repair of	
-V-9	cancer cells	cancer cells	cell death	cell death	to commit suicide—apoptosis (programmed	
-V-9	green tea	green tea	mortality	mortality	a day associated with a 4% lower	
-V-9	japanese	japanese	tea	tea		
-V-9	dna damage	dna damage	green tea	green tea	was…lower” after drinking	
-V-9	risk	risk	death	death	of [heart disease], stroke,” and premature	
-V-9	chemo	chemo	cancer	cancer	agents that can kill	
-V-9	green tea	green tea	risk	risk	a day associated with a 4% lower mortality	
-V-9	dna	dna	cancer	cancer	and so decrease [the] risk of	
-V-9	tea	tea	mortality	mortality	a day associated with a 4% lower	
-V-9	cancer	cancer	side effects	side effects	prevention: “little or no adverse	
-V-9	dna	dna	tea	tea	damage was…lower” after drinking green	
-V-9	prevention	prevention	dna	dna	and/or repair of	
-V-9	heart disease	heart disease	death	death	], stroke,” and premature	
-V-9	cancer	cancer	green tea	green tea	growth, at a dose of	
-V-9	green tea	green tea	cancer	cancer	appears to be potentially an ideal agent” for	
-V-9	mortality	mortality	risk	risk		
+V-9	cancer	cancer	tea	tea	appeared to get it seven years later if they had been drinking lots of	
 V-9	risk	risk	cancer	cancer	of	
-V-9	smoking	smoking	tea	tea	habits.green	
-V-9	women	women	cancer	cancer	that did get	
-V-9	risk	risk	disease	disease	of [heart	
-V-9	tea	tea	cancer	cancer	appears to be potentially an ideal agent” for	
-V-9	risk	risk	stroke	stroke	of [heart disease],	
 V-9	dna damage	dna damage	tea	tea	was…lower” after drinking green	
-V-9	cancer	cancer	tea	tea	growth, at a dose of green	
-V-9	suicide	suicide	cell death	cell death	—apoptosis (programmed	
-V-9	death	death	chemo	chemo	)—while leaving normal cells alone.there’s lots of	
-V-9	green tea	green tea	prevention	prevention	[may have] additional benefits in the	
-V-9	pain	pain	mouthwash	mouthwash	control as a	
-V-9	prevention	prevention	side effects	side effects	: “little or no adverse	
-V-9	dna	dna	risk	risk	and so decrease [the]	
-V-9	cancer prevention	cancer prevention	side effects	side effects	: “little or no adverse	
-V-9	pain	pain	surgery	surgery	control as a mouthwash after wisdom tooth	
-V-9	cancer cells	cancer cells	death	death	to commit suicide—apoptosis (programmed cell	
-V-9	death	death	green tea	green tea	in general, with each additional cup of	
-V-9	tea	tea	prevention	prevention	[may have] additional benefits in the	
-V-9	cancer cells	cancer cells	suicide	suicide	to commit	
-V-9	death	death	tea	tea	in general, with each additional cup of green	
-V-9	tea	tea	risk	risk	a day associated with a 4% lower mortality	
-V-9	suicide	suicide	death	death	—apoptosis (programmed cell	
-V-9	mouthwash	mouthwash	surgery	surgery	after wisdom tooth	
-V-9	tea	tea	cancer prevention	cancer prevention	appears to be potentially an ideal agent” for	
-V-9	cancer	cancer	prevention	prevention		
-V-9	green tea	green tea	cancer prevention	cancer prevention	appears to be potentially an ideal agent” for	
-V-9	risk	risk	heart disease	heart disease	of [	
-V-9	dna	dna	green tea	green tea	damage was…lower” after drinking	
+V-9	dna damage	dna damage	green tea	green tea	was…lower” after drinking	
+V-9	cancer	cancer	dna	dna	is often initiated when a free radical oxidizes our	

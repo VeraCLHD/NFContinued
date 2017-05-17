@@ -1,84 +1,14 @@
 
-V-599	risk	risk	estrogen	estrogen	of dying nearly in half—	
-V-599	cancer	cancer	red wine	red wine	risk associated with [the] alcohol intake [in the	
-V-599	risk	risk	plant foods	plant foods	of cancer?if you manage your weight, eat more	
-V-599	alcohol	alcohol	wine	wine	intake [in the red	
-V-599	standard american diet	standard american diet	sugar	sugar	high in meat, dairy, fat, and	
-V-599	red wine	red wine	aromatase	aromatase	may serve as a nutritional [	
-V-599	women	women	cancer	cancer	with breast	
-V-599	risk	risk	cancer	cancer	of breast	
-V-599	diet	diet	fat	fat	high in meat, dairy,	
-V-599	standard american diet	standard american diet	dairy	dairy	high in meat,	
-V-599	harvard	harvard	risk	risk	women’s health study, suggest less or even no	
-V-599	aromatase	aromatase	breast cancer	breast cancer	inhibitor], which may ameliorate the elevated	
-V-599	wine	wine	aromatase	aromatase	may serve as a nutritional [	
-V-599	diet	diet	meat	meat	high in	
-V-599	breast cancer	breast cancer	alcohol	alcohol	risk associated with [the]	
-V-599	cancer	cancer	risk	risk	prevention, does it actually reduce your	
-V-599	aromatase	aromatase	estrogen	estrogen	—the enzyme used by breast tumors to produce their own	
-V-599	risk	risk	alcohol	alcohol	associated with [the]	
-V-599	cancer	cancer	alcohol	alcohol	risk associated with [the]	
-V-599	cancer	cancer	risk	risk	may cut their	
-V-599	breast cancer	breast cancer	risk	risk		
-V-599	women	women	breast cancer	breast cancer	with	
-V-599	risk	risk	cancer	cancer	of	
-V-599	women	women	cancer	cancer	may cut their odds of breast	
-V-599	alcohol	alcohol	red wine	red wine	intake [in the	
-V-599	risk	risk	esophageal cancer	esophageal cancer	for liver cancer,	
-V-599	light drinking	light drinking	breast cancer	breast cancer	can increase	
-V-599	risk	risk	cancer	cancer	for liver	
-V-599	risk	risk	liver	liver	for	
-V-599	standard american diet	standard american diet	meat	meat	high in	
-V-599	strawberries	strawberries	grapes	grapes	get the silver, but	
-V-599	kidney	kidney	stomach cancer	stomach cancer	cancer,	
-V-599	health	health	risk	risk	study, suggest less or even no	
-V-599	kidney	kidney	stomach	stomach	cancer,	
-V-599	stomach	stomach	cancer	cancer		
-V-599	liver	liver	cancer	cancer		
-V-599	harvard	harvard	health	health	women’s	
-V-599	aromatase	aromatase	risk	risk	inhibitor], which may ameliorate the elevated breast cancer	
-V-599	risk	risk	red wine	red wine	from	
-V-599	fruits	fruits	vegetables	vegetables	and 	
-V-599	breast cancer	breast cancer	women	women	in half, and older	
-V-599	grapes	grapes	white wine	white wine	used to make	
-V-599	fruits	fruits	alcohol	alcohol	); #3, avoidance of tobacco; #4, avoidance of	
-V-599	health	health	red wine	red wine	study, suggest less or even no risk from	
-V-599	liver	liver	esophageal cancer	esophageal cancer	cancer,	
-V-599	grapes	grapes	wine	wine	used to make white	
-V-599	risk	risk	wine	wine	associated with [the] alcohol intake [in the red	
-V-599	aromatase	aromatase	produce	produce	—the enzyme used by breast tumors to	
-V-599	aromatase	aromatase	cancer	cancer	inhibitor], which may ameliorate the elevated breast	
-V-599	fruits	fruits	vegetables	vegetables	and	
-V-599	harvard	harvard	women	women		
-V-599	women	women	alcohol	alcohol	who refuse to eliminate	
-V-599	kidney	kidney	cancer	cancer		
-V-599	produce	produce	estrogen	estrogen	 their own	
 V-599	diet	diet	cancer	cancer	and	
+V-599	women	women	breast cancer	breast cancer	scoring higher on those four things may cut their odds of getting	
 V-599	women	women	breast cancer	breast cancer	may cut their odds of	
-V-599	dietary guidelines	dietary guidelines	risk	risk	for cancer prevention, does it actually reduce your	
-V-599	dietary guidelines	dietary guidelines	cancer	cancer	for	
 V-599	carcinogen	carcinogen	fruit	fruit	is not eating your 	
-V-599	light drinking	light drinking	risk	risk	can increase breast cancer	
-V-599	dietary guidelines	dietary guidelines	cancer prevention	cancer prevention	for	
-V-599	cancer	cancer	risk	risk		
-V-599	placenta	placenta	fruit	fruit	experiments with	
-V-599	risk	risk	red wine	red wine	associated with [the] alcohol intake [in the	
+V-599	grapes	grapes	white wine	white wine	used to make	
+V-599	risk	risk	alcohol	alcohol	associated with [the]	
+V-599	cancer	cancer	risk	risk	may cut their	
 V-599	breast cancer	breast cancer	risk	risk	may cut their	
-V-599	standard american diet	standard american diet	fat	fat	high in meat, dairy,	
-V-599	risk	risk	wine	wine	from red	
-V-599	aromatase	aromatase	tumors	tumors	—the enzyme used by breast	
-V-599	women	women	risk	risk	with breast cancer may cut their	
-V-599	tumors	tumors	produce	produce	to	
-V-599	placenta	placenta	strawberries	strawberries	experiments with fruit,	
-V-599	risk	risk	liver cancer	liver cancer	for	
-V-599	cancer	cancer	cancer	cancer	prevention, does it actually reduce your risk of	
-V-599	diet	diet	sugar	sugar	high in meat, dairy, fat, and	
-V-599	breast cancer	breast cancer	red wine	red wine	risk associated with [the] alcohol intake [in the	
-V-599	cancer	cancer	women	women	in half, and older	
-V-599	tumors	tumors	estrogen	estrogen	to produce their own	
-V-599	fruits	fruits	tobacco	tobacco	); #3, avoidance of	
-V-599	dietary guidelines	dietary guidelines	prevention	prevention	for cancer	
-V-599	cancer	cancer	prevention	prevention		
-V-599	light drinking	light drinking	cancer	cancer	can increase breast	
-V-599	placenta	placenta	grapes	grapes	experiments with fruit, strawberries get the silver, but	
-V-599	diet	diet	dairy	dairy	high in meat,	
+V-599	mushrooms	mushrooms	aromatase	aromatase	were the vegetable best able to suppress the activity of	
+V-599	risk	risk	cancer	cancer	of	
+V-599	grapes	grapes	wine	wine	used to make white	
+V-599	fruits	fruits	vegetables	vegetables	and	
+V-599	light drinking	light drinking	breast cancer	breast cancer	can increase	

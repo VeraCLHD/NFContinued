@@ -1,26 +1,7 @@
 
-V-307	fiber	fiber	blood	blood	helps lower cholesterol and	
-V-307	prevention	prevention	public health	public health	–should therefore be a key	
-V-307	fiber	fiber	cholesterol	cholesterol	helps lower	
-V-307	cholesterol	cholesterol	sugar	sugar	and blood	
-V-307	fiber	fiber	risk	risk	appears to significantly protect against the	
 V-307	risk	risk	stroke	stroke	of	
 V-307	cholesterol	cholesterol	blood sugar	blood sugar	and	
 V-307	fiber	fiber	obesity	obesity	helps prevent	
-V-307	blood	blood	inflammation	inflammation	pressure and the amount of	
-V-307	meat	meat	digestion	digestion	and fat, or improving	
-V-307	stroke	stroke	risk	risk		
-V-307	stroke	stroke	arteries	arteries	might not happen until our 50s, our	
 V-307	cholesterol	cholesterol	blood	blood	and	
-V-307	blood pressure	blood pressure	inflammation	inflammation	and the amount of	
 V-307	meat	meat	fat	fat	and	
-V-307	fiber	fiber	diabetes	diabetes	helps prevent obesity,	
-V-307	prevention	prevention	health	health	–should therefore be a key public	
-V-307	apple	apple	broccoli	broccoli	a day, or an extra quarter cup of	
-V-307	fiber	fiber	blood sugar	blood sugar	helps lower cholesterol and	
-V-307	pasta	pasta	tomato sauce	tomato sauce	with	
-V-307	fiber	fiber	sugar	sugar	helps lower cholesterol and blood	
-V-307	fiber	fiber	stroke	stroke	appears to significantly protect against the risk of	
-V-307	whole grain	whole grain	pasta	pasta		
-V-307	whole grain	whole grain	tomato sauce	tomato sauce	pasta with	
-V-307	blood	blood	sugar	sugar		
+V-307	fiber	fiber	cholesterol	cholesterol	helps lower	

@@ -1,39 +1,4 @@
 
-A-100	ornish	ornish	diet	diet	talks about how	
-A-100	dr. ornish	dr. ornish	diet	diet	talks about how	
-A-100	framingham heart study	framingham heart study	disease	disease	(highlighted in my video, barriers to heart	
-A-100	nutrition	nutrition	cholesterol	cholesterol	therapy as opposed to drugs for high	
-A-100	diet	diet	drugs	drugs	plus	
-A-100	diet	diet	medical profession	medical profession	: but there have been cases of the	
-A-100	prevention	prevention	disease	disease	), the best way to manage coronary artery	
-A-100	medical profession	medical profession	nutrition	nutrition	actively seeking to limit further	
-A-100	disease	disease	risk	risk		
-A-100	drugs	drugs	cancer	cancer	and invasive breast	
-A-100	cardiovascular disease	cardiovascular disease	risk	risk		
-A-100	drugs	drugs	cholesterol	cholesterol	for high	
 A-100	diet	diet	depression	depression	showed significantly greater improvements in	
-A-100	cholesterol	cholesterol	drugs	drugs		
-A-100	drugs	drugs	breast cancer	breast cancer	and invasive	
-A-100	cholesterol	cholesterol	depression	depression	lowering diet showed significantly greater improvements in	
-A-100	fast food	fast food	lipitor	lipitor	: do you want fries with that	
-A-100	framingham heart study	framingham heart study	heart disease	heart disease	(highlighted in my video, barriers to	
-A-100	cholesterol	cholesterol	cancer	cancer	drugs and invasive breast	
-A-100	cholesterol	cholesterol	breast cancer	breast cancer	drugs and invasive	
-A-100	vegetarian	vegetarian	diet	diet		
-A-100	heart disease	heart disease	prevention	prevention		
-A-100	framingham heart study	framingham heart study	heart disease prevention	heart disease prevention	(highlighted in my video, barriers to	
 A-100	health	health	doctors	doctors	remains underestimated by	
-A-100	cholesterol	cholesterol	diet	diet	lowering	
-A-100	diet	diet	doctors	doctors	for patients’ health remains underestimated by	
-A-100	physicians	physicians	diet	diet	just weren’t taught the power of	
-A-100	diet	diet	health	health	for patients’	
-A-100	heart disease prevention	heart disease prevention	disease	disease	), the best way to manage coronary artery	
-A-100	california	california	drugs	drugs	: why not take	
-A-100	ldl	ldl	cholesterol	cholesterol		
-A-100	diet	diet	cholesterol	cholesterol	to reduce	
-A-100	framingham heart study	framingham heart study	prevention	prevention	(highlighted in my video, barriers to heart disease	
-A-100	heart disease	heart disease	disease	disease	prevention), the best way to manage coronary artery	
-A-100	nutrition	nutrition	drugs	drugs	therapy as opposed to	
-A-100	disease	disease	prevention	prevention		
-A-100	cholesterol	cholesterol	vegetarians	vegetarians	ratio under four, but the	
 A-100	diet	diet	drugs	drugs	can be more sustainable than	

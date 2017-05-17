@@ -1,39 +1,10 @@
 
-V-81	risk	risk	disease	disease	didn’t matter, because heart	
-V-81	heart attack	heart attack	breast cancer	breast cancer	rates that would outweigh the extra	
-V-81	women	women	disease	disease	taking estrogens appeared to be protected from heart	
-V-81	heart disease	heart disease	women	women	is the #1 killer of	
-V-81	fiber	fiber	cholesterol	cholesterol	intake and getting their	
-V-81	disease	disease	women	women	is the #1 killer of	
-V-81	breast cancer	breast cancer	disease	disease	risk didn’t matter, because heart	
-V-81	hormones	hormones	health	health	have overall	
-V-81	cancer	cancer	risk	risk		
 V-81	women	women	breast cancer	breast cancer	didn’t just have more	
-V-81	medical profession	medical profession	women	women	jumped on this discovery, and started injecting menopausal	
-V-81	breast cancer	breast cancer	risk	risk		
-V-81	women	women	hormones	hormones	into two groups; half get the	
-V-81	estrogen	estrogen	cancer	cancer	in breast	
-V-81	women	women	heart disease	heart disease	taking estrogens appeared to be protected from	
-V-81	women	women	happiness	happiness	to	
-V-81	hormones	hormones	heart attack	heart attack	appeared to have lower	
-V-81	cancer	cancer	heart disease	heart disease	risk didn’t matter, because	
 V-81	estrogen	estrogen	breast cancer	breast cancer	in	
-V-81	cancer	cancer	disease	disease	risk didn’t matter, because heart	
-V-81	risk	risk	heart disease	heart disease	didn’t matter, because	
-V-81	women	women	cancer	cancer	didn’t just have more breast	
-V-81	physicians	physicians	health	health	still believe that estrogenic hormones have overall	
-V-81	heart attack	heart attack	cancer	cancer	rates that would outweigh the extra breast	
-V-81	physicians	physicians	hormones	hormones	still believe that estrogenic	
-V-81	happiness	happiness	estrogen	estrogen	” by prescribing	
-V-81	blood	blood	women	women	clots to their lungs.the news that	
-V-81	cancer	cancer	united states	united states	in the	
-V-81	women	women	health	health	’s	
-V-81	women	women	estrogen	estrogen	to happiness” by prescribing	
-V-81	american medical association	american medical association	doctors	doctors	—regaled	
-V-81	medical journals	medical journals	doctors	doctors	—like the journal of the american medical association—regaled	
-V-81	blood clots	blood clots	women	women	to their lungs.the news that	
-V-81	medical journals	medical journals	american medical association	american medical association	—like the journal of the	
+V-81	women	women	breast cancer	breast cancer	treated with hormone replacement therapy experienced higher rates of	
+V-81	heart disease	heart disease	women	women	is the #1 killer of	
+V-81	disease	disease	women	women	is the #1 killer of	
 V-81	women	women	estrogen	estrogen	taking	
-V-81	doctors	doctors	women	women	with ads on how they can “help	
-V-81	breast cancer	breast cancer	united states	united states	in the	
-V-81	breast cancer	breast cancer	heart disease	heart disease	risk didn’t matter, because	
+V-81	hormones	hormones	heart attack	heart attack	appeared to have lower	
+V-81	hormones	hormones	health	health	have overall	
+V-81	women	women	physicians	physicians	were placed in the way of harm by their	

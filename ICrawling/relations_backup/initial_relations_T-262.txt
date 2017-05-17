@@ -1,67 +1,12 @@
 
-T-262	bmaa	bmaa	brains	brains	was also found in the	
-T-262	fish	fish	blue-green algae	blue-green algae	and seafood.spirulina is a type of	
-T-262	health	health	neurotoxins	neurotoxins	concern.almost all blue-green algae can produce	
-T-262	blue-green algae	blue-green algae	supplements	supplements	or spirulina	
-T-262	brains	brains	disease	disease	of floridians with alzheimer’s, lou gehrig’s	
-T-262	supplements	supplements	liver	liver	were found to contain	
-T-262	bacteria	bacteria	oceans	oceans	that are found in soil, lakes, and	
-T-262	liver	liver	toxins	toxins		
-T-262	supplements	supplements	toxins	toxins	were found to contain liver	
-T-262	blue-green algae	blue-green algae	supplements	supplements		
-T-262	health	health	public health	public health	or other	
-T-262	immune function	immune function	physical activity	physical activity	in athletes in training camp who experienced intense	
-T-262	supplements	supplements	neurotoxins	neurotoxins	were found to contain liver toxins and	
-T-262	supplements	supplements	health	health	claiming nutritional value and	
-T-262	bmaa	bmaa	brains	brains	.in fact, researchers found bmaa in the	
-T-262	als	als	disease	disease	), and those dying from parkinson’s	
-T-262	health	health	spirulina	spirulina	claims for	
-T-262	produce	produce	neurotoxins	neurotoxins		
-T-262	fish	fish	algae	algae	and seafood.spirulina is a type of blue-green	
-T-262	algae	algae	supplements	supplements	or spirulina	
-T-262	algae	algae	toxins	toxins		
-T-262	health	health	supplements	supplements	claims for spirulina	
-T-262	athletes	athletes	physical activity	physical activity	in training camp who experienced intense	
-T-262	toxins	toxins	spirulina	spirulina	that may be present in blue-green algae or	
-T-262	bmaa	bmaa	fish	fish	were found in florida	
-T-262	toxins	toxins	algae	algae	within the spirulina.chlorella is unicellular freshwater green	
-T-262	chlorella	chlorella	hepatitis	hepatitis	supplementation in adults with chronic	
-T-262	algae	algae	supplements	supplements	are used in	
-T-262	blue-green algae	blue-green algae	health	health	supplements may pose a	
-T-262	algae	algae	health	health	supplements may pose a	
-T-262	neurotoxins	neurotoxins	bmaa	bmaa	is	
-T-262	chlorella	chlorella	infection	infection	supplementation in adults with chronic hepatitis c	
-T-262	health	health	produce	produce	concern.almost all blue-green algae can	
-T-262	toxins	toxins	neurotoxins	neurotoxins	and	
-T-262	bmaa	bmaa	seafood	seafood	through eating fish and	
-T-262	chlorella	chlorella	immune function	immune function	did not experience a drop in	
-T-262	liver	liver	neurotoxins	neurotoxins	toxins and	
-T-262	health	health	algae	algae	concern.almost all blue-green	
-T-262	bmaa	bmaa	fish	fish	through eating	
-T-262	brains	brains	als	als	of floridians with alzheimer’s, lou gehrig’s disease (	
-T-262	fish	fish	bmaa	bmaa	and shellfish, contain high concentrations of	
-T-262	health	health	spirulina	spirulina	or other public health concern when	
-T-262	spirulina	spirulina	supplements	supplements		
-T-262	supplements	supplements	health	health	may pose a	
-T-262	algae	algae	supplements	supplements		
-T-262	health	health	blue-green algae	blue-green algae	concern.almost all	
-T-262	blue-green algae	blue-green algae	algae	algae	supplements may pose a health concern.almost all blue-green	
-T-262	immune function	immune function	athletes	athletes	in	
-T-262	toxins	toxins	blue-green algae	blue-green algae	that may be present in	
-T-262	liver	liver	inflammation	inflammation		
 T-262	fish	fish	seafood	seafood	and	
-T-262	algae	algae	blue-green algae	blue-green algae	supplements may pose a health concern.almost all	
-T-262	risk	risk	spirulina	spirulina	to health or other public health concern when	
-T-262	toxins	toxins	algae	algae	that may be present in blue-green	
-T-262	risk	risk	public health	public health	to health or other	
-T-262	neurotoxins	neurotoxins	amino acid	amino acid	is bmaa, an	
-T-262	chlorella	chlorella	immune function	immune function	supplementation appeared to prevent loss in	
-T-262	public health	public health	spirulina	spirulina	concern when	
-T-262	supplements	supplements	blue-green algae	blue-green algae	may pose a health concern.almost all	
+T-262	algae	algae	supplements	supplements	are used in	
+T-262	neurotoxins	neurotoxins	bmaa	bmaa	is	
+T-262	chlorella	chlorella	immune function	immune function	did not experience a drop in	
+T-262	supplements	supplements	health	health	may pose a	
 T-262	athletes	athletes	chlorella	chlorella	given a daily dose of	
 T-262	algae	algae	spirulina	spirulina	or	
-T-262	algae	algae	health	health	are used in supplements claiming nutritional value and	
 T-262	blue-green algae	blue-green algae	spirulina	spirulina	or	
-T-262	supplements	supplements	algae	algae	may pose a health concern.almost all blue-green	
-T-262	hepatitis	hepatitis	infection	infection	c	
-T-262	risk	risk	health	health	to	
+T-262	immune function	immune function	athletes	athletes	in	
+T-262	supplements	supplements	liver	liver	were found to contain	
+T-262	toxins	toxins	neurotoxins	neurotoxins	and	

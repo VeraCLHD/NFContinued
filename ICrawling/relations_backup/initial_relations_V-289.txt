@@ -1,66 +1,14 @@
 
-V-289	burning	burning	mouth	mouth	pain and a sour taste in your	
-V-289	risk	risk	obesity	obesity	factors are things like	
-V-289	vegetables	vegetables	antioxidants	antioxidants	and	
-V-289	egg mcmuffin	egg mcmuffin	fat	fat	–and compare that to a low-	
-V-289	vitamin c	vitamin c	produce	produce	or e pills.the most protective	
-V-289	protein	protein	antioxidants	antioxidants	sources, as well as fruits, vegetables and	
-V-289	symptoms	symptoms	stomach	stomach	are heartburn and regurgitation of	
-V-289	fruits	fruits	fiber	fiber	and vegetables containing innumerable phytochemicals, dietary	
-V-289	red meat	red meat	esophagus	esophagus	was more associated with cancer in the	
-V-289	prostate	prostate	cancer	cancer		
-V-289	burning	burning	pain	pain		
-V-289	risk	risk	cancer	cancer	of	
-V-289	sausage	sausage	egg	egg	and	
-V-289	beans	beans	risk	risk	and nuts were associated with a significantly decreased	
-V-289	fruits	fruits	antioxidants	antioxidants	and vegetables containing innumerable phytochemicals, dietary fiber, and	
-V-289	plant protein	plant protein	antioxidants	antioxidants	sources, as well as fruits, vegetables and	
-V-289	protein	protein	vegetables	vegetables	sources, as well as fruits,	
 V-289	poultry	poultry	cancer	cancer	was more associated with	
-V-289	fat	fat	risk	risk	intake is associated with increased	
-V-289	risk	risk	bone fractures	bone fractures	for pneumonia, food poisoning, and	
-V-289	protein	protein	fruits	fruits	sources, as well as	
-V-289	risk	risk	pneumonia	pneumonia	for	
-V-289	risk	risk	food poisoning	food poisoning	for pneumonia,	
-V-289	risk	risk	alcohol	alcohol	factors are things like obesity, smoking, and	
-V-289	gerd	gerd	symptoms	symptoms		
-V-289	treatment	treatment	drugs	drugs	is the proton pump inhibitor	
-V-289	antioxidants	antioxidants	omnivores	omnivores	than	
-V-289	fruits	fruits	vegetables	vegetables	and	
-V-289	beans	beans	nuts	nuts	and	
-V-289	plant protein	plant protein	vegetables	vegetables	sources, as well as fruits,	
-V-289	cancer	cancer	meats	meats	risk.though different	
-V-289	meats	meats	red meat	red meat	were associated with cancers in different locations:	
-V-289	fat	fat	gerd	gerd	intake may be associated with	
-V-289	sausage	sausage	fat	fat	and egg mcmuffin–and compare that to a low-	
-V-289	reflux	reflux	meat	meat	esophagitis.researchers found that those eating	
-V-289	vegetables	vegetables	antioxidants	antioxidants	containing innumerable phytochemicals, dietary fiber, and	
-V-289	alcohol	alcohol	meat	meat	consumption, but there hadn’t been studies on eating	
+V-289	vegetables	vegetables	antioxidants	antioxidants	and	
 V-289	meat	meat	reflux	reflux	had twice the odds of	
-V-289	reflux	reflux	disease	disease		
 V-289	nuts	nuts	risk	risk	were associated with a significantly decreased	
-V-289	red meat	red meat	cancer	cancer	was more associated with	
-V-289	meat	meat	diet	diet	in the	
-V-289	vegetables	vegetables	fiber	fiber	containing innumerable phytochemicals, dietary	
-V-289	symptoms	symptoms	heartburn	heartburn	are	
-V-289	vegetables	vegetables	omnivores	omnivores	containing innumerable phytochemicals, dietary fiber, and antioxidants than	
-V-289	fruits	fruits	phytochemicals	phytochemicals	and vegetables containing innumerable	
-V-289	heartburn	heartburn	stomach	stomach	and regurgitation of	
-V-289	fat	fat	symptoms	symptoms	intake may be associated with gerd	
-V-289	nuts	nuts	cancer	cancer	were associated with a significantly decreased risk of	
-V-289	plant protein	plant protein	fruits	fruits	sources, as well as	
-V-289	esophagus	esophagus	fat	fat	after the high-	
-V-289	risk	risk	smoking	smoking	factors are things like obesity,	
-V-289	meat	meat	nuts	nuts	alternatives” such as beans and	
-V-289	meats	meats	meat	meat	were associated with cancers in different locations: red	
-V-289	pain	pain	mouth	mouth	and a sour taste in your	
-V-289	vegetarian	vegetarian	fruits	fruits	diets are characterized by greater consumption of	
-V-289	esophagus	esophagus	stomach	stomach	from the	
 V-289	sausage	sausage	egg mcmuffin	egg mcmuffin	and	
 V-289	meat	meat	cancer	cancer	was more associated with	
-V-289	meat	meat	beans	beans	alternatives” such as	
-V-289	vegetables	vegetables	produce	produce	and antioxidants, in	
-V-289	egg	egg	fat	fat	mcmuffin–and compare that to a low-	
-V-289	reflux	reflux	gerd	gerd	disease (	
+V-289	red meat	red meat	cancer	cancer	was more associated with	
+V-289	risk	risk	cancer	cancer	of	
+V-289	symptoms	symptoms	heartburn	heartburn	are	
 V-289	vegetables	vegetables	phytochemicals	phytochemicals	containing innumerable	
-V-289	meat	meat	cancer	cancer	and high-fat meals appeared to increase	
+V-289	sausage	sausage	egg	egg	and	
+V-289	fruits	fruits	vegetables	vegetables	and	
+V-289	beans	beans	nuts	nuts	and	

@@ -1,18 +1,6 @@
 
 V-149	nicotine	nicotine	ketchup	ketchup	in	
-V-149	disease	disease	cancer	cancer	is far outweighed by the increased risks of	
-V-149	risk	risk	nightshades	nightshades	compared to other vegetables, but different	
-V-149	death	death	united states	united states	in the	
-V-149	risk	risk	disease	disease	of parkinson’s	
-V-149	tobacco	tobacco	tomatoes	tomatoes	is a nightshade—that means tobacco,	
-V-149	tobacco	tobacco	potatoes	potatoes	is a nightshade—that means tobacco, tomatoes,	
-V-149	risk	risk	vegetables	vegetables	compared to other	
-V-149	tobacco	tobacco	pepper	pepper	and	
-V-149	peppers	peppers	tomato sauce	tomato sauce	with	
 V-149	nightshades	nightshades	nicotine	nicotine	have different amounts of	
 V-149	plants	plants	nicotine	nicotine	have	
-V-149	nicotine	nicotine	vegetables	vegetables	intake just eating some healthy	
-V-149	smoking	smoking	risk	risk	history only appear to have about half the	
-V-149	risk	risk	nicotine	nicotine	of parkinson’s, and there’s not much	
-V-149	tobacco	tobacco	nicotine	nicotine	components for possible neuroprotective effects, and	
-V-149	smoking	smoking	health	health	is hugely damaging to	
+V-149	risk	risk	vegetables	vegetables	compared to other	
+V-149	tobacco	tobacco	pepper	pepper	and	

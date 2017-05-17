@@ -1,6 +1,2 @@
 
-V-1207	carob	carob	dna damage	dna damage	can protect human colon cells from	
 V-1207	carob	carob	colon	colon	can protect human	
-V-1207	colon	colon	dna damage	dna damage	cells from	
-V-1207	carob	carob	dna	dna	can protect human colon cells from	
-V-1207	colon	colon	dna	dna	cells from	

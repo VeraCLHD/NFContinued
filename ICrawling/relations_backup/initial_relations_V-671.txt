@@ -1,33 +1,3 @@
 
-V-671	diet	diet	inflammation	inflammation	and antibody-mediated	
-V-671	angiogenesis	angiogenesis	blood	blood	[enhanced	
-V-671	antibodies	antibodies	neu5gc	neu5gc	—anti-	
-V-671	tumor	tumor	neu5gc	neu5gc	-associated	
-V-671	plant-based	plant-based	diet	diet		
-V-671	immune system	immune system	inflammation	inflammation	to feed them with	
-V-671	neu5gc	neu5gc	tumor	tumor	and [our] circulating anti-neu5gc autoantibodies promotes	
-V-671	cancer	cancer	risk	risk		
-V-671	angiogenesis	angiogenesis	tumor	tumor	[enhanced blood flow to the	
-V-671	produce	produce	neu5gc	neu5gc	this tumor promoter?well, we don’t make	
-V-671	produce	produce	tumor	tumor	this	
-V-671	tumor	tumor	neu5gc	neu5gc	cells that are best at accumulating	
-V-671	inflammatory cells	inflammatory cells	blood	blood	and [enhancing] angiogenesis [enhanced	
-V-671	neu5gc	neu5gc	tumor growth	tumor growth	and [our] circulating anti-neu5gc autoantibodies promotes	
-V-671	diet	diet	cancer	cancer	into the tumor, the	
-V-671	tumors	tumors	immune system	immune system	are able to trick our	
-V-671	diet	diet	cancer	cancer	and antibody-mediated inflammation in carcinoma [	
 V-671	meat	meat	dairy	dairy	and	
-V-671	blood	blood	tumor	tumor	flow to the	
-V-671	immune system	immune system	antibodies	antibodies	into producing autoimmune	
-V-671	meat	meat	diet	diet	and dairy molecule coming from our	
-V-671	cancer	cancer	tumor	tumor	] confers a selective advantage to	
-V-671	dairy	dairy	tumor	tumor	molecule coming from our diet into the	
-V-671	diet	diet	tumor	tumor	into the	
-V-671	immune system	immune system	neu5gc	neu5gc	into producing autoimmune antibodies—anti-	
-V-671	dairy	dairy	diet	diet	molecule coming from our	
-V-671	tumor	tumor	tumor growth	tumor growth	-associated neu5gc and [our] circulating anti-neu5gc autoantibodies promotes	
-V-671	inflammatory cells	inflammatory cells	angiogenesis	angiogenesis	and [enhancing]	
-V-671	inflammatory cells	inflammatory cells	tumor	tumor	and [enhancing] angiogenesis [enhanced blood flow to the	
-V-671	neu5gc	neu5gc	cancer	cancer	incorporation [by the	
-V-671	tumor	tumor	neu5gc	neu5gc	promoter?well, we don’t make	
-V-671	inflammation	inflammation	cancer	cancer	in carcinoma [	
+V-671	tumors	tumors	immune system	immune system	are able to trick our	

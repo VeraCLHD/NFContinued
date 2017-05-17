@@ -1,45 +1,8 @@
 
-V-70	meat	meat	blood	blood	from people’s diets; and	
-V-70	blood	blood	pills	pills	pressure	
-V-70	blood	blood	death	death	pressure is the #1 risk factor for	
 V-70	high blood pressure	high blood pressure	blood	blood	need not occur.researchers measured the	
-V-70	risk	risk	plant-based	plant-based	eating strictly	
-V-70	diet	diet	grains	grains	centered around whole plant foods—whole	
-V-70	dash diet	dash diet	diet	diet	was frank sacks.see, the dash	
-V-70	blood pressure	blood pressure	pills	pills		
-V-70	plant foods	plant foods	vegetables	vegetables	—whole grains, beans,	
-V-70	diet	diet	dash diet	dash diet	was frank sacks.see, the	
-V-70	blood pressure	blood pressure	death	death	is the #1 risk factor for	
-V-70	diet	diet	whole grains	whole grains	centered around whole plant foods—	
-V-70	blood	blood	medications	medications	pressure	
-V-70	blood	blood	vegetarian	vegetarian	pressure-lowering benefits of a	
-V-70	blood pressure	blood pressure	blood	blood	need not occur.researchers measured the	
-V-70	death	death	americans	americans	in the world, affecting nearly 78 million	
-V-70	blood	blood	diet	diet	pressure-lowering benefits of a vegetarian	
-V-70	plant foods	plant foods	beans	beans	—whole grains,	
-V-70	blood	blood	gold	gold	pressure of 120 over 80, you’d get a	
-V-70	vegetarian	vegetarian	diet	diet		
-V-70	blood pressure	blood pressure	blood	blood	pills with normal	
-V-70	diet	diet	fruit	fruit	centered around whole plant foods—whole grains, beans, vegetables,	
 V-70	gold	gold	blood	blood	star.but the ideal	
-V-70	blood	blood	blood pressure	blood pressure	pressure pills with normal	
-V-70	pills	pills	blood	blood	with normal	
-V-70	vegetarian	vegetarian	animal products	animal products	diet, yet contain enough	
-V-70	flexitarians	flexitarians	meat	meat	(eating	
-V-70	diet	diet	vegetables	vegetables	centered around whole plant foods—whole grains, beans,	
-V-70	diet	diet	plant foods	plant foods	centered around whole	
-V-70	pills	pills	blood pressure	blood pressure	with normal	
-V-70	gold	gold	blood pressure	blood pressure	star.but the ideal	
-V-70	hypertension	hypertension	plant-based	plant-based	rates as people ate more and more	
-V-70	blood	blood	risk	risk	pressure is the #1	
-V-70	risk	risk	death	death	factor for	
-V-70	plant foods	plant foods	grains	grains	—whole	
-V-70	plant-based	plant-based	meat	meat	day-to-day, with	
-V-70	diet	diet	beans	beans	centered around whole plant foods—whole grains,	
-V-70	plant foods	plant foods	whole grains	whole grains	—	
-V-70	blood pressure	blood pressure	gold	gold	of 120 over 80, you’d get a	
+V-70	blood pressure	blood pressure	blood	blood	need not occur.researchers measured the	
 V-70	fruits	fruits	vegetables	vegetables	and	
-V-70	blood pressure	blood pressure	medications	medications		
-V-70	plant foods	plant foods	fruit	fruit	—whole grains, beans, vegetables,	
+V-70	diet	diet	plant foods	plant foods	centered around whole	
+V-70	gold	gold	blood pressure	blood pressure	star.but the ideal	
 V-70	blood pressure	blood pressure	risk	risk	is the #1	
-V-70	american heart association	american heart association	diet	diet	recommend a no-meat	

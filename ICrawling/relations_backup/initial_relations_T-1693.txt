@@ -1,34 +1,11 @@
 
-T-1693	sleep	sleep	risk	risk	—not too little or too much—may reduce	
-T-1693	risk	risk	asthma	asthma	of allergies,	
-T-1693	food dyes	food dyes	sleep	sleep	may introduce	
-T-1693	sleep	sleep	chemicals	chemicals	issues, and the	
-T-1693	plant-based	plant-based	sleep	sleep	and raw diets may improve	
-T-1693	sleep	sleep	animal products	animal products	quality, possibly by reducing inflammation associated with ingesting	
-T-1693	antioxidants	antioxidants	kiwifruit	kiwifruit	as well as cherries, raspberries, and	
-T-1693	vegetables	vegetables	antioxidants	antioxidants	high in	
-T-1693	pineal gland	pineal gland	melatonin	melatonin	’s release of	
-T-1693	raw	raw	sleep	sleep	diets may improve	
 T-1693	sleep	sleep	antioxidant	antioxidant	might diminish our	
 T-1693	inflammation	inflammation	animal products	animal products	associated with ingesting	
-T-1693	risk	risk	eczema	eczema	of allergies, asthma, and	
-T-1693	antioxidants	antioxidants	cherries	cherries	as well as	
+T-1693	sleep	sleep	health	health	has many	
 T-1693	risk	risk	allergies	allergies	of	
 T-1693	risk	risk	cancer	cancer	of	
+T-1693	food dyes	food dyes	sleep	sleep	may introduce	
 T-1693	kiwifruit	kiwifruit	stress	stress	can help replenish nutrients lost during times of	
-T-1693	risk	risk	heart disease	heart disease	of cancer, stroke, and	
 T-1693	stress	stress	sleep	sleep	or	
-T-1693	raw	raw	inflammation	inflammation	diets may improve sleep quality, possibly by reducing	
-T-1693	fruits	fruits	cherries	cherries	and vegetables high in antioxidants as well as	
-T-1693	vegetables	vegetables	raspberries	raspberries	high in antioxidants as well as cherries,	
-T-1693	vegetables	vegetables	cherries	cherries	high in antioxidants as well as	
-T-1693	sleep	sleep	inflammation	inflammation	quality, possibly by reducing	
-T-1693	antioxidants	antioxidants	raspberries	raspberries	as well as cherries,	
 T-1693	plant-based	plant-based	raw	raw	and	
-T-1693	exercise	exercise	sleep	sleep	appears to help people	
-T-1693	sleep	sleep	health	health	has many	
-T-1693	risk	risk	stroke	stroke	of cancer,	
 T-1693	fruits	fruits	vegetables	vegetables	and	
-T-1693	fruits	fruits	antioxidants	antioxidants	and vegetables high in	
-T-1693	risk	risk	disease	disease	of cancer, stroke, and heart	
-T-1693	food dyes	food dyes	chemicals	chemicals	may introduce sleep issues, and the	

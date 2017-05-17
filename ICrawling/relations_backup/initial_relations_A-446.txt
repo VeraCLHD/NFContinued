@@ -1,92 +1,15 @@
 
-A-446	broccoli	broccoli	cancer stem cells	cancer stem cells	versus breast	
 A-446	limonol	limonol	tangeretin	tangeretin	or	
-A-446	breast cancer	breast cancer	stem cells	stem cells		
-A-446	pepper	pepper	phytonutrient	phytonutrient	boosts the absorption of the turmeric	
-A-446	bananas	bananas	cucumbers	cucumbers	than blueberries;	
-A-446	breast cancer	breast cancer	metastases	metastases	stem cells, and lung cancer	
-A-446	disease	disease	fruit	fruit	reduction to the quantity of	
-A-446	broccoli	broccoli	cancer	cancer	versus breast	
-A-446	black pepper	black pepper	turmeric	turmeric	boosts the absorption of the	
-A-446	mesclun mix	mesclun mix	spinach	spinach	than even the straight	
-A-446	disease	disease	risk	risk		
-A-446	breast cancer	breast cancer	cancer	cancer	stem cells, and lung	
-A-446	phytonutrient	phytonutrient	turmeric	turmeric	in black pepper boosts the absorption of the	
-A-446	glucosinolates	glucosinolates	broccoli	broccoli	i discuss in the best detox,	
-A-446	fruit	fruit	epic study	epic study	and vegetable consumption (see	
-A-446	risk	risk	fruit	fruit	and the variety of	
-A-446	orange	orange	apples	apples	than it is to eat three	
-A-446	variety	variety	anti-inflammation	anti-inflammation		
-A-446	lemonoids	lemonoids	lemonin	lemonin	like	
-A-446	glucosinolates	glucosinolates	detox	detox	i discuss in the best	
-A-446	oranges	oranges	apples	apples	is like, well, comparing	
-A-446	cancer	cancer	metastases	metastases	stem cells, and lung cancer	
-A-446	breast cancer	breast cancer	lung cancer	lung cancer	stem cells, and	
-A-446	apples	apples	oranges	oranges	or three	
-A-446	greens	greens	vegetables	vegetables	are the healthiest	
+A-446	variety	variety	fruits	fruits	of	
+A-446	variety	variety	vegetables	vegetables	of	
 A-446	lemonin	lemonin	limonol	limonol	and	
-A-446	carrots	carrots	celery	celery	are roots,	
-A-446	american heart association	american heart association	dietary guidelines	dietary guidelines	’s latest	
-A-446	cucumbers	cucumbers	kale	kale	instead of	
-A-446	limonol	limonol	apples	apples	or tangeretin in	
 A-446	celery	celery	rhubarb	rhubarb	and	
-A-446	fruits	fruits	vegetables	vegetables	(see best berries) and greens are the healthiest	
-A-446	glucosinolates	glucosinolates	breast cancer	breast cancer	i discuss in the best detox, broccoli versus	
-A-446	lung cancer	lung cancer	broccoli	broccoli	metastases and	
-A-446	berries	berries	fruits	fruits	are the healthiest	
-A-446	phytonutrients	phytonutrients	plants	plants	produced by specific	
-A-446	vitamin c	vitamin c	kingdom	kingdom	that are found scattered throughout the plant	
+A-446	black pepper	black pepper	turmeric	turmeric	boosts the absorption of the	
+A-446	apples	apples	oranges	oranges	and	
 A-446	metastases	metastases	broccoli	broccoli	and	
-A-446	fruits	fruits	greens	greens	(see best berries) and	
-A-446	broccoli	broccoli	breast cancer	breast cancer	versus	
-A-446	fruits	fruits	vegetables	vegetables	are just fruits, whereas	
-A-446	oranges	oranges	roots	roots	: dietary diversity,	
-A-446	inflammation	inflammation	vegetables	vegetables	between those eating 6 servings of	
+A-446	tangeretin	tangeretin	apples	apples	in	
+A-446	carrots	carrots	roots	roots	are	
 A-446	phytonutrient	phytonutrient	black pepper	black pepper	in	
 A-446	fruits	fruits	vegetables	vegetables	and	
-A-446	broccoli	broccoli	metastases	metastases	versus breast cancer stem cells, and lung cancer	
-A-446	cancer	cancer	broccoli	broccoli	stem cells, and lung cancer metastases and	
-A-446	peas	peas	cauliflower	cauliflower	are pods, and	
-A-446	lemonin	lemonin	apples	apples	and limonol or tangeretin in	
-A-446	variety	variety	fruits	fruits	of	
-A-446	mesclun	mesclun	spinach	spinach	mix than even the straight	
-A-446	lemonin	lemonin	tangeretin	tangeretin	and limonol or	
-A-446	variety	variety	vegetables	vegetables	of	
-A-446	apple	apple	orange	orange	and one	
-A-446	cancer	cancer	lung cancer	lung cancer	stem cells, and	
-A-446	epic	epic	fruit	fruit	study) may be because of quality of	
-A-446	broccoli	broccoli	stem cells	stem cells	versus breast cancer	
-A-446	anti-inflammation	anti-inflammation	disease	disease	i detail some recent studies that looked at	
-A-446	disease	disease	fruit	fruit	risk and the variety of	
-A-446	apples	apples	oranges	oranges	and	
-A-446	fruit	fruit	epic	epic	and vegetable consumption (see	
-A-446	bananas	bananas	blueberries	blueberries	than	
-A-446	phytochemicals	phytochemicals	nutrition	nutrition	: the	
-A-446	phytonutrient	phytonutrient	pepper	pepper	in black	
-A-446	lemonoids	lemonoids	tangeretin	tangeretin	like lemonin and limonol or	
-A-446	bananas	bananas	kale	kale	than blueberries; cucumbers instead of	
-A-446	carrots	carrots	roots	roots	are	
-A-446	variety	variety	vegetables	vegetables	of fruits and	
-A-446	berries	berries	greens	greens	are the healthiest fruits (see best berries) and	
-A-446	turmeric	turmeric	phytonutrient	phytonutrient		
 A-446	oxalates	oxalates	cinnamon	cinnamon	in	
-A-446	risk	risk	variety	variety	and the	
-A-446	cancer	cancer	stem cells	stem cells		
-A-446	apples	apples	roots	roots	and oranges: dietary diversity,	
-A-446	spinach	spinach	lettuce	lettuce	is healthier than	
-A-446	breast cancer	breast cancer	broccoli	broccoli	stem cells, and lung cancer metastases and	
-A-446	beta carotene	beta carotene	nutrient synergy	nutrient synergy	pill, because of what’s been called	
-A-446	cancer	cancer	cancer	cancer	stem cells, and lung	
-A-446	lemonoids	lemonoids	apples	apples	like lemonin and limonol or tangeretin in	
-A-446	lung cancer	lung cancer	metastases	metastases		
-A-446	lemonoids	lemonoids	limonol	limonol	like lemonin and	
-A-446	disease	disease	variety	variety	risk and the	
-A-446	broccoli	broccoli	lung cancer	lung cancer	versus breast cancer stem cells, and	
-A-446	fruits	fruits	berries	berries	(see best	
-A-446	tangeretin	tangeretin	apples	apples	in	
-A-446	cinnamon	cinnamon	bioavailability	bioavailability	), but the key component has very poor	
-A-446	carrots	carrots	rhubarb	rhubarb	are roots, celery and	
-A-446	turmeric	turmeric	cinnamon	cinnamon	(oxalates in	
-A-446	black pepper	black pepper	phytonutrient	phytonutrient	boosts the absorption of the turmeric	
-A-446	epic study	epic study	fruit	fruit	) may be because of quality of	
 A-446	pepper	pepper	turmeric	turmeric	boosts the absorption of the	

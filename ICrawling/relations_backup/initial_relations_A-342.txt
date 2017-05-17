@@ -1,157 +1,17 @@
 
-A-342	flax	flax	chia seeds	chia seeds	seeds vs.	
-A-342	in vitro studies	in vitro studies	cancer cells	cancer cells	show lignans can slow the growth of prostate	
-A-342	flax	flax	flora	flora	and fecal	
-A-342	flax	flax	breakfast	breakfast	and fecal flora, my smoothies (a better	
-A-342	prostate	prostate	african americans	african americans	cancer is highest in	
-A-342	seeds	seeds	prostate cancer	prostate cancer	vs.	
-A-342	prostate gland	prostate gland	plants	plants	enlargement see prostate vs.	
-A-342	prostate	prostate	americans	americans	cancer is highest in african	
-A-342	fat	fat	ground flax	ground flax	in their diet and put them on	
-A-342	seeds	seeds	fecal flora	fecal flora	in flax and	
-A-342	treatment	treatment	prostate cancer	prostate cancer	—a plant-based diet and walking—on the growth of	
-A-342	in vitro studies	in vitro studies	prostate	prostate	show lignans can slow the growth of	
-A-342	flax seeds	flax seeds	prostate cancer	prostate cancer	vs.	
-A-342	plant-based diet	plant-based diet	cancer	cancer	and walking—on the growth of prostate	
-A-342	flax seeds	flax seeds	seeds	seeds	vs. chia	
-A-342	prostate	prostate	cancer	cancer		
-A-342	prostate gland	prostate gland	plant-based diet	plant-based diet	enlargement see prostate vs. plants, and prostate vs. a	
-A-342	vegetables	vegetables	phytoestrogens	phytoestrogens	—in sum, a low-fat, plant-based diet, high in	
-A-342	seeds	seeds	cancer	cancer	vs. prostate	
-A-342	plant-based	plant-based	cancer cells	cancer cells	diet and walking—on the growth of prostate	
-A-342	isoflavones	isoflavones	lignans	lignans	and	
-A-342	diet	diet	prostate	prostate	and walking—on the growth of	
-A-342	dietary intervention	dietary intervention	flax	flax	involved both reducing fat intake and increasing	
-A-342	flax	flax	cancer	cancer	seed supplementation in men with prostate	
-A-342	prostate	prostate	plant-based	plant-based	gland enlargement see prostate vs. plants, and prostate vs. a	
-A-342	fat	fat	diet	diet	and protein in the western	
-A-342	prostate gland	prostate gland	prostate	prostate	enlargement see 	
-A-342	animal fat	animal fat	western diet	western diet	and protein in the	
-A-342	soy	soy	isoflavones	isoflavones		
+A-342	cancer	cancer	african	african	is highest in	
+A-342	prostate gland enlargement	prostate gland enlargement	prostate	prostate	see 	
+A-342	risk	risk	energy	energy	associated with higher	
 A-342	flax	flax	fecal flora	fecal flora	and	
-A-342	smoothies	smoothies	breakfast	breakfast	(a better	
-A-342	plant-based diet	plant-based diet	prostate cancer	prostate cancer	and walking—on the growth of	
+A-342	flax	flax	lignans	lignans	has up to 800 times more	
+A-342	animal fat	animal fat	protein	protein	and	
 A-342	prostate cancer	prostate cancer	african americans	african americans	is highest in	
-A-342	prostatic intraepithelial neoplasia	prostatic intraepithelial neoplasia	ductal carcinoma	ductal carcinoma	), which is like the prostate equivalent of	
-A-342	intraepithelial neoplasia	intraepithelial neoplasia	prostate	prostate	), which is like the	
-A-342	diet	diet	seeds	seeds	and addition of flax	
-A-342	diet	diet	cancer cells	cancer cells	and walking—on the growth of prostate	
-A-342	cholesterol	cholesterol	diet	diet	(what one would expect with a lower-fat	
+A-342	dietary intervention	dietary intervention	fat	fat	involved both reducing	
 A-342	lignans	lignans	prostate	prostate	can slow the growth of	
-A-342	japanese	japanese	chinese	chinese	men, and 120 times greater than in	
-A-342	ground flax	ground flax	biopsy	biopsy	seeds to see if it made their repeat	
 A-342	cancer	cancer	african americans	african americans	is highest in	
 A-342	phytoestrogens	phytoestrogens	plant foods	plant foods	found in	
-A-342	fat	fat	flax	flax	diet and addition of	
-A-342	lignans	lignans	prostate cancer	prostate cancer	can slow the growth of	
-A-342	fat	fat	protein	protein	and	
-A-342	cancer	cancer	african	african	is highest in	
-A-342	cancer	cancer	cancer	cancer	is good, but how about 	
-A-342	diet	diet	plants	plants	full of	
-A-342	flax	flax	smoothies	smoothies	and fecal flora, my	
-A-342	pin	pin	intraepithelial neoplasia	intraepithelial neoplasia	(prostatic	
-A-342	flax seeds	flax seeds	prostate	prostate	vs.	
-A-342	intraepithelial neoplasia	intraepithelial neoplasia	ductal carcinoma	ductal carcinoma	), which is like the prostate equivalent of	
-A-342	plant-based diet	plant-based diet	prostate	prostate	and walking—on the growth of	
-A-342	prostate gland	prostate gland	diet	diet	enlargement see prostate vs. plants, and prostate vs. a plant-based	
-A-342	plant-based	plant-based	cancer	cancer	diet and walking—on the growth of prostate	
-A-342	diet	diet	cancer	cancer	and walking—on the growth of prostate	
-A-342	prostate	prostate	cholesterol	cholesterol	cell growth), a drop in	
-A-342	flax	flax	prostate	prostate	seeds vs.	
-A-342	fat	fat	diet	diet	-restricted	
-A-342	diet	diet	flax	flax	and put them on ground	
-A-342	seeds	seeds	flora	flora	in flax and fecal	
-A-342	cancer	cancer	cell death	cell death	proliferation rates, and significantly higher rates of cancer	
-A-342	prostate	prostate	carcinoma in situ	carcinoma in situ	equivalent of ductal	
-A-342	flax	flax	biopsy	biopsy	seeds to see if it made their repeat	
-A-342	flax	flax	chia	chia	seeds vs.	
-A-342	treatment	treatment	diet	diet	—a plant-based	
-A-342	prostate gland	prostate gland	plant-based	plant-based	enlargement see prostate vs. plants, and prostate vs. a	
-A-342	prostate	prostate	cancer cells	cancer cells		
-A-342	plant-based diet	plant-based diet	cancer cells	cancer cells	and walking—on the growth of prostate	
-A-342	seeds	seeds	chia	chia	vs.	
-A-342	fat	fat	flax seeds	flax seeds	in their diet and put them on ground	
-A-342	lignans	lignans	kingdom	kingdom	are found throughout the plant	
-A-342	seeds	seeds	flax	flax	in 	
-A-342	in vitro studies	in vitro studies	prostate cancer	prostate cancer	show lignans can slow the growth of	
-A-342	soy	soy	lignans	lignans	isoflavones and	
-A-342	diet	diet	ground flax	ground flax	and put them on	
-A-342	diet	diet	ground flax	ground flax	with three tablespoons a day of	
-A-342	animal fat	animal fat	protein	protein	and	
-A-342	diet	diet	seeds	seeds	and put them on ground flax	
-A-342	phytoestrogens	phytoestrogens	isoflavones	isoflavones	: soy	
-A-342	flax seeds	flax seeds	biopsy	biopsy	to see if it made their repeat	
-A-342	risk	risk	protein	protein	associated with higher energy,	
-A-342	in vitro studies	in vitro studies	lignans	lignans	show	
-A-342	prostate gland enlargement	prostate gland enlargement	plants	plants	see prostate vs.	
-A-342	prostate cancer	prostate cancer	americans	americans	is highest in african	
-A-342	diet	diet	flax seeds	flax seeds	and addition of	
-A-342	african	african	japanese	japanese	americans, some 30 times greater than in	
-A-342	seeds	seeds	chia seeds	chia seeds	vs.	
-A-342	fat	fat	flax	flax	intake and increasing	
-A-342	treatment	treatment	plant-based	plant-based	—a	
-A-342	plant-based	plant-based	diet	diet		
-A-342	pin	pin	prostate	prostate	(prostatic intraepithelial neoplasia), which is like the	
-A-342	diet	diet	flax	flax	with three tablespoons a day of ground	
-A-342	fat	fat	seeds	seeds	diet and addition of flax	
-A-342	plant-based	plant-based	prostate	prostate	diet and walking—on the growth of	
-A-342	flax	flax	seeds	seeds		
-A-342	vegetables	vegetables	diet	diet	—in sum, a low-fat, plant-based	
-A-342	prostate gland enlargement	prostate gland enlargement	plant-based diet	plant-based diet	see prostate vs. plants, and prostate vs. a	
-A-342	flax seeds	flax seeds	chia seeds	chia seeds	vs.	
-A-342	lignans	lignans	cancer	cancer	can slow the growth of prostate	
-A-342	fat	fat	diet	diet	in their	
-A-342	dietary intervention	dietary intervention	fat	fat	involved both reducing	
-A-342	prostatic intraepithelial neoplasia	prostatic intraepithelial neoplasia	prostate	prostate	), which is like the	
-A-342	flax	flax	prostate cancer	prostate cancer	seeds vs.	
-A-342	cancer reversal	cancer reversal	diet	diet	through	
-A-342	plant-based	plant-based	prostate cancer	prostate cancer	diet and walking—on the growth of	
-A-342	flax	flax	cancer	cancer	seeds vs. prostate	
-A-342	prostate	prostate	african	african	cancer is highest in	
-A-342	seeds	seeds	biopsy	biopsy	to see if it made their repeat	
-A-342	flax seeds	flax seeds	chia	chia	vs.	
-A-342	phytoestrogens	phytoestrogens	lignans	lignans	: soy isoflavones and	
-A-342	vegetables	vegetables	plant-based diet	plant-based diet	—in sum, a low-fat,	
-A-342	lignans	lignans	prostate	prostate	in the	
-A-342	risk	risk	energy	energy	associated with higher	
-A-342	chia	chia	seeds	seeds		
-A-342	ground flax	ground flax	seeds	seeds		
-A-342	prostate	prostate	plant-based diet	plant-based diet	gland enlargement see prostate vs. plants, and prostate vs. a	
-A-342	flax	flax	fat	fat	seeds,	
-A-342	protein	protein	diet	diet	in the western	
-A-342	cancer	cancer	cancer reversal	cancer reversal	is good, but how about 	
 A-342	prostate cancer	prostate cancer	african	african	is highest in	
-A-342	fat	fat	diet	diet		
-A-342	fat	fat	flax seeds	flax seeds	diet and addition of	
-A-342	african	african	americans	americans		
-A-342	vegetables	vegetables	plant-based	plant-based	—in sum, a low-fat,	
-A-342	lignans	lignans	flax	flax	are found throughout the plant kingdom,	
-A-342	cancer	cancer	diet	diet	is good, but how about cancer reversal through	
-A-342	breakfast	breakfast	flax	flax	), and the oldie but goodie just the	
-A-342	prostate gland enlargement	prostate gland enlargement	plant-based	plant-based	see prostate vs. plants, and prostate vs. a	
-A-342	prostate	prostate	plants	plants	gland enlargement see prostate vs.	
-A-342	seeds	seeds	smoothies	smoothies	in flax and fecal flora, my	
-A-342	seeds	seeds	prostate	prostate	vs.	
-A-342	treatment	treatment	prostate	prostate	—a plant-based diet and walking—on the growth of	
-A-342	fat	fat	flax	flax	in their diet and put them on ground	
-A-342	diet	diet	fiber	fiber	with extra	
-A-342	diet	diet	prostate cancer	prostate cancer	and walking—on the growth of	
-A-342	diet	diet	flax seeds	flax seeds	and put them on ground	
-A-342	protein	protein	western diet	western diet	in the	
-A-342	seeds	seeds	breakfast	breakfast	in flax and fecal flora, my smoothies (a better	
-A-342	flax	flax	prostate	prostate	seed supplementation in men with	
-A-342	diet	diet	flax	flax	and addition of	
-A-342	prostate gland enlargement	prostate gland enlargement	prostate	prostate	see 	
-A-342	in vitro studies	in vitro studies	cancer	cancer	show lignans can slow the growth of prostate	
-A-342	flax	flax	lignans	lignans	has up to 800 times more	
-A-342	flax seeds	flax seeds	cancer	cancer	vs. prostate	
-A-342	fat	fat	western diet	western diet	and protein in the	
-A-342	prostate	prostate	ductal carcinoma	ductal carcinoma	equivalent of	
-A-342	animal fat	animal fat	diet	diet	and protein in the western	
-A-342	flax	flax	prostate cancer	prostate cancer	seed supplementation in men with	
-A-342	psa	psa	prostate	prostate	levels (a biomarker of	
-A-342	treatment	treatment	plant-based diet	plant-based diet	—a	
-A-342	cancer	cancer	cancer	cancer	proliferation rates, and significantly higher rates of	
-A-342	prostate gland enlargement	prostate gland enlargement	diet	diet	see prostate vs. plants, and prostate vs. a plant-based	
-A-342	cancer	cancer	americans	americans	is highest in african	
-A-342	plant-based	plant-based	phytoestrogens	phytoestrogens	diet, high in	
+A-342	isoflavones	isoflavones	lignans	lignans	and	
+A-342	lignans	lignans	prostate cancer	prostate cancer	can slow the growth of	
+A-342	in vitro studies	in vitro studies	lignans	lignans	show	
+A-342	fat	fat	protein	protein	and	

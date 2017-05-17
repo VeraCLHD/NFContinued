@@ -1,75 +1,13 @@
 
-T-389	milk	milk	casein	casein	to tea, the	
-T-389	morphine	morphine	babies	babies	and may inhibit the respiratory center in	
-T-389	milk	milk	abdominal fat	abdominal fat	may increase	
-T-389	heart disease	heart disease	risk	risk		
-T-389	fat	fat	soy	soy	: compared to milk protein, the protein in	
-T-389	casein	casein	casomorphin	casomorphin	proteins break down into	
-T-389	casomorphin	casomorphin	apnea	apnea	may play a role in attacks of infant	
-T-389	protein	protein	milk	milk	in cow’s	
-T-389	tea	tea	risk	risk	is associated with lower heart disease	
-T-389	disease	disease	risk	risk		
-T-389	casein	casein	abdominal fat	abdominal fat	in milk may increase	
-T-389	abdominal fat	abdominal fat	soy	soy	: compared to milk protein, the protein in	
-T-389	blood	blood	casomorphin	casomorphin	vessels.casein’s opiate-like peptide	
-T-389	milk	milk	tea	tea	to	
-T-389	disease	disease	tea	tea	risk, but if you add milk to	
-T-389	casein	casein	milk	milk	is a	
-T-389	milk	milk	protein	protein		
-T-389	abdominal fat	abdominal fat	protein	protein	observed with the milk	
-T-389	breast milk	breast milk	diabetes	diabetes	and cow’s milk.type 1	
-T-389	health	health	immune function	immune function	conditions, including altering	
-T-389	infections	infections	protein	protein	that may trigger type 1 diabetes.the excessive	
-T-389	death	death	syndrome	syndrome	(sudden infant death	
-T-389	crib death	crib death	death	death	(sudden infant	
-T-389	dairy	dairy	milk	milk	proteins, such as casein, skim	
-T-389	breast milk	breast milk	milk	milk	and cow’s	
-T-389	casein	casein	fat	fat	in milk may increase abdominal	
-T-389	heart disease	heart disease	tea	tea	risk, but if you add milk to	
-T-389	crib death	crib death	syndrome	syndrome	(sudden infant death	
-T-389	milk	milk	health	health	may contribute to	
 T-389	tea	tea	heart disease	heart disease	is associated with lower	
-T-389	lead	lead	apnea	apnea	to abnormal breathing,	
-T-389	disease	disease	children	children	that typically strikes	
-T-389	nutrition	nutrition	dairy	dairy	study found that teens exposed to	
-T-389	casein	casein	breast milk	breast milk	is a milk protein found in human	
-T-389	immune function	immune function	infections	infections	and perhaps increasing susceptibility to	
-T-389	casein	casein	health	health	in cow’s milk may contribute to	
-T-389	milk	milk	tea	tea	completely prevents the biological activity of the	
-T-389	disease	disease	milk	milk	risk, but if you add	
-T-389	fat	fat	protein	protein	: compared to milk	
-T-389	blood	blood	casein	casein	vessels.	
-T-389	babies	babies	lead	lead	’ brain stems, which could	
-T-389	apnea	apnea	babies	babies	(when	
-T-389	heart disease	heart disease	milk	milk	risk, but if you add	
-T-389	casein	casein	milk	milk	in cow’s	
-T-389	breast milk	breast milk	disease	disease	and cow’s milk.type 1 diabetes is an autoimmune	
-T-389	casein	casein	protein	protein	is a milk	
-T-389	abdominal fat	abdominal fat	milk	milk	observed with the	
+T-389	diabetes	diabetes	disease	disease	is an autoimmune	
+T-389	casein	casein	milk	milk	is a	
+T-389	milk	milk	abdominal fat	abdominal fat	may increase	
 T-389	milk	milk	morphine	morphine	may have effects similar to	
-T-389	milk	milk	protein	protein	may increase abdominal fat: compared to milk	
-T-389	abdominal fat	abdominal fat	protein	protein	: compared to milk	
+T-389	milk	milk	health	health	may contribute to	
 T-389	milk	milk	fat	fat	may increase abdominal	
+T-389	soy	soy	abdominal fat	abdominal fat	prevents the increase in	
+T-389	babies	babies	crib death	crib death	stop breathing) and may trigger pseudo-allergic reactions and other abnormalities seen in	
 T-389	protein	protein	breast milk	breast milk	found in human	
 T-389	casein	casein	milk	milk	in	
-T-389	protein	protein	children	children	in cow’s milk–based formula may set	
-T-389	fat	fat	milk	milk	: compared to	
-T-389	dairy	dairy	skim milk	skim milk	proteins, such as casein,	
-T-389	children	children	obesity	obesity	up for	
-T-389	casein	casein	milk	milk	in the	
-T-389	tea	tea	disease	disease	is associated with lower heart	
-T-389	lead	lead	death	death	to abnormal breathing, apnea, and	
-T-389	genetics	genetics	disease	disease	and external factors play a role in the	
-T-389	abdominal fat	abdominal fat	milk	milk	: compared to	
-T-389	casomorphin	casomorphin	milk	milk	from the more concentrated casein in cow’s	
-T-389	fat	fat	protein	protein	observed with the milk	
 T-389	soy	soy	fat	fat	prevents the increase in abdominal	
-T-389	casomorphin	casomorphin	casein	casein	from the more concentrated	
-T-389	diabetes	diabetes	disease	disease	is an autoimmune	
-T-389	milk	milk	immune function	immune function	may contribute to health conditions, including altering	
-T-389	milk	milk	breast milk	breast milk	protein found in human	
-T-389	diabetes	diabetes	children	children	is an autoimmune disease that typically strikes	
-T-389	dairy	dairy	casein	casein	proteins, such as	
-T-389	fat	fat	milk	milk	observed with the	
-T-389	soy	soy	abdominal fat	abdominal fat	prevents the increase in	
-T-389	protein	protein	milk	milk	found in human breast	

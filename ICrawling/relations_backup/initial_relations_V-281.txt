@@ -1,18 +1,4 @@
 
-V-281	ginger	ginger	headaches	headaches	for	
-V-281	ginger	ginger	imitrex	imitrex	to sumatriptan, also known as	
-V-281	treatment	treatment	migraine	migraine	of	
-V-281	migraine	migraine	headaches	headaches		
-V-281	migraine	migraine	drugs	drugs		
-V-281	drugs	drugs	headaches	headaches	in the world–in the treatment of migraine	
-V-281	treatment	treatment	headaches	headaches	of migraine	
-V-281	ginger	ginger	water	water	in some	
-V-281	pain	pain	ginger	ginger	before, but after the drug or	
-V-281	pain	pain	viagra	viagra	drug leading to the billion dollar blockbuster,	
-V-281	drugs	drugs	treatment	treatment	in the world–in the	
-V-281	drugs	drugs	migraine	migraine	in the world–in the treatment of	
-V-281	imitrex	imitrex	drugs	drugs	–one of the top-selling billion dollar	
 V-281	treatment	treatment	migraine headaches	migraine headaches	of	
-V-281	ginger	ginger	migraine	migraine	versus the leading	
-V-281	drugs	drugs	migraine headaches	migraine headaches	in the world–in the treatment of	
-V-281	side effects	side effects	ginger	ginger	in the	
+V-281	treatment	treatment	migraine	migraine	of	
+V-281	pain	pain	ginger	ginger	before, but after the drug or	

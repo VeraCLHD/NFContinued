@@ -1,66 +1,8 @@
 
-A-352	plant-based diet	plant-based diet	rice	rice	rich in strawberries, whole wheat, and brown	
-A-352	plant-based diet	plant-based diet	levodopa	levodopa	would be expected to raise	
-A-352	levodopa	levodopa	bioavailability	bioavailability		
-A-352	plant-based	plant-based	bioavailability	bioavailability	diet would be expected to raise levodopa	
-A-352	n-hexacosanol	n-hexacosanol	fisetin	fisetin	and	
-A-352	plant-based	plant-based	diet	diet		
-A-352	patent	patent	istradefylline	istradefylline	it into new drugs (preladenant and	
-A-352	amino acid	amino acid	diet	diet	in our	
-A-352	dopamine	dopamine	l-dopa	l-dopa	from	
-A-352	symptoms	symptoms	diet	diet	with a plant-based	
-A-352	caffeine	caffeine	symptoms	symptoms	significantly improved	
-A-352	plant-based	plant-based	rice	rice	diet rich in strawberries, whole wheat, and brown	
-A-352	plant-based diet	plant-based diet	bioavailability	bioavailability	would be expected to raise levodopa	
-A-352	pollutants	pollutants	meat	meat	that magnify up the food chain into the	
-A-352	l-dopa	l-dopa	amino acid	amino acid	derived from an	
-A-352	symptoms	symptoms	plant-based diet	plant-based diet	with a	
-A-352	plant-based diet	plant-based diet	strawberries	strawberries	rich in	
-A-352	caffeine	caffeine	cancer	cancer	in coffee and	
-A-352	symptoms	symptoms	strawberries	strawberries	with a plant-based diet rich in	
-A-352	plant protein	plant protein	fiber	fiber	is superior, because that’s where	
 A-352	drugs	drugs	caffeine	caffeine	appear to work no better than plain	
-A-352	meat	meat	dairy	dairy	and	
-A-352	protein	protein	fiber	fiber	intake and an increased	
-A-352	l-dopa	l-dopa	diet	diet	derived from an amino acid in our	
-A-352	patent	patent	drugs	drugs	it into new	
-A-352	plant-based	plant-based	wheat	wheat	diet rich in strawberries, whole	
-A-352	animal products	animal products	fiber	fiber	altogether until it was discovered that	
-A-352	cancer	cancer	caffeine	caffeine	and what about the	
-A-352	plant-based	plant-based	brown rice	brown rice	diet rich in strawberries, whole wheat, and	
 A-352	coffee	coffee	caffeine	caffeine	and	
-A-352	coffee	coffee	caffeine	caffeine	a day worth of	
-A-352	diet	diet	bioavailability	bioavailability	would be expected to raise levodopa	
-A-352	coffee	coffee	caffeine	caffeine	and cancer and what about the	
-A-352	animal protein	animal protein	fiber	fiber	intake and an increased	
-A-352	caffeine	caffeine	coffee	coffee	in 	
-A-352	protein	protein	fiber	fiber	is superior, because that’s where	
-A-352	coffee	coffee	cancer	cancer	and caffeine in coffee and	
-A-352	diet	diet	levodopa	levodopa	would be expected to raise	
-A-352	symptoms	symptoms	whole wheat	whole wheat	with a plant-based diet rich in strawberries,	
-A-352	dopamine	dopamine	disease	disease	deficiency	
-A-352	protein	protein	diet	diet	redistribution	
-A-352	plant-based	plant-based	levodopa	levodopa	diet would be expected to raise	
-A-352	plant-based	plant-based	whole wheat	whole wheat	diet rich in strawberries,	
-A-352	caffeine	caffeine	disease	disease	significantly improved symptoms of the	
-A-352	plant-based diet	plant-based diet	wheat	wheat	rich in strawberries, whole	
-A-352	symptoms	symptoms	disease	disease	of the	
-A-352	plant-based diet	plant-based diet	whole wheat	whole wheat	rich in strawberries,	
-A-352	vegan	vegan	beans	beans	diet, saving	
-A-352	phytonutrients	phytonutrients	plant foods	plant foods	in healthy	
-A-352	disease	disease	animal protein	animal protein	through two mechanisms: reduced	
-A-352	disease	disease	dopamine	dopamine	due to a die-off of	
-A-352	dopamine	dopamine	amino acid	amino acid	from l-dopa derived from an	
-A-352	plant-based diet	plant-based diet	brown rice	brown rice	rich in strawberries, whole wheat, and	
+A-352	meat	meat	dairy	dairy	and	
 A-352	animal products	animal products	l-dopa	l-dopa	blocks the transport of	
-A-352	symptoms	symptoms	plant-based	plant-based	with a	
-A-352	plant-based	plant-based	strawberries	strawberries	diet rich in	
-A-352	disease	disease	protein	protein	through two mechanisms: reduced animal	
-A-352	coffee	coffee	symptoms	symptoms	a day worth of caffeine significantly improved	
-A-352	symptoms	symptoms	wheat	wheat	with a plant-based diet rich in strawberries, whole	
-A-352	drugs	drugs	istradefylline	istradefylline	(preladenant and	
-A-352	vegan	vegan	diet	diet		
-A-352	disease	disease	diet	diet	with	
-A-352	patent	patent	preladenant	preladenant	it into new drugs (	
-A-352	fiber	fiber	l-dopa	l-dopa	consumption naturally boosts	
+A-352	l-dopa	l-dopa	amino acid	amino acid	derived from an	
+A-352	n-hexacosanol	n-hexacosanol	fisetin	fisetin	and	
 A-352	preladenant	preladenant	istradefylline	istradefylline	and	

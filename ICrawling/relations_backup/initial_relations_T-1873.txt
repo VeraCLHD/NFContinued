@@ -1,72 +1,13 @@
 
-T-1873	cooking	cooking	arsenic	arsenic	into carcinogenic inorganic	
-T-1873	animal protein	animal protein	weight gain	weight gain	intake is generally associated with	
-T-1873	red meat	red meat	processed meat	processed meat	or	
-T-1873	food poisoning	food poisoning	bacteria	bacteria	campylobacter	
-T-1873	meat	meat	cancer	cancer	appears to come pre-packaged with	
-T-1873	cancer	cancer	risk	risk	more than other animal products, potentially raising one’s	
-T-1873	prostate cancer	prostate cancer	poultry	poultry	compared with non-	
-T-1873	plants	plants	risk	risk	have significantly increased	
-T-1873	meat	meat	bacteria	bacteria	tested was infected with staphylococcus	
-T-1873	turkey	turkey	chemicals	chemicals	meat may contain toxic	
+T-1873	risk	risk	pancreatic cancer	pancreatic cancer	of	
 T-1873	turkey meat	turkey meat	chemicals	chemicals	may contain toxic	
 T-1873	meat	meat	chemicals	chemicals	may contain toxic	
-T-1873	poultry	poultry	plants	plants	slaughtering and processing	
-T-1873	manure	manure	birds	birds	and feathers of other slaughtered	
-T-1873	viruses	viruses	poultry	poultry	in	
-T-1873	red meat	red meat	meat	meat	or processed	
-T-1873	prostate	prostate	cancer	cancer		
-T-1873	meat	meat	processed meat	processed meat	or	
-T-1873	pancreatic cancer	pancreatic cancer	risk	risk	more than other animal products, potentially raising one’s	
-T-1873	turkey meat	turkey meat	cancer	cancer	appears to come pre-packaged with	
-T-1873	chemicals	chemicals	bacteria	bacteria	and life-threatening	
-T-1873	cancer	cancer	antibiotics	antibiotics	compared with non-poultry eaters.turkey feed often contains	
-T-1873	poultry	poultry	pancreatic cancer	pancreatic cancer	appears to promote diabetes and the development of	
-T-1873	cancer	cancer	nitrosamines	nitrosamines	causing agents, containing dangerously high levels of	
-T-1873	protein	protein	weight gain	weight gain	intake is generally associated with	
-T-1873	fat	fat	poultry	poultry	content,	
-T-1873	prostate	prostate	antibiotics	antibiotics	cancer compared with non-poultry eaters.turkey feed often contains	
-T-1873	risk	risk	prostate cancer	prostate cancer	of developing	
-T-1873	turkey	turkey	cancer	cancer	meat appears to come pre-packaged with	
-T-1873	turkey	turkey	meat	meat		
-T-1873	prostate cancer	prostate cancer	antibiotics	antibiotics	compared with non-poultry eaters.turkey feed often contains	
-T-1873	birds	birds	arsenic	arsenic	are fed	
-T-1873	prostate	prostate	poultry	poultry	cancer compared with non-	
-T-1873	turkey	turkey	bacteria	bacteria	meat may contain toxic chemicals and life-threatening	
-T-1873	drugs	drugs	cooking	cooking	that are apparently converted by	
-T-1873	arsenic	arsenic	drugs	drugs	-containing	
-T-1873	risk	risk	cancer	cancer	of developing prostate	
-T-1873	arsenic	arsenic	cooking	cooking	-containing drugs that are apparently converted by	
-T-1873	campylobacter	campylobacter	osteoporosis	osteoporosis	bacteria, damage blood vessels, accelerate aging, contribute to	
-T-1873	risk	risk	prostate	prostate	of developing	
-T-1873	poultry	poultry	prostate cancer	prostate cancer	have four times greater risk of developing	
-T-1873	blood	blood	osteoporosis	osteoporosis	vessels, accelerate aging, contribute to	
-T-1873	blood	blood	aging	aging	vessels, accelerate	
-T-1873	campylobacter	campylobacter	blood	blood	bacteria, damage	
-T-1873	cancer	cancer	animal products	animal products	more than other	
-T-1873	food poisoning	food poisoning	aging	aging	campylobacter bacteria, damage blood vessels, accelerate	
 T-1873	poultry	poultry	risk	risk	have four times greater	
-T-1873	food poisoning	food poisoning	blood	blood	campylobacter bacteria, damage	
-T-1873	animal protein	animal protein	poultry	poultry	intake is generally associated with weight gain,	
+T-1873	red meat	red meat	processed meat	processed meat	or	
+T-1873	viruses	viruses	poultry	poultry	in	
 T-1873	cancer	cancer	poultry	poultry	compared with non-	
-T-1873	birds	birds	drugs	drugs	are fed arsenic-containing	
-T-1873	poultry	poultry	turkey	turkey	such as	
-T-1873	campylobacter	campylobacter	bacteria	bacteria		
-T-1873	diabetes	diabetes	cancer	cancer	and the development of pancreatic	
-T-1873	risk	risk	pancreatic cancer	pancreatic cancer	of	
-T-1873	poultry	poultry	risk	risk	slaughtering and processing plants have significantly increased	
-T-1873	risk	risk	cancer	cancer	of pancreatic	
-T-1873	risk	risk	poultry	poultry	of developing prostate cancer compared with non-	
-T-1873	food poisoning	food poisoning	campylobacter	campylobacter		
-T-1873	poultry	poultry	prostate	prostate	have four times greater risk of developing	
-T-1873	poultry	poultry	diabetes	diabetes	appears to promote	
-T-1873	meat	meat	bacteria	bacteria	may contain toxic chemicals and life-threatening	
-T-1873	turkey meat	turkey meat	bacteria	bacteria	may contain toxic chemicals and life-threatening	
-T-1873	poultry	poultry	cancer	cancer	have four times greater risk of developing prostate	
-T-1873	poultry	poultry	manure	manure	the leftover guts, heads, feet,	
-T-1873	protein	protein	poultry	poultry	intake is generally associated with weight gain,	
-T-1873	diabetes	diabetes	pancreatic cancer	pancreatic cancer	and the development of	
+T-1873	meat	meat	processed meat	processed meat	or	
+T-1873	prostate cancer	prostate cancer	poultry	poultry	compared with non-	
 T-1873	e. coli	e. coli	salmonella	salmonella	and	
-T-1873	campylobacter	campylobacter	aging	aging	bacteria, damage blood vessels, accelerate	
-T-1873	fat	fat	diabetes	diabetes	content, poultry appears to promote	
-T-1873	pancreatic cancer	pancreatic cancer	animal products	animal products	more than other	
+T-1873	plants	plants	risk	risk	have significantly increased	
+T-1873	birds	birds	arsenic	arsenic	are fed	

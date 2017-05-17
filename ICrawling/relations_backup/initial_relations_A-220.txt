@@ -1,77 +1,22 @@
 
-A-220	fish	fish	risk	risk	a week is associated with a 5% increased	
+A-220	organic pollutants	organic pollutants	animal foods	animal foods	comes from	
 A-220	smoking	smoking	lung cancer	lung cancer	and	
-A-220	diabetes	diabetes	persistent organic pollutants	persistent organic pollutants	risk, since more than 90% of the	
 A-220	pregnancy	pregnancy	mercury	mercury	is because the half-life of	
-A-220	organic	organic	diabetes	diabetes	pollutants related to the risk of	
-A-220	diabetes	diabetes	organic	organic	risk, since more than 90% of the persistent	
-A-220	dha	dha	fish	fish	for most species of	
-A-220	industrial pollutants	industrial pollutants	vegans	vegans	in	
-A-220	fish	fish	pregnancy	pregnancy	for a year before	
-A-220	fish	fish	detox	detox	consumption our bodies can	
-A-220	fish	fish	eggs	eggs	and	
-A-220	organic	organic	pollutants	pollutants		
-A-220	diabetes	diabetes	organic pollutants	organic pollutants	risk, since more than 90% of the persistent	
-A-220	mothers	mothers	pregnancy	pregnancy	’ increased consumption of fish before and during	
-A-220	pcbs	pcbs	fish	fish	are found most concentrated in	
-A-220	mercury	mercury	fish	fish	in	
-A-220	pcb	pcb	chemical pollutants	chemical pollutants		
 A-220	pollutants	pollutants	fish	fish	in	
-A-220	mothers	mothers	fish	fish	’ increased consumption of	
-A-220	fish	fish	mercury	mercury	(see	
-A-220	ddt	ddt	blood	blood	in umbilical cord	
+A-220	women	women	fish	fish	may want to avoid	
 A-220	organic pollutants	organic pollutants	risk	risk	related to the	
-A-220	diabetes	diabetes	risk	risk		
-A-220	eggs	eggs	chemical pollutants	chemical pollutants	(food sources of pcb	
-A-220	fish	fish	mercury	mercury	with high levels of	
+A-220	industrial pollutants	industrial pollutants	vegans	vegans	in	
 A-220	eggs	eggs	diabetes	diabetes	and	
-A-220	fish	fish	mercury	mercury	to push their	
-A-220	pregnancy	pregnancy	mercury	mercury	leads to increased exposure to both	
+A-220	persistent organic pollutants	persistent organic pollutants	risk	risk	related to the	
+A-220	contaminants	contaminants	diabetes	diabetes	are associated with 38 times the odds of	
+A-220	fish	fish	eggs	eggs	and	
 A-220	persistent organic pollutants	persistent organic pollutants	animal foods	animal foods	comes from	
 A-220	mercury	mercury	vaccines	vaccines	containing	
-A-220	detox	detox	fish	fish	from	
 A-220	industrial pollutants	industrial pollutants	fish	fish	in	
-A-220	persistent organic pollutants	persistent organic pollutants	diabetes	diabetes	related to the risk of	
-A-220	detox	detox	pregnancy	pregnancy	from fish before	
-A-220	fish	fish	pcb	pcb	and eggs (food sources of	
-A-220	mercury	mercury	fish	fish		
-A-220	infants	infants	mercury	mercury	end up with substantially more	
-A-220	children	children	vaccines	vaccines	to mercury containing	
-A-220	fish	fish	pollutants	pollutants	and eggs (food sources of pcb chemical	
-A-220	mercury	mercury	dha	dha	and the long-chain omega 3	
-A-220	mercury	mercury	fish	fish	levels up, and then stopped the	
-A-220	fish	fish	pregnancy	pregnancy	during	
-A-220	organic	organic	risk	risk	pollutants related to the	
-A-220	tuna	tuna	fish	fish	and other high mercury	
-A-220	fish	fish	pregnancy	pregnancy	before and during	
-A-220	pcbs	pcbs	eggs	eggs	are found most concentrated in fish and	
-A-220	pcb	pcb	pollutants	pollutants	chemical	
-A-220	tuna	tuna	mercury	mercury	and other high	
-A-220	contaminants	contaminants	diabetes	diabetes	are associated with 38 times the odds of	
-A-220	mercury	mercury	women	women	sticks around in the body,	
-A-220	risk	risk	fish	fish	of diabetes, which makes	
-A-220	children	children	mercury	mercury	to	
-A-220	dha	dha	mercury	mercury	for most species of fish (see	
-A-220	detox	detox	mercury	mercury	nearly 99% of the	
-A-220	mercury	mercury	omega 3	omega 3	and the long-chain	
-A-220	ddt	ddt	fish	fish	metabolites found in	
-A-220	ddt	ddt	umbilical cord blood	umbilical cord blood	in	
-A-220	smoking	smoking	cancer	cancer	and lung	
-A-220	diabetes	diabetes	obesity	obesity	mostly associated with	
-A-220	organic pollutants	organic pollutants	animal foods	animal foods	comes from	
-A-220	women	women	fish	fish	may want to avoid	
-A-220	organic	organic	animal foods	animal foods	pollutants comes from	
-A-220	fish	fish	infants	infants	during pregnancy, the latest data shows that their	
-A-220	persistent organic pollutants	persistent organic pollutants	risk	risk	related to the	
-A-220	omega 3	omega 3	dha	dha		
-A-220	fish	fish	pregnancy	pregnancy	before	
-A-220	eggs	eggs	pollutants	pollutants	(food sources of pcb chemical	
-A-220	eggs	eggs	pcb	pcb	(food sources of	
-A-220	diabetes	diabetes	smoking	smoking	—that’s as strong as the relationship between	
 A-220	risk	risk	diabetes	diabetes	of	
-A-220	mercury	mercury	dha	dha	appears to outweigh the beneficial effect of	
-A-220	organic pollutants	organic pollutants	diabetes	diabetes	related to the risk of	
+A-220	pcbs	pcbs	fish	fish	are found most concentrated in	
+A-220	mercury	mercury	fish	fish	in	
 A-220	mercury	mercury	baby	baby	may negatively affect brain development in one’s unborn	
-A-220	obesity	obesity	chemicals	chemicals	“may only be a vehicle” for such	
-A-220	fish	fish	chemical pollutants	chemical pollutants	and eggs (food sources of pcb	
 A-220	fda	fda	epa	epa	and	
+A-220	infants	infants	mercury	mercury	end up with substantially more	
+A-220	ddt	ddt	umbilical cord blood	umbilical cord blood	in	

@@ -1,38 +1,9 @@
 
-V-121	cancer survival	cancer survival	plant-based diets	plant-based diets	trials require adherence to strict,	
-V-121	prostate cancer	prostate cancer	plant-based	plant-based	with a	
-V-121	vegetables	vegetables	meat	meat	are for girls,” and sections like “men and	
-V-121	prostate cancer	prostate cancer	treatment	treatment		
+V-121	dean ornish	dean ornish	prostate cancer	prostate cancer	was apparently able to reverse the progression of	
 V-121	fruit	fruit	vegetables	vegetables	and	
 V-121	prostate cancer	prostate cancer	diet	diet	make	
-V-121	prostate	prostate	plant-based diet	plant-based diet	cancer with a	
-V-121	diet	diet	pork	pork	that prohibits beef and	
-V-121	cancer	cancer	plant-based diets	plant-based diets	survival trials require adherence to strict,	
-V-121	prostate	prostate	diet	diet	cancer make	
-V-121	incontinence	incontinence	orgasm	orgasm	during foreplay, stimulation, or	
-V-121	convenience	convenience	meat	meat	food and	
-V-121	prostate cancer	prostate cancer	diet	diet	with a plant-based	
-V-121	prostate	prostate	cancer treatment	cancer treatment		
-V-121	prostate cancer	prostate cancer	plant-based diet	plant-based diet	with a	
-V-121	prostate	prostate	diet	diet	cancer with a plant-based	
-V-121	prostate	prostate	cancer	cancer		
-V-121	cancer	cancer	diet	diet	make	
-V-121	cancer	cancer	plant-based	plant-based	with a	
-V-121	pain	pain	incontinence	incontinence	even years later and urinary	
-V-121	convenience	convenience	health	health	food and meat, and drink beer.take men’s	
-V-121	cancer	cancer	plant-based	plant-based	survival trials require adherence to strict,	
-V-121	orgasm	orgasm	pain	pain	-associated	
-V-121	dean ornish	dean ornish	prostate	prostate	was apparently able to reverse the progression of	
-V-121	orgasm	orgasm	incontinence	incontinence	-associated pain even years later and urinary	
-V-121	diet	diet	beef	beef	that prohibits	
-V-121	plant-based	plant-based	nutrition	nutrition	diets, and though researchers tried providing extensive	
-V-121	surgery	surgery	erectile dysfunction	erectile dysfunction	level of erectile functioning.patients are typically quoted	
-V-121	prostate	prostate	treatment	treatment	cancer	
-V-121	dean ornish	dean ornish	prostate cancer	prostate cancer	was apparently able to reverse the progression of	
 V-121	ornish	ornish	prostate cancer	prostate cancer	was apparently able to reverse the progression of	
-V-121	cancer survival	cancer survival	plant-based	plant-based	trials require adherence to strict,	
-V-121	cancer	cancer	treatment	treatment		
+V-121	cancer	cancer	diet	diet	make	
+V-121	dean ornish	dean ornish	prostate	prostate	was apparently able to reverse the progression of	
 V-121	ornish	ornish	prostate	prostate	was apparently able to reverse the progression of	
-V-121	prostate	prostate	plant-based	plant-based	cancer with a	
 V-121	beef	beef	pork	pork	and	
-V-121	plant-based	plant-based	nutrition education	nutrition education	diets, and though researchers tried providing extensive	

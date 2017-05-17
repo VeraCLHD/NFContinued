@@ -1,116 +1,28 @@
 
-A-182	heme iron	heme iron	meat	meat	in muscle	
-A-182	colon	colon	death	death	cancer is the second leading cause of cancer	
-A-182	treatment	treatment	cancer	cancer	see phytates for rehabilitating	
-A-182	risk	risk	red meat	red meat	of cancer for higher intakes of both	
-A-182	risk	risk	meat	meat	of cancer for higher intakes of both red	
-A-182	prevention	prevention	phytates	phytates	and treatment see	
-A-182	colon	colon	cancer	cancer		
-A-182	phytates	phytates	cancer prevention	cancer prevention	may play a role in both	
-A-182	risk	risk	cancer	cancer	factors for	
-A-182	red meat	red meat	colon	colon	and white meat, suggesting all meats contribute to	
-A-182	prevention	prevention	cancer cells	cancer cells	and treatment see phytates for rehabilitating	
-A-182	standard american diet	standard american diet	heme iron	heme iron	may be a double whammy, the	
-A-182	breast cancer survival	breast cancer survival	soy	soy	and	
-A-182	minerals	minerals	manganese	manganese	(like iron, zinc and	
-A-182	phytates	phytates	prevention	prevention	may play a role in both cancer	
-A-182	phytates	phytates	cancer	cancer	for the prevention of	
-A-182	breast cancer	breast cancer	soy	soy	genes and	
-A-182	phytates	phytates	cancer	cancer	for rehabilitating	
-A-182	breast cancer survival	breast cancer survival	cancer	cancer	and soy and brca breast	
-A-182	cancer	cancer	white meat	white meat	for higher intakes of both red meat and	
-A-182	minerals	minerals	zinc	zinc	(like iron,	
-A-182	meat	meat	colon	colon	and white meat, suggesting all meats contribute to	
 A-182	split peas	split peas	lentils	lentils	and	
-A-182	meat	meat	plant foods	plant foods	plus the lack of phytate in refined	
-A-182	cancer	cancer	cancer	cancer	survival and soy and brca breast	
-A-182	prevention	prevention	treatment	treatment	and	
-A-182	cancer	cancer	meat	meat	for higher intakes of both red	
-A-182	colon	colon	red meat	red meat	cancer formation — about twice the risk for	
-A-182	risk	risk	meat	meat	in two ways: by cutting down on	
-A-182	cancer	cancer	breast cancer	breast cancer	survival and soy and brca	
-A-182	colon cancer	colon cancer	risk	risk	formation — about twice the	
-A-182	red meat	red meat	meat	meat	and white	
-A-182	chicken	chicken	fish	fish	and	
-A-182	cancer	cancer	phytates	phytates	prevention and treatment see	
-A-182	treatment	treatment	cancer cells	cancer cells	see phytates for rehabilitating	
-A-182	cancer	cancer	plant-based	plant-based	rates among	
-A-182	meats	meats	colon	colon	contribute to	
-A-182	diet	diet	iron	iron	may be a double whammy, the heme	
-A-182	meat	meat	risk	risk	could reduce their	
-A-182	cancer	cancer	stool size	stool size	in	
-A-182	prevention	prevention	cancer	cancer	of	
-A-182	red meat	red meat	meats	meats	and white meat, suggesting all	
-A-182	phytates	phytates	treatment	treatment	for rehabilitating cancer cells and phytates for the	
-A-182	zinc	zinc	manganese	manganese	and	
-A-182	cancer	cancer	cancer	cancer	prevention and treatment see phytates for rehabilitating	
-A-182	colon cancer	colon cancer	cancer	cancer	is the second leading cause of	
-A-182	cancer cells	cancer cells	phytates	phytates	and	
-A-182	cancer	cancer	soy	soy	genes and	
-A-182	breast cancer survival	breast cancer survival	breast cancer	breast cancer	and soy and brca	
-A-182	colon cancer	colon cancer	death	death	is the second leading cause of cancer	
 A-182	red meat	red meat	white meat	white meat	and	
 A-182	prevention	prevention	osteoporosis	osteoporosis	of	
 A-182	meat	meat	white meat	white meat	and	
-A-182	breast cancer	breast cancer	soy	soy	survival and	
 A-182	fiber	fiber	plant foods	plant foods	isn’t the only thing found in whole	
-A-182	meat	meat	risk	risk	eaters, and three times the	
 A-182	phytates	phytates	cancer	cancer	may play a role in both	
-A-182	red meat	red meat	risk	risk	eaters, and three times the	
 A-182	cancer prevention	cancer prevention	treatment	treatment	and	
-A-182	phytates	phytates	prevention	prevention	for the	
-A-182	soy	soy	breast cancer	breast cancer	and brca	
 A-182	treatment	treatment	phytates	phytates	see	
 A-182	meats	meats	colon cancer	colon cancer	contribute to	
-A-182	risk	risk	meat	meat	for red	
-A-182	iron	iron	meat	meat	in muscle	
 A-182	soybeans	soybeans	cancer	cancer	and	
-A-182	cancer	cancer	meat	meat	formation — about twice the risk for red	
-A-182	diet	diet	heme iron	heme iron	may be a double whammy, the	
-A-182	risk	risk	cancer	cancer	of	
-A-182	colon	colon	stool size	stool size	cancer in	
-A-182	meat	meat	cancer	cancer	intake can be found in my video reducing	
-A-182	cancer prevention	cancer prevention	cancer cells	cancer cells	and treatment see phytates for rehabilitating	
-A-182	anti-inflammatory	anti-inflammatory	health	health		
-A-182	cancer	cancer	treatment	treatment	cells and phytates for the	
-A-182	colon cancer	colon cancer	red meat	red meat	formation — about twice the risk for	
-A-182	phytates	phytates	prevention	prevention	in my video phytates for the	
-A-182	meat	meat	risk	risk	and low vegetable, were at eight times the	
-A-182	colon cancer	colon cancer	meat	meat	formation — about twice the risk for red	
-A-182	cancer	cancer	soy	soy	survival and	
-A-182	meat	meat	meats	meats	and white meat, suggesting all	
-A-182	treatment	treatment	cancer	cancer	of	
-A-182	breast cancer	breast cancer	cancer	cancer	survival and soy and brca breast	
-A-182	cancer	cancer	treatment	treatment	prevention and	
-A-182	cancer	cancer	phytates	phytates	cells and	
-A-182	cancer survival	cancer survival	cancer	cancer	and soy and brca breast	
-A-182	cancer	cancer	red meat	red meat	formation — about twice the risk for	
-A-182	cancer survival	cancer survival	soy	soy	and	
-A-182	cancer prevention	cancer prevention	phytates	phytates	and treatment see	
-A-182	phytates	phytates	osteoporosis	osteoporosis	in my video phytates for the prevention of	
-A-182	beans	beans	gas	gas	and	
-A-182	minerals	minerals	iron	iron	(like	
-A-182	colon	colon	risk	risk	cancer formation — about twice the	
-A-182	cancer	cancer	cancer	cancer	is the second leading cause of	
-A-182	prevention	prevention	cancer	cancer	and treatment see phytates for rehabilitating	
-A-182	cancer	cancer	risk	risk		
+A-182	prevention	prevention	treatment	treatment	and	
 A-182	peas	peas	lentils	lentils	and	
-A-182	cancer cells	cancer cells	treatment	treatment	and phytates for the	
-A-182	fruit	fruit	music	music	: what about that	
-A-182	soy	soy	cancer	cancer	and brca breast	
-A-182	meat	meat	colon cancer	colon cancer	and white meat, suggesting all meats contribute to	
-A-182	cancer prevention	cancer prevention	cancer	cancer	and treatment see phytates for rehabilitating	
+A-182	risk	risk	cancer	cancer	of	
+A-182	phytates	phytates	minerals	minerals	have a somewhat negative reputation for binding to certain	
+A-182	phytates	phytates	cancer prevention	cancer prevention	may play a role in both	
+A-182	chicken	chicken	fish	fish	and	
 A-182	colon cancer	colon cancer	stool size	stool size	in	
-A-182	cancer cells	cancer cells	cancer	cancer	and phytates for the treatment of	
-A-182	cancer	cancer	red meat	red meat	for higher intakes of both	
-A-182	cancer	cancer	death	death	is the second leading cause of cancer	
-A-182	risk	risk	red meat	red meat	for	
-A-182	standard american diet	standard american diet	iron	iron	may be a double whammy, the heme	
-A-182	cancer	cancer	cancer cells	cancer cells	prevention and treatment see phytates for rehabilitating	
-A-182	phytates	phytates	cancer	cancer	for the treatment of	
-A-182	plant foods	plant foods	iron	iron	to extinguish the	
-A-182	cancer survival	cancer survival	breast cancer	breast cancer	and soy and brca	
-A-182	meats	meats	cancer	cancer	contribute to colon	
-A-182	cancer	cancer	prevention	prevention		
-A-182	meat	meat	vegetables	vegetables	we eat, but our meat to	
-A-182	red meat	red meat	colon cancer	colon cancer	and white meat, suggesting all meats contribute to	
+A-182	treatment	treatment	cancer	cancer	of	
+A-182	meats	meats	colon	colon	contribute to	
+A-182	breast cancer survival	breast cancer survival	soy	soy	and	
+A-182	meat	meat	risk	risk	could reduce their	
+A-182	cancer	cancer	stool size	stool size	in	
+A-182	prevention	prevention	cancer	cancer	of	
+A-182	cancer survival	cancer survival	soy	soy	and	
+A-182	beans	beans	gas	gas	and	
+A-182	zinc	zinc	manganese	manganese	and	
+A-182	cancer cells	cancer cells	phytates	phytates	and	

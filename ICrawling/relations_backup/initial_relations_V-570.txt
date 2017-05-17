@@ -1,17 +1,5 @@
 
 V-570	acrylamide	acrylamide	cooking	cooking	is a chemical formed by	
-V-570	acrylamide	acrylamide	carbs	carbs	is a chemical formed by cooking	
-V-570	carrageenan	carrageenan	gut	gut	consumption could possibly lead to a leaky	
-V-570	carrageenan	carrageenan	acrylamide	acrylamide	the way i view	
-V-570	carcinogen	carcinogen	potato chips	potato chips	acrylamide as just another reason to avoid	
-V-570	lead	lead	gut	gut	to a leaky	
-V-570	cooking	cooking	carbs	carbs		
 V-570	ireland	ireland	algae	algae	started using a red	
-V-570	colon	colon	europe	europe	tissue samples,	
 V-570	potato chips	potato chips	french fries	french fries	and	
-V-570	dairy	dairy	fat	fat	and nondairy products, as well as a	
-V-570	colon	colon	infant formula	infant formula	tissue samples, europe pulled it from	
 V-570	europe	europe	infant formula	infant formula	pulled it from	
-V-570	carcinogen	carcinogen	acrylamide	acrylamide		
-V-570	acrylamide	acrylamide	potato chips	potato chips	as just another reason to avoid	
-V-570	carrageenan	carrageenan	lead	lead	consumption could possibly	

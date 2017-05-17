@@ -1,10 +1,6 @@
 
 T-588	plant-based diet	plant-based diet	diverticulitis	diverticulitis	may help treat and prevent	
 T-588	nuts	nuts	inflammation	inflammation	may be beneficial in lowering	
-T-588	disease	disease	fiber	fiber	and may be caused by not eating enough	
 T-588	diet	diet	diverticulitis	diverticulitis	may help treat and prevent	
 T-588	risk	risk	diverticulosis	diverticulosis	of	
 T-588	plant-based diets	plant-based diets	fiber	fiber	are often high in	
-T-588	plant-based	plant-based	fiber	fiber	diets are often high in	
-T-588	plant-based	plant-based	diet	diet		
-T-588	plant-based	plant-based	diverticulitis	diverticulitis	diet may help treat and prevent	

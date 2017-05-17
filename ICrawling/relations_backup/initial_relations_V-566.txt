@@ -1,38 +1,4 @@
 
-V-566	bacteria	bacteria	energy	energy	fermenting the sugar in milk to make	
-V-566	muscles	muscles	diet	diet	ferment sugar in our	
-V-566	sugar	sugar	muscles	muscles	in milk to make energy for themselves, our	
-V-566	muscles	muscles	exercise	exercise	when we	
-V-566	muscles	muscles	sugar	sugar	ferment	
-V-566	lactic acid	lactic acid	yogurt	yogurt	that makes	
-V-566	blood	blood	muscles	muscles	vessels in our	
-V-566	muscles	muscles	energy	energy	ferment sugar in our diet to produce	
-V-566	sugar	sugar	coca-cola	coca-cola	spike one might see after drinking	
-V-566	bacteria	bacteria	milk	milk	fermenting the sugar in	
-V-566	sugar	sugar	energy	energy	in milk to make	
-V-566	yogurt	yogurt	lactic acid	lactic acid	tangy is the same	
-V-566	diet	diet	energy	energy	to produce	
-V-566	citrus	citrus	blood	blood	group experienced “a significant decrease in	
-V-566	blood	blood	coca-cola	coca-cola	sugar spike one might see after drinking	
-V-566	milk	milk	energy	energy	to make	
-V-566	lactic acid	lactic acid	muscles	muscles	builds up in our	
-V-566	energy	energy	diet	diet	for themselves, our muscles ferment sugar in our	
-V-566	orange	orange	juice	juice		
-V-566	muscles	muscles	produce	produce	ferment sugar in our diet to	
 V-566	sugar	sugar	milk	milk	in	
-V-566	milk	milk	muscles	muscles	to make energy for themselves, our	
-V-566	diet	diet	produce	produce	to	
-V-566	produce	produce	energy	energy		
-V-566	energy	energy	sugar	sugar	for themselves, our muscles ferment	
-V-566	exercise	exercise	citrus	citrus	program, but the	
 V-566	bacteria	bacteria	sugar	sugar	fermenting the	
-V-566	blood sugar	blood sugar	coca-cola	coca-cola	spike one might see after drinking	
-V-566	sugar	sugar	energy	energy	in our diet to produce	
-V-566	sugar	sugar	orange	orange	in the form of	
-V-566	fruit	fruit	sugar	sugar		
-V-566	burning	burning	muscles	muscles	sensation in our	
-V-566	fiber	fiber	sugar	sugar	that slows the rate of fruit	
-V-566	fiber	fiber	fruit	fruit	that slows the rate of	
-V-566	milk	milk	sugar	sugar	to make energy for themselves, our muscles ferment	
-V-566	energy	energy	muscles	muscles	for themselves, our	
-V-566	blood	blood	sugar	sugar		
+V-566	lactic acid	lactic acid	muscles	muscles	builds up in our	

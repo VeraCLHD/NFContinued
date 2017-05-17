@@ -1,27 +1,4 @@
 
-V-71	women	women	breast cancer	breast cancer	who did not have	
-V-71	leukemia	leukemia	cancer	cancer	virus is really causing thousands of cases of breast	
-V-71	women	women	breast cancer	breast cancer	without	
-V-71	cancer	cancer	bovine leukemia virus	bovine leukemia virus	cases may be attributable to exposure to	
-V-71	women	women	cancer	cancer	without breast	
-V-71	viruses	viruses	dna	dna	can make proteins that interfere with our	
-V-71	cancer	cancer	virus	virus	-causing cow	
-V-71	bovine leukemia virus	bovine leukemia virus	cancer	cancer	 is really causing thousands of cases of breast	
-V-71	women	women	virus	virus	without breast cancer harbored the	
-V-71	women	women	cancer	cancer	who did not have breast	
-V-71	leukemia	leukemia	virus	virus		
-V-71	breast cancer	breast cancer	virus	virus	harbored the	
-V-71	leukemia	leukemia	cancer	cancer	virus, a	
-V-71	drugs	drugs	virus	virus	) may be able to counter the	
-V-71	bovine leukemia virus	bovine leukemia virus	virus	virus	 is a blood-borne	
-V-71	bovine leukemia virus	bovine leukemia virus	breast cancer	breast cancer	 is really causing thousands of cases of	
-V-71	cancer	cancer	leukemia	leukemia	cases may be attributable to exposure to bovine	
-V-71	aids	aids	virus	virus	drugs) may be able to counter the	
 V-71	cancer	cancer	virus	virus	harbored the	
-V-71	breast cancer	breast cancer	leukemia	leukemia	cases may be attributable to exposure to bovine	
-V-71	leukemia	leukemia	milk	milk	virus, a cancer-causing cow virus, found in the	
-V-71	virus	virus	cancer	cancer	in their breast, and feel perfectly fine, the	
-V-71	breast cancer	breast cancer	bovine leukemia virus	bovine leukemia virus	cases may be attributable to exposure to	
-V-71	leukemia	leukemia	breast cancer	breast cancer	virus is really causing thousands of cases of	
-V-71	milk	milk	dairy	dairy	of nearly every	
-V-71	aids	aids	drugs	drugs		
+V-71	breast cancer	breast cancer	virus	virus	harbored the	
+V-71	bovine leukemia virus	bovine leukemia virus	breast cancer	breast cancer	 is really causing thousands of cases of	

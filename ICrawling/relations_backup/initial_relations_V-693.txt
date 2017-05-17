@@ -1,23 +1,5 @@
 
-V-693	aging	aging	amphetamines	amphetamines	women.here, in this 1946 medical journal ad,	
-V-693	women	women	risk	risk	on hormone replacement therapy suffered increased	
-V-693	women	women	urine	urine	were sold hormones from pregnant mare	
-V-693	women	women	hormones	hormones	were sold	
-V-693	pregnant	pregnant	urine	urine	mare	
-V-693	memory	memory	dementia	dementia	—but may have, in fact, caused	
-V-693	hormones	hormones	pregnant	pregnant	from	
-V-693	risk	risk	disease	disease	of heart	
-V-693	risk	risk	breast cancer	breast cancer	of heart disease, stroke, pulmonary embolism, and invasive	
-V-693	medicine	medicine	aging	aging	’s view about	
-V-693	women	women	memory	memory	’s	
-V-693	risk	risk	heart disease	heart disease	of	
-V-693	electroconvulsive therapy	electroconvulsive therapy	menopause	menopause	(electroshock treatments) were prescribed for	
-V-693	risk	risk	stroke	stroke	of heart disease,	
-V-693	women	women	heart disease	heart disease	on hormone replacement therapy suffered increased risk of	
+V-693	united states	united states	medicine	medicine	tells you everything you need to know about western	
 V-693	doctors	doctors	thorazine	thorazine	could throw in a little	
-V-693	menopause	menopause	united states	united states	in the	
-V-693	electroconvulsive therapy	electroconvulsive therapy	united states	united states	(electroshock treatments) were prescribed for menopause in the	
-V-693	women	women	dementia	dementia	’s memory—but may have, in fact, caused	
-V-693	women	women	pregnant	pregnant	were sold hormones from	
-V-693	risk	risk	pulmonary embolism	pulmonary embolism	of heart disease, stroke,	
-V-693	hormones	hormones	urine	urine	from pregnant mare	
+V-693	women	women	hormones	hormones	were sold	
+V-693	risk	risk	heart disease	heart disease	of	

@@ -1,20 +1,4 @@
 
-T-1050	kidney	kidney	cancer	cancer		
-T-1050	cooked meat	cooked meat	plant-based	plant-based	carcinogens in one’s diet by eating a more	
-T-1050	meat	meat	diet	diet	carcinogens in one’s	
 T-1050	risk	risk	kidney cancer	kidney cancer	of	
-T-1050	carcinogens	carcinogens	plant-based	plant-based	in one’s diet by eating a more	
-T-1050	death	death	cancer	cancer	receptors in kidney	
-T-1050	risk	risk	kidney	kidney	of	
-T-1050	death	death	kidney	kidney	receptors in	
-T-1050	death	death	kidney cancer	kidney cancer	receptors in	
-T-1050	death	death	cancer cells	cancer cells	receptors in kidney	
-T-1050	cooked meat	cooked meat	diet	diet	carcinogens in one’s	
 T-1050	turmeric	turmeric	death	death	may be particularly powerful in activating	
-T-1050	risk	risk	cancer	cancer	of kidney	
-T-1050	cooked meat	cooked meat	carcinogens	carcinogens		
-T-1050	meat	meat	plant-based	plant-based	carcinogens in one’s diet by eating a more	
-T-1050	diet	diet	plant-based	plant-based	by eating a more	
-T-1050	meat	meat	carcinogens	carcinogens		
-T-1050	carcinogens	carcinogens	diet	diet	in one’s	
-T-1050	kidney	kidney	cancer cells	cancer cells		
+T-1050	risk	risk	kidney	kidney	of	

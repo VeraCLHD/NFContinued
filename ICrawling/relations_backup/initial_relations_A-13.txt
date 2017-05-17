@@ -1,35 +1,6 @@
 
-A-13	gorlin syndrome	gorlin syndrome	turmeric	turmeric	with green tea and topical application of	
-A-13	gorlin syndrome	gorlin syndrome	green tea	green tea	with	
-A-13	chemo	chemo	cetuximab	cetuximab	drugs, like	
-A-13	chemo	chemo	drugs	drugs		
-A-13	oatmeal	oatmeal	disease	disease	help fatty liver	
-A-13	tea	tea	curcumin	curcumin	and topical application of turmeric	
-A-13	green tea	green tea	cancer	cancer	and topical application of turmeric curcumin for	
-A-13	green tea	green tea	curcumin	curcumin	and topical application of turmeric	
-A-13	drugs	drugs	oatmeal	oatmeal	in dermatology notes	
-A-13	skin	skin	plastic	plastic	fragments from	
-A-13	skin	skin	surgery	surgery	fragments from plastic	
-A-13	syndrome	syndrome	curcumin	curcumin	with green tea and topical application of turmeric	
-A-13	turmeric	turmeric	curcumin	curcumin		
-A-13	tea	tea	cancer	cancer	and topical application of turmeric curcumin for	
-A-13	cetuximab	cetuximab	cancer	cancer	is often given for metastatic colorectal	
-A-13	curcumin	curcumin	cancer	cancer	for	
-A-13	plastic	plastic	surgery	surgery		
-A-13	cetuximab	cetuximab	colorectal cancer	colorectal cancer	is often given for metastatic	
-A-13	chemo	chemo	rash	rash	drugs, like cetuximab, that can cause an awful	
-A-13	green tea	green tea	turmeric	turmeric	and topical application of	
-A-13	oatmeal	oatmeal	fatty liver disease	fatty liver disease	help	
-A-13	oatmeal	oatmeal	liver disease	liver disease	help fatty	
-A-13	oatmeal	oatmeal	rash	rash	lotion for chemotherapy-induced	
 A-13	phytonutrients	phytonutrients	oats	oats	found in	
-A-13	tea	tea	turmeric	turmeric	and topical application of	
-A-13	oatmeal	oatmeal	liver	liver	help fatty	
-A-13	turmeric	turmeric	cancer	cancer	curcumin for	
-A-13	liver	liver	disease	disease		
-A-13	syndrome	syndrome	green tea	green tea	with	
-A-13	gorlin syndrome	gorlin syndrome	curcumin	curcumin	with green tea and topical application of turmeric	
-A-13	syndrome	syndrome	turmeric	turmeric	with green tea and topical application of	
-A-13	syndrome	syndrome	tea	tea	with green	
-A-13	gorlin syndrome	gorlin syndrome	tea	tea	with green	
-A-13	chemotherapy	chemotherapy	skin	skin	just applied to the	
+A-13	oatmeal	oatmeal	skin	skin	has been used for centuries as a topical soothing agent on the	
+A-13	cetuximab	cetuximab	cancer	cancer	is often given for metastatic colorectal	
+A-13	cetuximab	cetuximab	colorectal cancer	colorectal cancer	is often given for metastatic	
+A-13	oatmeal	oatmeal	chemotherapy	chemotherapy	is so powerful that it can clear up some of the ravages of	

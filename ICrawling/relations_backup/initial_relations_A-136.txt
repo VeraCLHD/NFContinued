@@ -1,51 +1,6 @@
 
-A-136	broccoli	broccoli	supplements	supplements	phytonutrients is dramatically lower when subjects consume broccoli	
-A-136	diabetes	diabetes	inflammation	inflammation	to reduce oxidative stress,	
-A-136	insulin	insulin	fasting blood sugars	fasting blood sugars	resistance and	
-A-136	sprouts	sprouts	diabetes	diabetes	as a complementary treatment in	
-A-136	sprouts	sprouts	broccoli	broccoli	vs. supplements, you can see the spike in	
-A-136	insulin resistance	insulin resistance	blood	blood	and fasting	
-A-136	treatment	treatment	insulin	insulin	in diabetes to reduce oxidative stress, inflammation, and	
-A-136	broccoli	broccoli	sprouts	sprouts	or broccoli	
-A-136	phytonutrients	phytonutrients	broccoli	broccoli	is dramatically lower when subjects consume	
-A-136	treatment	treatment	oxidative stress	oxidative stress	in diabetes to reduce	
-A-136	broccoli	broccoli	broccoli sprouts	broccoli sprouts	or	
-A-136	sprouts	sprouts	broccoli	broccoli	but still want the benefits of the	
-A-136	phytonutrients	phytonutrients	supplements	supplements	is dramatically lower when subjects consume broccoli	
-A-136	antioxidant	antioxidant	sprouting	sprouting	phytonutrients appear to peak around	
-A-136	broccoli	broccoli	treatment	treatment	sprouts as a complementary	
-A-136	sprouts	sprouts	treatment	treatment	as a complementary	
-A-136	diabetes	diabetes	stress	stress	to reduce oxidative	
-A-136	broccoli sprouts	broccoli sprouts	broccoli	broccoli	but still want the benefits of the	
-A-136	sprouts	sprouts	oxidative stress	oxidative stress	as a complementary treatment in diabetes to reduce	
-A-136	treatment	treatment	stress	stress	in diabetes to reduce oxidative	
-A-136	sulforaphane	sulforaphane	broccoli	broccoli	: from	
-A-136	treatment	treatment	inflammation	inflammation	in diabetes to reduce oxidative stress,	
-A-136	broccoli sprouts	broccoli sprouts	diabetes	diabetes	as a complementary treatment in	
-A-136	sulforaphane	sulforaphane	broccoli	broccoli	content in	
-A-136	sprouts	sprouts	phytonutrients	phytonutrients	but still want the benefits of the broccoli	
-A-136	sprouts	sprouts	supplements	supplements	vs.	
-A-136	sulforaphane	sulforaphane	sprouts	sprouts	content in broccoli	
-A-136	bioavailability	bioavailability	phytonutrients	phytonutrients	of broccoli	
-A-136	bioavailability	bioavailability	broccoli	broccoli	of	
-A-136	detox	detox	broccoli	broccoli	and sulfurophane: from	
-A-136	phytonutrients	phytonutrients	sprouts	sprouts	in the bloodstream of those eating	
-A-136	sulforaphane	sulforaphane	broccoli sprouts	broccoli sprouts	content in	
-A-136	diabetes	diabetes	oxidative stress	oxidative stress	to reduce	
 A-136	insulin resistance	insulin resistance	fasting blood sugars	fasting blood sugars	and	
+A-136	broccoli	broccoli	broccoli sprouts	broccoli sprouts	or	
 A-136	treatment	treatment	diabetes	diabetes	in	
 A-136	phytonutrients	phytonutrients	sprouting	sprouting	appear to peak around	
-A-136	diabetes	diabetes	insulin resistance	insulin resistance	to reduce oxidative stress, inflammation, and	
-A-136	broccoli sprouts	broccoli sprouts	oxidative stress	oxidative stress	as a complementary treatment in diabetes to reduce	
-A-136	diabetes	diabetes	insulin	insulin	to reduce oxidative stress, inflammation, and	
-A-136	broccoli	broccoli	supplements	supplements	: sprouts vs.	
-A-136	broccoli sprouts	broccoli sprouts	treatment	treatment	as a complementary	
-A-136	antioxidant	antioxidant	phytonutrients	phytonutrients		
-A-136	insulin	insulin	blood	blood	resistance and fasting	
-A-136	broccoli	broccoli	sprouts	sprouts		
-A-136	broccoli	broccoli	supplements	supplements		
-A-136	broccoli	broccoli	diabetes	diabetes	sprouts as a complementary treatment in	
-A-136	broccoli sprouts	broccoli sprouts	phytonutrients	phytonutrients	but still want the benefits of the broccoli	
-A-136	treatment	treatment	insulin resistance	insulin resistance	in diabetes to reduce oxidative stress, inflammation, and	
-A-136	broccoli	broccoli	phytonutrients	phytonutrients		
-A-136	broccoli	broccoli	sprouts	sprouts	phytonutrients in the bloodstream of those eating	
+A-136	bioavailability	bioavailability	broccoli	broccoli	of	

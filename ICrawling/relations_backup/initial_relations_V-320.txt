@@ -1,26 +1,12 @@
 
 V-320	physical activity	physical activity	symptoms	symptoms	has been associated with decreased	
-V-320	treatment	treatment	depression	depression	for major	
-V-320	exercise	exercise	antidepressants	antidepressants	training program may be considered an alternative to	
-V-320	exercise	exercise	depression	depression	as a treatment for	
-V-320	exercise	exercise	treatment	treatment	as a	
-V-320	exercise	exercise	depression	depression	trial of patients with major	
-V-320	depression	depression	physical activity	physical activity	may be associated with low	
 V-320	depression	depression	exercise	exercise	were randomized to either do an aerobic	
-V-320	physical activity	physical activity	depression	depression	has been associated with decreased symptoms of	
+V-320	exercise	exercise	treatment	treatment	is a feasible and effective	
 V-320	treatment	treatment	depression	depression	of	
-V-320	antidepressants	antidepressants	treatment	treatment	for	
+V-320	exercise	exercise	mood	mood	can elevate our	
 V-320	exercise	exercise	treatment	treatment	is rarely prescribed as a	
-V-320	antidepressants	antidepressants	depression	depression	for treatment of	
-V-320	exercise	exercise	depression	depression	is a feasible and effective treatment for	
-V-320	treatment	treatment	exercise	exercise	for depression,	
-V-320	treatment	treatment	depression	depression	for	
-V-320	treatment	treatment	exercise	exercise	groups this time: a home	
 V-320	exercise	exercise	drugs	drugs	can work just as well as	
-V-320	depression	depression	exercise	exercise	into remission.so we can say with confidence that	
 V-320	symptoms	symptoms	depression	depression	of	
+V-320	depression	depression	physical activity	physical activity	may be associated with low	
 V-320	exercise	exercise	depression	depression	didn’t cut down on	
 V-320	exercise	exercise	treatment	treatment	is comparable to antidepressant medication in the	
-V-320	exercise	exercise	treatment	treatment	is a feasible and effective	
-V-320	women	women	depression	depression	over 50 with major	
-V-320	exercise	exercise	mood	mood	can elevate our	

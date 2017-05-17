@@ -1,31 +1,9 @@
 
 V-21	diabetes	diabetes	kids	kids	made	
-V-21	paratuberculosis	paratuberculosis	infection	infection		
-V-21	paratuberculosis	paratuberculosis	diabetes	diabetes	bacteria also explain why type 1	
-V-21	paratuberculosis	paratuberculosis	bacteria	bacteria		
-V-21	bacteria	bacteria	risk	risk	 also explain why type 1 diabetes	
-V-21	infection	infection	kids	kids	made	
-V-21	kids	kids	diabetes	diabetes	more susceptible to	
-V-21	paratuberculosis	paratuberculosis	type 1 diabetes	type 1 diabetes	bacteria also explain why 	
-V-21	diabetes	diabetes	paratuberculosis	paratuberculosis	and	
-V-21	infection	infection	diabetes	diabetes	is not associated with type 2	
-V-21	type 1 diabetes	type 1 diabetes	risk	risk		
-V-21	bacteria	bacteria	type 1 diabetes	type 1 diabetes	as a trigger for the development of	
-V-21	boiling	boiling	milk	milk	of	
-V-21	bacteria	bacteria	pasteurization	pasteurization	ride out	
-V-21	antibodies	antibodies	paratuberculosis	paratuberculosis	recognizing the molecular signatures of mycobacterium	
-V-21	bacteria	bacteria	diabetes	diabetes	exposure and type 1	
 V-21	type 1 diabetes	type 1 diabetes	paratuberculosis	paratuberculosis	and	
-V-21	paratuberculosis	paratuberculosis	diabetes	diabetes	infection is not associated with type 2	
-V-21	bacteria	bacteria	type 1 diabetes	type 1 diabetes	 also explain why 	
-V-21	type 1 diabetes	type 1 diabetes	infections	infections	—by increasing the “susceptibility to mycobacterial	
-V-21	infection	infection	diabetes	diabetes	made kids more susceptible to	
-V-21	paratuberculosis	paratuberculosis	risk	risk	bacteria also explain why type 1 diabetes	
-V-21	diabetes	diabetes	risk	risk		
-V-21	diabetes	diabetes	infections	infections	—by increasing the “susceptibility to mycobacterial	
-V-21	mutation	mutation	type 1 diabetes	type 1 diabetes	in that gene could increase the susceptibility to	
+V-21	infection	infection	diabetes	diabetes	is not associated with type 2	
+V-21	boiling	boiling	milk	milk	of	
 V-21	pasteurization	pasteurization	bacteria	bacteria	may not completely inactivate the	
-V-21	kids	kids	infection	infection	more susceptible to	
-V-21	bacteria	bacteria	type 1 diabetes	type 1 diabetes	exposure and	
-V-21	bacteria	bacteria	diabetes	diabetes	 also explain why type 1	
-V-21	diabetes	diabetes	infection	infection	made kids more susceptible to	
+V-21	bacteria	bacteria	pasteurization	pasteurization	ride out	
+V-21	infection	infection	kids	kids	made	
+V-21	diabetes	diabetes	paratuberculosis	paratuberculosis	and	

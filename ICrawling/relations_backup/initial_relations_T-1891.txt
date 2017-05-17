@@ -1,90 +1,20 @@
 
-T-1891	vegetables	vegetables	gout	gout		
-T-1891	drugs	drugs	uric acid	uric acid	can lower	
-T-1891	raw	raw	cabbage	cabbage	red	
-T-1891	meat	meat	risk	risk	can eliminate 93% of uric acid crystallization	
-T-1891	risk	risk	stroke	stroke	for gout, high blood pressure,	
-T-1891	harvard	harvard	gout	gout	study showed	
-T-1891	water	water	vegetables	vegetables	turns blue, your urine is neutral–keep eating your	
-T-1891	uric acid	uric acid	blood pressure	blood pressure	can boost our risk for gout, high	
-T-1891	fish	fish	vegetables	vegetables	consumption; the	
-T-1891	risk	risk	blood	blood	for gout, high	
-T-1891	tuna	tuna	diet	diet	to their subjects’ daily	
-T-1891	vegetarian	vegetarian	lead	lead	diet.high uric acid may	
-T-1891	uric acid	uric acid	meat	meat	levels, not eating any	
-T-1891	raw	raw	red cabbage	red cabbage		
-T-1891	fish	fish	gout	gout	consumption; the vegetables	
-T-1891	risk	risk	blood pressure	blood pressure	for gout, high	
-T-1891	cauliflower	cauliflower	vegetarian	vegetarian	) were found to be protective.eating an alkaline,	
-T-1891	sugar	sugar	medicine	medicine	“may help the	
-T-1891	vegetables	vegetables	peas	peas	gout sufferers were told to avoid (mushrooms,	
-T-1891	alkaline diet	alkaline diet	vegetables	vegetables	high in fruits and	
-T-1891	vegetarian	vegetarian	diet	diet		
-T-1891	harvard study	harvard study	fish	fish	showed gout was linked to increased meat and	
-T-1891	uric acid	uric acid	blood	blood	can boost our risk for gout, high	
-T-1891	vegetarian	vegetarian	kidney	kidney	diet.high uric acid may lead to	
-T-1891	harvard study	harvard study	gout	gout	showed	
-T-1891	uric acid	uric acid	dairy	dairy	-lowering properties of	
 T-1891	fat	fat	sodium	sodium	and	
+T-1891	drugs	drugs	uric acid	uric acid	can lower	
 T-1891	uric acid	uric acid	risk	risk	can boost our	
-T-1891	risk	risk	disease	disease	for gout, high blood pressure, stroke, heart	
-T-1891	vegetables	vegetables	mushrooms	mushrooms	gout sufferers were told to avoid (	
-T-1891	harvard	harvard	meat	meat	study showed gout was linked to increased	
-T-1891	uric acid	uric acid	risk	risk	levels can also increase our	
-T-1891	risk	risk	uric acid	uric acid	of	
-T-1891	medicine	medicine	diet	diet	go down,” a high-sugar, high-protein	
-T-1891	risk	risk	high blood pressure	high blood pressure	for gout,	
-T-1891	blood	blood	heart disease	heart disease	pressure, stroke,	
-T-1891	uric acid	uric acid	doctors	doctors	-lowering properties of dairy may be desirable.for years,	
-T-1891	dairy	dairy	disease	disease	products is associated with increased risk for parkinson’s	
-T-1891	meat	meat	vegetables	vegetables	and fish consumption; the	
-T-1891	uric acid	uric acid	high blood pressure	high blood pressure	can boost our risk for gout,	
-T-1891	diet	diet	uric acid	uric acid	may remove	
-T-1891	vegetables	vegetables	beans	beans	gout sufferers were told to avoid (mushrooms, peas,	
-T-1891	fruits	fruits	vegetables	vegetables	and	
-T-1891	soy	soy	milk	milk		
-T-1891	kidney stones	kidney stones	tuna	tuna	increased 250% when they ate the extra	
-T-1891	urine	urine	vegetables	vegetables	is acidic—eat more dark green leafy	
-T-1891	milk	milk	uric acid	uric acid	increased	
-T-1891	urine	urine	leafy vegetables	leafy vegetables	is acidic—eat more dark green	
-T-1891	lead	lead	kidney	kidney	to	
-T-1891	risk	risk	alkaline diet	alkaline diet	without worrisome drug side effects.an	
-T-1891	vegetarian	vegetarian	uric acid	uric acid	diet.high	
-T-1891	blood	blood	stroke	stroke	pressure,	
-T-1891	dairy	dairy	risk	risk	products is associated with increased	
+T-1891	meat	meat	fish	fish	and	
 T-1891	milk	milk	uric acid	uric acid	caused	
-T-1891	harvard study	harvard study	meat	meat	showed gout was linked to increased	
-T-1891	risk	risk	disease	disease	for parkinson’s	
+T-1891	risk	risk	uric acid	uric acid	of	
+T-1891	vegetarians	vegetarians	uric acid	uric acid	have significantly lower	
 T-1891	meat	meat	uric acid	uric acid	can eliminate 93% of	
-T-1891	blood	blood	disease	disease	pressure, stroke, heart	
-T-1891	drugs	drugs	meat	meat	can lower uric acid levels, not eating any	
-T-1891	cabbage	cabbage	water	water	with	
-T-1891	soy	soy	uric acid	uric acid	milk increased	
-T-1891	risk	risk	uric acid	uric acid	of a parkinson’s diagnosis.low	
+T-1891	milk	milk	uric acid	uric acid	lowers	
+T-1891	soy milk	soy milk	uric acid	uric acid	increased	
+T-1891	diet	diet	uric acid	uric acid	may remove	
+T-1891	doctors	doctors	gout	gout	advised	
 T-1891	poultry	poultry	cheese	cheese	and	
 T-1891	urine	urine	vegetables	vegetables	is neutral–keep eating your	
-T-1891	dairy	dairy	doctors	doctors	may be desirable.for years,	
-T-1891	gout	gout	uric acid	uric acid	sufferers, the	
-T-1891	diet	diet	uric acid	uric acid	may also spike our	
-T-1891	meat	meat	gout	gout	and fish consumption; the vegetables	
-T-1891	vegetarian	vegetarian	uric acid	uric acid	diet may remove	
-T-1891	water	water	urine	urine	turns blue, your	
-T-1891	risk	risk	heart disease	heart disease	for gout, high blood pressure, stroke,	
-T-1891	blood	blood	dairy	dairy	pressure, stroke, heart disease, and diabetes.consumption of	
-T-1891	meat	meat	fish	fish	and	
-T-1891	dairy	dairy	gout	gout	may be desirable.for years, doctors advised	
-T-1891	raw	raw	water	water	red cabbage with	
-T-1891	vegetarians	vegetarians	uric acid	uric acid	have significantly lower	
-T-1891	gout	gout	dairy	dairy	sufferers, the uric acid-lowering properties of	
-T-1891	uric acid	uric acid	gout	gout	can boost our risk for	
-T-1891	milk	milk	uric acid	uric acid	lowers	
-T-1891	water	water	urine	urine	is purple or pink, your	
-T-1891	medicine	medicine	sugar	sugar	go down,” a high-	
-T-1891	kidney	kidney	tuna	tuna	stones increased 250% when they ate the extra	
-T-1891	soy milk	soy milk	uric acid	uric acid	increased	
-T-1891	doctors	doctors	gout	gout	advised	
-T-1891	red cabbage	red cabbage	water	water	with	
-T-1891	risk	risk	gout	gout	for	
-T-1891	risk	risk	diet	diet	without worrisome drug side effects.an alkaline	
-T-1891	alkaline diet	alkaline diet	fruits	fruits	high in	
-T-1891	diet	diet	urine	urine	is to perform an easy, at-home	
+T-1891	fruits	fruits	vegetables	vegetables	and	
+T-1891	kidney stones	kidney stones	tuna	tuna	increased 250% when they ate the extra	
+T-1891	milk	milk	uric acid	uric acid	increased	
+T-1891	harvard study	harvard study	gout	gout	showed	
+T-1891	urine	urine	leafy vegetables	leafy vegetables	is acidic—eat more dark green	

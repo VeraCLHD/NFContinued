@@ -1,17 +1,7 @@
 
-V-627	americans	americans	fruit	fruit	that average a tablespoon or more of dried	
-V-627	americans	americans	dried fruit	dried fruit	that average a tablespoon or more of	
-V-627	candy	candy	fruits	fruits	calories; these were largely whole plant food calories—dried	
-V-627	fruits	fruits	nuts	nuts	and	
-V-627	candy	candy	calories	calories		
-V-627	fruit	fruit	fat	fat	may make us	
-V-627	dried apples	dried apples	diet	diet	to your	
-V-627	nuts	nuts	body mass index	body mass index	or nut butters—lower	
-V-627	apples	apples	diet	diet	to your	
 V-627	dried fruit	dried fruit	fat	fat	may make us	
+V-627	fruits	fruits	nuts	nuts	and	
+V-627	fruit	fruit	fat	fat	may make us	
 V-627	figs	figs	fiber	fiber	are so packed with	
 V-627	calories	calories	figs	figs	of	
-V-627	nuts	nuts	metabolism	metabolism	are filling, may boost	
 V-627	calories	calories	prunes	prunes	of	
-V-627	lead	lead	weight gain	weight gain	to significant	
-V-627	fruit	fruit	diet	diet	and nut bars on top of one’s regular	

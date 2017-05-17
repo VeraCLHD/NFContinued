@@ -1,78 +1,15 @@
 
 V-250	plants	plants	antioxidants	antioxidants	provide	
-V-250	disease	disease	insulin resistance	insulin resistance	and non-alcoholic fatty liver disease.fiber may also decrease	
-V-250	diet	diet	antioxidant	antioxidant	and their	
-V-250	plants	plants	antioxidant	antioxidant	provide antioxidants, but also boost our endogenous	
-V-250	chronic disease	chronic disease	antioxidants	antioxidants	prevalence by acting as	
-V-250	plant foods	plant foods	disease	disease	that may help lower chronic	
-V-250	heart disease	heart disease	disease	disease	and non-alcoholic fatty liver	
-V-250	bacteria	bacteria	fats	fats	may produce these so-called diabetogens—diabetes-causing compounds—from the	
-V-250	breast cancer	breast cancer	vegetarian	vegetarian	in	
-V-250	plant-based	plant-based	diet	diet		
-V-250	meat	meat	diabetes	diabetes	consumption as a risk factor for	
-V-250	gut	gut	colon	colon	bacteria can produce estrogens in our	
-V-250	heart disease	heart disease	insulin resistance	insulin resistance	and non-alcoholic fatty liver disease.fiber may also decrease	
-V-250	cholesterol	cholesterol	sugar	sugar	and blood	
-V-250	vegetarian	vegetarian	estrogen	estrogen	women, who get rid of twice as much	
-V-250	meat	meat	diabetes	diabetes	consumption is consistently associated with	
-V-250	obesity	obesity	testosterone	testosterone	is associated with low	
-V-250	diet	diet	enzymes	enzymes	and their antioxidant	
-V-250	cancer	cancer	vegetarian	vegetarian	in	
-V-250	diabetes	diabetes	meat	meat	rates as	
-V-250	plant-based	plant-based	antioxidant	antioxidant	diet and their	
-V-250	inflammation	inflammation	disease	disease	that can contribute to heart	
-V-250	meat	meat	risk	risk	consumption as a	
 V-250	phytonutrients	phytonutrients	plant foods	plant foods	in	
-V-250	disease	disease	insulin	insulin	and non-alcoholic fatty liver disease.fiber may also decrease	
-V-250	produce	produce	colon	colon	estrogens in our	
-V-250	disease	disease	antioxidants	antioxidants	prevalence by acting as	
-V-250	insulin	insulin	antioxidants	antioxidants	resistance; so,	
-V-250	cholesterol	cholesterol	blood	blood	and	
-V-250	plant foods	plant foods	chronic disease	chronic disease	that may help lower	
-V-250	estrogen	estrogen	metabolism	metabolism		
-V-250	antioxidant	antioxidant	enzymes	enzymes		
-V-250	phytonutrients	phytonutrients	chronic disease	chronic disease	in plant foods that may help lower	
-V-250	meat	meat	risk	risk	consumption is consistently associated with diabetes	
-V-250	fat	fat	bacteria	bacteria	cells, but also by some of the	
-V-250	liver	liver	disease	disease		
-V-250	estrogen	estrogen	women	women	out of our bodies.vegetarian	
-V-250	free radicals	free radicals	insulin	insulin	may be the important trigger for	
-V-250	gut bacteria	gut bacteria	produce	produce	can	
-V-250	produce	produce	fats	fats	these so-called diabetogens—diabetes-causing compounds—from the	
-V-250	plant-based	plant-based	breast cancer	breast cancer	diets, as well as the lower incidence of	
-V-250	breast cancer	breast cancer	women	women	in vegetarian	
 V-250	free radicals	free radicals	insulin resistance	insulin resistance	may be the important trigger for	
-V-250	estrogen	estrogen	diabetes	diabetes	metabolism may help explain the lower incidence of	
-V-250	plant-based diet	plant-based diet	antioxidant	antioxidant	and their	
-V-250	bacteria	bacteria	colon	colon	can produce estrogens in our	
-V-250	fat	fat	liver	liver	from our organs, like the	
-V-250	inflammation	inflammation	heart disease	heart disease	that can contribute to	
-V-250	cholesterol	cholesterol	blood sugar	blood sugar	and	
-V-250	heart disease	heart disease	liver	liver	and non-alcoholic fatty	
-V-250	phytonutrients	phytonutrients	disease	disease	in plant foods that may help lower chronic	
-V-250	bacteria	bacteria	gut	gut	in our	
-V-250	cancer	cancer	women	women	in vegetarian	
-V-250	gut bacteria	gut bacteria	colon	colon	can produce estrogens in our	
-V-250	antioxidant	antioxidant	diet	diet	defenses—whereas, on the conventional diabetic	
+V-250	cholesterol	cholesterol	blood	blood	and	
 V-250	bacteria	bacteria	produce	produce	may	
-V-250	insulin	insulin	plant foods	plant foods	resistance; so, antioxidants in	
-V-250	disease	disease	liver	liver	and non-alcoholic fatty	
-V-250	diabetes	diabetes	plant-based	plant-based	in those eating more	
-V-250	plant-based	plant-based	enzymes	enzymes	diet and their antioxidant	
-V-250	heart disease	heart disease	insulin	insulin	and non-alcoholic fatty liver disease.fiber may also decrease	
-V-250	meat	meat	risk	risk	consumption a	
-V-250	meat	meat	diabetes	diabetes	consumption a risk factor for	
-V-250	liver	liver	insulin	insulin	disease.fiber may also decrease	
-V-250	risk	risk	diabetes	diabetes	factor for	
-V-250	diabetes	diabetes	plant-based diets	plant-based diets	in those eating more	
-V-250	liver	liver	insulin resistance	insulin resistance	disease.fiber may also decrease	
-V-250	vegetarian	vegetarian	women	women		
-V-250	insulin	insulin	inflammation	inflammation	resistance, but also produces a low-grade	
+V-250	breast cancer	breast cancer	vegetarian	vegetarian	in	
+V-250	cholesterol	cholesterol	blood sugar	blood sugar	and	
 V-250	bacteria	bacteria	produce	produce	can	
 V-250	antioxidants	antioxidants	plant foods	plant foods	in	
-V-250	gut	gut	bacteria	bacteria		
+V-250	obesity	obesity	testosterone	testosterone	is associated with low	
+V-250	free radicals	free radicals	insulin	insulin	may be the important trigger for	
+V-250	gut bacteria	gut bacteria	produce	produce	can	
 V-250	metabolism	metabolism	diabetes	diabetes	may help explain the lower incidence of	
-V-250	gut	gut	produce	produce	bacteria can	
-V-250	meat	meat	doctors	doctors	consumption is something	
-V-250	plant-based diet	plant-based diet	enzymes	enzymes	and their antioxidant	
-V-250	blood	blood	sugar	sugar		
+V-250	cancer	cancer	vegetarian	vegetarian	in	

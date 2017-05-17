@@ -1,99 +1,19 @@
 
-A-469	blood	blood	kidney disease	kidney disease	pressure, diabetes, heart disease, high cholesterol, cancers,	
-A-469	blood	blood	disease	disease	pressure, diabetes, heart	
-A-469	americans	americans	plant-based diet	plant-based diet	supports the benefits of a	
-A-469	death	death	united states	united states	in the	
-A-469	prebiotics	prebiotics	bacteria	bacteria	to feed our good	
-A-469	americans	americans	legumes	legumes	supports the benefits of a plant-based diet, and	
-A-469	vegetarian	vegetarian	blood	blood	appear to have less obesity, high	
-A-469	peas	peas	beans	beans	and canned	
-A-469	digestion	digestion	lactose	lactose	of the milk sugar	
-A-469	vegetarian	vegetarian	diet	diet		
-A-469	hydrogen sulfide	hydrogen sulfide	gas	gas	is called “rotten egg	
-A-469	vision	vision	diverticulosis	diverticulosis	loss, less	
-A-469	beans	beans	colon	colon	that make it down to our	
-A-469	disease	disease	beans	beans	risks,” they started people on pinto	
-A-469	soda	soda	gut	gut	is carbon dioxide, which gets absorbed by our	
-A-469	meat	meat	gas	gas	and eggs (hydrogen sulfide is called “rotten egg	
-A-469	colon	colon	prebiotics	prebiotics	may even function as	
-A-469	sulfur	sulfur	gut	gut	in your	
-A-469	blood	blood	kidney	kidney	pressure, diabetes, heart disease, high cholesterol, cancers,	
-A-469	americans	americans	gas	gas	report passing	
-A-469	cancer	cancer	smoking	smoking	doesn’t get you to quit	
-A-469	fructose	fructose	corn syrup	corn syrup	in the soda’s	
-A-469	americans	americans	plant-based	plant-based	supports the benefits of a	
+A-469	medicine	medicine	vegetarian	vegetarian	published a review entitled: “	
 A-469	physicians	physicians	gas	gas	complaining of too much	
-A-469	dietary guidelines	dietary guidelines	plant-based diet	plant-based diet	for americans supports the benefits of a	
+A-469	americans	americans	plant-based diet	plant-based diet	supports the benefits of a	
+A-469	lung cancer	lung cancer	smoking	smoking	doesn’t get you to quit	
+A-469	meat	meat	eggs	eggs	and	
+A-469	colon	colon	prebiotics	prebiotics	may even function as	
 A-469	risk	risk	vitamin b12	vitamin b12	of	
 A-469	legumes	legumes	disease	disease	specifically, in the reduction of chronic	
-A-469	beans	beans	water	water	and tossing the cooking	
-A-469	garlic	garlic	cauliflower	cauliflower	and	
-A-469	plant-based diet	plant-based diet	vitamin b12	vitamin b12	: 1) the risk of	
-A-469	fructose	fructose	corn	corn	in the soda’s	
-A-469	blood	blood	diabetes	diabetes	pressure,	
-A-469	plant-based	plant-based	legumes	legumes	diet, and	
-A-469	cooking	cooking	water	water		
-A-469	plant-based diet	plant-based diet	risk	risk	: 1) the	
-A-469	medicine	medicine	vegetarian	vegetarian	published a review entitled: “	
-A-469	diet	diet	disease	disease	: panacea for modern lifestyle	
-A-469	lung cancer	lung cancer	smoking	smoking	doesn’t get you to quit	
-A-469	dairy	dairy	diet	diet	products were removed from his	
-A-469	digestion	digestion	milk	milk	of the	
-A-469	meat	meat	hydrogen sulfide	hydrogen sulfide	and eggs (	
-A-469	disease	disease	peas	peas	risks,” they started people on pinto beans, black-eyed	
-A-469	death	death	flatulence	flatulence	in the united states, and on the other,	
-A-469	sugar	sugar	lactose	lactose		
-A-469	disease	disease	pinto beans	pinto beans	risks,” they started people on	
-A-469	blood	blood	cholesterol	cholesterol	pressure, diabetes, heart disease, high	
-A-469	vegetarian	vegetarian	disease	disease	diet: panacea for modern lifestyle	
-A-469	fructose	fructose	soda	soda	in the	
-A-469	beans	beans	cooking	cooking	and tossing the	
-A-469	plant-based	plant-based	diet	diet		
-A-469	dairy	dairy	flatulence	flatulence	products are a leading cause of excessive	
-A-469	meat	meat	eggs	eggs	and	
-A-469	dietary guidelines	dietary guidelines	americans	americans	for	
+A-469	americans	americans	gas	gas	report passing	
+A-469	cancer	cancer	smoking	smoking	doesn’t get you to quit	
 A-469	legumes	legumes	chronic disease	chronic disease	specifically, in the reduction of	
+A-469	garlic	garlic	cauliflower	cauliflower	and	
 A-469	sorbitol	sorbitol	xylitol	xylitol	and	
-A-469	plant-based	plant-based	chronic disease	chronic disease	diet, and legumes specifically, in the reduction of	
-A-469	dietary guidelines	dietary guidelines	diet	diet	for americans supports the benefits of a plant-based	
+A-469	americans	americans	plant-based	plant-based	supports the benefits of a	
+A-469	hydrogen sulfide	hydrogen sulfide	egg	egg	is called “rotten	
 A-469	split peas	split peas	canned beans	canned beans	and	
 A-469	vegetarian	vegetarian	obesity	obesity	appear to have less	
-A-469	egg	egg	gas	gas		
-A-469	milk	milk	sugar	sugar		
-A-469	eggs	eggs	gas	gas	(hydrogen sulfide is called “rotten egg	
-A-469	bacteria	bacteria	colon	colon	and make for a healthier	
-A-469	plant-based	plant-based	risk	risk	diet: 1) the	
-A-469	risk	risk	b12	b12	of vitamin	
-A-469	digestion	digestion	sugar	sugar	of the milk	
-A-469	medicine	medicine	diet	diet	published a review entitled: “vegetarian	
-A-469	meat	meat	egg	egg	and eggs (hydrogen sulfide is called “rotten	
-A-469	kidney	kidney	stroke	stroke	disease, maybe less	
-A-469	kidney	kidney	disease	disease		
-A-469	blood	blood	heart disease	heart disease	pressure, diabetes,	
-A-469	beans	beans	fruit	fruit	have been christened the musical	
-A-469	vegetarian	vegetarian	high blood pressure	high blood pressure	appear to have less obesity,	
-A-469	diet	diet	risk	risk	: 1) the	
-A-469	plant-based diet	plant-based diet	b12	b12	: 1) the risk of vitamin	
-A-469	americans	americans	diet	diet	supports the benefits of a plant-based	
-A-469	diet	diet	vitamin b12	vitamin b12	: 1) the risk of	
-A-469	plant-based	plant-based	b12	b12	diet: 1) the risk of vitamin	
-A-469	harvard	harvard	health	health		
-A-469	chronic disease	chronic disease	peas	peas	risks,” they started people on pinto beans, black-eyed	
-A-469	vegetarian	vegetarian	beans	beans	baked (navy)	
-A-469	chronic disease	chronic disease	pinto beans	pinto beans	risks,” they started people on	
-A-469	plant-based	plant-based	vitamin b12	vitamin b12	diet: 1) the risk of	
-A-469	vegetarian	vegetarian	diabetes	diabetes	appear to have less obesity, high blood pressure,	
-A-469	england	england	book	book	journal of medicine and submitted to the guinness	
-A-469	chronic disease	chronic disease	beans	beans	risks,” they started people on pinto	
-A-469	diet	diet	b12	b12	: 1) the risk of vitamin	
-A-469	eggs	eggs	egg	egg	(hydrogen sulfide is called “rotten	
 A-469	peas	peas	canned beans	canned beans	and	
-A-469	kidney	kidney	vision	vision	disease, maybe less stroke, less age-related	
-A-469	medicine	medicine	book	book	and submitted to the guinness	
-A-469	vegetarian	vegetarian	blood pressure	blood pressure	appear to have less obesity, high	
-A-469	cheap	cheap	supplements	supplements		
-A-469	split peas	split peas	beans	beans	and canned	
-A-469	dietary guidelines	dietary guidelines	plant-based	plant-based	for americans supports the benefits of a	
-A-469	hydrogen sulfide	hydrogen sulfide	egg	egg	is called “rotten	
-A-469	england	england	medicine	medicine	journal of	
-A-469	milk	milk	lactose	lactose	sugar	

@@ -1,24 +1,7 @@
 
-T-1982	safety limits	safety limits	aluminum	aluminum	for the metal,	
-T-1982	beverages	beverages	carcinogens	carcinogens	as potential	
-T-1982	apple	apple	juice	juice		
-T-1982	drugs	drugs	health	health	will no longer work and urged the public	
-T-1982	alcoholic beverages	alcoholic beverages	carcinogens	carcinogens	as potential	
-T-1982	health	health	public health	public health	organization, also known as the who, is the	
-T-1982	tanning beds	tanning beds	alcoholic beverages	alcoholic beverages	and	
-T-1982	physicians	physicians	heart disease	heart disease	under-report	
-T-1982	patulin	patulin	apple juice	apple juice	in	
-T-1982	physicians	physicians	disease	disease	under-report heart	
-T-1982	patulin	patulin	apple	apple	in	
-T-1982	disease	disease	risk	risk		
-T-1982	plant-based	plant-based	diet	diet		
-T-1982	safety limits	safety limits	iodine	iodine	for the metal, aluminum, the element,	
-T-1982	patulin	patulin	juice	juice	in apple	
-T-1982	chronic disease	chronic disease	risk	risk		
 T-1982	mothers	mothers	newborns	newborns	breastfeed	
-T-1982	exercise	exercise	mothers	mothers	at least one hour per day, that	
-T-1982	medicine	medicine	health	health	for their primary	
-T-1982	water	water	women	women	a day from all sources for	
-T-1982	tanning beds	tanning beds	carcinogens	carcinogens	and alcoholic beverages as potential	
+T-1982	drugs	drugs	health	health	will no longer work and urged the public	
+T-1982	tanning beds	tanning beds	alcoholic beverages	alcoholic beverages	and	
+T-1982	patulin	patulin	apple juice	apple juice	in	
+T-1982	patulin	patulin	apple	apple	in	
 T-1982	drugs	drugs	public health	public health	will no longer work and urged the	
-T-1982	tanning beds	tanning beds	beverages	beverages	and alcoholic	

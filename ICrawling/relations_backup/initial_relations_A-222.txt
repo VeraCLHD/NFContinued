@@ -1,50 +1,9 @@
 
-A-222	arteries	arteries	omnivores	omnivores	than	
-A-222	vegan diets	vegan diets	b12	b12	through vitamin	
-A-222	blood	blood	cholesterol	cholesterol	pressure, lower triglyceride, lower total	
-A-222	b12	b12	supplements	supplements	fortified foods or b12	
-A-222	b12	b12	omnivores	omnivores	fortified foods or b12 supplements,	
-A-222	homocysteine	homocysteine	blood	blood	in the	
-A-222	vegetarian	vegetarian	blood	blood	diets on cholesterol and	
-A-222	diet	diet	health	health	on cardiovascular	
 A-222	plant-based diets	plant-based diets	vitamin b12	vitamin b12	don’t get enough	
-A-222	plant-based	plant-based	body mass index	body mass index	: lower	
-A-222	blood	blood	bad cholesterol	bad cholesterol	pressure, lower triglyceride, lower total cholesterol, lower	
-A-222	vegetarian	vegetarian	diet	diet		
-A-222	omnivores	omnivores	vitamin b12	vitamin b12	who were switched to a vegan diet developed	
-A-222	arteries	arteries	vegetarians	vegetarians	of	
-A-222	vegan	vegan	vitamin b12	vitamin b12	diet developed	
 A-222	vegans	vegans	vitamin b12	vitamin b12	should include sources of	
-A-222	risk	risk	stroke	stroke	of cognitive deficits and brain shrinkage,	
-A-222	cholesterol	cholesterol	blood	blood	and	
-A-222	vitamin b12	vitamin b12	vegetarian	vegetarian	deficiency in	
-A-222	vegan	vegan	vitamin b12	vitamin b12	diets through	
-A-222	risk	risk	depression	depression	of cognitive deficits and brain shrinkage, stroke,	
-A-222	vegan diets	vegan diets	vitamin b12	vitamin b12	through	
-A-222	diet	diet	cardiovascular health	cardiovascular health	on	
-A-222	plant-based diets	plant-based diets	b12	b12	don’t get enough vitamin	
-A-222	plant-based	plant-based	blood pressure	blood pressure	: lower body mass index, lower	
-A-222	homocysteine	homocysteine	diet	diet	may attenuate the beneficial effects of a vegetarian	
-A-222	b12	b12	vegetarian	vegetarian	deficiency in	
-A-222	b12	b12	health	health	necessary for arterial	
-A-222	vegetarian	vegetarian	health	health	diet on cardiovascular	
-A-222	arteries	arteries	omnivores	omnivores	of vegetarians were just as stiff as the	
-A-222	omnivores	omnivores	diet	diet	who were switched to a vegan	
-A-222	vegetarian	vegetarian	cholesterol	cholesterol	diets on	
-A-222	vegan	vegan	b12	b12	diet developed vitamin	
-A-222	b12	b12	anemia	anemia	deficiency, like	
-A-222	vitamin b12	vitamin b12	health	health	necessary for arterial	
-A-222	vegetarian	vegetarian	cardiovascular health	cardiovascular health	diet on	
-A-222	vegans	vegans	b12	b12	should include sources of vitamin	
-A-222	vegetarians	vegetarians	b12	b12	whose	
-A-222	china	china	egg-free	egg-free	found that compared to omnivores, those who ate	
-A-222	diet	diet	b12	b12	developed vitamin	
-A-222	homocysteine	homocysteine	vegetarian	vegetarian	may attenuate the beneficial effects of a	
-A-222	plant-based	plant-based	blood	blood	: lower body mass index, lower	
-A-222	b12	b12	supplements	supplements		
-A-222	vegan	vegan	b12	b12	diets through vitamin	
-A-222	vegan	vegan	diet	diet		
 A-222	china	china	omnivores	omnivores	found that compared to	
 A-222	vegetarians	vegetarians	omnivores	omnivores	were just as stiff as the	
-A-222	omnivores	omnivores	vegan	vegan	who were switched to a	
+A-222	cholesterol	cholesterol	blood	blood	and	
+A-222	homocysteine	homocysteine	vegetarian	vegetarian	may attenuate the beneficial effects of a	
+A-222	arteries	arteries	vegetarians	vegetarians	of	
 A-222	diet	diet	vitamin b12	vitamin b12	developed	

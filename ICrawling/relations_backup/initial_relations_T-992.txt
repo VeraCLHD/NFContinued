@@ -1,67 +1,18 @@
 
 T-992	pollutants	pollutants	breast milk	breast milk	excreted from the mother’s body into	
-T-992	plant-based	plant-based	lead	lead	diets, however, may	
-T-992	protein	protein	milk	milk	and growth factors found in cow’s	
-T-992	contamination	contamination	fish	fish	with pesticides, toxins or heavy metals found with	
-T-992	risk	risk	toxins	toxins	of contamination with pesticides,	
-T-992	diet	diet	dairy	dairy	contains	
-T-992	risk	risk	pesticides	pesticides	of contamination with	
-T-992	pregnancy	pregnancy	lactation	lactation	and	
-T-992	pregnant	pregnant	women	women		
-T-992	gut	gut	syndrome	syndrome		
-T-992	toxins	toxins	heavy metals	heavy metals	or	
-T-992	heavy metals	heavy metals	supplements	supplements	found with fish consumption or fish-oil based	
-T-992	carrageenan	carrageenan	babies	babies	may help protect	
-T-992	heavy metals	heavy metals	fish	fish	found with	
-T-992	plant-based	plant-based	pregnant women	pregnant women	breast-feeding or	
-T-992	toxins	toxins	fish	fish	or heavy metals found with	
-T-992	babies	babies	syndrome	syndrome	from inflammatory bowel diseases, leaky gut	
-T-992	milk	milk	diet	diet	proteins when the maternal	
-T-992	syndrome	syndrome	autoimmune diseases	autoimmune diseases	and, consequently,	
-T-992	contamination	contamination	heavy metals	heavy metals	with pesticides, toxins or	
-T-992	risk	risk	heart disease	heart disease	of obesity, type 1 diabetes, type 2 diabetes,	
-T-992	colic	colic	symptoms	symptoms		
-T-992	risk	risk	obesity	obesity	of	
-T-992	gut	gut	autoimmune diseases	autoimmune diseases	syndrome and, consequently,	
-T-992	breast feeding	breast feeding	milk	milk	does not fully eliminate exposure to cow’s	
-T-992	fruits	fruits	vegetables	vegetables	and	
-T-992	milk	milk	dairy	dairy	proteins when the maternal diet contains	
-T-992	contamination	contamination	toxins	toxins	with pesticides,	
-T-992	lead	lead	disease	disease	to a misdiagnosis of a serious congenital	
-T-992	children	children	pregnant	pregnant	of strictly plant-based breast-feeding or	
-T-992	vegetables	vegetables	premature puberty	premature puberty	after weaning, and are less likely to undergo	
-T-992	infants	infants	health	health	with human milk from another source show identical	
 T-992	variety	variety	fruits	fruits	of	
 T-992	babies	babies	risk	risk	have a lower	
+T-992	syndrome	syndrome	autoimmune diseases	autoimmune diseases	and, consequently,	
 T-992	pcbs	pcbs	pesticides	pesticides	and	
-T-992	babies	babies	type 1 diabetes	type 1 diabetes	have a lower risk of obesity,	
-T-992	babies	babies	obesity	obesity	have a lower risk of	
-T-992	children	children	women	women	of strictly plant-based breast-feeding or pregnant	
-T-992	risk	risk	diabetes	diabetes	of obesity, type 1	
-T-992	contamination	contamination	pesticides	pesticides	with	
-T-992	children	children	pregnant women	pregnant women	of strictly plant-based breast-feeding or	
-T-992	plant-based	plant-based	pregnant	pregnant	breast-feeding or	
-T-992	lead	lead	dha	dha	to decreased maternal	
-T-992	toxins	toxins	pollutants	pollutants	and environmental	
-T-992	variety	variety	vegetables	vegetables	of fruits and	
-T-992	milk	milk	weight gain	weight gain	compared to human milk, leading to excess	
+T-992	diet	diet	dairy	dairy	contains	
+T-992	algae	algae	risk	risk	based, as this eliminates the associated	
+T-992	pregnancy	pregnancy	lactation	lactation	and	
+T-992	toxins	toxins	heavy metals	heavy metals	or	
+T-992	risk	risk	obesity	obesity	of	
+T-992	breast feeding	breast feeding	milk	milk	does not fully eliminate exposure to cow’s	
+T-992	carrageenan	carrageenan	babies	babies	may help protect	
 T-992	risk	risk	contamination	contamination	of	
-T-992	weight gain	weight gain	children	children	and growth in	
-T-992	children	children	plant-based	plant-based	of strictly	
+T-992	fruits	fruits	vegetables	vegetables	and	
 T-992	mothers	mothers	fenugreek	fenugreek	consuming	
 T-992	supplements	supplements	algae	algae	should be	
-T-992	babies	babies	diabetes	diabetes	have a lower risk of obesity, type 1	
-T-992	algae	algae	contamination	contamination	based, as this eliminates the associated risk of	
-T-992	infants	infants	milk	milk	with human	
-T-992	fish	fish	supplements	supplements	consumption or fish-oil based	
-T-992	dha	dha	pregnancy	pregnancy	supplementation (800 mg/day) should also be avoided during	
-T-992	milk	milk	health	health	from another source show identical	
-T-992	breast milk	breast milk	symptoms	symptoms	and may be linked to colic	
-T-992	algae	algae	risk	risk	based, as this eliminates the associated	
-T-992	breast milk	breast milk	colic	colic	and may be linked to	
-T-992	plant-based	plant-based	dha	dha	diets, however, may lead to decreased maternal	
-T-992	pollutants	pollutants	milk	milk	excreted from the mother’s body into breast	
-T-992	babies	babies	gut	gut	from inflammatory bowel diseases, leaky	
-T-992	plant-based	plant-based	women	women	breast-feeding or pregnant	
-T-992	risk	risk	type 1 diabetes	type 1 diabetes	of obesity,	
-T-992	risk	risk	heavy metals	heavy metals	of contamination with pesticides, toxins or	
+T-992	heavy metals	heavy metals	fish	fish	found with	

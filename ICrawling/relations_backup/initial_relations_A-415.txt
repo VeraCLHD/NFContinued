@@ -1,29 +1,10 @@
 
-A-415	gut	gut	fiber	fiber	flora without probiotics i covered	
-A-415	flora	flora	fiber	fiber	without probiotics i covered	
-A-415	water	water	calories	calories	has zero	
-A-415	phytonutrients	phytonutrients	flora	flora	can alter gut	
-A-415	gut	gut	probiotics	probiotics	flora without	
-A-415	water	water	plant foods	plant foods	content of	
-A-415	firmicutes	firmicutes	phytonutrients	phytonutrients	to bacteroidetes i cover	
-A-415	plant-based	plant-based	weight management	weight management	diets have been tied to better	
-A-415	vegetables	vegetables	water	water	average 80 to 90 percent	
-A-415	gut	gut	flora	flora		
-A-415	phytonutrients	phytonutrients	gut flora	gut flora	can alter	
-A-415	cold	cold	stress	stress		
-A-415	water	water	stomach	stomach	to their	
-A-415	medicine	medicine	ice diet	ice diet	 published a letter called “the	
-A-415	fruits	fruits	water	water	and vegetables average 80 to 90 percent	
 A-415	plants	plants	colon	colon	would have significantly different	
-A-415	probiotics	probiotics	fiber	fiber	 i covered	
+A-415	fiber	fiber	calories	calories	can bulk up the volume of foods without adding	
+A-415	water	water	calories	calories	has zero	
 A-415	plant-based diets	plant-based diets	weight management	weight management	have been tied to better	
-A-415	medicine	medicine	diet	diet	 published a letter called “the ice	
-A-415	weight management	weight management	plant foods	plant foods	may be the water content of	
-A-415	gut flora	gut flora	fiber	fiber	without probiotics i covered	
-A-415	phytonutrients	phytonutrients	gut	gut	can alter	
-A-415	gut flora	gut flora	probiotics	probiotics	without	
-A-415	steak	steak	water	water	and drink a glass of	
-A-415	flora	flora	probiotics	probiotics	without	
-A-415	water	water	calories	calories	with the meal doesn’t seem to help control	
 A-415	fruits	fruits	vegetables	vegetables	and	
+A-415	phytonutrients	phytonutrients	gut	gut	can alter	
+A-415	phytonutrients	phytonutrients	gut flora	gut flora	can alter	
 A-415	weight management	weight management	water	water	may be the	
+A-415	medicine	medicine	ice diet	ice diet	 published a letter called “the	

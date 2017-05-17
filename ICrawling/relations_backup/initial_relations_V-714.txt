@@ -1,29 +1,4 @@
 
 V-714	carcinogen	carcinogen	dna	dna	first, it may no longer fit into our	
-V-714	butter	butter	spinach	spinach	—with or without	
-V-714	spinach	spinach	stomach	stomach	in their	
-V-714	liver	liver	enzymes	enzymes	’s own detoxifying	
-V-714	chlorophyll	chlorophyll	dna damage	dna damage	to “totally abolish”	
-V-714	phytonutrients	phytonutrients	antioxidants	antioxidants	that can act as	
-V-714	peanut	peanut	spinach	spinach	butter—with or without	
-V-714	vegetables	vegetables	chlorophyll	chlorophyll	dark green.in subsequent years, the ability of	
-V-714	dna	dna	carcinogens	carcinogens	damage of human cells exposed to	
-V-714	dna	dna	enzymes	enzymes	repair	
-V-714	carcinogen	carcinogen	peanut butter	peanut butter	that used to be a problem in	
-V-714	carcinogen	carcinogen	butter	butter	that used to be a problem in peanut	
-V-714	peanut	peanut	butter	butter		
-V-714	peanut butter	peanut butter	spinach	spinach	—with or without	
-V-714	carcinogen	carcinogen	peanut	peanut	that used to be a problem in	
-V-714	peanut butter	peanut butter	chlorophyll	chlorophyll	—with or without spinach	
-V-714	dna damage	dna damage	carcinogens	carcinogens	of human cells exposed to	
-V-714	peanut	peanut	chlorophyll	chlorophyll	butter—with or without spinach	
-V-714	antioxidants	antioxidants	free radicals	free radicals	to douse	
-V-714	phytonutrients	phytonutrients	free radicals	free radicals	that can act as antioxidants to douse	
-V-714	dna	dna	carcinogens	carcinogens	in the first place.see, many	
-V-714	liver	liver	detoxifying enzymes	detoxifying enzymes	’s own	
-V-714	chlorophyll	chlorophyll	dna	dna	to “totally abolish”	
 V-714	plants	plants	cancer	cancer	get less	
 V-714	mutagens	mutagens	carcinogens	carcinogens	and	
-V-714	leafy vegetables	leafy vegetables	chlorophyll	chlorophyll	dark green.in subsequent years, the ability of	
-V-714	butter	butter	chlorophyll	chlorophyll	—with or without spinach	
-V-714	spinach	spinach	chlorophyll	chlorophyll		

@@ -1,29 +1,3 @@
 
-V-865	women	women	broccoli	broccoli	an hour after	
-V-865	produce	produce	breast cancer	breast cancer	a compound, sulforaphane,  that appears to target	
-V-865	women	women	surgery	surgery	scheduled for breast reduction	
-V-865	broccoli	broccoli	cancer cells	cancer cells	sprouts do to both estrogen-receptor-positive and -negative breast	
-V-865	produce	produce	cancer cells	cancer cells	a compound, sulforaphane,  that appears to target breast	
-V-865	broccoli	broccoli	cancer	cancer	sprouts do to both estrogen-receptor-positive and -negative breast	
-V-865	broccoli	broccoli	produce	produce	and broccoli sprouts	
-V-865	broccoli sprouts	broccoli sprouts	breast cancer	breast cancer	produce a compound, sulforaphane,  that appears to target	
-V-865	broccoli sprouts	broccoli sprouts	sulforaphane	sulforaphane	produce a compound,	
-V-865	broccoli sprouts	broccoli sprouts	produce	produce		
-V-865	broccoli	broccoli	breast cancer	breast cancer	sprouts do to both estrogen-receptor-positive and -negative	
-V-865	sprouts	sprouts	produce	produce		
-V-865	sprouts	sprouts	breast cancer	breast cancer	produce a compound, sulforaphane,  that appears to target	
-V-865	broccoli	broccoli	sprouts	sprouts	and broccoli	
 V-865	broccoli	broccoli	broccoli sprouts	broccoli sprouts	and	
-V-865	produce	produce	cancer	cancer	a compound, sulforaphane,  that appears to target breast	
 V-865	broccoli	broccoli	juice	juice	sprout	
-V-865	broccoli	broccoli	sulforaphane	sulforaphane	and broccoli sprouts produce a compound,	
-V-865	broccoli sprouts	broccoli sprouts	cancer cells	cancer cells	do to both estrogen-receptor-positive and -negative breast	
-V-865	sprouts	sprouts	sulforaphane	sulforaphane	produce a compound,	
-V-865	broccoli	broccoli	sprouts	sprouts		
-V-865	sprouts	sprouts	cancer	cancer	do to both estrogen-receptor-positive and -negative breast	
-V-865	produce	produce	sulforaphane	sulforaphane	a compound,	
-V-865	sulforaphane	sulforaphane	broccoli	broccoli	into our bloodstream when we eat	
-V-865	broccoli sprouts	broccoli sprouts	breast cancer	breast cancer	do to both estrogen-receptor-positive and -negative	
-V-865	sprouts	sprouts	cancer cells	cancer cells	do to both estrogen-receptor-positive and -negative breast	
-V-865	sprouts	sprouts	breast cancer	breast cancer	do to both estrogen-receptor-positive and -negative	
-V-865	broccoli sprouts	broccoli sprouts	cancer	cancer	do to both estrogen-receptor-positive and -negative breast	

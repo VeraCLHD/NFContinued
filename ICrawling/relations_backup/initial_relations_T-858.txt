@@ -1,51 +1,11 @@
 
 T-858	children	children	calories	calories	end up eating fewer	
-T-858	calories	calories	grapes	grapes	overall.the healthiest	
-T-858	polyphenols	polyphenols	flavonoids	flavonoids	and	
-T-858	fruit	fruit	grape juice	grape juice	juices showed purple	
-T-858	dental	dental	health	health		
-T-858	concord grapes	concord grapes	breast cancer	breast cancer	in particular may help prevent	
-T-858	fruit	fruit	risk	risk	juice consumption is associated with a higher	
-T-858	risk	risk	fruit	fruit	of type 2 diabetes, whereas	
-T-858	grapes	grapes	wine	wine	with seeds may be more effective than drinking	
-T-858	breast cancer	breast cancer	risk	risk		
-T-858	risk	risk	juice	juice	of type 2 diabetes, whereas fruit	
-T-858	grapes	grapes	cancer	cancer	may slow liver	
-T-858	juice	juice	risk	risk	consumption is associated with a higher	
-T-858	liver	liver	cancer	cancer		
-T-858	flavonoids	flavonoids	grapes	grapes	that may help with weight loss.	
-T-858	grapes	grapes	juice	juice	is probably more nutritious than just drinking grape	
-T-858	kids	kids	children	children	may be so satiating that the	
-T-858	fruits	fruits	vegetables	vegetables	and	
-T-858	fruit	fruit	juice	juice	juices showed purple grape	
-T-858	grapes	grapes	antioxidants	antioxidants	have	
-T-858	grapes	grapes	inflammation	inflammation	may also help protect joint cartilage and reduce	
-T-858	tor	tor	risk	risk	enzyme activity, which in turn may lower cancer	
-T-858	grapes	grapes	polyphenols	polyphenols	have	
-T-858	grapes	grapes	inflammation	inflammation	have antioxidants that may help reduce	
-T-858	currants	currants	raisins	raisins	are usually actually champagne grape	
-T-858	liver	liver	cancer cell growth	cancer cell growth		
-T-858	dental	dental	fruits	fruits	health, we must be careful with both whole	
-T-858	cancer	cancer	risk	risk		
-T-858	grapes	grapes	cancer	cancer	in particular may help prevent breast	
-T-858	polyphenols	polyphenols	grapes	grapes	and flavonoids that may help with weight loss.	
-T-858	risk	risk	diabetes	diabetes	of type 2	
-T-858	asthma	asthma	mood	mood	symptoms, and improve	
-T-858	fruits	fruits	tor	tor	and vegetables, may help to decrease	
-T-858	risk	risk	fruit juice	fruit juice	of type 2 diabetes, whereas	
-T-858	raisins	raisins	kids	kids	given as a snack for	
-T-858	children	children	grapes	grapes	end up eating fewer calories overall.the healthiest	
-T-858	grapes	grapes	grape juice	grape juice	is probably more nutritious than just drinking	
-T-858	asthma	asthma	symptoms	symptoms		
-T-858	grapes	grapes	breast cancer	breast cancer	in particular may help prevent	
-T-858	juice	juice	risk	risk	and may significantly lower the	
-T-858	grapes	grapes	flavonoids	flavonoids	have polyphenols and	
-T-858	fruit juice	fruit juice	risk	risk	consumption is associated with a higher	
-T-858	concord grapes	concord grapes	cancer	cancer	in particular may help prevent breast	
 T-858	seeds	seeds	wine	wine	may be more effective than drinking	
-T-858	antioxidants	antioxidants	inflammation	inflammation	that may help reduce	
-T-858	grapes	grapes	seeds	seeds	with	
-T-858	fruit	fruit	juice	juice		
-T-858	tor	tor	cancer	cancer	enzyme activity, which in turn may lower	
-T-858	grape juice	grape juice	risk	risk	and may significantly lower the	
+T-858	raisins	raisins	kids	kids	given as a snack for	
+T-858	polyphenols	polyphenols	flavonoids	flavonoids	and	
+T-858	kids	kids	children	children	may be so satiating that the	
+T-858	grapes	grapes	grape juice	grape juice	is probably more nutritious than just drinking	
+T-858	grapes	grapes	polyphenols	polyphenols	have	
+T-858	fruits	fruits	vegetables	vegetables	and	
+T-858	grapes	grapes	antioxidants	antioxidants	have	
 T-858	resveratrol	resveratrol	grapes	grapes	in	

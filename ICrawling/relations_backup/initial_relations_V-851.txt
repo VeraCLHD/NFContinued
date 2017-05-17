@@ -1,38 +1,7 @@
 
-V-851	cancer	cancer	cancer	cancer	recurrence—appeared to cut breast	
-V-851	cancer	cancer	cancer	cancer	epidemiology.about 2,000 california breast	
-V-851	postmenopausal	postmenopausal	women	women		
 V-851	cancer	cancer	soy	soy	can be assured that enjoying a	
-V-851	women	women	cancer	cancer	with breast	
-V-851	soy	soy	cancer	cancer	food consumption and breast	
-V-851	estrogen	estrogen	tamoxifen	tamoxifen	–blocking drug	
-V-851	diet	diet	breast cancer	breast cancer	had the lowest rate of	
-V-851	cancer	cancer	california	california	epidemiology.about 2,000	
-V-851	soy	soy	supplements	supplements	isoflavone	
-V-851	asian	asian	risk	risk	populations”—one or two servings a day—to reduce the	
-V-851	soy	soy	diet	diet	isoflavone in their	
-V-851	soy	soy	breast cancer	breast cancer	food intake and	
-V-851	women	women	breast cancer	breast cancer	with	
-V-851	diet	diet	cancer	cancer	had the lowest rate of breast	
-V-851	soy	soy	breast cancer survival	breast cancer survival	food intake and	
-V-851	california	california	cancer	cancer	breast	
-V-851	postmenopausal	postmenopausal	estrogen	estrogen	women, on the	
-V-851	risk	risk	american medical association	american medical association	of occurrence.then came the famous journal of the	
-V-851	women	women	soy	soy	with breast cancer,	
-V-851	breast cancer	breast cancer	cancer	cancer	recurrence—appeared to cut breast	
-V-851	soy	soy	risk	risk	food consumption was significantly associated with decreased	
-V-851	american medical association	american medical association	breast cancer	breast cancer	study, the biggest yet—5,000	
-V-851	soy	soy	cancer	cancer	food intake and breast	
-V-851	breast cancer	breast cancer	soy	soy	can be assured that enjoying a	
-V-851	soy	soy	cancer survival	cancer survival	food intake and breast	
-V-851	risk	risk	disease	disease	of	
-V-851	california	california	breast cancer	breast cancer		
-V-851	soy	soy	tofu	tofu	latte or indulging in pad thai with	
-V-851	cancer	cancer	breast cancer	breast cancer	recurrence—appeared to cut	
+V-851	tofu	tofu	risk	risk	causes no harm, and, when consumed in plentiful amounts, may reduce [the]	
 V-851	risk	risk	death	death	of	
-V-851	soy	soy	soy foods	soy foods	isoflavone supplements; this was actually eating	
-V-851	american medical association	american medical association	cancer	cancer	study, the biggest yet—5,000 breast	
-V-851	postmenopausal	postmenopausal	tamoxifen	tamoxifen	women, on the estrogen–blocking drug	
-V-851	soy	soy	asian	asian	levels “comparable to those consumed in	
-V-851	soy	soy	breast cancer	breast cancer	food consumption and	
-V-851	cancer	cancer	breast cancer	breast cancer	epidemiology.about 2,000 california	
+V-851	breast cancer	breast cancer	soy	soy	can be assured that enjoying a	
+V-851	diet	diet	breast cancer	breast cancer	had the lowest rate of	
+V-851	risk	risk	disease	disease	of	

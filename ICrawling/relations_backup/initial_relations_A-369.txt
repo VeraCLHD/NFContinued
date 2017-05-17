@@ -1,160 +1,20 @@
 
-A-369	estrogen	estrogen	cancer cells	cancer cells	receptors on human breast	
-A-369	dna	dna	mutation	mutation		
-A-369	hormones	hormones	igf-1	igf-1	like 	
-A-369	cancer	cancer	carcinogens	carcinogens	(see also muscle tremors & diet and fast food tested for	
-A-369	heterocyclic amines	heterocyclic amines	meat	meat	in cooked	
-A-369	tumor	tumor	igf-1	igf-1	progression and invasion (see 	
-A-369	heterocyclic amines	heterocyclic amines	phip	phip	in cooked meat like	
-A-369	tumor	tumor	hormones	hormones	(certain	
-A-369	phip	phip	breast cancer	breast cancer	for example activates estrogen receptors on human	
-A-369	cooked meat	cooked meat	phip	phip	chemical	
-A-369	chemicals	chemicals	mutation	mutation	trigger the original cancer-causing	
-A-369	phip	phip	estrogen	estrogen	for example activates	
-A-369	cancer	cancer	metastatic potential	metastatic potential	growth, but also increase its	
-A-369	igf-1	igf-1	tumor	tumor	may also promote	
-A-369	national cancer institute	national cancer institute	chemicals	chemicals	as “	
-A-369	breast cancer	breast cancer	carcinogens	carcinogens	(see also muscle tremors & diet and fast food tested for	
-A-369	lung cancer	lung cancer	broccoli	broccoli	metastases and	
-A-369	roasted	roasted	meat	meat		
-A-369	long island	long island	women	women	and around the world have shown	
-A-369	tremors	tremors	carcinogens	carcinogens	& diet and fast food tested for	
-A-369	cancer	cancer	fast food	fast food	(see also muscle tremors & diet and 	
-A-369	meat	meat	carcinogens	carcinogens	like phip are considered “three strikes”	
-A-369	meat	meat	cooking	cooking		
-A-369	indian gooseberries	indian gooseberries	lung cancer	lung cancer	may have both anti-proliferative and anti-invasive properties: 	
-A-369	women	women	cancer	cancer	corresponded to significant	
-A-369	breast milk	breast milk	cancer	cancer	of meat-eating women corresponded to significant	
-A-369	meat	meat	breast cancer	breast cancer	chemical phip appears to drive the growth of	
-A-369	liver	liver	animal protein	animal protein	in response to	
-A-369	carcinogen	carcinogen	cooked meat	cooked meat	to see what affect these	
-A-369	carcinogens	carcinogens	metastatic potential	metastatic potential	may have on the invasiveness and	
-A-369	mutagens	mutagens	metastatic potential	metastatic potential	and promote cancer growth, but also increase its	
-A-369	women	women	cooking	cooking	undergoing breast reduction surgery about their meat	
-A-369	canada	canada	milk	milk	 measured the levels of phip in the breast	
-A-369	cooked meat	cooked meat	meat	meat	carcinogens i show that not only may these	
-A-369	milk	milk	cancer growth	cancer growth	of meat-eating women corresponded to significant	
-A-369	phip	phip	breast milk	breast milk	 in the	
-A-369	cancer	cancer	meat	meat	institute as “chemicals formed when muscle	
-A-369	liver	liver	protein	protein	in response to animal	
-A-369	women	women	cooking methods	cooking methods	undergoing breast reduction surgery about their meat	
-A-369	metastatic potential	metastatic potential	cancer	cancer	of human breast	
-A-369	women	women	meats	meats	eating more broiled, grilled, fried, barbequed, and smoked	
-A-369	mutagens	mutagens	cancer growth	cancer growth	and promote	
-A-369	estrogen	estrogen	cancer	cancer	receptors on human breast	
-A-369	phip	phip	carcinogens	carcinogens	are considered “three strikes”	
-A-369	cancer-producing substances	cancer-producing substances	meat	meat	” in roasted	
-A-369	gooseberries	gooseberries	lung cancer	lung cancer	may have both anti-proliferative and anti-invasive properties: 	
-A-369	risk	risk	cancer	cancer	of developing breast	
-A-369	roasted	roasted	chicken	chicken		
-A-369	risk	risk	diet	diet	of developing breast cancer (see also muscle tremors &	
-A-369	cancer-producing substances	cancer-producing substances	roasted	roasted	” in	
-A-369	heterocyclic amines	heterocyclic amines	carcinogens	carcinogens	in cooked meat like phip are considered “three strikes”	
-A-369	cancer	cancer	metastases	metastases		
-A-369	carcinogen	carcinogen	carcinogens	carcinogens	to see what affect these cooked meat	
-A-369	women	women	vegetarian	vegetarian	was	
-A-369	tumor	tumor	igf-1	igf-1	(certain hormones like 	
 A-369	fast food	fast food	carcinogens	carcinogens	tested for	
-A-369	carcinogen	carcinogen	breast milk	breast milk	” found in the	
-A-369	mutation	mutation	radiation	radiation	(like	
-A-369	meat	meat	chemicals	chemicals	carcinogens i show that not only may these meat	
-A-369	metastases	metastases	amla	amla	and broccoli and 	
-A-369	gooseberries	gooseberries	cancer	cancer	may have both anti-proliferative and anti-invasive properties: lung	
-A-369	cancer	cancer	cancer	cancer	metastases and broccoli and amla versus	
-A-369	breast cancer	breast cancer	diet	diet	(see also muscle tremors &	
-A-369	phip	phip	breast cancer	breast cancer	appears to drive the growth of	
-A-369	igf-1	igf-1	liver	liver	is released by our	
-A-369	lung cancer	lung cancer	metastases	metastases		
-A-369	surgery	surgery	meat	meat	about their	
-A-369	cancer	cancer	estrogen	estrogen	cells almost as powerfully as pure	
-A-369	meat	meat	chemicals	chemicals		
-A-369	cooked meat	cooked meat	carcinogens	carcinogens		
-A-369	phip	phip	cancer	cancer	for example activates estrogen receptors on human breast	
-A-369	meat	meat	phip	phip	chemical	
-A-369	cooked meat	cooked meat	metastatic potential	metastatic potential	carcinogens may have on the invasiveness and	
-A-369	dna	dna	mutations	mutations		
-A-369	cancer	cancer	diet	diet	(see also muscle tremors &	
-A-369	meat	meat	phip	phip	like	
-A-369	diet	diet	fast food	fast food	 and 	
+A-369	meats	meats	risk	risk	appear to have up to five times the	
+A-369	broccoli	broccoli	indian gooseberries	indian gooseberries	and	
 A-369	frying	frying	grilling	grilling	or	
-A-369	cooked meat	cooked meat	phip	phip	like	
-A-369	carcinogens	carcinogens	chicken	chicken	in roasted	
-A-369	gooseberries	gooseberries	metastases	metastases	may have both anti-proliferative and anti-invasive properties: lung cancer	
+A-369	igf-1	igf-1	liver	liver	is released by our	
 A-369	carcinogens	carcinogens	roasted	roasted	in	
 A-369	heterocyclic amines	heterocyclic amines	cooked meat	cooked meat	in	
-A-369	chemicals	chemicals	pork	pork	formed when muscle meat, including beef,	
-A-369	breast cancer	breast cancer	tremors	tremors	(see also muscle	
-A-369	national cancer institute	national cancer institute	pork	pork	as “chemicals formed when muscle meat, including beef,	
-A-369	surgery	surgery	cooking methods	cooking methods	about their meat	
-A-369	canada	canada	breast milk	breast milk	 measured the levels of phip in the	
-A-369	growth hormone	growth hormone	tumor	tumor	igf-1 may also promote	
-A-369	chemicals	chemicals	liver	liver	can be removed by the	
-A-369	carcinogens	carcinogens	mutagens	mutagens	 because they are not only dna-damaging	
-A-369	carcinogens	carcinogens	chemicals	chemicals	 i show that not only may these meat	
-A-369	indian gooseberries	indian gooseberries	metastases	metastases	may have both anti-proliferative and anti-invasive properties: lung cancer	
-A-369	cancer	cancer	tremors	tremors	(see also muscle	
-A-369	national cancer institute	national cancer institute	meat	meat	as “chemicals formed when muscle	
-A-369	tumor	tumor	cancer	cancer	progression and invasion (see igf-1 as one-stop	
-A-369	diet	diet	carcinogens	carcinogens	 and fast food tested for	
-A-369	surgery	surgery	cooking	cooking	about their meat	
-A-369	indian gooseberries	indian gooseberries	cancer	cancer	may have both anti-proliferative and anti-invasive properties: lung	
-A-369	cancer	cancer	beef	beef	institute as “chemicals formed when muscle meat, including	
-A-369	cooked meat	cooked meat	chemicals	chemicals		
-A-369	breast cancer	breast cancer	estrogen	estrogen	cells almost as powerfully as pure	
-A-369	cancer cells	cancer cells	estrogen	estrogen	almost as powerfully as pure	
-A-369	amla	amla	cancer	cancer	versus	
-A-369	breast milk	breast milk	women	women	formed in those ducts of nonsmoking	
-A-369	carcinogen	carcinogen	women	women	” found in the breast milk of meat-eating	
-A-369	roasted	roasted	risk	risk	chicken, studies on rodents have historically downplayed the	
-A-369	chemicals	chemicals	meat	meat	formed when muscle	
 A-369	women	women	cancer growth	cancer growth	corresponded to significant	
 A-369	canada	canada	phip	phip	 measured the levels of 	
-A-369	estrogen	estrogen	breast cancer	breast cancer	receptors on human	
 A-369	metastases	metastases	broccoli	broccoli	and	
-A-369	breast milk	breast milk	cancer growth	cancer growth	of meat-eating women corresponded to significant	
-A-369	meat	meat	cooking methods	cooking methods		
-A-369	carcinogen	carcinogen	meat	meat	to see what affect these cooked	
-A-369	milk	milk	women	women	formed in those ducts of nonsmoking	
-A-369	carcinogen	carcinogen	milk	milk	” found in the breast	
-A-369	lung cancer	lung cancer	cancer	cancer	metastases and broccoli and amla versus	
-A-369	women	women	surgery	surgery	undergoing breast reduction	
-A-369	broccoli	broccoli	gooseberries	gooseberries	and indian	
-A-369	mutagens	mutagens	cancer	cancer	and promote	
-A-369	cancer	cancer	amla	amla	metastases and broccoli and 	
-A-369	metastatic potential	metastatic potential	breast cancer	breast cancer	of human	
-A-369	chemicals	chemicals	beef	beef	formed when muscle meat, including	
-A-369	radiation	radiation	cancer	cancer	), or the promotion stage of	
-A-369	cooking	cooking	dna	dna	methods, researchers were able to directly correlate the number of	
-A-369	meats	meats	risk	risk	appear to have up to five times the	
-A-369	metastatic potential	metastatic potential	tumor	tumor	by increasing	
-A-369	national cancer institute	national cancer institute	beef	beef	as “chemicals formed when muscle meat, including	
-A-369	breast milk	breast milk	women	women	of meat-eating	
-A-369	dna	dna	cancer	cancer	mutation (like radiation), or the promotion stage of	
-A-369	milk	milk	cancer	cancer	of meat-eating women corresponded to significant	
-A-369	chemicals	chemicals	fish	fish	formed when muscle meat, including beef, pork,	
-A-369	broccoli	broccoli	cancer	cancer	 and amla versus	
-A-369	cancer	cancer	chemicals	chemicals	institute as “	
-A-369	women	women	meat	meat	undergoing breast reduction surgery about their	
-A-369	cooked meat	cooked meat	carcinogens	carcinogens	like phip are considered “three strikes”	
-A-369	meat	meat	metastatic potential	metastatic potential	carcinogens may have on the invasiveness and	
-A-369	meat	meat	carcinogens	carcinogens		
-A-369	cooked meat	cooked meat	breast cancer	breast cancer	chemical phip appears to drive the growth of	
-A-369	lung cancer	lung cancer	amla	amla	metastases and broccoli and 	
-A-369	phip	phip	carcinogen	carcinogen	: the three strikes breast	
-A-369	cancer	cancer	broccoli	broccoli	metastases and	
-A-369	tremors	tremors	fast food	fast food	& diet and 	
-A-369	milk	milk	women	women	of meat-eating	
-A-369	growth hormone	growth hormone	igf-1	igf-1		
-A-369	risk	risk	breast cancer	breast cancer	of developing	
-A-369	broccoli	broccoli	indian gooseberries	indian gooseberries	and	
-A-369	dna	dna	radiation	radiation	mutation (like	
-A-369	mutation	mutation	cancer	cancer	(like radiation), or the promotion stage of	
-A-369	igf-1	igf-1	animal protein	animal protein	is released by our liver in response to	
-A-369	metastases	metastases	cancer	cancer	and broccoli and amla versus	
-A-369	breast cancer	breast cancer	fast food	fast food	(see also muscle tremors & diet and 	
-A-369	cooked meat	cooked meat	chemicals	chemicals	carcinogens i show that not only may these meat	
-A-369	phip	phip	cancer	cancer	appears to drive the growth of breast	
-A-369	phip	phip	cancer cells	cancer cells	for example activates estrogen receptors on human breast	
-A-369	carcinogens	carcinogens	meat	meat	 i show that not only may these	
-A-369	risk	risk	tremors	tremors	of developing breast cancer (see also muscle	
-A-369	phip	phip	milk	milk	 in the breast	
+A-369	phip	phip	carcinogens	carcinogens	are considered “three strikes”	
+A-369	gooseberries	gooseberries	lung cancer	lung cancer	may have both anti-proliferative and anti-invasive properties: 	
+A-369	indian gooseberries	indian gooseberries	lung cancer	lung cancer	may have both anti-proliferative and anti-invasive properties: 	
+A-369	carcinogens	carcinogens	cooked meat	cooked meat	make it not only into the breast after you eat	
+A-369	women	women	cancer	cancer	corresponded to significant	
+A-369	chemicals	chemicals	liver	liver	can be removed by the	
+A-369	carcinogens	carcinogens	metastatic potential	metastatic potential	may have on the invasiveness and	
+A-369	women	women	vegetarian	vegetarian	was	
+A-369	carcinogens	carcinogens	meat	meat	make it not only into the breast after you eat cooked	

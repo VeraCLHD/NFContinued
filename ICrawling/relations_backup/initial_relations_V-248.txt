@@ -1,65 +1,8 @@
 
-V-248	fiber	fiber	fruits	fruits	and fresh	
-V-248	ammonia	ammonia	western diet	western diet	.over a lifetime on a standard	
-V-248	colon	colon	ammonia	ammonia	on usual western diets,	
-V-248	liver	liver	meat	meat	detoxifies it, why is benzopyrene in	
-V-248	plant-based	plant-based	diet	diet		
-V-248	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	can boost	
-V-248	lead	lead	hydrogen sulfide	hydrogen sulfide	to the production of the rotten egg gas,	
-V-248	protein	protein	western diet	western diet	also produces ammonia.over a lifetime on a standard	
-V-248	risk	risk	animal products	animal products	was associated with “higher dietary intakes of	
-V-248	vegetarian	vegetarian	diet	diet		
-V-248	colon	colon	cancer	cancer		
-V-248	dna	dna	virus	virus	synthesis, increases cellular proliferation, may increase	
-V-248	risk	risk	united states	united states	in the	
-V-248	produce	produce	cancer	cancer	changes that increase	
 V-248	carcinogens	carcinogens	meat	meat	in	
-V-248	bacteria	bacteria	ammonia	ammonia	in our colon may release the amount of	
-V-248	bacteria	bacteria	colon	colon	in our	
-V-248	virus	virus	infections	infections		
-V-248	risk	risk	cancer survival	cancer survival	—and decreased	
-V-248	meat	meat	rectal cancer	rectal cancer	still associated with	
-V-248	cancer	cancer	cancer survival	cancer survival	risk—and decreased	
-V-248	ammonia	ammonia	colon	colon	concentration in the	
+V-248	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	can boost	
 V-248	drugs	drugs	chemicals	chemicals	and	
-V-248	produce	produce	risk	risk	changes that increase cancer	
-V-248	protein	protein	cancer	cancer	and fat increase	
-V-248	fat	fat	digestion	digestion		
-V-248	fruits	fruits	vegetables	vegetables	and	
-V-248	enzymes	enzymes	liver	liver	in the	
-V-248	colorectal cancer	colorectal cancer	animal products	animal products	risk was associated with “higher dietary intakes of	
-V-248	protein	protein	ammonia	ammonia	also produces	
-V-248	fat	fat	cancer	cancer	increase	
-V-248	colon	colon	dna	dna	on usual western diets, ammonia destroys cells, alters	
-V-248	fiber	fiber	vegetables	vegetables	and fresh fruits and	
-V-248	animal protein	animal protein	cancer	cancer	and fat increase	
 V-248	colon	colon	ammonia	ammonia	may release the amount of	
-V-248	detoxifying enzymes	detoxifying enzymes	liver	liver	in the	
-V-248	protein	protein	risk	risk	and fat increase cancer	
-V-248	ammonia	ammonia	colon	colon	in the	
-V-248	african-american	african-american	polyps	polyps	or caucasian-american colons, they found 21 problems each:	
-V-248	colon cancer	colon cancer	cancer	cancer	is a leading	
-V-248	animal protein	animal protein	gut	gut	putrefies in the	
-V-248	cancer	cancer	risk	risk		
-V-248	animal protein	animal protein	risk	risk	and fat increase cancer	
-V-248	colorectal cancer	colorectal cancer	risk	risk		
-V-248	vegetables	vegetables	enzymes	enzymes	can boost detoxifying	
-V-248	meat	meat	cancer	cancer	still associated with rectal	
-V-248	fat	fat	risk	risk	increase cancer	
-V-248	bacteria	bacteria	gut	gut	in our	
-V-248	africa	africa	disease	disease	where they rarely get the	
-V-248	dna	dna	infections	infections	synthesis, increases cellular proliferation, may increase virus	
-V-248	vegetables	vegetables	liver	liver	can boost detoxifying enzymes in the	
-V-248	ammonia	ammonia	diet	diet	.over a lifetime on a standard western	
+V-248	fruits	fruits	vegetables	vegetables	and	
 V-248	animal protein	animal protein	fat	fat	and	
-V-248	cancer	cancer	cancer	cancer	risk—and decreased	
 V-248	protein	protein	fat	fat	and	
-V-248	protein	protein	digestion	digestion	and fat	
-V-248	risk	risk	cancer	cancer	—and decreased	
-V-248	lead	lead	gas	gas	to the production of the rotten egg	
-V-248	vegan	vegan	diet	diet		
-V-248	lead	lead	egg	egg	to the production of the rotten	
-V-248	cancer	cancer	animal products	animal products	risk was associated with “higher dietary intakes of	
-V-248	animal protein	animal protein	lead	lead	putrefies in the gut, it can	
-V-248	ammonia	ammonia	dna	dna	destroys cells, alters	
-V-248	cancer	cancer	cancer	cancer	is a leading	

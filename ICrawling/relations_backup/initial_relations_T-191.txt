@@ -1,47 +1,11 @@
 
 T-191	vitamin b6	vitamin b6	bananas	bananas	found in	
-T-191	depression	depression	symptoms	symptoms		
-T-191	eye	eye	health	health		
-T-191	eye health	eye health	eye	eye	and alleviate dry	
-T-191	breast cancer	breast cancer	african	african	in a study of	
+T-191	bananas	bananas	potassium	potassium	do contain	
+T-191	bananas	bananas	blood	blood	does, however, appear to help stabilize	
+T-191	bananas	bananas	eye	eye	may support	
 T-191	blood sugar	blood sugar	fruits	fruits	levels.compared to other	
+T-191	sugar	sugar	fruits	fruits	levels.compared to other	
 T-191	bananas	bananas	eye health	eye health	may support	
 T-191	bananas	bananas	blood sugar	blood sugar	does, however, appear to help stabilize	
-T-191	risk	risk	african	african	of developing breast cancer in a study of	
-T-191	health	health	symptoms	symptoms	and alleviate dry eye	
-T-191	berries	berries	fruits	fruits	and most other	
-T-191	liver cancer	liver cancer	bananas	bananas	cells growth rate decreasing 40% after exposure to	
-T-191	blood	blood	fruits	fruits	sugar levels.compared to other	
-T-191	blood	blood	bananas	bananas	sugar levels.compared to other fruits,	
-T-191	risk	risk	cancer	cancer	of developing breast	
-T-191	breast cancer	breast cancer	women	women	in a study of african american	
-T-191	fast food	fast food	milk	milk		
-T-191	bananas	bananas	eye	eye	may support	
-T-191	vitamin b6	vitamin b6	eye health	eye health	found in bananas may support	
-T-191	bananas	bananas	sugar	sugar	does, however, appear to help stabilize blood	
-T-191	sugar	sugar	fruits	fruits	levels.compared to other	
-T-191	cancer	cancer	women	women	in a study of african american	
-T-191	bananas	bananas	health	health	may support eye	
-T-191	health	health	eye	eye	and alleviate dry	
-T-191	vitamin b6	vitamin b6	eye	eye	found in bananas may support	
-T-191	risk	risk	breast cancer	breast cancer	of developing	
-T-191	bananas	bananas	blood	blood	does, however, appear to help stabilize	
-T-191	eye health	eye health	symptoms	symptoms	and alleviate dry eye	
-T-191	cancer	cancer	african	african	in a study of	
-T-191	liver	liver	cancer	cancer		
-T-191	cancer	cancer	bananas	bananas	cells growth rate decreasing 40% after exposure to	
 T-191	bananas	bananas	risk	risk	was not associated with a decreased	
 T-191	beans	beans	dates	dates	and	
-T-191	sugar	sugar	bananas	bananas	levels.compared to other fruits,	
-T-191	african	african	women	women	american	
-T-191	blood sugar	blood sugar	bananas	bananas	levels.compared to other fruits,	
-T-191	bananas	bananas	potassium	potassium	do contain	
-T-191	bananas	bananas	fiber	fiber	 bananas are a good source of	
-T-191	cancer cells	cancer cells	bananas	bananas	growth rate decreasing 40% after exposure to	
-T-191	vitamin b6	vitamin b6	health	health	found in bananas may support eye	
-T-191	liver	liver	cancer cells	cancer cells		
-T-191	gut	gut	bacteria	bacteria		
-T-191	fruits	fruits	serotonin	serotonin	are also rich in	
-T-191	bananas	bananas	symptoms	symptoms	may support eye health and alleviate dry eye	
-T-191	eye	eye	symptoms	symptoms	health and alleviate dry eye	
-T-191	blood	blood	sugar	sugar		

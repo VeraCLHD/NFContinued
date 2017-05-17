@@ -1,14 +1,5 @@
 
 T-693	diet	diet	heart health	heart health	could improve both erectile function and	
-T-693	disease	disease	women	women	mechanisms are involved in	
-T-693	health	health	testosterone	testosterone	as well as increase	
+T-693	erectile dysfunction	erectile dysfunction	plant-based diet	plant-based diet	may be an early warning sign for potential cardiac problems, but a	
 T-693	plant-based diet	plant-based diet	heart health	heart health	could improve both erectile function and	
-T-693	watermelon	watermelon	bpa	bpa	as well as avoiding	
-T-693	plant-based diet	plant-based diet	health	health	could improve both erectile function and heart	
-T-693	nuts	nuts	bpa	bpa	and watermelon as well as avoiding	
-T-693	plant-based	plant-based	diet	diet		
-T-693	diet	diet	health	health	could improve both erectile function and heart	
-T-693	plant-based	plant-based	heart health	heart health	diet could improve both erectile function and	
-T-693	heart health	heart health	testosterone	testosterone	as well as increase	
-T-693	plant-based	plant-based	health	health	diet could improve both erectile function and heart	
-T-693	nuts	nuts	watermelon	watermelon	and 	
+T-693	erectile dysfunction	erectile dysfunction	plant-based	plant-based	may be an early warning sign for potential cardiac problems, but a	

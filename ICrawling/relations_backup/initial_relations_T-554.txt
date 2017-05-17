@@ -1,105 +1,12 @@
 
-T-554	estrogen	estrogen	disease	disease	and heart	
+T-554	bacterial vaginosis	bacterial vaginosis	multiple sclerosis	multiple sclerosis	and	
+T-554	estrogen	estrogen	heart disease	heart disease	and	
 T-554	hormones	hormones	dairy	dairy	in	
 T-554	risk	risk	inflammation	inflammation	of	
-T-554	perfluorochemicals	perfluorochemicals	dairy	dairy	in the	
-T-554	skin	skin	vaginosis	vaginosis	wrinkling, sudden infant death syndrome, ulcerative colitis, bacterial	
-T-554	pesticides	pesticides	dairy	dairy	and dioxins was	
-T-554	kidney	kidney	constipation	constipation	stones, childhood asthma,	
-T-554	kidney	kidney	diabetes	diabetes	stones, childhood asthma, constipation, prediabetes and	
-T-554	prediabetes	prediabetes	heart disease	heart disease	and diabetes, prostate and other cancers,	
-T-554	lead	lead	dioxins	dioxins	as well as banned pesticides and	
-T-554	dairy	dairy	trans fats	trans fats	products also contain cholesterol,	
-T-554	health	health	dairy	dairy	risks of	
-T-554	hormones	hormones	skim milk	skim milk	in dairy products (including	
-T-554	estrogen	estrogen	dioxins	dioxins	and heart disease.industrial toxins such as	
-T-554	dioxins	dioxins	dairy	dairy	was	
-T-554	prostate	prostate	cancer	cancer		
-T-554	dietary guidelines	dietary guidelines	saturated fat	saturated fat	were issued in 1980 and recommended limits on	
-T-554	saturated fat	saturated fat	dairy	dairy	intake (found primarily in	
-T-554	dairy	dairy	fats	fats	products also contain cholesterol, trans	
-T-554	skin	skin	death	death	wrinkling, sudden infant	
-T-554	risk	risk	cancer	cancer	of inflammation, heart disease, diabetes,	
-T-554	children	children	prostate cancer	prostate cancer	), breast cancer,	
-T-554	cancer	cancer	risk	risk	and increased overall mortality	
-T-554	estrogen	estrogen	flame-retardant chemicals	flame-retardant chemicals	and heart disease.industrial toxins such as dioxins,	
-T-554	dairy	dairy	global warming	global warming	intake may also impact	
-T-554	blood	blood	ulcerative colitis	ulcerative colitis	pressure, skin wrinkling, sudden infant death syndrome,	
-T-554	death	death	multiple sclerosis	multiple sclerosis	syndrome, ulcerative colitis, bacterial vaginosis and	
-T-554	cancer	cancer	mortality	mortality	and increased overall	
-T-554	skim milk	skim milk	acne	acne	) may promote	
-T-554	pesticides	pesticides	fat	fat	and antibiotics can also build up in dairy	
-T-554	california	california	lead	lead	children found the top food source of	
-T-554	risk	risk	heart disease	heart disease	of inflammation,	
-T-554	dairy	dairy	cholesterol	cholesterol	products also contain	
-T-554	lead	lead	dairy	dairy	as well as banned pesticides and dioxins was	
-T-554	hormones	hormones	acne	acne	in dairy products (including skim milk) may promote	
-T-554	risk	risk	disease	disease	of cancer, parkinson’s	
-T-554	lead	lead	pesticides	pesticides	as well as banned	
-T-554	acne	acne	premature puberty	premature puberty	and also contribute to risk of	
-T-554	mortality	mortality	skim milk	skim milk	risk.the hormones in dairy products (including	
-T-554	livestock	livestock	gas	gas	are one of the largest contributors to greenhouse	
-T-554	ergothioneine	ergothioneine	amino acid	amino acid	(an	
-T-554	risk	risk	disease	disease	of inflammation, heart	
-T-554	amino acid	amino acid	fiber	fiber	that may help protect our cells) and	
-T-554	antibiotics	antibiotics	dairy	dairy	can also build up in	
-T-554	skin	skin	bacterial vaginosis	bacterial vaginosis	wrinkling, sudden infant death syndrome, ulcerative colitis,	
-T-554	dairy	dairy	livestock	livestock	intake may also impact global warming since	
-T-554	estrogen	estrogen	toxins	toxins	and heart disease.industrial	
-T-554	blood	blood	death	death	pressure, skin wrinkling, sudden infant	
-T-554	prostate	prostate	sperm counts	sperm counts	cancer, other hormone-dependent cancers, declining	
-T-554	testosterone	testosterone	obesity	obesity	levels and	
-T-554	kidney	kidney	prediabetes	prediabetes	stones, childhood asthma, constipation,	
-T-554	death	death	bacterial vaginosis	bacterial vaginosis	syndrome, ulcerative colitis,	
-T-554	estrogen	estrogen	heart disease	heart disease	and	
-T-554	dairy	dairy	endotoxins	endotoxins	products also contain cholesterol, trans fats,	
-T-554	mortality	mortality	milk	milk	risk.the hormones in dairy products (including skim	
-T-554	pesticides	pesticides	dioxins	dioxins	and	
-T-554	estrogen	estrogen	chemicals	chemicals	and heart disease.industrial toxins such as dioxins, flame-retardant	
-T-554	prostate	prostate	estrogen	estrogen	cancer, other hormone-dependent cancers, declining sperm counts, excess	
-T-554	children	children	lead	lead	found the top food source of	
-T-554	toxins	toxins	pcbs	pcbs	such as dioxins, flame-retardant chemicals,	
-T-554	fat	fat	dairy	dairy	intake (found primarily in	
-T-554	milk	milk	risk	risk	) may promote acne and also contribute to	
 T-554	risk	risk	cancer	cancer	of	
-T-554	prediabetes	prediabetes	diabetes	diabetes	and	
-T-554	blood	blood	skin	skin	pressure,	
-T-554	kidney	kidney	prostate	prostate	stones, childhood asthma, constipation, prediabetes and diabetes,	
-T-554	toxins	toxins	perfluorochemicals	perfluorochemicals	such as dioxins, flame-retardant chemicals, pcbs, and	
-T-554	death	death	vaginosis	vaginosis	syndrome, ulcerative colitis, bacterial	
-T-554	bacterial vaginosis	bacterial vaginosis	multiple sclerosis	multiple sclerosis	and	
-T-554	toxins	toxins	flame-retardant chemicals	flame-retardant chemicals	such as dioxins,	
-T-554	cancer	cancer	dairy	dairy	and increased overall mortality risk.the hormones in	
-T-554	acne	acne	risk	risk	and also contribute to	
-T-554	skin	skin	syndrome	syndrome	wrinkling, sudden infant death	
-T-554	prostate	prostate	disease	disease	and other cancers, heart	
-T-554	hormones	hormones	milk	milk	in dairy products (including skim	
-T-554	children	children	cancer	cancer	), breast	
-T-554	skim milk	skim milk	risk	risk	) may promote acne and also contribute to	
-T-554	mortality	mortality	hormones	hormones	risk.the	
-T-554	prediabetes	prediabetes	disease	disease	and diabetes, prostate and other cancers, heart	
-T-554	prostate	prostate	hormones	hormones	and other cancers, heart disease, imbalanced	
-T-554	mortality	mortality	dairy	dairy	risk.the hormones in	
-T-554	prostate	prostate	heart disease	heart disease	and other cancers,	
 T-554	pesticides	pesticides	antibiotics	antibiotics	and	
 T-554	vaginosis	vaginosis	multiple sclerosis	multiple sclerosis	and	
-T-554	cancer	cancer	hormones	hormones	and increased overall mortality risk.the	
-T-554	death	death	syndrome	syndrome		
-T-554	toxins	toxins	dioxins	dioxins	such as	
-T-554	children	children	prostate	prostate	), breast cancer,	
-T-554	mortality	mortality	risk	risk		
-T-554	global warming	global warming	livestock	livestock	since	
-T-554	death	death	ulcerative colitis	ulcerative colitis	syndrome,	
-T-554	acne	acne	puberty	puberty	and also contribute to risk of premature	
-T-554	dairy	dairy	fat	fat		
-T-554	risk	risk	diabetes	diabetes	of inflammation, heart disease,	
-T-554	dairy	dairy	health	health	industry has sponsored groups that minimize the potential	
-T-554	pesticides	pesticides	dairy	dairy	and antibiotics can also build up in	
-T-554	california	california	children	children		
-T-554	antibiotics	antibiotics	fat	fat	can also build up in dairy	
-T-554	toxins	toxins	chemicals	chemicals	such as dioxins, flame-retardant	
-T-554	skin	skin	ulcerative colitis	ulcerative colitis	wrinkling, sudden infant death syndrome,	
-T-554	prediabetes	prediabetes	prostate	prostate	and diabetes,	
-T-554	blood	blood	syndrome	syndrome	pressure, skin wrinkling, sudden infant death	
-T-554	milk	milk	acne	acne	) may promote	
-T-554	kidney	kidney	asthma	asthma	stones, childhood	
+T-554	children	children	lead	lead	found the top food source of	
+T-554	prediabetes	prediabetes	diabetes	diabetes	and	
+T-554	pesticides	pesticides	dioxins	dioxins	and	
+T-554	dioxins	dioxins	dairy	dairy	was	

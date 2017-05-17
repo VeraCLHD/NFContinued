@@ -1,4 +1,3 @@
 
-V-259	blood	blood	alcohol	alcohol		
 V-259	institute of medicine	institute of medicine	doctors	doctors	could insistently demand that	
 V-259	medicine	medicine	doctors	doctors	could insistently demand that	

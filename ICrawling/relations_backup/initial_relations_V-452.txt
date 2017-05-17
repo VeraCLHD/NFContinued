@@ -1,25 +1,8 @@
 
-V-452	diabetes	diabetes	obesity	obesity	.interestingly, “there was no association between	
-V-452	obesity	obesity	diabetes	diabetes	and	
-V-452	diabetes	diabetes	pollutants	pollutants	rates among those heavily exposed to toxic	
-V-452	risk	risk	blood	blood	factor for diabetes only if people had	
-V-452	blood	blood	pollutants	pollutants	concentrations of these	
-V-452	fat	fat	chemicals	chemicals	we’re carrying is carrying	
-V-452	pollutants	pollutants	diabetes	diabetes	they looked at “are not themselves causally related to	
-V-452	pollutants	pollutants	orange	orange	—agent	
-V-452	obesity	obesity	pollutants	pollutants	is attributable to [these]	
-V-452	diabetes	diabetes	orange	orange	rates among those heavily exposed to toxic pollutants—agent	
-V-452	pollutants	pollutants	diabetes	diabetes	circulating in people’s blood, and	
-V-452	obesity	obesity	diabetes	diabetes	predisposes us to	
-V-452	pollutants	pollutants	agent orange	agent orange	—	
-V-452	fish	fish	great lakes	great lakes	out of the	
-V-452	diabetes	diabetes	blood	blood	only if people had	
 V-452	pollutants	pollutants	blood	blood	circulating in people’s	
-V-452	risk	risk	diabetes	diabetes	factor for	
-V-452	risk	risk	obesity	obesity	of diabetes conferred by	
 V-452	pollutants	pollutants	animal foods	animal foods	come “from	
+V-452	obesity	obesity	diabetes	diabetes	and	
 V-452	diabetes	diabetes	obesity	obesity	conferred by	
-V-452	diabetes	diabetes	pollutants	pollutants	conferred by obesity is attributable to [these]	
-V-452	diabetes	diabetes	pollutants	pollutants	only if people had blood concentrations of these	
 V-452	risk	risk	diabetes	diabetes	of	
-V-452	diabetes	diabetes	agent orange	agent orange	rates among those heavily exposed to toxic pollutants—	
+V-452	obesity	obesity	pollutants	pollutants	is attributable to [these]	
+V-452	obesity	obesity	diabetes	diabetes	predisposes us to	

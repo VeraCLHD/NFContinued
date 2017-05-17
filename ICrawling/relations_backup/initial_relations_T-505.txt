@@ -1,29 +1,7 @@
 
-T-505	dairy	dairy	constipation	constipation	products may be a cure for childhood	
-T-505	breast cancer	breast cancer	bile acids	bile acids	possibly because	
-T-505	african	african	constipation	constipation	diet, which consists largely of plants,	
-T-505	tumor	tumor	artificial sweeteners	artificial sweeteners	promoting effect.certain	
-T-505	risk	risk	cancer	cancer	for breast	
-T-505	risk	risk	breast cancer	breast cancer	for	
-T-505	colon	colon	constipation	constipation	cancer,	
 T-505	prunes	prunes	constipation	constipation	may be especially helpful in treating	
-T-505	colon	colon	cancer	cancer		
 T-505	fiber	fiber	plants	plants	found in	
-T-505	risk	risk	bile acids	bile acids	for breast cancer possibly because	
-T-505	risk	risk	bile	bile	for breast cancer possibly because	
-T-505	bowel movements	bowel movements	breast cancer	breast cancer	appear to be at lower risk for	
-T-505	water	water	constipation	constipation	intake could stave off	
 T-505	tumor	tumor	sweeteners	sweeteners	promoting effect.certain artificial	
-T-505	constipation	constipation	united states	united states	is the most common gastrointestinal complaint in the	
+T-505	tumor	tumor	artificial sweeteners	artificial sweeteners	promoting effect.certain	
 T-505	constipation	constipation	fiber	fiber	is essentially nonexistent.in addition to	
 T-505	bowel movements	bowel movements	risk	risk	appear to be at lower	
-T-505	constipation	constipation	water	water	is essentially nonexistent.in addition to fiber, appropriate	
-T-505	african	african	plants	plants	diet, which consists largely of	
-T-505	african	african	diet	diet		
-T-505	bowel movements	bowel movements	cancer	cancer	appear to be at lower risk for breast	
-T-505	cancer	cancer	bile acids	bile acids	possibly because	
-T-505	bowel movements	bowel movements	appendicitis	appendicitis	have also been associated with lower rates of	
-T-505	cancer	cancer	prevention	prevention		
-T-505	colon	colon	diverticulitis	diverticulitis	cancer, constipation, and	
-T-505	cancer	cancer	bile	bile	possibly because	
-T-505	breast cancer	breast cancer	bile	bile	possibly because	

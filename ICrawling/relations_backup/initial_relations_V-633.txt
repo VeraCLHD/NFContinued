@@ -1,80 +1,11 @@
 
-V-633	diet	diet	whole wheat	whole wheat	rich in strawberries,	
 V-633	plant foods	plant foods	plant-based diets	plant-based diets	and	
-V-633	plant-based diet	plant-based diet	rice	rice	rich in strawberries, whole wheat, and brown	
-V-633	disease	disease	protein	protein	through two mechanisms: a reduced	
-V-633	vegan	vegan	levodopa	levodopa	variant, is expected to raise	
-V-633	dairy	dairy	risk	risk	may increase	
-V-633	levodopa	levodopa	bioavailability	bioavailability		
-V-633	rice	rice	phytonutrients	phytonutrients	—rich sources of these two	
-V-633	plant-based	plant-based	diet	diet		
-V-633	dopamine	dopamine	l-dopa	l-dopa	from	
-V-633	symptoms	symptoms	diet	diet	with a plant-based	
-V-633	dopamine	dopamine	amino acids	amino acids	from l-dopa, derived from certain 	
-V-633	caffeine	caffeine	symptoms	symptoms	significantly improved	
-V-633	plant-based	plant-based	rice	rice	diet rich in strawberries, whole wheat, and brown	
-V-633	mercury	mercury	fish	fish	in	
-V-633	symptoms	symptoms	plant-based diet	plant-based diet	with a	
-V-633	plant-based diet	plant-based diet	strawberries	strawberries	rich in	
-V-633	symptoms	symptoms	strawberries	strawberries	with a plant-based diet rich in	
-V-633	fat	fat	plant-based diet	plant-based diet	and dairy may increase risk, whereas “a	
-V-633	plant-based	plant-based	vegan	vegan	diet, particularly in its	
-V-633	brown rice	brown rice	phytonutrients	phytonutrients	—rich sources of these two	
-V-633	protein	protein	fiber	fiber	intake and an increased	
-V-633	animal fat	animal fat	dairy	dairy	and	
-V-633	amino acids	amino acids	diet	diet	in our	
-V-633	patent	patent	drugs	drugs	it into new	
-V-633	plant foods	plant foods	plant-based	plant-based	and	
-V-633	fat	fat	animal protein	animal protein	per se, though; it could be the	
-V-633	plant-based	plant-based	wheat	wheat	diet rich in strawberries, whole	
-V-633	mercury	mercury	iron	iron	in fish, the blood-based heme	
-V-633	plant-based	plant-based	brown rice	brown rice	diet rich in strawberries, whole wheat, and	
-V-633	animal fat	animal fat	diet	diet	and dairy may increase risk, whereas “a plant-based	
-V-633	coffee	coffee	caffeine	caffeine	a day worth of	
-V-633	fat	fat	plant-based	plant-based	and dairy may increase risk, whereas “a	
-V-633	serotonin	serotonin	protein	protein	story, the consumption of animal	
-V-633	dairy	dairy	diet	diet	may increase risk, whereas “a plant-based	
-V-633	animal products	animal products	fiber	fiber	altogether, until it was discovered that	
-V-633	animal fat	animal fat	risk	risk	and dairy may increase	
-V-633	animal protein	animal protein	dairy	dairy	that’s increasing risk, or maybe it’s the	
-V-633	symptoms	symptoms	whole wheat	whole wheat	with a plant-based diet rich in strawberries,	
-V-633	animal fat	animal fat	plant-based	plant-based	and dairy may increase risk, whereas “a	
-V-633	diet	diet	rice	rice	rich in strawberries, whole wheat, and brown	
-V-633	animal protein	animal protein	l-dopa	l-dopa	may block the transport of	
-V-633	animal fat	animal fat	protein	protein	per se, though; it could be the animal	
-V-633	protein	protein	risk	risk	that’s increasing	
-V-633	mercury	mercury	heme iron	heme iron	in fish, the blood-based	
-V-633	animal protein	animal protein	risk	risk	that’s increasing	
-V-633	plant-based	plant-based	whole wheat	whole wheat	diet rich in strawberries,	
-V-633	vegan	vegan	bioavailability	bioavailability	variant, is expected to raise levodopa	
-V-633	fat	fat	protein	protein	per se, though; it could be the animal	
-V-633	dairy	dairy	plant-based	plant-based	may increase risk, whereas “a	
-V-633	dopamine	dopamine	diet	diet	from l-dopa, derived from certain amino acids in our	
-V-633	caffeine	caffeine	disease	disease	significantly improved symptoms of the	
-V-633	antioxidants	antioxidants	plant-based	plant-based	in plant foods and	
-V-633	plant-based diet	plant-based diet	wheat	wheat	rich in strawberries, whole	
-V-633	symptoms	symptoms	disease	disease	of the	
-V-633	diet	diet	disease	disease	dietary pattern may protect against [parkinson’s	
-V-633	plant-based diet	plant-based diet	whole wheat	whole wheat	rich in strawberries,	
-V-633	dairy	dairy	plant-based diet	plant-based diet	may increase risk, whereas “a	
-V-633	plant-based diet	plant-based diet	brown rice	brown rice	rich in strawberries, whole wheat, and	
-V-633	serotonin	serotonin	animal protein	animal protein	story, the consumption of	
-V-633	fat	fat	dairy	dairy	and	
-V-633	diet	diet	wheat	wheat	rich in strawberries, whole	
-V-633	fat	fat	diet	diet	and dairy may increase risk, whereas “a plant-based	
-V-633	symptoms	symptoms	plant-based	plant-based	with a	
-V-633	plant-based	plant-based	strawberries	strawberries	diet rich in	
-V-633	animal fat	animal fat	animal protein	animal protein	per se, though; it could be the	
-V-633	coffee	coffee	symptoms	symptoms	a day worth of caffeine significantly improved	
-V-633	diet	diet	brown rice	brown rice	rich in strawberries, whole wheat, and	
-V-633	symptoms	symptoms	wheat	wheat	with a plant-based diet rich in strawberries, whole	
-V-633	plant-based	plant-based	disease	disease	diet dietary pattern may protect against [parkinson’s	
 V-633	protein	protein	l-dopa	l-dopa	may block the transport of	
-V-633	animal fat	animal fat	plant-based diet	plant-based diet	and dairy may increase risk, whereas “a	
+V-633	fat	fat	dairy	dairy	and	
+V-633	animal fat	animal fat	dairy	dairy	and	
 V-633	antioxidants	antioxidants	plant foods	plant foods	in	
-V-633	protein	protein	dairy	dairy	that’s increasing risk, or maybe it’s the	
-V-633	antioxidants	antioxidants	plant-based diets	plant-based diets	in plant foods and	
-V-633	fiber	fiber	l-dopa	l-dopa	consumption naturally boosts	
-V-633	fat	fat	risk	risk	and dairy may increase	
-V-633	plant-based diet	plant-based diet	disease	disease	dietary pattern may protect against [parkinson’s	
-V-633	diet	diet	strawberries	strawberries	rich in	
+V-633	animal protein	animal protein	l-dopa	l-dopa	may block the transport of	
+V-633	dairy	dairy	risk	risk	may increase	
+V-633	plant foods	plant foods	plant-based	plant-based	and	
+V-633	mercury	mercury	fish	fish	in	
+V-633	animal products	animal products	fiber	fiber	altogether, until it was discovered that	

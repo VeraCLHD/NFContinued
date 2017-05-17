@@ -1,43 +1,7 @@
 
-V-56	milk	milk	fat	fat	compounds such as calcium,…d,…	
-V-56	oxidative stress	oxidative stress	milk	milk	caused by the pesticide.but, drinking	
-V-56	pesticides	pesticides	dieldrin	dieldrin	and other neurotoxins,” like	
-V-56	milk	milk	protein	protein	compounds such as calcium,…d,…fat, or…	
-V-56	uric acid	uric acid	gout	gout	levels are too high, we can get	
-V-56	oxidative stress	oxidative stress	uric acid	uric acid	caused by the pesticide.but, drinking milk has a	
-V-56	risk	risk	bone fractures	bone fractures	of death and	
-V-56	milk	milk	calcium	calcium	compounds such as	
-V-56	milk	milk	blood	blood	on uric acid levels” in the	
-V-56	uric acid	uric acid	blood	blood	levels” in the	
-V-56	lifespan	lifespan	mortality	mortality	by increasing	
-V-56	dairy	dairy	uric acid	uric acid	is a good thing.but,	
-V-56	risk	risk	heart disease	heart disease	of death from	
-V-56	death	death	uric acid	uric acid	from heart disease, but low	
-V-56	stress	stress	uric acid	uric acid	caused by the pesticide.but, drinking milk has a	
-V-56	pesticides	pesticides	neurotoxins	neurotoxins	and other	
-V-56	risk	risk	disease	disease	of death from heart	
-V-56	risk	risk	cancer	cancer	of ms, parkinson’s, alzheimer’s, and even	
-V-56	milk	milk	uric acid	uric acid	on	
-V-56	milk	milk	sugar	sugar		
-V-56	uric acid	uric acid	blood	blood	in the	
-V-56	uric acid	uric acid	lifespan	lifespan	level may also shorten our	
-V-56	uric acid	uric acid	mortality	mortality	level may also shorten our lifespan by increasing	
-V-56	uric acid	uric acid	risk	risk	is associated with increased	
-V-56	mood	mood	disease	disease	disturbances, as the	
-V-56	dairy	dairy	risk	risk	products associated with increased	
-V-56	milk	milk	risk	risk	sugar, though, lactose, accounting for the increased	
-V-56	milk	milk	uric acid	uric acid	lowers	
-V-56	uric acid	uric acid	heart disease	heart disease	is associated with increased risk of death from	
-V-56	death	death	heart disease	heart disease	from	
 V-56	risk	risk	gout	gout	of	
+V-56	uric acid	uric acid	risk	risk	is associated with increased	
 V-56	risk	risk	death	death	of	
-V-56	gout	gout	uric acid	uric acid	in men for various	
-V-56	death	death	disease	disease	from heart	
-V-56	milk	milk	lactose	lactose	sugar, though,	
-V-56	stress	stress	milk	milk	caused by the pesticide.but, drinking	
-V-56	soy	soy	milk	milk		
 V-56	death	death	bone fractures	bone fractures	and	
-V-56	cancer	cancer	risk	risk	—but, having too high levels may increase our	
 V-56	milk	milk	uric acid	uric acid	has a	
-V-56	uric acid	uric acid	death	death	is associated with increased risk of	
-V-56	risk	risk	uric acid	uric acid	of death from heart disease, but low	
+V-56	milk	milk	uric acid	uric acid	lowers	

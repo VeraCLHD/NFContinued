@@ -1,48 +1,10 @@
 
 V-585	nuts	nuts	seeds	seeds	and	
+V-585	dna damage	dna damage	radiation	radiation	associated with [ionizing	
 V-585	fruit	fruit	vegetables	vegetables	and	
-V-585	tumors	tumors	dental x-rays	dental x-rays	with	
-V-585	diet	diet	fruit	fruit	consisting of a variety of	
-V-585	dentists	dentists	dental x-rays	dental x-rays	may be causing a few brain tumors with	
-V-585	antioxidant	antioxidant	supplements	supplements		
 V-585	diet	diet	variety	variety	consisting of a	
 V-585	variety	variety	fruit	fruit	of	
-V-585	tumors	tumors	x-rays	x-rays	with dental	
 V-585	antioxidants	antioxidants	synergistic effects	synergistic effects	can have	
-V-585	risk	risk	vegetables	vegetables	reduction by	
-V-585	nuts	nuts	leafy vegetables	leafy vegetables	and seeds, and pumpkins and peppers, and dark green	
-V-585	dentists	dentists	dental	dental	may be causing a few brain tumors with	
-V-585	dna	dna	cryptoxanthin	cryptoxanthin	damage; beta-carotene from food; 	
-V-585	vegetables	vegetables	greens	greens	—though, if one had to pick,	
-V-585	tumors	tumors	dental	dental	with	
-V-585	hiroshima	hiroshima	nagasaki	nagasaki	and	
-V-585	brain tumors	brain tumors	dental	dental	with	
-V-585	cancer	cancer	risk	risk		
-V-585	dna damage	dna damage	radiation	radiation	associated with [ionizing	
-V-585	antioxidant	antioxidant	dna	dna	intakes are associated with decreased [	
-V-585	dna	dna	zeaxanthin	zeaxanthin	damage; beta-carotene from food; cryptoxanthin from food; lutein	
-V-585	vitamin c	vitamin c	vitamin e	vitamin e	pills, or	
-V-585	brain tumors	brain tumors	dental x-rays	dental x-rays	with	
-V-585	cryptoxanthin	cryptoxanthin	lutein	lutein	from food; 	
 V-585	citrus	citrus	broccoli	broccoli	and	
 V-585	dentists	dentists	brain tumors	brain tumors	may be causing a few	
-V-585	citrus	citrus	nuts	nuts	and broccoli, and	
-V-585	antioxidant	antioxidant	dna damage	dna damage	intakes are associated with decreased [	
-V-585	dental	dental	x-rays	x-rays		
-V-585	nuts	nuts	peppers	peppers	and seeds, and pumpkins and 	
-V-585	cancer	cancer	vegetables	vegetables	risk reduction by	
-V-585	brain tumors	brain tumors	x-rays	x-rays	with dental	
-V-585	vegetables	vegetables	antioxidants	antioxidants	that provide a natural source of these	
-V-585	diet	diet	vegetables	vegetables	consisting of a variety of fruit and	
-V-585	cryptoxanthin	cryptoxanthin	zeaxanthin	zeaxanthin	from food; lutein	
-V-585	vitamin c	vitamin c	pills	pills		
-V-585	lutein	lutein	zeaxanthin	zeaxanthin		
-V-585	vitamin c	vitamin c	dna	dna	from food saw a significant decrease in	
-V-585	leafy vegetables	leafy vegetables	greens	greens	—though, if one had to pick,	
-V-585	dentists	dentists	tumors	tumors	may be causing a few brain	
-V-585	vitamin e	vitamin e	pills	pills		
-V-585	variety	variety	vegetables	vegetables	of fruit and	
-V-585	vitamin c	vitamin c	dna damage	dna damage	from food saw a significant decrease in	
-V-585	dna	dna	lutein	lutein	damage; beta-carotene from food; cryptoxanthin from food; 	
-V-585	dna	dna	radiation	radiation	damage associated with [ionizing	
-V-585	citrus	citrus	seeds	seeds	and broccoli, and nuts and	
+V-585	hiroshima	hiroshima	nagasaki	nagasaki	and	

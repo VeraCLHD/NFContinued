@@ -1,94 +1,16 @@
 
-A-373	adolescence	adolescence	fibrocystic breast disease	fibrocystic breast disease	and the incidence of	
-A-373	nuts	nuts	cancer prevention	cancer prevention	or peanuts for breast	
-A-373	greens	greens	boston	boston	necessary was out of	
-A-373	adolescence	adolescence	precancerous	precancerous	have a 25% lower risk of developing potentially	
+A-373	plants	plants	breast cancer	breast cancer	may be particularly protective in reducing	
+A-373	risk	risk	women	women	of	
+A-373	asian women	asian women	breast cancer	breast cancer	have less	
 A-373	nuts	nuts	fat	fat	make you	
 A-373	risk	risk	breast cancer	breast cancer	of	
-A-373	plant foods	plant foods	beans	beans	—fruits, vegetables,	
-A-373	risk	risk	cancer	cancer	of breast	
-A-373	breast cancer	breast cancer	prevention	prevention		
-A-373	fibroadenomas	fibroadenomas	breast lumps	breast lumps	are noncancerous	
+A-373	women	women	breast cancer	breast cancer	have less	
+A-373	almonds	almonds	pecans	pecans	or	
 A-373	sandwiches	sandwiches	nuts	nuts	count or do you have to eat true	
 A-373	nuts	nuts	obesity	obesity	and	
-A-373	cancer	cancer	boston	boston	by any greens necessary was out of	
+A-373	fiber	fiber	risk	risk	is associated with a lower	
 A-373	adolescence	adolescence	risk	risk	have a 25% lower	
 A-373	plants	plants	breast cancer	breast cancer	have on	
-A-373	breast cancer	breast cancer	risk	risk		
-A-373	plants	plants	cancer	cancer	have on breast	
-A-373	nuts	nuts	fibrocystic breast disease	fibrocystic breast disease	during adolescence and the incidence of	
-A-373	fiber	fiber	nuts	nuts	and	
-A-373	fiber	fiber	beans	beans	in all whole plant foods—fruits, vegetables,	
-A-373	women	women	cancer	cancer	have less breast	
-A-373	lifespan	lifespan	women	women	in	
-A-373	harvard	harvard	health	health	nurse’s	
-A-373	nuts	nuts	cancer	cancer	or peanuts for breast	
-A-373	fiber	fiber	vegetables	vegetables	in all whole plant foods—fruits,	
-A-373	fiber	fiber	risk	risk	intake during adolescence have a 25% lower	
-A-373	peanuts	peanuts	prevention	prevention	for breast cancer	
-A-373	plant foods	plant foods	grains	grains	—fruits, vegetables, beans, whole	
-A-373	peanut butter	peanut butter	sandwiches	sandwiches	and jelly	
-A-373	asian women	asian women	breast cancer	breast cancer	have less	
-A-373	peanut	peanut	butter	butter		
-A-373	health	health	breast cancer	breast cancer	study i profiled in my last blog prevent	
-A-373	plants	plants	cancer cell growth	cancer cell growth	have on breast	
-A-373	almonds	almonds	pecans	pecans	or	
-A-373	peanuts	peanuts	cancer	cancer	for breast	
-A-373	fiber	fiber	adolescence	adolescence	and nuts during	
-A-373	plant foods	plant foods	fruits	fruits	—	
-A-373	risk	risk	breast disease	breast disease	of developing potentially precancerous	
-A-373	harvard	harvard	fiber	fiber	researchers also found that	
-A-373	peanuts	peanuts	cancer prevention	cancer prevention	for breast	
-A-373	cancer	cancer	greens	greens	by any	
-A-373	plants	plants	risk	risk	may be particularly protective in reducing breast cancer	
-A-373	peanuts	peanuts	breast cancer	breast cancer	for	
-A-373	plants	plants	cancer	cancer	may be particularly protective in reducing breast	
-A-373	asian	asian	cancer	cancer	women have less breast	
-A-373	fiber	fiber	cancer	cancer	is associated with a lower risk of breast	
-A-373	plant foods	plant foods	seeds	seeds	—fruits, vegetables, beans, whole grains, nuts, and	
-A-373	adolescence	adolescence	disease	disease	and the incidence of fibrocystic breast	
-A-373	plants	plants	breast cancer	breast cancer	may be particularly protective in reducing	
-A-373	fiber	fiber	grains	grains	in all whole plant foods—fruits, vegetables, beans, whole	
-A-373	fiber	fiber	whole grains	whole grains	in all whole plant foods—fruits, vegetables, beans,	
-A-373	diet	diet	plants	plants	full of	
-A-373	precancerous	precancerous	disease	disease	breast	
-A-373	plant foods	plant foods	vegetables	vegetables	—fruits,	
-A-373	women	women	breast cancer	breast cancer	have less	
-A-373	asian	asian	women	women		
-A-373	women	women	fiber	fiber	who had the most	
-A-373	diet	diet	cancer	cancer	full of plants have on breast	
-A-373	cancer	cancer	risk	risk		
-A-373	breast cancer	breast cancer	boston	boston	by any greens necessary was out of	
-A-373	harvard	harvard	plants	plants	nurse’s health study also tried to determine which	
-A-373	butter	butter	sandwiches	sandwiches	and jelly	
-A-373	women	women	cancer	cancer	with fibrocystic breasts going on to develop	
-A-373	fiber	fiber	adolescence	adolescence	intake during	
-A-373	nuts	nuts	breast cancer	breast cancer	or peanuts for	
-A-373	nuts	nuts	disease	disease	during adolescence and the incidence of fibrocystic breast	
-A-373	nuts	nuts	adolescence	adolescence	during	
-A-373	risk	risk	women	women	of	
-A-373	risk	risk	precancerous	precancerous	of developing potentially	
-A-373	plant foods	plant foods	whole grains	whole grains	—fruits, vegetables, beans,	
-A-373	diet	diet	breast cancer	breast cancer	full of plants have on	
-A-373	nuts	nuts	prevention	prevention	or peanuts for breast cancer	
-A-373	diet	diet	cancer cell growth	cancer cell growth	full of plants have on breast	
-A-373	fiber	fiber	risk	risk	is associated with a lower	
-A-373	plant foods	plant foods	nuts	nuts	—fruits, vegetables, beans, whole grains,	
-A-373	peanut	peanut	sandwiches	sandwiches	butter and jelly	
-A-373	women	women	health	health	’s	
 A-373	nuts	nuts	peanuts	peanuts	or	
-A-373	fiber	fiber	fibrocystic breast disease	fibrocystic breast disease	and nuts during adolescence and the incidence of	
-A-373	fiber	fiber	breast cancer	breast cancer	is associated with a lower risk of	
-A-373	asian	asian	breast cancer	breast cancer	women have less	
-A-373	asian women	asian women	cancer	cancer	have less breast	
-A-373	fiber	fiber	plant foods	plant foods	in all whole	
-A-373	fiber	fiber	fruits	fruits	in all whole plant foods—	
-A-373	nuts	nuts	breast disease	breast disease	during adolescence and the incidence of fibrocystic	
-A-373	risk	risk	disease	disease	of developing potentially precancerous breast	
-A-373	cancer	cancer	prevention	prevention		
-A-373	soy	soy	adolescence	adolescence	food consumption during	
-A-373	health	health	plants	plants	study also tried to determine which	
-A-373	adolescence	adolescence	breast disease	breast disease	and the incidence of fibrocystic	
-A-373	precancerous	precancerous	breast disease	breast disease		
-A-373	breast cancer	breast cancer	greens	greens	by any	
-A-373	women	women	adolescence	adolescence	who had the most fiber intake during	
+A-373	fiber	fiber	nuts	nuts	and	
+A-373	lifespan	lifespan	women	women	in	

@@ -1,54 +1,13 @@
 
-T-159	diet	diet	risk	risk	seems to have an effect on the	
-T-159	produce	produce	animal products	animal products	towards processed foods and	
-T-159	disease	disease	medications	medications	(unlike homeopathy or even some	
-T-159	plant-based	plant-based	diet	diet		
-T-159	plant-based	plant-based	disease	disease	diet can successfully treat symptoms of the	
-T-159	diet	diet	produce	produce	over the last few decades away from fresh	
-T-159	poultry	poultry	risk	risk	and dairy have been correlated with an increased	
-T-159	western diet	western diet	produce	produce	over the last few decades away from fresh	
-T-159	symptoms	symptoms	homeopathy	homeopathy	of the disease (unlike	
-T-159	risk	risk	plant foods	plant foods	for developing asthma.some individual	
-T-159	vaginal flora	vaginal flora	asthma	asthma	are at increased risk for developing	
-T-159	plant foods	plant foods	asthma	asthma	may be used to treat	
-T-159	flora	flora	plant foods	plant foods	are at increased risk for developing asthma.some individual	
-T-159	diet	diet	homeopathy	homeopathy	can successfully treat symptoms of the disease (unlike	
-T-159	vaginal flora	vaginal flora	risk	risk	are at increased	
-T-159	mothers	mothers	vaginal flora	vaginal flora	with disturbances in	
-T-159	flora	flora	risk	risk	are at increased	
-T-159	risk	risk	asthma	asthma	for	
-T-159	vegetables	vegetables	soy	soy	and	
-T-159	disease	disease	homeopathy	homeopathy	(unlike	
-T-159	plant-based diet	plant-based diet	disease	disease	can successfully treat symptoms of the	
-T-159	mothers	mothers	risk	risk	with disturbances in vaginal flora are at increased	
-T-159	caesarean section	caesarean section	flora	flora	or naturally to mothers with disturbances in vaginal	
-T-159	liver	liver	poultry	poultry	oil,	
-T-159	diet	diet	disease	disease	can successfully treat symptoms of the	
-T-159	plant-based diet	plant-based diet	symptoms	symptoms	can successfully treat	
-T-159	liver	liver	dairy	dairy	oil, poultry and	
-T-159	plant-based	plant-based	symptoms	symptoms	diet can successfully treat	
-T-159	cod	cod	poultry	poultry	liver oil,	
-T-159	processed foods	processed foods	animal products	animal products	and	
-T-159	plant-based diet	plant-based diet	homeopathy	homeopathy	can successfully treat symptoms of the disease (unlike	
-T-159	vaginal flora	vaginal flora	plant foods	plant foods	are at increased risk for developing asthma.some individual	
-T-159	symptoms	symptoms	medications	medications	of the disease (unlike homeopathy or even some	
-T-159	caesarean section	caesarean section	vaginal flora	vaginal flora	or naturally to mothers with disturbances in	
-T-159	dairy	dairy	risk	risk	have been correlated with an increased	
-T-159	homeopathy	homeopathy	medications	medications	or even some	
-T-159	turmeric	turmeric	asthma	asthma	may have positive therapeutic effects on	
-T-159	dairy	dairy	asthma	asthma	have been correlated with an increased risk for	
-T-159	cod	cod	dairy	dairy	liver oil, poultry and	
-T-159	symptoms	symptoms	disease	disease	of the	
-T-159	cod	cod	liver	liver		
 T-159	babies	babies	caesarean section	caesarean section	born via	
-T-159	flora	flora	asthma	asthma	are at increased risk for developing	
-T-159	diet	diet	symptoms	symptoms	can successfully treat	
-T-159	risk	risk	asthma	asthma	of developing	
-T-159	risk	risk	asthma	asthma	for developing	
-T-159	asthma	asthma	plant foods	plant foods	.some individual	
-T-159	babies	babies	mothers	mothers	born via caesarean section or naturally to	
-T-159	produce	produce	processed foods	processed foods	towards	
+T-159	diet	diet	risk	risk	seems to have an effect on the	
+T-159	dairy	dairy	risk	risk	have been correlated with an increased	
+T-159	flora	flora	risk	risk	are at increased	
 T-159	poultry	poultry	dairy	dairy	and	
-T-159	risk	risk	fruits	fruits	for asthma, while the consumption of fresh	
-T-159	caesarean section	caesarean section	mothers	mothers	or naturally to	
-T-159	mothers	mothers	flora	flora	with disturbances in vaginal	
+T-159	diet	diet	symptoms	symptoms	can successfully treat	
+T-159	chemicals	chemicals	asthma	asthma	found in common scented household products may be playing a role in the increased occurrence of	
+T-159	vegetables	vegetables	soy	soy	and	
+T-159	plant foods	plant foods	asthma	asthma	may be used to treat	
+T-159	processed foods	processed foods	animal products	animal products	and	
+T-159	plant-based diet	plant-based diet	symptoms	symptoms	can successfully treat	
+T-159	vaginal flora	vaginal flora	risk	risk	are at increased	

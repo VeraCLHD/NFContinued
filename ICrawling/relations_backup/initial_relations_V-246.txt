@@ -1,29 +1,8 @@
 
-V-246	smoothies	smoothies	fruit	fruit	can have a dramatic effect on	
-V-246	risk	risk	death	death	of premature	
-V-246	cooking	cooking	boiling	boiling	—	
-V-246	smoothies	smoothies	nutrient absorption	nutrient absorption	can maximize	
-V-246	diet	diet	smoothies	smoothies	is with whole food	
-V-246	carrots	carrots	chewing	chewing	for three minutes first, and even just regular	
-V-246	vegetables	vegetables	fruit	fruit	for breakfast.or even	
 V-246	smoothies	smoothies	fruit	fruit	may not just boost the quantity of	
-V-246	fruit	fruit	phytonutrients	phytonutrients	and vegetable consumption, but also the quality.carotenoid	
-V-246	tomatoes	tomatoes	watermelon	watermelon	have more beta-carotene than	
-V-246	greens	greens	women	women	that is especially important for	
-V-246	spinach	spinach	folate	folate	a day for three weeks, and their	
-V-246	raw	raw	nutrient absorption	nutrient absorption	or cooked—into soups, sauces, or smoothies can maximize	
 V-246	fruit	fruit	greens	greens	masks the bitterness of the	
-V-246	risk	risk	smoking	smoking	of premature death include things like	
 V-246	beta carotene	beta carotene	lycopene	lycopene	and	
-V-246	berries	berries	vegetables	vegetables	—with the healthiest of	
-V-246	chewing	chewing	fruit	fruit		
-V-246	fruits	fruits	berries	berries	—	
-V-246	fruits	fruits	vegetables	vegetables	—berries—with the healthiest of	
-V-246	vegetables	vegetables	smoothies	smoothies	—raw or cooked—into soups, sauces, or	
-V-246	raw	raw	smoothies	smoothies	or cooked—into soups, sauces, or	
+V-246	tomatoes	tomatoes	watermelon	watermelon	have more beta-carotene than	
 V-246	fruits	fruits	vegetables	vegetables	and	
-V-246	baby	baby	spinach	spinach		
-V-246	leafy vegetables	leafy vegetables	fruit	fruit	for breakfast.or even	
-V-246	vegetables	vegetables	raw	raw	—	
+V-246	smoothies	smoothies	nutrient absorption	nutrient absorption	can maximize	
 V-246	death	death	smoking	smoking	include things like	
-V-246	raw	raw	carrots	carrots		

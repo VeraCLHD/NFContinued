@@ -1,135 +1,28 @@
 
-T-1535	meat	meat	hot dogs	hot dogs	substitutes such as veggie chicken, and veggie	
-T-1535	risk	risk	disease	disease	of inflammatory bowel	
-T-1535	protein	protein	veggie chicken	veggie chicken	found in many meat substitutes such as	
-T-1535	protein	protein	heart disease	heart disease	is linked to	
-T-1535	dogs	dogs	protein	protein	is another healthful source of	
-T-1535	meat	meat	veggie chicken	veggie chicken	substitutes such as	
-T-1535	meat substitutes	meat substitutes	chicken	chicken	such as veggie	
-T-1535	protein	protein	meat substitutes	meat substitutes	found in many	
-T-1535	prostate	prostate	cancer	cancer		
-T-1535	protein	protein	igf-1	igf-1	triggers the release of the cancer-promoting growth hormone	
-T-1535	vegetarians	vegetarians	protein	protein	and vegans get 70% more	
-T-1535	colon	colon	cancer	cancer		
-T-1535	plant-based	plant-based	igf-1	igf-1	diets may be more effective at lowering	
-T-1535	protein	protein	arthritis	arthritis	is linked to heart disease and inflammatory	
-T-1535	protein	protein	diet	diet	.on average, people who eat a plant-based	
-T-1535	nutrition	nutrition	protein	protein	department, plant	
-T-1535	inflammation	inflammation	heart disease	heart disease	and	
-T-1535	wheat	wheat	protein	protein		
-T-1535	igf-1	igf-1	animal protein	animal protein	levels than even strict caloric restriction.the	
-T-1535	animal protein	animal protein	disease	disease	is linked to heart	
-T-1535	protein	protein	milk	milk	present in cow’s	
-T-1535	meat	meat	saturated fat	saturated fat	molecule associated with inflammation and heart disease; and	
-T-1535	fertility	fertility	meat	meat	issues in women; neu5gc, a foreign	
-T-1535	meat	meat	low carb	low carb	-based	
-T-1535	meat	meat	heart disease	heart disease	molecule associated with inflammation and	
-T-1535	inflammation	inflammation	cholesterol	cholesterol	and heart disease; and saturated fat and	
-T-1535	heart disease	heart disease	plant protein	plant protein	and lower cholesterol.	
-T-1535	insulin	insulin	inflammatory bowel disease	inflammatory bowel disease	levels and the risk of	
-T-1535	fertility	fertility	women	women	issues in	
-T-1535	hot dogs	hot dogs	protein	protein	is another healthful source of	
-T-1535	fat	fat	plant-based	plant-based	and cholesterol, which may explain why	
-T-1535	inflammation	inflammation	fat	fat	and heart disease; and saturated	
-T-1535	amino acid	amino acid	tor	tor	leucine, which may accelerate aging via the enzyme	
-T-1535	vegans	vegans	protein	protein	get 70% more	
-T-1535	harvard	harvard	nutrition	nutrition	’s	
-T-1535	milk	milk	obesity	obesity	infant formula may be linked to childhood	
 T-1535	protein	protein	heart disease	heart disease	has been associated with lower rates of	
-T-1535	protein	protein	infant formula	infant formula	present in cow’s milk	
-T-1535	protein	protein	endocrine disrupting chemicals	endocrine disrupting chemicals	sources may also contain hormones and other	
-T-1535	animal protein	animal protein	growth hormone	growth hormone	triggers the release of the cancer-promoting	
-T-1535	animal protein	animal protein	milk	milk	present in cow’s	
-T-1535	fertility	fertility	neu5gc	neu5gc	issues in women;	
-T-1535	animal protein	animal protein	infant formula	infant formula	present in cow’s milk	
-T-1535	fat	fat	cholesterol	cholesterol	and	
-T-1535	dietary guidelines	dietary guidelines	protein	protein	as a serving option for both the	
-T-1535	inflammation	inflammation	saturated fat	saturated fat	and heart disease; and	
-T-1535	plant protein	plant protein	protein	protein	is preferable to animal	
-T-1535	chemicals	chemicals	puberty	puberty	linked to early	
-T-1535	chemicals	chemicals	fertility	fertility	linked to early puberty in girls and	
-T-1535	animal protein	animal protein	hormones	hormones	sources may also contain	
-T-1535	heart disease	heart disease	protein	protein	and lower cholesterol.plant	
-T-1535	hormones	hormones	puberty	puberty	and other endocrine disrupting chemicals linked to early	
-T-1535	infant formula	infant formula	obesity	obesity	may be linked to childhood	
-T-1535	hormones	hormones	chemicals	chemicals	and other endocrine disrupting	
-T-1535	animal protein	animal protein	endocrine disrupting chemicals	endocrine disrupting chemicals	sources may also contain hormones and other	
-T-1535	animal protein	animal protein	heart disease	heart disease	is linked to	
-T-1535	aging	aging	tor	tor	via the enzyme	
-T-1535	plant-based	plant-based	protein	protein	diet have significantly higher levels of	
-T-1535	nutrition	nutrition	plant protein	plant protein	department,	
-T-1535	disease	disease	protein	protein	and lower cholesterol.plant	
-T-1535	plant protein	plant protein	heart disease	heart disease	has been associated with lower rates of	
-T-1535	plant protein	plant protein	animal protein	animal protein	tend to be alkalizing.	
-T-1535	hormones	hormones	endocrine disrupting chemicals	endocrine disrupting chemicals	and other	
-T-1535	plant protein	plant protein	insulin	insulin	tend to be alkalizing.animal protein may also increases	
-T-1535	animal protein	animal protein	arthritis	arthritis	is linked to heart disease and inflammatory	
-T-1535	aging	aging	cancer	cancer	and	
-T-1535	amino acid	amino acid	aging	aging	associated with premature	
-T-1535	amino acid	amino acid	protein	protein	profile may also be one reason why animal	
-T-1535	meat	meat	inflammation	inflammation	molecule associated with	
-T-1535	meat	meat	disease	disease	molecule associated with inflammation and heart	
-T-1535	usda	usda	dietary guidelines	dietary guidelines		
+T-1535	animal proteins	animal proteins	igf-1	igf-1	increase levels of	
 T-1535	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of	
-T-1535	meat	meat	dogs	dogs	substitutes such as veggie chicken, and veggie hot	
-T-1535	protein	protein	plant-based	plant-based	.on average, people who eat a	
-T-1535	puberty	puberty	women	women	in girls and fertility issues in	
-T-1535	plant-based	plant-based	diet	diet		
-T-1535	amino acid	amino acid	leucine	leucine		
-T-1535	insulin	insulin	risk	risk	levels and the	
-T-1535	protein	protein	disease	disease	has been associated with lower rates of heart	
-T-1535	amino acid	amino acid	cancer	cancer	associated with premature aging and	
+T-1535	protein	protein	heart disease	heart disease	is linked to	
+T-1535	meat	meat	veggie chicken	veggie chicken	substitutes such as	
+T-1535	protein	protein	meat substitutes	meat substitutes	found in many	
 T-1535	plant-based diets	plant-based diets	igf-1	igf-1	may be more effective at lowering	
+T-1535	fat	fat	cholesterol	cholesterol	and	
 T-1535	amino acids	amino acids	animal proteins	animal proteins	in	
-T-1535	puberty	puberty	neu5gc	neu5gc	in girls and fertility issues in women;	
-T-1535	wheat	wheat	meat	meat	protein found in many	
-T-1535	harvard	harvard	plant protein	plant protein	’s nutrition department,	
-T-1535	milk	milk	infant formula	infant formula		
+T-1535	chemicals	chemicals	puberty	puberty	linked to early	
+T-1535	inflammation	inflammation	heart disease	heart disease	and	
+T-1535	plant-based diet	plant-based diet	protein	protein	have significantly higher levels of	
 T-1535	vegetarians	vegetarians	vegans	vegans	and	
 T-1535	saturated fat	saturated fat	cholesterol	cholesterol	and	
-T-1535	harvard	harvard	protein	protein	’s nutrition department, plant	
+T-1535	animal protein	animal protein	heart disease	heart disease	is linked to	
 T-1535	protein	protein	meat	meat	found in many	
 T-1535	diet	diet	protein	protein	have significantly higher levels of	
-T-1535	saturated fat	saturated fat	plant-based	plant-based	and cholesterol, which may explain why	
-T-1535	heart disease	heart disease	arthritis	arthritis	and inflammatory	
-T-1535	endocrine disrupting chemicals	endocrine disrupting chemicals	fertility	fertility	linked to early puberty in girls and	
-T-1535	raw	raw	protein	protein	food diets may be deficient in	
 T-1535	plant protein	plant protein	animal protein	animal protein	is preferable to	
+T-1535	plant protein	plant protein	heart disease	heart disease	has been associated with lower rates of	
 T-1535	protein	protein	animal protein	animal protein	is preferable to	
-T-1535	plant protein	plant protein	protein	protein	tend to be alkalizing.animal	
-T-1535	wheat	wheat	veggie chicken	veggie chicken	protein found in many meat substitutes such as	
-T-1535	protein	protein	chicken	chicken	found in many meat substitutes such as veggie	
-T-1535	usda	usda	eggs	eggs	doesn’t allow	
-T-1535	raw food	raw food	protein	protein	diets may be deficient in	
-T-1535	wheat	wheat	meat substitutes	meat substitutes	protein found in many	
-T-1535	protein	protein	plant-based diet	plant-based diet	.on average, people who eat a	
-T-1535	eggs	eggs	protein	protein	to be advertised as high in	
-T-1535	animal protein	animal protein	igf-1	igf-1	triggers the release of the cancer-promoting growth hormone	
-T-1535	insulin	insulin	disease	disease	levels and the risk of inflammatory bowel	
-T-1535	protein	protein	hormones	hormones	sources may also contain	
-T-1535	disease	disease	plant protein	plant protein	and lower cholesterol.	
-T-1535	amino acid	amino acid	animal protein	animal protein	profile may also be one reason why	
-T-1535	animal proteins	animal proteins	igf-1	igf-1	increase levels of	
-T-1535	plant protein	plant protein	disease	disease	has been associated with lower rates of heart	
-T-1535	harvard	harvard	animal protein	animal protein	’s nutrition department, plant protein is preferable to	
-T-1535	protein	protein	growth hormone	growth hormone	triggers the release of the cancer-promoting	
-T-1535	protein	protein	disease	disease	is linked to heart	
-T-1535	growth hormone	growth hormone	amino acids	amino acids	igf-1, apparently because the ratios of	
-T-1535	plant-based	plant-based	low carb	low carb		
-T-1535	inflammation	inflammation	disease	disease	and heart	
-T-1535	meat substitutes	meat substitutes	veggie chicken	veggie chicken	such as	
-T-1535	saturated fat	saturated fat	low carb	low carb	and cholesterol, which may explain why plant-based	
-T-1535	meat substitutes	meat substitutes	dogs	dogs	such as veggie chicken, and veggie hot	
-T-1535	igf-1	igf-1	protein	protein	levels than even strict caloric restriction.the animal	
-T-1535	meat substitutes	meat substitutes	hot dogs	hot dogs	such as veggie chicken, and veggie	
-T-1535	meat	meat	chicken	chicken	substitutes such as veggie	
-T-1535	amino acid	amino acid	aging	aging	leucine, which may accelerate	
-T-1535	plant-based diet	plant-based diet	protein	protein	have significantly higher levels of	
-T-1535	growth hormone	growth hormone	igf-1	igf-1		
-T-1535	nutrition	nutrition	animal protein	animal protein	department, plant protein is preferable to	
-T-1535	disease	disease	arthritis	arthritis	and inflammatory	
-T-1535	soy foods	soy foods	igf-1	igf-1	a day may result circulating	
-T-1535	animal proteins	animal proteins	plant proteins	plant proteins	increase levels of igf-1, and replacing with	
 T-1535	endocrine disrupting chemicals	endocrine disrupting chemicals	puberty	puberty	linked to early	
-T-1535	fat	fat	low carb	low carb	and cholesterol, which may explain why plant-based	
-T-1535	puberty	puberty	fertility	fertility	in girls and	
+T-1535	plant protein	plant protein	protein	protein	tend to be alkalizing.animal	
+T-1535	usda	usda	eggs	eggs	doesn’t allow	
+T-1535	plant protein	plant protein	animal protein	animal protein	tend to be alkalizing.	
+T-1535	aging	aging	cancer	cancer	and	
+T-1535	amino acid	amino acid	aging	aging	associated with premature	
+T-1535	vegans	vegans	protein	protein	get 70% more	

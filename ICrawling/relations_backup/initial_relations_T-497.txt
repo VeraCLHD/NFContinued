@@ -1,86 +1,11 @@
 
-T-497	methionine	methionine	colon cancer	colon cancer	may be carcinogenic; experiments on	
-T-497	hydrogen sulfide	hydrogen sulfide	ulcerative colitis	ulcerative colitis	production is associated with	
-T-497	gut flora	gut flora	health	health		
-T-497	bile	bile	bile acids	bile acids	acids to form highly carcinogenic secondary	
-T-497	cell death	cell death	methionine	methionine	when	
-T-497	risk	risk	inflammatory diseases	inflammatory diseases	of various auto-immune and	
-T-497	cancer cells	cancer cells	methionine	methionine	show remarkable cancer cell death when	
+T-497	diet	diet	ammonia	ammonia	can actually turn off the enzyme responsible for	
 T-497	plant-based diet	plant-based diet	ammonia	ammonia	can actually turn off the enzyme responsible for	
 T-497	cancer cells	cancer cells	cancer	cancer	show remarkable	
-T-497	bowel movements	bowel movements	risk	risk	and may be associated with a decrease	
-T-497	produce	produce	dna	dna	ammonia, which can cause abnormal cell division and	
-T-497	cancer	cancer	cell death	cell death	cells show remarkable cancer	
-T-497	plant-based	plant-based	diet	diet		
-T-497	death	death	bacteria	bacteria	when methionine is restricted.health-promoting	
-T-497	colon	colon	cancer cells	cancer cells		
-T-497	cancer	cancer	cancer	cancer	cells show remarkable	
 T-497	risk	risk	cancer	cancer	of	
-T-497	colon	colon	cancer	cancer		
-T-497	colon	colon	methionine	methionine	cancer cells show remarkable cancer cell death when	
-T-497	supplements	supplements	flora	flora	can result in improvements in gut	
-T-497	cancer	cancer	death	death	cells show remarkable cancer cell	
-T-497	flora	flora	health	health		
-T-497	ph	ph	bile acids	bile acids	of stool and decreasing the ability of	
-T-497	animal protein	animal protein	produce	produce	and fat putrefy in the colon, they can	
-T-497	colon cancer	colon cancer	cell death	cell death	cells show remarkable cancer	
-T-497	methionine	methionine	cancer	cancer	may be carcinogenic; experiments on colon	
-T-497	colon	colon	death	death	cancer cells show remarkable cancer cell	
-T-497	colon cancer	colon cancer	methionine	methionine	cells show remarkable cancer cell death when	
-T-497	methionine	methionine	colon	colon	may be carcinogenic; experiments on	
-T-497	amino acid	amino acid	methionine	methionine		
 T-497	fat	fat	protein	protein	or	
-T-497	infectious diseases	infectious diseases	bacteria	bacteria	by competing for food with dangerous	
-T-497	produce	produce	ammonia	ammonia		
-T-497	bacteria	bacteria	diet	diet	appear to thrive on a high-fiber	
-T-497	fiber	fiber	butyrate	butyrate	fermentation, particularly	
-T-497	diet	diet	ammonia	ammonia	can actually turn off the enzyme responsible for	
-T-497	bacteria	bacteria	infectious diseases	infectious diseases	also protect us from	
-T-497	colon	colon	bowel movements	bowel movements	starts with healthy	
-T-497	gut	gut	health	health	flora	
-T-497	fiber	fiber	colon	colon	in the	
-T-497	colon cancer	colon cancer	cancer	cancer	cells show remarkable	
-T-497	methionine	methionine	cancer cells	cancer cells	may be carcinogenic; experiments on colon	
-T-497	protein	protein	ammonia	ammonia	degradation can minimize	
-T-497	protein	protein	produce	produce	and fat putrefy in the colon, they can	
-T-497	fiber	fiber	ammonia	ammonia	in the colon during protein degradation can minimize	
-T-497	cancer	cancer	methionine	methionine	cells show remarkable cancer cell death when	
-T-497	death	death	methionine	methionine	when	
-T-497	fat	fat	colon	colon	putrefy in the	
-T-497	risk	risk	heart disease	heart disease	of cancer,	
-T-497	flora	flora	supplements	supplements	health; taking these	
-T-497	amino acid	amino acid	colon cancer	colon cancer	methionine may be carcinogenic; experiments on	
-T-497	gut	gut	supplements	supplements	flora health; taking these	
-T-497	gut	gut	flora	flora		
-T-497	ammonia	ammonia	amino acids	amino acids	production entirely.sulfur-containing	
-T-497	animal protein	animal protein	colon	colon	and fat putrefy in the	
-T-497	cell death	cell death	bacteria	bacteria	when methionine is restricted.health-promoting	
-T-497	gut	gut	microbiome	microbiome		
-T-497	fat	fat	ammonia	ammonia	putrefy in the colon, they can produce	
-T-497	supplements	supplements	health	health	can result in improvements in gut flora	
 T-497	animal protein	animal protein	fat	fat	and	
-T-497	amino acid	amino acid	cancer	cancer	methionine may be carcinogenic; experiments on colon	
-T-497	ammonia	ammonia	animal products	animal products	production entirely.sulfur-containing amino acids, found highly concentrated in	
-T-497	amino acid	amino acid	cancer cells	cancer cells	methionine may be carcinogenic; experiments on colon	
+T-497	colon	colon	bacteria	bacteria	has profound effects on the composition and metabolic activity of these	
 T-497	supplements	supplements	gut	gut	can result in improvements in	
-T-497	colon cancer	colon cancer	death	death	cells show remarkable cancer cell	
-T-497	cancer cells	cancer cells	cell death	cell death	show remarkable cancer	
-T-497	protein	protein	fat	fat	and	
-T-497	ph	ph	bile	bile	of stool and decreasing the ability of	
-T-497	fiber	fiber	protein	protein	in the colon during	
-T-497	fiber	fiber	bowel movements	bowel movements	is needed for healthy	
-T-497	gut	gut	diet	diet	bacteria appear to thrive on a high-fiber	
-T-497	protein	protein	colon	colon	and fat putrefy in the	
-T-497	fat	fat	produce	produce	putrefy in the colon, they can	
-T-497	gut bacteria	gut bacteria	diet	diet	appear to thrive on a high-fiber	
-T-497	colon	colon	cell death	cell death	cancer cells show remarkable cancer	
-T-497	colon	colon	protein	protein	during	
-T-497	risk	risk	disease	disease	of cancer, heart	
-T-497	gut	gut	bacteria	bacteria		
-T-497	colon	colon	ammonia	ammonia	during protein degradation can minimize	
-T-497	bile acids	bile acids	bile	bile	to form highly carcinogenic secondary	
-T-497	cancer cells	cancer cells	death	death	show remarkable cancer cell	
-T-497	amino acid	amino acid	colon	colon	methionine may be carcinogenic; experiments on	
-T-497	gut flora	gut flora	supplements	supplements	health; taking these	
-T-497	gut	gut	colon	colon	microbiome, it is clear that food entering the	
 T-497	supplements	supplements	gut flora	gut flora	can result in improvements in	
+T-497	protein	protein	fat	fat	and	

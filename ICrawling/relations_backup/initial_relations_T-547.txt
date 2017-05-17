@@ -1,28 +1,6 @@
 
 T-547	curry powder	curry powder	spices	spices	is a blend of	
-T-547	surgery	surgery	fatigue	fatigue	experienced a significant reduction in pain and	
-T-547	black pepper	black pepper	fat	fat	or eaten with	
-T-547	precancerous lesions	precancerous lesions	colon	colon	that are a precursor to	
-T-547	pepper	pepper	fat	fat	or eaten with	
-T-547	curry powder	curry powder	pain	pain	for	
-T-547	curcumin	curcumin	precancerous lesions	precancerous lesions	may also reduce the number of	
-T-547	surgery	surgery	pain	pain	experienced a significant reduction in	
-T-547	india	india	fatigue	fatigue	have long used curry powder for pain and	
-T-547	curcumin	curcumin	pain	pain	following gallbladder surgery experienced a significant reduction in	
-T-547	india	india	curry powder	curry powder	have long used	
-T-547	variety	variety	cancer	cancer	of illnesses ranging from diabetes to	
 T-547	curcumin	curcumin	death	death	activates so-called “	
 T-547	pain	pain	fatigue	fatigue	and	
-T-547	disease	disease	arthritis	arthritis	activity in rheumatoid	
-T-547	colon	colon	curcumin	curcumin	cancer.to maximize absorption,	
-T-547	india	india	pain	pain	have long used curry powder for	
-T-547	curcumin	curcumin	disease	disease	has also been shown to reduce	
-T-547	precancerous	precancerous	colon	colon	lesions that are a precursor to	
-T-547	death	death	cancer	cancer	receptors” that cause many different types of	
-T-547	diabetes	diabetes	cancer	cancer	to	
-T-547	variety	variety	diabetes	diabetes	of illnesses ranging from	
-T-547	disease	disease	rheumatoid arthritis	rheumatoid arthritis	activity in	
-T-547	curcumin	curcumin	precancerous	precancerous	may also reduce the number of	
-T-547	curry powder	curry powder	fatigue	fatigue	for pain and	
-T-547	curcumin	curcumin	surgery	surgery	following gallbladder	
-T-547	death	death	cancer cells	cancer cells	receptors” that cause many different types of	
+T-547	surgery	surgery	pain	pain	experienced a significant reduction in	
+T-547	india	india	curry powder	curry powder	have long used	

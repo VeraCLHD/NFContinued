@@ -1,129 +1,19 @@
 
-A-7	saturated fat	saturated fat	fats	fats	and cholesterol by adding extracted animal	
-A-7	adenovirus 36	adenovirus 36	obesity	obesity	and childhood	
-A-7	poultry	poultry	red meat	red meat	—meaning that switching from	
-A-7	saturated fat	saturated fat	beef	beef	than chicken (see bold indeed:	
-A-7	cholesterol	cholesterol	vegetarian	vegetarian	5-10%, but flexitarian or	
-A-7	chicken	chicken	obesity	obesity	big: poultry and	
-A-7	red meat	red meat	meat	meat	to white	
-A-7	burgers	burgers	cholesterol	cholesterol	and making the plant group swallow	
-A-7	sugar	sugar	pepsi	pepsi	than	
-A-7	eggs	eggs	vegetarian	vegetarian	may lower cholesterol 5-10%, but flexitarian or	
-A-7	cholesterol	cholesterol	fats	fats	by adding extracted animal	
-A-7	saturated animal fat	saturated animal fat	meat	meat	and cholesterol the same (by adding	
-A-7	diet	diet	cholesterol	cholesterol	to lower	
-A-7	beef	beef	plant proteins	plant proteins	to	
-A-7	meat	meat	saturated fat	saturated fat	products made to have the same amount of	
-A-7	cholesterol	cholesterol	veggie burgers	veggie burgers	the same (by adding meat fats to the	
-A-7	meat	meat	veggie burgers	veggie burgers	fats to the	
-A-7	eggs	eggs	cholesterol	cholesterol	may lower	
-A-7	poultry	poultry	white meat	white meat	—meaning that switching from red meat to	
-A-7	fat	fat	chickens	chickens	we’ve genetically manipulated	
-A-7	fish	fish	red meat	red meat	and/or poultry—meaning that switching from	
-A-7	cholesterol	cholesterol	lard	lard	may stay the same, though tofu and	
-A-7	poultry	poultry	obesity	obesity	and	
-A-7	vegan diets	vegan diets	vegan	vegan	15 to 25%, and healthier	
-A-7	chicken	chicken	poultry	poultry	big:	
-A-7	red meat	red meat	white meat	white meat	to	
-A-7	diet	diet	cholesterol	cholesterol	to manage your	
-A-7	americans	americans	beef	beef	to limit their intake of meat, the	
-A-7	fat	fat	meat	meat	and cholesterol the same (by adding	
-A-7	beef	beef	fish	fish	to chicken &	
-A-7	poultry	poultry	meat	meat	—meaning that switching from red	
-A-7	cholesterol	cholesterol	fats	fats	the same (by adding meat	
-A-7	beef	beef	cholesterol	cholesterol	to chicken & fish may not lower	
-A-7	beef	beef	fat	fat	that have less cholesterol-raising saturated	
-A-7	chicken	chicken	cholesterol	cholesterol	and fish on	
-A-7	fat	fat	cholesterol	cholesterol	and	
-A-7	vegan	vegan	vegan diets	vegan diets	diets 15 to 25%, and healthier	
-A-7	chicken	chicken	cholesterol	cholesterol	& fish may not lower	
-A-7	cholesterol	cholesterol	tofu	tofu	may stay the same, though	
-A-7	meat	meat	white meat	white meat	to	
 A-7	chicken	chicken	fish	fish	and	
-A-7	beef	beef	cholesterol	cholesterol	that have less	
-A-7	beef	beef	saturated fat	saturated fat	that have less cholesterol-raising	
-A-7	vegetarian	vegetarian	vegan	vegan	diets may drop our levels 10 to 15%,	
-A-7	meat	meat	protein	protein	—was it the animal	
-A-7	protein	protein	beef	beef	group eating three tablespoons of	
-A-7	plant protein	plant protein	protein	protein	for animal	
-A-7	veggie burgers	veggie burgers	pills	pills	and making the plant group swallow cholesterol	
-A-7	poultry	poultry	adenovirus 36	adenovirus 36	and obesity and infectobesity:	
-A-7	saturated fat	saturated fat	cholesterol	cholesterol	than chicken (see bold indeed: beef lowers	
-A-7	fat	fat	animal fats	animal fats	and cholesterol by adding extracted	
-A-7	protein	protein	heart disease	heart disease	and	
-A-7	fat	fat	cholesterol	cholesterol	than chicken (see bold indeed: beef lowers	
-A-7	beef	beef	cholesterol	cholesterol	consumption on the	
-A-7	beef	beef	chicken	chicken	that have less cholesterol-raising saturated fat than	
-A-7	plant protein	plant protein	beef	beef	group eating three tablespoons of	
-A-7	beef	beef	chicken	chicken	to	
-A-7	tofu	tofu	meat	meat	and lard may indeed actually be better than	
-A-7	fat	fat	beef	beef	than chicken (see bold indeed:	
-A-7	fats	fats	cholesterol	cholesterol	and	
-A-7	chicken	chicken	cholesterol	cholesterol	(see bold indeed: beef lowers	
-A-7	meat	meat	animal protein	animal protein	—was it the	
-A-7	saturated fat	saturated fat	animal fats	animal fats	and cholesterol by adding extracted	
-A-7	saturated fat	saturated fat	fat	fat	studies: buttering up the public and the saturated	
-A-7	fish	fish	cholesterol	cholesterol	on	
-A-7	fat	fat	fats	fats	and cholesterol by adding extracted animal	
-A-7	obesity	obesity	adenovirus 36	adenovirus 36	and infectobesity:	
-A-7	protein	protein	plant protein	plant protein	and heart disease, another reason why	
-A-7	pepsi	pepsi	sugar	sugar	: 15 spoonfuls of	
-A-7	beef	beef	cholesterol	cholesterol	lowers	
-A-7	saturated fat	saturated fat	cholesterol	cholesterol	and	
-A-7	canada	canada	ldl	ldl	showing a whopping 61 point drop in	
-A-7	fats	fats	veggie burgers	veggie burgers	to the	
-A-7	cholesterol	cholesterol	fish	fish	profile of humans is similar to that of	
-A-7	burgers	burgers	pills	pills	and making the plant group swallow cholesterol	
-A-7	protein	protein	animal protein	animal protein	for	
-A-7	animal fats	animal fats	cholesterol	cholesterol	and	
-A-7	cholesterol	cholesterol	fat	fat	-raising saturated	
-A-7	fat	fat	fats	fats	and cholesterol the same (by adding meat	
-A-7	protein	protein	vegetables	vegetables	group just got some boring	
-A-7	fat	fat	chicken	chicken	than	
-A-7	fish	fish	cholesterol	cholesterol	may not lower	
-A-7	chicken	chicken	adenovirus 36	adenovirus 36	big: poultry and obesity and infectobesity:	
-A-7	cholesterol	cholesterol	saturated fat	saturated fat	-raising	
-A-7	fish	fish	poultry	poultry	and/or	
-A-7	meat	meat	fats	fats		
-A-7	protein	protein	animal fat	animal fat	or was it the	
-A-7	beef	beef	fat	fat	tallow every day—three tablespoons of straight beef	
-A-7	animal fat	animal fat	meat	meat	and cholesterol the same (by adding	
-A-7	fat	fat	saturated fat	saturated fat	studies: buttering up the public and the	
-A-7	vegetarian	vegetarian	vegan diets	vegan diets	diets may drop our levels 10 to 15%,	
-A-7	protein	protein	diet	diet		
-A-7	blood sugar	blood sugar	pepsi	pepsi	found no difference between drinking coke versus	
-A-7	saturated animal fat	saturated animal fat	fats	fats	and cholesterol the same (by adding meat	
-A-7	cholesterol	cholesterol	blood	blood	in your	
-A-7	americans	americans	meat	meat	to limit their intake of	
-A-7	fats	fats	burgers	burgers	to the veggie	
-A-7	meat	meat	tofu	tofu	to	
-A-7	protein	protein	fat	fat	or was it the animal	
-A-7	animal protein	animal protein	animal fat	animal fat	or was it the	
-A-7	fish	fish	meat	meat	and/or poultry—meaning that switching from red	
-A-7	saturated fat	saturated fat	chicken	chicken	than	
-A-7	meat	meat	burgers	burgers	fats to the veggie	
-A-7	plant protein	plant protein	animal protein	animal protein	for	
-A-7	tofu	tofu	lard	lard	and	
-A-7	fake meat	fake meat	saturated fat	saturated fat	products made to have the same amount of	
-A-7	protein	protein	disease	disease	and heart	
-A-7	lard	lard	meat	meat	may indeed actually be better than	
 A-7	sugar	sugar	pepsi	pepsi	found no difference between drinking coke versus	
-A-7	plant protein	plant protein	vegetables	vegetables	group just got some boring	
+A-7	beef	beef	cholesterol	cholesterol	lowers	
 A-7	animal fat	animal fat	cholesterol	cholesterol	and	
-A-7	veggie burgers	veggie burgers	cholesterol	cholesterol	and making the plant group swallow	
-A-7	meat	meat	cholesterol	cholesterol	to tofu, their	
-A-7	canada	canada	ldl cholesterol	ldl cholesterol	showing a whopping 61 point drop in	
-A-7	chicken	chicken	beef	beef	(see bold indeed:	
-A-7	cholesterol	cholesterol	animal fats	animal fats	by adding extracted	
-A-7	ldl	ldl	cholesterol	cholesterol		
-A-7	animal fat	animal fat	fats	fats	and cholesterol the same (by adding meat	
-A-7	plant protein	plant protein	diet	diet		
-A-7	cholesterol	cholesterol	beef	beef	-raising saturated fat than chicken (see bold indeed:	
+A-7	blood sugar	blood sugar	pepsi	pepsi	found no difference between drinking coke versus	
+A-7	saturated fat	saturated fat	cholesterol	cholesterol	and	
+A-7	fats	fats	cholesterol	cholesterol	and	
+A-7	blood	blood	fat	fat	is as simple as reducing one’s intake of three things: trans	
+A-7	animal fats	animal fats	cholesterol	cholesterol	and	
+A-7	eggs	eggs	cholesterol	cholesterol	may lower	
+A-7	protein	protein	heart disease	heart disease	and	
 A-7	saturated animal fat	saturated animal fat	cholesterol	cholesterol	and	
-A-7	cholesterol	cholesterol	chicken	chicken	-raising saturated fat than	
-A-7	blood	blood	pepsi	pepsi	sugar found no difference between drinking coke versus	
-A-7	cholesterol	cholesterol	meat	meat	the same (by adding	
-A-7	canada	canada	cholesterol	cholesterol	showing a whopping 61 point drop in ldl	
-A-7	animal protein	animal protein	fat	fat	or was it the animal	
-A-7	fish	fish	white meat	white meat	and/or poultry—meaning that switching from red meat to	
-A-7	blood	blood	sugar	sugar		
+A-7	fish	fish	cholesterol	cholesterol	may not lower	
+A-7	blood	blood	trans fat	trans fat	is as simple as reducing one’s intake of three things:	
+A-7	fat	fat	cholesterol	cholesterol	and	
+A-7	poultry	poultry	obesity	obesity	and	
+A-7	tofu	tofu	lard	lard	and	
+A-7	lard	lard	meat	meat	may indeed actually be better than	

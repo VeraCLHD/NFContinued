@@ -1,37 +1,5 @@
 
-A-264	kids	kids	saturated fat	saturated fat	out on a low	
-A-264	arteries	arteries	bad cholesterol	bad cholesterol	covered in fatty streaks as the level of	
-A-264	disease	disease	plant-based	plant-based	with a	
-A-264	heart disease	heart disease	diet	diet	with a plant-based	
-A-264	arteries	arteries	coronary heart disease	coronary heart disease	years and decades before the age at which	
-A-264	arteries	arteries	kids	kids	of 100% of	
-A-264	arteries	arteries	blood	blood	that pump	
-A-264	cholesterol	cholesterol	vegetarian	vegetarian	down to even just that of a lacto-ovo	
-A-264	heart disease	heart disease	plant-based diet	plant-based diet	with a	
-A-264	ornish	ornish	caldwell esselstyn	caldwell esselstyn	and	
-A-264	risk	risk	cholesterol	cholesterol	if we bring our	
-A-264	kids	kids	fat	fat	out on a low saturated	
-A-264	plant-based	plant-based	diet	diet		
-A-264	saturated fat	saturated fat	diet	diet		
-A-264	disease	disease	diet	diet	with a plant-based	
-A-264	disease	disease	plant-based diet	plant-based diet	with a	
-A-264	esselstyn	esselstyn	heart disease	heart disease	jr. proved that we can reverse	
-A-264	caldwell esselstyn	caldwell esselstyn	disease	disease	jr. proved that we can reverse heart	
-A-264	risk	risk	cholesterol	cholesterol	factor was	
-A-264	kids	kids	diet	diet	out on a low saturated fat	
-A-264	disease	disease	kids	kids	in our	
-A-264	kids	kids	disease	disease	have fatty streaks, the first stage of the	
-A-264	caldwell esselstyn	caldwell esselstyn	heart disease	heart disease	jr. proved that we can reverse	
-A-264	cholesterol	cholesterol	blood	blood	in the	
-A-264	esselstyn	esselstyn	disease	disease	jr. proved that we can reverse heart	
-A-264	heart attack	heart attack	arteries	arteries	to start unclogging our	
-A-264	blood pressure	blood pressure	blood	blood	and	
 A-264	prevention	prevention	atherosclerosis	atherosclerosis	of	
-A-264	ornish	ornish	esselstyn	esselstyn	and caldwell	
-A-264	heart disease	heart disease	plant-based	plant-based	with a	
-A-264	brains	brains	stroke	stroke	it’s a	
+A-264	blood pressure	blood pressure	blood	blood	and	
+A-264	ornish	ornish	caldwell esselstyn	caldwell esselstyn	and	
 A-264	dean ornish	dean ornish	caldwell esselstyn	caldwell esselstyn	and	
-A-264	dean ornish	dean ornish	esselstyn	esselstyn	and caldwell	
-A-264	fat	fat	diet	diet		
-A-264	heart disease	heart disease	kids	kids	in our	
-A-264	bad cholesterol	bad cholesterol	blood	blood	in the	

@@ -1,9 +1,0 @@
-
-V-1275	vegan	vegan	kids	kids		
-V-1275	chicken	chicken	egg	egg	or the	
-V-1275	vegetarian	vegetarian	kids	kids	children test smarter than omnivorous	
-V-1275	tufts	tufts	vegetarian	vegetarian	university, the iq of	
-V-1275	vegetarian	vegetarian	children	children		
-V-1275	nutrition	nutrition	vegetarian	vegetarian	—or did they become	
-V-1275	tufts	tufts	children	children	university, the iq of vegetarian	
-V-1275	children	children	kids	kids	test smarter than omnivorous	

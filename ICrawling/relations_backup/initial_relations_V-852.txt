@@ -1,30 +1,10 @@
 
-V-852	gut flora	gut flora	diarrhea	diarrhea	is more than just avoiding	
-V-852	colon	colon	water	water	was just some transit tube that absorbed excess	
-V-852	lignans	lignans	plant foods	plant foods	” of all	
-V-852	antibiotics	antibiotics	bacteria	bacteria	may be wiping out some of the good	
-V-852	flax	flax	bacteria	bacteria	does contain lignan precursors, though, which the good	
-V-852	flax	flax	broccoli	broccoli	doesn’t actually contain lignans—just like	
 V-852	flax	flax	lignans	lignans	doesn’t actually contain	
-V-852	cancer	cancer	risk	risk		
-V-852	flax	flax	lignans	lignans	has the highest content of “	
-V-852	breast cancer	breast cancer	risk	risk		
-V-852	infections	infections	risk	risk	have been associated with breast cancer	
-V-852	bacteria	bacteria	lignans	lignans	in our gut turn into	
-V-852	gut	gut	flora	flora		
-V-852	gut	gut	diarrhea	diarrhea	flora is more than just avoiding	
-V-852	lignans	lignans	flax	flax	is in quotes is because	
-V-852	liver	liver	bacteria	bacteria	by a factor of a hundred, our good	
-V-852	urinary tract infections	urinary tract infections	cancer	cancer	have been associated with breast	
-V-852	bacteria	bacteria	gut	gut	in our	
-V-852	gut	gut	bacteria	bacteria	flora, our trillions of good	
-V-852	flax	flax	plant foods	plant foods	has the highest content of “lignans” of all	
 V-852	flora	flora	diarrhea	diarrhea	is more than just avoiding	
 V-852	broccoli	broccoli	sulforaphane	sulforaphane	doesn’t actually contain	
-V-852	urinary tract infections	urinary tract infections	risk	risk	have been associated with breast cancer	
-V-852	urinary tract infections	urinary tract infections	breast cancer	breast cancer	have been associated with	
-V-852	gut	gut	lignans	lignans	turn into	
 V-852	infections	infections	breast cancer	breast cancer	have been associated with	
-V-852	gut	gut	bacteria	bacteria		
-V-852	phytonutrients	phytonutrients	diet	diet	in our	
-V-852	infections	infections	cancer	cancer	have been associated with breast	
+V-852	flax	flax	lignans	lignans	has the highest content of “	
+V-852	urinary tract infections	urinary tract infections	breast cancer	breast cancer	have been associated with	
+V-852	gut flora	gut flora	diarrhea	diarrhea	is more than just avoiding	
+V-852	colon	colon	water	water	was just some transit tube that absorbed excess	
+V-852	lignans	lignans	flax	flax	is in quotes is because	

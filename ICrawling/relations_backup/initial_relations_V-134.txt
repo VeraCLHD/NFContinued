@@ -1,12 +1,3 @@
 
 V-134	spinach	spinach	beets	beets	or	
-V-134	beets	beets	vegetables	vegetables	and green leafy	
-V-134	calories	calories	nitrate	nitrate	we give it?they gave people a dose of	
 V-134	caloric restriction	caloric restriction	lifespan	lifespan	is associated with a longer	
-V-134	beets	beets	leafy vegetables	leafy vegetables	and green	
-V-134	nitrate	nitrate	beets	beets	equivalent to a few servings of spinach or	
-V-134	risk	risk	death	death	of premature	
-V-134	physical activity	physical activity	calories	calories	are relatively small, compared to how many	
-V-134	calories	calories	lying	lying	we burn just	
-V-134	vegetables	vegetables	energy	energy	to help preserve	
-V-134	nitrate	nitrate	spinach	spinach	equivalent to a few servings of	

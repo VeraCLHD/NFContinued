@@ -1,61 +1,7 @@
 
-V-1294	heart disease	heart disease	dementia	dementia	and diverticulosis, and protects against emphysema,	
-V-1294	diet	diet	stroke	stroke	that prevents	
-V-1294	mouth	mouth	cancer	cancer		
-V-1294	cancer	cancer	disease	disease	also prevents heart	
-V-1294	stroke	stroke	disease	disease	and cancer also prevents heart	
-V-1294	risk	risk	mouth	mouth	of	
-V-1294	diet	diet	disease	disease	that prevents stroke and cancer also prevents heart	
-V-1294	risk	risk	mouth cancer	mouth cancer	of	
-V-1294	vitamin e	vitamin e	supplements	supplements		
-V-1294	disease	disease	dementia	dementia	and diverticulosis, and protects against emphysema,	
-V-1294	plant foods	plant foods	fruits	fruits	—peaches, apples, peppers—the benefits of these	
-V-1294	vegetables	vegetables	risk	risk	outweigh the	
-V-1294	vitamin c	vitamin c	supplements	supplements		
-V-1294	stroke	stroke	heart disease	heart disease	and cancer also prevents	
-V-1294	heart disease	heart disease	macular degeneration	macular degeneration	and diverticulosis, and protects against emphysema, dementia, cataracts, and	
-V-1294	vegetables	vegetables	organic	organic	outweigh the risk, even if you can’t find	
-V-1294	fruits	fruits	cancer	cancer	and veggies prevent	
-V-1294	mouth	mouth	bladder	bladder	cancer, throat cancer, esophageal cancer, lung, breast, stomach, colon, kidney,	
-V-1294	peppers	peppers	vegetables	vegetables	—the benefits of these fruits and	
-V-1294	heart disease	heart disease	cataracts	cataracts	and diverticulosis, and protects against emphysema, dementia,	
-V-1294	fruit	fruit	potatoes	potatoes	juice, fruit loops, ketchup, or white	
-V-1294	disease	disease	emphysema	emphysema	and diverticulosis, and protects against	
-V-1294	organic	organic	fruits	fruits	is absolutely better, we should never avoid buying	
-V-1294	disease	disease	macular degeneration	macular degeneration	and diverticulosis, and protects against emphysema, dementia, cataracts, and	
-V-1294	mouth	mouth	colon	colon	cancer, throat cancer, esophageal cancer, lung, breast, stomach,	
-V-1294	antioxidant	antioxidant	centrum	centrum	in leafy greens, has recently been added to	
-V-1294	risk	risk	throat cancer	throat cancer	of mouth cancer,	
-V-1294	heart disease	heart disease	emphysema	emphysema	and diverticulosis, and protects against	
-V-1294	risk	risk	colon	colon	of mouth cancer, throat cancer, esophageal cancer, lung, breast, stomach,	
-V-1294	fruits	fruits	cancer	cancer	and vegetables prevent	
-V-1294	vegetables	vegetables	cancer	cancer	prevent	
-V-1294	peppers	peppers	fruits	fruits	—the benefits of these	
-V-1294	fruits	fruits	vegetables	vegetables	and	
-V-1294	plant foods	plant foods	vegetables	vegetables	—peaches, apples, peppers—the benefits of these fruits and	
-V-1294	mouth	mouth	throat cancer	throat cancer	cancer,	
-V-1294	plant foods	plant foods	peaches	peaches	—	
-V-1294	diet	diet	cancer	cancer	that prevents stroke and	
-V-1294	mouth	mouth	stomach	stomach	cancer, throat cancer, esophageal cancer, lung, breast,	
-V-1294	cancer	cancer	diverticulosis	diverticulosis	also prevents heart disease and 	
-V-1294	vegetables	vegetables	beta carotene	beta carotene	prevent cancer; i bet it’s that	
-V-1294	mouth	mouth	kidney	kidney	cancer, throat cancer, esophageal cancer, lung, breast, stomach, colon,	
-V-1294	beta carotene	beta carotene	supplements	supplements	stuff.so they gave people beta carotene	
-V-1294	risk	risk	stomach	stomach	of mouth cancer, throat cancer, esophageal cancer, lung, breast,	
-V-1294	cancer	cancer	heart disease	heart disease	also prevents	
-V-1294	fruit	fruit	ketchup	ketchup	juice, fruit loops,	
-V-1294	cancer	cancer	emphysema	emphysema	also prevents heart disease and diverticulosis, and protects against	
-V-1294	plant foods	plant foods	apples	apples	—peaches,	
-V-1294	risk	risk	cancer	cancer	of mouth	
-V-1294	heart disease	heart disease	diverticulosis	diverticulosis	and 	
-V-1294	fruits	fruits	beta carotene	beta carotene	and vegetables prevent cancer; i bet it’s that	
-V-1294	stroke	stroke	diverticulosis	diverticulosis	and cancer also prevents heart disease and 	
-V-1294	plant foods	plant foods	peppers	peppers	—peaches, apples,	
-V-1294	fruits	fruits	risk	risk	and vegetables outweigh the	
-V-1294	antioxidant	antioxidant	greens	greens	in leafy	
 V-1294	stroke	stroke	cancer	cancer	and	
-V-1294	disease	disease	cataracts	cataracts	and diverticulosis, and protects against emphysema, dementia,	
-V-1294	disease	disease	diverticulosis	diverticulosis	and 	
-V-1294	supplements	supplements	cancer	cancer	to see if that prevented	
-V-1294	diet	diet	heart disease	heart disease	that prevents stroke and cancer also prevents	
-V-1294	fruit	fruit	juice	juice		
+V-1294	vegetables	vegetables	risk	risk	outweigh the	
+V-1294	vegetables	vegetables	cancer	cancer	prevent	
+V-1294	risk	risk	mouth	mouth	of	
+V-1294	fruits	fruits	vegetables	vegetables	and	
+V-1294	risk	risk	mouth cancer	mouth cancer	of	

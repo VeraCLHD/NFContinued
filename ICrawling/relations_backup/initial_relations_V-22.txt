@@ -1,55 +1,11 @@
 
-V-22	paratuberculosis	paratuberculosis	risk	risk	bacteria.meat-wise, “[g]round beef [may represent] the greatest potential	
-V-22	sugar	sugar	corn syrup	corn syrup	ate the most high-fructose	
-V-22	meat	meat	sardinia	sardinia	intake.in	
-V-22	risk	risk	type 1 diabetes	type 1 diabetes	of	
-V-22	risk	risk	paratuberculosis	paratuberculosis	for harboring” these	
-V-22	kids	kids	disease	disease	tended to have lower rates of the	
-V-22	disease	disease	diabetes	diabetes	ate, increased risk of type 1	
-V-22	dairy	dairy	paratuberculosis	paratuberculosis	cattle,” which may be culled because they have	
+V-22	diabetes	diabetes	milk	milk	has been associated with	
+V-22	grains	grains	type 1 diabetes	type 1 diabetes	and	
+V-22	paratuberculosis	paratuberculosis	livestock	livestock	is not just a serious problem for the global	
 V-22	paratuberculosis	paratuberculosis	beef	beef	has been found in	
-V-22	milk	milk	diabetes	diabetes	exposure is associated with type 1	
-V-22	paratuberculosis	paratuberculosis	pork	pork	has been found in beef,	
-V-22	risk	risk	milk	milk	of type 1 diabetes has been associated with	
+V-22	type 1 diabetes	type 1 diabetes	milk	milk	has been associated with	
+V-22	disease	disease	risk	risk	ate, increased	
+V-22	risk	risk	type 1 diabetes	type 1 diabetes	of	
 V-22	breastfeeding	breastfeeding	risk	risk	was associated with an increased	
 V-22	milk	milk	animal products	animal products	and	
-V-22	animal products	animal products	type 1 diabetes	type 1 diabetes	in the [cause] of 	
-V-22	diabetes	diabetes	egg	egg	has been associated with milk, sugar, bread, soda,	
-V-22	milk	milk	type 1 diabetes	type 1 diabetes	and animal products in the [cause] of 	
-V-22	diabetes	diabetes	bread	bread	has been associated with milk, sugar,	
-V-22	animal products	animal products	diabetes	diabetes	in the [cause] of type 1	
-V-22	diet	diet	disease	disease	of what people who actually got the	
-V-22	type 1 diabetes	type 1 diabetes	milk	milk	has been associated with	
-V-22	risk	risk	type 1 diabetes	type 1 diabetes	of both preclinical and full-blown	
-V-22	bacteria	bacteria	beef	beef	.meat-wise, “[g]round	
-V-22	risk	risk	diabetes	diabetes	of type 1	
-V-22	beef	beef	risk	risk	[may represent] the greatest potential	
-V-22	milk	milk	type 1 diabetes	type 1 diabetes	exposure is associated with	
-V-22	fecal contamination	fecal contamination	meat	meat	” and “lymph nodes” in ground	
-V-22	contamination	contamination	ground meat	ground meat	” and “lymph nodes” in	
-V-22	diabetes	diabetes	soda	soda	has been associated with milk, sugar, bread,	
-V-22	paratuberculosis	paratuberculosis	chicken	chicken	has been found in beef, pork, and	
-V-22	paratuberculosis	paratuberculosis	bacteria	bacteria		
-V-22	contamination	contamination	meat	meat	” and “lymph nodes” in ground	
-V-22	glycotoxins	glycotoxins	cooked meat	cooked meat	—the ages found in	
-V-22	risk	risk	diabetes	diabetes	of both preclinical and full-blown type 1	
-V-22	diabetes	diabetes	milk	milk	has been associated with	
-V-22	type 1 diabetes	type 1 diabetes	soda	soda	has been associated with milk, sugar, bread,	
-V-22	dairy	dairy	type 1 diabetes	type 1 diabetes	populations ate, the higher their rates of	
-V-22	paratuberculosis	paratuberculosis	beef	beef	bacteria.meat-wise, “[g]round	
-V-22	livestock	livestock	type 1 diabetes	type 1 diabetes	industry, but may be a trigger for	
-V-22	diabetes	diabetes	sugar	sugar	has been associated with milk,	
-V-22	sugar	sugar	corn	corn	ate the most high-fructose	
-V-22	type 1 diabetes	type 1 diabetes	egg	egg	has been associated with milk, sugar, bread, soda,	
-V-22	glycotoxins	glycotoxins	meat	meat	—the ages found in cooked	
-V-22	chronic diseases	chronic diseases	plant-based	plant-based	” among those eating more	
-V-22	grains	grains	type 1 diabetes	type 1 diabetes	and	
-V-22	bacteria	bacteria	risk	risk	.meat-wise, “[g]round beef [may represent] the greatest potential	
-V-22	fecal contamination	fecal contamination	ground meat	ground meat	” and “lymph nodes” in	
-V-22	grains	grains	diabetes	diabetes	and type 1	
-V-22	disease	disease	risk	risk	ate, increased	
-V-22	type 1 diabetes	type 1 diabetes	bread	bread	has been associated with milk, sugar,	
-V-22	disease	disease	type 1 diabetes	type 1 diabetes	ate, increased risk of	
-V-22	type 1 diabetes	type 1 diabetes	sugar	sugar	has been associated with milk,	
-V-22	risk	risk	bacteria	bacteria	for harboring” these paratuberculosis	
-V-22	milk	milk	diabetes	diabetes	and animal products in the [cause] of type 1	
+V-22	kids	kids	disease	disease	tended to have lower rates of the	

@@ -1,12 +1,2 @@
 
 A-366	ornish	ornish	esselstyn	esselstyn	and	
-A-366	physicians	physicians	nutrition	nutrition	committee for responsible medicine’s international conference on	
-A-366	esselstyn	esselstyn	lifestyle medicine	lifestyle medicine	at	
-A-366	physicians	physicians	medicine	medicine	committee for responsible	
-A-366	ornish	ornish	medicine	medicine	and esselstyn at lifestyle	
-A-366	esselstyn	esselstyn	medicine	medicine	at lifestyle	
-A-366	nutrition	nutrition	dvd	dvd		
-A-366	ornish	ornish	lifestyle medicine	lifestyle medicine	and esselstyn at	
-A-366	clinical nutrition	clinical nutrition	dvd	dvd		
-A-366	medicine	medicine	nutrition	nutrition	’s international conference on	
-A-366	physicians committee for responsible medicine	physicians committee for responsible medicine	nutrition	nutrition	’s international conference on	

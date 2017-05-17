@@ -1,45 +1,13 @@
 
 V-319	depression	depression	treatment	treatment	is extremely severe and all other	
 V-319	exercise	exercise	medications	medications	compares favorably to antidepressant	
-V-319	placebo	placebo	freedom of information act	freedom of information act	effect.and what’s even worse,	
-V-319	sugar	sugar	homeopathy	homeopathy	pills that they are doesn’t mean that	
-V-319	drugs	drugs	pills	pills	do beat out sugar	
-V-319	antidepressants	antidepressants	sexual dysfunction	sexual dysfunction	are	
-V-319	drugs	drugs	meta-analysis	meta-analysis	in the first place?a recent	
-V-319	homeopathy	homeopathy	placebo effect	placebo effect	doesn’t work, because the	
-V-319	sexual dysfunction	sexual dysfunction	exercise	exercise	and insomnia, side effects of	
-V-319	antidepressants	antidepressants	side effects	side effects	include things like sexual dysfunction and insomnia,	
-V-319	treatment	treatment	antidepressants	antidepressants	by	
-V-319	antidepressants	antidepressants	treatment	treatment	than after	
-V-319	side effects	side effects	antidepressants	antidepressants	.whereas side effects of	
-V-319	freedom of information act	freedom of information act	fda	fda	documents show the	
-V-319	antidepressants	antidepressants	sexual dysfunction	sexual dysfunction	include things like	
-V-319	medicine	medicine	risk	risk	and puts millions of patients at	
-V-319	sugar	sugar	placebo	placebo	pills, and the difference between the drug and	
-V-319	prozac	prozac	drugs	drugs	company defends the	
-V-319	antidepressants	antidepressants	placebo	placebo	are due to the	
-V-319	exercise	exercise	treatment	treatment	compares favorably to antidepressant medications as a first-line	
-V-319	drugs	drugs	sugar	sugar	do beat out	
-V-319	placebo effect	placebo effect	antidepressants	antidepressants	can explain the apparent clinical effectiveness of	
-V-319	risk	risk	drugs	drugs	for using ineffective or unsafe	
-V-319	medications	medications	depression	depression	as a first-line treatment for mild to moderate	
-V-319	sexual dysfunction	sexual dysfunction	weight gain	weight gain	in up to three-quarters of people, long-term	
-V-319	evidence-based medicine	evidence-based medicine	risk	risk	and puts millions of patients at	
-V-319	antidepressants	antidepressants	doctors	doctors	than after treatment by other means–including placebo.so if	
-V-319	side effects	side effects	sexual dysfunction	sexual dysfunction	of antidepressants are	
-V-319	antidepressants	antidepressants	insomnia	insomnia	include things like sexual dysfunction and	
-V-319	sexual dysfunction	sexual dysfunction	side effects	side effects	and insomnia,	
-V-319	side effects	side effects	sexual dysfunction	sexual dysfunction	.whereas side effects of antidepressants include things like	
-V-319	pills	pills	homeopathy	homeopathy	that they are doesn’t mean that	
-V-319	sexual dysfunction	sexual dysfunction	insomnia	insomnia	and	
-V-319	placebo	placebo	antidepressants	antidepressants	effect can explain the apparent clinical effectiveness of	
 V-319	side effects	side effects	antidepressants	antidepressants	of	
-V-319	placebo	placebo	depression	depression	for mild and moderate	
-V-319	doctors	doctors	depression	depression	just quickly decide upon a	
-V-319	treatment	treatment	depression	depression	for mild to moderate	
-V-319	medications	medications	doctors	doctors	that have negligible benefits to them.too many	
-V-319	fda	fda	freedom of information act	freedom of information act	under the	
-V-319	medications	medications	treatment	treatment	as a first-line	
-V-319	homeopathy	homeopathy	placebo	placebo	doesn’t work, because the	
-V-319	sugar	sugar	pills	pills		
-V-319	goose	goose	medications	medications	: incurable, common, long-term, and involving multiple	
+V-319	drugs	drugs	sugar	sugar	do beat out	
+V-319	meta-analysis	meta-analysis	placebo	placebo	has sparked huge scientific and public controversy by stating that the	
+V-319	placebo effect	placebo effect	antidepressants	antidepressants	can explain the apparent clinical effectiveness of	
+V-319	antidepressants	antidepressants	sexual dysfunction	sexual dysfunction	include things like	
+V-319	antidepressants	antidepressants	sexual dysfunction	sexual dysfunction	are	
+V-319	meta-analysis	meta-analysis	placebo effect	placebo effect	has sparked huge scientific and public controversy by stating that the	
+V-319	antidepressants	antidepressants	depression	depression	offer substantial benefits to millions of people suffering from	
+V-319	sexual dysfunction	sexual dysfunction	insomnia	insomnia	and	
+V-319	antidepressants	antidepressants	placebo	placebo	are due to the	

@@ -1,38 +1,9 @@
 
-T-102	health	health	subsidies	subsidies	advocates have proposed reducing	
-T-102	disease	disease	cancer	cancer	and	
-T-102	risk	risk	cancer	cancer	for heart disease and	
-T-102	health	health	animal protein	animal protein	topics animal fat,	
-T-102	health	health	chicken	chicken	topics animal fat, animal protein, beef,	
-T-102	heart disease	heart disease	mortality	mortality	and cancer	
-T-102	subsidies	subsidies	cheap	cheap	that help make animal food products artificially	
-T-102	diet	diet	symptoms	symptoms	led to a significant improvement in	
-T-102	health	health	fat	fat	topics animal	
-T-102	health	health	beef	beef	topics animal fat, animal protein,	
-T-102	risk	risk	chronic diseases	chronic diseases	of some	
-T-102	cancer	cancer	mortality	mortality		
-T-102	dietary guidelines	dietary guidelines	usda	usda	and	
-T-102	calorie dense	calorie dense	animal foods	animal foods		
-T-102	vegan	vegan	symptoms	symptoms	diet led to a significant improvement in	
-T-102	junk food	junk food	animal products	animal products	and	
-T-102	animal foods	animal foods	cancer	cancer	was a key factor in 4,600 studied	
-T-102	diet	diet	animal products	animal products	free of	
-T-102	health	health	fish	fish	topics animal fat, animal protein, beef, chicken, eggs,	
-T-102	health	health	animal fat	animal fat	topics	
-T-102	animal products	animal products	vegan	vegan	and putting parkinson’s disease patients on a strict	
-T-102	animal products	animal products	diet	diet	are a central part of the standard american	
-T-102	disease	disease	vegan	vegan	patients on a strict	
 T-102	animal products	animal products	standard american diet	standard american diet	are a central part of the	
-T-102	risk	risk	mortality	mortality	for heart disease and cancer	
-T-102	disease	disease	diet	diet	patients on a strict vegan	
+T-102	junk food	junk food	animal products	animal products	and	
+T-102	new york times	new york times	animal foods	animal foods	reported on a study that suggested increased consumption of	
 T-102	heart disease	heart disease	cancer	cancer	and	
-T-102	risk	risk	disease	disease	for heart	
-T-102	vegan	vegan	diet	diet		
-T-102	disease	disease	mortality	mortality	and cancer	
-T-102	health	health	diet	diet	measures in people who went on a	
-T-102	health	health	eggs	eggs	topics animal fat, animal protein, beef, chicken,	
-T-102	animal products	animal products	disease	disease	and putting parkinson’s	
-T-102	risk	risk	heart disease	heart disease	for	
+T-102	disease	disease	cancer	cancer	and	
+T-102	diet	diet	symptoms	symptoms	led to a significant improvement in	
 T-102	animal foods	animal foods	risk	risk	have been linked in numerous studies to higher	
-T-102	environment	environment	animal products	animal products	) contained in some	
-T-102	health	health	protein	protein	topics animal fat, animal	
+T-102	dietary guidelines	dietary guidelines	usda	usda	and	

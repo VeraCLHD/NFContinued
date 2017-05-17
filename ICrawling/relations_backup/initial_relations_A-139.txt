@@ -1,70 +1,13 @@
 
+A-139	curcumin	curcumin	colon cancer	colon cancer	and	
 A-139	turmeric	turmeric	cancer	cancer	and	
-A-139	vegetables	vegetables	grapes	grapes	such as red onions and	
-A-139	curcumin	curcumin	colon	colon	and	
-A-139	india	india	phytates	phytates	may also be related to phytate consumption  (	
-A-139	phytates	phytates	prevention	prevention	for the	
-A-139	curcumin	curcumin	quercitin	quercitin	(from turmeric) and	
-A-139	risk	risk	colon cancer	colon cancer	for	
-A-139	curcumin	curcumin	death	death	reprogramming cancer cell	
-A-139	cancer	cancer	india	india	rates in	
-A-139	cleveland clinic	cleveland clinic	phytochemicals	phytochemicals	and john hopkins school of medicine tested two	
-A-139	turmeric	turmeric	cancer	cancer	curcumin and colon	
-A-139	curcumin	curcumin	cancer	cancer	and colon	
-A-139	india	india	curcumin	curcumin	is often attributed to natural antioxidants such as	
-A-139	turmeric	turmeric	cancer	cancer	and turmeric curcumin reprogramming	
-A-139	cancer	cancer	turmeric	turmeric	in carcinogenic blocking effects of	
-A-139	colon	colon	cancer	cancer		
-A-139	curcumin	curcumin	turmeric	turmeric	(from	
-A-139	turmeric	turmeric	vegetables	vegetables	) and quercitin, (found in fruits and	
 A-139	supplements	supplements	curcumin	curcumin	of	
+A-139	curcumin	curcumin	colon	colon	and	
+A-139	polyps	polyps	blood	blood	came back down with virtually no adverse events and no	
+A-139	prevention	prevention	cancer	cancer	of	
 A-139	india	india	antioxidants	antioxidants	is often attributed to natural	
-A-139	prevention	prevention	roots	roots	of cancer) and plant-centered diets (back to our	
-A-139	chemotherapy	chemotherapy	radiation	radiation	agents or	
-A-139	medicine	medicine	quercitin	quercitin	tested two phytochemicals, curcumin (from turmeric) and	
-A-139	curcumin	curcumin	cancer	cancer	for	
-A-139	medicine	medicine	curcumin	curcumin	tested two phytochemicals,	
-A-139	chemo	chemo	side effects	side effects		
-A-139	turmeric	turmeric	colon	colon	curcumin and	
-A-139	phytates	phytates	cancer	cancer	for the prevention of	
-A-139	turmeric	turmeric	cancer	cancer	curcumin for	
-A-139	risk	risk	cancer	cancer	for colon	
-A-139	medicine	medicine	turmeric	turmeric	tested two phytochemicals, curcumin (from	
 A-139	fruits	fruits	vegetables	vegetables	and	
 A-139	onions	onions	grapes	grapes	and	
-A-139	curcumin	curcumin	cell death	cell death	reprogramming cancer	
 A-139	cancer	cancer	india	india	in	
-A-139	cancer	cancer	antioxidants	antioxidants	in india is often attributed to natural	
-A-139	turmeric	turmeric	supplements	supplements	curcumin	
-A-139	fruits	fruits	grapes	grapes	and vegetables such as red onions and	
-A-139	supplements	supplements	polyps	polyps	for another three months, and the	
-A-139	cancer	cancer	cleveland clinic	cleveland clinic	could be prevented, five years later, researchers at	
-A-139	colorectal cancer	colorectal cancer	chemotherapy	chemotherapy	that didn’t respond to any of the standard	
-A-139	cancer	cancer	chemotherapy	chemotherapy	that didn’t respond to any of the standard	
-A-139	fruits	fruits	onions	onions	and vegetables such as red	
-A-139	chemotherapy	chemotherapy	turmeric	turmeric	agents or radiation, researchers started them on a	
-A-139	curcumin	curcumin	cancer	cancer	reprogramming	
-A-139	turmeric	turmeric	colon cancer	colon cancer	curcumin and	
-A-139	vegetables	vegetables	red onions	red onions	such as	
-A-139	phytonutrient	phytonutrient	supplements	supplements		
-A-139	vegetables	vegetables	onions	onions	such as red	
-A-139	turmeric	turmeric	fruits	fruits	) and quercitin, (found in	
-A-139	cleveland clinic	cleveland clinic	medicine	medicine	and john hopkins school of	
-A-139	curcumin	curcumin	colon cancer	colon cancer	and	
-A-139	turmeric	turmeric	curcumin	curcumin		
-A-139	turmeric	turmeric	digestive tract	digestive tract	compounds, what cancers other than that of the	
-A-139	antioxidants	antioxidants	curcumin	curcumin	such as	
-A-139	curcumin	curcumin	fruits	fruits	(from turmeric) and quercitin, (found in	
-A-139	colon cancer	colon cancer	cleveland clinic	cleveland clinic	could be prevented, five years later, researchers at	
-A-139	phytonutrient	phytonutrient	polyps	polyps	supplements for another three months, and the	
-A-139	risk	risk	pills	pills	of tobacco-related cancers, but beta-carotene	
-A-139	curcumin	curcumin	supplements	supplements		
-A-139	prevention	prevention	cancer	cancer	of	
-A-139	fruits	fruits	red onions	red onions	and vegetables such as	
-A-139	turmeric	turmeric	quercitin	quercitin	) and	
-A-139	curcumin	curcumin	vegetables	vegetables	(from turmeric) and quercitin, (found in fruits and	
-A-139	cancer	cancer	curcumin	curcumin	in carcinogenic blocking effects of turmeric and turmeric	
-A-139	risk	risk	colon	colon	for	
-A-139	roots	roots	cancer	cancer	: curry and	
 A-139	medicine	medicine	phytochemicals	phytochemicals	tested two	
 A-139	red onions	red onions	grapes	grapes	and	

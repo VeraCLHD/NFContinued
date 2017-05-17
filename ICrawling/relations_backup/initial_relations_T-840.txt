@@ -1,21 +1,4 @@
 
-T-840	protein	protein	pregnant	pregnant	in 93% of blood samples of	
 T-840	soybeans	soybeans	gmo	gmo	are the number one	
-T-840	organic	organic	soy	soy		
-T-840	pesticides	pesticides	gmo	gmo	associated with them, particularly since 80% of	
-T-840	roundup	roundup	soybeans	soybeans	ready	
-T-840	roundup	roundup	glyphosate	glyphosate	pesticide,	
-T-840	protein	protein	women	women	in 93% of blood samples of pregnant	
+T-840	roundup	roundup	glyphosate	glyphosate	was found to be 100 times more toxic than	
 T-840	roundup	roundup	gmo	gmo	sprayed on	
-T-840	pregnant	pregnant	women	women		
-T-840	gmo	gmo	glyphosate	glyphosate	crops.but in addition to roundup’s active ingredient,	
-T-840	roundup	roundup	glyphosate	glyphosate	’s active ingredient,	
-T-840	protein	protein	pregnant women	pregnant women	in 93% of blood samples of	
-T-840	gmo	gmo	roundup	roundup	crops.but in addition to	
-T-840	protein	protein	blood	blood	in 93% of	
-T-840	roundup	roundup	gmo	gmo	ready soybeans are the number one	
-T-840	blood	blood	pregnant	pregnant	samples of	
-T-840	blood	blood	women	women	samples of pregnant	
-T-840	pregnant	pregnant	health	health	women, but the	
-T-840	blood	blood	health	health	samples of pregnant women, but the	
-T-840	blood	blood	pregnant women	pregnant women	samples of	

@@ -1,56 +1,19 @@
 
-A-113	cancer	cancer	vagina	vagina	of the	
-A-113	carcinogen	carcinogen	des	des	in 1971,	
-A-113	drugs	drugs	chicken	chicken	in	
-A-113	estrogen	estrogen	women	women	des was prescribed to several million pregnant	
-A-113	chicken	chicken	antibiotics	antibiotics	dioxins, viruses, or	
-A-113	pregnant	pregnant	women	women		
-A-113	cancer	cancer	mothers	mothers	of the vagina in the daughters of the	
-A-113	drugs	drugs	chickens	chickens	fed to	
-A-113	chicken	chicken	arsenic	arsenic	and how many cancers caused by	
-A-113	chicken	chicken	viruses	viruses	dioxins,	
-A-113	feather meal	feather meal	sheep	sheep	is fed back to chickens, pigs, cows,	
-A-113	chicken	chicken	bladder	bladder	to avoid	
-A-113	arsenic	arsenic	chickens	chickens	is another human carcinogen that was fed to	
-A-113	antibiotics	antibiotics	infections	infections	in chicken contribute to antibiotic resistant	
-A-113	arsenic	arsenic	meat	meat	exposure in persons who consume	
-A-113	carcinogen	carcinogen	chickens	chickens	that was fed to	
 A-113	des	des	farm animals	farm animals	was fed to millions of	
-A-113	chicken	chicken	infections	infections	to avoid bladder	
-A-113	des	des	pregnant women	pregnant women	was prescribed to several million	
-A-113	chicken	chicken	dioxins	dioxins		
-A-113	chicken	chicken	infections	infections	contribute to antibiotic resistant	
-A-113	meat industry	meat industry	estrogen	estrogen	just uses different synthetic	
-A-113	poultry	poultry	risk	risk	has been tied to increased cancer	
-A-113	arsenic	arsenic	carcinogen	carcinogen	is another human	
-A-113	des	des	women	women	was prescribed to several million pregnant	
-A-113	meat	meat	arsenic	arsenic	(as i’ve talked about previously in	
-A-113	estrogen	estrogen	des	des		
+A-113	des	des	livestock	livestock	was by the	
 A-113	manure	manure	minerals	minerals	added for	
-A-113	feather meal	feather meal	pigs	pigs	is fed back to chickens,	
-A-113	estrogen	estrogen	pregnant women	pregnant women	des was prescribed to several million	
+A-113	chickens	chickens	poultry	poultry	are one reason used to explain why	
+A-113	drugs	drugs	chicken	chicken	in	
+A-113	des	des	pregnant women	pregnant women	was prescribed to several million	
+A-113	chicken	chicken	infections	infections	contribute to antibiotic resistant	
+A-113	drugs	drugs	chickens	chickens	fed to	
 A-113	antibiotics	antibiotics	chicken	chicken	in	
 A-113	phosphate additives	phosphate additives	chicken	chicken	in	
-A-113	cancer	cancer	risk	risk		
-A-113	bladder	bladder	infections	infections		
-A-113	arsenic	arsenic	chicken	chicken	laced	
-A-113	caffeine	caffeine	chickens	chickens	helps keeps the	
-A-113	carcinogen	carcinogen	meat	meat	in 1971, des used in	
-A-113	drugs	drugs	antibiotics	antibiotics	currently in the u.s. poultry supply are the	
-A-113	des	des	livestock	livestock	was by the	
-A-113	meat	meat	estrogen	estrogen	industry just uses different synthetic	
-A-113	chickens	chickens	poultry	poultry	are one reason used to explain why	
-A-113	arsenic	arsenic	meat	meat	not only ends up in the	
-A-113	drugs	drugs	poultry	poultry	currently in the u.s.	
-A-113	meat	meat	chicken	chicken	(as i’ve talked about previously in arsenic in	
-A-113	vagina	vagina	mothers	mothers	in the daughters of the	
-A-113	poultry	poultry	antibiotics	antibiotics	supply are the	
-A-113	feather meal	feather meal	cows	cows	is fed back to chickens, pigs,	
-A-113	estrogen	estrogen	pregnant	pregnant	des was prescribed to several million	
+A-113	arsenic	arsenic	carcinogen	carcinogen	is another human	
 A-113	feather meal	feather meal	arsenic	arsenic	used as animal feed could contribute to additional	
 A-113	feather meal	feather meal	chickens	chickens	is fed back to	
 A-113	poultry	poultry	cancer	cancer	has been tied to increased	
 A-113	des	des	pregnant	pregnant	was prescribed to several million	
 A-113	des	des	meat	meat	used in	
-A-113	chicken	chicken	bladder infections	bladder infections	to avoid	
-A-113	chemicals	chemicals	chickens	chickens	to the	
+A-113	arsenic	arsenic	chicken	chicken	laced	
+A-113	caffeine	caffeine	chickens	chickens	helps keeps the	

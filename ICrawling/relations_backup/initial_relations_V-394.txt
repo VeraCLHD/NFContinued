@@ -1,43 +1,11 @@
 
-V-394	animal fat	animal fat	dioxin	dioxin	into gravy, but if almost all	
-V-394	fish	fish	gravy	gravy	and avoiding the recycling of animal fat into	
-V-394	pollutants	pollutants	fat	fat	that accumulate in tissue	
-V-394	china	china	taiwan	taiwan	or	
-V-394	catfish	catfish	lead	lead	can be bottom-feeders may	
-V-394	dioxins	dioxins	fat	fat	are highly toxic pollutants that accumulate in tissue	
-V-394	dioxin	dioxin	fat	fat	intake exposure, such as trimming the	
-V-394	catfish	catfish	animal fat	animal fat	aren’t fed a lot of	
-V-394	dioxin	dioxin	chicken	chicken	levels in	
-V-394	plant-based	plant-based	diet	diet		
-V-394	dioxin	dioxin	catfish	catfish	residues in the final	
-V-394	catfish	catfish	fish	fish	continued to be churned out of us	
-V-394	cancer	cancer	risk	risk		
-V-394	fish	fish	animal fat	animal fat	and avoiding the recycling of	
-V-394	dioxin	dioxin	meat	meat	intake exposure, such as trimming the fat from	
-V-394	vegetarian	vegetarian	diet	diet		
-V-394	diet	diet	plants	plants	or even just eating more	
-V-394	fat	fat	meat	meat	from	
-V-394	fat	fat	poultry	poultry	from meat,	
-V-394	fish	fish	fat	fat	and avoiding the recycling of animal	
-V-394	dioxin	dioxin	risk	risk	levels in animal feed increases the	
-V-394	animal fat	animal fat	gravy	gravy	into	
-V-394	cheap	cheap	birds	birds	feed to fatten up the	
-V-394	chicken	chicken	eggs	eggs		
-V-394	contamination	contamination	usda	usda	was identified, the	
-V-394	dioxins	dioxins	catfish	catfish	in farm-raised	
-V-394	fish	fish	catfish	catfish	feeds together with the fact that	
-V-394	fat	fat	fish	fish	from meat, poultry, and	
-V-394	poultry	poultry	chickens	chickens	production–that’s people eating hundreds of millions of contaminated	
-V-394	plants	plants	health	health	might have previously unsuspected	
-V-394	dioxin	dioxin	eggs	eggs	levels in chicken	
-V-394	medicine	medicine	dioxin	dioxin	suggests strategies to reduce	
-V-394	vegetarian	vegetarian	plants	plants	diet or even just eating more	
 V-394	dioxins	dioxins	pollutants	pollutants	are highly toxic	
 V-394	catfish	catfish	dioxins	dioxins	were found contaminated with	
-V-394	lead	lead	dioxin	dioxin	to higher than acceptable	
+V-394	china	china	taiwan	taiwan	or	
+V-394	catfish	catfish	lead	lead	can be bottom-feeders may	
 V-394	institute of medicine	institute of medicine	dioxin	dioxin	suggests strategies to reduce	
-V-394	risk	risk	health	health	of adverse	
-V-394	dioxin	dioxin	fat	fat	intake comes from animal	
-V-394	dioxin	dioxin	animal fat	animal fat	intake comes from	
-V-394	catfish	catfish	fat	fat	aren’t fed a lot of animal	
-V-394	egg	egg	eggs	eggs	production means over a million	
+V-394	fish	fish	catfish	catfish	feeds together with the fact that	
+V-394	plants	plants	health	health	might have previously unsuspected	
+V-394	catfish	catfish	animal fat	animal fat	aren’t fed a lot of	
+V-394	medicine	medicine	dioxin	dioxin	suggests strategies to reduce	
+V-394	catfish	catfish	fish	fish	continued to be churned out of us	

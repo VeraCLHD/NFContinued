@@ -1,47 +1,14 @@
 
 T-510	acrylamide	acrylamide	french fries	french fries	in	
-T-510	kids	kids	raw	raw	to eat more	
-T-510	cooking	cooking	boiling	boiling	 meats also makes them particularly carcinogenic,, while	
 T-510	neurotoxins	neurotoxins	fish	fish	found in some	
-T-510	steaming	steaming	bile	bile	can increase	
-T-510	microwaving	microwaving	cooking	cooking	is among the healthiest	
-T-510	cooking	cooking	salmonella	salmonella	can kill	
-T-510	cooking	cooking	neurotoxins	neurotoxins	will not kill	
-T-510	cooking	cooking	chicken	chicken	can kill salmonella often found in store bought	
-T-510	salmonella	salmonella	chicken	chicken	often found in store bought	
-T-510	produce	produce	acrylamide	acrylamide	toxic fumes, and may also produce harmful	
-T-510	roasting	roasting	veggie burgers	veggie burgers	 chicken produces carcinogenic hca compounds (but not coffee or	
-T-510	sweet potatoes	sweet potatoes	boiled	boiled		
-T-510	garlic	garlic	broccoli	broccoli	and	
-T-510	potatoes	potatoes	boiled	boiled		
-T-510	meats	meats	boiling	boiling	 also makes them particularly carcinogenic,, while	
-T-510	raw	raw	cruciferous vegetables	cruciferous vegetables	 	
-T-510	cooking	cooking	animal foods	animal foods	 	
-T-510	frying	frying	produce	produce	may	
-T-510	pork	pork	tapeworms	tapeworms		
-T-510	eggs	eggs	cooking method	cooking method	and cheese, and it seems that no	
-T-510	eggs	eggs	cooking	cooking	and cheese, and it seems that no	
-T-510	carcinogens	carcinogens	cheese	cheese	may also be found in eggs and	
-T-510	cooking	cooking	seeds	seeds	will reduce the toxicity of poppy	
-T-510	steaming	steaming	vegetables	vegetables	can increase bile acid binding ability of some	
-T-510	microwaving	microwaving	cooking method	cooking method	is among the healthiest	
 T-510	animal foods	animal foods	advanced glycation end-products	advanced glycation end-products	 may drive the production of harmful 	
-T-510	bile	bile	vegetables	vegetables	acid binding ability of some	
-T-510	cooking	cooking	eggs	eggs	method can render	
-T-510	raw	raw	vegetables	vegetables	 cruciferous	
+T-510	steaming	steaming	bile	bile	can increase	
 T-510	carcinogens	carcinogens	cooking	cooking	created when	
+T-510	cooking	cooking	salmonella	salmonella	can kill	
 T-510	cooking method	cooking method	eggs	eggs	can render	
-T-510	chicken	chicken	coffee	coffee	 produces carcinogenic hca compounds (but not	
-T-510	chicken	chicken	veggie burgers	veggie burgers	 produces carcinogenic hca compounds (but not coffee or	
-T-510	raw	raw	broccoli	broccoli	 	
-T-510	cooking	cooking	meats	meats	 	
-T-510	roasting	roasting	coffee	coffee	 chicken produces carcinogenic hca compounds (but not	
-T-510	garlic	garlic	tea	tea	and broccoli, and a cup of	
+T-510	cooking	cooking	neurotoxins	neurotoxins	will not kill	
+T-510	garlic	garlic	broccoli	broccoli	and	
+T-510	frying	frying	produce	produce	may	
 T-510	coffee	coffee	veggie burgers	veggie burgers	or	
-T-510	carcinogens	carcinogens	eggs	eggs	may also be found in	
 T-510	eggs	eggs	cheese	cheese	and	
-T-510	cooking	cooking	advanced glycation end-products	advanced glycation end-products	 animal foods may drive the production of harmful 	
-T-510	roasting	roasting	chicken	chicken	 	
 T-510	cooking	cooking	poppy seeds	poppy seeds	will reduce the toxicity of	
-T-510	coffee	coffee	burgers	burgers	or veggie	
-T-510	cooking	cooking	fish	fish	will not kill neurotoxins found in some	

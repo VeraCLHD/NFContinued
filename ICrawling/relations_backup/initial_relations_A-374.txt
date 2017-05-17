@@ -1,54 +1,8 @@
 
-A-374	risk	risk	cancer	cancer	of the most difficult type of breast	
-A-374	broccoli	broccoli	carrots	carrots	and breast cancer: more on	
+A-374	broccoli	broccoli	breast cancer	breast cancer	and	
+A-374	risk	risk	african-american	african-american	in	
+A-374	cancer prevention	cancer prevention	diet	diet	and	
 A-374	risk	risk	breast cancer	breast cancer	of	
-A-374	fruit	fruit	breast cancer	breast cancer	and vegetable intake in relation to risk of	
+A-374	high blood pressure	high blood pressure	diabetes	diabetes	and	
 A-374	prevention	prevention	diet	diet	and	
 A-374	blood pressure	blood pressure	diabetes	diabetes	and	
-A-374	risk	risk	cancer	cancer	of breast	
-A-374	prevention	prevention	cancer	cancer	 and why less breast	
-A-374	breast cancer	breast cancer	prevention	prevention		
-A-374	plant-based	plant-based	diet	diet		
-A-374	lifestyle medicine	lifestyle medicine	nathan pritikin	nathan pritikin	pioneers	
-A-374	cancer	cancer	collards	collards	: more on carrots in: more on	
-A-374	broccoli	broccoli	cancer	cancer	and breast	
-A-374	breast cancer	breast cancer	risk	risk		
-A-374	breast cancer	breast cancer	collards	collards	: more on carrots in: more on	
-A-374	cancer prevention	cancer prevention	mushrooms	mushrooms	and diet, see my posts from last week 	
-A-374	fruit	fruit	risk	risk	and vegetable intake in relation to	
-A-374	health	health	fruit	fruit	study investigated	
-A-374	medicine	medicine	pritikin	pritikin	pioneers nathan	
-A-374	risk	risk	breast cancer	breast cancer	of the most difficult type of	
-A-374	african-american	african-american	women	women		
-A-374	cancer	cancer	african-american	african-american	risk in	
-A-374	prevention	prevention	mushrooms	mushrooms	and diet, see my posts from last week 	
-A-374	cancer	cancer	greens	greens	by any	
-A-374	mushrooms	mushrooms	asia	asia	for breast cancer prevention and why less breast cancer in	
-A-374	women	women	fruit	fruit	’s health study investigated	
-A-374	breast cancer	breast cancer	diet	diet	prevention and	
-A-374	high blood pressure	high blood pressure	diabetes	diabetes	and	
-A-374	cancer	cancer	carrots	carrots	: more on	
-A-374	prevention	prevention	breast cancer	breast cancer	 and why less	
-A-374	broccoli	broccoli	breast cancer	breast cancer	and	
-A-374	breast cancer	breast cancer	african-american	african-american	risk in	
-A-374	carrots	carrots	collards	collards	in: more on	
-A-374	breast cancer	breast cancer	women	women	risk in african-american	
-A-374	cancer	cancer	diet	diet	prevention and	
-A-374	cancer	cancer	risk	risk		
-A-374	blood	blood	diabetes	diabetes	pressure and	
-A-374	cancer prevention	cancer prevention	diet	diet	and	
-A-374	medicine	medicine	nathan pritikin	nathan pritikin	pioneers	
-A-374	mushrooms	mushrooms	cancer	cancer	for breast	
-A-374	risk	risk	african-american	african-american	in	
-A-374	risk	risk	women	women	in african-american	
-A-374	diabetes	diabetes	plant-based diet	plant-based diet	—can be prevented, stopped, and even reversed with a healthy	
-A-374	mushrooms	mushrooms	breast cancer	breast cancer	for	
-A-374	lifestyle medicine	lifestyle medicine	pritikin	pritikin	pioneers nathan	
-A-374	cancer	cancer	women	women	risk in african-american	
-A-374	mushrooms	mushrooms	prevention	prevention	for breast cancer	
-A-374	mushrooms	mushrooms	cancer prevention	cancer prevention	for breast	
-A-374	women	women	health	health	’s	
-A-374	breast cancer	breast cancer	carrots	carrots	: more on	
-A-374	cancer	cancer	prevention	prevention		
-A-374	diabetes	diabetes	plant-based	plant-based	—can be prevented, stopped, and even reversed with a healthy	
-A-374	breast cancer	breast cancer	greens	greens	by any	

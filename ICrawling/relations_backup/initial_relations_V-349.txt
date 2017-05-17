@@ -1,42 +1,13 @@
 
-V-349	risk	risk	cancer	cancer	.aicr recommendation #10 is that	
 V-349	prevention	prevention	mortality	mortality	was found to be associated with lower	
-V-349	mortality	mortality	cancer	cancer	among older female	
-V-349	cancer	cancer	risk	risk	prevention may lower the	
-V-349	risk	risk	cancer	cancer	of developing most types of	
-V-349	animal protein	animal protein	risk	risk	calories was associated with a 15% higher	
-V-349	calories	calories	bladder	bladder	was associated with a 15% higher risk of	
+V-349	prevention	prevention	risk	risk	may lower the	
+V-349	risk	risk	bladder	bladder	of	
+V-349	risk	risk	bladder cancer	bladder cancer	of	
+V-349	alcohol	alcohol	tobacco	tobacco	and	
+V-349	calories	calories	risk	risk	was associated with a 15% higher	
 V-349	protein	protein	risk	risk	was associated with a 23% lower	
 V-349	cancer prevention	cancer prevention	risk	risk	may lower the	
-V-349	cancer	cancer	risk	risk		
-V-349	cancer	cancer	protein	protein	whereas just a 2% increase in plant	
-V-349	risk	risk	bladder	bladder	of	
-V-349	bladder	bladder	protein	protein	cancer whereas just a 2% increase in plant	
-V-349	protein	protein	calories	calories		
-V-349	calories	calories	risk	risk	was associated with a 15% higher	
-V-349	cancer	cancer	american institute for cancer research	american institute for cancer research	-specific charity is the	
 V-349	risk	risk	women	women	was reduced by 60% in	
-V-349	risk	risk	mortality	mortality	of	
-V-349	cancer	cancer	women	women	risk was reduced by 60% in	
-V-349	diet	diet	cancer	cancer	that can help prevent	
-V-349	heart disease	heart disease	disease	disease	and respiratory	
-V-349	prevention	prevention	risk	risk	may lower the	
-V-349	calories	calories	bladder cancer	bladder cancer	was associated with a 15% higher risk of	
-V-349	mortality	mortality	breast cancer	breast cancer	among older female cancer survivors, including specifically 	
-V-349	vegetarians	vegetarians	plants	plants	did even better, and those eating the most	
-V-349	alcohol	alcohol	tobacco	tobacco	and	
-V-349	cancer	cancer	cancer	cancer	survivors, including specifically breast	
-V-349	animal protein	animal protein	calories	calories		
-V-349	china	china	forks over knives	forks over knives	study and the documentary	
-V-349	bladder	bladder	cancer	cancer		
 V-349	plant protein	plant protein	risk	risk	was associated with a 23% lower	
-V-349	risk	risk	cancer	cancer	of bladder	
+V-349	risk	risk	mortality	mortality	of	
 V-349	cancer prevention	cancer prevention	mortality	mortality	was found to be associated with lower	
-V-349	cancer	cancer	cancer	cancer	survivors should follow the recommendations for	
-V-349	risk	risk	bladder cancer	bladder cancer	of	
-V-349	cancer	cancer	cancer	cancer	-specific charity is the american institute for	
-V-349	protein	protein	risk	risk	calories was associated with a 15% higher	
-V-349	diet	diet	smoking	smoking	from other lifestyle behaviors like	
-V-349	cancer	cancer	prevention	prevention		
-V-349	bladder cancer	bladder cancer	protein	protein	whereas just a 2% increase in plant	
-V-349	china study	china study	forks over knives	forks over knives	and the documentary	

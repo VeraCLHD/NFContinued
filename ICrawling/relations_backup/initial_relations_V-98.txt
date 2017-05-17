@@ -1,17 +1,4 @@
 
 V-98	grains	grains	fiber	fiber	have some	
-V-98	health	health	whole grains	whole grains	and wellness.for example, the benefits of	
-V-98	whole grains	whole grains	fiber	fiber	over refined grains is commonly attributed to the	
-V-98	food industry	food industry	froot loops	froot loops	to whip out fiber-fortified	
-V-98	whole foods	whole foods	patent	patent	is fairly obvious—you can’t	
-V-98	fiber	fiber	supplements	supplements		
-V-98	health	health	grains	grains	and wellness.for example, the benefits of whole	
-V-98	chronic diseases	chronic diseases	africa	africa	in sub-saharan	
-V-98	whole grain	whole grain	mortality	mortality	group lived longer; a significantly lower	
-V-98	africa	africa	plant foods	plant foods	was due to all the whole,	
 V-98	nutrition	nutrition	marketing	marketing	can be more about	
-V-98	fiber	fiber	grains	grains	a day—but one group mostly from whole	
-V-98	fiber	fiber	whole grains	whole grains	a day—but one group mostly from	
-V-98	grains	grains	fiber	fiber	over refined grains is commonly attributed to the	
-V-98	whole grains	whole grains	grains	grains	over refined	
-V-98	health	health	fiber	fiber	benefits, above and beyond the	
+V-98	whole foods	whole foods	patent	patent	is fairly obvious—you can’t	

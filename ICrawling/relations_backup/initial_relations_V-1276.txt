@@ -1,17 +1,5 @@
 
-V-1276	breakfast	breakfast	milk	milk	cereals, fortified soy	
 V-1276	calcium	calcium	iodine	iodine	and	
-V-1276	soy	soy	supplements	supplements	milk, fortified nutritional yeast, or little	
 V-1276	doctors	doctors	plant-based	plant-based	may be skeptical about	
-V-1276	breakfast	breakfast	nutritional yeast	nutritional yeast	cereals, fortified soy milk, fortified	
-V-1276	soy	soy	nutritional yeast	nutritional yeast	milk, fortified	
-V-1276	plant-based	plant-based	b12	b12	diets tend not to get enough vitamin	
-V-1276	soy	soy	yeast	yeast	milk, fortified nutritional	
-V-1276	breakfast	breakfast	soy	soy	cereals, fortified	
-V-1276	plant-based	plant-based	vitamin b12	vitamin b12	diets tend not to get enough	
 V-1276	doctors	doctors	plant-based diets	plant-based diets	may be skeptical about	
-V-1276	breakfast	breakfast	soy milk	soy milk	cereals, fortified	
-V-1276	breakfast	breakfast	yeast	yeast	cereals, fortified soy milk, fortified nutritional	
-V-1276	soy	soy	milk	milk		
 V-1276	plant-based diets	plant-based diets	vitamin b12	vitamin b12	tend not to get enough	
-V-1276	plant-based diets	plant-based diets	b12	b12	tend not to get enough vitamin	

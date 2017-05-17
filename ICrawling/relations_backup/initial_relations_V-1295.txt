@@ -1,44 +1,13 @@
 
-V-1295	organic	organic	vegetarian	vegetarian	group.so it seems the hypospadias wasn't due to	
-V-1295	pesticides	pesticides	organic	organic	—but also eliminating much of the nutrition.so, eat	
-V-1295	organic	organic	minerals	minerals	produce has more vitamins, more	
-V-1295	women	women	birth defects	birth defects	eating conventional produce during pregnancy had indeed higher	
-V-1295	meat	meat	fruits	fruits	eaters—other than more good things, like more	
-V-1295	organic	organic	hypospadias	hypospadias	group.so it seems the	
-V-1295	pesticides	pesticides	diet	diet	that were coming from the	
+V-1295	produce	produce	vitamins	vitamins	has more	
+V-1295	kids	kids	california	california	in	
 V-1295	hypospadias	hypospadias	vegetarian	vegetarian	wasn't due to	
-V-1295	kids	kids	diet	diet	were put on organic	
 V-1295	vegetarians	vegetarians	meat	meat	compared to	
-V-1295	vegetarian	vegetarian	produce	produce	women eating conventional	
+V-1295	pesticides	pesticides	united states	united states	used annually in the	
+V-1295	kids	kids	organic	organic	were put on	
+V-1295	fruits	fruits	vegetables	vegetables	and	
 V-1295	women	women	produce	produce	eating conventional	
 V-1295	pregnancy	pregnancy	birth defects	birth defects	had indeed higher	
-V-1295	pesticides	pesticides	california	california	in the hands of kids in	
-V-1295	phytoestrogens	phytoestrogens	soy	soy	in	
-V-1295	united states	united states	insecticides	insecticides	—herbicides, fungicides,	
-V-1295	pesticides	pesticides	kids	kids	in the hands of	
-V-1295	produce	produce	vitamins	vitamins	has more	
-V-1295	pesticides	pesticides	apples	apples	on	
-V-1295	kids	kids	california	california	in	
-V-1295	pesticides	pesticides	united states	united states	used annually in the	
-V-1295	organic	organic	diet	diet		
-V-1295	vegetarian	vegetarian	organic	organic	moms into two groups: those eating	
-V-1295	produce	produce	birth defects	birth defects	during pregnancy had indeed higher	
 V-1295	produce	produce	manure	manure	can be contaminated by	
-V-1295	produce	produce	pregnancy	pregnancy	during	
-V-1295	produce	produce	minerals	minerals	has more vitamins, more	
-V-1295	women	women	pregnancy	pregnancy	eating conventional produce during	
-V-1295	manure	manure	produce	produce	runoff, and conventional	
-V-1295	pesticides	pesticides	organic foods	organic foods	—but also eliminating much of the nutrition.so, eat	
-V-1295	vegetarian	vegetarian	pregnancy	pregnancy	women eating conventional produce during	
-V-1295	united states	united states	fungicides	fungicides	—herbicides,	
-V-1295	vitamin b12	vitamin b12	homocysteine	homocysteine	levels leading to high	
-V-1295	manure	manure	pesticides	pesticides	runoff, and conventional produce may be contaminated with	
-V-1295	organic	organic	produce	produce		
-V-1295	vegetarian	vegetarian	women	women		
-V-1295	pesticides	pesticides	fungicides	fungicides	used annually in the united states—herbicides,	
-V-1295	b12	b12	homocysteine	homocysteine	levels leading to high	
-V-1295	vegetarian	vegetarian	produce	produce	moms into two groups: those eating organic	
-V-1295	kids	kids	organic	organic	were put on	
-V-1295	organic	organic	vitamins	vitamins	produce has more	
-V-1295	fruits	fruits	vegetables	vegetables	and	
-V-1295	pesticides	pesticides	insecticides	insecticides	used annually in the united states—herbicides, fungicides,	
+V-1295	phytoestrogens	phytoestrogens	soy	soy	in	
+V-1295	pregnancy	pregnancy	hypospadias	hypospadias	associated with having sons with a specific birth defect of the penis called	

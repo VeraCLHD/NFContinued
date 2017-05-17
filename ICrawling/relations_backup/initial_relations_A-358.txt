@@ -1,39 +1,8 @@
 
-A-358	thyroid	thyroid	kelp	kelp	dysfunction caused by eating too much	
-A-358	japan	japan	infections	infections	to prevent upper respiratory tract	
-A-358	gargling	gargling	respiratory infections	respiratory infections	is effective in preventing	
-A-358	salt water	salt water	mouth	mouth	in your hand, open your	
-A-358	gargling	gargling	water	water	with filtered	
-A-358	gargling	gargling	cold	cold	prevent the common	
+A-358	gargling	gargling	sore throat	sore throat	is one of the best things to do to treat a	
 A-358	infections	infections	cold	cold	such as the common	
-A-358	infections	infections	common cold	common cold	such as the	
-A-358	gargling	gargling	infections	infections	is effective in preventing respiratory	
-A-358	water	water	respiratory infections	respiratory infections	gargling is effective in preventing	
-A-358	gargling	gargling	green tea	green tea	with	
-A-358	iodine	iodine	betadine	betadine	solutions such as	
-A-358	antioxidant	antioxidant	zinc	zinc	level dynamics, and 	
-A-358	salt	salt	water	water		
-A-358	sore throat	sore throat	cold	cold	when you have a	
-A-358	kelp	kelp	iodine	iodine	or thyroid-gland-containing sausages (see my video too much	
-A-358	gargling	gargling	tea	tea	with green	
-A-358	sleep	sleep	antioxidant	antioxidant	& immunity, 	
-A-358	sausages	sausages	iodine	iodine	(see my video too much	
-A-358	water	water	infections	infections	gargling is effective in preventing respiratory	
-A-358	salt	salt	respiratory infections	respiratory infections	water gargling is effective in preventing	
-A-358	salt water	salt water	infections	infections	gargling is effective in preventing respiratory	
-A-358	sleep	sleep	zinc	zinc	& immunity, antioxidant level dynamics, and 	
-A-358	salt	salt	infections	infections	water gargling is effective in preventing respiratory	
-A-358	mouth	mouth	water	water	still open, gently breathe out through the	
-A-358	gargling	gargling	cold	cold	to prevent a	
-A-358	salt water	salt water	respiratory infections	respiratory infections	gargling is effective in preventing	
-A-358	water	water	gargling	gargling	is chlorinated may have played a role, so	
+A-358	gargling	gargling	respiratory infections	respiratory infections	is effective in preventing	
 A-358	gargling	gargling	japan	japan	has been strongly recommended in	
-A-358	salt	salt	gargling	gargling	water	
-A-358	water	water	gargling	gargling		
-A-358	neti pot	neti pot	nasal irrigation	nasal irrigation		
-A-358	gargling	gargling	cost-effective	cost-effective	” in wasted time, it’s still considered a	
-A-358	salt water	salt water	gargling	gargling		
-A-358	kelp	kelp	sausages	sausages	or thyroid-gland-containing	
-A-358	neti pot	neti pot	sleep	sleep	nasal irrigation, (along with my brain-eating amoeba answer),	
 A-358	kelp	kelp	thyroid	thyroid	or	
+A-358	gargling	gargling	cold	cold	prevent the common	
 A-358	gargling	gargling	common cold	common cold	prevent the	

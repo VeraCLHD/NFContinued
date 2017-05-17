@@ -1,66 +1,6 @@
 
-V-35	muscles	muscles	fat	fat	as	
-V-35	fat	fat	blood	blood	in the	
-V-35	blood	blood	insulin	insulin	“causes	
-V-35	fat	fat	blood	blood	out of the	
-V-35	fat	fat	insulin resistance	insulin resistance	in people’s blood, and the	
-V-35	fat	fat	blood	blood	in the diet goes up, one’s	
-V-35	blood sugar	blood sugar	blood	blood	levels build up in the	
-V-35	glucose	glucose	sugar	sugar	—blood	
-V-35	fat	fat	insulin	insulin	in people’s blood, and the	
-V-35	fat	fat	insulin	insulin	(specifically saturated fat) induces	
-V-35	glucose	glucose	digestive tract	digestive tract	in their 	
-V-35	glucose	glucose	blood	blood	gates, and	
-V-35	blood	blood	insulin	insulin	can be an important contributor to	
-V-35	insulin	insulin	fat	fat	sensitivity—showing that increased	
-V-35	blood	blood	sugar	sugar	glucose—blood	
-V-35	saturated fat	saturated fat	insulin resistance	insulin resistance	) induces	
-V-35	sugar	sugar	blood	blood	in our 	
-V-35	blood sugar	blood sugar	muscles	muscles	—and is taken up by our	
-V-35	insulin	insulin	blood	blood	get destroyed, and without insulin, sugar in the	
-V-35	insulin	insulin	glucose	glucose	resistance by inhibition of	
-V-35	glucose	glucose	blood sugar	blood sugar	gates, and	
-V-35	insulin	insulin	blood	blood	we have out in our	
-V-35	sugar	sugar	type 1 diabetes	type 1 diabetes	levels would rise and rise.that’s what happens in	
-V-35	water	water	fat	fat	challenge, the group that had been shoveling in	
-V-35	fat	fat	blood sugar	blood sugar	in the diet goes up, one’s	
-V-35	diet	diet	blood sugar	blood sugar	goes up, one’s	
-V-35	insulin	insulin	glucose	glucose	resistance, inhibiting	
-V-35	blood	blood	glucose	glucose	“causes insulin resistance by inhibition of	
-V-35	sugar	sugar	blood	blood	out of the	
-V-35	insulin	insulin	blood	blood	sensitivity—showing that increased fat in the	
-V-35	saturated fat	saturated fat	insulin	insulin	) induces	
-V-35	fat	fat	blood	blood	levels in the	
-V-35	glucose	glucose	blood	blood	—	
-V-35	fat	fat	blood sugar	blood sugar	ended up with twice the	
-V-35	sugar	sugar	muscles	muscles	—and is taken up by our	
-V-35	fat	fat	blood	blood	ended up with twice the	
-V-35	blood	blood	blood sugar	blood sugar	glucose—	
-V-35	glucose	glucose	sugar	sugar	gates, and blood	
-V-35	glucose	glucose	blood sugar	blood sugar	—	
-V-35	blood	blood	muscles	muscles	can’t get out of the blood into the	
-V-35	fat	fat	insulin resistance	insulin resistance	(specifically saturated fat) induces	
-V-35	sugar	sugar	water	water		
-V-35	diet	diet	blood	blood	goes up, one’s	
-V-35	diet	diet	sugar	sugar	goes up, one’s blood	
-V-35	fat	fat	insulin	insulin	in the blood can be an important contributor to	
-V-35	fat	fat	blood	blood	in people’s	
-V-35	insulin	insulin	sugar	sugar	from letting	
-V-35	fat	fat	insulin	insulin	levels in the blood “causes	
-V-35	glucose	glucose	muscles	muscles	—blood sugar—and is taken up by our	
-V-35	fat	fat	sugar	sugar	ended up with twice the blood	
-V-35	fat	fat	saturated fat	saturated fat	(specifically	
 V-35	fat	fat	insulin	insulin	can start causing	
-V-35	fat	fat	sugar	sugar	in the diet goes up, one’s blood	
-V-35	blood	blood	insulin resistance	insulin resistance	“causes	
-V-35	blood	blood	glucose	glucose		
-V-35	insulin	insulin	sugar	sugar	get destroyed, and without insulin,	
-V-35	fat	fat	diet	diet	in the	
-V-35	insulin resistance	insulin resistance	glucose	glucose	by inhibition of	
-V-35	glucose	glucose	diet	diet	intolerance skyrockets in the fatty	
-V-35	blood	blood	muscles	muscles	glucose—blood sugar—and is taken up by our	
-V-35	sugar	sugar	blood	blood	levels build up in the	
-V-35	fat	fat	insulin resistance	insulin resistance	levels in the blood “causes	
-V-35	fat	fat	glucose	glucose	can start causing insulin resistance, inhibiting	
-V-35	blood	blood	sugar	sugar		
+V-35	fat	fat	blood sugar	blood sugar	ended up with twice the	
+V-35	fat	fat	blood	blood	ended up with twice the	
+V-35	insulin	insulin	sugar	sugar	is the key that unlocks the door to let	
 V-35	fat	fat	insulin resistance	insulin resistance	can start causing	

@@ -1,96 +1,13 @@
 
-A-261	broccoli	broccoli	cancer stem cells	cancer stem cells	versus breast	
-A-261	breast cancer	breast cancer	stem cells	stem cells		
-A-261	liver	liver	broccoli	broccoli	toxicity due to	
-A-261	cancer	cancer	plant-based	plant-based	survivors to determine if a	
-A-261	broccoli	broccoli	cancer	cancer	versus breast	
-A-261	women	women	broccoli	broccoli	with breast cancer eat	
-A-261	women	women	cancer	cancer	with breast	
-A-261	fruits	fruits	kale	kale	and veggies as broccoli, cauliflower, collards, cabbage, or	
-A-261	raw	raw	cancer	cancer	broccoli and bladder	
-A-261	cancer	cancer	cancer survival	cancer survival	metastases and broccoli and raw broccoli and bladder	
-A-261	metastases	metastases	cancer	cancer	and broccoli and raw broccoli and bladder	
-A-261	fruit	fruit	meat	meat	and vegetable consumption and decreasing	
-A-261	vegetables	vegetables	cruciferous vegetables	cruciferous vegetables	in general may be good,	
-A-261	broccoli	broccoli	cancer survival	cancer survival	and raw broccoli and bladder	
-A-261	lung cancer	lung cancer	cancer	cancer	metastases and broccoli and raw broccoli and bladder	
-A-261	cancer	cancer	cancer	cancer	metastases and broccoli and raw broccoli and bladder	
-A-261	cancer	cancer	diet	diet	survivors to determine if a plant-based, low-fat, high-fiber	
-A-261	women	women	breast cancer	breast cancer	with	
-A-261	risk	risk	cancer	cancer	of	
-A-261	lung cancer	lung cancer	cancer survival	cancer survival	metastases and broccoli and raw broccoli and bladder	
-A-261	cancer	cancer	women	women	survival vegetable, you can see the proportion of	
-A-261	broccoli	broccoli	cancer	cancer	and raw broccoli and bladder	
-A-261	liver	liver	juice	juice	toxicity due to broccoli	
-A-261	cancer	cancer	raw	raw	metastases and broccoli and	
-A-261	broccoli	broccoli	bladder	bladder	and raw broccoli and	
-A-261	metastases	metastases	cancer survival	cancer survival	and broccoli and raw broccoli and bladder	
-A-261	americans	americans	cancer	cancer	who die from	
-A-261	sulforaphane	sulforaphane	broccoli	broccoli	: from	
-A-261	lung cancer	lung cancer	bladder	bladder	metastases and broccoli and raw broccoli and	
-A-261	diet	diet	cancer	cancer	could influence breast	
-A-261	fruits	fruits	cruciferous vegetables	cruciferous vegetables	and vegetables in general may be good,	
-A-261	bladder	bladder	cancer survival	cancer survival		
-A-261	lung cancer	lung cancer	broccoli	broccoli	metastases and	
-A-261	breast cancer	breast cancer	diet	diet	survivors to determine if a plant-based, low-fat, high-fiber	
-A-261	broccoli	broccoli	bladder cancer	bladder cancer	and raw broccoli and	
-A-261	women	women	tumors	tumors	with estrogen receptor negative	
-A-261	metastases	metastases	bladder	bladder	and broccoli and raw broccoli and	
-A-261	cancer survival	cancer survival	women	women	vegetable, you can see the proportion of	
-A-261	mexico	mexico	chemo	chemo	and would lose all their hair to	
-A-261	breast cancer survival	breast cancer survival	women	women	vegetable, you can see the proportion of	
-A-261	women	women	estrogen	estrogen	with	
+A-261	kale	kale	risk	risk	had their	
 A-261	metastases	metastases	broccoli	broccoli	and	
 A-261	diet	diet	breast cancer	breast cancer	could influence	
-A-261	fruit	fruit	physical activity	physical activity	and vegetable consumption and low	
-A-261	mortality	mortality	fruits	fruits	— unless women eat those few	
+A-261	women	women	mexico	mexico	would re-mortgage their homes to fly to some quack clinic in	
 A-261	cancer	cancer	broccoli sprouts	broccoli sprouts	eat	
-A-261	broccoli	broccoli	breast cancer	breast cancer	versus	
-A-261	risk	risk	death	death	of	
-A-261	fruits	fruits	broccoli	broccoli	and veggies as	
-A-261	fruits	fruits	vegetables	vegetables	and	
-A-261	metastases	metastases	raw	raw	and broccoli and	
-A-261	cancer	cancer	breast cancer	breast cancer	survival, see: what’s even better is preventing	
-A-261	breast cancer	breast cancer	cancer	cancer	survival, see: what’s even better is preventing breast	
-A-261	women	women	sprouts	sprouts	with breast cancer eat broccoli	
-A-261	fruits	fruits	exercise	exercise	and veggies and	
-A-261	kale	kale	cancer	cancer	had their risk of	
-A-261	cancer	cancer	bladder cancer	bladder cancer	metastases and broccoli and raw broccoli and	
-A-261	lung cancer	lung cancer	bladder cancer	bladder cancer	metastases and broccoli and raw broccoli and	
-A-261	breast cancer	breast cancer	women	women	survival vegetable, you can see the proportion of	
+A-261	risk	risk	cancer	cancer	of	
 A-261	cancer	cancer	broccoli	broccoli	eat	
-A-261	women	women	tamoxifen	tamoxifen	on	
-A-261	broccoli	broccoli	juice	juice		
-A-261	raw	raw	broccoli	broccoli		
-A-261	broccoli	broccoli	stem cells	stem cells	versus breast cancer	
-A-261	kale	kale	risk	risk	had their	
-A-261	metastases	metastases	bladder cancer	bladder cancer	and broccoli and raw broccoli and	
-A-261	raw	raw	bladder cancer	bladder cancer	broccoli and	
-A-261	fruits	fruits	cabbage	cabbage	and veggies as broccoli, cauliflower, collards,	
-A-261	cancer	cancer	metastases	metastases		
-A-261	mortality	mortality	women	women	— unless	
-A-261	estrogen	estrogen	mortality	mortality	receptor negative tumors, which normally have twice the	
-A-261	breast cancer	breast cancer	sprouts	sprouts	eat broccoli	
-A-261	breast cancer	breast cancer	broccoli	broccoli	eat	
-A-261	cancer	cancer	stem cells	stem cells		
-A-261	cancer	cancer	broccoli	broccoli	metastases and	
-A-261	cancer	cancer	bladder	bladder	metastases and broccoli and raw broccoli and	
-A-261	cancer	cancer	sprouts	sprouts	eat broccoli	
-A-261	lung cancer	lung cancer	raw	raw	metastases and broccoli and	
-A-261	fruits	fruits	cauliflower	cauliflower	and veggies as broccoli,	
-A-261	women	women	broccoli sprouts	broccoli sprouts	with breast cancer eat	
-A-261	estrogen	estrogen	tumors	tumors	receptor negative	
-A-261	broccoli	broccoli	raw	raw	and	
-A-261	raw	raw	cancer survival	cancer survival	broccoli and bladder	
-A-261	bladder	bladder	cancer	cancer		
-A-261	fruits	fruits	collards	collards	and veggies as broccoli, cauliflower,	
-A-261	lung cancer	lung cancer	metastases	metastases		
-A-261	broccoli	broccoli	sprouts	sprouts		
-A-261	fruit	fruit	fat	fat	and vegetable consumption and decreasing meat,	
-A-261	cancer	cancer	cancer	cancer	survival, see: what’s even better is preventing breast	
-A-261	raw	raw	bladder	bladder	broccoli and	
-A-261	fruit	fruit	sugar	sugar	and vegetable consumption and decreasing meat, fat, and	
 A-261	breast cancer	breast cancer	broccoli sprouts	broccoli sprouts	eat	
-A-261	dna	dna	broccoli	broccoli	protection from	
-A-261	breast cancer	breast cancer	plant-based	plant-based	survivors to determine if a	
-A-261	americans	americans	cancer	cancer	are expected to die this year from	
+A-261	risk	risk	death	death	of	
+A-261	fruits	fruits	vegetables	vegetables	and	
+A-261	broccoli	broccoli	raw	raw	and	
+A-261	breast cancer	breast cancer	broccoli	broccoli	eat	

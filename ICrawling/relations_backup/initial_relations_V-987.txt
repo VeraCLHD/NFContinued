@@ -1,22 +1,6 @@
 
-V-987	fiber	fiber	vegetarian	vegetarian	input, which leads to “	
-V-987	estrogen	estrogen	blood	blood	and a decreased [	
 V-987	cholesterol	cholesterol	digestive tract	digestive tract	is to dump it into the	
-V-987	vegetarian	vegetarian	united states	united states	women in the	
-V-987	women	women	breast cancer	breast cancer	with and without	
-V-987	twinkies	twinkies	bread	bread	and wonder	
-V-987	women	women	vegetarian	vegetarian	have increased fiber input, which leads to “	
-V-987	women	women	united states	united states	in the	
-V-987	risk	risk	vegetarian	vegetarian	the more	
-V-987	vegetarian	vegetarian	fiber	fiber	women have increased	
+V-987	women	women	vegetarian	vegetarian	eating	
+V-987	women	women	fiber	fiber	have increased	
 V-987	vegetarians	vegetarians	estrogen	estrogen	were fecally excreting more than twice as much	
 V-987	burger king	burger king	dairy	dairy	and	
-V-987	estrogen	estrogen	omnivores	omnivores	as the	
-V-987	fiber	fiber	women	women	input, which leads to “vegetarian	
-V-987	blood	blood	estrogen	estrogen	] concentration of	
-V-987	women	women	cancer	cancer	with and without breast	
-V-987	women	women	vegetarian	vegetarian	eating	
-V-987	vegetarian	vegetarian	women	women		
-V-987	women	women	breast cancer	breast cancer	who have	
-V-987	women	women	fiber	fiber	have increased	
-V-987	women	women	cancer	cancer	who have breast	

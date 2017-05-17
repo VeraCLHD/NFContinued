@@ -1,30 +1,6 @@
 
-V-946	skin	skin	pneumonia	pneumonia	infections to	
-V-946	enterococcus	enterococcus	meat	meat	species are prevalent among us	
-V-946	turkey	turkey	pork	pork	samples, followed by	
-V-946	bacteria	bacteria	meat	meat	in the u.s.	
-V-946	cdc	cdc	e. coli	e. coli	] has shown that multidrug-resistant	
-V-946	contamination	contamination	turkey	turkey	was most common among	
-V-946	bacteria	bacteria	turkey	turkey	they found in	
-V-946	contamination	contamination	pork	pork	was most common among turkey samples, followed by	
-V-946	turkey	turkey	beef	beef	samples, followed by pork, chicken, and [then]	
-V-946	poultry	poultry	salmonella	salmonella	products are frequently contaminated with multidrug-resistant campylobacter,	
-V-946	poultry	poultry	enterococcus	enterococcus	products are frequently contaminated with multidrug-resistant campylobacter, salmonella,	
+V-946	antibiotics	antibiotics	disease	disease	are used extensively in food animal production for growth promotion and	
 V-946	meat	meat	poultry	poultry	and	
 V-946	antibiotics	antibiotics	medicine	medicine	used in human	
 V-946	e. coli	e. coli	enterococcus	enterococcus	and	
-V-946	skin	skin	infections	infections		
-V-946	bacteria	bacteria	beef	beef	they found in turkey, pork, chicken, and	
-V-946	e. coli	e. coli	meat	meat	and enterococcus species are prevalent among us	
-V-946	poultry	poultry	campylobacter	campylobacter	products are frequently contaminated with multidrug-resistant	
-V-946	cdc	cdc	enterococcus	enterococcus	] has shown that multidrug-resistant e. coli and	
-V-946	turkey	turkey	chicken	chicken	samples, followed by pork,	
-V-946	bacteria	bacteria	pork	pork	they found in turkey,	
-V-946	bacteria	bacteria	chicken	chicken	they found in turkey, pork,	
-V-946	cdc	cdc	poultry	poultry	monitoring system, “indicate that retail meat and	
-V-946	meat	meat	campylobacter	campylobacter	and poultry products are frequently contaminated with multidrug-resistant	
-V-946	enterococcus	enterococcus	poultry	poultry	species are prevalent among us meat and	
-V-946	cdc	cdc	meat	meat	monitoring system, “indicate that retail	
-V-946	turkey	turkey	meat	meat	tested positive, and overall, 47% of u.s. retail	
-V-946	disease	disease	prevention	prevention		
-V-946	antibiotics	antibiotics	water	water	are routinely administered in feed and	
+V-946	contamination	contamination	turkey	turkey	was most common among	

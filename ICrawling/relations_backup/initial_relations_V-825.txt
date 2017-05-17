@@ -1,21 +1,3 @@
 
 V-825	apnea	apnea	death	death	and	
-V-825	risk	risk	casomorphin	casomorphin	for sids.the blood levels of bovine	
-V-825	blood	blood	casomorphin	casomorphin	levels of bovine	
-V-825	casomorphin	casomorphin	babies	babies	in the	
-V-825	babies	babies	blood	blood	at high risk for sids.the	
-V-825	risk	risk	death	death	for	
 V-825	casomorphin	casomorphin	milk	milk	in	
-V-825	milk	milk	apnea	apnea	-induced infant	
-V-825	death	death	syndrome	syndrome		
-V-825	death	death	crib death	crib death	syndrome, also known as	
-V-825	babies	babies	risk	risk	at high	
-V-825	hypoxia	hypoxia	apnea	apnea	[not enough oxygen],	
-V-825	risk	risk	blood	blood	for sids.the	
-V-825	infants	infants	apnea	apnea	who had recurrent life-threatening episodes—meaning	
-V-825	sleep	sleep	stomach	stomach	[ing on their	
-V-825	infants	infants	sleep	sleep	exposed to several postnatal factors:	
-V-825	blood	blood	babies	babies	levels of bovine casomorphin in the	
-V-825	hypercapnia	hypercapnia	hypoxia	hypoxia	[which means too much carbon dioxide],	
-V-825	hypoxia	hypoxia	death	death	[not enough oxygen], apnea and	
-V-825	infants	infants	stomach	stomach	exposed to several postnatal factors: sleep[ing on their	

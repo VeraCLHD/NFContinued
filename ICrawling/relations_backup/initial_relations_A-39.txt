@@ -1,53 +1,9 @@
 
-A-39	curcumin	curcumin	exercise	exercise	and 	
-A-39	walnuts	walnuts	dark chocolate	dark chocolate	and arterial function, vinegar and artery function, and	
-A-39	treadmill	treadmill	health	health	desks in standing up for your	
-A-39	green tea	green tea	endothelial	endothelial	—are beneficial for	
-A-39	tea	tea	endothelial	endothelial	—are beneficial for	
-A-39	arteries	arteries	blood	blood	normally in response to	
-A-39	blood	blood	arteries	arteries	vessels to relax our	
-A-39	nuts	nuts	health	health	and green tea—are beneficial for endothelial	
-A-39	nuts	nuts	green tea	green tea	and	
-A-39	gold	gold	exercise	exercise	: turmeric vs	
-A-39	disease	disease	lifespan	lifespan	while significantly shortening our	
-A-39	blood	blood	endothelium	endothelium	flow promotes a healthy	
-A-39	turmeric	turmeric	exercise	exercise	and	
-A-39	vinegar	vinegar	chocolate	chocolate	and artery function, and dark	
-A-39	treadmill	treadmill	burning	burning	desk motor, after	
-A-39	tea	tea	health	health	—are beneficial for endothelial	
-A-39	diabetes	diabetes	lifespan	lifespan	and heart disease while significantly shortening our	
-A-39	treadmill desk	treadmill desk	burning	burning	motor, after	
-A-39	arteries	arteries	blood	blood	can actually sense the sheer force of the	
-A-39	vinegar	vinegar	dark chocolate	dark chocolate	and artery function, and	
-A-39	eggs	eggs	walnuts	walnuts	and arterial function, 	
-A-39	risk	risk	death	death	of	
-A-39	exercise	exercise	diet	diet	versus	
-A-39	turmeric	turmeric	exercise	exercise	vs	
-A-39	risk	risk	shortening	shortening	of diabetes and heart disease while significantly	
-A-39	diabetes	diabetes	disease	disease	and heart	
-A-39	risk	risk	heart disease	heart disease	of diabetes and	
-A-39	shortening	shortening	physical activity	physical activity	our lifespan, even at the highest levels of	
-A-39	treadmill	treadmill	health	health	desks may improve the	
-A-39	endothelial	endothelial	walnuts	walnuts	function (see eggs and arterial function, 	
-A-39	turmeric	turmeric	gold	gold	and exercise see heart of	
-A-39	risk	risk	disease	disease	of diabetes and heart	
-A-39	heart disease	heart disease	shortening	shortening	while significantly	
-A-39	diet	diet	exercise	exercise	comparisons in is it the diet, the	
-A-39	turmeric	turmeric	exercise	exercise	cucumin vs.	
-A-39	exercise	exercise	turmeric	turmeric	see heart of gold:	
-A-39	diabetes	diabetes	heart disease	heart disease	and	
-A-39	walnuts	walnuts	vinegar	vinegar	and arterial function,	
-A-39	exercise	exercise	weight loss	weight loss	to sustain	
-A-39	disease	disease	shortening	shortening	while significantly	
-A-39	nuts	nuts	tea	tea	and green	
-A-39	shortening	shortening	lifespan	lifespan	our	
-A-39	exercise	exercise	gold	gold	see heart of	
-A-39	eggs	eggs	vinegar	vinegar	and arterial function, walnuts and arterial function,	
 A-39	curcumin	curcumin	turmeric	turmeric	or	
-A-39	exercise	exercise	endothelial	endothelial	training significantly improved	
-A-39	heart disease	heart disease	lifespan	lifespan	while significantly shortening our	
-A-39	green tea	green tea	health	health	—are beneficial for endothelial	
+A-39	arteries	arteries	blood	blood	can actually sense the sheer force of the	
+A-39	nuts	nuts	green tea	green tea	and	
 A-39	risk	risk	diabetes	diabetes	of	
-A-39	nuts	nuts	endothelial	endothelial	and green tea—are beneficial for	
-A-39	diabetes	diabetes	shortening	shortening	and heart disease while significantly	
-A-39	endothelial	endothelial	eggs	eggs	function (see	
+A-39	risk	risk	death	death	of	
+A-39	turmeric	turmeric	exercise	exercise	and	
+A-39	diabetes	diabetes	heart disease	heart disease	and	
+A-39	exercise	exercise	gold	gold	see heart of	

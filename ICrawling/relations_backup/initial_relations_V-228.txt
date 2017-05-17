@@ -1,28 +1,8 @@
 
-V-228	fiber	fiber	antioxidants	antioxidants	and	
-V-228	cholesterol	cholesterol	heart attacks	heart attacks	levels of people that get	
-V-228	antioxidants	antioxidants	animal protein	animal protein	and its emphasis on	
-V-228	cholesterol	cholesterol	disease	disease	below 200 mg/dl, millions would develop coronary artery	
-V-228	fiber	fiber	animal protein	animal protein	and antioxidants and its emphasis on	
-V-228	antioxidants	antioxidants	fat	fat	and its emphasis on animal protein,	
-V-228	esselstyn	esselstyn	cholesterol	cholesterol	wrote in cleveland clinic journal of medicine, in	
-V-228	antioxidants	antioxidants	protein	protein	and its emphasis on animal	
-V-228	dr. esselstyn	dr. esselstyn	cleveland clinic	cleveland clinic	wrote in	
-V-228	fiber	fiber	protein	protein	and antioxidants and its emphasis on animal	
-V-228	cholesterol	cholesterol	disease	disease	levels to those proven to prevent coronary	
-V-228	dr. esselstyn	dr. esselstyn	cholesterol	cholesterol	wrote in cleveland clinic journal of medicine, in	
-V-228	cholesterol	cholesterol	fats	fats	and	
-V-228	disease	disease	cholesterol	cholesterol	is practically unheard of when total serum	
 V-228	heart attacks	heart attacks	cholesterol	cholesterol	occur in people with total	
-V-228	dr. esselstyn	dr. esselstyn	medicine	medicine	wrote in cleveland clinic journal of	
-V-228	disease	disease	cholesterol	cholesterol	epidemic is seen as a raging fire, and	
-V-228	esselstyn	esselstyn	medicine	medicine	wrote in cleveland clinic journal of	
-V-228	esselstyn	esselstyn	cleveland clinic	cleveland clinic	wrote in	
-V-228	cleveland clinic	cleveland clinic	medicine	medicine	journal of	
-V-228	fiber	fiber	fat	fat	and antioxidants and its emphasis on animal protein,	
-V-228	heart attacks	heart attacks	cholesterol	cholesterol	and the	
+V-228	fiber	fiber	antioxidants	antioxidants	and	
+V-228	dr. esselstyn	dr. esselstyn	cleveland clinic	cleveland clinic	wrote in	
 V-228	americans	americans	cholesterol	cholesterol	kept their total	
-V-228	cholesterol	cholesterol	american heart association	american heart association	and fats are the fuels, the	
-V-228	cleveland clinic	cleveland clinic	cholesterol	cholesterol	journal of medicine, in	
-V-228	risk	risk	heart attack	heart attack	for a	
-V-228	fats	fats	american heart association	american heart association	are the fuels, the	
+V-228	disease	disease	health	health	.we cannot continue to have public and private organizations on the forefront of	
+V-228	esselstyn	esselstyn	cleveland clinic	cleveland clinic	wrote in	
+V-228	cholesterol	cholesterol	fats	fats	and	

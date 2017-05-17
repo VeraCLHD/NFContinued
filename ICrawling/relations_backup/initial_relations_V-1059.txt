@@ -1,4 +1,3 @@
 
-V-1059	china	china	japan	japan	about a thousand years ago, transplanted to	
 V-1059	nutrition	nutrition	tea	tea	is extracted from	
 V-1059	nutrition	nutrition	tea	tea	throwing away	

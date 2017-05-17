@@ -1,30 +1,5 @@
 
-T-582	blood	blood	cholesterol	cholesterol		
-T-582	dietary guidelines	dietary guidelines	salt	salt	have been challenged by the	
-T-582	american heart association	american heart association	eggs	eggs	’s recommendation to consume less	
-T-582	diet	diet	prevention	prevention	in the	
-T-582	american heart association	american heart association	heart health	heart health	’s recommendation to consume less eggs for	
-T-582	plant-based	plant-based	diet	diet		
-T-582	dietary guidelines	dietary guidelines	sugar	sugar	have been challenged by the salt,	
-T-582	plant-based diet	plant-based diet	prevention	prevention	in the	
-T-582	eggs	eggs	health	health	for heart	
-T-582	finland	finland	meat	meat	carried out multiple initiatives to decrease 	
-T-582	eggs	eggs	meat industry	meat industry	for heart health, and the	
-T-582	plant-based	plant-based	prevention	prevention	diet in the	
-T-582	eggs	eggs	meat	meat	for heart health, and the	
-T-582	egg	egg	american heart association	american heart association	industry fight against the	
-T-582	ldl	ldl	blood	blood		
-T-582	meat industry	meat industry	prevention	prevention		
-T-582	american heart association	american heart association	health	health	’s recommendation to consume less eggs for heart	
-T-582	dietary guidelines	dietary guidelines	dairy	dairy	have been challenged by the salt, sugar,	
-T-582	meat	meat	prevention	prevention	industry	
-T-582	dietary guidelines	dietary guidelines	egg	egg	have been challenged by the salt, sugar, dairy,	
-T-582	health	health	meat	meat	consequences of eating	
-T-582	meat	meat	mortality	mortality	consumption and experienced an 80% drop in cardiac	
-T-582	americans	americans	potassium	potassium	get the recommended daily intake of	
 T-582	beans	beans	diabetes	diabetes	are excellent for optimizing	
-T-582	dietary guidelines	dietary guidelines	meat	meat	: finland carried out multiple initiatives to decrease 	
-T-582	eggs	eggs	heart health	heart health	for	
-T-582	eggs	eggs	prevention	prevention	for heart health, and the meat industry	
-T-582	health	health	risk	risk		
-T-582	ldl	ldl	cholesterol	cholesterol	blood	
+T-582	finland	finland	meat	meat	carried out multiple initiatives to decrease 	
+T-582	dietary guidelines	dietary guidelines	salt	salt	have been challenged by the	
+T-582	americans	americans	potassium	potassium	get the recommended daily intake of	

@@ -1,141 +1,22 @@
 
-T-1037	juice	juice	infections	infections	may help prevent bladder	
-T-1037	fruit juice	fruit juice	risk	risk	intake has been linked with a higher	
-T-1037	fruit	fruit	fruit juice	fruit juice	and	
-T-1037	cranberry	cranberry	bladder	bladder	juice may help prevent	
-T-1037	bad cholesterol	bad cholesterol	beet juice	beet juice	and boost good cholesterol, and	
-T-1037	fruit	fruit	phytonutrients	phytonutrients	can help provide more	
-T-1037	heart attack	heart attack	risk	risk		
-T-1037	kale	kale	cholesterol	cholesterol	juice intake may help lower bad	
-T-1037	sugar	sugar	corn	corn	and high fructose	
-T-1037	patulin	patulin	apple	apple	in non-organic	
-T-1037	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
-T-1037	cholesterol	cholesterol	juice	juice	and boost good cholesterol, and beet	
-T-1037	risk	risk	fruit	fruit	of type 2 diabetes, greater	
-T-1037	oranges	oranges	orange	orange	seem associated with lower glaucoma risk, but	
-T-1037	apple juice	apple juice	sugar	sugar	likely is worse than	
-T-1037	gout	gout	sleep	sleep	flares, and improve	
-T-1037	glaucoma	glaucoma	risk	risk		
-T-1037	fruit juice	fruit juice	phytonutrients	phytonutrients	can be a source of	
-T-1037	bladder	bladder	muscle soreness	muscle soreness	infections, and cherry juice may help reduce	
-T-1037	nitric oxide	nitric oxide	blood pressure	blood pressure	that may help with both athletic performance and	
-T-1037	apples	apples	nutrition	nutrition	specifically, the primary	
-T-1037	cranberry	cranberry	orange juice	orange juice	juice,	
-T-1037	kale	kale	juice	juice		
-T-1037	fructose	fructose	fruit	fruit	naturally found in	
-T-1037	heart attack	heart attack	apple	apple	risk, while	
-T-1037	apple juice	apple juice	world health organization	world health organization	often exceeded	
-T-1037	nutrition	nutrition	juice	juice	is in the peel rather than the	
-T-1037	heart attack	heart attack	juice	juice	risk, while apple	
-T-1037	juice	juice	cholesterol	cholesterol	intake may help lower bad	
-T-1037	apple	apple	sugar	sugar	juice likely is worse than	
-T-1037	sulforaphane	sulforaphane	broccoli	broccoli	from	
-T-1037	glaucoma	glaucoma	orange juice	orange juice	risk, but	
-T-1037	cranberry	cranberry	infections	infections	juice may help prevent bladder	
 T-1037	juice	juice	phytonutrients	phytonutrients	can be a source of	
 T-1037	juice	juice	bladder infections	bladder infections	may help prevent	
-T-1037	apple juice	apple juice	water	water	likely is worse than sugar	
-T-1037	uric acid	uric acid	apple	apple	production,	
-T-1037	pomegranate	pomegranate	juice	juice		
-T-1037	apples	apples	heart attack	heart attack	may reduce	
-T-1037	fructose	fructose	juice	juice	naturally found in fruit and fruit	
-T-1037	apples	apples	apple	apple	may reduce heart attack risk, while	
-T-1037	bladder	bladder	infections	infections		
-T-1037	juice	juice	antioxidants	antioxidants	can be a source of phytonutrients and	
-T-1037	oranges	oranges	risk	risk	seem associated with lower glaucoma	
-T-1037	sugar	sugar	water	water		
-T-1037	glaucoma	glaucoma	orange	orange	risk, but	
-T-1037	fruit	fruit	phytonutrients	phytonutrients	juice can be a source of	
-T-1037	fruit	fruit	risk	risk	juice intake has been linked with a higher	
-T-1037	oranges	oranges	orange juice	orange juice	seem associated with lower glaucoma risk, but	
-T-1037	uric acid	uric acid	sugar	sugar	production, apple juice likely is worse than	
-T-1037	tomato juice	tomato juice	juice	juice	is a unique case where the processed	
-T-1037	cranberry juice	cranberry juice	bladder	bladder	may help prevent	
-T-1037	fruit	fruit	antioxidants	antioxidants	juice can be a source of phytonutrients and	
-T-1037	cranberry	cranberry	juice	juice		
-T-1037	orange juice	orange juice	apples	apples	is not, and	
-T-1037	apple	apple	water	water	juice likely is worse than sugar	
-T-1037	orange	orange	heart attack	heart attack	juice is not, and apples may reduce	
-T-1037	broccoli	broccoli	cancer cells	cancer cells	sprout juice may target breast	
-T-1037	cranberry	cranberry	tomato juice	tomato juice	juice, orange juice, or	
-T-1037	glaucoma	glaucoma	apples	apples	risk, but orange juice is not, and	
-T-1037	cranberry	cranberry	bladder infections	bladder infections	juice may help prevent	
-T-1037	juice	juice	bad cholesterol	bad cholesterol	intake may help lower	
-T-1037	apples	apples	apple juice	apple juice	may reduce heart attack risk, while	
-T-1037	beet juice	beet juice	nitric oxide	nitric oxide	can help provide	
-T-1037	bladder	bladder	juice	juice	infections, and cherry	
-T-1037	fruit	fruit	juice	juice		
-T-1037	sugar	sugar	corn syrup	corn syrup	and high fructose	
-T-1037	risk	risk	juice	juice	of type 2 diabetes, greater fruit	
-T-1037	oranges	oranges	juice	juice	seem associated with lower glaucoma risk, but orange	
-T-1037	juice	juice	bladder	bladder	may help prevent	
-T-1037	orange	orange	tomato juice	tomato juice	juice, or	
-T-1037	noni	noni	liver	liver	juice, and it’s possible to get	
 T-1037	cranberry juice	cranberry juice	bladder infections	bladder infections	may help prevent	
-T-1037	tea	tea	cranberry juice	cranberry juice	has more than	
-T-1037	oranges	oranges	glaucoma	glaucoma	seem associated with lower	
-T-1037	risk	risk	blood	blood	of developing alzheimer’s disease, and increase	
-T-1037	fruit juice	fruit juice	antioxidants	antioxidants	can be a source of phytonutrients and	
-T-1037	uric acid	uric acid	juice	juice	production, apple	
-T-1037	broccoli	broccoli	breast cancer	breast cancer	sprout juice may target	
-T-1037	orange	orange	apples	apples	juice is not, and	
-T-1037	apple	apple	world health organization	world health organization	juice often exceeded	
-T-1037	juice	juice	cancer cells	cancer cells	may target breast	
-T-1037	sulforaphane	sulforaphane	breast cancer	breast cancer	from broccoli sprout juice may target	
-T-1037	kale	kale	bad cholesterol	bad cholesterol	juice intake may help lower	
-T-1037	patulin	patulin	world health organization	world health organization	in non-organic apple juice often exceeded	
-T-1037	bad cholesterol	bad cholesterol	cholesterol	cholesterol	and boost good	
-T-1037	juice	juice	apples	apples	is not, and	
-T-1037	tea	tea	juice	juice	has more than cranberry	
-T-1037	sulforaphane	sulforaphane	cancer	cancer	from broccoli sprout juice may target breast	
-T-1037	uric acid	uric acid	apple juice	apple juice	production,	
-T-1037	risk	risk	disease	disease	of developing alzheimer’s	
-T-1037	fruit	fruit	risk	risk	consumption has been associated with a lower	
-T-1037	juice	juice	heart attack	heart attack	is not, and apples may reduce	
-T-1037	juice	juice	risk	risk	is not, and apples may reduce heart attack	
-T-1037	noni	noni	juice	juice		
-T-1037	juice	juice	health	health	often exceeded world	
-T-1037	juice	juice	water	water	likely is worse than sugar	
-T-1037	tea	tea	cranberry	cranberry	has more than	
-T-1037	cranberry	cranberry	orange	orange	juice,	
-T-1037	cranberry juice	cranberry juice	infections	infections	may help prevent bladder	
-T-1037	risk	risk	fruit juice	fruit juice	of type 2 diabetes, greater	
-T-1037	apple	apple	health	health	juice often exceeded world	
-T-1037	sulforaphane	sulforaphane	juice	juice	from broccoli sprout	
-T-1037	broccoli	broccoli	juice	juice		
-T-1037	glaucoma	glaucoma	juice	juice	risk, but orange	
-T-1037	tea	tea	orange	orange	has more than cranberry juice,	
-T-1037	fructose	fructose	fruit juice	fruit juice	naturally found in fruit and	
-T-1037	apples	apples	risk	risk	may reduce heart attack	
-T-1037	uric acid	uric acid	water	water	production, apple juice likely is worse than sugar	
-T-1037	juice	juice	breast cancer	breast cancer	may target	
-T-1037	sulforaphane	sulforaphane	cancer cells	cancer cells	from broccoli sprout juice may target breast	
-T-1037	juice	juice	risk	risk	intake has been linked with a higher	
-T-1037	tea	tea	tomato juice	tomato juice	has more than cranberry juice, orange juice, or	
-T-1037	risk	risk	diabetes	diabetes	of type 2	
-T-1037	sugar	sugar	fructose	fructose	and high	
-T-1037	heart attack	heart attack	apple juice	apple juice	risk, while	
-T-1037	juice	juice	cancer	cancer	may target breast	
-T-1037	orange	orange	juice	juice		
-T-1037	phytonutrients	phytonutrients	juice	juice	than drinking just the	
 T-1037	broccoli	broccoli	juice	juice	sprout	
-T-1037	apple	apple	juice	juice		
-T-1037	patulin	patulin	juice	juice	in non-organic apple	
-T-1037	fruit	fruit	juice	juice	and fruit	
-T-1037	nitric oxide	nitric oxide	blood	blood	that may help with both athletic performance and	
-T-1037	tea	tea	orange juice	orange juice	has more than cranberry juice,	
-T-1037	orange juice	orange juice	risk	risk	is not, and apples may reduce heart attack	
-T-1037	patulin	patulin	health	health	in non-organic apple juice often exceeded world	
-T-1037	cholesterol	cholesterol	beet juice	beet juice	and boost good cholesterol, and	
-T-1037	cranberry juice	cranberry juice	juice	juice	may help prevent bladder infections, and cherry	
-T-1037	orange juice	orange juice	heart attack	heart attack	is not, and apples may reduce	
-T-1037	broccoli	broccoli	cancer	cancer	sprout juice may target breast	
+T-1037	tomato juice	tomato juice	juice	juice	is a unique case where the processed	
+T-1037	tea	tea	cranberry juice	cranberry juice	has more than	
+T-1037	cranberry juice	cranberry juice	bladder	bladder	may help prevent	
+T-1037	oranges	oranges	glaucoma	glaucoma	seem associated with lower	
+T-1037	apples	apples	heart attack	heart attack	may reduce	
+T-1037	fruit juice	fruit juice	phytonutrients	phytonutrients	can be a source of	
+T-1037	apples	apples	nutrition	nutrition	specifically, the primary	
+T-1037	fruit	fruit	fruit juice	fruit juice	and	
+T-1037	fruit	fruit	phytonutrients	phytonutrients	can help provide more	
+T-1037	juice	juice	breast cancer	breast cancer	may target	
+T-1037	beet juice	beet juice	nitric oxide	nitric oxide	can help provide	
+T-1037	nutrition	nutrition	juice	juice	is in the peel rather than the	
 T-1037	juice	juice	benzene	benzene	has been found to have	
-T-1037	apples	apples	juice	juice	may reduce heart attack risk, while apple	
-T-1037	patulin	patulin	apple juice	apple juice	in non-organic	
-T-1037	juice	juice	sugar	sugar	likely is worse than	
-T-1037	juice	juice	world health organization	world health organization	often exceeded	
-T-1037	phytonutrients	phytonutrients	risk	risk	and antioxidants, may lower the	
-T-1037	bad cholesterol	bad cholesterol	juice	juice	and boost good cholesterol, and beet	
-T-1037	apple juice	apple juice	health	health	often exceeded world	
+T-1037	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
+T-1037	tea	tea	cranberry	cranberry	has more than	
 T-1037	phytonutrients	phytonutrients	antioxidants	antioxidants	and	
+T-1037	juice	juice	bladder	bladder	may help prevent	

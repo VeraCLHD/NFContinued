@@ -1,19 +1,9 @@
 
 V-920	albert einstein	albert einstein	abdominal aortic aneurysm	abdominal aortic aneurysm	died of an	
 V-920	smoking	smoking	meat	meat	and	
-V-920	risk	risk	abdominal aortic aneurysm	abdominal aortic aneurysm	of developing an	
 V-920	albert einstein	albert einstein	aortic aneurysm	aortic aneurysm	died of an abdominal	
-V-920	atherosclerosis	atherosclerosis	hardening of the arteries	hardening of the arteries	is	
-V-920	aneurysm	aneurysm	vegetarian	vegetarian	—and he was a	
-V-920	smoking	smoking	fruit	fruit	and meat eating, and maximize	
-V-920	atherosclerosis	atherosclerosis	arteries	arteries	is hardening of the	
-V-920	cholesterol	cholesterol	arteries	arteries	goop in our	
-V-920	arteries	arteries	aorta	aorta	can do—harden and stiffen the walls of our	
-V-920	risk	risk	aortic aneurysm	aortic aneurysm	of developing an abdominal	
-V-920	abdominal aortic aneurysm	abdominal aortic aneurysm	vegetarian	vegetarian	—and he was a	
-V-920	risk	risk	aneurysm	aneurysm	of developing an abdominal aortic	
 V-920	albert einstein	albert einstein	aneurysm	aneurysm	died of an abdominal aortic	
-V-920	meat	meat	fruit	fruit	eating, and maximize	
-V-920	aortic aneurysm	aortic aneurysm	vegetarian	vegetarian	—and he was a	
+V-920	atherosclerosis	atherosclerosis	hardening of the arteries	hardening of the arteries	is	
+V-920	atherosclerosis	atherosclerosis	arteries	arteries	is hardening of the	
 V-920	aorta	aorta	risk	risk	is at	
-V-920	fruit	fruit	nuts	nuts	and vegetable consumption, and eat	
+V-920	arteries	arteries	aorta	aorta	can do—harden and stiffen the walls of our	

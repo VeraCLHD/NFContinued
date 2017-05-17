@@ -1,41 +1,9 @@
 
-V-634	pcbs	pcbs	brain damage	brain damage	found in the brain, the worse the	
-V-634	diet	diet	disease	disease	reduce risk [of] parkinson’s	
 V-634	united states	united states	neurotoxic chemicals	neurotoxic chemicals	are contaminated with	
-V-634	dairy	dairy	disease	disease	products or milk and parkinson’s	
-V-634	brains	brains	pcbs	pcbs	of parkinson’s victims of	
-V-634	dairy	dairy	pesticides	pesticides	products,	
-V-634	pesticides	pesticides	disease	disease	in the brains of parkinson’s	
-V-634	milk	milk	disease	disease	and parkinson’s	
-V-634	united states	united states	chemicals	chemicals	are contaminated with neurotoxic	
-V-634	disease	disease	risk	risk		
-V-634	risk	risk	disease	disease	of developing parkinson’s	
-V-634	pollutants	pollutants	pesticides	pesticides	and	
-V-634	vegan	vegan	risk	risk	diet reduce	
 V-634	diet	diet	risk	risk	reduce	
-V-634	plant-based	plant-based	vegan	vegan	diets.so: “does a	
 V-634	disease	disease	exercise	exercise	is	
-V-634	dairy	dairy	neurotoxic chemicals	neurotoxic chemicals	products in the united states are contaminated with	
-V-634	pesticides	pesticides	disease	disease	may increase parkinson’s	
-V-634	pollutants	pollutants	brains	brains	and pesticides in the	
-V-634	pcbs	pcbs	monsanto	monsanto	found in	
-V-634	disease	disease	pollutants	pollutants	risk,” and autopsies found higher levels of	
-V-634	dairy	dairy	milk	milk	products or	
-V-634	milk	milk	risk	risk	and parkinson’s disease tended to find increased	
-V-634	brains	brains	disease	disease	of parkinson’s	
 V-634	disease	disease	risk	risk	tended to find increased	
-V-634	risk	risk	dairy	dairy	of developing parkinson’s disease is exercise, avoiding	
-V-634	dairy	dairy	united states	united states	products in the	
+V-634	united states	united states	chemicals	chemicals	are contaminated with neurotoxic	
 V-634	toxins	toxins	dairy	dairy	are present at low levels in	
-V-634	plant-based	plant-based	diet	diet	diets.so: “does a vegan	
-V-634	risk	risk	disease	disease	[of] parkinson’s	
-V-634	disease	disease	pesticides	pesticides	is exercise, avoiding dairy products,	
-V-634	pollutants	pollutants	disease	disease	and pesticides in the brains of parkinson’s	
-V-634	vegan	vegan	diet	diet		
-V-634	brains	brains	toxins	toxins	of parkinson’s disease patients, and some of these	
-V-634	brains	brains	monsanto	monsanto	of parkinson’s victims of pcbs found in	
-V-634	pesticides	pesticides	risk	risk	may increase parkinson’s disease	
-V-634	risk	risk	exercise	exercise	of developing parkinson’s disease is	
-V-634	disease	disease	dairy	dairy	is exercise, avoiding	
-V-634	plant-based	plant-based	risk	risk	diets.so: “does a vegan diet reduce	
-V-634	vegan	vegan	disease	disease	diet reduce risk [of] parkinson’s	
+V-634	pcbs	pcbs	monsanto	monsanto	found in	
+V-634	pollutants	pollutants	pesticides	pesticides	and	

@@ -1,30 +1,5 @@
 
-T-357	health	health	canada	canada	organizations in	
-T-357	diabetes	diabetes	beans	beans	association recommends consuming pulses, which include	
-T-357	fat	fat	precancerous	precancerous	reduction for patients with	
-T-357	health	health	pharmacists	pharmacists	food store employees and	
-T-357	anxiety	anxiety	fat	fat	and mood disorders.a clinical trial of dietary	
-T-357	health food	health food	pharmacists	pharmacists	store employees and	
-T-357	precancerous	precancerous	canada	canada	breast changes conducted in	
-T-357	plant-based	plant-based	diet	diet		
-T-357	canada	canada	disease	disease	examining the links between diet, health, and	
-T-357	doctors	doctors	plant-based diet	plant-based diet	to recommend a	
-T-357	beans	beans	diabetes	diabetes	and lentils, for optimizing	
-T-357	canada	canada	sugar	sugar	under various brand names such as	
-T-357	sugar	sugar	health	health	twin, despite some studies suggesting negative	
-T-357	diabetes	diabetes	lentils	lentils	association recommends consuming pulses, which include beans and	
-T-357	doctors	doctors	diet	diet	to recommend a plant-based	
-T-357	health food store	health food store	pharmacists	pharmacists	employees and	
-T-357	doctors	doctors	plant-based	plant-based	to recommend a	
 T-357	canada	canada	diet	diet	examining the links between	
-T-357	health	health	canada	canada		
-T-357	bpa	bpa	baby	baby	) in	
 T-357	anxiety	anxiety	mood	mood	and	
-T-357	mental health	mental health	anxiety	anxiety	issues, and	
-T-357	sweetener	sweetener	canada	canada	ingredient, is still available in	
 T-357	beans	beans	lentils	lentils	and	
-T-357	canada	canada	sugar twin	sugar twin	under various brand names such as	
-T-357	canada	canada	health	health	examining the links between diet,	
-T-357	mood	mood	fat	fat	disorders.a clinical trial of dietary	
-T-357	mental health	mental health	mood	mood	issues, and anxiety and	
 T-357	canada	canada	fat	fat	found that those who reduced their	

@@ -1,32 +1,9 @@
 
-T-1445	phytoestrogens	phytoestrogens	xenoestrogens	xenoestrogens	do not decrease male fertility; however,	
-T-1445	prevention	prevention	colon	colon	of diabetes and cancers of the	
-T-1445	plant foods	plant foods	beans	beans	such as	
-T-1445	plant foods	plant foods	seeds	seeds	such as beans,	
-T-1445	plant foods	plant foods	grains	grains	such as beans, seeds, and	
-T-1445	variety	variety	beans	beans	of plant foods such as	
-T-1445	dairy	dairy	abdominal fat	abdominal fat	with soy may decrease	
-T-1445	variety	variety	seeds	seeds	of plant foods such as beans,	
-T-1445	risk	risk	weight loss	weight loss	decreased, and	
-T-1445	phytoestrogens	phytoestrogens	fertility	fertility	do not decrease male	
-T-1445	prevention	prevention	liver	liver	of diabetes and cancers of the colon,	
-T-1445	soy	soy	phytoestrogens	phytoestrogens		
-T-1445	phytoestrogens	phytoestrogens	plant foods	plant foods	are estrogen-like compounds found in a variety of	
+T-1445	soy	soy	abdominal fat	abdominal fat	may decrease	
+T-1445	soy	soy	fat	fat	may decrease abdominal	
 T-1445	phytoestrogens	phytoestrogens	prevention	prevention	appear to be helpful in the	
 T-1445	prevention	prevention	diabetes	diabetes	of	
-T-1445	dairy	dairy	soy	soy	with	
-T-1445	soy	soy	xenoestrogens	xenoestrogens	phytoestrogens do not decrease male fertility; however,	
-T-1445	soy	soy	fat	fat	may decrease abdominal	
-T-1445	dairy	dairy	fat	fat	with soy may decrease abdominal	
 T-1445	variety	variety	plant foods	plant foods	of	
-T-1445	soy	soy	fertility	fertility	phytoestrogens do not decrease male	
-T-1445	phytoestrogens	phytoestrogens	diabetes	diabetes	appear to be helpful in the prevention of	
-T-1445	cholesterol	cholesterol	weight loss	weight loss	appears to be reduced, cardiovascular risk decreased, and	
-T-1445	soy	soy	abdominal fat	abdominal fat	may decrease	
-T-1445	diabetes	diabetes	liver	liver	and cancers of the colon,	
-T-1445	cholesterol	cholesterol	risk	risk	appears to be reduced, cardiovascular	
-T-1445	diabetes	diabetes	colon	colon	and cancers of the	
-T-1445	variety	variety	grains	grains	of plant foods such as beans, seeds, and	
-T-1445	soy	soy	flax	flax	foods and	
-T-1445	phytoestrogens	phytoestrogens	variety	variety	are estrogen-like compounds found in a	
 T-1445	soy foods	soy foods	flax	flax	and	
+T-1445	risk	risk	weight loss	weight loss	decreased, and	
+T-1445	phytoestrogens	phytoestrogens	fertility	fertility	do not decrease male	

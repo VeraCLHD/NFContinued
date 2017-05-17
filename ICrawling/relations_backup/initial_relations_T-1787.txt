@@ -1,5 +1,2 @@
 
 T-1787	medicine	medicine	surgery	surgery	has brought incredible advancements in	
-T-1787	heart disease	heart disease	surgery	surgery	prevent the need for heart	
-T-1787	disease	disease	surgery	surgery	prevent the need for heart	
-T-1787	plant-based	plant-based	diet	diet		

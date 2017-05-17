@@ -1,8 +1,3 @@
 
-A-414	diet	diet	exercise	exercise	vs.	
-A-414	beverage	beverage	physical activity	physical activity	consumption and	
 A-414	diet	diet	exercise	exercise	or	
 A-414	physical activity	physical activity	weight loss	weight loss	are equally important in weight maintenance and	
-A-414	exercise	exercise	weight loss	weight loss	for	
-A-414	diet	diet	weight loss	weight loss	vs. exercise for	
-A-414	disease	disease	risk	risk		

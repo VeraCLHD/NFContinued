@@ -1,63 +1,13 @@
 
-A-219	glaucoma	glaucoma	blindness	blindness	is the second leading cause of legal	
-A-219	kale	kale	greens	greens	and collard	
-A-219	seeds	seeds	tahini	tahini	with the greens—such as a little	
-A-219	carotenoid	carotenoid	phytonutrients	phytonutrients		
-A-219	calcium	calcium	iron supplements	iron supplements	or	
-A-219	women	women	fruit	fruit	to study the effects of	
-A-219	seeds	seeds	greens	greens	with the	
-A-219	health	health	macular degeneration	macular degeneration	check out my video, dietary prevention of age-related	
+A-219	orange juice	orange juice	risk	risk	was not associated with a lower	
 A-219	calcium	calcium	iron	iron	or	
 A-219	risk	risk	glaucoma	glaucoma	of	
 A-219	phytonutrients	phytonutrients	fat	fat	depends on the presence of	
-A-219	nuts	nuts	tahini	tahini	or seeds with the greens—such as a little	
-A-219	carrots	carrots	women	women	appeared to be less protective in black	
-A-219	african-american	african-american	fruit	fruit	women to study the effects of	
-A-219	juice	juice	risk	risk	was not associated with a lower	
-A-219	glaucoma	glaucoma	salads	salads	risk, but most people’s	
-A-219	greens	greens	women	women	vs. glaucoma, researchers chose a population of african-american	
-A-219	leafy vegetables	leafy vegetables	african-american	african-american	a month, whereas nearly nine out of ten	
-A-219	glaucoma	glaucoma	risk	risk		
-A-219	african-american	african-american	women	women		
-A-219	african-american	african-american	carrots	carrots	subjects tended to eat	
-A-219	iron	iron	supplements	supplements		
-A-219	fruit	fruit	glaucoma	glaucoma	and vegetable consumption on	
-A-219	zeaxanthin	zeaxanthin	plants	plants	is found primarily in	
-A-219	plants	plants	kale	kale	such as	
-A-219	cancer	cancer	greens	greens	by any	
-A-219	nuts	nuts	greens	greens	or seeds with the	
 A-219	kale	kale	collard greens	collard greens	and	
+A-219	carrots	carrots	women	women	appeared to be less protective in black	
 A-219	fruits	fruits	vegetables	vegetables	and	
+A-219	calcium	calcium	iron supplements	iron supplements	or	
 A-219	treatment	treatment	glaucoma	glaucoma	of	
-A-219	phytonutrients	phytonutrients	zeaxanthin	zeaxanthin	like	
-A-219	blindness	blindness	women	women	in african-american	
-A-219	oranges	oranges	risk	risk	every week was associated with dramatically lower	
+A-219	zeaxanthin	zeaxanthin	plants	plants	is found primarily in	
+A-219	juice	juice	risk	risk	was not associated with a lower	
 A-219	nuts	nuts	seeds	seeds	or	
-A-219	greens	greens	supplements	supplements	rather than	
-A-219	fruit	fruit	risk	risk	and vegetable consumption on glaucoma	
-A-219	orange juice	orange juice	risk	risk	was not associated with a lower	
-A-219	prevention	prevention	macular degeneration	macular degeneration	of age-related	
-A-219	eye	eye	health	health		
-A-219	eye health	eye health	macular degeneration	macular degeneration	check out my video, dietary prevention of age-related	
-A-219	eye health	eye health	prevention	prevention	check out my video, dietary	
-A-219	eye	eye	greens	greens	color, the more	
-A-219	calcium	calcium	supplements	supplements	or iron	
-A-219	plants	plants	collard greens	collard greens	such as kale and	
-A-219	greens	greens	glaucoma	glaucoma	vs.	
-A-219	orange	orange	risk	risk	juice was not associated with a lower	
-A-219	zeaxanthin	zeaxanthin	kale	kale	is found primarily in plants such as	
-A-219	orange	orange	juice	juice		
-A-219	eggs	eggs	blind	blind	—find out how much in egg industry	
-A-219	greens	greens	african-american	african-american	vs. glaucoma, researchers chose a population of	
-A-219	eye	eye	prevention	prevention	health check out my video, dietary	
-A-219	carrots	carrots	raw	raw		
-A-219	eggs	eggs	egg	egg	—find out how much in	
-A-219	vegetables	vegetables	african-american	african-american	a month, whereas nearly nine out of ten	
-A-219	health	health	prevention	prevention	check out my video, dietary	
-A-219	carotenoid	carotenoid	fat	fat	phytonutrients depends on the presence of	
-A-219	plants	plants	greens	greens	such as kale and collard	
-A-219	greens	greens	tahini	tahini	—such as a little	
-A-219	blindness	blindness	women	women	in white	
-A-219	african-american	african-american	raw	raw	subjects tended to eat carrots	
-A-219	breast cancer	breast cancer	greens	greens	by any	
-A-219	egg	egg	blind	blind	industry	

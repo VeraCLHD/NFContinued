@@ -1,6 +1,2 @@
 
-V-1152	xenoestrogens	xenoestrogens	pesticides	pesticides	—human-made chemicals, like pcbs and	
 V-1152	pcbs	pcbs	pesticides	pesticides	and	
-V-1152	xenoestrogens	xenoestrogens	chemicals	chemicals	—human-made	
-V-1152	xenoestrogens	xenoestrogens	pcbs	pcbs	—human-made chemicals, like	
-V-1152	sperm counts	sperm counts	vegetarians	vegetarians	: fish-eaters versus	

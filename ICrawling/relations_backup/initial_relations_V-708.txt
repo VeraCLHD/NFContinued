@@ -1,7 +1,5 @@
 
 V-708	bamboo shoots	bamboo shoots	china	china	imported from	
-V-708	cans	cans	china	china	of bamboo shoots imported from	
 V-708	pesticides	pesticides	bamboo shoots	bamboo shoots	were detected…”this was their conclusion: “while all sampled	
 V-708	bamboo shoots	bamboo shoots	pesticides	pesticides	contained these	
-V-708	chinese	chinese	bamboo shoots	bamboo shoots		
 V-708	cans	cans	bamboo shoots	bamboo shoots	of	

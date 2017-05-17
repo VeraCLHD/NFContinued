@@ -1,114 +1,14 @@
 
-T-568	pork	pork	steroid hormones	steroid hormones	tapeworms,	
-T-568	salmon	salmon	supplements	supplements	), aluminum in cheese, and iron (in	
-T-568	bmaa	bmaa	fish	fish	(found mostly in	
-T-568	b12	b12	strawberries	strawberries	supplements, apples, blueberries and	
-T-568	blueberries	blueberries	turmeric	turmeric	and strawberries, saffron,	
+T-568	copper	copper	meat	meat	in	
 T-568	hormones	hormones	dairy	dairy	in	
-T-568	plant-based diets	plant-based diets	disease	disease	in general may help prevent alzheimer’s	
-T-568	death	death	united states	united states	in the	
+T-568	health	health	arteries	arteries	may clog cerebral	
 T-568	grains	grains	fruits	fruits	and	
-T-568	vegetables	vegetables	phytonutrients	phytonutrients	with their component	
-T-568	grains	grains	vegetables	vegetables	and fruits and	
-T-568	tofu	tofu	vitamin d	vitamin d	and other soy foods,	
-T-568	steroid hormones	steroid hormones	copper	copper	in dairy, blue-green algae supplements, spirulina,	
-T-568	whole grains	whole grains	vegetables	vegetables	and fruits and	
-T-568	blueberries	blueberries	saffron	saffron	and strawberries,	
-T-568	vitamin d	vitamin d	saffron	saffron	and b12 supplements, apples, blueberries and strawberries,	
-T-568	hormones	hormones	meat	meat	in dairy, blue-green algae supplements, spirulina, copper in	
-T-568	blue-green algae	blue-green algae	meat	meat	supplements, spirulina, copper in	
-T-568	b12	b12	grains	grains	supplements, apples, blueberries and strawberries, saffron, turmeric, whole	
-T-568	b12	b12	saffron	saffron	supplements, apples, blueberries and strawberries,	
-T-568	chicken	chicken	tapeworms	tapeworms	), pork	
-T-568	copper	copper	bmaa	bmaa	in meat, the neurotoxin	
-T-568	steroid hormones	steroid hormones	spirulina	spirulina	in dairy, blue-green algae supplements,	
-T-568	steroid hormones	steroid hormones	blue-green algae	blue-green algae	in dairy,	
-T-568	aluminum	aluminum	supplements	supplements	in cheese, and iron (in	
-T-568	advanced glycation end-products	advanced glycation end-products	pork	pork	(ages or glycotoxins; found mostly in chicken),	
-T-568	fruits	fruits	vegetables	vegetables	and	
-T-568	vitamin d	vitamin d	apples	apples	and b12 supplements,	
-T-568	hormones	hormones	spirulina	spirulina	in dairy, blue-green algae supplements,	
-T-568	whole grains	whole grains	fruits	fruits	and	
-T-568	advanced glycation end-products	advanced glycation end-products	chicken	chicken	(ages or glycotoxins; found mostly in	
-T-568	fruits	fruits	aspirin	aspirin	and vegetables with their component phytonutrients, and	
-T-568	blueberries	blueberries	fruits	fruits	and strawberries, saffron, turmeric, whole grains and	
-T-568	copper	copper	fish	fish	in meat, the neurotoxin bmaa (found mostly in	
 T-568	blueberries	blueberries	strawberries	strawberries	and	
 T-568	cardiovascular health	cardiovascular health	arteries	arteries	may clog cerebral	
-T-568	hormones	hormones	algae	algae	in dairy, blue-green	
 T-568	steroid hormones	steroid hormones	dairy	dairy	in	
-T-568	tofu	tofu	b12	b12	and other soy foods, vitamin d and	
-T-568	fruits	fruits	phytonutrients	phytonutrients	and vegetables with their component	
-T-568	salmon	salmon	iron	iron	), aluminum in cheese, and	
-T-568	chicken	chicken	blue-green algae	blue-green algae	), pork tapeworms, steroid hormones in dairy,	
-T-568	pork	pork	blue-green algae	blue-green algae	tapeworms, steroid hormones in dairy,	
-T-568	chicken	chicken	dairy	dairy	), pork tapeworms, steroid hormones in	
-T-568	copper	copper	meat	meat	in	
-T-568	aluminum	aluminum	iron	iron	in cheese, and	
-T-568	blueberries	blueberries	grains	grains	and strawberries, saffron, turmeric, whole	
-T-568	pork	pork	hormones	hormones	tapeworms, steroid	
-T-568	algae	algae	bmaa	bmaa	supplements, spirulina, copper in meat, the neurotoxin	
-T-568	whole grains	whole grains	phytonutrients	phytonutrients	and fruits and vegetables with their component	
-T-568	cheap	cheap	butter	butter	test involving smelling peanut	
-T-568	b12	b12	supplements	supplements		
 T-568	americans	americans	disease	disease	are stricken with alzheimer’s	
-T-568	soy	soy	apples	apples	foods, vitamin d and b12 supplements,	
-T-568	fish	fish	cheese	cheese	), dark fish (such as salmon), aluminum in	
-T-568	pork	pork	dairy	dairy	tapeworms, steroid hormones in	
-T-568	soy	soy	blueberries	blueberries	foods, vitamin d and b12 supplements, apples,	
-T-568	chicken	chicken	algae	algae	), pork tapeworms, steroid hormones in dairy, blue-green	
-T-568	cheap	cheap	peanut	peanut	test involving smelling	
-T-568	plant foods	plant foods	dementia	dementia	may play a role in preventing	
-T-568	iron	iron	supplements	supplements	(in	
-T-568	bmaa	bmaa	salmon	salmon	(found mostly in fish), dark fish (such as	
-T-568	b12	b12	whole grains	whole grains	supplements, apples, blueberries and strawberries, saffron, turmeric,	
-T-568	steroid hormones	steroid hormones	algae	algae	in dairy, blue-green	
-T-568	vitamin d	vitamin d	supplements	supplements	and b12	
-T-568	steroid hormones	steroid hormones	supplements	supplements	in dairy, blue-green algae	
-T-568	health	health	arteries	arteries	may clog cerebral	
-T-568	hormones	hormones	blue-green algae	blue-green algae	in dairy,	
-T-568	grains	grains	phytonutrients	phytonutrients	and fruits and vegetables with their component	
-T-568	fish	fish	aluminum	aluminum	), dark fish (such as salmon),	
-T-568	advanced glycation end-products	advanced glycation end-products	glycotoxins	glycotoxins	(ages or	
-T-568	blue-green algae	blue-green algae	bmaa	bmaa	supplements, spirulina, copper in meat, the neurotoxin	
-T-568	advanced glycation end-products	advanced glycation end-products	tapeworms	tapeworms	(ages or glycotoxins; found mostly in chicken), pork	
-T-568	cardiovascular health	cardiovascular health	blood	blood	may clog cerebral arteries, cutting off	
-T-568	chicken	chicken	steroid hormones	steroid hormones	), pork tapeworms,	
-T-568	blueberries	blueberries	whole grains	whole grains	and strawberries, saffron, turmeric,	
-T-568	tofu	tofu	soy foods	soy foods	and other	
 T-568	vitamin d	vitamin d	b12	b12	and	
-T-568	blue-green algae	blue-green algae	supplements	supplements		
-T-568	pork	pork	supplements	supplements	tapeworms, steroid hormones in dairy, blue-green algae	
-T-568	vitamin d	vitamin d	strawberries	strawberries	and b12 supplements, apples, blueberries and	
-T-568	pork	pork	algae	algae	tapeworms, steroid hormones in dairy, blue-green	
-T-568	blue-green algae	blue-green algae	copper	copper	supplements, spirulina,	
-T-568	soy	soy	supplements	supplements	foods, vitamin d and b12	
-T-568	blue-green algae	blue-green algae	spirulina	spirulina	supplements,	
-T-568	hormones	hormones	copper	copper	in dairy, blue-green algae supplements, spirulina,	
-T-568	peanut	peanut	butter	butter		
-T-568	soy	soy	vitamin d	vitamin d	foods,	
-T-568	algae	algae	meat	meat	supplements, spirulina, copper in	
-T-568	b12	b12	blueberries	blueberries	supplements, apples,	
-T-568	pork	pork	spirulina	spirulina	tapeworms, steroid hormones in dairy, blue-green algae supplements,	
-T-568	steroid hormones	steroid hormones	meat	meat	in dairy, blue-green algae supplements, spirulina, copper in	
-T-568	chicken	chicken	hormones	hormones	), pork tapeworms, steroid	
-T-568	algae	algae	spirulina	spirulina	supplements,	
-T-568	b12	b12	apples	apples	supplements,	
-T-568	vitamin d	vitamin d	blueberries	blueberries	and b12 supplements, apples,	
-T-568	fish	fish	salmon	salmon	), dark fish (such as	
-T-568	pork	pork	tapeworms	tapeworms		
-T-568	algae	algae	supplements	supplements		
 T-568	aluminum	aluminum	cheese	cheese	in	
-T-568	hormones	hormones	supplements	supplements	in dairy, blue-green algae	
-T-568	algae	algae	copper	copper	supplements, spirulina,	
-T-568	b12	b12	turmeric	turmeric	supplements, apples, blueberries and strawberries, saffron,	
-T-568	vitamin d	vitamin d	turmeric	turmeric	and b12 supplements, apples, blueberries and strawberries, saffron,	
-T-568	health	health	blood	blood	may clog cerebral arteries, cutting off	
-T-568	vegetables	vegetables	aspirin	aspirin	with their component phytonutrients, and	
-T-568	plant-based	plant-based	disease	disease	diets in general may help prevent alzheimer’s	
-T-568	salmon	salmon	cheese	cheese	), aluminum in	
-T-568	tofu	tofu	supplements	supplements	and other soy foods, vitamin d and b12	
-T-568	soy	soy	b12	b12	foods, vitamin d and	
-T-568	tofu	tofu	soy	soy	and other	
-T-568	cheap	cheap	peanut butter	peanut butter	test involving smelling	
-T-568	aspirin	aspirin	plant foods	plant foods	naturally found in	
+T-568	fruits	fruits	vegetables	vegetables	and	
+T-568	plant foods	plant foods	dementia	dementia	may play a role in preventing	
+T-568	whole grains	whole grains	fruits	fruits	and	

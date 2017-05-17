@@ -1,77 +1,20 @@
 
-A-350	stress	stress	symptoms	symptoms	-related	
-A-350	mint	mint	tea	tea		
-A-350	steroid hormones	steroid hormones	red tea	red tea	in the presence of	
-A-350	nettle tea	nettle tea	chamomile	chamomile	to	
-A-350	prostate enlargement	prostate enlargement	estrogen	estrogen	by boosting	
-A-350	herbal	herbal	tea	tea		
-A-350	prostate	prostate	estrogen	estrogen	enlargement by boosting	
-A-350	tea	tea	minerals	minerals	is touted for being packed with	
-A-350	nettle tea	nettle tea	greens	greens	is a reason we don’t want to boil	
-A-350	greens	greens	soup	soup	unless we’re making	
-A-350	tea	tea	chamomile tea	chamomile tea	to	
-A-350	adrenal gland	adrenal gland	produce	produce	cells in a petri dish	
-A-350	chamomile	chamomile	mint tea	mint tea	tea,	
-A-350	herbal	herbal	rooibos	rooibos	tea update:	
-A-350	cooking	cooking	minerals	minerals	water, but how many	
-A-350	greens	greens	cooking	cooking	unless we’re making soup or otherwise consuming the	
-A-350	symptoms	symptoms	prostate	prostate	of	
-A-350	zinc	zinc	pumpkin	pumpkin	found in a single	
-A-350	produce	produce	steroid hormones	steroid hormones	about 4 times less	
-A-350	chamomile	chamomile	sage	sage	tea, mint tea, st. john’s wort, and	
-A-350	hibiscus	hibiscus	beverage	beverage	(see my last article hibiscus tea: the best	
-A-350	herbal tea	herbal tea	tea	tea	is hibiscus (see my last article hibiscus	
-A-350	herbal tea	herbal tea	hibiscus tea	hibiscus tea	is hibiscus (see my last article	
-A-350	chamomile	chamomile	mint	mint	tea,	
-A-350	nettle tea	nettle tea	mint tea	mint tea	to chamomile tea,	
-A-350	hormones	hormones	tea	tea	in the presence of red	
-A-350	tea	tea	iron	iron	has the same amount of	
-A-350	herbal	herbal	hibiscus	hibiscus	tea is	
-A-350	leafy vegetables	leafy vegetables	minerals	minerals	long enough, you do lose	
-A-350	magnesium	magnesium	calcium	calcium	and a fig’s worth of	
-A-350	steroid hormones	steroid hormones	tea	tea	in the presence of red	
-A-350	hibiscus	hibiscus	tea	tea	(see my last article hibiscus	
-A-350	soup	soup	cooking	cooking	or otherwise consuming the	
-A-350	tea	tea	mint	mint	to chamomile tea,	
-A-350	nettle tea	nettle tea	tea	tea	to chamomile	
-A-350	iron	iron	zinc	zinc	as dried apricot, the	
-A-350	hormones	hormones	red tea	red tea	in the presence of	
-A-350	nettle tea	nettle tea	mint	mint	to chamomile tea,	
-A-350	tea	tea	hibiscus tea	hibiscus tea	is hibiscus (see my last article	
-A-350	tea	tea	rooibos	rooibos	update:	
-A-350	vegetables	vegetables	minerals	minerals	long enough, you do lose	
-A-350	nettle tea	nettle tea	chamomile tea	chamomile tea	to	
-A-350	pumpkin	pumpkin	copper	copper	seed, one-twentieth of a mushroom’s worth of	
-A-350	minerals	minerals	water	water	into the cooking	
-A-350	hibiscus	hibiscus	hibiscus tea	hibiscus tea	(see my last article	
-A-350	tea	tea	greens	greens	is a reason we don’t want to boil	
-A-350	soup	soup	water	water	or otherwise consuming the cooking	
-A-350	tea	tea	chamomile	chamomile	to	
-A-350	nettle tea	nettle tea	minerals	minerals	is touted for being packed with	
-A-350	vegetables	vegetables	cooking	cooking	long enough, you do lose minerals into the	
-A-350	greens	greens	nutrition	nutrition	are so packed with	
-A-350	nutrition	nutrition	water	water	leaches into the	
-A-350	water	water	tea	tea	in nettle	
-A-350	symptoms	symptoms	estrogen	estrogen	of prostate enlargement by boosting	
-A-350	hibiscus tea	hibiscus tea	beverage	beverage	: the best	
-A-350	mint	mint	sage	sage	tea, st. john’s wort, and	
-A-350	cooking	cooking	water	water		
 A-350	water	water	nettle tea	nettle tea	in	
 A-350	tea	tea	minerals	minerals	may not be an important source of	
-A-350	leafy vegetables	leafy vegetables	cooking	cooking	long enough, you do lose minerals into the	
-A-350	tea	tea	mint tea	mint tea	to chamomile tea,	
+A-350	tea	tea	rooibos	rooibos	update:	
 A-350	herbal tea	herbal tea	rooibos	rooibos	update:	
+A-350	tea	tea	minerals	minerals	is touted for being packed with	
 A-350	nettle tea	nettle tea	iron	iron	has the same amount of	
-A-350	herbal	herbal	minerals	minerals	tea may not be an important source of	
-A-350	herbal	herbal	hibiscus tea	hibiscus tea	tea is hibiscus (see my last article	
+A-350	nettle tea	nettle tea	greens	greens	is a reason we don’t want to boil	
+A-350	tea	tea	iron	iron	has the same amount of	
+A-350	tea	tea	greens	greens	is a reason we don’t want to boil	
 A-350	tea	tea	hibiscus	hibiscus	is	
-A-350	nutrition	nutrition	tea	tea	leaches into the water in nettle	
-A-350	minerals	minerals	cooking	cooking	into the	
+A-350	nettle tea	nettle tea	minerals	minerals	is touted for being packed with	
 A-350	herbal tea	herbal tea	hibiscus	hibiscus	is	
 A-350	phytonutrients	phytonutrients	stress	stress	thought responsible for the increased calm and decreased	
-A-350	produce	produce	hormones	hormones	about 4 times less steroid	
 A-350	symptoms	symptoms	prostate enlargement	prostate enlargement	of	
-A-350	nutrition	nutrition	nettle tea	nettle tea	leaches into the water in	
-A-350	chamomile	chamomile	tea	tea		
-A-350	peanuts	peanuts	magnesium	magnesium	’ worth of	
+A-350	greens	greens	nutrition	nutrition	are so packed with	
+A-350	symptoms	symptoms	prostate	prostate	of	
+A-350	nutrition	nutrition	water	water	leaches into the	
+A-350	zinc	zinc	pumpkin	pumpkin	found in a single	
 A-350	herbal tea	herbal tea	minerals	minerals	may not be an important source of	

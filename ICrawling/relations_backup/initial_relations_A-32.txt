@@ -1,150 +1,31 @@
 
-A-32	lipotoxicity	lipotoxicity	blood sugar	blood sugar	: how saturated fat raises	
-A-32	obesity	obesity	diabetes	diabetes	to	
-A-32	fats	fats	dairy	dairy	like palmitate, found mostly in meat,	
 A-32	fat	fat	free radicals	free radicals	induces	
 A-32	vegans	vegans	omnivores	omnivores	compared to	
-A-32	insulin resistance	insulin resistance	muscles	muscles	in the	
-A-32	fat	fat	ldl cholesterol	ldl cholesterol	intake remains the primary modifiable determinant of	
-A-32	fat	fat	ldl	ldl	intake remains the primary modifiable determinant of	
-A-32	fats	fats	blood	blood	appear to impair	
-A-32	vegans	vegans	omnivores	omnivores	versus	
-A-32	insulin	insulin	diet	diet	sensitivity was impaired on the	
-A-32	saturated fat	saturated fat	diacylglycerol	diacylglycerol	increases the amount of	
-A-32	saturated fat	saturated fat	muscles	muscles	buildup in their	
-A-32	insulin	insulin	fat	fat	sensitivity, or inside-the-muscle-cell	
-A-32	insulin	insulin	fats	fats	resistance may be because saturated	
-A-32	muscles	muscles	insulin resistance	insulin resistance	to high levels of fat leads to severe	
-A-32	insulin	insulin	muscles	muscles	resistance in the	
-A-32	fat	fat	insulin	insulin	buildup in their muscles with	
-A-32	fats	fats	blood sugar	blood sugar	appear to impair	
-A-32	insulin resistance	insulin resistance	blood	blood	may be because saturated fats appear to impair	
-A-32	insulin	insulin	prediabetes	prediabetes	resistance, the underlying cause of	
-A-32	insulin resistance	insulin resistance	vegans	vegans	and muscle fat of	
-A-32	saturated fat	saturated fat	inflammatory response	inflammatory response	activate an	
-A-32	insulin	insulin	blood	blood	sensitivity, better	
-A-32	fat	fat	muscles	muscles	clogging their	
-A-32	fat	fat	inflammatory response	inflammatory response	cells filled with saturated fat activate an	
-A-32	national academies of science	national academies of science	trans fat	trans fat	institute of medicine:	
-A-32	fat	fat	heart disease	heart disease	weren’t associated with	
-A-32	insulin	insulin	vegan	vegan	sensitivity, or inside-the-muscle-cell fat of those eating	
-A-32	insulin	insulin	sugar	sugar	sensitivity, better blood	
-A-32	risk	risk	heart disease	heart disease	factor for our leading killer–	
-A-32	lead	lead	enzymes	enzymes	to a suppression of key mitochondrial	
-A-32	lead	lead	carnitine	carnitine	to a suppression of key mitochondrial enzymes, like	
-A-32	institute of medicine	institute of medicine	saturated fat	saturated fat	: trans fat,	
-A-32	inflammation	inflammation	insulin	insulin	from saturated fat has been demonstrated to raise	
-A-32	saturated fat	saturated fat	fat	fat	studies: buttering up the public and the saturated	
-A-32	fat	fat	insulin resistance	insulin resistance	buildup in their muscles with	
-A-32	insulin	insulin	omnivores	omnivores	resistance and muscle fat of vegans versus	
-A-32	fats	fats	meat	meat	like palmitate, found mostly in	
-A-32	fats	fats	trans fats	trans fats	are derived from animal sources, while	
-A-32	medicine	medicine	fat	fat	: trans	
-A-32	inflammation	inflammation	fat	fat	from saturated	
-A-32	omnivores	omnivores	vegans	vegans	who were as skinny as	
-A-32	institute of medicine	institute of medicine	cholesterol	cholesterol	: trans fat, saturated fat, and	
-A-32	trans fats	trans fats	meat	meat	originate in	
-A-32	muscles	muscles	insulin	insulin	to high levels of fat leads to severe	
-A-32	saturated fat	saturated fat	blood	blood	raises	
-A-32	medicine	medicine	cholesterol	cholesterol	: trans fat, saturated fat, and	
-A-32	muscles	muscles	insulin resistance	insulin resistance	with	
-A-32	fat	fat	vegetarian	vegetarian	of those eating vegan or	
-A-32	national academies of science	national academies of science	fat	fat	institute of medicine: trans	
-A-32	fat	fat	omnivores	omnivores	of vegans versus	
-A-32	fat	fat	insulin	insulin	clogging their muscles, and less	
-A-32	fat	fat	disease	disease	weren’t associated with heart	
-A-32	inflammation	inflammation	saturated fat	saturated fat	from	
-A-32	saturated fat	saturated fat	disease	disease	weren’t associated with heart	
-A-32	insulin resistance	insulin resistance	fats	fats	may be because saturated	
-A-32	fats	fats	insulin	insulin	to plant fats can improve	
-A-32	plant-based diets	plant-based diets	muscles	muscles	have less fat clogging their	
-A-32	muscles	muscles	fat	fat	to high levels of	
-A-32	insulin resistance	insulin resistance	omnivores	omnivores	and muscle fat of vegans versus	
-A-32	saturated fat	saturated fat	insulin	insulin	has been demonstrated to raise	
-A-32	national academies of science	national academies of science	institute of medicine	institute of medicine		
-A-32	fat	fat	saturated fat	saturated fat	cells filled with	
-A-32	insulin	insulin	blood sugar	blood sugar	sensitivity, better	
-A-32	meat	meat	milk	milk	and	
-A-32	ldl	ldl	risk	risk	cholesterol, a leading	
-A-32	national academies of science	national academies of science	medicine	medicine	institute of	
-A-32	fat	fat	muscles	muscles	increases the amount of diacylglycerol in the	
-A-32	fat	fat	insulin	insulin	has been demonstrated to raise	
-A-32	fat	fat	fats	fats	leads to severe insulin resistance, with saturated	
-A-32	insulin	insulin	vegans	vegans	resistance and muscle fat of	
+A-32	fat	fat	insulin resistance	insulin resistance	has been demonstrated to raise	
 A-32	saturated fat	saturated fat	free radicals	free radicals	induces	
-A-32	risk	risk	disease	disease	factor for our leading killer–heart	
-A-32	animal fats	animal fats	insulin	insulin	to plant fats can improve	
-A-32	plants	plants	mitochondria	mitochondria	within our muscle cells (	
-A-32	insulin	insulin	fats	fats	resistance, with saturated	
+A-32	fats	fats	blood	blood	appear to impair	
+A-32	trans fats	trans fats	meat	meat	originate in	
+A-32	saturated fat	saturated fat	blood	blood	raises	
 A-32	vegan	vegan	vegetarian	vegetarian	or	
 A-32	plant-based diets	plant-based diets	fat	fat	have less	
-A-32	saturated fat	saturated fat	muscles	muscles	increases the amount of diacylglycerol in the	
-A-32	trans fats	trans fats	autoimmune diseases	autoimmune diseases	contribute to the progression of other diseases, like	
-A-32	plant-based diets	plant-based diets	insulin resistance	insulin resistance	have less fat clogging their muscles, and less	
 A-32	fat	fat	insulin	insulin	and	
-A-32	saturated fat	saturated fat	insulin	insulin	buildup in their muscles with	
-A-32	omnivores	omnivores	insulin	insulin	at the same body weight, better	
-A-32	fat	fat	insulin	insulin	leads to severe	
-A-32	plant-based	plant-based	muscles	muscles	diets have less fat clogging their	
-A-32	sugar	sugar	insulin	insulin	levels, better	
-A-32	fat	fat	saturated fat	saturated fat	studies: buttering up the public and the	
-A-32	fat	fat	muscles	muscles	buildup in their	
-A-32	fats	fats	autoimmune diseases	autoimmune diseases	contribute to the progression of other diseases, like	
-A-32	fat	fat	vegans	vegans	of	
-A-32	national academies of science	national academies of science	saturated fat	saturated fat	institute of medicine: trans fat,	
-A-32	saturated fat	saturated fat	ldl cholesterol	ldl cholesterol	intake remains the primary modifiable determinant of	
-A-32	fats	fats	sugar	sugar	appear to impair blood	
-A-32	saturated fat	saturated fat	heart disease	heart disease	weren’t associated with	
-A-32	plant-based	plant-based	fat	fat	diets have less	
-A-32	fat	fat	sugar	sugar	raises blood	
-A-32	ceramide	ceramide	lipotoxicity	lipotoxicity	that causes	
-A-32	fat	fat	insulin	insulin	buildup in their muscle cells and less	
-A-32	inflammation	inflammation	insulin resistance	insulin resistance	from saturated fat has been demonstrated to raise	
-A-32	institute of medicine	institute of medicine	fat	fat	: trans	
-A-32	blood	blood	insulin	insulin	sugar levels, better	
-A-32	saturated fat	saturated fat	insulin resistance	insulin resistance	buildup in their muscles with	
-A-32	insulin	insulin	fat	fat	resistance and muscle	
-A-32	blood sugar	blood sugar	insulin	insulin	levels, better	
-A-32	lipotoxicity	lipotoxicity	fat	fat	: how saturated	
-A-32	plant-based diets	plant-based diets	insulin	insulin	have less fat clogging their muscles, and less	
-A-32	saturated fat	saturated fat	cholesterol	cholesterol	intake remains the primary modifiable determinant of ldl	
-A-32	lipotoxicity	lipotoxicity	sugar	sugar	: how saturated fat raises blood	
-A-32	animal fats	animal fats	fats	fats	to plant	
-A-32	fat	fat	blood	blood	raises	
-A-32	fat	fat	vegans	vegans	trapped in the muscle cells of	
-A-32	fat	fat	diacylglycerol	diacylglycerol	increases the amount of	
-A-32	lipotoxicity	lipotoxicity	saturated fat	saturated fat	: how	
-A-32	fat	fat	insulin resistance	insulin resistance	buildup in their muscle cells and less	
-A-32	muscles	muscles	diabetes	diabetes	with insulin resistance, the cause of type 2	
-A-32	fat	fat	insulin resistance	insulin resistance	has been demonstrated to raise	
-A-32	insulin resistance	insulin resistance	fat	fat	and muscle	
-A-32	national academies of science	national academies of science	cholesterol	cholesterol	institute of medicine: trans fat, saturated fat, and	
-A-32	fats	fats	eggs	eggs	like palmitate, found mostly in meat, dairy, and	
-A-32	fat	fat	cholesterol	cholesterol	intake remains the primary modifiable determinant of ldl	
 A-32	saturated fat	saturated fat	blood sugar	blood sugar	raises	
+A-32	muscles	muscles	insulin resistance	insulin resistance	is a well-known concept in the explanation of triggers for	
 A-32	fat	fat	blood sugar	blood sugar	raises	
-A-32	insulin	insulin	fat	fat	resistance is due to so-called ectopic	
-A-32	lead	lead	insulin	insulin	to inhibition of	
-A-32	fat	fat	muscles	muscles	out of the	
-A-32	insulin	insulin	diabetes	diabetes	resistance, the cause of type 2	
-A-32	spillover effect	spillover effect	diabetes	diabetes	links obesity to	
-A-32	saturated fat	saturated fat	sugar	sugar	raises blood	
-A-32	medicine	medicine	saturated fat	saturated fat	: trans fat,	
-A-32	fat	fat	muscles	muscles	toxicity in our	
+A-32	fats	fats	blood sugar	blood sugar	appear to impair	
+A-32	fat	fat	vegans	vegans	of	
+A-32	saturated fat	saturated fat	inflammatory response	inflammatory response	activate an	
+A-32	fat	fat	muscles	muscles	clogging their	
+A-32	saturated fat	saturated fat	heart disease	heart disease	weren’t associated with	
+A-32	fat	fat	heart disease	heart disease	weren’t associated with	
+A-32	muscles	muscles	insulin	insulin	is a well-known concept in the explanation of triggers for	
+A-32	insulin resistance	insulin resistance	fats	fats	may be because saturated	
 A-32	insulin resistance	insulin resistance	fat	fat	is due to so-called ectopic	
-A-32	ldl	ldl	cholesterol	cholesterol		
-A-32	prediabetes	prediabetes	diabetes	diabetes	and type 2	
-A-32	fat	fat	insulin resistance	insulin resistance	leads to severe	
-A-32	fat	fat	insulin resistance	insulin resistance	clogging their muscles, and less	
-A-32	muscles	muscles	insulin	insulin	with	
-A-32	lipotoxicity	lipotoxicity	blood	blood	: how saturated fat raises	
-A-32	fat	fat	vegan	vegan	of those eating	
+A-32	saturated fat	saturated fat	insulin	insulin	has been demonstrated to raise	
 A-32	fat	fat	insulin resistance	insulin resistance	and	
-A-32	insulin resistance	insulin resistance	blood sugar	blood sugar	may be because saturated fats appear to impair	
+A-32	meat	meat	milk	milk	and	
+A-32	fat	fat	blood	blood	raises	
 A-32	saturated fat	saturated fat	insulin resistance	insulin resistance	has been demonstrated to raise	
-A-32	diacylglycerol	diacylglycerol	muscles	muscles	in the	
-A-32	spillover effect	spillover effect	obesity	obesity	links	
-A-32	saturated fat	saturated fat	ldl	ldl	intake remains the primary modifiable determinant of	
+A-32	fat	fat	vegans	vegans	trapped in the muscle cells of	
 A-32	fats	fats	muscles	muscles	affect the	
-A-32	blood	blood	sugar	sugar		
-A-32	trans fats	trans fats	milk	milk	originate in meat and	
+A-32	fat	fat	insulin	insulin	has been demonstrated to raise	

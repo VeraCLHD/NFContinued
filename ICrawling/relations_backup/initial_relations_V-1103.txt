@@ -1,6 +1,2 @@
 
-V-1103	supplements	supplements	vitamin e	vitamin e	increase all-cause mortality—meaning those taking	
-V-1103	vitamin e	vitamin e	supplements	supplements		
-V-1103	mortality	mortality	vitamin e	vitamin e	—meaning those taking	
 V-1103	supplements	supplements	mortality	mortality	increase all-cause	
-V-1103	vitamin e	vitamin e	mortality	mortality	supplements increase all-cause	

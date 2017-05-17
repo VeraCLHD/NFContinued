@@ -1,29 +1,7 @@
 
 T-263	fruits	fruits	high fructose corn syrup	high fructose corn syrup	is not harmful like	
 T-263	blueberries	blueberries	cancer	cancer	may lower	
-T-263	blueberries	blueberries	high fructose corn syrup	high fructose corn syrup	and other fruits is not harmful like	
-T-263	fruits	fruits	corn syrup	corn syrup	is not harmful like high fructose	
-T-263	fruits	fruits	fructose	fructose	is not harmful like high	
-T-263	cancer	cancer	risk	risk		
-T-263	aging	aging	disease	disease	and alzheimer’s	
-T-263	fructose	fructose	fruits	fruits	in blueberries and other	
-T-263	corn	corn	blueberries	blueberries	syrup or table sugar.use	
-T-263	corn syrup	corn syrup	breakfast	breakfast	or table sugar.use blueberries in this delicious antioxidant-rich	
-T-263	fructose	fructose	blueberries	blueberries	in	
-T-263	blueberries	blueberries	fruits	fruits	and other	
-T-263	blueberries	blueberries	antioxidant	antioxidant	have a very high	
-T-263	fruits	fruits	corn	corn	is not harmful like high fructose	
-T-263	high fructose corn syrup	high fructose corn syrup	blueberries	blueberries	or table sugar.use	
-T-263	high fructose corn syrup	high fructose corn syrup	breakfast	breakfast	or table sugar.use blueberries in this delicious antioxidant-rich	
-T-263	phytonutrient	phytonutrient	blueberries	blueberries	content than dried	
-T-263	blueberries	blueberries	fructose	fructose	and other fruits is not harmful like high	
-T-263	disease	disease	macular degeneration	macular degeneration	and protect against age-related	
-T-263	cancer	cancer	cancer	cancer	risk, notably by increasing our	
-T-263	corn syrup	corn syrup	blueberries	blueberries	or table sugar.use	
-T-263	aging	aging	macular degeneration	macular degeneration	and alzheimer’s disease and protect against age-related	
-T-263	fructose	fructose	blueberries	blueberries	corn syrup or table sugar.use	
-T-263	phytonutrients	phytonutrients	aging	aging	have been shown to improve memory, delay cognitive	
-T-263	phytonutrient	phytonutrient	juice	juice	content than dried blueberries and	
 T-263	phytonutrients	phytonutrients	memory	memory	have been shown to improve	
-T-263	blueberries	blueberries	fruits	fruits	are among the healthiest	
-T-263	blueberries	blueberries	risk	risk	may lower cancer	
+T-263	fructose	fructose	blueberries	blueberries	in	
+T-263	fruits	fruits	fructose	fructose	is not harmful like high	
+T-263	blueberries	blueberries	antioxidant	antioxidant	have a very high	

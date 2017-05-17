@@ -1,30 +1,6 @@
 
-V-371	soy	soy	monsanto	monsanto	standing.	
-V-371	soy	soy	roundup	roundup	standing.monsanto maintains that	
-V-371	organic	organic	soy	soy		
-V-371	glyphosate	glyphosate	gmo	gmo	residues on	
-V-371	roundup	roundup	soybeans	soybeans	ready	
-V-371	weeds	weeds	monsanto	monsanto	while leaving the soy standing.	
-V-371	farmers	farmers	glyphosate	glyphosate	to spray fields with the roundup herbicide	
-V-371	monsanto	monsanto	roundup	roundup	—allowing farmers to spray fields with the	
-V-371	weeds	weeds	soy	soy	while leaving the	
-V-371	monsanto	monsanto	soybeans	soybeans	’s roundup ready	
-V-371	gmo	gmo	beans	beans		
-V-371	gmo	gmo	glyphosate	glyphosate	beans along with a	
-V-371	weeds	weeds	roundup	roundup	while leaving the soy standing.monsanto maintains that	
-V-371	beans	beans	glyphosate	glyphosate	along with a	
-V-371	soy	soy	soybeans	soybeans	standing.monsanto maintains that roundup ready	
-V-371	glyphosate	glyphosate	gmo	gmo	was found in the	
-V-371	soybeans	soybeans	glyphosate	glyphosate	were analyzed.here’s how much	
-V-371	glyphosate	glyphosate	beans	beans	was found in the gmo	
-V-371	gmo	gmo	soybeans	soybeans		
-V-371	gmo	gmo	monsanto	monsanto	foods are therefore as safe as non-gmo, but	
-V-371	soybeans	soybeans	soy	soy	are compositionally equivalent to that of conventional	
-V-371	farmers	farmers	roundup	roundup	to spray fields with the	
-V-371	glyphosate	glyphosate	soy	soy	residues on gmo	
-V-371	monsanto	monsanto	roundup	roundup	’s	
 V-371	glyphosate	glyphosate	weeds	weeds	is sprayed on the soil to kill	
 V-371	monsanto	monsanto	roundup	roundup	maintains that	
-V-371	soy	soy	glyphosate	glyphosate	where	
-V-371	plants	plants	roundup	roundup	so you can spray them with	
-V-371	gmo	gmo	soy	soy		
+V-371	glyphosate	glyphosate	gmo	gmo	was found in the	
+V-371	soybeans	soybeans	glyphosate	glyphosate	were analyzed.here’s how much	
+V-371	soybeans	soybeans	soy	soy	are compositionally equivalent to that of conventional	

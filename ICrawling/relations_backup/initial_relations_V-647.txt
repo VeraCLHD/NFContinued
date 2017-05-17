@@ -1,61 +1,16 @@
 
-V-647	risk	risk	women	women	.a “[m]odest increased risk was [found in older	
-V-647	risk	risk	breast cancer	breast cancer	of postmenopausal	
 V-647	risk	risk	breast cancer	breast cancer	of	
-V-647	cabbage	cabbage	vegetables	vegetables	family	
-V-647	vegetables	vegetables	chemicals	chemicals	do, right?boost our liver’s ability to clear	
-V-647	risk	risk	cancer	cancer	of breast	
-V-647	cancer	cancer	women	women	in long island	
-V-647	meats	meats	carcinogen	carcinogen	cooked by methods that promote	
-V-647	cooked meat	cooked meat	cancer	cancer	appears to predispose individuals to…	
-V-647	meat	meat	long island	long island	and the risk of breast cancer in	
-V-647	vegetables	vegetables	liver	liver	do, right?boost our	
-V-647	meat	meat	risk	risk	and the	
-V-647	cabbage	cabbage	enzymes	enzymes	family vegetables boost the activity of the detoxifying	
-V-647	period	period	meat	meat	two, they ate the same amount of	
-V-647	cooked meat	cooked meat	cancer	cancer	and the risk of breast	
 V-647	cancer	cancer	long island	long island	in	
-V-647	detoxifying enzymes	detoxifying enzymes	broccoli	broccoli	in our livers.for example, if you feed people	
-V-647	postmenopausal	postmenopausal	cancer	cancer	breast	
-V-647	broccoli	broccoli	meat	meat	with your	
-V-647	risk	risk	long island	long island	of breast cancer in	
-V-647	meats	meats	cancer	cancer	over” their lifetime—about 47% increased odds of breast	
-V-647	long island	long island	women	women		
-V-647	meat	meat	breast cancer	breast cancer	and the risk of	
-V-647	liver	liver	chemicals	chemicals	’s ability to clear	
-V-647	broccoli	broccoli	sprouts	sprouts	and brussels	
-V-647	coffee	coffee	liver	liver	to get the same buzz, because your	
-V-647	fruits	fruits	vegetables	vegetables	and	
-V-647	cooked meat	cooked meat	long island	long island	and the risk of breast cancer in	
-V-647	cruciferous vegetables	cruciferous vegetables	chemicals	chemicals	do, right?boost our liver’s ability to clear	
-V-647	carcinogen	carcinogen	cancer	cancer	formation may increase [the] risk of postmenopausal breast	
-V-647	vegetables	vegetables	enzymes	enzymes	 boost the activity of the detoxifying	
-V-647	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	 boost the activity of the	
-V-647	meat	meat	mutagens	mutagens		
-V-647	cruciferous vegetables	cruciferous vegetables	cancer	cancer	is thought to protect against	
-V-647	risk	risk	women	women	of breast cancer in long island	
-V-647	broccoli	broccoli	caffeine	caffeine	and brussels sprouts, they clear	
-V-647	meats	meats	breast cancer	breast cancer	over” their lifetime—about 47% increased odds of	
-V-647	cooked meat	cooked meat	carcinogens	carcinogens	meals containing known amounts of these	
-V-647	cruciferous vegetables	cruciferous vegetables	liver	liver	do, right?boost our	
-V-647	broccoli	broccoli	carcinogen	carcinogen	with your meat, you can significantly decrease	
-V-647	postmenopausal	postmenopausal	breast cancer	breast cancer		
-V-647	enzymes	enzymes	broccoli	broccoli	in our livers.for example, if you feed people	
-V-647	meat	meat	carcinogens	carcinogens		
-V-647	carcinogen	carcinogen	risk	risk	formation may increase [the]	
-V-647	cooked meat	cooked meat	breast cancer	breast cancer	and the risk of	
-V-647	meat	meat	cancer	cancer	appears to predispose individuals to…	
-V-647	period	period	meat	meat	three—again, same amount of	
-V-647	carcinogen	carcinogen	postmenopausal	postmenopausal	formation may increase [the] risk of	
 V-647	women	women	meats	meats	added to “the accumulating evidence that consumption of	
-V-647	risk	risk	cancer	cancer	of postmenopausal breast	
-V-647	cabbage	cabbage	detoxifying enzymes	detoxifying enzymes	family vegetables boost the activity of the	
-V-647	carcinogen	carcinogen	breast cancer	breast cancer	formation may increase [the] risk of postmenopausal	
-V-647	breast cancer	breast cancer	women	women	in long island	
-V-647	cooked meat	cooked meat	carcinogens	carcinogens		
+V-647	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	 boost the activity of the	
+V-647	mutagens	mutagens	meat	meat	circulating within their bodies—even though they ate the same amount of	
+V-647	cruciferous vegetables	cruciferous vegetables	cancer	cancer	is thought to protect against	
+V-647	meats	meats	carcinogen	carcinogen	cooked by methods that promote	
+V-647	vegetables	vegetables	liver	liver	do, right?boost our	
+V-647	cruciferous vegetables	cruciferous vegetables	liver	liver	do, right?boost our	
+V-647	fruits	fruits	vegetables	vegetables	and	
+V-647	period	period	meat	meat	two, they ate the same amount of	
 V-647	women	women	meats	meats	eating] “the most grilled or barbecued and smoked	
 V-647	vegetables	vegetables	cancer	cancer	is thought to protect against	
-V-647	meat	meat	cancer	cancer	and the risk of breast	
-V-647	cooked meat	cooked meat	risk	risk	and the	
 V-647	breast cancer	breast cancer	long island	long island	in	
 V-647	broccoli	broccoli	brussels sprouts	brussels sprouts	and	

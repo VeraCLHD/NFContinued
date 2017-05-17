@@ -1,45 +1,8 @@
 
 V-224	nuts	nuts	seeds	seeds	and	
-V-224	diet	diet	cheese	cheese	than beef, then	
-V-224	fat	fat	dairy	dairy	: coming from	
-V-224	americans	americans	sodium	sodium	get most of their	
-V-224	diet	diet	desserts	desserts	are basically	
-V-224	doughnuts	doughnuts	french fries	french fries	number one, then animal products, margarine,	
-V-224	sodium	sodium	chicken	chicken	from bread,	
-V-224	disease	disease	dietary guidelines	dietary guidelines	-promoting components, and, as the	
-V-224	fat	fat	chicken	chicken	: coming from dairy, dairy, doughnuts, dairy,	
-V-224	calories	calories	chicken	chicken	in the american diet are basically desserts, bread,	
 V-224	chicken	chicken	cholesterol	cholesterol	contributes more	
-V-224	fat	fat	doughnuts	doughnuts	: coming from dairy, dairy,	
-V-224	doughnuts	doughnuts	margarine	margarine	number one, then animal products,	
-V-224	plant-based	plant-based	nutrient-dense	nutrient-dense	tend to end up eating a more	
-V-224	phytonutrients	phytonutrients	osteoporosis	osteoporosis	that may protect against cancer, heart disease,	
-V-224	phytonutrients	phytonutrients	disease	disease	that may protect against cancer, heart	
-V-224	phytonutrients	phytonutrients	heart disease	heart disease	that may protect against cancer,	
-V-224	cholesterol	cholesterol	diet	diet	to the american	
-V-224	diet	diet	chicken	chicken	are basically desserts, bread,	
-V-224	nuts	nuts	poultry	poultry	and seeds,	
-V-224	calories	calories	diet	diet	in the american	
-V-224	diet	diet	soda	soda	are basically desserts, bread, chicken,	
-V-224	cholesterol	cholesterol	cheese	cheese	to the american diet than beef, then	
-V-224	phytonutrients	phytonutrients	cancer	cancer	that may protect against	
-V-224	chicken	chicken	beef	beef	contributes more cholesterol to the american diet than	
-V-224	americans	americans	chicken	chicken	get most of their sodium from bread,	
-V-224	doughnuts	doughnuts	animal products	animal products	number one, then	
-V-224	vitamins	vitamins	minerals	minerals	and	
-V-224	nuts	nuts	soda	soda	and seeds, poultry, other meat, or	
-V-224	diet	diet	bread	bread	are basically desserts,	
-V-224	saturated fat	saturated fat	doughnuts	doughnuts	: coming from dairy, dairy,	
-V-224	americans	americans	bread	bread	get most of their sodium from	
+V-224	americans	americans	sodium	sodium	get most of their	
 V-224	phytonutrients	phytonutrients	plant foods	plant foods	found in whole	
-V-224	calories	calories	desserts	desserts	in the american diet are basically	
-V-224	calories	calories	bread	bread	in the american diet are basically desserts,	
-V-224	vitamins	vitamins	phytonutrients	phytonutrients	and minerals, but also hundreds of naturally-occurring	
-V-224	sodium	sodium	bread	bread	from	
-V-224	cholesterol	cholesterol	beef	beef	to the american diet than	
-V-224	diet	diet	beef	beef	than	
-V-224	saturated fat	saturated fat	chicken	chicken	: coming from dairy, dairy, doughnuts, dairy,	
-V-224	chicken	chicken	diet	diet	contributes more cholesterol to the american	
-V-224	calories	calories	oils	oils	per serving, where	
-V-224	saturated fat	saturated fat	dairy	dairy	: coming from	
-V-224	nuts	nuts	meat	meat	and seeds, poultry, other	
+V-224	plant-based	plant-based	nutrient-dense	nutrient-dense	tend to end up eating a more	
+V-224	diet	diet	desserts	desserts	are basically	
+V-224	vitamins	vitamins	minerals	minerals	and	

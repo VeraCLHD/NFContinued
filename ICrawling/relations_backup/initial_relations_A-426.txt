@@ -1,42 +1,13 @@
 
-A-426	women	women	death	death	have no clinically recognized heart disease before sudden	
-A-426	death	death	heart disease	heart disease	and ischemic	
-A-426	nuts	nuts	death	death	prevent sudden cardiac	
-A-426	disease	disease	death	death	before sudden	
-A-426	england	england	sudden death	sudden death	journal of medicine entitled “	
-A-426	medicine	medicine	sudden death	sudden death	 entitled “	
-A-426	sudden death	sudden death	ischemic heart disease	ischemic heart disease	and	
-A-426	symptoms	symptoms	death	death	arise, sudden cardiac	
-A-426	cardiac death	cardiac death	magnesium	magnesium	victims had significantly lower	
-A-426	death	death	ischemic heart disease	ischemic heart disease	and	
-A-426	death	death	magnesium	magnesium	victims had significantly lower	
-A-426	heart disease	heart disease	sudden death	sudden death	before	
-A-426	women	women	sudden death	sudden death	have no clinically recognized heart disease before	
-A-426	england	england	disease	disease	journal of medicine entitled “sudden death and ischemic heart	
-A-426	disease	disease	water	water	: correlation with hardness of the local	
-A-426	women	women	heart disease	heart disease	have no clinically recognized	
-A-426	england	england	ischemic heart disease	ischemic heart disease	journal of medicine entitled “sudden death and	
-A-426	women	women	heart disease	heart disease	who succumb to	
-A-426	ischemic heart disease	ischemic heart disease	water	water	: correlation with hardness of the local	
 A-426	nuts	nuts	sudden cardiac death	sudden cardiac death	prevent	
-A-426	sudden death	sudden death	heart disease	heart disease	and ischemic	
-A-426	death	death	disease	disease	and ischemic heart	
-A-426	prevention	prevention	symptoms	symptoms	—starting to eat healthier right now, tonight—before	
-A-426	medicine	medicine	ischemic heart disease	ischemic heart disease	 entitled “sudden death and	
-A-426	women	women	disease	disease	have no clinically recognized heart	
-A-426	medicine	medicine	disease	disease	 entitled “sudden death and ischemic heart	
-A-426	england	england	heart disease	heart disease	journal of medicine entitled “sudden death and ischemic	
-A-426	sudden cardiac death	sudden cardiac death	magnesium	magnesium	victims had significantly lower	
-A-426	heart disease	heart disease	death	death	before sudden	
-A-426	medicine	medicine	heart disease	heart disease	 entitled “sudden death and ischemic	
-A-426	england	england	medicine	medicine	journal of	
-A-426	england	england	death	death	journal of medicine entitled “sudden	
-A-426	heart disease	heart disease	water	water	: correlation with hardness of the local	
+A-426	death	death	ischemic heart disease	ischemic heart disease	and	
+A-426	nuts	nuts	death	death	prevent sudden cardiac	
+A-426	medicine	medicine	sudden death	sudden death	 entitled “	
+A-426	women	women	heart disease	heart disease	have no clinically recognized	
+A-426	sudden death	sudden death	ischemic heart disease	ischemic heart disease	and	
 A-426	nuts	nuts	cardiac death	cardiac death	prevent sudden	
-A-426	women	women	disease	disease	who succumb to heart	
-A-426	disease	disease	sudden death	sudden death	before	
+A-426	symptoms	symptoms	death	death	arise, sudden cardiac	
 A-426	medicine	medicine	death	death	 entitled “sudden	
-A-426	sudden death	sudden death	disease	disease	and ischemic heart	
 A-426	minerals	minerals	water	water	found in hard	
 A-426	symptoms	symptoms	cardiac death	cardiac death	arise, sudden	
 A-426	symptoms	symptoms	sudden cardiac death	sudden cardiac death	arise,	

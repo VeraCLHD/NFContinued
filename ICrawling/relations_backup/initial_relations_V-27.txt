@@ -1,15 +1,3 @@
 
 V-27	supplements	supplements	curcumin	curcumin	of	
 V-27	curcumin	curcumin	eye	eye	works for mild	
-V-27	turmeric	turmeric	curcumin	curcumin		
-V-27	eye	eye	americans	americans	diseases—like uveitis, which blinds tens of thousands of	
-V-27	india	india	turmeric	turmeric	found that eyedrops made from the spice	
-V-27	curcumin	curcumin	inflammation	inflammation	works for mild eye	
-V-27	supplements	supplements	turmeric	turmeric	of curcumin, the yellow pigment in	
-V-27	turmeric	turmeric	eye	eye	a try against more serious inflammatory	
-V-27	eye	eye	inflammation	inflammation		
-V-27	turmeric	turmeric	eye	eye	curcumin works for mild	
-V-27	inflammation	inflammation	eye	eye	of the central structures in the	
-V-27	turmeric	turmeric	inflammation	inflammation	curcumin works for mild eye	
-V-27	treatment	treatment	eye	eye	of conjunctivitis, or pink	
-V-27	turmeric	turmeric	anti-inflammatory	anti-inflammatory	—thought responsible, in part, for the spice’s	

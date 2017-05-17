@@ -1,35 +1,3 @@
 
 V-757	liver	liver	cholesterol	cholesterol	feels there’s just too much	
-V-757	estrogen	estrogen	cholesterol	cholesterol	that our body dumps;	
-V-757	heart disease	heart disease	arteries	arteries	risk—boosting nitric oxide production in our	
-V-757	nitric oxide	nitric oxide	arteries	arteries	production in our	
 V-757	nuts	nuts	heart disease	heart disease	may cut	
-V-757	nuts	nuts	disease	disease	may cut heart	
-V-757	arginine	arginine	nuts	nuts	content in	
-V-757	risk	risk	arteries	arteries	—boosting nitric oxide production in our	
-V-757	cholesterol	cholesterol	gut	gut	circulating around, it dumps the excess into the	
-V-757	heart disease	heart disease	risk	risk		
-V-757	sudden cardiac death	sudden cardiac death	risk	risk	because of the magnesium content; and lowering the	
-V-757	nuts	nuts	nitric oxide	nitric oxide	may cut heart disease risk—boosting	
-V-757	disease	disease	risk	risk		
-V-757	plant-based	plant-based	diet	diet		
-V-757	risk	risk	nitric oxide	nitric oxide	—boosting	
-V-757	magnesium	magnesium	risk	risk	content; and lowering the	
-V-757	arginine	arginine	risk	risk	content in nuts; cutting down our	
-V-757	disease	disease	arteries	arteries	risk—boosting nitric oxide production in our	
-V-757	arginine	arginine	sudden cardiac death	sudden cardiac death	content in nuts; cutting down our risk of	
-V-757	magnesium	magnesium	bad cholesterol	bad cholesterol	content; and lowering the risk of our	
-V-757	arteries	arteries	nuts	nuts	because of the arginine content in	
-V-757	cardiac death	cardiac death	risk	risk	because of the magnesium content; and lowering the	
-V-757	magnesium	magnesium	cholesterol	cholesterol	content; and lowering the risk of our bad	
-V-757	death	death	risk	risk	because of the magnesium content; and lowering the	
-V-757	nuts	nuts	cholesterol	cholesterol	lower our	
-V-757	arteries	arteries	arginine	arginine	because of the	
-V-757	nitric oxide	nitric oxide	arginine	arginine	production in our arteries because of the	
-V-757	heart disease	heart disease	nitric oxide	nitric oxide	risk—boosting	
-V-757	sudden cardiac death	sudden cardiac death	magnesium	magnesium	because of the	
-V-757	disease	disease	nitric oxide	nitric oxide	risk—boosting	
-V-757	death	death	magnesium	magnesium	because of the	
-V-757	cardiac death	cardiac death	magnesium	magnesium	because of the	
-V-757	nuts	nuts	risk	risk	may cut heart disease	
-V-757	burgers	burgers	fiber	fiber	and milkshakes; we were designed for	

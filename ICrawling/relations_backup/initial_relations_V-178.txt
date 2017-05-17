@@ -1,65 +1,15 @@
 
-V-178	animal protein	animal protein	fat	fat	and the animal	
-V-178	disease	disease	elderly	elderly	in the	
-V-178	cancer	cancer	colon	colon	growth, and may also play a role in	
-V-178	animal protein	animal protein	obesity	obesity	on inflammatory status as it relates to	
-V-178	fat	fat	prostaglandin	prostaglandin	lead to	
-V-178	tumors	tumors	estrogen	estrogen	to make their own	
-V-178	plant foods	plant foods	anti-inflammatory	anti-inflammatory	have	
-V-178	aging	aging	immune function	immune function	is a decline in	
-V-178	aging	aging	inflammation	inflammation	and longevity may be to decrease chronic	
-V-178	obesity	obesity	syndrome	syndrome	and metabolic	
-V-178	women	women	risk	risk	’s urine, it correlates with breast cancer	
-V-178	breast cancer	breast cancer	risk	risk		
-V-178	protein	protein	animal fat	animal fat	and the	
-V-178	aging	aging	chronic inflammation	chronic inflammation	and longevity may be to decrease	
-V-178	colon	colon	cancer	cancer		
-V-178	animal fats	animal fats	arachidonic acid	arachidonic acid	contain	
-V-178	obesity	obesity	metabolic syndrome	metabolic syndrome	and	
-V-178	fruits	fruits	berries	berries	and vegetables, like	
-V-178	protein	protein	obesity	obesity	on inflammatory status as it relates to	
-V-178	meat	meat	inflammation	inflammation	is associated with	
-V-178	protein	protein	fat	fat	and the animal	
-V-178	inflammation	inflammation	tumors	tumors	may activate the enzyme that allows breast	
-V-178	lead	lead	prostaglandin	prostaglandin	to	
-V-178	antioxidant	antioxidant	greens	greens	fruits and vegetables, like berries and	
-V-178	fat	fat	obesity	obesity	diet, and	
-V-178	fat	fat	lead	lead		
-V-178	lead	lead	inflammation	inflammation	to	
-V-178	saturated fat	saturated fat	prostaglandin	prostaglandin	lead to	
-V-178	saturated fat	saturated fat	lead	lead		
-V-178	antioxidant	antioxidant	vegetables	vegetables	fruits and	
-V-178	fat	fat	diet	diet		
-V-178	fruits	fruits	vegetables	vegetables	and	
-V-178	fruits	fruits	greens	greens	and vegetables, like berries and	
-V-178	fats	fats	arachidonic acid	arachidonic acid	contain	
-V-178	women	women	breast cancer	breast cancer	’s urine, it correlates with	
-V-178	plant foods	plant foods	plants	plants	have anti-inflammatory effects, though some	
-V-178	breast cancer	breast cancer	colon cancer	colon cancer	growth, and may also play a role in	
-V-178	inflammation	inflammation	pathogens	pathogens	without compromising an acute response when exposed to	
-V-178	risk	risk	inflammation	inflammation	of many cancers may be because of obesity-associated	
-V-178	estrogen	estrogen	prostaglandin	prostaglandin	via this inflammatory compound called	
-V-178	inflammation	inflammation	estrogen	estrogen	may stimulate prostaglandin-mediated	
-V-178	anti-inflammatory	anti-inflammatory	plants	plants	effects, though some	
-V-178	antioxidant	antioxidant	berries	berries	fruits and vegetables, like	
-V-178	cancer	cancer	risk	risk		
-V-178	chronic inflammation	chronic inflammation	pathogens	pathogens	without compromising an acute response when exposed to	
-V-178	biomarkers	biomarkers	inflammation	inflammation	of	
-V-178	meat	meat	diet	diet	-based or so-called “western”	
-V-178	inflammation	inflammation	meat	meat	.the reason why	
-V-178	women	women	cancer	cancer	’s urine, it correlates with breast	
-V-178	women	women	urine	urine	’s	
-V-178	antioxidant	antioxidant	fruits	fruits		
-V-178	inflammation	inflammation	aging	aging	we now know is typical of	
 V-178	aging	aging	longevity	longevity	and	
-V-178	risk	risk	obesity	obesity	of many cancers may be because of	
 V-178	berries	berries	greens	greens	and	
 V-178	longevity	longevity	chronic inflammation	chronic inflammation	may be to decrease	
-V-178	immune system	immune system	infections	infections	that fights specific	
-V-178	colon	colon	lung cancer	lung cancer	cancer,	
+V-178	fats	fats	arachidonic acid	arachidonic acid	contain	
+V-178	obesity	obesity	metabolic syndrome	metabolic syndrome	and	
 V-178	longevity	longevity	inflammation	inflammation	may be to decrease chronic	
-V-178	cancer	cancer	colon cancer	colon cancer	growth, and may also play a role in	
+V-178	meat	meat	inflammation	inflammation	is associated with	
+V-178	biomarkers	biomarkers	inflammation	inflammation	of	
+V-178	plant foods	plant foods	anti-inflammatory	anti-inflammatory	have	
 V-178	bananas	bananas	lettuce	lettuce	and	
-V-178	breast cancer	breast cancer	colon	colon	growth, and may also play a role in	
+V-178	aging	aging	immune function	immune function	is a decline in	
+V-178	fruits	fruits	vegetables	vegetables	and	
 V-178	inflammation	inflammation	liver	liver	and	
-V-178	animal protein	animal protein	animal fat	animal fat	and the	
+V-178	animal fats	animal fats	arachidonic acid	arachidonic acid	contain	

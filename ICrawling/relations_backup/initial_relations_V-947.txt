@@ -1,7 +1,2 @@
 
-V-947	babies	babies	sugar	sugar	full of	
 V-947	americans	americans	homeopathy	homeopathy	spend about three billion dollars on	
-V-947	pills	pills	xylitol	xylitol	.many homeopathic pills are made of	
-V-947	sugar	sugar	babies	babies	pill doesn’t mean you can stuff	
-V-947	pediatrics	pediatrics	homeopathy	homeopathy	: a young girl almost killed by	
-V-947	babies	babies	pills	pills	full of sugar	

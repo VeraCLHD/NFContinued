@@ -1,21 +1,6 @@
 
-V-723	soy	soy	protein	protein	—hey, at least you’re not eating animal	
-V-723	blood	blood	cancer	cancer	levels of the	
-V-723	blood	blood	igf-1	igf-1	levels of the cancer promoter	
-V-723	plant proteins	plant proteins	amino acid	amino acid	that just coincidently happen to have	
-V-723	protein	protein	igf-1	igf-1	had significantly higher levels of	
-V-723	animal protein	animal protein	igf-1	igf-1	had significantly higher levels of	
-V-723	cancer	cancer	plant proteins	plant proteins	promoter igf-1, what about the few	
-V-723	amino acid	amino acid	soy	soy	ratios similar to animal proteins—like	
-V-723	soy	soy	animal protein	animal protein	—hey, at least you’re not eating	
-V-723	vegan	vegan	women	women		
-V-723	soy	soy	protein	protein		
-V-723	amino acid	amino acid	animal proteins	animal proteins	ratios similar to	
-V-723	variety	variety	soy milk	soy milk	of different plant proteins.indeed, the more	
 V-723	animal proteins	animal proteins	blood	blood	are bad because they boost our	
-V-723	igf-1	igf-1	protein	protein	enjoyed by those replacing animal	
-V-723	variety	variety	milk	milk	of different plant proteins.indeed, the more soy	
+V-723	protein	protein	igf-1	igf-1	had significantly higher levels of	
 V-723	ornish	ornish	pritikin	pritikin	and	
-V-723	cancer	cancer	igf-1	igf-1	promoter	
+V-723	animal protein	animal protein	igf-1	igf-1	had significantly higher levels of	
 V-723	igf-1	igf-1	animal protein	animal protein	enjoyed by those replacing	
-V-723	variety	variety	soy	soy	of different plant proteins.indeed, the more	

@@ -1,17 +1,12 @@
 
+V-1062	soy milk	soy milk	tea	tea	blocks the benefits of	
+V-1062	milk	milk	tea	tea	blocks the benefits of	
 V-1062	milk	milk	casein	casein	doesn’t have	
+V-1062	soy milk	soy milk	milk	milk	was tested.the reason cow’s	
+V-1062	milk	milk	phytonutrients	phytonutrients	may completely block the beneficial effects of the	
 V-1062	tea	tea	soy milk	soy milk	are suppressed by	
+V-1062	phytonutrients	phytonutrients	chocolate	chocolate	in	
 V-1062	phytonutrients	phytonutrients	tea	tea	in	
 V-1062	milk	milk	phytonutrients	phytonutrients	blocks the absorption of the	
-V-1062	soy milk	soy milk	tea	tea	blocks the benefits of	
-V-1062	tea	tea	milk	milk	are suppressed by soy	
-V-1062	milk	milk	tea	tea	blocks the benefits of	
-V-1062	soy milk	soy milk	milk	milk	was tested.the reason cow’s	
-V-1062	milk	milk	chocolate	chocolate	blocks the absorption of the phytonutrients in	
-V-1062	milk	milk	phytonutrients	phytonutrients	may completely block the beneficial effects of the	
-V-1062	phytonutrients	phytonutrients	chocolate	chocolate	in	
-V-1062	soy	soy	milk	milk		
-V-1062	soy	soy	casein	casein	milk doesn’t have	
-V-1062	soy	soy	tea	tea	milk blocks the benefits of	
 V-1062	soy milk	soy milk	casein	casein	doesn’t have	
 V-1062	tea	tea	soy	soy	are suppressed by	

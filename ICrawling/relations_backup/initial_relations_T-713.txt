@@ -1,30 +1,9 @@
 
-T-713	plant-based diets	plant-based diets	diabetes	diabetes	may even reverse diabetic retinopathy and	
-T-713	sushi	sushi	parasites	parasites	consumption may put one at risk for unusual	
-T-713	vision	vision	cataracts	cataracts	loss – namely	
-T-713	risk	risk	parasites	parasites	for unusual	
-T-713	plant-based	plant-based	retinopathy	retinopathy	diets may even reverse diabetic	
-T-713	retinopathy	retinopathy	eye	eye	and diabetes related	
-T-713	meat	meat	sushi	sushi	and	
-T-713	tongue worm	tongue worm	skin	skin	and the	
-T-713	greens	greens	berries	berries	and	
-T-713	skin	skin	eye	eye	worms found inside the human	
-T-713	tongue worm	tongue worm	worms	worms	and the skin	
-T-713	macular degeneration	macular degeneration	diabetes	diabetes	(see also here) and	
-T-713	plant-based diets	plant-based diets	retinopathy	retinopathy	may even reverse diabetic	
-T-713	water	water	sushi	sushi	may help treat dry eye disease.organ meat and	
-T-713	retinopathy	retinopathy	diabetes	diabetes	and	
-T-713	plant-based diets	plant-based diets	eye	eye	may even reverse diabetic retinopathy and diabetes related	
-T-713	water	water	meat	meat	may help treat dry eye disease.organ	
-T-713	plant-based	plant-based	diabetes	diabetes	diets may even reverse diabetic retinopathy and	
-T-713	vision	vision	glaucoma	glaucoma	loss – namely cataracts,	
-T-713	skin	skin	worms	worms		
-T-713	diabetes	diabetes	eye	eye	related	
-T-713	eye	eye	sushi	sushi	disease.organ meat and	
-T-713	glaucoma	glaucoma	macular degeneration	macular degeneration	(see also here and here), age-related	
 T-713	water	water	eye	eye	may help treat dry	
-T-713	eye	eye	meat	meat	disease.organ	
-T-713	tongue worm	tongue worm	eye	eye	and the skin worms found inside the human	
+T-713	berries	berries	fatigue	fatigue	are the stars in this arena – and can even help relieve visual	
+T-713	greens	greens	berries	berries	and	
 T-713	worms	worms	eye	eye	found inside the human	
-T-713	meat	meat	risk	risk	and sushi consumption may put one at	
-T-713	sushi	sushi	risk	risk	consumption may put one at	
+T-713	plant-based diets	plant-based diets	retinopathy	retinopathy	may even reverse diabetic	
+T-713	meat	meat	sushi	sushi	and	
+T-713	retinopathy	retinopathy	diabetes	diabetes	and	
+T-713	plant-based diets	plant-based diets	vision	vision	may help prevent each of the four common causes of	

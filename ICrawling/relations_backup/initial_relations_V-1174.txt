@@ -1,16 +1,2 @@
 
-V-1174	lead	lead	vegans	vegans	to obesity and diabetes—though only the	
-V-1174	meat	meat	fish	fish	(including	
-V-1174	meat	meat	diet	diet	(including fish) in the	
-V-1174	lead	lead	obesity	obesity	to	
 V-1174	obesity	obesity	diabetes	diabetes	and	
-V-1174	vegan	vegan	risk	risk	diet just has something that cuts our	
-V-1174	diet	diet	risk	risk	just has something that cuts our	
-V-1174	vegan	vegan	risk	risk	still had half the diabetes	
-V-1174	diabetes	diabetes	risk	risk		
-V-1174	vegan	vegan	diabetes	diabetes	still had half the	
-V-1174	obesity	obesity	vegans	vegans	and diabetes—though only the	
-V-1174	lead	lead	diabetes	diabetes	to obesity and	
-V-1174	fish	fish	diet	diet	) in the	
-V-1174	vegan	vegan	diet	diet		
-V-1174	diabetes	diabetes	vegans	vegans	—though only the	

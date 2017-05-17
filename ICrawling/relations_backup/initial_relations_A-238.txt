@@ -1,8 +1,2 @@
 
-A-238	antioxidant	antioxidant	fibromyalgia	fibromyalgia	as opposed to aspartame-induced	
-A-238	soda	soda	potatoes	potatoes	than sweet	
-A-238	fructose	fructose	corn	corn		
-A-238	soda	soda	sweet potatoes	sweet potatoes	than	
-A-238	sugar	sugar	bananas	bananas	—people don’t tend to binge on	
-A-238	fructose	fructose	corn syrup	corn syrup		
 A-238	erythritol	erythritol	antioxidant	antioxidant	may be a sweet	

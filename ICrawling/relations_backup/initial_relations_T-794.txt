@@ -1,35 +1,4 @@
 
-T-794	frying	frying	bacon	bacon		
-T-794	carcinogen	carcinogen	french fries	french fries	nitrosamine.frying potatoes to make	
-T-794	fish	fish	heterocyclic amines	heterocyclic amines	creates	
-T-794	french fries	french fries	frying	frying	and potato chips (and even	
-T-794	frying	frying	calories	calories	foods also adds a lot of relatively empty	
-T-794	bacon	bacon	potatoes	potatoes	contain the potent carcinogen nitrosamine.frying	
-T-794	french fries	french fries	potatoes	potatoes	and potato chips (and even frying sweet	
-T-794	sweet potatoes	sweet potatoes	carcinogen	carcinogen	) may create acrylamide, which is a known	
-T-794	carcinogen	carcinogen	potato chips	potato chips	nitrosamine.frying potatoes to make french fries and	
-T-794	potatoes	potatoes	french fries	french fries	to make	
-T-794	frying	frying	grilling	grilling	(along with	
-T-794	potato chips	potato chips	acrylamide	acrylamide	(and even frying sweet potatoes) may create	
-T-794	bacon	bacon	french fries	french fries	contain the potent carcinogen nitrosamine.frying potatoes to make	
-T-794	potato chips	potato chips	potatoes	potatoes	(and even frying sweet	
-T-794	potatoes	potatoes	potato chips	potato chips	to make french fries and	
-T-794	bacon	bacon	carcinogen	carcinogen	contain the potent	
-T-794	carcinogen	carcinogen	frying	frying	nitrosamine.	
-T-794	frying	frying	potatoes	potatoes	sweet	
-T-794	frying	frying	poultry	poultry	(along with grilling, roasting, and barbequing) beef, pork,	
-T-794	frying	frying	carcinogen	carcinogen	bacon contain the potent	
-T-794	frying	frying	pork	pork	(along with grilling, roasting, and barbequing) beef,	
-T-794	potato chips	potato chips	sweet potatoes	sweet potatoes	(and even frying	
 T-794	french fries	french fries	potato chips	potato chips	and	
-T-794	carcinogen	carcinogen	potatoes	potatoes	nitrosamine.frying	
-T-794	sweet potatoes	sweet potatoes	acrylamide	acrylamide	) may create	
-T-794	neurotoxins	neurotoxins	tremors	tremors	that may be linked to hand	
-T-794	potato chips	potato chips	frying	frying	(and even	
-T-794	frying	frying	toxins	toxins	foods can also create volatile	
-T-794	bacon	bacon	frying	frying	contain the potent carcinogen nitrosamine.	
-T-794	frying	frying	empty calories	empty calories	foods also adds a lot of relatively	
-T-794	french fries	french fries	sweet potatoes	sweet potatoes	and potato chips (and even frying	
-T-794	frying	frying	roasting	roasting	(along with grilling,	
-T-794	frying	frying	beef	beef	(along with grilling, roasting, and barbequing)	
-T-794	frying	frying	potatoes	potatoes	bacon contain the potent carcinogen nitrosamine.frying	
+T-794	bacon	bacon	carcinogen	carcinogen	contain the potent	
+T-794	fish	fish	heterocyclic amines	heterocyclic amines	creates	

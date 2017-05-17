@@ -1,25 +1,7 @@
 
-V-79	orange juice	orange juice	vitamin c	vitamin c	worth of	
-V-79	orange	orange	vitamin c	vitamin c	juice worth of	
 V-79	dha	dha	memory	memory	had worse	
-V-79	juice	juice	vitamin c	vitamin c	worth of	
+V-79	vitamin c	vitamin c	scurvy	scurvy	plays no role in	
 V-79	fat	fat	diet	diet	was definitively settled in the	
-V-79	scurvy	scurvy	vitamin c	vitamin c	rates (zero in both groups), and concluding that	
-V-79	memory	memory	placebo	placebo	than those taking the	
-V-79	high blood pressure	high blood pressure	migraines	migraines	went away; he felt more energetic; his	
-V-79	babies	babies	fat	fat	born without working intestines.but, the first preparations were	
+V-79	vitamins	vitamins	fats	fats	had been discovered and isolated.but it wasn’t until the 60s that we realized that certain	
 V-79	vitamin c	vitamin c	scurvy	scurvy	would be enough to avoid	
 V-79	dha	dha	pregnant	pregnant	may not help	
-V-79	supplements	supplements	algae	algae	of pollutant-free	
-V-79	vitamin c	vitamin c	scurvy	scurvy	plays no role in	
-V-79	scurvy	scurvy	disease	disease	(the overt vitamin c deficiency	
-V-79	scurvy	scurvy	vitamin c	vitamin c	(the overt	
-V-79	contaminants	contaminants	supplements	supplements	in fishes can take	
-V-79	brain health	brain health	oranges	oranges	—any more than giving half of these people	
-V-79	dha	dha	placebo	placebo	had worse memory than those taking the	
-V-79	medical community	medical community	fats	fats	that some	
-V-79	orange	orange	juice	juice		
-V-79	contaminants	contaminants	algae	algae	in fishes can take supplements of pollutant-free	
-V-79	blood	blood	migraines	migraines	pressure went away; he felt more energetic; his	
-V-79	blood pressure	blood pressure	migraines	migraines	went away; he felt more energetic; his	
-V-79	health	health	oranges	oranges	—any more than giving half of these people	

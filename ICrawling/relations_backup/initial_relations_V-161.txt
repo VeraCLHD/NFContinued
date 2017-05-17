@@ -1,37 +1,9 @@
 
-V-161	fruit	fruit	apples	apples	like	
-V-161	plaque	plaque	bacteria	bacteria	on their teeth plummets, as the	
-V-161	wine	wine	bacteria	bacteria	inhibits the growth of the primary cavity-causing	
-V-161	sugar	sugar	mouth	mouth	water in their	
-V-161	water	water	mouth	mouth	in their	
-V-161	fruit	fruit	bananas	bananas	like apples and	
-V-161	bacteria	bacteria	sugar	sugar	convert the	
-V-161	dental	dental	dried fruit	dried fruit	authorities advise against eating	
-V-161	bacteria	bacteria	dental plaque	dental plaque	that make up the	
-V-161	sugar	sugar	ph	ph	water in their mouth, within five minutes, the	
-V-161	bacteria	bacteria	plaque	plaque	and prevent	
-V-161	raisins	raisins	cavities	cavities	with regard to tooth decay.the formation of	
-V-161	sugar	sugar	water	water		
-V-161	plaque	plaque	bacteria	bacteria		
-V-161	apples	apples	bananas	bananas	and	
-V-161	ph	ph	plaque	plaque	of the	
-V-161	raisins	raisins	teeth	teeth	stick to your	
-V-161	potato chips	potato chips	teeth	teeth	actually stuck to the	
-V-161	phytonutrients	phytonutrients	grapes	grapes	in	
-V-161	bacteria	bacteria	plaque	plaque	that make up the dental	
-V-161	ph	ph	teeth	teeth	of the plaque on their	
-V-161	plaque	plaque	teeth	teeth	on their	
-V-161	teeth	teeth	sugar	sugar	plummets, as the bacteria convert the	
-V-161	fruit	fruit	mouth	mouth	like apples and bananas disappeared from the	
-V-161	grapes	grapes	bacteria	bacteria	appear to actually prevent the adherence of	
-V-161	dental	dental	fruit	fruit	authorities advise against eating dried	
-V-161	bacteria	bacteria	dental	dental	that make up the	
 V-161	raisins	raisins	lead	lead	didn’t	
-V-161	risk	risk	cavities	cavities	for	
+V-161	phytonutrients	phytonutrients	grapes	grapes	in	
+V-161	raisins	raisins	cavities	cavities	have a long-standing reputation as a food that promotes	
 V-161	bananas	bananas	mouth	mouth	disappeared from the	
-V-161	dental	dental	plaque	plaque		
-V-161	apples	apples	mouth	mouth	and bananas disappeared from the	
-V-161	cavities	cavities	raisins	raisins	increases, decreases, or remains the same after eating	
-V-161	dental	dental	raisins	raisins	authorities advise against eating dried fruit, like	
-V-161	water	water	ph	ph	in their mouth, within five minutes, the	
-V-161	teeth	teeth	bacteria	bacteria	plummets, as the	
+V-161	bacteria	bacteria	sugar	sugar	convert the	
+V-161	apples	apples	bananas	bananas	and	
+V-161	grapes	grapes	bacteria	bacteria	appear to actually prevent the adherence of	
+V-161	raisins	raisins	teeth	teeth	stick to your	

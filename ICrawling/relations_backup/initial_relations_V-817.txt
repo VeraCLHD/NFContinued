@@ -1,15 +1,4 @@
 
-V-817	cataracts	cataracts	blindness	blindness	as the world’s leading cause of	
-V-817	tomatoes	tomatoes	prostate cancer	prostate cancer	so protective against	
 V-817	collard greens	collard greens	kale	kale	or	
 V-817	greens	greens	kale	kale	or	
 V-817	lutein	lutein	zeaxanthin	zeaxanthin	and	
-V-817	tomatoes	tomatoes	cancer	cancer	so protective against prostate	
-V-817	tomatoes	tomatoes	prostate	prostate	so protective against	
-V-817	prostate	prostate	cancer	cancer		
-V-817	lutein	lutein	phytonutrients	phytonutrients	and zeaxanthin	
-V-817	phytonutrients	phytonutrients	greens	greens	from	
-V-817	eye	eye	tomatoes	tomatoes	disease.lycopene is the red pigment in	
-V-817	zeaxanthin	zeaxanthin	phytonutrients	phytonutrients		
-V-817	lutein	lutein	greens	greens	and zeaxanthin phytonutrients from	
-V-817	zeaxanthin	zeaxanthin	greens	greens	phytonutrients from	

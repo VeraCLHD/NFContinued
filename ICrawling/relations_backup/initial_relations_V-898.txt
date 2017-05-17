@@ -1,7 +1,3 @@
 
-V-898	antioxidant	antioxidant	free radicals	free radicals	activity—their ability to quench	
 V-898	phytonutrient	phytonutrient	antioxidant	antioxidant	may be a great	
-V-898	cornell	cornell	antioxidant	antioxidant	took 27 vegetables, and measured their cellular	
-V-898	beets	beets	pepper	pepper	and the red bell	
 V-898	cornell	cornell	vegetables	vegetables	took 27	
-V-898	free radicals	free radicals	vegetables	vegetables	within cells—by testing various	

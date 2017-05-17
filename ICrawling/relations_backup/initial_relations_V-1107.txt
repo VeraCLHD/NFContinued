@@ -1,8 +1,0 @@
-
-V-1107	liver	liver	juice	juice	inflammation before	
-V-1107	liver inflammation	liver inflammation	juice	juice	before	
-V-1107	inflammation	inflammation	juice	juice	before	
-V-1107	juice	juice	medicine	medicine	plus+ supplements (dubbed in the american journal of	
-V-1107	juice	juice	supplements	supplements	plus+	
-V-1107	supplements	supplements	medicine	medicine	(dubbed in the american journal of	
-V-1107	liver	liver	inflammation	inflammation		

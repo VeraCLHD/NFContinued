@@ -1,9 +1,2 @@
 
-V-867	dna	dna	broccoli	broccoli	of those eating	
 V-867	broccoli	broccoli	detoxifying enzymes	detoxifying enzymes	boosted the	
-V-867	detoxifying enzymes	detoxifying enzymes	carcinogens	carcinogens	in their livers, and so the	
-V-867	broccoli	broccoli	enzymes	enzymes	boosted the detoxifying	
-V-867	broccoli	broccoli	dna damage	dna damage	seems protective, as far as	
-V-867	enzymes	enzymes	carcinogens	carcinogens	in their livers, and so the	
-V-867	broccoli	broccoli	dna	dna	seems protective, as far as	
-V-867	dna damage	dna damage	oxidative stress	oxidative stress	is concerned, in smokers who are exposed to	

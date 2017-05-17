@@ -1,51 +1,8 @@
 
-T-1195	hot flashes	hot flashes	menopause	menopause	and other symptoms of	
-T-1195	postmenopausal	postmenopausal	women	women		
-T-1195	estrogen	estrogen	mushrooms	mushrooms	themselves;	
-T-1195	women	women	breast cancer	breast cancer	without	
-T-1195	women	women	estrogen	estrogen	do not have easy access to	
-T-1195	estrogen	estrogen	breast cancer	breast cancer	levels in the blood than women without	
-T-1195	health	health	women	women	in post-menopausal	
-T-1195	women	women	cancer	cancer	with breast	
-T-1195	estrogen	estrogen	cancer	cancer	levels in the blood than women without breast	
-T-1195	flax	flax	seeds	seeds		
-T-1195	cancer	cancer	tamoxifen	tamoxifen	survivors on	
 T-1195	risk	risk	vegetarian	vegetarian	may be reduced by a	
-T-1195	breast cancer	breast cancer	risk	risk		
-T-1195	apple	apple	cardiovascular health	cardiovascular health	consumption may promote	
-T-1195	women	women	breast cancer	breast cancer	with	
-T-1195	cancer	cancer	estrogen	estrogen	were found to have higher	
-T-1195	vegetarian	vegetarian	diet	diet		
-T-1195	postmenopausal	postmenopausal	cancer	cancer	women with breast	
-T-1195	estrogen	estrogen	blood	blood	levels in the	
-T-1195	breast cancer	breast cancer	diet	diet	risk may be reduced by a vegetarian	
-T-1195	soy	soy	cancer	cancer	had the lowest rates of breast	
-T-1195	breast cancer	breast cancer	soy	soy	survivors on tamoxifen who ate the most	
-T-1195	cancer	cancer	diet	diet	risk may be reduced by a vegetarian	
-T-1195	women	women	estrogen	estrogen	with breast cancer were found to have higher	
-T-1195	cancer	cancer	vegetarian	vegetarian	risk may be reduced by a	
-T-1195	apple	apple	women	women	consumption may promote cardiovascular health in post-menopausal	
-T-1195	soy	soy	hot flashes	hot flashes	foods appears to help with	
-T-1195	symptoms	symptoms	menopause	menopause	of	
-T-1195	soy foods	soy foods	hot flashes	hot flashes	appears to help with	
-T-1195	cancer	cancer	soy	soy	survivors on tamoxifen who ate the most	
-T-1195	blood	blood	breast cancer	breast cancer	than women without	
-T-1195	breast cancer	breast cancer	vegetarian	vegetarian	risk may be reduced by a	
-T-1195	cardiovascular health	cardiovascular health	women	women	in post-menopausal	
-T-1195	women	women	cancer	cancer	without breast	
-T-1195	cancer	cancer	risk	risk		
-T-1195	breast cancer	breast cancer	tamoxifen	tamoxifen	survivors on	
 T-1195	soy	soy	breast cancer	breast cancer	had the lowest rates of	
-T-1195	tamoxifen	tamoxifen	soy	soy	who ate the most	
+T-1195	cancer	cancer	estrogen	estrogen	were found to have higher	
+T-1195	women	women	estrogen	estrogen	do not have easy access to	
 T-1195	breast cancer	breast cancer	estrogen	estrogen	were found to have higher	
-T-1195	blood	blood	cancer	cancer	than women without breast	
-T-1195	apple	apple	health	health	consumption may promote cardiovascular	
-T-1195	risk	risk	diet	diet	may be reduced by a vegetarian	
-T-1195	estrogen	estrogen	women	women	levels in the blood than	
-T-1195	soy foods	soy foods	symptoms	symptoms	appears to help with hot flashes and other	
-T-1195	blood	blood	women	women	than	
-T-1195	tumors	tumors	women	women	in post-menopausal	
 T-1195	tumors	tumors	estrogen	estrogen	may then turn to creating	
-T-1195	hot flashes	hot flashes	symptoms	symptoms	and other	
-T-1195	postmenopausal	postmenopausal	breast cancer	breast cancer	women with	
-T-1195	tumors	tumors	mushrooms	mushrooms	may then turn to creating estrogen themselves;	
+T-1195	symptoms	symptoms	menopause	menopause	of	

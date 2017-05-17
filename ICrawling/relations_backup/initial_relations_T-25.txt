@@ -1,25 +1,7 @@
 
 T-25	pollutants	pollutants	meat	meat	found in	
-T-25	leafy vegetables	leafy vegetables	fish	fish	and mothers’	
 T-25	vegetables	vegetables	mothers	mothers	and	
-T-25	fish	fish	pregnant	pregnant	consumption while	
 T-25	hormones	hormones	adolescence	adolescence	define	
 T-25	meat	meat	puberty	puberty	may be causing early onset of	
 T-25	cancer	cancer	mortality	mortality	and	
-T-25	leafy vegetables	leafy vegetables	pregnant	pregnant	and mothers’ fish consumption while	
-T-25	vegetables	vegetables	pregnant	pregnant	and mothers’ fish consumption while	
-T-25	mothers	mothers	pregnant	pregnant	’ fish consumption while	
 T-25	leafy vegetables	leafy vegetables	mothers	mothers	and	
-T-25	hormones	hormones	pollutants	pollutants	define adolescence; disruption of hormone signalling by	
-T-25	cancer	cancer	risk	risk		
-T-25	vegetables	vegetables	fish	fish	and mothers’	
-T-25	lead	lead	hyperactivity	hyperactivity	to	
-T-25	disease	disease	youth	youth	prevention opportunity by getting	
-T-25	mothers	mothers	fish	fish	’	
-T-25	breast cancer	breast cancer	risk	risk		
-T-25	prevention	prevention	youth	youth	opportunity by getting	
-T-25	acne	acne	diet	diet	with	
-T-25	disease	disease	prevention	prevention		
-T-25	soda	soda	hyperactivity	hyperactivity	consumption may lead to	
-T-25	nuts	nuts	adolescence	adolescence	during	
-T-25	soda	soda	lead	lead	consumption may	

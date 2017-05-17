@@ -1,110 +1,22 @@
 
-V-176	anise	anise	japanese	japanese	is regarded as safe and nontoxic, but	
-V-176	peppermint oil	peppermint oil	preparation	preparation	in infants.one study found an herbal tea	
-V-176	mothers	mothers	dairy	dairy	with a little	
-V-176	tea	tea	colic	colic	is commonly used for	
-V-176	breastfeeding	breastfeeding	infants	infants	mothers whose	
-V-176	cows	cows	colic	colic	’ milk protein—thinking	
-V-176	pain	pain	surgery	surgery	relief to infants, but routinely performing	
-V-176	milk	milk	mothers	mothers	from milk-drinking	
-V-176	prevention	prevention	colic	colic	of	
-V-176	colic	colic	milk	milk	in breastfed infants may be caused by cows’	
-V-176	colic	colic	infants	infants	in breastfed	
-V-176	peppermint	peppermint	preparation	preparation	oil in infants.one study found an herbal tea	
-V-176	pain	pain	physicians	physicians	.even today, most	
-V-176	pain	pain	infants	infants	relief to	
-V-176	physicians	physicians	painkillers	painkillers	don’t use	
-V-176	peppermint oil	peppermint oil	tea	tea	in infants.one study found an herbal	
-V-176	breastfeeding	breastfeeding	colic	colic	mothers whose infants had	
-V-176	anise	anise	star anise	star anise	is regarded as safe and nontoxic, but japanese	
-V-176	milk	milk	breast milk	breast milk	proteins can pass through	
-V-176	mothers	mothers	milk	milk	contains cows’	
-V-176	chinese	chinese	anise	anise	star	
-V-176	mothers	mothers	infants	infants	whose	
-V-176	colic	colic	infants	infants	as formula-fed	
-V-176	herbal tea	herbal tea	preparation	preparation		
-V-176	star anise	star anise	tea	tea		
-V-176	physicians	physicians	anesthesia	anesthesia	don’t use painkillers or even local	
-V-176	colon	colon	peppermint oil	peppermint oil	before a colonoscopy, i explored the role of	
-V-176	infants	infants	cows	cows	fed	
-V-176	american academy of pediatrics	american academy of pediatrics	peppermint oil	peppermint oil	warns about the use of	
-V-176	colic	colic	milk	milk	can improve after changing from a cows’	
-V-176	colic	colic	mothers	mothers	by challenging the	
-V-176	peppermint oil	peppermint oil	herbal	herbal	in infants.one study found an	
-V-176	japanese	japanese	anise	anise	star	
-V-176	colic	colic	infants	infants	affects up to 40% of young	
-V-176	infants	infants	colic	colic	have similar rates of	
-V-176	tea	tea	preparation	preparation		
-V-176	medical profession	medical profession	pain	pain	has a scandalous history, not just denying	
-V-176	herbal	herbal	preparation	preparation	tea	
-V-176	babies	babies	pain	pain	could feel	
-V-176	colic	colic	belladonna	belladonna	are made from	
-V-176	diet	diet	breastfeeding	breastfeeding	for	
-V-176	treatment	treatment	infants	infants	for infantile colic in breastfed	
-V-176	diet	diet	cows	cows	free of	
-V-176	surgery	surgery	infants	infants	on	
-V-176	infants	infants	diet	diet	is a	
-V-176	star anise	star anise	japanese	japanese	is regarded as safe and nontoxic, but	
-V-176	colon	colon	peppermint	peppermint	before a colonoscopy, i explored the role of	
-V-176	colic	colic	pain	pain	is	
-V-176	drugs	drugs	colic	colic	used for	
-V-176	colic	colic	dairy	dairy	by challenging the mothers with a little	
-V-176	infants	infants	milk	milk	is a diet free of cows’	
-V-176	mothers	mothers	cows	cows	contains	
-V-176	cows	cows	milk	milk	’	
-V-176	infants	infants	milk	milk	fed cows’	
-V-176	pediatrics	pediatrics	peppermint oil	peppermint oil	warns about the use of	
-V-176	protein	protein	infants	infants	formula, or a soy-based formula.now, breast-fed	
-V-176	peppermint oil	peppermint oil	herbal tea	herbal tea	in infants.one study found an	
-V-176	colon	colon	colonoscopy	colonoscopy	before a	
-V-176	american academy of pediatrics	american academy of pediatrics	peppermint	peppermint	warns about the use of	
-V-176	diet	diet	colic	colic	for breastfeeding mothers whose infants had	
-V-176	pain	pain	painkillers	painkillers	.even today, most physicians don’t use	
 V-176	tea	tea	breastfeeding	breastfeeding	interfere with	
+V-176	colic	colic	pain	pain	is	
 V-176	pediatrics	pediatrics	peppermint	peppermint	warns about the use of	
+V-176	infants	infants	colic	colic	have similar rates of	
+V-176	tea	tea	colic	colic	is commonly used for	
 V-176	infants	infants	cows	cows	may be caused by	
-V-176	herbal	herbal	tea	tea		
+V-176	drugs	drugs	colic	colic	used for	
+V-176	prevention	prevention	colic	colic	of	
 V-176	colic	colic	cows	cows	can improve after changing from a	
-V-176	colic	colic	cows	cows	was already a well-known symptom of intolerance to	
-V-176	babies	babies	physicians	physicians	could feel pain.even today, most	
-V-176	colic	colic	cows	cows	in breastfed infants may be caused by	
-V-176	mothers	mothers	colic	colic	whose infants had	
-V-176	diet	diet	milk	milk	free of cows’	
-V-176	drugs	drugs	belladonna	belladonna	used for colic are made from	
-V-176	milk	milk	protein	protein		
-V-176	lead	lead	death	death	to the	
-V-176	tea	tea	star anise	star anise	in the u.s. so, we shouldn’t give	
-V-176	milk	milk	breast milk	breast milk	proteins transmitted from mother to infant via	
-V-176	treatment	treatment	diet	diet	for infantile colic in breastfed infants is a	
-V-176	japanese	japanese	star anise	star anise		
-V-176	anesthesia	anesthesia	babies	babies	for circumcisions, for example—a procedure so traumatic that	
 V-176	babies	babies	pain	pain	show stronger	
-V-176	cows	cows	breast milk	breast milk	’ milk proteins can pass through	
-V-176	colic	colic	infants	infants	.of 19	
-V-176	diet	diet	mothers	mothers	for breastfeeding	
-V-176	chinese	chinese	star anise	star anise		
-V-176	baby	baby	colic	colic	boy develops	
-V-176	peppermint	peppermint	herbal	herbal	oil in infants.one study found an	
-V-176	colic	colic	cows	cows	in breastfed infants is a diet free of	
-V-176	infants	infants	milk	milk	may be caused by cows’	
-V-176	cows	cows	protein	protein	’ milk	
-V-176	colic	colic	diet	diet	in breastfed infants is a	
-V-176	protein	protein	colic	colic	—thinking	
-V-176	painkillers	painkillers	anesthesia	anesthesia	or even local	
-V-176	breastfeeding	breastfeeding	mothers	mothers		
-V-176	anise	anise	colic	colic	tea is commonly used for	
-V-176	peppermint	peppermint	tea	tea	oil in infants.one study found an herbal	
-V-176	diet	diet	infants	infants	for breastfeeding mothers whose	
-V-176	anise	anise	tea	tea		
-V-176	babies	babies	painkillers	painkillers	could feel pain.even today, most physicians don’t use	
-V-176	breast milk	breast milk	cows	cows	from milk-drinking mothers contains	
-V-176	breast milk	breast milk	milk	milk	from	
-V-176	tea	tea	anise	anise	in the u.s. so, we shouldn’t give star	
-V-176	milk	milk	cows	cows	from milk-drinking mothers contains	
-V-176	milk	milk	colic	colic	protein—thinking	
-V-176	surgery	surgery	anesthesia	anesthesia	on infants with minimal or no	
-V-176	treatment	treatment	colic	colic	for infantile	
-V-176	infants	infants	cows	cows	is a diet free of	
-V-176	star anise	star anise	colic	colic	tea is commonly used for	
-V-176	breast milk	breast milk	mothers	mothers	from milk-drinking	
-V-176	peppermint	peppermint	herbal tea	herbal tea	oil in infants.one study found an	
+V-176	infants	infants	cows	cows	fed	
+V-176	mothers	mothers	cows	cows	contains	
+V-176	colic	colic	cows	cows	was already a well-known symptom of intolerance to	
+V-176	babies	babies	pain	pain	could feel	
+V-176	american academy of pediatrics	american academy of pediatrics	peppermint oil	peppermint oil	warns about the use of	
+V-176	colic	colic	belladonna	belladonna	are made from	
+V-176	pediatrics	pediatrics	peppermint oil	peppermint oil	warns about the use of	
+V-176	physicians	physicians	painkillers	painkillers	don’t use	
+V-176	colic	colic	infants	infants	affects up to 40% of young	
+V-176	american academy of pediatrics	american academy of pediatrics	peppermint	peppermint	warns about the use of	
+V-176	infants	infants	diet	diet	is a	

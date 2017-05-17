@@ -1,37 +1,9 @@
 
 V-998	pregnant women	pregnant women	women	women	and	
-V-998	plant-based	plant-based	vegan	vegan	pregnancy is probably	
-V-998	iodine	iodine	thyroid	thyroid	is important for	
-V-998	thyroid	thyroid	pregnancy	pregnancy	function, but critical during	
-V-998	risk	risk	iodine	iodine	for	
-V-998	pus	pus	milk	milk	content in	
-V-998	pregnant	pregnant	women	women		
-V-998	iodine	iodine	dairy	dairy	can also be found in	
-V-998	women	women	iodine	iodine	of child-bearing age should supplement with 150 micrograms of	
-V-998	vegan	vegan	women	women		
-V-998	iodine	iodine	bacteria	bacteria	can decrease the	
-V-998	women	women	risk	risk	should be monitored, particularly among subgroups at	
-V-998	iodine	iodine	vegans	vegans	status and thyroid function of boston-area vegetarians and	
-V-998	cows	cows	mastitis	mastitis	with staph	
-V-998	iodine	iodine	women	women	levels among u.s.	
-V-998	bacteria	bacteria	cows	cows	concentration, but in	
 V-998	vegetarians	vegetarians	vegans	vegans	and	
-V-998	vegetarians	vegetarians	iodine	iodine	came out; not bad; conclusion: “u.s. vegetarians are	
-V-998	dairy	dairy	iodine	iodine	products due to	
+V-998	iodine	iodine	thyroid	thyroid	is important for	
+V-998	iodine	iodine	bacteria	bacteria	can decrease the	
 V-998	pregnancy	pregnancy	vegan	vegan	is probably	
-V-998	iodine	iodine	thyroid	thyroid	status and	
-V-998	iodine	iodine	dairy	dairy	content of	
-V-998	thyroid	thyroid	vegans	vegans	function of boston-area vegetarians and	
-V-998	iodine	iodine	pregnancy	pregnancy	is important for thyroid function, but critical during	
-V-998	mastitis	mastitis	milk	milk	can actually increase the pus content in	
-V-998	thyroid	thyroid	vegetarians	vegetarians	function of boston-area	
-V-998	vegans	vegans	risk	risk	may [therefore] be at	
-V-998	iodine	iodine	cows	cows	can decrease the bacteria concentration, but in	
-V-998	plant-based	plant-based	pregnancy	pregnancy		
-V-998	iodine	iodine	vegetarians	vegetarians	status and thyroid function of boston-area	
-V-998	milk	milk	iodine	iodine	from the use of	
-V-998	vegans	vegans	iodine	iodine	may [therefore] be at risk for	
-V-998	bacteria	bacteria	mastitis	mastitis	concentration, but in cows with staph	
+V-998	world health organization	world health organization	urine	urine	recommends we should average 100 micrograms in our daily	
 V-998	mastitis	mastitis	pus	pus	can actually increase the	
-V-998	cows	cows	pus	pus	with staph mastitis can actually increase the	
-V-998	iodine	iodine	urine	urine	status is with a	
+V-998	vegans	vegans	risk	risk	may [therefore] be at	

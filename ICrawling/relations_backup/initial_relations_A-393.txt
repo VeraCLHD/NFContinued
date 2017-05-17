@@ -1,28 +1,6 @@
 
-A-393	premarin	premarin	pregnant	pregnant	(from the words “	
-A-393	drugs	drugs	bioidentical hormones	bioidentical hormones	and therapeutics recently reviewed	
-A-393	steroids	steroids	cancer	cancer	in meat and acne &	
-A-393	meat	meat	acne	acne	 and 	
-A-393	risk	risk	breast cancer	breast cancer	of heart disease, stroke, pulmonary embolism, and invasive	
+A-393	anabolic steroids	anabolic steroids	meat	meat	in	
+A-393	women	women	hormones	hormones	were sold	
+A-393	steroids	steroids	meat	meat	in	
 A-393	hormones	hormones	horse urine	horse urine	made from	
 A-393	risk	risk	heart disease	heart disease	of	
-A-393	anabolic steroids	anabolic steroids	meat	meat	in	
-A-393	cancer	cancer	risk	risk		
-A-393	risk	risk	stroke	stroke	of heart disease,	
-A-393	premarin	premarin	urine	urine	(from the words “pregnant mare	
-A-393	breast cancer	breast cancer	risk	risk		
-A-393	anabolic steroids	anabolic steroids	cancer	cancer	in meat and acne &	
-A-393	anabolic steroids	anabolic steroids	acne	acne	in meat and 	
-A-393	women	women	hormones	hormones	were sold	
-A-393	pregnant	pregnant	urine	urine	mare	
-A-393	drugs	drugs	hormones	hormones	and therapeutics recently reviewed bioidentical	
-A-393	hormones	hormones	urine	urine	made from horse	
-A-393	risk	risk	disease	disease	of heart	
-A-393	meat	meat	cancer	cancer	 and acne &	
-A-393	women	women	urine	urine	were sold hormones made from horse	
-A-393	plant-based	plant-based	bioidentical hormones	bioidentical hormones		
-A-393	steroids	steroids	acne	acne	in meat and 	
-A-393	women	women	horse urine	horse urine	were sold hormones made from	
-A-393	risk	risk	pulmonary embolism	pulmonary embolism	of heart disease, stroke,	
-A-393	steroids	steroids	meat	meat	in	
-A-393	plant-based	plant-based	hormones	hormones	bioidentical	

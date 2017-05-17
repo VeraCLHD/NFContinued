@@ -1,32 +1,8 @@
 
-V-1030	anhedonia	anhedonia	irritability	irritability	(which means lack of pleasure), anxiety, stress, agitation,	
-V-1030	produce	produce	arachidonic acid	arachidonic acid	inflammation, pain, and swelling.where is	
-V-1030	stress	stress	mood	mood	scale, designed to measure negative	
-V-1030	health	health	mood	mood	and	
-V-1030	aspirin	aspirin	arachidonic acid	arachidonic acid	and ibuprofen work—by interfering with the conversion of	
-V-1030	produce	produce	inflammation	inflammation		
-V-1030	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	drugs like aspirin and	
-V-1030	anxiety	anxiety	stress	stress		
-V-1030	chicken	chicken	beef	beef	and eggs, though there’s also some in	
-V-1030	arachidonic acid	arachidonic acid	produce	produce	into compounds that	
-V-1030	emotional health	emotional health	mood	mood	and	
-V-1030	drugs	drugs	aspirin	aspirin	like	
-V-1030	arachidonic acid	arachidonic acid	inflammation	inflammation	into compounds that produce	
-V-1030	ibuprofen	ibuprofen	arachidonic acid	arachidonic acid	work—by interfering with the conversion of	
-V-1030	health	health	vegetarians	vegetarians	and mood states of	
-V-1030	mood	mood	vegetarians	vegetarians	states of	
-V-1030	anhedonia	anhedonia	anxiety	anxiety	(which means lack of pleasure),	
-V-1030	emotional health	emotional health	vegetarians	vegetarians	and mood states of	
-V-1030	drugs	drugs	ibuprofen	ibuprofen	like aspirin and	
-V-1030	anhedonia	anhedonia	stress	stress	(which means lack of pleasure), anxiety,	
-V-1030	anti-inflammatory	anti-inflammatory	aspirin	aspirin	drugs like	
 V-1030	emotional health	emotional health	vegetarians	vegetarians	of	
-V-1030	produce	produce	pain	pain	inflammation,	
-V-1030	arachidonic acid	arachidonic acid	pain	pain	into compounds that produce inflammation,	
 V-1030	health	health	vegetarians	vegetarians	of	
+V-1030	health	health	mood	mood	and	
 V-1030	chicken	chicken	eggs	eggs	and	
-V-1030	anxiety	anxiety	mood	mood	stress scale, designed to measure negative	
 V-1030	vegetarians	vegetarians	omnivores	omnivores	report significantly less negative emotion than	
-V-1030	anti-inflammatory	anti-inflammatory	drugs	drugs		
+V-1030	emotional health	emotional health	mood	mood	and	
 V-1030	aspirin	aspirin	ibuprofen	ibuprofen	and	
-V-1030	chicken	chicken	pork	pork	and eggs, though there’s also some in beef,	

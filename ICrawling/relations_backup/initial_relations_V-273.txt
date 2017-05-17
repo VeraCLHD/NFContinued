@@ -1,22 +1,7 @@
 
-V-273	tobacco	tobacco	health	health	companies and led the charge against the world	
-V-273	nutrition	nutrition	disease	disease	and the prevention of chronic	
+V-273	world health organization	world health organization	health	health	gave the opening address at the 8th global conference on	
 V-273	fruit	fruit	vegetables	vegetables	and	
-V-273	public health	public health	soda	soda	must also contend with big food, big	
 V-273	world health organization	world health organization	salt	salt	recommends we reduce our consumption of	
-V-273	health	health	soda	soda	must also contend with big food, big	
-V-273	nutrition	nutrition	prevention	prevention	and the	
-V-273	health	health	trans fats	trans fats	organization recommends we reduce our consumption of salt,	
-V-273	sugar	sugar	sugar association	sugar association	industry, through the	
-V-273	obama	obama	obesity	obesity	’s successful childhood	
-V-273	sugar	sugar	salt	salt	or	
-V-273	tobacco	tobacco	world health organization	world health organization	companies and led the charge against the	
-V-273	world health organization	world health organization	tobacco	tobacco	’s framework convention on	
-V-273	world health organization	world health organization	fats	fats	recommends we reduce our consumption of salt, trans	
-V-273	prevention	prevention	disease	disease	of chronic	
-V-273	nutrition	nutrition	chronic disease	chronic disease	and the prevention of	
-V-273	health	health	tobacco	tobacco	organization’s framework convention on	
 V-273	prevention	prevention	chronic disease	chronic disease	of	
-V-273	health	health	salt	salt	organization recommends we reduce our consumption of	
-V-273	michelle obama	michelle obama	obesity	obesity	’s successful childhood	
-V-273	world health organization	world health organization	trans fats	trans fats	recommends we reduce our consumption of salt,	
+V-273	sugar	sugar	salt	salt	or	
+V-273	world health organization	world health organization	diet	diet	released a draft report outlining a global strategy to address issues of	

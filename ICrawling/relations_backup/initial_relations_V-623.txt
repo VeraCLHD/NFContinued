@@ -1,21 +1,3 @@
 
-V-623	fat	fat	prostate cancer	prostate cancer	restriction alone, that reduced	
-V-623	diet	diet	calories	calories	groups never got down to the target 20%	
-V-623	prostate cancer	prostate cancer	prostate	prostate	patients, at least 21 days before their	
-V-623	cancer	cancer	prostate	prostate	patients, at least 21 days before their	
-V-623	flax	flax	diet	diet	seed-supplemented, lower-fat	
-V-623	fat	fat	cancer	cancer	restriction alone, that reduced prostate	
-V-623	flax	flax	fat	fat	seeds, but not dietary	
-V-623	calories	calories	diet	diet	from fat a low-fat	
-V-623	fat	fat	calories	calories	intake, but you could hardly call a 25-28%	
-V-623	diet	diet	flax seeds	flax seeds	 and 	
-V-623	flax	flax	seeds	seeds		
-V-623	calories	calories	fat	fat	from	
-V-623	prostate	prostate	cancer	cancer		
-V-623	flax	flax	tumor	tumor	that saw their	
-V-623	diet	diet	flax	flax	 and 	
-V-623	diet	diet	seeds	seeds	 and flax	
 V-623	diet	diet	precancerous	precancerous	appeared to decrease cellular proliferation rates in men with	
 V-623	diet	diet	precancerous changes	precancerous changes	appeared to decrease cellular proliferation rates in men with	
-V-623	fat	fat	prostate	prostate	restriction alone, that reduced	
-V-623	fat	fat	diet	diet	”	

@@ -1,13 +1,5 @@
 
-V-50	vitamin c	vitamin c	risk	risk	is there the lowest stroke	
-V-50	stroke	stroke	risk	risk		
+V-50	supplements	supplements	antioxidant	antioxidant	were not—which is consistent with the overall body of evidence showing that	
 V-50	scurvy	scurvy	health	health	is not necessarily the ideal intake for optimal	
 V-50	vitamins	vitamins	margin of safety	margin of safety	was just based on preventing deficiency with a	
-V-50	vitamin c	vitamin c	supplements	supplements		
-V-50	antioxidant	antioxidant	supplements	supplements		
-V-50	stroke	stroke	supplements	supplements	risk, vitamin c	
-V-50	stroke	stroke	vitamin c	vitamin c	risk,	
-V-50	vitamin c	vitamin c	stroke	stroke	intake was associated with lower	
 V-50	vitamin c	vitamin c	stroke	stroke	is there the lowest	
-V-50	antioxidant	antioxidant	heart attacks	heart attacks	supplements in general don’t seem to protect against	
-V-50	vitamin c	vitamin c	risk	risk	intake was associated with lower stroke	

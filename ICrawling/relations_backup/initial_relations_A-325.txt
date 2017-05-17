@@ -1,37 +1,9 @@
 
-A-325	sugar	sugar	lactose	lactose	in the sugar pills is typically	
-A-325	lactose	lactose	sugar	sugar	(milk	
-A-325	doctors	doctors	death	death	the 6th leading cause of	
-A-325	medicine	medicine	doctors	doctors		
-A-325	doctors	doctors	placebos	placebos	admit to intentionally deceiving patients by prescribing	
-A-325	deception	deception	doctors	doctors	flowchart” has even been devised to help us	
-A-325	death	death	americans	americans	video, prescription drugs kill an estimated 106,000	
-A-325	united states	united states	placebo	placebo	report prescribing	
-A-325	sugar	sugar	pills	pills	in the sugar	
-A-325	doctors	doctors	placebo	placebo	and rheumatologists in the united states report prescribing	
-A-325	medicine	medicine	united states	united states	doctors and rheumatologists in the	
-A-325	doctors	doctors	placebos	placebos	give	
-A-325	americans	americans	doctors	doctors	a year, effectively making	
-A-325	death	death	prescription drugs	prescription drugs	video,	
-A-325	lying	lying	deception	deception	” versus a “non-lying	
-A-325	disease	disease	medicine	medicine	and crackpot	
-A-325	deception	deception	doctors	doctors	advocates reply: “	
-A-325	pills	pills	milk	milk	is typically lactose (	
-A-325	milk	milk	sugar	sugar		
-A-325	nausea	nausea	placebo	placebo	and vomiting compared to	
-A-325	chemotherapy	chemotherapy	vomiting	vomiting	caused a surprising reduction in nausea and	
 A-325	nausea	nausea	vomiting	vomiting	and	
+A-325	doctors	doctors	placebos	placebos	give	
+A-325	doctors	doctors	lying	lying	decide, for example, if we should consider a “	
 A-325	chemotherapy	chemotherapy	nausea	nausea	caused a surprising reduction in	
-A-325	prescription drugs	prescription drugs	americans	americans	kill an estimated 106,000	
-A-325	cancer	cancer	chemotherapy	chemotherapy	drug trial in which the	
+A-325	doctors	doctors	symptoms	symptoms	have a duty to do the best they can to relieve a patient’s	
 A-325	pills	pills	lactose	lactose	is typically	
-A-325	physicians	physicians	medicine	medicine	often condemn alternative	
+A-325	united states	united states	placebo	placebo	report prescribing	
 A-325	vomiting	vomiting	placebo	placebo	compared to	
-A-325	symptoms	symptoms	treatment	treatment	as an entity requiring a	
-A-325	sugar	sugar	milk	milk	in the sugar pills is typically lactose (	
-A-325	drugs	drugs	americans	americans	kill an estimated 106,000	
-A-325	physicians	physicians	alternative medicine	alternative medicine	often condemn	
-A-325	homeopathy	homeopathy	placebo	placebo	just	
-A-325	death	death	drugs	drugs	video, prescription	
-A-325	doctors	doctors	united states	united states	and rheumatologists in the	
-A-325	pills	pills	sugar	sugar	is typically lactose (milk	

@@ -1,113 +1,23 @@
 
-V-260	greens	greens	seeds	seeds	(cruciferous vegetables), but especially sesame	
-V-260	whole grain	whole grain	cancer	cancer	products was not associated with risk of breast	
-V-260	risk	risk	whole grains	whole grains	of breast cancer consume significantly lower amounts of	
-V-260	women	women	breast cancer	breast cancer	without	
-V-260	omnivores	omnivores	vegetarians	vegetarians	or	
-V-260	cruciferous vegetables	cruciferous vegetables	flaxseeds	flaxseeds	), but especially sesame seeds and	
-V-260	cancer	cancer	breast cancer	breast cancer	and women without, and the	
-V-260	tea	tea	berries	berries	and	
-V-260	cancer	cancer	cancer prevention	cancer prevention	as well as breast	
-V-260	cancer	cancer	women	women	seem to be cut in half for	
-V-260	bread	bread	adolescence	adolescence	consumption during	
-V-260	prostate	prostate	cancer	cancer		
-V-260	flaxseeds	flaxseeds	prostate cancer	prostate cancer	on	
-V-260	women	women	breast cancer	breast cancer	without, and the	
-V-260	bread	bread	lignans	lignans	a day, the same amount of	
-V-260	rye	rye	breast cancer	breast cancer	intake decrease the risk of	
-V-260	cancer	cancer	puberty	puberty	—particularly around	
-V-260	breast cancer	breast cancer	women	women	seem to be cut in half for	
-V-260	prostate cancer	prostate cancer	prostate	prostate	—particularly around puberty, when the	
-V-260	phytonutrients	phytonutrients	whole grains	whole grains	relatively unique to	
-V-260	women	women	risk	risk	at	
-V-260	phytonutrients	phytonutrients	grains	grains	relatively unique to whole	
-V-260	whole grain	whole grain	risk	risk	products was not associated with	
-V-260	adolescence	adolescence	rye	rye	and indeed those who consumed	
-V-260	psa	psa	cancer	cancer	levels, a	
-V-260	rye	rye	fiber	fiber	bread; the other half gets lots of high	
-V-260	prostate	prostate	breast cancer	breast cancer	cancer as well as	
-V-260	vegetables	vegetables	flaxseeds	flaxseeds	), but especially sesame seeds and	
+V-260	women	women	rye	rye	living in a region where they eat lots of	
 V-260	rye	rye	prostate cancer	prostate cancer	may be active against	
-V-260	women	women	cancer	cancer	without, and the breast	
-V-260	prostate cancer	prostate cancer	cancer	cancer	as well as breast	
-V-260	women	women	cancer	cancer	without breast	
-V-260	prostate	prostate	puberty	puberty	cancer—particularly around	
-V-260	kids	kids	cancer	cancer	may have cut their odds of advanced prostate	
-V-260	rye	rye	cancer	cancer	may be active against prostate	
-V-260	prostate cancer	prostate cancer	breast cancer	breast cancer	as well as	
-V-260	greens	greens	flaxseeds	flaxseeds	(cruciferous vegetables), but especially sesame seeds and	
+V-260	women	women	breast cancer	breast cancer	without, and the	
+V-260	cancer cells	cancer cells	rye	rye	being killed off in the	
+V-260	lignans	lignans	rye	rye	is found in	
+V-260	omnivores	omnivores	vegetarians	vegetarians	or	
+V-260	kids	kids	prostate	prostate	may have cut their odds of advanced	
+V-260	risk	risk	breast cancer	breast cancer	of	
+V-260	cancer	cancer	grains	grains	consume significantly lower amounts of whole	
+V-260	breast cancer	breast cancer	women	women	seem to be cut in half for	
+V-260	breast cancer	breast cancer	whole grains	whole grains	consume significantly lower amounts of	
+V-260	tea	tea	berries	berries	and	
 V-260	seeds	seeds	flaxseeds	flaxseeds	and	
+V-260	cancer	cancer	women	women	and	
 V-260	kids	kids	prostate cancer	prostate cancer	may have cut their odds of advanced	
-V-260	greens	greens	sesame seeds	sesame seeds	(cruciferous vegetables), but especially	
-V-260	milk	milk	prostate cancer	prostate cancer	consumption appeared to triple their risk of advanced	
-V-260	prostate cancer	prostate cancer	cancer prevention	cancer prevention	as well as breast	
+V-260	cancer	cancer	women	women	seem to be cut in half for	
+V-260	breast cancer	breast cancer	women	women	and	
 V-260	lignans	lignans	flaxseeds	flaxseeds	in	
-V-260	urine	urine	breast cancer	breast cancer	from women with	
-V-260	cancer prevention	cancer prevention	lignans	lignans	and survival, thought to be because of the	
-V-260	breast cancer	breast cancer	cancer	cancer	and women without, and the breast	
-V-260	milk	milk	prostate	prostate	consumption appeared to triple their risk of advanced	
+V-260	rye	rye	prostate	prostate	may be active against	
 V-260	cancer	cancer	whole grains	whole grains	consume significantly lower amounts of	
 V-260	breast cancer	breast cancer	grains	grains	consume significantly lower amounts of whole	
 V-260	sesame seeds	sesame seeds	flaxseeds	flaxseeds	and	
-V-260	prevention	prevention	lignans	lignans	and survival, thought to be because of the	
-V-260	urine	urine	women	women	from	
-V-260	cancer cells	cancer cells	rye	rye	being killed off in the	
-V-260	prostate cancer	prostate cancer	prevention	prevention	as well as breast cancer	
-V-260	wheat	wheat	bread	bread		
-V-260	kids	kids	prostate	prostate	may have cut their odds of advanced	
-V-260	lignans	lignans	women	women	in the bloodstream of	
-V-260	cancer	cancer	grains	grains	consume significantly lower amounts of whole	
-V-260	cancer	cancer	women	women	and	
-V-260	flaxseeds	flaxseeds	prevention	prevention	on prostate cancer as well as breast cancer	
-V-260	lignans	lignans	rye	rye	is found in	
-V-260	risk	risk	breast cancer	breast cancer	of	
-V-260	risk	risk	cancer	cancer	of breast	
-V-260	women	women	cancer	cancer	with breast	
-V-260	breast cancer	breast cancer	prevention	prevention		
-V-260	breast cancer	breast cancer	whole grains	whole grains	consume significantly lower amounts of	
-V-260	cancer	cancer	bread	bread	cell clearance of the control	
-V-260	cancer	cancer	cancer	cancer	as well as breast	
-V-260	prostate cancer	prostate cancer	risk	risk		
-V-260	risk	risk	prostate cancer	prostate cancer	of advanced	
-V-260	greens	greens	vegetables	vegetables	(cruciferous	
-V-260	cancer	cancer	prostate	prostate	—particularly around puberty, when the	
-V-260	rye	rye	cancer	cancer	intake decrease the risk of breast	
-V-260	flax	flax	seeds	seeds		
-V-260	women	women	breast cancer	breast cancer	with	
-V-260	rye	rye	prostate	prostate	may be active against	
-V-260	rye	rye	risk	risk	intake decrease the	
-V-260	flaxseeds	flaxseeds	cancer	cancer	on prostate	
-V-260	milk	milk	risk	risk	consumption appeared to triple their	
-V-260	prostate	prostate	cancer prevention	cancer prevention	cancer as well as breast	
-V-260	vegetables	vegetables	sesame seeds	sesame seeds	), but especially	
-V-260	women	women	breast cancer	breast cancer	at risk of	
-V-260	grains	grains	women	women	like rye.but if you follow older	
-V-260	bread	bread	rye	rye	consumption during adolescence and indeed those who consumed	
-V-260	prostate cancer	prostate cancer	puberty	puberty	—particularly around	
-V-260	cancer	cancer	cancer	cancer	and women without, and the breast	
-V-260	ground flax	ground flax	seeds	seeds		
-V-260	cancer	cancer	breast cancer	breast cancer	as well as	
-V-260	women	women	cancer	cancer	at risk of breast	
-V-260	breast cancer	breast cancer	women	women	and	
-V-260	risk	risk	prostate	prostate	of advanced	
-V-260	lignans	lignans	ground flax	ground flax	can be found in a single teaspoon of	
-V-260	risk	risk	cancer	cancer	of advanced prostate	
-V-260	rye	rye	adolescence	adolescence	bread consumption during	
-V-260	adolescence	adolescence	bread	bread	and indeed those who consumed rye	
-V-260	flaxseeds	flaxseeds	cancer prevention	cancer prevention	on prostate cancer as well as breast	
-V-260	flaxseeds	flaxseeds	prostate	prostate	on	
-V-260	vegetables	vegetables	seeds	seeds	), but especially sesame	
-V-260	cancer	cancer	women	women	survivors had significantly lower levels compared to	
-V-260	cancer	cancer	risk	risk		
-V-260	whole grains	whole grains	women	women	like rye.but if you follow older	
-V-260	rye	rye	bread	bread		
-V-260	breast cancer	breast cancer	women	women	survivors had significantly lower levels compared to	
-V-260	prostate	prostate	prevention	prevention	cancer as well as breast cancer	
-V-260	cruciferous vegetables	cruciferous vegetables	sesame seeds	sesame seeds	), but especially	
-V-260	flaxseeds	flaxseeds	breast cancer	breast cancer	on prostate cancer as well as	
-V-260	cancer	cancer	prevention	prevention	as well as breast cancer	
-V-260	prostate	prostate	risk	risk	cancer	
-V-260	cruciferous vegetables	cruciferous vegetables	seeds	seeds	), but especially sesame	
-V-260	urine	urine	cancer	cancer	from women with breast	
-V-260	dairy	dairy	diet	diet	that	
-V-260	whole grain	whole grain	breast cancer	breast cancer	products was not associated with risk of	

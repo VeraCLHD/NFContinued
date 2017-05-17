@@ -1,102 +1,21 @@
 
-V-221	protein	protein	kidneys	kidneys	on our	
-V-221	dairy	dairy	soy	soy	protein, and the consumption of whole	
-V-221	kidney	kidney	stress	stress		
-V-221	corn	corn	blood pressure	blood pressure	syrup are associated with increased	
+V-221	cholesterol	cholesterol	animal fat	animal fat	found in	
+V-221	disease	disease	kidneys	kidneys	don’t know it—about three-quarters of the millions affected are unaware their	
 V-221	animal fat	animal fat	kidney	kidney	can actually alter	
-V-221	sugar	sugar	blood pressure	blood pressure	and high-fructose corn syrup are associated with increased	
-V-221	fat	fat	kidney	kidney	can actually alter	
-V-221	soy protein	soy protein	protein	protein	appeared to make things better, compared to dairy	
-V-221	kidney function	kidney function	protein	protein	decline, though it may be animal	
-V-221	kidneys	kidneys	dialysis	dialysis	fail completely, requiring kidney transplants or lifelong	
-V-221	soy	soy	protein	protein		
-V-221	kidney function	kidney function	kidney disease	kidney disease	and chronic	
-V-221	protein	protein	meat	meat	leakage response to	
-V-221	stress	stress	kidneys	kidneys	on our	
-V-221	junk food	junk food	kidney function	kidney function	negatively impact	
-V-221	risk	risk	disease	disease	factor for impaired kidney function and chronic kidney	
-V-221	cholesterol	cholesterol	junk food	junk food	found in animal fat and	
-V-221	soy	soy	protein	protein	versus dairy	
-V-221	vegan	vegan	sodium	sodium	diet, then low	
-V-221	sugar	sugar	blood	blood	and high-fructose corn syrup are associated with increased	
-V-221	inflammatory response	inflammatory response	animal protein	animal protein	triggered by the	
-V-221	eggs	eggs	protein	protein	and dairy	
-V-221	eggs	eggs	dairy	dairy	and	
-V-221	animal protein	animal protein	plant protein	plant protein	cause that overload reaction, but not	
-V-221	dairy	dairy	protein	protein		
-V-221	vegetable protein	vegetable protein	meat	meat	does not appear to have the same effects.eating	
-V-221	corn syrup	corn syrup	blood	blood	are associated with increased	
-V-221	inflammation	inflammation	kidneys	kidneys	in the impact of animal protein on our	
-V-221	tofu	tofu	protein	protein	salad sandwich with the same amount of	
-V-221	risk	risk	kidney disease	kidney disease	factor for impaired kidney function and chronic	
-V-221	animal protein	animal protein	protein	protein	is associated with less hyperfiltration and	
-V-221	tuna	tuna	tofu	tofu	salad sandwich, we had a	
-V-221	protein	protein	sodium	sodium	leakage on a standard low	
-V-221	diet	diet	kidney	kidney	is a major risk factor for impaired	
-V-221	blood	blood	uric acid	uric acid	pressure and	
-V-221	stress	stress	meat	meat	response to a	
-V-221	blood	blood	inflammation	inflammation	flow,	
-V-221	meat	meat	anti-inflammatory	anti-inflammatory	meal, but here’s with the	
-V-221	uric acid	uric acid	kidney	kidney	levels that can both damage the	
-V-221	protein	protein	kidneys	kidneys	can deliver an acid load to the	
-V-221	animal fat	animal fat	kidney	kidney	and junk food negatively impact	
-V-221	inflammatory response	inflammatory response	protein	protein	triggered by the animal	
-V-221	sodium	sodium	vegan	vegan	diet, switched to a supplemented	
-V-221	kidney	kidney	stress	stress	reserves continuously, causing a kind of unrelenting	
-V-221	anti-inflammatory	anti-inflammatory	inflammation	inflammation	drug, confirming the role of	
-V-221	animal protein	animal protein	kidneys	kidneys	on our	
-V-221	corn syrup	corn syrup	blood pressure	blood pressure	are associated with increased	
-V-221	protein	protein	urine	urine	in the	
-V-221	ammonia	ammonia	kidney	kidney	production, and damage the sensitive	
-V-221	kidney	kidney	protein	protein	function decline, though it may be animal	
-V-221	vegan	vegan	diet	diet		
-V-221	protein	protein	kidney	kidney	require us to call on our	
-V-221	kidney	kidney	disease	disease	function and chronic kidney	
-V-221	animal protein	animal protein	kidneys	kidneys	can deliver an acid load to the	
-V-221	sugar	sugar	corn	corn	and high-fructose	
-V-221	dairy	dairy	kidneys	kidneys	protein which made things worse.once one’s	
-V-221	animal protein	animal protein	protein	protein	cause that overload reaction, but not plant	
-V-221	cholesterol	cholesterol	fat	fat	found in animal	
-V-221	protein	protein	plant protein	plant protein	cause that overload reaction, but not	
-V-221	risk	risk	kidney	kidney	factor for impaired	
-V-221	plant-based	plant-based	diet	diet		
-V-221	protein	protein	kidney function	kidney function	in the urine, and a rapid decrease in	
-V-221	kidney function	kidney function	disease	disease	and chronic kidney	
-V-221	protein	protein	kidney	kidney	intake is recommended for preventing	
-V-221	soy protein	soy protein	dairy	dairy	appeared to make things better, compared to	
-V-221	corn syrup	corn syrup	uric acid	uric acid	are associated with increased blood pressure and	
-V-221	tuna	tuna	fish	fish		
-V-221	health	health	protein	protein	consequences.animal	
-V-221	kidney	kidney	animal protein	animal protein	function decline, though it may be	
 V-221	protein	protein	dairy	dairy	appeared to make things better, compared to	
-V-221	protein	protein	kidney	kidney	in the urine, and a rapid decrease in	
-V-221	kidney	kidney	disease	disease		
-V-221	corn	corn	uric acid	uric acid	syrup are associated with increased blood pressure and	
+V-221	animal protein	animal protein	protein	protein	is associated with less hyperfiltration and	
+V-221	corn syrup	corn syrup	blood pressure	blood pressure	are associated with increased	
+V-221	protein	protein	meat	meat	does not appear to have the same effects.eating	
+V-221	inflammatory response	inflammatory response	animal protein	animal protein	triggered by the	
+V-221	fat	fat	kidney	kidney	can actually alter	
 V-221	diet	diet	risk	risk	is a major	
 V-221	blood pressure	blood pressure	uric acid	uric acid	and	
-V-221	sodium	sodium	diet	diet		
-V-221	soy	soy	dairy	dairy	protein appeared to make things better, compared to	
-V-221	risk	risk	kidney function	kidney function	factor for impaired	
-V-221	kidney function	kidney function	kidney	kidney	and chronic	
+V-221	eggs	eggs	dairy	dairy	and	
+V-221	animal protein	animal protein	plant protein	plant protein	cause that overload reaction, but not	
+V-221	soy protein	soy protein	dairy	dairy	appeared to make things better, compared to	
+V-221	protein	protein	kidney	kidney	require us to call on our	
+V-221	vegetable protein	vegetable protein	meat	meat	does not appear to have the same effects.eating	
+V-221	kidneys	kidneys	protein	protein	have deteriorated to the point that they’re actively losing	
+V-221	kidney disease	kidney disease	kidneys	kidneys	don’t know it—about three-quarters of the millions affected are unaware their	
+V-221	corn syrup	corn syrup	blood	blood	are associated with increased	
 V-221	animal fat	animal fat	junk food	junk food	and	
-V-221	cholesterol	cholesterol	animal fat	animal fat	found in	
-V-221	soy	soy	dairy	dairy	versus	
-V-221	anti-inflammatory	anti-inflammatory	protein	protein	drug abolished the hyperfiltration,	
-V-221	inflammation	inflammation	protein	protein	in the impact of animal	
-V-221	anti-inflammatory	anti-inflammatory	meat	meat	drug abolished the hyperfiltration, protein leakage response to	
-V-221	diet	diet	kidney function	kidney function	is a major risk factor for impaired	
-V-221	kidneys	kidneys	kidney	kidney	fail completely, requiring	
-V-221	protein	protein	meat	meat	does not appear to have the same effects.eating	
-V-221	protein	protein	diet	diet	leakage on a standard low sodium	
-V-221	kidney	kidney	kidney disease	kidney disease	function and chronic	
-V-221	kidney	kidney	meat	meat	stress response to a	
-V-221	inflammation	inflammation	animal protein	animal protein	in the impact of	
-V-221	kidneys	kidneys	kidney	kidney	that can predispose even healthy people to progressive	
-V-221	animal fat	animal fat	kidney function	kidney function	and junk food negatively impact	
-V-221	junk food	junk food	kidney	kidney	negatively impact	
-V-221	corn	corn	blood	blood	syrup are associated with increased	
-V-221	protein	protein	kidney function	kidney function	intake is recommended for preventing	
-V-221	blood	blood	protein	protein	flow, inflammation, and subsequent leakage of	
-V-221	health	health	animal protein	animal protein	consequences.	
-V-221	sugar	sugar	corn syrup	corn syrup	and high-fructose	
-V-221	kidney function	kidney function	animal protein	animal protein	decline, though it may be	

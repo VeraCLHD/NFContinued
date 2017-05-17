@@ -1,28 +1,5 @@
 
-V-516	nuts	nuts	phytates	phytates	—to get rid of	
-V-516	whole grains	whole grains	beans	beans	and legumes [	
-V-516	side effects	side effects	drugs	drugs	associated with this class of bisphosphonate	
-V-516	grains	grains	bone mineral density	bone mineral density	—have better	
-V-516	legumes	legumes	health	health	[beans, split peas, chickpeas, and lentils] for	
-V-516	grains	grains	peas	peas	and legumes [beans, split	
-V-516	grains	grains	lentils	lentils	and legumes [beans, split peas, chickpeas, and	
-V-516	whole grains	whole grains	peas	peas	and legumes [beans, split	
-V-516	phytates	phytates	risk	risk	were estimated to have significantly lower	
-V-516	legumes	legumes	split peas	split peas	[beans,	
-V-516	whole grains	whole grains	chickpeas	chickpeas	and legumes [beans, split peas,	
-V-516	grains	grains	beans	beans	and legumes [	
-V-516	grains	grains	split peas	split peas	and legumes [beans,	
-V-516	drugs	drugs	side effects	side effects	—	
 V-516	grains	grains	legumes	legumes	and	
-V-516	whole grains	whole grains	bone mineral density	bone mineral density	—have better	
-V-516	whole grains	whole grains	lentils	lentils	and legumes [beans, split peas, chickpeas, and	
-V-516	phytates	phytates	side effects	side effects	don’t have the	
-V-516	legumes	legumes	chickpeas	chickpeas	[beans, split peas,	
-V-516	legumes	legumes	lentils	lentils	[beans, split peas, chickpeas, and	
-V-516	grains	grains	chickpeas	chickpeas	and legumes [beans, split peas,	
-V-516	lentils	lentils	health	health	] for	
+V-516	phytates	phytates	risk	risk	were estimated to have significantly lower	
 V-516	whole grains	whole grains	legumes	legumes	and	
-V-516	osteoporosis	osteoporosis	risk	risk	and that low phytate consumption [may instead be] considered an osteoporosis	
-V-516	legumes	legumes	peas	peas	[beans, split	
-V-516	whole grains	whole grains	split peas	split peas	and legumes [beans,	
-V-516	diet	diet	calcium	calcium	and measure their	
+V-516	phytates	phytates	side effects	side effects	don’t have the	

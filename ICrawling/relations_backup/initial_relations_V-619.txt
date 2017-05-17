@@ -1,54 +1,7 @@
 
-V-619	bacteria	bacteria	women	women	to recover.that’s why	
-V-619	risk	risk	cancer	cancer	for breast	
-V-619	flax	flax	seeds	seeds		
-V-619	risk	risk	breast cancer	breast cancer	for	
-V-619	grains	grains	plant foods	plant foods	and other	
-V-619	breast cancer	breast cancer	risk	risk		
-V-619	plant-based	plant-based	cancer	cancer	diets have lower	
-V-619	lignans	lignans	sesame seeds	sesame seeds	in	
-V-619	lignans	lignans	whole grains	whole grains	in sesame seeds, nuts,	
-V-619	carcinoma in situ	carcinoma in situ	breast cancer	breast cancer	), or already had	
-V-619	urinary tract infections	urinary tract infections	cancer	cancer	may be at higher risk for breast	
-V-619	women	women	strawberries	strawberries	to eat ten cups of	
-V-619	carcinoma in situ	carcinoma in situ	cancer	cancer	), or already had breast	
-V-619	lignans	lignans	nuts	nuts	in sesame seeds,	
-V-619	women	women	cancer	cancer	at high risk for breast	
-V-619	lignans	lignans	cancer	cancer	do directly suppress the proliferation of breast	
-V-619	cancer cells	cancer cells	lignans	lignans	—but, only after the plant	
-V-619	biopsy	biopsy	precancerous changes	precancerous changes	(showing either	
-V-619	lignans	lignans	grains	grains	in sesame seeds, nuts, whole	
-V-619	lignans	lignans	grains	grains	circulating within their bodies, thanks to the	
-V-619	precancerous	precancerous	breast cancer	breast cancer	changes, or carcinoma in situ), or already had	
-V-619	lignans	lignans	fruits	fruits	in sesame seeds, nuts, whole grains, legumes, certain	
-V-619	cancer	cancer	lignans	lignans	cells—but, only after the plant	
-V-619	lignans	lignans	cancer cells	cancer cells	do directly suppress the proliferation of breast	
-V-619	lignans	lignans	legumes	legumes	in sesame seeds, nuts, whole grains,	
-V-619	phytonutrients	phytonutrients	prevention	prevention	for breast cancer	
-V-619	phytonutrients	phytonutrients	cancer	cancer	for breast	
-V-619	women	women	risk	risk	with urinary tract infections may be at higher	
-V-619	infections	infections	risk	risk	may be at higher	
-V-619	risk	risk	biopsy	biopsy	for breast cancer—meaning they had a suspicious breast	
-V-619	biopsy	biopsy	precancerous	precancerous	(showing either	
-V-619	phytonutrients	phytonutrients	breast cancer	breast cancer	for	
-V-619	women	women	infections	infections	with urinary tract	
-V-619	phytonutrients	phytonutrients	cancer prevention	cancer prevention	for breast	
-V-619	women	women	breast cancer	breast cancer	at high risk for	
-V-619	cancer	cancer	risk	risk		
-V-619	precancerous	precancerous	carcinoma in situ	carcinoma in situ	changes, or	
 V-619	lignans	lignans	breast cancer	breast cancer	do directly suppress the proliferation of	
-V-619	breast cancer	breast cancer	biopsy	biopsy	—meaning they had a suspicious breast	
-V-619	women	women	urinary tract infections	urinary tract infections	with	
-V-619	cancer	cancer	biopsy	biopsy	—meaning they had a suspicious breast	
-V-619	infections	infections	breast cancer	breast cancer	may be at higher risk for	
-V-619	bacteria	bacteria	gut	gut	in our	
-V-619	infections	infections	cancer	cancer	may be at higher risk for breast	
-V-619	biopsy	biopsy	carcinoma in situ	carcinoma in situ	(showing either precancerous changes, or	
-V-619	urinary tract infections	urinary tract infections	breast cancer	breast cancer	may be at higher risk for	
-V-619	women	women	risk	risk	at high	
-V-619	lignans	lignans	seeds	seeds	in sesame	
-V-619	bacteria	bacteria	urinary tract infections	urinary tract infections	to recover.that’s why women with	
 V-619	plant-based diets	plant-based diets	cancer	cancer	have lower	
+V-619	vegetarians	vegetarians	lignans	lignans	appeared to have up to three times the level of	
+V-619	infections	infections	risk	risk	may be at higher	
 V-619	urinary tract infections	urinary tract infections	risk	risk	may be at higher	
-V-619	breast cancer	breast cancer	lignans	lignans	cells—but, only after the plant	
-V-619	bacteria	bacteria	infections	infections	to recover.that’s why women with urinary tract	
+V-619	lignans	lignans	sesame seeds	sesame seeds	in	

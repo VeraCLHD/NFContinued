@@ -1,35 +1,5 @@
 
-V-510	vegetarians	vegetarians	omnivores	omnivores	were just as stiff as those of the	
-V-510	homocysteine	homocysteine	blood	blood	levels in their	
-V-510	vegan diets	vegan diets	b12	b12	through vitamin	
-V-510	vitamin b12	vitamin b12	supplements	supplements	fortification or	
-V-510	homocysteine	homocysteine	blood	blood	in the	
-V-510	kidney	kidney	blood	blood	function, better	
-V-510	plant-based	plant-based	triglycerides	triglycerides	: lower body mass index, blood pressure,	
-V-510	vegetables	vegetables	meat	meat	should be eaten instead of	
-V-510	vegans	vegans	b12	b12	should include sources of vitamin	
 V-510	plant-based diets	plant-based diets	vitamin b12	vitamin b12	don’t get enough	
-V-510	vegan	vegan	supplements	supplements	diets through vitamin b12 fortification or	
-V-510	plant-based	plant-based	body mass index	body mass index	: lower	
-V-510	kidney	kidney	sugar	sugar	function, better blood	
-V-510	kidney	kidney	blood sugar	blood sugar	function, better	
-V-510	vegetarians	vegetarians	b12	b12	whose	
-V-510	blood	blood	triglycerides	triglycerides	pressure,	
-V-510	arteries	arteries	vegetarians	vegetarians	of	
+V-510	vegetarians	vegetarians	omnivores	omnivores	were just as stiff as those of the	
 V-510	vegans	vegans	vitamin b12	vitamin b12	should include sources of	
-V-510	b12	b12	supplements	supplements	fortification or	
-V-510	plant-based	plant-based	blood pressure	blood pressure	: lower body mass index,	
-V-510	vegan diets	vegan diets	supplements	supplements	through vitamin b12 fortification or	
-V-510	plant-based	plant-based	vitamin b12	vitamin b12	diets don’t get enough	
-V-510	b12	b12	supplements	supplements		
-V-510	carotid arteries	carotid arteries	homocysteine	homocysteine	—perhaps because of the elevated	
-V-510	vegan	vegan	b12	b12	diets through vitamin	
-V-510	vegan	vegan	vitamin b12	vitamin b12	diets through	
-V-510	arteries	arteries	omnivores	omnivores	than the	
-V-510	vegan diets	vegan diets	vitamin b12	vitamin b12	through	
-V-510	plant-based	plant-based	b12	b12	diets don’t get enough vitamin	
-V-510	plant-based diets	plant-based diets	b12	b12	don’t get enough vitamin	
-V-510	plant-based	plant-based	blood	blood	: lower body mass index,	
-V-510	blood	blood	free radicals	free radicals	pressure, triglycerides, total cholesterol, bad cholesterol; fewer 	
-V-510	blood	blood	bad cholesterol	bad cholesterol	pressure, triglycerides, total cholesterol,	
-V-510	blood	blood	cholesterol	cholesterol	pressure, triglycerides, total	
+V-510	arteries	arteries	vegetarians	vegetarians	of	

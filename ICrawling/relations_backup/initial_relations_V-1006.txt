@@ -1,26 +1,4 @@
 
-V-1006	egg	egg	kfc	kfc	to the fast food monstrosity du jour, the	
-V-1006	endothelial	endothelial	heart attacks	heart attacks	function, and increases cardiovascular events (meaning	
-V-1006	dietary cholesterol	dietary cholesterol	ldl	ldl	increases the susceptibility of	
 V-1006	eggs	eggs	cholesterol	cholesterol	make your bad	
-V-1006	fast food	fast food	kfc	kfc	monstrosity du jour, the	
-V-1006	risk	risk	disease	disease	of vascular	
-V-1006	egg	egg	cholesterol	cholesterol	provides more than the 210mg of	
-V-1006	dietary cholesterol	dietary cholesterol	cholesterol	cholesterol	increases the susceptibility of ldl (bad	
-V-1006	stroke	stroke	prevention	prevention		
-V-1006	egg	egg	cholesterol	cholesterol	producers’ lobby” to downplay the risks of	
-V-1006	dietary cholesterol	dietary cholesterol	cholesterol	cholesterol	may only increase our fasting	
-V-1006	egg	egg	cholesterol	cholesterol	yolk contains approximately 215mg to 275mg of	
-V-1006	ldl	ldl	cholesterol	cholesterol	(bad	
-V-1006	inflammation	inflammation	plaque	plaque	that leads to the artery-clogging	
-V-1006	bad cholesterol	bad cholesterol	dietary cholesterol	dietary cholesterol	go up, but for hours after you eat,	
-V-1006	dietary cholesterol	dietary cholesterol	bad cholesterol	bad cholesterol	increases the susceptibility of ldl (	
-V-1006	chicken	chicken	egg	egg	or the	
-V-1006	cholesterol	cholesterol	dietary cholesterol	dietary cholesterol	go up, but for hours after you eat,	
-V-1006	ldl	ldl	inflammation	inflammation	(bad cholesterol) to oxidization, vascular	
-V-1006	ldl	ldl	stress	stress	(bad cholesterol) to oxidization, vascular inflammation, oxidative	
-V-1006	egg	egg	fast food	fast food	to the	
+V-1006	dietary cholesterol	dietary cholesterol	ldl	ldl	increases the susceptibility of	
 V-1006	eggs	eggs	bad cholesterol	bad cholesterol	make your	
-V-1006	cholesterol	cholesterol	egg	egg	.the fundamental flaw of the studies the	
-V-1006	stroke	stroke	atherosclerosis	atherosclerosis	prevention &	
-V-1006	ldl	ldl	oxidative stress	oxidative stress	(bad cholesterol) to oxidization, vascular inflammation,	

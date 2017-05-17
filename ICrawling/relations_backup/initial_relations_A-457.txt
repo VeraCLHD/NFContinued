@@ -1,68 +1,15 @@
 
 A-457	treatment	treatment	hypertension	hypertension	of	
-A-457	health	health	meats	meats	concerns associated with processed	
 A-457	processed meats	processed meats	chicken	chicken	including	
-A-457	treatment	treatment	disease	disease	of hypertension and heart	
-A-457	meat	meat	nitrosamines	nitrosamines	the levels of	
-A-457	meats	meats	turkey	turkey	including chicken,	
-A-457	prevention	prevention	heart disease	heart disease	and treatment of hypertension and	
-A-457	prevention	prevention	disease	disease	and treatment of hypertension and heart	
-A-457	bacon	bacon	botulism	botulism	and	
-A-457	meats	meats	chicken	chicken	including	
-A-457	meats	meats	dogs	dogs	such as bacon, ham, and hot	
-A-457	nitrates	nitrates	vegetables	vegetables	in	
-A-457	meats	meats	ham	ham	such as bacon,	
-A-457	urine	urine	asparagus	asparagus	that sometimes results from	
-A-457	prevention	prevention	hypertension	hypertension	and treatment of	
-A-457	brain tumors	brain tumors	leukemia	leukemia	and childhood	
-A-457	meat	meat	carcinogens	carcinogens	has the highest level of these	
-A-457	risk	risk	cancer	cancer	that consumers will get	
-A-457	meats	meats	hot dogs	hot dogs	such as bacon, ham, and	
-A-457	antioxidants	antioxidants	meats	meats	to processed	
-A-457	bacon	bacon	meat	meat	that this may make the	
-A-457	cured meats	cured meats	dogs	dogs	such as bacon, ham, and hot	
-A-457	hypertension	hypertension	disease	disease	and heart	
-A-457	prevention	prevention	nitrosamines	nitrosamines	is better than cured meat the levels of	
-A-457	nitric oxide	nitric oxide	nitrites	nitrites	inside our bodies, what about the	
-A-457	bacon	bacon	spinach	spinach	good or is	
-A-457	processed meats	processed meats	pork	pork	including chicken, turkey, and	
-A-457	antiseptic	antiseptic	bacteria	bacteria	mouthwash, which describes the role the natural good	
-A-457	meats	meats	pork	pork	including chicken, turkey, and	
-A-457	leafy vegetables	leafy vegetables	treatment	treatment	play in the prevention and	
-A-457	carcinogens	carcinogens	frying	frying	in the smell of	
-A-457	treatment	treatment	heart disease	heart disease	of hypertension and	
-A-457	nitrate	nitrate	vegetables	vegetables		
-A-457	antioxidants	antioxidants	processed meats	processed meats	to	
-A-457	cured meats	cured meats	bacon	bacon	such as	
-A-457	processed meats	processed meats	turkey	turkey	including chicken,	
-A-457	bacteria	bacteria	flora	flora		
-A-457	leafy vegetables	leafy vegetables	hypertension	hypertension	play in the prevention and treatment of	
-A-457	processed meat	processed meat	nitrosamines	nitrosamines	form	
-A-457	frying	frying	bacon	bacon		
-A-457	vegetables	vegetables	greens	greens	such as	
-A-457	cured meats	cured meats	ham	ham	such as bacon,	
-A-457	carcinogens	carcinogens	bacon	bacon	in the smell of frying	
-A-457	vegetables	vegetables	nitric oxide	nitric oxide	into the vasodilator	
-A-457	leafy vegetables	leafy vegetables	prevention	prevention	play in the	
-A-457	nitrites	nitrites	nitric oxide	nitric oxide	and then	
-A-457	nitrate	nitrate	nitric oxide	nitric oxide	in vegetables into the vasodilator	
-A-457	prevention	prevention	treatment	treatment	and	
-A-457	nitrate	nitrate	vegetables	vegetables	in	
-A-457	nitrosamines	nitrosamines	processed meats	processed meats	are compared across an array of	
-A-457	nitrites	nitrites	processed meat	processed meat	go bad i describe how nitrites added to	
-A-457	vegetables	vegetables	treatment	treatment	play in the prevention and	
-A-457	greens	greens	nitrites	nitrites	are health-promoting because they can be turned into	
-A-457	meat	meat	nitrosamines	nitrosamines	form	
 A-457	nitrosamines	nitrosamines	meats	meats	are compared across an array of processed	
 A-457	prevention	prevention	meat	meat	is better than cured	
-A-457	meats	meats	bacon	bacon	such as	
-A-457	health	health	processed meats	processed meats	concerns associated with	
 A-457	vegetables	vegetables	prevention	prevention	play in the	
 A-457	hypertension	hypertension	heart disease	heart disease	and	
-A-457	nitrates	nitrates	pollutants	pollutants		
-A-457	vegetables	vegetables	nitrate	nitrate	rate by	
-A-457	cured meats	cured meats	hot dogs	hot dogs	such as bacon, ham, and	
-A-457	tumors	tumors	leukemia	leukemia	and childhood	
-A-457	antiseptic	antiseptic	mouthwash	mouthwash		
-A-457	vegetables	vegetables	hypertension	hypertension	play in the prevention and treatment of	
-A-457	nitrates	nitrates	greens	greens	in vegetables such as	
+A-457	leafy vegetables	leafy vegetables	prevention	prevention	play in the	
+A-457	prevention	prevention	treatment	treatment	and	
+A-457	bacon	bacon	botulism	botulism	and	
+A-457	nitrate	nitrate	vegetables	vegetables	in	
+A-457	meats	meats	chicken	chicken	including	
+A-457	nitrates	nitrates	vegetables	vegetables	in	
+A-457	nitrosamines	nitrosamines	processed meats	processed meats	are compared across an array of	
+A-457	meat	meat	carcinogens	carcinogens	has the highest level of these	

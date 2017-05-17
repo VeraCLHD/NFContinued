@@ -1,29 +1,10 @@
 
-A-293	kiwifruit	kiwifruit	folate	folate	has	
-A-293	dna	dna	kiwifruit	kiwifruit	repair and	
-A-293	dna	dna	irritable bowel syndrome	irritable bowel syndrome	repair and kiwifruit for	
-A-293	sleep	sleep	risk	risk	durations were associated with an increased	
-A-293	kiwis	kiwis	kiwifruit	kiwifruit	in my videos	
-A-293	insomnia	insomnia	folate	folate	—but there’s a lot more	
-A-293	sleeping pills	sleeping pills	valium	valium	like	
-A-293	kiwifruit	kiwifruit	insomnia	insomnia	has folate, and a deficiency might cause	
-A-293	kiwifruit	kiwifruit	syndrome	syndrome	and dna repair and kiwifruit for irritable bowel	
-A-293	serotonin	serotonin	tomatoes	tomatoes	of	
-A-293	fruits	fruits	antioxidants	antioxidants	and vegetables have	
-A-293	lifespan	lifespan	sleep	sleep	because being unhealthy causes us to	
-A-293	dna	dna	syndrome	syndrome	repair and kiwifruit for irritable bowel	
-A-293	sleep	sleep	stress	stress	disorders tend to have high levels of oxidative	
-A-293	pills	pills	valium	valium	like	
-A-293	sleep	sleep	pneumonia	pneumonia	durations were associated with an increased risk of	
-A-293	immune function	immune function	sleep	sleep	where “both reduced and prolonged habitual	
-A-293	sleep disorders	sleep disorders	oxidative stress	oxidative stress	tend to have high levels of	
-A-293	kiwifruit	kiwifruit	dna	dna	and	
 A-293	risk	risk	pneumonia	pneumonia	of	
-A-293	kiwis	kiwis	dna	dna	in my videos kiwifruit and	
+A-293	serotonin	serotonin	tomatoes	tomatoes	of	
+A-293	kiwifruit	kiwifruit	folate	folate	has	
 A-293	sleep disorders	sleep disorders	stress	stress	tend to have high levels of oxidative	
-A-293	sleep	sleep	mortality	mortality	duration were associated with increased	
 A-293	symptoms	symptoms	insomnia	insomnia	of	
-A-293	vegetables	vegetables	antioxidants	antioxidants	have	
-A-293	sleep	sleep	oxidative stress	oxidative stress	disorders tend to have high levels of	
-A-293	kiwifruit	kiwifruit	irritable bowel syndrome	irritable bowel syndrome	and dna repair and kiwifruit for	
+A-293	sleep disorders	sleep disorders	oxidative stress	oxidative stress	tend to have high levels of	
 A-293	fruits	fruits	vegetables	vegetables	and	
+A-293	vegetables	vegetables	antioxidants	antioxidants	have	
+A-293	kiwifruit	kiwifruit	dna	dna	and	

@@ -1,17 +1,5 @@
 
-T-768	diet	diet	folate	folate	are deficient in	
-T-768	ground flax	ground flax	beans	beans	seeds, and	
-T-768	insomnia	insomnia	depression	depression	and	
-T-768	folate	folate	plant-based diet	plant-based diet	(among other nutrients), and eating a	
-T-768	plant-based	plant-based	diet	diet		
-T-768	ground flax	ground flax	seeds	seeds		
-T-768	diet	diet	folate	folate	typically provides higher levels of most nutrients, including	
-T-768	flax	flax	seeds	seeds		
 T-768	standard american diet	standard american diet	folate	folate	are deficient in	
-T-768	risk	risk	cancer	cancer	of some types of	
-T-768	folate	folate	depression	depression	may be associated with insomnia and	
-T-768	folate	folate	diet	diet	(among other nutrients), and eating a plant-based	
-T-768	flax	flax	beans	beans	seeds, and	
-T-768	plant-based diet	plant-based diet	folate	folate	typically provides higher levels of most nutrients, including	
-T-768	folate	folate	plant-based	plant-based	(among other nutrients), and eating a	
+T-768	diet	diet	folate	folate	are deficient in	
+T-768	insomnia	insomnia	depression	depression	and	
 T-768	folate	folate	insomnia	insomnia	may be associated with	

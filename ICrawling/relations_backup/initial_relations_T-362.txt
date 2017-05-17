@@ -1,15 +1,2 @@
 
-T-362	fatigue	fatigue	syndrome	syndrome		
-T-362	cocoa	cocoa	phytonutrients	phytonutrients		
-T-362	nuts	nuts	candy	candy	and fruits over	
-T-362	licorice	licorice	pregnancy	pregnancy	consumption should be limited, especially during	
-T-362	chocolate	chocolate	phytonutrients	phytonutrients	(containing cocoa	
-T-362	pumpkin	pumpkin	pie	pie		
-T-362	phytonutrients	phytonutrients	chronic fatigue syndrome	chronic fatigue syndrome	) was recently associated with a relief of	
-T-362	candy	candy	antioxidants	antioxidants	bar still contains more	
-T-362	pumpkin	pumpkin	junk food	junk food	pie are healthy alternatives to	
-T-362	cocoa	cocoa	chronic fatigue syndrome	chronic fatigue syndrome	phytonutrients) was recently associated with a relief of	
-T-362	pie	pie	junk food	junk food	 are healthy alternatives to	
 T-362	nuts	nuts	fruits	fruits	and	
-T-362	chocolate	chocolate	cocoa	cocoa	(containing	
-T-362	fruits	fruits	candy	candy	over	

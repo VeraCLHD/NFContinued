@@ -1,73 +1,12 @@
 
-V-382	manganese	manganese	tea	tea	level in hibiscus	
-V-382	herbal	herbal	hibiscus	hibiscus	tea,	
-V-382	infants	infants	milk	milk	under 6 months—who should only be getting breast	
-V-382	hibiscus tea	hibiscus tea	aluminum	aluminum		
-V-382	herbal	herbal	tea	tea		
-V-382	tea	tea	water	water		
-V-382	hibiscus tea	hibiscus tea	black tea	black tea	aluminum, unlike green and	
-V-382	hibiscus	hibiscus	water	water	into the tea	
-V-382	pregnant	pregnant	women	women		
-V-382	juice	juice	citric acid	citric acid	can increase aluminum absorption 8-fold, and	
-V-382	beverages	beverages	fruit juice	fruit juice	such as	
-V-382	orange	orange	aluminum	aluminum	juice can increase	
-V-382	lemon	lemon	tea	tea	or no	
-V-382	fruits	fruits	iron	iron	can enhance the absorption of	
-V-382	black tea	black tea	aluminum	aluminum		
-V-382	aluminum	aluminum	tea	tea	in the bloodstream, suggesting that	
-V-382	tea	tea	aluminum	aluminum	water, but there’s less	
-V-382	lemon	lemon	fruits	fruits	and limes.just as sour	
-V-382	hibiscus tea	hibiscus tea	infants	infants	should be completely avoided by	
-V-382	citric acid	citric acid	lemon	lemon	was worse—the acid found naturally concentrated in	
-V-382	red zinger	red zinger	herbal tea	herbal tea		
-V-382	infants	infants	breast milk	breast milk	under 6 months—who should only be getting	
-V-382	hibiscus tea	hibiscus tea	tea	tea	aluminum, unlike green and black	
-V-382	antioxidant	antioxidant	enzymes	enzymes		
-V-382	milk	milk	kidney	kidney	—as well as kids with	
-V-382	aluminum	aluminum	citric acid	citric acid	absorption 8-fold, and	
-V-382	kids	kids	kidney failure	kidney failure	with	
-V-382	tea	tea	manganese	manganese	drinkers may get 10 times the	
-V-382	aluminum	aluminum	manganese	manganese	content, and increasing	
-V-382	tea	tea	infants	infants	should be completely avoided by	
-V-382	breast milk	breast milk	kidney	kidney	—as well as kids with	
-V-382	red zinger	red zinger	hibiscus	hibiscus	herbal tea,	
-V-382	red zinger	red zinger	tea	tea	herbal	
-V-382	aluminum	aluminum	tea	tea	in	
-V-382	aluminum	aluminum	water	water	gets from the hibiscus into the tea	
-V-382	tea	tea	lemon	lemon	without	
 V-382	aluminum	aluminum	hibiscus	hibiscus	gets from the	
-V-382	kids	kids	pregnant	pregnant	every day or for	
-V-382	kids	kids	women	women	every day or for pregnant	
-V-382	hibiscus	hibiscus	aluminum	aluminum	into the tea water, but there’s less	
-V-382	beverages	beverages	juice	juice	such as fruit	
-V-382	orange juice	orange juice	citric acid	citric acid	can increase aluminum absorption 8-fold, and	
-V-382	manganese	manganese	hibiscus tea	hibiscus tea	level in	
-V-382	milk	milk	kids	kids	—as well as	
-V-382	kids	kids	kidney	kidney	with	
-V-382	beverages	beverages	fruit	fruit	such as	
-V-382	tea	tea	aluminum	aluminum		
-V-382	milk	milk	kidney failure	kidney failure	—as well as kids with	
-V-382	orange	orange	juice	juice		
-V-382	orange juice	orange juice	aluminum	aluminum	can increase	
-V-382	hibiscus	hibiscus	tea	tea		
-V-382	breast milk	breast milk	kidney failure	kidney failure	—as well as kids with	
-V-382	orange	orange	citric acid	citric acid	juice can increase aluminum absorption 8-fold, and	
+V-382	hibiscus tea	hibiscus tea	infants	infants	should be completely avoided by	
 V-382	juice	juice	aluminum	aluminum	can increase	
-V-382	breast milk	breast milk	kids	kids	—as well as	
-V-382	aluminum	aluminum	tea	tea	gets from the hibiscus into the	
-V-382	antacids	antacids	aluminum	aluminum	are probably the most important source for human	
-V-382	tea	tea	black tea	black tea	aluminum, unlike green and	
-V-382	kids	kids	pregnant women	pregnant women	every day or for	
-V-382	aluminum	aluminum	tea	tea	then get from the	
-V-382	aluminum	aluminum	water	water	then get from the tea	
-V-382	hibiscus	hibiscus	aluminum	aluminum	tea	
-V-382	tea	tea	aluminum	aluminum	drinking does not significantly contribute to	
-V-382	red zinger	red zinger	herbal	herbal		
-V-382	hibiscus	hibiscus	black tea	black tea	tea aluminum, unlike green and	
-V-382	hibiscus	hibiscus	aluminum	aluminum	petals in, not throwing them away, effectively doubling	
-V-382	hibiscus	hibiscus	tea	tea	into the	
-V-382	fruit	fruit	juice	juice		
-V-382	tea	tea	lemon	lemon	with	
+V-382	fruits	fruits	iron	iron	can enhance the absorption of	
+V-382	citric acid	citric acid	lemon	lemon	was worse—the acid found naturally concentrated in	
+V-382	tea	tea	infants	infants	should be completely avoided by	
 V-382	manganese	manganese	risk	risk	poses a	
-V-382	hibiscus	hibiscus	infants	infants	tea should be completely avoided by	
-V-382	manganese	manganese	hibiscus	hibiscus	level in	
+V-382	antacids	antacids	aluminum	aluminum	are probably the most important source for human	
+V-382	orange juice	orange juice	aluminum	aluminum	can increase	
+V-382	tea	tea	citric acid	citric acid	is because it has natural acids in it like	
+V-382	aluminum	aluminum	tea	tea	in	

@@ -1,73 +1,12 @@
 
-A-290	inflammation	inflammation	infection	infection	during the	
-A-290	irritable bowel syndrome	irritable bowel syndrome	ibs	ibs	and chronic indigestion, those with	
-A-290	placebo	placebo	abdominal pain	abdominal pain	in decreasing the intensity of	
-A-290	abdominal pain	abdominal pain	bloating	bloating	and	
-A-290	irritable bowel syndrome	irritable bowel syndrome	indigestion	indigestion	and functional dyspepsia (chronic	
-A-290	pain	pain	bloating	bloating	and	
-A-290	ibs	ibs	fruit	fruit	in kiwi	
-A-290	pain	pain	substance p	substance p	fibers of	
-A-290	sugar	sugar	symptoms	symptoms	pill, within a month their overall	
-A-290	poultry	poultry	fecal bacteria	fecal bacteria	and paralysis,	
-A-290	pepper	pepper	pills	pills	powder in ibs patients with enteric-coated	
-A-290	food poisoning	food poisoning	bacteria	bacteria	in videos such as poultry and paralysis, fecal	
-A-290	pepper	pepper	indigestion	indigestion	for irritable bowel syndrome and chronic	
-A-290	treatment	treatment	ibs	ibs	for	
-A-290	campylobacter	campylobacter	irritable bowel syndrome	irritable bowel syndrome	are left with	
-A-290	dyspepsia	dyspepsia	indigestion	indigestion	(chronic	
-A-290	food poisoning	food poisoning	fecal bacteria	fecal bacteria	in videos such as poultry and paralysis,	
-A-290	syndrome	syndrome	indigestion	indigestion	and chronic	
-A-290	poultry	poultry	seafood	seafood	and paralysis, fecal bacteria survey, and amnesic	
-A-290	poultry	poultry	paralysis	paralysis	and	
-A-290	stomach	stomach	vomiting	vomiting	flu”—a few days of pain,	
-A-290	hot sauce	hot sauce	headaches	headaches	in the nose for cluster	
-A-290	salmonella	salmonella	chicken	chicken	in	
-A-290	pepper	pepper	substance p	substance p	compounds to deplete pain fibers of	
-A-290	kiwi fruit	kiwi fruit	irritable bowel syndrome	irritable bowel syndrome	for	
-A-290	pepper	pepper	irritable bowel syndrome	irritable bowel syndrome	for	
-A-290	kiwi fruit	kiwi fruit	syndrome	syndrome	for irritable bowel	
-A-290	pepper	pepper	syndrome	syndrome	for irritable bowel	
-A-290	ibs	ibs	abdominal pain	abdominal pain	also experienced	
-A-290	americans	americans	food poisoning	food poisoning	come down with	
-A-290	hot sauce	hot sauce	cluster headaches	cluster headaches	in the nose for	
-A-290	pepper	pepper	ibs	ibs	powder in	
-A-290	syndrome	syndrome	dyspepsia	dyspepsia	and functional	
-A-290	salmonella	salmonella	turkey	turkey	in chicken &	
-A-290	ibs	ibs	pills	pills	patients with enteric-coated	
-A-290	peppers	peppers	blind	blind	because then we couldn’t	
-A-290	treatment	treatment	kiwi fruit	kiwi fruit	for ibs in	
-A-290	fruit	fruit	irritable bowel syndrome	irritable bowel syndrome	for	
-A-290	pepper	pepper	pain	pain	compounds to deplete	
-A-290	treatment	treatment	fruit	fruit	for ibs in kiwi	
-A-290	fruit	fruit	syndrome	syndrome	for irritable bowel	
-A-290	stomach	stomach	pain	pain		
-A-290	pepper	pepper	indigestion	indigestion	powder to folks suffering from chronic	
-A-290	fecal bacteria	fecal bacteria	seafood	seafood	survey, and amnesic	
-A-290	symptoms	symptoms	stomach	stomach	improved, including their	
-A-290	food poisoning	food poisoning	paralysis	paralysis	in videos such as poultry and	
-A-290	ibs	ibs	irritable bowel syndrome	irritable bowel syndrome	in kiwi fruit for	
-A-290	poultry	poultry	bacteria	bacteria	and paralysis, fecal	
-A-290	irritable bowel syndrome	irritable bowel syndrome	dyspepsia	dyspepsia	and functional	
-A-290	peppers	peppers	placebo	placebo	because then we couldn’t blind a	
-A-290	ibs	ibs	pain	pain	had a significantly lower	
-A-290	food poisoning	food poisoning	poultry	poultry	in videos such as	
-A-290	bacteria	bacteria	seafood	seafood	survey, and amnesic	
-A-290	placebo	placebo	bloating	bloating	in decreasing the intensity of abdominal pain and	
-A-290	ibs	ibs	pain	pain	also experienced abdominal	
-A-290	cayenne pepper	cayenne pepper	indigestion	indigestion	for irritable bowel syndrome and chronic	
-A-290	syndrome	syndrome	ibs	ibs	and chronic indigestion, those with	
-A-290	treatment	treatment	irritable bowel syndrome	irritable bowel syndrome	for ibs in kiwi fruit for	
-A-290	placebo	placebo	pain	pain	in decreasing the intensity of abdominal	
 A-290	ibs	ibs	kiwi fruit	kiwi fruit	in	
-A-290	stomach	stomach	pain	pain	flu”—a few days of	
-A-290	irritable bowel syndrome	irritable bowel syndrome	indigestion	indigestion	and chronic	
-A-290	cayenne pepper	cayenne pepper	irritable bowel syndrome	irritable bowel syndrome	for	
-A-290	symptoms	symptoms	pain	pain	improved, including their stomach	
-A-290	treatment	treatment	syndrome	syndrome	for ibs in kiwi fruit for irritable bowel	
-A-290	cayenne pepper	cayenne pepper	syndrome	syndrome	for irritable bowel	
-A-290	blind	blind	placebo	placebo	a	
+A-290	americans	americans	food poisoning	food poisoning	come down with	
+A-290	abdominal pain	abdominal pain	bloating	bloating	and	
+A-290	food poisoning	food poisoning	stomach	stomach	manifests itself as little more than a case of “	
+A-290	poultry	poultry	paralysis	paralysis	and	
+A-290	campylobacter	campylobacter	irritable bowel syndrome	irritable bowel syndrome	are left with	
 A-290	pills	pills	placebo	placebo	was significantly more effective than	
-A-290	stomach	stomach	diarrhea	diarrhea	flu”—a few days of pain, vomiting,	
-A-290	syndrome	syndrome	indigestion	indigestion	and functional dyspepsia (chronic	
-A-290	campylobacter	campylobacter	syndrome	syndrome	are left with irritable bowel	
-A-290	ibs	ibs	syndrome	syndrome	in kiwi fruit for irritable bowel	
+A-290	ibs	ibs	pain	pain	had a significantly lower	
+A-290	salmonella	salmonella	chicken	chicken	in	
+A-290	pain	pain	bloating	bloating	and	
+A-290	symptoms	symptoms	stomach	stomach	improved, including their	

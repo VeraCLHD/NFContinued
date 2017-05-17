@@ -1,44 +1,9 @@
 
+A-419	nuts	nuts	lead	lead	don’t	
 A-419	phytonutrients	phytonutrients	nuts	nuts	found in	
-A-419	nuts	nuts	burning	burning	and green tea (fat	
-A-419	green tea	green tea	burning	burning	(fat	
-A-419	obesity	obesity	nuts	nuts	in those eating more	
 A-419	nuts	nuts	fat	fat	 boost	
-A-419	weight gain	weight gain	obesity	obesity	and risk of abdominal	
-A-419	nuts	nuts	flavonoids	flavonoids	and green tea (fat burning via	
-A-419	arginine	arginine	green tea	green tea	) or the phytonutrients found in nuts and	
-A-419	arginine	arginine	nuts	nuts	) or the phytonutrients found in	
+A-419	weight gain	weight gain	risk	risk	and	
+A-419	nuts	nuts	nutrition	nutrition	are packed with	
+A-419	nuts	nuts	green tea	green tea	and	
 A-419	nuts	nuts	obesity	obesity	and	
 A-419	risk	risk	abdominal obesity	abdominal obesity	of	
-A-419	weight gain	weight gain	abdominal obesity	abdominal obesity	and risk of	
-A-419	weight gain	weight gain	risk	risk	and	
-A-419	amino acid	amino acid	arginine	arginine		
-A-419	burning	burning	phytonutrients	phytonutrients	via arginine) or the	
-A-419	nuts	nuts	nutrition	nutrition	are packed with	
-A-419	nuts	nuts	fat	fat	and green tea (	
-A-419	nuts	nuts	green tea	green tea	and	
-A-419	tea	tea	burning	burning	(fat	
-A-419	abdominal obesity	abdominal obesity	nuts	nuts	in those eating more	
-A-419	phytonutrients	phytonutrients	burning	burning	found in nuts and green tea (fat	
-A-419	diet	diet	fat	fat	without worrying that they’re going to make us	
-A-419	fat	fat	burning	burning		
-A-419	nuts	nuts	burning	burning	 boost fat	
-A-419	arginine	arginine	phytonutrients	phytonutrients	) or the	
-A-419	phytonutrients	phytonutrients	fat	fat	found in nuts and green tea (	
-A-419	phytonutrients	phytonutrients	tea	tea	found in nuts and green	
-A-419	burning	burning	nuts	nuts	via arginine) or the phytonutrients found in	
-A-419	nuts	nuts	tea	tea	and green	
-A-419	risk	risk	obesity	obesity	of abdominal	
-A-419	fat	fat	nuts	nuts	burning via arginine) or the phytonutrients found in	
-A-419	nuts	nuts	fat	fat	seem to make people	
-A-419	burning	burning	arginine	arginine	via	
-A-419	phytonutrients	phytonutrients	green tea	green tea	found in nuts and	
-A-419	lead	lead	weight gain	weight gain	to	
-A-419	nuts	nuts	lead	lead	don’t	
-A-419	fat	fat	arginine	arginine	burning via	
-A-419	risk	risk	nuts	nuts	of abdominal obesity in those eating more	
-A-419	fat	fat	phytonutrients	phytonutrients	burning via arginine) or the	
-A-419	tea	tea	flavonoids	flavonoids	(fat burning via	
-A-419	nuts	nuts	diet	diet	per day to their	
-A-419	nuts	nuts	weight gain	weight gain	don’t lead to	
-A-419	green tea	green tea	flavonoids	flavonoids	(fat burning via	

@@ -1,33 +1,11 @@
 
-V-461	processed foods	processed foods	cost savings	cost savings	or milk would net $2 in healthcare	
-V-461	diet	diet	animal products	animal products	actually requires fewer	
-V-461	sugar	sugar	corn syrup	corn syrup	and	
-V-461	dairy	dairy	beef	beef	council, the national cattlemen’s	
-V-461	animal products	animal products	calories	calories	and empty	
-V-461	chicken	chicken	cheap	cheap	is so	
-V-461	eggs	eggs	corn	corn	—as well as more sugar and	
-V-461	sugar	sugar	corn	corn	and	
-V-461	pork	pork	egg	egg	producers council, and the american	
-V-461	corn	corn	soy	soy	and	
-V-461	medicare	medicare	broccoli	broccoli	and medicaid costs.unfortunately we can’t count on big	
-V-461	beef	beef	pork	pork	association, the national	
-V-461	eggs	eggs	sugar	sugar	—as well as more	
-V-461	diet	diet	calories	calories	actually requires fewer animal products and empty	
 V-461	fish	fish	seafood	seafood	and	
-V-461	subsidies	subsidies	animal products	animal products	for	
-V-461	vegetables	vegetables	whole grains	whole grains	cheaper would net $3, and subsidizing	
-V-461	animal products	animal products	beans	beans	and empty calories, and more vegetables, fruits,	
-V-461	processed foods	processed foods	milk	milk	or	
-V-461	animal products	animal products	empty calories	empty calories	and	
-V-461	diet	diet	empty calories	empty calories	actually requires fewer animal products and	
 V-461	chicken	chicken	pork	pork	and	
-V-461	milk	milk	cost savings	cost savings	would net $2 in healthcare	
-V-461	beef	beef	national pork producers council	national pork producers council	association, the	
-V-461	vegetables	vegetables	grains	grains	cheaper would net $3, and subsidizing whole	
-V-461	eggs	eggs	corn syrup	corn syrup	—as well as more sugar and	
-V-461	dairy	dairy	pork	pork	council, the national cattlemen’s beef association, the national	
-V-461	animal products	animal products	sugar	sugar	and some basic cash crops such as	
+V-461	sugar	sugar	corn	corn	and	
+V-461	soy	soy	cheap	cheap	were subsidized below the cost of production to make	
+V-461	corn	corn	soy	soy	and	
+V-461	sugar	sugar	corn syrup	corn syrup	and	
+V-461	processed foods	processed foods	milk	milk	or	
 V-461	animal products	animal products	diet	diet	should form the basis of our	
-V-461	animal products	animal products	vegetables	vegetables	and empty calories, and more	
-V-461	dairy	dairy	national pork producers council	national pork producers council	council, the national cattlemen’s beef association, the	
-V-461	animal products	animal products	fruits	fruits	and empty calories, and more vegetables,	
+V-461	animal products	animal products	empty calories	empty calories	and	
+V-461	chicken	chicken	cheap	cheap	is so	

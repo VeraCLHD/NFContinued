@@ -1,38 +1,10 @@
 
-A-92	osteoarthritis	osteoarthritis	cancer	cancer	) and	
-A-92	rheumatoid arthritis	rheumatoid arthritis	cancer	cancer	and turmeric curcumin and osteoarthritis) and	
-A-92	treatment	treatment	symptoms	symptoms	of the behavioral and psychological	
-A-92	disease	disease	turmeric	turmeric	(see preventing alzheimer’s with	
+A-92	symptoms	symptoms	dementia	dementia	of	
+A-92	irritability	irritability	accidents	accidents	were relieved and she had less	
 A-92	phytochemicals	phytochemicals	turmeric	turmeric	found in	
 A-92	curcumin	curcumin	rheumatoid arthritis	rheumatoid arthritis	and	
-A-92	arthritis	arthritis	rheumatoid arthritis	rheumatoid arthritis	(turmeric curcumin and	
-A-92	turmeric	turmeric	irritability	irritability	per day however, her agitation, apathy, anxiety and	
-A-92	supplements	supplements	turmeric	turmeric	rather than	
-A-92	curcumin	curcumin	osteoarthritis	osteoarthritis	and rheumatoid arthritis and turmeric curcumin and	
-A-92	anxiety	anxiety	irritability	irritability	and	
-A-92	arthritis	arthritis	curcumin	curcumin	and turmeric	
-A-92	arthritis	arthritis	turmeric	turmeric	and	
-A-92	turmeric	turmeric	osteoarthritis	osteoarthritis	curcumin and rheumatoid arthritis and turmeric curcumin and	
-A-92	curcumin	curcumin	turmeric	turmeric	supplements rather than	
 A-92	rheumatoid arthritis	rheumatoid arthritis	turmeric	turmeric	and	
 A-92	curcumin	curcumin	phytochemicals	phytochemicals	is just one of hundreds of	
-A-92	turmeric	turmeric	arthritis	arthritis	curcumin and rheumatoid	
-A-92	treatment	treatment	dementia	dementia	of the behavioral and psychological symptoms of	
-A-92	curcumin	curcumin	turmeric	turmeric	and rheumatoid arthritis and	
-A-92	turmeric	turmeric	treatment	treatment	as an effective and safe “drug” for the	
-A-92	turmeric	turmeric	rheumatoid arthritis	rheumatoid arthritis	curcumin and	
-A-92	curcumin	curcumin	arthritis	arthritis	and rheumatoid	
-A-92	symptoms	symptoms	dementia	dementia	of	
-A-92	turmeric	turmeric	curcumin	curcumin	in its medicinal value better than	
-A-92	turmeric	turmeric	anxiety	anxiety	per day however, her agitation, apathy,	
-A-92	irritability	irritability	accidents	accidents	were relieved and she had less	
-A-92	turmeric	turmeric	curcumin	curcumin		
-A-92	disease	disease	turmeric	turmeric	with	
-A-92	rheumatoid arthritis	rheumatoid arthritis	osteoarthritis	osteoarthritis	and turmeric curcumin and	
-A-92	arthritis	arthritis	curcumin	curcumin	(turmeric	
-A-92	anxiety	anxiety	accidents	accidents	and irritability were relieved and she had less	
-A-92	turmeric	turmeric	disease	disease	), but what about treating alzheimer’s	
-A-92	curcumin	curcumin	supplements	supplements		
-A-92	symptoms	symptoms	depression	depression	of hallucinations, delusions and	
+A-92	anxiety	anxiety	irritability	irritability	and	
 A-92	turmeric	turmeric	disease	disease	may help prevent alzheimer’s	
-A-92	rheumatoid arthritis	rheumatoid arthritis	curcumin	curcumin	and turmeric	
+A-92	arthritis	arthritis	turmeric	turmeric	and	

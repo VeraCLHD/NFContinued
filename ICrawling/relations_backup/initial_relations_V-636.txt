@@ -1,62 +1,24 @@
 
-V-636	fish	fish	chicken	chicken	and	
-V-636	vegetable protein	vegetable protein	animal protein	animal protein	and soy, and lower intakes of	
-V-636	risk	risk	breast cancer	breast cancer	of	
-V-636	animal protein	animal protein	puberty	puberty	and premature	
-V-636	protein	protein	soy	soy	and	
-V-636	risk	risk	cancer	cancer	of breast	
-V-636	lifespan	lifespan	syndrome	syndrome	], metabolic	
-V-636	chemicals	chemicals	fish	fish	are found most concentrated in	
-V-636	children	children	puberty	puberty	with higher levels of vegetable proteins starting	
-V-636	puberty	puberty	risk	risk	is considered a…	
-V-636	animal protein	animal protein	plant protein	plant protein	intake is associated with early-onset puberty, whereas	
-V-636	protein	protein	premature puberty	premature puberty	and	
-V-636	animal protein	animal protein	protein	protein	intake is associated with early-onset puberty, whereas plant	
-V-636	protein	protein	puberty	puberty	may start	
-V-636	mortality	mortality	lifespan	lifespan	(meaning a longer	
-V-636	puberty	puberty	animal protein	animal protein	seven months later than average, and children eating more	
-V-636	kids	kids	united states	united states	have been getting heavier, especially in the	
-V-636	lifespan	lifespan	disease	disease	], metabolic syndrome, and cardiovascular	
-V-636	growth hormone	growth hormone	puberty	puberty	igf-1, and that alone is associated with early-onset	
-V-636	diet	diet	protein	protein	and premature puberty has been animal	
-V-636	phytonutrients	phytonutrients	soy	soy	in	
-V-636	puberty	puberty	protein	protein	has been animal	
 V-636	puberty	puberty	animal protein	animal protein	has been	
-V-636	period	period	asia	asia	has been dropping in the us and	
-V-636	poultry	poultry	fish	fish	and	
-V-636	chemicals	chemicals	chicken	chicken	are found most concentrated in fish and	
-V-636	animal protein	animal protein	health	health	) “may be of substantial public	
-V-636	animal protein	animal protein	public health	public health	) “may be of substantial	
-V-636	protein	protein	puberty	puberty	intake is associated with early-onset	
-V-636	protein	protein	animal protein	animal protein	and soy, and lower intakes of	
-V-636	period	period	cancer	cancer	is related to a reduced risk of breast	
-V-636	europe	europe	kids	kids	—despite their	
-V-636	vegetable protein	vegetable protein	soy	soy	and	
-V-636	diet	diet	puberty	puberty	and premature	
-V-636	animal protein	animal protein	chemicals	chemicals	is just a proxy for the endocrine-disrupting	
-V-636	period	period	risk	risk	is related to a reduced	
-V-636	soy foods	soy foods	breast development	breast development	] may experience their onset of	
-V-636	soy	soy	breast development	breast development	foods] may experience their onset of	
 V-636	meat	meat	growth hormone	growth hormone	increases the levels of the	
 V-636	protein	protein	chemicals	chemicals	is just a proxy for the endocrine-disrupting	
-V-636	lifespan	lifespan	cardiovascular disease	cardiovascular disease	], metabolic syndrome, and	
-V-636	meat	meat	igf-1	igf-1	increases the levels of the growth hormone	
-V-636	growth hormone	growth hormone	igf-1	igf-1		
-V-636	risk	risk	period	period	of breast cancer, and a later first	
-V-636	diet	diet	animal protein	animal protein	and premature puberty has been	
+V-636	poultry	poultry	fish	fish	and	
+V-636	fish	fish	chicken	chicken	and	
 V-636	premature puberty	premature puberty	animal protein	animal protein	has been	
-V-636	protein	protein	puberty	puberty	and premature	
-V-636	animal protein	animal protein	puberty	puberty	intake is associated with early-onset	
-V-636	children	children	puberty	puberty	eating more animal protein may start	
-V-636	fish	fish	chemicals	chemicals	and chicken, maybe the level of these	
+V-636	risk	risk	breast cancer	breast cancer	of	
+V-636	protein	protein	soy	soy	and	
+V-636	puberty	puberty	children	children	has been getting earlier and earlier is because our	
 V-636	animal protein	animal protein	premature puberty	premature puberty	and	
 V-636	diet	diet	premature puberty	premature puberty	and	
-V-636	children	children	kids	kids	have been getting fatter and fatter.well, our	
+V-636	chemicals	chemicals	fish	fish	are found most concentrated in	
 V-636	phytonutrients	phytonutrients	soy foods	soy foods	in	
+V-636	vegetable protein	vegetable protein	soy	soy	and	
 V-636	premature puberty	premature puberty	protein	protein	has been animal	
-V-636	vegetable protein	vegetable protein	protein	protein	and soy, and lower intakes of animal	
+V-636	puberty	puberty	risk	risk	is considered a…	
+V-636	animal protein	animal protein	chemicals	chemicals	is just a proxy for the endocrine-disrupting	
+V-636	period	period	risk	risk	is related to a reduced	
 V-636	animal protein	animal protein	puberty	puberty	may start	
-V-636	puberty	puberty	children	children	seven months later than average, and	
-V-636	phytonutrients	phytonutrients	breast development	breast development	in soy foods] may experience their onset of	
-V-636	protein	protein	plant protein	plant protein	intake is associated with early-onset puberty, whereas	
-V-636	period	period	breast cancer	breast cancer	is related to a reduced risk of	
+V-636	phytonutrients	phytonutrients	soy	soy	in	
+V-636	protein	protein	premature puberty	premature puberty	and	
+V-636	protein	protein	puberty	puberty	may start	
+V-636	puberty	puberty	protein	protein	has been animal	

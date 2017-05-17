@@ -1,68 +1,11 @@
 
-A-198	salmonella	salmonella	turkey	turkey	in chicken and	
-A-198	chicken	chicken	health	health	on public	
-A-198	cross-contamination	cross-contamination	salmonella	salmonella	of other foods with	
-A-198	campylobacter	campylobacter	infection	infection	(another dangerous bacteria found in chicken feces)	
-A-198	campylobacter	campylobacter	chicken	chicken	(see avoiding	
-A-198	water	water	salmonella	salmonella	we can still find	
-A-198	risk	risk	food poisoning	food poisoning	of	
-A-198	raw	raw	preparation	preparation	chicken during meal	
-A-198	meat	meat	usda	usda	industry sued the	
-A-198	raw	raw	chicken	chicken		
-A-198	chicken	chicken	bladder	bladder	to avoid	
-A-198	bacteria	bacteria	infection	infection	found in chicken feces)	
-A-198	salmonella	salmonella	cooking	cooking	on ready-to-cook chicken by proper	
-A-198	salmonella	salmonella	cooking	cooking	can survive the most common egg	
-A-198	food safety	food safety	risk	risk		
-A-198	health	health	united states	united states	grounds, it was still sold in the	
-A-198	infection	infection	cross-contamination	cross-contamination	from	
-A-198	beef	beef	meat industry	meat industry	v. usda, a court case in which the	
-A-198	mexico	mexico	public health	public health	banned the importation of foster farms’ chicken on	
-A-198	infection	infection	salmonella	salmonella	the issue is not just cross-contamination, given	
-A-198	infection	infection	salmonella	salmonella	from cross-contamination of other foods with	
-A-198	bacteria	bacteria	chicken	chicken	found in	
-A-198	campylobacter	campylobacter	bladder	bladder	(see avoiding chicken to avoid	
-A-198	chicken	chicken	infections	infections	to avoid bladder	
-A-198	cooking	cooking	meat	meat	practices destroy salmonella, the presence of salmonella in	
-A-198	water	water	campylobacter	campylobacter	we can still find salmonella and	
-A-198	salmonella	salmonella	chicken	chicken	on ready-to-cook	
-A-198	salmonella	salmonella	chicken	chicken	in	
-A-198	chickens	chickens	salmonella	salmonella	without	
-A-198	egg	egg	cross-contamination	cross-contamination	-borne infection the issue is not just	
-A-198	cross-contamination	cross-contamination	egg	egg	in: note when it comes to	
-A-198	public health	public health	united states	united states	grounds, it was still sold in the	
 A-198	salmonella	salmonella	campylobacter	campylobacter	and	
-A-198	salmonella	salmonella	cooking methods	cooking methods	can survive the most common egg	
-A-198	cooking	cooking	salmonella	salmonella	practices destroy	
-A-198	meat	meat	health	health	does not render the meat “injurious to	
-A-198	campylobacter	campylobacter	bladder infections	bladder infections	(see avoiding chicken to avoid	
-A-198	salmonella	salmonella	bladder	bladder	and campylobacter (see avoiding chicken to avoid	
-A-198	phosphate additives	phosphate additives	chicken	chicken	in	
-A-198	chicken	chicken	public health	public health	on	
-A-198	bladder	bladder	infections	infections		
-A-198	cross-contamination	cross-contamination	chicken	chicken	of other foods with salmonella from raw	
-A-198	salmonella	salmonella	egg	egg	can survive the most common	
-A-198	egg	egg	infection	infection	-borne	
-A-198	beef	beef	meat	meat	v. usda, a court case in which the	
-A-198	chicken	chicken	salmonella	salmonella	contaminated with this virulent strain of	
-A-198	chicken	chicken	infection	infection	feces)	
-A-198	beef	beef	usda	usda	v.	
-A-198	salmonella	salmonella	chicken	chicken	and campylobacter (see avoiding	
-A-198	cross-contamination	cross-contamination	infection	infection	in: note when it comes to egg-borne	
-A-198	infection	infection	cross-contamination	cross-contamination	the issue is not just	
-A-198	campylobacter	campylobacter	bacteria	bacteria	(another dangerous	
-A-198	chicken	chicken	turkey	turkey	and	
-A-198	campylobacter	campylobacter	chicken	chicken	(another dangerous bacteria found in	
-A-198	meat industry	meat industry	usda	usda	sued the	
-A-198	chickens	chickens	salmonella	salmonella	they were producing with this virulent strain of	
-A-198	food safety	food safety	poultry	poultry	for costco noted, “you wouldn’t have a	
-A-198	turkey	turkey	risk	risk	deadly but not illegal, zero tolerance to acceptable	
-A-198	poultry	poultry	supermarkets	supermarkets	legs purchased in	
-A-198	campylobacter	campylobacter	infections	infections	(see avoiding chicken to avoid bladder	
-A-198	chicken	chicken	cooking	cooking	by proper	
+A-198	bacteria	bacteria	chicken	chicken	found in	
 A-198	mexico	mexico	chicken	chicken	banned the importation of foster farms’	
-A-198	infection	infection	raw	raw	from cross-contamination of other foods with salmonella from	
-A-198	salmonella	salmonella	bladder infections	bladder infections	and campylobacter (see avoiding chicken to avoid	
-A-198	salmonella	salmonella	infections	infections	and campylobacter (see avoiding chicken to avoid bladder	
-A-198	cross-contamination	cross-contamination	raw	raw	of other foods with salmonella from	
-A-198	chicken	chicken	bladder infections	bladder infections	to avoid	
+A-198	salmonella	salmonella	chicken	chicken	in	
+A-198	risk	risk	food poisoning	food poisoning	of	
+A-198	chicken	chicken	turkey	turkey	and	
+A-198	salmonella	salmonella	egg	egg	can survive the most common	
+A-198	meat industry	meat industry	usda	usda	sued the	
+A-198	chicken	chicken	salmonella	salmonella	contaminated with this virulent strain of	
+A-198	phosphate additives	phosphate additives	chicken	chicken	in	

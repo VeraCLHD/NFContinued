@@ -1,51 +1,10 @@
 
-V-433	colon	colon	disease	disease	cancer forms from polyps, and there’s this	
-V-433	cancer	cancer	colon	colon	is pretty exciting.to see if they could prevent	
-V-433	cancer	cancer	polyps	polyps	forms from	
-V-433	curcumin	curcumin	quercitin	quercitin	(from turmeric) and	
-V-433	colon	colon	polyps	polyps	cancer forms from	
-V-433	risk	risk	colon cancer	colon cancer	for	
-V-433	curcumin	curcumin	diet	diet	in the	
-V-433	colon cancer	colon cancer	disease	disease	forms from polyps, and there’s this	
-V-433	blood	blood	risk	risk	test abnormalities.by studying people at high	
-V-433	quercitin	quercitin	supplements	supplements		
-V-433	blood	blood	colon	colon	test abnormalities.by studying people at high risk for	
-V-433	colon	colon	cancer	cancer		
-V-433	cleveland clinic	cleveland clinic	phytochemicals	phytochemicals	and hopkins tested two	
-V-433	chemotherapy	chemotherapy	turmeric	turmeric	agents or radiation, they started them on a	
-V-433	curcumin	curcumin	turmeric	turmeric	(from	
 V-433	india	india	antioxidants	antioxidants	is often attributed to natural	
-V-433	chemotherapy	chemotherapy	radiation	radiation	agents or	
-V-433	turmeric	turmeric	red wine	red wine	) and quercitin, (found in red onions and	
-V-433	curcumin	curcumin	red onions	red onions	(from turmeric) and quercitin, (found in	
-V-433	cancer	cancer	colon cancer	colon cancer	is pretty exciting.to see if they could prevent	
-V-433	colon	colon	cleveland clinic	cleveland clinic	cancer, five years later, researchers at	
-V-433	curcumin	curcumin	supplements	supplements	and quercitin	
-V-433	india	india	curcumin	curcumin	is often attributed to natural antioxidants, such as	
-V-433	turmeric	turmeric	onions	onions	) and quercitin, (found in red	
-V-433	curcumin	curcumin	onions	onions	(from turmeric) and quercitin, (found in red	
-V-433	risk	risk	cancer	cancer	for colon	
-V-433	colon cancer	colon cancer	polyps	polyps	forms from	
-V-433	cancer	cancer	india	india	in	
-V-433	cancer	cancer	antioxidants	antioxidants	in india is often attributed to natural	
-V-433	turmeric	turmeric	supplements	supplements	curcumin	
-V-433	risk	risk	pills	pills	of tobacco-related cancers, but the administration of beta-carotene	
-V-433	supplements	supplements	polyps	polyps	for another three months, and the	
-V-433	onions	onions	wine	wine	and red	
 V-433	curcumin	curcumin	quercitin	quercitin	and	
-V-433	colorectal cancer	colorectal cancer	chemotherapy	chemotherapy	that didn’t respond to any of the standard	
-V-433	cleveland clinic	cleveland clinic	curcumin	curcumin	and hopkins tested two phytochemicals,	
+V-433	cancer	cancer	colon	colon	is pretty exciting.to see if they could prevent	
+V-433	polyps	polyps	curcumin	curcumin	each, and this is where they ended up after six months of	
 V-433	red onions	red onions	red wine	red wine	and	
-V-433	cancer	cancer	disease	disease	forms from polyps, and there’s this	
-V-433	cancer	cancer	chemotherapy	chemotherapy	that didn’t respond to any of the standard	
-V-433	red onions	red onions	wine	wine	and red	
-V-433	phytonutrient	phytonutrient	supplements	supplements		
-V-433	cleveland clinic	cleveland clinic	turmeric	turmeric	and hopkins tested two phytochemicals, curcumin (from	
-V-433	turmeric	turmeric	curcumin	curcumin		
-V-433	turmeric	turmeric	red onions	red onions	) and quercitin, (found in	
+V-433	supplements	supplements	polyps	polyps	alone, for a month and measured changes in their colorectal aberrant crypt foci, which may act like the precursors to	
+V-433	cancer	cancer	india	india	in	
+V-433	cancer	cancer	colon cancer	colon cancer	is pretty exciting.to see if they could prevent	
 V-433	onions	onions	red wine	red wine	and	
-V-433	phytonutrient	phytonutrient	polyps	polyps	supplements for another three months, and the	
-V-433	curcumin	curcumin	supplements	supplements		
-V-433	blood	blood	colon cancer	colon cancer	test abnormalities.by studying people at high risk for	
-V-433	turmeric	turmeric	quercitin	quercitin	) and	
-V-433	risk	risk	colon	colon	for	

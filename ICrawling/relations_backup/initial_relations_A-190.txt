@@ -1,82 +1,15 @@
 
-A-190	dna	dna	mutation	mutation		
-A-190	liquid smoke	liquid smoke	mutations	mutations	causes dna	
-A-190	vegetarians	vegetarians	risk	risk	may be at	
-A-190	carcinogens	carcinogens	liquid smoke	liquid smoke	in retail	
-A-190	dna	dna	bacteria	bacteria	mutations in	
-A-190	dna	dna	liquid smoke	liquid smoke	damage,and a few of the	
-A-190	liquid smoke	liquid smoke	chemotherapy	chemotherapy	flavorings activated p53 almost as much as a	
-A-190	carcinogens	carcinogens	roasted	roasted	in	
-A-190	liver	liver	enzymes	enzymes	’s detoxifying	
-A-190	health	health	bacteria	bacteria	risk than is mutagenic activity in	
-A-190	risk	risk	cancer	cancer	and	
-A-190	ham	ham	turkey	turkey	has 21.3 per serving, and smoked	
-A-190	tea	tea	cancer	cancer	and	
-A-190	yerba mate	yerba mate	tea	tea		
-A-190	risk	risk	green tea	green tea	and cancer, interrupted:	
-A-190	dna	dna	chemicals	chemicals	is just one of many ways	
-A-190	heterocyclic amines	heterocyclic amines	cheese	cheese	in eggs,	
-A-190	heterocyclic amines	heterocyclic amines	creatine	creatine	in eggs, cheese, and	
-A-190	green tea	green tea	cancer	cancer	and	
-A-190	dna	dna	enzymes	enzymes	repair	
-A-190	vegetables	vegetables	liver	liver	dramatically boost our	
-A-190	cruciferous vegetables	cruciferous vegetables	enzymes	enzymes	dramatically boost our liver’s detoxifying	
-A-190	mit	mit	flavoring	flavoring	tested a hickory smoke	
-A-190	liquid smoke	liquid smoke	chemicals	chemicals	for known carcinogens,	
-A-190	liver	liver	detoxifying enzymes	detoxifying enzymes	’s	
-A-190	carcinogens	carcinogens	cooked meat	cooked meat	i explored the role of these	
-A-190	vegetarians	vegetarians	cancer	cancer	may be at risk and	
-A-190	vegetarians	vegetarians	tea	tea	may be at risk and cancer, interrupted: green	
-A-190	broccoli	broccoli	liver	liver		
-A-190	meat	meat	cooked meat	cooked meat	carcinogens i explored the role of these	
-A-190	tea	tea	garlic	garlic	and cancer, interrupted:	
-A-190	cruciferous vegetables	cruciferous vegetables	detoxifying enzymes	detoxifying enzymes	dramatically boost our liver’s	
-A-190	exercise	exercise	stress	stress	is a	
-A-190	carcinogens	carcinogens	frying	frying	in the smell of	
-A-190	green tea	green tea	flavonoids	flavonoids	and cancer, interrupted: garlic &	
-A-190	flavoring	flavoring	dna	dna	was added, the	
-A-190	chemicals	chemicals	tumor growth	tumor growth	in	
-A-190	health	health	risk	risk		
-A-190	liquid smoke	liquid smoke	dna	dna	causes	
-A-190	boiling	boiling	cooking	cooking	—even for an hour, or slow	
-A-190	bacon	bacon	carcinogens	carcinogens	may be carcinogenic:	
 A-190	mutations	mutations	bacteria	bacteria	in	
-A-190	carcinogens	carcinogens	meat	meat	i explored the role of these cooked	
-A-190	mutation	mutation	liquid smoke	liquid smoke	rate shot up as more and more	
 A-190	acrylamide	acrylamide	french fries	french fries	in	
+A-190	vegetarians	vegetarians	risk	risk	may be at	
 A-190	heterocyclic amines	heterocyclic amines	eggs	eggs	in	
-A-190	flavoring	flavoring	mutation	mutation	was added, the dna	
-A-190	frying	frying	bacon	bacon		
-A-190	protein	protein	dna	dna	we make that binds to our	
-A-190	liquid smoke	liquid smoke	flavoring	flavoring		
-A-190	tea	tea	flavonoids	flavonoids	and cancer, interrupted: garlic &	
-A-190	carcinogens	carcinogens	bacon	bacon	in the smell of frying	
-A-190	carcinogens	carcinogens	chemicals	chemicals	i explored the role of these cooked meat	
-A-190	liquid smoke	liquid smoke	cancer	cancer	for known carcinogens, chemicals that we know cause	
-A-190	cancer	cancer	risk	risk		
-A-190	liquid smoke	liquid smoke	carcinogens	carcinogens	for known	
-A-190	carcinogen	carcinogen	cancer	cancer	explored their role in	
-A-190	chemicals	chemicals	cancer	cancer	that we know cause	
-A-190	frying	frying	carcinogens	carcinogens	bacon may be carcinogenic:	
-A-190	risk	risk	garlic	garlic	and cancer, interrupted: green tea and cancer, interrupted:	
-A-190	meat	meat	carcinogens	carcinogens		
-A-190	phip	phip	carcinogen	carcinogen	: the three strikes breast	
-A-190	carcinogens	carcinogens	fat	fat	in smoke are	
-A-190	cruciferous vegetables	cruciferous vegetables	liver	liver	dramatically boost our	
-A-190	cooked meat	cooked meat	meat	meat	carcinogens i explored the role of these cooked	
-A-190	green tea	green tea	garlic	garlic	and cancer, interrupted:	
-A-190	liver	liver	detox	detox	enzyme boost story is covered in the best	
-A-190	carcinogens	carcinogens	coffee	coffee	in roasted	
 A-190	liquid smoke	liquid smoke	baking	baking	was eliminated by standard	
-A-190	vegetarians	vegetarians	green tea	green tea	may be at risk and cancer, interrupted:	
+A-190	carcinogens	carcinogens	roasted	roasted	in	
+A-190	exercise	exercise	stress	stress	is a	
 A-190	chemicals	chemicals	tumor	tumor	in	
-A-190	risk	risk	bacteria	bacteria	than is mutagenic activity in	
-A-190	fish	fish	paprika	paprika	sauce, though smoked	
-A-190	mesquite	mesquite	liquid smoke	liquid smoke		
-A-190	cooked meat	cooked meat	carcinogens	carcinogens		
-A-190	risk	risk	tea	tea	and cancer, interrupted: green	
-A-190	vegetables	vegetables	enzymes	enzymes	dramatically boost our liver’s detoxifying	
-A-190	dna	dna	mutations	mutations		
-A-190	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	dramatically boost our liver’s	
-A-190	bacon	bacon	frying	frying	may be carcinogenic: carcinogens in the smell of	
-A-190	roasted	roasted	coffee	coffee		
+A-190	risk	risk	cancer	cancer	and	
+A-190	carcinogen	carcinogen	cancer	cancer	explored their role in	
+A-190	chemicals	chemicals	tumor growth	tumor growth	in	
+A-190	tea	tea	cancer	cancer	and	
+A-190	liquid smoke	liquid smoke	dna	dna	causes	
+A-190	green tea	green tea	cancer	cancer	and	

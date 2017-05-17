@@ -1,58 +1,15 @@
 
-V-360	penicillin	penicillin	drugs	drugs		
-V-360	death	death	blood pressure	blood pressure	from so-called malignant hypertension, out of control high	
-V-360	protein	protein	cholesterol	cholesterol	than any low-protein diet, and less	
-V-360	eye	eye	heart failure	heart failure	pressure,	
-V-360	plant-based	plant-based	diet	diet		
-V-360	rice diet	rice diet	blood	blood	may actually drop	
-V-360	penicillin	penicillin	plant-based	plant-based	drugs don’t work at all…unless you take them,	
-V-360	fat	fat	diet	diet	than any other low-fat	
-V-360	heart disease	heart disease	plant-based diet	plant-based diet	with a whole food	
-V-360	drugs	drugs	plant-based diets	plant-based diets	don’t work at all…unless you take them,	
-V-360	death	death	blood	blood	from so-called malignant hypertension, out of control high	
-V-360	plant-based	plant-based	cleveland clinic	cleveland clinic	diet, the chair of	
-V-360	diet	diet	fruit	fruit	consisting of only white rice and	
-V-360	kidney	kidney	diet	diet	function, and a low-fat and low-cholesterol	
-V-360	death	death	hypertension	hypertension	from so-called malignant	
-V-360	kidney	kidney	eye	eye	failure,	
-V-360	diet	diet	esselstyn	esselstyn	.when dr. caldwell	
-V-360	cholesterol	cholesterol	diet	diet	and fat than any other low-fat	
-V-360	blood	blood	kidney	kidney	pressure, rapid improvement in	
-V-360	disease	disease	plant-based diet	plant-based diet	with a whole food	
-V-360	diet	diet	heart attack	heart attack	himself, whereas kempner died of a	
-V-360	diet	diet	caldwell esselstyn	caldwell esselstyn	.when dr.	
-V-360	sodium	sodium	diet	diet	than any low-sodium	
-V-360	cholesterol	cholesterol	fat	fat	and	
-V-360	blood	blood	eye	eye	pressure, rapid improvement in kidney failure,	
-V-360	diet	diet	rice	rice	consisting of only white	
-V-360	kidney	kidney	disease	disease		
-V-360	diet	diet	dr. caldwell esselstyn	dr. caldwell esselstyn	.when	
-V-360	disease	disease	plant-based	plant-based	with a whole food	
-V-360	blood	blood	heart failure	heart failure	pressure, rapid improvement in kidney failure, eye pressure,	
-V-360	rice	rice	diet	diet		
-V-360	rice	rice	fruit	fruit	and	
-V-360	drugs	drugs	plant-based	plant-based	don’t work at all…unless you take them,	
-V-360	eye	eye	kidney failure	kidney failure	damage, reversal of	
-V-360	rice	rice	blood	blood	diet may actually drop	
-V-360	eye	eye	kidney	kidney	damage, reversal of	
-V-360	disease	disease	diet	diet	with a whole food plant-based	
-V-360	sodium	sodium	protein	protein	than any low-sodium diet, less	
-V-360	kidney	kidney	heart failure	heart failure	failure, eye pressure,	
-V-360	esselstyn	esselstyn	diet	diet	walks the talk, following the	
-V-360	diet	diet	blood pressure	blood pressure	helped with	
-V-360	diet	diet	protein	protein	with less sodium than any low-sodium diet, less	
-V-360	heart disease	heart disease	plant-based	plant-based	with a whole food	
-V-360	blood	blood	kidney failure	kidney failure	pressure, rapid improvement in	
-V-360	protein	protein	diet	diet	than any low-protein	
-V-360	disease	disease	stroke	stroke	might have been controlled before his fatal	
-V-360	hypertension	hypertension	diet	diet	patients with a radical	
 V-360	diet	diet	blood	blood	helped with	
-V-360	blood	blood	diet	diet	pressure, a low-protein	
-V-360	death	death	high blood pressure	high blood pressure	from so-called malignant hypertension, out of control	
-V-360	england	england	medicine	medicine	journal of	
-V-360	penicillin	penicillin	plant-based diets	plant-based diets	drugs don’t work at all…unless you take them,	
+V-360	caldwell esselstyn	caldwell esselstyn	heart disease	heart disease	presented his study results demonstrating in some cases reversal of near end-stage	
+V-360	diet	diet	death	death	been provided to president roosevelt a year before his	
+V-360	rice diet	rice diet	blood	blood	may actually drop	
+V-360	diet	diet	heart attack	heart attack	himself, whereas kempner died of a	
+V-360	esselstyn	esselstyn	heart disease	heart disease	presented his study results demonstrating in some cases reversal of near end-stage	
+V-360	cholesterol	cholesterol	fat	fat	and	
+V-360	diet	diet	rice	rice	consisting of only white	
+V-360	dr. caldwell esselstyn	dr. caldwell esselstyn	heart disease	heart disease	presented his study results demonstrating in some cases reversal of near end-stage	
+V-360	rice	rice	fruit	fruit	and	
+V-360	diet	diet	blood pressure	blood pressure	helped with	
 V-360	diet	diet	blood	blood	may actually drop	
-V-360	protein	protein	fat	fat	than any low-protein diet, and less cholesterol and	
-V-360	heart disease	heart disease	diet	diet	with a whole food plant-based	
-V-360	diet	diet	sodium	sodium	with less	
-V-360	blood	blood	kidney	kidney	pressure, a low-protein diet helped with	
+V-360	physicians	physicians	diet	diet	lack the extraordinary persuasive powers required to keep the patient eating such a restricted	
+V-360	rice diet	rice diet	death	death	been provided to president roosevelt a year before his	

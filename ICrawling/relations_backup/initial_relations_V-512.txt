@@ -1,16 +1,3 @@
 
-V-512	fat	fat	diet	diet	and sugars in the western	
-V-512	antioxidant	antioxidant	fruits	fruits	compounds found naturally in plant foods.for example, “consuming…	
-V-512	strawberries	strawberries	breakfast	breakfast	with that same	
-V-512	berries	berries	antioxidant	antioxidant	in the morning to meet our minimum daily	
 V-512	oxidation	oxidation	pasta	pasta	caused by a mediterranean meal of	
-V-512	strawberries	strawberries	breakfast	breakfast	with	
-V-512	phytonutrients	phytonutrients	grapes	grapes	from	
-V-512	breakfast	breakfast	cholesterol	cholesterol	items, resulting in lots of oxidized	
-V-512	antioxidant	antioxidant	phytonutrients	phytonutrients	effects of the strawberry	
-V-512	grapes	grapes	antioxidant	antioxidant	with the meal, and the	
-V-512	broccoli	broccoli	dna	dna	to reduce the oxidative damage to their	
-V-512	fat	fat	western diet	western diet	and sugars in the	
-V-512	oxidation	oxidation	tomato sauce	tomato sauce	caused by a mediterranean meal of pasta,	
-V-512	berries	berries	breakfast	breakfast	for	
 V-512	kale	kale	broccoli	broccoli	and	

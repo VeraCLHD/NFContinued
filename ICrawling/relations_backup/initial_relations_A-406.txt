@@ -1,67 +1,11 @@
 
-A-406	cancer	cancer	cancer	cancer	and a better chance of surviving breast	
-A-406	blood	blood	growth hormone	growth hormone	levels of the	
-A-406	dairy	dairy	plant proteins	plant proteins	with a variety of	
-A-406	prostate	prostate	cancer	cancer	and breast	
-A-406	igf-1	igf-1	protein	protein	and non-soy plant	
-A-406	prostate	prostate	cancer growth	cancer growth	and breast	
-A-406	growth hormone	growth hormone	plant proteins	plant proteins	igf-1, what about the few	
-A-406	cancer growth	cancer growth	cancer	cancer	in my videos ex vivo	
-A-406	puberty	puberty	soy	soy	and 	
-A-406	soy	soy	breast cancer	breast cancer	appear to have a lower risk of getting	
-A-406	soy foods	soy foods	igf-1	igf-1	per day may end up with circulating	
-A-406	soy	soy	protein	protein		
-A-406	cancer	cancer	cancer reversal	cancer reversal	reversal study mentioned in the video, see 	
-A-406	cancer reversal	cancer reversal	diet	diet	study mentioned in the video, see cancer reversal through	
-A-406	soy	soy	risk	risk	appear to have a lower	
-A-406	risk	risk	cancer	cancer	of getting breast	
-A-406	igf-1	igf-1	breast cancer	breast cancer	levels can mean for prostate and	
-A-406	breast cancer survival	breast cancer survival	soy	soy	and	
-A-406	cancer reversal	cancer reversal	cancer	cancer	study mentioned in the video, see 	
-A-406	animal protein	animal protein	soy	soy	with	
-A-406	cancer survival	cancer survival	soy	soy	and	
-A-406	amino acid	amino acid	animal proteins	animal proteins	ratios similar to	
-A-406	vegans	vegans	soy foods	soy foods	consuming the equivalent of 7-18 servings of	
-A-406	dairy	dairy	variety	variety	with a	
-A-406	animal protein	animal protein	soy protein	soy protein	with	
-A-406	breast cancer	breast cancer	cancer	cancer	growth in my videos ex vivo	
-A-406	cancer	cancer	igf-1	igf-1	promoter	
-A-406	igf-1	igf-1	prostate	prostate	levels can mean for	
-A-406	protein	protein	soy	soy	with	
-A-406	plant proteins	plant proteins	amino acid	amino acid	that have	
-A-406	puberty	puberty	menopause	menopause	and soy foods &	
-A-406	soy	soy	soy foods	soy foods	on precocious puberty and 	
-A-406	cancer	cancer	breast cancer	breast cancer	and a better chance of surviving	
-A-406	plant proteins	plant proteins	animal proteins	animal proteins	that have amino acid ratios similar to	
-A-406	cancer	cancer	cancer	cancer	reversal study mentioned in the video, see 	
-A-406	cancer	cancer	blood	blood	because they boost our	
-A-406	protein	protein	risk	risk	may mean a higher	
-A-406	igf-1	igf-1	meat	meat	levels comparable to those who eat	
-A-406	soy	soy	puberty	puberty	on precocious	
-A-406	amino acid	amino acid	soy	soy	ratios similar to animal proteins such	
-A-406	amino acid	amino acid	soy foods	soy foods	ratios similar to animal proteins such	
 A-406	variety	variety	plant proteins	plant proteins	of	
-A-406	cancer	cancer	protein	protein	promoter igf-1 and non-soy plant	
-A-406	puberty	puberty	soy foods	soy foods	and 	
-A-406	igf-1	igf-1	meat	meat	as that enjoyed by those replacing	
-A-406	risk	risk	breast cancer	breast cancer	of getting	
-A-406	protein	protein	soy protein	soy protein	with	
-A-406	animal proteins	animal proteins	blood	blood	promote cancer because they boost our	
-A-406	igf-1	igf-1	cancer	cancer	levels can mean for prostate and breast	
-A-406	soy	soy	health	health	food consumption is associated with an array of 	
-A-406	growth hormone	growth hormone	igf-1	igf-1		
-A-406	igf-1	igf-1	plant protein	plant protein	and non-soy	
-A-406	cancer	cancer	growth hormone	growth hormone	because they boost our blood levels of the	
-A-406	cancer	cancer	plant protein	plant protein	promoter igf-1 and non-soy	
-A-406	soy	soy	menopause	menopause	on precocious puberty and soy foods &	
-A-406	blood	blood	igf-1	igf-1	levels of the growth hormone	
-A-406	igf-1	igf-1	cancer growth	cancer growth	levels can mean for prostate and breast	
-A-406	breast cancer	breast cancer	cancer	cancer	and a better chance of surviving breast	
-A-406	soy	soy	vegans	vegans	may neutralize benefits i show that	
-A-406	igf-1	igf-1	eggs	eggs	as that enjoyed by those replacing meat,	
-A-406	women	women	soy	soy	who eat a lot of	
-A-406	cancer	cancer	cancer	cancer	growth in my videos ex vivo	
+A-406	cancer survival	cancer survival	soy	soy	and	
+A-406	vegans	vegans	soy foods	soy foods	consuming the equivalent of 7-18 servings of	
 A-406	animal proteins	animal proteins	cancer	cancer	promote	
+A-406	protein	protein	risk	risk	may mean a higher	
 A-406	vegans	vegans	soy	soy	consuming the equivalent of 7-18 servings of	
+A-406	soy	soy	risk	risk	appear to have a lower	
 A-406	prostate	prostate	breast cancer	breast cancer	and	
-A-406	animal protein	animal protein	protein	protein	with soy	
+A-406	soy	soy	vegans	vegans	may neutralize benefits i show that	
+A-406	breast cancer survival	breast cancer survival	soy	soy	and	

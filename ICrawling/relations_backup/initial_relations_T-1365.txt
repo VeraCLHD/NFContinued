@@ -1,14 +1,6 @@
 
-T-1365	calcium	calcium	kale	kale	are superior to animal-based sources (	
-T-1365	calcium	calcium	milk	milk	as cow’s	
-T-1365	broccoli	broccoli	calcium	calcium	absorbed nearly twice as well as the	
-T-1365	calcium	calcium	broccoli	broccoli	are superior to animal-based sources (kale and	
-T-1365	bone mineral density	bone mineral density	vegans	vegans	of	
-T-1365	coffee	coffee	health	health	consumption may have adverse effects on bone	
-T-1365	plant-based	plant-based	calcium	calcium	sources of	
 T-1365	vegan	vegan	calcium	calcium	tend to be deficient in	
-T-1365	bone mineral density	bone mineral density	omnivores	omnivores	of vegans to	
-T-1365	coffee	coffee	bone health	bone health	consumption may have adverse effects on	
-T-1365	calcium	calcium	dairy	dairy	intake due to	
-T-1365	vegans	vegans	omnivores	omnivores	to	
+T-1365	calcium	calcium	kale	kale	are superior to animal-based sources (	
+T-1365	broccoli	broccoli	calcium	calcium	absorbed nearly twice as well as the	
+T-1365	bone mineral density	bone mineral density	vegans	vegans	of	
 T-1365	kale	kale	broccoli	broccoli	and	

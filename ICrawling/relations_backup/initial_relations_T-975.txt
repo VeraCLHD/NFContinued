@@ -1,20 +1,7 @@
 
 T-975	milk	milk	paratuberculosis	paratuberculosis	contaminated with	
-T-975	type 1 diabetes	type 1 diabetes	ice cream	ice cream	in humans.regularly eating	
-T-975	type 1 diabetes	type 1 diabetes	cream	cream	in humans.regularly eating ice	
-T-975	type 1 diabetes	type 1 diabetes	fat	fat	in humans.regularly eating ice cream’s high sugar and	
 T-975	ice cream	ice cream	fat	fat	is a primary source of saturated	
-T-975	cream	cream	fat	fat	’s high sugar and	
-T-975	sugar	sugar	fat	fat	and	
-T-975	type 1 diabetes	type 1 diabetes	sugar	sugar	in humans.regularly eating ice cream’s high	
-T-975	disease	disease	milk	milk	and breast cancer.dairy products made from	
-T-975	diabetes	diabetes	cream	cream	in humans.regularly eating ice	
-T-975	diabetes	diabetes	ice cream	ice cream	in humans.regularly eating	
-T-975	ice cream	ice cream	fat	fat	’s high sugar and	
 T-975	ice cream	ice cream	saturated fat	saturated fat	is a primary source of	
-T-975	cholesterol	cholesterol	disease	disease	and with diseases such as coronary artery	
 T-975	cream	cream	saturated fat	saturated fat	is a primary source of	
 T-975	cream	cream	fat	fat	is a primary source of saturated	
-T-975	diabetes	diabetes	sugar	sugar	in humans.regularly eating ice cream’s high	
-T-975	milk	milk	disease	disease	contaminated with paratuberculosis, an organism that causes	
-T-975	diabetes	diabetes	fat	fat	in humans.regularly eating ice cream’s high sugar and	
+T-975	sugar	sugar	fat	fat	and	

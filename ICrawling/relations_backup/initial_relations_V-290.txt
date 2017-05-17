@@ -1,65 +1,11 @@
 
 V-290	blood pressure	blood pressure	rice diet	rice diet	was cured by the	
-V-290	protein	protein	diet	diet	intake, while the impressive effectiveness of the rice–fruit	
-V-290	treatment	treatment	high blood pressure	high blood pressure	for kidney failure and out-of-control	
-V-290	drugs	drugs	blood	blood	became available that effectively reduced	
-V-290	protein	protein	fruit	fruit	intake, while the impressive effectiveness of the rice–	
-V-290	drugs	drugs	treatment	treatment	to a dietary	
-V-290	high blood pressure	high blood pressure	diet	diet	was cured by the rice	
-V-290	high blood pressure	high blood pressure	rice	rice	was cured by the	
-V-290	drugs	drugs	blood pressure	blood pressure	on the market now, high	
-V-290	kidney failure	kidney failure	high blood pressure	high blood pressure	and out-of-control	
-V-290	blood pressure	blood pressure	hypertension	hypertension	and	
-V-290	vegetarian	vegetarian	diet	diet		
-V-290	drugs	drugs	blood pressure	blood pressure	became available that effectively reduced	
-V-290	blood	blood	diet	diet	pressure was cured by the rice	
-V-290	kidney	kidney	blood pressure	blood pressure	failure and out-of-control high	
-V-290	drugs	drugs	blood	blood	on the market now, high	
-V-290	kidney failure	kidney failure	blood pressure	blood pressure	and out-of-control high	
-V-290	blood pressure	blood pressure	heart disease	heart disease	with all its possible complications of	
-V-290	blood	blood	rice diet	rice diet	pressure was cured by the	
-V-290	kidney	kidney	blood	blood	failure and out-of-control high	
-V-290	high blood pressure	high blood pressure	disease	disease	with all its possible complications of heart	
-V-290	blood	blood	death	death	pressure remains the #1 cause of	
-V-290	rice	rice	treatment	treatment	diet, which was originally designed as a	
-V-290	kidney	kidney	disease	disease		
-V-290	rice	rice	diet	diet		
-V-290	rice	rice	fruit	fruit	and	
-V-290	medications	medications	blood	blood	and with no return of the elevated	
-V-290	drugs	drugs	hypertension	hypertension	became available that effectively reduced blood pressure and	
-V-290	plant-based diets	plant-based diets	diet	diet	to a more sane plant-based type	
-V-290	blood pressure	blood pressure	kidney disease	kidney disease	with all its possible complications of heart disease,	
-V-290	protein	protein	rice	rice	intake, while the impressive effectiveness of the	
-V-290	plant-based diets	plant-based diets	plant-based	plant-based	to a more sane	
-V-290	blood pressure	blood pressure	diet	diet	was cured by the rice	
-V-290	treatment	treatment	blood pressure	blood pressure	for kidney failure and out-of-control high	
-V-290	blood pressure	blood pressure	kidney	kidney	with all its possible complications of heart disease,	
-V-290	blood	blood	disease	disease	pressure with all its possible complications of heart	
-V-290	treatment	treatment	blood	blood	for kidney failure and out-of-control high	
-V-290	kidney failure	kidney failure	blood	blood	and out-of-control high	
 V-290	high blood pressure	high blood pressure	rice diet	rice diet	was cured by the	
-V-290	treatment	treatment	medications	medications	to	
-V-290	blood	blood	heart disease	heart disease	pressure with all its possible complications of	
-V-290	kidney	kidney	stroke	stroke	disease,	
-V-290	plant-based	plant-based	diet	diet	diets to a more sane plant-based type	
+V-290	high blood pressure	high blood pressure	rice	rice	was cured by the	
+V-290	drugs	drugs	blood	blood	became available that effectively reduced	
+V-290	rice	rice	fruit	fruit	and	
+V-290	blood pressure	blood pressure	hypertension	hypertension	and	
+V-290	drugs	drugs	blood pressure	blood pressure	became available that effectively reduced	
 V-290	blood pressure	blood pressure	rice	rice	was cured by the	
-V-290	medical profession	medical profession	blood	blood	threw everything they had at him, and his	
-V-290	blood pressure	blood pressure	death	death	remains the #1 cause of	
-V-290	treatment	treatment	kidney	kidney	for	
-V-290	kidney	kidney	high blood pressure	high blood pressure	failure and out-of-control	
-V-290	rice	rice	diet	diet	–fruit	
-V-290	treatment	treatment	kidney failure	kidney failure	for	
-V-290	fruit	fruit	diet	diet		
-V-290	drugs	drugs	high blood pressure	high blood pressure	on the market now,	
-V-290	medical profession	medical profession	blood pressure	blood pressure	threw everything they had at him, and his	
-V-290	blood	blood	rice	rice	pressure was cured by the	
 V-290	high blood pressure	high blood pressure	death	death	remains the #1 cause of	
-V-290	high blood pressure	high blood pressure	kidney disease	kidney disease	with all its possible complications of heart disease,	
-V-290	blood pressure	blood pressure	disease	disease	with all its possible complications of heart	
-V-290	rice	rice	treatment	treatment		
-V-290	high blood pressure	high blood pressure	kidney	kidney	with all its possible complications of heart disease,	
-V-290	blood	blood	hypertension	hypertension	pressure and	
-V-290	medications	medications	blood pressure	blood pressure	and with no return of the elevated	
-V-290	kidney	kidney	blindness	blindness	disease, stroke, and	
-V-290	high blood pressure	high blood pressure	heart disease	heart disease	with all its possible complications of	
-V-290	rice	rice	fruit	fruit	–	
+V-290	blood pressure	blood pressure	death	death	remains the #1 cause of	

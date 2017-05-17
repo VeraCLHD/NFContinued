@@ -1,14 +1,6 @@
 
 T-1126	phytonutrients	phytonutrients	fat	fat	are	
-T-1126	vitamins	vitamins	fat	fat	and other phytonutrients are	
-T-1126	telomeres	telomeres	aging	aging	(telomere length is a measure of cellular	
+T-1126	diet	diet	telomeres	telomeres	can add nearly a whole year’s worth of length to our	
 T-1126	nuts	nuts	avocados	avocados	and	
-T-1126	vitamins	vitamins	phytonutrients	phytonutrients	and other	
 T-1126	animal fat	animal fat	cholesterol	cholesterol	may reduce	
 T-1126	fat	fat	cholesterol	cholesterol	may reduce	
-T-1126	fat	fat	diet	diet	in your	
-T-1126	plant-based	plant-based	whole foods	whole foods	fat in the form of	
-T-1126	saturated fat	saturated fat	diet	diet	in your	
-T-1126	walnuts	walnuts	fat	fat	or other healthy source of	
-T-1126	plant-based	plant-based	fat	fat		
-T-1126	fat	fat	whole foods	whole foods	in the form of	

@@ -1,40 +1,10 @@
 
-V-776	kidney	kidney	phosphorus	phosphorus	function declines,	
-V-776	skin	skin	gangrene	gangrene	necrosis,	
-V-776	omnivores	omnivores	vegans	vegans	have been compared to those eating vegan, “	
-V-776	vegans	vegans	protein	protein	had significantly [less	
-V-776	meat	meat	diet	diet		
-V-776	skin	skin	amputations	amputations	necrosis, gangrene	
-V-776	phosphorus	phosphorus	kidney disease	kidney disease	[balance] in patients with [chronic	
-V-776	plant foods	plant foods	phosphorus	phosphorus	and animal foods have	
-V-776	plant protein	plant protein	protein	protein	better than animal	
-V-776	plant foods	plant foods	phosphorus	phosphorus	that enables our bodies to better handle their	
-V-776	animal foods	animal foods	phosphorus	phosphorus	have	
-V-776	gangrene	gangrene	amputations	amputations		
-V-776	protein	protein	kidney	kidney	leaking out into their urine]”—a sign of intact	
-V-776	diet	diet	kidney	kidney	for [the] patients with [	
-V-776	calcium	calcium	skin	skin	deposits, and eventually result in	
-V-776	vegans	vegans	urine	urine	had significantly [less protein leaking out into their	
-V-776	vegetarian	vegetarian	diet	diet		
-V-776	protein	protein	kidney	kidney	diets appear to delay the progression of	
-V-776	phosphorus	phosphorus	protein	protein	and	
-V-776	omnivores	omnivores	vegan	vegan	have been compared to those eating	
-V-776	calcium	calcium	amputations	amputations	deposits, and eventually result in skin necrosis, gangrene	
-V-776	protein	protein	diet	diet	intake were kept the same in both	
+V-776	plant foods	plant foods	animal foods	animal foods	and	
 V-776	kidneys	kidneys	phosphorus	phosphorus	is to filter out excess	
-V-776	kidney function	kidney function	phosphorus	phosphorus	declines,	
 V-776	protein	protein	urine	urine	leaking out into their	
 V-776	omnivores	omnivores	protein	protein	were getting “a higher	
-V-776	phosphorus	phosphorus	disease	disease	[balance] in patients with [chronic kidney	
-V-776	vegan	vegan	kidney	kidney	diet for [the] patients with [	
-V-776	urine	urine	kidney	kidney	]”—a sign of intact	
-V-776	phosphorus	phosphorus	kidney	kidney	[balance] in patients with [chronic	
-V-776	calcium	calcium	gangrene	gangrene	deposits, and eventually result in skin necrosis,	
-V-776	plant foods	plant foods	animal foods	animal foods	and	
-V-776	diet	diet	protein	protein	help because they were eating less	
-V-776	diet	diet	phosphorus	phosphorus	groups, here’s the level of	
-V-776	metastatic calcification	metastatic calcification	muscles	muscles	—where your heart valves, and	
-V-776	protein	protein	kidney failure	kidney failure	diets appear to delay the progression of	
-V-776	kidney	kidney	disease	disease		
-V-776	meat	meat	diet	diet	-eaters, and put them on a vegetarian	
+V-776	vegans	vegans	protein	protein	had significantly [less	
+V-776	phosphorus	phosphorus	protein	protein	and	
+V-776	animal foods	animal foods	phosphorus	phosphorus	have	
 V-776	protein	protein	phosphorus	phosphorus	has	
+V-776	omnivores	omnivores	vegan	vegan	have been compared to those eating	

@@ -1,11 +1,3 @@
 
-V-703	babies	babies	pollutants	pollutants	to toxic	
-V-703	standard american diet	standard american diet	breastfeeding	breastfeeding	and end up	
-V-703	pcbs	pcbs	mothers	mothers	from their	
-V-703	diet	diet	breastfeeding	breastfeeding	and end up	
 V-703	mothers	mothers	babies	babies	continue to expose their	
-V-703	children	children	pcb	pcb	who had obvious	
-V-703	children	children	toxins	toxins	to shed the industrial	
-V-703	children	children	industrial toxins	industrial toxins	to shed the	
-V-703	children	children	diet	diet	eat a healthy	
-V-703	mothers	mothers	pollutants	pollutants	continue to expose their babies to toxic	
+V-703	mothers	mothers	toxins	toxins	tested at age 8 and then again at age 12 to get a sense of the half life of these	

@@ -1,38 +1,6 @@
 
-T-1794	sugar	sugar	diabetes	diabetes	response and increase	
-T-1794	ulcerative colitis	ulcerative colitis	disease	disease	and crohn’s	
-T-1794	fruits	fruits	fructose	fructose	are eaten whole,	
-T-1794	blood	blood	risk	risk	sugar response and increase diabetes	
-T-1794	mood	mood	pain	pain	disorders,	
-T-1794	blood	blood	diabetes	diabetes	sugar response and increase	
-T-1794	bacteria	bacteria	sugar	sugar	populations, which can impact blood	
-T-1794	sweeteners	sweeteners	weight gain	weight gain	may actually lead to	
-T-1794	sugar	sugar	molasses	molasses	(which is simply powdered dates),	
-T-1794	molasses	molasses	erythritol	erythritol	and	
-T-1794	gut bacteria	gut bacteria	sugar	sugar	populations, which can impact blood	
-T-1794	dates	dates	erythritol	erythritol	), molasses and	
-T-1794	bacteria	bacteria	blood	blood	populations, which can impact	
-T-1794	gut bacteria	gut bacteria	blood sugar	blood sugar	populations, which can impact	
-T-1794	sweeteners	sweeteners	appetite	appetite	can also boost the	
-T-1794	mood	mood	preterm birth	preterm birth	disorders, pain, and	
-T-1794	molasses	molasses	sweetener	sweetener	and erythritol are relatively healthy	
-T-1794	blood sugar	blood sugar	risk	risk	response and increase diabetes	
-T-1794	sugar	sugar	fructose	fructose	and	
-T-1794	gut	gut	blood sugar	blood sugar	bacteria populations, which can impact	
-T-1794	bacteria	bacteria	blood sugar	blood sugar	populations, which can impact	
-T-1794	fruit	fruit	fructose	fructose	contains natural sugar,	
-T-1794	sugar	sugar	erythritol	erythritol	(which is simply powdered dates), molasses and	
-T-1794	diabetes	diabetes	risk	risk		
-T-1794	gut bacteria	gut bacteria	blood	blood	populations, which can impact	
+T-1794	sweeteners	sweeteners	mood	mood	have been associated with a number of adverse effects including	
 T-1794	sweeteners	sweeteners	lead	lead	may actually	
-T-1794	sugar	sugar	dates	dates	(which is simply powdered	
-T-1794	lead	lead	weight gain	weight gain	to	
-T-1794	blood sugar	blood sugar	diabetes	diabetes	response and increase	
-T-1794	gut	gut	sugar	sugar	bacteria populations, which can impact blood	
-T-1794	gut	gut	blood	blood	bacteria populations, which can impact	
-T-1794	sugar	sugar	risk	risk	response and increase diabetes	
-T-1794	gut	gut	bacteria	bacteria		
-T-1794	erythritol	erythritol	sweetener	sweetener	are relatively healthy	
 T-1794	fruit	fruit	sugar	sugar	contains natural	
-T-1794	dates	dates	sweetener	sweetener	), molasses and erythritol are relatively healthy	
-T-1794	blood	blood	sugar	sugar		
+T-1794	sugar	sugar	fructose	fructose	and	
+T-1794	molasses	molasses	erythritol	erythritol	and	

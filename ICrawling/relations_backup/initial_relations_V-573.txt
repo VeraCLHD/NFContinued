@@ -1,8 +1,3 @@
 
-V-573	capsaicin	capsaicin	peppers	peppers	is the burning component of hot	
 V-573	capsaicin	capsaicin	burning	burning	is the	
-V-573	headaches	headaches	cluster headaches	cluster headaches	?well,	
 V-573	cluster headaches	cluster headaches	headaches	headaches	are one-sided	
-V-573	cluster headaches	cluster headaches	pain	pain	are one-sided headaches: you only get	
-V-573	pain	pain	substance p	substance p	messages until they made more	
-V-573	burning	burning	peppers	peppers	component of hot	

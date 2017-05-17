@@ -1,57 +1,12 @@
 
-V-247	colorectal cancer	colorectal cancer	bile acids	bile acids	development, and perhaps breast cancer, as these secondary	
-V-247	colon	colon	risk	risk	cancer	
-V-247	carcinogens	carcinogens	colon	colon	in the	
-V-247	dna	dna	diet	diet	and undermine our dna repair pathwayscompared to this	
-V-247	vegetarian	vegetarian	produce	produce		
-V-247	colon	colon	carcinogens	carcinogens		
-V-247	plant-based	plant-based	diet	diet		
-V-247	liver	liver	bile	bile	makes into secondary	
-V-247	vegetarian	vegetarian	diet	diet		
-V-247	colon	colon	cancer	cancer		
-V-247	egg	egg	gas	gas		
-V-247	produce	produce	bile acids	bile acids	just a fraction of some of the secondary	
-V-247	diet	diet	fat	fat	high in animal	
-V-247	protein	protein	produce	produce	can putrefy and	
-V-247	diet	diet	animal fat	animal fat	high in	
-V-247	colorectal cancer	colorectal cancer	breast cancer	breast cancer	development, and perhaps	
-V-247	colorectal cancer	colorectal cancer	bile	bile	development, and perhaps breast cancer, as these secondary	
-V-247	protein	protein	gas	gas	can putrefy and produce the rotten egg	
-V-247	produce	produce	bile acids	bile acids	these secondary	
-V-247	dna	dna	bile	bile	damaging, mutagenic substances, and	
-V-247	plant-based diets	plant-based diets	bile	bile	have less	
-V-247	produce	produce	bile	bile	these secondary	
-V-247	animal protein	animal protein	egg	egg	can putrefy and produce the rotten	
-V-247	saturated fat	saturated fat	bile	bile	intake is associated with elevated levels of	
-V-247	produce	produce	bile	bile	just a fraction of some of the secondary	
-V-247	animal protein	animal protein	produce	produce	can putrefy and	
-V-247	produce	produce	egg	egg	the rotten	
-V-247	liver	liver	bile acids	bile acids	makes into secondary	
-V-247	bile acids	bile acids	bacteria	bacteria	stimulate the growth of	
-V-247	bile	bile	animal fat	animal fat	salt-producing bacteria, what about people who don’t eat	
-V-247	fat	fat	bile	bile	intake is associated with elevated levels of	
-V-247	plant-based	plant-based	bile	bile	diets have less	
-V-247	cancer	cancer	risk	risk		
-V-247	bile acids	bile acids	cancer	cancer	implicated in	
-V-247	animal protein	animal protein	gas	gas	can putrefy and produce the rotten egg	
-V-247	bile acids	bile acids	free radicals	free radicals	are believed to promote this process.so, fecal	
-V-247	bile	bile	free radicals	free radicals	acids are believed to promote this process.so, fecal	
 V-247	free radicals	free radicals	carcinogens	carcinogens	may activate	
-V-247	bile	bile	bile acids	bile acids	acids, and secondary	
-V-247	colorectal cancer	colorectal cancer	cancer	cancer	development, and perhaps breast	
-V-247	bile	bile	cancer	cancer	acids implicated in	
-V-247	animal protein	animal protein	fat	fat	and	
-V-247	gas	gas	dna	dna	which may be toxic to	
-V-247	bile acids	bile acids	bile	bile	into the intestine.that’s what	
-V-247	protein	protein	fat	fat	and	
-V-247	bile acids	bile acids	bile	bile	have long been suspected as being carcinogenic—especially secondary	
-V-247	egg	egg	dna	dna	gas which may be toxic to	
-V-247	bile	bile	bacteria	bacteria	acids stimulate the growth of	
-V-247	free radicals	free radicals	colon	colon	may activate carcinogens in the	
+V-247	animal protein	animal protein	produce	produce	can putrefy and	
+V-247	bile acids	bile acids	cancer	cancer	implicated in	
+V-247	liver	liver	bile acids	bile acids	makes into secondary	
 V-247	cauliflower	cauliflower	carrots	carrots	and	
-V-247	produce	produce	gas	gas	the rotten egg	
-V-247	protein	protein	egg	egg	can putrefy and produce the rotten	
-V-247	bile	bile	bacteria	bacteria	salt-producing	
-V-247	dna	dna	bile acids	bile acids	damaging, mutagenic substances, and	
-V-247	colon cancer	colon cancer	risk	risk		
-V-247	fat	fat	bile	bile	in the intestines means more	
+V-247	bile acids	bile acids	bacteria	bacteria	stimulate the growth of	
+V-247	animal protein	animal protein	fat	fat	and	
+V-247	protein	protein	produce	produce	can putrefy and	
+V-247	protein	protein	fat	fat	and	
+V-247	plant-based diets	plant-based diets	bile	bile	have less	
+V-247	liver	liver	bile	bile	makes into secondary	

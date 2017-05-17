@@ -1,41 +1,5 @@
 
 V-1005	omega-3 fatty acids	omega-3 fatty acids	cholesterol	cholesterol	are still loaded with	
-V-1005	lead	lead	risk	risk	researcher replied, “[most everyone is] at	
-V-1005	lamb	lamb	eggs	eggs	brains, raw pig brains, more veal brains, and then	
-V-1005	cereal	cereal	chicken	chicken	and leave the	
-V-1005	eggs	eggs	cholesterol	cholesterol	containing omega-3 fatty acids are still loaded with	
-V-1005	lamb	lamb	brains	brains		
-V-1005	eggs	eggs	cholesterol	cholesterol	are the most concentrated source of dietary	
-V-1005	stroke	stroke	smoking	smoking	would be like quitting	
-V-1005	raw	raw	veal	veal	pig brains, more	
-V-1005	veal	veal	brains	brains		
-V-1005	veal	veal	raw	raw	brains, cow brains, pig brains, lamb brains,	
-V-1005	risk	risk	disease	disease	of vascular	
-V-1005	egg	egg	heart attack	heart attack	consumption after a [	
-V-1005	heart disease	heart disease	lead	lead	—to which the	
-V-1005	heart attack	heart attack	smoking	smoking	] or stroke would be like quitting	
-V-1005	risk	risk	lead	lead	for heart disease—to which the	
-V-1005	stroke	stroke	prevention	prevention		
-V-1005	eggs	eggs	omega-3 fatty acids	omega-3 fatty acids	containing	
-V-1005	raw	raw	brains	brains	pig 	
-V-1005	lamb	lamb	veal brains	veal brains	brains, raw pig brains, more	
-V-1005	raw	raw	eggs	eggs	pig brains, more veal brains, and then	
-V-1005	egg	egg	stroke	stroke	consumption after a [heart attack] or	
-V-1005	heart attack	heart attack	stroke	stroke	] or	
-V-1005	bacon	bacon	eggs	eggs	or hash browns, railing against this myth that	
-V-1005	smoking	smoking	cancer	cancer	after [a diagnosis of] lung	
-V-1005	diabetes	diabetes	eggs	eggs	diagnosis to avoid	
-V-1005	lamb	lamb	raw	raw	brains,	
-V-1005	smoking	smoking	lung cancer	lung cancer	after [a diagnosis of]	
-V-1005	cholesterol	cholesterol	eggs	eggs	sources,	
-V-1005	risk	risk	disease	disease	for heart	
-V-1005	egg	egg	bacon	bacon	industry would rather blame the	
 V-1005	eggs	eggs	dietary cholesterol	dietary cholesterol	are the most concentrated source of	
-V-1005	veal	veal	lamb	lamb	brains, cow brains, pig brains,	
-V-1005	raw	raw	veal brains	veal brains	pig brains, more	
-V-1005	cholesterol	cholesterol	egg	egg	intake, that wouldn’t even allow a single	
-V-1005	flax	flax	chickens	chickens	seed to the	
-V-1005	risk	risk	heart disease	heart disease	for	
-V-1005	lamb	lamb	veal	veal	brains, raw pig brains, more	
-V-1005	disease	disease	lead	lead	—to which the	
-V-1005	stroke	stroke	atherosclerosis	atherosclerosis	prevention &	
+V-1005	eggs	eggs	omega-3 fatty acids	omega-3 fatty acids	containing	
+V-1005	stroke	stroke	smoking	smoking	would be like quitting	

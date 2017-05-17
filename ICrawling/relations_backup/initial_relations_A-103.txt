@@ -1,20 +1,10 @@
 
-A-103	prediabetes	prediabetes	diabetes	diabetes	from turning into	
-A-103	diabetes	diabetes	period	period	within the four-year study	
-A-103	eggs	eggs	diabetes	diabetes	and	
-A-103	fish	fish	diabetes	diabetes	and	
-A-103	eggs	eggs	fish	fish	and diabetes and	
-A-103	prevention	prevention	prediabetes	prediabetes	studies, 500 people with	
-A-103	kidney	kidney	amputations	amputations	failure, and the number one cause of surgical	
-A-103	diarrhea	diarrhea	nauseous	nauseous	in about half, makes one in four	
-A-103	diabetes	diabetes	prediabetes	prediabetes	prevention studies, 500 people with	
-A-103	diabetes	diabetes	prevention	prevention	remain inadequate,	
 A-103	chicken	chicken	pork	pork	and	
 A-103	diabetes	diabetes	fish	fish	and	
 A-103	weakness	weakness	fatigue	fatigue	and	
 A-103	diabetes	diabetes	blindness	blindness	is the number one cause of adult-onset	
-A-103	england	england	medicine	medicine	journal of	
 A-103	risk	risk	diabetes	diabetes	of	
-A-103	diabetes	diabetes	prevention	prevention		
-A-103	disease	disease	prevention	prevention	control and	
+A-103	eggs	eggs	diabetes	diabetes	and	
+A-103	fish	fish	diabetes	diabetes	and	
+A-103	risk	risk	diet	diet	was just for those people instructed to improve their	
 A-103	diet	diet	exercise	exercise	and	

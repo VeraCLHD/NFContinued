@@ -1,9 +1,2 @@
 
 V-1188	oranges	oranges	fruit	fruit	were the best	
-V-1188	nuts	nuts	risk	risk	are the healthiest source of fat—cutting our	
-V-1188	nuts	nuts	fat	fat	are the healthiest source of	
-V-1188	fat	fat	risk	risk	—cutting our	
-V-1188	fat	fat	heart attack	heart attack	—cutting our risk of dying from a	
-V-1188	risk	risk	heart attack	heart attack	of dying from a	
-V-1188	oranges	oranges	phytosterols	phytosterols	were the best fruit source of cholesterol-lowering	
-V-1188	fruit	fruit	phytosterols	phytosterols	source of cholesterol-lowering	

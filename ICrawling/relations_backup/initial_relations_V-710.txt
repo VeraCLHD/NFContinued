@@ -1,24 +1,7 @@
 
-V-710	health	health	chemicals	chemicals	sciences, here is the list of	
-V-710	chemical pollutants	chemical pollutants	americans	americans	in the bodies of thousands of	
-V-710	women	women	pregnant	pregnant	(both	
-V-710	women	women	heavy metals	heavy metals	in this country are contaminated with	
-V-710	u.s. centers for disease control and prevention	u.s. centers for disease control and prevention	pollutants	pollutants	measures the levels of chemical	
-V-710	u.s. centers for disease control and prevention	u.s. centers for disease control and prevention	chemical pollutants	chemical pollutants	measures the levels of	
-V-710	centers for disease control and prevention	centers for disease control and prevention	pollutants	pollutants	measures the levels of chemical	
-V-710	pregnant	pregnant	pollutants	pollutants	and non-pregnant) with detectable levels of these	
-V-710	pregnant	pregnant	women	women		
-V-710	pregnant	pregnant	united states	united states	women in the	
-V-710	women	women	united states	united states	in the	
-V-710	women	women	chemicals	chemicals	harbored about 35 different	
 V-710	centers for disease control and prevention	centers for disease control and prevention	chemical pollutants	chemical pollutants	measures the levels of	
 V-710	women	women	chemicals	chemicals	tested were found with these	
-V-710	disease	disease	pollutants	pollutants	control and prevention measures the levels of chemical	
-V-710	disease	disease	chemical pollutants	chemical pollutants	control and prevention measures the levels of	
-V-710	pregnant	pregnant	chemicals	chemicals	women harbored about 35 different	
-V-710	pregnant women	pregnant women	united states	united states	in the	
-V-710	prevention	prevention	pollutants	pollutants	measures the levels of chemical	
+V-710	u.s. centers for disease control and prevention	u.s. centers for disease control and prevention	chemical pollutants	chemical pollutants	measures the levels of	
 V-710	prevention	prevention	chemical pollutants	chemical pollutants	measures the levels of	
-V-710	disease	disease	prevention	prevention	control and	
-V-710	pollutants	pollutants	americans	americans	in the bodies of thousands of	
+V-710	women	women	chemicals	chemicals	harbored about 35 different	
 V-710	pregnant women	pregnant women	chemicals	chemicals	harbored about 35 different	

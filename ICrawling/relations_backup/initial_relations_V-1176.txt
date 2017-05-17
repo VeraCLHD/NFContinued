@@ -1,9 +1,0 @@
-
-V-1176	bpa	bpa	disease	disease	levels to heart	
-V-1176	water	water	cans	cans	bottles.bpa is used in the lining of food	
-V-1176	beans	beans	bpa	bpa	—can contain a chemical called	
-V-1176	cans	cans	beans	beans	—like cans of	
-V-1176	cans	cans	bpa	bpa	—like cans of beans—can contain a chemical called	
-V-1176	bpa	bpa	liver	liver	levels to heart disease, diabetes, and	
-V-1176	bpa	bpa	diabetes	diabetes	levels to heart disease,	
-V-1176	bpa	bpa	heart disease	heart disease	levels to 	

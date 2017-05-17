@@ -1,63 +1,12 @@
 
-A-379	nausea	nausea	dramamine	dramamine	until 1982 when it beat out	
-A-379	ginger	ginger	lemon	lemon	apple chews liquify the	
-A-379	nausea	nausea	radiation	radiation	during motion sickness, pregnancy, chemo,	
-A-379	ginger	ginger	nausea	nausea	wasn’t proven to reduce	
-A-379	nausea	nausea	chemo	chemo	during motion sickness, pregnancy,	
-A-379	medicine	medicine	ginger	ginger	”),	
-A-379	plants	plants	juice	juice	vs. pesticides and amyloid and apple	
-A-379	ginger	ginger	lemon	lemon	and	
-A-379	india	india	medicine	medicine	it’s known as maha aushadhi, meaning “the great	
-A-379	plants	plants	apple juice	apple juice	vs. pesticides and amyloid and	
-A-379	health food	health food	ginger	ginger	store employees,	
-A-379	pesticides	pesticides	apple	apple	and amyloid and	
-A-379	amyloid	amyloid	apple	apple	and	
-A-379	apple	apple	turmeric	turmeric	chews liquify the lemon, ginger, and	
-A-379	turmeric	turmeric	pregnancy	pregnancy	during	
-A-379	ginger	ginger	antiemetic	antiemetic	is now considered a nontoxic broad-spectrum	
-A-379	lemon	lemon	apple	apple	-ginger	
-A-379	medicine	medicine	nausea	nausea	”), ginger wasn’t proven to reduce	
-A-379	plants	plants	pesticides	pesticides	vs.	
-A-379	apple	apple	lemon	lemon	chews liquify the	
-A-379	nausea	nausea	surgery	surgery	during motion sickness, pregnancy, chemo, radiation, and after	
-A-379	ginger	ginger	pregnancy	pregnancy	during	
-A-379	ginger	ginger	candy	candy		
-A-379	nausea	nausea	motion sickness	motion sickness	during	
-A-379	burning	burning	mouth	mouth	my	
-A-379	ginger	ginger	apple	apple		
-A-379	anti-vomiting agent	anti-vomiting agent	nausea	nausea	) effective in countering	
-A-379	oxalates	oxalates	turmeric	turmeric	in	
-A-379	amyloid	amyloid	juice	juice	and apple	
-A-379	lemon balm	lemon balm	dvd	dvd	from my volume 13	
-A-379	plants	plants	amyloid	amyloid	vs. pesticides and	
-A-379	traditional healing systems	traditional healing systems	india	india	(in	
-A-379	pesticides	pesticides	juice	juice	and amyloid and apple	
-A-379	health food store	health food store	ginger	ginger	employees,	
-A-379	ginger	ginger	lemon balm	lemon balm	and	
-A-379	ginger	ginger	tea	tea	candy, chew, syrup,	
-A-379	ginger	ginger	pregnancy	pregnancy	is generally considered safe during	
-A-379	oxalates	oxalates	pregnant	pregnant	in turmeric, even if not	
-A-379	lemon-ginger apple chews	lemon-ginger apple chews	lemon	lemon	liquify the	
-A-379	pesticides	pesticides	apple juice	apple juice	and amyloid and	
-A-379	anti-vomiting agent	anti-vomiting agent	motion sickness	motion sickness	) effective in countering nausea during	
-A-379	nausea	nausea	pregnancy	pregnancy	during motion sickness,	
-A-379	ginger	ginger	turmeric	turmeric	apple chews liquify the lemon, ginger, and	
-A-379	plants	plants	apple	apple	vs. pesticides and amyloid and	
-A-379	antiemetic	antiemetic	motion sickness	motion sickness	(anti-vomiting agent) effective in countering nausea during	
 A-379	pesticides	pesticides	amyloid	amyloid	and	
-A-379	lemon-ginger apple chews	lemon-ginger apple chews	turmeric	turmeric	liquify the lemon, ginger, and	
-A-379	radiation	radiation	ginger	ginger	damage with	
-A-379	apple	apple	juice	juice		
-A-379	anti-vomiting agent	anti-vomiting agent	pregnancy	pregnancy	) effective in countering nausea during motion sickness,	
-A-379	variety	variety	ginger	ginger	of fresh	
-A-379	radiation	radiation	lemon	lemon	damage with ginger and	
-A-379	ginger	ginger	anti-vomiting agent	anti-vomiting agent	is now considered a nontoxic broad-spectrum antiemetic (	
-A-379	health	health	ginger	ginger	food store employees,	
-A-379	ginger	ginger	dvd	dvd	and lemon balm from my volume 13	
-A-379	lemon	lemon	turmeric	turmeric	-ginger apple chews liquify the lemon, ginger, and	
-A-379	apple	apple	ginger	ginger	chews liquify the lemon,	
+A-379	ginger	ginger	pregnancy	pregnancy	is generally considered safe during	
+A-379	lemon-ginger apple chews	lemon-ginger apple chews	lemon	lemon	liquify the	
+A-379	ginger	ginger	nausea	nausea	wasn’t proven to reduce	
+A-379	amyloid	amyloid	apple	apple	and	
+A-379	ginger	ginger	nausea	nausea	has been found to be an effective remedy for	
+A-379	oxalates	oxalates	turmeric	turmeric	in	
+A-379	ginger	ginger	lemon	lemon	and	
+A-379	ginger	ginger	antiemetic	antiemetic	is now considered a nontoxic broad-spectrum	
 A-379	amyloid	amyloid	apple juice	apple juice	and	
-A-379	radiation	radiation	lemon balm	lemon balm	damage with ginger and	
-A-379	lemon	lemon	dvd	dvd	balm from my volume 13	
-A-379	antiemetic	antiemetic	nausea	nausea	(anti-vomiting agent) effective in countering	
-A-379	lemon-ginger apple chews	lemon-ginger apple chews	ginger	ginger	liquify the lemon,	
+A-379	ginger	ginger	lemon balm	lemon balm	and	

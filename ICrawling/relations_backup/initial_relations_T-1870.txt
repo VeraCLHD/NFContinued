@@ -1,29 +1,6 @@
 
-T-1870	teeth	teeth	corn	corn	fillings, high-fructose	
-T-1870	pcb	pcb	carcinogens	carcinogens	pollutants, and the	
-T-1870	tuna	tuna	contamination	contamination	sushi may contain fecal	
-T-1870	tuna	tuna	mercury	mercury	may be a source of heart-healthy omega-3,	
 T-1870	mercury	mercury	tuna	tuna	in	
 T-1870	sushi	sushi	fecal contamination	fecal contamination	may contain	
-T-1870	brains	brains	mercury	mercury	of infants, children, and adults more than the	
-T-1870	mercury	mercury	contamination	contamination		
-T-1870	brains	brains	infants	infants	of	
-T-1870	brains	brains	children	children	of infants,	
-T-1870	teeth	teeth	supplements	supplements	fillings, high-fructose corn syrup and ayervedic	
-T-1870	benzene	benzene	putrescine	putrescine	and	
-T-1870	tuna	tuna	brains	brains	(especially certain brands) may damage the	
-T-1870	mercury	mercury	ddt	ddt	contamination.tuna may also contain	
-T-1870	pcb	pcb	benzene	benzene	pollutants, and the carcinogens	
 T-1870	sushi	sushi	contamination	contamination	may contain fecal	
-T-1870	teeth	teeth	corn syrup	corn syrup	fillings, high-fructose	
-T-1870	mercury	mercury	brains	brains	in tuna (especially certain brands) may damage the	
-T-1870	tuna	tuna	contamination	contamination	may be a source of heart-healthy omega-3, mercury	
-T-1870	tuna	tuna	infants	infants	(especially certain brands) may damage the brains of	
-T-1870	tuna	tuna	fecal contamination	fecal contamination	sushi may contain	
-T-1870	corn syrup	corn syrup	supplements	supplements	and ayervedic	
-T-1870	pcb	pcb	pollutants	pollutants		
-T-1870	carcinogens	carcinogens	putrescine	putrescine	benzene and	
-T-1870	carcinogens	carcinogens	benzene	benzene		
-T-1870	tuna	tuna	sushi	sushi		
-T-1870	corn	corn	supplements	supplements	syrup and ayervedic	
-T-1870	pcb	pcb	putrescine	putrescine	pollutants, and the carcinogens benzene and	
+T-1870	brains	brains	infants	infants	of	
+T-1870	benzene	benzene	putrescine	putrescine	and	

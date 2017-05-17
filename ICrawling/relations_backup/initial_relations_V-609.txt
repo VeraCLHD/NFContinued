@@ -1,70 +1,12 @@
 
-V-609	flax	flax	cyclical mastalgia	cyclical mastalgia	seed is effective in relieving symptoms of	
-V-609	mastalgia	mastalgia	side effects	side effects	without significant	
-V-609	treatment	treatment	cyclical mastalgia	cyclical mastalgia	for	
-V-609	ground flax	ground flax	flax	flax	seeds lengthened the luteal phase—meaning	
-V-609	flax	flax	hormonal changes	hormonal changes	.since those same	
-V-609	mastalgia	mastalgia	pain	pain	—severe menstrual breast	
-V-609	women	women	plant-based	plant-based	eating	
-V-609	plant-based	plant-based	diet	diet		
-V-609	breast pain	breast pain	period	period	—over a pre-study	
-V-609	ovarian function	ovarian function	plant-based	plant-based	seen in women eating	
-V-609	diet	diet	menstrual symptoms	menstrual symptoms	seemed to improve premenstrual and	
-V-609	symptoms	symptoms	flax seeds	flax seeds	such as breast pain, maybe	
-V-609	plant-based	plant-based	anovulatory cycles	anovulatory cycles	diets: a longer luteal phase, and fewer	
-V-609	period	period	anovulatory cycles	anovulatory cycles	by about a day—and resulted in fewer	
-V-609	symptoms	symptoms	cyclical mastalgia	cyclical mastalgia	of	
-V-609	symptoms	symptoms	flax	flax	such as breast pain, maybe	
-V-609	cyclical mastalgia	cyclical mastalgia	breast pain	breast pain	—severe menstrual	
-V-609	anovulatory	anovulatory	vegetarian	vegetarian	cycles—fewer failed ovulations—an indication that	
-V-609	women	women	mastalgia	mastalgia	with severe cyclical	
-V-609	hormonal changes	hormonal changes	plant-based	plant-based	associated with eating a 	
-V-609	cyclical mastalgia	cyclical mastalgia	period	period	—severe menstrual breast pain—over a pre-study	
-V-609	pain	pain	period	period	—over a pre-study	
-V-609	anovulatory cycles	anovulatory cycles	vegetarian	vegetarian	—fewer failed ovulations—an indication that	
-V-609	cyclical mastalgia	cyclical mastalgia	pain	pain	—severe menstrual breast	
-V-609	plant-based	plant-based	anovulatory	anovulatory	diets: a longer luteal phase, and fewer	
-V-609	hormonal changes	hormonal changes	plant-based diet	plant-based diet	associated with eating a 	
-V-609	menstrual symptoms	menstrual symptoms	flax	flax	such as breast pain, maybe	
-V-609	ground flax	ground flax	seeds	seeds		
 V-609	women	women	flax	flax	eating daily	
-V-609	menstrual symptoms	menstrual symptoms	flax seeds	flax seeds	such as breast pain, maybe	
-V-609	menstrual symptoms	menstrual symptoms	seeds	seeds	such as breast pain, maybe flax	
-V-609	anovulatory cycles	anovulatory cycles	women	women	—fewer failed ovulations—an indication that vegetarian	
-V-609	symptoms	symptoms	seeds	seeds	such as breast pain, maybe flax	
-V-609	treatment	treatment	mastalgia	mastalgia	for cyclical	
-V-609	ovarian function	ovarian function	plant-based diets	plant-based diets	seen in women eating	
-V-609	hormonal changes	hormonal changes	diet	diet	associated with eating a plant-based	
-V-609	women	women	hormonal changes	hormonal changes	eating daily flax.since those same	
-V-609	mastalgia	mastalgia	period	period	—severe menstrual breast pain—over a pre-study	
-V-609	women	women	breast pain	breast pain	with severe cyclical mastalgia—severe menstrual	
-V-609	flax seeds	flax seeds	flax	flax	lengthened the luteal phase—meaning	
-V-609	women	women	cyclical mastalgia	cyclical mastalgia	with severe	
-V-609	plant-based	plant-based	symptoms	symptoms	diet seemed to improve premenstrual and menstrual	
-V-609	seeds	seeds	flax	flax	lengthened the luteal phase—meaning	
-V-609	anovulatory	anovulatory	women	women	cycles—fewer failed ovulations—an indication that vegetarian	
-V-609	symptoms	symptoms	breast pain	breast pain	such as	
 V-609	plant-based diet	plant-based diet	symptoms	symptoms	seemed to improve premenstrual and menstrual	
-V-609	breast lumpiness	breast lumpiness	flax	flax	in the	
 V-609	women	women	plant-based diets	plant-based diets	eating	
-V-609	symptoms	symptoms	side effects	side effects	of cyclical mastalgia without significant	
+V-609	diet	diet	menstrual symptoms	menstrual symptoms	seemed to improve premenstrual and	
+V-609	symptoms	symptoms	cyclical mastalgia	cyclical mastalgia	of	
 V-609	plant-based diet	plant-based diet	menstrual symptoms	menstrual symptoms	seemed to improve premenstrual and	
 V-609	diet	diet	symptoms	symptoms	seemed to improve premenstrual and menstrual	
-V-609	menstrual symptoms	menstrual symptoms	breast pain	breast pain	such as	
-V-609	menstrual symptoms	menstrual symptoms	pain	pain	such as breast	
-V-609	symptoms	symptoms	mastalgia	mastalgia	of cyclical	
-V-609	women	women	pain	pain	with severe cyclical mastalgia—severe menstrual breast	
-V-609	cyclical mastalgia	cyclical mastalgia	side effects	side effects	without significant	
-V-609	plant-based	plant-based	menstrual symptoms	menstrual symptoms	diet seemed to improve premenstrual and	
-V-609	flax	flax	mastalgia	mastalgia	seed is effective in relieving symptoms of cyclical	
-V-609	flax	flax	symptoms	symptoms	seed is effective in relieving	
-V-609	symptoms	symptoms	pain	pain	such as breast	
-V-609	plant-based diets	plant-based diets	anovulatory	anovulatory	: a longer luteal phase, and fewer	
-V-609	vegetarian	vegetarian	women	women		
-V-609	plant-based diets	plant-based diets	anovulatory cycles	anovulatory cycles	: a longer luteal phase, and fewer	
-V-609	women	women	pain	pain	with breast	
-V-609	mastalgia	mastalgia	breast pain	breast pain	—severe menstrual	
-V-609	flax	flax	placebo	placebo	seed, or, “a	
-V-609	period	period	anovulatory	anovulatory	by about a day—and resulted in fewer	
-V-609	women	women	breast pain	breast pain	with	
+V-609	women	women	plant-based	plant-based	eating	
+V-609	hormonal changes	hormonal changes	plant-based diet	plant-based diet	associated with eating a 	
+V-609	hormonal changes	hormonal changes	plant-based	plant-based	associated with eating a 	
 V-609	ovarian function	ovarian function	women	women	seen in	

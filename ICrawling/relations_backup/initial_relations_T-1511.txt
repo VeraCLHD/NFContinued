@@ -1,96 +1,15 @@
 
-T-1511	pregnancy	pregnancy	pregnant women	pregnant women	in most cases (although	
-T-1511	folic acid	folic acid	pregnancy	pregnancy	and turmeric supplements should not be taken during	
-T-1511	diet	diet	vitamin b12	vitamin b12	lacking	
-T-1511	turmeric	turmeric	pregnancy	pregnancy	supplements should not be taken during	
-T-1511	allergies	allergies	pregnancy	pregnancy	and higher maternal intake of meat during	
-T-1511	pregnancy	pregnancy	aspartame	aspartame	may be introduced by the consumption of	
-T-1511	chamomile	chamomile	flax	flax	tea, and 	
-T-1511	pregnant	pregnant	women	women		
-T-1511	tuna	tuna	pregnancy	pregnancy	—can present risks during	
-T-1511	chicken	chicken	baby	baby	may lead to future problems for	
-T-1511	meat	meat	chicken	chicken	or phthalates in 	
-T-1511	pesticides	pesticides	soy	soy	on gmo	
-T-1511	flax	flax	seeds	seeds		
-T-1511	pregnancy	pregnancy	lamb	lamb	to parasites in	
-T-1511	diet	diet	b12	b12	lacking vitamin	
-T-1511	vegan	vegan	women	women		
-T-1511	lamb	lamb	chicken	chicken	meat or phthalates in 	
-T-1511	diabetes	diabetes	pregnancy	pregnancy	during	
-T-1511	pregnancy	pregnancy	meat	meat	.eating	
-T-1511	chamomile	chamomile	flax seeds	flax seeds	tea, and 	
-T-1511	pregnancy	pregnancy	cranberry juice	cranberry juice	include peanuts,	
-T-1511	vegetarians	vegetarians	omnivores	omnivores	and	
-T-1511	domoic acid	domoic acid	tuna	tuna	in	
-T-1511	pregnancy	pregnancy	risk	risk	.eating meat before pregnancy can increase	
-T-1511	folic acid	folic acid	supplements	supplements	and turmeric	
-T-1511	turmeric	turmeric	supplements	supplements		
-T-1511	pregnancy	pregnancy	cranberry	cranberry	include peanuts,	
-T-1511	women	women	twins	twins	have fewer	
-T-1511	parasites	parasites	meat	meat	in lamb	
-T-1511	toxins	toxins	mercury	mercury	in seafood, including	
-T-1511	pregnancy	pregnancy	women	women	in most cases (although pregnant	
-T-1511	meat	meat	phthalates	phthalates	or	
-T-1511	phthalates	phthalates	baby	baby	in chicken may lead to future problems for	
-T-1511	iron	iron	supplements	supplements		
-T-1511	domoic acid	domoic acid	chamomile	chamomile	in tuna, alcohol, licorice, and even avocados, 	
-T-1511	phthalates	phthalates	chicken	chicken	in 	
-T-1511	domoic acid	domoic acid	avocados	avocados	in tuna, alcohol, licorice, and even	
-T-1511	pregnancy	pregnancy	diabetes	diabetes	.eating meat before pregnancy can increase risk for	
-T-1511	domoic acid	domoic acid	alcohol	alcohol	in tuna, 	
-T-1511	chamomile	chamomile	seeds	seeds	tea, and flax	
-T-1511	lamb	lamb	meat	meat		
-T-1511	pregnancy	pregnancy	chicken	chicken	to parasites in lamb meat or phthalates in 	
-T-1511	twins	twins	omnivores	omnivores	than vegetarians and	
-T-1511	vegan	vegan	vegetarians	vegetarians	women have fewer twins than	
-T-1511	pregnancy	pregnancy	meat	meat	to parasites in lamb	
-T-1511	grilling	grilling	meat	meat		
 T-1511	supplements	supplements	pregnancy	pregnancy	 should not be taken during	
-T-1511	parasites	parasites	chicken	chicken	in lamb meat or phthalates in 	
-T-1511	pregnancy	pregnancy	parasites	parasites	to	
-T-1511	domoic acid	domoic acid	flax seeds	flax seeds	in tuna, alcohol, licorice, and even avocados, chamomile tea, and 	
-T-1511	vegan	vegan	b12	b12	diet lacking vitamin	
-T-1511	meat	meat	pregnancy	pregnancy	during	
-T-1511	domoic acid	domoic acid	seeds	seeds	in tuna, alcohol, licorice, and even avocados, chamomile tea, and flax	
-T-1511	lead	lead	baby	baby	to future problems for	
-T-1511	women	women	omnivores	omnivores	have fewer twins than vegetarians and	
-T-1511	domoic acid	domoic acid	flax	flax	in tuna, alcohol, licorice, and even avocados, chamomile tea, and 	
-T-1511	mercury	mercury	tuna	tuna	—which may be especially high in canned	
+T-1511	diet	diet	vitamin b12	vitamin b12	lacking	
+T-1511	women	women	twins	twins	have fewer	
+T-1511	meat	meat	phthalates	phthalates	or	
+T-1511	iron supplements	iron supplements	iron	iron	 should perhaps only be taken only in the context of	
+T-1511	pregnancy	pregnancy	aspartame	aspartame	may be introduced by the consumption of	
 T-1511	folic acid	folic acid	turmeric	turmeric	and	
-T-1511	risk	risk	diabetes	diabetes	for	
-T-1511	domoic acid	domoic acid	tea	tea	in tuna, alcohol, licorice, and even avocados, chamomile	
-T-1511	meat	meat	pregnancy	pregnancy	before	
-T-1511	domoic acid	domoic acid	licorice	licorice	in tuna, alcohol,	
-T-1511	twins	twins	vegetarians	vegetarians	than	
+T-1511	supplements	supplements	iron	iron	 should perhaps only be taken only in the context of	
 T-1511	chicken	chicken	lead	lead	may	
+T-1511	vegetarians	vegetarians	omnivores	omnivores	and	
 T-1511	toxins	toxins	seafood	seafood	in	
-T-1511	parasites	parasites	lead	lead	in lamb meat or phthalates in chicken may	
+T-1511	domoic acid	domoic acid	tuna	tuna	in	
 T-1511	pregnancy	pregnancy	peanuts	peanuts	include	
-T-1511	pregnancy	pregnancy	spirulina	spirulina	may be introduced by the consumption of aspartame,	
 T-1511	parasites	parasites	lamb	lamb	in	
-T-1511	pregnancy	pregnancy	phthalates	phthalates	to parasites in lamb meat or	
-T-1511	mercury	mercury	parasites	parasites	before getting pregnant.exposure during pregnancy to	
-T-1511	vegan	vegan	vitamin b12	vitamin b12	diet lacking	
-T-1511	risk	risk	pregnancy	pregnancy	for diabetes during	
-T-1511	vegan	vegan	twins	twins	women have fewer	
-T-1511	lamb	lamb	lead	lead	meat or phthalates in chicken may	
-T-1511	meat	meat	lead	lead	or phthalates in chicken may	
-T-1511	cranberry	cranberry	caffeine	caffeine	juice, and moderate amounts of	
-T-1511	women	women	vegetarians	vegetarians	have fewer twins than	
-T-1511	mercury	mercury	pregnancy	pregnancy	before getting pregnant.exposure during	
-T-1511	domoic acid	domoic acid	chamomile tea	chamomile tea	in tuna, alcohol, licorice, and even avocados, 	
-T-1511	cranberry	cranberry	juice	juice		
-T-1511	pesticides	pesticides	gmo	gmo	on	
-T-1511	vegan	vegan	omnivores	omnivores	women have fewer twins than vegetarians and	
-T-1511	parasites	parasites	phthalates	phthalates	in lamb meat or	
-T-1511	lamb	lamb	phthalates	phthalates	meat or	
-T-1511	allergies	allergies	meat	meat	and higher maternal intake of	
-T-1511	pregnancy	pregnancy	pregnant	pregnant	in most cases (although	
-T-1511	pregnancy	pregnancy	juice	juice	include peanuts, cranberry	
-T-1511	vegan	vegan	diet	diet		
-T-1511	phthalates	phthalates	lead	lead	in chicken may	
-T-1511	chamomile	chamomile	tea	tea		
-T-1511	meat	meat	risk	risk	during pregnancy.eating meat before pregnancy can increase	
-T-1511	gmo	gmo	soy	soy		
-T-1511	mercury	mercury	lamb	lamb	before getting pregnant.exposure during pregnancy to parasites in	
-T-1511	pregnancy	pregnancy	caffeine	caffeine	include peanuts, cranberry juice, and moderate amounts of	

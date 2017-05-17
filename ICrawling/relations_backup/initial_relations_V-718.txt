@@ -1,10 +1,2 @@
 
-V-718	fat	fat	birds	birds	in the domesticated	
-V-718	tumor	tumor	protein	protein	necrosis factor, interleukin 6, and c-reactive	
-V-718	tumor	tumor	c-reactive protein	c-reactive protein	necrosis factor, interleukin 6, and	
-V-718	inflammation	inflammation	meat	meat	one hour, two hours after eating 	
-V-718	inflammation	inflammation	chronic diseases	chronic diseases	and several	
-V-718	saturated fat	saturated fat	birds	birds	in the domesticated	
 V-718	inflammation	inflammation	meat	meat	triggered by modern	
-V-718	meat	meat	pheasants	pheasants	of both captive and wild	
-V-718	wild game	wild game	meat	meat	be healthier?one study comparing the	

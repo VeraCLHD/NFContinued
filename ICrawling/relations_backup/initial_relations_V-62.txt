@@ -1,28 +1,10 @@
 
-V-62	dyspepsia	dyspepsia	constipation	constipation	[an upset stomach] and	
-V-62	water	water	constipation	constipation	” is a common recommendation for	
-V-62	water	water	symptoms	symptoms	has been considered capable of relieving gastrointestinal	
-V-62	pepsi	pepsi	heartburn	heartburn	in dyspepsia, and contribute to	
-V-62	reflux	reflux	disease	disease		
-V-62	beverages	beverages	heartburn	heartburn	may increase	
-V-62	cream	cream	milk	milk	and sugar, though, since	
-V-62	bloating	bloating	nausea	nausea	and	
-V-62	dyspepsia	dyspepsia	stomach	stomach	[an upset	
-V-62	soda	soda	pepsi	pepsi	can put the	
 V-62	dyspepsia	dyspepsia	pain	pain	was defined as “	
-V-62	gerd	gerd	reflux	reflux	(acid	
-V-62	water	water	pepsi	pepsi	to	
-V-62	soda	soda	dyspepsia	dyspepsia	can put the pepsi in	
-V-62	beverages	beverages	reflux	reflux	may increase heartburn, gerd (acid	
-V-62	gerd	gerd	disease	disease	(acid reflux	
+V-62	pepsi	pepsi	dyspepsia	dyspepsia	in	
+V-62	beverages	beverages	heartburn	heartburn	may increase	
+V-62	bloating	bloating	nausea	nausea	and	
+V-62	fiber	fiber	water	water	and	
 V-62	water	water	dyspepsia	dyspepsia	improved	
-V-62	beverages	beverages	gerd	gerd	may increase heartburn,	
 V-62	cream	cream	sugar	sugar	and	
 V-62	tea	tea	coffee	coffee	and	
-V-62	pepsi	pepsi	dyspepsia	dyspepsia	in	
-V-62	soda	soda	heartburn	heartburn	can put the pepsi in dyspepsia, and contribute to	
-V-62	beverages	beverages	disease	disease	may increase heartburn, gerd (acid reflux	
-V-62	tea	tea	heartburn	heartburn	and coffee, in people that suffer from	
-V-62	fiber	fiber	water	water	and	
-V-62	stomach	stomach	constipation	constipation	] and	
-V-62	milk	milk	heartburn	heartburn	is a common contributor to	
+V-62	soda	soda	pepsi	pepsi	can put the	

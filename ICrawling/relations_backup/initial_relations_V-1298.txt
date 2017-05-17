@@ -1,17 +1,7 @@
 
-V-1298	algae	algae	bmaa	bmaa	can produce neurotoxins, like	
-V-1298	produce	produce	neurotoxins	neurotoxins		
-V-1298	produce	produce	bmaa	bmaa	neurotoxins, like	
-V-1298	roots	roots	algae	algae	concentrate a toxin produced by some rare	
 V-1298	algae	algae	produce	produce	can	
-V-1298	blue-green algae	blue-green algae	bmaa	bmaa	can produce neurotoxins, like	
 V-1298	blue-green algae	blue-green algae	produce	produce	can	
-V-1298	algae	algae	neurotoxins	neurotoxins	can produce	
 V-1298	spirulina	spirulina	muscles	muscles	may dissolve our	
-V-1298	blue-green algae	blue-green algae	neurotoxins	neurotoxins	can produce	
 V-1298	algae	algae	spirulina	spirulina	and	
 V-1298	blue-green algae	blue-green algae	spirulina	spirulina	and	
-V-1298	neurotoxins	neurotoxins	algae	algae	were limited to rare exotic	
-V-1298	blood	blood	cholesterol	cholesterol	pressure, our 	
-V-1298	fruit	fruit	roots	roots	is from this funky looking tree whose watery	
 V-1298	bmaa	bmaa	brains	brains	is in the	

@@ -1,33 +1,10 @@
 
-V-157	fish oil	fish oil	endothelial	endothelial	supplementation has no significant effect on	
-V-157	endothelial	endothelial	arteries	arteries	dysfunction, the decline in the functioning of our	
-V-157	fish	fish	endothelial	endothelial	oil supplementation has no significant effect on	
-V-157	meat	meat	chinese	chinese	and dairy in the traditional	
-V-157	fish	fish	endothelial	endothelial	intake and	
-V-157	elderly	elderly	green tea	green tea	chinese, may, in part, be due to	
-V-157	meat	meat	diet	diet	and dairy in the traditional chinese	
-V-157	arteries	arteries	pain	pain	naturally dilating so much better that their chest	
-V-157	plant-based	plant-based	diet	diet		
-V-157	omega 3	omega 3	fats	fats		
-V-157	ornish	ornish	diet	diet	showed that on his plant-based	
-V-157	vegetarian	vegetarian	arteries	arteries		
-V-157	physicians	physicians	diet	diet	for	
-V-157	fish	fish	endothelial	endothelial	more than twice a week had significantly impaired	
-V-157	fish oil	fish oil	fish	fish	equivalent to 1, 2, or 4 servings of	
-V-157	vegetables	vegetables	meat	meat	and fishes with lower consumption of other	
-V-157	elderly	elderly	chinese	chinese		
-V-157	elderly	elderly	tea	tea	chinese, may, in part, be due to green	
-V-157	meat	meat	dairy	dairy	and	
-V-157	dairy	dairy	chinese	chinese	in the traditional	
-V-157	preservation	preservation	chinese	chinese	of endothelial function in older	
-V-157	women	women	fish	fish	who ate	
-V-157	preservation	preservation	endothelial	endothelial	of	
-V-157	smoking	smoking	endothelium	endothelium	a single cigarette, our	
-V-157	ornish	ornish	plant-based diet	plant-based diet	showed that on his	
-V-157	endothelial	endothelial	chinese	chinese	function in older	
 V-157	diet	diet	smoking	smoking	may even trump	
-V-157	dairy	dairy	diet	diet	in the traditional chinese	
-V-157	angina	angina	pain	pain	chest	
+V-157	meat	meat	dairy	dairy	and	
+V-157	dean ornish	dean ornish	risk	risk	did, showing a significant boost in arterial function compared to control.is this just some intangible	
 V-157	chinese	chinese	heart attack	heart attack	may help explain why they have such low	
 V-157	ornish	ornish	plant-based	plant-based	showed that on his	
-V-157	heart attack	heart attack	smoking	smoking	rates, despite their high prevalence of cigarette	
+V-157	ornish	ornish	risk	risk	did, showing a significant boost in arterial function compared to control.is this just some intangible	
+V-157	preservation	preservation	endothelial	endothelial	of	
+V-157	dr. dean ornish	dr. dean ornish	risk	risk	did, showing a significant boost in arterial function compared to control.is this just some intangible	
+V-157	ornish	ornish	plant-based diet	plant-based diet	showed that on his	

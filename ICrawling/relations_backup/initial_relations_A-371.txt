@@ -1,108 +1,19 @@
 
-A-371	fruits	fruits	cancer	cancer	and vegetables, 20,000 cases of	
-A-371	pesticides	pesticides	fruit	fruit	lower our	
-A-371	prostate	prostate	cancer	cancer	and breast	
-A-371	prostate	prostate	breast cancer	breast cancer	cancer and two of human	
-A-371	apple	apple	antioxidant	antioxidant	skin: peeling back cancer video is taken from 	
-A-371	apples	apples	cholesterol	cholesterol	in dried apples versus	
-A-371	maspin	maspin	cancer cells	cancer cells	inside the	
-A-371	contaminants	contaminants	toxins	toxins	(fungal	
-A-371	prostate	prostate	cancer	cancer		
-A-371	plant foods	plant foods	cancer cell growth	cancer cell growth	do to prostate and breast	
-A-371	juice	juice	sugar	sugar	may be worse than	
-A-371	cancer	cancer	apple peels	apple peels	cells, and	
-A-371	plant foods	plant foods	animal foods	animal foods	versus	
-A-371	toxins	toxins	apples	apples	in	
-A-371	juice	juice	water	water	may be worse than sugar	
-A-371	apple	apple	toxins	toxins	juice may also contain contaminants (fungal	
-A-371	cancer	cancer	apple	apple	’s clock, the researchers measured the effect of	
-A-371	apple peels	apple peels	apple	apple	“possess strong antiproliferative effects against cancer cells, and	
-A-371	protein	protein	cancer cells	cancer cells	maspin inside the	
-A-371	fruits	fruits	vegetables	vegetables	and	
-A-371	cancer	cancer	apple	apple	cells, and	
-A-371	apple juice	apple juice	toxins	toxins	may also contain contaminants (fungal	
-A-371	breast cancer	breast cancer	apples	apples	against the peels of organic gala	
-A-371	apple juice	apple juice	contaminants	contaminants	may also contain	
-A-371	plant foods	plant foods	breast cancer	breast cancer	do to prostate and	
-A-371	organic	organic	gala apples	gala apples		
-A-371	apple peels	apple peels	cancer	cancer	“possess strong antiproliferative effects against	
-A-371	plant foods	plant foods	prostate	prostate	do to	
-A-371	apples	apples	dried apples	dried apples	in 	
-A-371	juice	juice	apples	apples	may also contain contaminants (fungal toxins in	
-A-371	apple	apple	contaminants	contaminants	juice may also contain	
-A-371	dried apples	dried apples	apples	apples	versus cholesterol and 	
-A-371	dried apples	dried apples	cholesterol	cholesterol	versus	
-A-371	sugar	sugar	water	water		
-A-371	apple	apple	apples	apples	juice may also contain contaminants (fungal toxins in	
-A-371	meat	meat	sugar	sugar	and	
-A-371	apples	apples	fruit	fruit	), though there is actually a	
-A-371	tumor	tumor	cancer	cancer	suppressor gene that has been shown to have	
-A-371	cancer	cancer	pritikin	pritikin	proliferation bioassay and the answer to the	
-A-371	prostate	prostate	cancer cells	cancer cells		
-A-371	maspin	maspin	cancer	cancer	inside the	
-A-371	organic	organic	apples	apples	gala	
-A-371	apple	apple	skin	skin		
-A-371	dried apples	dried apples	breast cancer	breast cancer	versus cholesterol and apples &	
-A-371	vegetables	vegetables	pesticides	pesticides	can decrease pesticide residues (see my video can	
-A-371	cancer	cancer	breast cancer	breast cancer	and two of human	
-A-371	produce	produce	risk	risk	we may get a tiny bump in cancer	
-A-371	dried apples	dried apples	cancer	cancer	versus cholesterol and apples & breast	
-A-371	contaminants	contaminants	apples	apples	(fungal toxins in	
-A-371	tumor	tumor	maspin	maspin	suppressor protein	
-A-371	antioxidant	antioxidant	apple	apple	comparison in the 	
-A-371	fruit	fruit	juice	juice		
-A-371	apple	apple	cancer	cancer	peels “possess strong antiproliferative effects against	
-A-371	tumor	tumor	cancer	cancer	suppressor protein maspin inside the	
-A-371	juice	juice	toxins	toxins	may also contain contaminants (fungal	
-A-371	apple peels	apple peels	cancer	cancer	on the tumor suppressor protein maspin inside the	
-A-371	cholesterol	cholesterol	apples	apples	 and 	
-A-371	skin	skin	nutrition	nutrition	is often where the	
-A-371	skin	skin	cancer	cancer	: peeling back	
-A-371	breast cancer	breast cancer	gala apples	gala apples	against the peels of organic	
-A-371	apple juice	apple juice	apples	apples	may also contain contaminants (fungal toxins in	
-A-371	fruit	fruit	juice	juice	whose	
-A-371	skin	skin	antioxidant	antioxidant	: peeling back cancer video is taken from 	
-A-371	produce	produce	cancer	cancer	we may get a tiny bump in	
-A-371	prostate	prostate	cancer cell growth	cancer cell growth	and breast	
-A-371	diet	diet	breast cancer	breast cancer	full of plant foods do to prostate and	
-A-371	cancer	cancer	antioxidant	antioxidant	video is taken from 	
-A-371	cancer	cancer	cancer	cancer	and two of human breast	
-A-371	apple peels	apple peels	cancer cells	cancer cells	“possess strong antiproliferative effects against	
-A-371	antioxidant	antioxidant	cancer	cancer	comparison in the apple skin: peeling back	
-A-371	cancer	cancer	plant foods	plant foods	video is taken from antioxidant power of	
-A-371	breast cancer	breast cancer	organic	organic	against the peels of	
-A-371	diet	diet	plant foods	plant foods	full of	
-A-371	plant foods	plant foods	cancer	cancer	do to prostate and breast	
-A-371	protein	protein	cancer	cancer	maspin inside the	
 A-371	apple	apple	cancer	cancer	peels cleaned	
-A-371	cancer	cancer	apple peels	apple peels	’s clock, the researchers measured the effect of	
-A-371	uric acid	uric acid	sugar	sugar	caused by meat and	
-A-371	antioxidant	antioxidant	skin	skin	comparison in the apple	
-A-371	apples	apples	risk	risk	we eat, the lower our apparent	
-A-371	apple juice	apple juice	water	water	may be worse than sugar	
-A-371	tumor	tumor	protein	protein	suppressor	
-A-371	apples	apples	breast cancer	breast cancer	in dried apples versus cholesterol and apples &	
+A-371	juice	juice	sugar	sugar	may be worse than	
+A-371	skin	skin	nutrition	nutrition	is often where the	
+A-371	vegetables	vegetables	pesticides	pesticides	can decrease pesticide residues (see my video can	
 A-371	uric acid	uric acid	meat	meat	caused by	
-A-371	apple	apple	cancer	cancer	skin: peeling back	
-A-371	cancer	cancer	risk	risk		
-A-371	toxins	toxins	fruit	fruit	in apples), though there is actually a	
-A-371	apple juice	apple juice	sugar	sugar	may be worse than	
-A-371	fruit	fruit	juice	juice	that’s healthier in	
-A-371	apple peels	apple peels	cancer	cancer	cleaned	
-A-371	prostate cancer	prostate cancer	cancer	cancer	and two of human breast	
-A-371	protein	protein	maspin	maspin		
-A-371	apple peels	apple peels	cancer	cancer	to each of the	
-A-371	apple	apple	juice	juice		
-A-371	apple	apple	water	water	juice may be worse than sugar	
-A-371	cholesterol	cholesterol	cancer	cancer	 and apples & breast	
+A-371	toxins	toxins	apples	apples	in	
+A-371	plant foods	plant foods	prostate	prostate	do to	
 A-371	maspin	maspin	tumor	tumor	is a	
-A-371	apples	apples	cancer	cancer	in dried apples versus cholesterol and apples & breast	
-A-371	apple	apple	sugar	sugar	juice may be worse than	
-A-371	prostate cancer	prostate cancer	breast cancer	breast cancer	and two of human	
-A-371	cholesterol	cholesterol	breast cancer	breast cancer	 and apples &	
 A-371	apple	apple	cancer cells	cancer cells	peels “possess strong antiproliferative effects against	
-A-371	juice	juice	contaminants	contaminants	may also contain	
-A-371	tumor	tumor	cancer cells	cancer cells	suppressor protein maspin inside the	
-A-371	diet	diet	prostate	prostate	full of plant foods do to	
+A-371	apple juice	apple juice	sugar	sugar	may be worse than	
+A-371	meat	meat	sugar	sugar	and	
+A-371	apple peels	apple peels	cancer	cancer	cleaned	
+A-371	fruits	fruits	vegetables	vegetables	and	
+A-371	apple	apple	cancer	cancer	peels “possess strong antiproliferative effects against	
+A-371	cancer	cancer	prostate cancer	prostate cancer	suppressing, anti-angiogenic and anti-metastatic properties in both breast and	
 A-371	apple	apple	cancer	cancer	peels to each of the	
 A-371	prostate	prostate	breast cancer	breast cancer	and	
+A-371	cancer	cancer	prostate	prostate	suppressing, anti-angiogenic and anti-metastatic properties in both breast and	

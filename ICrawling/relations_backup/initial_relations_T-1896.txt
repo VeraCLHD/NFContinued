@@ -1,39 +1,8 @@
 
-T-1896	beef	beef	parasites	parasites	has been found to be infested with sarcocystis	
-T-1896	usda	usda	nitrite	nitrite	has also denied petitions to reduce levels of	
-T-1896	meat	meat	trans fats	trans fats	contain up to 5% unhealthy	
-T-1896	usda	usda	egg	egg	corrected the	
-T-1896	nitrite	nitrite	meat	meat	—a suspected carcinogen—in cured	
-T-1896	agribusiness	agribusiness	health	health	as well as public	
-T-1896	meat	meat	fats	fats	contain up to 5% unhealthy trans	
-T-1896	eggs	eggs	macular degeneration	macular degeneration	help people with	
-T-1896	yersinia	yersinia	bacteria	bacteria		
-T-1896	dairy	dairy	trans fats	trans fats	and meat contain up to 5% unhealthy	
-T-1896	usda	usda	agribusiness	agribusiness	)’s mission seems to be to promote	
-T-1896	egg	egg	eggs	eggs	industry that it cannot claim that	
-T-1896	preparation	preparation	egg	egg	methods.the agency has repeatedly warned the	
-T-1896	egg	egg	health	health	industry about the	
-T-1896	usda	usda	egg	egg	’s poultry research and promotion programs told the	
-T-1896	usda	usda	antioxidant	antioxidant	produced an additional database that provided the	
-T-1896	agribusiness	agribusiness	public health	public health	as well as	
-T-1896	agriculture	agriculture	agribusiness	agribusiness	(usda)’s mission seems to be to promote	
-T-1896	health	health	eggs	eggs	claims they try make about	
-T-1896	sarcocystis	sarcocystis	parasites	parasites		
-T-1896	usda	usda	american heart association	american heart association	corrected the egg industry for misrepresenting the	
-T-1896	usda	usda	antibiotics	antibiotics	issue concerns the large amount of	
-T-1896	chicken	chicken	bacteria	bacteria	they sampled to be contaminated with salmonella	
-T-1896	dairy	dairy	fats	fats	and meat contain up to 5% unhealthy trans	
-T-1896	usda	usda	chicken	chicken	inspectors have previously found 25% of	
-T-1896	american heart association	american heart association	egg	egg	’s position on	
-T-1896	egg	egg	american heart association	american heart association	industry for misrepresenting the	
-T-1896	antibiotics	antibiotics	farm animals	farm animals	fed to	
-T-1896	carcinogen	carcinogen	meat	meat	—in cured	
-T-1896	salmonella	salmonella	bacteria	bacteria		
 T-1896	heavy metals	heavy metals	meat	meat	in	
-T-1896	yersinia	yersinia	beef	beef	bacteria, and most american	
-T-1896	chicken	chicken	salmonella	salmonella	they sampled to be contaminated with	
-T-1896	usda	usda	poultry	poultry	’s	
-T-1896	nitrite	nitrite	carcinogen	carcinogen	—a suspected	
+T-1896	pigs	pigs	food safety	food safety	were tested.the agency has sometimes defended its actions by shifting some of the responsibility for	
+T-1896	usda	usda	egg	egg	corrected the	
+T-1896	antibiotics	antibiotics	farm animals	farm animals	fed to	
+T-1896	eggs	eggs	macular degeneration	macular degeneration	help people with	
 T-1896	beef	beef	sarcocystis	sarcocystis	has been found to be infested with	
-T-1896	poultry	poultry	egg	egg	research and promotion programs told the	
 T-1896	dairy	dairy	meat	meat	and	

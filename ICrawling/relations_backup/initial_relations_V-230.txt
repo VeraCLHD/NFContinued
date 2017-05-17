@@ -1,43 +1,14 @@
 
-V-230	blood	blood	risk	risk	to the brain.vascular	
-V-230	prevention	prevention	disease	disease	of the	
-V-230	brains	brains	cholesterol	cholesterol	have significantly more	
-V-230	blood	blood	risk	risk	is thought to increase the	
-V-230	disease	disease	death	death	and dementia,” two of our leading causes of	
-V-230	blood	blood	amyloid	amyloid	with the amount of	
-V-230	risk	risk	atherosclerosis	atherosclerosis	of dementia, not only by inducing	
-V-230	risk	risk	cholesterol	cholesterol	factor for the development alzheimer’s disease, and	
-V-230	risk	risk	dementia	dementia	of	
-V-230	risk	risk	cholesterol	cholesterol	factors, such as high	
-V-230	cholesterol	cholesterol	risk	risk	levels at midlife have a higher	
-V-230	amyloid	amyloid	cholesterol	cholesterol	that makes up alzheimer plaques, whereas removing	
-V-230	cholesterol	cholesterol	saturated fat	saturated fat	in the first place, in particular, reducing	
-V-230	risk	risk	disease	disease	factor for the development alzheimer’s	
-V-230	bad cholesterol	bad cholesterol	blood	blood	in our	
-V-230	risk	risk	disease	disease	of going on to develop alzheimer’s	
-V-230	lead	lead	cholesterol	cholesterol	to the high	
-V-230	blood	blood	atherosclerosis	atherosclerosis	flow to the brain due to	
-V-230	bad cholesterol	bad cholesterol	amyloid	amyloid	in our blood with the amount of	
-V-230	atherosclerosis	atherosclerosis	blood	blood	and impairing	
 V-230	cholesterol	cholesterol	amyloid	amyloid	can decrease the levels of	
-V-230	blood	blood	cholesterol	cholesterol	brain barrier itself, and allow for even more	
-V-230	cholesterol	cholesterol	brains	brains	than normal	
-V-230	blood	blood	cholesterol	cholesterol	to the brain.vascular risk factors, such as high	
+V-230	brains	brains	cholesterol	cholesterol	have significantly more	
 V-230	diet	diet	cholesterol	cholesterol	may not only increase	
 V-230	cholesterol	cholesterol	amyloid	amyloid	makes them churn out more the	
+V-230	blood	blood	risk	risk	is thought to increase the	
 V-230	amyloid	amyloid	brains	brains	build up in our	
 V-230	ldl	ldl	blood	blood	may be able to cross the	
-V-230	cardiovascular disease	cardiovascular disease	death	death	and dementia,” two of our leading causes of	
 V-230	blood	blood	risk	risk	is unanimously recognized to be a	
-V-230	saturated fat	saturated fat	diet	diet	in the	
-V-230	cholesterol	cholesterol	blood	blood	in our	
-V-230	fat	fat	diet	diet	in the	
-V-230	diet	diet	blood	blood	may not only increase cholesterol levels in the	
-V-230	cholesterol	cholesterol	amyloid	amyloid	can then help seed the clumping of the	
+V-230	cholesterol	cholesterol	disease	disease	could, in principle, contribute to the development of alzheimer’s	
+V-230	risk	risk	dementia	dementia	of	
+V-230	dietary cholesterol	dietary cholesterol	disease	disease	could, in principle, contribute to the development of alzheimer’s	
 V-230	disease	disease	dementia	dementia	and	
-V-230	blood	blood	dementia	dementia	is thought to increase the risk of	
-V-230	cholesterol	cholesterol	blood	blood	levels in the	
-V-230	cholesterol	cholesterol	amyloid	amyloid	in our blood with the amount of	
-V-230	amyloid	amyloid	cholesterol	cholesterol	fibers on and around little microcrystals of	
-V-230	cholesterol	cholesterol	fat	fat	in the first place, in particular, reducing saturated	
 V-230	cardiovascular disease	cardiovascular disease	dementia	dementia	and	

@@ -1,52 +1,17 @@
 
+A-87	fiber	fiber	phytosterols	phytosterols	and	
 A-87	eggs	eggs	junk food	junk food	and	
 A-87	lifestyle medicine	lifestyle medicine	prediabetes	prediabetes	is the standard of care for	
-A-87	ground flax	ground flax	insulin resistance	insulin resistance	seed a day decreased	
-A-87	cholesterol	cholesterol	meat	meat	and trans fat intake (	
-A-87	flax	flax	insulin resistance	insulin resistance	seed a day decreased	
-A-87	nutrition	nutrition	doctors	doctors	in medical training,	
-A-87	trans fat	trans fat	junk food	junk food	intake (meat, dairy, eggs and	
-A-87	health	health	medical education	medical education	care and	
-A-87	fiber	fiber	plant foods	plant foods	(meaning unrefined	
-A-87	medicine	medicine	medical school	medical school	 at the beginning of every month in	
-A-87	flax	flax	seeds	seeds		
-A-87	prediabetes	prediabetes	fat	fat	), dietary recommendations should focus on reducing saturated	
-A-87	cholesterol	cholesterol	junk food	junk food	and trans fat intake (meat, dairy, eggs and	
-A-87	trans fat	trans fat	eggs	eggs	intake (meat, dairy,	
-A-87	treatment	treatment	prediabetes	prediabetes	for	
-A-87	flax	flax	insulin	insulin	seed a day decreased	
-A-87	insulin	insulin	disease	disease	resistance (the hallmark of the	
-A-87	cholesterol	cholesterol	trans fat	trans fat	and	
-A-87	diabetes	diabetes	treatment	treatment	groups say that lifestyle is the preferred	
-A-87	diabetes	diabetes	prevention	prevention		
-A-87	grains	grains	prediabetes	prediabetes	may protect against	
-A-87	trans fat	trans fat	meat	meat	intake (	
+A-87	dietary guidelines	dietary guidelines	plant-based	plant-based	aim to shift consumption towards more	
 A-87	medicine	medicine	prediabetes	prediabetes	is the standard of care for	
-A-87	diet	diet	fats	fats	with too many solid	
-A-87	cholesterol	cholesterol	dairy	dairy	and trans fat intake (meat,	
-A-87	fat	fat	plant foods	plant foods	and increasing intake of fiber (meaning unrefined	
-A-87	fiber	fiber	whole grains	whole grains	(meaning unrefined plant foods, including	
-A-87	cholesterol	cholesterol	eggs	eggs	and trans fat intake (meat, dairy,	
-A-87	flax	flax	prediabetes	prediabetes	seeds; an efficient, but still uncommon, intervention for	
-A-87	fiber	fiber	grains	grains	(meaning unrefined plant foods, including whole	
-A-87	fat	fat	fiber	fiber	and increasing intake of	
+A-87	medical profession	medical profession	medical education	medical education	and	
+A-87	whole grains	whole grains	grains	grains	is based on research showing that eating lots of whole	
+A-87	grains	grains	whole grains	whole grains	is based on research showing that eating lots of	
+A-87	diet	diet	exercise	exercise	or	
 A-87	doctors	doctors	nutrition	nutrition	know less than they think about	
-A-87	cholesterol	cholesterol	fat	fat	and trans	
+A-87	diabetes	diabetes	calories	calories	should aim to reduce their intake of excess	
+A-87	cholesterol	cholesterol	trans fat	trans fat	and	
+A-87	medical school	medical school	dvd	dvd	speaking tour into a	
 A-87	prediabetes	prediabetes	diabetes	diabetes	or	
 A-87	whole grains	whole grains	prediabetes	prediabetes	may protect against	
-A-87	medical education	medical education	disease	disease	to adapt to the great transformation of	
-A-87	doctors	doctors	medical school	medical school	know less than they think about nutrition and	
-A-87	fiber	fiber	phytosterols	phytosterols	and	
-A-87	dietary guidelines	dietary guidelines	plant-based	plant-based	aim to shift consumption towards more	
-A-87	ground flax	ground flax	insulin	insulin	seed a day decreased	
-A-87	medical school	medical school	nutrition	nutrition		
-A-87	medical profession	medical profession	medical education	medical education	and	
-A-87	risk	risk	diabetes	diabetes	of developing type 2	
-A-87	trans fat	trans fat	dairy	dairy	intake (meat,	
-A-87	omega 3	omega 3	fiber	fiber	’s, soluble	
-A-87	insulin resistance	insulin resistance	disease	disease	(the hallmark of the	
-A-87	prediabetes	prediabetes	saturated fat	saturated fat	), dietary recommendations should focus on reducing	
-A-87	diet	diet	exercise	exercise	or	
-A-87	diabetes	diabetes	calories	calories	should aim to reduce their intake of excess	
-A-87	medical school	medical school	dvd	dvd	speaking tour into a	
-A-87	omega 3	omega 3	phytosterols	phytosterols	’s, soluble fiber and	
+A-87	grains	grains	prediabetes	prediabetes	may protect against	

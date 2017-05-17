@@ -1,86 +1,10 @@
 
-V-876	bladder	bladder	thyroid	thyroid	cancer, endometrial cancer, prostate cancer,	
-V-876	meats	meats	ham	ham	like bologna, bacon,	
-V-876	processed meat	processed meat	bladder cancer	bladder cancer	consumption was significantly associated with	
-V-876	meat	meat	stomach	stomach	was significantly related to the risk of	
-V-876	bladder cancer	bladder cancer	leukemia	leukemia	—and	
-V-876	nitrite	nitrite	prevention	prevention	’s role in the	
-V-876	digestive tract	digestive tract	cancer	cancer	: throat	
-V-876	processed meat	processed meat	colon	colon	was significantly related to the risk of stomach,	
-V-876	bacteria	bacteria	pork	pork	from lunchmeat.you know, in 2011, the national	
-V-876	meats	meats	dogs	dogs	like bologna, bacon, ham, and hot	
-V-876	bacteria	bacteria	national pork board	national pork board	from lunchmeat.you know, in 2011, the	
-V-876	processed meat	processed meat	risk	risk	was significantly related to the	
-V-876	bladder	bladder	endometrial cancer	endometrial cancer	cancer,	
-V-876	food poisoning	food poisoning	bacteria	bacteria		
-V-876	prostate	prostate	cancer	cancer		
-V-876	meats	meats	hot dogs	hot dogs	like bologna, bacon, ham, and	
-V-876	bladder	bladder	leukemia	leukemia	cancer—and	
-V-876	risk	risk	cancer	cancer	of	
-V-876	bladder	bladder	thyroid cancer	thyroid cancer	cancer, endometrial cancer, prostate cancer,	
-V-876	colon	colon	cancer	cancer		
-V-876	cancer	cancer	hot dogs	hot dogs	and cured meats like bologna, bacon, ham, and	
-V-876	nitrite	nitrite	cured meats	cured meats	in	
-V-876	nitrite	nitrite	botulism	botulism	’s role in the prevention of	
-V-876	cancer	cancer	cured meats	cured meats	and	
-V-876	prevention	prevention	meats	meats	of botulism bacteria that can grow inside vacuum-packed	
-V-876	meat	meat	bladder cancer	bladder cancer	consumption was significantly associated with	
-V-876	cancer	cancer	botulism	botulism	or	
-V-876	bladder	bladder	prostate	prostate	cancer, endometrial cancer,	
-V-876	prevention	prevention	bacteria	bacteria	of botulism	
-V-876	risk	risk	colon	colon	of stomach,	
-V-876	bacteria	bacteria	meats	meats	that can grow inside vacuum-packed	
-V-876	stomach	stomach	cancer	cancer		
-V-876	cured meats	cured meats	ham	ham	like bologna, bacon,	
-V-876	cured meats	cured meats	bacon	bacon	like bologna,	
-V-876	esophageal cancer	esophageal cancer	cancer	cancer	and stomach	
-V-876	meats	meats	bologna	bologna	like	
-V-876	cancer	cancer	ham	ham	and cured meats like bologna, bacon,	
-V-876	risk	risk	kidney	kidney	of stomach, colon, rectal, pancreatic, lung, prostate, testicular,	
-V-876	processed meat	processed meat	stomach	stomach	was significantly related to the risk of	
-V-876	white meat	white meat	pork	pork	” to “	
-V-876	cancer	cancer	bacon	bacon	and cured meats like bologna,	
-V-876	cured meats	cured meats	dogs	dogs	like bologna, bacon, ham, and hot	
-V-876	meat	meat	bladder	bladder	consumption was significantly associated with	
-V-876	meats	meats	nitrosamines	nitrosamines	” entirely.with concern over the potential danger of	
-V-876	nitrosamines	nitrosamines	center for science in the public interest	center for science in the public interest	growing, consumer groups, such as the	
-V-876	cancer	cancer	bologna	bologna	and cured meats like	
-V-876	thyroid	thyroid	digestive tract	digestive tract	cancer, and then all the way down the	
-V-876	thyroid	thyroid	cancer	cancer		
-V-876	meat	meat	endometrial cancer	endometrial cancer	consumption was significantly associated with bladder cancer,	
-V-876	bladder	bladder	prostate cancer	prostate cancer	cancer, endometrial cancer,	
 V-876	meat	meat	risk	risk	was significantly related to the	
-V-876	nitrite	nitrite	meats	meats	in cured	
+V-876	cancer	cancer	botulism	botulism	or	
+V-876	risk	risk	cancer	cancer	of	
+V-876	nitrosamines	nitrosamines	center for science in the public interest	center for science in the public interest	growing, consumer groups, such as the	
 V-876	prevention	prevention	botulism	botulism	of	
-V-876	stomach	stomach	colon	colon	cancer,	
-V-876	digestive tract	digestive tract	esophageal cancer	esophageal cancer	: throat cancer,	
-V-876	national pork board	national pork board	pork	pork	officially changed their quarter-century old slogan from “	
-V-876	processed meat	processed meat	endometrial cancer	endometrial cancer	consumption was significantly associated with bladder cancer,	
-V-876	meats	meats	bacon	bacon	like bologna,	
-V-876	botulism	botulism	meats	meats	bacteria that can grow inside vacuum-packed	
-V-876	cancer	cancer	meats	meats	and cured	
-V-876	usda	usda	prevention	prevention	denied the petition, citing nitrite’s role in the	
-V-876	prostate	prostate	thyroid	thyroid	cancer,	
 V-876	risk	risk	stomach	stomach	of	
-V-876	cured meats	cured meats	hot dogs	hot dogs	like bologna, bacon, ham, and	
-V-876	risk	risk	prostate	prostate	of stomach, colon, rectal, pancreatic, lung,	
-V-876	meat	meat	pork	pork	” to “	
-V-876	processed meat	processed meat	bladder	bladder	consumption was significantly associated with	
-V-876	bladder	bladder	cancer	cancer		
-V-876	food poisoning	food poisoning	national pork board	national pork board	bacteria from lunchmeat.you know, in 2011, the	
-V-876	meat	meat	colon	colon	was significantly related to the risk of stomach,	
-V-876	cancer	cancer	risk	risk	with the	
-V-876	colon	colon	rectal cancer	rectal cancer	cancer, and	
-V-876	processed meat	processed meat	cancer	cancer	consumption was significantly associated with bladder	
-V-876	food poisoning	food poisoning	pork	pork	bacteria from lunchmeat.you know, in 2011, the national	
-V-876	stomach	stomach	rectal cancer	rectal cancer	cancer, colon cancer, and	
-V-876	processed meats	processed meats	nitrosamines	nitrosamines	” entirely.with concern over the potential danger of	
-V-876	cancer	cancer	leukemia	leukemia	—and	
-V-876	prostate	prostate	thyroid cancer	thyroid cancer	cancer,	
-V-876	botulism	botulism	bacteria	bacteria		
-V-876	cancer	cancer	food poisoning	food poisoning	with the risk of consumers getting a deadly	
-V-876	usda	usda	nitrite	nitrite	denied the petition, citing	
-V-876	stomach	stomach	colon cancer	colon cancer	cancer,	
-V-876	cured meats	cured meats	bologna	bologna	like	
-V-876	nitrite	nitrite	bacteria	bacteria	’s role in the prevention of botulism	
-V-876	meat	meat	cancer	cancer	consumption was significantly associated with bladder	
+V-876	nitrite	nitrite	cured meats	cured meats	in	
+V-876	cancer	cancer	cured meats	cured meats	and	
+V-876	processed meat	processed meat	risk	risk	was significantly related to the	

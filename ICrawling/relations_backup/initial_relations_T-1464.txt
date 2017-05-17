@@ -1,130 +1,23 @@
 
-T-1464	blood	blood	cataracts	cataracts	pressure and parkinson’s disease, age-related macular degeneration,	
-T-1464	protein	protein	omnivores	omnivores	levels than	
 T-1464	fruit	fruit	vegetables	vegetables	and	
-T-1464	kidney	kidney	diverticulosis	diverticulosis	stones,	
-T-1464	vegans	vegans	protein	protein	get more than enough	
-T-1464	diet	diet	contamination	contamination	may increase the risk of toxin	
-T-1464	endurance	endurance	low-carb diets	low-carb diets	athletes and those on	
-T-1464	xenoestrogens	xenoestrogens	diet	diet	in fish and estrogenic meat carcinogens.a plant-based	
-T-1464	risk	risk	b12	b12	of	
-T-1464	gut	gut	kidney	kidney	flora, fibromyalgia,	
-T-1464	plant-based	plant-based	abdominal fat	abdominal fat	eating may have a positive effect on	
-T-1464	mercury	mercury	heavy metals	heavy metals	and other toxic	
-T-1464	vegans	vegans	blood	blood	have healthy bones and higher	
-T-1464	cholesterol	cholesterol	insulin resistance	insulin resistance	and insulin levels,	
-T-1464	kidney	kidney	rheumatoid arthritis	rheumatoid arthritis	stones, diverticulosis,	
-T-1464	fruit	fruit	vegans	vegans	and vegetables may lengthen lifespan.contrary to popular myth,	
-T-1464	plant-based	plant-based	plant-based diets	plant-based diets	diets.if significantly more people transitioned to	
-T-1464	arteries	arteries	endurance	endurance	of vegans appear healthier than even long-distance	
-T-1464	insulin resistance	insulin resistance	protein	protein	and c-reactive	
-T-1464	cholesterol	cholesterol	protein	protein	and insulin levels, insulin resistance and c-reactive	
-T-1464	plants	plants	b12	b12	: vitamins d and	
-T-1464	vegans	vegans	athletes	athletes	appear healthier than even long-distance endurance	
-T-1464	diet	diet	blood	blood	experienced improvements in	
-T-1464	advanced glycation end-products	advanced glycation end-products	fish	fish	(age)s, cadmium, xenoestrogens in	
-T-1464	blood pressure	blood pressure	macular degeneration	macular degeneration	and parkinson’s disease, age-related	
-T-1464	advanced glycation end-products	advanced glycation end-products	cadmium	cadmium	(age)s,	
-T-1464	xenoestrogens	xenoestrogens	fish	fish	in	
-T-1464	sulfur dioxide	sulfur dioxide	iron	iron	arachidonic acid and heme	
-T-1464	meat	meat	animal products	animal products	and other	
-T-1464	high blood pressure	high blood pressure	cataracts	cataracts	and parkinson’s disease, age-related macular degeneration,	
-T-1464	mercury	mercury	advanced glycation end-products	advanced glycation end-products	and other toxic heavy metals,	
-T-1464	supplements	supplements	b12	b12	or	
-T-1464	plant-based	plant-based	fat	fat	eating may have a positive effect on abdominal	
-T-1464	meat	meat	fat	fat	contains a high amount of saturated	
-T-1464	plant-based	plant-based	blood pressure	blood pressure	diet experienced improvements in	
-T-1464	vitamins	vitamins	plants	plants	people need that are not available in	
-T-1464	gas	gas	environment	environment	emissions and have a smaller impact on the	
-T-1464	dna damage	dna damage	vitamins	vitamins	and cancer.there are two	
-T-1464	insulin	insulin	protein	protein	levels, insulin resistance and c-reactive	
-T-1464	sulfur	sulfur	heme iron	heme iron	dioxide arachidonic acid and	
-T-1464	diet	diet	insulin	insulin	experienced improvements in blood pressure, cholesterol and	
-T-1464	paleo diet	paleo diet	contamination	contamination	may increase the risk of toxin	
-T-1464	plant-based	plant-based	blood	blood	diet experienced improvements in	
-T-1464	yeast	yeast	omega 3	omega 3	- or algae-based long chain	
-T-1464	plant-based	plant-based	gas	gas	diets may also help lessen greenhouse	
-T-1464	diet	diet	blood pressure	blood pressure	experienced improvements in	
-T-1464	xenoestrogens	xenoestrogens	plant-based diet	plant-based diet	in fish and estrogenic meat carcinogens.a	
-T-1464	sulfur dioxide	sulfur dioxide	arachidonic acid	arachidonic acid		
-T-1464	paleo diet	paleo diet	dna damage	dna damage	may increase the risk of toxin contamination,	
-T-1464	blood pressure	blood pressure	cataracts	cataracts	and parkinson’s disease, age-related macular degeneration,	
-T-1464	paleo diet	paleo diet	dna	dna	may increase the risk of toxin contamination,	
-T-1464	cholesterol	cholesterol	c-reactive protein	c-reactive protein	and insulin levels, insulin resistance and	
-T-1464	kidney	kidney	arthritis	arthritis	stones, diverticulosis, rheumatoid	
 T-1464	meat	meat	saturated fat	saturated fat	contains a high amount of	
-T-1464	sulfur dioxide	sulfur dioxide	heme iron	heme iron	arachidonic acid and	
-T-1464	eggs	eggs	dietary antibiotics	dietary antibiotics	may also increase our exposure to	
-T-1464	b12	b12	supplements	supplements	deficiency if no	
-T-1464	xenoestrogens	xenoestrogens	meat	meat	in fish and estrogenic	
-T-1464	blood	blood	omnivores	omnivores	protein levels than	
-T-1464	plant-based	plant-based	medicare	medicare	diets.if significantly more people transitioned to plant-based diets,	
-T-1464	blood	blood	protein	protein		
-T-1464	blood	blood	cholesterol	cholesterol	pressure,	
-T-1464	gut	gut	kidney stones	kidney stones	flora, fibromyalgia,	
-T-1464	risk	risk	dna	dna	of toxin contamination,	
-T-1464	blood	blood	insulin	insulin	pressure, cholesterol and	
-T-1464	risk	risk	dna damage	dna damage	of toxin contamination,	
-T-1464	high blood pressure	high blood pressure	macular degeneration	macular degeneration	and parkinson’s disease, age-related	
-T-1464	advanced glycation end-products	advanced glycation end-products	xenoestrogens	xenoestrogens	(age)s, cadmium,	
-T-1464	meat	meat	fats	fats	contains a high amount of saturated fat, trans	
-T-1464	diet	diet	pollutants	pollutants	can detoxify the body of these	
-T-1464	plant-based	plant-based	cholesterol	cholesterol	diet experienced improvements in blood pressure,	
-T-1464	plant-based diets	plant-based diets	plant-based	plant-based	.if significantly more people transitioned to	
-T-1464	blood	blood	disease	disease	pressure and parkinson’s	
-T-1464	blood	blood	c-reactive protein	c-reactive protein	pressure, cholesterol and insulin levels, insulin resistance and	
-T-1464	insulin	insulin	insulin resistance	insulin resistance	levels,	
-T-1464	plant-based	plant-based	diet	diet		
-T-1464	insulin	insulin	c-reactive protein	c-reactive protein	levels, insulin resistance and	
-T-1464	iodine	iodine	zinc	zinc	and	
-T-1464	vegans	vegans	endurance	endurance	appear healthier than even long-distance	
-T-1464	plant-based diet	plant-based diet	insulin	insulin	experienced improvements in blood pressure, cholesterol and	
-T-1464	arteries	arteries	vegans	vegans	of	
-T-1464	xenoestrogens	xenoestrogens	plant-based	plant-based	in fish and estrogenic meat carcinogens.a	
-T-1464	blood	blood	insulin resistance	insulin resistance	pressure, cholesterol and insulin levels,	
-T-1464	blood pressure	blood pressure	disease	disease	and parkinson’s	
-T-1464	arteries	arteries	athletes	athletes	of vegans appear healthier than even long-distance endurance	
-T-1464	diet	diet	dna damage	dna damage	may increase the risk of toxin contamination,	
-T-1464	gut	gut	fibromyalgia	fibromyalgia	flora,	
-T-1464	dna	dna	vitamins	vitamins	damage and cancer.there are two	
-T-1464	gut	gut	syndrome	syndrome	flora, fibromyalgia, kidney stones, metabolic	
-T-1464	sulfur	sulfur	iron	iron	dioxide arachidonic acid and heme	
-T-1464	arachidonic acid	arachidonic acid	iron	iron	and heme	
-T-1464	plant-based	plant-based	pollutants	pollutants	diet can detoxify the body of these	
-T-1464	gut	gut	breast pain	breast pain	flora, fibromyalgia, kidney stones, metabolic syndrome, menstrual	
-T-1464	high blood pressure	high blood pressure	disease	disease	and parkinson’s	
+T-1464	diet	diet	blood	blood	experienced improvements in	
+T-1464	vegans	vegans	protein	protein	get more than enough	
 T-1464	arachidonic acid	arachidonic acid	heme iron	heme iron	and	
 T-1464	diet	diet	risk	risk	may increase the	
-T-1464	diet	diet	dna	dna	may increase the risk of toxin contamination,	
-T-1464	protein	protein	omnivores	omnivores	levels.vegans may have fewer nutrient deficiencies than average	
-T-1464	insulin resistance	insulin resistance	c-reactive protein	c-reactive protein	and	
-T-1464	risk	risk	supplements	supplements	of b12 deficiency if no	
-T-1464	plant-based diets	plant-based diets	medicare	medicare	.if significantly more people transitioned to plant-based diets,	
-T-1464	ulcerative colitis	ulcerative colitis	plant-based	plant-based	and vaginal infections.additionally,	
-T-1464	diet	diet	cholesterol	cholesterol	experienced improvements in blood pressure,	
-T-1464	plant-based diets	plant-based diets	gas	gas	may also help lessen greenhouse	
-T-1464	plant-based diet	plant-based diet	blood pressure	blood pressure	experienced improvements in	
-T-1464	c-reactive protein	c-reactive protein	omnivores	omnivores	levels.vegans may have fewer nutrient deficiencies than average	
-T-1464	vegans	vegans	protein	protein	have healthy bones and higher blood	
-T-1464	kidney	kidney	ulcerative colitis	ulcerative colitis	stones, diverticulosis, rheumatoid arthritis,	
-T-1464	plant-based diet	plant-based diet	cholesterol	cholesterol	experienced improvements in blood pressure,	
-T-1464	plant-based diet	plant-based diet	pollutants	pollutants	can detoxify the body of these	
-T-1464	gut	gut	pain	pain	flora, fibromyalgia, kidney stones, metabolic syndrome, menstrual breast	
-T-1464	advanced glycation end-products	advanced glycation end-products	meat	meat	(age)s, cadmium, xenoestrogens in fish and estrogenic	
-T-1464	dairy	dairy	eggs	eggs	and	
-T-1464	gut	gut	metabolic syndrome	metabolic syndrome	flora, fibromyalgia, kidney stones,	
-T-1464	dairy	dairy	dietary antibiotics	dietary antibiotics	and eggs may also increase our exposure to	
-T-1464	endurance	endurance	athletes	athletes		
-T-1464	eggs	eggs	industrial toxins	industrial toxins	may also increase our exposure to dietary antibiotics,	
-T-1464	gut	gut	flora	flora		
-T-1464	meat	meat	trans fats	trans fats	contains a high amount of saturated fat,	
-T-1464	blood	blood	macular degeneration	macular degeneration	pressure and parkinson’s disease, age-related	
-T-1464	eggs	eggs	antibiotics	antibiotics	may also increase our exposure to dietary	
-T-1464	plant-based	plant-based	insulin	insulin	diet experienced improvements in blood pressure, cholesterol and	
 T-1464	plant-based diet	plant-based diet	blood	blood	experienced improvements in	
-T-1464	risk	risk	contamination	contamination	of toxin	
+T-1464	iodine	iodine	zinc	zinc	and	
+T-1464	kaiser permanente	kaiser permanente	plant-based	plant-based	has begun more aggressive efforts to apprise patients about the advantages of	
+T-1464	insulin resistance	insulin resistance	c-reactive protein	c-reactive protein	and	
+T-1464	dairy	dairy	eggs	eggs	and	
 T-1464	cholesterol	cholesterol	insulin	insulin	and	
+T-1464	risk	risk	b12	b12	of	
+T-1464	arteries	arteries	vegans	vegans	of	
 T-1464	paleo diet	paleo diet	risk	risk	may increase the	
-T-1464	vegetables	vegetables	vegans	vegans	may lengthen lifespan.contrary to popular myth,	
-T-1464	athletes	athletes	low-carb diets	low-carb diets	and those on	
-T-1464	sulfur	sulfur	arachidonic acid	arachidonic acid	dioxide	
+T-1464	kaiser permanente	kaiser permanente	plant-based diets	plant-based diets	has begun more aggressive efforts to apprise patients about the advantages of	
+T-1464	xenoestrogens	xenoestrogens	fish	fish	in	
+T-1464	diet	diet	blood pressure	blood pressure	experienced improvements in	
+T-1464	plant-based diet	plant-based diet	blood pressure	blood pressure	experienced improvements in	
+T-1464	supplements	supplements	b12	b12	or	
+T-1464	plant-based diets	plant-based diets	exercise	exercise	appear to experience enhanced athletic recovery without affecting the benefits of	
+T-1464	meat	meat	fat	fat	contains a high amount of saturated	

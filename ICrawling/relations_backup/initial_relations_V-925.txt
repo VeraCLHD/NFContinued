@@ -1,17 +1,2 @@
 
-V-925	heart attack	heart attack	ldl cholesterol	ldl cholesterol	patients fell within [the] recommended targets for	
-V-925	heart disease	heart disease	risk	risk		
-V-925	cholesterol	cholesterol	heart attack	heart attack	into an “optimal” range, and still die of a	
-V-925	ldl	ldl	cholesterol	cholesterol		
-V-925	disease	disease	risk	risk		
-V-925	heart attack	heart attack	ldl	ldl	patients fell within [the] recommended targets for	
-V-925	red meat	red meat	fat	fat	and its associated	
-V-925	cholesterol	cholesterol	blood	blood	in our	
-V-925	heart attack	heart attack	cholesterol	cholesterol	patients fell within [the] recommended targets for ldl	
 V-925	heart attack	heart attack	cholesterol	cholesterol	did not have	
-V-925	ldl cholesterol	ldl cholesterol	cholesterol	cholesterol	in our blood—our “bad”	
-V-925	ldl	ldl	blood	blood	cholesterol in our	
-V-925	blood	blood	cholesterol	cholesterol	—our “bad”	
-V-925	ldl cholesterol	ldl cholesterol	blood	blood	in our	
-V-925	cholesterol	cholesterol	risk	risk	levels that would signal a high	
-V-925	meat	meat	fat	fat	and its associated	

@@ -1,26 +1,2 @@
 
-V-645	diet	diet	disease	disease	—what about periodontal	
-V-645	cholesterol	cholesterol	bad cholesterol	bad cholesterol	may also contribute to periodontitis, as	
-V-645	impotence	impotence	periodontal disease	periodontal disease	with a plant-based diet—what about	
-V-645	bad cholesterol	bad cholesterol	risk	risk	levels may be a	
-V-645	plant-based	plant-based	diet	diet		
-V-645	plant-based	plant-based	inflammation	inflammation	diets should be protective.after all,	
-V-645	diet	diet	cholesterol	cholesterol	that leads to high	
-V-645	plant-based	plant-based	disease	disease	diet—what about periodontal	
-V-645	gingivitis	gingivitis	disease	disease	(gum	
-V-645	plant-based	plant-based	oral health	oral health	diets and	
-V-645	fats	fats	inflammatory response	inflammatory response	“produce an	
-V-645	fats	fats	produce	produce	“	
-V-645	plant-based diet	plant-based diet	disease	disease	—what about periodontal	
-V-645	impotence	impotence	plant-based	plant-based	with a	
-V-645	plant-based	plant-based	health	health	diets and oral	
 V-645	plant-based diets	plant-based diets	oral health	oral health	and	
-V-645	plant-based diets	plant-based diets	health	health	and oral	
-V-645	impotence	impotence	diet	diet	with a plant-based	
-V-645	plant-based	plant-based	periodontal disease	periodontal disease	diet—what about	
-V-645	produce	produce	inflammatory response	inflammatory response	an	
-V-645	plant-based diet	plant-based diet	periodontal disease	periodontal disease	—what about	
-V-645	impotence	impotence	plant-based diet	plant-based diet	with a	
-V-645	impotence	impotence	disease	disease	with a plant-based diet—what about periodontal	
-V-645	diet	diet	periodontal disease	periodontal disease	—what about	
-V-645	plant-based diets	plant-based diets	inflammation	inflammation	should be protective.after all,	

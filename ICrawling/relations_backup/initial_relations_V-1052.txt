@@ -1,21 +1,8 @@
 
-V-1052	fat	fat	birds	birds	than uninfected	
-V-1052	virus	virus	chickens	chickens	emerged, killing thousands of	
-V-1052	infection	infection	obesity	obesity	with certain viruses can contribute to	
-V-1052	abdominal fat	abdominal fat	birds	birds	than uninfected	
-V-1052	poultry	poultry	chickens	chickens	virus emerged, killing thousands of	
-V-1052	virus	virus	abdominal fat	abdominal fat	made them gain 50% more	
-V-1052	chicken	chicken	virus	virus		
-V-1052	virus	virus	fat	fat	just made them start piling on tummy	
-V-1052	poultry	poultry	virus	virus		
-V-1052	virus	virus	fat	fat	is that the survivors became	
-V-1052	obesity	obesity	environment	environment	include overindulgence, lack of exercise, lifestyle, food habits,	
-V-1052	risk	risk	exercise	exercise	factors of obesity include overindulgence, lack of	
 V-1052	chickens	chickens	fat	fat	become	
+V-1052	infection	infection	obesity	obesity	could probably be considered another component cause—although not a necessary cause—of	
+V-1052	virus	virus	chickens	chickens	emerged, killing thousands of	
 V-1052	virus	virus	fat	fat	made them gain 50% more abdominal	
-V-1052	obesity	obesity	exercise	exercise	include overindulgence, lack of	
-V-1052	chicken	chicken	fat	fat	in a room, and all the chickens become	
-V-1052	chicken	chicken	chickens	chickens	in a room, and all the	
 V-1052	viruses	viruses	obesity	obesity	can contribute to	
-V-1052	risk	risk	obesity	obesity	factors of	
-V-1052	infection	infection	viruses	viruses	with certain	
+V-1052	virus	virus	abdominal fat	abdominal fat	made them gain 50% more	
+V-1052	virus	virus	fat	fat	is that the survivors became	

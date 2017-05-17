@@ -1,30 +1,15 @@
 
 V-376	mortality	mortality	semen	semen	was associated with an increase in	
 V-376	stress	stress	infertility	infertility	plays an important role in male	
-V-376	saturated fat	saturated fat	harvard	harvard	is found, but the	
-V-376	saturated fat	saturated fat	sperm count	sperm count	intake was associated with a substantially lower	
-V-376	fat	fat	harvard	harvard	is found, but the	
+V-376	meat	meat	dairy	dairy	and	
+V-376	oxidative stress	oxidative stress	infertility	infertility	plays an important role in male	
 V-376	saturated fat	saturated fat	health	health	may be beneficial for both general and reproductive	
-V-376	fat	fat	sperm count	sperm count	intake was associated with a substantially lower	
 V-376	stress	stress	male infertility	male infertility	plays an important role in	
-V-376	vegetables	vegetables	dairy	dairy	and perhaps less meat and	
 V-376	harvard study	harvard study	saturated fat	saturated fat	suggesting that a small increase in	
-V-376	fruits	fruits	meat	meat	and vegetables and perhaps less	
-V-376	fruits	fruits	dairy	dairy	and vegetables and perhaps less meat and	
 V-376	saturated fat	saturated fat	reproductive health	reproductive health	may be beneficial for both general and	
-V-376	harvard	harvard	fat	fat	study suggesting that a small increase in saturated	
+V-376	vitamin c	vitamin c	antioxidants	antioxidants	had the genetic integrity of sperm from much younger men.the	
 V-376	harvard study	harvard study	fat	fat	suggesting that a small increase in saturated	
 V-376	oxidative stress	oxidative stress	male infertility	male infertility	plays an important role in	
 V-376	fat	fat	reproductive health	reproductive health	may be beneficial for both general and	
-V-376	meat	meat	saturated fat	saturated fat	and dairy, which is where most	
 V-376	fat	fat	health	health	may be beneficial for both general and reproductive	
-V-376	meat	meat	fat	fat	and dairy, which is where most saturated	
-V-376	meat	meat	dairy	dairy	and	
-V-376	oxidative stress	oxidative stress	infertility	infertility	plays an important role in male	
-V-376	fat	fat	sperm count	sperm count	intake the lower the	
-V-376	antioxidant	antioxidant	pills	pills		
-V-376	vegetables	vegetables	meat	meat	and perhaps less	
-V-376	harvard	harvard	saturated fat	saturated fat	study suggesting that a small increase in	
-V-376	antioxidants	antioxidants	vitamin c	vitamin c	and micronutrients, for example	
 V-376	fruits	fruits	vegetables	vegetables	and	
-V-376	saturated fat	saturated fat	sperm count	sperm count	intake the lower the	

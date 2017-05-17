@@ -1,37 +1,10 @@
 
 V-453	fish	fish	risk	risk	-eaters appeared to have a 38% increased	
-V-453	risk	risk	meat	meat	—worse than red	
-V-453	risk	risk	red meat	red meat	—worse than	
-V-453	risk	risk	europe	europe	for diabetes.if you include	
-V-453	risk	risk	fish	fish	for diabetes.if you include europe too, then	
-V-453	risk	risk	diabetes	diabetes	for	
-V-453	united states	united states	risk	risk	tended to be at greater	
-V-453	diabetes	diabetes	sugar	sugar	risk by increasing blood	
-V-453	organic	organic	pollutants	pollutants		
-V-453	fats	fats	risk	risk	may increase type 2 diabetes	
-V-453	blood	blood	fish oil	fish oil	sugars in diabetics given	
-V-453	risk	risk	fish	fish	for every serving of	
-V-453	fish	fish	diabetes	diabetes	consumption and type 2	
-V-453	pollutants	pollutants	chemicals	chemicals	…are mainly man-made [industrial]	
-V-453	fish	fish	united states	united states	consumers in the	
-V-453	persistent organic pollutants	persistent organic pollutants	chemicals	chemicals	…are mainly man-made [industrial]	
-V-453	fats	fats	blood sugar	blood sugar	may increase type 2 diabetes risk by increasing	
-V-453	diabetes	diabetes	europe	europe	.if you include	
-V-453	organic	organic	chemicals	chemicals	pollutants…are mainly man-made [industrial]	
-V-453	organic pollutants	organic pollutants	chemicals	chemicals	…are mainly man-made [industrial]	
-V-453	risk	risk	fish	fish	—worse than red meat, but why?well,	
-V-453	agent orange	agent orange	diabetes	diabetes	appeared to have higher	
-V-453	united states	united states	diabetes	diabetes	tended to be at greater risk for	
-V-453	diabetes	diabetes	blood	blood	risk by increasing	
-V-453	orange	orange	diabetes	diabetes	appeared to have higher	
-V-453	blood	blood	fish	fish	sugars in diabetics given	
-V-453	red meat	red meat	risk	risk	is associated with a 19% increase in	
-V-453	diabetes	diabetes	risk	risk		
-V-453	meat	meat	risk	risk	is associated with a 19% increase in	
 V-453	europe	europe	fish	fish	too, then	
+V-453	united states	united states	risk	risk	tended to be at greater	
 V-453	fats	fats	diabetes	diabetes	may increase type 2	
-V-453	fats	fats	blood	blood	may increase type 2 diabetes risk by increasing	
+V-453	agent orange	agent orange	diabetes	diabetes	appeared to have higher	
+V-453	orange	orange	diabetes	diabetes	appeared to have higher	
 V-453	risk	risk	diabetes	diabetes	of	
-V-453	diabetes	diabetes	blood sugar	blood sugar	risk by increasing	
-V-453	diabetes	diabetes	fish	fish	.if you include europe too, then	
-V-453	blood	blood	sugar	sugar		
+V-453	red meat	red meat	risk	risk	is associated with a 19% increase in	
+V-453	meat	meat	risk	risk	is associated with a 19% increase in	

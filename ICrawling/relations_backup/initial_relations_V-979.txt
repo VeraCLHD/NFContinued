@@ -1,7 +1,3 @@
 
-V-979	contaminants	contaminants	fish	fish	from	
 V-979	cancer	cancer	birth defects	birth defects	or	
-V-979	risk	risk	supplements	supplements	of toxins by choosing microalgae or yeast-based epa/dha	
 V-979	risk	risk	toxins	toxins	of	
-V-979	contaminants	contaminants	fish oil	fish oil	from	
-V-979	toxins	toxins	supplements	supplements	by choosing microalgae or yeast-based epa/dha	

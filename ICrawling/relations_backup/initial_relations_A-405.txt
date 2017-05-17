@@ -1,32 +1,5 @@
 
 A-405	fiber	fiber	oatmeal	oatmeal	found in 12 bowls of	
-A-405	diet	diet	weeds	weeds	patients i saw in my practice weren’t consuming	
-A-405	diet	diet	mercury	mercury	while avoiding the risks associated with consuming	
-A-405	drugs	drugs	antibiotic residues	antibiotic residues	such as	
-A-405	diet	diet	atkins	atkins	: trouble keeping it up and plant-based	
-A-405	diet	diet	health	health	for	
-A-405	low carb	low carb	atkins diet	atkins diet	diets: 	
-A-405	calcium	calcium	greens	greens	found in 5 cups of collard	
-A-405	diet	diet	plant-based	plant-based	: trouble keeping it up and 	
-A-405	health	health	diet	diet	policy to promote a plant-rich	
-A-405	calcium	calcium	collard greens	collard greens	found in 5 cups of	
-A-405	atkins	atkins	atkins diet	atkins diet	diet: trouble keeping it up and plant-based	
-A-405	mercury	mercury	epa	epa	in amounts in excess of the suggested	
-A-405	plant-based	plant-based	atkins	atkins		
-A-405	low carb	low carb	diet	diet	diets: atkins	
-A-405	atkins diet	atkins diet	plant-based	plant-based	: trouble keeping it up and 	
-A-405	atkins diet	atkins diet	diet	diet	: trouble keeping it up and plant-based atkins	
-A-405	plant-based	plant-based	atkins diet	atkins diet		
-A-405	plant-based	plant-based	diet	diet	atkins	
-A-405	weeds	weeds	fiber	fiber	and eating in excess of 100 grams of	
-A-405	atkins	atkins	diet	diet		
-A-405	low carb	low carb	plant-based	plant-based	diets: atkins diet: trouble keeping it up and 	
-A-405	vitamin c	vitamin c	oranges	oranges	found in 10	
-A-405	diet	diet	atkins diet	atkins diet	: trouble keeping it up and plant-based	
-A-405	public health	public health	diet	diet	policy to promote a plant-rich	
 A-405	vitamin e	vitamin e	nuts	nuts	found in 2 cups of	
-A-405	book	book	atkins	atkins	on the	
-A-405	low carb	low carb	atkins	atkins	diets: 	
-A-405	atkins diet	atkins diet	atkins	atkins	: trouble keeping it up and plant-based	
-A-405	public health	public health	health	health	policy to promote a plant-rich diet for	
-A-405	atkins	atkins	plant-based	plant-based	diet: trouble keeping it up and 	
+A-405	calcium	calcium	collard greens	collard greens	found in 5 cups of	
+A-405	vitamin c	vitamin c	oranges	oranges	found in 10	

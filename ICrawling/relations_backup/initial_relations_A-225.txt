@@ -1,10 +1,2 @@
 
-A-225	saturated fat	saturated fat	meta-analysis	meta-analysis		
-A-225	fat	fat	meta-analysis	meta-analysis		
-A-225	fat	fat	risk	risk	consumption “as low as possible” to lower the	
-A-225	saturated fat	saturated fat	risk	risk	consumption “as low as possible” to lower the	
 A-225	risk	risk	chronic disease	chronic disease	of	
-A-225	saturated fat	saturated fat	dvd	dvd	expert by now, having gotten the new	
-A-225	fat	fat	dvd	dvd	expert by now, having gotten the new	
-A-225	risk	risk	disease	disease	of chronic	
-A-225	superfood	superfood	holidays	holidays	suggestions for the	

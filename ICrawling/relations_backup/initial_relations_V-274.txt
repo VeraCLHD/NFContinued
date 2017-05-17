@@ -1,75 +1,21 @@
 
-V-274	insulin resistance	insulin resistance	saturated fat	saturated fat	in subjects who ingested the	
+V-274	protein	protein	saturated fat	saturated fat	5, but	
 V-274	obesity	obesity	insulin	insulin	and	
-V-274	lead	lead	fat	fat	to their death.and not just any	
-V-274	death	death	fat	fat	of pancreatic beta cells in diabetes.and saturated	
-V-274	avocados	avocados	death	death	gives you a tiny bump in	
-V-274	fat	fat	olives	olives	in	
-V-274	dairy	dairy	cheese	cheese	—chicken and	
-V-274	blood	blood	fat	fat		
-V-274	meat	meat	chicken	chicken	and dairy—	
-V-274	liver	liver	fat	fat	cells to plant	
-V-274	dairy	dairy	chicken	chicken	—	
-V-274	chicken	chicken	cheese	cheese	and	
-V-274	fat	fat	liver	liver	has been found to be particularly toxic to	
-V-274	fat	fat	diabetes	diabetes	doesn’t develop	
-V-274	insulin	insulin	saturated fat	saturated fat	secretion and insulin action, and	
-V-274	fats	fats	insulin resistance	insulin resistance	not only cause obesity and	
-V-274	cheese	cheese	diet	diet	are the two main sources in the american	
+V-274	fats	fats	insulin	insulin	has a powerful short- and long-term effect on	
 V-274	meat	meat	dairy	dairy	and	
 V-274	protein	protein	fat	fat	5, but saturated	
 V-274	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-274	saturated fat	saturated fat	death	death	really ramps up this contributor to beta cell	
-V-274	diet	diet	fats	fats	—are almost universally toxic, whereas the	
-V-274	liver	liver	liver disease	liver disease	cells in the formation of fatty	
+V-274	saturated fat	saturated fat	insulin	insulin	can both cause that excess	
+V-274	avocados	avocados	death	death	gives you a tiny bump in	
+V-274	fat	fat	olives	olives	in	
+V-274	fats	fats	diabetes	diabetes	are currently considered the cause of type 2	
 V-274	obesity	obesity	insulin resistance	insulin resistance	and	
-V-274	insulin	insulin	death	death	action, contributing to the dysfunction and	
-V-274	fats	fats	obesity	obesity	not only cause	
-V-274	insulin	insulin	blood	blood	in the	
-V-274	liver	liver	fat	fat	disease.by cutting down on saturated	
+V-274	chicken	chicken	cheese	cheese	and	
+V-274	fat	fat	liver	liver	has been found to be particularly toxic to	
+V-274	fat	fat	diabetes	diabetes	doesn’t develop	
+V-274	fat	fat	cholesterol	cholesterol	and	
 V-274	smoking	smoking	lung cancer	lung cancer	can be said to cause	
 V-274	diabetes	diabetes	insulin	insulin	is characterized by defects in both	
-V-274	insulin	insulin	insulin resistance	insulin resistance	secretion failed to compensate for	
 V-274	saturated fat	saturated fat	diabetes	diabetes	doesn’t develop	
-V-274	fat	fat	diabetes	diabetes	in our blood.so what causes	
-V-274	death	death	fat	fat	protein 5, but saturated	
-V-274	protein	protein	saturated fat	saturated fat	5, but	
-V-274	liver	liver	animal fat	animal fat	cells to	
-V-274	fat	fat	liver	liver	and cholesterol are associated with nonalcoholic fatty	
-V-274	insulin	insulin	fat	fat	secretion and insulin action, and saturated	
-V-274	liver	liver	fat	fat	cells to animal	
-V-274	saturated fat	saturated fat	insulin	insulin	can both cause that excess	
-V-274	saturated fat	saturated fat	blood	blood	can both cause that excess insulin in the	
-V-274	calories	calories	fats	fats	rich in saturated	
-V-274	saturated fat	saturated fat	liver	liver	and cholesterol are associated with nonalcoholic fatty	
-V-274	fat	fat	death	death	really ramps up this contributor to beta cell	
-V-274	fat	fat	insulin	insulin	intake on	
-V-274	insulin	insulin	fat	fat	levels is substantial, regardless of how much belly	
-V-274	meat	meat	cheese	cheese	and dairy—chicken and	
-V-274	liver	liver	plant fat	plant fat	cells to	
-V-274	fat	fat	cholesterol	cholesterol	and	
-V-274	saturated fat	saturated fat	diabetes	diabetes	in our blood.so what causes	
-V-274	saturated fat	saturated fat	insulin	insulin	ingestion reduces	
-V-274	fats	fats	insulin	insulin	has a powerful short- and long-term effect on	
-V-274	fat	fat	insulin	insulin	ingestion reduces	
-V-274	insulin	insulin	belly fat	belly fat	levels is substantial, regardless of how much	
-V-274	insulin resistance	insulin resistance	fat	fat	in subjects who ingested the saturated	
-V-274	liver	liver	fatty liver disease	fatty liver disease	cells in the formation of	
-V-274	liver	liver	saturated fat	saturated fat	disease.by cutting down on	
-V-274	avocados	avocados	protein	protein	gives you a tiny bump in death	
-V-274	death	death	protein	protein		
-V-274	fats	fats	diabetes	diabetes	are currently considered the cause of type 2	
-V-274	lead	lead	saturated fat	saturated fat	to their death.and not just any fat;	
-V-274	saturated fat	saturated fat	cell death	cell death	really ramps up this contributor to beta	
-V-274	liver	liver	disease	disease	cells in the formation of fatty liver	
-V-274	fat	fat	nuts	nuts	in olives,	
-V-274	insulin	insulin	fats	fats	resistance, but the increased levels of circulating free	
-V-274	smoking	smoking	cancer	cancer	can be said to cause lung	
-V-274	diabetes	diabetes	saturated fat	saturated fat	incidence was significantly associated with the proportion of	
-V-274	fats	fats	insulin	insulin	not only cause obesity and	
-V-274	cholesterol	cholesterol	liver	liver	are associated with nonalcoholic fatty	
-V-274	death	death	saturated fat	saturated fat	protein 5, but	
-V-274	fat	fat	avocados	avocados	in olives, nuts, and	
-V-274	saturated fat	saturated fat	insulin	insulin	intake on	
 V-274	saturated fat	saturated fat	liver	liver	has been found to be particularly toxic to	
-V-274	death	death	saturated fat	saturated fat	of pancreatic beta cells in diabetes.and	
+V-274	cheese	cheese	diet	diet	are the two main sources in the american	

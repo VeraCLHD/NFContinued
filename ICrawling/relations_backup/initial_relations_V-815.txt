@@ -1,4 +1,2 @@
 
-V-815	fruit	fruit	oklahoma	oklahoma	a day, with	
 V-815	fruits	fruits	vegetables	vegetables	and	
-V-815	fruit	fruit	vegetables	vegetables	.caucasians ate the least fruit; hispanics the least	

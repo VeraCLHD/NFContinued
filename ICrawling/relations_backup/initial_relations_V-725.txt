@@ -1,19 +1,5 @@
 
-V-725	igf-1	igf-1	protein	protein	levels were just associated with animal	
-V-725	plant protein	plant protein	igf-1	igf-1	seemed to decrease	
-V-725	growth hormone	growth hormone	igf-1	igf-1		
-V-725	animal protein	animal protein	igf-1	igf-1	versus plant protein.higher	
-V-725	protein	protein	liver	liver	on your body, your	
-V-725	liver	liver	insulin-like growth factor 1	insulin-like growth factor 1	and	
-V-725	liver	liver	igf-1	igf-1	decides to start pumping out	
-V-725	protein	protein	animal protein	animal protein	.higher igf-1 levels were just associated with	
-V-725	protein	protein	vegetarians	vegetarians	.in this study of meat-eaters,	
-V-725	igf-1	igf-1	animal protein	animal protein	levels were just associated with	
 V-725	vegans	vegans	protein	protein	eating the same amount of	
+V-725	plant protein	plant protein	igf-1	igf-1	seemed to decrease	
 V-725	protein	protein	igf-1	igf-1	seemed to decrease	
-V-725	protein	protein	igf-1	igf-1	intake boosts the levels of	
-V-725	protein	protein	igf-1	igf-1	versus plant protein.higher	
-V-725	animal protein	animal protein	protein	protein	versus plant	
-V-725	protein	protein	animal protein	animal protein	in general, but	
-V-725	diet	diet	growth hormone	growth hormone	can affect our levels of this cancer-promoting	
-V-725	protein	protein	vegans	vegans	.in this study of meat-eaters, vegetarians, and	
+V-725	liver	liver	insulin-like growth factor 1	insulin-like growth factor 1	and	

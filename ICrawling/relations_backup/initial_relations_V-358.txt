@@ -1,26 +1,10 @@
 
-V-358	arteries	arteries	decaf	decaf	to dilate, whereas	
-V-358	caffeine	caffeine	coffee	coffee	alone—about 2 1/2 cups of	
 V-358	milk	milk	beer	beer	was grouped with	
-V-358	antioxidant	antioxidant	coffee	coffee		
-V-358	dietary guidelines	dietary guidelines	beverages	beverages	for food; what about for	
 V-358	green tea	green tea	black tea	black tea	and	
-V-358	green tea	green tea	tea	tea	and black	
-V-358	endothelial	endothelial	arteries	arteries	function, and the function of our	
-V-358	tea	tea	black tea	black tea	and	
-V-358	exercise	exercise	heart disease	heart disease	even in healthy folks, but especially those with	
-V-358	whole milk	whole milk	beer	beer	was grouped with	
-V-358	alcohol	alcohol	coffee	coffee	counteracts and erases the benefit.drinking really high antioxidant	
-V-358	prostate	prostate	cancer	cancer		
-V-358	health	health	beverage	beverage	and nutritional benefits and risks of various	
-V-358	ovarian cancer	ovarian cancer	igf-1	igf-1	thanks to	
-V-358	caffeine	caffeine	blood	blood	appears to impair	
-V-358	endothelial	endothelial	stem cells	stem cells	progenitor cells, the	
-V-358	prostate	prostate	ovarian cancer	ovarian cancer	cancer, as well as aggressive	
 V-358	caffeine	caffeine	antioxidants	antioxidants	and	
+V-358	tea	tea	black tea	black tea	and	
 V-358	tea	tea	caffeine	caffeine	leaves undermining	
+V-358	whole milk	whole milk	beer	beer	was grouped with	
 V-358	tea	tea	coffee	coffee	and	
 V-358	alcohol	alcohol	antioxidant	antioxidant	counteracts and erases the benefit.drinking really high	
-V-358	blood	blood	tea	tea	flow, suggesting that	
-V-358	blood	blood	exercise	exercise	flow to our heart muscle during	
 V-358	caffeine	caffeine	tea	tea	in	

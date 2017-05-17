@@ -1,39 +1,8 @@
 
-T-356	viruses	viruses	contamination	contamination	that attack bacteria), which may decrease bacterial	
-T-356	poultry	poultry	urinary tract infections	urinary tract infections	products have an increased risk of	
-T-356	urinary tract infections	urinary tract infections	raw poultry	raw poultry	and children who come into contact with	
-T-356	campylobacter	campylobacter	food poisoning	food poisoning	may experience	
-T-356	cross-contamination	cross-contamination	poultry	poultry	of other foods with raw	
-T-356	risk	risk	urinary tract infections	urinary tract infections	of	
-T-356	poultry	poultry	meat	meat	industry also treats their	
-T-356	meat industry	meat industry	meat	meat	won the right to sell contaminated	
-T-356	children	children	raw poultry	raw poultry	who come into contact with	
-T-356	cross-contamination	cross-contamination	raw	raw	of other foods with	
-T-356	cross-contamination	cross-contamination	raw poultry	raw poultry	of other foods with	
-T-356	meat	meat	viruses	viruses	products may be treated with bacteriophages (species specific	
-T-356	bacteriophages	bacteriophages	viruses	viruses	(species specific	
-T-356	women	women	risk	risk	handling poultry products have an increased	
-T-356	infections	infections	raw poultry	raw poultry	and children who come into contact with	
-T-356	bacteriophages	bacteriophages	bacteria	bacteria	(species specific viruses that attack	
-T-356	risk	risk	infections	infections	of urinary tract	
-T-356	children	children	poultry	poultry	who come into contact with raw	
-T-356	bacteria	bacteria	poultry	poultry	that may be found in nearly 70% of	
-T-356	women	women	poultry	poultry	handling	
-T-356	raw	raw	poultry	poultry		
-T-356	poultry	poultry	risk	risk	products have an increased	
-T-356	urinary tract infections	urinary tract infections	children	children	and	
-T-356	women	women	urinary tract infections	urinary tract infections	handling poultry products have an increased risk of	
-T-356	meat	meat	bacteriophages	bacteriophages	products may be treated with	
 T-356	campylobacter	campylobacter	bacteria	bacteria	is a	
-T-356	risk	risk	children	children	of urinary tract infections and	
-T-356	infections	infections	raw	raw	and children who come into contact with	
-T-356	infections	infections	poultry	poultry	and children who come into contact with raw	
-T-356	viruses	viruses	bacteria	bacteria	that attack	
-T-356	risk	risk	poultry	poultry	of bacterial infection.what is the	
-T-356	children	children	raw	raw	who come into contact with	
-T-356	campylobacter	campylobacter	poultry	poultry	compared to phosphate free	
-T-356	poultry	poultry	infections	infections	products have an increased risk of urinary tract	
-T-356	urinary tract infections	urinary tract infections	poultry	poultry	and children who come into contact with raw	
-T-356	urinary tract infections	urinary tract infections	raw	raw	and children who come into contact with	
-T-356	bacteria	bacteria	contamination	contamination	), which may decrease bacterial	
+T-356	campylobacter	campylobacter	food poisoning	food poisoning	may experience	
+T-356	risk	risk	urinary tract infections	urinary tract infections	of	
+T-356	meat industry	meat industry	meat	meat	won the right to sell contaminated	
+T-356	women	women	poultry	poultry	handling	
+T-356	urinary tract infections	urinary tract infections	children	children	and	
 T-356	infections	infections	children	children	and	

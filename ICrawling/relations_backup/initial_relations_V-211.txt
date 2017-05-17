@@ -1,19 +1,5 @@
 
-V-211	peppermint	peppermint	colonoscopy	colonoscopy	oil in	
 V-211	peppermint	peppermint	muscles	muscles	does is relax the	
-V-211	pain	pain	scope	scope	and discomfort, and makes the	
-V-211	gas	gas	colonoscopy	colonoscopy	and cause the colon to explode.death from	
-V-211	colon	colon	colonoscopy	colonoscopy	with a peppermint oil solution before the	
-V-211	scope	scope	colon	colon	punches through wall of the	
-V-211	colon	colon	scope	scope	spasm can hinder the progress of the	
-V-211	scope	scope	pain	pain	easier to insert and withdraw.	
-V-211	stomach	stomach	colon	colon	triggers spasms in the	
-V-211	colon	colon	scope	scope	spasm reduces pain and discomfort, and makes the	
-V-211	colon	colon	peppermint	peppermint	with a	
 V-211	peppermint	peppermint	colon	colon	can relax the	
-V-211	colon	colon	pain	pain	spasm reduces	
-V-211	colon	colon	peppermint oil	peppermint oil	with a	
-V-211	peppermint	peppermint	colonoscopy	colonoscopy	oil solution before the	
+V-211	stomach	stomach	colon	colon	triggers spasms in the	
 V-211	peppermint oil	peppermint oil	colonoscopy	colonoscopy	in	
-V-211	peppermint oil	peppermint oil	colonoscopy	colonoscopy	solution before the	
-V-211	gas	gas	colon	colon	and cause the	

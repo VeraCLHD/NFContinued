@@ -1,14 +1,3 @@
 
-V-1154	soy	soy	women	women	protect against cancer—both men and	
-V-1154	phytoestrogens	phytoestrogens	soy	soy	in	
-V-1154	phytoestrogens	phytoestrogens	cancer	cancer	in soy protect against	
-V-1154	soy	soy	prostate	prostate	appears to stimulate the	
-V-1154	soy	soy	produce	produce	appears to stimulate the prostate gland to	
-V-1154	prostate gland	prostate gland	produce	produce	to	
-V-1154	women	women	fertility	fertility	—but might they decrease male	
 V-1154	soy	soy	cancer	cancer	protect against	
-V-1154	cancer	cancer	women	women	—both men and	
-V-1154	cancer	cancer	fertility	fertility	—both men and women—but might they decrease male	
-V-1154	phytoestrogens	phytoestrogens	women	women	in soy protect against cancer—both men and	
-V-1154	soy	soy	prostate gland	prostate gland	appears to stimulate the	
-V-1154	prostate	prostate	produce	produce	gland to	
+V-1154	phytoestrogens	phytoestrogens	soy	soy	in	

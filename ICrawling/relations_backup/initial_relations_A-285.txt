@@ -1,55 +1,14 @@
 
-A-285	plant-based	plant-based	health	health	diets: dental	
-A-285	citrus	citrus	stroke	stroke	may cut our risk of	
-A-285	oranges	oranges	risk	risk	before we go skiing our	
-A-285	dental	dental	health	health		
+A-285	hesperidin	hesperidin	orange juice	orange juice	found in two cups of	
+A-285	phytonutrients	phytonutrients	plants	plants	in	
+A-285	hesperidin	hesperidin	citrus	citrus	is found primarily in	
+A-285	hesperidin	hesperidin	orange	orange	found in two cups of	
 A-285	citrus	citrus	cold	cold	didn’t get nearly as	
 A-285	hesperidin	hesperidin	blood	blood	increases	
-A-285	teeth	teeth	citrus	citrus	immediately after consuming	
-A-285	plant-based diets	plant-based diets	health	health	: dental	
-A-285	fatigue	fatigue	citrus	citrus	with	
+A-285	risk	risk	stroke	stroke	of	
+A-285	dna	dna	phytonutrients	phytonutrients	expressed differently because we consumed just one of the thousands of	
 A-285	phytonutrients	phytonutrients	flavonoids	flavonoids	called	
 A-285	hesperidin	hesperidin	citrus	citrus	in	
-A-285	citrus	citrus	risk	risk	may cut our	
-A-285	mouth	mouth	water	water	with	
-A-285	phytonutrient	phytonutrient	hesperidin	hesperidin		
-A-285	phytonutrients	phytonutrients	plants	plants	in	
-A-285	fruits	fruits	phytonutrient	phytonutrient	and vegetables can have entirely different	
-A-285	oranges	oranges	juice	juice	is always better than drinking orange	
-A-285	plant-based	plant-based	dental	dental	diets:	
-A-285	hesperidin	hesperidin	fruits	fruits	is found primarily in citrus	
-A-285	blood	blood	skin	skin	flow through the	
-A-285	citrus	citrus	blood	blood	didn’t get nearly as cold because their	
-A-285	citrus	citrus	fruits	fruits		
-A-285	fruits	fruits	vegetables	vegetables	and	
-A-285	kingdom	kingdom	lettuce	lettuce	when one can even find it in iceberg	
-A-285	orange	orange	fatigue	fatigue	juice, as seen in my video reducing muscle	
-A-285	cold	cold	cold hands	cold hands	sensitivity (	
-A-285	hesperidin	hesperidin	orange juice	orange juice	found in two cups of	
-A-285	oranges	oranges	orange juice	orange juice	is always better than drinking	
-A-285	citrus	citrus	hesperidin	hesperidin	phytonutrient	
-A-285	citrus	citrus	phytonutrients	phytonutrients		
-A-285	hesperidin	hesperidin	citrus	citrus	is found primarily in	
-A-285	kingdom	kingdom	iceberg lettuce	iceberg lettuce	when one can even find it in	
-A-285	orange	orange	blood	blood	juice,	
-A-285	women	women	water	water	and plunged their hands into some chilly	
-A-285	risk	risk	stroke	stroke	of	
-A-285	hesperidin	hesperidin	juice	juice	found in two cups of orange	
-A-285	cold	cold	blood	blood	temperatures our body starts to clamp off peripheral	
-A-285	citrus	citrus	phytonutrient	phytonutrient		
 A-285	vegetables	vegetables	phytonutrient	phytonutrient	can have entirely different	
-A-285	orange	orange	juice	juice		
-A-285	cold	cold	blood	blood	because their	
-A-285	fruits	fruits	variety	variety	and vegetables can have entirely different phytonutrient profiles,	
-A-285	citrus	citrus	blood	blood	phytonutrient hesperidin increases	
-A-285	vegetables	vegetables	variety	variety	can have entirely different phytonutrient profiles,	
-A-285	phytonutrient	phytonutrient	variety	variety	profiles,	
-A-285	orange	orange	citrus	citrus	kool-aid) versus drinks with two doses of actual	
-A-285	placebo	placebo	orange	orange	drink (like	
-A-285	plant-based	plant-based	dental health	dental health	diets:	
-A-285	fruit	fruit	citrus	citrus	that have been looked at,	
-A-285	oranges	oranges	orange	orange	is always better than drinking	
-A-285	hesperidin	hesperidin	orange	orange	found in two cups of	
-A-285	hesperidin	hesperidin	blood	blood	found in two cups of orange juice,	
-A-285	phytonutrient	phytonutrient	blood	blood	hesperidin increases	
-A-285	citrus	citrus	phytonutrients	phytonutrients	group, demonstrating that citrus	
+A-285	citrus	citrus	risk	risk	may cut our	
+A-285	fruits	fruits	vegetables	vegetables	and	

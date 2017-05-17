@@ -1,37 +1,8 @@
 
-V-60	bacteria	bacteria	gut	gut	in their	
-V-60	cheap	cheap	subsidies	subsidies	junk food everywhere, thanks in part to	
-V-60	environment	environment	subsidies	subsidies	—cheap junk food everywhere, thanks in part to	
-V-60	grains	grains	scope	scope	—could potentially support a wider	
-V-60	white bread	white bread	whole wheat	whole wheat	rolls, versus	
-V-60	whole grains	whole grains	scope	scope	—could potentially support a wider	
-V-60	insulin	insulin	high triglycerides	high triglycerides	resistance (the cause of type 2 diabetes),	
-V-60	health	health	whole grains	whole grains	effects of	
 V-60	junk food	junk food	subsidies	subsidies	everywhere, thanks in part to	
-V-60	diabetes	diabetes	triglycerides	triglycerides	), high	
-V-60	insulin resistance	insulin resistance	triglycerides	triglycerides	(the cause of type 2 diabetes), high	
-V-60	bread	bread	whole wheat	whole wheat	rolls, versus	
-V-60	whole grain	whole grain	barley	barley		
-V-60	white bread	white bread	wheat	wheat	rolls, versus whole	
-V-60	twins	twins	kids	kids	and adopted	
-V-60	environment	environment	cheap	cheap	—	
 V-60	fiber	fiber	whole grains	whole grains	in	
-V-60	whole grain	whole grain	rice	rice	barley, brown	
-V-60	barley	barley	rice	rice	and brown	
-V-60	whole grain	whole grain	brown rice	brown rice	barley,	
-V-60	whole grains	whole grains	body mass index	body mass index	a day tend to have a lower	
-V-60	cheap	cheap	junk food	junk food		
-V-60	grains	grains	body mass index	body mass index	a day tend to have a lower	
-V-60	colon	colon	flora	flora	by our friendly	
-V-60	insulin resistance	insulin resistance	high triglycerides	high triglycerides	(the cause of type 2 diabetes),	
-V-60	insulin resistance	insulin resistance	diabetes	diabetes	(the cause of type 2	
 V-60	barley	barley	brown rice	brown rice	and	
-V-60	gut	gut	bacteria	bacteria		
-V-60	environment	environment	junk food	junk food	—cheap	
+V-60	subsidies	subsidies	addiction	addiction	going to the “’food industrial complex’ which manufactures obesogenic foods that foster	
+V-60	grains	grains	stomach	stomach	helped us is by gelling in our small intestines right off our	
 V-60	fiber	fiber	colon	colon	is broken down in our	
-V-60	bread	bread	wheat	wheat	rolls, versus whole	
-V-60	insulin	insulin	triglycerides	triglycerides	resistance (the cause of type 2 diabetes), high	
-V-60	blood	blood	carbs	carbs	sugars one might get from refined	
-V-60	fiber	fiber	grains	grains	in whole	
-V-60	insulin	insulin	diabetes	diabetes	resistance (the cause of type 2	
-V-60	health	health	grains	grains	effects of whole	
+V-60	whole grains	whole grains	stomach	stomach	helped us is by gelling in our small intestines right off our	

@@ -1,54 +1,9 @@
 
-V-541	health	health	cholesterol	cholesterol	by improving	
-V-541	cheese	cheese	saturated fat	saturated fat	from their diet that they halved their	
-V-541	fat	fat	cholesterol	cholesterol	consumption in half, their	
-V-541	health	health	sugar	sugar	benefits of coca cola, because it has less	
-V-541	cholesterol	cholesterol	risk	risk	—the #1	
-V-541	fat	fat	cholesterol	cholesterol	in half, your	
 V-541	cholesterol	cholesterol	fiber	fiber	will follow—especially if you eat more	
-V-541	cholesterol	cholesterol	vegetable protein	vegetable protein	will follow—especially if you eat more fiber and	
-V-541	health	health	cola	cola	benefits of coca	
-V-541	beef	beef	diet	diet	can be included in a heart-healthy	
-V-541	saturated fat	saturated fat	cholesterol	cholesterol	in half, your	
-V-541	fat	fat	diet	diet	intake—from 12% of their	
-V-541	saturated fat	saturated fat	fat	fat	down to 6% saturated	
-V-541	saturated fat	saturated fat	diet	diet	intake—from 12% of their	
-V-541	sugar	sugar	pepsi	pepsi	than	
-V-541	diet	diet	beef	beef	] provide convincing evidence that lean	
-V-541	beef	beef	chicken	chicken	is often better than	
-V-541	risk	risk	heart disease	heart disease	factor of our #1 killer,	
-V-541	fiber	fiber	vegetable protein	vegetable protein	and	
-V-541	fiber	fiber	protein	protein	and vegetable	
-V-541	beef	beef	nutrition	nutrition	—as was pointed out by the chair of	
-V-541	risk	risk	disease	disease	of dying from heart	
-V-541	fat	fat	saturated fat	saturated fat	down to 6%	
-V-541	health	health	coca cola	coca cola	benefits of	
-V-541	cheese	cheese	cholesterol	cholesterol	intake…lowers…	
-V-541	saturated fat	saturated fat	cholesterol	cholesterol	consumption in half, their	
-V-541	beef	beef	diet	diet	in an optimal lean	
-V-541	tobacco	tobacco	risk	risk	industry tact of not just downplaying the	
-V-541	ldl	ldl	cholesterol	cholesterol	(bad)	
-V-541	fat	fat	beef	beef	levels, lean	
-V-541	diet	diet	saturated fat	saturated fat	goes from 12%	
-V-541	saturated fat	saturated fat	beef	beef	levels, lean	
-V-541	risk	risk	heart disease	heart disease	of dying from	
-V-541	heart health	heart health	cholesterol	cholesterol	by improving	
-V-541	nutrition	nutrition	harvard	harvard	at	
-V-541	chicken	chicken	twinkies	twinkies	(and	
-V-541	fat	fat	cholesterol	cholesterol	and	
-V-541	saturated fat	saturated fat	chicken	chicken	levels, lean beef is often better than	
-V-541	fat	fat	saturated fat	saturated fat	—and then cut that	
-V-541	beef	beef	twinkies	twinkies	is often better than chicken (and	
 V-541	animal fat	animal fat	cholesterol	cholesterol	and	
-V-541	cheese	cheese	diet	diet	from their	
-V-541	fat	fat	chicken	chicken	levels, lean beef is often better than	
-V-541	risk	risk	disease	disease	factor of our #1 killer, heart	
-V-541	cholesterol	cholesterol	heart disease	heart disease	—the #1 risk factor of our #1 killer,	
-V-541	diet	diet	saturated fat	saturated fat	that they halved their	
 V-541	saturated animal fat	saturated animal fat	cholesterol	cholesterol	and	
-V-541	cholesterol	cholesterol	butter	butter	…compared [to]	
-V-541	saturated fat	saturated fat	fat	fat	—and then cut that saturated	
+V-541	beef	beef	chicken	chicken	is often better than	
 V-541	diet	diet	fat	fat	goes from 12% saturated	
-V-541	cheese	cheese	fat	fat	from their diet that they halved their saturated	
-V-541	cheese	cheese	butter	butter	intake…lowers…cholesterol…compared [to]	
-V-541	diet	diet	fat	fat	that they halved their saturated	
+V-541	fat	fat	cholesterol	cholesterol	and	
+V-541	fiber	fiber	vegetable protein	vegetable protein	and	
+V-541	protein	protein	risk	risk	are preferable.the subjects in this study went from a high	

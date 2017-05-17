@@ -1,21 +1,7 @@
 
-V-340	spices	spices	saffron	saffron	such as	
-V-340	americans	americans	drugs	drugs	every year–not overdoses, not medication errors, not illicit	
-V-340	meat	meat	dairy	dairy	and	
-V-340	fruits	fruits	antioxidant	antioxidant	and vegetables?plant-derived foods contain thousands of compounds with	
-V-340	death	death	united states	united states	in the	
-V-340	drugs	drugs	americans	americans	may kill 100,000 	
-V-340	risk	risk	disease	disease	of alzheimer’s	
-V-340	plants	plants	fruits	fruits	—	
-V-340	blueberries	blueberries	strawberries	strawberries	and	
 V-340	fat	fat	sugar	sugar	and	
-V-340	saffron	saffron	vegetables	vegetables	or turmeric.	
-V-340	plants	plants	vegetables	vegetables	—fruits,	
+V-340	meat	meat	dairy	dairy	and	
 V-340	vegetables	vegetables	nuts	nuts	and	
-V-340	spices	spices	vegetables	vegetables	such as saffron or turmeric.	
-V-340	drugs	drugs	diet	diet	outweigh the life-threatening risks.but we’re talking about	
-V-340	blueberries	blueberries	spices	spices	and strawberries, and treating alzheimer’s with	
-V-340	dementia	dementia	prevention	prevention		
-V-340	fat	fat	plant foods	plant foods	and sugar, low in whole	
-V-340	plants	plants	nuts	nuts	—fruits, vegetables and	
+V-340	blueberries	blueberries	strawberries	strawberries	and	
 V-340	diet	diet	exercise	exercise	and	
+V-340	physicians	physicians	treadmill	treadmill	recommend patients not get hit in the head.we should probably chain a thousand people to a	

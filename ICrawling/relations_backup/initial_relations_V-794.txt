@@ -1,8 +1,0 @@
-
-V-794	salmonella	salmonella	poultry	poultry	from raw	
-V-794	meat	meat	chicken	chicken	report, more than 80% of retail	
-V-794	raw	raw	poultry	poultry		
-V-794	chicken	chicken	united states	united states	breasts sold in the	
-V-794	salmonella	salmonella	raw poultry	raw poultry	from	
-V-794	bacteria	bacteria	chicken	chicken	on	
-V-794	salmonella	salmonella	raw	raw	from	

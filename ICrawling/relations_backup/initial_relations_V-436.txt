@@ -1,57 +1,16 @@
 
-V-436	cherries	cherries	disease	disease	on people who actually have a chronic inflammatory	
-V-436	produce	produce	cherries	cherries	appear to work even better.and dietary changes and	
-V-436	uric acid	uric acid	drugs	drugs	-lowering	
-V-436	meat	meat	meats	meats	intake, particularly sardines and organ	
-V-436	pills	pills	produce	produce	and	
-V-436	alcohol	alcohol	meats	meats	and meat intake, particularly sardines and organ	
-V-436	cherries	cherries	risk	risk	on top may decrease	
-V-436	c-reactive protein	c-reactive protein	protein	protein	levels, as well as an inflammatory	
-V-436	cherries	cherries	uric acid	uric acid	may actually lower	
-V-436	meat	meat	organ meats	organ meats	intake, particularly sardines and	
-V-436	arthritis	arthritis	uric acid	uric acid	caused by the crystallization of	
-V-436	gout	gout	risk	risk	attacks, with over half the	
+V-436	women	women	cherries	cherries	were asked to about eat 45	
 V-436	uric acid	uric acid	purines	purines	is a break-down product of	
 V-436	meat	meat	seafood	seafood	and	
 V-436	alcohol	alcohol	meat	meat	and	
-V-436	doctors	doctors	drugs	drugs	are hesitant to prescribe uric acid-lowering	
-V-436	fruit	fruit	uric acid	uric acid	and none significantly lowered	
-V-436	allopurinol	allopurinol	pills	pills	works, but	
-V-436	risk	risk	gout	gout	of a recurrent	
-V-436	doctors	doctors	uric acid	uric acid	are hesitant to prescribe	
-V-436	texas	texas	physicians	physicians	medical journal, observations made by responsible	
-V-436	mushrooms	mushrooms	asparagus	asparagus	and	
-V-436	antioxidant	antioxidant	vitamin c	vitamin c	levels in the blood go up as	
-V-436	meat	meat	sardines	sardines	intake, particularly	
-V-436	alcohol	alcohol	organ meats	organ meats	and meat intake, particularly sardines and	
-V-436	uric acid	uric acid	blood	blood	levels in the	
-V-436	women	women	cherries	cherries	were asked to about eat 45	
-V-436	doctors	doctors	allopurinol	allopurinol	are hesitant to prescribe uric acid-lowering drugs like	
-V-436	nutrition	nutrition	gout	gout	examination survey 2007–2008, the prevalence of	
-V-436	cherries	cherries	risk	risk	—(consumed on a regular basis) the	
-V-436	diet	diet	uric acid	uric acid	—	
+V-436	pills	pills	produce	produce	and	
 V-436	cherries	cherries	gout	gout	helped prevent flares of	
-V-436	uric acid	uric acid	americans	americans	within joints, affecting eight million	
-V-436	diet	diet	purines	purines	—uric acid is a break-down product of	
-V-436	alcohol	alcohol	sardines	sardines	and meat intake, particularly	
+V-436	doctors	doctors	uric acid	uric acid	are hesitant to prescribe	
 V-436	physicians	physicians	gout	gout	suggested that in a dozen patients with	
-V-436	kiwi fruit	kiwi fruit	uric acid	uric acid	and none significantly lowered	
-V-436	uric acid	uric acid	allopurinol	allopurinol	-lowering drugs like	
-V-436	seafood	seafood	risk	risk	from the diet.this may decrease	
-V-436	uric acid	uric acid	gout	gout	levels, supporting a specific anti-	
+V-436	mushrooms	mushrooms	asparagus	asparagus	and	
+V-436	blood	blood	vitamin c	vitamin c	go up as	
+V-436	risk	risk	gout	gout	of	
 V-436	cherries	cherries	doctors	doctors	may be all many patients have, as	
-V-436	gout	gout	arthritis	arthritis	is an excruciatingly painful inflammatory	
 V-436	sardines	sardines	organ meats	organ meats	and	
 V-436	health	health	nutrition	nutrition	and	
-V-436	cherries	cherries	gout	gout	on top may decrease risk of	
-V-436	anti-inflammatory	anti-inflammatory	cherries	cherries	effects of	
-V-436	seafood	seafood	cherries	cherries	from the diet.this may decrease risk, and adding	
-V-436	antioxidant	antioxidant	blood	blood	levels in the	
-V-436	sardines	sardines	meats	meats	and organ	
-V-436	gout	gout	drugs	drugs	effect of cherries.there are some new gout	
-V-436	allopurinol	allopurinol	produce	produce	works, but pills and	
-V-436	meat	meat	risk	risk	and seafood from the diet.this may decrease	
-V-436	blood	blood	vitamin c	vitamin c	go up as	
-V-436	health	health	gout	gout	and nutrition examination survey 2007–2008, the prevalence of	
-V-436	drugs	drugs	allopurinol	allopurinol	like	
-V-436	risk	risk	gout	gout	of	
+V-436	cherries	cherries	uric acid	uric acid	may actually lower	

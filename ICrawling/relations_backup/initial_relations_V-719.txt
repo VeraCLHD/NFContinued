@@ -1,16 +1,4 @@
 
 V-719	vitamin e	vitamin e	nuts	nuts	found in two cups of	
-V-719	meat	meat	paleo diet	paleo diet	-and-potato-chip country?advocates of the so-called	
-V-719	diet	diet	mercury	mercury	while avoiding the risks associated with consuming	
-V-719	diet	diet	health	health	for	
-V-719	plant-based	plant-based	diet	diet		
-V-719	weeds	weeds	fiber	fiber	and eating 100 grams of	
-V-719	public health	public health	diet	diet	policy to promote a plant-rich	
-V-719	health	health	diet	diet	policy to promote a plant-rich	
-V-719	calcium	calcium	greens	greens	found in five cups of collard	
-V-719	vitamin c	vitamin c	vitamin e	vitamin e	found in ten oranges, the amount of	
-V-719	meat	meat	diet	diet	-and-potato-chip country?advocates of the so-called paleo	
-V-719	mercury	mercury	epa	epa	in amounts in excess of the suggested	
-V-719	public health	public health	health	health	policy to promote a plant-rich diet for	
 V-719	calcium	calcium	collard greens	collard greens	found in five cups of	
 V-719	vitamin c	vitamin c	oranges	oranges	found in ten	

@@ -1,70 +1,17 @@
 
-A-381	neu5gc	neu5gc	animal foods	animal foods	from	
-A-381	animal products	animal products	cancer	cancer	may be contributing to the higher rates of	
-A-381	vitamin d	vitamin d	weight gain	weight gain	recommendations, arugula athleticism, why nuts don’t appear to cause expected	
-A-381	cancer	cancer	heart disease	heart disease	and	
-A-381	neu5gc	neu5gc	antibodies	antibodies	as a potential molecular link between diet, autoreactive	
-A-381	meat	meat	neu5gc	neu5gc	to grow i talked about the inflammatory role	
-A-381	plants	plants	inflammation	inflammation	 may also decrease	
-A-381	toxins	toxins	animal products	animal products	originating in the same	
-A-381	breast cancer	breast cancer	inflammation	inflammation	growth, but what about	
-A-381	cancer	cancer	disease	disease	and heart	
-A-381	children	children	toxins	toxins	up for life-threatening reactions to e. coli	
-A-381	fecal bacteria	fecal bacteria	chicken	chicken	survey and 	
-A-381	meat	meat	neu5gc	neu5gc	molecule	
-A-381	inflammatory molecule	inflammatory molecule	neu5gc	neu5gc		
-A-381	rheumatoid arthritis	rheumatoid arthritis	arthritis	arthritis	 and preventing	
-A-381	tumors	tumors	meat	meat	use	
-A-381	neu5gc	neu5gc	children	children	may set	
-A-381	neu5gc	neu5gc	autoreactive antibodies	autoreactive antibodies	as a potential molecular link between diet,	
-A-381	antioxidants	antioxidants	inflammation	inflammation	found predominantly in plants may also decrease	
-A-381	plant-based	plant-based	rheumatoid arthritis	rheumatoid arthritis	diets may help	
-A-381	vegetarian	vegetarian	arthritis	arthritis	diets seem to improve rheumatoid	
-A-381	animal foods	animal foods	vegetarian	vegetarian	may also explain why	
-A-381	bacteria	bacteria	chicken	chicken	survey and 	
-A-381	vitamin d	vitamin d	nuts	nuts	recommendations, arugula athleticism, why 	
-A-381	neu5gc	neu5gc	animal products	animal products	is found in animals and	
+A-381	neu5gc	neu5gc	cancer	cancer	spanned a seven video series (starting with 	
 A-381	meat	meat	dairy	dairy	and	
-A-381	heart disease	heart disease	meat	meat	in those that eat	
+A-381	neu5gc	neu5gc	breast cancer	breast cancer	may play in stimulating	
+A-381	cancer	cancer	heart disease	heart disease	and	
+A-381	rheumatoid arthritis	rheumatoid arthritis	apes	apes	is not present in most other great	
+A-381	toxins	toxins	animal products	animal products	originating in the same	
 A-381	plant-based diets	plant-based diets	rheumatoid arthritis	rheumatoid arthritis	may help	
 A-381	plant-based diets	plant-based diets	arthritis	arthritis	may help rheumatoid	
-A-381	disease	disease	meat	meat	in those that eat	
-A-381	animal products	animal products	nuts	nuts	cause inflammation, changing vitamin d recommendations, arugula athleticism, why 	
+A-381	animal products	animal products	inflammation	inflammation	cause	
 A-381	arthritis	arthritis	apes	apes	is not present in most other great	
-A-381	neu5gc	neu5gc	diet	diet	as a potential molecular link between	
-A-381	cancer	cancer	neu5gc	neu5gc	and heart disease, i close out the	
-A-381	vegetarian	vegetarian	rheumatoid arthritis	rheumatoid arthritis	diets seem to improve	
-A-381	neu5gc	neu5gc	vegetarian	vegetarian	from animal foods may also explain why	
+A-381	kidney failure	kidney failure	children	children	in	
+A-381	animal products	animal products	diet	diet	away, rheumatoid sufferers can feel better within weeks–see 	
+A-381	tumors	tumors	meat	meat	use	
+A-381	neu5gc	neu5gc	children	children	may set	
 A-381	animal products	animal products	neu5gc	neu5gc	called	
 A-381	antioxidants	antioxidants	plants	plants	found predominantly in	
-A-381	children	children	e. coli	e. coli	up for life-threatening reactions to	
-A-381	endotoxins	endotoxins	animal products	animal products	are another reason	
-A-381	cancer	cancer	animal products	animal products	cell growth, why 	
-A-381	neu5gc	neu5gc	breast cancer	breast cancer	may play in stimulating	
-A-381	cancer	cancer	meat	meat	and heart disease in those that eat	
-A-381	cancer	cancer	disease	disease	as an autoimmune	
-A-381	disease	disease	dairy	dairy	in those that eat meat and	
-A-381	heart disease	heart disease	dairy	dairy	in those that eat meat and	
-A-381	e. coli	e. coli	toxins	toxins		
-A-381	women	women	united states	united states	in the	
-A-381	kidney	kidney	children	children	failure in	
-A-381	diet	diet	arthritis	arthritis	& rheumatoid	
-A-381	animal products	animal products	inflammation	inflammation	cause	
-A-381	plant-based	plant-based	arthritis	arthritis	diets may help rheumatoid	
-A-381	cancer	cancer	vitamin d	vitamin d	cell growth, why animal products cause inflammation, changing 	
-A-381	animal products	animal products	diet	diet	away, rheumatoid sufferers can feel better within weeks–see 	
-A-381	inflammatory molecule	inflammatory molecule	vegetarian	vegetarian	neu5gc from animal foods may also explain why	
-A-381	neu5gc	neu5gc	breast cancer	breast cancer	 you can see it stained brown in human	
-A-381	neu5gc	neu5gc	e. coli	e. coli	may set children up for life-threatening reactions to	
-A-381	animal products	animal products	vitamin d	vitamin d	cause inflammation, changing 	
-A-381	neu5gc	neu5gc	cancer	cancer	spanned a seven video series (starting with 	
-A-381	neu5gc	neu5gc	cancer	cancer	may play in stimulating breast	
-A-381	rheumatoid arthritis	rheumatoid arthritis	apes	apes	is not present in most other great	
-A-381	e. coli	e. coli	animal products	animal products	toxins originating in the same	
-A-381	cancer	cancer	inflammation	inflammation	growth, but what about	
-A-381	kidney failure	kidney failure	children	children	in	
-A-381	inflammatory molecule	inflammatory molecule	animal foods	animal foods	neu5gc from	
-A-381	nuts	nuts	weight gain	weight gain	don’t appear to cause expected	
-A-381	neu5gc	neu5gc	tumors	tumors	in human	
-A-381	cancer	cancer	inflammation	inflammation	cell growth, why animal products cause	
-A-381	neu5gc	neu5gc	cancer growth	cancer growth	may play in stimulating breast	

@@ -1,57 +1,10 @@
 
-V-731	death	death	suicide	suicide	—the cancer cell	
-V-731	disease	disease	eggs	eggs	: refined grains, like white bread; also,	
-V-731	death	death	cancer	cancer	—the	
-V-731	diet	diet	prostate	prostate	may have an effect on	
-V-731	bph	bph	symptoms	symptoms		
-V-731	flax	flax	seeds	seeds		
-V-731	phytonutrients	phytonutrients	symptoms	symptoms	not only alleviate bph	
-V-731	diet	diet	cancer	cancer	may have an effect on prostate	
-V-731	risk	risk	grains	grains	for the disease: refined	
-V-731	seeds	seeds	cancer	cancer	also work against prostate	
-V-731	prostate	prostate	cancer	cancer		
-V-731	poultry	poultry	meat	meat	—which appeared even worse than red	
-V-731	prostate enlargement	prostate enlargement	symptoms	symptoms	and lower urinary tract	
-V-731	phytonutrients	phytonutrients	bph	bph	not only alleviate	
-V-731	poultry	poultry	desserts	desserts	—which appeared even worse than red meat or	
-V-731	legumes	legumes	peas	peas	were also found protective:	
-V-731	disease	disease	white bread	white bread	: refined grains, like	
-V-731	meat	meat	fat	fat	and	
-V-731	risk	risk	vegetables	vegetables	: exercise, moderate alcohol consumption, and	
-V-731	alcohol	alcohol	vegetables	vegetables	consumption, and	
-V-731	disease	disease	bread	bread	: refined grains, like white	
-V-731	bph	bph	drugs	drugs	symptoms, but their efficacy appeared comparable to the	
-V-731	flax	flax	bph	bph	phytonutrients not only alleviate	
-V-731	risk	risk	diabetes	diabetes	: obesity,	
-V-731	flax seeds	flax seeds	surgery	surgery	a day for the few weeks before	
-V-731	legumes	legumes	flax	flax	were also found protective: peas, beans, and lentils.and	
-V-731	disease	disease	grains	grains	: refined	
-V-731	risk	risk	bread	bread	for the disease: refined grains, like white	
-V-731	risk	risk	bph	bph	of developing clinical	
-V-731	cancer	cancer	cell death	cell death	proliferation rates, and significantly higher rates of apoptotic	
-V-731	diet	diet	prostate cancer	prostate cancer	may have an effect on	
-V-731	risk	risk	fat	fat	: obesity, diabetes, meat and	
-V-731	cell death	cell death	cancer	cancer	—the	
-V-731	prostate	prostate	symptoms	symptoms	enlargement and lower urinary tract	
-V-731	garlic	garlic	onions	onions	and	
-V-731	flax	flax	phytonutrients	phytonutrients		
-V-731	meat	meat	desserts	desserts	or	
 V-731	red meat	red meat	desserts	desserts	or	
-V-731	risk	risk	meat	meat	: obesity, diabetes,	
 V-731	vegetables	vegetables	raw	raw	appear to work better than	
-V-731	risk	risk	alcohol	alcohol	: exercise, moderate	
-V-731	flax	flax	surgery	surgery	seeds a day for the few weeks before	
-V-731	tumor	tumor	flax	flax	biology between the	
-V-731	flax	flax	prostate cancer	prostate cancer	seed-supplemented, low-fat diet may have an effect on	
-V-731	flax	flax	diet	diet	seed-supplemented, low-fat	
-V-731	risk	risk	white bread	white bread	for the disease: refined grains, like	
-V-731	risk	risk	disease	disease	for the	
-V-731	legumes	legumes	flax seeds	flax seeds	were also found protective: peas, beans, and lentils.and	
-V-731	seeds	seeds	prostate	prostate	also work against	
-V-731	flax	flax	prostate	prostate	seed-supplemented, low-fat diet may have an effect on	
-V-731	seeds	seeds	surgery	surgery	a day for the few weeks before	
-V-731	cell death	cell death	suicide	suicide	—the cancer cell	
-V-731	flax	flax	symptoms	symptoms	phytonutrients not only alleviate bph	
-V-731	seeds	seeds	prostate cancer	prostate cancer	also work against	
-V-731	poultry	poultry	red meat	red meat	—which appeared even worse than	
-V-731	legumes	legumes	beans	beans	were also found protective: peas,	
+V-731	meat	meat	fat	fat	and	
+V-731	diet	diet	prostate	prostate	may have an effect on	
+V-731	cancer	cancer	risk	risk	biology.just a few things have been found associated with significantly increased	
+V-731	garlic	garlic	onions	onions	and	
+V-731	diet	diet	prostate cancer	prostate cancer	may have an effect on	
+V-731	prostate cancer	prostate cancer	risk	risk	biology.just a few things have been found associated with significantly increased	
+V-731	meat	meat	desserts	desserts	or	

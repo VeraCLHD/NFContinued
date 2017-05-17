@@ -1,34 +1,11 @@
 
 T-439	risk	risk	colorectal polyps	colorectal polyps	of	
-T-439	chickpeas	chickpeas	medicine	medicine	have been used in traditional	
-T-439	risk	risk	polyps	polyps	of colorectal	
-T-439	chickpeas	chickpeas	beans	beans	are a legume, also known as garbanzo	
-T-439	blood pressure	blood pressure	diabetes	diabetes	and	
-T-439	prediabetes	prediabetes	metabolic syndrome	metabolic syndrome	known as	
-T-439	anti-inflammatory	anti-inflammatory	iron	iron	and contain an abundance of non-heme	
-T-439	chickpeas	chickpeas	garbanzo beans	garbanzo beans	are a legume, also known as	
-T-439	longevity	longevity	legumes	legumes		
-T-439	blood	blood	diabetes	diabetes	pressure and	
-T-439	chickpeas	chickpeas	anti-inflammatory	anti-inflammatory	are	
-T-439	chickpeas	chickpeas	antioxidant content	antioxidant content	contain five times more the	
-T-439	risk	risk	metabolic syndrome	metabolic syndrome	of the type of prediabetes known as	
-T-439	longevity	longevity	chickpeas	chickpeas	legumes” such as	
-T-439	diet	diet	prediabetes	prediabetes	may reduce risk of the type of	
-T-439	risk	risk	syndrome	syndrome	of the type of prediabetes known as metabolic	
-T-439	antioxidant content	antioxidant content	risk	risk	when sprouted.including chickpeas in one’s diet may reduce	
-T-439	antioxidant	antioxidant	diet	diet	content when sprouted.including chickpeas in one’s	
 T-439	diet	diet	risk	risk	may reduce	
-T-439	medicine	medicine	diabetes	diabetes	to treat high blood pressure and	
-T-439	medicine	medicine	blood	blood	to treat high	
-T-439	chickpeas	chickpeas	antioxidant	antioxidant	contain five times more the	
-T-439	chickpeas	chickpeas	iron	iron	are anti-inflammatory and contain an abundance of non-heme	
-T-439	chickpeas	chickpeas	high blood pressure	high blood pressure	have been used in traditional medicine to treat	
-T-439	medicine	medicine	blood pressure	blood pressure	to treat high	
-T-439	risk	risk	prediabetes	prediabetes	of the type of	
-T-439	medicine	medicine	high blood pressure	high blood pressure	to treat	
+T-439	chickpeas	chickpeas	anti-inflammatory	anti-inflammatory	are	
+T-439	chickpeas	chickpeas	medicine	medicine	have been used in traditional	
+T-439	chickpeas	chickpeas	antioxidant content	antioxidant content	contain five times more the	
 T-439	high blood pressure	high blood pressure	diabetes	diabetes	and	
-T-439	legumes	legumes	chickpeas	chickpeas	” such as	
-T-439	antioxidant	antioxidant	chickpeas	chickpeas	content when sprouted.including	
+T-439	blood pressure	blood pressure	diabetes	diabetes	and	
 T-439	prediabetes	prediabetes	syndrome	syndrome	known as metabolic	
-T-439	antioxidant content	antioxidant content	diet	diet	when sprouted.including chickpeas in one’s	
-T-439	antioxidant content	antioxidant content	chickpeas	chickpeas	when sprouted.including	
+T-439	prediabetes	prediabetes	metabolic syndrome	metabolic syndrome	known as	
+T-439	chickpeas	chickpeas	antioxidant	antioxidant	contain five times more the	

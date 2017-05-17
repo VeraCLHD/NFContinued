@@ -1,5 +1,3 @@
 
-V-797	viruses	viruses	meat	meat	on	
 V-797	maggots	maggots	meat	meat	thrive on rotting	
-V-797	pork	pork	preservation	preservation		
 V-797	meat industry	meat industry	meat	meat	is concerned that consumers might be wary of	

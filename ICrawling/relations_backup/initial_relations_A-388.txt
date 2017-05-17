@@ -1,51 +1,7 @@
 
-A-388	fenugreek	fenugreek	muscle strength	muscle strength	appears to significantly improve	
-A-388	breast cancer	breast cancer	stem cells	stem cells		
-A-388	diet	diet	amla	amla	(like putting 	
-A-388	prostate	prostate	cancer cell growth	cancer cell growth		
-A-388	body odor	body odor	diet	diet		
-A-388	plants	plants	amla	amla	with apparently remarkable benefits include	
-A-388	vegetables	vegetables	juice	juice	starts with doping with beet	
-A-388	vegetables	vegetables	beet juice	beet juice	starts with doping with	
-A-388	diet	diet	cancer cell growth	cancer cell growth	of plants can do to prostate	
-A-388	amla	amla	smoothies	smoothies	 in	
-A-388	broccoli	broccoli	cancer	cancer	(broccoli versus breast	
-A-388	prostate	prostate	cancer	cancer		
-A-388	broccoli	broccoli	breast cancer	breast cancer	(broccoli versus	
-A-388	diet	diet	smoothies	smoothies	(like putting amla in	
-A-388	beet juice	beet juice	juice	juice	 and ends with so should we drink beet	
-A-388	saffron	saffron	treatment	treatment	(saffron for the	
-A-388	juice	juice	beet juice	beet juice	 and ends with so should we drink	
-A-388	fenugreek	fenugreek	antioxidants	antioxidants	in particular in 	
-A-388	broccoli	broccoli	cancer stem cells	cancer stem cells	(broccoli versus breast	
-A-388	diet	diet	cancer	cancer	of plants can do to prostate	
-A-388	mangoes	mangoes	fenugreek	fenugreek	that i sprinkle with	
-A-388	spices	spices	antioxidants	antioxidants	like fenugreek in particular in 	
-A-388	plants	plants	spices	spices	in general in power plants and	
-A-388	plants	plants	cancer cell growth	cancer cell growth	can do to prostate	
-A-388	fenugreek	fenugreek	seeds	seeds		
-A-388	plants	plants	cancer	cancer	can do to prostate	
-A-388	chia	chia	mangoes	mangoes	seed-encrusted dried	
-A-388	broccoli	broccoli	stem cells	stem cells	(broccoli versus breast cancer	
 A-388	fenugreek	fenugreek	beets	beets	may be to strength training what	
-A-388	chia	chia	fenugreek	fenugreek	seed-encrusted dried mangoes that i sprinkle with	
-A-388	fenugreek	fenugreek	maple syrup	maple syrup	seed consumption—it makes your armpits smell like	
-A-388	tea	tea	broccoli	broccoli	plant (dietary brain wave alteration), and humble	
-A-388	amla	amla	diabetes	diabetes	(see, for example, amla versus	
-A-388	saffron	saffron	tea	tea	(saffron for the treatment of alzheimers), the	
-A-388	prostate	prostate	cancer cells	cancer cells		
-A-388	cancer	cancer	stem cells	stem cells		
-A-388	diet	diet	prostate cancer	prostate cancer	of plants can do to	
 A-388	plants	plants	prostate cancer	prostate cancer	can do to	
 A-388	diet	diet	plants	plants	of	
 A-388	plants	plants	prostate	prostate	can do to	
-A-388	plants	plants	fenugreek	fenugreek	in general in power plants and spices like	
-A-388	cancer	cancer	cancer	cancer	cell growth in ex vivo	
-A-388	cancer cell growth	cancer cell growth	cancer	cancer	in ex vivo	
-A-388	amla	amla	saffron	saffron	(see, for example, amla versus diabetes),	
-A-388	diet	diet	prostate	prostate	of plants can do to	
-A-388	treatment	treatment	tea	tea	of alzheimers), the	
-A-388	placebo	placebo	blind	blind	in a double	
-A-388	spices	spices	fenugreek	fenugreek	like	
-A-388	diabetes	diabetes	treatment	treatment	), saffron (saffron for the	
-A-388	prostate cancer	prostate cancer	cancer	cancer	cell growth in ex vivo	
+A-388	fenugreek	fenugreek	prostate	prostate	compared to the effect of the spice on normal	
+A-388	fenugreek	fenugreek	diet	diet	is certainly something i’ve been trying to incorporate more into my family’s	

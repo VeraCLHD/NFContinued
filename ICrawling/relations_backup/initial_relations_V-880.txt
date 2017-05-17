@@ -1,33 +1,10 @@
 
-V-880	vegetables	vegetables	disease	disease	reduce heart	
-V-880	fruits	fruits	heart disease	heart disease	and vegetables reduce	
-V-880	heart disease	heart disease	risk	risk		
-V-880	juice	juice	beverage	beverage		
-V-880	disease	disease	risk	risk		
-V-880	disease	disease	leafy vegetables	leafy vegetables	risk—particularly dark green	
-V-880	nitrate	nitrate	diet	diet	underlies the beneficial effects of a vegetable-rich	
-V-880	blood	blood	exercise	exercise	pressure and increases	
-V-880	risk	risk	leafy vegetables	leafy vegetables	—particularly dark green	
-V-880	juice	juice	nitrate	nitrate	is a lot of	
-V-880	blood pressure	blood pressure	exercise	exercise	and increases	
-V-880	vegetables	vegetables	risk	risk	reduce heart disease	
-V-880	treatment	treatment	disease	disease	of cardiovascular	
-V-880	fruits	fruits	risk	risk	and vegetables reduce heart disease	
-V-880	heart disease	heart disease	vegetables	vegetables	risk—particularly dark green leafy	
-V-880	vegetables	vegetables	leafy vegetables	leafy vegetables	reduce heart disease risk—particularly dark green	
 V-880	vegetables	vegetables	heart disease	heart disease	reduce	
 V-880	pills	pills	angina	angina	work when someone’s having	
+V-880	juice	juice	nitrate	nitrate	is a lot of	
 V-880	beet juice	beet juice	nitrate	nitrate	is a lot of	
-V-880	risk	risk	vegetables	vegetables	—particularly dark green leafy	
+V-880	beets	beets	nitric oxide	nitric oxide	can boost athletic performance may have noticed a term that sounded familiar—	
+V-880	fruits	fruits	vegetables	vegetables	and	
 V-880	treatment	treatment	cardiovascular disease	cardiovascular disease	of	
 V-880	beets	beets	blood pressure	blood pressure	work, no wonder it lowers	
-V-880	fruits	fruits	leafy vegetables	leafy vegetables	and vegetables reduce heart disease risk—particularly dark green	
-V-880	american heart association	american heart association	juice	juice	journal.two cups of beet	
-V-880	heart disease	heart disease	leafy vegetables	leafy vegetables	risk—particularly dark green	
-V-880	exercise	exercise	drugs	drugs	tolerance may obviate the use of expensive	
-V-880	american heart association	american heart association	beet juice	beet juice	journal.two cups of	
-V-880	fruits	fruits	vegetables	vegetables	and	
-V-880	fruits	fruits	disease	disease	and vegetables reduce heart	
-V-880	disease	disease	vegetables	vegetables	risk—particularly dark green leafy	
 V-880	beets	beets	blood	blood	work, no wonder it lowers	
-V-880	drugs	drugs	side effects	side effects	with potentially deleterious	

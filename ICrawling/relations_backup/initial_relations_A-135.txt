@@ -1,59 +1,9 @@
 
-A-135	chronic disease	chronic disease	heart disease	heart disease	conditions including	
-A-135	dark chocolate	dark chocolate	arteries	arteries	consumption,	
-A-135	milk	milk	dark chocolate	dark chocolate	chocolate had the same flavonoid phytonutrient content as	
-A-135	angiogram	angiogram	chocolate	chocolate	found that dark	
-A-135	sugar	sugar	cocoa	cocoa	-free	
-A-135	phytonutrient	phytonutrient	chocolate	chocolate	content as dark	
-A-135	chocolate	chocolate	sugar	sugar	products can contain high levels of fat and	
-A-135	antioxidant	antioxidant	blood	blood	effect of cocoa is potentially weakened in the	
-A-135	milk	milk	chocolate	chocolate		
-A-135	cocoa	cocoa	dutched cocoa	dutched cocoa	powder (or about a tablespoon or more of	
-A-135	milk chocolate	milk chocolate	dark chocolate	dark chocolate	had the same flavonoid phytonutrient content as	
-A-135	antioxidant	antioxidant	chocolate	chocolate	activity of	
-A-135	health	health	chocolate	chocolate	and nutrition, conveniently located near the intersection of	
-A-135	chocolate	chocolate	milk	milk	products are manufactured with	
-A-135	chocolate	chocolate	nutrition	nutrition	manufacturer’s center for health and	
-A-135	sugar	sugar	chocolate	chocolate	in	
-A-135	stomach	stomach	antioxidant	antioxidant	or in the chocolate, inhibits the within-body	
-A-135	soda	soda	sugar	sugar	’s worth of	
-A-135	antioxidants	antioxidants	milk	milk	in dark compared to	
-A-135	chronic disease	chronic disease	disease	disease	conditions including heart	
-A-135	chocolate	chocolate	fat	fat	also contains	
 A-135	fat	fat	sugar	sugar	and	
-A-135	phytonutrient	phytonutrient	dark chocolate	dark chocolate	content as	
-A-135	antioxidant	antioxidant	cocoa	cocoa	effect of	
-A-135	chocolate	chocolate	arteries	arteries	consumption,	
-A-135	cocoa	cocoa	blood	blood	is potentially weakened in the	
-A-135	chocolate	chocolate	phytonutrient	phytonutrient	had the same flavonoid	
-A-135	antioxidants	antioxidants	milk chocolate	milk chocolate	in dark compared to	
-A-135	milk	milk	phytonutrient	phytonutrient	chocolate had the same flavonoid	
-A-135	angiogram	angiogram	dark chocolate	dark chocolate	found that	
-A-135	fat	fat	cocoa	cocoa	and sugar, the	
-A-135	chocolate	chocolate	fat	fat	products can contain high levels of	
-A-135	chocolate	chocolate	arteries	arteries	actually opens up coronary	
-A-135	chocolate	chocolate	milk	milk	with a cup of	
-A-135	stomach	stomach	chocolate	chocolate	or in the	
-A-135	antioxidant	antioxidant	blood	blood	capacity in our	
-A-135	milk chocolate	milk chocolate	chocolate	chocolate	had the same flavonoid phytonutrient content as dark	
-A-135	milk chocolate	milk chocolate	phytonutrient	phytonutrient	had the same flavonoid	
-A-135	chocolate	chocolate	ice cream	ice cream	milkshake recipe, and my healthy chocolate	
-A-135	health	health	nutrition	nutrition	and	
-A-135	dark chocolate	dark chocolate	milk	milk	with a cup of	
-A-135	chocolate	chocolate	sugar	sugar	also contains fat and	
 A-135	sugar	sugar	fat	fat	or	
-A-135	antioxidants	antioxidants	chocolate	chocolate	in dark compared to milk	
-A-135	nutrition	nutrition	academy of nutrition and dietetics	academy of nutrition and dietetics	research in	
-A-135	cocoa	cocoa	milk	milk	is potentially weakened in the blood when	
-A-135	phytonutrient	phytonutrient	cocoa	cocoa	content as dark chocolate, the antioxidant effect of	
-A-135	disease	disease	heart disease	heart disease	conditions including	
-A-135	sugar	sugar	cocoa	cocoa	appears to amplify the beneficial effects of	
-A-135	dark chocolate	dark chocolate	arteries	arteries	actually opens up coronary	
-A-135	chocolate	chocolate	cream	cream	milkshake recipe, and my healthy chocolate ice	
-A-135	angiogram	angiogram	arteries	arteries	found that dark chocolate actually opens up coronary	
-A-135	phytonutrient	phytonutrient	antioxidant	antioxidant	content as dark chocolate, the	
+A-135	angiogram	angiogram	chocolate	chocolate	found that dark	
+A-135	angiogram	angiogram	dark chocolate	dark chocolate	found that	
+A-135	sugar	sugar	chocolate	chocolate	in	
 A-135	chocolate	chocolate	cocoa	cocoa	and	
-A-135	chocolate	chocolate	health	health	manufacturer’s center for	
-A-135	arteries	arteries	angiogram	angiogram	of the heart—is that it would require an	
-A-135	chocolate	chocolate	dark chocolate	dark chocolate	had the same flavonoid phytonutrient content as	
-A-135	blood	blood	milk	milk	when	
+A-135	cocoa	cocoa	blood	blood	is potentially weakened in the	
+A-135	health	health	nutrition	nutrition	and	

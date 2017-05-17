@@ -1,55 +1,8 @@
 
-V-740	daniel fast	daniel fast	stress	stress	on both biomarkers of antioxidant status and oxidative	
-V-740	disease	disease	diet	diet	risk.no surprise that a	
-V-740	diet	diet	plant foods	plant foods	composed of whole	
-V-740	daniel	daniel	oxidative stress	oxidative stress	fast on both biomarkers of antioxidant status and	
-V-740	oxidative stress	oxidative stress	antioxidant	antioxidant	and	
-V-740	insulin	insulin	insulin resistance	insulin resistance	levels,	
-V-740	animal products	animal products	grains	grains	and preservatives, and inclusive of fruits, vegetables, whole	
-V-740	disease	disease	risk	risk		
-V-740	daniel fast	daniel fast	antioxidant	antioxidant	on both biomarkers of	
-V-740	animal products	animal products	preservatives	preservatives	and	
-V-740	daniel	daniel	vegan	vegan	fast, they had called it a “strict	
-V-740	diet	diet	preservatives	preservatives	“devoid of animal products and	
-V-740	risk	risk	diet	diet	.no surprise that a	
-V-740	biomarkers	biomarkers	oxidative stress	oxidative stress	of antioxidant status and	
-V-740	diet	diet	animal products	animal products	“devoid of	
-V-740	cardiovascular disease	cardiovascular disease	plant foods	plant foods	risk.no surprise that a diet composed of whole	
-V-740	insulin	insulin	c-reactive protein	c-reactive protein	levels, insulin resistance, and	
-V-740	stress	stress	antioxidant	antioxidant	and	
-V-740	daniel	daniel	diet	diet	fast, they had called it a “strict vegan	
-V-740	plant-based diets	plant-based diets	diet	diet	by documenting the impact of a strict vegan	
-V-740	plant foods	plant foods	disease	disease	improves several risk factors for metabolic and cardiovascular	
-V-740	diet	diet	stress	stress	on multiple measures of oxidative	
-V-740	daniel	daniel	biomarkers	biomarkers	fast on both	
-V-740	diet	diet	oxidative stress	oxidative stress	on multiple measures of	
-V-740	diet	diet	antioxidant	antioxidant	on multiple measures of oxidative stress and	
-V-740	plant foods	plant foods	cardiovascular disease	cardiovascular disease	improves several risk factors for metabolic and	
-V-740	daniel fast	daniel fast	oxidative stress	oxidative stress	on both biomarkers of antioxidant status and	
-V-740	antioxidant	antioxidant	oxidative stress	oxidative stress	status and	
-V-740	animal products	animal products	vegetables	vegetables	and preservatives, and inclusive of fruits,	
-V-740	plant-based	plant-based	vegan	vegan	diets by documenting the impact of a strict	
-V-740	insulin	insulin	protein	protein	levels, insulin resistance, and c-reactive	
-V-740	cardiovascular disease	cardiovascular disease	risk	risk		
-V-740	daniel	daniel	antioxidant	antioxidant	fast on both biomarkers of	
 V-740	biomarkers	biomarkers	antioxidant	antioxidant	of	
-V-740	blood	blood	insulin resistance	insulin resistance	pressure, cholesterol, insulin levels,	
-V-740	disease	disease	plant foods	plant foods	risk.no surprise that a diet composed of whole	
+V-740	animal products	animal products	preservatives	preservatives	and	
+V-740	diet	diet	plant foods	plant foods	composed of whole	
+V-740	daniel	daniel	vegan	vegan	fast, they had called it a “strict	
 V-740	plant foods	plant foods	risk	risk	improves several	
-V-740	animal products	animal products	fruits	fruits	and preservatives, and inclusive of	
-V-740	diet	diet	risk	risk	composed of whole plant foods improves several	
-V-740	blood	blood	insulin	insulin	pressure, cholesterol,	
-V-740	vegan	vegan	oxidative stress	oxidative stress	diet on multiple measures of	
-V-740	daniel fast	daniel fast	biomarkers	biomarkers	on both	
-V-740	animal products	animal products	whole grains	whole grains	and preservatives, and inclusive of fruits, vegetables,	
-V-740	vegan	vegan	stress	stress	diet on multiple measures of oxidative	
-V-740	plant-based diets	plant-based diets	vegan	vegan	by documenting the impact of a strict	
-V-740	risk	risk	plant foods	plant foods	.no surprise that a diet composed of whole	
-V-740	blood	blood	protein	protein	pressure, cholesterol, insulin levels, insulin resistance, and c-reactive	
-V-740	antioxidant	antioxidant	stress	stress	status and oxidative	
-V-740	blood	blood	c-reactive protein	c-reactive protein	pressure, cholesterol, insulin levels, insulin resistance, and	
-V-740	blood	blood	cholesterol	cholesterol	pressure,	
-V-740	vegan	vegan	diet	diet		
-V-740	cardiovascular disease	cardiovascular disease	diet	diet	risk.no surprise that a	
-V-740	biomarkers	biomarkers	stress	stress	of antioxidant status and oxidative	
-V-740	vegan	vegan	antioxidant	antioxidant	diet on multiple measures of oxidative stress and	
+V-740	stress	stress	antioxidant	antioxidant	and	
+V-740	oxidative stress	oxidative stress	antioxidant	antioxidant	and	

@@ -1,16 +1,6 @@
 
-V-262	hydration	hydration	disease	disease	may lower our risk of heart	
 V-262	hydration	hydration	risk	risk	may lower our	
-V-262	mood	mood	water	water	states may also be positively influenced by	
-V-262	skin	skin	women	women	against the lips of young	
-V-262	disease	disease	cancer	cancer	and	
-V-262	dehydration	dehydration	variety	variety	on a	
-V-262	risk	risk	disease	disease	of heart	
-V-262	water	water	diet	diet	is by far the #1 nutrient in our	
-V-262	hydration	hydration	cancer	cancer	may lower our risk of heart disease and	
-V-262	risk	risk	heart disease	heart disease	of	
-V-262	cold	cold	water	water		
 V-262	heart disease	heart disease	cancer	cancer	and	
-V-262	risk	risk	cancer	cancer	of heart disease and	
-V-262	water	water	dehydration	dehydration	consumption.the effects of	
-V-262	hydration	hydration	heart disease	heart disease	may lower our risk of	
+V-262	disease	disease	cancer	cancer	and	
+V-262	water	water	diet	diet	is by far the #1 nutrient in our	
+V-262	risk	risk	heart disease	heart disease	of	

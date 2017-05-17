@@ -1,5 +1,2 @@
 
 V-810	mercury	mercury	fish	fish	in	
-V-810	world health organization	world health organization	mercury	mercury	started to realize how dangerous	
-V-810	mercury	mercury	kids	kids	the	
-V-810	health	health	mercury	mercury	organization started to realize how dangerous	

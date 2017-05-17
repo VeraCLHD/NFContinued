@@ -1,70 +1,11 @@
 
-V-300	animal proteins	animal proteins	amino acids	amino acids	tend to have more sulfur-containing	
-V-300	egg	egg	sulfur	sulfur	gas can also be generated from inorganic	
-V-300	protein	protein	metabolism	metabolism		
-V-300	sulfur	sulfur	organic	organic	additives by reading labels or by just choosing	
-V-300	amino acids	amino acids	hydrogen sulfide	hydrogen sulfide	like methionine, which can be turned into	
-V-300	inflammatory bowel disease	inflammatory bowel disease	plant-based diets	plant-based diets	among those eating traditional whole food	
-V-300	colon	colon	gas	gas	–the rotten egg	
-V-300	cabbage	cabbage	vegetables	vegetables	family	
-V-300	women	women	vegetables	vegetables	for over 25 years, cruciferous	
-V-300	raw	raw	cold	cold	oatmeal, and	
 V-300	protein	protein	plants	plants	in	
-V-300	sulfur	sulfur	egg	egg	-containing proteins, rotten	
-V-300	vegetables	vegetables	sulfur	sulfur	naturally have some	
-V-300	animal protein	animal protein	standard american diet	standard american diet	and preservative-laden processed foods, the	
-V-300	egg	egg	gas	gas		
-V-300	protein	protein	digestion	digestion	per day can escape	
-V-300	bacteria	bacteria	peas	peas	down in our colon–foods such as cooked beans,	
-V-300	colon	colon	beans	beans	–foods such as cooked	
-V-300	resistant starch	resistant starch	digestion	digestion	—starch resistant to small intestine	
-V-300	preservatives	preservatives	sulfur	sulfur	like sulfites and	
-V-300	disease	disease	plant-based	plant-based	among those eating traditional whole food	
-V-300	animal protein	animal protein	diet	diet	and preservative-laden processed foods, the standard american	
-V-300	bacteria	bacteria	fiber	fiber	make from the	
-V-300	fiber	fiber	colon	colon	and resistant starches that reach our	
+V-300	hydrogen sulfide	hydrogen sulfide	colon	colon	appear to be mediated through blocking the ability of our	
 V-300	fruits	fruits	beverages	beverages	and	
-V-300	inflammatory bowel disease	inflammatory bowel disease	plant-based	plant-based	among those eating traditional whole food	
-V-300	protein	protein	processed foods	processed foods	and preservative-laden	
-V-300	short-chain fatty acids	short-chain fatty acids	protein	protein	like butyrate, whereas	
-V-300	bacteria	bacteria	beans	beans	down in our colon–foods such as cooked	
-V-300	colon	colon	lentils	lentils	–foods such as cooked beans, peas,	
-V-300	cancer	cancer	ulcerative colitis	ulcerative colitis	and	
-V-300	colon	colon	raw	raw	–foods such as cooked beans, peas, lentils,	
-V-300	amino acids	amino acids	methionine	methionine	like	
-V-300	colon	colon	peas	peas	–foods such as cooked beans,	
-V-300	short-chain fatty acids	short-chain fatty acids	butyrate	butyrate	like	
-V-300	hydrogen sulfide	hydrogen sulfide	colon	colon	in our	
-V-300	sulfur	sulfur	women	women	compounds, but thankfully, after following more than 100,000 	
-V-300	animal proteins	animal proteins	methionine	methionine	tend to have more sulfur-containing amino acids like	
-V-300	colon	colon	egg	egg	–the rotten	
-V-300	hydrogen sulfide	hydrogen sulfide	gas	gas	in our colon–the rotten egg	
-V-300	women	women	cruciferous vegetables	cruciferous vegetables	for over 25 years,	
-V-300	sulfur	sulfur	diet	diet	than a	
-V-300	animal protein	animal protein	processed foods	processed foods	and preservative-laden	
-V-300	disease	disease	plant-based diets	plant-based diets	among those eating traditional whole food	
-V-300	protein	protein	diet	diet	and preservative-laden processed foods, the standard american	
-V-300	gas	gas	sulfur	sulfur	can also be generated from inorganic	
 V-300	standard american diet	standard american diet	sulfur	sulfur	may have five or six times more	
-V-300	ulcerative colitis	ulcerative colitis	protein	protein	lower down, because that’s where the	
-V-300	digestion	digestion	bacteria	bacteria	so it can feed our good	
-V-300	raw	raw	pasta	pasta	oatmeal, and cold	
-V-300	meat	meat	colon	colon	can actually end up putrefying in our	
-V-300	protein	protein	colon	colon	in the	
-V-300	protein	protein	standard american diet	standard american diet	and preservative-laden processed foods, the	
-V-300	colon	colon	protein	protein	between the bad metabolites of	
-V-300	cabbage	cabbage	sulfur	sulfur	family vegetables naturally have some	
-V-300	gas	gas	preservatives	preservatives	can also be generated from inorganic sulfur	
 V-300	sulfites	sulfites	sulfur	sulfur	and	
 V-300	diet	diet	sulfur	sulfur	may have five or six times more	
-V-300	preservatives	preservatives	sulfites	sulfites	like	
-V-300	colon	colon	hydrogen sulfide	hydrogen sulfide	between the bad metabolites of protein,	
-V-300	bacteria	bacteria	colon	colon	down in our	
-V-300	hydrogen sulfide	hydrogen sulfide	egg	egg	in our colon–the rotten	
-V-300	sulfur	sulfur	gas	gas	-containing proteins, rotten egg	
-V-300	egg	egg	preservatives	preservatives	gas can also be generated from inorganic sulfur	
-V-300	raw	raw	oatmeal	oatmeal		
-V-300	colon	colon	meat	meat	is called putrefaction, so a little	
 V-300	colorectal cancer	colorectal cancer	ulcerative colitis	ulcerative colitis	and	
-V-300	colon	colon	oatmeal	oatmeal	–foods such as cooked beans, peas, lentils, raw	
-V-300	cold	cold	pasta	pasta		
+V-300	cancer	cancer	ulcerative colitis	ulcerative colitis	and	
+V-300	meat	meat	colon	colon	can actually end up putrefying in our	
+V-300	bacteria	bacteria	fiber	fiber	make from the	

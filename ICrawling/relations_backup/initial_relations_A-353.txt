@@ -1,44 +1,11 @@
 
-A-353	pcbs	pcbs	brain damage	brain damage	found in the brain, the worse the	
 A-353	united states	united states	neurotoxic chemicals	neurotoxic chemicals	are contaminated with	
-A-353	pollutants	pollutants	brains	brains	in the	
-A-353	risk	risk	dairy	dairy	of developing parkinson’s disease: increase exercise, and avoid	
-A-353	dairy	dairy	disease	disease	products and parkinson’s	
+A-353	pcbs	pcbs	plant-based	plant-based	138, 153, and 180, all of which are significantly lower in the bodies of those eating	
 A-353	tetrahydroisoquinoline	tetrahydroisoquinoline	cheese	cheese	is one such parkinsonism-related toxin found predominantly in	
-A-353	dairy	dairy	pesticides	pesticides	products,	
-A-353	united states	united states	chemicals	chemicals	are contaminated with neurotoxic	
-A-353	pollutants	pollutants	disease	disease	in the brains of parkinson’s	
-A-353	dairy	dairy	head trauma	head trauma	products, pesticides, and	
-A-353	industrial pollutants	industrial pollutants	vegans	vegans	in	
-A-353	disease	disease	toxins	toxins	patients, and some of these	
-A-353	risk	risk	disease	disease	of developing parkinson’s	
-A-353	plant-based	plant-based	vegans	vegans	diets (see industrial pollutants in	
-A-353	risk	risk	exercise	exercise	of developing parkinson’s disease: increase	
-A-353	dairy	dairy	risk	risk	products and parkinson’s disease found an increased	
-A-353	plant-based diets	plant-based diets	pollutants	pollutants	(see industrial	
-A-353	dairy	dairy	neurotoxic chemicals	neurotoxic chemicals	products in the united states are contaminated with	
 A-353	pollutants	pollutants	vegans	vegans	in	
-A-353	vegan	vegan	disease	disease	diet reduce the risk of parkinson’s	
-A-353	disease	disease	pesticides	pesticides	: increase exercise, and avoid dairy products,	
-A-353	plant-based	plant-based	pollutants	pollutants	diets (see industrial	
-A-353	diet	diet	disease	disease	reduce the risk of parkinson’s	
-A-353	brains	brains	monsanto	monsanto	of parkinson’s victims of certain pcbs found in	
+A-353	united states	united states	chemicals	chemicals	are contaminated with neurotoxic	
+A-353	toxins	toxins	dairy	dairy	are present at low levels in	
+A-353	pcbs	pcbs	plant-based diets	plant-based diets	138, 153, and 180, all of which are significantly lower in the bodies of those eating	
+A-353	industrial pollutants	industrial pollutants	vegans	vegans	in	
 A-353	pcbs	pcbs	monsanto	monsanto	found in	
 A-353	diet	diet	risk	risk	reduce the	
-A-353	plant-based diets	plant-based diets	industrial pollutants	industrial pollutants	(see	
-A-353	brains	brains	disease	disease	of parkinson’s	
-A-353	pesticides	pesticides	pollutants	pollutants	and other industrial	
-A-353	dairy	dairy	united states	united states	products in the	
-A-353	plant-based diets	plant-based diets	vegans	vegans	(see industrial pollutants in	
-A-353	risk	risk	disease	disease	of parkinson’s	
-A-353	toxins	toxins	dairy	dairy	are present at low levels in	
-A-353	vegan	vegan	risk	risk	diet reduce the	
-A-353	diet	diet	dairy	dairy	you’ll see that every prospective study looking at	
-A-353	disease	disease	dairy	dairy	: increase exercise, and avoid	
-A-353	pesticides	pesticides	industrial pollutants	industrial pollutants	and other	
-A-353	plant-based	plant-based	industrial pollutants	industrial pollutants	diets (see	
-A-353	disease	disease	exercise	exercise	: increase	
-A-353	vegan	vegan	diet	diet		
-A-353	brains	brains	toxins	toxins	of parkinson’s disease patients, and some of these	
-A-353	disease	disease	diet	diet	with	
-A-353	brains	brains	pcbs	pcbs	of parkinson’s victims of certain	

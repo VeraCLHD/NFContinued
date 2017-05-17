@@ -1,45 +1,4 @@
 
-T-1012	seaweed	seaweed	nori	nori		
-T-1012	nori	nori	risk	risk	may reduce breast cancer	
-T-1012	thyroid	thyroid	dulse	dulse	’s absorption of iodine.sea vegetables such as nori,	
-T-1012	thyroid	thyroid	iodine	iodine	’s absorption of	
-T-1012	risk	risk	iodine	iodine	for	
-T-1012	kelp	kelp	sausages	sausages	(kombu), paddleweed, or thyroid-containing	
-T-1012	lead	lead	iodine	iodine	to	
-T-1012	thyroid	thyroid	iodine	iodine	with	
-T-1012	pregnant	pregnant	vegans	vegans		
-T-1012	kombu	kombu	sausages	sausages	), paddleweed, or thyroid-containing	
-T-1012	seaweed	seaweed	wakame	wakame	nori may reduce breast cancer risk, while	
-T-1012	seaweed	seaweed	breast cancer	breast cancer	nori may reduce	
-T-1012	cancer	cancer	risk	risk		
-T-1012	raw	raw	vegetables	vegetables	cruciferous	
-T-1012	thyroid	thyroid	vegetables	vegetables	’s absorption of iodine.sea	
-T-1012	gargling	gargling	betadine	betadine	with iodine solutions like	
-T-1012	pregnant	pregnant	risk	risk	vegans, are at	
-T-1012	kombu	kombu	lead	lead	), paddleweed, or thyroid-containing sausages, however, may	
-T-1012	breast cancer	breast cancer	risk	risk		
-T-1012	nori	nori	cancer	cancer	may reduce breast	
-T-1012	thyroid	thyroid	gargling	gargling	with iodine is by not	
-T-1012	iodine	iodine	gargling	gargling	is by not	
-T-1012	risk	risk	thyroid	thyroid	of overloading the	
-T-1012	breast cancer	breast cancer	blood	blood	risk, while wakame may help those with high	
-T-1012	risk	risk	iodine	iodine	of overloading the thyroid with	
-T-1012	raw	raw	thyroid	thyroid	cruciferous vegetables, as this may block the	
 T-1012	nori	nori	breast cancer	breast cancer	may reduce	
-T-1012	gargling	gargling	iodine	iodine	with	
-T-1012	iodine	iodine	betadine	betadine	is by not gargling with iodine solutions like	
-T-1012	blood	blood	kombu	kombu	pressure.excessive intake of kelp (	
-T-1012	pregnant	pregnant	iodine	iodine	vegans, are at risk for	
-T-1012	iodine	iodine	vegetables	vegetables	.sea	
-T-1012	thyroid	thyroid	nori	nori	’s absorption of iodine.sea vegetables such as	
-T-1012	nori	nori	wakame	wakame	may reduce breast cancer risk, while	
-T-1012	blood	blood	sausages	sausages	pressure.excessive intake of kelp (kombu), paddleweed, or thyroid-containing	
-T-1012	breast cancer	breast cancer	wakame	wakame	risk, while	
-T-1012	raw	raw	cruciferous vegetables	cruciferous vegetables		
-T-1012	cancer	cancer	wakame	wakame	risk, while	
-T-1012	kelp	kelp	lead	lead	(kombu), paddleweed, or thyroid-containing sausages, however, may	
-T-1012	seaweed	seaweed	cancer	cancer	nori may reduce breast	
-T-1012	blood	blood	kelp	kelp	pressure.excessive intake of	
+T-1012	iodine	iodine	gargling	gargling	is by not	
 T-1012	wakame	wakame	blood	blood	may help those with high	
-T-1012	seaweed	seaweed	risk	risk	nori may reduce breast cancer	
-T-1012	cancer	cancer	blood	blood	risk, while wakame may help those with high	

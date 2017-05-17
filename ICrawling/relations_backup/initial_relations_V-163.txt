@@ -1,65 +1,16 @@
 
-V-163	ulcerative colitis	ulcerative colitis	disease	disease	and crohn’s	
-V-163	calories	calories	sugar	sugar	or spikes in blood	
-V-163	sugar	sugar	calories	calories	substitute to provide a sweet taste without the	
-V-163	aspartame	aspartame	formaldehyde	formaldehyde	is metabolized into	
-V-163	sweeteners	sweeteners	splenda	splenda	in sweet & low,	
-V-163	calories	calories	blood sugar	blood sugar	or spikes in	
-V-163	risk	risk	metabolic syndrome	metabolic syndrome	of developing obesity,	
-V-163	insulin	insulin	blood	blood	- 20% higher insulin levels in the	
-V-163	sweeteners	sweeteners	chronic diseases	chronic diseases	were meant to stave off	
-V-163	sugar	sugar	corn	corn	and high fructose	
-V-163	splenda	splenda	sucralose	sucralose	company emphasizes that	
-V-163	aspartame	aspartame	gut	gut	here—are sufficient to cause substantial changes in	
-V-163	gut	gut	ulcerative colitis	ulcerative colitis	bacteria, such as inflammatory bowel diseases, like	
-V-163	sweeteners	sweeteners	nutrasweet	nutrasweet	in sweet & low, splenda, and	
-V-163	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
-V-163	sweeteners	sweeteners	gut	gut	may be affecting their	
-V-163	sweeteners	sweeteners	gut bacteria	gut bacteria	and the	
-V-163	artificial sweeteners	artificial sweeteners	gut bacteria	gut bacteria	and the	
-V-163	fructose	fructose	corn syrup	corn syrup		
-V-163	diet	diet	sugar	sugar	soda, they get a significantly higher blood	
-V-163	calories	calories	blood	blood	or spikes in	
-V-163	artificial sweeteners	artificial sweeteners	gut	gut	may be affecting their	
-V-163	diet	diet	risk	risk	sodas, with increased	
-V-163	diet	diet	soda	soda		
-V-163	diet	diet	blood sugar	blood sugar	soda, they get a significantly higher	
-V-163	fructose	fructose	corn	corn		
-V-163	risk	risk	obesity	obesity	of developing	
-V-163	sucralose	sucralose	diet soda	diet soda	found in like a can of	
-V-163	artificial sweeteners	artificial sweeteners	splenda	splenda	in sweet & low,	
-V-163	sweeteners	sweeteners	gut	gut	and the	
-V-163	artificial sweeteners	artificial sweeteners	chronic diseases	chronic diseases	were meant to stave off	
-V-163	diet	diet	blood	blood	soda, they get a significantly higher	
-V-163	artificial sweeteners	artificial sweeteners	nutrasweet	nutrasweet	in sweet & low, splenda, and	
-V-163	sugar	sugar	fructose	fructose	and high	
-V-163	sweetener	sweetener	aspartame	aspartame	—they’re talking about	
-V-163	fda	fda	sucralose	sucralose	approved the artificial sweetener	
-V-163	diet	diet	syndrome	syndrome	sodas, with increased risk of developing obesity, metabolic	
-V-163	gut	gut	flora	flora		
-V-163	sweetener	sweetener	diabetes	diabetes	consumption and the development of	
-V-163	risk	risk	diabetes	diabetes	of developing obesity, metabolic syndrome, and type 2	
-V-163	blood	blood	insulin	insulin	- suggesting sucralose causes	
+V-163	sweeteners	sweeteners	sugar	sugar	should not be interpreted to suggest that we should all go back to	
 V-163	aspartame	aspartame	health	health	can cause adverse	
-V-163	risk	risk	syndrome	syndrome	of developing obesity, metabolic	
-V-163	blood sugar	blood sugar	sugar	sugar	spike in response to a	
-V-163	artificial sweeteners	artificial sweeteners	bacteria	bacteria	and the gut	
-V-163	bacteria	bacteria	gut	gut	they had in their	
-V-163	artificial sweeteners	artificial sweeteners	gut	gut	and the	
-V-163	sweetener	sweetener	sucralose	sucralose		
+V-163	sweeteners	sweeteners	gut	gut	may be affecting their	
+V-163	aspartame	aspartame	formaldehyde	formaldehyde	is metabolized into	
+V-163	sucralose	sucralose	diet soda	diet soda	found in like a can of	
+V-163	sweeteners	sweeteners	chronic diseases	chronic diseases	were meant to stave off	
 V-163	sucralose	sucralose	insulin	insulin	causes	
+V-163	artificial sweeteners	artificial sweeteners	chronic diseases	chronic diseases	were meant to stave off	
 V-163	fda	fda	sweetener	sweetener	approved the artificial	
-V-163	sweetener	sweetener	heart disease	heart disease	consumption and the development of diabetes,	
-V-163	gut	gut	sweetener	sweetener	.acesulfame k, another common artificial	
-V-163	sweetener	sweetener	disease	disease	consumption and the development of diabetes, heart	
-V-163	sweeteners	sweeteners	bacteria	bacteria	and the gut	
-V-163	risk	risk	health	health	there may be against its broader	
-V-163	gut	gut	bacteria	bacteria		
-V-163	diet	diet	obesity	obesity	sodas, with increased risk of developing	
-V-163	sugar	sugar	corn syrup	corn syrup	and high fructose	
-V-163	glucose	glucose	gut	gut	intolerance by altering the microbes in the	
+V-163	canada	canada	sucralose	sucralose	was the first country to approve the use of	
+V-163	artificial sweeteners	artificial sweeteners	sugar	sugar	should not be interpreted to suggest that we should all go back to	
+V-163	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
 V-163	sucralose	sucralose	risk	risk	replied that you have to weigh whatever	
-V-163	sucralose	sucralose	soda	soda	found in like a can of diet	
+V-163	artificial sweeteners	artificial sweeteners	gut	gut	may be affecting their	
 V-163	sucralose	sucralose	diet	diet	found in like a can of	
-V-163	diet	diet	metabolic syndrome	metabolic syndrome	sodas, with increased risk of developing obesity,	
-V-163	blood	blood	sugar	sugar		

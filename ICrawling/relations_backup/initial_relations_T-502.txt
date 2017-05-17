@@ -1,78 +1,20 @@
 
-T-502	homeopathy	homeopathy	cancer	cancer	is ineffective in treating adhd, asthma,	
-T-502	herbal	herbal	tea	tea	teas, dandelion	
-T-502	coconut oil	coconut oil	head lice	head lice	emulsion shampoo works better to kill	
-T-502	green tea	green tea	antioxidant	antioxidant	has among the highest	
-T-502	herbalife	herbalife	supplements	supplements	®	
-T-502	flax	flax	cancer	cancer	may help prevent breast	
-T-502	liver	liver	supplements	supplements	oil, and herbalife®	
-T-502	cancer	cancer	cold	cold	and even the common	
-T-502	flax	flax	breast cancer	breast cancer	may help prevent	
-T-502	treatment	treatment	infections	infections	for sinus	
-T-502	saffron	saffron	placebo	placebo	has been found to work better than a	
-T-502	pain	pain	rheumatoid arthritis	rheumatoid arthritis	associated with both osteoarthritis and	
-T-502	hyperactivity	hyperactivity	children	children	in	
-T-502	treatment	treatment	disease	disease	of alzheimer’s	
-T-502	blue-green algae	blue-green algae	supplements	supplements		
-T-502	cancer	cancer	common cold	common cold	and even the	
-T-502	liver	liver	herbalife	herbalife	oil, and	
-T-502	chlorella	chlorella	spirulina	spirulina	do not contain neurotoxins,	
-T-502	infections	infections	water	water	but should be sterilized between uses (with boiling	
-T-502	homeopathy	homeopathy	dementia	dementia	is ineffective in treating adhd, asthma, cancer,	
-T-502	osteoarthritis	osteoarthritis	arthritis	arthritis	and rheumatoid	
-T-502	infections	infections	boiling	boiling	but should be sterilized between uses (with	
-T-502	pain	pain	osteoarthritis	osteoarthritis	associated with both	
-T-502	antioxidant	antioxidant	cancer	cancer	levels and may help prevent	
-T-502	mangosteen	mangosteen	juice	juice		
-T-502	chlorella	chlorella	algae	algae	do not contain neurotoxins, spirulina and blue-green	
-T-502	flax	flax	blood	blood	may help prevent breast cancer, reduce cholesterol, reduce	
-T-502	blood	blood	blood sugar	blood sugar	pressure, regulate	
-T-502	treatment	treatment	saffron	saffron	of alzheimer’s disease, for example, the spice	
-T-502	indian gooseberries	indian gooseberries	cancer	cancer	may be effective in preventing	
-T-502	medicine	medicine	lead	lead	has been found to be contaminated with	
-T-502	liver	liver	health	health	oil, and herbalife® supplements may all have adverse	
-T-502	homeopathy	homeopathy	asthma	asthma	is ineffective in treating adhd,	
-T-502	tea	tea	antioxidant	antioxidant	has among the highest	
-T-502	spirulina	spirulina	supplements	supplements	and blue-green algae	
-T-502	homeopathy	homeopathy	influenza	influenza	is ineffective in treating adhd, asthma, cancer, dementia,	
-T-502	mangosteen	mangosteen	licorice	licorice	juice,	
 T-502	supplements	supplements	health	health	may all have adverse	
-T-502	cod	cod	supplements	supplements	liver oil, and herbalife®	
-T-502	symptoms	symptoms	lichen planus	lichen planus	of oral	
-T-502	dandelion	dandelion	chamomile	chamomile	tea has the highest levels followed by rosehip,	
-T-502	mangosteen	mangosteen	supplements	supplements	juice, licorice, distilled cod liver oil, and herbalife®	
-T-502	ayurvedic medicine	ayurvedic medicine	lead	lead	has been found to be contaminated with	
-T-502	nasal irrigation	nasal irrigation	treatment	treatment	using neti pots can be an effective	
-T-502	purslane	purslane	symptoms	symptoms	has been shown to successfully treat the	
-T-502	water	water	microwaving	microwaving	or	
-T-502	algae	algae	supplements	supplements		
-T-502	chlorella	chlorella	blue-green algae	blue-green algae	do not contain neurotoxins, spirulina and	
-T-502	chlorella	chlorella	neurotoxins	neurotoxins	do not contain	
-T-502	lead	lead	heavy metals	heavy metals	and toxic	
-T-502	liver	liver	inflammation	inflammation		
-T-502	cod	cod	liver	liver		
-T-502	flax	flax	blood pressure	blood pressure	may help prevent breast cancer, reduce cholesterol, reduce	
-T-502	spirulina	spirulina	algae	algae	and blue-green	
-T-502	dandelion	dandelion	tea	tea		
-T-502	cod	cod	herbalife	herbalife	liver oil, and	
-T-502	blood	blood	hot flashes	hot flashes	pressure, regulate blood sugar, and treat	
+T-502	green tea	green tea	antioxidant	antioxidant	has among the highest	
+T-502	pain	pain	osteoarthritis	osteoarthritis	associated with both	
+T-502	supplements	supplements	placebo	placebo	have been shown to be no better than a	
 T-502	homeopathy	homeopathy	adhd	adhd	is ineffective in treating	
-T-502	blood	blood	sugar	sugar	pressure, regulate blood	
-T-502	head lice	head lice	treatment	treatment	than the standard insecticide	
-T-502	tea	tea	lemongrass	lemongrass	has the highest levels followed by rosehip, chamomile,	
-T-502	boiling	boiling	water	water		
-T-502	boiling	boiling	microwaving	microwaving	water or	
-T-502	flax	flax	cholesterol	cholesterol	may help prevent breast cancer, reduce	
-T-502	mangosteen	mangosteen	herbalife	herbalife	juice, licorice, distilled cod liver oil, and	
-T-502	chlorella	chlorella	supplements	supplements	do not contain neurotoxins, spirulina and blue-green algae	
+T-502	airborne supplements	airborne supplements	placebo	placebo	have been shown to be no better than a	
+T-502	flax	flax	breast cancer	breast cancer	may help prevent	
+T-502	ayurvedic medicine	ayurvedic medicine	lead	lead	has been found to be contaminated with	
+T-502	purslane	purslane	symptoms	symptoms	has been shown to successfully treat the	
+T-502	indian gooseberries	indian gooseberries	cancer	cancer	may be effective in preventing	
+T-502	water	water	microwaving	microwaving	or	
+T-502	medicine	medicine	lead	lead	has been found to be contaminated with	
+T-502	saffron	saffron	placebo	placebo	has been found to work better than a	
+T-502	hyperactivity	hyperactivity	children	children	in	
 T-502	spirulina	spirulina	blue-green algae	blue-green algae	and	
-T-502	mangosteen	mangosteen	cod	cod	juice, licorice, distilled	
-T-502	chamomile	chamomile	tea	tea		
 T-502	gooseberries	gooseberries	cancer	cancer	may be effective in preventing	
-T-502	mangosteen	mangosteen	cod liver oil	cod liver oil	juice, licorice, distilled	
-T-502	pain	pain	arthritis	arthritis	associated with both osteoarthritis and rheumatoid	
 T-502	osteoarthritis	osteoarthritis	rheumatoid arthritis	rheumatoid arthritis	and	
-T-502	herbal	herbal	dandelion	dandelion	teas,	
-T-502	tea	tea	chamomile	chamomile	has the highest levels followed by rosehip,	
-T-502	mangosteen	mangosteen	liver	liver	juice, licorice, distilled cod	
-T-502	herbalife	herbalife	health	health	® supplements may all have adverse	
+T-502	tea	tea	antioxidant	antioxidant	has among the highest	
+T-502	chlorella	chlorella	neurotoxins	neurotoxins	do not contain	

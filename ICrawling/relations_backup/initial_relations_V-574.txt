@@ -1,52 +1,8 @@
 
-V-574	phytonutrients	phytonutrients	cherries	cherries	in	
-V-574	goji	goji	berries	berries		
-V-574	spices	spices	seeds	seeds	are pretty potent—just a teaspoon of fenugreek	
-V-574	gold	gold	goji berries	goji berries	go to almonds, raspberries, and	
-V-574	anti-inflammatory	anti-inflammatory	drugs	drugs	effects, on par with	
-V-574	flax	flax	seeds	seeds		
+V-574	cherries	cherries	melatonin	melatonin	have fifty times less	
 V-574	gold	gold	almonds	almonds	go to	
-V-574	cherries	cherries	melatonin	melatonin	—seven different varieties, boosting	
-V-574	tomatoes	tomatoes	tart cherries	tart cherries	than cherries—especially	
-V-574	melatonin	melatonin	cherries	cherries	than tart, and dried	
+V-574	phytonutrients	phytonutrients	cherries	cherries	in	
 V-574	phytonutrient	phytonutrient	cherries	cherries	in	
-V-574	juice	juice	sleep	sleep	beverage on the	
-V-574	cherries	cherries	anti-inflammatory	anti-inflammatory	with	
-V-574	peppers	peppers	walnuts	walnuts	have a bit; an ounce of	
-V-574	phytonutrient	phytonutrient	anti-inflammatory	anti-inflammatory	in cherries with	
-V-574	gold	gold	berries	berries	go to almonds, raspberries, and goji	
-V-574	mit	mit	patent	patent	got the	
-V-574	fenugreek	fenugreek	mustard seeds	mustard seeds	seeds, or	
-V-574	serotonin	serotonin	kiwifruit	kiwifruit	levels in	
-V-574	gut	gut	melatonin	melatonin	to our brain.	
-V-574	beverage	beverage	insomnia	insomnia	on the sleep of older adults with	
-V-574	cherries	cherries	melatonin	melatonin	appear to have none.in fact, the	
-V-574	fenugreek	fenugreek	seeds	seeds		
-V-574	cherries	cherries	drugs	drugs	with anti-inflammatory effects, on par with	
-V-574	anti-inflammatory	anti-inflammatory	aspirin	aspirin	effects, on par with drugs like	
-V-574	gold	gold	goji	goji	go to almonds, raspberries, and	
-V-574	melatonin	melatonin	sleep	sleep	to help people	
-V-574	muscle soreness	muscle soreness	exercise	exercise	after	
-V-574	melatonin	melatonin	pineal gland	pineal gland	is not only produced in the	
-V-574	juice	juice	beverage	beverage		
-V-574	sleep	sleep	insomnia	insomnia	of older adults with	
-V-574	cherries	cherries	sleep	sleep	—seven different varieties, boosting melatonin levels and actual	
-V-574	cherries	cherries	aspirin	aspirin	with anti-inflammatory effects, on par with drugs like	
-V-574	mit	mit	melatonin	melatonin	got the patent to use	
-V-574	women	women	cherries	cherries	suffering from chronic insomnia, and put half on	
-V-574	spices	spices	fenugreek	fenugreek	are pretty potent—just a teaspoon of	
-V-574	phytonutrient	phytonutrient	drugs	drugs	in cherries with anti-inflammatory effects, on par with	
-V-574	gold	gold	raspberries	raspberries	go to almonds,	
-V-574	drugs	drugs	aspirin	aspirin	like	
 V-574	cherries	cherries	melatonin	melatonin	are a plant food source of	
 V-574	women	women	insomnia	insomnia	suffering from chronic	
-V-574	insomnia	insomnia	elderly	elderly	rates in the	
-V-574	beverage	beverage	sleep	sleep	on the	
-V-574	patent	patent	melatonin	melatonin	to use	
-V-574	juice	juice	insomnia	insomnia	beverage on the sleep of older adults with	
-V-574	tomatoes	tomatoes	cherries	cherries	than	
-V-574	juice	juice	sports	sports	as a	
-V-574	bell peppers	bell peppers	walnuts	walnuts	have a bit; an ounce of	
-V-574	patent	patent	sleep	sleep	to use melatonin to help people	
-V-574	cherries	cherries	melatonin	melatonin	have fifty times less	
-V-574	kiwifruit	kiwifruit	serotonin	serotonin	—doesn’t make any sense, since	
+V-574	mit	mit	patent	patent	got the	

@@ -1,14 +1,3 @@
 
-V-996	sexual selection	sexual selection	birds	birds	…in many species of	
-V-996	caucasian	caucasian	women	women	men and	
-V-996	health	health	lutein	lutein	status, since yellow carotenoids like	
-V-996	birds	birds	fish	fish	and	
-V-996	birds	birds	health	health	and fish, may also affect the appearance of	
-V-996	sexual selection	sexual selection	fish	fish	…in many species of birds and	
-V-996	health	health	birds	birds	signaling…and sexual selection…in many species of	
-V-996	health	health	fish	fish	signaling…and sexual selection…in many species of birds and	
-V-996	health	health	sexual selection	sexual selection	signaling…and	
 V-996	lutein	lutein	health	health	are so	
-V-996	skin	skin	carotenoid	carotenoid	yellowness may be attributable to dietary	
-V-996	skin	skin	health	health	coloration affects perceived	
-V-996	carotenoid	carotenoid	skin	skin	deposition in the	
+V-996	birds	birds	fish	fish	and	

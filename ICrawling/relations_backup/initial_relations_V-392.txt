@@ -1,21 +1,5 @@
 
-V-392	risk	risk	liver	liver	of alzheimer's disease but stomach,	
-V-392	risk	risk	kidney	kidney	of alzheimer's disease but stomach, liver and	
-V-392	chicken	chicken	chickpeas	chickpeas	masala, or chana masala, with	
-V-392	red meat	red meat	meat	meat	or white	
-V-392	anti-inflammatory	anti-inflammatory	curry powder	curry powder	food like the spice turmeric, found in	
-V-392	disease	disease	stomach	stomach	but	
-V-392	drugs	drugs	risk	risk	that may reduce the	
 V-392	risk	risk	dementia	dementia	of	
-V-392	disease	disease	kidney	kidney	but stomach, liver and	
-V-392	risk	risk	disease	disease	of alzheimer's	
 V-392	red meat	red meat	white meat	white meat	or	
-V-392	drugs	drugs	disease	disease	that may reduce the risk of alzheimer's	
-V-392	disease	disease	liver	liver	but stomach,	
-V-392	anti-inflammatory	anti-inflammatory	turmeric	turmeric	food like the spice	
 V-392	turmeric	turmeric	dementia	dementia	have a lower prevalence of	
-V-392	anti-inflammatory	anti-inflammatory	drugs	drugs		
-V-392	risk	risk	stomach	stomach	of alzheimer's disease but	
 V-392	liver	liver	kidney	kidney	and	
-V-392	anti-inflammatory	anti-inflammatory	risk	risk	drugs that may reduce the	
-V-392	anti-inflammatory	anti-inflammatory	disease	disease	drugs that may reduce the risk of alzheimer's	

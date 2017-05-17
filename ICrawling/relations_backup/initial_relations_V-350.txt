@@ -1,22 +1,6 @@
 
-V-350	fish	fish	polymyositis	polymyositis	food poisoning, or a condition called	
 V-350	prevention	prevention	seafood	seafood	of	
-V-350	seafood	seafood	fish	fish	intoxication by avoidance of high-risk	
 V-350	ciguatera	ciguatera	food poisoning	food poisoning	is one of the most common forms of	
 V-350	fish	fish	neurotoxins	neurotoxins	contaminated with	
-V-350	fatigue	fatigue	syndrome	syndrome		
-V-350	toxins	toxins	new york city	new york city	stuck in their body decades later.recent outbreaks in	
-V-350	fish	fish	public health	public health	consumption, or as one of my favorite	
-V-350	health	health	cold	cold	bloggers put it, when hot sex turns,	
-V-350	ciguatera	ciguatera	americans	americans	fish poisoning affects an estimated 15,000	
-V-350	cdc	cdc	prevention	prevention	scientists suggest education efforts aimed at the	
-V-350	ciguatera	ciguatera	fish	fish		
-V-350	fish	fish	americans	americans	poisoning affects an estimated 15,000	
-V-350	fish	fish	food poisoning	food poisoning		
-V-350	prevention	prevention	fish	fish	of seafood intoxication by avoidance of high-risk	
-V-350	burning	burning	cold	cold		
-V-350	cold	cold	symptoms	symptoms	and painful, blame it on dinner.and the	
-V-350	burning	burning	pain	pain		
-V-350	fish	fish	health	health	consumption, or as one of my favorite public	
-V-350	public health	public health	cold	cold	bloggers put it, when hot sex turns,	
-V-350	burning	burning	beer	beer	pain, or that drinking cool	
+V-350	chronic fatigue syndrome	chronic fatigue syndrome	fish	fish	may actually be suffering the long-term effects of this	
+V-350	syndrome	syndrome	fish	fish	may actually be suffering the long-term effects of this	

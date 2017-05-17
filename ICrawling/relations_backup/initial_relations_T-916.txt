@@ -1,58 +1,6 @@
 
-T-916	risk	risk	hiatal hernia	hiatal hernia	for	
-T-916	bowel movements	bowel movements	health	health	also plays a part in one’s	
-T-916	health	health	blood	blood	issues, including hemorrhoids as pressure backs up	
-T-916	fiber	fiber	plant foods	plant foods	 in whole	
-T-916	african	african	plant-based diets	plant-based diets	populations eating traditional	
-T-916	blood	blood	diverticulosis	diverticulosis	pressure, diabetes,	
-T-916	disease	disease	cancer	cancer	(the #1 killer of americans), 10 times more colon	
-T-916	risk	risk	disease	disease	for the #1 and #2 killers of americans—cardiovascular	
-T-916	risk	risk	hemorrhoids	hemorrhoids	for hiatal hernia, varicose veins, and	
-T-916	plant-based diets	plant-based diets	corn	corn	(such as beans and	
-T-916	heart disease	heart disease	americans	americans	(the #1 killer of	
-T-916	constipation	constipation	hemorrhoids	hemorrhoids	can increase risk for hiatal hernia, varicose veins, and	
-T-916	colon	colon	cancer	cancer		
-T-916	risk	risk	cardiovascular disease	cardiovascular disease	for the #1 and #2 killers of americans—	
-T-916	blood	blood	fiber	fiber	pressure, diabetes, diverticulosis, and diseases overall.the 	
-T-916	americans	americans	cardiovascular disease	cardiovascular disease	—	
 T-916	plant foods	plant foods	risk	risk	is about more than just reducing the	
-T-916	appendicitis	appendicitis	surgery	surgery	(the #1 cause of emergency abdominal	
-T-916	constipation	constipation	hiatal hernia	hiatal hernia	can increase risk for	
-T-916	gallstones	gallstones	appendicitis	appendicitis	and	
-T-916	disease	disease	americans	americans	(the #1 killer of	
-T-916	blood	blood	varicose veins	varicose veins	flow back into the legs, resulting in	
-T-916	colon	colon	blood	blood	itself (diverticulosis), or it can push	
-T-916	african	african	beans	beans	populations eating traditional plant-based diets (such as	
-T-916	plant-based	plant-based	corn	corn	diets (such as beans and	
-T-916	plant-based diets	plant-based diets	beans	beans	(such as	
-T-916	heart disease	heart disease	cancer	cancer	(the #1 killer of americans), 10 times more colon	
-T-916	beans	beans	corn	corn	and	
-T-916	colon	colon	gallstones	gallstones	cancer, and more than 50 times more	
-T-916	vegetarians	vegetarians	allergies	allergies	also have a lower prevalence of	
-T-916	disease	disease	colon	colon	(the #1 killer of americans), 10 times more	
-T-916	anti-inflammatory	anti-inflammatory	hemorrhoids	hemorrhoids	medicinal plant which may be beneficial in treating	
-T-916	plant-based	plant-based	beans	beans	diets (such as	
-T-916	americans	americans	cancer	cancer	—cardiovascular disease and	
-T-916	hemorrhoids	hemorrhoids	blood	blood	as pressure backs up	
-T-916	blood	blood	plant foods	plant foods	pressure, diabetes, diverticulosis, and diseases overall.the fiber in whole	
-T-916	constipation	constipation	hernia	hernia	can increase risk for hiatal	
-T-916	hemorrhoids	hemorrhoids	anti-inflammatory	anti-inflammatory	.chamomile is a powerful	
-T-916	diverticulosis	diverticulosis	blood	blood	), or it can push	
-T-916	blood	blood	diabetes	diabetes	pressure,	
-T-916	risk	risk	anti-inflammatory	anti-inflammatory	for hiatal hernia, varicose veins, and hemorrhoids.chamomile is a powerful	
-T-916	risk	risk	americans	americans	for the #1 and #2 killers of	
-T-916	heart disease	heart disease	colon cancer	colon cancer	(the #1 killer of americans), 10 times more	
-T-916	risk	risk	hernia	hernia	for hiatal	
-T-916	colon	colon	diverticulosis	diverticulosis	itself (	
-T-916	african	african	plant-based	plant-based	populations eating traditional	
-T-916	stomach	stomach	hernia	hernia	up above the diaphragm, known as hiatal	
-T-916	disease	disease	colon cancer	colon cancer	(the #1 killer of americans), 10 times more	
-T-916	stomach	stomach	hiatal hernia	hiatal hernia	up above the diaphragm, known as	
 T-916	constipation	constipation	risk	risk	can increase	
-T-916	health	health	hemorrhoids	hemorrhoids	issues, including	
+T-916	gallstones	gallstones	appendicitis	appendicitis	and	
 T-916	cardiovascular disease	cardiovascular disease	cancer	cancer	and	
-T-916	constipation	constipation	united states	united states	is the most common gastrointestinal complaint in the	
-T-916	heart disease	heart disease	colon	colon	(the #1 killer of americans), 10 times more	
-T-916	gallstones	gallstones	surgery	surgery	and appendicitis (the #1 cause of emergency abdominal	
-T-916	americans	americans	heart disease	heart disease	not only have more than 50 times the	
-T-916	americans	americans	disease	disease	—cardiovascular	
+T-916	beans	beans	corn	corn	and	

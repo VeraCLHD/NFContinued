@@ -1,31 +1,8 @@
 
-V-353	chickens	chickens	produce	produce		
-V-353	water	water	chicken	chicken	contaminated with	
-V-353	birth control pills	birth control pills	urine	urine	excreting it in their	
-V-353	chickens	chickens	estrogen	estrogen	produce literally tons of	
-V-353	pregnant	pregnant	cows	cows		
-V-353	water	water	manure	manure	contaminated with chicken	
-V-353	pills	pills	urine	urine	excreting it in their	
-V-353	steroids	steroids	eggs	eggs	(in meat, dairy, and	
-V-353	steroids	steroids	meat	meat	(in	
-V-353	estrogen	estrogen	urine	urine	even in the	
-V-353	farmers	farmers	chicken	chicken	feed	
-V-353	women	women	pills	pills	taking birth control	
-V-353	europe	europe	health	health	in order to protect consumers’	
-V-353	produce	produce	estrogen	estrogen	literally tons of	
-V-353	steroids	steroids	dairy	dairy	(in meat,	
-V-353	women	women	urine	urine	taking birth control pills excreting it in their	
-V-353	poultry	poultry	chicken	chicken	litter are so high that when farmers feed	
-V-353	health	health	fish	fish	standpoint, do we really care about feminized	
-V-353	cows	cows	milk	milk	excreting it into their	
-V-353	chemicals	chemicals	water	water	to reach drinking	
 V-353	women	women	birth control pills	birth control pills	taking	
-V-353	chicken	chicken	manure	manure		
-V-353	dairy	dairy	urine	urine	products that day.human	
-V-353	poultry	poultry	manure	manure		
-V-353	chicken	chicken	estrogen	estrogen		
-V-353	birth control pills	birth control pills	cows	cows	excreting it in their urine, or	
-V-353	pills	pills	cows	cows	excreting it in their urine, or	
-V-353	poultry	poultry	farmers	farmers	litter are so high that when	
-V-353	farmers	farmers	manure	manure	feed chicken	
-V-353	water	water	chemicals	chemicals	supplies and the potential for these	
+V-353	water	water	chicken	chicken	contaminated with	
+V-353	pills	pills	urine	urine	excreting it in their	
+V-353	birth control pills	birth control pills	urine	urine	excreting it in their	
+V-353	farmers	farmers	chicken	chicken	feed	
+V-353	water	water	milk	milk	is about 150 times lower than exposure from cow’s	
+V-353	cows	cows	milk	milk	excreting it into their	

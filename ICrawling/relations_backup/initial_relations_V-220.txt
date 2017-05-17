@@ -1,59 +1,5 @@
 
-V-220	bile	bile	bacteria	bacteria	and feed	
-V-220	liver	liver	iron	iron	disease, and excess	
-V-220	produce	produce	carcinogens	carcinogens		
-V-220	inflammation	inflammation	colon	colon	in the	
-V-220	heart disease	heart disease	iron	iron	and perhaps fatty liver disease, and excess	
-V-220	bacteria	bacteria	hydrogen sulfide	hydrogen sulfide	that produce the rotten egg gas	
-V-220	dna	dna	bacteria	bacteria	of the first	
-V-220	bile	bile	egg	egg	and feed bacteria that produce the rotten	
-V-220	gut	gut	plants	plants	.all animals and	
-V-220	bile	bile	produce	produce	and feed bacteria that	
-V-220	disease	disease	iron	iron	and perhaps fatty liver disease, and excess	
-V-220	egg	egg	gas	gas		
-V-220	bacteria	bacteria	colon	colon	and decreases inflammation in the	
-V-220	bacteria	bacteria	colon	colon	in our	
-V-220	trimethylamine	trimethylamine	disease	disease	oxide and contribute to heart	
-V-220	produce	produce	gut	gut	carcinogens, putrefy protein in our	
 V-220	diet	diet	bacteria	bacteria	has a dominant role in the	
-V-220	bacteria	bacteria	inflammation	inflammation	and contribute to	
-V-220	bacteria	bacteria	colon	colon	that take up residence in the human	
-V-220	liver	liver	disease	disease		
-V-220	heart disease	heart disease	liver	liver	and perhaps fatty	
-V-220	bacteria	bacteria	diet	diet	in our colon and that	
-V-220	heart disease	heart disease	fatty liver disease	fatty liver disease	and perhaps	
-V-220	bacteria	bacteria	digestion	digestion	include boosting our immune system, improving	
-V-220	heart disease	heart disease	disease	disease	and perhaps fatty liver	
-V-220	bacteria	bacteria	inflammation	inflammation	and decreases	
 V-220	bacteria	bacteria	immune system	immune system	include boosting our	
-V-220	produce	produce	egg	egg	the rotten	
-V-220	produce	produce	protein	protein	carcinogens, putrefy	
-V-220	trimethylamine	trimethylamine	fatty liver disease	fatty liver disease	oxide and contribute to heart disease and perhaps	
 V-220	health	health	disease	disease	and	
-V-220	gas	gas	hydrogen sulfide	hydrogen sulfide		
-V-220	bile	bile	gas	gas	and feed bacteria that produce the rotten egg	
-V-220	disease	disease	liver disease	liver disease	and perhaps fatty	
-V-220	fat	fat	pizza	pizza	on that piece of	
-V-220	heart disease	heart disease	liver disease	liver disease	and perhaps fatty	
-V-220	protein	protein	gut	gut	in our	
-V-220	milk	milk	pizza	pizza	fat on that piece of	
-V-220	gut	gut	flora	flora		
-V-220	protein	protein	toxins	toxins	in our gut, produce	
 V-220	iron	iron	bacteria	bacteria	may muck with our good	
-V-220	disease	disease	fatty liver disease	fatty liver disease	and perhaps	
-V-220	egg	egg	hydrogen sulfide	hydrogen sulfide	gas	
-V-220	gut	gut	metabolism	metabolism	microbiology and	
-V-220	milk	milk	fat	fat		
-V-220	disease	disease	liver	liver	and perhaps fatty	
-V-220	produce	produce	toxins	toxins	carcinogens, putrefy protein in our gut, produce	
-V-220	digestion	digestion	vitamins	vitamins	and absorption, making	
-V-220	colon	colon	diet	diet	and that	
-V-220	bacteria	bacteria	gas	gas	that produce the rotten egg	
-V-220	gut	gut	bacteria	bacteria		
-V-220	produce	produce	gas	gas	the rotten egg	
-V-220	health	health	diet	diet	through	
-V-220	bacteria	bacteria	egg	egg	that produce the rotten	
-V-220	protein	protein	produce	produce	in our gut,	
-V-220	bacteria	bacteria	produce	produce	that	
-V-220	trimethylamine	trimethylamine	heart disease	heart disease	oxide and contribute to	
-V-220	produce	produce	hydrogen sulfide	hydrogen sulfide	the rotten egg gas	

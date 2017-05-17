@@ -1,10 +1,3 @@
 
-V-517	chicken	chicken	contamination	contamination	products in ten u.s. cities, they found fecal	
-V-517	fecal contamination	fecal contamination	chicken	chicken	in about half the	
-V-517	usda	usda	meat	meat	’s new	
-V-517	chicken	chicken	fecal contamination	fecal contamination	products in ten u.s. cities, they found	
 V-517	contaminants	contaminants	chicken	chicken	in	
 V-517	skin	skin	gut	gut	or	
-V-517	chicken	chicken	obesity	obesity	nuggets are a favorite of children, and the	
-V-517	contamination	contamination	chicken	chicken	in about half the	
-V-517	chicken	chicken	children	children	nuggets are a favorite of	

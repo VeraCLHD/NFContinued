@@ -1,43 +1,16 @@
 
-V-1035	fat	fat	vegans	vegans	tissue of vegetarians, but what about	
+V-1035	meat	meat	dairy	dairy	and	
+V-1035	vegans	vegans	animal products	animal products	don’t eat any	
 V-1035	fat	fat	vegans	vegans	.what surprised the researchers was that the	
 V-1035	vegans	vegans	omnivores	omnivores	compared to	
-V-1035	animal products	animal products	dairy	dairy	such as fish, meat and	
-V-1035	diet	diet	contamination	contamination	followed during childhood and adolescence results in a	
-V-1035	animal products	animal products	meat	meat	such as fish,	
-V-1035	environment	environment	health	health	and human	
-V-1035	breast milk	breast milk	vegetarians	vegetarians	or fat tissue of	
+V-1035	adolescence	adolescence	contamination	contamination	results in a	
 V-1035	chemicals	chemicals	fat	fat	accumulate in the	
 V-1035	milk	milk	fat	fat	or	
 V-1035	toxins	toxins	pesticides	pesticides	and	
-V-1035	diet	diet	blood	blood	on the concentrations of organochlorines in the	
-V-1035	animal products	animal products	fish	fish	such as	
 V-1035	vegans	vegans	infants	infants	may have been breastfed as	
-V-1035	organic	organic	pollutants	pollutants		
-V-1035	animal products	animal products	vegans	vegans	such as fish, meat and dairy products.but	
 V-1035	vegans	vegans	vegan	vegan	aren’t	
-V-1035	breast milk	breast milk	vegans	vegans	or fat tissue of vegetarians, but what about	
+V-1035	organochlorines	organochlorines	insecticides	insecticides	are chemical products that were widely used after world war ii as	
 V-1035	diet	diet	adolescence	adolescence	followed during childhood and	
-V-1035	vegans	vegans	omnivores	omnivores	?they found that vegans were significantly less polluted than	
 V-1035	industrial toxins	industrial toxins	pesticides	pesticides	and	
-V-1035	organochlorines	organochlorines	blood	blood	in the	
-V-1035	dairy	dairy	animal products	animal products	products.but vegans don’t eat any	
 V-1035	breast milk	breast milk	fat	fat	or	
-V-1035	contamination	contamination	vegans	vegans	even more dramatic, because, of course, the	
-V-1035	meat	meat	dairy	dairy	and	
-V-1035	vegans	vegans	animal products	animal products	don’t eat any	
-V-1035	adolescence	adolescence	contamination	contamination	results in a	
-V-1035	baby	baby	lactation	lactation	at the time of	
-V-1035	vegan	vegan	blood	blood	diet on the concentrations of organochlorines in the	
-V-1035	diet	diet	organochlorines	organochlorines	on the concentrations of	
-V-1035	meat	meat	vegans	vegans	and dairy products.but	
-V-1035	fat	fat	vegetarians	vegetarians	tissue of	
-V-1035	dairy	dairy	vegans	vegans	products.but	
-V-1035	milk	milk	vegans	vegans	or fat tissue of vegetarians, but what about	
-V-1035	omnivores	omnivores	toxins	toxins	regarding a whole list of carcinogenic industrial	
-V-1035	vegan	vegan	organochlorines	organochlorines	diet on the concentrations of	
-V-1035	meat	meat	animal products	animal products	and dairy products.but vegans don’t eat any	
-V-1035	vegan	vegan	diet	diet		
-V-1035	omnivores	omnivores	industrial toxins	industrial toxins	regarding a whole list of carcinogenic	
 V-1035	vegetarian	vegetarian	vegan	vegan	or	
-V-1035	milk	milk	vegetarians	vegetarians	or fat tissue of	

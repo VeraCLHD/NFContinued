@@ -1,59 +1,7 @@
 
-A-320	strawberries	strawberries	esophageal cancer	esophageal cancer	versus	
-A-320	raspberries	raspberries	cancer	cancer	and oral	
-A-320	cancer	cancer	disease	disease	you can see the	
-A-320	fruits	fruits	prevention	prevention	for cancer	
-A-320	cancer	cancer	esophageal cancer	esophageal cancer	revelation i documented in strawberries versus	
-A-320	black raspberries	black raspberries	cancer	cancer	versus oral	
-A-320	strawberries	strawberries	jam	jam	and strawberry	
-A-320	black raspberries	black raspberries	fruits	fruits	(though in a different orifice) in best	
-A-320	berries	berries	cranberries	cranberries	can do, see my videos	
-A-320	alcohol	alcohol	obesity	obesity	consumption, avoiding	
-A-320	berries	berries	cancer	cancer	can do, see my videos cranberries versus	
-A-320	fruits	fruits	cancer prevention	cancer prevention	for	
-A-320	oral cancer	oral cancer	disease	disease	you can see the	
-A-320	vegetables	vegetables	fruits	fruits	and	
-A-320	antioxidant	antioxidant	strawberries	strawberries	concentration was measured in fresh, frozen, and freeze-dried	
-A-320	strawberries	strawberries	cancer	cancer	and esophageal	
-A-320	black raspberries	black raspberries	disease	disease	versus oral cancer you can see the	
-A-320	cancer	cancer	cancer	cancer	and which fruit fights	
-A-320	berries	berries	fruits	fruits	in general are the healthiest	
-A-320	antioxidant	antioxidant	freeze-dried	freeze-dried	concentration was measured in fresh, frozen, and	
-A-320	risk	risk	tobacco	tobacco	of oral cancer by avoiding all forms of	
-A-320	oral cancer	oral cancer	tobacco	tobacco	by avoiding all forms of	
-A-320	raspberries	raspberries	disease	disease	versus oral cancer you can see the	
-A-320	oral cancer	oral cancer	berries	berries	you can see the disease disappear–thanks to just	
-A-320	esophageal cancer	esophageal cancer	strawberries	strawberries	revelation i documented in	
-A-320	esophageal cancer	esophageal cancer	cancer	cancer	revelation i documented in strawberries versus esophageal	
-A-320	cancer	cancer	alcohol	alcohol	by avoiding all forms of tobacco, restricting	
-A-320	cancer	cancer	cancer	cancer	revelation i documented in strawberries versus esophageal	
-A-320	precancerous changes	precancerous changes	mouth	mouth	in your	
-A-320	cancer	cancer	strawberries	strawberries	revelation i documented in	
-A-320	risk	risk	cancer	cancer	of oral	
-A-320	cancer	cancer	berries	berries	you can see the disease disappear–thanks to just	
-A-320	black raspberries	black raspberries	oral cancer	oral cancer	versus	
-A-320	freeze-dried	freeze-dried	jam	jam	strawberries and strawberry	
-A-320	oral cancer	oral cancer	alcohol	alcohol	by avoiding all forms of tobacco, restricting	
-A-320	strawberries	strawberries	antioxidant	antioxidant	and strawberry jam, with the intent of measuring	
 A-320	raspberries	raspberries	oral cancer	oral cancer	and	
-A-320	precancerous	precancerous	mouth	mouth	changes in your	
-A-320	disease	disease	berries	berries	disappear–thanks to just	
-A-320	cancer	cancer	tobacco	tobacco	by avoiding all forms of	
-A-320	precancerous	precancerous	intraepithelial neoplasia	intraepithelial neoplasia	growths in their mouths (so called oral “	
-A-320	strawberries	strawberries	cancer	cancer	versus esophageal	
-A-320	precancerous growths	precancerous growths	intraepithelial neoplasia	intraepithelial neoplasia	in their mouths (so called oral “	
-A-320	cranberries	cranberries	fruit	fruit	versus cancer and which	
-A-320	black raspberries	black raspberries	cancer	cancer	and oral	
-A-320	fruit	fruit	cancer	cancer	fights	
-A-320	raspberries	raspberries	cancer	cancer	versus oral	
-A-320	cancer	cancer	fruit	fruit	and which	
-A-320	raspberries	raspberries	fruits	fruits	(though in a different orifice) in best	
-A-320	fruits	fruits	cancer	cancer	for	
 A-320	black raspberries	black raspberries	oral cancer	oral cancer	and	
-A-320	raspberries	raspberries	oral cancer	oral cancer	versus	
 A-320	risk	risk	oral cancer	oral cancer	of	
-A-320	cancer	cancer	prevention	prevention		
-A-320	freeze-dried	freeze-dried	strawberries	strawberries		
-A-320	cranberries	cranberries	cancer	cancer	versus	
+A-320	vegetables	vegetables	fruits	fruits	and	
+A-320	disease	disease	berries	berries	disappear–thanks to just	
 A-320	strawberries	strawberries	esophageal cancer	esophageal cancer	and	
-A-320	strawberries	strawberries	antioxidant content	antioxidant content	and strawberry jam, with the intent of measuring	

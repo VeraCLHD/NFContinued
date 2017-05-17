@@ -1,38 +1,7 @@
 
-T-465	orange	orange	bananas	bananas	concentrates are a more concentrated source of potassium than	
 T-465	coffee	coffee	iron	iron	may be a better choice for treating 	
-T-465	citrus	citrus	auraptene	auraptene	phytonutrient,	
-T-465	iron	iron	tea	tea	rich foods and the reduction of	
-T-465	risk	risk	side effects	side effects	of 	
-T-465	fatigue	fatigue	eye	eye	after strenuous exercise, treat dry	
-T-465	fatigue	fatigue	eye disease	eye disease	after strenuous exercise, treat dry	
-T-465	citrus	citrus	antioxidants	antioxidants	and other	
-T-465	coffee	coffee	anemia	anemia	may be a better choice for treating iron deficiency	
-T-465	potassium	potassium	bananas	bananas	than	
-T-465	citrus	citrus	inflammation	inflammation	and other antioxidants can also be effective in reducing 	
-T-465	side effects	side effects	drugs	drugs	with certain	
-T-465	citrus	citrus	phytonutrient	phytonutrient		
-T-465	citrus	citrus	iron	iron	in conjunction with	
-T-465	antioxidants	antioxidants	inflammation	inflammation	 can also be effective in reducing 	
-T-465	fruits	fruits	aluminum	aluminum	can enhance the absorption of iron, manganese, and	
-T-465	risk	risk	teeth	teeth	greatererosion of tooth enamel (especially if 	
-T-465	inflammation	inflammation	fruit	fruit	levels.on the other hand, those eating more sour	
-T-465	grapefruit	grapefruit	side effects	side effects	may increase the risk of 	
-T-465	citrus	citrus	fatigue	fatigue	may help reduce muscle	
 T-465	fruit	fruit	risk	risk	 may	
-T-465	fruits	fruits	manganese	manganese	can enhance the absorption of iron,	
-T-465	citrus	citrus	exercise	exercise	may help reduce muscle fatigue after strenuous	
-T-465	grapefruit	grapefruit	drugs	drugs	may increase the risk of side effects with certain	
-T-465	eye	eye	blood	blood	disease, and may increase	
-T-465	potassium	potassium	orange	orange	than bananas, and the smell of sweet	
-T-465	tea	tea	coffee	coffee	and	
-T-465	anemia	anemia	supplements	supplements	than	
 T-465	orange	orange	potassium	potassium	concentrates are a more concentrated source of	
-T-465	eye	eye	disease	disease		
-T-465	fatigue	fatigue	exercise	exercise	after strenuous	
-T-465	iron	iron	coffee	coffee	rich foods and the reduction of tea and	
 T-465	fruits	fruits	iron	iron	can enhance the absorption of	
 T-465	grapefruit	grapefruit	risk	risk	may increase the	
-T-465	risk	risk	drugs	drugs	of side effects with certain	
-T-465	fatigue	fatigue	disease	disease	after strenuous exercise, treat dry eye	
-T-465	fruit	fruit	teeth	teeth	 may risk greatererosion of tooth enamel (especially if 	
+T-465	tea	tea	coffee	coffee	and	

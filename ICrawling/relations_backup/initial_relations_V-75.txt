@@ -1,37 +1,11 @@
 
-V-75	milk	milk	cows	cows	of 17 of the 24	
-V-75	blood	blood	virus	virus	for antibodies against the	
-V-75	cancer	cancer	infants	infants	in other species.you can’t lock human	
-V-75	infants	infants	milk	milk	in a cage, and feed them infected	
-V-75	dairy	dairy	bovine leukemia virus	bovine leukemia virus	herds are infected with the	
-V-75	cows	cows	virus	virus	frequently contains a leukemia-causing	
-V-75	milk	milk	virus	virus	of dairy cows frequently contains a leukemia-causing	
-V-75	farmers	farmers	carcinogens	carcinogens	may be exposed to all sorts of potential	
-V-75	leukemia	leukemia	virus	virus		
-V-75	milk	milk	public health	public health	is an important	
-V-75	cancer	cancer	dairy	dairy	killer among	
-V-75	blood	blood	antibodies	antibodies	for	
-V-75	leukemia	leukemia	lymphoma	lymphoma	and	
-V-75	dairy	dairy	leukemia	leukemia	herds are infected with the bovine	
-V-75	milk	milk	leukemia	leukemia	appeared to transmit or induce	
-V-75	dairy	dairy	virus	virus	cows frequently contains a leukemia-causing	
-V-75	dairy cows	dairy cows	virus	virus	frequently contains a leukemia-causing	
 V-75	farmers	farmers	cancer	cancer	have higher rates of	
-V-75	cancer	cancer	cancer	cancer	patients and non-	
-V-75	milk	milk	leukemia	leukemia	—developed	
-V-75	leukemia	leukemia	antibodies	antibodies	virus	
-V-75	virus	virus	antibodies	antibodies		
-V-75	milk	milk	health	health	is an important public	
-V-75	milk	milk	dairy cows	dairy cows	of	
-V-75	milk	milk	viruses	viruses	- and egg-borne	
-V-75	bovine leukemia virus	bovine leukemia virus	antibodies	antibodies		
-V-75	dairy	dairy	cows	cows		
-V-75	leukemia	leukemia	cancer	cancer	virus antibodies in	
-V-75	antibodies	antibodies	virus	virus	against the	
-V-75	bovine leukemia virus	bovine leukemia virus	cancer	cancer	antibodies in	
+V-75	milk	milk	public health	public health	is an important	
 V-75	milk	milk	dairy	dairy	of	
-V-75	milk	milk	cows	cows	of dairy	
+V-75	leukemia	leukemia	lymphoma	lymphoma	and	
 V-75	virus	virus	milk	milk	was demonstrated in the	
-V-75	virus	virus	cancer	cancer	antibodies in	
+V-75	milk	milk	health	health	is an important public	
+V-75	cows	cows	leukemia	leukemia	tested, indicating that humans are often orally exposed to bovine	
 V-75	antibodies	antibodies	cancer	cancer	in	
-V-75	dairy	dairy	virus	virus	herds are infected with the bovine leukemia	
+V-75	milk	milk	dairy cows	dairy cows	of	
+V-75	farmers	farmers	carcinogens	carcinogens	may be exposed to all sorts of potential	

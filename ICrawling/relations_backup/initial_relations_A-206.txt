@@ -1,109 +1,21 @@
 
-A-206	plant-based	plant-based	igf-1	igf-1	to lower	
-A-206	hormones	hormones	dairy	dairy	in	
-A-206	milk	milk	almond milk	almond milk	vs.	
-A-206	milk	milk	cancer cells	cancer cells	suppressed the growth of these	
-A-206	cancer	cancer	organic	organic	and	
-A-206	hormones	hormones	cancer	cancer	on	
-A-206	milk	milk	almond	almond	vs.	
-A-206	milk	milk	cancer	cancer	consumption is a risk factor for prostate	
-A-206	industrial carcinogens	industrial carcinogens	igf-1	igf-1	in animal fat) and	
-A-206	prostate	prostate	cancer	cancer		
-A-206	cancer	cancer	hormones	hormones	institute, “we simply do not know which	
-A-206	cancer	cancer	pollutants	pollutants	and dairy consumption including industrial	
-A-206	prostate cancer	prostate cancer	almond	almond	and organic milk vs.	
-A-206	organic	organic	milk	milk	cow’s	
-A-206	cancer	cancer	milk	milk	deaths and countries with lower	
-A-206	risk	risk	cancer	cancer	factor for prostate	
-A-206	pollutants	pollutants	fat	fat	(industrial carcinogens in animal	
-A-206	dairy	dairy	precancerous	precancerous	products could both “promote the conversion of	
-A-206	cancer	cancer	tumors	tumors	and enhance the progression of hormone-dependent	
-A-206	milk	milk	cancer	cancer	consumption tend to have more prostate	
-A-206	igf-1	igf-1	plant-based	plant-based	(how	
-A-206	milk	milk	adolescence	adolescence	vs. almond milk, suggests that milk intake during	
-A-206	dairy	dairy	precancerous lesions	precancerous lesions	products could both “promote the conversion of	
-A-206	pollutants	pollutants	carcinogens	carcinogens	(industrial	
-A-206	pollutants	pollutants	igf-1	igf-1	(industrial carcinogens in animal fat) and	
-A-206	prostate	prostate	organic milk	organic milk	cancer and	
-A-206	prostate	prostate	almond	almond	cancer and organic milk vs.	
-A-206	animal fat	animal fat	igf-1	igf-1	) and	
-A-206	almond milk	almond milk	cancer cells	cancer cells	suppressed the growth of these	
-A-206	organic	organic	milk	milk		
-A-206	fat	fat	igf-1	igf-1	) and	
-A-206	industrial carcinogens	industrial carcinogens	plant-based	plant-based	in animal fat) and igf-1 (how	
-A-206	dairy	dairy	tumors	tumors	could stimulate the growth of hormone-sensitive	
-A-206	organic	organic	almond	almond	milk vs.	
-A-206	carcinogens	carcinogens	plant-based	plant-based	in animal fat) and igf-1 (how	
-A-206	milk	milk	dairy	dairy	contains estrogens,	
-A-206	milk	milk	prostate cancer	prostate cancer	stimulated the growth of human	
-A-206	milk	milk	prostate	prostate	consumption tend to have more	
-A-206	prostate	prostate	cancer cells	cancer cells		
-A-206	prostate	prostate	almond milk	almond milk	cancer and organic milk vs.	
-A-206	industrial carcinogens	industrial carcinogens	animal fat	animal fat	in	
-A-206	organic	organic	almond milk	almond milk	milk vs.	
-A-206	organic milk	organic milk	almond milk	almond milk	vs.	
-A-206	prostate	prostate	organic	organic	cancer and	
-A-206	dairy	dairy	pollutants	pollutants	consumption including industrial	
-A-206	pollutants	pollutants	plant-based	plant-based	(industrial carcinogens in animal fat) and igf-1 (how	
-A-206	milk	milk	prostate cancer	prostate cancer	consumption tend to have more	
-A-206	prostate cancer	prostate cancer	milk	milk	and organic	
-A-206	dairy	dairy	fat	fat	consumption including industrial pollutants (industrial carcinogens in animal	
-A-206	milk	milk	cancer	cancer	stimulated the growth of human prostate	
-A-206	milk	milk	prostate	prostate	consumption is a risk factor for	
-A-206	dairy	dairy	industrial pollutants	industrial pollutants	consumption including	
-A-206	milk	milk	prostate cancer	prostate cancer	consumption is a risk factor for	
-A-206	risk	risk	prostate cancer	prostate cancer	factor for	
 A-206	cancer	cancer	organic milk	organic milk	and	
-A-206	organic milk	organic milk	adolescence	adolescence	vs. almond milk, suggests that milk intake during	
-A-206	diet	diet	japanese	japanese	wasn’t the only major change in	
-A-206	fat	fat	plant-based	plant-based	) and igf-1 (how	
-A-206	organic milk	organic milk	milk	milk	vs. almond	
-A-206	cancer	cancer	almond milk	almond milk	and organic milk vs.	
-A-206	dairy	dairy	industrial carcinogens	industrial carcinogens	consumption including industrial pollutants (	
-A-206	pollutants	pollutants	animal fat	animal fat	(industrial carcinogens in	
-A-206	almond	almond	milk	milk		
-A-206	cancer	cancer	dairy	dairy	and	
-A-206	industrial pollutants	industrial pollutants	plant-based	plant-based	(industrial carcinogens in animal fat) and igf-1 (how	
-A-206	milk	milk	prostate	prostate	stimulated the growth of human	
-A-206	precancerous	precancerous	cancer	cancer	lesions or mutated cells to invasive	
-A-206	organic milk	organic milk	almond	almond	vs.	
-A-206	steroids	steroids	milk	milk	found naturally in	
-A-206	cancer	cancer	almond	almond	and organic milk vs.	
-A-206	hormones	hormones	dairy	dairy	and growth factors in all	
-A-206	industrial pollutants	industrial pollutants	carcinogens	carcinogens	(industrial	
-A-206	industrial pollutants	industrial pollutants	igf-1	igf-1	(industrial carcinogens in animal fat) and	
-A-206	cancer	cancer	japan	japan	in	
-A-206	almond	almond	cancer cells	cancer cells	milk suppressed the growth of these	
-A-206	industrial pollutants	industrial pollutants	fat	fat	(industrial carcinogens in animal	
-A-206	prostate cancer	prostate cancer	japan	japan	in	
-A-206	carcinogens	carcinogens	fat	fat	in animal	
-A-206	prostate	prostate	milk	milk	cancer and organic	
-A-206	almond	almond	adolescence	adolescence	milk, suggests that milk intake during	
-A-206	prostate	prostate	milk	milk	cancer deaths and countries with lower	
-A-206	milk	milk	risk	risk	consumption is a	
-A-206	dairy	dairy	diet	diet	consumption, respectively, whereas the rest of their	
-A-206	growth hormones	growth hormones	milk	milk	and sex steroids found naturally in	
-A-206	growth hormones	growth hormones	steroids	steroids	and sex	
-A-206	precancerous lesions	precancerous lesions	cancer	cancer	or mutated cells to invasive	
-A-206	milk	milk	cancer	cancer	suppressed the growth of these	
-A-206	cancer	cancer	industrial pollutants	industrial pollutants	and dairy consumption including	
+A-206	almond milk	almond milk	cancer cells	cancer cells	suppressed the growth of these	
 A-206	carcinogens	carcinogens	animal fat	animal fat	in	
+A-206	hormones	hormones	dairy	dairy	in	
 A-206	prostate cancer	prostate cancer	organic	organic	and	
 A-206	prostate cancer	prostate cancer	organic milk	organic milk	and	
-A-206	cancer	cancer	carcinogens	carcinogens	and dairy consumption including industrial pollutants (industrial	
-A-206	almond	almond	cancer	cancer	milk suppressed the growth of these	
-A-206	prostate cancer	prostate cancer	almond milk	almond milk	and organic milk vs.	
-A-206	cancer	cancer	industrial carcinogens	industrial carcinogens	and dairy consumption including industrial pollutants (	
-A-206	risk	risk	prostate	prostate	factor for	
-A-206	carcinogens	carcinogens	igf-1	igf-1	in animal fat) and	
-A-206	industrial carcinogens	industrial carcinogens	fat	fat	in animal	
-A-206	prostate cancer	prostate cancer	milk	milk	deaths and countries with lower	
-A-206	industrial pollutants	industrial pollutants	animal fat	animal fat	(industrial carcinogens in	
-A-206	milk	milk	cancer cells	cancer cells	stimulated the growth of human prostate	
-A-206	cancer	cancer	milk	milk	and organic	
-A-206	prostate	prostate	japan	japan	cancer in	
-A-206	dairy	dairy	animal fat	animal fat	consumption including industrial pollutants (industrial carcinogens in	
+A-206	diet	diet	japanese	japanese	wasn’t the only major change in	
+A-206	steroids	steroids	milk	milk	found naturally in	
+A-206	milk	milk	cancer cells	cancer cells	suppressed the growth of these	
+A-206	cancer	cancer	japan	japan	in	
+A-206	dairy	dairy	tumors	tumors	could stimulate the growth of hormone-sensitive	
+A-206	cancer	cancer	organic	organic	and	
+A-206	prostate cancer	prostate cancer	japan	japan	in	
 A-206	dairy	dairy	milk	milk	see: what about all the studies suggesting	
 A-206	almond milk	almond milk	cancer	cancer	suppressed the growth of these	
-A-206	animal fat	animal fat	plant-based	plant-based	) and igf-1 (how	
-A-206	dairy	dairy	carcinogens	carcinogens	consumption including industrial pollutants (industrial	
+A-206	cancer	cancer	dairy	dairy	and	
+A-206	milk	milk	prostate cancer	prostate cancer	stimulated the growth of human	
+A-206	milk	milk	prostate	prostate	stimulated the growth of human	
+A-206	industrial carcinogens	industrial carcinogens	animal fat	animal fat	in	
+A-206	milk	milk	cancer	cancer	suppressed the growth of these	

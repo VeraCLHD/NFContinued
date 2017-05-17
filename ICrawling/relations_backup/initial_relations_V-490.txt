@@ -1,9 +1,5 @@
 
-V-490	water	water	pesticides	pesticides	that’s used to spray	
 V-490	viruses	viruses	fruits	fruits	get on our	
-V-490	pesticides	pesticides	risk	risk	may be appropriate to reduce the virological health	
 V-490	pesticides	pesticides	health	health	may be appropriate to reduce the virological	
-V-490	health	health	risk	risk		
 V-490	americans	americans	produce	produce	are sickened by	
-V-490	health	health	pesticides	pesticides	risk posed by the application of	
 V-490	risk	risk	pesticides	pesticides	posed by the application of	

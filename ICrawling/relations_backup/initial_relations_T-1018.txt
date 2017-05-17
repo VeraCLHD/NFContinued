@@ -1,14 +1,2 @@
 
-T-1018	supplements	supplements	pregnant	pregnant	unless prescribed (for example, for	
-T-1018	iron supplements	iron supplements	pregnant women	pregnant women	unless prescribed (for example, for	
-T-1018	pregnant	pregnant	women	women		
-T-1018	iron	iron	pills	pills		
-T-1018	legumes	legumes	lentils	lentils	such as	
-T-1018	supplements	supplements	pregnant women	pregnant women	unless prescribed (for example, for	
 T-1018	pills	pills	preterm birth	preterm birth	have been linked to birth complications such as	
-T-1018	plant-based	plant-based	iron	iron	(non-heme)	
-T-1018	preterm birth	preterm birth	hypertension	hypertension	and maternal	
-T-1018	iron supplements	iron supplements	pregnant	pregnant	unless prescribed (for example, for	
-T-1018	supplements	supplements	women	women	unless prescribed (for example, for pregnant	
-T-1018	iron supplements	iron supplements	women	women	unless prescribed (for example, for pregnant	
-T-1018	cancer	cancer	death	death	patients has been associated with dropping	

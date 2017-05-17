@@ -1,50 +1,12 @@
 
-V-97	contaminants	contaminants	pesticides	pesticides	in milk besides the	
-V-97	cheese	cheese	contaminants	contaminants	?well, there are other neurotoxic	
-V-97	risk	risk	death	death	of bone fractures and	
-V-97	brains	brains	milk	milk	of parkinson’s victims, on autopsy.since pesticides in	
-V-97	disease	disease	stress	stress	risks associated with more milk than cheese—more oxidative	
-V-97	pesticides	pesticides	brains	brains	themselves—like tetrahydroisoquinolines, found in the	
-V-97	neurotoxins	neurotoxins	dairy	dairy	in	
-V-97	milk	milk	bone fractures	bone fractures	drinkers specifically appeared to have higher risk of	
-V-97	disease	disease	cheese	cheese	victims, but in higher levels in	
-V-97	galactose	galactose	milk	milk	found in	
-V-97	fat	fat	milk	milk	—and the link between skim	
+V-97	risk	risk	milk	milk	increased by 17% for every small glass of	
 V-97	contamination	contamination	milk	milk	of	
 V-97	bone fractures	bone fractures	death	death	and	
-V-97	brains	brains	disease	disease	of parkinson’s	
-V-97	disease	disease	milk	milk	risks associated with more	
 V-97	pesticides	pesticides	milk	milk	in	
-V-97	pesticides	pesticides	milk	milk	present in	
 V-97	risk	risk	bone fractures	bone fractures	of	
-V-97	inflammation	inflammation	sugar	sugar	—we should think galactose, the milk	
-V-97	dairy	dairy	milk	milk	products; so, why should	
-V-97	risk	risk	death	death	of both bone fractures and	
-V-97	inflammation	inflammation	galactose	galactose	—we should think	
-V-97	contaminants	contaminants	milk	milk	in	
-V-97	risk	risk	milk	milk	increased by 17% for every small glass of	
-V-97	contamination	contamination	neurotoxins	neurotoxins	of milk by	
-V-97	milk	milk	lead	lead		
-V-97	milk	milk	cheese	cheese	be associated with parkinson’s more than	
-V-97	milk	milk	cheese	cheese	consumption than	
-V-97	cheese	cheese	milk	milk	?well, there are other neurotoxic contaminants in	
+V-97	disease	disease	brain disease	brain disease	is a horrible degenerative	
 V-97	risk	risk	dairy	dairy	associated with	
 V-97	risk	risk	dairy	dairy	attached to some	
-V-97	cheese	cheese	milk	milk	—more oxidative stress, inflammation—we should think galactose, the	
-V-97	lead	lead	milk	milk	to parkinson’s, or parkinson’s lead to	
-V-97	dairy	dairy	milk	milk	industry should require toxin screenings of	
-V-97	disease	disease	oxidative stress	oxidative stress	risks associated with more milk than cheese—more	
-V-97	pesticides	pesticides	neurotoxins	neurotoxins	and other	
-V-97	pesticides	pesticides	dairy	dairy	and other neurotoxins in	
-V-97	disease	disease	brain disease	brain disease	is a horrible degenerative	
-V-97	brains	brains	pesticides	pesticides	of parkinson’s victims, on autopsy.since	
-V-97	risk	risk	bone fractures	bone fractures	of both	
-V-97	pesticides	pesticides	disease	disease	themselves—like tetrahydroisoquinolines, found in the brains of parkinson’s	
-V-97	disease	disease	cheese	cheese	risks associated with more milk than	
-V-97	fat	fat	skim milk	skim milk	—and the link between	
-V-97	milk	milk	disease	disease	being a risk factor for parkinson’s	
-V-97	inflammation	inflammation	milk	milk	—we should think galactose, the	
-V-97	milk	milk	disease	disease	intake and the incidence of parkinson’s	
-V-97	risk	risk	disease	disease	factor for parkinson’s	
-V-97	cheese	cheese	milk	milk	than in	
-V-97	milk	milk	risk	risk	drinkers specifically appeared to have higher	
+V-97	neurotoxins	neurotoxins	dairy	dairy	in	
+V-97	galactose	galactose	milk	milk	found in	
+V-97	contaminants	contaminants	milk	milk	in	

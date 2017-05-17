@@ -1,11 +1,6 @@
 
-V-667	potassium	potassium	vegetables	vegetables	is particularly abundant in fruits and	
-V-667	heart disease	heart disease	american college of cardiology	american college of cardiology	—was recently published in the journal of the	
 V-667	risk	risk	stroke	stroke	of	
 V-667	potassium	potassium	fruits	fruits	is particularly abundant in	
-V-667	disease	disease	american college of cardiology	american college of cardiology	—was recently published in the journal of the	
 V-667	stroke	stroke	heart disease	heart disease	and	
 V-667	fruit	fruit	vegetables	vegetables	and	
-V-667	stroke	stroke	disease	disease	and heart	
 V-667	fruits	fruits	vegetables	vegetables	and	
-V-667	potassium	potassium	risk	risk	intake was associated with a 21% lower	

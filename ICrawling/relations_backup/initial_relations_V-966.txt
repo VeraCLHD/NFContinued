@@ -1,8 +1,3 @@
 
-V-966	coca cola	coca cola	dairy	dairy	or the	
-V-966	food industry	food industry	nutrition	nutrition	on	
-V-966	nutrition	nutrition	health	health	research could have an adverse effect on the	
-V-966	health	health	medications	medications	of millions of individuals who take	
 V-966	soda	soda	milk	milk	or	
-V-966	cola	cola	dairy	dairy	or the	
 V-966	soda	soda	milk	milk	and	

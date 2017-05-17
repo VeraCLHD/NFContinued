@@ -1,50 +1,11 @@
 
-V-363	cholesterol	cholesterol	drugs	drugs	lowering statin	
-V-363	pills	pills	risk	risk	typically only reduce cardiovascular disease	
-V-363	drugs	drugs	pills	pills	and blood pressure	
-V-363	chronic diseases	chronic diseases	stroke	stroke	—not just heart disease and diabetes but	
-V-363	blood pressure	blood pressure	pills	pills		
-V-363	blood pressure	blood pressure	risk	risk	pills typically only reduce cardiovascular disease	
-V-363	disease	disease	risk	risk		
-V-363	interheart study	interheart study	women	women	showed that for men and	
-V-363	prevention	prevention	disease	disease	and control of heart	
-V-363	diabetes	diabetes	stroke	stroke	but	
-V-363	cholesterol	cholesterol	drugs	drugs	and blood pressure lowering	
-V-363	chronic diseases	chronic diseases	heart disease	heart disease	—not just	
-V-363	cholesterol	cholesterol	pills	pills	lowering statin drugs and blood pressure	
-V-363	pills	pills	disease	disease	typically only reduce cardiovascular	
-V-363	cholesterol	cholesterol	blood	blood	and	
-V-363	chronic diseases	chronic diseases	diabetes	diabetes	—not just heart disease and	
-V-363	drugs	drugs	blood pressure	blood pressure	and	
-V-363	drugs	drugs	cardiovascular disease	cardiovascular disease	and blood pressure pills typically only reduce	
-V-363	risk	risk	chronic diseases	chronic diseases	of multiple	
-V-363	risk	risk	diabetes	diabetes	of multiple chronic diseases—not just heart disease and	
-V-363	prevention	prevention	heart disease	heart disease	and control of	
 V-363	disease	disease	diabetes	diabetes	and	
-V-363	heart attacks	heart attacks	risk	risk	with no	
-V-363	risk	risk	heart attack	heart attack	of having a	
-V-363	harvard	harvard	health	health		
-V-363	blood	blood	pills	pills	pressure	
-V-363	disease	disease	stroke	stroke	and diabetes but	
-V-363	heart disease	heart disease	diabetes	diabetes	and	
-V-363	pills	pills	cardiovascular disease	cardiovascular disease	typically only reduce	
-V-363	risk	risk	heart disease	heart disease	of multiple chronic diseases—not just	
-V-363	blood	blood	disease	disease	pressure pills typically only reduce cardiovascular	
-V-363	blood	blood	drugs	drugs	pressure lowering	
-V-363	cardiovascular disease	cardiovascular disease	risk	risk		
-V-363	blood pressure	blood pressure	disease	disease	pills typically only reduce cardiovascular	
-V-363	cholesterol	cholesterol	blood pressure	blood pressure	lowering statin drugs and	
-V-363	risk	risk	cholesterol	cholesterol	factors, like	
-V-363	chronic diseases	chronic diseases	disease	disease	—not just heart	
-V-363	cholesterol	cholesterol	blood	blood	lowering statin drugs and	
 V-363	blood pressure	blood pressure	drugs	drugs	lowering	
-V-363	heart disease	heart disease	stroke	stroke	and diabetes but	
-V-363	doctors	doctors	medicine	medicine	are still stuck back practicing 20th century	
 V-363	cholesterol	cholesterol	blood pressure	blood pressure	and	
 V-363	drugs	drugs	blood	blood	and	
-V-363	blood pressure	blood pressure	cardiovascular disease	cardiovascular disease	pills typically only reduce	
-V-363	blood	blood	cardiovascular disease	cardiovascular disease	pressure pills typically only reduce	
-V-363	blood	blood	risk	risk	pressure pills typically only reduce cardiovascular disease	
-V-363	risk	risk	disease	disease	of multiple chronic diseases—not just heart	
-V-363	drugs	drugs	disease	disease	and blood pressure pills typically only reduce cardiovascular	
+V-363	drugs	drugs	risk	risk	may be able to get a further 78% drop in	
+V-363	cholesterol	cholesterol	blood	blood	and	
+V-363	heart disease	heart disease	diabetes	diabetes	and	
+V-363	drugs	drugs	blood pressure	blood pressure	and	
 V-363	diet	diet	drugs	drugs	or	
+V-363	interheart study	interheart study	women	women	showed that for men and	

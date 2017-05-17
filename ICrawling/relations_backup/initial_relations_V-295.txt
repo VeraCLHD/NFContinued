@@ -1,38 +1,13 @@
 
-V-295	organic	organic	jelly beans	jelly beans		
-V-295	organic foods	organic foods	phytonutrients	phytonutrients	have more antioxidant	
-V-295	organic	organic	fruits	fruits		
-V-295	exercise	exercise	organic	organic	was slightly greater after choosing an	
-V-295	organic	organic	beans	beans	jelly	
-V-295	organic	organic	cookies	cookies	dessert than after eating no dessert at all—organic	
+V-295	pesticides	pesticides	fruits	fruits	stop us from stuffing our face with as many	
+V-295	vegetables	vegetables	cancer	cancer	might result in ten additional	
+V-295	exercise	exercise	organic	organic	was deemed more acceptable when the person had just chosen an	
 V-295	potato chips	potato chips	organic	organic	and	
-V-295	organic	organic	vegetables	vegetables	fruits and	
-V-295	smoking	smoking	cigarettes	cigarettes	a pack of	
 V-295	pesticides	pesticides	carcinogens	carcinogens	have been classified as probable	
 V-295	cadmium	cadmium	heavy metals	heavy metals	is one of three highly toxic	
 V-295	cookies	cookies	calories	calories	were viewed as having negative	
-V-295	organic foods	organic foods	cadmium	cadmium	have more antioxidant phytonutrients, but lower concentrations of	
-V-295	produce	produce	smoking	smoking	is almost as bad as	
-V-295	organic	organic	antioxidant	antioxidant	foods have more	
-V-295	vegetables	vegetables	risk	risk	that far outweighs whatever tiny bump in	
-V-295	lead	lead	fruit	fruit	to a decrease in overall	
-V-295	vegetables	vegetables	cancer	cancer	might result in ten additional	
-V-295	antioxidant	antioxidant	phytonutrients	phytonutrients		
-V-295	organic	organic	junk food	junk food		
-V-295	pesticides	pesticides	produce	produce	but even the levels on conventional	
-V-295	fruits	fruits	pesticides	pesticides	and vegetables have fewer	
-V-295	organic	organic	food industry	food industry		
-V-295	organic	organic	pesticides	pesticides	fruits and vegetables have fewer	
-V-295	organic foods	organic foods	antioxidant	antioxidant	have more	
-V-295	risk	risk	pesticides	pesticides	from the	
-V-295	dioxins	dioxins	pesticides	pesticides	that can form once	
-V-295	antioxidant	antioxidant	cadmium	cadmium	phytonutrients, but lower concentrations of	
-V-295	cookies	cookies	calories	calories	to have fewer	
-V-295	organic	organic	produce	produce	food buyers may think eating conventional	
 V-295	fruits	fruits	vegetables	vegetables	and	
-V-295	organic	organic	phytonutrients	phytonutrients	foods have more antioxidant	
 V-295	vegetables	vegetables	pesticides	pesticides	have fewer	
-V-295	potato chips	potato chips	beans	beans	and organic jelly	
-V-295	potato chips	potato chips	jelly beans	jelly beans	and organic	
-V-295	accidents	accidents	united states	united states	in the	
-V-295	organic	organic	cadmium	cadmium	crops have only about half the	
+V-295	exercise	exercise	organic	organic	was slightly greater after choosing an	
+V-295	produce	produce	smoking	smoking	is almost as bad as	
+V-295	organic foods	organic foods	antioxidant	antioxidant	have more	

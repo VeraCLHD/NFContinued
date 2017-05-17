@@ -1,38 +1,13 @@
 
-V-983	diet	diet	eggs	eggs	with no	
-V-983	mood	mood	omnivores	omnivores	in	
-V-983	fat	fat	brains	brains	inflaming the omnivores’	
-V-983	arachidonic acid	arachidonic acid	fish	fish	in	
-V-983	vegetarian	vegetarian	women	women	men and	
-V-983	diet	diet	mood	mood	can reduce	
-V-983	women	women	anxiety	anxiety	had significantly better scores on the depression,	
-V-983	arachidonic acid	arachidonic acid	diet	diet	stuff in our	
-V-983	omnivores	omnivores	brains	brains	’	
-V-983	omnivores	omnivores	vegetarians	vegetarians	ate nine times as much arachidonic acid as the	
-V-983	vegetarian	vegetarian	diet	diet		
-V-983	fat	fat	omnivores	omnivores	inflaming the	
-V-983	vegetarian	vegetarian	depression	depression	group significantly improved—meaning greater reductions in both the	
-V-983	egg-free	egg-free	vegetarian	vegetarian		
-V-983	vegetarian	vegetarian	eggs	eggs	diet with no	
-V-983	vegetarians	vegetarians	arachidonic acid	arachidonic acid	and vegans have significantly lower levels of	
-V-983	meat	meat	omnivores	omnivores	can help protect mood in	
+V-983	arachidonic acid	arachidonic acid	vegetarian	vegetarian	in	
 V-983	women	women	depression	depression	had significantly better scores on the	
 V-983	vegetarians	vegetarians	vegans	vegans	and	
 V-983	omnivores	omnivores	arachidonic acid	arachidonic acid	ate nine times as much	
 V-983	meat	meat	mood	mood	can help protect	
-V-983	diet	diet	omnivores	omnivores	produces inflammatory compounds, which may inflame our brain.the	
-V-983	women	women	stress	stress	had significantly better scores on the depression, anxiety,	
-V-983	vegetarian	vegetarian	omnivores	omnivores	diet can reduce mood variability in	
-V-983	diet	diet	omnivores	omnivores	can reduce mood variability in	
-V-983	saturated fat	saturated fat	omnivores	omnivores	inflaming the	
-V-983	arachidonic acid	arachidonic acid	mood	mood	intake may help explain the favorable	
-V-983	vegetarians	vegetarians	arachidonic acid	arachidonic acid	—which is not surprising, given that	
-V-983	vegetarian	vegetarian	mood	mood	diet can reduce	
-V-983	arachidonic acid	arachidonic acid	vegetarian	vegetarian	in	
+V-983	mood	mood	omnivores	omnivores	in	
 V-983	vegans	vegans	arachidonic acid	arachidonic acid	have significantly lower levels of	
-V-983	saturated fat	saturated fat	brains	brains	inflaming the omnivores’	
-V-983	stress	stress	mood	mood	scale and the profile of	
-V-983	mood	mood	omnivores	omnivores	variability in	
+V-983	arachidonic acid	arachidonic acid	fish	fish	in	
+V-983	diet	diet	mood	mood	can reduce	
+V-983	fat	fat	omnivores	omnivores	inflaming the	
 V-983	epa	epa	dha	dha	and	
-V-983	mood	mood	mood disturbance	mood disturbance	states—a measurement of	
-V-983	mood	mood	vegetarian	vegetarian	profile observed with	
+V-983	saturated fat	saturated fat	omnivores	omnivores	inflaming the	

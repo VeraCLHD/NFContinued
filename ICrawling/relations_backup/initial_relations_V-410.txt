@@ -1,32 +1,12 @@
 
-V-410	orange	orange	juice	juice	or grapefruit	
-V-410	hardening of the arteries	hardening of the arteries	allergies	allergies	in the first place, as well as	
-V-410	platelets	platelets	chemicals	chemicals	transport a vast amount of inflammatory	
-V-410	platelets	platelets	blood	blood	look so different you can just take	
-V-410	platelets	platelets	blood	blood	are what trigger the	
-V-410	stroke	stroke	disease	disease	and heart	
-V-410	orange	orange	grapefruit juice	grapefruit juice	or	
-V-410	grapefruit juice	grapefruit juice	juice	juice	didn't seem to help, but purple grape	
-V-410	blood	blood	heart attacks	heart attacks	clots that cause	
 V-410	platelets	platelets	blood clots	blood clots	are what trigger the	
-V-410	aspirin	aspirin	heart attacks	heart attacks	does.studies have shown daily aspirin can reduce	
-V-410	blood	blood	platelets	platelets	clotting,	
-V-410	grapefruit	grapefruit	grape juice	grape juice	juice didn't seem to help, but purple	
-V-410	arteries	arteries	rheumatoid arthritis	rheumatoid arthritis	in the first place, as well as allergies,	
+V-410	platelets	platelets	blood	blood	look so different you can just take	
+V-410	stroke	stroke	heart disease	heart disease	and	
+V-410	platelets	platelets	blood	blood	are what trigger the	
 V-410	platelets	platelets	strawberries	strawberries	circulating throughout their bodies after the	
-V-410	hardening of the arteries	hardening of the arteries	rheumatoid arthritis	rheumatoid arthritis	in the first place, as well as allergies,	
+V-410	fruits	fruits	vegetables	vegetables	and	
+V-410	orange	orange	grapefruit juice	grapefruit juice	or	
+V-410	americans	americans	fruits	fruits	increased their consumption of	
 V-410	prevention	prevention	heart attacks	heart attacks	of	
 V-410	cholesterol	cholesterol	blood	blood	circulating in the	
 V-410	orange	orange	grapefruit	grapefruit	or	
-V-410	blood clots	blood clots	heart attacks	heart attacks	that cause	
-V-410	platelets	platelets	heart attacks	heart attacks	are what trigger the blood clots that cause	
-V-410	juice	juice	grape juice	grape juice	didn't seem to help, but purple	
-V-410	prevention	prevention	stroke	stroke	of heart attacks and	
-V-410	americans	americans	fruits	fruits	increased their consumption of	
-V-410	arteries	arteries	allergies	allergies	in the first place, as well as	
-V-410	stroke	stroke	heart disease	heart disease	and	
-V-410	heart attacks	heart attacks	aspirin	aspirin	and strokes, however,	
-V-410	inflammatory cells	inflammatory cells	pus	pus	that form the	
-V-410	grapefruit juice	grapefruit juice	grape juice	grape juice	didn't seem to help, but purple	
-V-410	fruits	fruits	vegetables	vegetables	and	
-V-410	grapefruit	grapefruit	juice	juice		

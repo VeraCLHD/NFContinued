@@ -1,56 +1,8 @@
 
-A-385	red cabbage	red cabbage	vitamin c	vitamin c	microgreens have a 6-fold higher	
 A-385	broccoli sprouts	broccoli sprouts	detox	detox	are probably the best—see for example the best	
-A-385	alfalfa sprouts	alfalfa sprouts	manure	manure	(even when home sprouted) as fecal bacteria from	
-A-385	antioxidant content	antioxidant content	grains	grains	of seeds,	
-A-385	baby	baby	phytonutrients	phytonutrients	spinach leaves, for example, have higher levels of	
-A-385	antioxidants	antioxidants	antioxidant	antioxidant	sprouting up to see what happens to the	
-A-385	alfalfa	alfalfa	sprouts	sprouts		
-A-385	broccoli sprouts	broccoli sprouts	sulforaphane	sulforaphane	are probably the best—see for example the best detox and 	
-A-385	antioxidants	antioxidants	antioxidant content	antioxidant content	sprouting up to see what happens to the	
-A-385	sprouts	sprouts	sulforaphane	sulforaphane	are probably the best—see for example the best detox and 	
-A-385	raw	raw	alfalfa	alfalfa		
-A-385	antioxidant content	antioxidant content	seeds	seeds	of	
-A-385	nutrition	nutrition	vegetables	vegetables	content of 25 commercially available microgreens, seedlings of	
-A-385	red cabbage	red cabbage	microgreens	microgreens		
-A-385	sprouts	sprouts	manure	manure	(even when home sprouted) as fecal bacteria from	
 A-385	spinach	spinach	phytonutrients	phytonutrients	leaves, for example, have higher levels of	
-A-385	cabbage	cabbage	microgreens	microgreens		
-A-385	alfalfa	alfalfa	fecal bacteria	fecal bacteria	sprouts (even when home sprouted) as	
-A-385	herbs	herbs	restaurants	restaurants	that have gained popularity in upscale markets and	
-A-385	vitamin c	vitamin c	cabbage	cabbage	concentration than mature red	
-A-385	fecal bacteria	fecal bacteria	manure	manure	from	
-A-385	antioxidants	antioxidants	sprouting	sprouting		
-A-385	alfalfa sprouts	alfalfa sprouts	fecal bacteria	fecal bacteria	(even when home sprouted) as	
-A-385	alfalfa sprouts	alfalfa sprouts	bacteria	bacteria	(even when home sprouted) as fecal	
-A-385	cabbage	cabbage	microgreens	microgreens	and 69 times the vitamin k.	
-A-385	microgreens	microgreens	vitamin c	vitamin c	have a 6-fold higher	
-A-385	superfood	superfood	bargains	bargains		
-A-385	nutrition	nutrition	microgreens	microgreens	content of 25 commercially available	
-A-385	baby	baby	spinach	spinach		
-A-385	sulforaphane	sulforaphane	broccoli	broccoli	from	
-A-385	cabbage	cabbage	vitamin c	vitamin c	microgreens have a 6-fold higher	
-A-385	broccoli	broccoli	detox	detox	sprouts are probably the best—see for example the best	
-A-385	usda	usda	nutrition	nutrition	researchers recently published a study assessing the	
-A-385	vegetables	vegetables	herbs	herbs	and	
-A-385	antioxidant	antioxidant	beans	beans	content of seeds, grains, and	
-A-385	antioxidant	antioxidant	seeds	seeds	content of	
-A-385	raw	raw	alfalfa sprouts	alfalfa sprouts		
-A-385	phytonutrients	phytonutrients	baby	baby	than mature spinach leaves, but what about really 	
-A-385	sprouts	sprouts	fecal bacteria	fecal bacteria	(even when home sprouted) as	
-A-385	vitamin c	vitamin c	red cabbage	red cabbage	concentration than mature	
-A-385	detox	detox	sulforaphane	sulforaphane	 and 	
-A-385	sprouts	sprouts	bacteria	bacteria	(even when home sprouted) as fecal	
-A-385	cabbage	cabbage	bargains	bargains	(superfood	
-A-385	alfalfa	alfalfa	bacteria	bacteria	sprouts (even when home sprouted) as fecal	
-A-385	antioxidant content	antioxidant content	beans	beans	of seeds, grains, and	
-A-385	sprouting	sprouting	antioxidant content	antioxidant content	up to see what happens to the	
-A-385	raw	raw	sprouts	sprouts	alfalfa	
-A-385	red cabbage	red cabbage	microgreens	microgreens	and 69 times the vitamin k.	
-A-385	antioxidant	antioxidant	grains	grains	content of seeds,	
-A-385	phytonutrients	phytonutrients	spinach	spinach	than mature	
-A-385	broccoli	broccoli	sprouts	sprouts		
-A-385	sprouting	sprouting	antioxidant	antioxidant	up to see what happens to the	
+A-385	manure	manure	raw	raw	can hide in the seed’s nooks and crannies and cause illness: don’t eat	
 A-385	sprouts	sprouts	detox	detox	are probably the best—see for example the best	
-A-385	bacteria	bacteria	manure	manure	from	
-A-385	detox	detox	broccoli	broccoli	 and sulforaphane from	
+A-385	microgreens	microgreens	vitamin c	vitamin c	have a 6-fold higher	
+A-385	vegetables	vegetables	herbs	herbs	and	
+A-385	antioxidant content	antioxidant content	seeds	seeds	of	

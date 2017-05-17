@@ -1,78 +1,21 @@
 
-A-109	milk	milk	diet	diet	protein-free	
-A-109	constipation	constipation	children	children	is a common problem in	
-A-109	milk	milk	diet	diet	-free	
-A-109	constipation	constipation	rice	rice	by switching to soy milk or	
-A-109	constipation	constipation	rice milk	rice milk	by switching to soy milk or	
-A-109	medicine	medicine	soy milk	soy milk	—a double-blind, crossover study, comparing cow’s milk and	
-A-109	kids	kids	constipation	constipation	suffering from chronic	
-A-109	constipation	constipation	infants	infants	in	
-A-109	infants	infants	children	children	and young	
-A-109	rice	rice	milk	milk		
-A-109	milk	milk	soy	soy	or	
-A-109	dairy	dairy	milk	milk		
-A-109	soy milk	soy milk	rice	rice	or	
-A-109	milk	milk	protein	protein		
-A-109	protein	protein	diet	diet	from their	
-A-109	milk	milk	rice	rice	or	
-A-109	kids	kids	dairy	dairy	could still have been eating other	
-A-109	milk	milk	dairy	dairy	to non-	
-A-109	constipation	constipation	children	children	in young	
-A-109	infants	infants	young children	young children	and	
-A-109	kids	kids	soy	soy	’ constipation by switching to	
-A-109	milk	milk	kids	kids	to non-dairy milk, the	
 A-109	constipation	constipation	soy milk	soy milk	resolved while they were receiving	
+A-109	constipation	constipation	children	children	is a common problem in	
 A-109	milk	milk	soy	soy	and	
-A-109	constipation	constipation	dairy	dairy	and cow’s milk, got constipated kids off all	
-A-109	kids	kids	milk	milk	’ constipation by switching to soy	
-A-109	constipation	constipation	milk	milk	because of cow’s	
-A-109	milk	milk	rice milk	rice milk	or	
-A-109	kids	kids	constipation	constipation	’	
-A-109	kids	kids	rice	rice	’ constipation by switching to soy milk or	
-A-109	constipation	constipation	fiber	fiber	is a common problem in children, for which	
-A-109	fiber	fiber	laxatives	laxatives	and	
-A-109	milk	milk	children	children	challenges, meaning when they tried giving the	
-A-109	constipation	constipation	soy	soy	by switching to	
-A-109	soy milk	soy milk	milk	milk	or rice	
-A-109	children	children	milk	milk	drinking more than a cup of	
-A-109	soy	soy	milk	milk		
-A-109	children	children	milk	milk	receiving cow’s	
-A-109	constipation	constipation	children	children	among	
-A-109	soy	soy	pain	pain	milk, and the anal fissures and	
-A-109	biopsy	biopsy	constipation	constipation	tissue samples in patients with chronic	
-A-109	kids	kids	soy milk	soy milk	’ constipation by switching to	
-A-109	kids	kids	dairy	dairy	from cow’s milk to non-	
-A-109	kids	kids	dairy	dairy	off all	
-A-109	dairy	dairy	cheap	cheap	lobby so persuasive that a	
-A-109	kids	kids	rice milk	rice milk	’ constipation by switching to soy milk or	
-A-109	constipation	constipation	soy milk	soy milk	by switching to	
-A-109	constipation	constipation	milk	milk	and cow’s	
-A-109	dairy	dairy	health	health	may be important for infant	
-A-109	medicine	medicine	soy	soy	—a double-blind, crossover study, comparing cow’s milk and	
-A-109	kids	kids	milk	milk	from cow’s	
-A-109	constipation	constipation	children	children	in infants and young	
-A-109	soy	soy	rice	rice	milk or	
-A-109	constipation	constipation	milk	milk	resolved while they were receiving soy	
-A-109	colic	colic	diet	diet	by changing mom’s	
-A-109	disease	disease	milk	milk	in just a few days by eliminating cow’s	
-A-109	dairy	dairy	kids	kids	milk, the	
-A-109	soy	soy	rice milk	rice milk	milk or	
-A-109	constipation	constipation	young children	young children	in	
-A-109	medicine	medicine	milk	milk	—a double-blind, crossover study, comparing cow’s	
 A-109	milk	milk	soy milk	soy milk	or	
-A-109	constipation	constipation	milk	milk	by switching to soy	
 A-109	milk	milk	soy milk	soy milk	and	
 A-109	soy milk	soy milk	rice milk	rice milk	or	
-A-109	milk	milk	diet	diet	protein from their	
-A-109	constipation	constipation	young children	young children	in infants and	
-A-109	england	england	milk	milk	journal of medicine—a double-blind, crossover study, comparing cow’s	
+A-109	kids	kids	constipation	constipation	suffering from chronic	
+A-109	milk	milk	rice milk	rice milk	or	
+A-109	constipation	constipation	infants	infants	in	
 A-109	constipation	constipation	soy	soy	resolved while they were receiving	
-A-109	milk	milk	inflammation	inflammation	protein hypersensitivity have found signs of rectal	
-A-109	constipation	constipation	protein	protein	because of cow’s milk	
+A-109	milk	milk	soy	soy	or	
+A-109	fiber	fiber	laxatives	laxatives	and	
 A-109	children	children	milk	milk	might be due to the consumption of cow’s	
-A-109	england	england	medicine	medicine	journal of	
-A-109	protein	protein	inflammation	inflammation	hypersensitivity have found signs of rectal	
-A-109	children	children	milk	milk	back some cow’s	
-A-109	constipation	constipation	kids	kids	and cow’s milk, got constipated	
-A-109	milk	milk	children	children	protein-free diet, 21 out of the 27	
-A-109	children	children	constipation	constipation	back some cow’s milk,  the	
+A-109	soy milk	soy milk	rice	rice	or	
+A-109	milk	milk	rice	rice	or	
+A-109	kids	kids	dairy	dairy	could still have been eating other	
+A-109	infants	infants	young children	young children	and	
+A-109	children	children	milk	milk	drinking more than a cup of	
+A-109	children	children	milk	milk	receiving cow’s	
+A-109	constipation	constipation	young children	young children	in	

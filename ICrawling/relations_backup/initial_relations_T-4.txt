@@ -1,70 +1,13 @@
 
-T-4	beans	beans	abdominal fat	abdominal fat	such as soy, and nuts) and enhance	
-T-4	legumes	legumes	risk	risk	helps to reduce belly fat, which lowers one’s	
-T-4	beans	beans	fat	fat	such as soy, and nuts) and enhance abdominal	
-T-4	risk	risk	death	death	of premature	
-T-4	abdominal fat	abdominal fat	egg	egg	has been linked to meat (of any kind),	
-T-4	blood	blood	plant-based diets	plant-based diets	flow is better in people who eat	
-T-4	weight loss	weight loss	blood	blood	can be achieved through a variety of diets,	
-T-4	risk	risk	syndrome	syndrome	for metabolic	
-T-4	prediabetes	prediabetes	pollutants	pollutants	and protect babies during pregnancy, since	
-T-4	plant-based	plant-based	lead	lead	diets as compared to low-carb diets.obesity can	
-T-4	artificial sweeteners	artificial sweeteners	weight gain	weight gain	may cause	
-T-4	variety	variety	blood	blood	of diets,	
-T-4	nuts	nuts	death	death	may also prevent	
-T-4	green tea	green tea	grapefruit	grapefruit	), though some plant foods, such as	
-T-4	fat	fat	prediabetes	prediabetes	may be the best way to prevent	
-T-4	babies	babies	pollutants	pollutants	during pregnancy, since	
-T-4	phytonutrients	phytonutrients	berries	berries	(found concentrated in citrus,	
-T-4	prediabetes	prediabetes	babies	babies	and protect	
-T-4	beans	beans	nuts	nuts	such as soy, and	
-T-4	blood	blood	plant-based	plant-based	flow is better in people who eat	
-T-4	death	death	cancer	cancer	by lengthening our lifespans and reducing our	
-T-4	meat	meat	abdominal fat	abdominal fat	in childhood may be more likely to develop	
-T-4	fat	fat	meat	meat	has been linked to	
-T-4	exercise	exercise	green tea	green tea	(as with	
-T-4	nuts	nuts	exercise	exercise	) and enhance abdominal fat loss from	
-T-4	risk	risk	prediabetes	prediabetes	for metabolic syndrome, a type of	
-T-4	risk	risk	obesity	obesity	of	
-T-4	lead	lead	health	health	to other	
-T-4	weight loss	weight loss	variety	variety	can be achieved through a	
-T-4	babies	babies	pregnancy	pregnancy	during	
-T-4	legumes	legumes	belly fat	belly fat	helps to reduce	
-T-4	nuts	nuts	fat	fat	) and enhance abdominal	
-T-4	phytonutrients	phytonutrients	citrus	citrus	(found concentrated in	
-T-4	obesity	obesity	metabolism	metabolism	by boosting our	
-T-4	phytonutrients	phytonutrients	red onions	red onions	(found concentrated in citrus, berries,	
-T-4	risk	risk	metabolic syndrome	metabolic syndrome	for	
-T-4	plant foods	plant foods	beans	beans	may have slimming effects (as with	
-T-4	pollutants	pollutants	fat	fat	may be stored in	
-T-4	babies	babies	fat	fat	during pregnancy, since pollutants may be stored in	
-T-4	tea	tea	plant foods	plant foods	), though some	
-T-4	green tea	green tea	plant foods	plant foods	), though some	
-T-4	phytonutrients	phytonutrients	beans	beans	(found concentrated in citrus, berries, red onions,	
 T-4	abdominal fat	abdominal fat	meat	meat	has been linked to	
-T-4	risk	risk	metabolism	metabolism	of obesity by boosting our	
-T-4	calories	calories	fat	fat	than previously thought because of fecal	
-T-4	cancer	cancer	risk	risk		
-T-4	exercise	exercise	plant foods	plant foods	(as with green tea), though some	
-T-4	cocoa	cocoa	metabolism	metabolism	) may boost	
-T-4	weight loss	weight loss	water	water	as	
-T-4	exercise	exercise	tea	tea	(as with green	
-T-4	fat	fat	risk	risk	streaks, putting them at greater	
+T-4	plant foods	plant foods	beans	beans	may have slimming effects (as with	
+T-4	risk	risk	obesity	obesity	of	
+T-4	weight loss	weight loss	variety	variety	can be achieved through a	
 T-4	belly fat	belly fat	prediabetes	prediabetes	may be the best way to prevent	
-T-4	phytonutrients	phytonutrients	green tea	green tea	(found concentrated in citrus, berries, red onions, beans,	
-T-4	sweeteners	sweeteners	weight gain	weight gain	may cause	
-T-4	meat	meat	milk	milk	(of any kind), egg, and	
-T-4	prediabetes	prediabetes	pregnancy	pregnancy	and protect babies during	
-T-4	nuts	nuts	abdominal fat	abdominal fat	) and enhance	
-T-4	risk	risk	plant foods	plant foods	for heart disease.on the other hand,	
-T-4	beans	beans	soy	soy	such as	
-T-4	tea	tea	grapefruit	grapefruit	), though some plant foods, such as	
-T-4	death	death	risk	risk	by lengthening our lifespans and reducing our cancer	
+T-4	legumes	legumes	belly fat	belly fat	helps to reduce	
+T-4	artificial sweeteners	artificial sweeteners	weight gain	weight gain	may cause	
 T-4	obesity	obesity	adolescence	adolescence	can start in	
-T-4	abdominal fat	abdominal fat	risk	risk	streaks, putting them at greater	
-T-4	meat	meat	egg	egg	(of any kind),	
-T-4	legumes	legumes	fat	fat	helps to reduce belly	
-T-4	fat	fat	egg	egg	has been linked to meat (of any kind),	
-T-4	phytonutrients	phytonutrients	onions	onions	(found concentrated in citrus, berries, red	
-T-4	plant-based diets	plant-based diets	lead	lead	as compared to low-carb diets.obesity can	
+T-4	sweeteners	sweeteners	weight gain	weight gain	may cause	
+T-4	fat	fat	meat	meat	has been linked to	
 T-4	meat	meat	adiponectin	adiponectin	may decrease levels of	
+T-4	fat	fat	prediabetes	prediabetes	may be the best way to prevent	

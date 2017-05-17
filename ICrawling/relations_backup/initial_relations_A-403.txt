@@ -1,35 +1,4 @@
 
-A-403	grains	grains	nutrition	nutrition	to cows, less than half the	
-A-403	zinc	zinc	pumpkin	pumpkin	than	
-A-403	zinc	zinc	meat	meat	than pumpkin seeds, and more protein than snail	
-A-403	nasa	nasa	vegan	vegan	decided on a 	
-A-403	zinc	zinc	seeds	seeds	than pumpkin	
-A-403	arginine	arginine	seeds	seeds	than soybeans, more zinc than pumpkin	
-A-403	protein	protein	plants	plants	from	
-A-403	arginine	arginine	soybeans	soybeans	than	
-A-403	fat	fat	burning	burning		
-A-403	protein	protein	maggots	maggots	from plants is preferable,	
-A-403	arginine	arginine	zinc	zinc	than soybeans, more	
-A-403	worms	worms	b12	b12	gets you all the vitamin	
-A-403	vegan	vegan	vitamin b12	vitamin b12	menu for mars, realizing, perhaps, that there are safer and cheaper sources of 	
 A-403	plants	plants	bugs	bugs	is wasted when we route them through	
-A-403	protein	protein	meat	meat	than snail	
 A-403	worms	worms	vitamin b12	vitamin b12	gets you all the	
-A-403	grains	grains	cows	cows	to	
-A-403	vegan	vegan	b12	b12	menu for mars, realizing, perhaps, that there are safer and cheaper sources of vitamin	
-A-403	arginine	arginine	pumpkin	pumpkin	than soybeans, more zinc than	
-A-403	nutrition	nutrition	plants	plants	of edible	
-A-403	burning	burning	arginine	arginine	via	
-A-403	zinc	zinc	protein	protein	than pumpkin seeds, and more	
-A-403	zinc	zinc	snail meat	snail meat	than pumpkin seeds, and more protein than	
-A-403	fat	fat	arginine	arginine	burning via	
-A-403	protein	protein	snail meat	snail meat	than	
-A-403	vitamin b12	vitamin b12	worms	worms	than a daily pound of powdered	
-A-403	pumpkin	pumpkin	seeds	seeds		
-A-403	b12	b12	worms	worms	than a daily pound of powdered	
-A-403	pumpkin	pumpkin	meat	meat	seeds, and more protein than snail	
-A-403	pumpkin	pumpkin	snail meat	snail meat	seeds, and more protein than	
-A-403	plants	plants	maggots	maggots	is preferable,	
-A-403	arginine	arginine	pumpkin seeds	pumpkin seeds	than soybeans, more zinc than	
-A-403	zinc	zinc	pumpkin seeds	pumpkin seeds	than	
-A-403	pumpkin	pumpkin	protein	protein	seeds, and more	
+A-403	nasa	nasa	vegan	vegan	decided on a 	

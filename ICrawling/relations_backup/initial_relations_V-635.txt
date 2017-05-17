@@ -1,31 +1,7 @@
 
-V-635	cigarettes	cigarettes	emphysema	emphysema	has a protective effect against	
-V-635	sugar	sugar	medications	medications	-lowering	
-V-635	insulin	insulin	cholesterol	cholesterol	levels, and	
-V-635	blood	blood	yeast	yeast	cells were able to engulf about 140	
-V-635	sugar	sugar	blood	blood	-lowering medications, it could potentially drop your	
-V-635	blood	blood	leukemia	leukemia	cancer cells taken from a woman with	
-V-635	fasting blood sugars	fasting blood sugars	insulin	insulin	dropped, as did their	
-V-635	fasting blood sugars	fasting blood sugars	cholesterol	cholesterol	dropped, as did their insulin levels, and	
-V-635	cancer	cancer	leukemia	leukemia	cells taken from a woman with	
-V-635	blood	blood	blood sugar	blood sugar	sugar-lowering medications, it could potentially drop your	
-V-635	cancer cells	cancer cells	leukemia	leukemia	taken from a woman with	
-V-635	blood cancer	blood cancer	leukemia	leukemia	cells taken from a woman with	
-V-635	blood	blood	cancer	cancer		
-V-635	sugar	sugar	blood sugar	blood sugar	-lowering medications, it could potentially drop your	
-V-635	blood	blood	yeast	yeast	cells gobbling up invading	
-V-635	hibiscus	hibiscus	tea	tea		
-V-635	blood sugar	blood sugar	blood	blood	-lowering medications, it could potentially drop your	
-V-635	white blood cells	white blood cells	yeast	yeast	were able to engulf about 140	
-V-635	blood	blood	medications	medications	sugar-lowering	
-V-635	antioxidant	antioxidant	pain	pain	levels went up, and	
-V-635	blood	blood	cancer cells	cancer cells		
-V-635	blood sugar	blood sugar	medications	medications	-lowering	
-V-635	blood	blood	insulin	insulin	sugars dropped, as did their	
 V-635	white blood cells	white blood cells	yeast	yeast	gobbling up invading	
-V-635	blood	blood	cholesterol	cholesterol	sugars dropped, as did their insulin levels, and	
-V-635	hibiscus	hibiscus	cancer	cancer	tea, on the same	
+V-635	cigarettes	cigarettes	emphysema	emphysema	has a protective effect against	
+V-635	white blood cells	white blood cells	yeast	yeast	were able to engulf about 140	
 V-635	berries	berries	natural standards research collaboration	natural standards research collaboration	was recently published by the	
-V-635	berries	berries	cigarettes	cigarettes	to their	
-V-635	blood sugar	blood sugar	sugar	sugar	-lowering medications, it could potentially drop your blood	
-V-635	blood	blood	sugar	sugar		
+V-635	fasting blood sugars	fasting blood sugars	insulin	insulin	dropped, as did their	
+V-635	cancer cells	cancer cells	leukemia	leukemia	taken from a woman with	

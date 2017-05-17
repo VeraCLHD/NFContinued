@@ -1,13 +1,2 @@
 
-V-525	phosphorus	phosphorus	nutrition	nutrition	content on the	
-V-525	public health	public health	phosphorus	phosphorus	community to “mandate that [the]	
-V-525	phosphorus	phosphorus	aluminum	aluminum	 and 	
-V-525	nutrition	nutrition	public health	public health	facts label.there certainly have been calls from the	
-V-525	health	health	phosphorus	phosphorus	community to “mandate that [the]	
-V-525	phosphorus	phosphorus	nutrition	nutrition	content of foods be included [back] on [the]	
-V-525	world health organization	world health organization	aluminum	aluminum	’s provisional tolerable daily intake of	
-V-525	health	health	aluminum	aluminum	organization’s provisional tolerable daily intake of	
-V-525	food industry	food industry	phosphorus	phosphorus	no longer has to list	
-V-525	cheese	cheese	health	health	sandwich, and we may exceed the world	
-V-525	cheese	cheese	world health organization	world health organization	sandwich, and we may exceed the	
-V-525	aluminum	aluminum	food industry	food industry	by 428%, in one sandwich.and, the	
+V-525	meat	meat	phosphate additives	phosphate additives	did not list the additives on their label.sometimes they call the	

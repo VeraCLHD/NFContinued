@@ -1,7 +1,2 @@
 
-V-1020	pomegranate	pomegranate	blood	blood	vinegar,	
-V-1020	pomegranate	pomegranate	orange	orange	vinegar, blood	
-V-1020	pomegranate	pomegranate	vinegar	vinegar		
-V-1020	bread	bread	vinegar	vinegar	dipped in balsalmic	
-V-1020	blood	blood	orange	orange		
-V-1020	blood	blood	sugar	sugar		
+V-1020	vinegar	vinegar	stomach	stomach	slows down the speed at which food leaves the	

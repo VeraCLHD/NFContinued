@@ -1,15 +1,5 @@
 
-V-1200	kidney	kidney	cancer	cancer		
 V-1200	risk	risk	kidney cancer	kidney cancer	of	
-V-1200	white bread	white bread	risk	risk	—50% increased	
-V-1200	lettuce	lettuce	potatoes	potatoes	or white	
-V-1200	risk	risk	kidney	kidney	of	
-V-1200	white bread	white bread	cancer	cancer	—50% increased risk of	
-V-1200	bread	bread	risk	risk	—50% increased	
-V-1200	bread	bread	cancer	cancer	—50% increased risk of	
 V-1200	risk	risk	cancer	cancer	of	
 V-1200	lettuce	lettuce	vegetables	vegetables	is one of the least nutritious	
-V-1200	risk	risk	cancer	cancer	of kidney	
-V-1200	potatoes	potatoes	lettuce	lettuce	that are worth eating?iceberg	
-V-1200	potatoes	potatoes	american dietetic association	american dietetic association	.this year, in the journal of the	
-V-1200	iceberg lettuce	iceberg lettuce	potatoes	potatoes	or white	
+V-1200	risk	risk	kidney	kidney	of	

@@ -1,94 +1,27 @@
 
-A-80	risk	risk	pancreatic cancer	pancreatic cancer	of fatal	
-A-80	pancreatic cancer	pancreatic cancer	poultry	poultry	associated with every 50 grams of daily	
-A-80	meats	meats	veggie dogs	veggie dogs	like veggie burgers or	
-A-80	treatment	treatment	gerson therapy	gerson therapy	in	
-A-80	heterocyclic amines	heterocyclic amines	chicken	chicken	that build up in grilled and baked	
-A-80	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	in chicken, the	
-A-80	burgers	burgers	veggie dogs	veggie dogs	or	
-A-80	cancer	cancer	united states	united states	death in	
-A-80	cancer	cancer	poultry	poultry	prevention in	
-A-80	poultry	poultry	liver	liver	exposure tied to	
-A-80	legumes	legumes	dried fruit	dried fruit	and	
-A-80	plant-based	plant-based	meats	meats		
-A-80	meat	meat	risk	risk	has been associated with significantly increased	
-A-80	cancer treatment	cancer treatment	gerson therapy	gerson therapy	in	
-A-80	burgers	burgers	dogs	dogs	or veggie	
-A-80	poultry	poultry	cancer	cancer	exposure tied to liver and pancreatic	
-A-80	liver	liver	treatment	treatment	and pancreatic cancer and attempts at pancreatic cancer	
-A-80	risk	risk	cooked meat	cooked meat	(see estrogenic	
-A-80	pancreatic cancer	pancreatic cancer	poultry	poultry	prevention in	
-A-80	cancer prevention	cancer prevention	cancer	cancer	in poultry exposure tied to liver and pancreatic	
-A-80	chemicals	chemicals	pancreatic cancer	pancreatic cancer	have been associated with a doubling of	
-A-80	cooked meat	cooked meat	heterocyclic amines	heterocyclic amines	carcinogens in chicken, the	
-A-80	cancer prevention	cancer prevention	pancreatic cancer	pancreatic cancer	in poultry exposure tied to liver and	
-A-80	pancreatic cancer	pancreatic cancer	cancer	cancer	treatment in gerson therapy for	
-A-80	cancer prevention	cancer prevention	liver	liver	in poultry exposure tied to	
-A-80	liver	liver	cancer treatment	cancer treatment	and pancreatic cancer and attempts at pancreatic	
-A-80	meat	meat	fake meat	fake meat	has been associated with significantly increased risk, whereas	
-A-80	cancer	cancer	liver	liver	prevention in poultry exposure tied to	
-A-80	meats	meats	dogs	dogs	like veggie burgers or veggie	
-A-80	prevention	prevention	cancer	cancer	in poultry exposure tied to liver and pancreatic	
-A-80	prevention	prevention	liver	liver	in poultry exposure tied to	
-A-80	pancreatic cancer	pancreatic cancer	liver	liver	prevention in poultry exposure tied to	
-A-80	curcumin	curcumin	cancer	cancer	does seem to help some patients with pancreatic	
-A-80	treatment	treatment	cancer	cancer	in gerson therapy for	
-A-80	cancer	cancer	poultry	poultry	associated with every 50 grams of daily	
-A-80	legumes	legumes	fruit	fruit	and dried	
-A-80	carcinogens	carcinogens	turmeric	turmeric	: i’ve done a bunch of videos on	
-A-80	poultry	poultry	pancreatic cancer	pancreatic cancer	exposure tied to liver and	
-A-80	cooked meat	cooked meat	chicken	chicken	carcinogens in	
-A-80	pancreatic cancer	pancreatic cancer	prevention	prevention		
 A-80	pancreatic cancer	pancreatic cancer	cancer	cancer	is among the most aggressive forms of human	
-A-80	poultry	poultry	risk	risk	was the worst, with 72 percent increased	
+A-80	pancreatic cancer	pancreatic cancer	poultry	poultry	associated with every 50 grams of daily	
 A-80	chemicals	chemicals	cancer	cancer	have been associated with a doubling of pancreatic	
-A-80	veggie burgers	veggie burgers	dogs	dogs	or veggie	
 A-80	prevention	prevention	poultry	poultry	in	
-A-80	plant-based	plant-based	veggie burgers	veggie burgers	meats like	
-A-80	cooked meat	cooked meat	turmeric	turmeric	carcinogens: i’ve done a bunch of videos on	
-A-80	risk	risk	cancer	cancer	of fatal pancreatic	
-A-80	cancer	cancer	cancer	cancer	treatment in gerson therapy for	
-A-80	risk	risk	carcinogens	carcinogens	(see estrogenic cooked meat	
-A-80	liver	liver	cancer	cancer	and pancreatic	
-A-80	turmeric	turmeric	pancreatic cancer	pancreatic cancer	curcumin and	
-A-80	cancer	cancer	risk	risk		
-A-80	pancreatic cancer	pancreatic cancer	meat	meat	risk (see estrogenic cooked	
-A-80	cancer	cancer	pancreatic cancer	pancreatic cancer	prevention in poultry exposure tied to liver and	
-A-80	cancer	cancer	cooked meat	cooked meat	risk (see estrogenic	
-A-80	plant-based	plant-based	veggie dogs	veggie dogs	meats like veggie burgers or	
-A-80	cancer	cancer	meat	meat	risk (see estrogenic cooked	
-A-80	meat	meat	turmeric	turmeric	carcinogens: i’ve done a bunch of videos on	
+A-80	treatment	treatment	gerson therapy	gerson therapy	in	
+A-80	burgers	burgers	veggie dogs	veggie dogs	or	
+A-80	legumes	legumes	dried fruit	dried fruit	and	
+A-80	meat	meat	risk	risk	has been associated with significantly increased	
 A-80	carcinogens	carcinogens	chicken	chicken	in	
-A-80	fat	fat	pancreatic cancer	pancreatic cancer	of animal origin was associated with increased	
-A-80	turmeric	turmeric	cancer	cancer	curcumin and pancreatic	
+A-80	cancer treatment	cancer treatment	gerson therapy	gerson therapy	in	
+A-80	white meat	white meat	cooked meat	cooked meat	came out worse than red may be because of the	
 A-80	cancer	cancer	cancer	cancer	is among the most aggressive forms of human	
 A-80	fake meat	fake meat	risk	risk	is associated with significantly less	
-A-80	prevention	prevention	pancreatic cancer	pancreatic cancer	in poultry exposure tied to liver and	
-A-80	meat	meat	carcinogens	carcinogens		
-A-80	pancreatic cancer	pancreatic cancer	risk	risk		
-A-80	curcumin	curcumin	cancer	cancer	and pancreatic	
-A-80	plant-based	plant-based	burgers	burgers	meats like veggie	
 A-80	risk	risk	pancreatic cancer	pancreatic cancer	of	
-A-80	cancer	cancer	death	death		
 A-80	liver	liver	pancreatic cancer	pancreatic cancer	and	
-A-80	gerson therapy	gerson therapy	cancer	cancer	for	
-A-80	risk	risk	cancer	cancer	of pancreatic	
-A-80	turmeric	turmeric	curcumin	curcumin		
+A-80	chemicals	chemicals	pancreatic cancer	pancreatic cancer	have been associated with a doubling of	
 A-80	curcumin	curcumin	pancreatic cancer	pancreatic cancer	and	
-A-80	pancreatic cancer	pancreatic cancer	cooked meat	cooked meat	risk (see estrogenic	
-A-80	gerson therapy	gerson therapy	chemotherapy	chemotherapy	for cancer and gerson-style therapy vs.	
 A-80	curcumin	curcumin	pancreatic cancer	pancreatic cancer	does seem to help some patients with	
-A-80	meats	meats	veggie burgers	veggie burgers	like	
-A-80	meats	meats	burgers	burgers	like veggie	
-A-80	cancer treatment	cancer treatment	cancer	cancer	in gerson therapy for	
-A-80	plant-based	plant-based	dogs	dogs	meats like veggie burgers or veggie	
-A-80	risk	risk	meat	meat	(see estrogenic cooked	
+A-80	meat	meat	cooked meat	cooked meat	came out worse than red may be because of the	
 A-80	meat	meat	risk	risk	is associated with significantly less	
-A-80	pancreatic cancer	pancreatic cancer	carcinogens	carcinogens	risk (see estrogenic cooked meat	
-A-80	cooked meat	cooked meat	carcinogens	carcinogens		
-A-80	cancer	cancer	carcinogens	carcinogens	risk (see estrogenic cooked meat	
-A-80	fat	fat	cancer	cancer	of animal origin was associated with increased pancreatic	
+A-80	curcumin	curcumin	cancer	cancer	does seem to help some patients with pancreatic	
+A-80	white meat	white meat	meat	meat	came out worse than red may be because of the cooked	
+A-80	cancer	cancer	poultry	poultry	associated with every 50 grams of daily	
 A-80	veggie burgers	veggie burgers	veggie dogs	veggie dogs	or	
-A-80	cancer	cancer	prevention	prevention		
 A-80	cancer prevention	cancer prevention	poultry	poultry	in	
 A-80	death	death	united states	united states	in	

@@ -1,12 +1,6 @@
 
-V-402	diabetes	diabetes	prevention	prevention	remain inadequate,	
-V-402	diarrhea	diarrhea	nauseous	nauseous	in about half, makes 1 in 4	
 V-402	risk	risk	diet	diet	was not for people that actually improved their	
 V-402	weakness	weakness	fatigue	fatigue	and	
 V-402	risk	risk	diabetes	diabetes	of	
-V-402	diabetes	diabetes	period	period	within the four-year study	
 V-402	diabetes	diabetes	blindness	blindness	are legion: the #1 cause of adult-onset	
-V-402	diabetes	diabetes	prevention	prevention		
-V-402	disease	disease	prevention	prevention	control and	
-V-402	kidney	kidney	amputations	amputations	failure, and the number one cause of surgical	
 V-402	diet	diet	exercise	exercise	and	

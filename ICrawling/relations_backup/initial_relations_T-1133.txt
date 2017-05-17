@@ -1,21 +1,5 @@
 
-T-1133	fruits	fruits	kale	kale	and vegetables, especially greens such as spinach and	
-T-1133	greens	greens	kale	kale	such as spinach and	
-T-1133	carotenoid	carotenoid	vision	vision	phytonutrient that may promote attractive skin, healthy	
-T-1133	lutein	lutein	greens	greens	is whole fruits and vegetables, especially 	
-T-1133	fruits	fruits	spinach	spinach	and vegetables, especially greens such as	
-T-1133	carotenoid	carotenoid	skin	skin	phytonutrient that may promote attractive	
-T-1133	greens	greens	spinach	spinach	such as	
-T-1133	phytonutrient	phytonutrient	skin	skin	that may promote attractive	
-T-1133	lutein	lutein	carotenoid	carotenoid	is a	
-T-1133	fruits	fruits	greens	greens	and vegetables, especially 	
-T-1133	lutein	lutein	vegetables	vegetables	is whole fruits and	
-T-1133	lutein	lutein	skin	skin	is a carotenoid phytonutrient that may promote attractive	
-T-1133	egg	egg	lutein	lutein	industries might say, the best dietary source of	
-T-1133	lutein	lutein	phytonutrient	phytonutrient	is a carotenoid	
-T-1133	carotenoid	carotenoid	phytonutrient	phytonutrient		
 T-1133	spinach	spinach	kale	kale	and	
-T-1133	phytonutrient	phytonutrient	vision	vision	that may promote attractive skin, healthy	
-T-1133	lutein	lutein	spinach	spinach	is whole fruits and vegetables, especially greens such as	
 T-1133	fruits	fruits	vegetables	vegetables	and	
+T-1133	lutein	lutein	carotenoid	carotenoid	is a	
 T-1133	lutein	lutein	fruits	fruits	is whole	

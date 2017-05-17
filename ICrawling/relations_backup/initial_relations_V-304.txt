@@ -2,26 +2,8 @@
 V-304	atherosclerosis	atherosclerosis	young children	young children	is often even present in	
 V-304	united states	united states	diet	diet	is our	
 V-304	nuts	nuts	seeds	seeds	and	
-V-304	disease	disease	risk	risk	mortality	
-V-304	heart disease	heart disease	risk	risk		
-V-304	chronic diseases	chronic diseases	coronary heart disease	coronary heart disease	such as	
-V-304	chronic diseases	chronic diseases	stroke	stroke	such as coronary heart disease,	
-V-304	disease	disease	risk	risk		
-V-304	death	death	diet	diet	and disability in the united states is our	
-V-304	risk	risk	death	death	factors ever published, the #1 cause of	
-V-304	nuts	nuts	salt	salt	and seeds, we eat too much	
-V-304	mortality	mortality	risk	risk		
-V-304	chronic diseases	chronic diseases	heart disease	heart disease	such as coronary	
-V-304	obesity	obesity	exercise	exercise	is up,	
-V-304	disease	disease	mortality	mortality		
-V-304	mortality	mortality	variety	variety	risk, which found that those scoring higher using a	
 V-304	diet	diet	fruit	fruit	is that we don’t eat enough	
+V-304	fruits	fruits	vegetables	vegetables	and	
+V-304	disease	disease	atherosclerosis	atherosclerosis	may be present by age 20, and that coronary	
 V-304	atherosclerosis	atherosclerosis	children	children	is often even present in young	
 V-304	slovenia	slovenia	united states	united states	live a year longer than citizens of the	
-V-304	chronic disease	chronic disease	risk	risk	mortality	
-V-304	chronic diseases	chronic diseases	disease	disease	such as coronary heart	
-V-304	exercise	exercise	fruits	fruits	is down, and eating just five servings of	
-V-304	fruits	fruits	vegetables	vegetables	and	
-V-304	chronic disease	chronic disease	mortality	mortality		
-V-304	chronic diseases	chronic diseases	diabetes	diabetes	such as coronary heart disease, stroke,	
-V-304	death	death	united states	united states	and disability in the	

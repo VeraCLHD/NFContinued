@@ -1,45 +1,16 @@
 
-T-115	side effects	side effects	nausea	nausea	include long-term weight gain, insomnia,	
-T-115	mental illness	mental illness	suicide	suicide	that sometimes ends in	
-T-115	neurotransmitters	neurotransmitters	dopamine	dopamine	serotonin, norepinephrine and	
 T-115	onions	onions	green tea	green tea	and	
-T-115	americans	americans	depression	depression	take antidepressants to battle	
-T-115	antidepressants	antidepressants	dopamine	dopamine	block the uptake of norepinephrine and	
-T-115	antidepressants	antidepressants	depression	depression	to battle	
 T-115	antidepressants	antidepressants	symptoms	symptoms	are effective at reducing mild to moderate depressive	
-T-115	side effects	side effects	weight gain	weight gain	include long-term	
-T-115	antidepressants	antidepressants	sugar	sugar	instead of a	
-T-115	symptoms	symptoms	antidepressants	antidepressants	are not uncommon, and those who take	
-T-115	drugs	drugs	mood	mood	can take months to take effect, whereas	
-T-115	neurotransmitters	neurotransmitters	antidepressants	antidepressants	may lead to depression.tricyclic	
-T-115	drugs	drugs	prozac	prozac	such as	
-T-115	antidepressants	antidepressants	sexual dysfunction	sexual dysfunction	experience	
-T-115	side effects	side effects	diarrhea	diarrhea	include long-term weight gain, insomnia, nausea and	
-T-115	onions	onions	tea	tea	and green	
-T-115	eggs	eggs	plants	plants	from the diet.certain	
-T-115	poultry	poultry	plants	plants	and eggs from the diet.certain	
-T-115	phytonutrients	phytonutrients	mood	mood	that may affect brain biology enough to improve	
-T-115	sugar	sugar	placebo effect	placebo effect	pills, or the	
-T-115	placebo	placebo	drugs	drugs	effect, were about as effective as the	
-T-115	vegetables	vegetables	risk	risk	per week cut the	
-T-115	vegetables	vegetables	depression	depression	per week cut the risk for major	
-T-115	sugar	sugar	placebo	placebo	pills, or the	
-T-115	drugs	drugs	urine	urine	’ metabolites are excreted in the	
-T-115	depression	depression	mental illness	mental illness	can be a debilitating	
-T-115	urine	urine	antidepressants	antidepressants	of people taking	
-T-115	drugs	drugs	placebos	placebos	over	
+T-115	placebos	placebos	drugs	drugs	.researchers found that many of the studies demonstrating a lack of clear advantages to the	
 T-115	nausea	nausea	diarrhea	diarrhea	and	
-T-115	mood	mood	side effects	side effects	without the negative consequences of tobacco or the	
-T-115	dopamine	dopamine	serotonin	serotonin	while selective	
-T-115	tobacco	tobacco	side effects	side effects	or the	
-T-115	mood	mood	tobacco	tobacco	without the negative consequences of	
+T-115	side effects	side effects	weight gain	weight gain	include long-term	
+T-115	antidepressants	antidepressants	neurotransmitters	neurotransmitters	use different mechanisms to increase the levels of the	
+T-115	antidepressants	antidepressants	sexual dysfunction	sexual dysfunction	experience	
 T-115	americans	americans	antidepressants	antidepressants	take	
-T-115	risk	risk	depression	depression	for major	
+T-115	mood	mood	meat	meat	can improve in as little as two weeks by removing	
 T-115	neurotransmitters	neurotransmitters	lead	lead	may	
-T-115	side effects	side effects	insomnia	insomnia	include long-term weight gain,	
-T-115	onions	onions	phytonutrients	phytonutrients	and green tea, have	
-T-115	neurotransmitters	neurotransmitters	serotonin	serotonin		
+T-115	drugs	drugs	fish	fish	have been found to bioaccumulate in the flesh of	
 T-115	antidepressants	antidepressants	placebos	placebos	performed better than	
-T-115	lead	lead	antidepressants	antidepressants	to depression.tricyclic	
+T-115	antidepressants	antidepressants	symptoms	symptoms	take a significant amount of time to decrease depressive	
 T-115	poultry	poultry	eggs	eggs	and	
-T-115	sugar	sugar	pills	pills		
+T-115	depression	depression	mental illness	mental illness	can be a debilitating	

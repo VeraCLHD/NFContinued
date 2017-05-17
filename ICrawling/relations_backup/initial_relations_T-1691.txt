@@ -1,78 +1,18 @@
 
 T-1691	jaundice	jaundice	skin	skin	and	
-T-1691	oils	oils	skin	skin	that are used to avoid	
-T-1691	sunlight	sunlight	vitamin d	vitamin d	or supplements to get	
-T-1691	vitamin a	vitamin a	fish	fish	poisoning from	
-T-1691	hives	hives	alpha-gal	alpha-gal	or allergic reactions may be a sign of	
-T-1691	alpha-gal	alpha-gal	meat	meat		
-T-1691	acne	acne	antioxidants	antioxidants	risk; and low	
-T-1691	jaundice	jaundice	cancer	cancer	and skin	
-T-1691	plant-based	plant-based	diet	diet		
-T-1691	flax	flax	seeds	seeds		
-T-1691	flax	flax	skin	skin	seeds may help improve sensitive	
-T-1691	plant-based	plant-based	skin	skin	diet may be a way to treat some	
-T-1691	skin	skin	gorlin syndrome	gorlin syndrome	may help treat external genital warts and	
-T-1691	supplements	supplements	vitamin d	vitamin d	to get	
-T-1691	carotenoid	carotenoid	plant-based diet	plant-based diet	rich foods as part of a whole-foods,	
-T-1691	milk	milk	acne	acne	consumption has been associated with increased	
-T-1691	diabetes	diabetes	side effects	side effects	without the potential	
-T-1691	pesticides	pesticides	cancer	cancer	can potentially result in jaundice and skin	
-T-1691	methionine	methionine	plant-based	plant-based	intake by eating a primarily	
-T-1691	diet	diet	skin	skin	may be a way to treat some	
-T-1691	skin	skin	acne	acne	in general, including decreasing cellulite and	
+T-1691	seeds	seeds	skin	skin	may help improve sensitive	
 T-1691	plant-based diet	plant-based diet	skin	skin	may be a way to treat some	
-T-1691	genital warts	genital warts	gorlin syndrome	gorlin syndrome	and	
-T-1691	green tea	green tea	skin	skin	ointment applied to the	
-T-1691	jaundice	jaundice	skin cancer	skin cancer	and	
-T-1691	acne	acne	risk	risk		
-T-1691	methionine	methionine	diet	diet	intake by eating a primarily plant-based	
-T-1691	skin	skin	cellulite	cellulite	in general, including decreasing	
-T-1691	medications	medications	skin health	skin health	(which often have adverse effects on	
-T-1691	skin	skin	warts	warts	may help treat external genital	
-T-1691	tanning beds	tanning beds	sunlight	sunlight	instead of natural	
-T-1691	supplements	supplements	skin	skin	to medications (which often have adverse effects on	
 T-1691	warts	warts	gorlin syndrome	gorlin syndrome	and	
 T-1691	vegetables	vegetables	skin	skin	may be linked with decreased facial and overall	
-T-1691	plant-based	plant-based	skin	skin	diet can help contribute to healthy-looking	
-T-1691	plant-based diet	plant-based diet	skin	skin	can help contribute to healthy-looking	
-T-1691	supplements	supplements	medications	medications	to	
-T-1691	oatmeal	oatmeal	skin	skin	lotion may relieve	
-T-1691	acne	acne	skin	skin	risk; and low antioxidants levels in the	
+T-1691	genital warts	genital warts	gorlin syndrome	gorlin syndrome	and	
 T-1691	flax seeds	flax seeds	sensitive skin	sensitive skin	may help improve	
-T-1691	tanning beds	tanning beds	supplements	supplements	instead of natural sunlight or	
+T-1691	jaundice	jaundice	skin cancer	skin cancer	and	
+T-1691	cellulite	cellulite	acne	acne	and	
 T-1691	pesticides	pesticides	jaundice	jaundice	can potentially result in	
 T-1691	vitamin d	vitamin d	risk	risk	is linked to an increased	
-T-1691	genital warts	genital warts	syndrome	syndrome	and gorlin	
-T-1691	diabetes	diabetes	glyburide	glyburide	without the potential side effects of the drug,	
-T-1691	skin	skin	chemotherapy	chemotherapy	itch and irritation associated with	
-T-1691	milk	milk	risk	risk	consumption has been associated with increased acne	
-T-1691	methionine	methionine	plant-based diet	plant-based diet	intake by eating a primarily	
 T-1691	flax seeds	flax seeds	skin	skin	may help improve sensitive	
-T-1691	skin	skin	infections	infections		
-T-1691	seeds	seeds	sensitive skin	sensitive skin	may help improve	
-T-1691	tanning beds	tanning beds	vitamin d	vitamin d	instead of natural sunlight or supplements to get	
-T-1691	skin	skin	syndrome	syndrome	may help treat external genital warts and gorlin	
-T-1691	sunlight	sunlight	supplements	supplements	or	
-T-1691	antioxidants	antioxidants	skin	skin	levels in the	
-T-1691	alpha-gal	alpha-gal	allergies	allergies	meat	
-T-1691	seeds	seeds	skin	skin	may help improve sensitive	
-T-1691	carotenoid	carotenoid	plant-based	plant-based	rich foods as part of a whole-foods,	
-T-1691	jaundice	jaundice	vitamin a	vitamin a	and skin cancer; a case of	
-T-1691	medications	medications	health	health	(which often have adverse effects on skin	
-T-1691	supplements	supplements	skin health	skin health	to medications (which often have adverse effects on	
-T-1691	tea	tea	skin	skin	ointment applied to the	
-T-1691	warts	warts	syndrome	syndrome	and gorlin	
-T-1691	cellulite	cellulite	acne	acne	and	
-T-1691	risk	risk	skin	skin	of the deadliest kind of	
-T-1691	medications	medications	skin	skin	(which often have adverse effects on	
-T-1691	pesticides	pesticides	skin	skin	can potentially result in jaundice and	
-T-1691	carotenoid	carotenoid	diet	diet	rich foods as part of a whole-foods, plant-based	
-T-1691	flax	flax	sensitive skin	sensitive skin	seeds may help improve	
-T-1691	risk	risk	cancer	cancer	of the deadliest kind of skin	
-T-1691	diet	diet	skin	skin	can help contribute to healthy-looking	
-T-1691	risk	risk	milk	milk	of the deadliest kind of skin cancer;	
-T-1691	side effects	side effects	glyburide	glyburide	of the drug,	
-T-1691	risk	risk	skin cancer	skin cancer	of the deadliest kind of	
 T-1691	skin	skin	genital warts	genital warts	may help treat external	
-T-1691	skin	skin	health	health		
-T-1691	pesticides	pesticides	skin cancer	skin cancer	can potentially result in jaundice and	
+T-1691	seeds	seeds	sensitive skin	sensitive skin	may help improve	
+T-1691	skin	skin	warts	warts	may help treat external genital	
+T-1691	diet	diet	skin	skin	may be a way to treat some	
+T-1691	sunlight	sunlight	supplements	supplements	or	

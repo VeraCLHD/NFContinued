@@ -1,28 +1,6 @@
 
-V-303	cholesterol	cholesterol	plaque	plaque	in the	
-V-303	cholesterol	cholesterol	plaque	plaque	crystals protruding out from the	
-V-303	cholesterol	cholesterol	drugs	drugs	levels with diet or	
-V-303	arteries	arteries	atherosclerosis	atherosclerosis	of people who had severe	
-V-303	cholesterol	cholesterol	blood	blood	increase the cholesterol in our	
-V-303	cholesterol	cholesterol	risk	risk	levels with diet or drugs can reduce the	
-V-303	cholesterol	cholesterol	risk	risk	out of the artery wall, and decreasing the	
-V-303	arteries	arteries	standard american diet	standard american diet	start out healthy as kids, but then the	
-V-303	sugar	sugar	candy	candy	water forming rock	
-V-303	risk	risk	cholesterol	cholesterol	of crystallizing these	
 V-303	drugs	drugs	risk	risk	can reduce the	
-V-303	sugar	sugar	water	water		
-V-303	diet	diet	heart attack	heart attack	or drugs can reduce the risk of fatal	
-V-303	arteries	arteries	kids	kids	start out healthy as	
-V-303	risk	risk	heart attack	heart attack	of fatal	
-V-303	cholesterol	cholesterol	arterial plaque	arterial plaque	crystals piercing the	
-V-303	cholesterol	cholesterol	plaque	plaque	crystals piercing the arterial	
-V-303	risk	risk	cholesterol	cholesterol	of fatal heart attack, by pulling	
-V-303	diet	diet	risk	risk	or drugs can reduce the	
+V-303	heart attacks	heart attacks	cholesterol	cholesterol	had perforating	
+V-303	diet	diet	drugs	drugs	or	
 V-303	plaque	plaque	heart attacks	heart attacks	were found in patients who died with	
 V-303	arterial plaque	arterial plaque	heart attacks	heart attacks	were found in patients who died with	
-V-303	heart attacks	heart attacks	syndrome	syndrome	–acute coronary	
-V-303	drugs	drugs	heart attack	heart attack	can reduce the risk of fatal	
-V-303	heart attacks	heart attacks	cholesterol	cholesterol	had perforating	
-V-303	cholesterol	cholesterol	diet	diet	levels with	
-V-303	diet	diet	drugs	drugs	or	
-V-303	water	water	candy	candy	forming rock	

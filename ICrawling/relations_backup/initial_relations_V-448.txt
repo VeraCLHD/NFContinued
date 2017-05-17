@@ -1,33 +1,7 @@
 
-V-448	blood	blood	cholesterol	cholesterol		
-V-448	cholesterol	cholesterol	egg	egg	up 20 points, whereas a fat-free, cholesterol-free	
-V-448	diet	diet	cholesterol	cholesterol	—overweight, normal	
-V-448	eggs	eggs	diet	diet	to one’s	
-V-448	eggs	eggs	cholesterol	cholesterol	could shoot their	
-V-448	egg	egg	eggs	eggs	-eaters, one critic countered that	
-V-448	eggs	eggs	arteries	arteries	have “beneficial…effects;…on vascular endothelium”—the inner lining of our	
-V-448	cholesterol	cholesterol	united states	united states	level in the	
-V-448	plaque	plaque	eggs	eggs	in smokers and egg-eaters, one critic countered that	
-V-448	women	women	standard american diet	standard american diet	eating the	
-V-448	cholesterol	cholesterol	ldl	ldl	(which is to say extremely high cholesterol),	
-V-448	arteries	arteries	egg	egg	)—citing this study on “	
-V-448	risk	risk	coronary heart disease	coronary heart disease	” for	
-V-448	egg	egg	endothelial	endothelial	consumption had no effects on	
-V-448	endothelial	endothelial	sausage	sausage	function as compared to	
-V-448	risk	risk	heart disease	heart disease	” for coronary	
-V-448	sausage	sausage	cheese	cheese	and	
 V-448	cholesterol	cholesterol	eggs	eggs	daily, even add, you know, two jumbo	
-V-448	endothelium	endothelium	arteries	arteries	”—the inner lining of our	
-V-448	eggs	eggs	endothelial	endothelial	“improved	
-V-448	women	women	cholesterol	cholesterol	eating the standard american diet—overweight, normal	
-V-448	standard american diet	standard american diet	cholesterol	cholesterol	—overweight, normal	
-V-448	blood	blood	united states	united states	cholesterol level in the	
-V-448	egg	egg	endothelial	endothelial	consumption does not adversely affect	
-V-448	plaque	plaque	egg	egg	in smokers and	
-V-448	eggs	eggs	endothelium	endothelium	have “beneficial…effects;…on vascular	
-V-448	endothelial	endothelial	egg	egg	function,” funded by the american	
+V-448	women	women	standard american diet	standard american diet	eating the	
+V-448	eggs	eggs	sausage	sausage	is as bad for arterial function as a “mcdonald’s	
 V-448	eggs	eggs	cholesterol	cholesterol	lowered	
-V-448	arteries	arteries	endothelial	endothelial	)—citing this study on “egg consumption and	
-V-448	risk	risk	disease	disease	” for coronary heart	
-V-448	women	women	diet	diet	eating the standard american	
-V-448	endothelial	endothelial	cheese	cheese	function as compared to sausage and	
+V-448	eggs	eggs	cholesterol	cholesterol	could shoot their	
+V-448	sausage	sausage	cheese	cheese	and	

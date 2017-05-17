@@ -1,20 +1,2 @@
 
-V-1019	carcinogen	carcinogen	tanning beds	tanning beds	classification of	
-V-1019	skin	skin	cancer	cancer		
-V-1019	tanning beds	tanning beds	carcinogen	carcinogen	up to a group 1	
-V-1019	world health organization	world health organization	tanning beds	tanning beds	raised the carcinogen classification of	
-V-1019	vitamin d	vitamin d	produce	produce	you	
-V-1019	risk	risk	skin	skin	of the deadliest kind of	
-V-1019	carcinogen	carcinogen	cigarettes	cigarettes	—along with things like asbestos,	
-V-1019	produce	produce	risk	risk	lower your	
-V-1019	health	health	tanning beds	tanning beds	organization raised the carcinogen classification of	
-V-1019	produce	produce	cancer	cancer	lower your risk of internal	
-V-1019	risk	risk	cancer	cancer	of the deadliest kind of skin	
-V-1019	risk	risk	cancer	cancer	of internal	
-V-1019	health	health	carcinogen	carcinogen	organization raised the	
-V-1019	risk	risk	skin cancer	skin cancer	of the deadliest kind of	
-V-1019	vitamin d	vitamin d	risk	risk	you produce lower your	
-V-1019	carcinogen	carcinogen	asbestos	asbestos	—along with things like	
 V-1019	world health organization	world health organization	carcinogen	carcinogen	raised the	
-V-1019	tanning beds	tanning beds	asbestos	asbestos	up to a group 1 carcinogen—along with things like	
-V-1019	vitamin d	vitamin d	cancer	cancer	you produce lower your risk of internal	

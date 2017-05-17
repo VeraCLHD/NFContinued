@@ -1,62 +1,13 @@
 
-A-19	cancer	cancer	a/v ratio	a/v ratio	survival: the	
-A-19	plant-based	plant-based	diet	diet	foods (in other words, the western	
-A-19	disease	disease	cancer	cancer	and	
-A-19	mediterranean diet	mediterranean diet	plant foods	plant foods	are due to all the whole	
-A-19	vegetable protein	vegetable protein	a/v ratio	a/v ratio	ratio in prostate cancer survival: the	
-A-19	diet	diet	plant foods	plant foods	are due to all the whole	
-A-19	seafood	seafood	mediterranean diet	mediterranean diet	consumption, the only animal foods promoted in the	
-A-19	plant-based	plant-based	diet	diet		
-A-19	health	health	flexitarians	flexitarians	of so-called semi-vegetarians or	
-A-19	nuts	nuts	beans	beans	and	
-A-19	french fries	french fries	vegan	vegan	and beer;	
-A-19	plant-based	plant-based	western diet	western diet	foods (in other words, the	
-A-19	prostate	prostate	cancer	cancer		
-A-19	vegetarian	vegetarian	diet	diet		
-A-19	prostate	prostate	cancer survival	cancer survival		
-A-19	health	health	animal foods	animal foods	promotion: more plant foods, fewer	
-A-19	health	health	vegetarians	vegetarians	of so-called semi-	
-A-19	animal foods	animal foods	plant-based	plant-based	and poor in	
-A-19	animal foods	animal foods	diet	diet	promoted in the mediterranean	
-A-19	california	california	vegetarians	vegetarians	adventist	
-A-19	vegetarians	vegetarians	diet	diet	live longer, but because a pure vegetarian	
-A-19	mediterranean diet	mediterranean diet	health	health	: i’ve done a few videos on the	
-A-19	vegetable protein	vegetable protein	prostate cancer	prostate cancer	ratio in	
-A-19	environment	environment	vegetables	vegetables	to support whole grains,	
-A-19	protein	protein	cancer survival	cancer survival	ratio in prostate	
-A-19	lifespan	lifespan	disease	disease	and lowering heart	
-A-19	mortality	mortality	united states	united states	rates in the	
-A-19	seafood	seafood	animal foods	animal foods	consumption, the only	
-A-19	heart disease	heart disease	cancer	cancer	and	
-A-19	california	california	meat	meat	adventist vegetarians, doesn’t eat any	
-A-19	vegetable protein	vegetable protein	prostate	prostate	ratio in	
-A-19	cancer survival	cancer survival	a/v ratio	a/v ratio	: the	
-A-19	environment	environment	grains	grains	to support whole	
-A-19	vegetarians	vegetarians	flexitarians	flexitarians	or	
-A-19	heart disease	heart disease	mortality	mortality	and cancer	
-A-19	prostate cancer	prostate cancer	a/v ratio	a/v ratio	survival: the	
+A-19	fish	fish	seafood	seafood	and	
 A-19	potato chips	potato chips	french fries	french fries	and	
 A-19	animal foods	animal foods	mediterranean diet	mediterranean diet	promoted in the	
-A-19	diet	diet	plant foods	plant foods	rich in	
-A-19	flexitarians	flexitarians	vegetarians	vegetarians	(“flexible”	
-A-19	vegetable protein	vegetable protein	cancer	cancer	ratio in prostate	
-A-19	diet	diet	health	health	: i’ve done a few videos on the	
-A-19	fish	fish	animal foods	animal foods	and seafood consumption, the only	
-A-19	vegetable protein	vegetable protein	cancer survival	cancer survival	ratio in prostate	
-A-19	cancer	cancer	mortality	mortality		
-A-19	fish	fish	seafood	seafood	and	
-A-19	environment	environment	whole grains	whole grains	to support	
-A-19	prostate	prostate	a/v ratio	a/v ratio	cancer survival: the	
-A-19	health	health	plant foods	plant foods	promotion: more	
-A-19	lifespan	lifespan	mortality	mortality	and lowering heart disease and cancer	
-A-19	protein	protein	cancer	cancer	ratio in prostate	
-A-19	protein	protein	a/v ratio	a/v ratio	ratio in prostate cancer survival: the	
-A-19	environment	environment	fruit	fruit	to support whole grains, vegetables,	
-A-19	lifespan	lifespan	cancer	cancer	and lowering heart disease and	
-A-19	disease	disease	mortality	mortality	and cancer	
+A-19	heart disease	heart disease	cancer	cancer	and	
+A-19	disease	disease	cancer	cancer	and	
+A-19	mediterranean diet	mediterranean diet	plant foods	plant foods	are due to all the whole	
+A-19	diet	diet	plant foods	plant foods	are due to all the whole	
 A-19	french fries	french fries	beer	beer	and	
-A-19	vegetarians	vegetarians	vegetarian	vegetarian	live longer, but because a pure	
-A-19	protein	protein	prostate cancer	prostate cancer	ratio in	
-A-19	protein	protein	prostate	prostate	ratio in	
-A-19	lifespan	lifespan	heart disease	heart disease	and lowering	
-A-19	environment	environment	plant-based	plant-based	to support whole grains, vegetables, fruit, and	
+A-19	vegetarians	vegetarians	flexitarians	flexitarians	or	
+A-19	animal foods	animal foods	diet	diet	promoted in the mediterranean	
+A-19	united states	united states	americans	americans	would mean saving the lives of hundreds of thousands of	
+A-19	nuts	nuts	beans	beans	and	

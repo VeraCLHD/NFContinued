@@ -1,38 +1,10 @@
 
-V-229	symptoms	symptoms	kiwifruit	kiwifruit	of those that got sick on	
 V-229	children	children	kiwis	kiwis	eating	
-V-229	new zealand	new zealand	kiwifruit	kiwifruit	found that the consumption of gold	
-V-229	children	children	kiwifruit	kiwifruit	report being allergic to	
-V-229	kiwifruit	kiwifruit	health	health	consumption may be a daily prescription for	
-V-229	vitamins	vitamins	immune function	immune function	and minerals can lead to significant impairment of	
-V-229	bananas	bananas	kiwifruit	kiwifruit	a day, or eating four	
-V-229	new zealand	new zealand	kiwifruit	kiwifruit	tried supplementing with	
-V-229	patent	patent	fruits	fruits	to gold kiwi	
-V-229	kiwifruit	kiwifruit	symptoms	symptoms	reduces the incidence, duration, and severity of	
-V-229	gold	gold	fruits	fruits	kiwi	
-V-229	placebo	placebo	fruit	fruit	” was to provide an alternative	
-V-229	infection	infection	symptoms	symptoms		
-V-229	upper respiratory tract infection	upper respiratory tract infection	symptoms	symptoms		
-V-229	fruit	fruit	calories	calories	that had relatively similar	
-V-229	minerals	minerals	immune function	immune function	can lead to significant impairment of	
-V-229	gold	gold	kiwifruit	kiwifruit		
-V-229	cold	cold	children	children	or flu-like illness, which means that the	
-V-229	symptoms	symptoms	infections	infections	of upper respiratory tract	
-V-229	immune function	immune function	infection	infection	and an increased susceptibility to	
-V-229	bananas	bananas	placebo	placebo	.the rationale for providing banana as the “	
-V-229	new zealand	new zealand	gold	gold	found that the consumption of	
-V-229	symptoms	symptoms	common cold	common cold	of upper respiratory tract infections, like the	
-V-229	vitamins	vitamins	minerals	minerals	and	
-V-229	vitamins	vitamins	lead	lead	and minerals can	
-V-229	sore throat	sore throat	kiwifruit	kiwifruit	and congestion, compared to the	
-V-229	symptoms	symptoms	cold	cold	of upper respiratory tract infections, like the common	
-V-229	milk	milk	peanuts	peanuts	and eggs, and above	
-V-229	gold	gold	upper respiratory tract infection	upper respiratory tract infection	kiwifruit reduces the severity and duration of certain	
-V-229	kiwis	kiwis	bananas	bananas	and the kiwi group ate	
-V-229	kiwifruit	kiwifruit	bananas	bananas	versus	
 V-229	kiwifruit	kiwifruit	upper respiratory tract infection	upper respiratory tract infection	reduces the severity and duration of certain	
-V-229	patent	patent	gold	gold	to	
-V-229	gold	gold	symptoms	symptoms	kiwifruit reduces the incidence, duration, and severity of	
-V-229	lead	lead	immune function	immune function	to significant impairment of	
+V-229	children	children	kiwifruit	kiwifruit	report being allergic to	
+V-229	new zealand	new zealand	gold	gold	found that the consumption of	
+V-229	kiwis	kiwis	cold	cold	had almost a 50% reduction in the chance of having a	
+V-229	vitamins	vitamins	minerals	minerals	and	
+V-229	new zealand	new zealand	kiwifruit	kiwifruit	tried supplementing with	
 V-229	minerals	minerals	lead	lead	can	
 V-229	milk	milk	eggs	eggs	and	

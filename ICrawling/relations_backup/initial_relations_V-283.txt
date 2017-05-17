@@ -1,79 +1,15 @@
 
 V-283	heme iron	heme iron	blood	blood	found in	
 V-283	nuts	nuts	seeds	seeds	and	
-V-283	iron	iron	heart disease	heart disease	intake and coronary	
-V-283	disease	disease	iron	iron	risk for every one milligram of heme	
-V-283	cholesterol	cholesterol	free radicals	free radicals	with	
+V-283	iron	iron	plants	plants	found in	
 V-283	iron	iron	blood	blood	found in	
-V-283	heart disease	heart disease	risk	risk		
-V-283	iron	iron	disease	disease	intake and coronary heart	
-V-283	risk	risk	coronary heart disease	coronary heart disease	.the link between iron intake and	
-V-283	disease	disease	risk	risk		
-V-283	atherosclerosis	atherosclerosis	free radicals	free radicals	by oxidizing cholesterol with	
-V-283	cancer	cancer	meat	meat	development, they asked lung cancer patients how much	
-V-283	risk	risk	iron	iron	for every milligram of daily heme	
-V-283	meat	meat	tumors	tumors	someone is eating by looking at their	
-V-283	heme iron	heme iron	risk	risk	consumed daily.the same has been found for stroke	
-V-283	risk	risk	heme iron	heme iron	for every milligram of daily	
-V-283	heme iron	heme iron	risk	risk	(plant iron); 16% increase in	
-V-283	women	women	anemia	anemia	have iron deficiency	
-V-283	cancer	cancer	lung cancer	lung cancer	development, they asked	
-V-283	meat	meat	cancer	cancer	-related lung	
-V-283	heart disease	heart disease	disease	disease	risk.the link between iron intake and coronary heart	
-V-283	plant-based	plant-based	iron	iron	diets may be more prone to	
-V-283	plant-based	plant-based	metabolic syndrome	metabolic syndrome	protection against	
-V-283	heme iron	heme iron	iron	iron	(animal	
-V-283	disease	disease	heme iron	heme iron	risk for every one milligram of	
-V-283	heme iron	heme iron	iron	iron	(plant	
-V-283	disease	disease	iron	iron	risk.the link between	
-V-283	risk	risk	iron	iron	for every daily milligram of heme	
-V-283	blood	blood	rye	rye	-based crispbread, made out of	
 V-283	plants	plants	iron	iron	is non-heme	
 V-283	women	women	iron	iron	have	
-V-283	lung cancer	lung cancer	meat	meat	development, they asked lung cancer patients how much	
-V-283	plant-based	plant-based	syndrome	syndrome	protection against metabolic	
-V-283	rye	rye	blood	blood	and cattle and pig	
-V-283	heme iron	heme iron	plant-based	plant-based	may be one of the key elements of	
-V-283	heart disease	heart disease	iron	iron	risk for every one milligram of heme	
-V-283	atherosclerosis	atherosclerosis	cholesterol	cholesterol	by oxidizing	
-V-283	plant-based diets	plant-based diets	iron	iron	may be more prone to	
-V-283	iron	iron	anemia	anemia	deficiency	
-V-283	lung cancer	lung cancer	cancer	cancer	development, they asked lung	
-V-283	plants	plants	iron	iron	and so total	
-V-283	coronary heart disease	coronary heart disease	heme iron	heme iron	risk for every one milligram of	
-V-283	cancer	cancer	cancer	cancer	development, they asked lung	
-V-283	risk	risk	heart disease	heart disease	.the link between iron intake and coronary	
-V-283	heart disease	heart disease	iron	iron	risk.the link between	
-V-283	risk	risk	iron	iron	.the link between	
-V-283	iron	iron	stroke	stroke	intake and	
-V-283	cancer	cancer	risk	risk		
+V-283	risk	risk	heart disease	heart disease	has been quantified as a 27% increase in coronary	
 V-283	risk	risk	stroke	stroke	of	
-V-283	iron	iron	meat	meat	intake from	
+V-283	heme iron	heme iron	plant-based	plant-based	may be one of the key elements of	
 V-283	iron	iron	stroke	stroke	consumed daily.the same has been found for	
-V-283	iron	iron	risk	risk	(animal iron) intake was significantly associated with greater	
-V-283	iron	iron	plant-based	plant-based	may be one of the key elements of	
-V-283	heart disease	heart disease	coronary heart disease	coronary heart disease	risk.the link between iron intake and	
-V-283	heme iron	heme iron	risk	risk	(animal iron) intake was significantly associated with greater	
-V-283	diabetes	diabetes	iron	iron	—the healthiest source of	
-V-283	risk	risk	coronary heart disease	coronary heart disease	has been quantified as a 27% increase in	
-V-283	chicken	chicken	blood	blood		
-V-283	stroke	stroke	risk	risk		
-V-283	iron	iron	plants	plants	found in	
-V-283	coronary heart disease	coronary heart disease	iron	iron	risk for every one milligram of heme	
-V-283	disease	disease	heart disease	heart disease	risk.the link between iron intake and coronary	
-V-283	risk	risk	diabetes	diabetes	for type 2	
-V-283	anemia	anemia	african	african	these days, but the rates are worse in	
-V-283	risk	risk	heme iron	heme iron	for every daily milligram of	
-V-283	iron	iron	risk	risk	(plant iron); 16% increase in	
-V-283	iron	iron	risk	risk	consumed daily.the same has been found for stroke	
-V-283	coronary heart disease	coronary heart disease	risk	risk		
-V-283	risk	risk	disease	disease	for heart	
-V-283	heart disease	heart disease	heme iron	heme iron	risk for every one milligram of	
 V-283	heme iron	heme iron	stroke	stroke	consumed daily.the same has been found for	
-V-283	risk	risk	disease	disease	.the link between iron intake and coronary heart	
-V-283	iron	iron	risk	risk	intake from meat, it’s associated with significantly higher	
-V-283	meat	meat	lung cancer	lung cancer	-related	
-V-283	risk	risk	heart disease	heart disease	for	
-V-283	disease	disease	coronary heart disease	coronary heart disease	risk.the link between iron intake and	
-V-283	risk	risk	diabetes	diabetes	of stroke, as well as	
-V-283	iron	iron	heme iron	heme iron	–but not non-	
+V-283	iron	iron	plant-based	plant-based	may be one of the key elements of	
+V-283	plant-based diets	plant-based diets	iron	iron	may be more prone to	
+V-283	risk	risk	coronary heart disease	coronary heart disease	has been quantified as a 27% increase in	

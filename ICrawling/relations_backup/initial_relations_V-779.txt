@@ -1,6 +1,0 @@
-
-V-779	treatment	treatment	skin	skin	of human patients with non-melanoma	
-V-779	skin	skin	cancer	cancer		
-V-779	basal cell carcinoma	basal cell carcinoma	syndrome	syndrome	formation in a patient” with the	
-V-779	treatment	treatment	cancer	cancer	of human patients with non-melanoma skin	
-V-779	treatment	treatment	skin cancer	skin cancer	of human patients with non-melanoma	

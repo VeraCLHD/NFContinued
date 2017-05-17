@@ -1,20 +1,7 @@
 
-V-341	diabetes	diabetes	disease	disease	and heart	
-V-341	risk	risk	heart disease	heart disease	of diabetes and	
-V-341	nuts	nuts	tea	tea	and green	
-V-341	heart disease	heart disease	lifespan	lifespan	and significantly shorten our	
-V-341	treadmill	treadmill	health	health	desks may improve the	
-V-341	arteries	arteries	blood	blood	normally in response to	
-V-341	disease	disease	lifespan	lifespan	and significantly shorten our	
-V-341	diabetes	diabetes	lifespan	lifespan	and heart disease and significantly shorten our	
-V-341	blood	blood	arteries	arteries	vessels to relax our	
-V-341	risk	risk	disease	disease	of diabetes and heart	
-V-341	smoking	smoking	endothelial	endothelial	a single cigarette can significantly impair	
 V-341	nuts	nuts	green tea	green tea	and	
 V-341	risk	risk	diabetes	diabetes	of	
-V-341	exercise	exercise	endothelial	endothelial	training, significantly improved	
 V-341	risk	risk	death	death	of	
 V-341	arteries	arteries	blood	blood	can actually sense the sheer force of	
 V-341	curcumin	curcumin	exercise	exercise	and	
-V-341	blood	blood	endothelium	endothelium	flow promotes a healthy	
 V-341	diabetes	diabetes	heart disease	heart disease	and	

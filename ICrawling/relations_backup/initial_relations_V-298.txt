@@ -1,49 +1,12 @@
 
+V-298	pesticides	pesticides	diet	diet	flowing through the bodies of 3- to 11-year olds during a few days on a conventional	
 V-298	salmonella	salmonella	campylobacter	campylobacter	and	
-V-298	health	health	children	children	of their	
 V-298	produce	produce	pregnant	pregnant	may be bad for the	
 V-298	kids	kids	organic	organic	were eating	
-V-298	memory	memory	kids	kids	difficulties.if you compare	
-V-298	risk	risk	food poisoning	food poisoning	of making us sick, but	
-V-298	risk	risk	bacteria	bacteria	of contamination with food poisoning	
-V-298	pesticides	pesticides	children	children	running through	
-V-298	food poisoning	food poisoning	doctors	doctors	from organic meat may be easier for	
-V-298	risk	risk	bacteria	bacteria	of exposure to multidrug-resistant	
-V-298	chronic diseases	chronic diseases	cancer	cancer	such as different types of	
-V-298	contamination	contamination	food poisoning	food poisoning	with	
-V-298	food poisoning	food poisoning	organic	organic	from	
-V-298	risk	risk	leukemia	leukemia	factor for cancers like childhood	
-V-298	diet	diet	organic	organic	of at least 80%	
-V-298	food poisoning	food poisoning	bacteria	bacteria		
-V-298	leukemia	leukemia	risk	risk	and increase their	
-V-298	risk	risk	food poisoning	food poisoning	of contamination with	
-V-298	organic	organic	meat	meat		
-V-298	meat	meat	doctors	doctors	may be easier for	
-V-298	food poisoning	food poisoning	meat	meat	from organic	
-V-298	bacteria	bacteria	risk	risk	.food safety-wise, they found no difference in the	
-V-298	insecticides	insecticides	risk	risk	inside your house, may be a contributing	
-V-298	organic	organic	diet	diet		
-V-298	organic	organic	agriculture	agriculture		
-V-298	antibiotics	antibiotics	organic	organic	–was lower with the	
-V-298	doctors	doctors	pesticides	pesticides	to treat.what about the	
-V-298	women	women	diet	diet	consume a	
-V-298	pesticides	pesticides	children	children	on brain development in	
-V-298	organic	organic	salmonella	salmonella	and conventional animal products were commonly contaminated with	
 V-298	salmonella	salmonella	risk	risk	but, the	
-V-298	women	women	organic	organic	consume a diet of at least 80%	
 V-298	agriculture	agriculture	health	health	are “	
-V-298	organic	organic	health	health	agriculture are “	
-V-298	risk	risk	contamination	contamination	of 	
-V-298	risk	risk	organic	organic	of making us sick, but food poisoning from	
-V-298	risk	risk	produce	produce	of getting a brain tumor.so conventional	
+V-298	meat	meat	doctors	doctors	may be easier for	
+V-298	kids	kids	umbilical cord blood	umbilical cord blood	born with higher levels of a common insecticide in their	
+V-298	pesticides	pesticides	children	children	running through	
 V-298	animal products	animal products	salmonella	salmonella	were commonly contaminated with	
-V-298	organic foods	organic foods	pesticides	pesticides	provides protection against	
-V-298	organic	organic	animal products	animal products	and conventional	
-V-298	antibiotics	antibiotics	meat	meat	–was lower with the organic	
-V-298	organic	organic	doctors	doctors	meat may be easier for	
-V-298	animal products	animal products	campylobacter	campylobacter	were commonly contaminated with salmonella and	
-V-298	pesticides	pesticides	chronic diseases	chronic diseases	and elevated rate of	
-V-298	chronic diseases	chronic diseases	diabetes	diabetes	such as different types of cancer,	
-V-298	contamination	contamination	bacteria	bacteria	with food poisoning	
-V-298	salmonella	salmonella	bacteria	bacteria	but, the risk of exposure to multidrug-resistant	
-V-298	bacteria	bacteria	antibiotics	antibiotics	–resistant to multiple classes of	
+V-298	women	women	diet	diet	consume a	

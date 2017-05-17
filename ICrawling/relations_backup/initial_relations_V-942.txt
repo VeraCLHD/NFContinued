@@ -1,17 +1,3 @@
 
-V-942	nutrition	nutrition	juice	juice	facts label for purple grape	
-V-942	antioxidant	antioxidant	vitamin e	vitamin e	vitamin intake—	
-V-942	nutrition	nutrition	water	water	label, you’d think it was just sugar	
-V-942	sugar	sugar	coca cola	coca cola	water, practically indistinguishable from	
-V-942	nutrition	nutrition	grape juice	grape juice	facts label for purple	
 V-942	phytonutrients	phytonutrients	fruits	fruits	in	
-V-942	fruit	fruit	risk	risk	and vegetable juices had a 76% lower	
-V-942	phytonutrients	phytonutrients	vegetables	vegetables	in fruits and	
-V-942	sugar	sugar	phytonutrients	phytonutrients	water, because the labels don’t list	
-V-942	sugar	sugar	water	water		
-V-942	antioxidant	antioxidant	beta carotene	beta carotene	vitamin intake—vitamin e, vitamin c,	
-V-942	sugar	sugar	cola	cola	water, practically indistinguishable from coca	
-V-942	nutrition	nutrition	sugar	sugar	label, you’d think it was just	
 V-942	fruits	fruits	vegetables	vegetables	and	
-V-942	antioxidant	antioxidant	vitamin c	vitamin c	vitamin intake—vitamin e,	
-V-942	flavonoids	flavonoids	plants	plants	in the	

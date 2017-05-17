@@ -1,33 +1,11 @@
 
-V-387	boiled	boiled	melanoma	melanoma	and sprouted beans can.similar results were found for	
-V-387	kidney	kidney	cancer	cancer		
-V-387	boiled	boiled	beans	beans		
-V-387	cooking	cooking	beans	beans	method, which is what’s used to make canned	
-V-387	sprouting	sprouting	cancer	cancer	boosted anticancer activity in vitro, but against kidney	
-V-387	canned beans	canned beans	nutrition	nutrition	i can get similar	
-V-387	beans	beans	astrocytes	astrocytes	would help protect	
-V-387	beans	beans	nutrition	nutrition	i can get similar	
-V-387	elderly	elderly	legumes	legumes	persons reporting always eating	
-V-387	boiled	boiled	beans	beans	versus sprouted	
-V-387	boiled	boiled	beans	beans	and sprouted	
-V-387	kidney	kidney	raw	raw	cancer,	
-V-387	prevention	prevention	disease	disease	of chronic	
-V-387	raw	raw	boiled	boiled	and	
-V-387	snacks	snacks	kale	kale	on the planet (along with	
-V-387	raw	raw	beans	beans	bean extract works, but both boiled and sprouted	
-V-387	boiled	boiled	astrocytes	astrocytes	bean extract on board the	
-V-387	raw	raw	cancer growth	cancer growth	bean extract needed to cut the breast	
-V-387	sprouting	sprouting	kidney cancer	kidney cancer	boosted anticancer activity in vitro, but against	
-V-387	boiling	boiling	cooking method	cooking method	is the most common	
-V-387	sprouting	sprouting	steroids	steroids	’s like gardening on	
-V-387	cooking	cooking	canned beans	canned beans	method, which is what’s used to make	
-V-387	raw	raw	cancer	cancer	bean extract needed to cut the breast	
-V-387	prevention	prevention	raw	raw	of chronic disease, but most can’t be eaten	
-V-387	kidney	kidney	boiled	boiled	cancer, raw and	
-V-387	raw	raw	boiled	boiled	bean extract works, but both	
 V-387	cooking	cooking	sprouting	sprouting	or	
-V-387	beans	beans	melanoma	melanoma	can.similar results were found for	
+V-387	raw	raw	boiled	boiled	and	
+V-387	lentils	lentils	prevention	prevention	are packed with nutrients and play a role in the	
+V-387	boiling	boiling	cooking method	cooking method	is the most common	
 V-387	prevention	prevention	chronic disease	chronic disease	of	
 V-387	boiling	boiling	cooking	cooking	is the most common	
-V-387	raw	raw	breast cancer	breast cancer	bean extract needed to cut the	
-V-387	sprouting	sprouting	kidney	kidney	boosted anticancer activity in vitro, but against	
+V-387	phytonutrients	phytonutrients	disease	disease	thought to account for some of their protective benefits against chronic	
+V-387	beans	beans	astrocytes	astrocytes	would help protect	
+V-387	phytonutrients	phytonutrients	chronic disease	chronic disease	thought to account for some of their protective benefits against	
+V-387	legumes	legumes	boiled	boiled	may be significantly less likely to experience cognitive decline, the researchers decided to compare the protective effects of	

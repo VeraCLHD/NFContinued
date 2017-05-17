@@ -1,41 +1,8 @@
 
-T-704	physical activity	physical activity	europe	europe	levels have increased in both	
-T-704	food industry	food industry	poultry	poultry	may explain why in europe, salmonella contamination of	
-T-704	arsenic	arsenic	rice	rice	levels than european-grown	
-T-704	food industry	food industry	salmonella	salmonella	may explain why in europe,	
-T-704	fish	fish	europe	europe	consumers in the u.s. and	
-T-704	rice	rice	europe	europe	may have lower arsenic levels than european-grown rice.both	
-T-704	diabetes	diabetes	multiple sclerosis	multiple sclerosis	risk, their rates of	
-T-704	carrageenan	carrageenan	infant formula	infant formula	from	
-T-704	rice	rice	arsenic	arsenic	may have lower	
-T-704	europe	europe	infant formula	infant formula	has also banned: carrageenan from	
-T-704	pus	pus	milk	milk	cell concentration limit for	
-T-704	hormones	hormones	steroids	steroids	into farm animals, using anabolic sex	
-T-704	steroids	steroids	farm animals	farm animals	on	
-T-704	hormones	hormones	farm animals	farm animals	into	
-T-704	europe	europe	pus	pus	also has a lower allowable	
-T-704	salmonella	salmonella	contamination	contamination		
-T-704	health	health	americans	americans	issues as	
-T-704	europe	europe	risk	risk	may be at greater diabetes	
 T-704	europe	europe	diabetes	diabetes	may be at greater	
-T-704	liver cancer	liver cancer	europe	europe	has been rapidly rising in both	
-T-704	ractopamine	ractopamine	meat	meat	in animal feed, injecting phosphate into	
-T-704	carrageenan	carrageenan	farm animals	farm animals	from infant formula, injecting hormones into	
-T-704	europe	europe	carrageenan	carrageenan	has also banned:	
-T-704	salmonella	salmonella	poultry	poultry	contamination of	
-T-704	cancer	cancer	europe	europe	has been rapidly rising in both	
-T-704	europe	europe	hormones	hormones	has also banned: carrageenan from infant formula, injecting	
 T-704	contamination	contamination	poultry	poultry	of	
-T-704	doctors	doctors	europe	europe	in the us, half of doctors in	
-T-704	arsenic	arsenic	europe	europe	levels than european-grown rice.both	
-T-704	diabetes	diabetes	risk	risk		
-T-704	fda	fda	usda	usda	and	
-T-704	liver	liver	cancer	cancer		
 T-704	food industry	food industry	europe	europe	may explain why in	
-T-704	food industry	food industry	contamination	contamination	may explain why in europe, salmonella	
-T-704	carrageenan	carrageenan	hormones	hormones	from infant formula, injecting	
-T-704	diabetes	diabetes	skin	skin	risk, their rates of multiple sclerosis, sensitive	
-T-704	sweetener	sweetener	aspartame	aspartame		
-T-704	food industry	food industry	acrylamide	acrylamide	’s attempt to control fry times to decrease	
-T-704	diabetes	diabetes	sensitive skin	sensitive skin	risk, their rates of multiple sclerosis,	
-T-704	liver	liver	europe	europe	cancer has been rapidly rising in both	
+T-704	liver cancer	liver cancer	europe	europe	has been rapidly rising in both	
+T-704	rice	rice	arsenic	arsenic	may have lower	
+T-704	fda	fda	usda	usda	and	
+T-704	cancer	cancer	europe	europe	has been rapidly rising in both	

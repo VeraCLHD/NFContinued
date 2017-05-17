@@ -1,60 +1,12 @@
 
-A-11	beta glucan	beta glucan	fiber	fiber		
-A-11	fiber	fiber	nutritional yeast	nutritional yeast	compounds may actually have an anti-inflammatory effect, suggesting	
-A-11	anti-inflammatory	anti-inflammatory	nutritional yeast	nutritional yeast	effect, suggesting	
-A-11	yeast	yeast	fiber	fiber	to prevent the common cold, beta glucan	
-A-11	whole foods	whole foods	lead	lead	– test report shows	
-A-11	yeast	yeast	beta glucan	beta glucan	to prevent the common cold,	
-A-11	fiber	fiber	anti-inflammatory	anti-inflammatory	compounds may actually have an	
-A-11	california	california	prop 65	prop 65		
-A-11	prop 65	prop 65	cancer	cancer	warning stickers, suggesting there’s something in it exceeding	
-A-11	fiber	fiber	nutritional yeast	nutritional yeast	found in baker’s, brewer’s, and	
-A-11	beta glucan	beta glucan	yeast	yeast	fiber found in baker’s, brewer’s, and nutritional	
-A-11	nutritional yeast	nutritional yeast	fiber	fiber	to prevent the common cold, beta glucan	
-A-11	infection	infection	mood	mood	symptoms diminished, but that	
-A-11	infection	infection	symptoms	symptoms		
-A-11	uric acid	uric acid	kidney stones	kidney stones		
-A-11	cancer	cancer	safety limits	safety limits	or birth defect	
-A-11	california	california	health	health	office of environmental	
-A-11	infections	infections	common cold	common cold	with the	
-A-11	infections	infections	animal studies	animal studies	had come from petri dish or lab	
-A-11	nutritional yeast	nutritional yeast	common cold	common cold	to prevent the	
-A-11	yeast	yeast	purines	purines	is high in	
-A-11	yeast	yeast	cold	cold	a day, and they had fewer	
-A-11	beta glucan	beta glucan	nutritional yeast	nutritional yeast	fiber found in baker’s, brewer’s, and	
-A-11	stress	stress	immune system	immune system	on the	
-A-11	anti-inflammatory	anti-inflammatory	yeast	yeast	effect, suggesting nutritional	
-A-11	nutritional yeast	nutritional yeast	beta glucan	beta glucan	to prevent the common cold,	
+A-11	nutritional yeast	nutritional yeast	prop 65	prop 65	are slapped with	
 A-11	fiber	fiber	stress	stress	is able to counteract the negative effects of	
 A-11	yeast	yeast	prop 65	prop 65	are slapped with	
 A-11	fiber	fiber	shiitake mushrooms	shiitake mushrooms	found in	
-A-11	health	health	chemicals	chemicals	hazard assessment maximum allowable dose level (madl) for	
-A-11	nutritional yeast	nutritional yeast	cold	cold	to prevent the common	
-A-11	immune function	immune function	yeast	yeast	in athletes with nutritional	
-A-11	mushrooms	mushrooms	chemotherapy	chemotherapy	is approved for use as adjunct	
-A-11	nutritional yeast	nutritional yeast	prop 65	prop 65	are slapped with	
-A-11	common cold	common cold	symptoms	symptoms	incidence and a reduction in	
-A-11	lead	lead	candy	candy	manufacturers can put into	
-A-11	lead	lead	prop 65	prop 65	values based on california	
-A-11	yeast	yeast	fiber	fiber		
-A-11	lead	lead	california	california	values based on	
 A-11	immune function	immune function	athletes	athletes	in	
-A-11	yeast	yeast	cold	cold	to prevent the common	
 A-11	athletes	athletes	immune function	immune function	showed beneficial effects in marathon runners (see preserving	
-A-11	yeast	yeast	gout	gout	is high in purines; so, those with	
 A-11	pathogens	pathogens	yeast	yeast	directly, these	
-A-11	yeast	yeast	common cold	common cold	to prevent the	
+A-11	cold	cold	nutritional yeast	nutritional yeast	was reduced by 25% in those that ate the equivalent of about a spoonful of	
 A-11	symptoms	symptoms	mood	mood	diminished, but that	
-A-11	immune function	immune function	nutritional yeast	nutritional yeast	in athletes with	
-A-11	cold	cold	symptoms	symptoms	incidence and a reduction in	
-A-11	infection	infection	immune system	immune system	fighting side of the	
-A-11	yeast	yeast	uric acid	uric acid	is high in purines; so, those with gout,	
-A-11	uric acid	uric acid	kidney	kidney		
-A-11	fiber	fiber	yeast	yeast	found in baker’s, brewer’s, and nutritional	
-A-11	shiitake mushrooms	shiitake mushrooms	chemotherapy	chemotherapy	is approved for use as adjunct	
-A-11	candy	candy	children	children	likely to be frequently consumed by small	
-A-11	antibiotics	antibiotics	pathogens	pathogens	and antivirals, which are designed to kill the	
-A-11	fiber	fiber	mushrooms	mushrooms	found in shiitake	
-A-11	infections	infections	cold	cold	with the common	
-A-11	nutritional yeast	nutritional yeast	cold	cold	a day, and they had fewer	
-A-11	plants	plants	produce	produce		
+A-11	yeast	yeast	purines	purines	is high in	
+A-11	common cold	common cold	nutritional yeast	nutritional yeast	was reduced by 25% in those that ate the equivalent of about a spoonful of	

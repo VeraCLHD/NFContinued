@@ -1,30 +1,6 @@
 
-V-484	treatment	treatment	drugs	drugs	is still challenging, as the	
-V-484	disease	disease	anxiety	anxiety	[s],” and is “commonly used” to treat	
-V-484	massage	massage	anxiety	anxiety	alone reduces	
-V-484	plant-based	plant-based	diet	diet		
-V-484	oils	oils	symptoms	symptoms	on anxiety	
-V-484	aromatherapy	aromatherapy	massage	massage	plus	
-V-484	massage	massage	fragrance	fragrance	without the	
-V-484	disease	disease	symptoms	symptoms	[s],” and is “commonly used” to treat anxiety	
-V-484	plants	plants	disease	disease	…to treat…	
-V-484	chemo	chemo	massage	massage	and radiation, even found that the	
-V-484	massage	massage	aromatherapy	aromatherapy	is effective, then	
-V-484	dentist	dentist	anxiety	anxiety	’s office to see if it “reduces	
-V-484	oils	oils	disease	disease	extracted from…plants…to treat…	
-V-484	orange	orange	dentist	dentist	” was tested in a	
-V-484	orange	orange	anxiety	anxiety	aroma on experimental	
-V-484	anxiety	anxiety	mood	mood	and improves	
-V-484	aromatherapy	aromatherapy	medicine	medicine	”—in fact, some pretty serious reactions.alternative	
-V-484	oils	oils	plants	plants	extracted from…	
-V-484	oils	oils	anxiety	anxiety	on	
 V-484	chemo	chemo	radiation	radiation	and	
-V-484	drugs	drugs	symptoms	symptoms	used for the relief of anxiety	
-V-484	anxiety	anxiety	symptoms	symptoms		
-V-484	cancer	cancer	chemo	chemo	patients got massaged during	
-V-484	plants	plants	anxiety	anxiety	…to treat…disease[s],” and is “commonly used” to treat	
-V-484	cancer	cancer	radiation	radiation	patients got massaged during chemo and	
-V-484	cancer	cancer	treatment	treatment		
 V-484	drugs	drugs	anxiety	anxiety	used for the relief of	
+V-484	orange	orange	anxiety	anxiety	was diffused in[to] the waiting room…” it appeared to have “a relaxant effect”—less	
 V-484	aromatherapy	aromatherapy	oils	oils	is the use of concentrated essential	
-V-484	plant-based	plant-based	massage	massage	diet, rather than a post-op plant-based	
+V-484	oils	oils	plants	plants	extracted from…	

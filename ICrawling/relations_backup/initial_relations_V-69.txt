@@ -1,70 +1,17 @@
 
-V-69	women	women	colon cancer	colon cancer	with breast cancer, or a striking 97% of	
-V-69	vitamin d	vitamin d	colorectal cancer	colorectal cancer	levels are associated with improved survival in	
-V-69	premarin	premarin	heart disease	heart disease	appeared to have 50% less risk of	
-V-69	risk	risk	breast cancer	breast cancer	of	
-V-69	risk	risk	cancer	cancer	of breast	
-V-69	women	women	cancer	cancer	with breast	
-V-69	death	death	women	women	in	
-V-69	vitamin d	vitamin d	cancer	cancer	supplements and	
-V-69	risk	risk	cancer	cancer	of dying from	
-V-69	premarin	premarin	risk	risk	appeared to have 50% less	
-V-69	premarin	premarin	disease	disease	appeared to have 50% less risk of heart	
-V-69	cancer	cancer	vitamin d	vitamin d	and	
-V-69	women	women	breast cancer	breast cancer	with	
-V-69	vitamin d	vitamin d	mortality	mortality	were associated with lower	
-V-69	colon	colon	cancer	cancer		
-V-69	women	women	premarin	premarin	taking drugs like	
-V-69	vitamin d	vitamin d	colon	colon	—is a protective factor against	
-V-69	vitamin d	vitamin d	cancer	cancer	—is a protective factor against colon	
-V-69	risk	risk	accidents	accidents	of dying from	
-V-69	cancer	cancer	vitamin d	vitamin d	recurrence and death in women with the lowest	
-V-69	risk	risk	women	women	of breast cancer recurrence and death in	
-V-69	tumors	tumors	vitamin d	vitamin d	don’t appear to directly affect	
-V-69	women	women	risk	risk	taking estrogen had 50% lower	
-V-69	colon	colon	vitamin d	vitamin d	cancer and	
-V-69	drugs	drugs	premarin	premarin	like	
-V-69	estrogen	estrogen	risk	risk	had 50% lower	
-V-69	breast cancer	breast cancer	women	women	recurrence and death in	
-V-69	risk	risk	disease	disease	of dying from heart	
-V-69	doctors	doctors	women	women	prescribed it to	
-V-69	blood	blood	vitamin d	vitamin d	levels of	
-V-69	vitamin d	vitamin d	colorectal cancer	colorectal cancer	were associated with lower mortality of patients with	
-V-69	mexico	mexico	colon cancer	colon cancer	and arizona have only about half the	
-V-69	vitamin d	vitamin d	colon cancer	colon cancer	—is a protective factor against	
-V-69	cream	cream	ice cream	ice cream	sales and drowning deaths, but that doesn’t mean	
-V-69	vitamin d	vitamin d	ovarian cancer	ovarian cancer	levels also associated with longer survival with	
-V-69	women	women	estrogen	estrogen	taking	
-V-69	vitamin d	vitamin d	cancer	cancer	levels are associated with improved survival in colorectal	
-V-69	women	women	colon	colon	with breast cancer, or a striking 97% of	
 V-69	colon cancer	colon cancer	vitamin d	vitamin d	and	
-V-69	vitamin d	vitamin d	cancer	cancer	levels also associated with longer survival with ovarian	
-V-69	mexico	mexico	colon	colon	and arizona have only about half the	
-V-69	risk	risk	death	death	of breast cancer recurrence and	
-V-69	breast cancer	breast cancer	death	death	recurrence and	
-V-69	risk	risk	heart disease	heart disease	of	
-V-69	risk	risk	heart disease	heart disease	of dying from	
-V-69	women	women	drugs	drugs	taking	
-V-69	mortality	mortality	cancer	cancer	of patients with colorectal	
-V-69	vitamin d	vitamin d	cancer	cancer	levels didn’t worsen the	
-V-69	vitamin d	vitamin d	supplements	supplements		
-V-69	vitamin d	vitamin d	risk	risk	stores.but look; there are other	
-V-69	estrogen	estrogen	heart disease	heart disease	had 50% lower risk of dying from	
-V-69	risk	risk	death	death	of a rapid	
-V-69	estrogen	estrogen	disease	disease	had 50% lower risk of dying from heart	
 V-69	vitamin d supplements	vitamin d supplements	cancer	cancer	and	
-V-69	mexico	mexico	cancer	cancer	and arizona have only about half the colon	
-V-69	risk	risk	disease	disease	of heart	
+V-69	risk	risk	breast cancer	breast cancer	of	
 V-69	cancer	cancer	vitamin d	vitamin d	worsened the	
-V-69	cancer	cancer	death	death	recurrence and	
-V-69	blood	blood	mortality	mortality	levels of vitamin d were associated with lower	
+V-69	tumors	tumors	vitamin d	vitamin d	don’t appear to directly affect	
 V-69	heart attack	heart attack	death	death	and	
-V-69	women	women	vitamin d	vitamin d	with the lowest	
-V-69	cancer	cancer	women	women	recurrence and death in	
-V-69	mortality	mortality	colorectal cancer	colorectal cancer	of patients with	
+V-69	death	death	women	women	in	
+V-69	risk	risk	heart disease	heart disease	of	
+V-69	estrogen	estrogen	risk	risk	had 50% lower	
+V-69	women	women	drugs	drugs	taking	
+V-69	premarin	premarin	risk	risk	appeared to have 50% less	
+V-69	doctors	doctors	women	women	prescribed it to	
 V-69	supplements	supplements	cancer	cancer	and	
-V-69	death	death	vitamin d	vitamin d	in women with the lowest	
-V-69	cancer	cancer	treatment	treatment		
-V-69	drugs	drugs	risk	risk	like premarin appeared to have 50% less	
-V-69	breast cancer	breast cancer	vitamin d	vitamin d	recurrence and death in women with the lowest	
-V-69	surgery	surgery	vitamin d	vitamin d	can dramatically drop	
+V-69	cancer	cancer	vitamin d	vitamin d	and	
+V-69	vitamin d	vitamin d	mortality	mortality	were associated with lower	
+V-69	women	women	estrogen	estrogen	taking	

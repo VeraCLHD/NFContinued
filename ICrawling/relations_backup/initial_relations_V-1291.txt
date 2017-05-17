@@ -1,6 +1,3 @@
 
-V-1291	fruits	fruits	noni	noni	like	
-V-1291	noni	noni	juice	juice		
-V-1291	apples	apples	bananas	bananas	or oranges, or even	
 V-1291	juice	juice	liver	liver	seemed to shut down this poor 24-year-old woman's	
 V-1291	apples	apples	oranges	oranges	or	

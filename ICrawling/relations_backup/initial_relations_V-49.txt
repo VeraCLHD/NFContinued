@@ -1,35 +1,9 @@
 
-V-49	ginger	ginger	migraines	migraines	is so effective against	
-V-49	ginger	ginger	nausea	nausea	group evidently had significantly less	
-V-49	ginger	ginger	nausea	nausea	powder in preventing	
-V-49	ginger	ginger	chemotherapy	chemotherapy	powder in preventing nausea and vomiting [from]	
-V-49	nausea	nausea	chemotherapy	chemotherapy	and vomiting [from]	
-V-49	osteoarthritis	osteoarthritis	pain	pain	to provide	
-V-49	pain	pain	osteoarthritis	osteoarthritis	and disability in [	
-V-49	treatment	treatment	arthritis	arthritis	of	
-V-49	osteoarthritis	osteoarthritis	chronic disease	chronic disease	] is a	
-V-49	pain	pain	osteoarthritis	osteoarthritis	of menstrual cramps, what about	
-V-49	ginger	ginger	arthritis	arthritis	“should not be recommended…for treatment of	
-V-49	ginger	ginger	pain	pain	is now considered indeed “able to reduce	
-V-49	risk	risk	side effects	side effects	by taking an additional drug to counteract the	
-V-49	chemo	chemo	vomiting	vomiting	]-induced	
-V-49	drugs	drugs	ibuprofen	ibuprofen	like	
 V-49	nausea	nausea	vomiting	vomiting	and	
 V-49	drugs	drugs	stomach	stomach	reduce our	
-V-49	ginger	ginger	treatment	treatment		
-V-49	osteoarthritis	osteoarthritis	drugs	drugs	who were on	
+V-49	ginger	ginger	migraines	migraines	is so effective against	
 V-49	placebo effect	placebo effect	osteoarthritis	osteoarthritis	has been shown to be remarkably effective in	
 V-49	risk	risk	stomach	stomach	of	
-V-49	osteoarthritis	osteoarthritis	pain	pain	—an all-too-common disorder that produces “chronic	
-V-49	vomiting	vomiting	chemotherapy	chemotherapy	[from]	
+V-49	ginger	ginger	pain	pain	is now considered indeed “able to reduce	
+V-49	treatment	treatment	arthritis	arthritis	of	
 V-49	ginger	ginger	stomach	stomach	can actually improve	
-V-49	osteoarthritis	osteoarthritis	disease	disease	] is a chronic	
-V-49	pain	pain	osteoarthritis	osteoarthritis	relief for	
-V-49	ginger	ginger	vomiting	vomiting	group evidently had significantly less nausea and	
-V-49	ginger	ginger	vomiting	vomiting	powder in preventing nausea and	
-V-49	ginger	ginger	pain	pain	is so effective against migraines, and the	
-V-49	osteoarthritis	osteoarthritis	chronic pain	chronic pain	—an all-too-common disorder that produces “	
-V-49	placebo	placebo	pain	pain	did so well, reducing	
-V-49	anti-inflammatory	anti-inflammatory	drugs	drugs		
-V-49	ginger	ginger	treatment	treatment	“should not be recommended…for	
-V-49	osteoarthritis	osteoarthritis	ibuprofen	ibuprofen	who were on drugs like	

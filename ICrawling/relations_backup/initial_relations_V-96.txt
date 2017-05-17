@@ -1,111 +1,14 @@
 
-V-96	cancer	cancer	psa	psa	was steadily growing, as measured by their average	
-V-96	breast cancer	breast cancer	estrogen	estrogen	can thrive on	
-V-96	dr. dean ornish	dr. dean ornish	prostate	prostate	and colleagues got an apparent reversal in early	
-V-96	treatment	treatment	prostate	prostate	options are limited—you already took out the	
-V-96	asia	asia	cancer	cancer	have the lowest prostate	
-V-96	cancer	cancer	tumors	tumors	patients appeared to shrink their	
-V-96	blood	blood	prostate	prostate	of the men on	
-V-96	animal products	animal products	prostate cancer	prostate cancer	are the strongest risk factor for	
-V-96	prostate	prostate	pomegranate	pomegranate	cancer looks like; just decimated by the	
-V-96	prostate	prostate	radiation	radiation	cancer consists of either radical surgery, or	
-V-96	prostate	prostate	cancer	cancer		
-V-96	cancer	cancer	cancer	cancer	can thrive on estrogen, prostate	
-V-96	tumors	tumors	pomegranate	pomegranate	as soon as they started drinking the	
-V-96	fruit	fruit	health	health	seems to be a better representation of	
-V-96	cancer	cancer	surgery	surgery	consists of either radical	
-V-96	prostate	prostate	radiation	radiation	cancer after surgery or	
-V-96	risk	risk	cancer	cancer	factor for prostate	
-V-96	dr. dean ornish	dr. dean ornish	prostate cancer	prostate cancer	and colleagues got an apparent reversal in early	
-V-96	cancer	cancer	diet	diet	growth with a plant-based	
-V-96	breast cancer	breast cancer	cancer	cancer	can thrive on estrogen, prostate	
-V-96	soy	soy	green tea	green tea	products, and	
-V-96	juice	juice	cancer growth	cancer growth	just suppressed	
-V-96	juice	juice	prostate cancer	prostate cancer	for	
-V-96	blood	blood	cancer growth	cancer growth	of the men on the juice just suppressed	
-V-96	cancer	cancer	psa	psa	comes back, as evidenced by rising	
 V-96	surgery	surgery	radiation	radiation	or	
-V-96	pomegranate	pomegranate	cancer	cancer	juice for prostate	
-V-96	pomegranate	pomegranate	juice	juice		
-V-96	juice	juice	cancer	cancer	for prostate	
-V-96	pomegranate	pomegranate	cancer cells	cancer cells	extract can suppress the growth of prostate	
-V-96	cancer	cancer	blood	blood	growth nearly eight times better; whereas the	
-V-96	tumors	tumors	pomegranate	pomegranate	not drinking	
-V-96	cancer	cancer	radiation	radiation	after surgery or	
-V-96	animal products	animal products	risk	risk	are the strongest	
-V-96	blood	blood	prostate cancer	prostate cancer	of the men on	
-V-96	prostate	prostate	blood	blood	cancer growing in a lab, the	
-V-96	cancer growth	cancer growth	diet	diet	with a plant-based	
-V-96	prostate	prostate	cancer cells	cancer cells		
-V-96	pomegranate	pomegranate	prostate cancer	prostate cancer	extract can suppress the growth of	
-V-96	pomegranate	pomegranate	prostate	prostate	extract can suppress the growth of	
-V-96	cancer	cancer	prostate	prostate	can thrive on estrogen,	
-V-96	cancer	cancer	estrogen	estrogen	can thrive on	
-V-96	ornish	ornish	prostate cancer	prostate cancer	and colleagues got an apparent reversal in early	
-V-96	prostate	prostate	diet	diet	cancer growth with a plant-based	
-V-96	asia	asia	prostate	prostate	have the lowest	
-V-96	cancer	cancer	plant-based	plant-based	patients on a	
-V-96	placebo effect	placebo effect	cancer growth	cancer growth	can be so powerful that it may slow	
-V-96	cancer	cancer	plant-based diet	plant-based diet	growth with a	
-V-96	ornish	ornish	prostate	prostate	and colleagues got an apparent reversal in early	
-V-96	japanese	japanese	united states	united states	individuals move to the	
-V-96	prostate	prostate	plant-based diet	plant-based diet	cancer growth with a	
-V-96	cancer	cancer	radiation	radiation	consists of either radical surgery, or	
-V-96	tumors	tumors	juice	juice	as soon as they started drinking the pomegranate	
-V-96	cancer	cancer	prostate cancer	prostate cancer	can thrive on estrogen,	
-V-96	cancer	cancer	pomegranate	pomegranate	looks like; just decimated by the	
-V-96	prostate cancer	prostate cancer	plant-based	plant-based	growth with a	
-V-96	breast cancer	breast cancer	prostate	prostate	can thrive on estrogen,	
-V-96	risk	risk	prostate cancer	prostate cancer	factor for	
 V-96	asia	asia	prostate cancer	prostate cancer	have the lowest	
-V-96	prostate	prostate	surgery	surgery	cancer after	
-V-96	cancer	cancer	diet	diet	patients on a plant-based	
-V-96	prostate cancer	prostate cancer	blood	blood	growing in a lab, the	
-V-96	plant-based	plant-based	diet	diet		
-V-96	prostate cancer	prostate cancer	radiation	radiation	after surgery or	
-V-96	pomegranate	pomegranate	placebo	placebo	juice.so, any effect appears to just be a	
-V-96	cancer	cancer	surgery	surgery	after	
-V-96	animal products	animal products	cancer	cancer	are the strongest risk factor for prostate	
-V-96	blood	blood	cancer	cancer	of the men on prostate	
-V-96	pomegranate	pomegranate	prostate cancer	prostate cancer	juice for	
-V-96	prostate	prostate	surgery	surgery	cancer consists of either radical	
-V-96	pomegranate juice	pomegranate juice	cancer	cancer	for prostate	
-V-96	blood	blood	cancer	cancer	of the men on the juice just suppressed	
-V-96	prostate	prostate	cancer growth	cancer growth		
-V-96	prostate cancer	prostate cancer	diet	diet	growth with a plant-based	
-V-96	cancer growth	cancer growth	plant-based	plant-based	with a	
-V-96	juice	juice	cancer	cancer	just suppressed	
-V-96	pomegranate	pomegranate	prostate	prostate	juice for	
-V-96	prostate	prostate	testosterone	testosterone	cancer can thrive on	
-V-96	breast cancer	breast cancer	prostate cancer	prostate cancer	can thrive on estrogen,	
-V-96	pomegranate	pomegranate	pills	pills	extract	
-V-96	prostate	prostate	plant-based	plant-based	cancer growth with a	
-V-96	prostate cancer	prostate cancer	radiation	radiation	consists of either radical surgery, or	
-V-96	meat	meat	baby	baby	”—no, they’re talking about	
-V-96	juice	juice	prostate	prostate	for	
-V-96	cancer	cancer	blood	blood	growing in a lab, the	
-V-96	cancer growth	cancer growth	blood	blood	nearly eight times better; whereas the	
-V-96	prostate cancer	prostate cancer	surgery	surgery	consists of either radical	
-V-96	risk	risk	prostate	prostate	factor for	
-V-96	prostate cancer	prostate cancer	surgery	surgery	after	
-V-96	tumors	tumors	pomegranate juice	pomegranate juice	as soon as they started drinking the	
-V-96	cancer growth	cancer growth	plant-based diet	plant-based diet	with a	
+V-96	breast cancer	breast cancer	estrogen	estrogen	can thrive on	
+V-96	cancer	cancer	estrogen	estrogen	can thrive on	
+V-96	asia	asia	prostate	prostate	have the lowest	
+V-96	pomegranates	pomegranates	prostate cancer	prostate cancer	and	
+V-96	placebo effect	placebo effect	cancer growth	cancer growth	can be so powerful that it may slow	
+V-96	pomegranates	pomegranates	prostate	prostate	and	
+V-96	animal products	animal products	risk	risk	are the strongest	
+V-96	fruit	fruit	health	health	seems to be a better representation of	
 V-96	placebo effect	placebo effect	cancer	cancer	can be so powerful that it may slow	
 V-96	prostate cancer	prostate cancer	testosterone	testosterone	can thrive on	
-V-96	pomegranate	pomegranate	cancer	cancer	extract can suppress the growth of prostate	
-V-96	animal products	animal products	prostate	prostate	are the strongest risk factor for	
-V-96	cancer	cancer	plant-based diet	plant-based diet	patients on a	
-V-96	prostate cancer	prostate cancer	plant-based diet	plant-based diet	growth with a	
-V-96	pomegranate juice	pomegranate juice	prostate cancer	prostate cancer	for	
-V-96	pomegranates	pomegranates	prostate cancer	prostate cancer	and	
-V-96	pomegranates	pomegranates	cancer	cancer	and prostate	
-V-96	pomegranates	pomegranates	prostate	prostate	and	
-V-96	pomegranate juice	pomegranate juice	prostate	prostate	for	
-V-96	blood	blood	cancer	cancer	serum of those eating healthy suppressed	
-V-96	dean ornish	dean ornish	prostate	prostate	and colleagues got an apparent reversal in early	
-V-96	prostate cancer	prostate cancer	pomegranate	pomegranate	looks like; just decimated by the	
-V-96	soy	soy	tea	tea	products, and green	
-V-96	cancer	cancer	plant-based	plant-based	growth with a	
 V-96	tumors	tumors	juice	juice	started growing slower right when they started the	
-V-96	sugar	sugar	pills	pills		
-V-96	dean ornish	dean ornish	prostate cancer	prostate cancer	and colleagues got an apparent reversal in early	

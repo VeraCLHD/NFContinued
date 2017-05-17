@@ -1,83 +1,18 @@
 
-V-47	cancer	cancer	prevention	prevention	protection highlights an exciting time for cancer	
-V-47	colon	colon	risk	risk	cancer	
-V-47	nitrates	nitrates	blood	blood	exerts stomach-protective effects by “boosting	
-V-47	risk	risk	heart attacks	heart attacks	of major bleeding, even at low-dose aspirin, but fewer	
-V-47	fruit	fruit	aspirin	aspirin	and vegetable consumption.but, are these kinds of	
-V-47	aspirin	aspirin	metastases	metastases	appeared to cut the risk of	
-V-47	aspirin	aspirin	vegetables	vegetables	…”“dark green leafy	
-V-47	leafy vegetables	leafy vegetables	nitrate	nitrate	…are among the richest dietary sources of	
-V-47	stomach	stomach	blood	blood	-protective effects by “boosting	
-V-47	risk	risk	cancer	cancer	of death from	
-V-47	plants	plants	aspirin	aspirin	instead of taking	
-V-47	aspirin	aspirin	plants	plants	phytonutrient is made by	
-V-47	vegetarian	vegetarian	diet	diet		
-V-47	nitrate	nitrate	aspirin	aspirin	pills with their	
-V-47	mucus	mucus	stomach	stomach	production” in the lining of the	
-V-47	colon	colon	cancer	cancer		
-V-47	aspirin	aspirin	mortality	mortality	’s ability to reduce	
-V-47	risk	risk	aspirin	aspirin	of bleeding on	
-V-47	eggs	eggs	arachidonic acid	arachidonic acid	—our enzymes take the	
-V-47	colon	colon	baby	baby	cancer.so now, what about everyone taking a daily	
-V-47	nitric oxide	nitric oxide	stomach	stomach	from dietary nitrates exerts	
-V-47	blood	blood	vegetarians	vegetarians	levels in	
-V-47	aspirin	aspirin	cancer	cancer	’s	
-V-47	risk	risk	health	health	for gastrointestinal bleeding; this fact may constrain	
-V-47	death	death	cancer	cancer	from	
+V-47	risk	risk	metastases	metastases	of	
+V-47	risk	risk	ulcers	ulcers	of	
+V-47	vegetarians	vegetarians	blood	blood	had the same level in their	
+V-47	vegetarians	vegetarians	aspirin	aspirin	pee out as much of the active metabolite of	
 V-47	nitrates	nitrates	stomach	stomach	exerts	
-V-47	cancer	cancer	aspirin	aspirin	can take decades to develop.so, the only way	
-V-47	stomach	stomach	risk	risk	and intestines], and increase [the]	
-V-47	baby	baby	aspirin	aspirin		
-V-47	vegetarians	vegetarians	ulcers	ulcers	appear to have a significantly lower risk of	
-V-47	enzymes	enzymes	arachidonic acid	arachidonic acid	named cox, cyclooxygenase, take the pro-inflammatory omega-6 fatty acid	
+V-47	aspirin	aspirin	cancer	cancer	can help prevent	
+V-47	aspirin	aspirin	risk	risk	appeared to cut the	
+V-47	aspirin	aspirin	gut	gut	can just chew through our	
+V-47	phytonutrient	phytonutrient	plants	plants	is made by	
 V-47	prostaglandin	prostaglandin	pain	pain	means less	
 V-47	risk	risk	death	death	of	
+V-47	chicken	chicken	eggs	eggs	and	
 V-47	fruits	fruits	vegetables	vegetables	and	
 V-47	vegetarians	vegetarians	risk	risk	appear to have a significantly lower	
-V-47	nitrate	nitrate	pills	pills		
-V-47	phytonutrient	phytonutrient	cancer	cancer	—salicylic acid—found in aspirin.how does it affect	
-V-47	salicylic acid	salicylic acid	nitric oxide	nitric oxide	may come naturally pre-packaged with gut-protective nutrients.for example,	
-V-47	risk	risk	aspirin	aspirin	of major bleeding, even at low-dose	
-V-47	nitric oxide	nitric oxide	blood	blood	from dietary nitrates exerts stomach-protective effects by “boosting	
-V-47	blood	blood	aspirin	aspirin	as people actually taking	
-V-47	vegetarians	vegetarians	blood	blood	had the same level in their	
-V-47	vegetables	vegetables	nitrate	nitrate	…are among the richest dietary sources of	
-V-47	aspirin	aspirin	cancer	cancer	can help prevent	
-V-47	eggs	eggs	enzymes	enzymes	—our	
-V-47	mortality	mortality	cancer	cancer	from both vascular events and	
-V-47	health	health	aspirin	aspirin	authorities from recommending	
-V-47	prostaglandin	prostaglandin	fever	fever	means less pain, swelling, and	
-V-47	aspirin	aspirin	leafy vegetables	leafy vegetables	…”“dark green	
-V-47	aspirin	aspirin	disease	disease	for patients with [heart]	
-V-47	medicine	medicine	aspirin	aspirin	went to the team that discovered how	
-V-47	death	death	aspirin	aspirin	from cancer among those…randomized to [a] daily	
-V-47	chicken	chicken	enzymes	enzymes	and eggs—our	
-V-47	risk	risk	colon	colon	of metastases in half—particularly for adenocarcinomas, like	
-V-47	aspirin	aspirin	pills	pills		
-V-47	aspirin	aspirin	cancer	cancer	may also help prevent certain forms of	
-V-47	risk	risk	metastases	metastases	of	
-V-47	blood	blood	mucus	mucus	flow” and protective “	
-V-47	cancer	cancer	cancer	cancer	protection highlights an exciting time for	
-V-47	aspirin	aspirin	tumor	tumor	can help prevent cancer—by counteracting	
-V-47	aspirin	aspirin	phytonutrient	phytonutrient		
-V-47	greens	greens	pills	pills	] every day,” we should just give people	
-V-47	risk	risk	ulcers	ulcers	of	
-V-47	birds	birds	egg	egg	from one	
-V-47	anti-inflammatory	anti-inflammatory	aspirin	aspirin	action of	
-V-47	aspirin	aspirin	risk	risk	appeared to cut the	
-V-47	nitric oxide	nitric oxide	nitrates	nitrates	from dietary	
-V-47	aspirin	aspirin	gut	gut	can just chew through our	
-V-47	cancer	cancer	cancer prevention	cancer prevention	protection highlights an exciting time for	
-V-47	fruits	fruits	aspirin	aspirin	and veggies, too.with effectively all that	
-V-47	phytonutrient	phytonutrient	salicylic acid	salicylic acid	—	
-V-47	metastases	metastases	colon	colon	in half—particularly for adenocarcinomas, like	
-V-47	aspirin	aspirin	cancer	cancer	on	
-V-47	phytonutrient	phytonutrient	plants	plants	is made by	
-V-47	salicylic acid	salicylic acid	cancer	cancer	—found in aspirin.how does it affect	
-V-47	aspirin	aspirin	cancer prevention	cancer prevention	’s cancer protection highlights an exciting time for	
-V-47	pills	pills	aspirin	aspirin	with their	
-V-47	chicken	chicken	eggs	eggs	and	
-V-47	cancer	cancer	prevention	prevention		
 V-47	enzymes	enzymes	arachidonic acid	arachidonic acid	take the	
-V-47	chicken	chicken	arachidonic acid	arachidonic acid	and eggs—our enzymes take the	
-V-47	colon cancer	colon cancer	risk	risk		
+V-47	aspirin	aspirin	tumors	tumors	could save us that fast is by suppressing the growth and spread of	
+V-47	cancer	cancer	aspirin	aspirin	tries to kill us is by boosting cox activity.that’s one of the ways we think	

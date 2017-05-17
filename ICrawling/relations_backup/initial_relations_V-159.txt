@@ -1,25 +1,6 @@
 
-V-159	antibodies	antibodies	dna	dna	and attacking our	
-V-159	side effects	side effects	leukemia	leukemia	which may include	
-V-159	turmeric	turmeric	blood	blood	decreases proteinuria, hematuria, and systolic	
-V-159	leukemia	leukemia	cancer	cancer	and bladder	
-V-159	leukemia	leukemia	bladder cancer	bladder cancer	and	
-V-159	side effects	side effects	cancer	cancer	which may include leukemia and bladder	
-V-159	dna	dna	lupus	lupus	itself; so,	
-V-159	chemo	chemo	drugs	drugs		
-V-159	leukemia	leukemia	women	women	and bladder cancer, as many	
-V-159	bladder	bladder	cancer	cancer		
-V-159	antibodies	antibodies	lupus	lupus	and attacking our dna itself; so,	
-V-159	chemo	chemo	side effects	side effects	drugs, like cytoxan and cyclophosphamide, can have life-threatening	
-V-159	americans	americans	disease	disease	suffer from this dreaded	
-V-159	side effects	side effects	bladder cancer	bladder cancer	which may include leukemia and	
-V-159	immune system	immune system	thyroid	thyroid	attacks our	
-V-159	kidney	kidney	inflammation	inflammation		
-V-159	bladder	bladder	women	women	cancer, as many	
-V-159	women	women	lupus	lupus	with out-of-control	
-V-159	protein	protein	urine	urine	in the	
 V-159	leukemia	leukemia	bladder	bladder	and	
+V-159	leukemia	leukemia	bladder cancer	bladder cancer	and	
 V-159	inflammation	inflammation	kidney	kidney	occurring in as many as half of patients.	
-V-159	lupus	lupus	drugs	drugs		
-V-159	side effects	side effects	bladder	bladder	which may include leukemia and	
-V-159	turmeric	turmeric	blood pressure	blood pressure	decreases proteinuria, hematuria, and systolic	
+V-159	americans	americans	disease	disease	suffer from this dreaded	
+V-159	immune system	immune system	thyroid	thyroid	attacks our	

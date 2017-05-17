@@ -1,4 +1,2 @@
 
-V-92	england	england	medicine	medicine	journal of	
 V-92	denmark	denmark	physicians	physicians	requiring	
-V-92	medicine	medicine	doctors	doctors	wrote a scathing piece on drug companies and	

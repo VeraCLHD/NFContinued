@@ -1,35 +1,4 @@
 
-V-748	cancer	cancer	cancer	cancer	by slowing the growth of colon	
-V-748	cancer cells	cancer cells	death	death	and activating programmed cancer cell	
-V-748	fiber	fiber	butyrate	butyrate	also yields another short-chain fatty acid called	
-V-748	cancer cells	cancer cells	cell death	cell death	and activating programmed cancer	
-V-748	butyrate	butyrate	anti-inflammatory	anti-inflammatory	may explain why fiber-filled, plant-based diets are so	
-V-748	colon cancer	colon cancer	death	death	cells and activating programmed cancer cell	
-V-748	colon	colon	cancer cells	cancer cells		
 V-748	plant-based diets	plant-based diets	anti-inflammatory	anti-inflammatory	are so	
-V-748	cancer	cancer	cancer	cancer	cell death—as well as preventing	
 V-748	butyrate	butyrate	anti-inflammatory	anti-inflammatory	seems “to exert broad	
-V-748	colon cancer	colon cancer	cell death	cell death	cells and activating programmed cancer	
-V-748	colon	colon	cancer	cancer		
-V-748	butyrate	butyrate	plant-based	plant-based	may explain why fiber-filled,	
-V-748	vegetarian	vegetarian	bacteria	bacteria	harbor more good	
-V-748	cancer	cancer	colon cancer	colon cancer	by slowing the growth of	
-V-748	colon cancer	colon cancer	cancer	cancer	cells and activating programmed	
-V-748	colon	colon	plant foods	plant foods	by—eating more	
-V-748	colon	colon	death	death	cancer cells and activating programmed cancer cell	
-V-748	bacteria	bacteria	colon	colon	in our	
-V-748	flora	flora	fiber	fiber	’s digestion of	
-V-748	death	death	cancer	cancer	—as well as preventing	
-V-748	plant-based	plant-based	anti-inflammatory	anti-inflammatory	diets are so	
-V-748	cancer	cancer	colon	colon	by slowing the growth of	
-V-748	vegetarian	vegetarian	period	period	harbor more good bacteria,	
-V-748	flora	flora	digestion	digestion	’s	
-V-748	colon	colon	cell death	cell death	cancer cells and activating programmed cancer	
-V-748	butyrate	butyrate	plant-based diets	plant-based diets	may explain why fiber-filled,	
-V-748	cancer	cancer	cancer cells	cancer cells	by slowing the growth of colon	
-V-748	fiber	fiber	digestion	digestion		
-V-748	butyrate	butyrate	diet	diet	production capacity in individuals according to	
-V-748	cancer cells	cancer cells	cancer	cancer	and activating programmed	
-V-748	bacteria	bacteria	plant foods	plant foods	in our colon by—eating more	
 V-748	digestion	digestion	fiber	fiber	of	
-V-748	cell death	cell death	cancer	cancer	—as well as preventing	

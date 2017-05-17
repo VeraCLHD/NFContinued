@@ -1,156 +1,25 @@
 
-T-101	fat	fat	risk	risk	and cholesterol were associated with elevated gestational diabetes	
-T-101	disease	disease	fat	fat	and related conditions: eliminating saturated animal	
-T-101	fat	fat	cancer	cancer	intake and	
-T-101	ldl cholesterol	ldl cholesterol	blood	blood	and lower	
-T-101	animal fat	animal fat	cancer	cancer	intake and	
-T-101	pancreatic cancer	pancreatic cancer	animal fats	animal fats	risk, though other	
-T-101	fat	fat	cancer	cancer	intake appear linked with endometrial	
-T-101	trans fats	trans fats	fat	fat	are associated with increased heart disease risk.animal	
-T-101	heart attack	heart attack	risk	risk		
-T-101	animal protein	animal protein	risk	risk	and fat intake appear linked with endometrial cancer	
-T-101	cancer	cancer	animal fat	animal fat	survival.heart disease and related conditions: eliminating saturated	
-T-101	prostate enlargement	prostate enlargement	prostate cancer	prostate cancer	and	
-T-101	fats	fats	fat	fat	are associated with increased heart disease risk.animal	
-T-101	cancer	cancer	fat	fat	survival.heart disease and related conditions: eliminating saturated animal	
-T-101	americans	americans	fat	fat	come from animal	
-T-101	heart disease	heart disease	chronic diseases	chronic diseases	as well as other	
-T-101	saturated fat	saturated fat	animal fat	animal fat	in	
-T-101	americans	americans	fats	fats	come from animal fat; trans	
-T-101	endometrial cancer	endometrial cancer	risk	risk		
-T-101	cholesterol	cholesterol	blood	blood	and lower	
-T-101	animal fat	animal fat	protein	protein	and animal	
-T-101	animal protein	animal protein	cancer	cancer	and fat intake appear linked with endometrial	
-T-101	trans fats	trans fats	animal fat	animal fat	eaten by americans come from	
-T-101	cancer	cancer	animal fat	animal fat	: studies have found possible links between	
-T-101	diabetes	diabetes	risk	risk		
-T-101	fat	fat	blood	blood	intake can also cause our	
-T-101	prostate enlargement	prostate enlargement	prostate	prostate	and	
-T-101	cancer	cancer	fat	fat	: studies have found possible links between animal	
-T-101	fat	fat	risk	risk	consumption may be a	
-T-101	fat	fat	prostate	prostate	consumption may be a risk factor for both	
-T-101	risk	risk	chronic diseases	chronic diseases	of heart disease as well as other	
-T-101	nutrition	nutrition	fat	fat	research suggests that we should eat less animal	
-T-101	pancreatic cancer	pancreatic cancer	fats	fats	risk, though other animal	
-T-101	saturated animal fat	saturated animal fat	inflammation	inflammation	intake may cause a spike in	
-T-101	ldl cholesterol	ldl cholesterol	blood pressure	blood pressure	and lower	
-T-101	fat	fat	gestational diabetes	gestational diabetes	and cholesterol were associated with elevated	
-T-101	fats	fats	animal fat	animal fat	eaten by americans come from	
-T-101	animal fat	animal fat	endotoxins	endotoxins	facilitating the absorption of bacterial	
-T-101	disease	disease	animal fat	animal fat	risk.	
-T-101	cholesterol	cholesterol	risk	risk	were associated with elevated gestational diabetes	
-T-101	animal fat	animal fat	gestational diabetes	gestational diabetes	and cholesterol were associated with elevated	
+T-101	animal fat	animal fat	cholesterol	cholesterol	and	
+T-101	cholesterol	cholesterol	diabetes	diabetes	were associated with elevated gestational	
 T-101	diet	diet	animal fat	animal fat	may come from	
 T-101	fat	fat	animal protein	animal protein	and	
-T-101	heart disease	heart disease	fat	fat	risk.animal	
-T-101	animal fat	animal fat	diabetes	diabetes	and cholesterol were associated with elevated gestational	
-T-101	ldl	ldl	blood	blood	cholesterol and lower	
-T-101	animal protein	animal protein	endometrial cancer	endometrial cancer	and fat intake appear linked with	
-T-101	protein	protein	endometrial cancer	endometrial cancer	and fat intake appear linked with	
-T-101	prostate enlargement	prostate enlargement	cancer	cancer	and prostate	
-T-101	disease	disease	fat	fat	risk.animal	
-T-101	animal fat	animal fat	cancer	cancer	most associated with increased pancreatic	
+T-101	fat	fat	animal fat	animal fat	in	
+T-101	americans	americans	animal fat	animal fat	come from	
+T-101	pollutants	pollutants	animal fats	animal fats	may accumulate in	
+T-101	carcinogens	carcinogens	animal fats	animal fats	may be passed along to humans who consume the	
+T-101	animal protein	animal protein	fat	fat	and	
+T-101	prostate enlargement	prostate enlargement	prostate	prostate	and	
+T-101	protein	protein	fat	fat	and	
 T-101	risk	risk	heart disease	heart disease	of	
 T-101	cholesterol	cholesterol	gestational diabetes	gestational diabetes	were associated with elevated	
-T-101	animal protein	animal protein	risk	risk	and fat consumption may be a	
-T-101	fat	fat	risk	risk	intake and cancer	
-T-101	chemicals	chemicals	industrial carcinogens	industrial carcinogens	and other	
-T-101	fat	fat	cholesterol	cholesterol	and	
-T-101	animal fat	animal fat	risk	risk	intake and cancer	
-T-101	inflammation	inflammation	risk	risk	after consumption, which can increase	
-T-101	risk	risk	prostate cancer	prostate cancer	factor for both prostate enlargement and	
-T-101	cholesterol	cholesterol	diabetes	diabetes	were associated with elevated gestational	
-T-101	fat	fat	animal fat	animal fat	in	
-T-101	inflammation	inflammation	heart disease	heart disease	after consumption, which can increase risk of	
-T-101	fats	fats	insulin	insulin	to plant fats can improve	
-T-101	poultry	poultry	fat	fat	appears to be the animal	
-T-101	fat	fat	prostate enlargement	prostate enlargement	consumption may be a risk factor for both	
-T-101	protein	protein	risk	risk	and fat consumption may be a	
-T-101	fat	fat	ldl cholesterol	ldl cholesterol	intake may help lower	
-T-101	fats	fats	risk	risk	can increase the	
-T-101	disease	disease	animal fat	animal fat	and related conditions: eliminating saturated	
-T-101	risk	risk	cancer	cancer	factor for both prostate enlargement and prostate	
-T-101	americans	americans	trans fats	trans fats	come from animal fat;	
-T-101	fat	fat	endometrial cancer	endometrial cancer	intake appear linked with	
-T-101	animal fat	animal fat	risk	risk	and cholesterol were associated with elevated gestational diabetes	
-T-101	inflammation	inflammation	disease	disease	after consumption, which can increase risk of heart	
-T-101	risk	risk	prostate	prostate	factor for both	
-T-101	fat	fat	endotoxins	endotoxins	facilitating the absorption of bacterial	
-T-101	ldl	ldl	blood pressure	blood pressure	cholesterol and lower	
-T-101	fat	fat	blood	blood	intake may help lower ldl cholesterol and lower	
-T-101	animal fat	animal fat	ldl	ldl	intake may help lower	
-T-101	chemicals	chemicals	carcinogens	carcinogens	and other industrial	
-T-101	animal fat	animal fat	blood	blood	intake may help lower ldl cholesterol and lower	
-T-101	diet	diet	fat	fat	may come from animal	
-T-101	protein	protein	risk	risk	and fat intake appear linked with endometrial cancer	
-T-101	animal fats	animal fats	insulin	insulin	to plant fats can improve	
-T-101	dioxin	dioxin	fats	fats	and other toxic pollutants may accumulate in animal	
-T-101	asia	asia	animal fat	animal fat	may coincide with increased consumption of	
-T-101	fat	fat	pancreatic cancer	pancreatic cancer	most associated with increased	
-T-101	protein	protein	cancer	cancer	and fat intake appear linked with endometrial	
-T-101	animal fat	animal fat	inflammation	inflammation	intake may cause a spike in	
-T-101	animal fat	animal fat	blood pressure	blood pressure	intake may help lower ldl cholesterol and lower	
-T-101	risk	risk	prostate enlargement	prostate enlargement	factor for both	
-T-101	fat	fat	ldl	ldl	intake may help lower	
-T-101	fat	fat	blood pressure	blood pressure	intake may help lower ldl cholesterol and lower	
-T-101	saturated fat	saturated fat	cancer	cancer	in animal fat may decrease the length of	
-T-101	saturated animal fat	saturated animal fat	endotoxins	endotoxins	facilitating the absorption of bacterial	
-T-101	cancer	cancer	animal fats	animal fats	risk, though other	
-T-101	animal fat	animal fat	pancreatic cancer	pancreatic cancer	most associated with increased	
-T-101	fat	fat	diet	diet	in the u.s.	
-T-101	fat	fat	animal fat	animal fat	in the u.s. diet may come from	
-T-101	pollutants	pollutants	animal fats	animal fats	may accumulate in	
-T-101	gestational diabetes	gestational diabetes	risk	risk		
-T-101	endotoxins	endotoxins	animal foods	animal foods	that may be present in	
-T-101	cancer	cancer	saturated animal fat	saturated animal fat	survival.heart disease and related conditions: eliminating	
-T-101	trans fats	trans fats	americans	americans	eaten by	
-T-101	dioxin	dioxin	pollutants	pollutants	and other toxic	
-T-101	nutrition	nutrition	animal fat	animal fat	research suggests that we should eat less	
-T-101	animal fats	animal fats	fats	fats	to plant	
-T-101	animal fat	animal fat	cholesterol	cholesterol	intake may help lower ldl	
-T-101	diabetes	diabetes	asia	asia	: rising diabetes rates in	
-T-101	animal fat	animal fat	ldl cholesterol	ldl cholesterol	intake may help lower	
-T-101	fats	fats	americans	americans	eaten by	
-T-101	cancer	cancer	fats	fats	risk, though other animal	
-T-101	asia	asia	fat	fat	may coincide with increased consumption of animal	
-T-101	fat	fat	diabetes	diabetes	and cholesterol were associated with elevated gestational	
-T-101	fat	fat	risk	risk	most associated with increased pancreatic cancer	
-T-101	prostate	prostate	prostate cancer	prostate cancer	enlargement and	
-T-101	americans	americans	animal fat	animal fat	come from	
-T-101	animal fat	animal fat	risk	risk	most associated with increased pancreatic cancer	
-T-101	trans fats	trans fats	fats	fats	eaten by americans come from animal fat; trans	
-T-101	fat	fat	cancer	cancer	most associated with increased pancreatic	
-T-101	cancer	cancer	risk	risk		
-T-101	fats	fats	trans fats	trans fats	eaten by americans come from animal fat;	
-T-101	heart disease	heart disease	animal fat	animal fat	risk.	
-T-101	poultry	poultry	animal fat	animal fat	appears to be the	
-T-101	animal fat	animal fat	animal protein	animal protein	and	
-T-101	fats	fats	fat	fat	eaten by americans come from animal	
-T-101	pollutants	pollutants	fats	fats	may accumulate in animal	
-T-101	saturated fat	saturated fat	fat	fat	in animal	
-T-101	disease	disease	saturated animal fat	saturated animal fat	and related conditions: eliminating	
-T-101	pancreatic cancer	pancreatic cancer	risk	risk		
-T-101	trans fats	trans fats	fat	fat	eaten by americans come from animal	
-T-101	pollutants	pollutants	chemicals	chemicals	may accumulate in animal fats; these	
-T-101	animal fat	animal fat	cholesterol	cholesterol	and	
-T-101	fat	fat	cancer	cancer	in animal fat may decrease the length of	
-T-101	animal fat	animal fat	disease	disease	may decrease the length of cancer survival.heart	
-T-101	fat	fat	inflammation	inflammation	intake may cause a spike in	
-T-101	animal fat	animal fat	blood	blood	intake can also cause our	
-T-101	prostate	prostate	cancer	cancer	enlargement and prostate	
-T-101	risk	risk	disease	disease	of heart	
-T-101	animal protein	animal protein	fat	fat	and	
-T-101	ldl	ldl	cholesterol	cholesterol		
-T-101	dioxin	dioxin	animal fats	animal fats	and other toxic pollutants may accumulate in	
-T-101	protein	protein	fat	fat	and	
-T-101	cancer	cancer	disease	disease	survival.heart	
-T-101	fats	fats	animal fat	animal fat	are associated with increased heart disease risk.	
 T-101	animal fats	animal fats	risk	risk	can increase the	
-T-101	fat	fat	risk	risk	intake appear linked with endometrial cancer	
-T-101	cholesterol	cholesterol	blood pressure	blood pressure	and lower	
-T-101	fat	fat	protein	protein	and animal	
-T-101	fat	fat	cholesterol	cholesterol	intake may help lower ldl	
+T-101	trans fats	trans fats	americans	americans	eaten by	
+T-101	fats	fats	risk	risk	can increase the	
+T-101	prostate enlargement	prostate enlargement	prostate cancer	prostate cancer	and	
+T-101	asia	asia	animal fat	animal fat	may coincide with increased consumption of	
+T-101	animal fat	animal fat	animal protein	animal protein	and	
+T-101	fat	fat	cholesterol	cholesterol	and	
+T-101	fats	fats	americans	americans	eaten by	
+T-101	saturated fat	saturated fat	animal fat	animal fat	in	
 T-101	animal fat	animal fat	cancer	cancer	may decrease the length of	
-T-101	disease	disease	chronic diseases	chronic diseases	as well as other	
-T-101	saturated animal fat	saturated animal fat	blood	blood	intake can also cause our	
-T-101	trans fats	trans fats	animal fat	animal fat	are associated with increased heart disease risk.	
+T-101	industrial carcinogens	industrial carcinogens	animal fats	animal fats	may be passed along to humans who consume the	

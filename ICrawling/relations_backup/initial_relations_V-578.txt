@@ -1,43 +1,9 @@
 
-V-578	tea	tea	warts	warts	on genital	
-V-578	phytonutrients	phytonutrients	lutein	lutein	like	
-V-578	lutein	lutein	leafy vegetables	leafy vegetables	[found in dark green	
-V-578	infection	infection	vegetarians	vegetarians	rates with hpv—one of many studies reporting “	
-V-578	virus	virus	dna	dna	’	
-V-578	vegetables	vegetables	diet	diet	in their	
-V-578	leafy vegetables	leafy vegetables	lycopene	lycopene	] and	
-V-578	human papilloma virus	human papilloma virus	cancer	cancer	—which also causes	
-V-578	cancer	cancer	women	women	.most young	
-V-578	lycopene	lycopene	tomatoes	tomatoes	[the red pigment in	
-V-578	cancer	cancer	disease	disease	is now considered a sexually transmitted	
-V-578	fruits	fruits	diet	diet	and vegetables in their	
-V-578	women	women	cancer	cancer	contract hpv, but most don’t get cervical	
-V-578	risk	risk	infection	infection	of hpv	
-V-578	leafy vegetables	leafy vegetables	tomatoes	tomatoes	] and lycopene [the red pigment in	
-V-578	cervical cancer	cervical cancer	virus	virus	is caused by a sexually transmitted	
-V-578	women	women	infection	infection	clear the	
-V-578	green tea	green tea	warts	warts	on genital	
-V-578	antioxidants	antioxidants	plants	plants	in	
-V-578	vegetarian	vegetarian	infection	infection	women appeared to have significantly lower	
-V-578	virus	virus	cancer	cancer	—human papilloma virus—which also causes	
 V-578	women	women	infection	infection	appeared to have significantly lower	
-V-578	vegetarians	vegetarians	infection	infection	have lower risk of hpv	
 V-578	antioxidants	antioxidants	viruses	viruses	affect different	
-V-578	lutein	lutein	lycopene	lycopene	[found in dark green leafy vegetables] and	
-V-578	cancer	cancer	human papilloma virus	human papilloma virus	is caused by a sexually transmitted virus—	
-V-578	phytonutrients	phytonutrients	vegetables	vegetables	like lutein [found in dark green leafy	
-V-578	phytonutrients	phytonutrients	leafy vegetables	leafy vegetables	like lutein [found in dark green	
-V-578	lutein	lutein	vegetables	vegetables	[found in dark green leafy	
-V-578	cervical cancer	cervical cancer	human papilloma virus	human papilloma virus	is caused by a sexually transmitted virus—	
 V-578	vegetarians	vegetarians	risk	risk	have lower	
-V-578	women	women	cervical cancer	cervical cancer	contract hpv, but most don’t get	
-V-578	human papilloma virus	human papilloma virus	vagina	vagina	—which also causes cancer of the penis,	
-V-578	virus	virus	human papilloma virus	human papilloma virus	—	
-V-578	vegetarian	vegetarian	women	women		
-V-578	vegetables	vegetables	lycopene	lycopene	] and	
-V-578	green tea	green tea	genital warts	genital warts	on	
+V-578	women	women	infection	infection	clear the	
+V-578	antioxidants	antioxidants	virus	virus	appear to suppress the activation of critical segments of the	
 V-578	fruits	fruits	vegetables	vegetables	and	
-V-578	tea	tea	genital warts	genital warts	on	
-V-578	cancer	cancer	virus	virus	is caused by a sexually transmitted	
+V-578	antioxidants	antioxidants	plants	plants	in	
 V-578	virus	virus	cancer	cancer	can cause	
-V-578	vegetables	vegetables	tomatoes	tomatoes	] and lycopene [the red pigment in	

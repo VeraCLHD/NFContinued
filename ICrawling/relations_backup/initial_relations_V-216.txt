@@ -1,23 +1,10 @@
 
-V-216	heart disease	heart disease	women	women	deaths among	
-V-216	whole grains	whole grains	beans	beans	and	
-V-216	meat	meat	risk	risk	consumption has been associated with increased	
-V-216	diet	diet	cancer	cancer	and	
-V-216	risk	risk	meat	meat	.processed	
-V-216	risk	risk	processed meat	processed meat	of death.in europe, they calculated that reduction of	
-V-216	heart disease	heart disease	diabetes	diabetes	and	
-V-216	processed meat	processed meat	risk	risk	consumption has been associated with increased	
-V-216	red meat	red meat	processed meat	processed meat	was bad, but	
-V-216	chicken	chicken	turkey	turkey	and	
-V-216	processed meat	processed meat	meat	meat	was worse, and that included white	
-V-216	meat	meat	processed meat	processed meat	was bad, but	
-V-216	processed meat	processed meat	chicken	chicken	was worse, and that included white meat, like	
-V-216	risk	risk	europe	europe	of death.in	
-V-216	cancer	cancer	risk	risk		
 V-216	disease	disease	diabetes	diabetes	and	
 V-216	grains	grains	beans	beans	and	
-V-216	processed meat	processed meat	white meat	white meat	was worse, and that included	
-V-216	disease	disease	women	women	deaths among	
+V-216	whole grains	whole grains	beans	beans	and	
+V-216	diet	diet	cancer	cancer	and	
 V-216	prevention	prevention	cancer	cancer	of	
-V-216	red meat	red meat	meat	meat	was bad, but processed	
-V-216	diet	diet	plant foods	plant foods	around	
+V-216	women	women	bacon	bacon	could be averted if the highest consumers cut down to like less than a half strip of	
+V-216	heart disease	heart disease	diabetes	diabetes	and	
+V-216	chicken	chicken	turkey	turkey	and	
+V-216	meat	meat	carcinogen	carcinogen	cannot only be thought of as a powerful multi-organ	

@@ -1,44 +1,16 @@
 
 V-73	virus	virus	health	health	poses no public	
-V-73	bovine leukemia virus	bovine leukemia virus	health	health	is not a public	
-V-73	dairy	dairy	saturated fat	saturated fat	and breast cancer is considered a	
-V-73	virus	virus	breast cancer	breast cancer	that contributed to	
-V-73	virus	virus	milk	milk	is then released into the	
-V-73	dairy	dairy	cancer	cancer	and breast	
-V-73	virus	virus	cows	cows	that infects the mammary gland cells of	
-V-73	cancer	cancer	risk	risk		
-V-73	americans	americans	virus	virus	are often exposed to this bovine leukemia	
-V-73	leukemia	leukemia	virus	virus		
-V-73	antibodies	antibodies	bovine leukemia virus	bovine leukemia virus	to	
-V-73	dairy	dairy	americans	americans	herds are infected, scientists figured	
-V-73	breast cancer	breast cancer	risk	risk		
-V-73	dairy	dairy	breast cancer	breast cancer	and	
-V-73	antibodies	antibodies	virus	virus	to dead	
-V-73	virus	virus	public health	public health	poses no	
-V-73	meat	meat	cancer	cancer	and dairy and breast	
-V-73	antibodies	antibodies	blood	blood	to the virus in human	
-V-73	pasteurization	pasteurization	virus	virus	should knock out the	
-V-73	antibodies	antibodies	leukemia	leukemia	to bovine	
-V-73	immune system	immune system	antibodies	antibodies	is exposed to a virus, it creates	
-V-73	cdc	cdc	infectious diseases	infectious diseases	’s emerging	
-V-73	leukemia	leukemia	health	health	virus is not a public	
 V-73	meat	meat	dairy	dairy	and	
+V-73	bovine leukemia virus	bovine leukemia virus	health	health	is not a public	
 V-73	bovine leukemia virus	bovine leukemia virus	public health	public health	is not a	
-V-73	women	women	surgery	surgery	have gotten breast	
-V-73	virus	virus	cancer	cancer	that contributed to breast	
+V-73	virus	virus	milk	milk	is then released into the	
 V-73	immune system	immune system	virus	virus	is exposed to a	
-V-73	meat	meat	saturated fat	saturated fat	and dairy and breast cancer is considered a	
 V-73	cancer	cancer	saturated fat	saturated fat	is considered a	
-V-73	meat	meat	breast cancer	breast cancer	and dairy and	
-V-73	dairy	dairy	fat	fat	and breast cancer is considered a saturated	
-V-73	infections	infections	viruses	viruses	—particularly	
+V-73	dairy	dairy	breast cancer	breast cancer	and	
 V-73	americans	americans	leukemia	leukemia	are often exposed to this bovine	
 V-73	breast cancer	breast cancer	fat	fat	is considered a saturated	
 V-73	breast cancer	breast cancer	saturated fat	saturated fat	is considered a	
-V-73	antibodies	antibodies	virus	virus	to the	
+V-73	virus	virus	public health	public health	poses no	
 V-73	americans	americans	bovine leukemia virus	bovine leukemia virus	are often exposed to this	
-V-73	antibodies	antibodies	virus	virus	to bovine leukemia	
+V-73	pasteurization	pasteurization	virus	virus	should knock out the	
 V-73	cancer	cancer	fat	fat	is considered a saturated	
-V-73	virus	virus	cooking	cooking	we ate—virus that had been killed by	
-V-73	virus	virus	risk	risk	that contributed to breast cancer	
-V-73	leukemia	leukemia	public health	public health	virus is not a	

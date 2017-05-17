@@ -1,11 +1,3 @@
 
-V-1266	coffee	coffee	cholesterol	cholesterol	that can raise our	
-V-1266	ovarian cancer	ovarian cancer	coffee	coffee	—but that turned out to be just because	
-V-1266	cancer	cancer	coffee	coffee	—but that turned out to be just because	
 V-1266	bladder	bladder	ovarian cancer	ovarian cancer	and	
 V-1266	coffee	coffee	heartburn	heartburn	may cause	
-V-1266	coffee	coffee	espresso	espresso	may be okay, but coffee from a french press or	
-V-1266	bladder	bladder	cancer	cancer	and ovarian	
-V-1266	coffee	coffee	bladder	bladder	has historically been a confusing story—originally linked to	
-V-1266	coffee	coffee	osteoporosis	osteoporosis	may cause heartburn, and worsen	
-V-1266	coffee	coffee	oatmeal	oatmeal	every morning with that	

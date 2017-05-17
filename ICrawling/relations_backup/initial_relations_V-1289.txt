@@ -1,18 +1,3 @@
 
-V-1289	greens	greens	spinach	spinach	are more than just broccoli, or those three	
 V-1289	greens	greens	broccoli	broccoli	are more than just	
-V-1289	phytonutrient	phytonutrient	heart attack	heart attack	in broccoli that may reduce our fatal	
-V-1289	broccoli	broccoli	greens	greens	—all	
-V-1289	smoking	smoking	marijuana	marijuana	a single	
-V-1289	cancer	cancer	marijuana	marijuana	perspective, smoking a single	
-V-1289	heart attack	heart attack	risk	risk		
-V-1289	phytonutrient	phytonutrient	risk	risk	in broccoli that may reduce our fatal heart attack	
-V-1289	phytonutrient	phytonutrient	broccoli	broccoli	in 	
-V-1289	marijuana	marijuana	smoking	smoking	joint is equivalent to	
-V-1289	plant foods	plant foods	lignans	lignans	that’s good for us, besides the fiber,	
-V-1289	broccoli	broccoli	risk	risk	that may reduce our fatal heart attack	
-V-1289	cancer	cancer	smoking	smoking	perspective,	
 V-1289	phytonutrient	phytonutrient	broccoli	broccoli	in	
-V-1289	broccoli	broccoli	dna	dna	dripped on them, and that alone protected their	
-V-1289	plant foods	plant foods	fiber	fiber	that’s good for us, besides the	
-V-1289	broccoli	broccoli	heart attack	heart attack	that may reduce our fatal	

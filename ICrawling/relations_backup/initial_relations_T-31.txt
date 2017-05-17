@@ -1,66 +1,20 @@
 
-T-31	beet juice	beet juice	exercise	exercise	reduced the amount of oxygen cells need during	
-T-31	myeloma	myeloma	americans	americans	is another cancer prevalent among african	
-T-31	cancer	cancer	americans	americans	prevalent among african	
-T-31	african	african	juice	juice	american women, have shown that drinking beet	
-T-31	colon cancer	colon cancer	african	african	is more than 50 times lower among native	
-T-31	soy foods	soy foods	tea	tea	and green	
-T-31	myeloma	myeloma	african	african	is another cancer prevalent among	
-T-31	breast cancer	breast cancer	estrogen	estrogen	hardest to treat—	
-T-31	nigeria	nigeria	dementia	dementia	experience a five-times lower risk of	
-T-31	disease	disease	multiple myeloma	multiple myeloma	enough to delay or prevent a	
-T-31	soy	soy	tea	tea	foods and green	
-T-31	risk	risk	glaucoma	glaucoma	of	
-T-31	plant-based	plant-based	cancer	cancer	diets.multiple myeloma is another	
-T-31	african	african	diverticulosis	diverticulosis	-americans in their 50’s were found to have	
-T-31	americans	americans	diverticulosis	diverticulosis	in their 50’s were found to have	
-T-31	cancer	cancer	estrogen	estrogen	hardest to treat—	
-T-31	disease	disease	myeloma	myeloma	enough to delay or prevent a multiple	
-T-31	vegetarian	vegetarian	diet	diet		
-T-31	soy	soy	green tea	green tea	foods and	
-T-31	greens	greens	risk	risk	a month were linked with half the	
-T-31	colon	colon	cancer	cancer		
-T-31	myeloma	myeloma	african americans	african americans	is another cancer prevalent among	
 T-31	vegetables	vegetables	risk	risk	had significantly lower	
-T-31	fruits	fruits	oranges	oranges	and vegetables, such as	
-T-31	blindness	blindness	women	women	among african american	
-T-31	collard greens	collard greens	risk	risk	a month were linked with half the	
-T-31	nigeria	nigeria	risk	risk	experience a five-times lower	
-T-31	plant-based	plant-based	african	african	diets.multiple myeloma is another cancer prevalent among	
-T-31	meat	meat	plant-based	plant-based	and less	
-T-31	plant-based	plant-based	myeloma	myeloma	diets.multiple	
-T-31	fruits	fruits	vegetables	vegetables	and	
-T-31	african	african	americans	americans		
-T-31	risk	risk	myeloma	myeloma	of multiple	
-T-31	plant-based	plant-based	african americans	african americans	diets.multiple myeloma is another cancer prevalent among	
-T-31	green tea	green tea	risk	risk	may be significantly associated with a reduced	
-T-31	oranges	oranges	peaches	peaches	and	
-T-31	vegetables	vegetables	breast cancer	breast cancer	had significantly lower risk of the type of	
-T-31	blindness	blindness	african	african	among	
-T-31	african	african	vegetables	vegetables	american women, women who ate more	
+T-31	beet juice	beet juice	exercise	exercise	reduced the amount of oxygen cells need during	
+T-31	myeloma	myeloma	cancer	cancer	is another	
+T-31	diet	diet	dementia	dementia	appear two to three times less likely to be diagnosed with	
+T-31	turmeric	turmeric	multiple myeloma	multiple myeloma	killed	
+T-31	colon cancer	colon cancer	african	african	is more than 50 times lower among native	
 T-31	kale	kale	collard greens	collard greens	or	
 T-31	turmeric	turmeric	myeloma	myeloma	killed multiple	
 T-31	soy foods	soy foods	green tea	green tea	and	
-T-31	kale	kale	greens	greens	or collard	
 T-31	risk	risk	dementia	dementia	of	
-T-31	fruits	fruits	peaches	peaches	and vegetables, such as oranges and	
-T-31	collards	collards	african	african	and carrots.several studies, including one looking specifically at	
 T-31	juice	juice	exercise	exercise	reduced the amount of oxygen cells need during	
+T-31	risk	risk	glaucoma	glaucoma	of	
 T-31	vegetables	vegetables	collards	collards	found to be particularly protective were	
-T-31	diet	diet	meat	meat	is the primary reason: african-americans eat significantly more	
-T-31	african	african	beet juice	beet juice	american women, have shown that drinking	
-T-31	japanese	japanese	united states	united states	americans, when they live in the	
-T-31	plant-based	plant-based	meat	meat	food than native africans.in fact, eating a	
-T-31	myeloma	myeloma	cancer	cancer	is another	
-T-31	disease	disease	japanese	japanese	increases dramatically among africans, as with	
-T-31	turmeric	turmeric	multiple myeloma	multiple myeloma	killed	
-T-31	japanese	japanese	americans	americans		
-T-31	african	african	women	women	american	
-T-31	plant-based	plant-based	americans	americans	diets.multiple myeloma is another cancer prevalent among african	
-T-31	cancer	cancer	african	african	prevalent among	
-T-31	oranges	oranges	risk	risk	and peaches, were associated with a dramatically lower	
 T-31	cancer	cancer	african	african	is more than 50 times lower among native	
-T-31	cancer	cancer	african americans	african americans	prevalent among	
 T-31	risk	risk	multiple myeloma	multiple myeloma	of	
-T-31	disease	disease	americans	americans	increases dramatically among africans, as with japanese	
+T-31	fruits	fruits	vegetables	vegetables	and	
 T-31	tea	tea	risk	risk	may be significantly associated with a reduced	
+T-31	green tea	green tea	risk	risk	may be significantly associated with a reduced	
+T-31	oranges	oranges	peaches	peaches	and	

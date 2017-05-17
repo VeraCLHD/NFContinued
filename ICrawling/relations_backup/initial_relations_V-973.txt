@@ -1,19 +1,4 @@
 
 V-973	ornish	ornish	plant-based diet	plant-based diet	was studying what effect a	
 V-973	united states	united states	heart disease	heart disease	is	
-V-973	esselstyn	esselstyn	heart disease	heart disease	talks about how most	
-V-973	death	death	disease	disease	from coronary artery	
-V-973	women	women	disease	disease	in the united states is heart	
-V-973	women	women	united states	united states	in the	
-V-973	plant-based	plant-based	diet	diet		
 V-973	ornish	ornish	plant-based	plant-based	was studying what effect a	
-V-973	dr. esselstyn	dr. esselstyn	heart disease	heart disease	talks about how most	
-V-973	americans	americans	heart disease	heart disease	that die of	
-V-973	death	death	heart disease	heart disease	in america is not just	
-V-973	esselstyn	esselstyn	disease	disease	talks about how most heart	
-V-973	women	women	heart disease	heart disease	in the united states is	
-V-973	united states	united states	disease	disease	is heart	
-V-973	dr. esselstyn	dr. esselstyn	disease	disease	talks about how most heart	
-V-973	death	death	disease	disease	in america is not just heart	
-V-973	americans	americans	disease	disease	that die of heart	
-V-973	ornish	ornish	diet	diet	was studying what effect a plant-based	

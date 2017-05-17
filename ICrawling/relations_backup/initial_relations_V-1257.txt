@@ -1,46 +1,10 @@
 
-V-1257	orange	orange	ddt	ddt	was banned in 1970,	
-V-1257	chemicals	chemicals	carcinogens	carcinogens	are likely	
-V-1257	chemical carcinogens	chemical carcinogens	dioxins	dioxins	—ddt, pcbs,	
-V-1257	flame-retardant chemicals	flame-retardant chemicals	women	women	compared to	
-V-1257	soup	soup	pizza	pizza	—big mac, cheese	
-V-1257	carcinogens	carcinogens	ddt	ddt	—	
-V-1257	breast milk	breast milk	vegetarians	vegetarians	of	
-V-1257	agent orange	agent orange	ddt	ddt	was banned in 1970,	
-V-1257	chicken	chicken	fat	fat		
-V-1257	carcinogens	carcinogens	animal fat	animal fat	 build up in	
-V-1257	fast food	fast food	cheese	cheese	is a toxic soup—big mac,	
 V-1257	vegetarians	vegetarians	toxins	toxins	may have only 1% to 2% of these	
-V-1257	milk	milk	toxins	toxins	.but, just as these other industrial	
-V-1257	breast milk	breast milk	industrial toxins	industrial toxins	.but, just as these other	
-V-1257	fast food	fast food	big mac	big mac	is a toxic soup—	
-V-1257	gas	gas	pcbs	pcbs	in ’73,	
-V-1257	chemicals	chemicals	neurotoxins	neurotoxins	are likely carcinogens, endocrine disruptors, and developmental	
-V-1257	soup	soup	chicken	chicken	—big mac, cheese pizza, kentucky fried	
-V-1257	cheese	cheese	häagen-dazs	häagen-dazs	pizza, kentucky fried chicken, 	
-V-1257	cheese	cheese	chicken	chicken	pizza, kentucky fried	
-V-1257	soup	soup	häagen-dazs	häagen-dazs	—big mac, cheese pizza, kentucky fried chicken, 	
-V-1257	breast milk	breast milk	toxins	toxins	.but, just as these other industrial	
-V-1257	carcinogens	carcinogens	dioxins	dioxins	—ddt, pcbs,	
-V-1257	chemical carcinogens	chemical carcinogens	ddt	ddt	—	
-V-1257	ddt	ddt	gas	gas	banned in ’72, leaded	
-V-1257	milk	milk	industrial toxins	industrial toxins	.but, just as these other	
-V-1257	industrial carcinogens	industrial carcinogens	animal fat	animal fat	 build up in	
-V-1257	children	children	chickens	chickens	to by feeding them	
-V-1257	ddt	ddt	pcbs	pcbs	banned in ’72, leaded gas in ’73,	
-V-1257	women	women	milk	milk	in the u.s. have, in their breast	
-V-1257	women	women	breast milk	breast milk	in the u.s. have, in their	
-V-1257	chemicals	chemicals	endocrine disruptors	endocrine disruptors	are likely carcinogens,	
-V-1257	carcinogens	carcinogens	fat	fat	 build up in animal	
-V-1257	soup	soup	big mac	big mac	—	
-V-1257	fast food	fast food	pizza	pizza	is a toxic soup—big mac, cheese	
-V-1257	soup	soup	cheese	cheese	—big mac,	
-V-1257	industrial carcinogens	industrial carcinogens	fat	fat	 build up in animal	
-V-1257	cheese	cheese	pizza	pizza		
+V-1257	chemicals	chemicals	carcinogens	carcinogens	are likely	
 V-1257	fast food	fast food	soup	soup	is a toxic	
-V-1257	updates	updates	toxins	toxins	 ten years ago.thankfully, the levels of these	
-V-1257	chemical carcinogens	chemical carcinogens	pcbs	pcbs	—ddt,	
-V-1257	fish	fish	vegan	vegan	is the worst, and eating	
+V-1257	flame-retardant chemicals	flame-retardant chemicals	women	women	compared to	
+V-1257	industrial carcinogens	industrial carcinogens	animal fat	animal fat	 build up in	
+V-1257	breast milk	breast milk	vegetarians	vegetarians	of	
 V-1257	milk	milk	vegetarians	vegetarians	of	
-V-1257	carcinogens	carcinogens	pcbs	pcbs	—ddt,	
+V-1257	carcinogens	carcinogens	animal fat	animal fat	 build up in	
 V-1257	chemicals	chemicals	women	women	compared to	

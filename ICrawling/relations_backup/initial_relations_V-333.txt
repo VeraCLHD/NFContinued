@@ -1,88 +1,19 @@
 
 V-333	insulin resistance	insulin resistance	fat	fat	is now widely accepted–so-called ectopic	
-V-333	fats	fats	dairy	dairy	like palmitate, found mostly in meat,	
-V-333	vegans	vegans	omnivores	omnivores	versus	
-V-333	animal fats	animal fats	insulin	insulin	to plant fats can improve	
-V-333	insulin	insulin	diet	diet	sensitivity was impaired on the	
-V-333	fat	fat	plant-based diets	plant-based diets	.so do those eating	
-V-333	saturated fat	saturated fat	free radicals	free radicals	-induced	
-V-333	saturated fat	saturated fat	diacylglycerol	diacylglycerol	increases the amount of	
-V-333	saturated fat	saturated fat	muscles	muscles	buildup in their	
-V-333	vegan	vegan	vegetarian	vegetarian	or	
-V-333	insulin	insulin	ceramide	ceramide	resistance through free radical and	
-V-333	plant-based diets	plant-based diets	fat	fat	have less	
-V-333	saturated fat	saturated fat	muscles	muscles	increases the amount of diacylglycerol in the	
-V-333	insulin	insulin	monounsaturated fats	monounsaturated fats	resistance.while	
-V-333	trans fats	trans fats	autoimmune diseases	autoimmune diseases	contribute to the progression of other diseases, like	
-V-333	fat	fat	insulin	insulin	and	
-V-333	saturated fat	saturated fat	insulin	insulin	buildup in their muscles with	
-V-333	insulin	insulin	fats	fats	resistance.i’ve talked about the role saturated and trans	
-V-333	muscles	muscles	insulin resistance	insulin resistance	to high levels of fat leads to severe	
-V-333	plant-based	plant-based	muscles	muscles	diets have less fat clogging their	
-V-333	sugar	sugar	insulin	insulin	levels, better	
-V-333	insulin resistance	insulin resistance	trans fats	trans fats	.i’ve talked about the role saturated and	
-V-333	muscles	muscles	insulin	insulin	and less	
-V-333	fats	fats	autoimmune diseases	autoimmune diseases	contribute to the progression of other diseases, like	
-V-333	insulin	insulin	fat	fat	resistance is now widely accepted–so-called ectopic	
-V-333	insulin resistance	insulin resistance	vegans	vegans	and muscle fat of	
-V-333	insulin	insulin	blood	blood	sensitivity, better	
-V-333	saturated fat	saturated fat	monounsaturated fats	monounsaturated fats	buildup in their muscles with insulin resistance.while	
-V-333	plant-based	plant-based	fat	fat	diets have less	
-V-333	insulin	insulin	vegan	vegan	sensitivity or inside-muscle cell-fat of those eating	
-V-333	saturated fat	saturated fat	fats	fats	buildup in their muscles with insulin resistance.while monounsaturated	
-V-333	insulin	insulin	sugar	sugar	sensitivity, better blood	
-V-333	insulin	insulin	nuts	nuts	resistance, but oleate, found mostly in	
-V-333	fat	fat	plant-based	plant-based	.so do those eating	
-V-333	blood	blood	insulin	insulin	sugar levels, better	
-V-333	insulin	insulin	fat	fat	resistance and muscle	
-V-333	insulin	insulin	saturated fat	saturated fat	signaling.fat cells filled with	
-V-333	blood sugar	blood sugar	insulin	insulin	levels, better	
-V-333	animal fats	animal fats	fats	fats	to plant	
-V-333	fat	fat	blood	blood	in our	
-V-333	muscles	muscles	insulin resistance	insulin resistance	and less	
-V-333	avocados	avocados	insulin	insulin	may actually improve	
-V-333	fat	fat	diacylglycerol	diacylglycerol	increases the amount of	
-V-333	fats	fats	meat	meat	like palmitate, found mostly in	
-V-333	plant-based diets	plant-based diets	insulin	insulin	have less fat clogging their muscles and less	
-V-333	insulin resistance	insulin resistance	fat	fat	and muscle	
-V-333	vegans	vegans	plant-based	plant-based	to see if	
-V-333	fat	fat	muscles	muscles	.we know prolonged exposure of our	
-V-333	insulin resistance	insulin resistance	ceramide	ceramide	through free radical and	
-V-333	omnivores	omnivores	vegans	vegans	who were as skinny as	
-V-333	muscles	muscles	monounsaturated fats	monounsaturated fats	with insulin resistance.while	
-V-333	fats	fats	eggs	eggs	like palmitate, found mostly in meat, dairy, and	
-V-333	trans fats	trans fats	meat	meat	originate in	
-V-333	muscles	muscles	insulin	insulin	to high levels of fat leads to severe	
-V-333	muscles	muscles	fats	fats	with insulin resistance.while monounsaturated	
-V-333	fat	fat	vegetarian	vegetarian	of those eating vegan or	
-V-333	lead	lead	insulin	insulin	to inhibition of	
-V-333	fat	fat	muscles	muscles	out of the	
+V-333	muscles	muscles	insulin	insulin	is a well-known concept in the explanation of the trigger for	
+V-333	muscles	muscles	insulin resistance	insulin resistance	is a well-known concept in the explanation of the trigger for	
 V-333	fats	fats	muscles	muscles	affect	
-V-333	fat	fat	muscles	muscles	toxicity in our	
-V-333	vegans	vegans	plant-based diets	plant-based diets	to see if	
-V-333	death	death	diabetes	diabetes	–	
-V-333	plant-based diets	plant-based diets	muscles	muscles	have less fat clogging their	
-V-333	muscles	muscles	fat	fat	to high levels of	
-V-333	insulin resistance	insulin resistance	omnivores	omnivores	and muscle fat of vegans versus	
-V-333	plant-based diets	plant-based diets	insulin resistance	insulin resistance	have less fat clogging their muscles and less	
+V-333	fat	fat	muscles	muscles	.we know prolonged exposure of our	
+V-333	fat	fat	plant-based	plant-based	.so do those eating	
+V-333	fat	fat	plant-based diets	plant-based diets	.so do those eating	
 V-333	blood	blood	fat	fat	comes from our own	
-V-333	fat	fat	saturated fat	saturated fat	cells filled with	
-V-333	fat	fat	free radicals	free radicals	-induced	
-V-333	prediabetes	prediabetes	diabetes	diabetes	and type 2	
-V-333	muscles	muscles	insulin	insulin	with	
-V-333	fat	fat	vegan	vegan	of those eating	
-V-333	insulin	insulin	fats	fats	resistance.while monounsaturated	
-V-333	insulin	insulin	fat	fat	sensitivity or inside-muscle cell-	
+V-333	trans fats	trans fats	meat	meat	originate in	
+V-333	vegan	vegan	vegetarian	vegetarian	or	
+V-333	plant-based diets	plant-based diets	fat	fat	have less	
+V-333	fat	fat	insulin	insulin	and	
 V-333	fat	fat	insulin resistance	insulin resistance	and	
-V-333	insulin	insulin	blood sugar	blood sugar	sensitivity, better	
-V-333	insulin	insulin	inflammatory response	inflammatory response	signaling.fat cells filled with saturated fat activate an	
+V-333	insulin resistance	insulin resistance	trans fats	trans fats	.i’ve talked about the role saturated and	
 V-333	meat	meat	milk	milk	and	
-V-333	insulin	insulin	olives	olives	resistance, but oleate, found mostly in nuts,	
 V-333	insulin resistance	insulin resistance	fats	fats	.i’ve talked about the role saturated and trans	
-V-333	diacylglycerol	diacylglycerol	muscles	muscles	in the	
+V-333	avocados	avocados	insulin	insulin	may actually improve	
 V-333	fats	fats	trans fats	trans fats	are derived from animal sources while	
-V-333	insulin	insulin	trans fats	trans fats	resistance.i’ve talked about the role saturated and	
-V-333	insulin	insulin	fat	fat	signaling.	
-V-333	fat	fat	muscles	muscles	increases the amount of diacylglycerol in the	
-V-333	trans fats	trans fats	milk	milk	originate in meat and	
-V-333	blood	blood	sugar	sugar		

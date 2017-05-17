@@ -1,39 +1,18 @@
 
-V-325	fat	fat	plant-based	plant-based	and cholesterol, more	
-V-325	diet	diet	disease	disease	continued to feed their heart	
-V-325	saturated fat	saturated fat	plant-based	plant-based	and cholesterol, more	
-V-325	heart attacks	heart attacks	diet	diet	while on the	
-V-325	mediterranean diet	mediterranean diet	disease	disease	continued to feed their heart	
-V-325	cancer	cancer	disease	disease	and brain	
-V-325	caldwell esselstyn	caldwell esselstyn	cleveland clinic	cleveland clinic	and colleagues at the	
-V-325	plant-based	plant-based	diet	diet		
-V-325	risk	risk	heart attack	heart attack	for	
-V-325	risk	risk	heart disease	heart disease	of death,	
+V-325	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-325	mediterranean diet	mediterranean diet	heart disease	heart disease	continued to feed their	
+V-325	cancer	cancer	brain disease	brain disease	and	
+V-325	weeds	weeds	walnuts	walnuts	and	
+V-325	butter	butter	cream	cream	and	
+V-325	diet	diet	plant foods	plant foods	composed entirely of whole	
+V-325	diet	diet	risk	risk	may cut	
+V-325	diet	diet	wine	wine	were reported in terms of	
 V-325	diet	diet	heart disease	heart disease	continued to feed their	
-V-325	esselstyn	esselstyn	cleveland clinic	cleveland clinic	and colleagues at the	
 V-325	fat	fat	cholesterol	cholesterol	and	
+V-325	risk	risk	death	death	of	
 V-325	whole foods	whole foods	plants	plants	and	
 V-325	death	death	disease	disease	and	
 V-325	cardiovascular disease	cardiovascular disease	diet	diet	counseled to switch to a	
 V-325	disease	disease	diet	diet	progressed a lot less than the regular	
 V-325	disease	disease	diet	diet	counseled to switch to a	
-V-325	risk	risk	esselstyn	esselstyn	would be better, if	
 V-325	smoking	smoking	exercise	exercise	and	
-V-325	plant-based	plant-based	weeds	weeds	omega-3s they’d normally be getting from eating	
-V-325	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-325	risk	risk	brain disease	brain disease	of death, heart disease, cancer and	
-V-325	mediterranean diet	mediterranean diet	heart disease	heart disease	continued to feed their	
-V-325	cancer	cancer	brain disease	brain disease	and	
-V-325	american heart association	american heart association	mediterranean diet	mediterranean diet	position states: “before advising people to follow a	
-V-325	weeds	weeds	walnuts	walnuts	and	
-V-325	butter	butter	cream	cream	and	
-V-325	diet	diet	plant foods	plant foods	composed entirely of whole	
-V-325	diet	diet	risk	risk	may cut	
-V-325	risk	risk	cancer	cancer	of death, heart disease,	
-V-325	risk	risk	disease	disease	of death, heart	
-V-325	diet	diet	heart attack	heart attack	may cut risk for	
-V-325	diet	diet	wine	wine	were reported in terms of	
-V-325	risk	risk	death	death	of	
-V-325	death	death	diet	diet	and disease, but the mediterranean	
-V-325	diet	diet	olive oil	olive oil	were reported in terms of wine,	
-V-325	death	death	mediterranean diet	mediterranean diet	and disease, but the	

@@ -1,29 +1,7 @@
 
-V-457	health	health	diet	diet	movement that claimed that a vegan	
-V-457	asthma	asthma	health	health	?evidently in sweden, there was an active	
-V-457	eczema	eczema	vegetarian	vegetarian	were placed on a	
-V-457	plant-based	plant-based	diet	diet		
-V-457	diet	diet	side effects	side effects	is that there are only good	
-V-457	plant-based diet	plant-based diet	sweden	sweden	against a different allergic disease, asthma?evidently in	
-V-457	disease	disease	symptoms	symptoms	scores, covering both objective and subjective signs and	
 V-457	side effects	side effects	kidney	kidney	may include	
-V-457	asthma	asthma	sweden	sweden	?evidently in	
-V-457	vegetarian	vegetarian	diet	diet		
-V-457	diet	diet	asthma	asthma	could improve or cure	
-V-457	health	health	vegan	vegan	movement that claimed that a	
-V-457	vegetarian	vegetarian	disease	disease	diet for two months, and their	
-V-457	kidney	kidney	cancer	cancer	failure and	
-V-457	plant-based	plant-based	asthma	asthma	diet against a different allergic disease,	
-V-457	eczema	eczema	diet	diet	were placed on a vegetarian	
 V-457	side effects	side effects	kidney failure	kidney failure	may include	
-V-457	plant-based diet	plant-based diet	asthma	asthma	against a different allergic disease,	
-V-457	cholesterol	cholesterol	blood	blood	significantly improved, their	
-V-457	side effects	side effects	cancer	cancer	may include kidney failure and	
-V-457	plant-based diet	plant-based diet	disease	disease	against a different allergic	
-V-457	vegan	vegan	asthma	asthma	diet could improve or cure	
-V-457	diet	diet	disease	disease	for two months, and their	
-V-457	vegan	vegan	diet	diet		
-V-457	plant-based	plant-based	disease	disease	diet against a different allergic	
+V-457	eczema	eczema	vegetarian	vegetarian	were placed on a	
 V-457	kidney failure	kidney failure	cancer	cancer	and	
-V-457	plant-based	plant-based	asthma	asthma	and they had to have physician-verified	
-V-457	plant-based	plant-based	sweden	sweden	diet against a different allergic disease, asthma?evidently in	
+V-457	diet	diet	asthma	asthma	could improve or cure	
+V-457	diet	diet	side effects	side effects	is that there are only good	

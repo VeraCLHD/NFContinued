@@ -1,35 +1,4 @@
 
-V-58	sugar	sugar	disease	disease	control, cardiovascular	
-V-58	blood	blood	liver	liver	sugar control, cardiovascular disease,	
-V-58	bpa	bpa	chemicals	chemicals	is one of the highest volume	
-V-58	health	health	bpa	bpa	implications of	
-V-58	kidney	kidney	cancer	cancer	diseases and breast	
-V-58	bpa	bpa	fat	fat	suppressed an obesity-protective hormone in	
-V-58	beverage	beverage	tuna	tuna	cans—especially, it seems, in	
-V-58	blood	blood	cardiovascular disease	cardiovascular disease	sugar control,	
-V-58	tuna	tuna	bpa	bpa	and condensed soups.and now, we basically all have	
-V-58	chinese	chinese	bpa	bpa		
-V-58	cans	cans	tuna	tuna	—especially, it seems, in	
-V-58	thyroid	thyroid	blood	blood	function, weight control,	
-V-58	blood	blood	immune function	immune function	sugar control, cardiovascular disease, liver function, and	
-V-58	thyroid	thyroid	weight control	weight control	function,	
-V-58	kidney	kidney	breast cancer	breast cancer	diseases and	
-V-58	obesity	obesity	disease	disease	and heart	
-V-58	bpa	bpa	children	children	in our bodies, and our	
-V-58	blood sugar	blood sugar	disease	disease	control, cardiovascular	
-V-58	blood sugar	blood sugar	cardiovascular disease	cardiovascular disease	control,	
-V-58	blood sugar	blood sugar	liver	liver	control, cardiovascular disease,	
-V-58	blood sugar	blood sugar	immune function	immune function	control, cardiovascular disease, liver function, and	
-V-58	thyroid	thyroid	disease	disease	function, weight control, blood sugar control, cardiovascular	
-V-58	thyroid	thyroid	sugar	sugar	function, weight control, blood	
-V-58	thyroid	thyroid	blood sugar	blood sugar	function, weight control,	
-V-58	sugar	sugar	liver	liver	control, cardiovascular disease,	
-V-58	sugar	sugar	immune function	immune function	control, cardiovascular disease, liver function, and	
-V-58	liver	liver	immune function	immune function	function, and	
-V-58	beverage	beverage	cans	cans		
-V-58	thyroid	thyroid	cardiovascular disease	cardiovascular disease	function, weight control, blood sugar control,	
-V-58	blood	blood	disease	disease	sugar control, cardiovascular	
-V-58	sugar	sugar	cardiovascular disease	cardiovascular disease	control,	
+V-58	hormones	hormones	bpa	bpa	concluded, “even infinitesimally low levels of exposure—indeed, any level of exposure at all—may cause [problems],” nearly three billion dollars’ worth of problems every year, just counting the estimated effects of	
+V-58	bpa	bpa	estrogen	estrogen	 was first developed over a hundred years ago as a synthetic	
 V-58	obesity	obesity	heart disease	heart disease	and	
-V-58	thyroid	thyroid	liver	liver	function, weight control, blood sugar control, cardiovascular disease,	
-V-58	blood	blood	sugar	sugar		

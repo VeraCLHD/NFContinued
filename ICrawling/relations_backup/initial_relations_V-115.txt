@@ -1,15 +1,6 @@
 
 V-115	vitamin d	vitamin d	risk	risk	led to higher	
-V-115	cod	cod	liver	liver		
-V-115	liver	liver	vitamin d	vitamin d	oil as the	
-V-115	vitamin d	vitamin d	mortality	mortality	levels go up,	
-V-115	vitamin d supplements	vitamin d supplements	lifespan	lifespan	extend one’s	
-V-115	meta-analysis	meta-analysis	vitamin d	vitamin d	has shown that as population	
-V-115	vitamin d	vitamin d	lifespan	lifespan	supplements extend one’s	
 V-115	risk	risk	vitamin d	vitamin d	led to the	
 V-115	supplements	supplements	lifespan	lifespan	extend one’s	
-V-115	cod liver oil	cod liver oil	vitamin d	vitamin d	as the	
-V-115	vitamin d	vitamin d	supplements	supplements		
+V-115	vitamin d supplements	vitamin d supplements	lifespan	lifespan	extend one’s	
 V-115	mortality	mortality	vitamin d	vitamin d	appeared to be a u-shaped curve—meaning low	
-V-115	vitamin d	vitamin d	mortality	mortality	levels were associated with increased	
-V-115	cod	cod	vitamin d	vitamin d	liver oil as the	

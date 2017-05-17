@@ -1,18 +1,5 @@
 
-V-132	blood	blood	a1c	a1c	sugar control, dropping their average	
-V-132	risk	risk	cardiac death	cardiac death	of sudden	
-V-132	heart disease	heart disease	risk	risk		
-V-132	risk	risk	death	death	of premature	
-V-132	risk	risk	death	death	of sudden cardiac	
-V-132	disease	disease	risk	risk		
-V-132	risk	risk	sudden cardiac death	sudden cardiac death	of	
-V-132	public health	public health	exercise	exercise	benefits of physical	
-V-132	beans	beans	diabetes	diabetes	for the treatment of	
-V-132	blood sugar	blood sugar	a1c	a1c	control, dropping their average	
 V-132	risk	risk	death	death	of	
 V-132	treatment	treatment	diabetes	diabetes	of	
 V-132	beans	beans	exercise	exercise	are as powerful as	
-V-132	beans	beans	treatment	treatment	for the	
-V-132	health	health	exercise	exercise	benefits of physical	
-V-132	blood	blood	sugar	sugar		
-V-132	sugar	sugar	a1c	a1c	control, dropping their average	
+V-132	risk	risk	sudden cardiac death	sudden cardiac death	of	

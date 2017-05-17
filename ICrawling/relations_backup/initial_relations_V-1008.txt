@@ -1,11 +1,2 @@
 
-V-1008	risk	risk	breast cancer	breast cancer	of future	
-V-1008	cancer	cancer	estrogen	estrogen	later in life, due to the increased	
 V-1008	risk	risk	breast cancer	breast cancer	of	
-V-1008	risk	risk	cancer	cancer	of breast	
-V-1008	puberty	puberty	cancer	cancer	can be delayed, risk of future breast	
-V-1008	puberty	puberty	breast cancer	breast cancer	can be delayed, risk of future	
-V-1008	risk	risk	cancer	cancer	of future breast	
-V-1008	soy	soy	milk	milk		
-V-1008	puberty	puberty	risk	risk	can be delayed,	
-V-1008	breast cancer	breast cancer	estrogen	estrogen	later in life, due to the increased	

@@ -1,13 +1,6 @@
 
 V-1144	toxins	toxins	fish	fish	in	
-V-1144	fish	fish	antarctica	antarctica	who swim only around 	
-V-1144	salmon	salmon	skin	skin	with	
 V-1144	toxins	toxins	fish	fish	are actually concentrated into the	
-V-1144	omega-3 fatty acids	omega-3 fatty acids	plant-based	plant-based	—	
-V-1144	thyroid	thyroid	chemicals	chemicals	disruption from the flame-retardant	
-V-1144	thyroid	thyroid	flame-retardant chemicals	flame-retardant chemicals	disruption from the	
 V-1144	polychlorinated naphthalenes	polychlorinated naphthalenes	fat	fat	in	
 V-1144	salmon	salmon	skin	skin	with, or without	
 V-1144	industrial toxins	industrial toxins	fish	fish	in	
-V-1144	organic	organic	salmon	salmon	farmed	
-V-1144	organic	organic	skin	skin	farmed salmon with	

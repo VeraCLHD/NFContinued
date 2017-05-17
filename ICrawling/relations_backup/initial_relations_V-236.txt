@@ -1,26 +1,3 @@
 
-V-236	blood pressure	blood pressure	cholesterol	cholesterol	and high	
-V-236	disease	disease	dementia	dementia	with the #1 cause of	
-V-236	evolution	evolution	disease	disease	of alzheimer’s	
-V-236	hardening of the arteries	hardening of the arteries	atherosclerosis	atherosclerosis	—within her brain.we typically think of	
-V-236	risk	risk	high blood pressure	high blood pressure	factors, like	
-V-236	treatment	treatment	risk	risk	of vascular	
-V-236	treatment	treatment	high blood pressure	high blood pressure	of vascular risk factors, like	
-V-236	risk	risk	blood	blood	factors, like high	
-V-236	treatment	treatment	blood	blood	of vascular risk factors, like high	
-V-236	high blood pressure	high blood pressure	cholesterol	cholesterol	and high	
-V-236	risk	risk	blood pressure	blood pressure	factors, like high	
-V-236	atherosclerosis	atherosclerosis	arteries	arteries	in the	
-V-236	cognition	cognition	atherosclerosis	atherosclerosis	of those with the least	
-V-236	arteries	arteries	blood	blood	that specifically supply	
-V-236	fat	fat	cholesterol	cholesterol	and	
-V-236	atherosclerosis	atherosclerosis	blood	blood	in the arteries that specifically supply	
-V-236	treatment	treatment	blood pressure	blood pressure	of vascular risk factors, like high	
 V-236	arteries	arteries	blood	blood	do you want in your head?normal resting cerebral	
-V-236	risk	risk	cholesterol	cholesterol	factors, like high blood pressure and high	
-V-236	atherosclerosis	atherosclerosis	arteries	arteries	in our brain	
-V-236	fat	fat	arteries	arteries	and cholesterol, closing off the	
-V-236	fat	fat	blood	blood	and cholesterol, closing off the arteries, restricting	
-V-236	disease	disease	atherosclerosis	atherosclerosis	.if you look at the amount of	
-V-236	arteries	arteries	memory	memory	that specifically supply blood to critical	
-V-236	arteries	arteries	atherosclerosis	atherosclerosis	—within her brain.we typically think of	
+V-236	fat	fat	cholesterol	cholesterol	and	

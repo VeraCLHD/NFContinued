@@ -1,9 +1,3 @@
 
-T-849	diabetes	diabetes	sugar	sugar	sufferers in bringing	
-T-849	gooseberries	gooseberries	liver	liver	may also protect the	
+T-849	gooseberries	gooseberries	medicine	medicine	are arguably the most important medicinal plant in ayurvedic	
 T-849	gooseberries	gooseberries	ayurvedic medicine	ayurvedic medicine	are arguably the most important medicinal plant in	
-T-849	phytonutrient	phytonutrient	pyrogallol	pyrogallol		
-T-849	chinese	chinese	medicine	medicine	and thai	
-T-849	gooseberries	gooseberries	kidneys	kidneys	may also protect the liver,	
-T-849	herbal	herbal	triphala	triphala	preparations such as	
-T-849	phytonutrient	phytonutrient	inflammation	inflammation	pyrogallol, which appears to reduce	

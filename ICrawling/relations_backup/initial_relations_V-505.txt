@@ -1,28 +1,4 @@
 
 V-505	anthocyanins	anthocyanins	free radicals	free radicals	had fewer	
-V-505	currants	currants	blood	blood	for six months, significantly boosting the	
-V-505	aging	aging	blueberries	blueberries	with	
-V-505	blueberries	blueberries	fruits	fruits	and these other red/blue/purple pigmented	
-V-505	blueberries	blueberries	blackberries	blackberries	into, well, blueberries, and keeps	
-V-505	brown rice	brown rice	orange	orange	to purple rice, white potatoes to blue potatoes,	
-V-505	rice	rice	orange	orange	to purple rice, white potatoes to blue potatoes,	
-V-505	disease	disease	glaucoma	glaucoma	like	
-V-505	potatoes	potatoes	orange	orange	to blue potatoes,	
-V-505	brown rice	brown rice	rice	rice	to purple	
-V-505	potatoes	potatoes	carrots	carrots	to blue potatoes, orange	
-V-505	corn	corn	brown rice	brown rice	into purple corn,	
-V-505	disease	disease	eye	eye	like glaucoma, an incurable	
-V-505	cabbage	cabbage	brown rice	brown rice	into purple cabbage, yellow corn into purple corn,	
-V-505	carrots	carrots	blueberries	blueberries	to purple carrots, and turns	
-V-505	disease	disease	eye disease	eye disease	like glaucoma, an incurable	
 V-505	vegetables	vegetables	macular degeneration	macular degeneration	may help prevent age-related	
-V-505	brown rice	brown rice	potatoes	potatoes	to purple rice, white	
-V-505	eye	eye	disease	disease		
-V-505	orange	orange	blueberries	blueberries	carrots to purple carrots, and turns	
-V-505	rice	rice	potatoes	potatoes	to purple rice, white	
-V-505	cabbage	cabbage	corn	corn	into purple cabbage, yellow	
-V-505	blueberries	blueberries	vegetables	vegetables	and these other red/blue/purple pigmented fruits and	
 V-505	fruits	fruits	vegetables	vegetables	and	
-V-505	orange	orange	carrots	carrots		
-V-505	corn	corn	rice	rice	into purple corn, brown	
-V-505	fruits	fruits	macular degeneration	macular degeneration	and vegetables may help prevent age-related	

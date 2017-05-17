@@ -1,117 +1,20 @@
 
-A-309	white cranberry juice	white cranberry juice	berries	berries	made from unripened	
-A-309	orange	orange	apple	apple	or	
-A-309	grape juice	grape juice	orange	orange	doesn’t work, nor does	
-A-309	pregnant	pregnant	infections	infections	women, children, men, those with kidney	
-A-309	pregnant	pregnant	women	women		
-A-309	cranberries	cranberries	infections	infections	are effective in the treatment of urinary tract	
-A-309	bladder	bladder	antibiotics	antibiotics	infections just go away on their own without	
-A-309	bacteria	bacteria	bladder	bladder	from sticking to the wall of the	
-A-309	pregnant	pregnant	kidney	kidney	women, children, men, those with	
-A-309	urine	urine	e. coli	e. coli	of someone who drank cranberry juice onto	
-A-309	cranberry	cranberry	e. coli	e. coli	juice onto	
-A-309	treatment	treatment	urinary tract infections	urinary tract infections	of	
-A-309	kidney	kidney	vomiting	vomiting	infections, and systemic symptoms like nausea and	
-A-309	cranberry juice	cranberry juice	side effects	side effects	doesn’t foster antibiotic resistance and has fewer	
-A-309	tea	tea	fluorosis	fluorosis	drinking may increase	
-A-309	juice	juice	antibiotic resistance	antibiotic resistance	doesn’t foster	
-A-309	placebo	placebo	placebos	placebos	—but	
-A-309	cranberry juice	cranberry juice	e. coli	e. coli	on	
-A-309	cranberries	cranberries	bladder	bladder	really help prevent	
-A-309	cranberry juice	cranberry juice	antibiotic resistance	antibiotic resistance	doesn’t foster	
-A-309	cranberry	cranberry	berries	berries	juice made from unripened	
-A-309	cranberry juice	cranberry juice	infections	infections	treat bladder	
-A-309	juice	juice	e. coli	e. coli	on	
-A-309	women	women	cranberry	cranberry	who drink	
-A-309	gut	gut	bugs	bugs	remains stubbornly colonized with these bad bladder	
-A-309	juice	juice	bladder	bladder	treat	
-A-309	cranberry	cranberry	symptoms	symptoms	juice and have their	
-A-309	cranberries	cranberries	bacteria	bacteria	are so good at keeping	
-A-309	antibiotics	antibiotics	kidney	kidney	—pregnant women, children, men, those with	
-A-309	juice	juice	apple juice	apple juice	doesn’t work, nor does orange or	
-A-309	orange	orange	juice	juice	or apple	
-A-309	cranberry juice	cranberry juice	e. coli	e. coli	onto	
-A-309	e. coli	e. coli	urine	urine	wading in	
-A-309	grape juice	grape juice	apple juice	apple juice	doesn’t work, nor does orange or	
-A-309	bladder	bladder	infections	infections		
-A-309	cranberry	cranberry	antibiotic resistance	antibiotic resistance	juice doesn’t foster	
-A-309	cranberry	cranberry	bladder infections	bladder infections	juice treat	
-A-309	women	women	juice	juice	who drink cranberry	
-A-309	juice	juice	apple	apple	doesn’t work, nor does orange or	
-A-309	cranberry juice	cranberry juice	bladder infections	bladder infections	treat	
-A-309	juice	juice	bladder infections	bladder infections	treat	
-A-309	cranberry	cranberry	bladder infections	bladder infections	products appear to reduce the recurrence of	
-A-309	phytonutrients	phytonutrients	gut	gut	are even absorbed through the	
-A-309	cranberry	cranberry	juice	juice		
-A-309	cranberries	cranberries	treatment	treatment	are an effective	
-A-309	urine	urine	cranberry juice	cranberry juice	of someone who drank	
-A-309	symptoms	symptoms	juice	juice	disappear may falsely attribute their recovery to the	
-A-309	bladder infections	bladder infections	antibiotics	antibiotics	just go away on their own without	
-A-309	cranberry	cranberry	e. coli	e. coli	juice on	
-A-309	cranberries	cranberries	treatment	treatment	are effective in the	
-A-309	gut	gut	bladder	bladder	remains stubbornly colonized with these bad	
-A-309	urine	urine	juice	juice	of someone who drank cranberry	
-A-309	grape juice	grape juice	apple	apple	doesn’t work, nor does orange or	
-A-309	orange	orange	apple juice	apple juice	or	
-A-309	cranberries	cranberries	cancer	cancer	versus	
-A-309	bacteria	bacteria	bladder	bladder	cause a	
-A-309	antibiotics	antibiotics	pregnant women	pregnant women	—	
-A-309	juice	juice	e. coli	e. coli	onto	
-A-309	bladder	bladder	cranberry	cranberry	bugs—various tested	
-A-309	cranberry	cranberry	side effects	side effects	juice doesn’t foster antibiotic resistance and has fewer	
-A-309	treatment	treatment	infections	infections	of urinary tract	
-A-309	bladder	bladder	e. coli	e. coli	infection-causing	
-A-309	ibuprofen	ibuprofen	antibiotics	antibiotics	seems to work just as well as	
-A-309	kidney	kidney	nausea	nausea	infections, and systemic symptoms like	
-A-309	women	women	symptoms	symptoms	who drink cranberry juice and have their	
-A-309	gut	gut	bladder	bladder	and make it into the	
-A-309	antibiotics	antibiotics	pregnant	pregnant	—	
-A-309	doctors	doctors	placebos	placebos	give	
-A-309	treatment	treatment	urinary tract infections	urinary tract infections	of uncomplicated	
-A-309	cranberry	cranberry	bladder	bladder	products appear to reduce the recurrence of	
-A-309	tea	tea	risk	risk	drinking may increase fluorosis	
-A-309	bladder	bladder	bugs	bugs		
-A-309	cranberries	cranberries	bladder infections	bladder infections	really help prevent	
-A-309	cranberry juice	cranberry juice	bladder	bladder	treat	
-A-309	cranberries	cranberries	urinary tract infections	urinary tract infections	are effective in the treatment of	
-A-309	juice	juice	symptoms	symptoms	and have their	
-A-309	urine	urine	cranberry	cranberry	of someone who drank	
-A-309	cranberry	cranberry	infections	infections	juice treat bladder	
-A-309	cranberry	cranberry	bladder	bladder	juice treat	
-A-309	kidney	kidney	infections	infections		
-A-309	cranberry juice	cranberry juice	symptoms	symptoms	and have their	
-A-309	bladder	bladder	infection	infection		
-A-309	infections	infections	antibiotics	antibiotics	just go away on their own without	
-A-309	antibiotics	antibiotics	children	children	—pregnant women,	
-A-309	bacteria	bacteria	infection	infection	cause a bladder	
-A-309	grape juice	grape juice	juice	juice	doesn’t work, nor does orange or apple	
-A-309	antibiotics	antibiotics	infections	infections	for the treatment of uncomplicated urinary tract	
-A-309	bacteria	bacteria	bladder infection	bladder infection	cause a	
-A-309	juice	juice	infections	infections	treat bladder	
-A-309	cranberries	cranberries	infections	infections	really help prevent bladder	
-A-309	treatment	treatment	infections	infections	of uncomplicated urinary tract	
-A-309	juice	juice	side effects	side effects	doesn’t foster antibiotic resistance and has fewer	
-A-309	antibiotics	antibiotics	treatment	treatment	for the	
-A-309	antibiotics	antibiotics	women	women	—pregnant	
-A-309	antibiotic resistance	antibiotic resistance	side effects	side effects	and has fewer	
-A-309	symptoms	symptoms	vomiting	vomiting	like nausea and	
-A-309	bugs	bugs	cranberry	cranberry	—various tested	
-A-309	placebos	placebos	doctors	doctors	in the lie that heals: should	
-A-309	antibiotics	antibiotics	infections	infections	—pregnant women, children, men, those with kidney	
-A-309	phytochemicals	phytochemicals	nutrition	nutrition	: the	
-A-309	pregnant	pregnant	children	children	women,	
 A-309	nausea	nausea	vomiting	vomiting	and	
-A-309	juice	juice	orange	orange	doesn’t work, nor does	
-A-309	fluorosis	fluorosis	risk	risk		
+A-309	white cranberry juice	white cranberry juice	berries	berries	made from unripened	
 A-309	cranberry juice	cranberry juice	berries	berries	made from unripened	
-A-309	urine	urine	water	water	from someone drinking	
+A-309	orange	orange	apple	apple	or	
 A-309	doctors	doctors	placebos	placebos	giving	
-A-309	apple	apple	juice	juice		
+A-309	phytonutrients	phytonutrients	gut	gut	are even absorbed through the	
+A-309	juice	juice	antibiotic resistance	antibiotic resistance	doesn’t foster	
+A-309	cranberries	cranberries	treatment	treatment	are an effective	
 A-309	juice	juice	berries	berries	made from unripened	
-A-309	symptoms	symptoms	nausea	nausea	like	
-A-309	e. coli	e. coli	water	water	wading in urine from someone drinking	
-A-309	fruit	fruit	cancer	cancer	fights	
-A-309	antibiotics	antibiotics	urinary tract infections	urinary tract infections	for the treatment of uncomplicated	
-A-309	cranberry	cranberry	infections	infections	products appear to reduce the recurrence of bladder	
-A-309	kidney	kidney	symptoms	symptoms	infections, and systemic	
-A-309	women	women	cranberry juice	cranberry juice	who drink	
+A-309	ibuprofen	ibuprofen	antibiotics	antibiotics	seems to work just as well as	
+A-309	e. coli	e. coli	urine	urine	wading in	
+A-309	doctors	doctors	placebos	placebos	give	
+A-309	bacteria	bacteria	bladder infection	bladder infection	cause a	
+A-309	cranberry juice	cranberry juice	antibiotic resistance	antibiotic resistance	doesn’t foster	
+A-309	e. coli	e. coli	bladder	bladder	hold on is that they evolved  finger-like projections (fimbrae) they can use to stick to the walls of the	
+A-309	cranberries	cranberries	treatment	treatment	are effective in the	
+A-309	treatment	treatment	urinary tract infections	urinary tract infections	of	
+A-309	orange	orange	apple juice	apple juice	or	
+A-309	bacteria	bacteria	bladder	bladder	cause a	

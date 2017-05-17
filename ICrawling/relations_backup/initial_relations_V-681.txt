@@ -1,10 +1,4 @@
 
-V-681	aspartame	aspartame	diet	diet	into her daily	
 V-681	pain	pain	fatigue	fatigue	and	
 V-681	aspartame	aspartame	pain	pain	was followed by a complete regression of	
-V-681	risk	risk	pain	pain	ratio of considering the diagnosis of aspartame-induced chronic	
-V-681	lead	lead	disease	disease	to the resolution of a disabling chronic	
-V-681	risk	risk	chronic pain	chronic pain	ratio of considering the diagnosis of aspartame-induced	
-V-681	fibromyalgia	fibromyalgia	aspartame	aspartame	about their intake of	
-V-681	fibromyalgia	fibromyalgia	symptoms	symptoms		
-V-681	lead	lead	chronic disease	chronic disease	to the resolution of a disabling	
+V-681	symptoms	symptoms	aspartame	aspartame	reappeared in the days following her return when she reintroduced	

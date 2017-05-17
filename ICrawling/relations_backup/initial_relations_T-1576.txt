@@ -1,156 +1,20 @@
 
-T-1576	resistant starch	resistant starch	beans	beans	” that comes from plant foods like cooked	
-T-1576	death	death	lung cancer	lung cancer	in the united states, behind	
-T-1576	organic	organic	coffee	coffee	strawberries), broccoli, black beans, a number of herbal varieties of tea, carob, 	
+T-1576	risk	risk	colon cancer	colon cancer	of	
 T-1576	risk	risk	colon	colon	of	
-T-1576	plant foods	plant foods	oatmeal	oatmeal	like cooked beans, peas, lentils, and raw	
-T-1576	death	death	united states	united states	in the	
-T-1576	poultry	poultry	viruses	viruses	 and other animal products contain 	
-T-1576	gooseberries	gooseberries	broccoli	broccoli	 and organic strawberries), 	
-T-1576	strawberries	strawberries	apples	apples	), broccoli, black beans, a number of herbal varieties of tea, carob, coffee,	
-T-1576	animal products	animal products	bile	bile	stimulates elevated levels of	
-T-1576	colon	colon	risk	risk	resulting from a plant-based diet helps lower the	
-T-1576	plant-based	plant-based	risk	risk	diet helps lower the	
-T-1576	organic	organic	beans	beans	strawberries), broccoli, black	
-T-1576	animal products	animal products	cancer	cancer	 contain viruses that are known to cause	
-T-1576	gooseberries	gooseberries	organic	organic	 and 	
-T-1576	carcinogens	carcinogens	cooking	cooking	created by 	
-T-1576	strawberries	strawberries	black beans	black beans	), broccoli, 	
-T-1576	plant foods	plant foods	raw	raw	like cooked beans, peas, lentils, and	
-T-1576	fish	fish	colon cancer	colon cancer	and eggs may contribute to	
-T-1576	colon	colon	cancer	cancer		
-T-1576	colon	colon	diet	diet	resulting from a plant-based	
-T-1576	strawberries	strawberries	coffee	coffee	), broccoli, black beans, a number of herbal varieties of tea, carob, 	
-T-1576	viruses	viruses	cancer	cancer	 that are known to cause	
-T-1576	cooking	cooking	cancer	cancer	muscle tissue, are associated with colon	
-T-1576	animal protein	animal protein	ammonia	ammonia	putrefies in the colon,	
-T-1576	ammonia	ammonia	cancer	cancer	is produced, which is associated with	
-T-1576	eggs	eggs	cancer	cancer	may contribute to colon	
-T-1576	organic	organic	herbal	herbal	strawberries), broccoli, black beans, a number of 	
-T-1576	carcinogens	carcinogens	cancer	cancer	created by cooking muscle tissue, are associated with colon	
-T-1576	gooseberries	gooseberries	strawberries	strawberries	 and organic	
-T-1576	diet	diet	treatment	treatment	 may be beneficial in the prevention,	
-T-1576	diet	diet	risk	risk	helps lower the	
-T-1576	plant-based	plant-based	prevention	prevention	diet may be beneficial in the 	
-T-1576	animal products	animal products	viruses	viruses	 contain 	
-T-1576	berries	berries	black beans	black beans	 (including indian gooseberries and organic strawberries), broccoli, 	
-T-1576	gooseberries	gooseberries	tea	tea	 and organic strawberries), broccoli, black beans, a number of herbal varieties of	
-T-1576	carcinogens	carcinogens	colon cancer	colon cancer	created by cooking muscle tissue, are associated with	
-T-1576	risk	risk	cancer	cancer	of colon	
-T-1576	eggs	eggs	colon cancer	colon cancer	may contribute to	
-T-1576	ph	ph	plant-based diet	plant-based diet	in the colon resulting from a	
-T-1576	saturated fat	saturated fat	bile acids	bile acids	from animal products stimulates elevated levels of	
-T-1576	gooseberries	gooseberries	herbal	herbal	 and organic strawberries), broccoli, black beans, a number of 	
-T-1576	herbal	herbal	cranberries	cranberries	varieties of tea, carob, coffee, apples, turmeric,	
-T-1576	dioxins	dioxins	eggs	eggs	in fish and	
-T-1576	resistant starch	resistant starch	plant foods	plant foods	” that comes from	
-T-1576	ammonia	ammonia	risk	risk	is produced, which is associated with cancer	
-T-1576	plant-based	plant-based	treatment	treatment	diet may be beneficial in the prevention,	
-T-1576	berries	berries	strawberries	strawberries	 (including indian gooseberries and organic	
-T-1576	ph	ph	plant-based	plant-based	in the colon resulting from a	
-T-1576	colon	colon	colon cancer	colon cancer	cancer risk.the rarity of	
-T-1576	saturated fat	saturated fat	animal products	animal products	from	
-T-1576	cooking	cooking	colon	colon	muscle tissue, are associated with	
-T-1576	herbal	herbal	sweet potatoes	sweet potatoes	varieties of tea, carob, coffee, apples, turmeric, cranberries,	
-T-1576	fat	fat	animal products	animal products	from	
-T-1576	berries	berries	herbal	herbal	 (including indian gooseberries and organic strawberries), broccoli, black beans, a number of 	
+T-1576	nitrosamines	nitrosamines	cured meats	cured meats	found in	
+T-1576	eggs	eggs	colon	colon	may contribute to	
+T-1576	animal products	animal products	bile acids	bile acids	stimulates elevated levels of	
 T-1576	plant-based diet	plant-based diet	prevention	prevention	 may be beneficial in the 	
-T-1576	berries	berries	indian gooseberries	indian gooseberries	 (including 	
-T-1576	cancer	cancer	colon	colon	risk.the rarity of	
-T-1576	dioxins	dioxins	fish	fish	in	
-T-1576	protein	protein	colon	colon	putrefies in the	
-T-1576	vitamin d	vitamin d	colon cancer	colon cancer	 may also play a role in preventing	
-T-1576	herbal	herbal	potatoes	potatoes	varieties of tea, carob, coffee, apples, turmeric, cranberries, sweet	
-T-1576	indian gooseberries	indian gooseberries	tea	tea	 and organic strawberries), broccoli, black beans, a number of herbal varieties of	
-T-1576	strawberries	strawberries	broccoli	broccoli	), 	
-T-1576	herbal	herbal	carob	carob	varieties of tea, 	
-T-1576	cancer	cancer	death	death	is the second-leading cause of cancer	
-T-1576	fat	fat	bile	bile	from animal products stimulates elevated levels of	
-T-1576	ph	ph	colon	colon	in the	
-T-1576	indian gooseberries	indian gooseberries	broccoli	broccoli	 and organic strawberries), 	
-T-1576	herbal	herbal	tea	tea	varieties of	
-T-1576	plant foods	plant foods	beans	beans	like cooked	
-T-1576	plant-based	plant-based	colon	colon	diet helps lower the risk of	
-T-1576	berries	berries	beans	beans	 (including indian gooseberries and organic strawberries), broccoli, black	
-T-1576	indian gooseberries	indian gooseberries	beans	beans	 and organic strawberries), broccoli, black	
-T-1576	saturated fat	saturated fat	bile	bile	from animal products stimulates elevated levels of	
-T-1576	organic	organic	apples	apples	strawberries), broccoli, black beans, a number of herbal varieties of tea, carob, coffee,	
-T-1576	cancer	cancer	cancer	cancer	risk.the rarity of colon	
-T-1576	fish	fish	colon	colon	and eggs may contribute to	
-T-1576	colon	colon	plant-based diet	plant-based diet	resulting from a	
-T-1576	indian gooseberries	indian gooseberries	strawberries	strawberries	 and organic	
-T-1576	cancer	cancer	carcinogens	carcinogens	.heterocyclic amines,	
-T-1576	indian gooseberries	indian gooseberries	herbal	herbal	 and organic strawberries), broccoli, black beans, a number of 	
-T-1576	plant foods	plant foods	lentils	lentils	like cooked beans, peas,	
-T-1576	dioxins	dioxins	colon cancer	colon cancer	in fish and eggs may contribute to	
-T-1576	plant-based	plant-based	colon cancer	colon cancer	diet helps lower the risk of	
-T-1576	plant-based	plant-based	diet	diet		
 T-1576	fish	fish	eggs	eggs	and	
-T-1576	colon cancer	colon cancer	cancer	cancer	is the second-leading cause of	
+T-1576	animal products	animal products	bile	bile	stimulates elevated levels of	
+T-1576	colon	colon	plant-based	plant-based	resulting from a	
+T-1576	growth hormone	growth hormone	igf-1	igf-1	called	
+T-1576	diet	diet	risk	risk	helps lower the	
 T-1576	diet	diet	prevention	prevention	 may be beneficial in the 	
 T-1576	nitrosamines	nitrosamines	meats	meats	found in cured	
-T-1576	dioxins	dioxins	cancer	cancer	in fish and eggs may contribute to colon	
-T-1576	organic	organic	carob	carob	strawberries), broccoli, black beans, a number of herbal varieties of tea, 	
-T-1576	strawberries	strawberries	carob	carob	), broccoli, black beans, a number of herbal varieties of tea, 	
-T-1576	fat	fat	bile acids	bile acids	from animal products stimulates elevated levels of	
-T-1576	protein	protein	ammonia	ammonia	putrefies in the colon,	
-T-1576	diet	diet	cancer	cancer	 may be beneficial in the prevention, treatment, and even reversal of	
-T-1576	poultry	poultry	cancer	cancer	 and other animal products contain viruses that are known to cause	
-T-1576	strawberries	strawberries	tea	tea	), broccoli, black beans, a number of herbal varieties of	
-T-1576	herbal	herbal	coffee	coffee	varieties of tea, carob, 	
-T-1576	plant-based diet	plant-based diet	cancer	cancer	helps lower the risk of colon	
-T-1576	dioxins	dioxins	colon	colon	in fish and eggs may contribute to	
-T-1576	diet	diet	colon	colon	helps lower the risk of	
-T-1576	plant-based diet	plant-based diet	colon	colon	helps lower the risk of	
-T-1576	lemon	lemon	seeds	seeds	rind and	
-T-1576	organic	organic	broccoli	broccoli	strawberries), 	
-T-1576	herbal	herbal	nuts	nuts	varieties of tea, carob, coffee, apples, turmeric, cranberries, sweet potatoes,	
-T-1576	ph	ph	diet	diet	in the colon resulting from a plant-based	
-T-1576	berries	berries	organic	organic	 (including indian gooseberries and 	
-T-1576	gooseberries	gooseberries	black beans	black beans	 and organic strawberries), broccoli, 	
-T-1576	fish	fish	cancer	cancer	and eggs may contribute to colon	
-T-1576	plant foods	plant foods	peas	peas	like cooked beans,	
-T-1576	gooseberries	gooseberries	beans	beans	 and organic strawberries), broccoli, black	
-T-1576	organic	organic	black beans	black beans	strawberries), broccoli, 	
-T-1576	cancer	cancer	cancer	cancer	is the second-leading cause of	
-T-1576	vitamin d	vitamin d	cancer	cancer	 may also play a role in preventing colon	
-T-1576	animal protein	animal protein	colon	colon	putrefies in the	
-T-1576	colon cancer	colon cancer	death	death	is the second-leading cause of cancer	
-T-1576	colon	colon	death	death	cancer is the second-leading cause of cancer	
-T-1576	vitamin d	vitamin d	colon	colon	 may also play a role in preventing	
-T-1576	organic	organic	strawberries	strawberries		
-T-1576	herbal	herbal	turmeric	turmeric	varieties of tea, carob, coffee, apples,	
-T-1576	nitrosamines	nitrosamines	cured meats	cured meats	found in	
-T-1576	herbal	herbal	apples	apples	varieties of tea, carob, coffee,	
-T-1576	colon cancer	colon cancer	cancer	cancer	risk.the rarity of colon	
-T-1576	colon	colon	plant-based	plant-based	resulting from a	
-T-1576	cancer	cancer	risk	risk		
-T-1576	plant-based	plant-based	cancer	cancer	diet may be beneficial in the prevention, treatment, and even reversal of	
-T-1576	metabolism	metabolism	colon	colon	in the	
-T-1576	plant-based diet	plant-based diet	colon cancer	colon cancer	helps lower the risk of	
-T-1576	organic	organic	tea	tea	strawberries), broccoli, black beans, a number of herbal varieties of	
-T-1576	cancer	cancer	cooking	cooking	.heterocyclic amines, carcinogens created by 	
-T-1576	death	death	cancer	cancer	in the united states, behind lung	
+T-1576	animal products	animal products	viruses	viruses	 contain 	
+T-1576	carcinogens	carcinogens	cooking	cooking	created by 	
+T-1576	dioxins	dioxins	fish	fish	in	
+T-1576	eggs	eggs	colon cancer	colon cancer	may contribute to	
+T-1576	colon	colon	plant-based diet	plant-based diet	resulting from a	
 T-1576	plant-based diet	plant-based diet	risk	risk	helps lower the	
-T-1576	plant-based	plant-based	cancer	cancer	diet helps lower the risk of colon	
-T-1576	berries	berries	gooseberries	gooseberries	 (including indian	
-T-1576	risk	risk	colon cancer	colon cancer	of	
-T-1576	berries	berries	broccoli	broccoli	 (including indian gooseberries and organic strawberries), 	
-T-1576	colon cancer	colon cancer	colon	colon	risk.the rarity of	
-T-1576	carcinogens	carcinogens	colon	colon	created by cooking muscle tissue, are associated with	
-T-1576	eggs	eggs	colon	colon	may contribute to	
-T-1576	strawberries	strawberries	beans	beans	), broccoli, black	
-T-1576	animal products	animal products	bile acids	bile acids	stimulates elevated levels of	
-T-1576	cooking	cooking	colon cancer	colon cancer	muscle tissue, are associated with	
-T-1576	indian gooseberries	indian gooseberries	black beans	black beans	 and organic strawberries), broccoli, 	
-T-1576	indian gooseberries	indian gooseberries	organic	organic	 and 	
-T-1576	plant-based diet	plant-based diet	treatment	treatment	 may be beneficial in the prevention,	
-T-1576	diet	diet	cancer	cancer	helps lower the risk of colon	
-T-1576	growth hormone	growth hormone	igf-1	igf-1	called	
-T-1576	cancer	cancer	colon cancer	colon cancer	risk.the rarity of	
-T-1576	strawberries	strawberries	herbal	herbal	), broccoli, black beans, a number of 	
-T-1576	diet	diet	colon cancer	colon cancer	helps lower the risk of	
-T-1576	raw	raw	oatmeal	oatmeal		
-T-1576	colon	colon	nitrosamines	nitrosamines	cancer, as are dangerous compounds called	
-T-1576	plant-based diet	plant-based diet	cancer	cancer	 may be beneficial in the prevention, treatment, and even reversal of	
-T-1576	poultry	poultry	animal products	animal products	 and other 	

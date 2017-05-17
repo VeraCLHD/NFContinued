@@ -1,56 +1,12 @@
 
-V-463	children	children	dieldrin	dieldrin	for arsenic, the banned pesticide	
-V-463	california	california	diet	diet	kids was not eating a plant-based	
-V-463	lead	lead	dairy	dairy	was	
-V-463	children	children	arsenic	arsenic	for	
-V-463	fish	fish	children	children	consumption may reduce exposure for	
-V-463	pesticides	pesticides	dairy	dairy	and dioxins was	
-V-463	arsenic	arsenic	poultry	poultry	was	
-V-463	california	california	plant-based diet	plant-based diet	kids was not eating a	
-V-463	plant-based	plant-based	diet	diet		
-V-463	dioxins	dioxins	dairy	dairy	was	
-V-463	mercury	mercury	seafood	seafood	it was	
-V-463	dioxins	dioxins	diet	diet	and heavy metals than does a plant-based	
-V-463	pollutants	pollutants	women	women	than	
-V-463	california	california	kids	kids		
-V-463	heavy metals	heavy metals	plant-based	plant-based	than does a	
-V-463	pollutants	pollutants	fat	fat	accumulate in animal	
-V-463	ddt	ddt	children	children	called dde, and dioxins.	
-V-463	pollutants	pollutants	plant-based	plant-based	accumulate in animal fat, consuming a	
-V-463	diet	diet	fish	fish	high in	
-V-463	fish	fish	animal products	animal products	and	
-V-463	kids	kids	plant-based	plant-based	was not eating a	
-V-463	pollutants	pollutants	diet	diet	accumulate in animal fat, consuming a plant-based	
-V-463	pollutants	pollutants	ddt	ddt	like	
-V-463	lead	lead	seafood	seafood	was dairy and for mercury it was	
-V-463	arsenic	arsenic	tuna	tuna	was poultry, though for their parents it was	
-V-463	pollutants	pollutants	plant-based diet	plant-based diet	accumulate in animal fat, consuming a	
+V-463	europe	europe	pollutants	pollutants	found that men had higher levels of some of these	
 V-463	kids	kids	plant-based diet	plant-based diet	was not eating a	
-V-463	lead	lead	mercury	mercury	was dairy and for	
 V-463	pollutants	pollutants	animal fat	animal fat	accumulate in	
-V-463	dioxins	dioxins	plant-based	plant-based	and heavy metals than does a	
-V-463	children	children	endocrine disruptors	endocrine disruptors	because all of these compounds are suspected	
-V-463	cancer	cancer	health	health	and non-cancer	
-V-463	pollutants	pollutants	heavy metals	heavy metals	like ddt and dioxins and	
-V-463	cancer	cancer	children	children	benchmark levels were exceeded by all 364	
-V-463	dairy	dairy	seafood	seafood	and for mercury it was	
-V-463	diet	diet	animal products	animal products	high in fish and	
-V-463	dioxins	dioxins	plant-based diet	plant-based diet	and heavy metals than does a	
-V-463	cancer	cancer	cancer	cancer	and non-	
-V-463	plant-based	plant-based	dairy	dairy	diet, decreasing meat,	
-V-463	kids	kids	diet	diet	was not eating a plant-based	
-V-463	cancer	cancer	risk	risk		
-V-463	ddt	ddt	plant-based	plant-based	and dioxins and heavy metals than does a	
-V-463	heavy metals	heavy metals	plant-based diet	plant-based diet	than does a	
-V-463	california	california	plant-based	plant-based	kids was not eating a	
-V-463	plant-based	plant-based	meat	meat	diet, decreasing	
-V-463	ddt	ddt	heavy metals	heavy metals	and dioxins and	
-V-463	dairy	dairy	mercury	mercury	and for	
-V-463	ddt	ddt	plant-based diet	plant-based diet	and dioxins and heavy metals than does a	
-V-463	california	california	children	children		
+V-463	fish	fish	animal products	animal products	and	
 V-463	ddt	ddt	dioxins	dioxins	and	
-V-463	pollutants	pollutants	dioxins	dioxins	like ddt and	
-V-463	heavy metals	heavy metals	diet	diet	than does a plant-based	
-V-463	plant-based	plant-based	fish	fish	diet, decreasing meat, dairy, and	
+V-463	lead	lead	dairy	dairy	was	
+V-463	kids	kids	plant-based	plant-based	was not eating a	
+V-463	arsenic	arsenic	poultry	poultry	was	
 V-463	dioxins	dioxins	heavy metals	heavy metals	and	
 V-463	pesticides	pesticides	dioxins	dioxins	and	
+V-463	dioxins	dioxins	dairy	dairy	was	

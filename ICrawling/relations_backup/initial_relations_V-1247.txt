@@ -1,10 +1,2 @@
 
-V-1247	pumpkin	pumpkin	pie	pie		
-V-1247	pumpkin	pumpkin	tofu	tofu	pie—it’s just fruit, vegetables,	
-V-1247	wheat	wheat	pie	pie		
-V-1247	cinnamon	cinnamon	diet	diet	into my family's	
-V-1247	pumpkin	pumpkin	vegetables	vegetables	pie—it’s just fruit,	
-V-1247	cloves	cloves	diet	diet	and cinnamon into my family's	
-V-1247	whole wheat	whole wheat	pie	pie		
 V-1247	cloves	cloves	cinnamon	cinnamon	and	
-V-1247	pumpkin	pumpkin	fruit	fruit	pie—it’s just	

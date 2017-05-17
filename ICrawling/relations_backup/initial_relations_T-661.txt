@@ -1,59 +1,8 @@
 
 T-661	eggs	eggs	cholesterol	cholesterol	contain high levels of	
-T-661	lead	lead	risk	risk	to weight loss, lower the	
-T-661	hormones	hormones	antioxidant	antioxidant	in eggs and the relative lack of	
-T-661	cancer	cancer	growth hormone	growth hormone	-promoting	
-T-661	growth hormone	growth hormone	kidney stones	kidney stones	igf-1, and increase our risk of heart disease,	
-T-661	plant-based	plant-based	diet	diet		
-T-661	risk	risk	disease	disease	of cataracts, neurological diseases, food poisoning, heart	
-T-661	risk	risk	kidney stones	kidney stones	of heart disease,	
-T-661	eggs	eggs	antioxidant	antioxidant	and the relative lack of	
-T-661	perfluorochemicals	perfluorochemicals	salmonella	salmonella	like pcb, phthalates, flame retardant chemicals, dioxins), and	
-T-661	pollutants	pollutants	pcb	pcb	(such as arsenic, perfluorochemicals like	
-T-661	dioxins	dioxins	salmonella	salmonella	), and	
-T-661	hormones	hormones	phytonutrients	phytonutrients	in eggs and the relative lack of antioxidant	
-T-661	diet	diet	weight loss	weight loss	may improve mood, lead to	
-T-661	risk	risk	diabetes	diabetes	of cataracts, neurological diseases, food poisoning, heart disease,	
-T-661	perfluorochemicals	perfluorochemicals	phthalates	phthalates	like pcb,	
-T-661	pollutants	pollutants	arsenic	arsenic	(such as	
-T-661	diet	diet	mood	mood	may improve	
-T-661	lead	lead	cataracts	cataracts	to weight loss, lower the risk of	
-T-661	plant-based	plant-based	lead	lead	diet may improve mood,	
-T-661	risk	risk	cataracts	cataracts	of	
-T-661	risk	risk	stroke	stroke	of heart disease, kidney stones,	
-T-661	cancer	cancer	risk	risk	-promoting growth hormone igf-1, and increase our	
-T-661	lead	lead	weight loss	weight loss	to	
-T-661	risk	risk	food poisoning	food poisoning	of cataracts, neurological diseases,	
-T-661	cholesterol	cholesterol	pollutants	pollutants	and may contain carcinogenic retroviruses, heterocyclic amines, toxic	
-T-661	sex hormones	sex hormones	antioxidant	antioxidant	in eggs and the relative lack of	
-T-661	kidney	kidney	gestational diabetes	gestational diabetes	stones, stroke, type 2 diabetes,	
-T-661	risk	risk	heart disease	heart disease	of	
-T-661	perfluorochemicals	perfluorochemicals	pcb	pcb	like	
-T-661	risk	risk	diabetes	diabetes	of heart disease, kidney stones, stroke, type 2	
-T-661	cholesterol	cholesterol	heterocyclic amines	heterocyclic amines	and may contain carcinogenic retroviruses,	
-T-661	kidney	kidney	diabetes	diabetes	stones, stroke, type 2	
-T-661	growth hormone	growth hormone	disease	disease	igf-1, and increase our risk of heart	
-T-661	sex hormones	sex hormones	eggs	eggs	in	
-T-661	pollutants	pollutants	perfluorochemicals	perfluorochemicals	(such as arsenic,	
-T-661	cancer	cancer	igf-1	igf-1	-promoting growth hormone	
-T-661	plant-based diet	plant-based diet	lead	lead	may improve mood,	
-T-661	risk	risk	heart disease	heart disease	of cataracts, neurological diseases, food poisoning,	
-T-661	plant-based diet	plant-based diet	weight loss	weight loss	may improve mood, lead to	
-T-661	antioxidant	antioxidant	phytonutrients	phytonutrients		
-T-661	perfluorochemicals	perfluorochemicals	chemicals	chemicals	like pcb, phthalates, flame retardant	
-T-661	growth hormone	growth hormone	igf-1	igf-1		
-T-661	risk	risk	disease	disease	of heart	
-T-661	diet	diet	lead	lead	may improve mood,	
-T-661	plant-based	plant-based	mood	mood	diet may improve	
-T-661	plant-based diet	plant-based diet	mood	mood	may improve	
-T-661	sex hormones	sex hormones	phytonutrients	phytonutrients	in eggs and the relative lack of antioxidant	
-T-661	perfluorochemicals	perfluorochemicals	dioxins	dioxins	like pcb, phthalates, flame retardant chemicals,	
-T-661	growth hormone	growth hormone	risk	risk	igf-1, and increase our	
 T-661	hormones	hormones	eggs	eggs	in	
-T-661	kidney	kidney	stroke	stroke	stones,	
-T-661	plant-based	plant-based	weight loss	weight loss	diet may improve mood, lead to	
-T-661	growth hormone	growth hormone	heart disease	heart disease	igf-1, and increase our risk of	
-T-661	eggs	eggs	phytonutrients	phytonutrients	and the relative lack of antioxidant	
-T-661	pollutants	pollutants	phthalates	phthalates	(such as arsenic, perfluorochemicals like pcb,	
-T-661	risk	risk	kidney	kidney	of heart disease,	
-T-661	growth hormone	growth hormone	kidney	kidney	igf-1, and increase our risk of heart disease,	
+T-661	risk	risk	cataracts	cataracts	of	
+T-661	diet	diet	mood	mood	may improve	
+T-661	sex hormones	sex hormones	eggs	eggs	in	
+T-661	plant-based diet	plant-based diet	mood	mood	may improve	
+T-661	risk	risk	heart disease	heart disease	of	

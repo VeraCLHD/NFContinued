@@ -1,35 +1,4 @@
 
-V-218	cholesterol	cholesterol	cigarettes	cigarettes	may be the food industry’s low-tar	
-V-218	asbestos	asbestos	nicotine	nicotine	in them.less	
-V-218	health	health	tobacco	tobacco	positions.another similarity between	
 V-218	cholesterol	cholesterol	food industry	food industry	may be the	
-V-218	whole grains	whole grains	cocoa	cocoa	in their	
-V-218	pork	pork	cholesterol	cholesterol	or eggs with less	
-V-218	chicken	chicken	cereal	cereal	by the bucketful.or	
-V-218	meat	meat	nutrition	nutrition	industry to try to squash	
-V-218	kfc	kfc	african	african	ad campaign depicted an	
-V-218	meat industry	meat industry	supreme court	supreme court	to try to squash nutrition regulations.the	
-V-218	cereal	cereal	grains	grains	companies touting all the whole	
-V-218	americans	americans	smoking	smoking	about the catastrophic effects of	
+V-218	health	health	variety	variety	was the industry’s concern above all else and promised a	
 V-218	pork	pork	eggs	eggs	or	
-V-218	pork	pork	food industry	food industry	or eggs with less cholesterol may be the	
-V-218	book	book	fda	fda	about his fight with the tobacco industry, former	
-V-218	tobacco	tobacco	fda	fda	industry, former	
-V-218	cigarettes	cigarettes	health	health	that gave	
-V-218	chicken	chicken	whole grains	whole grains	by the bucketful.or cereal companies touting all the	
-V-218	public health	public health	tobacco	tobacco	positions.another similarity between	
-V-218	squash	squash	nutrition	nutrition		
-V-218	squash	squash	supreme court	supreme court	nutrition regulations.the	
-V-218	meat	meat	supreme court	supreme court	industry to try to squash nutrition regulations.the	
-V-218	cereal	cereal	cocoa	cocoa	companies touting all the whole grains in their	
-V-218	eggs	eggs	food industry	food industry	with less cholesterol may be the	
-V-218	health	health	cigarettes	cigarettes	concerns, the industry introduced “safer” filtered	
-V-218	meat industry	meat industry	nutrition	nutrition	to try to squash	
-V-218	cereal	cereal	whole grains	whole grains	companies touting all the	
-V-218	book	book	tobacco	tobacco	about his fight with the	
-V-218	nutrition	nutrition	supreme court	supreme court	regulations.the	
-V-218	meat industry	meat industry	squash	squash	to try to	
-V-218	food industry	food industry	cigarettes	cigarettes	’s low-tar	
-V-218	eggs	eggs	cholesterol	cholesterol	with less	
-V-218	grains	grains	cocoa	cocoa	in their	
-V-218	meat	meat	squash	squash	industry to try to	

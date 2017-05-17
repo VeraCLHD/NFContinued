@@ -1,10 +1,2 @@
 
-V-1197	chlorella	chlorella	health	health	that’s in the	
-V-1197	chlorella	chlorella	health food store	health food store	that’s in the	
-V-1197	algae	algae	supplements	supplements		
-V-1197	blue-green algae	blue-green algae	supplements	supplements		
-V-1197	algae	algae	spirulina	spirulina	supplements or	
-V-1197	blue-green algae	blue-green algae	spirulina	spirulina	supplements or	
-V-1197	chlorella	chlorella	health food	health food	that’s in the	
-V-1197	kidney	kidney	chlorella	chlorella	failure, which went away when he stopped	
 V-1197	supplements	supplements	spirulina	spirulina	or	

@@ -1,10 +1,4 @@
 
 V-914	oils	oils	organic	organic	and	
-V-914	oils	oils	tea	tea	and organic	
 V-914	chemicals	chemicals	allergies	allergies	may exacerbate or induce	
-V-914	organic	organic	chemicals	chemicals	emitted as many hazardous	
-V-914	risk	risk	symptoms	symptoms	of multiple allergic	
-V-914	organic	organic	tea	tea		
-V-914	risk	risk	eczema	eczema	of multiple allergic symptoms, runny nose, and	
-V-914	chemicals	chemicals	asthma	asthma	may exacerbate or induce allergies,	
-V-914	chemicals	chemicals	eczema	eczema	may exacerbate or induce allergies, asthma, and	
+V-914	chemicals	chemicals	fragrance	fragrance	identified, though none were listed on the labels; it usually just says something like “	

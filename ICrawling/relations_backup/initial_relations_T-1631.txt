@@ -1,17 +1,6 @@
 
-T-1631	lettuce	lettuce	salmon	salmon	has been found to have more antioxidants than	
-T-1631	chicken	chicken	salmon	salmon	beats out grilled	
-T-1631	fish	fish	toxins	toxins	may also contain	
-T-1631	salmon	salmon	contamination	contamination	for certain carcinogenic	
-T-1631	iceberg lettuce	iceberg lettuce	salmon	salmon	has been found to have more antioxidants than	
-T-1631	plant-based	plant-based	supplements	supplements		
 T-1631	iceberg lettuce	iceberg lettuce	antioxidants	antioxidants	has been found to have more	
 T-1631	feed additives	feed additives	salmon	salmon	given to farmed	
-T-1631	mercury	mercury	pollutants	pollutants	and other toxic	
-T-1631	antioxidants	antioxidants	salmon	salmon	than	
-T-1631	gold	gold	retinopathy	retinopathy	dust	
+T-1631	chicken	chicken	salmon	salmon	beats out grilled	
 T-1631	lettuce	lettuce	antioxidants	antioxidants	has been found to have more	
-T-1631	chicken	chicken	contamination	contamination	beats out grilled salmon for certain carcinogenic	
 T-1631	skin	skin	pbdes	pbdes	was found to be the most contaminated with	
-T-1631	toxins	toxins	cooking	cooking	that are not neutralized by	
-T-1631	salmon	salmon	skin	skin	was recently studied, and organically farmed salmon with	

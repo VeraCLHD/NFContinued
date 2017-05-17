@@ -1,29 +1,8 @@
 
-T-1191	produce	produce	memory	memory	a dramatic improvement in	
-T-1191	sleep	sleep	memory	memory	may be helpful for improving short-term	
-T-1191	pregnant women	pregnant women	memory	memory	who eat licorice may be risking diminished	
-T-1191	caffeine	caffeine	memory	memory	have been found to protect and enhance	
-T-1191	memory	memory	mercury	mercury	loss, possibly due to high	
-T-1191	plant-based	plant-based	diet	diet		
-T-1191	pregnant	pregnant	women	women		
-T-1191	pregnant	pregnant	memory	memory	women who eat licorice may be risking diminished	
-T-1191	pregnant women	pregnant women	licorice	licorice	who eat	
-T-1191	seafood	seafood	memory	memory	may also cause neurobehavioral issues such as	
-T-1191	women	women	memory	memory	who eat licorice may be risking diminished	
-T-1191	vegetarians	vegetarians	b12	b12	and vegans should take a	
-T-1191	seafood	seafood	infants	infants	consumption, may impact memory function in	
-T-1191	licorice	licorice	memory	memory	may be risking diminished	
 T-1191	vegetarians	vegetarians	vegans	vegans	and	
 T-1191	soy	soy	caffeine	caffeine	and	
-T-1191	infants	infants	seafood	seafood	and a rare toxin found in	
-T-1191	memory	memory	babies	babies	function to their unborn	
-T-1191	memory	memory	diet	diet	loss, or a plant-based	
+T-1191	sleep	sleep	memory	memory	may be helpful for improving short-term	
+T-1191	caffeine	caffeine	memory	memory	have been found to protect and enhance	
 T-1191	vegans	vegans	b12	b12	should take a	
-T-1191	memory	memory	plant-based	plant-based	loss, or a	
-T-1191	pregnant	pregnant	licorice	licorice	women who eat	
-T-1191	seafood	seafood	memory	memory	consumption, may impact	
-T-1191	memory	memory	produce	produce	function, and alternate day fasting was found to	
-T-1191	memory	memory	plant-based diet	plant-based diet	loss, or a	
 T-1191	seafood	seafood	memory	memory	may permanently compromise short-term	
 T-1191	risk	risk	heart attacks	heart attacks	of	
-T-1191	women	women	licorice	licorice	who eat	

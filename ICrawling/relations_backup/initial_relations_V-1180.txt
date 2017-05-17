@@ -1,18 +1,5 @@
 
-V-1180	blood	blood	plant-based diets	plant-based diets	levels of those eating	
-V-1180	aspirin	aspirin	kingdom	kingdom	is widely distributed throughout the plant	
-V-1180	aspirin	aspirin	plants	plants	is widely distributed throughout the plant kingdom;	
-V-1180	disease	disease	heart disease	heart disease	processes, including dementia,	
-V-1180	vegetarians	vegetarians	aspirin	aspirin	naturally have low levels of	
-V-1180	plant-based	plant-based	diet	diet		
+V-1180	inflammation	inflammation	disease	disease	plays a key role in a number of	
+V-1180	vegetarians	vegetarians	risk	risk	have a lower	
 V-1180	doctors	doctors	aspirin	aspirin	recommend some patients take an	
 V-1180	plants	plants	disease	disease	use it to prevent	
-V-1180	aspirin	aspirin	plants	plants	coursing through their systems, because they eat more	
-V-1180	inflammation	inflammation	disease	disease	plays a key role in a number of	
-V-1180	blood	blood	plant-based	plant-based	levels of those eating	
-V-1180	disease	disease	dementia	dementia	processes, including	
-V-1180	aspirin	aspirin	prevention	prevention	a day for	
-V-1180	risk	risk	stroke	stroke	of bleeding—like hemorrhagic	
-V-1180	plants	plants	aspirin	aspirin	—as much as some people who take	
-V-1180	doctors	doctors	prevention	prevention	recommend some patients take an aspirin a day for	
-V-1180	vegetarians	vegetarians	risk	risk	have a lower	

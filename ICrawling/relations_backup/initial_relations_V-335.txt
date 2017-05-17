@@ -1,81 +1,11 @@
 
-V-335	muscles	muscles	fat	fat	as	
-V-335	fat	fat	blood	blood	in the	
-V-335	glucose	glucose	digestive tract	digestive tract	in our	
-V-335	muscles	muscles	blood	blood	to be stored and burned for energy.	
-V-335	fat	fat	insulin resistance	insulin resistance	levels in the blood causes	
-V-335	fat	fat	insulin resistance	insulin resistance	induces	
-V-335	fat	fat	blood	blood	out of the	
-V-335	blood sugar	blood sugar	blood	blood	levels build up in the	
 V-335	blood	blood	insulin resistance	insulin resistance	causes	
-V-335	glucose	glucose	blood	blood	gates, and	
-V-335	insulin	insulin	fat	fat	sensitivity, showing that increased	
-V-335	blood	blood	insulin resistance	insulin resistance	and the	
-V-335	blood	blood	sugar	sugar	glucose—blood	
-V-335	fat	fat	blood	blood	in the diet goes up, so do our 	
-V-335	fat	fat	blood sugar	blood sugar	lead to higher	
-V-335	blood sugar	blood sugar	muscles	muscles	—and is taken up by our	
-V-335	insulin	insulin	blood	blood	get destroyed, and without insulin, sugar in the	
-V-335	glucose	glucose	blood	blood	in the	
-V-335	glucose	glucose	blood sugar	blood sugar	gates, and	
-V-335	insulin resistance	insulin resistance	fat	fat	by decreasing	
-V-335	fat	fat	insulin	insulin	levels in the blood causes	
-V-335	insulin	insulin	blood	blood	we have out in our	
-V-335	fat	fat	insulin	insulin	in the blood is an important contributor of	
-V-335	fat	fat	lead	lead		
-V-335	enzymes	enzymes	glucose	glucose	which finally activates	
-V-335	fat	fat	sugar	sugar	lead to higher blood	
-V-335	water	water	fat	fat	challenge, the group that had been shoveling in	
-V-335	fat	fat	blood sugar	blood sugar	in the diet goes up, so do our 	
-V-335	diet	diet	sugar	sugar	goes up, so do our blood	
-V-335	insulin	insulin	glucose	glucose	resistance, inhibiting	
-V-335	blood	blood	insulin	insulin	causes	
-V-335	blood	blood	insulin	insulin	and the	
-V-335	lead	lead	blood sugar	blood sugar	to higher	
-V-335	muscles	muscles	sugar	sugar	to be stored and burned for energy.blood	
-V-335	blood	blood	insulin	insulin	is an important contributor of	
-V-335	sugar	sugar	blood	blood	out of the	
-V-335	blood	blood	glucose	glucose	causes insulin resistance by the inhibition of	
-V-335	fat	fat	blood	blood	levels in the	
-V-335	glucose	glucose	blood	blood	—	
-V-335	diet	diet	blood	blood	goes up, so do our 	
-V-335	sugar	sugar	blood	blood	in the	
-V-335	insulin	insulin	glucose	glucose	from letting	
-V-335	fat	fat	blood sugar	blood sugar	ended up with twice the	
-V-335	sugar	sugar	muscles	muscles	—and is taken up by our	
-V-335	fat	fat	blood	blood	ended up with twice the	
-V-335	diet	diet	blood sugar	blood sugar	goes up, so do our 	
-V-335	blood	blood	blood sugar	blood sugar	glucose—	
-V-335	glucose	glucose	sugar	sugar	gates, and blood	
-V-335	blood	blood	muscles	muscles	can’t get out of the blood into the	
-V-335	lead	lead	blood	blood	to higher	
-V-335	fat	fat	blood	blood	lead to higher	
-V-335	glucose	glucose	blood	blood	in our digestive tract, it circulates as	
-V-335	fat	fat	sugar	sugar	in the diet goes up, so do our blood	
-V-335	sugar	sugar	water	water		
-V-335	fat	fat	blood	blood	in people’s	
-V-335	muscles	muscles	insulin	insulin	and decreases their	
-V-335	fat	fat	insulin	insulin	in our diet gets lower and lower,	
-V-335	insulin	insulin	glucose	glucose	resistance by the inhibition of	
-V-335	fat	fat	insulin	insulin	in people’s blood and the	
-V-335	fat	fat	diet	diet	in our	
-V-335	diet	diet	insulin	insulin	gets lower and lower,	
-V-335	insulin	insulin	blood	blood	sensitivity, showing that increased fat in the	
-V-335	fat	fat	sugar	sugar	ended up with twice the blood	
-V-335	glucose	glucose	fat	fat	intolerance skyrockets in the	
+V-335	insulin resistance	insulin resistance	muscles	muscles	wasn’t known until fancy mri techniques were developed to see what was happening inside people’s	
 V-335	fat	fat	insulin	insulin	can start causing	
-V-335	fat	fat	insulin resistance	insulin resistance	in people’s blood and the	
-V-335	insulin resistance	insulin resistance	glucose	glucose	by the inhibition of	
-V-335	muscles	muscles	blood sugar	blood sugar	to be stored and burned for energy.	
-V-335	blood	blood	glucose	glucose		
-V-335	muscles	muscles	fat	fat	and decreases their insulin sensitivity, showing that increased	
-V-335	insulin	insulin	sugar	sugar	get destroyed, and without insulin,	
-V-335	fat	fat	diet	diet	in the	
-V-335	lead	lead	sugar	sugar	to higher blood	
-V-335	blood	blood	muscles	muscles	glucose—blood sugar—and is taken up by our	
-V-335	sugar	sugar	blood	blood	levels build up in the	
+V-335	insulin	insulin	glucose	glucose	is the key that unlocks the door to let the	
 V-335	fat	fat	insulin	insulin	induces	
-V-335	fat	fat	glucose	glucose	can start causing insulin resistance, inhibiting	
-V-335	blood	blood	sugar	sugar		
+V-335	fat	fat	blood sugar	blood sugar	ended up with twice the	
+V-335	fat	fat	insulin resistance	insulin resistance	induces	
+V-335	fat	fat	blood	blood	ended up with twice the	
+V-335	blood	blood	insulin	insulin	causes	
 V-335	fat	fat	insulin resistance	insulin resistance	can start causing	
-V-335	insulin	insulin	fat	fat	resistance by decreasing	

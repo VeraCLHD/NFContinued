@@ -1,13 +1,5 @@
 
 V-487	u.s. food and drug administration	u.s. food and drug administration	fats	fats	announced their plans to all but eliminate trans	
 V-487	u.s. food and drug administration	u.s. food and drug administration	trans fats	trans fats	announced their plans to all but eliminate	
-V-487	trans fats	trans fats	cdc	cdc	from processed foods, citing a	
-V-487	marion nestle	marion nestle	fda	fda	to ask, “how is it possible that the	
-V-487	fats	fats	processed foods	processed foods	from	
-V-487	cdc	cdc	oils	oils	statistic that the elimination of partially hydrogenated	
-V-487	food industry	food industry	marion nestle	marion nestle	watchdog	
-V-487	fda	fda	food additives	food additives	permits manufacturers to decide for themselves whether their	
 V-487	food and drug administration	food and drug administration	fats	fats	announced their plans to all but eliminate trans	
 V-487	food and drug administration	food and drug administration	trans fats	trans fats	announced their plans to all but eliminate	
-V-487	fats	fats	cdc	cdc	from processed foods, citing a	
-V-487	trans fats	trans fats	processed foods	processed foods	from	

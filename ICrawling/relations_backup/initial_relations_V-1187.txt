@@ -1,17 +1,7 @@
 
-V-1187	disease	disease	fiber	fiber	caused by inadequate dietary	
-V-1187	fat	fat	diverticulosis	diverticulosis	—but what if you have	
-V-1187	diverticulosis	diverticulosis	nuts	nuts	eating	
-V-1187	nuts	nuts	inflammation	inflammation	and popcorn had lower rates of	
-V-1187	nuts	nuts	fat	fat	are the best source of	
-V-1187	diverticulosis	diverticulosis	colon	colon	—which are outpouchings from your	
-V-1187	corn	corn	popcorn	popcorn	or	
-V-1187	diverticulosis	diverticulosis	inflammation	inflammation	eating nuts and popcorn had lower rates of	
-V-1187	popcorn	popcorn	inflammation	inflammation	had lower rates of	
-V-1187	americans	americans	plant foods	plant foods	have diverticulosis, because people don’t eat enough	
-V-1187	doctors	doctors	diverticulosis	diverticulosis	typically tell patients with	
 V-1187	americans	americans	diverticulosis	diverticulosis	have	
 V-1187	nuts	nuts	popcorn	popcorn	and	
-V-1187	diverticulosis	diverticulosis	popcorn	popcorn	eating nuts and	
-V-1187	plant foods	plant foods	fiber	fiber	—the only place	
-V-1187	diverticulosis	diverticulosis	disease	disease	that they should avoid nuts.diverticulosis is a	
+V-1187	nuts	nuts	fat	fat	are the best source of	
+V-1187	corn	corn	popcorn	popcorn	or	
+V-1187	popcorn	popcorn	inflammation	inflammation	stuck in those pockets—which led to this theory that they may be what triggered the	
+V-1187	popcorn	popcorn	inflammation	inflammation	had lower rates of	

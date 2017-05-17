@@ -1,65 +1,11 @@
 
-V-46	cancer	cancer	phytonutrients	phytonutrients	protection arises out of the aspirin	
-V-46	turmeric	turmeric	aspirin	aspirin	have a lot, but cumin is like 1%	
-V-46	cancer	cancer	aspirin	aspirin	protection arises out of the	
-V-46	organic	organic	salicylic acid	salicylic acid	vegetables were found to have nearly six times more	
-V-46	vegetables	vegetables	salicylic acid	salicylic acid	were found to have nearly six times more	
-V-46	vegetarian	vegetarian	herbs	herbs	meals, with	
-V-46	cumin	cumin	baby	baby	is like taking a	
-V-46	plant-based	plant-based	diet	diet		
-V-46	herbs	herbs	spices	spices	and	
-V-46	india	india	colorectal cancer	colorectal cancer	” has “one of the lowest [rates of	
-V-46	risk	risk	plant-based	plant-based	” may include a “whole-food	
-V-46	salicylic acid	salicylic acid	cumin	cumin	in	
-V-46	anti-inflammatory	anti-inflammatory	antioxidant	antioxidant	and	
-V-46	mortality	mortality	pancreatic cancer	pancreatic cancer	from	
-V-46	cancer	cancer	vegetarian	vegetarian	—than just regular, more bland 	
-V-46	salicylic acid	salicylic acid	plants	plants	is a defense hormone of	
-V-46	cancer	cancer	plant-based diet	plant-based diet	protection afforded by lifelong consumption of a	
 V-46	phytonutrients	phytonutrients	plants	plants	in	
-V-46	cumin	cumin	aspirin	aspirin	is like taking a baby	
-V-46	cumin	cumin	aspirin	aspirin	is like 1%	
-V-46	salicylic acid	salicylic acid	plant foods	plant foods	”—given the “substantial amounts of [	
-V-46	plant foods	plant foods	spices	spices	] flavored with large quantities of herbs and	
-V-46	cancer	cancer	diet	diet	protection afforded by lifelong consumption of a plant-based	
-V-46	cancer	cancer	diet	diet	] in the world, and a	
-V-46	aspirin	aspirin	plants	plants	phytonutrients in	
-V-46	aspirin	aspirin	mortality	mortality	meta-analyses—suggesting a reduction of cancer	
-V-46	risk	risk	plant-based diet	plant-based diet	” may include a “whole-food	
-V-46	cancer	cancer	plant-based	plant-based	risk” may include a “whole-food	
-V-46	cancer	cancer	plant-based	plant-based	protection afforded by lifelong consumption of a	
-V-46	baby	baby	aspirin	aspirin		
+V-46	animal products	animal products	japanese	japanese	made up only about 5% or less of the	
+V-46	salicylic acid	salicylic acid	cumin	cumin	in	
+V-46	vegetables	vegetables	salicylic acid	salicylic acid	were found to have nearly six times more	
+V-46	anti-inflammatory	anti-inflammatory	antioxidant	antioxidant	and	
 V-46	fruits	fruits	vegetables	vegetables	and	
-V-46	plant foods	plant foods	herbs	herbs	] flavored with large quantities of	
-V-46	fruits	fruits	spices	spices	and vegetables,…herbs and	
-V-46	cancer	cancer	united states	united states	rates, compared to the	
-V-46	plant-based	plant-based	insulin	insulin	diet, in conjunction with leanness and	
-V-46	cancer	cancer	plant-based diet	plant-based diet	risk” may include a “whole-food	
-V-46	diet	diet	salicylic acid	salicylic acid	that could be extremely rich in	
-V-46	aspirin	aspirin	cancer	cancer	meta-analyses—suggesting a reduction of	
-V-46	mortality	mortality	aspirin	aspirin	by about one-third in subjects taking [daily low-dose]	
-V-46	japan	japan	pancreatic cancer	pancreatic cancer	than in the us: [with] mortality from	
-V-46	aspirin	aspirin	phytonutrients	phytonutrients		
-V-46	cancer	cancer	risk	risk		
-V-46	curcumin	curcumin	turmeric	turmeric	in the spice	
-V-46	phytonutrients	phytonutrients	antioxidant	antioxidant	—many of which have marked anti-inflammatory and	
-V-46	cancer	cancer	diet	diet	risk” may include a “whole-food plant-based	
-V-46	turmeric	turmeric	cumin	cumin	have a lot, but	
-V-46	organic	organic	vegetables	vegetables		
-V-46	fruits	fruits	herbs	herbs	and vegetables,…	
-V-46	salicylic acid	salicylic acid	health	health	deficiency’ has [such] important public	
-V-46	salicylic acid	salicylic acid	public health	public health	deficiency’ has [such] important	
-V-46	cancer	cancer	mortality	mortality		
-V-46	japan	japan	cancer	cancer	than in the us: [with] mortality from pancreatic	
-V-46	risk	risk	diet	diet	” may include a “whole-food plant-based	
-V-46	mortality	mortality	cancer	cancer	from pancreatic	
-V-46	curcumin	curcumin	salicylic acid	salicylic acid	in the spice turmeric; but, maybe it’s the	
-V-46	phytonutrients	phytonutrients	anti-inflammatory	anti-inflammatory	—many of which have marked	
-V-46	cancer	cancer	plants	plants	protection arises out of the aspirin phytonutrients in	
-V-46	phytochemicals	phytochemicals	white bread	white bread	than	
-V-46	japan	japan	mortality	mortality	than in the us: [with]	
-V-46	colorectal cancer	colorectal cancer	diet	diet	] in the world, and a	
-V-46	phytochemicals	phytochemicals	bread	bread	than white	
-V-46	vegetarian	vegetarian	spices	spices	meals, with herbs and	
-V-46	death	death	prostate	prostate	rates from cancers of the colon,	
-V-46	death	death	colon	colon	rates from cancers of the	
+V-46	cumin	cumin	baby	baby	is like taking a	
+V-46	salicylic acid	salicylic acid	phytonutrients	phytonutrients	are generally rich sources” of a whole long list of other	
+V-46	salicylic acid	salicylic acid	plants	plants	is a defense hormone of	
+V-46	herbs	herbs	spices	spices	and	

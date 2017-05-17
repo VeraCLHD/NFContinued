@@ -1,52 +1,12 @@
 
-V-19	dna damage	dna damage	treatment	treatment	associated with this	
-V-19	medicine	medicine	tea	tea	practitioners reported marjoram	
-V-19	onions	onions	antioxidant	antioxidant	over white, you boost the	
-V-19	oregano	oregano	dna	dna	extract significantly protects against	
-V-19	cabbage	cabbage	red onions	red onions	over green, or	
-V-19	dna damage	dna damage	blood	blood	induced by the radioactive iodine in white	
-V-19	sleep	sleep	pets	pets	close to anyone (including your	
-V-19	blood	blood	iodine	iodine	cells in vitro from exposure to radioactive	
-V-19	antioxidant	antioxidant	free radicals	free radicals	compounds they contain, given the role that oxidant	
 V-19	vegetables	vegetables	antioxidant	antioxidant	may be so good for us are the	
+V-19	dna damage	dna damage	treatment	treatment	associated with this	
+V-19	free radicals	free radicals	aging	aging	are thought to play in	
 V-19	tumors	tumors	chicken	chicken	grown in	
-V-19	oregano	oregano	mint	mint	or	
-V-19	oregano	oregano	cancer	cancer	killing off cervical	
-V-19	red onions	red onions	antioxidant	antioxidant	over white, you boost the	
-V-19	chicken	chicken	eggs	eggs		
-V-19	treatment	treatment	radiation	radiation	can be very effective, but all that	
-V-19	oregano	oregano	blood	blood	to protect chromosomes of human	
-V-19	antioxidant	antioxidant	antioxidants	antioxidants	power of the entire meal.here’s the total	
-V-19	medicine	medicine	marjoram	marjoram	practitioners reported	
-V-19	thyme	thyme	oregano	oregano	—	
-V-19	antioxidants	antioxidants	lettuce	lettuce	in a simple salad—	
-V-19	fertility	fertility	women	women	problems in	
-V-19	in vitro studies	in vitro studies	oregano	oregano	on	
-V-19	fruits	fruits	vegetables	vegetables	and	
-V-19	dna	dna	blood	blood	damage induced by the radioactive iodine in white	
 V-19	lettuce	lettuce	antioxidants	antioxidants	may offer twice the	
-V-19	marjoram	marjoram	tea	tea		
-V-19	thyroid	thyroid	cancer	cancer	glands or thyroid	
-V-19	radiation	radiation	risk	risk	exposure appears to increase the	
-V-19	marjoram	marjoram	women	women	tea on the hormonal profile of	
-V-19	tumor	tumor	surgery	surgery	cells after	
-V-19	oregano	oregano	dna damage	dna damage	extract significantly protects against	
-V-19	cabbage	cabbage	onions	onions	over green, or red	
-V-19	tea	tea	women	women	on the hormonal profile of	
-V-19	thyroid	thyroid	thyroid cancer	thyroid cancer	glands or	
-V-19	free radicals	free radicals	disease	disease	are thought to play in aging and	
+V-19	iodine	iodine	thyroid	thyroid	is sometimes given to people with overactive	
 V-19	garlic	garlic	ginger	ginger	or	
-V-19	oregano	oregano	cervical cancer	cervical cancer	killing off	
-V-19	dna	dna	iodine	iodine	damage induced by the radioactive	
-V-19	iodine	iodine	blood	blood	in white	
-V-19	oregano	oregano	cancer cells	cancer cells	killing off cervical	
+V-19	fruits	fruits	vegetables	vegetables	and	
+V-19	oregano	oregano	mint	mint	or	
 V-19	aging	aging	disease	disease	and	
 V-19	dna damage	dna damage	iodine	iodine	induced by the radioactive	
-V-19	tumors	tumors	eggs	eggs	grown in chicken	
-V-19	oregano	oregano	herbs	herbs	family	
-V-19	free radicals	free radicals	aging	aging	are thought to play in	
-V-19	iodine	iodine	thyroid	thyroid	is sometimes given to people with overactive	
-V-19	blood	blood	oregano	oregano	in vitro to model the amount of	
-V-19	oregano	oregano	blood	blood	instead, and then just irradiate their	
-V-19	antioxidants	antioxidants	lettuce	lettuce	of butterhead	
-V-19	dna	dna	treatment	treatment	damage associated with this	

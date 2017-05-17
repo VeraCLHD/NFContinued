@@ -1,19 +1,4 @@
 
-V-1010	risk	risk	vitamin deficiency	vitamin deficiency	for deficiency—but actual bonafide	
-V-1010	vegans	vegans	b12	b12	testing vitamin	
-V-1010	vegans	vegans	vegetarians	vegetarians	is that b12 deficiency isn’t exclusive to	
-V-1010	vegans	vegans	b12	b12	is that	
-V-1010	vitamin b12	vitamin b12	vegans	vegans	deficiency among	
-V-1010	vitamin b12	vitamin b12	supplements	supplements		
-V-1010	plant-based	plant-based	diet	diet		
-V-1010	vitamin b12	vitamin b12	b12	b12	deficient?now i’m not talking below average	
-V-1010	b12	b12	supplements	supplements		
-V-1010	b12	b12	blood	blood	levels were measured in the	
-V-1010	b12	b12	vegetarians	vegetarians	deficiency isn’t exclusive to	
 V-1010	vegans	vegans	vitamin b12	vitamin b12	testing	
-V-1010	vegans	vegans	b12	b12	were taking vitamin	
+V-1010	vegans	vegans	b12	b12	is that	
 V-1010	vegans	vegans	vitamin b12	vitamin b12	were taking	
-V-1010	b12	b12	vegans	vegans	deficiency among	
-V-1010	vegan	vegan	b12	b12		
-V-1010	vegans	vegans	supplements	supplements	were taking vitamin b12	
-V-1010	blood	blood	vegans	vegans	of hundreds of british	

@@ -1,126 +1,20 @@
 
-V-76	plant-based	plant-based	blood	blood	living, her	
-V-76	animal proteins	animal proteins	egg	egg	—meat,	
-V-76	cancer cells	cancer cells	cancer	cancer	growing in a petri dish,	
-V-76	blood	blood	cancer	cancer	that just kind of rolls over when new	
-V-76	egg	egg	protein	protein	white, and dairy	
-V-76	breast cancer	breast cancer	women	women	—the #1 cancer killer of young	
-V-76	blood	blood	cancer	cancer	of your average woman can do to breast	
-V-76	blood	blood	women	women	from	
-V-76	blood	blood	cancer	cancer	dripped on a new carpet of breast	
-V-76	blood	blood	plant-based	plant-based	circulating within the bodies of those eating	
-V-76	cancer	cancer	plant-based	plant-based	cell growth—after just two weeks eating a	
-V-76	prostate	prostate	cancer	cancer		
-V-76	risk	risk	dairy	dairy	six-fold by eating lots of meat and	
-V-76	exercise	exercise	cancer	cancer	for 5,000 hours, and you can kill	
-V-76	cancer	cancer	plant-based	plant-based	on a	
-V-76	cancer	cancer	cancer cells	cancer cells	.slowing down the growth of	
-V-76	dna	dna	death	death	fragmentation: cell	
-V-76	risk	risk	cancer	cancer	of dying specifically from	
-V-76	blood	blood	diet	diet	taken from those who ate a plant-based	
-V-76	meat	meat	dairy	dairy	and	
-V-76	prostate	prostate	plant-based	plant-based	cancer could be reversed with a	
-V-76	cancer	cancer	prostate	prostate	cell growth.now, this was for	
-V-76	smoking	smoking	meat	meat	with the effects of	
-V-76	cancer	cancer	mortality	mortality	—a	
-V-76	prostate cancer	prostate cancer	plant-based diet	plant-based diet	could be reversed with a	
-V-76	breast cancer	breast cancer	plant-based	plant-based	cell growth—after just two weeks eating a	
-V-76	smoking	smoking	dairy	dairy	with the effects of meat and	
-V-76	dairy	dairy	protein	protein		
-V-76	cancer cell growth	cancer cell growth	plant-based	plant-based	—after just two weeks eating a	
-V-76	plant-based	plant-based	animal protein	animal protein	may be because they’re eating less	
-V-76	ornish	ornish	prostate cancer	prostate cancer	and colleagues found that the progression of	
-V-76	ornish	ornish	prostate	prostate	and colleagues found that the progression of	
-V-76	diet	diet	animal proteins	animal proteins	rich in	
-V-76	protein	protein	philip morris	philip morris	thing.that reminds me of a famous	
-V-76	cancer	cancer	cancer	cancer	—the #1	
-V-76	blood	blood	cancer cells	cancer cells	of those eating the standard american diet onto	
-V-76	cancer	cancer	cancer	cancer	.slowing down the growth of	
-V-76	animal proteins	animal proteins	meat	meat	—	
-V-76	egg	egg	igf-1	igf-1	white, and dairy proteins increase the level of	
-V-76	cancer	cancer	cell death	cell death	cell growth drops; cancer	
-V-76	ornish	ornish	cancer	cancer	and colleagues found that the progression of prostate	
-V-76	cancer	cancer	smoking	smoking	—a mortality risk factor comparable to	
-V-76	plant-based	plant-based	meat	meat	diet.we think it’s because of animal proteins—	
-V-76	dairy	dairy	smoking	smoking	could be as harmful to health as	
-V-76	cancer	cancer	plant-based diet	plant-based diet	on a	
-V-76	risk	risk	heart disease	heart disease	of	
-V-76	prostate	prostate	plant-based diet	plant-based diet	cancer could be reversed with a	
-V-76	cancer	cancer	diet	diet	could be reversed with a plant-based	
-V-76	cancer	cancer	risk	risk	—a mortality	
-V-76	dairy	dairy	igf-1	igf-1	protein—so, end up with less	
-V-76	cancer	cancer	death	death	cell growth drops; cancer cell	
-V-76	plant-based	plant-based	exercise	exercise	diet, and	
-V-76	cancer cell growth	cancer cell growth	death	death	drops; cancer cell	
-V-76	risk	risk	cooking	cooking	frequently	
-V-76	plant-based	plant-based	protein	protein	may be because they’re eating less animal	
-V-76	egg	egg	dairy	dairy	white, and	
-V-76	breast cancer	breast cancer	cancer	cancer	—the #1	
-V-76	blood	blood	women	women	of	
-V-76	smoking	smoking	ham	ham	if my	
-V-76	prostate	prostate	diet	diet	cancer could be reversed with a plant-based	
-V-76	blood	blood	breast cancer	breast cancer	of your average woman can do to	
-V-76	blood	blood	women	women	now coursing through these	
-V-76	plant-based	plant-based	cancer	cancer	diet, and walking—that’s the kind of	
-V-76	dairy	dairy	health	health	could be as harmful to	
-V-76	animal proteins	animal proteins	dairy	dairy	—meat, egg white, and	
-V-76	diet	diet	exercise	exercise	and	
-V-76	standard american diet	standard american diet	cancer	cancer	onto	
-V-76	plant-based	plant-based	egg	egg	diet.we think it’s because of animal proteins—meat,	
-V-76	blood	blood	breast cancer	breast cancer	dripped on a new carpet of	
-V-76	plant-based	plant-based	diet	diet		
-V-76	cancer	cancer	plant-based diet	plant-based diet	could be reversed with a	
-V-76	cancer cells	cancer cells	cancer growth	cancer growth	growing in a petri dish,	
-V-76	blood	blood	plant-based	plant-based	taken from those who ate a	
-V-76	women	women	standard american diet	standard american diet	eating the	
-V-76	blood	blood	diet	diet	of those eating the standard american	
-V-76	egg	egg	igf-1	igf-1	white, and dairy protein—so, end up with less	
-V-76	animal protein	animal protein	philip morris	philip morris	thing.that reminds me of a famous	
 V-76	risk	risk	lung cancer	lung cancer	of	
-V-76	cancer	cancer	diet	diet	on a plant-based	
+V-76	meat	meat	dairy	dairy	and	
 V-76	prostate cancer	prostate cancer	plant-based	plant-based	could be reversed with a	
-V-76	cancer	cancer	plant-based	plant-based	could be reversed with a	
-V-76	blood	blood	cancer cells	cancer cells	of your average woman can do to breast	
-V-76	health	health	smoking	smoking	as	
-V-76	plant-based diet	plant-based diet	blood	blood	for a year, though, and their	
-V-76	risk	risk	cancer	cancer	of lung	
-V-76	cancer	cancer	cancer	cancer	cell growth.now, this was for prostate	
-V-76	cancer	cancer	prostate cancer	prostate cancer	cell growth.now, this was for	
-V-76	blood	blood	diet	diet	from women eating the standard american	
-V-76	blood	blood	cancer cells	cancer cells	dripped on a new carpet of breast	
-V-76	blood	blood	women	women	was drawn from those same	
-V-76	risk	risk	smoking	smoking	factor comparable to	
-V-76	women	women	diet	diet	eating the standard american	
-V-76	dairy	dairy	igf-1	igf-1	proteins increase the level of	
-V-76	blood	blood	standard american diet	standard american diet	of those eating the	
-V-76	prostate cancer	prostate cancer	cancer	cancer	—the leading	
 V-76	diet	diet	cancer	cancer	and	
-V-76	cancer	cancer	cancer	cancer	cell clearance you get.compare that to the	
-V-76	plant-based	plant-based	animal proteins	animal proteins	diet.we think it’s because of	
-V-76	cancer cell growth	cancer cell growth	cell death	cell death	drops; cancer	
-V-76	cancer	cancer	igf-1	igf-1	just the amount of	
-V-76	cancer	cancer	cancer	cancer	cell growth drops;	
-V-76	risk	risk	meat	meat	six-fold by eating lots of	
-V-76	smoking	smoking	cheese	cheese	if my ham and	
-V-76	dna	dna	cell death	cell death	fragmentation:	
+V-76	cancer	cancer	plant-based	plant-based	could be reversed with a	
+V-76	egg	egg	dairy	dairy	white, and	
+V-76	blood	blood	breast cancer	breast cancer	dripped on a new carpet of	
+V-76	blood	blood	women	women	of	
+V-76	cancer	cancer	plant-based diet	plant-based diet	could be reversed with a	
+V-76	blood	blood	plant-based	plant-based	circulating within the bodies of those eating	
+V-76	blood	blood	plant-based	plant-based	taken from those who ate a	
+V-76	prostate cancer	prostate cancer	plant-based diet	plant-based diet	could be reversed with a	
+V-76	risk	risk	heart disease	heart disease	of	
+V-76	women	women	standard american diet	standard american diet	eating the	
 V-76	blood	blood	plant-based diet	plant-based diet	taken from those who ate a	
-V-76	mortality	mortality	risk	risk		
-V-76	plant-based	plant-based	blood	blood	diet for a year, though, and their	
-V-76	standard american diet	standard american diet	cancer cells	cancer cells	onto	
-V-76	protein	protein	mortality	mortality	intakes had a 75% increase in overall	
-V-76	standard american diet	standard american diet	cancer growth	cancer growth	onto cancer cells growing in a petri dish,	
-V-76	exercise	exercise	cancer cells	cancer cells	for 5,000 hours, and you can kill	
-V-76	cancer cell growth	cancer cell growth	cancer	cancer	drops;	
-V-76	prostate cancer	prostate cancer	diet	diet	could be reversed with a plant-based	
-V-76	mortality	mortality	smoking	smoking	risk factor comparable to	
-V-76	risk	risk	disease	disease	of heart	
-V-76	diet	diet	blood	blood	for a year, though, and their	
-V-76	blood	blood	cancer	cancer	of those eating the standard american diet onto	
-V-76	cancer	cancer	women	women	—the #1 cancer killer of young	
-V-76	plant-based	plant-based	blood	blood	diet.what kind of	
-V-76	cancer	cancer	plant-based	plant-based	tush than a	
-V-76	blood	blood	standard american diet	standard american diet	from women eating the	
-V-76	blood	blood	cancer cells	cancer cells	that just kind of rolls over when new	
-V-76	women	women	protein	protein	with high	
+V-76	plant-based	plant-based	animal protein	animal protein	may be because they’re eating less	
 V-76	ham	ham	cheese	cheese	and	
-V-76	cancer	cancer	cancer	cancer	?now, this dramatic strengthening of	
+V-76	dairy	dairy	health	health	could be as harmful to	
+V-76	diet	diet	exercise	exercise	and	

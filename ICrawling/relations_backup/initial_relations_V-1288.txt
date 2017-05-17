@@ -1,25 +1,7 @@
 
-V-1288	death	death	smoking	smoking	from	
-V-1288	meat	meat	cancer	cancer	- and dairy-free diets to prevent diseases like	
 V-1288	physicians	physicians	nutrition	nutrition	may have received any formal	
-V-1288	women	women	cigarettes	cigarettes	to smoke	
-V-1288	doctors	doctors	nutrition	nutrition	versus patients in a head-to-head test of basic	
 V-1288	children	children	meat	meat	be raised on	
-V-1288	women	women	morning sickness	morning sickness	to smoke cigarettes to help with	
-V-1288	pregnant	pregnant	women	women		
-V-1288	doctors	doctors	women	women	were advising pregnant	
-V-1288	doctors	doctors	nutrition	nutrition	are taught more about	
-V-1288	cigarettes	cigarettes	morning sickness	morning sickness	to help with	
-V-1288	nutrition	nutrition	doctors	doctors	than their	
-V-1288	bible	bible	children	children	), he recommended that all	
-V-1288	world health organization	world health organization	fruit	fruit	blames literally millions of deaths every year on inadequate 	
-V-1288	nutrition	nutrition	doctors	doctors	 that pitted	
-V-1288	nutrition	nutrition	doctors	doctors	advice.what	
 V-1288	doctors	doctors	pregnant	pregnant	were advising	
-V-1288	pregnant women	pregnant women	cigarettes	cigarettes	to smoke	
 V-1288	fruits	fruits	vegetables	vegetables	and	
 V-1288	doctors	doctors	pregnant women	pregnant women	were advising	
-V-1288	pregnant women	pregnant women	morning sickness	morning sickness	to smoke cigarettes to help with	
-V-1288	doctors	doctors	cigarettes	cigarettes	were advising pregnant women to smoke	
-V-1288	pregnant	pregnant	cigarettes	cigarettes	women to smoke	
-V-1288	pregnant	pregnant	morning sickness	morning sickness	women to smoke cigarettes to help with	
+V-1288	doctors	doctors	nutrition	nutrition	are taught more about	

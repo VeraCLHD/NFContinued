@@ -1,34 +1,9 @@
 
-T-901	ginger	ginger	headaches	headaches	may help relieve migraine	
-T-901	gluten	gluten	pms	pms	intolerance, fibromyalgia,	
+T-901	headaches	headaches	gluten	gluten	may be a symptom of other medical conditions such as	
 T-901	artificial sweeteners	artificial sweeteners	headaches	headaches	may cause	
-T-901	migraine	migraine	cluster headaches	cluster headaches	headaches and hot sauce compounds may help relieve	
-T-901	headaches	headaches	ginger	ginger	.lavender oil and	
-T-901	migraine	migraine	headaches	headaches		
-T-901	hot sauce	hot sauce	cluster headaches	cluster headaches	compounds may help relieve	
-T-901	migraine headaches	migraine headaches	hot sauce	hot sauce	and	
-T-901	sweeteners	sweeteners	ginger	ginger	may cause headaches.lavender oil and	
-T-901	artificial sweeteners	artificial sweeteners	ginger	ginger	may cause headaches.lavender oil and	
-T-901	headaches	headaches	migraine	migraine	.lavender oil and ginger may help relieve	
-T-901	hot sauce	hot sauce	headaches	headaches	compounds may help relieve cluster	
 T-901	sweeteners	sweeteners	headaches	headaches	may cause	
 T-901	ginger	ginger	migraine	migraine	may help relieve	
-T-901	pork	pork	tapeworms	tapeworms		
-T-901	aspartame	aspartame	diet	diet	in	
-T-901	diet	diet	pork	pork	soda, or even	
-T-901	gluten	gluten	diet soda	diet soda	intolerance, fibromyalgia, pms, a reaction to aspartame in	
-T-901	migraine headaches	migraine headaches	headaches	headaches	and hot sauce compounds may help relieve cluster	
-T-901	migraine	migraine	hot sauce	hot sauce	headaches and	
-T-901	aspartame	aspartame	soda	soda	in diet	
-T-901	ginger	ginger	hot sauce	hot sauce	may help relieve migraine headaches and	
 T-901	ginger	ginger	migraine headaches	migraine headaches	may help relieve	
-T-901	headaches	headaches	migraine headaches	migraine headaches	.lavender oil and ginger may help relieve	
-T-901	gluten	gluten	aspartame	aspartame	intolerance, fibromyalgia, pms, a reaction to	
+T-901	aspartame	aspartame	diet	diet	in	
 T-901	aspartame	aspartame	diet soda	diet soda	in	
-T-901	gluten	gluten	fibromyalgia	fibromyalgia	intolerance,	
-T-901	aspartame	aspartame	pork	pork	in diet soda, or even	
-T-901	diet	diet	tapeworms	tapeworms	soda, or even pork	
-T-901	gluten	gluten	diet	diet	intolerance, fibromyalgia, pms, a reaction to aspartame in	
-T-901	migraine headaches	migraine headaches	cluster headaches	cluster headaches	and hot sauce compounds may help relieve	
-T-901	diet	diet	soda	soda		
-T-901	aspartame	aspartame	tapeworms	tapeworms	in diet soda, or even pork	
+T-901	migraine headaches	migraine headaches	hot sauce	hot sauce	and	

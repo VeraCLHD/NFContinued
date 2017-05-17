@@ -1,13 +1,6 @@
 
-V-265	colon	colon	lifespan	lifespan	in the western world within one	
 V-265	painter and burkitt	painter and burkitt	diverticulosis	diverticulosis	suggested	
 V-265	diet	diet	diverticulosis	diverticulosis	was not associated with	
-V-265	cramping	cramping	pain	pain	and bloating, to incapacitating	
 V-265	meat	meat	sugar	sugar	and	
-V-265	lead	lead	death	death	to	
 V-265	diet	diet	lead	lead	can sometimes	
-V-265	painter and burkitt	painter and burkitt	disease	disease	suggested diverticulosis was a deficiency	
 V-265	cramping	cramping	bloating	bloating	and	
-V-265	diet	diet	colon	colon	can sometimes lead to the	
-V-265	lead	lead	colon	colon	to the	
-V-265	diverticulosis	diverticulosis	disease	disease	was a deficiency	

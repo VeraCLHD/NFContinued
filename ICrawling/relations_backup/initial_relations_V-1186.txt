@@ -1,14 +1,2 @@
 
 V-1186	children	children	plant foods	plant foods	is attributable to the under-consumption of	
-V-1186	plant foods	plant foods	dairy	dairy	"—and also	
-V-1186	constipation	constipation	children	children	in pre-school	
-V-1186	gastric bypass	gastric bypass	surgery	surgery		
-V-1186	gastric bypass	gastric bypass	kids	kids	surgery for	
-V-1186	doctors	doctors	kids	kids	advocating stomach-stapling gastric bypass surgery for	
-V-1186	united states	united states	doctors	doctors	that there are now	
-V-1186	doctors	doctors	surgery	surgery	advocating stomach-stapling gastric bypass	
-V-1186	united states	united states	gastric bypass	gastric bypass	that there are now doctors advocating stomach-stapling	
-V-1186	obesity	obesity	united states	united states	epidemic has gotten so bad in the	
-V-1186	obesity	obesity	americans	americans	trend continues, all	
-V-1186	doctors	doctors	gastric bypass	gastric bypass	advocating stomach-stapling	
-V-1186	surgery	surgery	kids	kids	for	

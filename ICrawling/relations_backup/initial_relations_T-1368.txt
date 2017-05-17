@@ -1,36 +1,11 @@
 
-T-1368	soy	soy	phytonutrients	phytonutrients		
 T-1368	phytonutrients	phytonutrients	risk	risk	cut the	
 T-1368	hormones	hormones	meat	meat	found in american	
-T-1368	women	women	phytonutrients	phytonutrients	were followed, those who ate lots of soy	
-T-1368	green tea	green tea	ovarian cancer	ovarian cancer	consumption may halve the risk of getting	
+T-1368	acrylamide	acrylamide	french fries	french fries	is a neurotoxic industrial chemical found in	
 T-1368	coffee	coffee	cancer	cancer	was a long time ago linked to ovarian	
 T-1368	coffee	coffee	cancer	cancer	is now thought to actually be protective against	
-T-1368	women	women	soy	soy	were followed, those who ate lots of	
-T-1368	pregnant	pregnant	cows	cows		
-T-1368	apple	apple	ovarian cancer	ovarian cancer	a day appear to have less risk of	
-T-1368	soy	soy	ovarian cancer	ovarian cancer	phytonutrients cut the risk of	
-T-1368	acrylamide	acrylamide	french fries	french fries	is a neurotoxic industrial chemical found in	
-T-1368	beta carotene	beta carotene	ovarian cancer	ovarian cancer	in foods may prevent	
-T-1368	tea	tea	risk	risk	consumption may halve the	
-T-1368	meat	meat	infertility	infertility	consumption appears to be associated with female	
-T-1368	tea	tea	ovarian cancer	ovarian cancer	consumption may halve the risk of getting	
-T-1368	french fries	french fries	ovarian cancer	ovarian cancer	that has been linked to	
-T-1368	coffee	coffee	ovarian cancer	ovarian cancer	was a long time ago linked to	
-T-1368	beta carotene	beta carotene	cancer	cancer	in foods may prevent ovarian	
-T-1368	soy	soy	cancer	cancer	phytonutrients cut the risk of ovarian	
-T-1368	green tea	green tea	cancer	cancer	consumption may halve the risk of getting ovarian	
-T-1368	soy	soy	risk	risk	phytonutrients cut the	
-T-1368	green tea	green tea	risk	risk	consumption may halve the	
-T-1368	risk	risk	cancer	cancer	of ovarian	
-T-1368	risk	risk	cancer	cancer	of getting ovarian	
-T-1368	french fries	french fries	cancer	cancer	that has been linked to ovarian	
-T-1368	risk	risk	ovarian cancer	ovarian cancer	of getting	
-T-1368	apple	apple	risk	risk	a day appear to have less	
 T-1368	milk	milk	dairy	dairy	and	
-T-1368	phytonutrients	phytonutrients	cancer	cancer	cut the risk of ovarian	
-T-1368	pregnant	pregnant	sex hormones	sex hormones	cows, so it contains high levels of steroid	
-T-1368	dairy	dairy	milk	milk	products because the commercial	
-T-1368	phytonutrients	phytonutrients	ovarian cancer	ovarian cancer	cut the risk of	
+T-1368	indian gooseberries	indian gooseberries	cancer	cancer	have found to be protective against many types of	
 T-1368	risk	risk	ovarian cancer	ovarian cancer	of	
-T-1368	tea	tea	cancer	cancer	consumption may halve the risk of getting ovarian	
+T-1368	coffee	coffee	ovarian cancer	ovarian cancer	was a long time ago linked to	
+T-1368	gooseberries	gooseberries	cancer	cancer	have found to be protective against many types of	

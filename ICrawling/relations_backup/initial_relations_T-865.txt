@@ -1,39 +1,10 @@
 
-T-865	risk	risk	children	children	of fluorosis in	
-T-865	tea	tea	stress	stress	may also reduce nausea, pain, and	
-T-865	hibiscus	hibiscus	antioxidants	antioxidants	tea may actually have more	
-T-865	green tea	green tea	nausea	nausea	may also reduce	
-T-865	mortality	mortality	hibiscus tea	hibiscus tea	benefits (although	
-T-865	gargling	gargling	tea	tea		
-T-865	gargling	gargling	cold	cold	tea may help prevent the common	
-T-865	green tea	green tea	stress	stress	may also reduce nausea, pain, and	
-T-865	mortality	mortality	antioxidants	antioxidants	benefits (although hibiscus tea may actually have more	
-T-865	matcha	matcha	green tea	green tea	tea (powdered	
-T-865	tea	tea	nausea	nausea	may also reduce	
 T-865	milk	milk	soy	soy	or	
-T-865	tea	tea	fluorosis	fluorosis	may increase risk of	
+T-865	tea	tea	tor	tor	may even positively affect our mind and inhibit the production of	
+T-865	tea	tea	cold	cold	may help prevent the common	
 T-865	tea	tea	risk	risk	may increase	
-T-865	tea	tea	children	children	may increase risk of fluorosis in	
-T-865	hibiscus tea	hibiscus tea	antioxidants	antioxidants	may actually have more	
-T-865	milk	milk	tea	tea	or soy milk to	
-T-865	soy milk	soy milk	tea	tea	to	
-T-865	fluorosis	fluorosis	children	children	in	
-T-865	soy	soy	tea	tea	milk to	
-T-865	tea	tea	green tea	green tea	(powdered	
-T-865	coffee	coffee	green tea	green tea	is also health-promoting, though	
-T-865	matcha	matcha	tea	tea		
-T-865	hibiscus	hibiscus	tea	tea		
 T-865	risk	risk	fluorosis	fluorosis	of	
 T-865	milk	milk	soy milk	soy milk	or	
-T-865	tea	tea	pain	pain	may also reduce nausea,	
-T-865	tea	tea	beverages	beverages	is one of the healthiest	
-T-865	gargling	gargling	common cold	common cold	tea may help prevent the	
-T-865	green tea	green tea	pain	pain	may also reduce nausea,	
-T-865	mortality	mortality	hibiscus	hibiscus	benefits (although	
-T-865	tea	tea	cold	cold	may help prevent the common	
-T-865	green tea	green tea	beverages	beverages	is one of the healthiest	
-T-865	nitrate	nitrate	nitrite	nitrite	to	
-T-865	coffee	coffee	tea	tea	is also health-promoting, though green	
-T-865	soy	soy	milk	milk		
-T-865	mortality	mortality	tea	tea	benefits (although hibiscus	
+T-865	hibiscus tea	hibiscus tea	antioxidants	antioxidants	may actually have more	
+T-865	fluorosis	fluorosis	children	children	in	
 T-865	tea	tea	common cold	common cold	may help prevent the	

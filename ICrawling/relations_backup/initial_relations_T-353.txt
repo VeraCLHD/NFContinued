@@ -1,30 +1,12 @@
 
-T-353	plant-based	plant-based	dhea	dhea	diet was shown to have similar effects on	
-T-353	syndrome	syndrome	sugar	sugar	and blood	
-T-353	caloric restriction	caloric restriction	memory	memory	may improve	
-T-353	dhea	dhea	caloric restriction	caloric restriction	levels as	
-T-353	plant-based	plant-based	diet	diet		
-T-353	metabolic syndrome	metabolic syndrome	sugar	sugar	and blood	
-T-353	dehydroepiandrosterone	dehydroepiandrosterone	plants	plants	(dhea), through xenohormesis, a process where	
-T-353	amino acids	amino acids	tumor	tumor	associated with aging and	
-T-353	longevity	longevity	methionine	methionine	due to their naturally low amounts of	
-T-353	caloric restriction	caloric restriction	protein	protein	seem to correlate more with	
-T-353	plant-based diet	plant-based diet	dhea	dhea	was shown to have similar effects on	
-T-353	plants	plants	phytonutrients	phytonutrients	pass on their stress-resilient	
-T-353	dehydroepiandrosterone	dehydroepiandrosterone	xenohormesis	xenohormesis	(dhea), through	
-T-353	methionine	methionine	aging	aging	and leucine, two amino acids associated with	
-T-353	diet	diet	caloric restriction	caloric restriction	can potentially include all the benefits of	
-T-353	plant-based diets	plant-based diets	longevity	longevity	have also been linked to increased	
-T-353	metabolic syndrome	metabolic syndrome	blood sugar	blood sugar	and	
-T-353	tumor	tumor	animal protein	animal protein	development that tend to be more concentrated in	
-T-353	dhea	dhea	xenohormesis	xenohormesis	), through	
-T-353	amino acids	amino acids	aging	aging	associated with	
-T-353	dhea	dhea	plants	plants	), through xenohormesis, a process where	
-T-353	syndrome	syndrome	blood sugar	blood sugar	and	
-T-353	syndrome	syndrome	blood	blood	and	
 T-353	aging	aging	tumor	tumor	and	
 T-353	metabolic syndrome	metabolic syndrome	blood	blood	and	
+T-353	diet	diet	caloric restriction	caloric restriction	can potentially include all the benefits of	
 T-353	methionine	methionine	leucine	leucine	and	
-T-353	methionine	methionine	amino acids	amino acids	and leucine, two	
-T-353	plant-based	plant-based	longevity	longevity	diets have also been linked to increased	
-T-353	blood	blood	sugar	sugar		
+T-353	metabolic syndrome	metabolic syndrome	blood sugar	blood sugar	and	
+T-353	caloric restriction	caloric restriction	protein	protein	seem to correlate more with	
+T-353	plant-based diet	plant-based diet	dhea	dhea	was shown to have similar effects on	
+T-353	amino acids	amino acids	aging	aging	associated with	
+T-353	caloric restriction	caloric restriction	memory	memory	may improve	
+T-353	syndrome	syndrome	blood sugar	blood sugar	and	
+T-353	syndrome	syndrome	blood	blood	and	

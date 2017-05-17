@@ -1,45 +1,14 @@
 
-V-297	fat	fat	chicken	chicken	in fish or	
-V-297	pesticides	pesticides	egg	egg	in meat,	
-V-297	fruits	fruits	water	water	and vegetables under running	
-V-297	produce	produce	water	water	pesticide residues more effectively than	
-V-297	water	water	potatoes	potatoes	to boost its pesticide-stripping abilities?if you soak	
 V-297	vegetables	vegetables	health	health	pose greater potential	
-V-297	risk	risk	vegetables	vegetables	there is by rinsing our fruits and	
-V-297	fruits	fruits	eggs	eggs	and vegetables; but for others, it’s dairy,	
-V-297	produce	produce	water	water	above that of just rinsing with tap	
-V-297	health	health	vegetables	vegetables	benefits from consuming fruits and	
-V-297	potatoes	potatoes	water	water	in	
-V-297	fruits	fruits	organic	organic	and vegetables pose greater potential health threats to consumers.buying	
-V-297	organic	organic	pesticides	pesticides	dramatically reduces dietary exposure to	
-V-297	organic	organic	cross-contamination	cross-contamination	crop samples, due to	
-V-297	risk	risk	fruits	fruits	there is by rinsing our	
-V-297	eggs	eggs	food safety	food safety	is considered one of the top ten dangerous	
-V-297	fruits	fruits	health	health	and vegetables pose greater potential	
-V-297	fruit	fruit	water	water	and produce pesticide residues more effectively than	
-V-297	salt	salt	water	water		
-V-297	chemicals	chemicals	fat	fat	build up in the	
-V-297	fish	fish	cooking	cooking	or chicken,	
-V-297	vegetables	vegetables	organic	organic	pose greater potential health threats to consumers.buying	
-V-297	fat	fat	fish	fish	in	
-V-297	water	water	pesticides	pesticides	in removing	
-V-297	fruits	fruits	dairy	dairy	and vegetables; but for others, it’s	
-V-297	fat	fat	cooking	cooking	in fish or chicken,	
 V-297	water	water	pesticides	pesticides	was tried against a half dozen other	
-V-297	pesticides	pesticides	vegetables	vegetables	are fruits and	
-V-297	pesticides	pesticides	ddt	ddt	like	
-V-297	vegetables	vegetables	water	water	under running	
-V-297	health	health	pesticides	pesticides	threats to consumers.buying organic dramatically reduces dietary exposure to	
-V-297	produce	produce	water	water	under tap	
+V-297	potatoes	potatoes	water	water	in	
 V-297	pesticides	pesticides	fruits	fruits	are	
-V-297	health	health	fruits	fruits	benefits from consuming	
-V-297	vinegar	vinegar	water	water	seemed only marginally better than tap	
-V-297	health	health	organic	organic	threats to consumers.buying	
 V-297	pesticides	pesticides	meat	meat	in	
 V-297	cheese	cheese	bacon	bacon	and	
-V-297	pesticides	pesticides	dairy	dairy	are fruits and vegetables; but for others, it’s	
+V-297	produce	produce	fruits	fruits	may be even worse, dispelling this notion that imported	
 V-297	fruit	fruit	produce	produce	and	
-V-297	boiling	boiling	pesticides	pesticides	appears to destroy more	
 V-297	fruits	fruits	vegetables	vegetables	and	
+V-297	chemicals	chemicals	fat	fat	build up in the	
 V-297	pesticides	pesticides	animal products	animal products	in	
+V-297	fat	fat	fish	fish	in	
 V-297	fish	fish	chicken	chicken	or	

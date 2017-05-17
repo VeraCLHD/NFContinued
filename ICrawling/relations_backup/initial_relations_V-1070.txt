@@ -1,35 +1,6 @@
 
-V-1070	veal	veal	chickens	chickens	calves,	
-V-1070	meat	meat	mrsa	mrsa	aisle at the supermarket, where	
-V-1070	infection	infection	colon	colon	of your	
-V-1070	mrsa	mrsa	aids	aids	last year—methicillin-resistant staph aureus—now killing more people than	
-V-1070	bacteria	bacteria	c. diff	c. diff	out of the way,	
-V-1070	superbugs	superbugs	mrsa	mrsa	from such hits as	
-V-1070	mrsa	mrsa	veal	veal	in pigs,	
-V-1070	meat	meat	c. diff	c. diff	products sampled contained toxin-producing	
-V-1070	cooking	cooking	bugs	bugs	wipe out most	
-V-1070	mrsa	mrsa	dairy	dairy	in pigs, veal calves, chickens, and	
-V-1070	chickens	chickens	mrsa	mrsa	’ wings.now,	
-V-1070	raw	raw	poultry	poultry		
-V-1070	skin	skin	infections	infections		
-V-1070	contamination	contamination	meat	meat	has been confirmed.now, only about 5% of retail	
-V-1070	chickens	chickens	infections	infections	’ wings.now, mrsa causes nasty skin	
-V-1070	mrsa	mrsa	contamination	contamination		
-V-1070	mrsa	mrsa	dairy cows	dairy cows	in pigs, veal calves, chickens, and	
-V-1070	mrsa	mrsa	skin	skin	causes nasty	
-V-1070	mrsa	mrsa	cows	cows	in pigs, veal calves, chickens, and dairy	
-V-1070	gut	gut	bacteria	bacteria	gets colonized with c. diff., your good	
-V-1070	mrsa	mrsa	chickens	chickens	in pigs, veal calves,	
-V-1070	mrsa	mrsa	infections	infections	causes nasty skin	
-V-1070	mrsa	mrsa	pigs	pigs	in	
-V-1070	dairy	dairy	cows	cows		
 V-1070	kids	kids	meat	meat	run up and down the	
+V-1070	cooking	cooking	bugs	bugs	wipe out most	
 V-1070	meat	meat	mrsa	mrsa	tested so far in the u.s. has	
-V-1070	chickens	chickens	skin	skin	’ wings.now, mrsa causes nasty	
-V-1070	meat	meat	turkey	turkey	was ground	
-V-1070	meat	meat	contamination	contamination	aisle at the supermarket, where mrsa	
-V-1070	raw	raw	meat	meat		
-V-1070	veal	veal	cows	cows	calves, chickens, and dairy	
-V-1070	aids	aids	united states	united states	in the	
-V-1070	veal	veal	dairy cows	dairy cows	calves, chickens, and	
-V-1070	veal	veal	dairy	dairy	calves, chickens, and	
+V-1070	mrsa	mrsa	skin	skin	causes nasty	
+V-1070	mrsa	mrsa	pigs	pigs	in	

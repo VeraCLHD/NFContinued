@@ -1,61 +1,14 @@
 
-V-8	green tea	green tea	sugar	sugar	powder, versus a control group that essentially got	
-V-8	skin	skin	cancer	cancer		
-V-8	oral cancer	oral cancer	precancerous lesions	precancerous lesions	frequently arises from”	
-V-8	tea	tea	bacteria	bacteria	compounds are fermented by our good gut	
-V-8	precancerous	precancerous	oral lesions	oral lesions		
-V-8	women	women	green tea	green tea	just got	
-V-8	tea	tea	pills	pills	extract	
-V-8	radiation	radiation	tea	tea	treatments when applied on the skin, as green	
-V-8	radiation	radiation	green tea	green tea	treatments when applied on the skin, as	
-V-8	green tea	green tea	pills	pills	extract	
-V-8	tea	tea	cancer	cancer	may be able to offer lung	
-V-8	cancer	cancer	precancerous lesions	precancerous lesions	frequently arises from”	
-V-8	antioxidant	antioxidant	dna damage	dna damage	power of our saliva, and decrease the	
-V-8	oral cancer	oral cancer	mouth	mouth	frequently arises from” precancerous lesions in the	
-V-8	cancer	cancer	green tea	green tea	in the	
-V-8	tea	tea	placebo	placebo	group as the	
-V-8	colon	colon	cancer	cancer		
-V-8	precancerous lesions	precancerous lesions	mouth	mouth	in the	
-V-8	polyps	polyps	tea	tea	were randomized to get green	
-V-8	colon cancer	colon cancer	colon	colon	cells, while leaving normal	
-V-8	tea	tea	gut bacteria	gut bacteria	compounds are fermented by our good	
-V-8	cancer	cancer	mouth	mouth	frequently arises from” precancerous lesions in the	
-V-8	women	women	tea	tea	just got green	
-V-8	polyps	polyps	pills	pills	were randomized to get green tea extract	
-V-8	tea	tea	beverage	beverage	is a cheap	
-V-8	precancerous	precancerous	tea	tea	oral lesions were randomized into a	
-V-8	smoking	smoking	precancerous	precancerous	altogether.so, might this help	
-V-8	cancer	cancer	cancer	cancer	patients—21 with lung	
-V-8	tea	tea	oral lesions	oral lesions	treatment can improve the clinical manifestations of the	
-V-8	green tea	green tea	cheap	cheap	is a	
-V-8	cancer	cancer	placebo	placebo	in the green tea group as the	
-V-8	cancer	cancer	lung cancer	lung cancer	patients—21 with	
 V-8	tea	tea	antioxidant	antioxidant	boost the	
-V-8	antioxidant	antioxidant	dna	dna	power of our saliva, and decrease the	
 V-8	polyps	polyps	green tea	green tea	were randomized to get	
-V-8	cancer	cancer	tea	tea	where green	
-V-8	cancer	cancer	colon	colon	cells, while leaving normal	
-V-8	risk	risk	oral cancer	oral cancer	of getting	
-V-8	cancer	cancer	precancerous	precancerous	frequently arises from”	
+V-8	cancer	cancer	tea	tea	given up to the equivalent of 30 cups of green	
+V-8	cancer	cancer	green tea	green tea	given up to the equivalent of 30 cups of	
 V-8	tea	tea	lung cancer	lung cancer	may be able to offer	
-V-8	oral cancer	oral cancer	precancerous	precancerous	frequently arises from”	
-V-8	treatment	treatment	oral lesions	oral lesions	can improve the clinical manifestations of the	
-V-8	green tea	green tea	beverage	beverage	is a cheap	
-V-8	cancer	cancer	tea	tea	in the green	
-V-8	smoking	smoking	oral lesions	oral lesions	altogether.so, might this help precancerous	
-V-8	women	women	pills	pills	just got green tea extract	
-V-8	green tea	green tea	placebo	placebo	group as the	
-V-8	precancerous	precancerous	mouth	mouth	lesions in the	
-V-8	green tea	green tea	cancer	cancer	may be able to offer lung	
 V-8	oral lesions	oral lesions	tea	tea	were randomized into a	
+V-8	treatment	treatment	oral lesions	oral lesions	can improve the clinical manifestations of the	
 V-8	green tea	green tea	lung cancer	lung cancer	may be able to offer	
-V-8	risk	risk	cancer	cancer	of getting oral	
-V-8	cancer	cancer	green tea	green tea	where	
-V-8	radiation	radiation	skin	skin	treatments when applied on the	
-V-8	gut	gut	bacteria	bacteria		
 V-8	tea	tea	cheap	cheap	is a	
-V-8	tea	tea	gut	gut	compounds are fermented by our good	
-V-8	cheap	cheap	beverage	beverage		
-V-8	sugar	sugar	pills	pills		
-V-8	tea	tea	treatment	treatment		
+V-8	green tea	green tea	cheap	cheap	is a	
+V-8	lung cancer	lung cancer	tea	tea	given up to the equivalent of 30 cups of green	
+V-8	lung cancer	lung cancer	green tea	green tea	given up to the equivalent of 30 cups of	
+V-8	polyps	polyps	tea	tea	were randomized to get green	

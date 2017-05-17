@@ -1,33 +1,4 @@
 
-V-187	physicians	physicians	risk	risk	identify kids at	
-V-187	cholesterol	cholesterol	screening	screening		
-V-187	pregnant	pregnant	cholesterol	cholesterol	moms with high	
-V-187	arteries	arteries	cholesterol	cholesterol	from mothers with high	
-V-187	risk	risk	cholesterol	cholesterol	factors, like high	
-V-187	heart disease	heart disease	risk	risk		
+V-187	physicians	physicians	atherosclerosis	atherosclerosis	is to tell the truth and let the public decide.that's why we need broad social and cultural changes that pervade the entire population to prevent	
 V-187	physicians	physicians	kids	kids	identify	
-V-187	medicine	medicine	physicians	physicians	approach, in which	
-V-187	cholesterol	cholesterol	children	children	screening of all	
-V-187	medicine	medicine	kids	kids	approach, in which physicians identify	
-V-187	disease	disease	risk	risk		
-V-187	plant-based	plant-based	diet	diet		
-V-187	arteries	arteries	mothers	mothers	of fetuses from	
-V-187	mothers	mothers	cholesterol	cholesterol	with high	
-V-187	pregnant	pregnant	mothers	mothers	moms with high cholesterol, and fetal arteries from	
-V-187	kids	kids	risk	risk	at	
-V-187	pregnant	pregnant	cholesterol	cholesterol	mother’s	
-V-187	pregnant	pregnant	arteries	arteries	moms with high cholesterol, and fetal	
-V-187	atherosclerosis	atherosclerosis	disease	disease	might not just start out as a nutritional	
-V-187	arteries	arteries	newborns	newborns	were obtained from spontaneous miscarriages and premature	
-V-187	medicine	medicine	risk	risk	approach, in which physicians identify kids at	
-V-187	arteries	arteries	mothers	mothers	from	
-V-187	cholesterol	cholesterol	pregnant	pregnant	levels and from	
-V-187	risk	risk	youth	youth	factors in	
-V-187	mothers	mothers	pregnant	pregnant	with normal cholesterol levels and from	
-V-187	death	death	heart attacks	heart attacks	in the united states.we could prevent 90% of	
-V-187	arteries	arteries	cholesterol	cholesterol	of fetuses from mothers with normal	
-V-187	mothers	mothers	cholesterol	cholesterol	with normal	
-V-187	arteries	arteries	pregnant	pregnant	and is greatly worsened by how high the	
-V-187	kids	kids	atherosclerosis	atherosclerosis	but for them as well, because	
-V-187	disease	disease	pregnancy	pregnancy	of childhood, but a nutritional disease of	
-V-187	screening	screening	children	children	of all	
+V-187	youth	youth	heart disease	heart disease	may miss an opportunity to prevent the long-term consequences of	

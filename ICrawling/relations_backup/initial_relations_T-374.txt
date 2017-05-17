@@ -1,89 +1,16 @@
 
+T-374	risk	risk	plant-based diet	plant-based diet	may drop after starting a	
+T-374	fiber	fiber	antioxidants	antioxidants	and	
+T-374	plant-based diets	plant-based diets	methionine	methionine	may be effective include lowering	
 T-374	fruit	fruit	vegetables	vegetables	and	
-T-374	lead	lead	puberty	puberty	to premature	
-T-374	plant-based diet	plant-based diet	plant-based	plant-based	at any age.some reasons why	
-T-374	meditation	meditation	shortening	shortening	may also improve dna health, preventing premature	
-T-374	plant-based diets	plant-based diets	angiogenesis	angiogenesis	may be effective include lowering methionine intake, inhibiting	
-T-374	estrogen	estrogen	cholesterol	cholesterol	and	
-T-374	plant-based	plant-based	diet	diet		
-T-374	diet	diet	cancer	cancer	may help prevent, treat, slow, and even reverse	
-T-374	plant-based diet	plant-based diet	plant-based diets	plant-based diets	at any age.some reasons why	
-T-374	lead	lead	premature puberty	premature puberty	to	
-T-374	saturated animal fat	saturated animal fat	cancer	cancer	appears to improve	
-T-374	risk	risk	cancer	cancer	of	
-T-374	diet	diet	fruit	fruit	(one devoid of fresh	
-T-374	methionine	methionine	fiber	fiber	intake, inhibiting angiogenesis, intercepting carcinogens, and increasing	
-T-374	risk	risk	meat	meat	of cancer, as may the chemical pollutants in	
-T-374	sleep	sleep	tanning beds	tanning beds	every night, and reduced exposure to	
-T-374	cancer	cancer	plant-based	plant-based	risk may drop after starting a	
-T-374	animal foods	animal foods	risk	risk	may also increase	
-T-374	blood	blood	animal foods	animal foods	and muscle tissue of	
-T-374	shortening	shortening	animal products	animal products	of our telomeres.consumption of	
-T-374	lead	lead	children	children	to premature puberty, putting	
-T-374	meat	meat	cancer	cancer	that accounts for some of the increased	
 T-374	chemical pollutants	chemical pollutants	meat	meat	in	
-T-374	meditation	meditation	health	health	may also improve dna	
-T-374	dna	dna	shortening	shortening	health, preventing premature	
-T-374	pollutants	pollutants	premature puberty	premature puberty	in meat, which can lead to	
-T-374	children	children	cancer	cancer	at higher risk for	
-T-374	animal fat	animal fat	cancer survival	cancer survival	appears to improve	
-T-374	fruits	fruits	detoxifying enzymes	detoxifying enzymes	and vegetables—at least 9 daily servings may boost	
+T-374	estrogen	estrogen	cholesterol	cholesterol	and	
+T-374	pollutants	pollutants	meat	meat	in	
 T-374	risk	risk	plant-based	plant-based	may drop after starting a	
+T-374	heme iron	heme iron	blood	blood	found in the	
 T-374	cancer	cancer	united states	united states	is the #2 killer in the	
-T-374	risk	risk	pollutants	pollutants	of cancer, as may the chemical	
-T-374	pollutants	pollutants	lead	lead	in meat, which can	
-T-374	dna	dna	animal products	animal products	health, preventing premature shortening of our telomeres.consumption of	
+T-374	plant foods	plant foods	cancer	cancer	have lower rates of	
+T-374	risk	risk	cancer	cancer	of	
 T-374	diet	diet	cancer	cancer	may be the #1 cause of	
 T-374	fruits	fruits	vegetables	vegetables	and	
 T-374	iron	iron	blood	blood	found in the	
-T-374	methionine	methionine	carcinogens	carcinogens	intake, inhibiting angiogenesis, intercepting	
-T-374	diet	diet	cancer progression	cancer progression	may help prevent, treat, slow, and even reverse	
-T-374	risk	risk	plant-based diet	plant-based diet	may drop after starting a	
-T-374	fiber	fiber	antioxidants	antioxidants	and	
-T-374	neutropenic diet	neutropenic diet	vegetables	vegetables	(one devoid of fresh fruit and	
-T-374	pollutants	pollutants	puberty	puberty	in meat, which can lead to premature	
-T-374	animal products	animal products	cancer	cancer	appears to increase the risk of	
-T-374	vegetables	vegetables	enzymes	enzymes	—at least 9 daily servings may boost detoxifying	
-T-374	animal products	animal products	risk	risk	appears to increase the	
-T-374	neutropenic diet	neutropenic diet	fruit	fruit	(one devoid of fresh	
-T-374	lead	lead	risk	risk	to premature puberty, putting children at higher	
-T-374	diet	diet	plant-based	plant-based	at any age.some reasons why	
-T-374	plant-based diet	plant-based diet	cancer	cancer	may help prevent, treat, slow, and even reverse	
-T-374	cancer	cancer	risk	risk		
-T-374	pollutants	pollutants	meat	meat	in	
-T-374	fat	fat	cancer	cancer	appears to improve	
-T-374	heme iron	heme iron	animal foods	animal foods	found in the blood and muscle tissue of	
-T-374	fat	fat	cancer survival	cancer survival	appears to improve	
-T-374	chemical pollutants	chemical pollutants	lead	lead	in meat, which can	
-T-374	plant-based diet	plant-based diet	cancer progression	cancer progression	may help prevent, treat, slow, and even reverse	
-T-374	iron	iron	animal foods	animal foods	found in the blood and muscle tissue of	
-T-374	chemical pollutants	chemical pollutants	puberty	puberty	in meat, which can lead to premature	
-T-374	plant-based	plant-based	plant-based diets	plant-based diets	diet at any age.some reasons why	
-T-374	meditation	meditation	dna	dna	may also improve	
-T-374	chemical pollutants	chemical pollutants	premature puberty	premature puberty	in meat, which can lead to	
-T-374	meat	meat	risk	risk	that accounts for some of the increased cancer	
-T-374	igf-1	igf-1	cancer	cancer	) may also been linked to	
-T-374	cancer	cancer	plant-based diet	plant-based diet	risk may drop after starting a	
-T-374	plant-based diets	plant-based diets	methionine	methionine	may be effective include lowering	
-T-374	risk	risk	cancer	cancer	for	
-T-374	oatmeal	oatmeal	chemotherapy	chemotherapy	lotion may help with	
-T-374	vegetables	vegetables	oatmeal	oatmeal	) may not help those undergoing chemotherapy, but	
-T-374	dental	dental	x-rays	x-rays		
-T-374	methionine	methionine	angiogenesis	angiogenesis	intake, inhibiting	
-T-374	animal fat	animal fat	cancer	cancer	appears to improve	
-T-374	saturated animal fat	saturated animal fat	cancer survival	cancer survival	appears to improve	
-T-374	exercise	exercise	sleep	sleep	every day, 7-hours	
-T-374	heme iron	heme iron	blood	blood	found in the	
-T-374	cancer	cancer	diet	diet	risk may drop after starting a plant-based	
-T-374	plant foods	plant foods	cancer	cancer	have lower rates of	
-T-374	diet	diet	vegetables	vegetables	(one devoid of fresh fruit and	
-T-374	diet	diet	plant-based diets	plant-based diets	at any age.some reasons why	
-T-374	animal foods	animal foods	cancer	cancer	may also increase risk of	
-T-374	risk	risk	diet	diet	may drop after starting a plant-based	
-T-374	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	—at least 9 daily servings may boost	
-T-374	dna	dna	health	health		
-T-374	risk	risk	chemical pollutants	chemical pollutants	of cancer, as may the	
-T-374	children	children	risk	risk	at higher	
-T-374	fruit	fruit	chemotherapy	chemotherapy	and vegetables) may not help those undergoing	
-T-374	vegetables	vegetables	chemotherapy	chemotherapy	) may not help those undergoing	
-T-374	neu5gc	neu5gc	meat	meat	molecule found in	

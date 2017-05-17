@@ -1,54 +1,11 @@
 
-V-657	blood	blood	apple juice	apple juice	antioxidant level, drinking some	
 V-657	juice	juice	cranberry	cranberry	here, or	
-V-657	juice	juice	blueberries	blueberries	is a long way from	
-V-657	apple	apple	blueberries	blueberries	juice is a long way from	
-V-657	sugar	sugar	apple juice	apple juice	in	
-V-657	apple	apple	antioxidant	antioxidant	juice, within minutes, the	
-V-657	blood	blood	juice	juice	antioxidant level, drinking some apple	
-V-657	grape juice	grape juice	apple	apple	here, or cranberry, or pomegranate; we’re talking	
-V-657	apple	apple	fructose	fructose	juice is two-thirds 	
-V-657	juice	juice	apple	apple	here, or cranberry, or pomegranate; we’re talking	
-V-657	sugar	sugar	fructose	fructose	is only 50%	
-V-657	sugar	sugar	corn syrup	corn syrup	is only 50% fructose; high fructose	
-V-657	sugar	sugar	corn	corn	is only 50% fructose; high fructose	
-V-657	blood	blood	juice	juice	antioxidant activity after apple	
-V-657	antioxidant	antioxidant	juice	juice	activity after apple	
-V-657	blood	blood	apple	apple	antioxidant level, drinking some	
-V-657	sugar	sugar	high fructose corn syrup	high fructose corn syrup	is only 50% fructose;	
-V-657	antioxidants	antioxidants	apple	apple	in a cup of	
-V-657	antioxidant	antioxidant	apple juice	apple juice	activity after	
-V-657	uric acid	uric acid	sugar	sugar	waste produced when you take in that much	
-V-657	apple juice	apple juice	fructose	fructose	is two-thirds 	
-V-657	water	water	apple	apple	does, compared to three types of	
-V-657	antioxidant	antioxidant	water	water	activity by feeding people essentially straight sugar	
-V-657	sugar	sugar	juice	juice	in apple	
-V-657	antioxidant	antioxidant	blood	blood	power of your	
-V-657	fructose	fructose	uric acid	uric acid	leads to	
-V-657	apple	apple	antioxidants	antioxidants	juice is not because we’re absorbing	
-V-657	grape juice	grape juice	pomegranate	pomegranate	here, or cranberry, or	
-V-657	blood	blood	apple juice	apple juice	antioxidant activity after	
-V-657	apple juice	apple juice	antioxidants	antioxidants	is not because we’re absorbing	
-V-657	antioxidant	antioxidant	apple juice	apple juice	level, drinking some	
-V-657	blood	blood	apple	apple	antioxidant activity after	
-V-657	juice	juice	pomegranate	pomegranate	here, or cranberry, or	
-V-657	water	water	apple juice	apple juice	does, compared to three types of	
-V-657	sugar	sugar	water	water		
-V-657	apple juice	apple juice	blueberries	blueberries	is a long way from	
-V-657	apple	apple	blood	blood	juice, within minutes, the antioxidant power of your	
-V-657	juice	juice	fructose	fructose	is two-thirds 	
-V-657	apple	apple	juice	juice		
-V-657	juice	juice	antioxidants	antioxidants	is not because we’re absorbing	
-V-657	blood	blood	antioxidant	antioxidant		
-V-657	antioxidant	antioxidant	apple	apple	level, drinking some	
-V-657	antioxidant	antioxidant	sugar	sugar	activity by feeding people essentially straight	
-V-657	antioxidants	antioxidants	apple juice	apple juice	in a cup of	
-V-657	antioxidant	antioxidant	apple	apple	activity after	
-V-657	sugar	sugar	fructose	fructose	in apple juice is two-thirds 	
 V-657	sugar	sugar	apple	apple	in	
-V-657	antioxidant	antioxidant	juice	juice	level, drinking some apple	
-V-657	apple	apple	antioxidant	antioxidant	juice, you can measure the	
+V-657	water	water	apple	apple	does, compared to three types of	
+V-657	water	water	apple juice	apple juice	does, compared to three types of	
+V-657	apple juice	apple juice	antioxidants	antioxidants	is not because we’re absorbing	
+V-657	juice	juice	blueberries	blueberries	is a long way from	
 V-657	grape juice	grape juice	cranberry	cranberry	here, or	
-V-657	antioxidants	antioxidants	juice	juice	in a cup of apple	
-V-657	water	water	juice	juice	does, compared to three types of apple	
-V-657	produce	produce	antioxidant	antioxidant	aisle, the	
+V-657	juice	juice	antioxidants	antioxidants	is not because we’re absorbing	
+V-657	apple juice	apple juice	blueberries	blueberries	is a long way from	
+V-657	sugar	sugar	apple juice	apple juice	in	

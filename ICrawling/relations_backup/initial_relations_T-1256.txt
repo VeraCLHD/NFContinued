@@ -1,35 +1,9 @@
 
-T-1256	beta carotene	beta carotene	antioxidant	antioxidant	supplements may increase mortality rates and	
 T-1256	supplements	supplements	antioxidant	antioxidant	is not a good substitute for	
-T-1256	risk	risk	prostate cancer	prostate cancer	of breast and	
-T-1256	fruits	fruits	supplements	supplements	and vegetables is recommended over taking multivitamin	
-T-1256	antioxidant	antioxidant	supplements	supplements		
-T-1256	vitamin d	vitamin d	b12	b12	and vitamin	
-T-1256	lutein	lutein	pills	pills	is similarly better obtained from produce, not	
-T-1256	lutein	lutein	produce	produce	is similarly better obtained from	
-T-1256	prostate	prostate	cancer	cancer		
-T-1256	dna damage	dna damage	radiation	radiation	caused by ir (ionizing	
-T-1256	dna damage	dna damage	supplements	supplements	caused by ir (ionizing radiation) while	
-T-1256	beta carotene	beta carotene	supplements	supplements		
-T-1256	dna	dna	radiation	radiation	damage caused by ir (ionizing	
-T-1256	supplements	supplements	plant foods	plant foods	is not a good substitute for antioxidant rich	
-T-1256	vegetables	vegetables	supplements	supplements	is recommended over taking multivitamin	
-T-1256	dna	dna	supplements	supplements	damage caused by ir (ionizing radiation) while	
-T-1256	b12	b12	risk	risk	supplements, however, are recommended for those at	
-T-1256	radiation	radiation	supplements	supplements	) while	
-T-1256	meta-analysis	meta-analysis	supplements	supplements	on multivitamin and mineral	
-T-1256	supplements	supplements	cancer	cancer	found no evidence that supplements affected cvd,	
-T-1256	supplements	supplements	antioxidant	antioxidant	may increase mortality rates and	
-T-1256	vitamin b12	vitamin b12	supplements	supplements		
-T-1256	vitamin b12	vitamin b12	risk	risk	supplements, however, are recommended for those at	
-T-1256	risk	risk	prostate	prostate	of breast and	
-T-1256	b12	b12	supplements	supplements		
-T-1256	risk	risk	cancer	cancer	of breast and prostate	
-T-1256	longevity	longevity	risk	risk	benefit and is associated with increased	
-T-1256	mortality	mortality	antioxidant	antioxidant	rates and	
 T-1256	copper	copper	multivitamins	multivitamins	in	
-T-1256	beta carotene	beta carotene	mortality	mortality	supplements may increase	
-T-1256	vitamin d	vitamin d	supplements	supplements	and vitamin b12	
+T-1256	dna damage	dna damage	radiation	radiation	caused by ir (ionizing	
 T-1256	fruits	fruits	vegetables	vegetables	and	
 T-1256	vitamin d	vitamin d	vitamin b12	vitamin b12	and	
+T-1256	vegetables	vegetables	supplements	supplements	is recommended over taking multivitamin	
 T-1256	supplements	supplements	mortality	mortality	may increase	
+T-1256	lutein	lutein	produce	produce	is similarly better obtained from	

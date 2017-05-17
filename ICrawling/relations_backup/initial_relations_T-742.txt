@@ -1,85 +1,11 @@
 
-T-742	flax	flax	chicken	chicken	seeds, veggie	
-T-742	colon	colon	ulcerative colitis	ulcerative colitis	cancer, as well as lower risk of	
-T-742	nutrient-dense	nutrient-dense	date sugar	date sugar	foods.foods relatively rich in fiber include: dates (	
-T-742	inflammation	inflammation	nutrient-dense	nutrient-dense	better than less	
-T-742	estrogen	estrogen	cholesterol	cholesterol	and	
-T-742	plant foods	plant foods	diet	diet	in our	
-T-742	plant-based	plant-based	diet	diet		
-T-742	nutrient-dense	nutrient-dense	dates	dates	foods.foods relatively rich in fiber include:	
-T-742	flax	flax	seeds	seeds		
-T-742	breast cancer	breast cancer	risk	risk		
-T-742	cancer	cancer	cancer	cancer	risk, specifically colon	
-T-742	colon	colon	risk	risk	cancer, as well as lower	
-T-742	risk	risk	cholesterol	cholesterol	of stroke, high	
-T-742	kidney	kidney	disease	disease	stones, copd, parkinson’s	
-T-742	insulin	insulin	risk	risk	spike.high fiber diets may also reduce the	
-T-742	colon	colon	cancer	cancer		
-T-742	plant-based	plant-based	fiber	fiber	diet high in	
-T-742	kidney	kidney	copd	copd	stones,	
-T-742	gut bacteria	gut bacteria	fiber	fiber	that eat	
-T-742	plant foods	plant foods	fiber	fiber	in our diet has resulted in a low	
-T-742	date sugar	date sugar	chia	chia	has fiber since it’s just powdered dates),	
-T-742	plant-based diet	plant-based diet	cholesterol	cholesterol	high in fiber can flush excess estrogen and	
-T-742	sugar	sugar	chia	chia	has fiber since it’s just powdered dates),	
-T-742	chia	chia	seeds	seeds		
-T-742	antioxidant	antioxidant	nutrient-dense	nutrient-dense	rich foods reduce inflammation better than less	
-T-742	risk	risk	fiber	fiber	of stroke, high cholesterol and potentially heart disease.	
-T-742	kidney	kidney	weight loss	weight loss	stones, copd, parkinson’s disease, diabetes,	
 T-742	sugar	sugar	fiber	fiber	has	
-T-742	risk	risk	disease	disease	of stroke, high cholesterol and potentially heart	
-T-742	plant-based	plant-based	estrogen	estrogen	diet high in fiber can flush excess	
-T-742	dates	dates	fiber	fiber	(date sugar has	
-T-742	chia	chia	chicken	chicken	seeds, flax seeds, veggie	
-T-742	date sugar	date sugar	seeds	seeds	has fiber since it’s just powdered dates), chia	
-T-742	lead	lead	fiber	fiber	to a higher insulin spike.high	
-T-742	fruits	fruits	vegetables	vegetables	and	
-T-742	date sugar	date sugar	fiber	fiber	has	
-T-742	fiber	fiber	risk	risk	intake is associated with reduced breast cancer	
-T-742	insulin	insulin	fiber	fiber	spike.high	
-T-742	disease	disease	hernia	hernia	.fiber intake also has possible benefits for hiatal	
-T-742	lead	lead	insulin	insulin	to a higher	
-T-742	sugar	sugar	dates	dates	has fiber since it’s just powdered	
-T-742	sugar	sugar	chia seeds	chia seeds	has fiber since it’s just powdered dates),	
-T-742	disease	disease	hiatal hernia	hiatal hernia	.fiber intake also has possible benefits for	
-T-742	dates	dates	sugar	sugar	(date	
-T-742	sugar	sugar	seeds	seeds	has fiber since it’s just powdered dates), chia	
-T-742	date sugar	date sugar	dates	dates	has fiber since it’s just powdered	
-T-742	fiber	fiber	insulin	insulin	may lead to a higher	
-T-742	cancer	cancer	risk	risk		
 T-742	risk	risk	stroke	stroke	of	
-T-742	bacteria	bacteria	fiber	fiber	that eat	
-T-742	fiber	fiber	inflammation	inflammation	intake, antioxidant rich foods reduce	
-T-742	plant-based diet	plant-based diet	estrogen	estrogen	high in fiber can flush excess	
-T-742	flax	flax	leafy vegetables	leafy vegetables	seeds, veggie chicken, flaked coconut, dark green	
-T-742	diet	diet	fiber	fiber	has resulted in a low	
-T-742	flax	flax	vegetables	vegetables	seeds, veggie chicken, flaked coconut, dark green leafy	
-T-742	cancer	cancer	colon cancer	colon cancer	risk, specifically	
-T-742	plant-based diet	plant-based diet	fiber	fiber	high in	
-T-742	date sugar	date sugar	chia seeds	chia seeds	has fiber since it’s just powdered dates),	
-T-742	kidney	kidney	diabetes	diabetes	stones, copd, parkinson’s disease,	
-T-742	cholesterol	cholesterol	fiber	fiber	and potentially heart disease.	
-T-742	antioxidant	antioxidant	inflammation	inflammation	rich foods reduce	
-T-742	fiber	fiber	antioxidant	antioxidant	intake,	
-T-742	flax	flax	veggie chicken	veggie chicken	seeds,	
-T-742	chia	chia	veggie chicken	veggie chicken	seeds, flax seeds,	
-T-742	nutrient-dense	nutrient-dense	fiber	fiber	foods.foods relatively rich in	
-T-742	fiber	fiber	cancer	cancer	intake is associated with reduced breast	
-T-742	nutrient-dense	nutrient-dense	sugar	sugar	foods.foods relatively rich in fiber include: dates (date	
-T-742	diet	diet	cholesterol	cholesterol	high in fiber can flush excess estrogen and	
-T-742	chia	chia	flax	flax	seeds,	
-T-742	gut	gut	fiber	fiber	bacteria that eat	
-T-742	diet	diet	estrogen	estrogen	high in fiber can flush excess	
 T-742	diet	diet	fiber	fiber	is highly lacking in	
 T-742	fiber	fiber	lead	lead	may	
-T-742	inflammation	inflammation	fiber	fiber	better than less nutrient-dense foods.foods relatively rich in	
-T-742	fiber	fiber	dates	dates	since it’s just powdered	
-T-742	cholesterol	cholesterol	disease	disease	and potentially heart	
 T-742	fiber	fiber	stool size	stool size	causes an increase in	
-T-742	chia	chia	flax seeds	flax seeds	seeds,	
-T-742	gut	gut	bacteria	bacteria		
 T-742	standard american diet	standard american diet	fiber	fiber	is highly lacking in	
-T-742	diet	diet	fiber	fiber	high in	
-T-742	cancer	cancer	colon	colon	risk, specifically	
-T-742	fiber	fiber	breast cancer	breast cancer	intake is associated with reduced	
-T-742	blood	blood	sugar	sugar		
+T-742	diet	diet	fiber	fiber	has resulted in a low	
+T-742	fruits	fruits	vegetables	vegetables	and	
+T-742	date sugar	date sugar	fiber	fiber	has	
+T-742	estrogen	estrogen	cholesterol	cholesterol	and	

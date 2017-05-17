@@ -1,32 +1,6 @@
 
-V-705	red meat	red meat	lamb	lamb	has less; the worst being	
-V-705	pollution	pollution	meat	meat	straight from their moms) are	
-V-705	chemicals	chemicals	diet	diet	in the american	
-V-705	contamination	contamination	pork	pork	—poultry; then	
-V-705	pollution	pollution	fish	fish	straight from their moms) are meat,	
-V-705	flame-retardant chemicals	flame-retardant chemicals	diet	diet	in the american	
-V-705	cats	cats	polychlorinated naphthalenes	polychlorinated naphthalenes	’ food.what about	
-V-705	fish	fish	pork	pork	in terms of contamination—poultry; then	
-V-705	meat	meat	pollutants	pollutants	is more contaminated with flame-retardant chemical	
-V-705	dogs	dogs	polychlorinated naphthalenes	polychlorinated naphthalenes	’ and cats’ food.what about	
-V-705	contamination	contamination	beef	beef	—poultry; then pork; then	
-V-705	dogs	dogs	cats	cats	’ and	
-V-705	fish	fish	halibut	halibut	is the worst—and this is for	
-V-705	produce	produce	fish	fish	department?the worst was	
-V-705	diet	diet	infants	infants	(with the exception of	
-V-705	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	contaminants	contaminants	—a potentially vast group of little-known environmental	
 V-705	chicken	chicken	fish	fish	and	
-V-705	chemicals	chemicals	infants	infants	in the american diet (with the exception of	
-V-705	fish	fish	poultry	poultry	in terms of contamination—	
-V-705	contamination	contamination	poultry	poultry	—	
-V-705	flame-retardant chemicals	flame-retardant chemicals	infants	infants	in the american diet (with the exception of	
-V-705	fish	fish	contamination	contamination	in terms of	
 V-705	meat	meat	chemical pollutants	chemical pollutants	is more contaminated with flame-retardant	
-V-705	organic	organic	salmon	salmon		
-V-705	salmon	salmon	organic	organic	—followed closely by	
-V-705	fish	fish	beef	beef	in terms of contamination—poultry; then pork; then	
-V-705	pollution	pollution	dairy	dairy	straight from their moms) are meat, fish,	
-V-705	white meat	white meat	pollutants	pollutants	is more contaminated with flame-retardant chemical	
-V-705	meat	meat	lamb	lamb	has less; the worst being	
+V-705	fish	fish	halibut	halibut	is the worst—and this is for	
 V-705	poultry	poultry	eggs	eggs	and	
 V-705	white meat	white meat	chemical pollutants	chemical pollutants	is more contaminated with flame-retardant	

@@ -1,55 +1,10 @@
 
-V-393	risk	risk	diabetes	diabetes	for things like heart disease and	
-V-393	whole grain	whole grain	snacks	snacks	cereals, fiber rich bread), “western” (salty and sweet	
-V-393	diet	diet	plant-based	plant-based	which was more	
-V-393	fiber	fiber	white bread	white bread	rich bread), “western” (salty and sweet snacks,	
-V-393	water	water	bread	bread	as beverage, whole grain cereals, fiber rich	
-V-393	fruit	fruit	fiber	fiber	are packed with	
-V-393	pregnant	pregnant	women	women		
-V-393	garlic	garlic	risk	risk	intake associated with the lowest	
-V-393	diet	diet	inflammation	inflammation	matters, but why and how?well	
-V-393	vegetables	vegetables	raisins	raisins	and	
-V-393	dried fruit	dried fruit	pregnant	pregnant	intake of nearly 19,000	
-V-393	water	water	whole grain	whole grain	as beverage,	
-V-393	aspartame	aspartame	pregnancy	pregnancy	and diet soda consumption during	
-V-393	dried fruit	dried fruit	fiber	fiber	are packed with	
-V-393	whole grain	whole grain	fiber	fiber	cereals,	
-V-393	soda	soda	pregnancy	pregnancy	consumption during	
-V-393	water	water	fiber	fiber	as beverage, whole grain cereals,	
-V-393	risk	risk	garlic	garlic	of spontaneous preterm delivery related to groups of	
-V-393	risk	risk	heart disease	heart disease	for things like	
-V-393	aspartame	aspartame	diet	diet	and	
-V-393	bread	bread	snacks	snacks	), “western” (salty and sweet	
-V-393	pregnant women	pregnant women	aspartame	aspartame	do to decrease this risk?i’ve talked about avoiding	
-V-393	garlic	garlic	vegetables	vegetables	stood out for the	
 V-393	disease	disease	diabetes	diabetes	and	
-V-393	bread	bread	white bread	white bread	), “western” (salty and sweet snacks,	
-V-393	fruit	fruit	women	women	intake of nearly 19,000 pregnant	
-V-393	vegetables	vegetables	fruit	fruit	and raisins for the dried	
-V-393	fruit	fruit	pregnant women	pregnant women	intake of nearly 19,000	
-V-393	plant-based	plant-based	diet	diet	versus a western or traditional scandinavian	
-V-393	berries	berries	inflammation	inflammation	can reduce both systemic and local	
-V-393	fat	fat	inflammation	inflammation	levels would also associated with reduced	
-V-393	aspartame	aspartame	diet soda	diet soda	and	
-V-393	diet	diet	soda	soda		
-V-393	vegetables	vegetables	dried fruit	dried fruit	and raisins for the	
-V-393	whole grain	whole grain	bread	bread	cereals, fiber rich	
+V-393	vegetables	vegetables	raisins	raisins	and	
 V-393	heart disease	heart disease	diabetes	diabetes	and	
-V-393	fiber	fiber	bread	bread	rich	
-V-393	risk	risk	disease	disease	for things like heart	
-V-393	diet	diet	pregnancy	pregnancy	soda consumption during	
-V-393	raisins	raisins	dried fruit	dried fruit	for the	
-V-393	saturated fat	saturated fat	inflammation	inflammation	levels would also associated with reduced	
-V-393	raisins	raisins	fruit	fruit	for the dried	
-V-393	bread	bread	desserts	desserts	), “western” (salty and sweet snacks, white bread,	
-V-393	water	water	beverage	beverage	as	
-V-393	dried fruit	dried fruit	pregnant women	pregnant women	intake of nearly 19,000	
-V-393	garlic	garlic	raisins	raisins	stood out for the vegetables and	
-V-393	women	women	aspartame	aspartame	do to decrease this risk?i’ve talked about avoiding	
-V-393	vegetables	vegetables	fruits	fruits	and dried	
-V-393	fiber	fiber	snacks	snacks	rich bread), “western” (salty and sweet	
-V-393	pregnant	pregnant	risk	risk	women, and indeed, they observed a reduced	
-V-393	diet soda	diet soda	pregnancy	pregnancy	consumption during	
-V-393	fruit	fruit	pregnant	pregnant	intake of nearly 19,000	
-V-393	dried fruit	dried fruit	women	women	intake of nearly 19,000 pregnant	
-V-393	aspartame	aspartame	soda	soda	and diet	
+V-393	dried fruit	dried fruit	fiber	fiber	are packed with	
+V-393	aspartame	aspartame	diet	diet	and	
+V-393	fruit	fruit	fiber	fiber	are packed with	
+V-393	berries	berries	inflammation	inflammation	can reduce both systemic and local	
+V-393	garlic	garlic	vegetables	vegetables	stood out for the	
+V-393	aspartame	aspartame	diet soda	diet soda	and	

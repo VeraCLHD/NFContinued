@@ -1,131 +1,21 @@
 
-A-427	broccoli	broccoli	cancer stem cells	cancer stem cells	versus breast	
+A-427	risk	risk	iron	iron	associated with	
 A-427	zinc	zinc	plant foods	plant foods	in	
-A-427	oxidative stress	oxidative stress	supplements	supplements	within the bodies of women on iron	
-A-427	soy	soy	nutrient absorption	nutrient absorption	milk versus cow milk, raw food	
-A-427	postmenopausal	postmenopausal	women	women		
-A-427	flax	flax	flora	flora	and fecal	
 A-427	iron	iron	oxidative stress	oxidative stress	is a pro-oxidant and can induce	
-A-427	broccoli	broccoli	cancer	cancer	versus breast	
-A-427	supplements	supplements	milk	milk	with meals, calcium absorption: soy	
-A-427	pepper	pepper	turmeric	turmeric	and the spice	
-A-427	turmeric	turmeric	variety	variety	as described in garden	
-A-427	vitamin d supplements	vitamin d supplements	raw	raw	with meals, calcium absorption: soy milk versus cow milk, 	
-A-427	vitamin d	vitamin d	milk	milk	supplements with meals, calcium absorption: soy	
-A-427	soy milk	soy milk	raw food	raw food	versus cow milk, 	
-A-427	vitamin d supplements	vitamin d supplements	calcium	calcium	with meals, 	
-A-427	milk	milk	raw food	raw food	versus cow milk, 	
-A-427	breast cancer	breast cancer	risk	risk		
-A-427	variety	variety	anti-inflammation	anti-inflammation		
-A-427	oxidative stress	oxidative stress	dna damage	dna damage	and	
-A-427	calcium	calcium	nutrient absorption	nutrient absorption	absorption: soy milk versus cow milk, raw food	
-A-427	calcium	calcium	milk	milk	absorption: soy	
-A-427	supplements	supplements	raw food	raw food	with meals, calcium absorption: soy milk versus cow milk, 	
-A-427	iron	iron	supplements	supplements		
-A-427	vitamin d	vitamin d	soy	soy	supplements with meals, calcium absorption:	
-A-427	flax	flax	fecal flora	fecal flora	and	
-A-427	raw food	raw food	dressings	dressings	nutrient absorption, and forgo fat-free	
-A-427	tea	tea	coffee	coffee	and	
-A-427	stress	stress	dna damage	dna damage	and	
-A-427	broccoli	broccoli	breast cancer	breast cancer	versus	
-A-427	stress	stress	iron	iron	within the bodies of women on	
-A-427	supplements	supplements	soy milk	soy milk	with meals, calcium absorption:	
-A-427	iron	iron	fat oxidation	fat oxidation	overload favors the production of free radicals,	
+A-427	oxidative stress	oxidative stress	dna	dna	and	
 A-427	bioavailability	bioavailability	iron	iron	of	
 A-427	stress	stress	dna	dna	and	
-A-427	raw	raw	nutrient absorption	nutrient absorption	food	
-A-427	calcium	calcium	raw food	raw food	absorption: soy milk versus cow milk, 	
-A-427	broccoli	broccoli	stem cells	stem cells	versus breast cancer	
-A-427	seeds	seeds	citrus	citrus	while consuming vitamin c-rich foods, such as	
-A-427	iron	iron	fat	fat	overload favors the production of free radicals,	
-A-427	soy	soy	raw food	raw food	milk versus cow milk, 	
-A-427	chickpeas	chickpeas	pumpkin seeds	pumpkin seeds	and	
-A-427	vitamin d supplements	vitamin d supplements	soy	soy	with meals, calcium absorption:	
-A-427	oxidative stress	oxidative stress	iron	iron	within the bodies of women on	
-A-427	risk	risk	iron supplements	iron supplements	associated with	
-A-427	flax	flax	stem cells	stem cells	and fecal flora, and broccoli versus breast cancer	
-A-427	risk	risk	iron	iron	associated with	
-A-427	vitamin d	vitamin d	soy milk	soy milk	supplements with meals, calcium absorption:	
-A-427	turmeric	turmeric	anti-inflammation	anti-inflammation	as described in garden variety	
-A-427	lead	lead	postmenopausal	postmenopausal	to a physiologic state of iron overload in	
-A-427	black pepper	black pepper	anti-inflammation	anti-inflammation	and the spice turmeric as described in garden variety	
-A-427	lead	lead	iron	iron	to a physiologic state of	
-A-427	women	women	iron	iron	on	
-A-427	oxidative stress	oxidative stress	iron supplements	iron supplements	within the bodies of women on	
-A-427	pregnancy	pregnancy	iron	iron	 and are	
-A-427	women	women	iron supplements	iron supplements	on	
-A-427	blood	blood	iron	iron	(“heme”	
-A-427	iron	iron	animal foods	animal foods	in	
-A-427	nutrient synergy	nutrient synergy	pepper	pepper	is the reaction between black	
-A-427	stress	stress	supplements	supplements	within the bodies of women on iron	
-A-427	raw	raw	dressings	dressings	food nutrient absorption, and forgo fat-free	
-A-427	vitamin d supplements	vitamin d supplements	milk	milk	with meals, calcium absorption: soy	
-A-427	pepper	pepper	variety	variety	and the spice turmeric as described in garden	
-A-427	flax	flax	cancer	cancer	and fecal flora, and broccoli versus breast	
-A-427	vitamin d	vitamin d	calcium	calcium	supplements with meals, 	
-A-427	whole grain	whole grain	phytonutrient	phytonutrient		
-A-427	fat	fat	dna damage	dna damage	oxidation,	
-A-427	vitamin d supplements	vitamin d supplements	soy milk	soy milk	with meals, calcium absorption:	
-A-427	milk	milk	raw	raw	versus cow milk, 	
-A-427	soy milk	soy milk	raw	raw	versus cow milk, 	
-A-427	calcium	calcium	soy	soy	absorption:	
-A-427	iron	iron	meat	meat	overload may be one of the reasons	
-A-427	oxidative stress	oxidative stress	women	women	within the bodies of	
-A-427	flax	flax	cancer stem cells	cancer stem cells	and fecal flora, and broccoli versus breast	
-A-427	risk	risk	anemia	anemia		
-A-427	chickpeas	chickpeas	pumpkin	pumpkin	and	
-A-427	milk	milk	dressings	dressings	versus cow milk, raw food nutrient absorption, and forgo fat-free	
-A-427	vitamin d supplements	vitamin d supplements	raw food	raw food	with meals, calcium absorption: soy milk versus cow milk, 	
-A-427	iron	iron	lead	lead	in developed societies may, over time,	
-A-427	bioavailability	bioavailability	zinc	zinc	of iron and	
-A-427	iron	iron	arthritis	arthritis	intake include alzheimer’s, parkinson’s,	
-A-427	iron	iron	free radicals	free radicals	overload favors the production of	
-A-427	iron	iron	diet	diet	in the human	
-A-427	women	women	supplements	supplements	on iron	
-A-427	pregnancy	pregnancy	pills	pills	 and are iron	
-A-427	iron	iron	oxidation	oxidation	overload favors the production of free radicals, fat	
-A-427	pepper	pepper	anti-inflammation	anti-inflammation	and the spice turmeric as described in garden variety	
-A-427	pumpkin seeds	pumpkin seeds	citrus	citrus	while consuming vitamin c-rich foods, such as	
-A-427	meat	meat	cancer	cancer	consumption has been tied to breast	
-A-427	fat	fat	oxidation	oxidation		
-A-427	soy	soy	milk	milk		
-A-427	soy milk	soy milk	milk	milk	versus cow	
-A-427	calcium	calcium	raw	raw	absorption: soy milk versus cow milk, 	
-A-427	iron	iron	blood	blood	in ingested	
-A-427	supplements	supplements	calcium	calcium	with meals, 	
 A-427	iron	iron	zinc	zinc	and	
-A-427	iron	iron	plant foods	plant foods	in the human diet, the iron found in	
-A-427	whole grain	whole grain	phytic acid	phytic acid	phytonutrient,	
-A-427	flax	flax	breast cancer	breast cancer	and fecal flora, and broccoli versus	
-A-427	calcium	calcium	soy milk	soy milk	absorption:	
-A-427	raw food	raw food	nutrient absorption	nutrient absorption		
-A-427	stress	stress	iron supplements	iron supplements	within the bodies of women on	
-A-427	cancer	cancer	risk	risk		
-A-427	meat	meat	risk	risk	consumption has been tied to breast cancer	
-A-427	vitamin d	vitamin d	supplements	supplements		
-A-427	fat	fat	dna	dna	oxidation,	
-A-427	supplements	supplements	raw	raw	with meals, calcium absorption: soy milk versus cow milk, 	
-A-427	black pepper	black pepper	turmeric	turmeric	and the spice	
-A-427	iron	iron	stress	stress	is a pro-oxidant and can induce oxidative	
-A-427	pumpkin	pumpkin	citrus	citrus	seeds while consuming vitamin c-rich foods, such as	
-A-427	milk	milk	nutrient absorption	nutrient absorption	versus cow milk, raw food	
-A-427	anemia	anemia	iron	iron	should consider supplementing their	
-A-427	iron	iron	anemia	anemia	-deficiency	
-A-427	garlic	garlic	onions	onions	and	
-A-427	supplements	supplements	soy	soy	with meals, calcium absorption:	
-A-427	iron	iron	plant foods	plant foods	and zinc in	
-A-427	meat	meat	breast cancer	breast cancer	consumption has been tied to	
-A-427	chickpeas	chickpeas	seeds	seeds	and pumpkin	
-A-427	soy milk	soy milk	nutrient absorption	nutrient absorption	versus cow milk, raw food	
-A-427	soy milk	soy milk	dressings	dressings	versus cow milk, raw food nutrient absorption, and forgo fat-free	
-A-427	iron	iron	diabetes	diabetes	intake include alzheimer’s, parkinson’s, arthritis, and	
-A-427	oxidative stress	oxidative stress	dna	dna	and	
-A-427	postmenopausal	postmenopausal	blood	blood	women, who are no longer losing	
-A-427	flax	flax	broccoli	broccoli	and fecal flora, and 	
-A-427	bioavailability	bioavailability	plant foods	plant foods	of iron and zinc in	
-A-427	pumpkin	pumpkin	seeds	seeds		
+A-427	flax	flax	fecal flora	fecal flora	and	
+A-427	tea	tea	coffee	coffee	and	
 A-427	nutrient synergy	nutrient synergy	black pepper	black pepper	is the reaction between	
-A-427	stress	stress	women	women	within the bodies of	
-A-427	black pepper	black pepper	variety	variety	and the spice turmeric as described in garden	
-A-427	soy	soy	raw	raw	milk versus cow milk, 	
-A-427	risk	risk	supplements	supplements	associated with iron	
+A-427	stress	stress	dna damage	dna damage	and	
+A-427	chickpeas	chickpeas	pumpkin seeds	pumpkin seeds	and	
+A-427	oxidative stress	oxidative stress	dna damage	dna damage	and	
+A-427	iron	iron	stress	stress	is a pro-oxidant and can induce oxidative	
+A-427	risk	risk	iron supplements	iron supplements	associated with	
+A-427	iron	iron	animal foods	animal foods	in	
+A-427	anemia	anemia	iron	iron	should consider supplementing their	
+A-427	nutrient synergy	nutrient synergy	pepper	pepper	is the reaction between black	
+A-427	garlic	garlic	onions	onions	and	
+A-427	chickpeas	chickpeas	pumpkin	pumpkin	and	

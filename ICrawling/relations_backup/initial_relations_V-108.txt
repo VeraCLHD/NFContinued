@@ -1,62 +1,11 @@
 
-V-108	americans	americans	women	women	have it, and one in three older	
-V-108	health	health	diet	diet	study found that a	
-V-108	postmenopausal	postmenopausal	women	women		
-V-108	fruit	fruit	vegetables	vegetables	and	
-V-108	plant-based	plant-based	soy	soy	foods, namely vegetables, fruits, and beans, such as	
-V-108	postmenopausal	postmenopausal	osteoporosis	osteoporosis		
-V-108	diet	diet	vegetables	vegetables	rich in plant-based foods, namely	
-V-108	plums	plums	apples	apples	versus	
-V-108	california	california	prunes	prunes	dried plum board.when you think of	
-V-108	plant-based	plant-based	beans	beans	foods, namely vegetables, fruits, and	
-V-108	dried plums	dried plums	apples	apples	versus	
-V-108	osteoporosis	osteoporosis	treatment	treatment		
-V-108	antioxidant	antioxidant	fruits	fruits	ranking among commonly consumed	
-V-108	plums	plums	fruit	fruit	versus apples, and both dried	
-V-108	public health	public health	osteoporosis	osteoporosis	strategies to maintain bone health, and prevent	
-V-108	antioxidant	antioxidant	women	women	defenses appear markedly decreased in osteoporotic	
-V-108	diet	diet	plant-based	plant-based	rich in	
-V-108	singapore	singapore	chinese	chinese		
-V-108	health	health	plant-based	plant-based	study found that a diet rich in	
-V-108	prunes	prunes	women	women	a day to a group of postmenopausal	
-V-108	health	health	osteoporosis	osteoporosis	strategies to maintain bone health, and prevent	
-V-108	chinese	chinese	plant-based	plant-based	health study found that a diet rich in	
-V-108	plant-based	plant-based	fruits	fruits	foods, namely vegetables,	
-V-108	diet	diet	fruits	fruits	rich in plant-based foods, namely vegetables,	
-V-108	plums	plums	antioxidant	antioxidant	were chosen, because they have among the highest	
-V-108	fruit	fruit	health	health	and vegetable consumption, and indexes of bone	
-V-108	chinese	chinese	diet	diet	health study found that a	
-V-108	dried plums	dried plums	fruit	fruit	are “the most effective	
-V-108	singapore	singapore	diet	diet	chinese health study found that a	
-V-108	fruits	fruits	vegetables	vegetables	and	
-V-108	dried fruit	dried fruit	prunes	prunes	regimens appeared to have bone-protective effects—though the	
-V-108	beans	beans	bone mineral density	bone mineral density	associated with better	
-V-108	marketing	marketing	dried plums	dried plums	board wants everyone to know that	
-V-108	dried plums	dried plums	antioxidant	antioxidant	were chosen, because they have among the highest	
-V-108	osteoporosis	osteoporosis	variety	variety	prevention?evidence from a	
-V-108	dried plums	dried plums	dried fruit	dried fruit	versus apples, and both	
-V-108	marketing	marketing	plums	plums	board wants everyone to know that dried	
-V-108	plums	plums	dried fruit	dried fruit	versus apples, and both	
-V-108	diet	diet	beans	beans	rich in plant-based foods, namely vegetables, fruits, and	
-V-108	milk	milk	health	health	intake, as i’ve explored before.bone	
-V-108	plant-based	plant-based	vegetables	vegetables	foods, namely	
-V-108	health	health	calcium	calcium	isn’t just about	
-V-108	dried plums	dried plums	fruit	fruit	versus apples, and both dried	
-V-108	risk	risk	osteoporosis	osteoporosis	of hip fracture—but why?the underlying mechanism in postmenopausal	
-V-108	plums	plums	plants	plants	and apples.but if this does pan out for other	
-V-108	risk	risk	postmenopausal	postmenopausal	of hip fracture—but why?the underlying mechanism in	
-V-108	singapore	singapore	health	health	chinese	
-V-108	fruits	fruits	plums	plums	have ever been tested—	
-V-108	prunes	prunes	postmenopausal	postmenopausal	a day to a group of	
-V-108	public health	public health	bone health	bone health	strategies to maintain	
-V-108	fruit	fruit	prunes	prunes	regimens appeared to have bone-protective effects—though the	
-V-108	public health	public health	health	health	strategies to maintain bone	
 V-108	plums	plums	fruit	fruit	are “the most effective	
-V-108	fruit	fruit	bone health	bone health	and vegetable consumption, and indexes of	
-V-108	chinese	chinese	health	health		
-V-108	oklahoma	oklahoma	prunes	prunes	state tried giving a dozen	
+V-108	health	health	calcium	calcium	isn’t just about	
+V-108	women	women	antioxidants	antioxidants	were found to have consistently lower levels of all natural	
+V-108	california	california	prunes	prunes	dried plum board.when you think of	
+V-108	fruit	fruit	vegetables	vegetables	and	
 V-108	women	women	fruit	fruit	is impressive: doubling the	
-V-108	postmenopausal	postmenopausal	apple	apple	women, using a dozen dried	
-V-108	health	health	bone health	bone health	strategies to maintain	
-V-108	antioxidant	antioxidant	vegetables	vegetables	ranking among commonly consumed fruits and	
-V-108	elderly	elderly	women	women	osteoporotic	
+V-108	dried plums	dried plums	fruit	fruit	are “the most effective	
+V-108	fruits	fruits	vegetables	vegetables	and	
+V-108	fruits	fruits	plums	plums	have ever been tested—	
+V-108	beans	beans	bone mineral density	bone mineral density	associated with better	

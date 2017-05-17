@@ -1,81 +1,23 @@
 
-T-266	chicken	chicken	fat	fat	meat today contains ten times more	
-T-266	fat	fat	chicken	chicken	per serving compared to	
-T-266	metabolism	metabolism	calories	calories	and burn more	
-T-266	sugar	sugar	lead	lead	and fat added to chocolate may	
-T-266	sugar	sugar	weight gain	weight gain	and fat added to chocolate may lead to	
-T-266	milk	milk	fat	fat	may cause abdominal	
-T-266	fruits	fruits	weight gain	weight gain	and nuts do not appear to lead to	
-T-266	nuts	nuts	lead	lead	do not appear to	
-T-266	sugar	sugar	chocolate	chocolate	and fat added to	
-T-266	plant-based	plant-based	diet	diet		
-T-266	milk	milk	abdominal fat	abdominal fat	may cause	
-T-266	meat	meat	weight gain	weight gain	has been associated with higher	
-T-266	viruses	viruses	obesity	obesity	may even be a contributing factor in human	
-T-266	smoothies	smoothies	fruits	fruits	can be just as filling as eating whole	
-T-266	fat	fat	turmeric	turmeric	cells from taking up fat, and	
-T-266	abdominal fat	abdominal fat	body fat	body fat	is the kind of	
-T-266	cocoa	cocoa	weight gain	weight gain	itself (like in cocoa powder) does not cause	
-T-266	fish oil	fish oil	inflammation	inflammation	) have been found to induce	
-T-266	weight gain	weight gain	caloric density	caloric density	despite their	
-T-266	grapefruit	grapefruit	water	water	may lead to weight loss, and drinking	
-T-266	pcbs	pcbs	fish	fish	(found in	
-T-266	soy	soy	fat	fat	may cause abdominal	
-T-266	nuts	nuts	weight gain	weight gain	do not appear to lead to	
-T-266	pcbs	pcbs	fish oil	fish oil	(found in	
+T-266	fat	fat	chocolate	chocolate	added to	
 T-266	obesity	obesity	chickens	chickens	in	
-T-266	fish	fish	inflammation	inflammation	oil) have been found to induce	
-T-266	inflammation	inflammation	obesity	obesity	that promotes	
-T-266	lead	lead	caloric density	caloric density	to weight gain despite their	
 T-266	grapefruit	grapefruit	lead	lead	may	
 T-266	fruits	fruits	nuts	nuts	and	
-T-266	risk	risk	waist-to-height ratio	waist-to-height ratio	of dying prematurely, making	
-T-266	lead	lead	weight gain	weight gain	to	
-T-266	fruits	fruits	lead	lead	and nuts do not appear to	
-T-266	disease	disease	body mass index	body mass index	than	
-T-266	protein	protein	fat	fat	in milk may cause abdominal	
-T-266	sweeteners	sweeteners	soda	soda	such as those found in diet	
+T-266	milk	milk	fat	fat	may cause abdominal	
+T-266	nuts	nuts	lead	lead	do not appear to	
+T-266	sugar	sugar	fat	fat	and	
+T-266	milk	milk	abdominal fat	abdominal fat	may cause	
+T-266	meat	meat	weight gain	weight gain	has been associated with higher	
+T-266	smoothies	smoothies	fruits	fruits	can be just as filling as eating whole	
+T-266	chocolate	chocolate	lead	lead	may	
+T-266	diet	diet	body fat	body fat	is associated with a lower	
 T-266	plant-based diet	plant-based diet	body fat	body fat	is associated with a lower	
-T-266	waist-to-height ratio	waist-to-height ratio	disease	disease	a better predictor of	
+T-266	abdominal fat	abdominal fat	body fat	body fat	is the kind of	
 T-266	protein	protein	soy	soy	in	
+T-266	virus	virus	obesity	obesity	has been discovered that actually causes	
+T-266	obesity	obesity	metabolism	metabolism	epidemic, possibly through the disruption of our	
+T-266	soy	soy	fat	fat	may cause abdominal	
 T-266	fruits	fruits	vegetables	vegetables	and	
 T-266	plant-based diets	plant-based diets	metabolism	metabolism	may have a faster	
-T-266	meat	meat	fat	fat	today contains ten times more	
-T-266	lead	lead	water	water	to weight loss, and drinking	
-T-266	diet	diet	soda	soda		
-T-266	soy	soy	abdominal fat	abdominal fat	may cause	
-T-266	body fat	body fat	risk	risk	that may most increases our	
-T-266	waist-to-height ratio	waist-to-height ratio	body mass index	body mass index	a better predictor of disease than	
-T-266	fat	fat	chocolate	chocolate	added to	
-T-266	fat	fat	protein	protein	to shrink 10-15 square centimeters, whereas the	
-T-266	chocolate	chocolate	weight gain	weight gain	may lead to	
-T-266	lead	lead	weight loss	weight loss	to	
-T-266	protein	protein	fat	fat	in soy may cause abdominal	
-T-266	sweeteners	sweeteners	diet	diet	such as those found in	
-T-266	turmeric	turmeric	fat	fat	is also thought to have this effect on	
-T-266	fat	fat	lead	lead	added to chocolate may	
-T-266	soy	soy	fat	fat	appears to prevent human	
-T-266	abdominal fat	abdominal fat	protein	protein	to shrink 10-15 square centimeters, whereas the	
-T-266	diet	diet	body fat	body fat	is associated with a lower	
-T-266	obesogens	obesogens	obesity	obesity	may also be contributing factors in the	
-T-266	virus	virus	chickens	chickens	has been discovered that actually causes obesity in	
-T-266	protein	protein	abdominal fat	abdominal fat	in soy may cause	
-T-266	virus	virus	obesity	obesity	has been discovered that actually causes	
-T-266	plant-based	plant-based	fat	fat	diet is associated with a lower body	
-T-266	plant-based	plant-based	body fat	body fat	diet is associated with a lower	
-T-266	diet	diet	fat	fat	is associated with a lower body	
-T-266	obesity	obesity	fat	fat	by increasing the number and size of	
-T-266	protein	protein	abdominal fat	abdominal fat	in milk may cause	
-T-266	grapefruit	grapefruit	weight loss	weight loss	may lead to	
-T-266	plant-based	plant-based	metabolism	metabolism	diets may have a faster	
-T-266	plant-based diets	plant-based diets	calories	calories	may have a faster metabolism and burn more	
-T-266	sugar	sugar	fat	fat	and	
-T-266	fat	fat	meat	meat	per serving compared to chicken	
-T-266	abdominal fat	abdominal fat	fat	fat	is the kind of body	
-T-266	fat	fat	weight gain	weight gain	added to chocolate may lead to	
-T-266	chocolate	chocolate	lead	lead	may	
-T-266	sweeteners	sweeteners	diet soda	diet soda	such as those found in	
-T-266	obesity	obesity	metabolism	metabolism	epidemic, possibly through the disruption of our	
-T-266	chicken	chicken	meat	meat		
-T-266	plant-based diet	plant-based diet	fat	fat	is associated with a lower body	
 T-266	fat	fat	body fat	body fat	is the kind of	
+T-266	soy	soy	abdominal fat	abdominal fat	may cause	

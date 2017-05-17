@@ -1,16 +1,6 @@
 
-V-1286	pills	pills	liver	liver	in the journal 	
-V-1286	green tea	green tea	liver	liver	extract pills in the journal 	
 V-1286	liver failure	liver failure	green tea	green tea	induced by	
 V-1286	milk	milk	tea	tea	remove the benefits of your daily cuppa"	
-V-1286	green tea	green tea	tea	tea	extract.five cups of	
-V-1286	tea	tea	pills	pills	extract	
 V-1286	green tea	green tea	cancer	cancer	can protect against	
 V-1286	tea	tea	cancer	cancer	can protect against	
-V-1286	green tea	green tea	pills	pills	extract	
 V-1286	liver failure	liver failure	tea	tea	induced by green	
-V-1286	tea	tea	liver	liver	extract pills in the journal 	
-V-1286	liver	liver	tea	tea	failure induced by green	
-V-1286	noni	noni	juice	juice		
-V-1286	liver	liver	green tea	green tea	failure induced by	
-V-1286	nutrition	nutrition	milk	milk	foundation: "does adding	

@@ -1,24 +1,6 @@
 
-V-1268	raw	raw	food poisoning	food poisoning	alfalfa sprouts, because of the related outbreaks of	
-V-1268	sprouts	sprouts	skin	skin	on the	
-V-1268	raw	raw	sprouts	sprouts	alfalfa	
-V-1268	risk	risk	food poisoning	food poisoning	of	
-V-1268	alfalfa	alfalfa	sprouts	sprouts		
-V-1268	sprouts	sprouts	pathogens	pathogens	were tested for	
-V-1268	raw	raw	sprouts	sprouts	broccoli	
-V-1268	raw	raw	broccoli	broccoli		
-V-1268	broccoli	broccoli	skin	skin	sprouts on the	
-V-1268	broccoli	broccoli	sprouts	sprouts		
-V-1268	raw	raw	broccoli sprouts	broccoli sprouts		
-V-1268	raw	raw	alfalfa sprouts	alfalfa sprouts		
 V-1268	eggs	eggs	united states	united states	cause a foodborne epidemic every year in the	
-V-1268	sprouts	sprouts	eggs	eggs	are indeed too risky to eat,	
 V-1268	broccoli sprouts	broccoli sprouts	pathogens	pathogens	were tested for	
-V-1268	alfalfa sprouts	alfalfa sprouts	eggs	eggs	are indeed too risky to eat,	
-V-1268	alfalfa	alfalfa	eggs	eggs	sprouts are indeed too risky to eat,	
-V-1268	broccoli sprouts	broccoli sprouts	skin	skin	on the	
-V-1268	raw	raw	alfalfa	alfalfa		
-V-1268	alfalfa	alfalfa	food poisoning	food poisoning	sprouts, because of the related outbreaks of	
-V-1268	food poisoning	food poisoning	sprouts	sprouts	than	
-V-1268	broccoli	broccoli	pathogens	pathogens	sprouts were tested for	
-V-1268	raw	raw	eggs	eggs	alfalfa sprouts are indeed too risky to eat,	
+V-1268	risk	risk	food poisoning	food poisoning	of	
+V-1268	sprouts	sprouts	pathogens	pathogens	were tested for	
+V-1268	eggs	eggs	food poisoning	food poisoning	are linked every year to literally a thousand times more	

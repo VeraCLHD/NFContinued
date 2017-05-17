@@ -1,47 +1,9 @@
 
 T-401	salt	salt	health	health	can contribute to	
-T-401	dna	dna	oranges	oranges	repair, researchers tested lemons, persimmons, strawberries,	
-T-401	celery	celery	weight loss	weight loss	is helpful in a diet for	
-T-401	plants	plants	dna	dna	might boost	
-T-401	phytonutrients	phytonutrients	enzymes	enzymes	that can boost our detoxification	
-T-401	plants	plants	dna	dna	that provided	
-T-401	energy	energy	calories	calories	to digest, assimilate, and store than the	
-T-401	diet	diet	salt	salt	high in	
-T-401	celery	celery	vitamins	vitamins	contains beneficial antioxidants, enzymes,	
-T-401	diet	diet	weight loss	weight loss	for	
-T-401	dna	dna	broccoli	broccoli	protection at low doses were celery,	
-T-401	celery	celery	antioxidants	antioxidants	contains beneficial	
-T-401	detoxification	detoxification	dna damage	dna damage	enzymes, modulate gene expression, and even repair	
-T-401	water	water	diet	diet	content, celery is helpful in a	
-T-401	dna	dna	apples	apples	protection at low doses were celery, broccoli,	
-T-401	celery	celery	calories	calories	took 14	
-T-401	fiber	fiber	celery	celery	and water content,	
-T-401	dna	dna	strawberries	strawberries	protection at low doses were celery, broccoli, apples,	
-T-401	celery	celery	flavoring	flavoring	provides a	
-T-401	celery	celery	minerals	minerals	contains beneficial antioxidants, enzymes, vitamins, and	
-T-401	celery	celery	diet	diet	is helpful in a	
-T-401	detoxification	detoxification	dna	dna	enzymes, modulate gene expression, and even repair	
-T-401	celery	celery	enzymes	enzymes	contains beneficial antioxidants,	
-T-401	plants	plants	lemons	lemons	might boost dna repair, researchers tested	
-T-401	weight loss	weight loss	salt	salt	or management.eating too much	
-T-401	calories	calories	celery	celery	in about two cups of	
-T-401	dna	dna	choy sum	choy sum	repair, researchers tested lemons, persimmons, strawberries, oranges,	
-T-401	dna	dna	strawberries	strawberries	repair, researchers tested lemons, persimmons,	
-T-401	phytonutrients	phytonutrients	detoxification	detoxification	that can boost our	
-T-401	fiber	fiber	diet	diet	and water content, celery is helpful in a	
-T-401	dna	dna	lemons	lemons	repair, researchers tested	
-T-401	dna	dna	celery	celery	protection at low doses were	
 T-401	vegetables	vegetables	phytonutrients	phytonutrients	contain	
-T-401	vegetables	vegetables	detoxification	detoxification	contain phytonutrients that can boost our	
-T-401	vegetables	vegetables	enzymes	enzymes	contain phytonutrients that can boost our detoxification	
-T-401	water	water	celery	celery	content,	
-T-401	weight loss	weight loss	health	health	or management.eating too much salt can contribute to	
+T-401	plants	plants	dna	dna	might boost	
+T-401	celery	celery	antioxidants	antioxidants	contains beneficial	
+T-401	celery	celery	calories	calories	took 14	
 T-401	fiber	fiber	water	water	and	
-T-401	plants	plants	strawberries	strawberries	might boost dna repair, researchers tested lemons, persimmons,	
-T-401	water	water	weight loss	weight loss	content, celery is helpful in a diet for	
-T-401	celery	celery	antioxidant	antioxidant	actually increases in	
 T-401	celery	celery	energy	energy	took more	
-T-401	plants	plants	celery	celery	that provided dna protection at low doses were	
-T-401	detoxification	detoxification	enzymes	enzymes		
-T-401	antioxidant	antioxidant	celery	celery	power when it is cooked; therefore, adding	
-T-401	diet	diet	salt	salt	for weight loss or management.eating too much	
+T-401	celery	celery	diet	diet	is helpful in a	

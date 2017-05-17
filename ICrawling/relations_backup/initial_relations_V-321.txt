@@ -1,89 +1,16 @@
 
 V-321	wine	wine	fruit	fruit	can be considered essentially	
-V-321	diet	diet	grains	grains	was characterized by unprocessed cereals—in other words, whole	
-V-321	cancer	cancer	alcohol	alcohol	risk, but	
-V-321	cancer	cancer	cancer	cancer	risk, but alcohol is a known breast	
-V-321	grains	grains	disease	disease	may increase the risk of diabetes, obesity, heart	
-V-321	cancer	cancer	cancer	cancer	risk, but not with lower breast	
-V-321	olive oil	olive oil	antioxidant	antioxidant	—the	
-V-321	plant-based	plant-based	plant-based diet	plant-based diet	diet, and certainly not a whole food	
-V-321	mediterranean diet	mediterranean diet	cancer	cancer	is associated with lower	
-V-321	mediterranean diet	mediterranean diet	grains	grains	was characterized by unprocessed cereals—in other words, whole	
-V-321	plant-based	plant-based	diet	diet		
-V-321	phytonutrients	phytonutrients	red wine	red wine	in	
-V-321	breast cancer	breast cancer	phytonutrients	phytonutrients	risk.the wonderful grape	
-V-321	salt	salt	high blood pressure	high blood pressure	intake to	
-V-321	alcohol	alcohol	risk	risk	is a known breast cancer	
-V-321	arteries	arteries	blood	blood	to relax and dilate normally, increasing	
-V-321	health	health	diet	diet	effects of the mediterranean	
-V-321	mediterranean diet	mediterranean diet	whole grains	whole grains	was characterized by unprocessed cereals—in other words,	
-V-321	breast cancer	breast cancer	risk	risk		
-V-321	endothelial	endothelial	arteries	arteries	function–the ability of our	
-V-321	cancer	cancer	breast cancer	breast cancer	risk, but not with lower	
-V-321	bread	bread	olive oil	olive oil	dipped in	
-V-321	risk	risk	heart disease	heart disease	of diabetes, obesity,	
-V-321	breast cancer	breast cancer	cancer	cancer	risk, but alcohol is a known breast	
-V-321	breast cancer	breast cancer	alcohol	alcohol	risk, but	
-V-321	diet	diet	alcohol	alcohol	score that excludes	
-V-321	alcohol	alcohol	caloric density	caloric density	can be a problem, the	
-V-321	risk	risk	grains	grains	of diabetes, heart disease, and cancer, refined	
-V-321	breast cancer	breast cancer	red wine	red wine	risk.the wonderful grape phytonutrients in	
-V-321	diet	diet	plant foods	plant foods	is an abundance of	
-V-321	mediterranean diet	mediterranean diet	plant foods	plant foods	is an abundance of	
-V-321	white bread	white bread	bread	bread	–but not whole grain	
-V-321	mediterranean diet	mediterranean diet	alcohol	alcohol	score that excludes	
-V-321	grains	grains	risk	risk	have been associated with a lower	
-V-321	blood	blood	salt	salt	pressure, heart disease, and strokes, dietary	
-V-321	health	health	mediterranean diet	mediterranean diet	effects of the	
-V-321	salt	salt	blood	blood	intake to high	
-V-321	risk	risk	disease	disease	of diabetes, heart	
-V-321	diet score	diet score	alcohol	alcohol	that excludes	
-V-321	breast cancer	breast cancer	wine	wine	risk.the wonderful grape phytonutrients in red	
-V-321	salt	salt	heart disease	heart disease	intake to high blood pressure,	
-V-321	cancer	cancer	breast cancer	breast cancer	risk, but alcohol is a known	
-V-321	white bread	white bread	whole grain	whole grain	–but not	
-V-321	alcohol	alcohol	cancer	cancer	is a known breast	
-V-321	predimed	predimed	white bread	white bread	study, those who ate the most	
-V-321	alcohol	alcohol	breast cancer	breast cancer	is a known	
-V-321	blood	blood	heart disease	heart disease	pressure,	
-V-321	grains	grains	risk	risk	may increase the	
-V-321	cancer	cancer	red wine	red wine	risk.the wonderful grape phytonutrients in	
-V-321	mediterranean diet	mediterranean diet	risk	risk	is associated with lower cancer	
-V-321	olive oil	olive oil	endothelial	endothelial	—the antioxidant phytonutrients–that may help	
-V-321	olive oil	olive oil	fruit	fruit	and wine can be considered essentially	
-V-321	whole grains	whole grains	risk	risk	have been associated with a lower	
-V-321	olive oil	olive oil	phytonutrients	phytonutrients	—the antioxidant	
-V-321	grains	grains	white bread	white bread	modern mediterranean dieters eat are refined, like	
-V-321	cancer	cancer	risk	risk		
-V-321	grains	grains	diabetes	diabetes	have been associated with a lower risk of	
-V-321	beans	beans	fat	fat	and low saturated	
-V-321	salt	salt	disease	disease	intake to high blood pressure, heart	
-V-321	phytonutrients	phytonutrients	endothelial	endothelial	–that may help	
-V-321	risk	risk	cancer	cancer	of diabetes, heart disease, and	
-V-321	grains	grains	heart disease	heart disease	may increase the risk of diabetes, obesity,	
-V-321	risk	risk	heart disease	heart disease	of diabetes,	
-V-321	mediterranean diet	mediterranean diet	diet	diet	score that excludes alcohol, the	
-V-321	grains	grains	diabetes	diabetes	may increase the risk of	
-V-321	blood	blood	disease	disease	pressure, heart	
-V-321	phytonutrients	phytonutrients	wine	wine	in red	
-V-321	olive oil	olive oil	mediterranean diet	mediterranean diet	is the very symbol of the	
-V-321	wine	wine	alcohol	alcohol	with the	
-V-321	red wine	red wine	alcohol	alcohol	with the	
-V-321	antioxidant	antioxidant	phytonutrients	phytonutrients		
-V-321	salt	salt	blood pressure	blood pressure	intake to high	
 V-321	olive oil	olive oil	wine	wine	and	
-V-321	predimed	predimed	bread	bread	study, those who ate the most white	
-V-321	grains	grains	bread	bread	modern mediterranean dieters eat are refined, like white	
-V-321	antioxidant	antioxidant	endothelial	endothelial	phytonutrients–that may help	
+V-321	alcohol	alcohol	breast cancer	breast cancer	is a known	
+V-321	grains	grains	risk	risk	may increase the	
+V-321	diet	diet	plant foods	plant foods	is an abundance of	
+V-321	mediterranean diet	mediterranean diet	cancer	cancer	is associated with lower	
+V-321	mediterranean diet	mediterranean diet	plant foods	plant foods	is an abundance of	
+V-321	phytonutrients	phytonutrients	red wine	red wine	in	
+V-321	whole grains	whole grains	risk	risk	have been associated with a lower	
 V-321	white bread	white bread	olive oil	olive oil	dipped in	
-V-321	beans	beans	saturated fat	saturated fat	and low	
-V-321	diet score	diet score	diet	diet	that excludes alcohol, the	
+V-321	grains	grains	risk	risk	have been associated with a lower	
 V-321	olive oil	olive oil	diet	diet	is the very symbol of the mediterranean	
 V-321	risk	risk	diabetes	diabetes	of	
-V-321	whole grain	whole grain	bread	bread		
-V-321	risk	risk	disease	disease	of diabetes, obesity, heart	
-V-321	bread	bread	whole grain	whole grain	–but not	
-V-321	cancer	cancer	phytonutrients	phytonutrients	risk.the wonderful grape	
-V-321	diet	diet	whole grains	whole grains	was characterized by unprocessed cereals—in other words,	
-V-321	whole grains	whole grains	diabetes	diabetes	have been associated with a lower risk of	
-V-321	cancer	cancer	wine	wine	risk.the wonderful grape phytonutrients in red	
+V-321	bread	bread	olive oil	olive oil	dipped in	
+V-321	olive oil	olive oil	mediterranean diet	mediterranean diet	is the very symbol of the	

@@ -1,16 +1,5 @@
 
-V-435	bacteria	bacteria	gut	gut	in our	
-V-435	watermelon	watermelon	placebo	placebo	or a watermelon-free	
 V-435	spain	spain	physical activity	physical activity	had a group of men engage in intense	
-V-435	physical activity	physical activity	watermelon	watermelon	after drinking two cups of fresh blended	
-V-435	muscle soreness	muscle soreness	cherries	cherries	.previously i reviewed the role	
-V-435	ibuprofen	ibuprofen	naproxen	naproxen	is probably safest, significantly safer than	
-V-435	fruit	fruit	phytonutrients	phytonutrients		
-V-435	lead	lead	inflammation	inflammation	to	
-V-435	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	drugs like	
 V-435	phytonutrients	phytonutrients	exercise	exercise	can help with	
 V-435	cherries	cherries	muscle soreness	muscle soreness	may play in reducing	
-V-435	anti-inflammatory	anti-inflammatory	drugs	drugs		
 V-435	fruits	fruits	vegetables	vegetables	and	
-V-435	ibuprofen	ibuprofen	gut	gut	it can make our	
-V-435	drugs	drugs	ibuprofen	ibuprofen	like	

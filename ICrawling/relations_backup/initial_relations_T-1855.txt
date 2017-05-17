@@ -1,35 +1,6 @@
 
-T-1855	trans fats	trans fats	kidney	kidney	also negatively impacts	
-T-1855	cholesterol	cholesterol	arteries	arteries	build up in our	
-T-1855	fats	fats	mortality	mortality	also negatively impacts kidney function, even increases the	
-T-1855	health	health	american heart association	american heart association	organization, the	
-T-1855	fats	fats	kidney function	kidney function	also negatively impacts	
-T-1855	risk	risk	breast cancer	breast cancer	of	
-T-1855	kidney	kidney	cancer	cancer	function, even increases the mortality risk of breast	
-T-1855	risk	risk	cancer	cancer	of breast	
-T-1855	junk food	junk food	fats	fats	comes loaded with trans	
-T-1855	american college of cardiology	american college of cardiology	trans fats	trans fats	both recommend reducing intake of	
-T-1855	insulin	insulin	prediabetes	prediabetes	resistance (the underlying cause of	
-T-1855	trans fats	trans fats	mortality	mortality	also negatively impacts kidney function, even increases the	
-T-1855	fat	fat	animal products	animal products	intake coming from	
-T-1855	insulin resistance	insulin resistance	prediabetes	prediabetes	(the underlying cause of	
-T-1855	oils	oils	meat	meat	like margarines and shortenings, as well as in	
-T-1855	mortality	mortality	risk	risk		
-T-1855	kidney	kidney	risk	risk	function, even increases the mortality	
 T-1855	meat	meat	dairy	dairy	and	
-T-1855	fats	fats	autoimmune diseases	autoimmune diseases	are also associated with the progression of	
-T-1855	american college of cardiology	american college of cardiology	fats	fats	both recommend reducing intake of trans	
-T-1855	health	health	american college of cardiology	american college of cardiology	organization, the american heart association, and	
-T-1855	kidney	kidney	breast cancer	breast cancer	function, even increases the mortality risk of	
-T-1855	kidney	kidney	mortality	mortality	function, even increases the	
-T-1855	ldl	ldl	cholesterol	cholesterol		
-T-1855	trans fats	trans fats	autoimmune diseases	autoimmune diseases	are also associated with the progression of	
+T-1855	cholesterol	cholesterol	arteries	arteries	build up in our	
+T-1855	risk	risk	breast cancer	breast cancer	of	
+T-1855	junk food	junk food	fats	fats	comes loaded with trans	
 T-1855	junk food	junk food	trans fats	trans fats	comes loaded with	
-T-1855	trans fat	trans fat	animal products	animal products	intake coming from	
-T-1855	prediabetes	prediabetes	diabetes	diabetes	and type 2	
-T-1855	fats	fats	oils	oils	” can be found in hydrogenated vegetable	
-T-1855	insulin resistance	insulin resistance	diabetes	diabetes	(the underlying cause of prediabetes and type 2	
-T-1855	fats	fats	kidney	kidney	also negatively impacts	
-T-1855	mortality	mortality	cancer	cancer	risk of breast	
-T-1855	trans fats	trans fats	kidney function	kidney function	also negatively impacts	
-T-1855	mortality	mortality	breast cancer	breast cancer	risk of	

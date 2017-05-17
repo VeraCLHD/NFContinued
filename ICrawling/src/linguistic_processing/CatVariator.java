@@ -102,11 +102,11 @@ public class CatVariator {
 		for(String line: lines){
 			if(!line.isEmpty()){
 				String[] lineSplitted = line.split("\t");
-				String lemma = lineSplitted[0];
+				String term = lineSplitted[0];
 				if(lineSplitted.length> 1){
-					varForLemma.put(lemma, new HashSet<String>(Arrays.asList(lineSplitted[1].split(" "))));
+					varForLemma.put(term, new HashSet<String>(Arrays.asList(lineSplitted[1].split(" "))));
 				} else{
-					varForLemma.put(lemma, new HashSet<String>());
+					varForLemma.put(term, new HashSet<String>());
 				}
 				
 			}

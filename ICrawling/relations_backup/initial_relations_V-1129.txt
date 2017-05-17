@@ -1,30 +1,3 @@
 
-V-1129	chickens	chickens	united states	united states	every year in the	
 V-1129	chicken	chicken	epa	epa	may exceed the	
-V-1129	animal products	animal products	dogs	dogs	: beef, milk, pork, hot	
 V-1129	diet	diet	rice	rice	comes not from	
-V-1129	chicken	chicken	arsenic	arsenic	may exceed the epa safety limit for	
-V-1129	cancer	cancer	neuropathy	neuropathy	risk, heart disease, diabetes,	
-V-1129	cancer	cancer	risk	risk		
-V-1129	public health	public health	arsenic	arsenic	consequences of extra dietary	
-V-1129	health	health	arsenic	arsenic	consequences of extra dietary	
-V-1129	animal products	animal products	hot dogs	hot dogs	: beef, milk, pork,	
-V-1129	cancer	cancer	diabetes	diabetes	risk, heart disease,	
-V-1129	arsenic	arsenic	rice	rice	in the american diet comes not from	
-V-1129	fast food	fast food	epa	epa	chicken may exceed the	
-V-1129	parasites	parasites	arsenic	arsenic	that adding	
-V-1129	fast food	fast food	arsenic	arsenic	chicken may exceed the epa safety limit for	
-V-1129	feed additives	feed additives	poultry	poultry	approved by the fda.but why would the	
-V-1129	arsenic	arsenic	bugs	bugs	to the feed to poison the	
-V-1129	fast food	fast food	chicken	chicken		
-V-1129	animal products	animal products	milk	milk	: beef,	
-V-1129	animal products	animal products	pork	pork	: beef, milk,	
-V-1129	animal products	animal products	eggs	eggs	: beef, milk, pork, hot dogs,	
-V-1129	arsenic	arsenic	water	water	in a glass of drinking	
-V-1129	arsenic	arsenic	diet	diet	in the american	
-V-1129	arsenic	arsenic	chickens	chickens	compounds to	
-V-1129	cancer	cancer	disease	disease	risk, heart	
-V-1129	fda	fda	weight gain	weight gain	to increase the rate of	
-V-1129	epa	epa	arsenic	arsenic	safety limit for	
-V-1129	arsenic	arsenic	chickens	chickens	compounds are fed to	
-V-1129	cancer	cancer	heart disease	heart disease	risk,	

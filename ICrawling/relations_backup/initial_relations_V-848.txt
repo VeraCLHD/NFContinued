@@ -1,22 +1,7 @@
 
-V-848	fruits	fruits	vegetarians	vegetarians	and veggies a day—about as much as the	
-V-848	children	children	breast cancer	breast cancer	they’ve had—which can be protective against	
-V-848	vegetarians	vegetarians	omnivores	omnivores	to	
-V-848	cancer	cancer	vegetarian	vegetarian	rates among those eating	
-V-848	vegetarians	vegetarians	diesel fumes	diesel fumes	 exercise more, or smoke less, or inhale less	
-V-848	omnivores	omnivores	meat	meat	who don’t eat a lot of	
-V-848	vegetarians	vegetarians	exercise	exercise	 	
-V-848	meat	meat	cancer	cancer	and	
-V-848	exercise	exercise	diesel fumes	diesel fumes	more, or smoke less, or inhale less	
-V-848	meat	meat	cancer	cancer	leading to obesity, leading to	
-V-848	vegetarians	vegetarians	meat	meat	to omnivores who don’t eat a lot of	
 V-848	meat	meat	cancer	cancer	might cause	
-V-848	children	children	cancer	cancer	they’ve had—which can be protective against breast	
-V-848	cancer	cancer	vegetarians	vegetarians	rates in the	
 V-848	vegetarian	vegetarian	cancer	cancer	may reduce	
 V-848	fruits	fruits	vegetables	vegetables	and	
+V-848	meat	meat	cancer	cancer	and	
 V-848	obesity	obesity	vegetarians	vegetarians	is not really fair to the	
-V-848	meat	meat	obesity	obesity	might cause cancer, like meat leading to	
-V-848	plant-based	plant-based	plants	plants	diets, which is more	
-V-848	alcohol	alcohol	physical activity	physical activity	consumption, body mass index,	
-V-848	alcohol	alcohol	body mass index	body mass index	consumption,	
+V-848	exercise	exercise	diesel fumes	diesel fumes	more, or smoke less, or inhale less	

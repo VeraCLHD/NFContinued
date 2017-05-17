@@ -1,16 +1,4 @@
 
-T-300	cereal	cereal	breakfast cereal	breakfast cereal	may help blunt the cereal’s glycemic effects.fortified	
-T-300	breakfast	breakfast	fiber	fiber	cereals contain	
 T-300	breakfast cereal	breakfast cereal	cereal	cereal	may help blunt the	
-T-300	oatmeal	oatmeal	cholesterol	cholesterol	also may help with weight loss,	
-T-300	cholesterol	cholesterol	liver	liver	reduction, and an improvement in	
 T-300	blueberries	blueberries	breakfast	breakfast	eaten with	
-T-300	cereal	cereal	breakfast	breakfast	may help blunt the cereal’s glycemic effects.fortified	
-T-300	oatmeal	oatmeal	weight loss	weight loss	also may help with	
-T-300	blueberries	blueberries	cereal	cereal	eaten with breakfast	
-T-300	breakfast	breakfast	antioxidants	antioxidants	cereals are very low in	
-T-300	breakfast cereal	breakfast cereal	breakfast	breakfast	may help blunt the cereal’s glycemic effects.fortified	
-T-300	fruit	fruit	smoothies	smoothies		
-T-300	breakfast	breakfast	cereal	cereal		
-T-300	breakfast	breakfast	breakfast cereal	breakfast cereal	cereal may help blunt the cereal’s glycemic effects.fortified	
 T-300	blueberries	blueberries	breakfast cereal	breakfast cereal	eaten with	

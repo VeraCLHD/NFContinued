@@ -1,14 +1,5 @@
 
-T-1703	mangosteen	mangosteen	noni	noni	juice and	
 T-1703	water	water	cholesterol	cholesterol	has been found to reduce	
-T-1703	baking	baking	water	water	soda to a liter of	
-T-1703	mangosteen	mangosteen	juice	juice		
-T-1703	juice	juice	noni	noni	and	
-T-1703	noni	noni	juice	juice		
-T-1703	zinc	zinc	cold	cold	nasal gels for a	
-T-1703	baking	baking	soda	soda		
+T-1703	cold	cold	sense of smell	sense of smell	have been found to cause people to lose their	
 T-1703	alkaline water	alkaline water	cholesterol	cholesterol	has been found to reduce	
-T-1703	plants	plants	medicine	medicine	that have been used for centuries in traditional	
-T-1703	juice	juice	supplements	supplements	plus+	
-T-1703	soda	soda	water	water	to a liter of	
-T-1703	baking soda	baking soda	water	water	to a liter of	
+T-1703	juice	juice	noni	noni	and	

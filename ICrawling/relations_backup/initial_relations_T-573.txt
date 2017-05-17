@@ -1,51 +1,13 @@
 
-T-573	supplements	supplements	omega-3 fatty acids	omega-3 fatty acids	have been found to be contaminated.long-chain	
-T-573	industrial toxins	industrial toxins	heavy metals	heavy metals	in fish may include endocrine-disrupting pollutants and	
-T-573	children	children	fish oil	fish oil	’s	
-T-573	omega-3 fatty acids	omega-3 fatty acids	chickens	chickens	are no longer found in sufficient quantities in	
-T-573	health	health	industrial pollutants	industrial pollutants	organization’s daily safety limit for dioxins and other	
-T-573	lead	lead	depression	depression	to increased	
-T-573	pollutants	pollutants	fish	fish	found in	
-T-573	dha	dha	fish oil	fish oil	found in fish and	
-T-573	pollutants	pollutants	mercury	mercury	and heavy metals such as	
-T-573	pollutants	pollutants	heavy metals	heavy metals	and	
-T-573	industrial toxins	industrial toxins	pollutants	pollutants	in fish may include endocrine-disrupting	
-T-573	depression	depression	risk	risk	and possibly	
-T-573	dioxins	dioxins	industrial pollutants	industrial pollutants	and other	
-T-573	pollutants	pollutants	fish	fish	in	
-T-573	fish oil	fish oil	supplements	supplements		
-T-573	fish	fish	omega-3 fatty acids	omega-3 fatty acids	oil supplements have been found to be contaminated.long-chain	
-T-573	world health organization	world health organization	dioxins	dioxins	’s daily safety limit for	
-T-573	fish oil	fish oil	omega-3 fatty acids	omega-3 fatty acids	supplements have been found to be contaminated.long-chain	
 T-573	toxins	toxins	fish	fish	in	
-T-573	chickens	chickens	genetic manipulation	genetic manipulation	due to	
+T-573	supplements	supplements	omega-3 fatty acids	omega-3 fatty acids	have been found to be contaminated.long-chain	
+T-573	pollutants	pollutants	fish	fish	in	
 T-573	fish	fish	pollutants	pollutants	may include endocrine-disrupting	
-T-573	dha	dha	world health organization	world health organization	content, may exceed the	
-T-573	lead	lead	risk	risk	to increased depression and possibly	
-T-573	fish	fish	mercury	mercury	and fish oil, does not outweigh the possible	
-T-573	heavy metals	heavy metals	mercury	mercury	such as	
-T-573	dha	dha	fish	fish	found in	
-T-573	toxins	toxins	pollutants	pollutants	in fish may include endocrine-disrupting	
-T-573	toxins	toxins	heavy metals	heavy metals	in fish may include endocrine-disrupting pollutants and	
-T-573	fish	fish	heavy metals	heavy metals	may include endocrine-disrupting pollutants and	
-T-573	mercury	mercury	fish	fish	harm from eating most	
-T-573	fish	fish	fish oil	fish oil	and	
-T-573	arachidonic acid	arachidonic acid	pollutants	pollutants	and other	
-T-573	dioxins	dioxins	pcbs	pcbs	and other industrial pollutants, such as	
-T-573	dha	dha	health	health	content, may exceed the world	
-T-573	health	health	dha	dha	benefit from the	
-T-573	lead	lead	suicide	suicide	to increased depression and possibly risk for	
-T-573	depression	depression	suicide	suicide	and possibly risk for	
-T-573	children	children	supplements	supplements	’s fish oil	
-T-573	industrial toxins	industrial toxins	fish	fish	in	
-T-573	health	health	dioxins	dioxins	organization’s daily safety limit for	
-T-573	dioxins	dioxins	pollutants	pollutants	and other industrial	
-T-573	children	children	fish	fish	’s	
-T-573	health	health	fish oil	fish oil	benefit from the dha found in fish and	
-T-573	fish	fish	supplements	supplements	oil	
+T-573	omega-3 fatty acids	omega-3 fatty acids	chickens	chickens	are no longer found in sufficient quantities in	
+T-573	pollutants	pollutants	fish	fish	found in	
 T-573	fish	fish	mood	mood	may result in adverse effects on	
-T-573	arachidonic acid	arachidonic acid	fish	fish	and other pollutants found in	
-T-573	risk	risk	suicide	suicide	for	
-T-573	world health organization	world health organization	industrial pollutants	industrial pollutants	’s daily safety limit for dioxins and other	
-T-573	health	health	fish	fish	benefit from the dha found in	
+T-573	dha	dha	fish	fish	found in	
 T-573	pollutants	pollutants	fish oil	fish oil	in	
+T-573	fish	fish	fish oil	fish oil	and	
+T-573	pollutants	pollutants	heavy metals	heavy metals	and	
+T-573	industrial toxins	industrial toxins	fish	fish	in	

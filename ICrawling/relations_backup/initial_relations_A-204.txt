@@ -1,33 +1,4 @@
 
-A-204	doctors	doctors	lifestyle medicine	lifestyle medicine	practice	
-A-204	medicine	medicine	disease	disease	: treating the causes of	
-A-204	doctors	doctors	public health	public health	to: “forget the bland statistics of	
-A-204	doctors	doctors	medicine	medicine	to embrace lifestyle	
-A-204	diet	diet	smoking	smoking	), and fingers (cigarette	
-A-204	exercise	exercise	smoking	smoking	), forks (diet), and fingers (cigarette	
-A-204	lifestyle medicine	lifestyle medicine	disease	disease	: treating the causes of	
-A-204	doctors	doctors	medicine	medicine	practice lifestyle	
-A-204	heart disease	heart disease	cancer	cancer	and its prevention—or	
-A-204	prevention	prevention	cancer	cancer	—or	
-A-204	disease	disease	diabetes	diabetes	and its prevention—or cancer or	
-A-204	tomato effect	tomato effect	medicine	medicine	and lifestyle	
-A-204	disease	disease	prevention	prevention	and its	
-A-204	diabetes	diabetes	eye	eye	—ask your audience to see in their mind’s	
-A-204	yale	yale	prevention	prevention	’s	
-A-204	kidney	kidney	diabetes	diabetes	or eyes to	
-A-204	prevention	prevention	diabetes	diabetes	—or cancer or	
-A-204	prevention	prevention	dr. david katz	dr. david katz	research center	
-A-204	death	death	chronic diseases	chronic diseases	and persistent misery in our society are	
 A-204	cancer	cancer	diabetes	diabetes	or	
-A-204	heart disease	heart disease	diabetes	diabetes	and its prevention—or cancer or	
-A-204	doctors	doctors	health	health	to: “forget the bland statistics of public	
-A-204	tomato effect	tomato effect	disease	disease	and lifestyle medicine: treating the causes of	
 A-204	tomato effect	tomato effect	lifestyle medicine	lifestyle medicine	and	
 A-204	medical profession	medical profession	ornish	ornish	have known—	
-A-204	exercise	exercise	diet	diet	), forks (	
-A-204	doctors	doctors	lifestyle medicine	lifestyle medicine	to embrace	
-A-204	doctors	doctors	public health	public health	to do about it: put a face on	
-A-204	health	health	doctors	doctors	promotion, to reach	
-A-204	yale	yale	dr. david katz	dr. david katz	’s prevention research center	
-A-204	disease	disease	cancer	cancer	and its prevention—or	
-A-204	heart disease	heart disease	prevention	prevention	and its	

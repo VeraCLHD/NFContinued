@@ -1,57 +1,8 @@
 
-T-322	broccoli	broccoli	cooked meat	cooked meat	and brussels sprouts to a meal of	
-T-322	sprouts	sprouts	bile	bile	are among the vegetable that bind	
-T-322	vegetables	vegetables	cauliflower	cauliflower	including broccoli, kale,	
-T-322	plant-based	plant-based	diet	diet		
-T-322	plant-based	plant-based	cancer	cancer	diet may have actually reversed progression of prostate	
-T-322	cruciferous vegetables	cruciferous vegetables	brussels sprouts	brussels sprouts	like	
-T-322	plant-based diet	plant-based diet	sprouts	sprouts	may have actually reversed progression of prostate cancer.brussels	
-T-322	prostate	prostate	sprouts	sprouts	cancer.brussels	
-T-322	vegetables	vegetables	sprouts	sprouts	like brussels	
-T-322	sprouts	sprouts	meat	meat	to a meal of cooked	
-T-322	brussels sprouts	brussels sprouts	meat	meat	to a meal of cooked	
-T-322	prostate	prostate	cancer	cancer		
-T-322	plant-based diet	plant-based diet	prostate	prostate	may have actually reversed progression of	
-T-322	prostate	prostate	bile acids	bile acids	cancer.brussels sprouts are among the vegetable that bind	
-T-322	mutagens	mutagens	liver	liver	circulating in the bloodstream and sustained improved	
-T-322	bile	bile	risk	risk	acids best, thus potentially reducing cancer	
-T-322	vegetables	vegetables	kale	kale	including broccoli,	
-T-322	plant-based diet	plant-based diet	cancer	cancer	may have actually reversed progression of prostate	
-T-322	respiratory infections	respiratory infections	vegetables	vegetables	like the common cold.scientists have found that cruciferous	
-T-322	cancer	cancer	infections	infections	and suppressing upper respiratory	
-T-322	cooked meat	cooked meat	meat	meat	greatly reduced the volume of	
-T-322	bile	bile	cancer	cancer	acids best, thus potentially reducing	
-T-322	diet	diet	cancer	cancer	may have actually reversed progression of prostate	
 T-322	diet	diet	prostate	prostate	may have actually reversed progression of	
-T-322	vegetables	vegetables	cabbage	cabbage	including broccoli, kale, cauliflower, and	
-T-322	respiratory infections	respiratory infections	cruciferous vegetables	cruciferous vegetables	like the common cold.scientists have found that	
-T-322	broccoli	broccoli	sprouts	sprouts	and brussels	
-T-322	cancer	cancer	bile	bile	.brussels sprouts are among the vegetable that bind	
-T-322	vegetables	vegetables	broccoli	broccoli	including	
+T-322	sprouts	sprouts	bile	bile	are among the vegetable that bind	
 T-322	bile acids	bile acids	cancer	cancer	best, thus potentially reducing	
-T-322	cruciferous vegetables	cruciferous vegetables	sprouts	sprouts	like brussels	
-T-322	sprouts	sprouts	cooked meat	cooked meat	to a meal of	
-T-322	diet	diet	sprouts	sprouts	may have actually reversed progression of prostate cancer.brussels	
-T-322	sprouts	sprouts	bile acids	bile acids	are among the vegetable that bind	
-T-322	pathogens	pathogens	immune function	immune function	and sustain intestinal	
-T-322	bile acids	bile acids	risk	risk	best, thus potentially reducing cancer	
-T-322	meat	meat	mutagens	mutagens	greatly reduced the volume of meat	
-T-322	brussels sprouts	brussels sprouts	cooked meat	cooked meat	to a meal of	
-T-322	prostate	prostate	bile	bile	cancer.brussels sprouts are among the vegetable that bind	
-T-322	vegetables	vegetables	brussels sprouts	brussels sprouts	like	
-T-322	risk	risk	diet	diet	of inflammatory bowel diseases than a conventional meat-based	
-T-322	phytonutrient	phytonutrient	stomach	stomach	that is converted by our	
-T-322	cancer	cancer	sprouts	sprouts	.brussels	
-T-322	broccoli	broccoli	meat	meat	and brussels sprouts to a meal of cooked	
-T-322	cancer	cancer	bile acids	bile acids	.brussels sprouts are among the vegetable that bind	
-T-322	liver	liver	prostate cancer	prostate cancer	function two weeks later.when scientists got	
-T-322	liver	liver	cancer	cancer	function two weeks later.when scientists got prostate	
-T-322	psa	psa	tumor	tumor	doubling time (how fast the	
-T-322	infections	infections	cruciferous vegetables	cruciferous vegetables	like the common cold.scientists have found that	
-T-322	cruciferous vegetables	cruciferous vegetables	phytonutrient	phytonutrient	like brussels sprouts contain a	
-T-322	infections	infections	vegetables	vegetables	like the common cold.scientists have found that cruciferous	
-T-322	cancer	cancer	respiratory infections	respiratory infections	and suppressing upper	
-T-322	cooked meat	cooked meat	mutagens	mutagens	greatly reduced the volume of meat	
-T-322	liver	liver	prostate	prostate	function two weeks later.when scientists got	
-T-322	plant-based	plant-based	prostate	prostate	diet may have actually reversed progression of	
+T-322	plant-based diet	plant-based diet	prostate	prostate	may have actually reversed progression of	
+T-322	vegetables	vegetables	broccoli	broccoli	including	
 T-322	broccoli	broccoli	brussels sprouts	brussels sprouts	and	
+T-322	sprouts	sprouts	bile acids	bile acids	are among the vegetable that bind	

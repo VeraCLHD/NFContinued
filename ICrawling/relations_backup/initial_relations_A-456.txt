@@ -1,25 +1,5 @@
 
-A-456	herbivore	herbivore	broccoli	broccoli	is like, “ew, this tastes like	
-A-456	lemon	lemon	juice	juice		
 A-456	herbivore	herbivore	chewing	chewing	starts	
 A-456	glucoraphanin	glucoraphanin	sulforaphane	sulforaphane	and	
-A-456	kohlrabi	kohlrabi	broccoli	broccoli	and bronze to cauliflower;	
-A-456	enzymes	enzymes	cooking	cooking	in both these cases are inactivated by	
-A-456	kohlrabi	kohlrabi	cauliflower	cauliflower	and bronze to	
-A-456	kohlrabi	kohlrabi	broccoli raab	broccoli raab	and bronze to cauliflower;	
 A-456	broccoli	broccoli	sulforaphane	sulforaphane	is an exceptional source of	
-A-456	broccoli	broccoli	herbivore	herbivore	—not until some	
-A-456	liver	liver	enzymes	enzymes	’s own detoxifying	
-A-456	broccoli	broccoli	garlic	garlic	count on a little lemon juice and some	
-A-456	broccoli	broccoli	chewing	chewing	—not until some herbivore starts	
-A-456	broccoli	broccoli	lemon	lemon	count on a little	
-A-456	garlic	garlic	tahini	tahini	—maybe a little	
-A-456	broccoli	broccoli	juice	juice	count on a little lemon	
-A-456	juice	juice	tahini	tahini	and some garlic—maybe a little	
-A-456	liver	liver	detoxifying enzymes	detoxifying enzymes	’s own	
-A-456	lemon	lemon	garlic	garlic	juice and some	
-A-456	lemon	lemon	tahini	tahini	juice and some garlic—maybe a little	
 A-456	phytonutrient	phytonutrient	sulforaphane	sulforaphane	called	
-A-456	juice	juice	garlic	garlic	and some	
-A-456	glow stick	glow stick	garlic	garlic	” reaction happens in	
-A-456	cheap	cheap	liver	liver	—our	

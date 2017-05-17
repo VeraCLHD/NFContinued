@@ -1,67 +1,13 @@
 
-A-227	juice	juice	apple juice	apple juice	(see best fruit juice and	
-A-227	fruit juice	fruit juice	apple	apple	and	
-A-227	fruit	fruit	fruit juice	fruit juice	than drink the juice (see best	
-A-227	energy	energy	muscles	muscles	in our	
-A-227	erythritol	erythritol	antioxidant	antioxidant	may be a sweet	
-A-227	juice	juice	fruit	fruit	(see best	
-A-227	vitamin c	vitamin c	sugar	sugar	enriched	
-A-227	fatigue	fatigue	citrus	citrus	with	
-A-227	fruit	fruit	antioxidants	antioxidants	comes prepackaged with	
-A-227	sugar	sugar	orange juice	orange juice	in the form of	
 A-227	fruit juice	fruit juice	apple juice	apple juice	and	
-A-227	juice	juice	apple	apple	(see best fruit juice and	
-A-227	glucose	glucose	energy	energy	and breathe in oxygen to make the	
-A-227	sugar	sugar	juice	juice	in the form of orange	
-A-227	water	water	vitamin c	vitamin c	either, because it’s not the	
-A-227	oxidation	oxidation	digestion	digestion	of	
-A-227	women	women	calories	calories	eat about 1800	
-A-227	fruit juice	fruit juice	sugar	sugar	and apple juice may be worse than	
-A-227	digestion	digestion	free radicals	free radicals	isn’t the only physiological source of	
-A-227	vitamin c	vitamin c	water	water	enriched sugar	
-A-227	sugar	sugar	orange	orange	in the form of	
-A-227	fat	fat	blood	blood	in our	
-A-227	plant-based	plant-based	stress	stress	diets and cellular	
-A-227	glucose	glucose	energy	energy	to make	
-A-227	fruit juice	fruit juice	water	water	and apple juice may be worse than sugar	
-A-227	organic	organic	glucose	glucose	compounds like	
-A-227	free radicals	free radicals	disease	disease	play in aging and	
-A-227	fruit	fruit	juice	juice	than drink the	
-A-227	energy	energy	free radicals	free radicals	is messy, though, and generates	
-A-227	sugar	sugar	oxidation	oxidation	water increases the level of	
-A-227	citrus	citrus	phytonutrients	phytonutrients		
-A-227	free radicals	free radicals	aging	aging	play in	
-A-227	antioxidants	antioxidants	oxidation	oxidation	to counter the	
-A-227	apple juice	apple juice	water	water	may be worse than sugar	
-A-227	vitamin e	vitamin e	antioxidant	antioxidant	levels in our blood as our body’s	
-A-227	diet	diet	free radicals	free radicals	that we can’t even keep up with the	
-A-227	plant-based diets	plant-based diets	stress	stress	and cellular	
-A-227	stress	stress	watercress	watercress	with	
-A-227	water	water	vitamin e	vitamin e	ingestion, and the corresponding drop in	
 A-227	apple juice	apple juice	sugar	sugar	may be worse than	
-A-227	sugar	sugar	water	water		
-A-227	vitamin e	vitamin e	blood	blood	levels in our	
-A-227	phytonutrients	phytonutrients	oxidation	oxidation	like hesperetin and naringenin that beat back the	
-A-227	plants	plants	carbs	carbs	use to make	
-A-227	juice	juice	fruit juice	fruit juice	(see best	
-A-227	blood	blood	sugar	sugar	one, two, and three hours after	
-A-227	orange	orange	juice	juice		
-A-227	sugar	sugar	phytonutrients	phytonutrients	always comes with	
-A-227	orange	orange	oxidation	oxidation	juice, we don’t get that spike in	
-A-227	plants	plants	water	water	then take the	
-A-227	apple	apple	juice	juice		
-A-227	apple	apple	water	water	juice may be worse than sugar	
-A-227	antioxidants	antioxidants	digestion	digestion	to counter the oxidation of	
+A-227	free radicals	free radicals	aging	aging	play in	
+A-227	fruit juice	fruit juice	apple	apple	and	
+A-227	water	water	vitamin c	vitamin c	either, because it’s not the	
 A-227	water	water	oxidation	oxidation	increases the level of	
-A-227	blood	blood	water	water	one, two, and three hours after sugar	
+A-227	oxidation	oxidation	digestion	digestion	of	
+A-227	plants	plants	carbs	carbs	use to make	
+A-227	blood	blood	sugar	sugar	one, two, and three hours after	
 A-227	aging	aging	disease	disease	and	
-A-227	apple	apple	sugar	sugar	juice may be worse than	
-A-227	antioxidants	antioxidants	diet	diet	in our	
-A-227	oxidative stress	oxidative stress	watercress	watercress	with	
-A-227	free radicals	free radicals	exercise	exercise	—	
-A-227	digestion	digestion	exercise	exercise	isn’t the only physiological source of free radicals—	
-A-227	fruit	fruit	juice	juice		
-A-227	glucose	glucose	free radicals	free radicals	to make energy is messy, though, and generates	
-A-227	fruit juice	fruit juice	juice	juice	and apple	
-A-227	sugar	sugar	vitamin e	vitamin e	water ingestion, and the corresponding drop in	
-A-227	sugar	sugar	vitamin c	vitamin c	water either, because it’s not the	
+A-227	women	women	calories	calories	eat about 1800	
+A-227	erythritol	erythritol	antioxidant	antioxidant	may be a sweet	

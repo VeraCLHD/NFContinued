@@ -1,45 +1,7 @@
 
-V-1095	corn	corn	swiss chard	swiss chard	on the cob, onions, peas, bell peppers, spinach,	
-V-1095	corn	corn	bell peppers	bell peppers	on the cob, onions, peas,	
-V-1095	corn	corn	peas	peas	on the cob, onions,	
-V-1095	vegetables	vegetables	cooking	cooking	that weren’t affected by	
-V-1095	corn	corn	onions	onions	on the cob,	
-V-1095	antioxidant	antioxidant	raw	raw	power of six florets of	
-V-1095	corn	corn	peppers	peppers	on the cob, onions, peas, bell	
-V-1095	cooking	cooking	broccoli	broccoli	methods on the phytonutrients in	
-V-1095	raw	raw	broccoli	broccoli		
-V-1095	cooking	cooking	nutrition	nutrition	methods, some of the	
-V-1095	green beans	green beans	beans	beans	are actually healthier than raw green	
+V-1095	vegetables	vegetables	antioxidant	antioxidant	that, no matter what you do to them, they increase in	
 V-1095	nutrition	nutrition	cooking	cooking	is lost into the	
-V-1095	raw	raw	cauliflower	cauliflower	brussels sprouts,	
-V-1095	antioxidant	antioxidant	green beans	green beans	power when you cook them, so microwaved	
-V-1095	corn	corn	spinach	spinach	on the cob, onions, peas, bell peppers,	
-V-1095	boiling	boiling	cooking	cooking	and pressure	
-V-1095	raw	raw	eggplant	eggplant	brussels sprouts, cauliflower, carrots, celery,	
-V-1095	raw	raw	celery	celery	brussels sprouts, cauliflower, carrots,	
-V-1095	beans	beans	raw	raw	are actually healthier than	
-V-1095	raw	raw	green beans	green beans		
-V-1095	antioxidant	antioxidant	broccoli	broccoli	power of six florets of raw	
-V-1095	boiling	boiling	pressure cooking	pressure cooking	and	
 V-1095	boiling	boiling	antioxidants	antioxidants	removes only about 14% of the	
-V-1095	boiled	boiled	raw	raw	broccoli has all the antioxidant power of six florets of	
-V-1095	cooking methods	cooking methods	broccoli	broccoli	on the phytonutrients in	
-V-1095	green beans	green beans	raw	raw	are actually healthier than	
-V-1095	raw	raw	beans	beans	brussels sprouts, cauliflower, carrots, celery, eggplant, garlic, green	
-V-1095	raw	raw	carrots	carrots	brussels sprouts, cauliflower,	
-V-1095	raw	raw	garlic	garlic	brussels sprouts, cauliflower, carrots, celery, eggplant,	
-V-1095	boiled	boiled	antioxidant	antioxidant	broccoli has all the	
-V-1095	raw	raw	sprouts	sprouts	brussels	
-V-1095	raw	raw	brussels sprouts	brussels sprouts		
-V-1095	broccoli	broccoli	raw	raw	has all the antioxidant power of six florets of	
-V-1095	raw	raw	beans	beans	green	
-V-1095	cooking methods	cooking methods	phytonutrients	phytonutrients	on the	
-V-1095	broccoli	broccoli	antioxidant	antioxidant	has all the	
-V-1095	cooking	cooking	phytonutrients	phytonutrients	methods on the	
-V-1095	raw	raw	green beans	green beans	brussels sprouts, cauliflower, carrots, celery, eggplant, garlic,	
-V-1095	boiled	boiled	broccoli	broccoli		
-V-1095	nutrition	nutrition	water	water	is lost into the cooking	
-V-1095	boiling	boiling	antioxidant	antioxidant	and pressure cooking, they actually increase in	
-V-1095	antioxidant	antioxidant	beans	beans	power when you cook them, so microwaved green	
 V-1095	phytonutrients	phytonutrients	broccoli	broccoli	in	
-V-1095	beans	beans	green beans	green beans	are actually healthier than raw	
+V-1095	broccoli	broccoli	antioxidant	antioxidant	has all the	
+V-1095	boiling	boiling	pressure cooking	pressure cooking	and	

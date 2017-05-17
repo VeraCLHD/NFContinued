@@ -1,16 +1,5 @@
 
-T-478	ldl	ldl	coconut oil	coconut oil	under 60 or 70,	
-T-478	children	children	insecticides	insecticides	to	
+T-478	coconut oil	coconut oil	saturated fat	saturated fat	is one of the rare plant sources of	
 T-478	coconut oil	coconut oil	coconut water	coconut water	is not to be confused with	
 T-478	medium-chain fatty acids	medium-chain fatty acids	coconut oil	coconut oil	in	
-T-478	pollution	pollution	carcinogens	carcinogens	created produces volatile	
-T-478	air pollution	air pollution	carcinogens	carcinogens	created produces volatile	
-T-478	meat	meat	coconuts	coconuts	of mature	
-T-478	treatment	treatment	head lice	head lice	for	
-T-478	coconut oil	coconut oil	cholesterol	cholesterol	significantly worsened bad	
-T-478	coconut oil	coconut oil	saturated fat	saturated fat	is one of the rare plant sources of	
-T-478	coconut oil	coconut oil	water	water	is not to be confused with coconut	
-T-478	coconut oil	coconut oil	bad cholesterol	bad cholesterol	significantly worsened	
-T-478	carcinogens	carcinogens	risk	risk	and may pose a respiratory	
-T-478	children	children	canola	canola	cured with the insecticide treatments.compared with	
-T-478	risk	risk	heart disease	heart disease	factor for the #1 killer in the u.s.,	
+T-478	coconut oil	coconut oil	fat	fat	is one of the rare plant sources of saturated	

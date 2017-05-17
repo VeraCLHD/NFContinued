@@ -1,11 +1,2 @@
 
-V-743	bmi	bmi	protein	protein	and slimmer waist—indicating that the intakes of plant	
-V-743	beef	beef	nutrition	nutrition	association’s speakers wrote to the american journal of clinical	
-V-743	bmi	bmi	plant protein	plant protein	and slimmer waist—indicating that the intakes of	
-V-743	body mass index	body mass index	protein	protein	and waistline, whereas plant	
 V-743	body mass index	body mass index	waistline	waistline	and	
-V-743	animal protein	animal protein	body mass index	body mass index	intake was associated with bigger	
-V-743	body mass index	body mass index	plant protein	plant protein	and waistline, whereas	
-V-743	protein	protein	body mass index	body mass index	intake was associated with bigger	
-V-743	plant protein	plant protein	bmi	bmi	intake was associated with a smaller	
-V-743	epic	epic	nutrition	nutrition	study, one of the largest studies on human	

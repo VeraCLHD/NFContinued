@@ -1,24 +1,6 @@
 
-V-400	bacteria	bacteria	travel	travel	can be come resistant to the drugs, then	
+V-400	antibiotics	antibiotics	health	health	have become pivotal in safeguarding the overall	
 V-400	cdc	cdc	health	health	warn of a coming	
 V-400	mrsa	mrsa	meat	meat	gets into our homes on	
-V-400	surgery	surgery	treatment	treatment	and the	
-V-400	pigs	pigs	bacteria	bacteria	starter feeds.when animals receive unnecessary antibiotics,	
-V-400	doctors	doctors	antibiotics	antibiotics	overprescribe	
-V-400	fda	fda	united states	united states	reports that 80% of antibiotics in the	
-V-400	pigs	pigs	antibiotics	antibiotics	starter feeds.when animals receive unnecessary	
-V-400	infections	infections	food industry	food industry	for food preparers in the	
-V-400	treatment	treatment	babies	babies	of preterm	
-V-400	fda	fda	antibiotics	antibiotics	reports that 80% of	
-V-400	antibiotics	antibiotics	health	health	have become pivotal in safeguarding the overall	
-V-400	infections	infections	united states	united states	in the	
-V-400	bacteria	bacteria	mrsa	mrsa	like methicillin-resistant staph aureus, “mersa,” or	
-V-400	fish	fish	agriculture	agriculture	farming and other intensive animal	
-V-400	raw	raw	meat	meat		
 V-400	bacteria	bacteria	drugs	drugs	can be come resistant to the	
-V-400	raw	raw	pork	pork		
-V-400	antibiotics	antibiotics	united states	united states	in the	
-V-400	travel	travel	meat	meat	on	
-V-400	surgery	surgery	babies	babies	and the treatment of preterm	
-V-400	infections	infections	antibiotics	antibiotics	like carbapenem-resistent enterobacter resistant to nearly all	
-V-400	health	health	antibiotics	antibiotics	organization, more	
+V-400	doctors	doctors	antibiotics	antibiotics	overprescribe	

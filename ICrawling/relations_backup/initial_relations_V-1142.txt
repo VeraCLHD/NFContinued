@@ -1,8 +1,3 @@
 
-V-1142	cod	cod	liver	liver		
 V-1142	toxins	toxins	heavy metals	heavy metals	and	
-V-1142	cod liver oil	cod liver oil	toxins	toxins	that has been distilled to remove any industrial	
 V-1142	industrial toxins	industrial toxins	heavy metals	heavy metals	and	
-V-1142	cod liver oil	cod liver oil	industrial toxins	industrial toxins	that has been distilled to remove any	
-V-1142	cod	cod	liver	liver	’s	
-V-1142	liver	liver	industrial toxins	industrial toxins	oil that has been distilled to remove any	

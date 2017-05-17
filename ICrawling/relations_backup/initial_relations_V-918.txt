@@ -1,17 +1,5 @@
 
 V-918	nuts	nuts	seeds	seeds	and	
-V-918	nuts	nuts	soy	soy	and seeds, oils, beef, poultry, pork, fish, cheese,	
-V-918	nuts	nuts	poultry	poultry	and seeds, oils, beef,	
-V-918	raw	raw	apples	apples		
-V-918	nuts	nuts	cheese	cheese	and seeds, oils, beef, poultry, pork, fish,	
 V-918	glycotoxins	glycotoxins	diet	diet	is our	
-V-918	nuts	nuts	oils	oils	and seeds,	
-V-918	hummus	hummus	candy	candy	and veggie burgers,	
-V-918	hummus	hummus	burgers	burgers	and veggie	
-V-918	diet	diet	plant foods	plant foods	rich in	
 V-918	apples	apples	raw	raw	have three times more than	
-V-918	nuts	nuts	pork	pork	and seeds, oils, beef, poultry,	
 V-918	hummus	hummus	veggie burgers	veggie burgers	and	
-V-918	boiled	boiled	chicken	chicken		
-V-918	nuts	nuts	fish	fish	and seeds, oils, beef, poultry, pork,	
-V-918	nuts	nuts	beef	beef	and seeds, oils,	

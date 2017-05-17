@@ -1,23 +1,4 @@
 
-V-912	tea	tea	green tea	green tea	—tea made out of powdered	
-V-912	matcha	matcha	tea	tea		
-V-912	water	water	tea	tea	—8 cups; 4 bags of	
-V-912	hibiscus	hibiscus	tea	tea		
-V-912	milk	milk	wine	wine	get a 1; glass of white	
-V-912	antioxidant	antioxidant	grape juice	grape juice	power of white, but neither as good as	
 V-912	beverage	beverage	tea	tea	could possibly be better than actually eating green	
 V-912	beverage	beverage	green tea	green tea	could possibly be better than actually eating	
-V-912	antioxidant	antioxidant	beverage	beverage		
-V-912	antioxidant	antioxidant	fruit	fruit	beverage in the world, and it tastes like	
-V-912	beverage	beverage	fruit	fruit	in the world, and it tastes like	
-V-912	tea	tea	mint	mint	into a blender with a bunch of fresh	
-V-912	juice	juice	erythritol	erythritol	of one lemon, and 3 tablespoons of	
-V-912	tea	tea	mint leaves	mint leaves	into a blender with a bunch of fresh	
 V-912	water	water	antioxidants	antioxidants	has zero	
-V-912	matcha	matcha	green tea	green tea	tea—tea made out of powdered	
-V-912	water	water	red bull	red bull	has zero antioxidants, as does	
-V-912	tea	tea	hibiscus	hibiscus	in which	
-V-912	milk	milk	white wine	white wine	get a 1; glass of	
-V-912	water	water	hibiscus	hibiscus	—8 cups; 4 bags of tea in which	
-V-912	red wine	red wine	antioxidant	antioxidant	—seven times the	
-V-912	juice	juice	lemon	lemon	of one	

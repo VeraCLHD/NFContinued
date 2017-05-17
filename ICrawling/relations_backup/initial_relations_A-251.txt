@@ -1,40 +1,10 @@
 
-A-251	immune function	immune function	risk	risk	and lowers upper respiratory infection	
-A-251	symptoms	symptoms	placebo	placebo	while taking a	
 A-251	athletes	athletes	stress	stress	do, we may actually put excessive	
-A-251	exercise	exercise	fiber	fiber	by consuming a special type of	
-A-251	infection	infection	placebo	placebo	symptoms while taking a	
-A-251	upper respiratory tract infection	upper respiratory tract infection	placebo	placebo	symptoms while taking a	
-A-251	nutritional yeast	nutritional yeast	infection	infection	cut their rates of	
-A-251	immune system	immune system	physical activity	physical activity	take place during each bout of moderate	
-A-251	vitamin b12	vitamin b12	b12	b12	(safest source of	
-A-251	white blood cells	white blood cells	exercise	exercise	after exhaustive	
-A-251	physical activity	physical activity	immune function	immune function	improves	
-A-251	athletes	athletes	nutritional yeast	nutritional yeast	with	
-A-251	risk	risk	infection	infection	of	
-A-251	fiber	fiber	nutritional yeast	nutritional yeast	found in baker’s, brewer’s, and	
-A-251	common cold	common cold	respiratory infections	respiratory infections	and other upper	
-A-251	physical activity	physical activity	infection	infection	improves immune function and lowers upper respiratory	
-A-251	stress	stress	infection	infection	on our body and increase our risk of	
-A-251	sports	sports	athletes	athletes	medicine doesn’t appear to offer much help, advising	
-A-251	immune function	immune function	infection	infection	and lowers upper respiratory	
-A-251	infection	infection	symptoms	symptoms		
-A-251	upper respiratory tract infection	upper respiratory tract infection	symptoms	symptoms		
-A-251	infection	infection	risk	risk		
-A-251	cold	cold	respiratory infections	respiratory infections	and other upper	
-A-251	sports	sports	medicine	medicine		
-A-251	common cold	common cold	infections	infections	and other upper respiratory	
-A-251	medicine	medicine	athletes	athletes	doesn’t appear to offer much help, advising	
-A-251	cold	cold	infections	infections	and other upper respiratory	
-A-251	sports medicine	sports medicine	athletes	athletes	doesn’t appear to offer much help, advising	
-A-251	athletes	athletes	yeast	yeast	with nutritional	
-A-251	fiber	fiber	yeast	yeast	found in baker’s, brewer’s, and nutritional	
-A-251	fiber	fiber	yeast	yeast	found in nutritional	
-A-251	stress	stress	risk	risk	on our body and increase our	
+A-251	kids	kids	blood	blood	run around for just six minutes and we can boost the number of immune cells circulating in their	
 A-251	athletes	athletes	mood	mood	tend to normally experience deterioration in	
-A-251	blood	blood	exercise	exercise	cells after exhaustive	
 A-251	yeast	yeast	infection	infection	cut their rates of	
+A-251	nutritional yeast	nutritional yeast	infection	infection	cut their rates of	
 A-251	fiber	fiber	nutritional yeast	nutritional yeast	found in	
-A-251	yeast	yeast	nutritional yeast	nutritional yeast	is bitter, but	
-A-251	sugar	sugar	pills	pills		
-A-251	physical activity	physical activity	risk	risk	improves immune function and lowers upper respiratory infection	
+A-251	immune system	immune system	physical activity	physical activity	take place during each bout of moderate	
+A-251	physical activity	physical activity	immune function	immune function	improves	
+A-251	risk	risk	infection	infection	of	

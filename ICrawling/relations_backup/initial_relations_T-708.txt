@@ -1,47 +1,10 @@
 
-T-708	risk	risk	meat	meat	as	
 T-708	vegans	vegans	diabetes	diabetes	had half the	
-T-708	growth hormones	growth hormones	cancer	cancer	in their blood drop dramatically, which could reduce	
-T-708	exercise	exercise	risk	risk	may significantly decrease breast cancer	
-T-708	vegans	vegans	meat	meat	who exercise no more than	
-T-708	heart disease	heart disease	diet	diet	through	
-T-708	endorphins	endorphins	exercise	exercise	(natural pain relievers) are released during	
-T-708	exercise	exercise	harvard	harvard	has been found in the	
-T-708	blood	blood	cancer	cancer	drop dramatically, which could reduce	
-T-708	heart disease	heart disease	exercise	exercise	through diet and	
-T-708	exercise	exercise	obesity	obesity	is a risk factor for	
-T-708	disease	disease	diet	diet	through	
-T-708	pain	pain	exercise	exercise	relievers) are released during	
-T-708	cancer	cancer	risk	risk		
-T-708	risk	risk	heart disease	heart disease	of dying from	
-T-708	diabetes	diabetes	meat	meat	risk as	
-T-708	women	women	diet	diet	placed on a plant based	
-T-708	breast cancer	breast cancer	risk	risk		
-T-708	bad cholesterol	bad cholesterol	cholesterol	cholesterol	to drop and good	
-T-708	exercise	exercise	breast cancer	breast cancer	may significantly decrease	
-T-708	hormones	hormones	blood	blood	in their	
-T-708	blood pressure	blood pressure	exercise	exercise	and increasing	
-T-708	diet	diet	exercise	exercise	with	
-T-708	vegans	vegans	risk	risk	had half the diabetes	
-T-708	exercise	exercise	nitrate	nitrate	tolerance may be due to vegetable	
-T-708	diabetes	diabetes	risk	risk		
-T-708	exercise	exercise	meat	meat	no more than	
-T-708	vegans	vegans	exercise	exercise	who	
-T-708	blood	blood	exercise	exercise	pressure and increasing	
-T-708	exercise	exercise	hormones	hormones	were found to have levels of growth	
-T-708	risk	risk	disease	disease	of dying from heart	
 T-708	exercise	exercise	risk	risk	is a	
-T-708	cancer	cancer	exercise	exercise	survivors may survive longer if they	
-T-708	blood	blood	risk	risk	drop dramatically, which could reduce cancer	
-T-708	growth hormones	growth hormones	blood	blood	in their	
-T-708	hormones	hormones	cancer	cancer	in their blood drop dramatically, which could reduce	
-T-708	exercise	exercise	cancer	cancer	may significantly decrease breast	
-T-708	women	women	exercise	exercise	placed on a plant based diet with	
-T-708	disease	disease	exercise	exercise	through diet and	
-T-708	diet	diet	growth hormones	growth hormones	with exercise were found to have levels of	
-T-708	risk	risk	obesity	obesity	factor for	
-T-708	vegans	vegans	meat	meat	had half the diabetes risk as	
-T-708	endorphins	endorphins	pain	pain	(natural	
-T-708	chewing gum	chewing gum	exercise	exercise	expends 11 calories/hour, but that hardly counts as	
+T-708	women	women	diet	diet	placed on a plant based	
+T-708	exercise	exercise	harvard	harvard	has been found in the	
+T-708	exercise	exercise	breast cancer	breast cancer	may significantly decrease	
+T-708	beets	beets	energy	energy	have been found to boost athletic performance by possibly increasing	
 T-708	exercise	exercise	growth hormones	growth hormones	were found to have levels of	
 T-708	diet	diet	exercise	exercise	and	
+T-708	doctors	doctors	exercise	exercise	are not aware of the possible healing effects of lifestyle modifications such as	

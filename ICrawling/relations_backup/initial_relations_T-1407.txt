@@ -1,54 +1,13 @@
 
 T-1407	nuts	nuts	cholesterol	cholesterol	help lower	
-T-1407	disease	disease	alcohol	alcohol	and respiratory disease, regardless of age, weight,	
+T-1407	blood sugar	blood sugar	harvard	harvard	levels.among the findings from a	
+T-1407	sugar	sugar	harvard study	harvard study	levels.among the findings from a	
+T-1407	sugar	sugar	harvard	harvard	levels.among the findings from a	
 T-1407	nuts	nuts	cancer	cancer	may combat other types of	
 T-1407	pecans	pecans	peanuts	peanuts	and	
-T-1407	blood	blood	harvard	harvard	sugar levels.among the findings from a	
-T-1407	hazelnuts	hazelnuts	pistachios	pistachios	(or filberts),	
-T-1407	nuts	nuts	cancer	cancer	against human colon	
-T-1407	risk	risk	breast disease	breast disease	for fibrocystic	
-T-1407	harvard	harvard	breast cancer	breast cancer	nurse’s study indicates early nut consumption may prevent	
-T-1407	filberts	filberts	almonds	almonds	), pistachios and	
-T-1407	colon	colon	cancer cells	cancer cells		
-T-1407	breast cancer	breast cancer	risk	risk		
-T-1407	fiber	fiber	nuts	nuts	and	
-T-1407	peanut	peanut	lentils	lentils	butter, nuts, beans,	
-T-1407	colon	colon	cancer	cancer		
-T-1407	pistachios	pistachios	almonds	almonds	and	
-T-1407	heart disease	heart disease	alcohol	alcohol	and respiratory disease, regardless of age, weight,	
-T-1407	heart disease	heart disease	disease	disease	and respiratory	
-T-1407	nuts	nuts	pecans	pecans	may combat other types of cancer, walnuts,	
-T-1407	sugar	sugar	harvard	harvard	levels.among the findings from a	
-T-1407	peanut	peanut	soybeans	soybeans	butter, nuts, beans, lentils,	
 T-1407	soybeans	soybeans	corn	corn	or	
-T-1407	peanut	peanut	butter	butter		
-T-1407	fiber	fiber	butter	butter	and nuts during adolescence, like peanut	
-T-1407	peanut	peanut	corn	corn	butter, nuts, beans, lentils, soybeans or	
-T-1407	liver	liver	cancer	cancer		
-T-1407	fiber	fiber	adolescence	adolescence	and nuts during	
-T-1407	cholesterol	cholesterol	oxidation	oxidation	and	
-T-1407	risk	risk	fibrocystic breast disease	fibrocystic breast disease	for	
-T-1407	fiber	fiber	peanut butter	peanut butter	and nuts during adolescence, like	
-T-1407	fiber	fiber	peanut	peanut	and nuts during adolescence, like	
 T-1407	risk	risk	nuts	nuts	compared to those who rarely ate	
-T-1407	peanut	peanut	beans	beans	butter, nuts,	
+T-1407	fiber	fiber	nuts	nuts	and	
 T-1407	blood sugar	blood sugar	harvard study	harvard study	levels.among the findings from a	
-T-1407	blood sugar	blood sugar	harvard	harvard	levels.among the findings from a	
-T-1407	body mass index	body mass index	harvard	harvard	or waist circumference.data gleaned from the	
-T-1407	blood	blood	harvard study	harvard study	sugar levels.among the findings from a	
-T-1407	peanut	peanut	nuts	nuts	butter,	
-T-1407	cancer	cancer	risk	risk		
-T-1407	soybeans	soybeans	risk	risk	or corn, had a fraction of the	
-T-1407	hazelnuts	hazelnuts	almonds	almonds	(or filberts), pistachios and	
-T-1407	hazelnuts	hazelnuts	filberts	filberts	(or	
-T-1407	nuts	nuts	walnuts	walnuts	may combat other types of cancer,	
-T-1407	cholesterol	cholesterol	blood sugar	blood sugar	and oxidation, improve arterial function, and decrease	
-T-1407	sugar	sugar	harvard study	harvard study	levels.among the findings from a	
-T-1407	nuts	nuts	weight gain	weight gain	leads to	
-T-1407	risk	risk	disease	disease	for fibrocystic breast	
-T-1407	cholesterol	cholesterol	blood	blood	and oxidation, improve arterial function, and decrease	
-T-1407	alcohol	alcohol	exercise	exercise	intake or	
-T-1407	nuts	nuts	oxidation	oxidation	help lower cholesterol and	
-T-1407	fiber	fiber	beans	beans	and nuts during adolescence, like peanut butter, nuts,	
-T-1407	cholesterol	cholesterol	sugar	sugar	and oxidation, improve arterial function, and decrease blood	
-T-1407	blood	blood	sugar	sugar		
+T-1407	pistachios	pistachios	almonds	almonds	and	
+T-1407	cholesterol	cholesterol	oxidation	oxidation	and	

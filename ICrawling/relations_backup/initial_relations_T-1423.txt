@@ -1,26 +1,7 @@
 
-T-1423	meat	meat	thyroid	thyroid	and fish, may be linked to	
-T-1423	thyroid	thyroid	disease	disease		
-T-1423	plant-based	plant-based	industrial toxins	industrial toxins	diets may be significantly less polluted with	
-T-1423	health	health	endometriosis	endometriosis	concerns, including	
-T-1423	health	health	hypertension	hypertension	concerns, including endometriosis, gum disease, fibrosis, diabetes,	
-T-1423	toxins	toxins	omnivores	omnivores	than	
-T-1423	disease	disease	risk	risk		
-T-1423	health	health	diabetes	diabetes	concerns, including endometriosis, gum disease, fibrosis,	
-T-1423	plant-based	plant-based	toxins	toxins	diets may be significantly less polluted with industrial	
-T-1423	pollutants	pollutants	environment	environment	(pops) are chemical substances that persist in the	
-T-1423	organic	organic	pollutants	pollutants		
-T-1423	industrial toxins	industrial toxins	omnivores	omnivores	than	
-T-1423	restaurants	restaurants	supermarkets	supermarkets	and	
-T-1423	organic pollutants	organic pollutants	environment	environment	(pops) are chemical substances that persist in the	
-T-1423	persistent organic pollutants	persistent organic pollutants	environment	environment	(pops) are chemical substances that persist in the	
 T-1423	plant-based diets	plant-based diets	industrial toxins	industrial toxins	may be significantly less polluted with	
-T-1423	meat	meat	fish	fish	and	
-T-1423	meat	meat	disease	disease	and fish, may be linked to thyroid	
-T-1423	meat	meat	risk	risk	and fish, may be linked to thyroid disease	
-T-1423	thyroid disease	thyroid disease	risk	risk		
-T-1423	meat	meat	thyroid disease	thyroid disease	and fish, may be linked to	
-T-1423	health	health	disease	disease	concerns, including endometriosis, gum	
+T-1423	restaurants	restaurants	supermarkets	supermarkets	and	
 T-1423	dioxins	dioxins	pcbs	pcbs	and	
-T-1423	thyroid	thyroid	risk	risk	disease	
+T-1423	fish	fish	milk	milk	may be the biggest source of pops for consumers along with	
+T-1423	meat	meat	fish	fish	and	
 T-1423	plant-based diets	plant-based diets	toxins	toxins	may be significantly less polluted with industrial	

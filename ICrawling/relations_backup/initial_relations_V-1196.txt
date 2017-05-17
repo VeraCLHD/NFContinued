@@ -1,5 +1,2 @@
 
-V-1196	mangosteen	mangosteen	metabolism	metabolism	xanthones appear to poison cellular	
 V-1196	xanthones	xanthones	metabolism	metabolism	appear to poison cellular	
-V-1196	mangosteen	mangosteen	juice	juice		
-V-1196	mangosteen	mangosteen	xanthones	xanthones		

@@ -1,16 +1,2 @@
 
-V-895	diet	diet	fiber	fiber	(remember: same amount of	
-V-895	stool size	stool size	risk	risk	and decreased cancer	
-V-895	diet	diet	antioxidants	antioxidants	selected to raise the intake of dietary	
-V-895	antioxidant	antioxidant	diet	diet		
-V-895	fiber	fiber	fruits	fruits	and amount of	
-V-895	berries	berries	bananas	bananas	for	
-V-895	cancer	cancer	risk	risk		
-V-895	stool size	stool size	cancer	cancer	and decreased	
-V-895	fiber	fiber	vegetables	vegetables	and amount of fruits and	
-V-895	diet	diet	antioxidant	antioxidant	to increase stool weight and bowel	
-V-895	antioxidant	antioxidant	fiber	fiber	diet (remember: same amount of	
 V-895	fruits	fruits	vegetables	vegetables	and	
-V-895	gut	gut	flora	flora		
-V-895	fiber	fiber	stool size	stool size	), there was more than a doubling of	
-V-895	antioxidant	antioxidant	diet	diet	capacity	

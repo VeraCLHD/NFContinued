@@ -1,30 +1,5 @@
 
-V-54	blood	blood	pills	pills	pressure	
-V-54	kids	kids	pizza	pizza	and teens is	
-V-54	meat	meat	women	women	consumption for men and	
-V-54	salt	salt	poultry	poultry	to	
-V-54	diet	diet	pretzels	pretzels	is not canned soups,	
-V-54	blood pressure	blood pressure	pills	pills		
-V-54	diet	diet	potato chips	potato chips	is not canned soups, pretzels, or	
-V-54	sodium	sodium	pizza	pizza	for kids and teens is	
-V-54	stroke	stroke	heart attacks	heart attacks	deaths, and 16% of fatal	
-V-54	chicken	chicken	salt	salt	—because of all the	
-V-54	salt	salt	hypertension	hypertension	intake for african-americans, those with	
-V-54	vegetarians	vegetarians	american heart association	american heart association	did better, but still double the	
-V-54	public health	public health	smoking	smoking	scale “as interventions aimed at	
-V-54	sodium	sodium	meat	meat	would necessitate a “precipitous drop” in	
-V-54	sodium	sodium	diet	diet	to the	
-V-54	sodium	sodium	kids	kids	for	
-V-54	dietary guidelines	dietary guidelines	american heart association	american heart association	recommend getting under 2,300 a day, and the	
-V-54	sodium	sodium	pretzels	pretzels	to the diet is not canned soups,	
-V-54	smoking	smoking	blood pressure	blood pressure	cessation, weight reduction,” and giving people	
-V-54	salt	salt	meats	meats	to poultry,	
 V-54	meats	meats	refined grain	refined grain	and	
-V-54	blood	blood	medications	medications	pressure and cholesterol-lowering	
 V-54	processed foods	processed foods	salt	salt	have so much	
 V-54	animal foods	animal foods	sodium	sodium	contain higher amounts of	
-V-54	health	health	smoking	smoking	scale “as interventions aimed at	
-V-54	smoking	smoking	blood	blood	cessation, weight reduction,” and giving people	
-V-54	blood pressure	blood pressure	medications	medications	and cholesterol-lowering	
-V-54	animal foods	animal foods	plant foods	plant foods	contain higher amounts of sodium than	
-V-54	salt	salt	fish	fish	to poultry, meats, and	
+V-54	sodium	sodium	meat	meat	would necessitate a “precipitous drop” in	

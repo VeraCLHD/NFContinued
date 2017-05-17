@@ -1,6 +1,2 @@
 
-V-1143	fish	fish	antibiotics	antibiotics	farmers do feed about two dozen human	
 V-1143	farmers	farmers	antibiotics	antibiotics	do feed about two dozen human	
-V-1143	gold	gold	retinopathy	retinopathy	dust	
-V-1143	antibiotics	antibiotics	fish	fish	to their	
-V-1143	fish	fish	farmers	farmers		

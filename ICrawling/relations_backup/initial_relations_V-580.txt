@@ -1,38 +1,12 @@
 
-V-580	carbs	carbs	potatoes	potatoes	in the form of bread, pasta, or	
-V-580	beans	beans	blood	blood	moderating your	
-V-580	sugar	sugar	carbs	carbs	spike you get with the same amount of	
-V-580	syndrome	syndrome	pre-diabetes	pre-diabetes	[or	
-V-580	rice	rice	syndrome	syndrome	was associated with a 35%…lower risk of…metabolic	
-V-580	blood sugar	blood sugar	insulin	insulin	and	
-V-580	lentils	lentils	breakfast	breakfast	for dinner, and then for	
-V-580	carbs	carbs	pasta	pasta	in the form of bread,	
-V-580	lentils	lentils	breakfast	breakfast	four hours earlier with 	
-V-580	risk	risk	pre-diabetes	pre-diabetes	of…metabolic syndrome [or	
-V-580	bread	bread	breakfast	breakfast	for	
-V-580	beans	beans	blood sugar	blood sugar	moderating your	
-V-580	blood	blood	insulin	insulin	sugar and	
-V-580	sugar	sugar	water	water		
-V-580	bread	bread	blood	blood	for breakfast, and get a big spike in	
-V-580	risk	risk	syndrome	syndrome	of…metabolic	
-V-580	sugar	sugar	insulin	insulin	and	
-V-580	produce	produce	propionate	propionate	compounds like	
-V-580	metabolic syndrome	metabolic syndrome	pre-diabetes	pre-diabetes	[or	
-V-580	rice	rice	metabolic syndrome	metabolic syndrome	was associated with a 35%…lower risk of…	
-V-580	blood sugar	blood sugar	carbs	carbs	spike you get with the same amount of	
-V-580	beans	beans	rice	rice	for one serving of white	
-V-580	risk	risk	metabolic syndrome	metabolic syndrome	of…	
-V-580	beans	beans	sugar	sugar	moderating your blood	
-V-580	bread	bread	blood sugar	blood sugar	for breakfast, and get a big spike in	
-V-580	gastric emptying	gastric emptying	stomach	stomach	—slows the rate at which food leaves our	
-V-580	beans	beans	glycemic index	glycemic index	have such a low	
-V-580	breakfast	breakfast	bread	bread	had less of a glycemic reaction to the	
 V-580	rice	rice	risk	risk	was associated with a 35%…lower	
-V-580	gut	gut	fiber	fiber	bacteria do with	
+V-580	beans	beans	blood sugar	blood sugar	moderating your	
+V-580	beans	beans	blood	blood	moderating your	
 V-580	gut bacteria	gut bacteria	fiber	fiber	do with	
-V-580	insulin	insulin	carbs	carbs	levels, but give the same amount of	
-V-580	gut	gut	bacteria	bacteria		
+V-580	blood sugar	blood sugar	carbs	carbs	spike you get with the same amount of	
 V-580	bacteria	bacteria	fiber	fiber	do with	
 V-580	beans	beans	glycemic index	glycemic index	have an exceptionally low	
-V-580	carbs	carbs	bread	bread	in the form of	
-V-580	blood	blood	sugar	sugar		
+V-580	blood sugar	blood sugar	insulin	insulin	and	
+V-580	beans	beans	glycemic index	glycemic index	have such a low	
+V-580	sugar	sugar	insulin	insulin	and	
+V-580	breakfast	breakfast	bread	bread	had less of a glycemic reaction to the	

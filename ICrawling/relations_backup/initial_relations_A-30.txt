@@ -1,19 +1,6 @@
 
-A-30	germany	germany	seeds	seeds	of a lotion made out of cilantro	
-A-30	cilantro	cilantro	twins	twins	preferences, whereas regular fraternal	
-A-30	cilantro	cilantro	anti-inflammatory	anti-inflammatory	plant is	
-A-30	cilantro	cilantro	sunburn	sunburn	seeds showing it could decrease the redness of a	
 A-30	seeds	seeds	sunburn	sunburn	 showing it could decrease the redness of a	
-A-30	cilantro	cilantro	coriander	coriander	—called	
-A-30	cilantro	cilantro	seeds	seeds		
-A-30	cilantro	cilantro	dna	dna	gene you’d have to analyze the	
-A-30	cilantro	cilantro	gout	gout	may be useful for those suffering from	
-A-30	uric acid	uric acid	cilantro	cilantro	levels, suggesting that huge amounts of	
-A-30	twins	twins	cilantro	cilantro	tend to share	
-A-30	germany	germany	cilantro	cilantro	of a lotion made out of	
-A-30	chemicals	chemicals	cilantro	cilantro	like e-(2)-decenal, a primary constituent of	
-A-30	salsa	salsa	cilantro	cilantro	ingredients is	
 A-30	cilantro	cilantro	bugs	bugs	does taste like	
-A-30	cilantro	cilantro	bugs	bugs	and also…the defensive secretions of stink	
 A-30	salsa	salsa	ketchup	ketchup	has replaced	
-A-30	inflammation	inflammation	cilantro	cilantro	—in the	
+A-30	cilantro	cilantro	gout	gout	may be useful for those suffering from	
+A-30	twins	twins	cilantro	cilantro	tend to share	

@@ -1,74 +1,13 @@
 
-V-352	teenagers	teenagers	prostate	prostate	’ acne;	
-V-352	teenagers	teenagers	acne	acne	’	
-V-352	postmenopausal	postmenopausal	women	women		
-V-352	children	children	women	women	or pregnant	
-V-352	puberty	puberty	postmenopausal	postmenopausal	in girls, and endometrial cancer in	
+V-352	women	women	plant-based diets	plant-based diets	eating	
+V-352	children	children	pregnant	pregnant	or	
 V-352	steroids	steroids	puberty	puberty	are very low before they hit	
 V-352	cancer	cancer	postmenopausal	postmenopausal	in	
-V-352	physicians	physicians	women	women	underestimate the negative consequences of multiple pregnancy, but	
-V-352	puberty	puberty	cancer	cancer	in girls, and endometrial	
-V-352	women	women	plant-based	plant-based	eating	
-V-352	puberty	puberty	women	women	in girls, and endometrial cancer in postmenopausal	
-V-352	pregnant	pregnant	women	women		
-V-352	children	children	pregnant women	pregnant women	or	
-V-352	dairy	dairy	hormones	hormones	products are an important source of	
-V-352	children	children	pregnant	pregnant	or	
-V-352	dairy	dairy	prostate	prostate	products with human illnesses, such as teenagers’ acne;	
-V-352	dairy	dairy	milk	milk		
-V-352	vegan	vegan	women	women		
-V-352	dairy	dairy	children	children	industry recommendations that	
-V-352	dairy	dairy	risk	risk	products may mean an unnecessary	
-V-352	boston	boston	obesity	obesity	children’s hospital’s	
-V-352	obesity	obesity	prevention	prevention		
-V-352	dairy cows	dairy cows	milk	milk	in active	
-V-352	organic	organic	milk	milk	cow’s	
-V-352	milk	milk	insulin-like growth factor 1	insulin-like growth factor 1	consumption increases serum concentrations of	
-V-352	women	women	dairy	dairy	attempting conception should avoid milk and	
-V-352	risk	risk	cancer	cancer	of early puberty in girls, and endometrial	
-V-352	endometrial cancer	endometrial cancer	women	women	in postmenopausal	
-V-352	ama	ama	pediatrics	pediatrics	’s	
-V-352	puberty	puberty	endometrial cancer	endometrial cancer	in girls, and	
-V-352	women	women	vegan	vegan	eating plant-based diets,	
-V-352	nutrition	nutrition	dairy	dairy	department, questioned	
-V-352	plant-based	plant-based	vegan	vegan	diets,	
-V-352	dairy	dairy	cows	cows		
-V-352	steroids	steroids	milk	milk	into their	
 V-352	milk	milk	dairy	dairy	and	
-V-352	women	women	pregnancy	pregnancy	with a multiple	
-V-352	ama	ama	children	children	’s pediatrics journal recently, the chair of boston	
-V-352	children	children	steroids	steroids	to exogenous sex	
-V-352	ama	ama	boston	boston	’s pediatrics journal recently, the chair of	
-V-352	risk	risk	puberty	puberty	of early	
-V-352	milk	milk	risk	risk	consumption has even been associated with an increased	
-V-352	harvard	harvard	nutrition	nutrition	’s	
-V-352	dairy	dairy	milk	milk	cows in active	
-V-352	pediatrics	pediatrics	boston	boston	 journal recently, the chair of	
-V-352	young children	young children	women	women	or pregnant	
-V-352	obesity	obesity	nutrition	nutrition	prevention center, along with the chair of harvard’s	
-V-352	dairy	dairy	teenagers	teenagers	products with human illnesses, such as	
-V-352	obesity	obesity	harvard	harvard	prevention center, along with the chair of	
-V-352	prevention	prevention	nutrition	nutrition	center, along with the chair of harvard’s	
-V-352	prevention	prevention	harvard	harvard	center, along with the chair of	
-V-352	young children	young children	pregnant women	pregnant women	or	
-V-352	dairy	dairy	acne	acne	products with human illnesses, such as teenagers’	
-V-352	pediatrics	pediatrics	obesity	obesity	 journal recently, the chair of boston children’s hospital’s	
-V-352	steroids	steroids	cows	cows	into their milk than non-pregnant	
-V-352	women	women	plant-based diets	plant-based diets	eating	
 V-352	young children	young children	pregnant	pregnant	or	
-V-352	harvard	harvard	dairy	dairy	’s nutrition department, questioned	
-V-352	milk	milk	cows	cows	than non-pregnant	
-V-352	plant-based	plant-based	women	women	diets, vegan	
-V-352	physicians	physicians	pregnancy	pregnancy	underestimate the negative consequences of multiple	
-V-352	harvard	harvard	children	children	’s nutrition department, questioned dairy industry recommendations that	
-V-352	hormones	hormones	organic	organic	naturally found in even	
-V-352	women	women	milk	milk	attempting conception should avoid	
-V-352	risk	risk	endometrial cancer	endometrial cancer	of early puberty in girls, and	
-V-352	boston	boston	children	children		
-V-352	pediatrics	pediatrics	children	children	 journal recently, the chair of boston	
-V-352	boston	boston	prevention	prevention	children’s hospital’s obesity	
-V-352	nutrition	nutrition	children	children	department, questioned dairy industry recommendations that	
-V-352	cows	cows	milk	milk	in active	
-V-352	cancer	cancer	women	women	in postmenopausal	
+V-352	young children	young children	pregnant women	pregnant women	or	
 V-352	endometrial cancer	endometrial cancer	postmenopausal	postmenopausal	in	
-V-352	hormones	hormones	milk	milk	naturally found in even organic cow’s	
+V-352	women	women	plant-based	plant-based	eating	
+V-352	physicians	physicians	pregnancy	pregnancy	underestimate the negative consequences of multiple	
+V-352	children	children	pregnant women	pregnant women	or	
+V-352	women	women	milk	milk	attempting conception should avoid	

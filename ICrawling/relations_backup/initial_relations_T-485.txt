@@ -1,42 +1,8 @@
 
-T-485	liver	liver	cancer	cancer	disease, and	
-T-485	produce	produce	carcinogens	carcinogens		
-T-485	coffee	coffee	water	water	second only to	
-T-485	risk	risk	disease	disease	of diabetes, alzheimer’s	
-T-485	chicken	chicken	roasting	roasting	to high temperatures,	
-T-485	coffee	coffee	health	health	has been shown to be beneficial to our	
-T-485	risk	risk	liver	liver	of diabetes, alzheimer’s disease, depression, parkinson’s disease, chronic	
-T-485	pregnant women	pregnant women	caffeine	caffeine	should limit their	
-T-485	coffee	coffee	carcinogens	carcinogens	does not seem to produce	
-T-485	pregnant	pregnant	women	women		
-T-485	roasting	roasting	produce	produce	coffee does not seem to	
-T-485	dietary guidelines	dietary guidelines	coffee	coffee	for beverages recommend tea and	
-T-485	risk	risk	depression	depression	of diabetes, alzheimer’s disease,	
 T-485	coffee	coffee	produce	produce	does not seem to	
-T-485	benzene	benzene	soft drinks	soft drinks	(unlike certain	
-T-485	chicken	chicken	coffee	coffee	to high temperatures, roasting	
-T-485	produce	produce	benzene	benzene	carcinogens, nor does not appear to build up	
-T-485	dietary guidelines	dietary guidelines	beverages	beverages	for	
-T-485	coffee	coffee	enemas	enemas		
-T-485	roasting	roasting	carcinogens	carcinogens	coffee does not seem to produce	
-T-485	coffee	coffee	risk	risk	also appears to decrease the	
-T-485	coffee	coffee	aging	aging	does not seem to speed up the cellular	
-T-485	women	women	caffeine	caffeine	should limit their	
 T-485	beverages	beverages	tea	tea	recommend	
-T-485	tea	tea	water	water	and coffee second only to	
-T-485	beverages	beverages	water	water	recommend tea and coffee second only to	
 T-485	coffee	coffee	cholesterol	cholesterol	may raise	
-T-485	coffee	coffee	diabetes	diabetes	also appears to decrease the risk of	
-T-485	risk	risk	liver disease	liver disease	of diabetes, alzheimer’s disease, depression, parkinson’s disease, chronic	
-T-485	tea	tea	coffee	coffee	and	
-T-485	pregnant	pregnant	caffeine	caffeine	women should limit their	
-T-485	dietary guidelines	dietary guidelines	tea	tea	for beverages recommend	
-T-485	cholesterol	cholesterol	coffee	coffee	levels, paper filtered	
-T-485	water	water	coffee	coffee	in healthfulness, but what about concerns that	
-T-485	aging	aging	coffee	coffee	process, unlike fish and bacon.	
-T-485	liver	liver	disease	disease		
 T-485	risk	risk	diabetes	diabetes	of	
-T-485	beverages	beverages	coffee	coffee	recommend tea and	
-T-485	fish	fish	coffee	coffee	and bacon.	
-T-485	roasting	roasting	coffee	coffee		
-T-485	aging	aging	fish	fish	process, unlike	
+T-485	coffee	coffee	health	health	has been shown to be beneficial to our	
+T-485	coffee	coffee	aging	aging	does not seem to speed up the cellular	
+T-485	tea	tea	coffee	coffee	and	

@@ -1,15 +1,4 @@
 
-V-4	americans	americans	england	england	who’ve lived in	
-V-4	stomach	stomach	colon	colon	down to the cow’s	
-V-4	period	period	disease	disease	for this invariably fatal neurodegenerative	
-V-4	blood	blood	americans	americans	transfusions—that’s why many	
-V-4	disease	disease	fda	fda	started popping up, the	
 V-4	usda	usda	fda	fda	and	
 V-4	fda	fda	cosmetics	cosmetics	may not realize that	
-V-4	mad cow disease	mad cow disease	gut	gut	started popping up, the fda’s	
-V-4	disease	disease	gut	gut	started popping up, the fda’s	
-V-4	fda	fda	gut	gut	’s	
-V-4	blood	blood	england	england	transfusions—that’s why many americans who’ve lived in	
-V-4	mad cow disease	mad cow disease	fda	fda	started popping up, the	
 V-4	england	england	blood	blood	are barred by the red cross from donating	
-V-4	bovine spongiform encephalopathy	bovine spongiform encephalopathy	disease	disease	(mad cow	

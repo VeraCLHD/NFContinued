@@ -1,49 +1,8 @@
 
-V-138	vinegar	vinegar	sugar	sugar	blunts the blood	
-V-138	vinegar	vinegar	apple cider vinegar	apple cider vinegar	tablets necessarily actually have any	
-V-138	sugar	sugar	digestion	digestion	and starch	
-V-138	blood	blood	bread	bread	sugar spike from cotton candy and wonder	
-V-138	vinegar	vinegar	side effects	side effects	were not associated with any	
-V-138	vinegar	vinegar	candy	candy	blunts the blood sugar spike from cotton	
-V-138	greens	greens	how not to die	how not to die	in my book,	
-V-138	vinegar	vinegar	apple	apple	tablets necessarily actually have any	
-V-138	candy	candy	glucose	glucose	and wonder bread, but not	
-V-138	insulin	insulin	diabetes	diabetes	resistance, which is the cause of type 2	
-V-138	hiccups	hiccups	apple	apple	and can burn your esophagus, as can	
-V-138	vinegar	vinegar	sugar	sugar	ingestion appears to enhance	
-V-138	hiccups	hiccups	esophagus	esophagus	and can burn your	
+V-138	vinegar	vinegar	blood	blood	appeared to have no effect on	
 V-138	vinegar	vinegar	gastric emptying	gastric emptying	delayed the	
 V-138	vinegar	vinegar	blood	blood	blunts the	
-V-138	blood sugar	blood sugar	candy	candy	spike from cotton	
-V-138	blood sugar	blood sugar	bread	bread	spike from cotton candy and wonder	
-V-138	potatoes	potatoes	glucose	glucose	with and without vinegar, and	
-V-138	apple	apple	blood	blood	cider vinegar before bedtime resulted in lower	
-V-138	sugar	sugar	insulin resistance	insulin resistance	disposal by lowering	
-V-138	sugar	sugar	vinegar	vinegar	and starch digestion, and so, if	
-V-138	blood	blood	blood sugar	blood sugar	sugar control—effectively blunting the	
-V-138	glucose	glucose	digestion	digestion	is a byproduct of sugar and starch	
-V-138	glycemic index	glycemic index	grains	grains	foods like refined	
-V-138	sugar	sugar	blood sugar	blood sugar	control—effectively blunting the	
-V-138	vinegar	vinegar	blood sugar	blood sugar	to a meal may improve	
-V-138	vinegar	vinegar	blood	blood	appeared to have no effect on	
-V-138	greens	greens	book	book	in my	
-V-138	apple cider vinegar	apple cider vinegar	blood	blood	before bedtime resulted in lower	
-V-138	blood sugar	blood sugar	sugar	sugar	control—effectively blunting the blood	
-V-138	vinegar	vinegar	insulin	insulin	ingestion appears to enhance sugar disposal by lowering	
-V-138	candy	candy	bread	bread	and wonder	
-V-138	vinegar	vinegar	sugar	sugar	to a meal may improve blood	
-V-138	blood	blood	candy	candy	sugar spike from cotton	
+V-138	vinegar	vinegar	side effects	side effects	were not associated with any	
+V-138	vinegar	vinegar	stomach	stomach	was thought to slow the rate at which food leaves the	
 V-138	glucose	glucose	sugar	sugar	is a byproduct of	
-V-138	blood sugar	blood sugar	blood	blood	control—effectively blunting the	
-V-138	sugar	sugar	insulin	insulin	disposal by lowering	
-V-138	vinegar	vinegar	blood	blood	to a meal may improve	
-V-138	hiccups	hiccups	apple cider vinegar	apple cider vinegar	and can burn your esophagus, as can	
-V-138	greens	greens	vinegar	vinegar	in my book, how not to die,	
-V-138	sugar	sugar	blood	blood	control—effectively blunting the	
-V-138	glycemic index	glycemic index	vinegar	vinegar	foods like refined grains,	
-V-138	vinegar	vinegar	insulin	insulin	ingestion does appear to improve the action of	
-V-138	apple	apple	vinegar	vinegar	cider	
-V-138	potatoes	potatoes	vinegar	vinegar	with and without	
 V-138	vinegar	vinegar	blood sugar	blood sugar	blunts the	
-V-138	vinegar	vinegar	insulin resistance	insulin resistance	ingestion appears to enhance sugar disposal by lowering	
-V-138	blood	blood	sugar	sugar		

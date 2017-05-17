@@ -1,54 +1,10 @@
 
-V-32	plant-based	plant-based	cholesterol	cholesterol	enough to lower	
-V-32	mutations	mutations	cholesterol	cholesterol	that result in unusually high	
-V-32	ldl	ldl	risk	risk	levels are at higher	
-V-32	americans	americans	mutation	mutation	have a	
-V-32	disease	disease	risk	risk		
-V-32	african americans	african americans	mutation	mutation	have a	
-V-32	american heart association	american heart association	smoking	smoking	tried to argue that we should all stop	
-V-32	risk	risk	death	death	of heart disease and	
-V-32	mutation	mutation	ldl cholesterol	ldl cholesterol	that drops their	
-V-32	risk	risk	treatment	treatment	of [heart disease],” compared to drug	
-V-32	mutation	mutation	cholesterol	cholesterol	that drops their ldl	
-V-32	disease	disease	risk	risk	]…even in the presence of [all these other]	
-V-32	heart disease	heart disease	risk	risk	]…even in the presence of [all these other]	
-V-32	americans	americans	cholesterol	cholesterol	have a mutation that drops their ldl	
-V-32	disease	disease	heart disease	heart disease	gone?the astounding finding was that the	
-V-32	disease	disease	treatment	treatment	],” compared to drug	
-V-32	heart disease	heart disease	disease	disease	gone?the astounding finding was that the heart	
-V-32	drugs	drugs	risk	risk	only reduces	
 V-32	kids	kids	smoking	smoking	are made to start	
-V-32	risk	risk	heart attack	heart attack	of	
-V-32	heart disease	heart disease	risk	risk	gone?the astounding finding was that the heart disease	
-V-32	african	african	americans	americans		
-V-32	risk	risk	heart disease	heart disease	of [	
-V-32	african americans	african americans	ldl cholesterol	ldl cholesterol	have a mutation that drops their	
-V-32	african	african	ldl cholesterol	ldl cholesterol	americans have a mutation that drops their	
-V-32	ldl	ldl	risk	risk	from drugs only reduces	
-V-32	african	african	ldl	ldl	americans have a mutation that drops their	
-V-32	cholesterol	cholesterol	ldl	ldl	] later in life” can help, then “keeping	
-V-32	african americans	african americans	ldl	ldl	have a mutation that drops their	
-V-32	americans	americans	ldl cholesterol	ldl cholesterol	have a mutation that drops their	
-V-32	cardiovascular disease	cardiovascular disease	risk	risk		
-V-32	risk	risk	heart disease	heart disease	of	
-V-32	african americans	african americans	cholesterol	cholesterol	have a mutation that drops their ldl	
-V-32	lead	lead	cholesterol	cholesterol	to unusually low	
-V-32	americans	americans	ldl	ldl	have a mutation that drops their	
-V-32	heart disease	heart disease	treatment	treatment	],” compared to drug	
-V-32	african	african	mutation	mutation	americans have a	
-V-32	atherosclerosis	atherosclerosis	disease	disease	is a chronic progressive	
-V-32	ldl	ldl	diet	diet	cholesterol levels independent…of” confounding	
-V-32	risk	risk	disease	disease	of [heart	
-V-32	heart disease	heart disease	death	death	and	
-V-32	mutation	mutation	ldl	ldl	that drops their	
-V-32	risk	risk	disease	disease	of heart	
-V-32	disease	disease	risk	risk	gone?the astounding finding was that the heart disease	
-V-32	ldl	ldl	cholesterol	cholesterol		
-V-32	african	african	cholesterol	cholesterol	americans have a mutation that drops their ldl	
 V-32	disease	disease	death	death	and	
-V-32	mutations	mutations	cholesterol	cholesterol	that lead to unusually low	
-V-32	coronary heart disease	coronary heart disease	risk	risk	]…even in the presence of [all these other]	
-V-32	diet	diet	plant-based	plant-based		
-V-32	diet	diet	cholesterol	cholesterol	plant-based enough to lower	
-V-32	ldl	ldl	drugs	drugs	from	
-V-32	ldl cholesterol	ldl cholesterol	diet	diet	levels independent…of” confounding	
+V-32	american heart association	american heart association	smoking	smoking	tried to argue that we should all stop	
+V-32	heart disease	heart disease	death	death	and	
+V-32	risk	risk	heart attack	heart attack	of	
+V-32	americans	americans	mutation	mutation	have a	
+V-32	african americans	african americans	mutation	mutation	have a	
+V-32	atherosclerosis	atherosclerosis	disease	disease	is a chronic progressive	
+V-32	risk	risk	heart disease	heart disease	of	

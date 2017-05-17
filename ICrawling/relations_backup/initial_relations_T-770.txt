@@ -1,64 +1,12 @@
 
-T-770	sugar	sugar	molasses	molasses	and	
-T-770	arsenic	arsenic	coumarin	coumarin	compounds, and	
-T-770	preservatives	preservatives	sulfur dioxide	sulfur dioxide	sodium benzoate, potassium sorbate, sulfites,	
-T-770	sulfur	sulfur	arsenic	arsenic	dioxide, formaldehyde,	
-T-770	meat industry	meat industry	meat	meat	is currently considering additives to try to make 	
-T-770	preservatives	preservatives	sodium	sodium		
-T-770	disease	disease	risk	risk		
-T-770	black pepper	black pepper	health	health	and gum arabic appear to offer	
-T-770	potassium	potassium	sulfur dioxide	sulfur dioxide	sorbate, sulfites,	
-T-770	sodium	sodium	sulfur	sulfur	benzoate, potassium sorbate, sulfites,	
-T-770	hot dogs	hot dogs	cured meats	cured meats	and	
-T-770	potassium	potassium	coumarin	coumarin	sorbate, sulfites, sulfur dioxide, formaldehyde, arsenic compounds, and	
-T-770	preservatives	preservatives	sodium benzoate	sodium benzoate		
-T-770	flavoring	flavoring	popcorn	popcorn	for	
-T-770	pepper	pepper	food additives	food additives	and gum arabic appear to offer health benefits.many	
-T-770	sodium	sodium	sulfites	sulfites	benzoate, potassium sorbate, 	
-T-770	potassium	potassium	sulfites	sulfites	sorbate, 	
-T-770	potassium	potassium	formaldehyde	formaldehyde	sorbate, sulfites, sulfur dioxide,	
-T-770	gum arabic	gum arabic	food additives	food additives	appear to offer health benefits.many	
-T-770	adhd	adhd	liver	liver	symptoms in children, cancer, and	
-T-770	adhd	adhd	thyroid	thyroid	symptoms in children, cancer, and liver and	
-T-770	black pepper	black pepper	food additives	food additives	and gum arabic appear to offer health benefits.many	
-T-770	sodium	sodium	arsenic	arsenic	benzoate, potassium sorbate, sulfites, sulfur dioxide, formaldehyde,	
-T-770	fish	fish	disease	disease	 as well) have been linked to	
-T-770	adhd	adhd	cancer	cancer	symptoms in children,	
-T-770	date sugar	date sugar	molasses	molasses	and	
-T-770	preservatives	preservatives	potassium sorbate	potassium sorbate	sodium benzoate,	
-T-770	potassium	potassium	arsenic	arsenic	sorbate, sulfites, sulfur dioxide, formaldehyde,	
 T-770	pepper	pepper	gum arabic	gum arabic	and	
-T-770	food additives	food additives	nitrate	nitrate	may be harmful to human health such as	
-T-770	symptoms	symptoms	thyroid	thyroid	in children, cancer, and liver and	
-T-770	hot dogs	hot dogs	meats	meats	and cured	
-T-770	symptoms	symptoms	cancer	cancer	in children,	
-T-770	dogs	dogs	meats	meats	and cured	
-T-770	preservatives	preservatives	sulfur	sulfur	sodium benzoate, potassium sorbate, sulfites,	
-T-770	liver	liver	thyroid	thyroid	and	
-T-770	pepper	pepper	health	health	and gum arabic appear to offer	
-T-770	sodium	sodium	formaldehyde	formaldehyde	benzoate, potassium sorbate, sulfites, sulfur dioxide,	
-T-770	preservatives	preservatives	sulfites	sulfites	sodium benzoate, potassium sorbate, 	
-T-770	preservatives	preservatives	potassium	potassium	sodium benzoate,	
-T-770	sulfur	sulfur	coumarin	coumarin	dioxide, formaldehyde, arsenic compounds, and	
-T-770	dogs	dogs	cured meats	cured meats	and	
-T-770	potassium	potassium	sulfur	sulfur	sorbate, sulfites,	
-T-770	sulfur	sulfur	formaldehyde	formaldehyde	dioxide,	
-T-770	symptoms	symptoms	children	children	in	
-T-770	corn	corn	health	health	syrup, and nutrasweet also introduce	
-T-770	adhd	adhd	children	children	symptoms in	
-T-770	stevia	stevia	erythritol	erythritol	(in limited amounts), and	
-T-770	symptoms	symptoms	liver	liver	in children, cancer, and	
-T-770	black pepper	black pepper	gum arabic	gum arabic	and	
-T-770	gum arabic	gum arabic	health	health	appear to offer	
-T-770	preservatives	preservatives	arsenic	arsenic	sodium benzoate, potassium sorbate, sulfites, sulfur dioxide, formaldehyde,	
-T-770	corn	corn	nutrasweet	nutrasweet	syrup, and	
-T-770	health	health	food additives	food additives	benefits.many	
+T-770	sugar	sugar	molasses	molasses	and	
 T-770	food additives	food additives	health	health	may be harmful to human	
-T-770	adhd	adhd	symptoms	symptoms		
-T-770	sodium	sodium	potassium	potassium	benzoate,	
-T-770	sodium	sodium	sulfur dioxide	sulfur dioxide	benzoate, potassium sorbate, sulfites,	
-T-770	preservatives	preservatives	formaldehyde	formaldehyde	sodium benzoate, potassium sorbate, sulfites, sulfur dioxide,	
-T-770	sodium	sodium	potassium sorbate	potassium sorbate	benzoate,	
-T-770	fish	fish	risk	risk	 as well) have been linked to disease	
-T-770	chicken	chicken	meat	meat		
-T-770	nutrasweet	nutrasweet	health	health	also introduce	
+T-770	black pepper	black pepper	gum arabic	gum arabic	and	
+T-770	hot dogs	hot dogs	cured meats	cured meats	and	
+T-770	gum arabic	gum arabic	health	health	appear to offer	
+T-770	meat industry	meat industry	meat	meat	is currently considering additives to try to make 	
+T-770	date sugar	date sugar	molasses	molasses	and	
+T-770	dogs	dogs	cured meats	cured meats	and	
+T-770	symptoms	symptoms	children	children	in	
+T-770	liver	liver	thyroid	thyroid	and	

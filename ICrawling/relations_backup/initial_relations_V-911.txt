@@ -1,20 +1,3 @@
 
-V-911	bread	bread	fruit	fruit	of the	
-V-911	berries	berries	raspberries	raspberries	: here’s a cup of strawberries, blueberries,	
 V-911	bananas	bananas	apples	apples	and	
-V-911	berries	berries	cranberries	cranberries	: here’s a cup of strawberries, blueberries, raspberries,	
-V-911	fruit	fruit	mango	mango	in the world is	
-V-911	goji	goji	berries	berries		
-V-911	fruit	fruit	diet	diet	pulp improves survival on a high-fat	
-V-911	berries	berries	blueberries	blueberries	: here’s a cup of strawberries,	
-V-911	plant-based	plant-based	diet	diet		
-V-911	antioxidants	antioxidants	bananas	bananas	are in america’s two most popular fruits:	
-V-911	berries	berries	fruits	fruits	are the healthiest	
-V-911	berries	berries	strawberries	strawberries	: here’s a cup of	
-V-911	fruit	fruit	berries	berries	kingdom.what about açaí	
-V-911	noni	noni	juice	juice		
-V-911	plant-based diet	plant-based diet	plant foods	plant foods	protects against chronic oxidative stress-related diseases, but which	
-V-911	fat	fat	diet	diet		
-V-911	diet	diet	plant foods	plant foods	protects against chronic oxidative stress-related diseases, but which	
 V-911	antioxidants	antioxidants	fruits	fruits	are in america’s two most popular	
-V-911	bread	bread	berries	berries	of the fruit kingdom.what about açaí	

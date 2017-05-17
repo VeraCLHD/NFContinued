@@ -1,52 +1,7 @@
 
 A-200	salmonella	salmonella	alfalfa	alfalfa	in	
-A-200	salmonella	salmonella	alfalfa sprouts	alfalfa sprouts	in alfalfa sprout seeds (see don’t eat raw	
-A-200	food poisoning	food poisoning	animal products	animal products	like salmonella come largely from	
-A-200	water	water	pesticides	pesticides	that’s used to spray	
-A-200	seeds	seeds	alfalfa sprouts	alfalfa sprouts	(see don’t eat raw	
-A-200	broccoli sprouts	broccoli sprouts	organic	organic	are safer, and	
-A-200	greens	greens	plants	plants	don’t have guts;	
-A-200	raw	raw	alfalfa	alfalfa		
-A-200	seeds	seeds	sprouts	sprouts	(see don’t eat raw alfalfa	
-A-200	broccoli sprouts	broccoli sprouts	sprouts	sprouts	are safer, and organic	
-A-200	alfalfa	alfalfa	seeds	seeds	sprout	
-A-200	norovirus	norovirus	food poisoning	food poisoning		
-A-200	organic	organic	sprouts	sprouts		
-A-200	alfalfa	alfalfa	alfalfa sprouts	alfalfa sprouts	sprout seeds (see don’t eat raw	
-A-200	alfalfa	alfalfa	sprouts	sprouts	sprout seeds (see don’t eat raw alfalfa	
-A-200	seeds	seeds	alfalfa	alfalfa	(see don’t eat raw	
-A-200	stomach	stomach	spinach	spinach	bug like e. coli from something like	
-A-200	organic	organic	cancer	cancer	foods may also be healthier (see	
-A-200	manure	manure	water	water	run-off or contaminated irrigation	
-A-200	food poisoning	food poisoning	salmonella	salmonella	like	
-A-200	health	health	risk	risk		
-A-200	broccoli	broccoli	organic	organic	sprouts are safer, and	
-A-200	norovirus	norovirus	pesticides	pesticides	food poisoning from	
-A-200	organic	organic	broccoli	broccoli	sprouts may therefore be safer still (see	
-A-200	salmonella	salmonella	seeds	seeds	in alfalfa sprout	
 A-200	viruses	viruses	fruits	fruits	get on our	
-A-200	poultry	poultry	produce	produce	), millions of americans are sickened by	
-A-200	food poisoning	food poisoning	pesticides	pesticides	from	
-A-200	salmonella	salmonella	animal products	animal products	come largely from	
-A-200	raw	raw	alfalfa sprouts	alfalfa sprouts		
-A-200	organic	organic	berries	berries	foods may also be healthier (see cancer fighting	
-A-200	sprouts	sprouts	manure	manure	) likely came from	
-A-200	alfalfa	alfalfa	raw	raw	sprout seeds (see don’t eat	
-A-200	raw	raw	manure	manure	alfalfa sprouts) likely came from	
-A-200	sprouts	sprouts	organic	organic	are safer, and	
-A-200	organic foods	organic foods	berries	berries	may also be healthier (see cancer fighting	
-A-200	pathogens	pathogens	produce	produce	to pollute	
-A-200	raw	raw	sprouts	sprouts	alfalfa	
-A-200	poultry	poultry	americans	americans	), millions of	
-A-200	salmonella	salmonella	raw	raw	in alfalfa sprout seeds (see don’t eat	
-A-200	seeds	seeds	raw	raw	(see don’t eat	
-A-200	broccoli	broccoli	sprouts	sprouts		
-A-200	organic	organic	broccoli sprouts	broccoli sprouts	sprouts may therefore be safer still (see	
-A-200	stomach	stomach	e. coli	e. coli	bug like	
-A-200	cancer	cancer	berries	berries	fighting	
-A-200	e. coli	e. coli	spinach	spinach	from something like	
 A-200	americans	americans	produce	produce	are sickened by	
-A-200	alfalfa sprouts	alfalfa sprouts	manure	manure	) likely came from	
-A-200	health	health	pesticides	pesticides	risk posed by the application of	
+A-200	salmonella	salmonella	animal products	animal products	come largely from	
+A-200	alfalfa	alfalfa	seeds	seeds	sprout	
 A-200	risk	risk	pesticides	pesticides	posed by the application of	
-A-200	organic foods	organic foods	cancer	cancer	may also be healthier (see	

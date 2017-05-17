@@ -1,47 +1,7 @@
 
-T-347	kale	kale	milk	milk	and broccoli than	
-T-347	dairy	dairy	cholesterol	cholesterol	calcium comes with saturated fat, hormones, and	
-T-347	bone mineral density	bone mineral density	omnivores	omnivores	as	
-T-347	folate	folate	dairy	dairy	as well, whereas	
-T-347	calcium	calcium	supplements	supplements		
-T-347	calcium	calcium	urine	urine	excretion through	
-T-347	greens	greens	broccoli	broccoli	such as kale and	
-T-347	raw	raw	vegans	vegans	food enthusiasts, and	
-T-347	calcium	calcium	greens	greens	is more readily absorbable from	
-T-347	protein	protein	calcium	calcium	intake is associated with increased	
-T-347	folate	folate	saturated fat	saturated fat	as well, whereas dairy calcium comes with	
-T-347	lead	lead	kidney stones	kidney stones	to	
-T-347	dairy	dairy	hormones	hormones	calcium comes with saturated fat,	
-T-347	calcium	calcium	fiber	fiber	from plants also means that getting	
-T-347	dairy	dairy	calcium	calcium		
-T-347	soy milk	soy milk	calcium	calcium	carton to distribute the	
-T-347	milk	milk	women	women	by osteopenic post-menopausal	
-T-347	calcium	calcium	antioxidants	antioxidants	from plants also means that getting fiber,	
-T-347	dairy	dairy	saturated fat	saturated fat	calcium comes with	
-T-347	folate	folate	fat	fat	as well, whereas dairy calcium comes with saturated	
-T-347	kale	kale	broccoli	broccoli	and	
-T-347	protein	protein	urine	urine	intake is associated with increased calcium excretion through	
-T-347	supplements	supplements	risk	risk	are not recommended as they might increase your	
-T-347	soy	soy	calcium	calcium	milk carton to distribute the	
 T-347	oxalates	oxalates	calcium	calcium	can bind to	
-T-347	women	women	soy milk	soy milk	(although you must shake the	
-T-347	raw food	raw food	vegans	vegans	enthusiasts, and	
-T-347	greens	greens	milk	milk	such as kale and broccoli than	
-T-347	plants	plants	folate	folate	also means that getting fiber, antioxidants, and	
-T-347	calcium	calcium	kale	kale	is more readily absorbable from greens such as	
-T-347	folate	folate	calcium	calcium	as well, whereas dairy	
-T-347	greens	greens	kale	kale	such as	
 T-347	vegans	vegans	bone mineral density	bone mineral density	appear to have the same	
-T-347	plants	plants	fiber	fiber	also means that getting	
-T-347	plants	plants	antioxidants	antioxidants	also means that getting fiber,	
-T-347	vegans	vegans	calcium	calcium	alike were all found to be eating	
 T-347	phytates	phytates	fiber	fiber	and	
-T-347	calcium	calcium	lead	lead	to form insoluble calcium oxalate, which can	
-T-347	calcium	calcium	plants	plants	from	
-T-347	risk	risk	glaucoma	glaucoma	of other conditions like	
-T-347	women	women	milk	milk	(although you must shake the soy	
-T-347	dairy	dairy	fat	fat	calcium comes with saturated	
-T-347	women	women	soy	soy	(although you must shake the	
-T-347	broccoli	broccoli	milk	milk	than	
-T-347	soy	soy	milk	milk		
-T-347	lead	lead	kidney	kidney	to	
+T-347	calcium	calcium	greens	greens	is more readily absorbable from	
+T-347	kale	kale	broccoli	broccoli	and	
+T-347	supplements	supplements	risk	risk	are not recommended as they might increase your	

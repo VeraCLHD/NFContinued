@@ -1,25 +1,3 @@
 
-V-859	cancer	cancer	women	women	killer of	
-V-859	metastatic potential	metastatic potential	lung cancer	lung cancer	of human	
 V-859	cancer	cancer	cancer	cancer	is the most common	
-V-859	metastatic potential	metastatic potential	cancer	cancer	of human lung	
-V-859	cancer	cancer	prostate cancer	prostate cancer	cell growth, such as leukemia,	
-V-859	prostate	prostate	cervical cancer	cervical cancer	cancer, breast cancer, lung cancer,	
-V-859	women	women	cancer	cancer	with breast	
-V-859	cancer	cancer	broccoli	broccoli	spreading to other parts in the body.well,	
-V-859	women	women	united states	united states	in the	
-V-859	cancer	cancer	prostate	prostate	cell growth, such as leukemia,	
-V-859	cancer	cancer	breast cancer	breast cancer	cell growth, such as leukemia, prostate cancer,	
 V-859	breast cancer	breast cancer	cancer	cancer	is the most common	
-V-859	breast cancer	breast cancer	women	women	is the most common cancer among	
-V-859	cancer	cancer	cancer	cancer	cell growth, such as leukemia, prostate	
-V-859	lung cancer	lung cancer	broccoli	broccoli	spreading to other parts in the body.well,	
-V-859	prostate	prostate	colorectal cancer	colorectal cancer	cancer, breast cancer, lung cancer, cervical cancer,	
-V-859	women	women	breast cancer	breast cancer	with	
-V-859	prostate	prostate	cancer	cancer		
-V-859	cancer	cancer	women	women	is the most common cancer among	
-V-859	cancer	cancer	cancer	cancer	cell migration is lay down a layer of	
-V-859	cancer	cancer	leukemia	leukemia	cell growth, such as	
-V-859	prostate	prostate	lung cancer	lung cancer	cancer, breast cancer,	
-V-859	prostate	prostate	breast cancer	breast cancer	cancer,	
-V-859	metastatic potential	metastatic potential	cancer cells	cancer cells	of human lung	

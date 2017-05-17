@@ -1,18 +1,5 @@
 
-V-1267	harvard	harvard	doctors	doctors	physicians' study; 20,000	
-V-1267	physicians	physicians	doctors	doctors	' study; 20,000	
-V-1267	egg	egg	bugs	bugs	is boiled hard to kill off any	
-V-1267	cholesterol	cholesterol	diet	diet	in the	
-V-1267	harvard	harvard	physicians	physicians		
-V-1267	alfalfa	alfalfa	sprouts	sprouts		
-V-1267	eggs	eggs	cholesterol	cholesterol	are the single most concentrated source of	
-V-1267	mortality	mortality	eggs	eggs	—meaning the more	
+V-1267	eggs	eggs	food poisoning	food poisoning	are linked every year to literally a thousand times more	
 V-1267	eggs	eggs	united states	united states	cause a foodborne epidemic every year in the	
-V-1267	sprouts	sprouts	eggs	eggs	are indeed too risky to eat,	
-V-1267	alfalfa sprouts	alfalfa sprouts	eggs	eggs	are indeed too risky to eat,	
-V-1267	americans	americans	egg	egg	annually.food poisoning aside though, what about that	
-V-1267	alfalfa	alfalfa	eggs	eggs	sprouts are indeed too risky to eat,	
-V-1267	egg	egg	health	health	a day is harmful to our	
-V-1267	boiled	boiled	bugs	bugs	hard to kill off any	
 V-1267	egg	egg	boiled	boiled	is	
-V-1267	egg	egg	mortality	mortality	a day or more had significantly higher all-cause	
+V-1267	eggs	eggs	cholesterol	cholesterol	are the single most concentrated source of	

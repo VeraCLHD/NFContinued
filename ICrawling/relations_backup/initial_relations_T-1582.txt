@@ -1,13 +1,5 @@
 
 T-1582	exercise	exercise	resveratrol	resveratrol	and	
-T-1582	exercise	exercise	supplements	supplements	and resveratrol; the	
-T-1582	wine	wine	cancer	cancer	might help prevent breast	
-T-1582	red wine	red wine	cancer	cancer	might help prevent breast	
-T-1582	resveratrol	resveratrol	wine	wine	supplements, a component found in red	
 T-1582	supplements	supplements	risk	risk	decreased cardiovascular	
 T-1582	red wine	red wine	breast cancer	breast cancer	might help prevent	
-T-1582	resveratrol	resveratrol	red wine	red wine	supplements, a component found in	
-T-1582	supplements	supplements	cardiovascular function	cardiovascular function	decreased cardiovascular risk factors, improved	
 T-1582	wine	wine	breast cancer	breast cancer	might help prevent	
-T-1582	resveratrol	resveratrol	supplements	supplements		
-T-1582	risk	risk	cardiovascular function	cardiovascular function	factors, improved	

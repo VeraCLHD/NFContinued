@@ -1,20 +1,7 @@
 
 A-197	u.s. food and drug administration	u.s. food and drug administration	fats	fats	announced their plans to all but eliminate trans	
 A-197	u.s. food and drug administration	u.s. food and drug administration	trans fats	trans fats	announced their plans to all but eliminate	
-A-197	artificial colors	artificial colors	sweeteners	sweeteners	: phosphates: preservatives:	
-A-197	trans fats	trans fats	cdc	cdc	from processed foods, citing a	
-A-197	artificial colors	artificial colors	preservatives	preservatives	: phosphates:	
-A-197	food additives	food additives	fats	fats	like trans	
 A-197	trans fats	trans fats	americans	americans	have been allowed to kill thousands of	
-A-197	food industry	food industry	marion nestle	marion nestle	watchdog	
-A-197	fda	fda	food additives	food additives	permits manufacturers to decide for themselves whether their	
-A-197	marion nestle	marion nestle	fda	fda	to ask “how is it possible that the	
-A-197	fats	fats	cdc	cdc	from processed foods, citing a	
-A-197	trans fats	trans fats	processed foods	processed foods	from	
-A-197	food additives	food additives	food industry	food industry	are safe, the	
-A-197	fats	fats	americans	americans	have been allowed to kill thousands of	
-A-197	fats	fats	processed foods	processed foods	from	
-A-197	cdc	cdc	oils	oils	statistic that the elimination of partially hydrogenated	
 A-197	food and drug administration	food and drug administration	fats	fats	announced their plans to all but eliminate trans	
 A-197	food and drug administration	food and drug administration	trans fats	trans fats	announced their plans to all but eliminate	
-A-197	food additives	food additives	trans fats	trans fats	like	
+A-197	fats	fats	americans	americans	have been allowed to kill thousands of	

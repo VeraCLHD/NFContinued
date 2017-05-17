@@ -1,53 +1,15 @@
 
-V-238	women	women	anti-inflammatory	anti-inflammatory	who ate lots of	
-V-238	cocoa	cocoa	pregnant	pregnant	powder, but from about 28 weeks until birth,	
 V-238	women	women	chamomile	chamomile	drinking	
-V-238	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	drugs, like aspirin or	
-V-238	pregnant	pregnant	women	women		
-V-238	anti-inflammatory	anti-inflammatory	tea	tea	berry nutrients.what about berries themselves, and green	
-V-238	babies	babies	diet	diet	in the anti-inflammatory	
-V-238	anti-inflammatory	anti-inflammatory	dark chocolate	dark chocolate	foods like tea, coffee,	
-V-238	cranberries	cranberries	urinary tract infections	urinary tract infections	for example, which may be useful in preventing	
-V-238	cocoa	cocoa	pregnant women	pregnant women	powder, but from about 28 weeks until birth,	
-V-238	healthy food	healthy food	cranberries	cranberries	like	
-V-238	baby	baby	c-section	c-section	’s still inside, necessitating an emergency	
-V-238	blood	blood	ductus arteriosus	ductus arteriosus	vessel called the	
-V-238	anti-inflammatory	anti-inflammatory	green tea	green tea	berry nutrients.what about berries themselves, and	
-V-238	anti-inflammatory	anti-inflammatory	tea	tea	foods like	
-V-238	babies	babies	anti-inflammatory	anti-inflammatory	in the	
-V-238	anti-inflammatory	anti-inflammatory	citrus	citrus	foods like tea, coffee, dark chocolate, grapes, and	
-V-238	urinary tract infections	urinary tract infections	risk	risk	that can be a	
-V-238	anti-inflammatory	anti-inflammatory	coffee	coffee	foods like tea,	
 V-238	berries	berries	tea	tea	themselves, and green	
 V-238	berries	berries	green tea	green tea	themselves, and	
 V-238	women	women	chamomile tea	chamomile tea	drinking	
 V-238	cranberries	cranberries	health	health	are attractive from a public	
-V-238	anti-inflammatory	anti-inflammatory	women	women	foods, to those of	
 V-238	berries	berries	cocoa	cocoa	and	
 V-238	cranberries	cranberries	public health	public health	are attractive from a	
-V-238	women	women	tea	tea	drinking chamomile	
-V-238	anti-inflammatory	anti-inflammatory	diet	diet		
-V-238	anti-inflammatory	anti-inflammatory	aspirin	aspirin	drugs, like	
-V-238	drugs	drugs	anti-inflammatory	anti-inflammatory	can cause it, though, what about	
-V-238	pregnant women	pregnant women	chamomile	chamomile	drinking	
-V-238	anti-inflammatory	anti-inflammatory	blood	blood	foods had other characteristics that could affect fetal	
-V-238	anti-inflammatory	anti-inflammatory	berries	berries	berry nutrients.what about	
-V-238	anti-inflammatory	anti-inflammatory	grapes	grapes	foods like tea, coffee, dark chocolate,	
-V-238	blood	blood	baby	baby	vessel closes prematurely while the	
-V-238	pregnant	pregnant	chamomile tea	chamomile tea	women drinking	
-V-238	pregnant	pregnant	tea	tea	women drinking chamomile	
-V-238	infections	infections	risk	risk	that can be a	
-V-238	anti-inflammatory	anti-inflammatory	chocolate	chocolate	foods like tea, coffee, dark	
-V-238	chocolate	chocolate	pregnant	pregnant	for	
-V-238	dark chocolate	dark chocolate	pregnant	pregnant	for	
-V-238	blood	blood	diet	diet	through the ductus in the anti-inflammatory	
 V-238	aspirin	aspirin	ibuprofen	ibuprofen	or	
-V-238	blood	blood	anti-inflammatory	anti-inflammatory	through the ductus in the	
 V-238	women	women	drugs	drugs	are not taking	
+V-238	pregnant women	pregnant women	chamomile	chamomile	drinking	
+V-238	pregnant women	pregnant women	anti-inflammatory	anti-inflammatory	should, therefore, take special care when consuming lots of these powerful	
 V-238	pregnant women	pregnant women	chamomile tea	chamomile tea	drinking	
 V-238	women	women	anti-inflammatory	anti-inflammatory	out, as many of these	
-V-238	chamomile	chamomile	tea	tea		
-V-238	anti-inflammatory	anti-inflammatory	drugs	drugs		
-V-238	pregnant	pregnant	chamomile	chamomile	women drinking	
-V-238	pregnant women	pregnant women	tea	tea	drinking chamomile	
-V-238	anti-inflammatory	anti-inflammatory	cranberries	cranberries	foods may be beneficial—like	
+V-238	women	women	anti-inflammatory	anti-inflammatory	should, therefore, take special care when consuming lots of these powerful	

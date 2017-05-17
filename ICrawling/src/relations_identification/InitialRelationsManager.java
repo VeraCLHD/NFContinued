@@ -34,11 +34,15 @@ public class InitialRelationsManager {
 	 */
 	private static Map<String,String> unusedTerms = new HashMap<String, String>();
 	private static Map<String,String> usedTerms = new HashMap<String, String>();
+	// variable only for writing all terms with lemmas into a file
 	private static Map<String,String> termsOverall = new HashMap<String,String>();
 	
 	private static Set<Term> terms = new HashSet<Term>();
 	// example dogl_o_v_ecat => (Term(dog), Term(cat))
 	public static Map<String, Pair<Term>> tuplesOfTerms = null;
+	
+	// for checking if a string contains any term
+	public static Set<String> allTermsAndVariations = new HashSet<String>();
 	
 	private static Map<String,Set<String>> catVar = new HashMap<String,Set<String>>();
 	private static Map<String,Set<String>> meshTerms = new HashMap<String,Set<String>>();
@@ -213,11 +217,11 @@ public class InitialRelationsManager {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
-		manager.extractTerms();
-		
 		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
 		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
+		
+		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
+		manager.extractTerms();
 		
 		// Builds tuples from all of the terms 
 		InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());

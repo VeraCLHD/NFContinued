@@ -1,10 +1,5 @@
 
-V-80	national confectioners association	national confectioners association	candy	candy	that find that	
-V-80	fish	fish	cancer	cancer	oil increases the risk of	
-V-80	fish	fish	risk	risk	oil increases the	
 V-80	fish oil	fish oil	risk	risk	increases the	
 V-80	risk	risk	cancer	cancer	of	
-V-80	fish oil	fish oil	cancer	cancer	increases the risk of	
 V-80	fish oil	fish oil	cancer	cancer	and	
-V-80	fish	fish	cancer	cancer	oil and	
 V-80	diet	diet	nutrition	nutrition	or	

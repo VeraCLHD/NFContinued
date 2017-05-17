@@ -1,20 +1,4 @@
 
-V-663	mushrooms	mushrooms	cancer	cancer	appeared able to outsmart breast	
-V-663	white mushrooms	white mushrooms	cancer cells	cancer cells	appeared able to outsmart breast	
 V-663	white mushrooms	white mushrooms	breast cancer	breast cancer	appeared able to outsmart	
-V-663	cancer	cancer	estrogen	estrogen	cells use to make their own	
-V-663	cancer cells	cancer cells	estrogen	estrogen	that try to make their own	
-V-663	raw	raw	cancer cells	cancer cells	material the	
-V-663	estrogen	estrogen	cancer	cancer	manufacturing, you can get	
-V-663	cancer	cancer	mushrooms	mushrooms	growth almost back to baseline.so, the last study proved	
-V-663	mushrooms	mushrooms	cancer cells	cancer cells	appeared able to outsmart breast	
-V-663	estrogen	estrogen	cancer growth	cancer growth	manufacturing, you can get	
-V-663	raw	raw	cancer	cancer	material the	
-V-663	mushrooms	mushrooms	tumor	tumor	a day may be sufficient to suppress breast	
 V-663	mushrooms	mushrooms	breast cancer	breast cancer	appeared able to outsmart	
-V-663	breast cancer	breast cancer	estrogen	estrogen	cells that try to make their own	
-V-663	cancer growth	cancer growth	mushrooms	mushrooms	 almost back to baseline.so, the last study proved	
-V-663	white mushrooms	white mushrooms	cancer	cancer	appeared able to outsmart breast	
 V-663	cancer cells	cancer cells	estrogen	estrogen	use to make their own	
-V-663	mushrooms	mushrooms	tumor growth	tumor growth	a day may be sufficient to suppress breast	
-V-663	cancer	cancer	estrogen	estrogen	cells that try to make their own	

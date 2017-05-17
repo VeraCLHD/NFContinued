@@ -1,167 +1,40 @@
 
-T-1446	collard greens	collard greens	zeaxanthin	zeaxanthin	consumption, thanks to the phytonutrient pigments lutein and	
-T-1446	phytonutrients	phytonutrients	raw	raw	in	
-T-1446	greens	greens	lutein	lutein	consumption, thanks to the phytonutrient pigments	
-T-1446	apple	apple	cranberries	cranberries	rings, blackberries,	
-T-1446	metastatic potential	metastatic potential	lung cancer	lung cancer	of	
-T-1446	cooking	cooking	antioxidant	antioxidant	reduce the	
-T-1446	antioxidant	antioxidant	vegetables	vegetables	levels of	
-T-1446	cooking	cooking	antioxidant content	antioxidant content	reduce the	
-T-1446	phytonutrients	phytonutrients	tomatoes	tomatoes	like lycopene in	
-T-1446	antioxidants	antioxidants	stool size	stool size	also appear to increase	
-T-1446	peppermint	peppermint	pomegranate	pomegranate	& cloves, dried	
-T-1446	symptoms	symptoms	chronic fatigue syndrome	chronic fatigue syndrome	of	
-T-1446	cold	cold	dandelion	dandelion	steeped tea, idared apples, crabapples,	
-T-1446	breast cancer	breast cancer	risk	risk		
-T-1446	boiling	boiling	cooking	cooking	and pressure	
-T-1446	dandelion	dandelion	carrots	carrots	tea, red rice, and	
-T-1446	tomatoes	tomatoes	disease	disease	appears to be protective against heart	
-T-1446	kale	kale	juice	juice		
-T-1446	lead	lead	peppermint	peppermint	contamination makes it a bad choice), dried	
-T-1446	pomegranate	pomegranate	tea	tea	seeds, dried apple rings, blackberries, cranberries, cold steeped	
-T-1446	phytonutrients	phytonutrients	seeds	seeds	in flax	
-T-1446	symptoms	symptoms	fatigue	fatigue	of chronic	
-T-1446	green tea	green tea	phytonutrients	phytonutrients	(see also here, here) are high in	
-T-1446	antioxidants	antioxidants	blood	blood	include: dragon’s	
-T-1446	raw	raw	cancer survival	cancer survival	broccoli may help bladder	
-T-1446	sulforaphane	sulforaphane	broccoli	broccoli	is more readily available in raw	
-T-1446	kale	kale	phytonutrient	phytonutrient	or collard greens consumption, thanks to the	
-T-1446	fruits	fruits	vegetables	vegetables	and	
-T-1446	plant foods	plant foods	cancer	cancer	in	
-T-1446	symptoms	symptoms	syndrome	syndrome	of chronic fatigue	
-T-1446	phytonutrient	phytonutrient	chocolate	chocolate	content, cocoa powder is the healthiest form of	
-T-1446	plant foods	plant foods	prevention	prevention	in cancer	
-T-1446	flax	flax	lignans	lignans	seeds assist our body in the formation of	
 T-1446	flax seeds	flax seeds	lignans	lignans	assist our body in the formation of	
-T-1446	lead	lead	contamination	contamination		
-T-1446	juice	juice	phytonutrients	phytonutrients	has also been found to be high in	
+T-1446	phytonutrients	phytonutrients	raw	raw	in	
 T-1446	phytochemicals	phytochemicals	fruit	fruit	found in	
+T-1446	metastatic potential	metastatic potential	lung cancer	lung cancer	of	
 T-1446	sprouts	sprouts	nutrition	nutrition	is probably the most	
-T-1446	dogs	dogs	cigarettes	cigarettes	have more nitrosamines than a pack of 20	
-T-1446	peppermint	peppermint	blackberries	blackberries	& cloves, dried pomegranate seeds, dried apple rings,	
-T-1446	phytonutrients	phytonutrients	broccoli	broccoli	in raw	
+T-1446	nitrosamines	nitrosamines	nitrites	nitrites	are formed from	
+T-1446	cooking	cooking	antioxidant	antioxidant	reduce the	
+T-1446	plant foods	plant foods	cancer prevention	cancer prevention	in	
+T-1446	plants	plants	vegetables	vegetables	and	
 T-1446	kale	kale	collard greens	collard greens	or	
-T-1446	pomegranate	pomegranate	cranberries	cranberries	seeds, dried apple rings, blackberries,	
-T-1446	raw	raw	broccoli	broccoli		
-T-1446	nitrosamines	nitrosamines	cigarettes	cigarettes	than a pack of 20	
+T-1446	kale	kale	phytonutrients	phytonutrients	are high in these	
+T-1446	sulforaphane	sulforaphane	raw	raw	is more readily available in	
+T-1446	cooking	cooking	antioxidant content	antioxidant content	reduce the	
 T-1446	pressure cooking	pressure cooking	antioxidant content	antioxidant content	reduce the	
+T-1446	lutein	lutein	zeaxanthin	zeaxanthin	and	
 T-1446	cataracts	cataracts	macular degeneration	macular degeneration	and	
-T-1446	greens	greens	zeaxanthin	zeaxanthin	consumption, thanks to the phytonutrient pigments lutein and	
-T-1446	indian gooseberries	indian gooseberries	lead	lead	(see here, here), triphala (although	
+T-1446	dogs	dogs	nitrosamines	nitrosamines	have more	
+T-1446	pressure cooking	pressure cooking	antioxidant	antioxidant	reduce the	
 T-1446	broccoli	broccoli	bladder	bladder	may help	
-T-1446	metastatic potential	metastatic potential	cancer	cancer	of lung	
-T-1446	apple	apple	cold	cold	rings, blackberries, cranberries,	
+T-1446	symptoms	symptoms	chronic fatigue syndrome	chronic fatigue syndrome	of	
+T-1446	risk	risk	glaucoma	glaucoma	of	
 T-1446	lycopene	lycopene	tomatoes	tomatoes	in	
-T-1446	gooseberries	gooseberries	lead	lead	(see here, here), triphala (although	
-T-1446	nutrient synergy	nutrient synergy	vegetables	vegetables	and also because different plants and	
-T-1446	dandelion	dandelion	rice	rice	tea, red	
-T-1446	phytonutrients	phytonutrients	kale	kale	and eating	
-T-1446	phytonutrients	phytonutrients	nutrient synergy	nutrient synergy	due to	
+T-1446	phytonutrients	phytonutrients	plant foods	plant foods	may in part account for the benefits of whole	
+T-1446	plant foods	plant foods	antioxidants	antioxidants	have 64 times more	
+T-1446	tomato juice	tomato juice	phytonutrient	phytonutrient	seems to have greater	
 T-1446	vegetables	vegetables	phytonutrients	phytonutrients	have different	
 T-1446	boiling	boiling	pressure cooking	pressure cooking	and	
 T-1446	phytonutrients	phytonutrients	fat	fat	are	
-T-1446	antioxidants	antioxidants	indian gooseberries	indian gooseberries	include: dragon’s blood,	
-T-1446	variety	variety	diet	diet	in a	
-T-1446	garlic	garlic	beets	beets	breath and pink urine from eating	
-T-1446	contamination	contamination	peppermint	peppermint	makes it a bad choice), dried	
-T-1446	fatigue	fatigue	syndrome	syndrome		
-T-1446	phytonutrients	phytonutrients	cancer survival	cancer survival	in raw broccoli may help bladder	
-T-1446	dandelion	dandelion	tea	tea		
-T-1446	phytonutrients	phytonutrients	flax seeds	flax seeds	in	
-T-1446	antioxidants	antioxidants	triphala	triphala	include: dragon’s blood, indian gooseberries (see here, here),	
-T-1446	bladder	bladder	cancer	cancer		
-T-1446	broccoli	broccoli	sprouts	sprouts		
-T-1446	urine	urine	phytonutrients	phytonutrients	from eating beets, which are packed with	
-T-1446	cold	cold	tea	tea	steeped	
-T-1446	broccoli sprouts	broccoli sprouts	nutrition	nutrition	is probably the most	
-T-1446	phytonutrient	phytonutrient	broccoli	broccoli	sulforaphane, found in	
-T-1446	raw	raw	cancer	cancer	broccoli may help bladder	
-T-1446	cocoa	cocoa	chocolate	chocolate	powder is the healthiest form of	
-T-1446	plants	plants	phytonutrients	phytonutrients	and vegetables have different	
-T-1446	antioxidants	antioxidants	animal foods	animal foods	than	
-T-1446	phytonutrients	phytonutrients	broccoli	broccoli	in	
-T-1446	broccoli	broccoli	cancer	cancer	may help bladder	
-T-1446	diet	diet	inflammation	inflammation	high in antioxidants appears to reduce	
-T-1446	pomegranate	pomegranate	apple	apple	seeds, dried	
-T-1446	vitamin c	vitamin c	meat	meat	actually increases nitrosamine production so adding it to	
-T-1446	boiling	boiling	antioxidant content	antioxidant content	and pressure cooking reduce the	
-T-1446	phytonutrients	phytonutrients	lycopene	lycopene	like	
-T-1446	broccoli	broccoli	cancer survival	cancer survival	may help bladder	
-T-1446	plant foods	plant foods	cancer prevention	cancer prevention	in	
-T-1446	phytonutrient	phytonutrient	lutein	lutein	pigments	
-T-1446	broccoli	broccoli	dna damage	dna damage	also appears to protect against	
-T-1446	pomegranate	pomegranate	cold	cold	seeds, dried apple rings, blackberries, cranberries,	
-T-1446	boiling	boiling	antioxidant	antioxidant	and pressure cooking reduce the	
-T-1446	sulforaphane	sulforaphane	raw	raw	is more readily available in	
-T-1446	lutein	lutein	zeaxanthin	zeaxanthin	and	
-T-1446	plants	plants	phytonutrients	phytonutrients	contain more than 100,000	
-T-1446	phytonutrients	phytonutrients	bladder cancer	bladder cancer	in raw broccoli may help	
-T-1446	indian gooseberries	indian gooseberries	triphala	triphala	(see here, here),	
-T-1446	flax	flax	seeds	seeds		
-T-1446	phytonutrients	phytonutrients	bladder	bladder	in raw broccoli may help	
-T-1446	phytonutrients	phytonutrients	raw	raw	are also better absorbed from cooked, rather than	
-T-1446	peppermint	peppermint	seeds	seeds	& cloves, dried pomegranate	
-T-1446	risk	risk	glaucoma	glaucoma	of	
-T-1446	antioxidants	antioxidants	inflammation	inflammation	appears to reduce	
-T-1446	collard greens	collard greens	phytonutrient	phytonutrient	consumption, thanks to the	
-T-1446	plant foods	plant foods	antioxidants	antioxidants	have 64 times more	
-T-1446	lycopene	lycopene	disease	disease	in tomatoes appears to be protective against heart	
-T-1446	gooseberries	gooseberries	triphala	triphala	(see here, here),	
-T-1446	triphala	triphala	lead	lead	(although	
-T-1446	raw	raw	bladder	bladder	broccoli may help	
-T-1446	cold	cold	rice	rice	steeped tea, idared apples, crabapples, dandelion tea, red	
-T-1446	apple	apple	apples	apples	rings, blackberries, cranberries, cold steeped tea, idared	
 T-1446	hot dogs	hot dogs	nitrosamines	nitrosamines	have more	
-T-1446	phytonutrients	phytonutrients	immune system	immune system	and eating kale, especially cooked, may boost our	
-T-1446	tomatoes	tomatoes	heart disease	heart disease	appears to be protective against	
-T-1446	broccoli	broccoli	lung cancer	lung cancer	may also decrease the metastatic potential of	
-T-1446	raw	raw	bladder cancer	bladder cancer	broccoli may help	
-T-1446	broccoli	broccoli	nutrition	nutrition	sprouts is probably the most	
-T-1446	cold	cold	apples	apples	steeped tea, idared	
-T-1446	bladder	bladder	cancer survival	cancer survival		
-T-1446	broccoli	broccoli	metastatic potential	metastatic potential	may also decrease the	
-T-1446	phytonutrients	phytonutrients	plants	plants	due to nutrient synergy and also because different	
-T-1446	lycopene	lycopene	heart disease	heart disease	in tomatoes appears to be protective against	
-T-1446	juice	juice	phytonutrient	phytonutrient	seems to have greater	
-T-1446	phytonutrients	phytonutrients	cancer	cancer	in raw broccoli may help bladder	
-T-1446	seeds	seeds	lignans	lignans	assist our body in the formation of	
-T-1446	contamination	contamination	cloves	cloves	makes it a bad choice), dried peppermint &	
-T-1446	pomegranate	pomegranate	seeds	seeds		
-T-1446	peppermint	peppermint	apple	apple	& cloves, dried pomegranate seeds, dried	
-T-1446	phytonutrient	phytonutrient	cocoa	cocoa	content,	
-T-1446	risk	risk	blindness	blindness	of glaucoma, the second leading cause of	
-T-1446	diet	diet	phytonutrients	phytonutrients	appears to boost the effectiveness of	
-T-1446	milk	milk	phytonutrients	phytonutrients	and soymilk, however, may block the absorption of	
-T-1446	apple	apple	blackberries	blackberries	rings,	
-T-1446	greens	greens	phytonutrient	phytonutrient	consumption, thanks to the	
-T-1446	nitrosamines	nitrosamines	nitrites	nitrites	are formed from	
-T-1446	plants	plants	vegetables	vegetables	and	
-T-1446	indian gooseberries	indian gooseberries	contamination	contamination	(see here, here), triphala (although lead	
-T-1446	kale	kale	phytonutrients	phytonutrients	are high in these	
-T-1446	antioxidants	antioxidants	gooseberries	gooseberries	include: dragon’s blood, indian	
-T-1446	dogs	dogs	nitrosamines	nitrosamines	have more	
-T-1446	cancer	cancer	risk	risk		
-T-1446	kale	kale	greens	greens	or collard	
-T-1446	pressure cooking	pressure cooking	antioxidant	antioxidant	reduce the	
-T-1446	nutrient synergy	nutrient synergy	plants	plants	and also because different	
-T-1446	collard greens	collard greens	lutein	lutein	consumption, thanks to the phytonutrient pigments	
-T-1446	triphala	triphala	contamination	contamination	(although lead	
-T-1446	diet	diet	antioxidants	antioxidants	high in	
-T-1446	gut	gut	flora	flora		
-T-1446	phytonutrients	phytonutrients	metastatic potential	metastatic potential	in broccoli may also decrease the	
-T-1446	tomato juice	tomato juice	phytonutrient	phytonutrient	seems to have greater	
-T-1446	gooseberries	gooseberries	contamination	contamination	(see here, here), triphala (although lead	
-T-1446	broccoli	broccoli	dna	dna	also appears to protect against	
-T-1446	hot dogs	hot dogs	cigarettes	cigarettes	have more nitrosamines than a pack of 20	
-T-1446	urine	urine	beets	beets	from eating	
-T-1446	phytonutrient	phytonutrient	sulforaphane	sulforaphane		
-T-1446	broccoli	broccoli	cancer	cancer	may also decrease the metastatic potential of lung	
-T-1446	garlic	garlic	urine	urine	breath and pink	
-T-1446	pomegranate	pomegranate	blackberries	blackberries	seeds, dried apple rings,	
-T-1446	phytonutrient	phytonutrient	zeaxanthin	zeaxanthin	pigments lutein and	
-T-1446	skin	skin	phytonutrients	phytonutrients	has been found to be preferred;	
+T-1446	phytonutrients	phytonutrients	flax seeds	flax seeds	in	
+T-1446	antioxidants	antioxidants	blood	blood	include: dragon’s	
 T-1446	broccoli	broccoli	bladder cancer	bladder cancer	may help	
-T-1446	plant foods	plant foods	animal foods	animal foods	have 64 times more antioxidants than	
-T-1446	cancer	cancer	prevention	prevention		
-T-1446	apple	apple	tea	tea	rings, blackberries, cranberries, cold steeped	
+T-1446	broccoli sprouts	broccoli sprouts	nutrition	nutrition	is probably the most	
+T-1446	juice	juice	phytonutrient	phytonutrient	seems to have greater	
+T-1446	fruits	fruits	vegetables	vegetables	and	
+T-1446	plant foods	plant foods	cancer	cancer	in	
+T-1446	seeds	seeds	lignans	lignans	assist our body in the formation of	
+T-1446	phytonutrients	phytonutrients	broccoli	broccoli	in	
 T-1446	phytonutrients	phytonutrients	flax	flax	in	

@@ -1,6 +1,2 @@
 
-V-1138	lutein	lutein	pills	pills		
-V-1138	phytonutrient	phytonutrient	tomatoes	tomatoes	found in dark green leafy vegetables; lycopene, found in	
-V-1138	phytonutrient	phytonutrient	lycopene	lycopene	found in dark green leafy vegetables; 	
 V-1138	phytonutrient	phytonutrient	leafy vegetables	leafy vegetables	found in dark green	
-V-1138	phytonutrient	phytonutrient	vegetables	vegetables	found in dark green leafy	

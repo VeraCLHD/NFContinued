@@ -1,20 +1,6 @@
 
-V-147	plastic	plastic	chemicals	chemicals		
-V-147	prostate	prostate	disease	disease	cancer patients who underwent castration to control their	
-V-147	phthalates	phthalates	urine	urine	spilling out in their	
-V-147	phthalates	phthalates	testosterone	testosterone	can inhibit	
-V-147	phthalates	phthalates	cancer	cancer	didn’t seem to accelerate breast	
-V-147	plant-based	plant-based	diet	diet		
-V-147	phthalates	phthalates	cancer growth	cancer growth	didn’t seem to accelerate breast	
-V-147	plastic	plastic	water	water	chemicals, you think	
-V-147	women	women	phthalates	phthalates	with the highest levels of	
 V-147	phthalates	phthalates	fragrance	fragrance	are used as a	
 V-147	water	water	health	health	based lubricants may reduce the	
-V-147	prostate	prostate	cancer	cancer		
-V-147	cancer	cancer	disease	disease	patients who underwent castration to control their	
-V-147	phthalates	phthalates	cancer	cancer	were found to boost breast	
-V-147	period	period	contamination	contamination	after showers, suggesting	
+V-147	phthalates	phthalates	testosterone	testosterone	can inhibit	
 V-147	phthalates	phthalates	breast cancer	breast cancer	were found to boost	
-V-147	prostate cancer	prostate cancer	disease	disease	patients who underwent castration to control their	
 V-147	phthalates	phthalates	breast cancer	breast cancer	didn’t seem to accelerate	
-V-147	phthalates	phthalates	children	children	can also be found in	

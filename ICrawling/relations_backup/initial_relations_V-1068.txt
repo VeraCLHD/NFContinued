@@ -1,36 +1,4 @@
 
-V-1068	risk	risk	public health	public health	to	
-V-1068	pigs	pigs	fda	fda	and chickens until last year, when obama’s	
-V-1068	disease	disease	public health	public health	—raises concerns about the potential risk to	
-V-1068	brains	brains	pigs	pigs	to	
-V-1068	pigs	pigs	chickens	chickens	and	
-V-1068	disease	disease	health	health	—raises concerns about the potential risk to public	
-V-1068	fish	fish	disease	disease	appeared fine, you could see the	
-V-1068	fish	fish	mad cow disease	mad cow disease	challenged with prion, especially bse—	
-V-1068	bse	bse	risk	risk	—mad cow disease—raises concerns about the potential	
-V-1068	brains	brains	fish	fish	to farmed	
 V-1068	brains	brains	fish	fish	of	
-V-1068	fish	fish	disease	disease	challenged with prion, especially bse—mad cow	
-V-1068	chickens	chickens	obama	obama	until last year, when	
-V-1068	obama	obama	fda	fda	’s	
-V-1068	mad cow disease	mad cow disease	health	health	—raises concerns about the potential risk to public	
-V-1068	disease	disease	risk	risk	—raises concerns about the potential	
-V-1068	mad cow disease	mad cow disease	risk	risk	—raises concerns about the potential	
-V-1068	brains	brains	mad cow disease	mad cow disease	of fish challenged with prion, especially bse—	
-V-1068	brains	brains	obama	obama	to pigs and chickens until last year, when	
-V-1068	risk	risk	health	health	to public	
-V-1068	obama	obama	brains	brains	’s fda banned the feeding of cow	
-V-1068	fda	fda	brains	brains	banned the feeding of cow	
-V-1068	fish	fish	bse	bse	challenged with prion, especially	
-V-1068	chickens	chickens	fda	fda	until last year, when obama’s	
-V-1068	mad cow disease	mad cow disease	public health	public health	—raises concerns about the potential risk to	
-V-1068	brains	brains	chickens	chickens	to pigs and	
-V-1068	greece	greece	fish	fish	fed infected mad cow brains to	
-V-1068	brains	brains	disease	disease	of fish challenged with prion, especially bse—mad cow	
-V-1068	brains	brains	bse	bse	of fish challenged with prion, especially	
-V-1068	pigs	pigs	obama	obama	and chickens until last year, when	
-V-1068	brains	brains	fish	fish	to	
-V-1068	bse	bse	disease	disease	—mad cow	
 V-1068	agribusiness	agribusiness	farm animals	farm animals	feeds to	
-V-1068	greece	greece	brains	brains	fed infected mad cow	
-V-1068	bse	bse	mad cow disease	mad cow disease	—	
+V-1068	pigs	pigs	chickens	chickens	and	

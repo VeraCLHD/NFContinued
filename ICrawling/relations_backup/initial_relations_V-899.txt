@@ -1,11 +1,2 @@
 
-V-899	apples	apples	antioxidants	antioxidants	’ worth of	
-V-899	antioxidants	antioxidants	amla	amla	than blueberries, here for comparison’s sake; then	
-V-899	cloves	cloves	antioxidants	antioxidants	—a hundred times more	
-V-899	blood	blood	dna	dna	could also cause	
-V-899	antioxidant	antioxidant	spices	spices	analysis of thousands of foods, herbs, and	
-V-899	cancer	cancer	dna	dna	cells wither away as their	
-V-899	antioxidant	antioxidant	herbs	herbs	analysis of thousands of foods,	
-V-899	antioxidants	antioxidants	blueberries	blueberries	than	
-V-899	cloves	cloves	blueberries	blueberries	—a hundred times more antioxidants than	
 V-899	cancer cells	cancer cells	dna	dna	wither away as their	

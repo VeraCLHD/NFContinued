@@ -1,45 +1,7 @@
 
-V-244	blood sugar	blood sugar	sugar	sugar	so well they can counter the effects of	
-V-244	fat	fat	blood	blood	in the	
-V-244	phytonutrients	phytonutrients	sugar	sugar	that may slow	
-V-244	sugar	sugar	blood	blood	absorption through the intestinal wall.berries help control	
-V-244	berries	berries	blood sugar	blood sugar	isn’t just neutral, but improves	
-V-244	apple	apple	sugar	sugar	juice.here’s what happens to your blood	
-V-244	fruit	fruit	insulin	insulin	juice can enhance the	
-V-244	apple	apple	blood sugar	blood sugar	juice.here’s what happens to your	
-V-244	sugar	sugar	apple juice	apple juice	in	
-V-244	water	water	sugar	sugar	with three tablespoons of table	
-V-244	insulin	insulin	apple	apple	sensitivity.so, while	
-V-244	insulin	insulin	smoothies	smoothies	sensitivity.so, while apple	
-V-244	blood	blood	sugar	sugar	stream as if we’re starving, because our blood	
-V-244	sugar	sugar	water	water		
-V-244	apples	apples	water	water	in a blender with some	
-V-244	apple	apple	smoothies	smoothies		
-V-244	berries	berries	blood	blood	isn’t just neutral, but improves	
-V-244	sugar	sugar	soda	soda	in it, which is like a can of	
-V-244	fat	fat	blood	blood	into our	
-V-244	mangoes	mangoes	mango	mango	—and this was with powdered	
-V-244	apple juice	apple juice	insulin	insulin	form—about two cups—your body overreacts, releasing too much	
-V-244	apples	apples	apple	apple	is better than drinking	
 V-244	berries	berries	greens	greens	and	
-V-244	blood	blood	blood sugar	blood sugar	stream as if we’re starving, because our	
 V-244	juice	juice	insulin	insulin	can enhance the	
-V-244	apple	apple	blood	blood	juice.here’s what happens to your	
-V-244	apple	apple	juice	juice		
-V-244	juice	juice	insulin	insulin	form—about two cups—your body overreacts, releasing too much	
-V-244	fiber	fiber	juice	juice	in the production of fruit	
-V-244	apples	apples	smoothies	smoothies	is better than drinking apple	
-V-244	phytonutrient	phytonutrient	sugar	sugar	called mangiferin, which may slow	
-V-244	nutrient absorption	nutrient absorption	sugar	sugar	without risking overly rapid	
-V-244	berries	berries	sugar	sugar	in addition to the	
 V-244	sugar	sugar	apple	apple	in	
-V-244	berries	berries	water	water	in addition to the sugar	
-V-244	sugar	sugar	juice	juice	in apple	
-V-244	fiber	fiber	fruit juice	fruit juice	in the production of	
-V-244	bananas	bananas	blood	blood	in general, though, may actually improve	
-V-244	berries	berries	sugar	sugar	isn’t just neutral, but improves blood	
-V-244	fiber	fiber	fruit	fruit	in the production of	
-V-244	fruit	fruit	juice	juice		
 V-244	fruit juice	fruit juice	insulin	insulin	can enhance the	
-V-244	sugar	sugar	blood sugar	blood sugar	absorption through the intestinal wall.berries help control	
-V-244	blood	blood	sugar	sugar		
+V-244	sugar	sugar	apple juice	apple juice	in	
+V-244	smoothies	smoothies	berries	berries	may be questionable, a recipe like mayo’s basic green smoothie recipe, packed with	

@@ -1,53 +1,9 @@
 
 T-316	sprouts	sprouts	bladder	bladder	may be able to improve survival rates of	
-T-316	cancer	cancer	cancer	cancer	patients, boost liver detoxification, and target breast	
-T-316	breast cancer	breast cancer	stem cells	stem cells		
-T-316	liver	liver	stem cells	stem cells	detoxification, and target breast cancer	
-T-316	broccoli	broccoli	alfalfa	alfalfa	sprouts are not associated with food poisoning like	
-T-316	cancer	cancer	stem cells	stem cells	patients, boost liver detoxification, and target breast cancer	
-T-316	alfalfa	alfalfa	sprouts	sprouts		
-T-316	broccoli	broccoli	food poisoning	food poisoning	sprouts are not associated with	
-T-316	broccoli sprouts	broccoli sprouts	alfalfa sprouts	alfalfa sprouts	are not associated with food poisoning like	
-T-316	broccoli sprouts	broccoli sprouts	sprouts	sprouts	are not associated with food poisoning like alfalfa	
-T-316	raw	raw	broccoli sprouts	broccoli sprouts		
-T-316	bladder	bladder	breast cancer	breast cancer	cancer patients, boost liver detoxification, and target	
-T-316	broccoli sprouts	broccoli sprouts	bladder	bladder	may be able to improve survival rates of	
-T-316	cancer	cancer	liver	liver	patients, boost	
-T-316	bladder cancer	bladder cancer	stem cells	stem cells	patients, boost liver detoxification, and target breast cancer	
-T-316	sprouts	sprouts	alfalfa	alfalfa	are not associated with food poisoning like	
-T-316	cancer	cancer	cancer stem cells	cancer stem cells	patients, boost liver detoxification, and target breast	
-T-316	bladder cancer	bladder cancer	cancer	cancer	patients, boost liver detoxification, and target breast	
-T-316	food poisoning	food poisoning	alfalfa sprouts	alfalfa sprouts	like	
-T-316	sprouts	sprouts	bladder cancer	bladder cancer	may be able to improve survival rates of	
-T-316	liver	liver	cancer stem cells	cancer stem cells	detoxification, and target breast	
-T-316	liver	liver	detoxification	detoxification		
-T-316	bladder cancer	bladder cancer	cancer stem cells	cancer stem cells	patients, boost liver detoxification, and target breast	
-T-316	broccoli sprouts	broccoli sprouts	supplements	supplements	have a higher nutrient level than broccoli	
-T-316	food poisoning	food poisoning	alfalfa	alfalfa	like	
-T-316	broccoli	broccoli	supplements	supplements	sprouts have a higher nutrient level than broccoli	
-T-316	bladder cancer	bladder cancer	detoxification	detoxification	patients, boost liver	
-T-316	raw	raw	sprouts	sprouts	broccoli	
-T-316	bladder	bladder	liver	liver	cancer patients, boost	
-T-316	raw	raw	broccoli	broccoli		
-T-316	food poisoning	food poisoning	sprouts	sprouts	like alfalfa	
 T-316	broccoli sprouts	broccoli sprouts	bladder cancer	bladder cancer	may be able to improve survival rates of	
-T-316	broccoli sprouts	broccoli sprouts	alfalfa	alfalfa	are not associated with food poisoning like	
-T-316	liver	liver	cancer	cancer	detoxification, and target breast	
-T-316	skin	skin	sun	sun	cells from	
+T-316	broccoli sprouts	broccoli sprouts	bladder	bladder	may be able to improve survival rates of	
+T-316	sprouts	sprouts	bladder cancer	bladder cancer	may be able to improve survival rates of	
 T-316	broccoli sprouts	broccoli sprouts	broccoli	broccoli	have a higher nutrient level than	
 T-316	broccoli sprouts	broccoli sprouts	food poisoning	food poisoning	are not associated with	
-T-316	bladder cancer	bladder cancer	breast cancer	breast cancer	patients, boost liver detoxification, and target	
 T-316	sprouts	sprouts	broccoli	broccoli	have a higher nutrient level than	
-T-316	broccoli	broccoli	alfalfa sprouts	alfalfa sprouts	sprouts are not associated with food poisoning like	
 T-316	sprouts	sprouts	food poisoning	food poisoning	are not associated with	
-T-316	raw	raw	food poisoning	food poisoning	broccoli sprouts are not associated with	
-T-316	cancer	cancer	detoxification	detoxification	patients, boost liver	
-T-316	sprouts	sprouts	alfalfa sprouts	alfalfa sprouts	are not associated with food poisoning like	
-T-316	bladder cancer	bladder cancer	liver	liver	patients, boost	
-T-316	liver	liver	breast cancer	breast cancer	detoxification, and target	
-T-316	bladder	bladder	cancer	cancer		
-T-316	broccoli	broccoli	sprouts	sprouts		
-T-316	bladder	bladder	detoxification	detoxification	cancer patients, boost liver	
-T-316	sprouts	sprouts	supplements	supplements	have a higher nutrient level than broccoli	
-T-316	bladder	bladder	cancer stem cells	cancer stem cells	cancer patients, boost liver detoxification, and target breast	
-T-316	cancer	cancer	breast cancer	breast cancer	patients, boost liver detoxification, and target	

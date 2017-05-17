@@ -1,34 +1,12 @@
 
-T-1055	risk	risk	oxalates	oxalates	of uric acid stones.because soluble	
-T-1055	water	water	animal protein	animal protein	per day, decreasing	
-T-1055	protein	protein	kidney	kidney	has been associated with the development of	
-T-1055	risk	risk	kidney	kidney	of	
-T-1055	protein	protein	sodium	sodium	intake, decreasing	
-T-1055	protein	protein	vegetables	vegetables	intake, decreasing sodium consumption, and adding more	
-T-1055	risk	risk	calcium	calcium	of uric acid stones.because soluble oxalates can bind	
 T-1055	magnesium	magnesium	risk	risk	have been associated with a decreased	
 T-1055	kidney stones	kidney stones	calcium	calcium	are comprised of	
 T-1055	risk	risk	kidney stones	kidney stones	of	
 T-1055	kidney stones	kidney stones	water	water	include drinking 10 to 12 cups of	
-T-1055	uric acid	uric acid	oxalates	oxalates	stones.because soluble	
-T-1055	kidney	kidney	water	water	stones include drinking 10 to 12 cups of	
-T-1055	uric acid	uric acid	calcium	calcium	stones.because soluble oxalates can bind	
-T-1055	water	water	protein	protein	per day, decreasing animal	
-T-1055	water	water	sodium	sodium	per day, decreasing animal protein intake, decreasing	
-T-1055	uric acid	uric acid	sodium	sodium	crystals.high	
-T-1055	sodium	sodium	risk	risk	intake has also been associated with an increased	
-T-1055	seeds	seeds	kidney	kidney	have also been shown to prevent	
-T-1055	kidney	kidney	calcium	calcium	stones are comprised of	
-T-1055	risk	risk	animal protein	animal protein	of stone development by significantly reducing consumption of	
-T-1055	animal protein	animal protein	vegetables	vegetables	intake, decreasing sodium consumption, and adding more	
-T-1055	risk	risk	uric acid	uric acid	of	
-T-1055	vegetables	vegetables	diet	diet	into the	
-T-1055	yeast	yeast	risk	risk	is high in purines, which can raise one’s	
-T-1055	uric acid	uric acid	protein	protein	stones are the second most common form.animal	
-T-1055	sodium	sodium	vegetables	vegetables	consumption, and adding more	
-T-1055	yeast	yeast	purines	purines	is high in	
-T-1055	sodium	sodium	diet	diet	consumption, and adding more vegetables into the	
-T-1055	animal protein	animal protein	sodium	sodium	intake, decreasing	
 T-1055	protein	protein	kidney stones	kidney stones	has been associated with the development of	
+T-1055	protein	protein	kidney	kidney	has been associated with the development of	
+T-1055	risk	risk	uric acid	uric acid	of	
 T-1055	oxalates	oxalates	calcium	calcium	can bind	
+T-1055	risk	risk	kidney	kidney	of	
+T-1055	yeast	yeast	purines	purines	is high in	
 T-1055	cinnamon	cinnamon	oxalates	oxalates	is as high in	

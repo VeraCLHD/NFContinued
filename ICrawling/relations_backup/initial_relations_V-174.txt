@@ -1,21 +1,5 @@
 
 V-174	appetite	appetite	plants	plants	evolved to match how many	
-V-174	fiber	fiber	flora	flora	is metabolized by our gut	
-V-174	gut flora	gut flora	short-chain fatty acids	short-chain fatty acids	into	
-V-174	drugs	drugs	obesity	obesity	in the fight against the current	
-V-174	plant foods	plant foods	fiber	fiber	we were getting like 100 grams of	
-V-174	fiber	fiber	short-chain fatty acids	short-chain fatty acids	is metabolized by our gut flora into	
-V-174	appetite	appetite	hunger	hunger	and down regulated	
-V-174	fiber	fiber	gut flora	gut flora	is metabolized by our	
-V-174	flora	flora	short-chain fatty acids	short-chain fatty acids	into	
-V-174	fiber	fiber	gut	gut	in our	
-V-174	gut	gut	short-chain fatty acids	short-chain fatty acids	flora into	
-V-174	diet	diet	plant foods	plant foods	of whole	
-V-174	fiber	fiber	hormones	hormones	in our gut; so, less of those	
-V-174	hormones	hormones	appetite	appetite	were released,  boosting our	
 V-174	appetite	appetite	fiber	fiber	involved this	
-V-174	gut	gut	bacteria	bacteria		
-V-174	china	china	africa	africa	and rural	
-V-174	hormones	hormones	appetite	appetite	that made us lose our	
+V-174	fiber	fiber	gut flora	gut flora	is metabolized by our	
 V-174	fiber	fiber	gut	gut	is metabolized by our	
-V-174	gut	gut	flora	flora		

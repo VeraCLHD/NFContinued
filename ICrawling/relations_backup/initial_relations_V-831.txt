@@ -1,25 +1,5 @@
 
-V-831	fruits	fruits	diet	diet	and vegetables to one’s	
-V-831	lamb	lamb	juice	juice	carcasses with kiwifruit	
-V-831	diet	diet	emphysema	emphysema	to treat 	
-V-831	cigarettes	cigarettes	smoking	smoking	evidently had a protective effect against emphysema in	
-V-831	kiwifruit	kiwifruit	juice	juice		
-V-831	antioxidant	antioxidant	fruits	fruits	effect of	
-V-831	vegetables	vegetables	emphysema	emphysema	to one’s diet to treat 	
-V-831	copd	copd	tobacco	tobacco	management.the	
-V-831	antioxidant	antioxidant	vegetables	vegetables	effect of fruits and	
-V-831	fruits	fruits	anti-inflammatory	anti-inflammatory	and vegetables; could be the	
-V-831	fruit	fruit	burgers	burgers	extracts to	
-V-831	lamb	lamb	kiwifruit	kiwifruit	carcasses with	
 V-831	fruits	fruits	vegetables	vegetables	or	
-V-831	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	effect of fruits and vegetables; could be the	
-V-831	fruits	fruits	meat	meat	and vegetables resulted in a decreased consumption of	
 V-831	vegetables	vegetables	meat	meat	resulted in a decreased consumption of	
-V-831	fruits	fruits	emphysema	emphysema	and vegetables to one’s diet to treat 	
 V-831	fruits	fruits	vegetables	vegetables	and	
-V-831	berries	berries	emphysema	emphysema	to cigarettes evidently had a protective effect against	
-V-831	cigarettes	cigarettes	emphysema	emphysema	evidently had a protective effect against	
 V-831	emphysema	emphysema	smoking	smoking	in	
-V-831	smoking	smoking	berries	berries	mice.next, they’re going to try to add	
-V-831	berries	berries	cigarettes	cigarettes	to	
-V-831	vegetables	vegetables	diet	diet	to one’s	

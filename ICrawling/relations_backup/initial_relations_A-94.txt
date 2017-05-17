@@ -1,82 +1,12 @@
 
-A-94	risk	risk	diabetes	diabetes	for things like heart disease and	
-A-94	water	water	bread	bread	as beverage, whole grain cereals, fiber rich	
-A-94	raisins	raisins	fruit	fruit	stood out for the dried	
-A-94	soda	soda	diet soda	diet soda	during pregnancy:	
-A-94	fat	fat	inflammation	inflammation	levels would also be associated with reduced	
-A-94	soda	soda	pregnancy	pregnancy	during	
-A-94	pregnant	pregnant	women	women		
-A-94	garlic	garlic	risk	risk	intake associated with the lowest	
-A-94	diet	diet	pregnancy	pregnancy	soda during	
-A-94	nutrasweet	nutrasweet	diet	diet	) and	
-A-94	vegetables	vegetables	raisins	raisins	and	
-A-94	dried fruit	dried fruit	pregnant	pregnant	intake of nearly 19,000	
-A-94	water	water	whole grain	whole grain	as beverage,	
-A-94	nutrasweet	nutrasweet	soda	soda	) and diet	
-A-94	whole grain	whole grain	fiber	fiber	cereals,	
-A-94	diet	diet	beverage	beverage	(vegetables, fruits, oils, water as	
-A-94	saturated fat	saturated fat	inflammation	inflammation	levels would also be associated with reduced	
-A-94	water	water	fiber	fiber	as beverage, whole grain cereals,	
-A-94	pregnant women	pregnant women	risk	risk	do to decrease this	
-A-94	risk	risk	garlic	garlic	of spontaneous preterm delivery related to groups of	
-A-94	diet	diet	diet soda	diet soda	soda during pregnancy:	
-A-94	risk	risk	heart disease	heart disease	for things like	
-A-94	pregnancy	pregnancy	cancer	cancer	videos include: more on garlic in #1 anti-	
-A-94	fruit	fruit	fiber	fiber	is also packed with	
-A-94	diet	diet	whole grain	whole grain	(vegetables, fruits, oils, water as beverage,	
-A-94	soda	soda	preterm birth	preterm birth	during pregnancy: diet soda and	
-A-94	garlic	garlic	vegetables	vegetables	stood out for the	
-A-94	fiber	fiber	plant-based	plant-based	rich bread), which was more	
 A-94	disease	disease	diabetes	diabetes	and	
-A-94	fruit	fruit	women	women	intake of nearly 19,000 pregnant	
-A-94	diet soda	diet soda	pregnancy	pregnancy	during	
-A-94	garlic	garlic	cancer	cancer	in #1 anti-	
-A-94	diet	diet	oils	oils	(vegetables, fruits,	
-A-94	fruit	fruit	pregnant women	pregnant women	intake of nearly 19,000	
-A-94	whole grain	whole grain	plant-based	plant-based	cereals, fiber rich bread), which was more	
-A-94	berries	berries	inflammation	inflammation	can reduce both systemic and local	
-A-94	diet	diet	soda	soda		
-A-94	diet soda	diet soda	preterm birth	preterm birth	during pregnancy: diet soda and	
-A-94	whole grain	whole grain	bread	bread	cereals, fiber rich	
-A-94	nutrasweet	nutrasweet	diet soda	diet soda	) and	
+A-94	vegetables	vegetables	raisins	raisins	and	
 A-94	heart disease	heart disease	diabetes	diabetes	and	
-A-94	dried fruit	dried fruit	fiber	fiber	is also packed with	
-A-94	diet	diet	water	water	(vegetables, fruits, oils,	
-A-94	nutrasweet	nutrasweet	pregnancy	pregnancy	) and diet soda during	
-A-94	women	women	risk	risk	do to decrease this	
-A-94	fiber	fiber	bread	bread	rich	
-A-94	raisins	raisins	garlic	garlic	to prevent premature birth) studied the	
-A-94	aspartame	aspartame	diet	diet	(nutrasweet) and	
-A-94	risk	risk	disease	disease	for things like heart	
-A-94	diet	diet	berries	berries	characterized by high intakes of vegetables, fruit, and	
-A-94	pregnancy	pregnancy	soda	soda	: diet	
-A-94	raisins	raisins	dried fruit	dried fruit	stood out for the	
-A-94	water	water	beverage	beverage	as	
-A-94	diet	diet	fruit	fruit	characterized by high intakes of vegetables,	
-A-94	diet	diet	fruits	fruits	(vegetables,	
-A-94	dried fruit	dried fruit	pregnant women	pregnant women	intake of nearly 19,000	
-A-94	garlic	garlic	raisins	raisins	stood out for the vegetables and	
-A-94	vegetables	vegetables	fruits	fruits	and dried	
-A-94	diet soda	diet soda	soda	soda	during pregnancy: diet	
-A-94	aspartame	aspartame	pregnancy	pregnancy	(nutrasweet) and diet soda during	
-A-94	pregnant	pregnant	risk	risk	women do to decrease this	
-A-94	diet	diet	bread	bread	(salty and sweet snacks, white	
-A-94	bread	bread	plant-based	plant-based	), which was more	
-A-94	aspartame	aspartame	soda	soda	(nutrasweet) and diet	
-A-94	pregnant	pregnant	risk	risk	women, and indeed, they observed a reduced	
-A-94	soda	soda	diet	diet	during pregnancy:	
-A-94	cancer	cancer	garlic	garlic	vegetable and cancer, interrupted:	
+A-94	raisins	raisins	fruit	fruit	stood out for the dried	
 A-94	diet	diet	vegetables	vegetables	characterized by high intakes of	
 A-94	garlic	garlic	raisins	raisins	and	
-A-94	fruit	fruit	pregnant	pregnant	intake of nearly 19,000	
-A-94	pregnancy	pregnancy	garlic	garlic	videos include: more on	
-A-94	fiber	fiber	bacteria	bacteria	and has antimicrobial activities against some of the	
-A-94	dried fruit	dried fruit	women	women	intake of nearly 19,000 pregnant	
-A-94	vegetables	vegetables	fruit	fruit	and raisins stood out for the dried	
-A-94	cancer	cancer	cancer	cancer	vegetable and	
-A-94	plant-based	plant-based	diet	diet	versus a “western” or traditional scandinavian	
-A-94	vegetables	vegetables	dried fruit	dried fruit	and raisins stood out for the	
-A-94	aspartame	aspartame	diet soda	diet soda	(nutrasweet) and	
-A-94	diet	diet	preterm birth	preterm birth	soda during pregnancy: diet soda and	
-A-94	pregnancy	pregnancy	preterm birth	preterm birth	: diet soda and	
-A-94	diet soda	diet soda	diet	diet	during pregnancy:	
+A-94	berries	berries	inflammation	inflammation	can reduce both systemic and local	
+A-94	women	women	risk	risk	do to decrease this	
+A-94	raisins	raisins	dried fruit	dried fruit	stood out for the	
+A-94	garlic	garlic	vegetables	vegetables	stood out for the	
+A-94	pregnant women	pregnant women	risk	risk	do to decrease this	

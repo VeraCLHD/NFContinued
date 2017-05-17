@@ -1,30 +1,14 @@
 
-T-602	esselstyn	esselstyn	diet	diet	switched to a plant-based	
-T-602	prevent and reverse heart disease	prevent and reverse heart disease	disease	disease	) involving patients with advanced heart	
+T-602	dr. caldwell esselstyn	dr. caldwell esselstyn	plant-based diets	plant-based diets	is a practitioner pioneer who showed that	
+T-602	esselstyn	esselstyn	plant-based diet	plant-based diet	switched to a	
 T-602	caldwell esselstyn	caldwell esselstyn	plant-based diets	plant-based diets	is a practitioner pioneer who showed that	
 T-602	dr. caldwell esselstyn	dr. caldwell esselstyn	plant-based	plant-based	is a practitioner pioneer who showed that	
-T-602	plant-based	plant-based	diet	diet		
 T-602	plant-based diets	plant-based diets	heart disease	heart disease	may not only stop	
-T-602	prevent and reverse heart disease	prevent and reverse heart disease	heart disease	heart disease	) involving patients with advanced	
+T-602	dr. esselstyn	dr. esselstyn	heart disease	heart disease	has called	
+T-602	caldwell esselstyn	caldwell esselstyn	plant-based	plant-based	is a practitioner pioneer who showed that	
 T-602	esselstyn	esselstyn	plant-based diets	plant-based diets	is a practitioner pioneer who showed that	
 T-602	dr. esselstyn	dr. esselstyn	plant-based	plant-based	switched to a	
 T-602	dr. esselstyn	dr. esselstyn	plant-based diet	plant-based diet	switched to a	
-T-602	book	book	disease	disease	(prevent and reverse heart	
-T-602	book	book	heart disease	heart disease	(prevent and reverse	
-T-602	disease	disease	heart disease	heart disease	) involving patients with advanced	
-T-602	heart disease	heart disease	disease	disease	) involving patients with advanced heart	
-T-602	plant-based diets	plant-based diets	disease	disease	may not only stop heart	
-T-602	esselstyn	esselstyn	plant-based	plant-based	switched to a	
-T-602	esselstyn	esselstyn	disease	disease	has called heart	
-T-602	dr. caldwell esselstyn	dr. caldwell esselstyn	plant-based diets	plant-based diets	is a practitioner pioneer who showed that	
-T-602	esselstyn	esselstyn	plant-based diet	plant-based diet	switched to a	
-T-602	plant-based	plant-based	heart disease	heart disease	diets may not only stop	
-T-602	dr. esselstyn	dr. esselstyn	disease	disease	has called heart	
-T-602	plant-based	plant-based	disease	disease	diets may not only stop heart	
-T-602	dr. esselstyn	dr. esselstyn	heart disease	heart disease	has called	
-T-602	caldwell esselstyn	caldwell esselstyn	plant-based	plant-based	is a practitioner pioneer who showed that	
-T-602	plant-based	plant-based	medical profession	medical profession	diet himself and has worked to convince the	
-T-602	plant-based diet	plant-based diet	medical profession	medical profession	himself and has worked to convince the	
-T-602	dr. esselstyn	dr. esselstyn	diet	diet	switched to a plant-based	
 T-602	esselstyn	esselstyn	heart disease	heart disease	has called	
 T-602	esselstyn	esselstyn	plant-based	plant-based	is a practitioner pioneer who showed that	
+T-602	esselstyn	esselstyn	plant-based	plant-based	switched to a	

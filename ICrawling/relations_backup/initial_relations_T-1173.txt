@@ -1,12 +1,2 @@
 
-T-1173	burgers	burgers	restaurants	restaurants	from fast food	
-T-1173	risk	risk	reflux	reflux	of acid	
-T-1173	risk	risk	chemical carcinogens	chemical carcinogens	of acid reflux, expose consumers to industrial	
-T-1173	usda	usda	dietary guidelines	dietary guidelines		
-T-1173	risk	risk	carcinogens	carcinogens	of acid reflux, expose consumers to industrial chemical	
-T-1173	burgers	burgers	fast food	fast food	from	
-T-1173	meat	meat	restaurants	restaurants	in burgers from fast food	
 T-1173	meat	meat	burgers	burgers	in	
-T-1173	coca-cola	coca-cola	physicians	physicians	have supported the american academy of family	
-T-1173	meat	meat	fast food	fast food	in burgers from	
-T-1173	fast food	fast food	restaurants	restaurants		

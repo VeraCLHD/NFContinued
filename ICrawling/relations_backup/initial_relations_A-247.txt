@@ -1,107 +1,17 @@
 
-A-247	soy	soy	phytonutrients	phytonutrients		
-A-247	women	women	soy	soy	who ate the most	
-A-247	cancer	cancer	soy	soy	survivors that ate lots of	
-A-247	soy	soy	women	women	may actually help turn back on	
-A-247	legumes	legumes	peas	peas	such as beans, chickpeas, split	
-A-247	soy	soy	cancer	cancer	and breast	
-A-247	risk	risk	cancer	cancer	of dying from breast	
-A-247	soy	soy	cancer survival	cancer survival	and breast	
-A-247	phytonutrients	phytonutrients	dna	dna	might reverse	
-A-247	soy	soy	brca genes	brca genes	may actually help turn back on women’s	
-A-247	angelina jolie	angelina jolie	mastectomy	mastectomy	’s public decision to undergo a preventive double	
-A-247	soy	soy	protein	protein		
-A-247	soy	soy	breast cancer	breast cancer	had a 29% lower risk of dying from	
-A-247	phytonutrients	phytonutrients	cancer	cancer	to the	
-A-247	cancer survival	cancer survival	protein	protein	and soy	
-A-247	cancer	cancer	brca genes	brca genes	victims have fully functional	
 A-247	soy	soy	breast cancer survival	breast cancer survival	and	
-A-247	cancer	cancer	risk	risk	genes as well, and women at increased genetic	
-A-247	breast cancer	breast cancer	soy foods	soy foods	survivors who eat	
-A-247	cancer	cancer	women	women	genes as well, and	
-A-247	breast cancer	breast cancer	brca genes	brca genes	victims have fully functional	
-A-247	cancer	cancer	breast cancer	breast cancer	—especially	
-A-247	legumes	legumes	chickpeas	chickpeas	such as beans,	
-A-247	cancer	cancer	soy	soy	survivors who eat	
-A-247	legumes	legumes	beans	beans	such as	
-A-247	blood	blood	triglycerides	triglycerides	pressure, lower blood sugars, lower cholesterol, lower	
-A-247	breast cancer survival	breast cancer survival	soy	soy	and	
-A-247	women	women	brca genes	brca genes	’s	
-A-247	soybeans	soybeans	treatment	treatment	), the results suggest that	
-A-247	lifespan	lifespan	beans	beans	from	
-A-247	breast cancer	breast cancer	soy	soy	genes and	
-A-247	soy	soy	risk	risk	had a 29% lower	
-A-247	cancer	cancer	cancer	cancer	and a 36% lower risk of	
-A-247	breast cancer survival	breast cancer survival	soy protein	soy protein	and	
-A-247	cancer	cancer	brca genes	brca genes	(columns 3 and 4), the	
-A-247	phytonutrients	phytonutrients	soy	soy	in	
-A-247	soy	soy	breast cancer	breast cancer	and	
-A-247	breast cancer	breast cancer	women	women	—was the leading killer of	
-A-247	soy	soy	risk	risk	so dramatically decrease cancer	
-A-247	breast cancer	breast cancer	soy	soy	survivors who eat	
-A-247	women	women	cancer	cancer	at increased genetic risk of breast	
-A-247	breast cancer	breast cancer	women	women	genes as well, and	
-A-247	soy	soy	phytonutrient	phytonutrient	protein intake, as opposed to just soy	
-A-247	blood	blood	cholesterol	cholesterol	pressure, lower blood sugars, lower	
-A-247	breast cancer	breast cancer	risk	risk	genes as well, and women at increased genetic	
-A-247	cancer	cancer	phytonutrients	phytonutrients	recurrence may be because the	
-A-247	soybeans	soybeans	soy	soy	), the results suggest that treatment with	
-A-247	soy	soy	breast cancer	breast cancer	appears to also help with other	
-A-247	cancer	cancer	soy	soy	recurrence may be because the phytonutrients in	
-A-247	breast cancer	breast cancer	risk	risk	and a 36% lower	
-A-247	cancer	cancer	risk	risk	and a 36% lower	
-A-247	legumes	legumes	lentils	lentils	such as beans, chickpeas, split peas, and	
-A-247	women	women	soy	soy	who ate the least amount of	
-A-247	breast cancer	breast cancer	soy	soy	survivors that ate lots of	
-A-247	risk	risk	breast cancer	breast cancer	of dying from	
-A-247	soy protein	soy protein	soy	soy	intake, as opposed to just	
-A-247	treatment	treatment	dna	dna	with soy phytonutrients might reverse	
-A-247	soy	soy	cancer	cancer	appears to also help with other breast	
-A-247	legumes	legumes	split peas	split peas	such as beans, chickpeas,	
-A-247	women	women	legumes	legumes	who eat	
-A-247	cancer	cancer	soy foods	soy foods	survivors who eat	
-A-247	mortality	mortality	cancer	cancer	of breast	
-A-247	treatment	treatment	phytonutrients	phytonutrients	with soy	
-A-247	diet	diet	dna	dna	can affect	
-A-247	cancer	cancer	soy	soy	genes and	
-A-247	women	women	risk	risk	at increased genetic	
-A-247	breast cancer	breast cancer	cancer	cancer	and a 36% lower risk of	
-A-247	breast cancer	breast cancer	soy	soy	survival and	
+A-247	mortality	mortality	women	women	in	
 A-247	risk	risk	breast cancer	breast cancer	of	
-A-247	women	women	cancer	cancer	with breast	
-A-247	protein	protein	soy	soy	intake, as opposed to just	
-A-247	risk	risk	cancer	cancer	of breast	
-A-247	treatment	treatment	soy	soy	with	
-A-247	dna	dna	tumor	tumor	hypermethylation and restore the expression of the	
-A-247	breast cancer	breast cancer	soy protein	soy protein	survival and	
-A-247	women	women	breast cancer	breast cancer	with	
-A-247	protein	protein	phytonutrient	phytonutrient	intake, as opposed to just soy	
-A-247	risk	risk	cancer	cancer	of	
-A-247	dna	dna	breast cancer	breast cancer	repair mechanisms are intact, how did	
-A-247	chinese	chinese	breast cancer	breast cancer	women with	
-A-247	cancer	cancer	soy	soy	survival and	
-A-247	breast cancer survival	breast cancer survival	protein	protein	and soy	
-A-247	soy	soy	cancer	cancer	so dramatically decrease	
-A-247	cancer	cancer	soy protein	soy protein	survival and	
-A-247	soy	soy	cancer	cancer	intake is associated with increased survival and decreased	
-A-247	soy	soy	cancer	cancer	phytonutrients to the	
-A-247	cancer survival	cancer survival	soy	soy	and	
-A-247	cancer survival	cancer survival	soy protein	soy protein	and	
-A-247	breast cancer	breast cancer	protein	protein	survival and soy	
-A-247	phytonutrients	phytonutrients	brca genes	brca genes	to the cancer (columns 3 and 4), the	
-A-247	soybeans	soybeans	phytonutrients	phytonutrients	), the results suggest that treatment with soy	
+A-247	soy	soy	women	women	may actually help turn back on	
 A-247	brca genes	brca genes	dna	dna	get turned back on and	
 A-247	mortality	mortality	breast cancer	breast cancer	of	
-A-247	cancer	cancer	cancer	cancer	—especially breast	
-A-247	cancer	cancer	risk	risk		
-A-247	dna	dna	tumor suppressor genes	tumor suppressor genes	hypermethylation and restore the expression of the	
-A-247	soy	soy	dna	dna	phytonutrients might reverse	
-A-247	women	women	breast cancer	breast cancer	at increased genetic risk of	
-A-247	cancer	cancer	women	women	—especially breast cancer—was the leading killer of	
-A-247	mortality	mortality	women	women	in	
-A-247	cancer	cancer	protein	protein	survival and soy	
-A-247	risk	risk	soy	soy	of breast cancer may especially benefit from high	
-A-247	chinese	chinese	women	women		
-A-247	dna	dna	cancer	cancer	repair mechanisms are intact, how did breast	
-A-247	chinese	chinese	cancer	cancer	women with breast	
-A-247	soy protein	soy protein	phytonutrient	phytonutrient	intake, as opposed to just soy	
+A-247	breast cancer survival	breast cancer survival	soy	soy	and	
+A-247	phytonutrients	phytonutrients	dna	dna	might reverse	
+A-247	cancer survival	cancer survival	soy	soy	and	
+A-247	soy	soy	risk	risk	had a 29% lower	
+A-247	risk	risk	cancer	cancer	of	
+A-247	breast cancer survival	breast cancer survival	soy protein	soy protein	and	
+A-247	cancer survival	cancer survival	soy protein	soy protein	and	
+A-247	phytonutrients	phytonutrients	soy	soy	in	
+A-247	soy	soy	breast cancer	breast cancer	and	
+A-247	diet	diet	dna	dna	can affect	

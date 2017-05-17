@@ -1,46 +1,17 @@
 
 A-328	water	water	nutrition	nutrition	is a source of	
-A-328	water	water	calories	calories	is a source of nutrition without	
-A-328	children	children	health	health	’s	
-A-328	dehydration	dehydration	children	children	…	
-A-328	stress	stress	cold	cold	and living in a	
-A-328	water	water	plant foods	plant foods	content of	
-A-328	hydration	hydration	mental health	mental health	for	
-A-328	juice	juice	water	water	and milk may not be as hydrating as	
-A-328	hydration	hydration	health	health	for mental	
-A-328	healthcare professionals	healthcare professionals	health	health	under-recognized the importance of proper hydration for mental	
-A-328	hydration	hydration	coca-cola	coca-cola	institute” founded in part by…the	
-A-328	hydration	hydration	children	children	status of healthy	
-A-328	children	children	united states	united states	in the	
-A-328	pills	pills	kids	kids	but just tell	
-A-328	children	children	dehydration	dehydration	were in a state of mild, voluntary	
-A-328	plant foods	plant foods	plant-based diets	plant-based diets	may help explain why those eating	
-A-328	kids	kids	water	water	did not drink	
-A-328	dehydration	dehydration	scholastic performance	scholastic performance	that may negatively affect	
-A-328	sugar	sugar	kids	kids	pills but just tell	
-A-328	children	children	dehydration	dehydration	arrive at school in a state of mild	
-A-328	water	water	stress	stress	deprivation or by heat	
-A-328	usda	usda	water	water	for a country with the guts to suggest	
-A-328	milk	milk	water	water	may not be as hydrating as	
-A-328	water	water	soda	soda	might be preferable to drinking	
-A-328	children	children	cognitive performance	cognitive performance	’s	
-A-328	dehydration	dehydration	cognitive performance	cognitive performance	…children’s	
-A-328	hydration	hydration	united states	united states	status of healthy children in the	
-A-328	healthcare professionals	healthcare professionals	mental health	mental health	under-recognized the importance of proper hydration for	
+A-328	juice	juice	dehydration	dehydration	can shrink cells and trigger the release of the hormone that spurs	
 A-328	hydration	hydration	cognitive performance	cognitive performance	and	
-A-328	urine	urine	kids	kids	from nearly two-thirds of the u.s.	
 A-328	milk	milk	juice	juice	and	
 A-328	healthcare professionals	healthcare professionals	hydration	hydration	under-recognized the importance of proper	
 A-328	israel	israel	children	children	showing	
-A-328	amino acids	amino acids	juice	juice	in milk and	
+A-328	plant foods	plant foods	plant-based diets	plant-based diets	may help explain why those eating	
 A-328	cognitive performance	cognitive performance	water	water	can be improved by having a drink of	
-A-328	nutrition	nutrition	calories	calories	without	
+A-328	kids	kids	water	water	did not drink	
 A-328	amino acids	amino acids	milk	milk	in	
 A-328	water	water	children	children	make	
-A-328	children	children	dehydration	dehydration	in a state of mild	
-A-328	dietary guidelines	dietary guidelines	usda	usda	: it’s all greek to the	
-A-328	kids	kids	water	water	in the	
-A-328	sugar	sugar	pills	pills		
+A-328	children	children	dehydration	dehydration	arrive at school in a state of mild	
 A-328	plant foods	plant foods	plant-based	plant-based	may help explain why those eating	
-A-328	cold	cold	water	water	climate, can benefit from drinking more	
+A-328	milk	milk	water	water	may not be as hydrating as	
+A-328	water	water	soda	soda	might be preferable to drinking	
 A-328	juice	juice	milk	milk	and	

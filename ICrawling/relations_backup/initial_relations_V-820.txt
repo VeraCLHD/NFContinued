@@ -1,34 +1,10 @@
 
 V-820	limonol	limonol	tangeretin	tangeretin	or	
-V-820	peas	peas	cauliflower	cauliflower	are pods, and	
-V-820	lemonin	lemonin	apples	apples	and limonol or tangeretin in	
-V-820	greens	greens	mesclun mix	mesclun mix		
-V-820	mesclun	mesclun	spinach	spinach	mix than even the straight	
-V-820	lemonin	lemonin	tangeretin	tangeretin	and limonol or	
-V-820	variety	variety	vegetables	vegetables	of	
-V-820	greens	greens	spinach	spinach	mesclun mix than even the straight	
-V-820	variety	variety	fruit	fruit	of	
-V-820	mesclun mix	mesclun mix	spinach	spinach	than even the straight	
-V-820	disease	disease	risk	risk		
-V-820	disease	disease	fruit	fruit	risk and the variety of	
-V-820	carrots	carrots	celery	celery	are roots;	
 V-820	apples	apples	oranges	oranges	and	
-V-820	risk	risk	fruit	fruit	and the variety of	
-V-820	lemonoids	lemonoids	tangeretin	tangeretin	like lemonin and limonol or	
-V-820	carrots	carrots	roots	roots	are	
-V-820	lemonoids	lemonoids	lemonin	lemonin	like	
-V-820	rhubarb	rhubarb	peas	peas	are stems; dark green leafies are leaves,	
-V-820	risk	risk	variety	variety	and the	
-V-820	spinach	spinach	lettuce	lettuce	is healthier than	
-V-820	greens	greens	mesclun	mesclun		
-V-820	lemonin	lemonin	limonol	limonol	and	
-V-820	limonol	limonol	apples	apples	or tangeretin in	
-V-820	celery	celery	rhubarb	rhubarb	and	
-V-820	lemonoids	lemonoids	apples	apples	like lemonin and limonol or tangeretin in	
-V-820	lemonoids	lemonoids	limonol	limonol	like lemonin and	
-V-820	oranges	oranges	apples	apples	is like, comparing	
-V-820	disease	disease	variety	variety	risk and the	
-V-820	carrots	carrots	rhubarb	rhubarb	are roots; celery and	
 V-820	tangeretin	tangeretin	apples	apples	in	
-V-820	fruits	fruits	vegetables	vegetables	are just fruits, whereas	
+V-820	variety	variety	vegetables	vegetables	of	
+V-820	lemonin	lemonin	limonol	limonol	and	
+V-820	carrots	carrots	roots	roots	are	
+V-820	variety	variety	fruit	fruit	of	
+V-820	celery	celery	rhubarb	rhubarb	and	
 V-820	fruits	fruits	vegetables	vegetables	and	

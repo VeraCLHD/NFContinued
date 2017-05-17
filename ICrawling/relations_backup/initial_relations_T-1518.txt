@@ -1,45 +1,8 @@
 
 T-1518	chicken	chicken	arteries	arteries	can both stiffen	
-T-1518	phosphorus	phosphorus	nutrition	nutrition	content on the	
-T-1518	aging	aging	osteoporosis	osteoporosis	process, and contributing to	
 T-1518	processed meats	processed meats	botulism	botulism	help reduce	
-T-1518	processed meats	processed meats	risk	risk	help reduce botulism	
-T-1518	phosphorus	phosphorus	preservatives	preservatives		
-T-1518	food poisoning	food poisoning	bacteria	bacteria	campylobacter	
-T-1518	meat industry	meat industry	phosphorus	phosphorus	is not required to list	
-T-1518	preservatives	preservatives	disease	disease	helped improve several metabolic and cardiovascular	
-T-1518	sodium	sodium	soft drinks	soft drinks	benzoate, a preservative often found in	
-T-1518	ascorbic acid	ascorbic acid	benzene	benzene	in the drink to form the carcinogen,	
-T-1518	disease	disease	risk	risk		
-T-1518	cola	cola	blood	blood	can also be harmful by possibly damaging	
-T-1518	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	risk	risk		
-T-1518	cancer	cancer	risk	risk		
-T-1518	nitrites	nitrites	meats	meats	as a preservative in processed	
-T-1518	phosphorus	phosphorus	meat	meat	preservatives and additives in junk foods,	
-T-1518	ascorbic acid	ascorbic acid	carcinogen	carcinogen	in the drink to form the	
-T-1518	meats	meats	cancer	cancer	help reduce botulism risk but also raise	
-T-1518	meats	meats	risk	risk	help reduce botulism	
-T-1518	botulism	botulism	risk	risk		
-T-1518	blood	blood	aging	aging	vessels, accelerating the	
-T-1518	processed meats	processed meats	cancer	cancer	help reduce botulism risk but also raise	
-T-1518	campylobacter	campylobacter	bacteria	bacteria		
-T-1518	botulism	botulism	cancer	cancer	risk but also raise	
-T-1518	blood	blood	osteoporosis	osteoporosis	vessels, accelerating the aging process, and contributing to	
-T-1518	bha	bha	carcinogen	carcinogen	may be a	
-T-1518	nitrites	nitrites	processed meats	processed meats	as a preservative in	
-T-1518	arteries	arteries	food poisoning	food poisoning	and appear to dramatically increase the growth of	
-T-1518	food poisoning	food poisoning	campylobacter	campylobacter		
-T-1518	cancer	cancer	disease	disease	risk (see also here) and chronic obstructive pulmonary	
-T-1518	risk	risk	cancer	cancer	but also raise	
-T-1518	mold	mold	supplements	supplements	growth in certain foods and	
-T-1518	meat	meat	phosphorus	phosphorus	industry is not required to list	
-T-1518	cancer	cancer	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	risk (see also here) and	
 T-1518	meats	meats	botulism	botulism	help reduce	
+T-1518	bha	bha	carcinogen	carcinogen	may be a	
 T-1518	preservatives	preservatives	cardiovascular disease	cardiovascular disease	helped improve several metabolic and	
 T-1518	preservatives	preservatives	health	health	can differ in their potential	
-T-1518	preservatives	preservatives	cola	cola	and additives in junk foods, meat products, and	
-T-1518	preservatives	preservatives	meat	meat	and additives in junk foods,	
-T-1518	potassium	potassium	mold	mold	sorbate, a preservative used to prevent	
-T-1518	nitrites	nitrites	botulism	botulism	as a preservative in processed meats help reduce	
-T-1518	meat	meat	cola	cola	products, and	
-T-1518	sodium benzoate	sodium benzoate	chicken	chicken	has also been linked with hyperactivity.phosphate additives in	
+T-1518	preservatives	preservatives	disease	disease	helped improve several metabolic and cardiovascular	

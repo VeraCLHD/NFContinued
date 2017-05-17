@@ -1,47 +1,10 @@
 
-V-52	children	children	diabetes	diabetes	over into	
-V-52	children	children	diabetes	diabetes	with type 1	
-V-52	twins	twins	dna	dna	—meaning even if someone with the same	
-V-52	type 1 diabetes	type 1 diabetes	antibodies	antibodies	to see if they had elevated levels of	
-V-52	children	children	vitamin d	vitamin d	over into diabetes, including	
-V-52	milk	milk	diabetes	diabetes	protein] casein produced	
-V-52	protein	protein	diabetes	diabetes	] casein produced	
-V-52	type 1 diabetes	type 1 diabetes	united states	united states	rates 18 times lower than the	
-V-52	diet	diet	protein	protein	containing [the cow’s milk	
-V-52	dna	dna	disease	disease	as you gets the	
-V-52	kids	kids	protein	protein	had elevated anti-bovine	
-V-52	breast milk	breast milk	infants	infants	protects newborn	
-V-52	type 1 diabetes	type 1 diabetes	breast milk	breast milk	—leading to the obvious conclusion:	
-V-52	diabetes	diabetes	antibodies	antibodies	to see if they had elevated levels of	
-V-52	protein	protein	antibodies	antibodies		
-V-52	children	children	risk	risk	migrate, they tend to acquire the	
-V-52	milk	milk	protein	protein		
-V-52	protein	protein	blood	blood	antibodies circulating in their	
-V-52	type 1 diabetes	type 1 diabetes	milk	milk	—leading to the obvious conclusion: breast	
-V-52	type 1 diabetes	type 1 diabetes	diabetes	diabetes	—insulin-dependent, childhood-onset	
-V-52	casein	casein	diabetes	diabetes	produced	
-V-52	vitamin d	vitamin d	infections	infections	deficiency, certain	
-V-52	blood	blood	type 1 diabetes	type 1 diabetes	from children with	
-V-52	babies	babies	type 1 diabetes	type 1 diabetes	are breastfed, the higher the rate of	
 V-52	antibodies	antibodies	blood	blood	circulating in their	
-V-52	blood	blood	diabetes	diabetes	from children with type 1	
-V-52	children	children	immune system	immune system	and young adults, in which your own	
-V-52	kids	kids	antibodies	antibodies	had elevated anti-bovine protein	
-V-52	diabetes	diabetes	milk	milk	—leading to the obvious conclusion: breast	
-V-52	milk	milk	casein	casein	protein]	
-V-52	children	children	type 1 diabetes	type 1 diabetes	with	
-V-52	type 1 diabetes	type 1 diabetes	twins	twins	is only about 50% among identical	
-V-52	diet	diet	diabetes	diabetes	containing [the cow’s milk protein] casein produced	
 V-52	diabetes	diabetes	disease	disease	is an autoimmune	
-V-52	disease	disease	children	children	that typically strikes	
+V-52	children	children	risk	risk	migrate, they tend to acquire the	
 V-52	diet	diet	milk	milk	containing [the cow’s	
-V-52	blood	blood	children	children	from	
-V-52	kids	kids	blood	blood	had elevated anti-bovine protein antibodies circulating in their	
 V-52	diabetes	diabetes	twins	twins	is only about 50% among identical	
-V-52	diabetes	diabetes	breast milk	breast milk	—leading to the obvious conclusion:	
-V-52	diabetes	diabetes	children	children	is an autoimmune disease that typically strikes	
-V-52	diet	diet	casein	casein	containing [the cow’s milk protein]	
-V-52	vitamin d	vitamin d	milk	milk	deficiency, certain infections, or exposure to cow’s	
 V-52	milk	milk	infants	infants	protects newborn	
-V-52	diabetes	diabetes	united states	united states	rates 18 times lower than the	
-V-52	children	children	infections	infections	over into diabetes, including vitamin d deficiency, certain	
+V-52	kids	kids	protein	protein	had elevated anti-bovine	
+V-52	type 1 diabetes	type 1 diabetes	twins	twins	is only about 50% among identical	
+V-52	breast milk	breast milk	infants	infants	protects newborn	

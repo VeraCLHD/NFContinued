@@ -1,12 +1,4 @@
 
 A-178	diet	diet	cancer	cancer	plays a role in	
-A-178	blood	blood	health	health	type diets will provide	
-A-178	blood type diet	blood type diet	book	book		
-A-178	blood	blood	book	book	type diet	
-A-178	blood	blood	diet	diet	type	
 A-178	blood type diet	blood type diet	cancer	cancer	plays a role in	
-A-178	blood	blood	health	health	type diets within the	
-A-178	health	health	blood	blood	benefits, despite the substantial presence and perseverance of	
-A-178	book	book	low-carb diets	low-carb diets	about	
-A-178	blood	blood	nutrition	nutrition	types and	
-A-178	diet	diet	book	book		
+A-178	book	book	blood	blood	eat right for your type makes the astounding claim that people with different	

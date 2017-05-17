@@ -1,44 +1,13 @@
 
-V-454	sweet potatoes	sweet potatoes	risk	risk	and cornbread [which] may reduce the	
-V-454	kidney	kidney	cancer	cancer		
 V-454	women	women	french fries	french fries	may want to cut back on	
-V-454	diet	diet	greens	greens	] characterized by high intakes of cooked	
-V-454	cancer	cancer	french fries	french fries	?now, the level of cancer risk associated with	
-V-454	risk	risk	french fries	french fries	assessment” for	
-V-454	pregnant	pregnant	women	women		
-V-454	pregnant women	pregnant women	french fries	french fries	may want to cut back on	
-V-454	heterocyclic amines	heterocyclic amines	muscles	muscles	and polycyclic aromatic hydrocarbons, form when the	
-V-454	cancer	cancer	risk	risk		
-V-454	risk	risk	cancer	cancer	of prostate	
-V-454	acrylamide	acrylamide	inflammation	inflammation	“may cause…	
-V-454	pregnant	pregnant	french fries	french fries	women may want to cut back on	
-V-454	cancer	cancer	acrylamide	acrylamide	progression.	
-V-454	breast cancer	breast cancer	women	women	risk among	
-V-454	breast cancer	breast cancer	risk	risk		
-V-454	prostate	prostate	cancer	cancer		
+V-454	doughnuts	doughnuts	prostate	prostate	was associated with about a third greater odds of	
+V-454	cooking temperature	cooking temperature	cooking	cooking	should be as low [as possible] and the	
 V-454	muscles	muscles	chickens	chickens	of	
-V-454	food industry	food industry	acrylamide	acrylamide	swore that they’d self-regulate, and “control…fry…times” to decrease	
-V-454	cancer	cancer	women	women	risk among	
+V-454	doughnuts	doughnuts	prostate cancer	prostate cancer	was associated with about a third greater odds of	
+V-454	risk	risk	french fries	french fries	associated with	
 V-454	risk	risk	prostate cancer	prostate cancer	of	
-V-454	risk	risk	women	women	among	
-V-454	muscles	muscles	fish	fish	of chickens and	
 V-454	heterocyclic amines	heterocyclic amines	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	and	
 V-454	plants	plants	chemicals	chemicals	can form different	
-V-454	french fries	french fries	baby	baby	to protect the growth of their	
-V-454	risk	risk	prostate	prostate	of	
-V-454	cancer	cancer	french fries	french fries	eating	
-V-454	prostate	prostate	tumor	tumor	cancer, and after stratifying for	
-V-454	plants	plants	acrylamide	acrylamide	can form different chemicals, like	
-V-454	risk	risk	french fries	french fries	associated with	
-V-454	diet	diet	beans	beans	] characterized by high intakes of cooked greens,	
-V-454	potatoes	potatoes	risk	risk	and cornbread [which] may reduce the	
-V-454	risk	risk	cancer	cancer	of invasive breast	
-V-454	potato chips	potato chips	acrylamide	acrylamide	every day for a month, it now seems	
-V-454	cancer	cancer	risk	risk	?now, the level of cancer	
-V-454	cancer	cancer	french fries	french fries	risk assessment” for	
-V-454	kidney	kidney	esophageal cancer	esophageal cancer	cancer, and	
-V-454	cooking temperature	cooking temperature	cooking	cooking	should be as low [as possible] and the	
-V-454	risk	risk	breast cancer	breast cancer	of invasive	
-V-454	cancer	cancer	cancer	cancer	?now, the level of	
-V-454	acrylamide	acrylamide	children	children	to the diets of	
+V-454	pregnant women	pregnant women	french fries	french fries	may want to cut back on	
 V-454	chickens	chickens	fish	fish	and	
+V-454	risk	risk	prostate	prostate	of	

@@ -1,22 +1,7 @@
 
 V-222	beets	beets	phytonutrients	phytonutrients	may have more of certain	
-V-222	stroke	stroke	risk	risk		
-V-222	nitrate	nitrate	beets	beets	intake is easy, but for	
-V-222	beet juice	beet juice	nitrate	nitrate	is	
-V-222	organic	organic	nitrate	nitrate	veggies to get the same	
-V-222	produce	produce	phosphorus	phosphorus	may have more vitamin c, iron, magnesium, and	
-V-222	produce	produce	magnesium	magnesium	may have more vitamin c, iron,	
-V-222	organic	organic	phytonutrients	phytonutrients	beets may have more of certain	
-V-222	spinach	spinach	juice	juice		
-V-222	risk	risk	stroke	stroke	25% and	
-V-222	heart attack	heart attack	risk	risk		
 V-222	beet juice	beet juice	nitrate	nitrate	corresponds to eight units of	
-V-222	vegetables	vegetables	nitrate	nitrate	about a half, and low	
-V-222	produce	produce	iron	iron	may have more vitamin c,	
-V-222	organic	organic	produce	produce	may have to eat even more.organic	
-V-222	heart attack	heart attack	stroke	stroke	risk 25% and	
+V-222	beet juice	beet juice	nitrate	nitrate	is	
 V-222	juice	juice	nitrate	nitrate	is	
-V-222	nitrate	nitrate	vegetables	vegetables		
-V-222	organic	organic	beets	beets		
 V-222	produce	produce	vitamin c	vitamin c	may have more	
-V-222	phosphorus	phosphorus	nitrates	nitrates	but tends to have fewer	
+V-222	british heart foundation	british heart foundation	nitrate	nitrate	put together this really helpful table that takes into account both	

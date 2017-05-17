@@ -1,20 +1,6 @@
 
-V-1051	chicken	chicken	energy	energy	carcass now contains two to three times the	
-V-1051	farm animals	farm animals	dha	dha	used to make	
-V-1051	dha	dha	chickens	chickens	from intensively reared	
-V-1051	fat	fat	protein	protein	—up to three times more fat than	
-V-1051	fat	fat	cream	cream	 per serving—twice the amount of fat that’s in ice	
-V-1051	animal fat	animal fat	ice cream	ice cream	 per serving—twice the amount of fat that’s in 	
-V-1051	chicken	chicken	fat	fat	may have had only 2 grams of	
-V-1051	obesity	obesity	birds	birds	[in these	
-V-1051	energy	energy	fat	fat	coming from	
-V-1051	chicken	chicken	fat	fat	now has ten times more	
-V-1051	animal fat	animal fat	fat	fat	 per serving—twice the amount of	
-V-1051	kids	kids	children	children	], but [instead] are unknowingly feeding their	
-V-1051	fat	fat	chickens	chickens	have our	
 V-1051	weight gain	weight gain	chickens	chickens	 may be that 	
-V-1051	fat	fat	ice cream	ice cream	 per serving—twice the amount of fat that’s in 	
-V-1051	energy	energy	protein	protein	coming from fat, compared to 	
-V-1051	animal fat	animal fat	cream	cream	 per serving—twice the amount of fat that’s in ice	
-V-1051	poultry	poultry	weight gain	weight gain	intake has been associated with	
-V-1051	weight gain	weight gain	fat	fat	 may be that chickens, these days, are mostly	
+V-1051	farm animals	farm animals	dha	dha	used to make	
+V-1051	chicken	chicken	fat	fat	may have had only 2 grams of	
+V-1051	energy	energy	fat	fat	coming from	
+V-1051	fat	fat	chickens	chickens	have our	

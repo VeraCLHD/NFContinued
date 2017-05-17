@@ -1,39 +1,7 @@
 
 V-488	salmonella	salmonella	campylobacter	campylobacter	and	
-V-488	chicken	chicken	health	health	on public	
-V-488	infection	infection	salmonella	salmonella	from cross-contamination…with 	
-V-488	meat	meat	health	health	products does not render them ‘injurious to	
-V-488	public health	public health	united states	united states	grounds, but it’s still sold in the	
+V-488	bacteria	bacteria	chicken	chicken	found in	
 V-488	cooking	cooking	salmonella	salmonella	can kill	
 V-488	risk	risk	food poisoning	food poisoning	of	
 V-488	chicken	chicken	salmonella	salmonella	contaminated with a virulent strain of	
-V-488	infection	infection	raw	raw	from cross-contamination…with salmonella from	
-V-488	salmonella	salmonella	cooking	cooking	on…chicken by proper	
-V-488	raw	raw	preparation	preparation	chicken during meal	
-V-488	chicken	chicken	public health	public health	on	
-V-488	meat	meat	usda	usda	industry sued the	
-V-488	raw	raw	chicken	chicken		
-V-488	cooking	cooking	meat	meat	practices…destroy…salmonella…,…the presence of salmonella in	
-V-488	campylobacter	campylobacter	infection	infection		
-V-488	infection	infection	chicken	chicken	from cross-contamination…with salmonella from raw	
-V-488	infection	infection	cross-contamination	cross-contamination	from	
-V-488	cross-contamination	cross-contamination	chicken	chicken	…with salmonella from raw	
-V-488	beef	beef	meat industry	meat industry	vs. usda, a court case in which the	
-V-488	salmonella	salmonella	chicken	chicken	infection from cross-contamination…with salmonella from raw	
-V-488	cross-contamination	cross-contamination	salmonella	salmonella	…with 	
-V-488	beef	beef	meat	meat	vs. usda, a court case in which the	
-V-488	beef	beef	usda	usda	vs. 	
-V-488	bacteria	bacteria	chicken	chicken	found in	
-V-488	health	health	united states	united states	grounds, but it’s still sold in the	
-V-488	infection	infection	preparation	preparation	from cross-contamination…with salmonella from raw chicken during meal	
-V-488	cooking	cooking	salmonella	salmonella	practices…destroy…	
-V-488	salmonella	salmonella	chicken	chicken	on…	
-V-488	cross-contamination	cross-contamination	raw	raw	…with salmonella from	
-V-488	chickens	chickens	salmonella	salmonella	without	
 V-488	meat industry	meat industry	usda	usda	sued the	
-V-488	food safety	food safety	poultry	poultry	for costco noted, “you wouldn’t have a	
-V-488	poultry	poultry	supermarkets	supermarkets	legs purchased in	
-V-488	chicken	chicken	cooking	cooking	by proper	
-V-488	cross-contamination	cross-contamination	preparation	preparation	…with salmonella from raw chicken during meal	
-V-488	salmonella	salmonella	meat	meat	…,…the presence of salmonella in	
-V-488	chickens	chickens	salmonella	salmonella	they were producing with	

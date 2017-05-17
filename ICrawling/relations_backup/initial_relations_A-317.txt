@@ -1,34 +1,9 @@
 
 A-317	probiotics	probiotics	treatment	treatment	is in the	
-A-317	gut	gut	flora	flora	with the whole range of natural gut	
-A-317	treatment	treatment	diarrhea	diarrhea	of acute infectious	
-A-317	alternative medicine	alternative medicine	prevention	prevention	into the mainstream, particularly for the	
-A-317	antibiotics	antibiotics	diet	diet	in our	
 A-317	treatment	treatment	gastroenteritis	gastroenteritis	of	
-A-317	probiotics	probiotics	antibiotics	antibiotics	along with the	
-A-317	prevention	prevention	gastroenteritis	gastroenteritis	of antibiotic-associated diarrhea and the treatment of	
-A-317	bacteria	bacteria	colon	colon	was taken from a healthy	
-A-317	probiotics	probiotics	alternative medicine	alternative medicine	have slowly moved from the field of	
-A-317	probiotics	probiotics	diarrhea	diarrhea	is in the treatment of acute infectious	
-A-317	probiotics	probiotics	risk	risk	along with the antibiotics, though, may cut this	
-A-317	diarrhea	diarrhea	treatment	treatment	and the	
-A-317	gut bacteria	gut bacteria	colon	colon	was taken from a healthy	
-A-317	prevention	prevention	diarrhea	diarrhea	of antibiotic-associated	
-A-317	gut	gut	gut flora	gut flora	with the whole range of natural	
-A-317	gut	gut	colon	colon	bacteria was taken from a healthy	
-A-317	prevention	prevention	treatment	treatment	of antibiotic-associated diarrhea and the	
-A-317	lactobacillus rhamnosis	lactobacillus rhamnosis	saccharomyces boulardii	saccharomyces boulardii	and	
-A-317	diarrhea	diarrhea	probiotics	probiotics	with	
-A-317	treatment	treatment	symptoms	symptoms	of acute infectious diarrhea, shortening the duration of	
-A-317	white meat	white meat	meat	meat	or dark	
-A-317	meat	meat	dark meat	dark meat	or	
-A-317	medicine	medicine	prevention	prevention	into the mainstream, particularly for the	
-A-317	treatment	treatment	shortening	shortening	of acute infectious diarrhea,	
-A-317	diarrhea	diarrhea	infection	infection	is to avoid getting an	
-A-317	white meat	white meat	dark meat	dark meat	or	
-A-317	shortening	shortening	symptoms	symptoms	the duration of	
-A-317	gut	gut	bacteria	bacteria		
 A-317	probiotics	probiotics	medicine	medicine	have slowly moved from the field of alternative	
-A-317	probiotics	probiotics	shortening	shortening	is in the treatment of acute infectious diarrhea,	
-A-317	diarrhea	diarrhea	gastroenteritis	gastroenteritis	and the treatment of	
-A-317	diet	diet	antibiotics	antibiotics	: lowering dietary antibiotic intake and more	
+A-317	diarrhea	diarrhea	infection	infection	is to avoid getting an	
+A-317	lactobacillus rhamnosis	lactobacillus rhamnosis	saccharomyces boulardii	saccharomyces boulardii	and	
+A-317	white meat	white meat	dark meat	dark meat	or	
+A-317	probiotics	probiotics	alternative medicine	alternative medicine	have slowly moved from the field of	
+A-317	meat	meat	dark meat	dark meat	or	

@@ -1,78 +1,13 @@
 
-V-651	meat	meat	risk	risk	may increase prostate cancer	
-V-651	breast cancer	breast cancer	prostate cancer	prostate cancer	may also increase the risk of	
-V-651	boiled	boiled	meat	meat		
-V-651	meat	meat	risk	risk	very well done appeared to have nearly five times higher	
-V-651	risk	risk	women	women	for breast cancer than that of	
+V-651	meat	meat	prostate	prostate	may increase	
+V-651	muscles	muscles	mammals	mammals	of	
+V-651	bacon	bacon	fish	fish	and	
+V-651	chemicals	chemicals	muscles	muscles	formed when the	
+V-651	risk	risk	kidney cancer	kidney cancer	of	
+V-651	risk	risk	prostate cancer	prostate cancer	of	
 V-651	risk	risk	kidney	kidney	of	
 V-651	meat	meat	prostate cancer	prostate cancer	may increase	
-V-651	cancer	cancer	risk	risk	may also increase the	
-V-651	risk	risk	cancer	cancer	for breast	
-V-651	prostate cancer	prostate cancer	risk	risk		
-V-651	meat	meat	risk	risk	carcinogens have also recently been associated with increased	
-V-651	chicken	chicken	skin	skin	without	
-V-651	risk	risk	pancreatic cancer	pancreatic cancer	of kidney cancer, colon cancer, lung cancer, and	
-V-651	risk	risk	breast cancer	breast cancer	for	
-V-651	muscles	muscles	fish	fish	of mammals,	
-V-651	breast cancer	breast cancer	risk	risk	may also increase the	
-V-651	prostate	prostate	cancer	cancer		
-V-651	colon	colon	cancer	cancer		
-V-651	kidney	kidney	lung cancer	lung cancer	cancer, colon cancer,	
-V-651	risk	risk	prostate	prostate	of	
-V-651	carcinogens	carcinogens	kidney	kidney	have also recently been associated with increased risk of	
-V-651	health	health	meat	meat	study who consumed	
-V-651	bacon	bacon	fish	fish	and	
-V-651	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	muscles	muscles	are chemicals formed when the	
-V-651	risk	risk	kidney cancer	kidney cancer	of	
-V-651	women	women	meat	meat	who consumed	
-V-651	boiled	boiled	water	water	meat—not broiled, but boiled in	
-V-651	muscles	muscles	mammals	mammals	of	
-V-651	chemicals	chemicals	fish	fish	formed when the muscles of mammals,	
-V-651	breast cancer	breast cancer	cancer	cancer	may also increase the risk of prostate	
-V-651	cancer	cancer	women	women	than that of	
-V-651	risk	risk	cancer	cancer		
-V-651	kidney	kidney	pancreatic cancer	pancreatic cancer	cancer, colon cancer, lung cancer, and	
-V-651	risk	risk	cooking	cooking	is via the release of mutagenic compounds during	
-V-651	breast cancer	breast cancer	meat	meat	than that of women who consumed	
-V-651	harvard	harvard	health	health		
-V-651	muscles	muscles	birds	birds	of mammals, fish, or	
-V-651	kidney	kidney	cancer	cancer		
-V-651	chemicals	chemicals	muscles	muscles	formed when the	
-V-651	risk	risk	lung cancer	lung cancer	of kidney cancer, colon cancer,	
-V-651	heterocyclic amines	heterocyclic amines	chemicals	chemicals	and polycyclic aromatic hydrocarbons are	
-V-651	risk	risk	colon cancer	colon cancer	of kidney cancer,	
-V-651	risk	risk	cancer	cancer	of prostate	
-V-651	meat	meat	prostate	prostate	may increase	
-V-651	cancer	cancer	risk	risk		
-V-651	colon	colon	pancreatic cancer	pancreatic cancer	cancer, lung cancer, and	
-V-651	kidney	kidney	colon	colon	cancer,	
-V-651	breast cancer	breast cancer	prostate	prostate	may also increase the risk of	
-V-651	risk	risk	colon	colon	of kidney cancer,	
-V-651	women	women	meat	meat	in the iowa women’s health study who consumed	
-V-651	risk	risk	prostate cancer	prostate cancer	of	
-V-651	meat	meat	carcinogens	carcinogens		
-V-651	heterocyclic amines	heterocyclic amines	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	and	
-V-651	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	fish	fish	are chemicals formed when the muscles of mammals,	
-V-651	chemicals	chemicals	birds	birds	formed when the muscles of mammals, fish, or	
-V-651	women	women	health	health	in the iowa women’s	
-V-651	cancer	cancer	meat	meat	than that of women who consumed	
-V-651	colon	colon	lung cancer	lung cancer	cancer,	
-V-651	meat	meat	cancer	cancer	may increase prostate	
-V-651	cancer	cancer	prostate	prostate	may also increase the risk of	
-V-651	cooked meat	cooked meat	risk	risk	carcinogens have also recently been associated with increased	
 V-651	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	chemicals	chemicals	are	
-V-651	chemicals	chemicals	mammals	mammals	formed when the muscles of	
-V-651	cancer	cancer	prostate cancer	prostate cancer	may also increase the risk of	
-V-651	prostate	prostate	risk	risk	cancer	
-V-651	pancreatic cancer	pancreatic cancer	cancer	cancer	—which is not a	
-V-651	carcinogens	carcinogens	kidney cancer	kidney cancer	have also recently been associated with increased risk of	
-V-651	risk	risk	e. coli	e. coli	cancer; undercooked, and risk	
-V-651	cancer	cancer	cancer	cancer	may also increase the risk of prostate	
-V-651	breast cancer	breast cancer	women	women	than that of	
-V-651	cooked meat	cooked meat	carcinogens	carcinogens		
-V-651	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	mammals	mammals	are chemicals formed when the muscles of	
-V-651	carcinogens	carcinogens	risk	risk	have also recently been associated with increased	
-V-651	risk	risk	cancer	cancer	of kidney	
-V-651	meat	meat	water	water	—not broiled, but boiled in	
-V-651	meat	meat	boiled	boiled	—not broiled, but	
-V-651	kidney	kidney	colon cancer	colon cancer	cancer,	
+V-651	heterocyclic amines	heterocyclic amines	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	and	
+V-651	risk	risk	cooking	cooking	is via the release of mutagenic compounds during	
+V-651	risk	risk	prostate	prostate	of	

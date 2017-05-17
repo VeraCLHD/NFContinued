@@ -1,61 +1,10 @@
 
-V-266	disease	disease	risk	risk	is unavailable, even interventions just to control	
-V-266	homocysteine	homocysteine	blood	blood	in their	
-V-266	vegans	vegans	homocysteine	homocysteine	and give them b12, their	
-V-266	folate	folate	blood	blood	levels in the	
-V-266	fiber	fiber	folate	folate	consumption may increase	
-V-266	homocysteine	homocysteine	blood	blood	in the	
-V-266	fiber	fiber	b12	b12	and folate, but they're not getting enough vitamin	
-V-266	homocysteine	homocysteine	pills	pills	lowering without any	
-V-266	homocysteine	homocysteine	plant-based	plant-based	levels.the irony is that those who eat	
-V-266	plant-based	plant-based	diet	diet		
-V-266	colon	colon	bacteria	bacteria	by our friendly gut	
-V-266	homocysteine	homocysteine	plant-based diets	plant-based diets	levels.the irony is that those who eat	
-V-266	risk	risk	dementia	dementia	factor for the development of	
-V-266	vitamins	vitamins	folate	folate	–	
-V-266	beans	beans	greens	greens	and	
-V-266	homocysteine	homocysteine	harvard	harvard	story goes back to 1969, when a	
-V-266	blood	blood	brain damage	brain damage	–now thought to play a role in	
-V-266	bacon	bacon	eggs	eggs	and	
-V-266	diet	diet	homocysteine	homocysteine	may be another factor contributing to lower, safer	
-V-266	blood	blood	risk	risk	level over 14 may double our	
-V-266	homocysteine	homocysteine	vegans	vegans	in the blood–because most	
-V-266	methionine	methionine	plant-based	plant-based	intake on a	
-V-266	harvard	harvard	children	children	pathologist reported two cases of	
-V-266	bacon	bacon	breakfast	breakfast	and eggs for	
-V-266	homocysteine	homocysteine	supplements	supplements	lowering without any pills, without	
-V-266	methionine	methionine	diet	diet	intake on a plant-based	
-V-266	vegans	vegans	b12	b12	got enough	
-V-266	colon	colon	gut bacteria	gut bacteria	by our friendly	
-V-266	steak	steak	homocysteine	homocysteine	for dinner, you can get these spikes of	
-V-266	methionine	methionine	plant-based diet	plant-based diet	intake on a	
-V-266	homocysteine	homocysteine	blood	blood	levels in the	
-V-266	homocysteine	homocysteine	dementia	dementia	and cognitive decline,	
-V-266	plant-based diets	plant-based diets	health	health	long-term, not just at a	
-V-266	vegans	vegans	b12	b12	and give them	
-V-266	vegetarians	vegetarians	vegans	vegans	at nearly 14, and	
-V-266	mutations	mutations	homocysteine	homocysteine	that led to abnormally high levels of	
-V-266	fiber	fiber	blood	blood	consumption may increase folate levels in the	
-V-266	vitamins	vitamins	vitamin b12	vitamin b12	–folate,	
-V-266	vitamins	vitamins	homocysteine	homocysteine	was confined to those with high	
-V-266	treatment	treatment	disease	disease	for alzheimer’s	
-V-266	vitamins	vitamins	b12	b12	–folate, vitamin	
-V-266	meat	meat	vegetarians	vegetarians	eaters up at 11, but	
-V-266	fiber	fiber	folate	folate	and	
-V-266	dementia	dementia	disease	disease	and alzheimer’s	
-V-266	colon	colon	gut	gut	by our friendly	
-V-266	homocysteine	homocysteine	disease	disease	and cognitive decline, dementia, or alzheimer’s	
-V-266	methionine	methionine	homocysteine	homocysteine	intake; that’s where	
-V-266	health	health	homocysteine	homocysteine	spa for a week, have terrible	
-V-266	plant-based	plant-based	homocysteine	homocysteine	diet, you can drop their	
-V-266	fiber	fiber	vitamin b12	vitamin b12	and folate, but they're not getting enough	
-V-266	homocysteine	homocysteine	methionine	methionine	is a breakdown product of	
-V-266	eggs	eggs	steak	steak	for breakfast, then a	
-V-266	blood	blood	vegans	vegans	–because most	
-V-266	vitamins	vitamins	vitamin b6	vitamin b6	–folate, vitamin b12, and	
-V-266	bacon	bacon	steak	steak	and eggs for breakfast, then a	
 V-266	homocysteine	homocysteine	brain damage	brain damage	could cause	
-V-266	plant-based diet	plant-based diet	homocysteine	homocysteine	may be another factor contributing to lower, safer	
-V-266	gut	gut	bacteria	bacteria		
-V-266	eggs	eggs	breakfast	breakfast	for	
-V-266	risk	risk	disease	disease	factor for the development of dementia and alzheimer’s	
+V-266	vegans	vegans	b12	b12	got enough	
+V-266	americans	americans	leafy vegetables	leafy vegetables	don’t even make the minimum recommended amount of dark green	
+V-266	fiber	fiber	folate	folate	and	
+V-266	beans	beans	greens	greens	and	
+V-266	vitamins	vitamins	homocysteine	homocysteine	was confined to those with high	
+V-266	bacon	bacon	eggs	eggs	and	
+V-266	vegans	vegans	homocysteine	homocysteine	can be classified as being likely to suffer from hyperhomocysteinaemia–too much	
+V-266	homocysteine	homocysteine	methionine	methionine	is a breakdown product of	

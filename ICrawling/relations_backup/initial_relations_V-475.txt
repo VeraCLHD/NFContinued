@@ -1,23 +1,7 @@
 
-V-475	plant-based	plant-based	spices	spices	diet,” in addition to the “high intake of	
-V-475	kidney	kidney	cancer	cancer		
 V-475	variety	variety	spices	spices	of	
-V-475	legumes	legumes	beans	beans	—	
 V-475	diet	diet	cancer	cancer	and	
-V-475	bladder	bladder	breast cancer	breast cancer	cancer, 5 times more	
-V-475	chemo	chemo	drugs	drugs		
-V-475	bladder	bladder	cancer	cancer		
-V-475	plant-based	plant-based	diet	diet		
-V-475	legumes	legumes	chickpeas	chickpeas	—beans,	
-V-475	cancer	cancer	india	india	rates are much lower in	
-V-475	cancer	cancer	india	india	than men in	
-V-475	prostate	prostate	cancer	cancer		
-V-475	prostate cancer	prostate cancer	india	india	than men in	
-V-475	legumes	legumes	lentils	lentils	—beans, chickpeas, and	
-V-475	turmeric	turmeric	curry powder	curry powder	—the reason	
-V-475	prostate	prostate	india	india	cancer than men in	
+V-475	americans	americans	melanoma	melanoma	get between 8 and 14 times the rate of	
 V-475	fruits	fruits	vegetables	vegetables	and	
 V-475	turmeric	turmeric	diet	diet	is widely consumed in the	
-V-475	plant-based	plant-based	curcumin	curcumin	product to start testing, one might choose	
-V-475	plants	plants	plant-based	plant-based	], the development of	
 V-475	cancer	cancer	india	india	in	

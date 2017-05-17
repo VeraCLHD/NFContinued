@@ -1,78 +1,13 @@
 
-A-313	flowers	flowers	lavender	lavender	or	
-A-313	broccoli	broccoli	cancer stem cells	cancer stem cells	versus breast	
-A-313	lavender	lavender	flowers	flowers		
-A-313	estrogen	estrogen	breast cancer	breast cancer	receptor positive	
-A-313	breast cancer	breast cancer	stem cells	stem cells		
-A-313	hibiscus	hibiscus	chamomile	chamomile	tea (better than green tea) and	
-A-313	anxiety	anxiety	benzodiazepines	benzodiazepines	is a frequent problem and is treated with	
-A-313	chamomile	chamomile	red tea	red tea	tea (	
-A-313	lavender	lavender	anxiety	anxiety	for generalized	
-A-313	broccoli	broccoli	cancer	cancer	versus breast	
-A-313	lavender	lavender	tea	tea	and	
-A-313	ativan	ativan	valium	valium	and	
-A-313	tea	tea	chamomile	chamomile	(red tea, honeybush, &	
-A-313	lavender	lavender	oils	oils	and tea tree	
-A-313	tea	tea	red tea	red tea	(better than green tea) and chamomile tea (	
-A-313	downers	downers	ativan	ativan	) like	
-A-313	england	england	lavender	lavender	journal of medicine entitled “prepubertal gynecomastia linked to	
-A-313	tea	tea	green tea	green tea	(better than	
-A-313	anxiety	anxiety	lavender	lavender	disorder, take capsules of	
-A-313	downers	downers	valium	valium	) like ativan and	
 A-313	gynecomastia	gynecomastia	lavender	lavender	linked to	
-A-313	estrogen	estrogen	lavender	lavender	receptor positive breast cancer cells,	
-A-313	lavender	lavender	lavender oil	lavender oil	flowers or	
-A-313	treatment	treatment	saffron	saffron	of alzheimer’s, and	
-A-313	cancer	cancer	broccoli	broccoli	stem cells, and dozens of my other 	
-A-313	saffron	saffron	pms	pms	for its role in treating	
-A-313	green tea	green tea	tea	tea	) and chamomile	
-A-313	benzodiazepines	benzodiazepines	downers	downers	(also known as benzos or	
-A-313	ativan	ativan	lavender	lavender	certainly reduced anxiety, but so did the	
-A-313	cancer	cancer	lavender	lavender	cells,	
-A-313	chamomile tea	chamomile tea	tea	tea	(red	
-A-313	gynecomastia	gynecomastia	oils	oils	linked to lavender and tea tree	
-A-313	tea	tea	chamomile	chamomile	(better than green tea) and	
-A-313	broccoli	broccoli	breast cancer	breast cancer	versus	
-A-313	water	water	children	children	make	
-A-313	chamomile	chamomile	tea	tea	and chamomile	
-A-313	benzodiazepines	benzodiazepines	ativan	ativan	(also known as benzos or downers) like	
-A-313	lavender	lavender	massage	massage	oil	
-A-313	hibiscus	hibiscus	chamomile tea	chamomile tea	tea (better than green tea) and	
-A-313	medicine	medicine	lavender	lavender	entitled “prepubertal gynecomastia linked to	
-A-313	migraine	migraine	headaches	headaches		
-A-313	green tea	green tea	red tea	red tea	) and chamomile tea (	
-A-313	drugs	drugs	anxiety	anxiety	for amelioration of generalized	
-A-313	estrogen	estrogen	cancer cells	cancer cells	receptor positive breast	
-A-313	broccoli	broccoli	stem cells	stem cells	versus breast cancer	
-A-313	lavender oil	lavender oil	massage	massage		
-A-313	hibiscus tea	hibiscus tea	tea	tea	(better than green	
-A-313	hibiscus tea	hibiscus tea	chamomile	chamomile	(better than green tea) and	
-A-313	tea	tea	chamomile tea	chamomile tea	(better than green tea) and	
-A-313	tea	tea	oils	oils	tree	
-A-313	green tea	green tea	chamomile	chamomile	) and	
-A-313	breast cancer	breast cancer	broccoli	broccoli	stem cells, and dozens of my other 	
-A-313	lavender	lavender	headaches	headaches	in lavender for migraine	
-A-313	treatment	treatment	aricept	aricept	of alzheimer’s, and saffron versus	
-A-313	chamomile	chamomile	chamomile tea	chamomile tea	tea (red tea, honeybush, & chamomile and	
-A-313	cancer	cancer	stem cells	stem cells		
-A-313	aromatherapy	aromatherapy	massage	massage	and	
-A-313	hibiscus	hibiscus	tea	tea		
-A-313	medicine	medicine	tea	tea	entitled “prepubertal gynecomastia linked to lavender and	
-A-313	gynecomastia	gynecomastia	tea	tea	linked to lavender and	
-A-313	lavender	lavender	migraine headaches	migraine headaches	in lavender for	
-A-313	ativan	ativan	anxiety	anxiety	certainly reduced	
-A-313	lavender	lavender	flowers	flowers	oil, which is distilled from lavender	
-A-313	lavender	lavender	migraine	migraine	in lavender for	
-A-313	hibiscus tea	hibiscus tea	red tea	red tea	(better than green tea) and chamomile tea (	
-A-313	breast cancer	breast cancer	lavender	lavender	cells,	
+A-313	flowers	flowers	lavender	lavender	or	
 A-313	medicine	medicine	gynecomastia	gynecomastia	entitled “prepubertal	
-A-313	hibiscus tea	hibiscus tea	green tea	green tea	(better than	
-A-313	england	england	gynecomastia	gynecomastia	journal of medicine entitled “prepubertal	
-A-313	hibiscus	hibiscus	green tea	green tea	tea (better than	
-A-313	hibiscus tea	hibiscus tea	chamomile tea	chamomile tea	(better than green tea) and	
-A-313	estrogen	estrogen	cancer	cancer	receptor positive breast	
-A-313	england	england	medicine	medicine	journal of	
+A-313	aromatherapy	aromatherapy	massage	massage	and	
+A-313	anxiety	anxiety	benzodiazepines	benzodiazepines	is a frequent problem and is treated with	
+A-313	water	water	children	children	make	
 A-313	flowers	flowers	lavender oil	lavender oil	or	
-A-313	chamomile	chamomile	tea	tea		
-A-313	green tea	green tea	chamomile tea	chamomile tea	) and	
-A-313	chamomile tea	chamomile tea	chamomile	chamomile	(red tea, honeybush, &	
+A-313	lavender	lavender	tea	tea	and	
+A-313	lavender	lavender	rosemary	rosemary	makes people feel better as well as perform math faster and more accurately (whereas the smell of	
+A-313	ativan	ativan	valium	valium	and	
+A-313	anxiety	anxiety	hibiscus tea	hibiscus tea	can be found in: for more flower power see my blog and videos on	
+A-313	anxiety	anxiety	hibiscus	hibiscus	can be found in: for more flower power see my blog and videos on	

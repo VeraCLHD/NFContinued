@@ -1,132 +1,24 @@
 
-A-330	england	england	eggs	eggs	journal of medicine shows that choline in	
-A-330	dairy	dairy	tmao	tmao	and fish produces the same toxic	
-A-330	fish	fish	carnitine	carnitine	produces the same toxic tmao as	
-A-330	gut	gut	eggs	eggs	bacteria can turn the choline found in	
-A-330	colon	colon	probiotics	probiotics	without	
-A-330	disease	disease	risk	risk		
-A-330	carnitine	carnitine	gut	gut	consumption—eating a sirloin steak, taking a carnitine supplement—certain	
-A-330	carnitine	carnitine	red meat	red meat	is concentrated in	
-A-330	carnitine	carnitine	meat	meat	in red	
-A-330	choline	choline	lecithin	lecithin	found in eggs, poultry, fish, dairy, and	
-A-330	gut	gut	choline	choline	bacteria can turn the	
-A-330	bacteria	bacteria	carnitine	carnitine	metabolize the	
-A-330	cancer	cancer	cholesterol	cholesterol	and	
-A-330	meat	meat	dairy	dairy	and	
-A-330	carnitine	carnitine	steak	steak	consumption—eating a sirloin	
-A-330	steak	steak	tmao	tmao	you want without making any	
-A-330	lecithin	lecithin	supplements	supplements		
-A-330	bacteria	bacteria	antibiotics	antibiotics	is that if you give people	
-A-330	dietary cholesterol	dietary cholesterol	saturated fat	saturated fat	and	
-A-330	vegan	vegan	carnitine	carnitine	got the whopping	
-A-330	carnitine	carnitine	fruits	fruits	found in	
-A-330	carnitine	carnitine	gut	gut	away from our	
-A-330	risk	risk	heart attack	heart attack	of	
-A-330	tmao	tmao	red meat	red meat	as carnitine in	
-A-330	carnitine	carnitine	meat	meat	is concentrated in red	
-A-330	vegan	vegan	omnivores	omnivores	and vegetarian individuals compared to	
-A-330	gut bacteria	gut bacteria	fish	fish	can turn the choline found in eggs, poultry,	
-A-330	bacteria	bacteria	gut	gut	in their	
-A-330	gut	gut	carnitine	carnitine	bacteria metabolize the	
-A-330	liver	liver	tmao	tmao	to	
-A-330	choline	choline	poultry	poultry	found in eggs,	
-A-330	cholesterol	cholesterol	tmao	tmao	: the	
-A-330	mortality	mortality	harvard	harvard	(see, for example,	
-A-330	choline	choline	fish	fish	found in eggs, poultry,	
-A-330	cholesterol	cholesterol	saturated fat	saturated fat	and	
-A-330	bacteria	bacteria	fish	fish	can turn the choline found in eggs, poultry,	
-A-330	vegan	vegan	tmao	tmao	a steak without getting a	
-A-330	cleveland clinic	cleveland clinic	meat	meat	offered another explanation as to why	
-A-330	acne	acne	heart disease	heart disease	and blocking the first step of	
-A-330	vegans	vegans	choline	choline	be worried about the modest amounts of	
-A-330	medicine	medicine	eggs	eggs	shows that choline in	
-A-330	energy	energy	plants	plants	production in the mitochondria (“power	
-A-330	dairy	dairy	carnitine	carnitine	and fish produces the same toxic tmao as	
-A-330	carnitine	carnitine	grains	grains	found in fruits, veggies, and	
-A-330	carnitine	carnitine	tmao	tmao	load, but hardly any	
-A-330	choline	choline	fish	fish	in eggs, poultry, dairy and	
-A-330	gut	gut	tmao	tmao	for those bacteria to feast upon, resulting in	
-A-330	medicine	medicine	fish	fish	shows that choline in eggs, poultry, dairy and	
-A-330	gut bacteria	gut bacteria	choline	choline	can turn the	
-A-330	gut bacteria	gut bacteria	antibiotics	antibiotics	is that if you give people	
-A-330	bacteria	bacteria	tmao	tmao	to feast upon, resulting in	
-A-330	cholesterol	cholesterol	fat	fat	and saturated	
-A-330	gut	gut	bacteria	bacteria		
-A-330	risk	risk	death	death	of heart attack, stroke, and	
-A-330	disease	disease	vegetarian	vegetarian	risk  [our  number 1 killer] in vegan and	
-A-330	dietary cholesterol	dietary cholesterol	fat	fat	and saturated	
-A-330	bacteria	bacteria	eggs	eggs	can turn the choline found in	
-A-330	carnitine	carnitine	tmao	tmao	itself we’re worried about, but the toxic	
-A-330	carnitine	carnitine	gut bacteria	gut bacteria	consumption—eating a sirloin steak, taking a carnitine supplement—certain	
-A-330	cancer	cancer	tmao	tmao	and cholesterol: the	
-A-330	carnitine	carnitine	bacteria	bacteria	can end up in our gut for those	
-A-330	gut	gut	bacteria	bacteria	for those	
-A-330	bacteria	bacteria	poultry	poultry	can turn the choline found in eggs,	
-A-330	carnitine	carnitine	bacteria	bacteria	away from our gut	
-A-330	carnitine	carnitine	gut bacteria	gut bacteria	away from our	
-A-330	choline	choline	eggs	eggs	found in	
-A-330	tmao	tmao	meat	meat	as carnitine in red	
-A-330	fish	fish	tmao	tmao	produces the same toxic	
-A-330	meat	meat	mortality	mortality	and	
-A-330	carnitine	carnitine	carnitine palmitoyl transferase	carnitine palmitoyl transferase	to help us burn fat,	
-A-330	bacteria	bacteria	probiotics	probiotics	in the colon without	
-A-330	liver	liver	trimethylamine-n-oxide	trimethylamine-n-oxide	to tmao,	
-A-330	choline	choline	dairy	dairy	found in eggs, poultry, fish,	
-A-330	vegan	vegan	steak	steak	a	
-A-330	gut bacteria	gut bacteria	eggs	eggs	can turn the choline found in	
-A-330	bacteria	bacteria	choline	choline	can turn the	
-A-330	fish	fish	red meat	red meat	produces the same toxic tmao as carnitine in	
-A-330	medicine	medicine	poultry	poultry	shows that choline in eggs,	
-A-330	vegetarian	vegetarian	dietary cholesterol	dietary cholesterol	individuals compared to omnivores,” but reduced intake of	
-A-330	choline	choline	eggs	eggs	in	
-A-330	cholesterol	cholesterol	inflammatory cells	inflammatory cells	in the	
-A-330	risk	risk	vegan	vegan	  [our  number 1 killer] in	
-A-330	steak	steak	tmao	tmao	without getting a	
-A-330	vegans	vegans	gut	gut	don’t develop those tmao-producing bacteria in their	
-A-330	lecithin	lecithin	tmao	tmao	supplements into	
-A-330	gut	gut	poultry	poultry	bacteria can turn the choline found in eggs,	
-A-330	vegetarian	vegetarian	omnivores	omnivores	individuals compared to	
-A-330	supplements	supplements	energy drinks	energy drinks	and	
-A-330	acne	acne	disease	disease	and blocking the first step of heart	
-A-330	meat	meat	mortality	mortality	intake may be related to	
-A-330	antibiotics	antibiotics	flora	flora	to wipe out their friendly	
-A-330	dairy	dairy	fish	fish	and	
-A-330	harvard	harvard	mortality	mortality	’s meat and	
-A-330	vegan	vegan	vegetarian	vegetarian	and	
-A-330	carnitine	carnitine	fat	fat	to help us burn	
-A-330	gut bacteria	gut bacteria	trimethylamine	trimethylamine	metabolize the carnitine to a toxic substance called	
-A-330	gut	gut	antibiotics	antibiotics	bacteria is that if you give people	
-A-330	energy	energy	mitochondria	mitochondria	production in the	
-A-330	bacteria	bacteria	colon	colon	in the	
-A-330	mortality	mortality	meat	meat	(see, for example, harvard’s	
-A-330	vegan	vegan	tmao	tmao	got the whopping carnitine load, but hardly any	
-A-330	medicine	medicine	choline	choline	shows that	
-A-330	liver	liver	trimethylamine	trimethylamine	to tmao,	
-A-330	supplements	supplements	tmao	tmao	into	
-A-330	choline	choline	poultry	poultry	in eggs,	
-A-330	choline	choline	dairy	dairy	in eggs, poultry,	
-A-330	animal products	animal products	bacteria	bacteria	we may instead be selecting for animal-munching	
-A-330	vegans	vegans	bacteria	bacteria	don’t develop those tmao-producing	
-A-330	gut bacteria	gut bacteria	carnitine	carnitine	metabolize the	
-A-330	choline	choline	supplements	supplements	found in eggs, poultry, fish, dairy, and lecithin	
-A-330	disease	disease	vegan	vegan	risk  [our  number 1 killer] in	
-A-330	heart disease	heart disease	choline	choline	: “the most obvious is to limit dietary	
-A-330	carnitine	carnitine	gut	gut	can end up in our	
 A-330	carnitine	carnitine	red meat	red meat	in	
-A-330	plant-based	plant-based	disease	disease	protection from heart	
-A-330	risk	risk	vegetarian	vegetarian	  [our  number 1 killer] in vegan and	
-A-330	harvard	harvard	meat	meat	’s	
-A-330	gut bacteria	gut bacteria	poultry	poultry	can turn the choline found in eggs,	
-A-330	inflammatory cells	inflammatory cells	arteries	arteries	in the atherosclerotic plaques in our	
-A-330	bacteria	bacteria	trimethylamine	trimethylamine	metabolize the carnitine to a toxic substance called	
-A-330	plant-based	plant-based	heart disease	heart disease	protection from	
-A-330	medicine	medicine	dairy	dairy	shows that choline in eggs, poultry,	
-A-330	risk	risk	stroke	stroke	of heart attack,	
+A-330	meat	meat	dairy	dairy	and	
+A-330	choline	choline	eggs	eggs	found in	
+A-330	dietary cholesterol	dietary cholesterol	saturated fat	saturated fat	and	
+A-330	medicine	medicine	choline	choline	shows that	
+A-330	supplements	supplements	energy drinks	energy drinks	and	
+A-330	gut bacteria	gut bacteria	choline	choline	can turn the	
+A-330	carnitine	carnitine	fruits	fruits	found in	
 A-330	supplements	supplements	energy	energy	and	
-A-330	mitochondria	mitochondria	plants	plants	(“power	
-A-330	tmao	tmao	carnitine	carnitine	as	
-A-330	england	england	choline	choline	journal of medicine shows that	
-A-330	carnitine	carnitine	plant-based	plant-based	in red meat, which may help explain	
-A-330	england	england	medicine	medicine	journal of	
-A-330	disease	disease	choline	choline	: “the most obvious is to limit dietary	
-A-330	england	england	poultry	poultry	journal of medicine shows that choline in eggs,	
+A-330	meat	meat	mortality	mortality	and	
+A-330	dairy	dairy	fish	fish	and	
+A-330	carnitine	carnitine	red meat	red meat	is concentrated in	
+A-330	gut bacteria	gut bacteria	carnitine	carnitine	metabolize the	
+A-330	cholesterol	cholesterol	saturated fat	saturated fat	and	
+A-330	risk	risk	heart attack	heart attack	of	
+A-330	bacteria	bacteria	choline	choline	can turn the	
+A-330	vegan	vegan	vegetarian	vegetarian	and	
+A-330	carnitine	carnitine	meat	meat	is concentrated in red	
+A-330	cleveland clinic	cleveland clinic	meat	meat	offered another explanation as to why	
+A-330	bacteria	bacteria	carnitine	carnitine	metabolize the	
+A-330	choline	choline	eggs	eggs	in	
+A-330	cancer	cancer	cholesterol	cholesterol	and	
+A-330	carnitine	carnitine	gut	gut	can end up in our	

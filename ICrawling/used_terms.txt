@@ -3,9 +3,7 @@ pills	pill
 minerals	mineral
 mustard greens	mustard
 uterine cancer	uterine
-hiatal hernia	hiatal
 calorie dense	calorie
-sugar twin	sugar
 pollution	pollution
 limonol	limonol
 youth	youth
@@ -16,8 +14,8 @@ sprouting	sprout
 dark meat	dark
 goji	goji
 h. pylori	h.
-uric acid	uric
 angiogram	angiogram
+uric acid	uric
 arterial plaque	arterial
 energy	energy
 saffron crocus	saffron
@@ -25,67 +23,46 @@ nightshades	nightshade
 cdc	cdc
 mint tea	mint
 meats	meat
-polymyositis	polymyositis
 ibuprofen	ibuprofen
-vulva cancer	vulva
-american geriatric society	american
-superoxide dismutase	superoxide
 deli meat	deli
 asparagus	asparagus
 wine	wine
-veggie bacon	veggie
 xanthan gum	xanthan
 intraepithelial neoplasia	intraepithelial
-ankylosing spondylitis	ankylose
 gmo	gmo
 red meat	red
 gold	gold
 bugs	bug
 tmao	tmao
-parsley	parsley
 myeloma	myeloma
-citruline	citruline
 lameness	lameness
 cancer stem cells	cancer
 animal protein	animal
 grapefruit juice	grapefruit
 antibiotic residues	antibiotic
-glucose	glucose
 meat industry	meat
+glucose	glucose
 salt	salt
 organic plants	organic
 cows	cow
 metformin	metformin
-waist-to-height ratio	waist-to-height
 blood	blood
 bone marrow	bone
 brown rice	brown
-treadmill desk	treadmill
 americans	american
-cancer reversal	cancer
-prostatic intraepithelial neoplasia	prostatic
-citrus fruit	citrus
 cardiac death	cardiac
 norway	norway
 vaginal flora	vaginal
-national dairy promotion board	national
 surgery	surgery
 rapamycin	rapamycin
 growth promoters	growth
-environmental carcinogens	environmental
 pigs	pig
-environmental cancer	environmental
-hypoxia	hypoxia
 phytates	phytate
 migraine headaches	migraine
 polonium	polonium
 anthrax	anthrax
 margin of safety	margin
-matcha	matcha
-canadian seal hunt	canadian
 peppermint	peppermint
-marjoram	marjoram
-vaseline	vaseline
 american egg board	american
 purple potatoes	purple
 allergies	allergy
@@ -95,137 +72,103 @@ flame-retardant chemicals	flame-retardant
 germany	germany
 gut bacteria	gut
 hydroponic basil	hydroponic
-post-surgery	post-surgery
 agent orange	agent
 pcb	pcb
 caesarean section	caesarean
 steaming	steam
 caffeine	caffeine
-amalgam fillings	amalgam
 peas	pea
-pinto beans	pinto
 denmark	denmark
+pinto beans	pinto
 xenoestrogens	xenoestrogen
-metabolic parameters	metabolic
 ativan	ativan
 salami	salami
-intestinal putrefaction	intestinal
 xylitol	xylitol
 cellulite	cellulite
 national pork producers council	national
 glyphosate	glyphosate
-filberts	filbert
 mastitis	mastitis
-barbeque	barbeque
-trimethylamine-n-oxide	trimethylamine-n-oxide
 evolution	evolution
 avocados	avocado
-nutmeg intoxication	nutmeg
 china	china
-pediatrics	pediatrics
 coffee	coffee
+pediatrics	pediatrics
 cooking method	cooking
 overeating	overeat
 cancer	cance
-internal bleeding	internal
-duncan hines	duncan
-new orleans	new
-empty calorie foods	empty
 anchovies	anchovy
-c-section	c-section
 medical profession	medical
 skin cancer	skin
-cannibalism	cannibalism
 body odor	body
 lifespan	lifespan
 prostate gland	prostate
-soy sauce	soy
 prop 65	prop
 fiddlehead ferns	fiddlehead
-butternut squash	butternut
 lung cancer	lung
 nerve health	nerve
 xanthones	xanthone
-cheese fly	cheese
-bilophila wadsworthia	bilophila
-tremors	tremor
 almond oil	almond
-hair testing	hair
-period	period
 fiber	fiber
 africa	africa
+period	period
 infants	infant
 colorectal cancer	colorectal
 cytoskeleton	cytoskeleton
 angiogenesis	angiogenesis
-cgmp	cgmp
-geico	geico
 indonesia	indonesia
 cod liver oil	cod
 intelligence	intelligence
 bone fractures	bone
-mutation	mutation
 lactobacillus rhamnosis	lactobacillus
+mutation	mutation
 intestinal health	intestinal
 toxins	toxin
-avocado oil	avocado
 inflammatory molecule	inflammatory
 women	woman
 penicillin	penicillin
 gut	gut
-obama	obama
 sausages	sausage
 agave nectar	agave
 alcoholic beverages	alcoholic
 soybeans	soybean
 vaginal health	vaginal
-ancel keys	ancel
 syndrome	syndrome
 tor	tor
-swiss chard	swiss
 frying meat	frying
 pain-killers	pain-killer
-pulmonary embolism	pulmonary
 fasting blood sugars	fast
-antiangiogenesis	antiangiogenesis
 glucoraphanin	glucoraphanin
-stool shape	stool
 paratuberculosis	paratuberculosis
 drugs	drug
 vinegar	vinegar
+swine flu	swine
 asian	asian
 bovine leukemia virus	bovine
 cheap	cheap
 mustard seeds	mustard
 produce	produce
-agave	agave
 energy shots	energy
 cod	cod
 oxidant stress	oxidant
 ear infections	ear
 nutmeg	nutmeg
-milk thistle	milk
 whipped cream	whip
 bacteria	bacterium
 bmaa	bmaa
 hibiscus tea	hibiscus
 flora	flora
-marijuana	marijuana
 walnut oil	walnut
+marijuana	marijuana
 nitrites	nitrite
 pie	pie
-tegaserod	tegaserod
-iatrogenic	iatrogenic
 kidney	kidney
 ice cream	ice
 microwaving	microwave
-pin	pin
 chia seeds	chia
 yersinia	yersinia
 puberty	puberty
 vegan diets	vegan
 oral cancer	oral
-snack food association	snack
 spermidine	spermidine
 formaldehyde	formaldehyde
 anthocyanins	anthocyanin
@@ -234,12 +177,10 @@ flavoring	flavor
 taurine	taurine
 herbivore	herbivore
 margarine	margarine
-christmas	christmas
 european food safety authority	european
 neurotoxic chemicals	neurotoxic
 buckwheat	buckwheat
 gout	gout
-glucosinolates	glucosinolate
 cadmium	cadmium
 hexachlorobenzene	hexachlorobenzene
 metabolism	metabolism
@@ -247,24 +188,17 @@ kidney stones	kidney
 probiotics	probiotic
 chicken	chicken
 butter flavor	butter
-fibroadenomas	fibroadenoma
 acid erosion	acid
 fruit	fruit
-glucophage	glucophage
-sorrel	sorrel
 amylase	amylase
 pancreatic cancer	pancreatic
 genetics	genetics
 apple peels	apple
-mustard powder	mustard
 salads	salad
-acute myeloid leukemia	acute
-corn oil	corn
 university of memphis	university
 colonoscopy	colonoscopy
 cholera	cholera
 garlic	garlic
-nuremburg	nuremburg
 pharmacists	pharmacist
 phytonutrients	phytonutrient
 colon cancer	colon
@@ -280,47 +214,32 @@ ldl	ldl
 lamb	lamb
 plant protein	plant
 persistent organic pollutants	persistent
-impatience	impatience
 liver cancer	liver
-foodborne bacteria	foodborne
 indian gooseberries	indian
-esophagus	esophagus
 herbalife	herbalife
 saccharin	saccharin
 satiety	satiety
-broccoli florets	broccoli
 acrylamide	acrylamide
 japan	japan
-choy sum	choy
-immunoglobulin a	immunoglobulin
-motion sickness	motion
 lung disease	lung
-syncope	syncope
-flaxseeds	flaxseed
 teenagers	teenager
-chewing gums	chew
+flaxseeds	flaxseed
 eye health	eye
 lemon-ginger apple chews	lemon-ginger
-goiter	goiter
 medications	medication
 nih-aarp study	nih-aarp
-decaf	decaf
 pms	pm
 mayo clinic	mayo
 acai berries	acai
-bible	bible
 almond	almond
 casein	casein
 melanoma	melanoma
 anthocyanin phytonutrients	anthocyanin
 lavender oil	lavender
-canola	canola
-gestation crates	gestation
 myplate	myplate
-creatine	creatine
 muscle damage	muscle
+creatine	creatine
 gargling	gargle
-scallions	scallion
 abdominal fat	abdominal
 fat retention	fat
 breast feeding	breast
@@ -335,30 +254,19 @@ micronase	micronase
 digestion	digestion
 pomegranates	pomegranate
 peppermint oil	peppermint
-brown sugar	brown
 sleep disorders	sleep
-espresso	espresso
-voice box cancer	voice
 chronic diseases	chronic
 dried herbs	dry
 multiple sclerosis	multiple
-saoott	saoott
 skin disease	skin
-sesame oil	sesame
 fainting	faint
 pumpkin seeds	pumpkin
 lignans	lignan
-cognitive difficulties	cognitive
-hazelnut oil	hazelnut
 pressure cooking	pressure
-sports supplements	sport
 marketing	marketing
-a1c	a1c
 avian leukosis/sarcoma virus	avian
-paprika	paprika
+a1c	a1c
 new york city	new
-head trauma	head
-marion nestle	marion
 dopamine	dopamine
 lactic acid	lactic
 carcinoma in situ	carcinoma
@@ -366,57 +274,44 @@ animal welfare	animal
 carbs	carb
 chemical pollutants	chemical
 caucasian	caucasian
-comet tail test	comet
-vegetable oil	vegetable
 l-dopa	l-dopa
 boston celtics	boston
-fosamax	fosamax
-breast lumps	breast
+vegetable oil	vegetable
 white meat	white
 campylobacter	campylobacter
 american heart association	american
 brazil nuts	brazil
 white blood cells	white
-holidays	holiday
-deception	deception
 ham	ham
 dwarfism	dwarfism
 dogs	dog
 hepatitis e	hepatitis
 cramping	cramp
 rectal flora	rectal
-imitrex	imitrex
 supplement industry	supplement
-molasses	molasses
 plantains	plantain
+molasses	molasses
 athletes	athlete
 national meat association	national
 cervical cancer	cervical
-fall risk	fall
 national confectioners association	national
 supplements	supplement
 veggie dogs	veggie
 incontinence	incontinence
 low-carb diets	low-carb
 prostate gland enlargement	prostate
-psa	psa
 bok choy	bok
 pepper	pepper
-toxic megacolon	toxic
 memory	memory
 pecans	pecan
 antioxidants	antioxidant
 teff	teff
 farmers	farmer
-hydroponic	hydroponic
-updates	update
 vegetables	vegetable
-fisitin	fisitin
 ah receptor	ah
 diet pills	diet
 agriculture	agriculture
 metastases	metastase
-yanomamo	yanomamo
 american dietetic association	american
 currants	currant
 weight control	weight
@@ -425,9 +320,7 @@ walnuts	walnut
 gum arabic	gum
 folic acid	folic
 insulin resistance	insulin
-stari	stari
 slovenia	slovenia
-antiseptic	antiseptic
 pain	pain
 mouth cancer	mouth
 disease	disease
@@ -438,15 +331,13 @@ coca cola	coca
 consumer protection scientific committee on food	consumer
 cucumbers	cucumber
 orgasm	orgasm
-antihistamines	antihistamine
 protein powder	protein
 turmeric	turmeric
 prostate	prostate
 aorta	aorta
 salt institute	salt
-medicare	medicare
-dow chemical	dow
 pets	pet
+dow chemical	dow
 plums	plum
 cabbage	cabbage
 e. coli	e.
@@ -456,7 +347,6 @@ liver inflammation	liver
 pus	pus
 sciatica	sciatica
 nanoparticles	nanoparticle
-sweden	sweden
 agaritine	agaritine
 feed additives	feed
 gold dust retinopathy	gold
@@ -465,10 +355,8 @@ phthalates	phthalate
 vomiting	vomit
 curcumin	curcumin
 dr. joel fuhrman	dr.
-dialysis	dialysis
 vaginosis	vaginosis
 flowers	flower
-concord grapes	concord
 bronchiolitis obliterans	bronchiolitis
 magnesium	magnesium
 dates	date
@@ -479,66 +367,43 @@ esselstyn	esselstyn
 sugar association	sugar
 endometrial cancer	endometrial
 antibiotics	antibiotic
-nasal irrigation	nasal
 collards	collard
 infection	infection
-angelina jolie	angelina
-raw poultry	raw
-red cabbage	red
 fisetin	fisetin
 carotenoid	carotenoid
 tomatoes	tomato
 sudden death	sudden
-dragon fruit	dragon
 vegan men	vegan
 liquid smoke	liquid
-norovirus	norovirus
-coriander	coriander
 foie gras	foie
 alternative medicine	alternative
-lethicin	lethicin
 salt water	salt
 benign prostatic hyperplasia	benign
-ipecac	ipecac
-oysters	oyster
 gallstones	gallstone
 male infertility	male
 subsidies	subsidy
 coconuts	coconut
-travel	travel
 diabetes	diabetes
 processed meats	process
 corn syrup	corn
 colorectal polyps	colorectal
-cheese puffs	cheese
 stomach	stomach
-seafood workers	seafood
 french fries	french
-low carb	low
 luteolin	luteolin
 squash	squash
 prunes	prune
-medical ethics	medical
 fake meat	fake
 u.s. centers for disease control and prevention	u.s.
-american thyroid association	american
 philip morris	philip
 sexual health	sexual
 sexual dysfunction	sexual
 mint leaves	mint
-head lice	head
-flax oil	flax
 bilberries	bilberry
 cloves	clove
 water	water
-quinine	quinine
 hydration	hydration
-grape seed oil	grape
-sports medicine	sport
 halibut	halibut
-radioactive isotopes	radioactive
 raisins	raisin
-cat scan	cat
 apples	apple
 oxalates	oxalate
 genetic manipulation	genetic
@@ -547,20 +412,16 @@ triphala	triphala
 cooking temperature	cooking
 kidneys	kidney
 edamame	edamame
-precancerous growths	precancerous
 pesticides	pesticide
 bamboo shoots	bamboo
-dietitians	dietitian
 african-american	african-american
 harvard study	harvard
 bell peppers	bell
-food pyramid	food
 public health	public
 chemo	chemo
 tick bites	tick
-safety limits	safety
 herbal	herbal
-snail meat	snail
+safety limits	safety
 toxoplasma	toxoplasma
 kiwi fruit	kiwi
 high triglycerides	high
@@ -570,14 +431,12 @@ ddt	ddt
 meat	meat
 wheatgrass	wheatgrass
 gooseberries	gooseberry
-organic greens	organic
 erythritol	erythritol
 upper respiratory tract infection	upper
 reductionism	reductionism
 gluten	gluten
 phytic acid	phytic
 heavy metals	heavy
-hypercapnia	hypercapnia
 saturated animal fat	saturated
 intracranial meningioma	intracranial
 beef	beef
@@ -589,29 +448,20 @@ blood type diet	blood
 dental	dental
 bladder cancer	bladder
 pomegranate	pomegranate
-smoked foods	smoked
-leaky gut theory	leaky
-chinese cinnamon	chinese
 prevention	prevention
 beer	beer
 listeria	listeria
-dietary antibiotics	dietary
 rose hips	rise
 cheese mites	cheese
 ovarian cancer	ovarian
 fish oil	fish
-shock	shock
 milk	milk
-respiratory exchange	respiratory
 paralysis	paralysis
 bile	bile
-gastrointestinal health	gastrointestinal
 cortisol	cortisol
 nitrite	nitrite
 chemical carcinogens	chemical
-dulse	dulse
 enterococcus	enterococcus
-zoloft	zoloft
 oceans	ocean
 sodium bicarbonate	sodium
 egg nutrition center	egg
@@ -621,47 +471,31 @@ ethnicity	ethnicity
 low back pain	low
 amino acids	amino
 chai tea	chai
-colchicine	colchicine
 oatmeal	oatmeal
-liquor	liquor
 hormonal changes	hormonal
 mint	mint
 maggots	maggot
 vegans	vegan
 immune function	immune
-hearing	hearing
 maspin	maspin
 dha	dha
-allopurinol	allopurinol
 blood cancer	blood
 migraine	migraine
 testosterone	testosterone
-cesium	cesium
 breast cancer survival	breast
-great lakes	great
-breast disease	breast
 fenugreek	fenugreek
+breast disease	breast
 collard greens	collard
-betadine	betadine
-respiratory illnesses	respiratory
-red tea	red
-amnesia	amnesia
-indoles	indole
 aging	age
 light drinking	light
-maple syrup	maple
 red yeast rice	red
+maple syrup	maple
 treadmill	treadmill
-gala apples	gala
 junk food	junk
 meningioma	meningioma
-maltodextrin	maltodextrin
-bovine spongiform encephalopathy	bovine
 arkansas	arkansa
-xenohormesis	xenohormesis
 jelly beans	jelly
 urethra	urethra
-marshmallows	marshmallow
 dandelion	dandelion
 chinese	chinese
 radishes	radish
@@ -670,30 +504,22 @@ hiroshima	hiroshima
 prescription drugs	prescription
 seals	seal
 livestock	livestock
-bioidentical hormones	bioidentical
 safflower oil	safflower
 anise	anise
-psyllium	psyllium
 caldwell esselstyn	caldwell
-b-cells	b-cell
 carotid arteries	carotid
 microbiome	microbiome
-adenovirus 36	adenovirus
-penis health	penis
 sodium	sodium
 vision	vision
 rosemary	rosemary
 methionine	methionine
-basal cell carcinoma	basal
 china study	china
-fluorosis	fluorosis
 figs	fig
+fluorosis	fluorosis
 influenza	influenza
-purevia	purevia
 cinnamon	cinnamon
 heart attack	heart
 esophageal cancer	esophageal
-bach	bach
 miso	miso
 albert einstein	albert
 berries	berry
@@ -701,42 +527,30 @@ surgeon general	surgeon
 dried cranberries	dry
 fecal contamination	fecal
 spoilage	spoilage
-phillip morris	phillip
 animal fat	animal
 trimethylamine	trimethylamine
 plant proteins	plant
-red zinger	red
 prolactin	prolactin
 asia	asia
-ecstasy	ecstasy
 meta-analysis	meta-analysis
-health food store	health
 black pepper	black
 heartburn	heartburn
 insomnia	insomnia
-trail mix	trail
-dramamine	dramamine
 brussels sprouts	brussels
 yul brynner	yul
 nettle tea	nettle
 lemonin	lemonin
 baby	baby
 iron	iron
-prostatectomy	prostatectomy
 hypertension	hypertension
 auto-immune disease	auto-immune
 baby formula	baby
-glutamic acid	glutamic
 painter and burkitt	painter
 popcorn lung	popcorn
 vaccinations	vaccination
 animal foods	animal
-bacteriophages	bacteriophage
-cochrane collaboration	cochrane
-fluoride toxicity	fluoride
 soy foods	soy
 chemotherapy	chemotherapy
-tahini	tahinus
 black raspberries	black
 bile acids	bile
 dna	dna
@@ -748,111 +562,78 @@ constipation	constipation
 iron supplements	iron
 beverages	beverage
 fruit juice	fruit
-pineapple juice	pineapple
-tomato sauce	tomato
 animal products	animal
-dnp	dnp
 greta	greta
 cream	cream
 reproductive health	reproductive
 retinopathy	retinopathy
 standard american diet	standard
-sara lee	sara
-eye disease	eye
 canned food	can
-daniel fast	daniel
+eye disease	eye
 purslane	purslane
-okra	okra
 contaminants	contaminant
 cancer prevention	cancer
-mycotoxins	mycotoxin
 veggie burgers	veggie
 fat oxidation	fat
 skin	skin
 tomato effect	tomato
-radioactive fallout	radioactive
 meat fumes	meat
 giantism	giantism
 genital warts	genital
 foodborne pathogens	foodborne
-jeff novick	jeff
+flu shots	flu
 food industry	food
 heavy metal	heavy
 cognitive performance	cognitive
-autoreactive antibodies	autoreactive
 taro	taro
-spillover effect	spillover
 tryptophan	tryptophan
 gorlin syndrome	gorlin
 peripheral artery disease	peripheral
-nigeria	nigerium
 world cancer research fund	world
 saturated fat	saturated
-laron syndrome	laron
 health	health
-bristol stool scale	bristol
 triglycerides	triglyceride
-liver health	liver
 ritalin	ritalin
-hamburgers	hamburger
-dental health	dental
-singapore	singapore
-genitalia	genitalium
 ellagic acid	ellagic
 curry powder	curry
-substance p	substance
-toxicants	toxicant
-mastalgia	mastalgia
 caloric density	caloric
-sigmoidoscopy	sigmoidoscopy
 hyperactivity	hyperactivity
 kuna indians	kuna
 anisakis	anisakis
 nutrient-dense	nutrient-dense
 downed animals	down
-navy beans	navy
 chickpeas	chickpea
 stomach inflammation	stomach
 strawberries	strawberry
-urinary tract health	urinary
 cocoa butter	cocoa
-union of concerned scientists	union
 chronic inflammation	chronic
-hardening of the arteries	hardening
+union of concerned scientists	union
 phosphorus	phosphorus
+hardening of the arteries	hardening
 estragole	estragole
 free radicals	free
 multiple myeloma	multiple
 vagina	vagina
-dr. david katz	dr.
 oral health	oral
-digestive tract	digestive
-dr. oz	dr.
 uti	uti
-dehydroepiandrosterone	dehydroepiandrosterone
-c-erbb2	c-erbb2
+digestive tract	digestive
 sustainability	sustainability
 dentist	dentist
-mucus	mucus
 botulism	botulism
 harvard	harvard
-gallbladder health	gallbladder
 cantaloupe	cantaloupe
 cooking meat	cooking
 heart health	heart
-soup	soup
 heart attacks	heart
+soup	soup
 patent	patent
 asbestos	asbestos
 isoflavones	isoflavone
-cocaine	cocaine
 amino acid	amino
-glyburide	glyburide
 adventist health study	adventist
 green beans	green
 tangeretin	tangeretin
 dental x-rays	dental
-pbcs	pbc
 cross-contamination	cross-contamination
 smoking	smoking
 eden foods	eden
@@ -860,41 +641,28 @@ growth hormone	growth
 hair growth	hair
 tufts	tuft
 cirrhosis	cirrhosis
-acesulfame k	acesulfame
 egg mcmuffin	egg
-precose	precose
 sauerkraut	sauerkraut
 barley	barley
 hernia	hernia
-natural toxins	natural
-mango	mango
 orange	orange
-taste buds	taste
 prostate cancer	prostate
 painkillers	painkiller
 growth hormones	growth
 consumers union	consumer
 biopsy	biopsy
-breast lumpiness	breast
 pumpkin	pumpkin
 goji berries	goji
 b12	b12
-snake oil	snake
 hypospadias	hypospadia
 raspberries	raspberry
 dr. neal barnard	dr.
-testicular cancer	testicular
 brain tumors	brain
 dvd	dvd
-cost per nutrition	cost
 healthy food	healthy
 cholesterol	cholesterol
-nuclear power plant	nuclear
-polyradiculoneuropathy	polyradiculoneuropathy
 zingerone	zingerone
-metabolife	metabolife
 antioxidant	antioxidant
-introductory videos	introductory
 red onions	red
 heterocyclic amines	heterocyclic
 cancer survival	cancer
@@ -904,10 +672,7 @@ platelets	platelet
 metamucil	metamucil
 millet	millet
 flaxseed oil	flaxseed
-bird flu	bird
 framingham heart study	framingham
-mangoes	mango
-national chicken council	national
 roundup	roundup
 cooking methods	cooking
 common cold	common
@@ -915,7 +680,6 @@ postmenopausal	postmenopausal
 insulin	insulin
 manure	manure
 bananas	banana
-thyme	thyme
 anabolic steroids	anabolic
 greece	greece
 superbugs	superbug
@@ -924,54 +688,41 @@ tetrahydroisoquinoline	tetrahydroisoquinoline
 mit	mit
 carrots	carrot
 potato chips	potato
-beeturia	beeturia
-sleeping pills	sleep
 fermented foods	fermented
 national dairy council	national
-active ingredients	active
 american college of cardiology	american
-turbinado sugar	turbinado
 dioxin	dioxin
 california medical association	california
 fish	fish
-gingerols	gingerol
 air pollution	air
-lecithin	lecithin
 ibs	ib
 mrsa	mrsa
 nutrasweet	nutrasweet
-wool	wool
 glaucoma	glaucoma
 cluster headaches	cluster
 cured meats	cure
 wrinkles	wrinkle
-auraptene	auraptene
 betel nuts	betel
 cancer growth	cancer
 glycotoxins	glycotoxin
 infections	infection
 freedom of information act	freedom
-california	california
 tobacco	tobacco
-mesquite	mesquite
+california	california
 baking soda	bake
 chestnuts	chestnut
 kiwifruit	kiwifruit
 arachidonic acid	arachidonic
-roy swank	roy
 seeds	seed
-coumarin	coumarin
-hormonal function	hormonal
 spermine	spermine
 vioxx	vioxx
-anemia	anemia
 quinoa	quinoa
-fava beans	fava
+anemia	anemia
 nausea	nausea
 hunger	hunger
 kaiser permanente	kaiser
-folate	folate
 korea	korea
+folate	folate
 thyroid	thyroid
 ractopamine	ractopamine
 nuts	nut
@@ -986,82 +737,59 @@ x-rays	x-rays
 nitrate	nitrate
 stool size	stool
 white tea	white
-lasers	laser
 apple	apple
 penn state	penn
 chlorella	chlorella
-nitroglycerin	nitroglycerin
 poppy seeds	poppy
 reflux	reflux
 hormesis	hormesis
-glucose tolerance	glucose
 organic	organic
 beta carotene	beta
-watercress	watercress
 cadaverine	cadaverine
+watercress	watercress
 preservatives	preservative
 neutropenic diet	neutropenic
 c-reactive protein	c-reactive
 antidepressants	antidepressant
-non-hodgkin lymphoma	non-hodgkin
-liposuction	liposuction
-red bull	red
 arrhythmias	arrhythmia
 carrageenan	carrageenan
 parasites	parasite
 cranberry	cranberry
 scombroid poisoning	scombroid
-sperm count	sperm
 ireland	ireland
+sperm count	sperm
 cancer treatment	cancer
 iga	iga
 medical education	medical
-mouthwash	mouthwash
 white bread	white
-bowel movements	bowel
 phytochemicals	phytochemical
-intestinal inflammation	intestinal
+bowel movements	bowel
 peanuts	peanut
 preparation	preparation
-powdered sugar	powdered
 colibacillosis	colibacillosis
 nitrite preservatives	nitrite
 alfalfa	alfalfa
 beets	beet
 neurotransmitters	neurotransmitter
-adrenal gland	adrenal
 supermarkets	supermarket
 eggplant	eggplant
-star anise	star
 lemon verbena	lemon
-big mac	big
-microparticles	microparticle
 brain cancer	brain
 rheumatoid arthritis	rheumatoid
 dr. denis burkitt	dr.
-nonalcoholic fatty liver disease	nonalcoholic
-global warming	global
 mammals	mammal
 grilling	grill
-lemonoids	lemonoid
-häagen-dazs	häagen-daz
 prevotella	prevotella
-yerba mate	yerba
 breakfast	breakfast
-sweet one	sweet
 rickets	rickets
-bibhitaki fruit	bibhitaki
 pritikin	pritikin
-extracorporeal membranous oxygenation	extracorporeal
 spain	spain
-chervil	chervil
 dried apples	dry
 low-fat diets	low-fat
 fast food	fast
 boiled	boil
 n-hexacosanol	n-hexacosanol
 birds	bird
-nuremberg code	nuremberg
 phytonutrient	phytonutrient
 fatty liver disease	fatty
 choline	choline
@@ -1069,16 +797,9 @@ antimicrobial drugs	antimicrobial
 fungicides	fungicide
 in vitro studies	in
 beans	bean
-rooibos tea	rooibos
-abortifacient	abortifacient
-cardiovascular function	cardiovascular
-michelle obama	michelle
 impotence	impotence
 europe	europe
-pyrogallol	pyrogallol
-stomach health	stomach
 reversing chronic disease	reverse
-human papilloma virus	human
 juice	juice
 hepatitis	hepatitis
 organic pollutants	organic
@@ -1088,13 +809,11 @@ phytosterols	phytosterol
 penis size	penis
 breastfeeding	breastfeed
 preterm birth	preterm
-msg	msg
 desserts	dessert
 red wine	red
 rutabagas	rutabaga
 vegetarians	vegetarian
 fertility	fertility
-mastectomy	mastectomy
 national cancer institute	national
 biogenic amines	biogenic
 bone mineral density	bone
@@ -1103,64 +822,50 @@ organic foods	organic
 cost per serving	cost
 downers	downer
 wakame	wakame
-viruses	virus
 irritability	irritability
 polyps	polyp
+viruses	virus
 c. diff	c.
-tylenol	tylenol
 benzodiazepines	benzodiazepine
 infant formula	infant
 prostaglandin	prostaglandin
 weight loss	weight
 food additives	food
-anti-inflammation	anti-inflammation
 accidents	accident
 spearmint	spearmint
 diarrhea	diarrhea
 foodborne illness	foodborne
-table salt	table
 arthritis	arthritis
-sports gels	sport
 american institute for cancer research	american
 maté	maté
 detoxification	detoxification
-hallelujah diet	hallelujah
-whole wheat	whole
 mangosteen	mangosteen
 death	death
 steak	steak
 mercury	mercury
-eeg	eeg
 lipitor	lipitor
 sudden cardiac death	sudden
-bacteriophage	bacteriophage
 cosmetics	cosmetic
 raw food	raw
 paleolithic diets	paleolithic
 pneumonia	pneumonia
 heart disease	heart
-traditional healing systems	traditional
 okinawan diet	okinawan
-idaho	idaho
 pre-diabetes	pre-diabetes
-pecan	pecan
 oranges	orange
-kimchi	kimchi
 greens	green
 cardiac disease	cardiac
 bioaccumulation	bioaccumulation
 food safety	food
 rice diet	rice
 turkey meat	turkey
-carnosine	carnosine
-urticaria	urticaria
 chronic fatigue syndrome	chronic
 industrial pollutants	industrial
 gravy	gravy
 dr. john mcdougall	dr.
 vesanto melina	vesanto
-sweeteners	sweetener
 interleukin-1	interleukin-1
+sweeteners	sweetener
 egg	egg
 fluoride	fluoride
 texas	texa
@@ -1176,16 +881,13 @@ dehydration	dehydration
 cheerios	cheerio
 acetaldehyde	acetaldehyde
 beet juice	beet
-second meal effect	second
 atherosclerosis	atherosclerosis
 carbohydrates	carbohydrate
-thyroid disease	thyroid
 skin barrier	skin
 casomorphin	casomorphin
 vitamin d supplements	vitamin
 raw	raw
 insects	insect
-amphetamines	amphetamine
 cocoa	cocoa
 gut dysfunction	gut
 kraft	kraft
@@ -1197,11 +899,9 @@ restaurants	restaurant
 cigarettes	cigarette
 ketchup	ketchup
 boston	boston
-low fat diet	low
 chronic pain	chronic
 cysticercosis	cysticercosis
 amyloidosis	amyloidosis
-centrum	centrum
 peaches	peach
 organ meats	organ
 5-alpha pregnanedione	5-alpha
@@ -1212,18 +912,13 @@ placebo effect	placebo
 brca genes	brca
 toxocara	toxocara
 subcutaneous fat	subcutaneous
-brown fat	brown
 fats	fat
 eyeballs	eyeball
 vegetarian	vegetarian
-taxol	taxol
 global burden of disease study	global
 hay fever	hay
 paclitaxel	paclitaxel
 quercitin	quercitin
-sardinia	sardinia
-anti-aromatase	anti-aromatase
-pineapples	pineapple
 almond milk	almond
 infertility	infertility
 cleveland clinic	cleveland
@@ -1234,30 +929,23 @@ pomegranate juice	pomegranate
 migraines	migraine
 skim milk	skim
 screening	screening
-prevent and reverse heart disease	prevent
 bladder infection	bladder
 jeff green	jeff
 bladder infections	bladder
 cruciferous vegetables	cruciferous
 tongue cancer	tongue
 immunosuppressive drugs	immunosuppressive
-affordability	affordability
-polysorbate 80	polysorbate
 atrial fibrillation	atrial
+polysorbate 80	polysorbate
 arginine	arginine
-thalidomide	thalidomide
 duck	duck
 weeds	weed
 epic study	epic
-anovulatory cycles	anovulatory
 lavender	lavender
 leucine	leucine
-dr. david spence	dr.
-xenobiotics	xenobiotic
 soy protein	soy
 carbon monoxide	carbon
 antiemetic	antiemetic
-egcg	egcg
 nathan pritikin	nathan
 phytoestrogens	phytoestrogen
 empty calories	empty
@@ -1265,27 +953,19 @@ arsenic	arsenic
 brain damage	brain
 brenda davis	brenda
 public policy	public
-antiseptic mouthwash	antiseptic
 ayurvedic medicine	ayurvedic
 canada	canada
 tofu	tofu
 brain health	brain
-claudication	claudication
 semen	semen
-kombucha tea	kombucha
 vaccines	vaccine
-rose bush	rise
 lactose	lactose
 vitamin deficiency	vitamin
-steviol	steviol
 sarcocystis	sarcocystis
 cancer progression	cancer
 melqx	melqx
-national academies of science	national
 happiness	happiness
 pasta	pasta
-scope	scope
-aphthous ulcers	aphthous
 seminal fluid	seminal
 vitamin b12	vitamin
 anovulatory	anovulatory
@@ -1293,31 +973,24 @@ whole milk	whole
 poultry viruses	poultry
 almond butter	almond
 rice	rice
-michele simon	michele
 environment	environment
 doughnuts	doughnut
-tapeworms	tapeworm
 california prune board	california
+tapeworms	tapeworm
 carnitine	carnitine
 ulcers	ulcer
-urinary tract infection	urinary
 clogged arteries	clogged
-cancer-producing substances	cancer-producing
-glow stick	glow
 oral lesions	oral
 popcorn	popcorn
 cilantro	cilantro
 dr. dean ornish	dr.
 ductus arteriosus	ductus
 cumin	cumin
-phosgene	phosgene
-shark cartilage	shark
 muscles	muscle
+heart rate variability	heart
 epa	epa
 neurocysticercosis	neurocysticercosis
 bergamottin	bergamottin
-flax seed powder	flax
-firmicutes	firmicute
 eggs	egg
 stem cells	stem
 fennel seeds	fennel
@@ -1325,49 +998,35 @@ weight management	weight
 cetuximab	cetuximab
 mutagens	mutagen
 alkylphenols	alkylphenol
-jalapeno	jalapeno
 yeast	yeast
 chamomile	chamomile
-health food	health
-opiate	opiate
 apes	ape
 tarragon	tarragon
-tulsi tea	tulsi
-psoriasis	psoriasis
 loma linda university	loma
 astrocytes	astrocyte
-ray cronise	ray
 ubiquinol	ubiquinol
 industrial toxins	industrial
-roselle	roselle
 saffron	saffron
 kidney failure	kidney
-nutrition students	nutrition
 heme iron	heme
 advanced glycation end-products	advanced
 anti-inflammatory	anti-inflammatory
 tumor growth	tumor
 viagra	viagra
 insecticides	insecticide
-spicy food	spicy
 fetal development	fetal
-lasik	lasik
 cardiovascular disease	cardiovascular
-television	television
 alpha-gal	alpha-gal
 american diabetes association	american
 neurotoxins	neurotoxin
 animal studies	animal
 chamomile tea	chamomile
-mevacor	mevacor
 grains	grain
-diet score	diet
 zeaxanthin	zeaxanthin
 enterotypes	enterotype
-mushrooms	mushroom
 heart disease prevention	heart
+mushrooms	mushroom
 meat glue	meat
-predimed	predime
 microalbuminuria	microalbuminuria
 acne	acne
 gastroenteritis	gastroenteritis
@@ -1376,7 +1035,6 @@ meditation	meditation
 hemorrhoids	hemorrhoid
 phase ii enzyme system	phase
 uruguay	uruguay
-gastric bypass	gastric
 epilepsy	epilepsy
 spinach	spinach
 spirulina	spirulina
@@ -1396,37 +1054,28 @@ muscle soreness	muscle
 scurvy	scurvy
 plant foods	plant
 eczema	eczema
-scholastic performance	scholastic
 dairy cows	dairy
-rice bran oil	rice
 putrescine	putrescine
-belgium	belgium
 pregnant	pregnant
 mad cow disease	mad
 swordfish	swordfish
 caloric restriction	caloric
 ground flax	ground
 als	al
-rosmarinic acid	rosmarinic
 pancakes	pancake
 osteoporosis	osteoporosis
-autoimmune arthritis	autoimmune
 pcbs	pcb
 lead poisoning	lead
 ama	ama
 ginger	ginger
-splenda	splenda
 kangaroos	kangaroo
 uranium	uranium
 spices	spice
 dietary intervention	dietary
-pine nuts	pine
 ascorbic acid	ascorbic
 elderly	elderly
 penis cancer	penis
 patulin	patulin
-high blood sugar	high
-electroconvulsive therapy	electroconvulsive
 sorbitol	sorbitol
 new zealand	new
 weakness	weakness
@@ -1434,17 +1083,16 @@ telomerase	telomerase
 dr. james linde	dr.
 chlorhexidine	chlorhexidine
 apple peel	apple
-warts	wart
 resveratrol	resveratrol
+warts	wart
 food poisoning	food
 dried plums	dry
-endothelium	endothelium
 belly fat	belly
+endothelium	endothelium
 poultry	poultry
 peppers	pepper
 dental fluorosis	dental
 cell death	cell
-rectal bacteria	rectal
 seaweed	seaweed
 cannabis	cannabis
 rabies	rabies
@@ -1454,35 +1102,25 @@ methylmalonic acid	methylmalonic
 natural food store	natural
 gynecomastia	gynecomastia
 appetite	appetite
-freeze-dried	freeze-dried
 fukushima	fukushima
-creutzfeldt-jakob disease	creutzfeldt-jakob
-baked beans	baked
-zerumbone	zerumbone
-throat cancer	throat
 cheese	cheese
-cancer cell growth	cancer
 catfish	catfish
+cancer cell growth	cancer
 dean ornish	dean
 industrial carcinogens	industrial
-flatulence	flatulence
 pears	pear
 cake	cake
 protein	protein
-jam	jam
 immune system	immune
 side effects	side
 the national dairy council	the
 chemicals	chemical
 tamoxifen	tamoxifen
-dash diet	dash
 pregnancy	pregnancy
 physicians committee for responsible medicine	physician
 apple juice	apple
 eye	eye
-shortening	shorten
 turkey	turkey
-dr. max gerson	dr.
 social anxiety disorder	social
 dr. ornish	dr.
 pasteurization	pasteurization
@@ -1499,7 +1137,6 @@ cookies	cookie
 angiography	angiography
 morphine	morphine
 sodium benzoate	sodium
-bipolar disorder	bipolar
 fruits	fruit
 soft drinks	soft
 leeks	leek
@@ -1509,20 +1146,15 @@ beverage	beverage
 aspirin	aspirin
 watermelon	watermelon
 artificial colors	artificial
-fibrocystic breast disease	fibrocystic
 cavities	cavity
 kids	kid
 cell phones	cell
 early onset puberty	early
 skin health	skin
-carnitine palmitoyl transferase	carnitine
 diacetyl	diacetyl
 pacific ocean	pacific
 green tea	green
 superfood	superfood
-pancreatic enzymes	pancreatic
-pudding	pudding
-happy meal	happy
 back pain	back
 olives	olive
 tumor	tumor
@@ -1530,17 +1162,12 @@ preladenant	preladenant
 titanium dioxide	titanium
 processed meat	process
 blood sugar	blood
-venous thrombosis	venous
 atkins diet	atkin
 colon health	colon
 ergothioneine	ergothioneine
-apoe gene	apoe
 endocrine disrupting chemicals	endocrine
 jazz	jazz
 infectious diseases	infectious
-endotoxemia	endotoxemia
-bowel regularity	bowel
-breast tenderness	breast
 cans	can
 kohlrabi	kohlrabi
 pregnant women	pregnant
@@ -1548,47 +1175,34 @@ eggnog	eggnog
 sensitive skin	sensitive
 prenatal vitamins	prenatal
 grapefruit	grapefruit
-truvia	truvia
-vaginal delivery	vaginal
-cheese itch	cheese
 nicotine	nicotine
 energy drinks	energy
-omega 6	omega
 body mass index	body
 omega 3	omega
 mold	mold
-digoxin	digoxin
 lutein	lutein
 last heart attack	last
 myelopathy	myelopathy
-health food stores	health
-volunteer	volunteer
 lavender essential oil	lavender
 diesel fumes	diesel
 endorphins	endorphin
 yale	yale
 animal fats	animal
 pneumovax	pneumovax
-breakfast cereal	breakfast
 blind	blind
-gingivitis	gingivitis
+breakfast cereal	breakfast
 mood	mood
 ice diet	ice
 book	book
-indigestion	indigestion
-cream cheese	cream
 lower back pain	lower
 energy expenditure	energy
 white mushrooms	white
-earl grey tea	earl
-lupus	lupus
 gut flora	gut
 hummus	hummus
 pizza	pizza
-antibiotic resistance	antibiotic
 soy milk	soy
+antibiotic resistance	antibiotic
 dr. kim williams	dr.
-xeno-autoantibodies	xeno-autoantibodies
 umbilical cord blood	umbilical
 headaches	headache
 african americans	african
@@ -1600,7 +1214,6 @@ breast milk	breast
 medical journals	medical
 newborns	newborn
 plant-based diet	plant-based
-pharmaceuticals	pharmaceutical
 contamination	contamination
 ecmo	ecmo
 ischemia	ischemia
@@ -1615,7 +1228,6 @@ risk	risk
 melatonin	melatonin
 body fat	body
 rye	rye
-canned fish	can
 glycoalkaloids	glycoalkaloid
 dietary guidelines	dietary
 premature puberty	premature
@@ -1629,7 +1241,6 @@ fat	fat
 frying	fry
 lovastatin	lovastatin
 american journal of cardiology	american
-dizziness	dizziness
 pcos	pco
 liver	liver
 suicide	suicide
@@ -1641,10 +1252,8 @@ macular degeneration	macular
 chickens	chicken
 proteus mirabilis	proteus
 healthy eating index	healthy
-potassium sorbate	potassium
-colic	colic
 clinical nutrition	clinical
-blood pressure medications	blood
+colic	colic
 black tea	black
 trans fat	trans
 chocolate	chocolate
@@ -1658,36 +1267,28 @@ algae	algae
 fever	fever
 babies	baby
 sunburn	sunburn
-palmitic acid	palmitic
 lichen planus	lichen
 dr. roy swank	dr.
-b carotene	b
 horse urine	horse
-pcrm	pcrm
 guillain-barré syndrome	guillain-barré
+pcrm	pcrm
 cooking	cooking
 biomagnification	biomagnification
-beta glucan	beta
 alkaline water	alkaline
 organic milk	organic
-pork rinds	pork
 stress	stress
 fda	fda
-crisco	crisco
 aromatase	aromatase
 federal school lunch program	federal
 vegan	vegan
-dr. walter kempner	dr.
 glycogen	glycogen
-bargains	bargain
+dr. walter kempner	dr.
 mexico	mexico
 sesame seeds	sesame
 nasa	nasa
 cats	cat
-menstrual disorders	menstrual
 cayenne pepper	cayenne
 breast feed	breast
-perfluorochemicals	perfluorochemical
 uganda	uganda
 dairy	dairy
 homeopathy	homeopathy
@@ -1697,7 +1298,6 @@ ki-67	ki-67
 aricept	aricept
 mediterranean diet	mediterranean
 nutrient density	nutrient
-oolong tea	oolong
 kombu	kombu
 schizophrenia	schizophrenia
 joint disease	joint
@@ -1709,97 +1309,79 @@ breast health	breast
 snacks	snack
 climate change	climate
 gerd	gerd
-england	england
 shiitake mushrooms	shiitake
+england	england
 heart failure	heart
 liver disease	liver
 bone health	bone
 addiction	addiction
-usda	usda
 medical school	medical
+usda	usda
+british heart foundation	british
 nutrition	nutrition
 rooibos	rooibos
-cereal	cereal
 lycopene	lycopene
+cereal	cereal
 academy of nutrition and dietetics	academy
 lactation	lactation
 plant-based	plant-based
 neuropathy	neuropathy
 sugar	sugar
-adiponectin	adiponectin
 aneurysm	aneurysm
+adiponectin	adiponectin
 industry influence	industry
 trans fats	trans
 supreme court	supreme
-cost savings	cost
-ductal carcinoma	ductal
 fecal flora	fecal
-endurance	endurance
 malaria	malaria
+endurance	endurance
 herbs	herb
-oyster mushrooms	oyster
 peanut	peanut
 diet	diet
 premenstrual syndrome	premenstrual
-thyroid health	thyroid
 lauric acid	lauric
 dog rose berries	dog
 microgreens	microgreen
 sheep	sheep
-autoimmune disorders	autoimmune
 butter	butter
 stearic acid	stearic
 rectal cancer	rectal
-alpha-carotene	alpha-carotene
 toxin genes	toxin
 kingdom	kingdom
 white cranberry juice	white
 azarcon	azarcon
 native americans	native
 bacteroides	bacteroide
-jerusalem artichokes	jerusalem
 long island	long
 purines	purine
-vegf	vegf
 depression	depression
-boron	boron
-gelatin	gelatin
 angina	angina
 blueberries	blueberry
 arteries	artery
 ischemic heart disease	ischemic
 neu5gc	neu5gc
 south africa	south
-protein supplements	protein
 carboxy-methyl cellulose	carboxy-methyl
 pineal gland	pineal
-zsweet	zsweet
-periodontal disease	periodontal
 amalika	amalika
-hamburger	hamburger
+periodontal disease	periodontal
 mackerel	mackerel
 nutrition education	nutrition
-venison	venison
 capsaicin	capsaicin
 coconut water	coconut
-oklahoma	oklahoma
 mozart	mozart
 leprosy	leprosy
 recipes	recipe
 breast pain	breast
-how not to die	how
 cyclamate	cyclamate
 synergistic effects	synergistic
 philadelphia cream cheese	philadelphia
-peach	peach
 sweetener	sweetener
 cranberry juice	cranberry
 salsa	salsa
-hijiki	hijiki
 symptoms	symptom
 plastic	plastic
 boiling	boil
-inflammatory cells	inflammatory
 pancreatitis	pancreatitis
 acromegaly	acromegaly
 whole foods	whole
@@ -1810,55 +1392,39 @@ appendicitis	appendicitis
 thyroid cancer	thyroid
 white button mushrooms	white
 virus	virus
-anesthesia	anesthesia
 nutrient synergy	nutrient
 diet soda	diet
 salmonella	salmonella
-histones	histone
-selenium	selenium
 american meat institute	american
-cancer viruses	cancer
 istradefylline	istradefylline
 wheat	wheat
 bioactive molecules	bioactive
-pretzels	pretzel
 nutritional yeast	nutritional
 seafood	seafood
 birth weight	birth
-crimini mushrooms	criminus
 onions	onion
-jobs	job
-gallbladder disease	gallbladder
 medicine	medicine
-menstrual pain	menstrual
 polycyclic aromatic hydrocarbons	polycyclic
 kelp	kelp
 cold steeping	cold
-t. colin campbell	t.
 adhd	adhd
 tumor necrosis factor	tumor
-fennel	fennel
 urinary tract infections	urinary
+fennel	fennel
 coconut milk	coconut
 intestinal infections	intestinal
 short-chain fatty acids	short-chain
 institute of medicine	institute
 sulforaphane	sulforaphane
 hdl cholesterol	hdl
-stress test	stress
-endive	endive
 nitrates	nitrate
 detox	detox
-argon laser	argon
 whitecoat project	whitecoat
-american dental association	american
 baking	bake
 japanese	japanese
-chernobyl	chernobyl
 france	france
 antibodies	antibody
 world health organization	world
-coffee enemas	coffee
 aspartame	aspartame
 metabolic syndrome	metabolic
 anxiety	anxiety
@@ -1866,24 +1432,19 @@ crib death	crib
 roasting	roast
 insulin-like growth factor 1	insulin-like
 varicose veins	varicose
-diacylglycerol	diacylglycerol
 deer	deer
 bloating	bloat
-dieldrin	dieldrin
 deli meats	deli
 butyrate	butyrate
 goose	goose
 iceberg lettuce	iceberg
-dr. esselstyn	dr.
 adulterated	adulterated
-mesclun mix	mesclun
+dr. esselstyn	dr.
 india	india
 ground beef	ground
-natural remedies	natural
 cardiovascular health	cardiovascular
 hesperidin	hesperidin
 lemon	lemon
-avian leukosis/sarcoma	avian
 food dyes	food
 oils	oils
 raw vegan	raw
@@ -1892,52 +1453,36 @@ smithfield ham	smithfield
 national academy of sciences	national
 burgers	burger
 homocysteine	homocysteine
-american association for cancer research	american
 glycemic index	glycemic
 american public health association	american
-pacific bluefin tuna	pacific
 interheart study	interheart
 plant-based diets	plant-based
 irritable bowel syndrome	irritable
 valium	valium
 prediabetes	prediabete
-lemongrass	lemongrass
-acarbose	acarbose
 lymphoma	lymphoma
-transit time	transit
 amphetamine	amphetamine
-chlorophyll	chlorophyll
+transit time	transit
 breast cancer	breast
 dental plaque	dental
 healthy weight	healthy
 chewing	chew
 stroke	stroke
-rash	rash
 fragrance	fragrance
+rash	rash
 whole grain	whole
-beethoven	beethoven
-cashews	cashew
-enteric nervous system	enteric
-tetrodotoxin	tetrodotoxin
 triglyceride levels	triglyceride
-turnips	turnip
 worms	worm
-premenstrual symptoms	premenstrual
-anti-vomiting agent	anti-vomiting
 medium-chain fatty acids	medium-chain
 carob	carob
-poland	poland
 piperine	piperine
 cycling	cycling
 new york times	new
-phytosterol	phytosterol
 sulfites	sulfite
-dressings	dressing
 fatigue	fatigue
 ground meat	ground
 artificial sweeteners	artificial
 cranberries	cranberry
-breast development	breast
 psychopharmacological effects	psychopharmacological
 apigen	apigen
 scallops	scallop
@@ -1947,22 +1492,16 @@ placebo	placebo
 blood pressure	blood
 blue-green algae	blue-green
 agribusiness	agribusiness
-cost per calorie	cost
 phip	phip
 inflammatory bowel disease	inflammatory
 amyloid	amyloid
-radicchio	radicchio
 centers for disease control and prevention	center
-pew commission	pew
 kidney beans	kidney
 dietary cholesterol	dietary
 inflammatory diseases	inflammatory
 ceylon cinnamon	ceylon
 cancer cells	cancer
-dutched cocoa	dutched
-sids	sid
 acetate	acetate
-prostate health	prostate
 peoria	peoria
 pathogens	pathogen
 inflammation	inflammation
@@ -1970,50 +1509,39 @@ lemon balm	lemon
 shopping carts	shopping
 steroid hormones	steroid
 italy	italy
-finland	finland
 centenarians	centenarian
-joint inflammation	joint
+finland	finland
 organochlorines	organochlorine
+joint inflammation	joint
 bread	bread
-tanning beds	tan
 fibroids	fibroid
-combinatorial strategies	combinatorial
+tanning beds	tan
 oxidation	oxidation
 paella	paella
 lactic acid bacteria	lactic
 bacon	bacon
-lipotoxicity	lipotoxicity
 blood clots	blood
 coronary heart disease	coronary
 kale	kale
 precancerous	precancerous
 bmi	bmi
 leukemia	leukemia
-cryptoxanthin	cryptoxanthin
 estrogen	estrogen
 feather meal	feather
-sexual selection	sexual
-aloe vera	aloe
-michael pollan	michael
 mgus	mgus
-anger	anger
 placebos	placebo
 cardamom	cardamom
 mutations	mutation
 cassia cinnamon	cassia
-enemas	enema
 monounsaturated fats	monounsaturate
 hot dogs	hot
 precancerous changes	precancerous
 sushi	sushi
 soy	soy
-mucosal immunity	mucosal
 avocado	avocado
 kidney function	kidney
-stevia	stevia
 biomarkers	biomarker
 roots	root
-antarctica	antarctica
 natural standards research collaboration	natural
 respiratory infections	respiratory
 daniel	daniel
@@ -2022,48 +1550,35 @@ bioavailability	bioavailability
 pistachios	pistachio
 dyspepsia	dyspepsia
 plant fat	plant
-anhedonia	anhedonia
 tetracycline	tetracycline
-oregon	oregon
 flavonoids	flavonoid
-fat storage	fat
 potassium	potassium
-veal brains	veal
 candy	candy
 bacterial vaginosis	bacterial
 dna damage	dna
 obesogens	obesogen
 phytoestrogen	phytoestrogen
 preservation	preservation
-egg-free	egg-free
 premarin	premarin
-whale meat	whale
 bpa	bpa
 adrenaline	adrenaline
-levodopa	levodopa
-prozac	prozac
 forks over knives	fork
-gangrene	gangrene
+prozac	prozac
 resistant starch	resistant
 hazelnuts	hazelnut
 dr. caldwell esselstyn	dr.
-federal trade commission	federal
 bph	bph
+federal trade commission	federal
 propionate	propionate
 phenolics	phenolic
 type 1 diabetes	type
 harmane	harmane
 sports	sport
-miscarriage	miscarriage
 carcinogen	carcinogen
-american dietetics association	american
-air travel	air
 lemons	lemon
-tingling	tingle
 processed foods	process
 physical activity	physical
 beet greens	beet
-broccoli raab	broccoli
 walnut	walnut
 tumors	tumor
 lifestyle medicine	lifestyle
@@ -2071,9 +1586,7 @@ radiation	radiation
 ph	ph
 thallium heart scans	thallium
 animal proteins	animal
-mesclun	mesclun
 chronic obstructive pulmonary disease	chronic
-pheasants	pheasant
 flor de jamaica	flor
 convenience	convenience
 herbal tea	herbal
@@ -2081,14 +1594,10 @@ serotonin	serotonin
 tumor suppressor genes	tumor
 metastatic calcification	metastatic
 vitamin d2	vitamin
-vitamin d3	vitamin
 early detection	early
 apricots	apricot
 alcohol	alcohol
 hiccups	hiccup
-std	std
-drug testing	drug
-international prune association	international
 monsanto	monsanto
 blindness	blindness
 american cancer society	american
@@ -2097,33 +1606,24 @@ vitamin b6	vitamin
 australia	australia
 asthma	asthma
 alfalfa sprouts	alfalfa
-cold hands	cold
-osmanthus tea	osmanthus
 rice milk	rice
-capers	caper
 muscle strength	muscle
-bse	bse
 doctors	doctor
 protein powder supplements	protein
 placenta	placenta
-dosage	dosage
+adventist health studies	adventist
 kangaroo meat	kangaroo
 cspi	cspus
 united states	united
 enzymes	enzyme
-rice bran	rice
 manganese	manganese
 sun	sun
-easter island	easter
 erectile dysfunction	erectile
 ornish	ornish
-polyamine	polyamine
-ceramide	ceramide
 school lunch program	school
 white wine	white
 farm animals	farm
 variety	variety
-garbanzo beans	garbanzo
 copper	copper
 iodine	iodine
 mesothelioma	mesothelioma
@@ -2136,7 +1636,6 @@ aortic aneurysm	aortic
 respiratory tract cancer	respiratory
 mortality	mortality
 thorazine	thorazine
-persin	persin
 golden raisins	golden
 oxidative stress	oxidative
 polyphenols	polyphenol
@@ -2144,34 +1643,26 @@ urine	urine
 sucralose	sucralose
 buttermilk	buttermilk
 lemon balm tea	lemon
-workplace intervention	workplace
 amla	amla
-bacteria-eating virus	bacteria-eating
 tomato juice	tomato
-endostatin	endostatin
 longevity	longevity
 seizures	seizure
 aids	aid
 chewing gum	chew
-cadbury	cadbury
-national commission on egg nutrition	national
 sulfur dioxide	sulfur
 dentists	dentist
 mental illness	mental
-tongue worm	tongue
 galactose	galactose
 bt corn	bt
 taiwan	taiwan
 rhubarb	rhubarb
 aromatherapy	aromatherapy
 hydrogen sulfide	hydrogen
-eco-atkins	eco-atkin
 pbdes	pbde
 gerson therapy	gerson
 grapes	grape
 sweet potatoes	sweet
 polychlorinated naphthalenes	polychlorinate
-sunflower seeds	sunflower
 cold	cold
 cyclical mastalgia	cyclical
 environmental protection agency	environmental
@@ -2180,19 +1671,15 @@ zoonotic disease	zoonotic
 cola	cola
 herbal remedies	herbal
 pop-tarts	pop-tart
-honey	honey
 gas	gas
 sore throat	sore
-beta-carboline alkaloids	beta-carboline
-enamel erosion	enamel
 sense of smell	sense
+beta-carboline alkaloids	beta-carboline
 lies	lie
 morbidity	morbidity
 refined grain	refine
 date sugar	date
-shark oil	shark
 brown rice syrup	brown
-streptococcus mutans	streptococcus
 calories	calorie
 almonds	almond
 grape juice	grape
@@ -2207,9 +1694,6 @@ steroids	steroid
 yogurt	yogurt
 poultry workers	poultry
 metastatic potential	metastatic
-cancer cell proliferation	cancer
-dietary pollutants	dietary
-paula deen	paula
 national pork board	national
 antioxidant content	antioxidant
 brain parasites	brain
@@ -2220,16 +1704,13 @@ cornell	cornell
 liver failure	liver
 physicians	physician
 endotoxins	endotoxin
-interns	intern
 children	child
 vegetable protein	vegetable
 menstruation	menstruation
 teeth	tooth
 sprouts	sprout
-oral intraepithelial neoplasia	oral
 diverticulitis	diverticulitis
 radioactivity	radioactivity
-cyanopsia	cyanopsia
 nitric oxide	nitric
 fecal bacteria	fecal
 ldl cholesterol	ldl
@@ -2238,21 +1719,17 @@ foodborne rabies	foodborne
 lettuce	lettuce
 coma	coma
 kidney cancer	kidney
-chicken fat	chicken
 nutrient absorption	nutrient
 flying foxes	fly
-humane society of the united states	humane
 citric acid	citric
 lake score	lake
 evidence-based medicine	evidence-based
 dark chocolate	dark
-froot loops	froot
-bragg liquid aminos	bragg
-hormones	hormone
 ciguatera	ciguatera
-a/v ratio	a/v
+hormones	hormone
 telomeres	telomere
 douching	douch
+a/v ratio	a/v
 angiogenesis inhibitors	angiogenesis
 copd	copd
 naproxen	naproxen
@@ -2265,17 +1742,13 @@ morning sickness	morning
 celiac disease	celiac
 igf-1	igf-1
 carcinogens	carcinogen
-riboflavin	riboflavin
 blood donation	blood
 detoxifying enzymes	detoxify
 grapefruits	grapefruit
 transglutaminase	transglutaminase
 fishy odor	fishy
-cell proliferation	cell
 peanut butter	peanut
-fruit and vegetable wash	fruit
 brain disease	brain
-aggression	aggression
 lead	lead
 apnea	apnea
 amputations	amputation
@@ -2294,44 +1767,28 @@ nori	nori
 coconut oil	coconut
 milk chocolate	milk
 pickled vegetables	pickle
-cranberry cocktail	cranberry
-offal	offal
-thermogenics	thermogenic
-sage	sage
 ulcerative colitis	ulcerative
 massage	massage
 obesity	obesity
 intestinal flora	intestinal
 dried fruit	dry
-wound healing	wound
 salmon	salmon
-blood thinning	blood
 american medical association	american
-netherlands	netherland
 licorice	licorice
 plutonium	plutonium
-macadamia oil	macadamia
-cupcakes	cupcake
 menstrual symptoms	menstrual
 nitrosamines	nitrosamine
-theanine	theanine
-food sensitivities	food
 essential tremor	essential
 citrulline	citrulline
 neti pot	neti
 tuna	tuna
-fructans	fructan
 cauliflower	cauliflower
-smithfield	smithfield
 shrimp	shrimp
 sirtuins	sirtuin
 hepatotoxins	hepatotoxin
 western diet	western
-aneurism	aneurism
-tums	tum
 abdominal pain	abdominal
 kiwis	kiwi
-vitamin b1	vitamin
 chili peppers	chili
 glucocorticoids	glucocorticoid
 hyperemesis gravidarum	hyperemesis
@@ -2342,10 +1799,7 @@ oats	oats
 sports drinks	sport
 cognition	cognition
 veggie chicken	veggie
-mitochondria	mitochondria
 canned beans	can
-united kingdom	unite
-fecal transplant	fecal
 birth defects	birth
 benzene	benzene
 chamacos study	chamaco

@@ -1,7 +1,0 @@
-
-V-1217	calories	calories	nutrition	nutrition	nor	
-V-1217	nutrition	nutrition	junk food	junk food	—	
-V-1217	calories	calories	nutrition	nutrition	—in the upper right; calories, but no	
-V-1217	nutrition	nutrition	water	water	to the	
-V-1217	calories	calories	junk food	junk food	—in the upper right; calories, but no nutrition—	
-V-1217	nutrition	nutrition	calories	calories	—junk food; and then, there’s stuff with neither	

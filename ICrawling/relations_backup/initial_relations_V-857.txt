@@ -1,6 +1,2 @@
 
 V-857	surgery	surgery	stomach	stomach	is when you cut out 90% of the	
-V-857	gastric bypass	gastric bypass	surgery	surgery		
-V-857	surgery	surgery	chewing	chewing	than about	
-V-857	michael pollan	michael pollan	plants	plants	summed up, “eat food…”—meaning not junk—”mostly	
-V-857	chewing	chewing	surgery	surgery	food better after	

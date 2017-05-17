@@ -1,45 +1,14 @@
 
 V-1269	children	children	vegan	vegan	should not be fed a	
-V-1269	plant-based	plant-based	vitamin b12	vitamin b12	diets are simply not getting enough	
-V-1269	cereal	cereal	supplements	supplements	or	
-V-1269	soy	soy	health	health	milk isn’t enough for optimal	
-V-1269	breakfast cereal	breakfast cereal	health	health	or supplements, seem to getting enough for optimum	
-V-1269	b12	b12	eggs	eggs	in scrambled	
-V-1269	young children	young children	vegan	vegan	should not be fed a	
-V-1269	plant-based	plant-based	b12	b12	diets are simply not getting enough vitamin	
-V-1269	nutrition	nutrition	young children	young children	: “infants and	
-V-1269	infants	infants	children	children	and young	
-V-1269	young children	young children	diet	diet	should not be fed a vegan	
-V-1269	milk	milk	soy	soy	or	
-V-1269	vegetarian	vegetarian	vegan	vegan	did.this 38-year-old	
-V-1269	infants	infants	vegan	vegan	and young children should not be fed a	
-V-1269	children	children	diet	diet	should not be fed a vegan	
-V-1269	kids	kids	b12	b12	with no meat, no dairy.and the	
-V-1269	cereal	cereal	health	health	or supplements, seem to getting enough for optimum	
-V-1269	b12	b12	water	water	in our	
-V-1269	infants	infants	young children	young children	and	
-V-1269	nutrition	nutrition	infants	infants	: “	
 V-1269	kids	kids	b12	b12	get their	
+V-1269	cereal	cereal	supplements	supplements	or	
 V-1269	milk	milk	soy milk	soy milk	or	
 V-1269	plant-based diets	plant-based diets	vitamin b12	vitamin b12	are simply not getting enough	
-V-1269	vitamins	vitamins	diet	diet	that we can’t get enough of from a healthy	
+V-1269	young children	young children	vegan	vegan	should not be fed a	
 V-1269	breakfast cereal	breakfast cereal	supplements	supplements	or	
-V-1269	milk	milk	health	health	or soy milk isn’t enough for optimal	
-V-1269	vitamin b12	vitamin b12	pregnancy	pregnancy	during	
-V-1269	vegan	vegan	kids	kids		
-V-1269	bioavailability	bioavailability	animal products	animal products	of b12 suggest that	
-V-1269	vegan	vegan	diet	diet		
+V-1269	milk	milk	soy	soy	or	
 V-1269	b12	b12	animal products	animal products	suggest that	
-V-1269	plant-based diets	plant-based diets	b12	b12	are simply not getting enough vitamin	
-V-1269	israel	israel	bread	bread	—which could mean that by law, all	
-V-1269	breakfast	breakfast	supplements	supplements	cereal or	
-V-1269	nutrition	nutrition	children	children	: “infants and young	
+V-1269	infants	infants	young children	young children	and	
 V-1269	bioavailability	bioavailability	b12	b12	of	
-V-1269	soy	soy	milk	milk		
-V-1269	breakfast	breakfast	cereal	cereal		
 V-1269	sun	sun	supplements	supplements	or	
-V-1269	israel	israel	pasta	pasta	—which could mean that by law, all bread, all	
 V-1269	soy milk	soy milk	health	health	isn’t enough for optimal	
-V-1269	vegan	vegan	b12	b12	kids get their	
-V-1269	kids	kids	meat	meat	with no	
-V-1269	water	water	cholera	cholera	anymore; we don’t get a lot of	

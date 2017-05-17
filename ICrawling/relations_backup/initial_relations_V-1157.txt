@@ -1,8 +1,2 @@
 
-V-1157	agriculture	agriculture	meat	meat	tests retail	
-V-1157	parasites	parasites	beef	beef	in retail u.s.	
-V-1157	beef	beef	parasites	parasites	to dogs, and the bad news is that	
-V-1157	beef	beef	dogs	dogs	to	
 V-1157	parasites	parasites	beef	beef	were “excreted by nearly every dog fed	
-V-1157	sarcocystis	sarcocystis	beef	beef	parasites in retail u.s.	
-V-1157	sarcocystis	sarcocystis	parasites	parasites		

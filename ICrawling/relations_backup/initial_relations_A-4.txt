@@ -1,48 +1,8 @@
 
-A-4	fiber	fiber	blood	blood	helps lower cholesterol and	
-A-4	fiber	fiber	calories	calories	are just eating more vegetables, or fewer	
-A-4	fiber	fiber	oats	oats	(found concentrated in beans,	
-A-4	pasta	pasta	apple	apple	with tomato sauce and an	
-A-4	heart disease	heart disease	prediabetes	prediabetes	starts in childhood, how to prevent	
-A-4	fiber	fiber	cholesterol	cholesterol	helps lower	
-A-4	heart disease	heart disease	children	children	may start in the womb, and should all	
-A-4	cholesterol	cholesterol	sugar	sugar	and blood	
-A-4	fiber	fiber	risk	risk	appears to significantly protect against the	
 A-4	risk	risk	stroke	stroke	of	
 A-4	cholesterol	cholesterol	blood sugar	blood sugar	and	
-A-4	fiber	fiber	beans	beans	(found concentrated in	
-A-4	blood	blood	inflammation	inflammation	pressure and the amount of	
-A-4	disease	disease	children	children	starts in childhood, how to prevent prediabetes in	
-A-4	prediabetes	prediabetes	heart disease	heart disease	in children,	
-A-4	disease	disease	prediabetes	prediabetes	starts in childhood, how to prevent	
-A-4	meat	meat	digestion	digestion	and fat, or improving	
-A-4	disease	disease	heart disease	heart disease	starts in childhood, how to prevent prediabetes in children,	
-A-4	stroke	stroke	risk	risk		
-A-4	tomato sauce	tomato sauce	apple	apple	and an	
-A-4	prevention	prevention	health	health	—should, therefore, be a key public	
-A-4	whole grain	whole grain	apple	apple	pasta with tomato sauce and an	
 A-4	cholesterol	cholesterol	blood	blood	and	
-A-4	blood pressure	blood pressure	inflammation	inflammation	and the amount of	
-A-4	disease	disease	children	children	may start in the womb, and should all	
 A-4	prediabetes	prediabetes	children	children	in	
-A-4	prevention	prevention	public health	public health	—should, therefore, be a key	
 A-4	meat	meat	fat	fat	and	
-A-4	berries	berries	fiber	fiber	) and 47 grams a day of insoluble	
-A-4	health	health	stroke	stroke	priority (see how to prevent a	
-A-4	fiber	fiber	blood sugar	blood sugar	helps lower cholesterol and	
-A-4	apple	apple	broccoli	broccoli	a day or an extra quarter cup of	
-A-4	pasta	pasta	tomato sauce	tomato sauce	with	
-A-4	stroke	stroke	arteries	arteries	might not happen until our 50’s, our	
-A-4	sprouts	sprouts	farmers	farmers	and opens—how, he does not know;” the	
-A-4	fiber	fiber	nuts	nuts	(found concentrated in beans, oats,	
-A-4	fiber	fiber	berries	berries	(found concentrated in beans, oats, nuts, and	
-A-4	public health	public health	stroke	stroke	priority (see how to prevent a	
-A-4	fiber	fiber	sugar	sugar	helps lower cholesterol and blood	
-A-4	prediabetes	prediabetes	disease	disease	in children, heart	
-A-4	heart disease	heart disease	children	children	starts in childhood, how to prevent prediabetes in	
-A-4	fiber	fiber	stroke	stroke	appears to significantly protect against the risk of	
-A-4	whole grain	whole grain	pasta	pasta		
-A-4	whole grain	whole grain	tomato sauce	tomato sauce	pasta with	
+A-4	fiber	fiber	cholesterol	cholesterol	helps lower	
 A-4	fiber	fiber	vegetables	vegetables	are just eating more	
-A-4	fiber	fiber	stroke	stroke	to prevent	
-A-4	blood	blood	sugar	sugar		

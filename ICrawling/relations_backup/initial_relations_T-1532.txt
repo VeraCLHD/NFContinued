@@ -1,80 +1,9 @@
 
-T-1532	milk	milk	prostate cancer	prostate cancer	may reduce overall risk for cancer, including	
 T-1532	dioxins	dioxins	alkylphenols	alkylphenols	and	
-T-1532	alkylphenols	alkylphenols	meat	meat	that may be in animal foods, cooked	
-T-1532	prostate	prostate	cancer cell growth	cancer cell growth		
-T-1532	cooked meat	cooked meat	prostate	prostate	carcinogens and multivitamin use may also raise	
-T-1532	risk	risk	grains	grains	for cancer, including prostate cancer.phytates, found in beans,	
-T-1532	igf-1	igf-1	meat	meat	are comparable to those eating	
-T-1532	risk	risk	egg	egg	factors include deep-fried food consumption, dairy intake, and	
-T-1532	plant-based	plant-based	diet	diet		
-T-1532	prostate cancer	prostate cancer	risk	risk		
-T-1532	methionine	methionine	prostate	prostate	by lowering animal food intake may help control	
-T-1532	prostate	prostate	nuts	nuts	cancer.phytates, found in beans, grains,	
-T-1532	prostate	prostate	seeds	seeds	cancer.phytates, found in beans, grains, nuts, and	
-T-1532	prostate	prostate	plant-based	plant-based	cancer, and a	
-T-1532	risk	risk	prostate cancer	prostate cancer	for cancer, including	
-T-1532	meat	meat	prostate	prostate	carcinogens and multivitamin use may also raise	
-T-1532	prostate	prostate	cancer	cancer		
-T-1532	prostate cancer	prostate cancer	cancer	cancer	risk.when men with active prostate	
-T-1532	tor	tor	leucine	leucine	(target of rapamycin) enzyme by reducing intake of	
-T-1532	dioxins	dioxins	cooked meat	cooked meat	and alkylphenols that may be in animal foods,	
-T-1532	meat	meat	processed meat	processed meat	consumption and	
-T-1532	prostate cancer	prostate cancer	prostate	prostate	risk.when men with active	
-T-1532	prostate cancer	prostate cancer	plant-based	plant-based	risk.when men with active prostate cancer eat a	
-T-1532	methionine	methionine	prostate cancer	prostate cancer	by lowering animal food intake may help control	
-T-1532	leucine	leucine	animal products	animal products	–rich	
-T-1532	meat	meat	cancer	cancer	carcinogens and multivitamin use may also raise prostate	
-T-1532	cancer	cancer	prostate cancer	prostate cancer	risk.when men with active	
-T-1532	risk	risk	beans	beans	for cancer, including prostate cancer.phytates, found in	
-T-1532	amino acid	amino acid	methionine	methionine		
+T-1532	plant-based diet	plant-based diet	hormones	hormones	seems to help is by reducing the amount of excess	
 T-1532	cancer	cancer	cancer	cancer	is the most common	
-T-1532	plant-based	plant-based	exercise	exercise	diet, especially when combined with moderate	
-T-1532	dairy	dairy	egg	egg	intake, and	
-T-1532	leucine	leucine	milk	milk	–rich animal products such as	
-T-1532	prostate	prostate	beans	beans	cancer.phytates, found in	
-T-1532	animal products	animal products	risk	risk	such as milk may reduce overall	
-T-1532	prostate	prostate	plant-based diet	plant-based diet	cancer, and a	
-T-1532	rapamycin	rapamycin	animal products	animal products	) enzyme by reducing intake of leucine–rich	
-T-1532	cancer	cancer	dairy	dairy	risk factors include deep-fried food consumption,	
-T-1532	prostate cancer	prostate cancer	dairy	dairy	risk factors include deep-fried food consumption,	
-T-1532	milk	milk	cancer	cancer	may reduce overall risk for	
-T-1532	milk	milk	prostate	prostate	may reduce overall risk for cancer, including	
-T-1532	prostate cancer	prostate cancer	nuts	nuts	.phytates, found in beans, grains,	
-T-1532	prostate	prostate	dairy	dairy	cancer risk factors include deep-fried food consumption,	
-T-1532	cancer	cancer	plant-based	plant-based	risk.when men with active prostate cancer eat a	
-T-1532	processed meat	processed meat	risk	risk	intake appear to be linked to increased	
-T-1532	risk	risk	dairy	dairy	factors include deep-fried food consumption,	
-T-1532	alkylphenols	alkylphenols	animal foods	animal foods	that may be in	
-T-1532	carcinogens	carcinogens	prostate cancer	prostate cancer	and multivitamin use may also raise	
-T-1532	prostate	prostate	prostate cancer	prostate cancer	cancer risk.when men with active	
-T-1532	carcinogens	carcinogens	cancer	cancer	and multivitamin use may also raise prostate	
-T-1532	prostate cancer	prostate cancer	plant-based diet	plant-based diet	risk.when men with active prostate cancer eat a	
-T-1532	alkylphenols	alkylphenols	carcinogens	carcinogens	that may be in animal foods, cooked meat	
-T-1532	cancer	cancer	risk	risk		
-T-1532	cancer	cancer	cancer	cancer	risk.when men with active prostate	
-T-1532	animal products	animal products	cancer	cancer	such as milk may reduce overall risk for	
-T-1532	cancer	cancer	prostate	prostate	risk.when men with active	
 T-1532	milk	milk	risk	risk	may reduce overall	
-T-1532	prostate	prostate	diet	diet	cancer, and a plant-based	
-T-1532	dioxins	dioxins	animal foods	animal foods	and alkylphenols that may be in	
 T-1532	prostate cancer	prostate cancer	cancer	cancer	is the most common	
-T-1532	prostate cancer	prostate cancer	beans	beans	.phytates, found in	
-T-1532	meat	meat	carcinogens	carcinogens		
+T-1532	igf-1	igf-1	meat	meat	are comparable to those eating	
+T-1532	diet	diet	hormones	hormones	seems to help is by reducing the amount of excess	
 T-1532	igf-1	igf-1	cancer	cancer	may be linked with	
-T-1532	animal products	animal products	milk	milk	such as	
-T-1532	meat	meat	prostate cancer	prostate cancer	carcinogens and multivitamin use may also raise	
-T-1532	alkylphenols	alkylphenols	cooked meat	cooked meat	that may be in animal foods,	
-T-1532	prostate	prostate	grains	grains	cancer.phytates, found in beans,	
-T-1532	risk	risk	cancer	cancer	for	
-T-1532	carcinogens	carcinogens	prostate	prostate	and multivitamin use may also raise	
-T-1532	prostate cancer	prostate cancer	grains	grains	.phytates, found in beans,	
-T-1532	rapamycin	rapamycin	leucine	leucine	) enzyme by reducing intake of	
-T-1532	risk	risk	prostate	prostate	for cancer, including	
-T-1532	prostate	prostate	risk	risk	cancer	
-T-1532	cancer	cancer	plant-based diet	plant-based diet	risk.when men with active prostate cancer eat a	
-T-1532	cooked meat	cooked meat	prostate cancer	prostate cancer	carcinogens and multivitamin use may also raise	
-T-1532	tor	tor	rapamycin	rapamycin	(target of	
-T-1532	cooked meat	cooked meat	carcinogens	carcinogens		
-T-1532	prostate cancer	prostate cancer	seeds	seeds	.phytates, found in beans, grains, nuts, and	
-T-1532	cooked meat	cooked meat	cancer	cancer	carcinogens and multivitamin use may also raise prostate	

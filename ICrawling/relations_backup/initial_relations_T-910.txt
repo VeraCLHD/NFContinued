@@ -1,37 +1,13 @@
 
-T-910	aluminum	aluminum	phytonutrients	phytonutrients	found in tea, but the	
-T-910	supplements	supplements	grains	grains	(see also here, here, here and here) and even whole	
-T-910	copper	copper	risk	risk	may be a	
-T-910	mercury	mercury	lead	lead	can affect brain development, cadmium and	
-T-910	grains	grains	vegetables	vegetables	and	
-T-910	mercury	mercury	cadmium	cadmium	can affect brain development,	
-T-910	cadmium	cadmium	lead	lead	and	
-T-910	plant-based	plant-based	diet	diet		
-T-910	lead	lead	fertility	fertility	 appear to lower male	
-T-910	vegetarians	vegetarians	lead	lead	had lower levels of cadmium,	
-T-910	meats	meats	nutritional yeast	nutritional yeast	(see also here, here, here and here), seafood, some brands of	
-T-910	lead	lead	copper	copper	 appear to lower male fertility,	
-T-910	mercury	mercury	heavy metal	heavy metal	even though their	
-T-910	bioavailability	bioavailability	heavy metals	heavy metals	of	
-T-910	whole grains	whole grains	vegetables	vegetables	and	
-T-910	heavy metal	heavy metal	music	music	exposure (the toxins, not the	
-T-910	hibiscus	hibiscus	manganese	manganese	tea does have a high amount of	
-T-910	supplements	supplements	vegetables	vegetables	(see also here, here, here and here) and even whole grains and	
-T-910	meats	meats	seafood	seafood	(see also here, here, here and here), 	
-T-910	cadmium	cadmium	produce	produce	than conventional	
-T-910	hibiscus	hibiscus	tea	tea		
 T-910	hibiscus tea	hibiscus tea	manganese	manganese	does have a high amount of	
+T-910	bioavailability	bioavailability	heavy metals	heavy metals	of	
+T-910	vegetarians	vegetarians	cadmium	cadmium	had lower levels of	
+T-910	whole grains	whole grains	vegetables	vegetables	and	
+T-910	copper	copper	risk	risk	may be a	
 T-910	aluminum	aluminum	tea	tea	found in	
-T-910	cadmium	cadmium	fertility	fertility	and lead appear to lower male	
-T-910	supplements	supplements	whole grains	whole grains	(see also here, here, here and here) and even	
+T-910	produce	produce	cadmium	cadmium	may have less	
+T-910	grains	grains	vegetables	vegetables	and	
+T-910	cadmium	cadmium	lead	lead	and	
 T-910	tea	tea	manganese	manganese	does have a high amount of	
 T-910	lead	lead	mercury	mercury	and	
-T-910	organic	organic	produce	produce		
-T-910	lead	lead	heavy metal	heavy metal	and mercury even though their	
-T-910	vegetarians	vegetarians	cadmium	cadmium	had lower levels of	
-T-910	heavy metal	heavy metal	toxins	toxins	exposure (the	
-T-910	vegetarians	vegetarians	mercury	mercury	had lower levels of cadmium, lead and	
-T-910	produce	produce	cadmium	cadmium	may have less	
-T-910	meats	meats	yeast	yeast	(see also here, here, here and here), seafood, some brands of nutritional	
-T-910	organic	organic	cadmium	cadmium	produce may have less	
-T-910	cadmium	cadmium	copper	copper	and lead appear to lower male fertility,	
+T-910	lead	lead	fertility	fertility	 appear to lower male	

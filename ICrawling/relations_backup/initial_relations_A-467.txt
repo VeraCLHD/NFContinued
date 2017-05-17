@@ -1,65 +1,12 @@
 
-A-467	dean ornish	dean ornish	diet	diet	talks about the advantages of choosing	
-A-467	diabetes	diabetes	obesity	obesity	and	
-A-467	dr. dean ornish	dr. dean ornish	drugs	drugs	talks about the advantages of choosing diet over	
-A-467	cholesterol	cholesterol	diet	diet	: purely a question of	
-A-467	ldl	ldl	meat	meat	cholesterol, so consumption of	
-A-467	plant-based	plant-based	diet	diet		
-A-467	heart attacks	heart attacks	cholesterol	cholesterol	and	
-A-467	blood	blood	medications	medications	pressure	
-A-467	ldl	ldl	dairy	dairy	cholesterol, so consumption of meat, eggs,	
-A-467	ornish	ornish	diet	diet	talks about the advantages of choosing	
-A-467	death	death	ketchup	ketchup	’), and on the tray, next to the	
-A-467	prostate	prostate	cancer	cancer		
-A-467	pain	pain	drugs	drugs	or weakness on cholesterol-lowering statin	
-A-467	diet	diet	cholesterol	cholesterol	over drugs to reach	
-A-467	vegetarian	vegetarian	drugs	drugs	lifestyle, lipid-lowering	
-A-467	drugs	drugs	diet	diet	can’t do that, but	
-A-467	drugs	drugs	happy meal	happy meal	with every	
-A-467	ldl	ldl	junk food	junk food	cholesterol, so consumption of meat, eggs, dairy, and	
-A-467	dairy	dairy	dietary cholesterol	dietary cholesterol	products and chicken, and 3)	
-A-467	disease	disease	bad cholesterol	bad cholesterol	naturally by avoiding the three things that increase	
-A-467	dairy	dairy	cholesterol	cholesterol	products and chicken, and 3) dietary	
-A-467	sugar	sugar	salt	salt	and	
-A-467	junk food	junk food	saturated fat	saturated fat	and animal products, 2)	
-A-467	ldl	ldl	cholesterol	cholesterol	(“bad	
-A-467	heart attacks	heart attacks	diet	diet	and cholesterol: purely a question of	
-A-467	bad cholesterol	bad cholesterol	fats	fats	: 1) trans	
-A-467	dairy	dairy	chicken	chicken	products and	
-A-467	ldl	ldl	eggs	eggs	cholesterol, so consumption of meat,	
-A-467	risk	risk	cholesterol	cholesterol	of elevated	
-A-467	blood pressure	blood pressure	medications	medications		
-A-467	drugs	drugs	blood pressure medications	blood pressure medications	wrapped into one, a statin, three	
-A-467	fast food	fast food	restaurants	restaurants		
-A-467	diet	diet	drugs	drugs	over	
-A-467	drugs	drugs	blood pressure	blood pressure	wrapped into one, a statin, three	
-A-467	prostate	prostate	stress	stress	cancer, inflammation, and oxidative	
-A-467	ornish	ornish	drugs	drugs	talks about the advantages of choosing diet over	
-A-467	dean ornish	dean ornish	drugs	drugs	talks about the advantages of choosing diet over	
-A-467	bad cholesterol	bad cholesterol	junk food	junk food	: 1) trans fats, which come mostly from	
-A-467	plant-based	plant-based	fast food	fast food	diet, which brings us to yesterday’s video-of-the-day,	
-A-467	ldl	ldl	bad cholesterol	bad cholesterol	(“	
-A-467	dr. dean ornish	dr. dean ornish	diet	diet	talks about the advantages of choosing	
-A-467	drugs	drugs	cholesterol	cholesterol	to reach	
 A-467	eggs	eggs	poultry	poultry	and	
 A-467	junk food	junk food	animal products	animal products	and	
-A-467	prostate	prostate	inflammation	inflammation	cancer,	
-A-467	heart disease	heart disease	death	death	and	
-A-467	prostate	prostate	oxidative stress	oxidative stress	cancer, inflammation, and	
-A-467	bad cholesterol	bad cholesterol	trans fats	trans fats	: 1)	
-A-467	ldl	ldl	cholesterol	cholesterol		
-A-467	weakness	weakness	drugs	drugs	on cholesterol-lowering statin	
-A-467	medicine	medicine	drugs	drugs	’s idea of a “holistic” approach,	
-A-467	heart disease	heart disease	bad cholesterol	bad cholesterol	naturally by avoiding the three things that increase	
-A-467	risk	risk	women	women	of falls in older men and	
-A-467	risk	risk	death	death	for heart disease and	
-A-467	drugs	drugs	medications	medications	wrapped into one, a statin, three blood pressure	
 A-467	disease	disease	death	death	and	
-A-467	drugs	drugs	blood	blood	wrapped into one, a statin, three	
-A-467	weakness	weakness	muscle damage	muscle damage	on cholesterol-lowering statin drugs may be suffering	
-A-467	risk	risk	disease	disease	for heart	
+A-467	diabetes	diabetes	obesity	obesity	and	
+A-467	heart disease	heart disease	death	death	and	
 A-467	pain	pain	weakness	weakness	or	
-A-467	plaque	plaque	arteries	arteries	in our	
-A-467	junk food	junk food	fat	fat	and animal products, 2) saturated	
-A-467	risk	risk	heart disease	heart disease	for	
-A-467	junk food	junk food	dairy	dairy	and animal products, 2) saturated fat, mostly from	
+A-467	sugar	sugar	salt	salt	and	
+A-467	cholesterol	cholesterol	vegetarian	vegetarian	must be lowered to that of the average pure	
+A-467	plant-based diet	plant-based diet	diabetes	diabetes	can prevent and treat other chronic conditions such as	
+A-467	heart attacks	heart attacks	cholesterol	cholesterol	and	
+A-467	diet	diet	diabetes	diabetes	can prevent and treat other chronic conditions such as	

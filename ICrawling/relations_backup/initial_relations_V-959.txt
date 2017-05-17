@@ -1,26 +1,4 @@
 
-V-959	plant-based	plant-based	vegetables	vegetables	diet of fruits,	
-V-959	world cancer research fund	world cancer research fund	cancer	cancer	] to prevent	
-V-959	usda	usda	dietary guidelines	dietary guidelines		
-V-959	diet	diet	cancer	cancer	is promoted by the [world	
-V-959	plant-based	plant-based	grains	grains	diet of fruits, vegetables, whole	
-V-959	plant-based	plant-based	diet	diet		
-V-959	diet	diet	meat	meat	of fruits, vegetables, whole grains, legumes, and no	
-V-959	plant-based	plant-based	legumes	legumes	diet of fruits, vegetables, whole grains,	
 V-959	meat	meat	heart disease	heart disease	reversed	
-V-959	plant-based diet	plant-based diet	vegetables	vegetables	of fruits,	
-V-959	plant-based diet	plant-based diet	legumes	legumes	of fruits, vegetables, whole grains,	
-V-959	plant-based	plant-based	whole grains	whole grains	diet of fruits, vegetables,	
-V-959	diet	diet	grains	grains	of fruits, vegetables, whole	
-V-959	health	health	meat	meat	consequences of eating	
 V-959	diet	diet	fruits	fruits	of	
-V-959	plant-based diet	plant-based diet	whole grains	whole grains	of fruits, vegetables,	
 V-959	plant-based diet	plant-based diet	fruits	fruits	of	
-V-959	diet	diet	whole grains	whole grains	of fruits, vegetables,	
-V-959	plant-based diet	plant-based diet	meat	meat	of fruits, vegetables, whole grains, legumes, and no	
-V-959	diet	diet	legumes	legumes	of fruits, vegetables, whole grains,	
-V-959	plant-based	plant-based	fruits	fruits	diet of	
-V-959	dietary guidelines	dietary guidelines	greece	greece	that i’ve found comes not from	
-V-959	meat	meat	disease	disease	reversed heart	
-V-959	plant-based diet	plant-based diet	grains	grains	of fruits, vegetables, whole	
-V-959	diet	diet	vegetables	vegetables	of fruits,	

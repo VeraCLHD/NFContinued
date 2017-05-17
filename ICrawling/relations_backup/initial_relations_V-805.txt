@@ -1,18 +1,2 @@
 
-V-805	symptoms	symptoms	fatigue	fatigue	of type 1 diabetes: excessive thirst and	
-V-805	health food	health food	canada	canada	stores, compared to community pharmacies.in	
-V-805	health	health	diabetes	diabetes	food stores, feigning classic symptoms of type 1	
-V-805	shark cartilage	shark cartilage	cancer	cancer	help cure my	
-V-805	diabetes	diabetes	weight loss	weight loss	: excessive thirst and fatigue, unexplained	
-V-805	diabetes	diabetes	fatigue	fatigue	: excessive thirst and	
-V-805	health	health	type 1 diabetes	type 1 diabetes	food stores, feigning classic symptoms of	
-V-805	health	health	canada	canada	food stores, compared to community pharmacies.in	
-V-805	health food	health food	type 1 diabetes	type 1 diabetes	stores, feigning classic symptoms of	
-V-805	type 1 diabetes	type 1 diabetes	fatigue	fatigue	: excessive thirst and	
-V-805	health	health	symptoms	symptoms	food stores, feigning classic	
-V-805	weight loss	weight loss	overeating	overeating	despite	
-V-805	health food	health food	symptoms	symptoms	stores, feigning classic	
-V-805	health food	health food	diabetes	diabetes	stores, feigning classic symptoms of type 1	
-V-805	symptoms	symptoms	diabetes	diabetes	of type 1	
-V-805	type 1 diabetes	type 1 diabetes	weight loss	weight loss	: excessive thirst and fatigue, unexplained	
 V-805	symptoms	symptoms	type 1 diabetes	type 1 diabetes	of	

@@ -1,6 +1,2 @@
 
 V-1209	maté	maté	cancer	cancer	may actually increase our	
-V-1209	heart disease	heart disease	cancer	cancer	compared to us; 20 times less	
-V-1209	quinoa	quinoa	sprouts	sprouts		
-V-1209	disease	disease	cancer	cancer	compared to us; 20 times less	
-V-1209	maté	maté	tea	tea		

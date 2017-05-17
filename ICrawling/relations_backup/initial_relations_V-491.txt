@@ -1,50 +1,7 @@
 
-V-491	heart disease	heart disease	fish oil	fish oil	ask their physicians about	
-V-491	fish oil	fish oil	heart disease	heart disease	supplementation for the prevention and treatment of	
-V-491	risk	risk	fish	fish	for heart disease ask their physicians about	
-V-491	fish	fish	prevention	prevention	oil supplementation for the	
-V-491	disease	disease	fish oil	fish oil	ask their physicians about	
-V-491	heart disease	heart disease	heart attack	heart attack	mortality, sudden cardiac death,	
-V-491	disease	disease	fish	fish	“just a	
-V-491	disease	disease	cardiac death	cardiac death	mortality, sudden	
-V-491	fish	fish	treatment	treatment	oil supplementation for the prevention and	
-V-491	heart disease	heart disease	fish	fish	ask their physicians about	
-V-491	fish oil	fish oil	cardiac death	cardiac death	capsules, had a higher risk of	
-V-491	fish oil	fish oil	prevention	prevention	supplementation for the	
-V-491	treatment	treatment	heart disease	heart disease	of	
-V-491	risk	risk	fish oil	fish oil	for heart disease ask their physicians about	
-V-491	treatment	treatment	fish	fish	of heart disease “just a	
-V-491	fish oil	fish oil	disease	disease	supplementation for the prevention and treatment of heart	
-V-491	prevention	prevention	disease	disease	and treatment of heart	
-V-491	heart disease	heart disease	cardiac death	cardiac death	mortality, sudden	
-V-491	prevention	prevention	heart disease	heart disease	and treatment of	
-V-491	american heart association	american heart association	heart disease	heart disease	—that individuals at high risk for	
-V-491	risk	risk	death	death	of cardiac	
-V-491	fish oil	fish oil	risk	risk	capsules, had a higher	
-V-491	disease	disease	death	death	mortality, sudden cardiac	
-V-491	american heart association	american heart association	risk	risk	—that individuals at high	
-V-491	fish oil	fish oil	treatment	treatment	supplementation for the prevention and	
 V-491	prevention	prevention	treatment	treatment	and	
-V-491	risk	risk	physicians	physicians	for heart disease ask their	
-V-491	disease	disease	fish	fish	ask their physicians about	
-V-491	heart disease	heart disease	death	death	mortality, sudden cardiac	
-V-491	physicians	physicians	fish	fish	about	
 V-491	heart disease	heart disease	physicians	physicians	ask their	
-V-491	physicians	physicians	fish oil	fish oil	about	
-V-491	heart disease	heart disease	sudden cardiac death	sudden cardiac death	mortality,	
-V-491	disease	disease	mortality	mortality		
-V-491	treatment	treatment	disease	disease	of heart	
-V-491	disease	disease	heart attack	heart attack	mortality, sudden cardiac death,	
-V-491	fish	fish	mortality	mortality	had a 29% reduction in…	
-V-491	prevention	prevention	fish	fish	and treatment of heart disease “just a	
-V-491	heart disease	heart disease	mortality	mortality		
-V-491	risk	risk	disease	disease	for heart	
-V-491	fish oil	fish oil	death	death	capsules, had a higher risk of cardiac	
-V-491	disease	disease	sudden cardiac death	sudden cardiac death	mortality,	
-V-491	american heart association	american heart association	disease	disease	—that individuals at high risk for heart	
-V-491	heart disease	heart disease	fish	fish	“just a	
-V-491	meta-analysis	meta-analysis	american medical association	american medical association	” published in the journal of the	
 V-491	disease	disease	physicians	physicians	ask their	
-V-491	risk	risk	heart disease	heart disease	for	
 V-491	risk	risk	cardiac death	cardiac death	of	
-V-491	fish	fish	heart disease	heart disease	oil supplementation for the prevention and treatment of	
+V-491	fish	fish	mortality	mortality	had a 29% reduction in…	
+V-491	treatment	treatment	heart disease	heart disease	of	

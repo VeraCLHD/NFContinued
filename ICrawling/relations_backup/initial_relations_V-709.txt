@@ -1,18 +1,4 @@
 
-V-709	national cancer institute	national cancer institute	environmental cancer	environmental cancer	on reducing	
-V-709	meat	meat	medications	medications	raised without these	
-V-709	carcinogens	carcinogens	toxins	toxins	and other	
-V-709	meats	meats	heterocyclic amines	heterocyclic amines	will reduce exposure to carcinogenic	
-V-709	toxins	toxins	water	water	from our food,	
-V-709	organic	organic	pesticides	pesticides	and free-range: “exposure to	
-V-709	fruits	fruits	meat	meat	and vegetables, and which types of	
-V-709	national cancer institute	national cancer institute	cancer	cancer	on reducing environmental	
-V-709	cancer	cancer	risk	risk		
-V-709	cancer	cancer	cancer	cancer	panel report from the national	
 V-709	carcinogens	carcinogens	cancer	cancer	has not been addressed adequately by the national	
-V-709	cancer	cancer	national cancer institute	national cancer institute	panel report from the	
-V-709	national cancer institute	national cancer institute	risk	risk	on reducing environmental cancer	
+V-709	meat	meat	medications	medications	raised without these	
 V-709	fruits	fruits	vegetables	vegetables	and	
-V-709	livestock	livestock	meat	meat	feed lots can be minimized by eating free-range	
-V-709	environmental cancer	environmental cancer	risk	risk		
-V-709	carcinogens	carcinogens	water	water	and other toxins from our food,	

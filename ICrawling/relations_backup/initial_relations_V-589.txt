@@ -1,61 +1,11 @@
 
-V-589	tea	tea	cavities	cavities	also appears to help prevent	
-V-589	bugs	bugs	teeth	teeth	from sticking to our	
-V-589	fluoride	fluoride	tea	tea	content from the	
-V-589	h. pylori	h. pylori	bacteria	bacteria		
-V-589	children	children	dental	dental	exposed to too much fluoride can develop	
-V-589	children	children	dental fluorosis	dental fluorosis	exposed to too much fluoride can develop	
-V-589	dental	dental	teeth	teeth	fluorosis—a mottled discoloration of the	
-V-589	bacteria	bacteria	bladder	bladder	from sticking to the wall of the	
+V-589	phytonutrients	phytonutrients	h. pylori	h. pylori	may reduce adhesion of	
 V-589	phytonutrients	phytonutrients	plaque	plaque	are fighting back at	
-V-589	cranberry	cranberry	h. pylori	h. pylori	phytonutrients may reduce adhesion of	
-V-589	teeth	teeth	cranberries	cranberries	?well, there is some evidence that	
-V-589	plaque	plaque	bacteria	bacteria		
-V-589	dental fluorosis	dental fluorosis	teeth	teeth	—a mottled discoloration of the	
-V-589	fluorosis	fluorosis	teeth	teeth	—a mottled discoloration of the	
+V-589	bacteria	bacteria	teeth	teeth	sticking to our	
 V-589	fluoride	fluoride	dental	dental	can develop	
-V-589	beverages	beverages	plaque	plaque	from plants, maybe phytonutrients are fighting back at	
-V-589	epa	epa	water	water	is reconsidering current tap	
+V-589	bacteria	bacteria	plaque	plaque	cause	
+V-589	cranberries	cranberries	bacteria	bacteria	might affect the adhesion of	
 V-589	plaque	plaque	bacteria	bacteria	is	
+V-589	dental plaque	dental plaque	bacteria	bacteria	is	
 V-589	children	children	fluoride	fluoride	exposed to too much	
 V-589	fluoride	fluoride	dental fluorosis	dental fluorosis	can develop	
-V-589	children	children	fluorosis	fluorosis	exposed to too much fluoride can develop dental	
-V-589	phytonutrients	phytonutrients	bacteria	bacteria	are fighting back at plaque.if	
-V-589	dental	dental	plaque	plaque		
-V-589	plaque	plaque	teeth	teeth	is bacteria sticking to our	
-V-589	bacteria	bacteria	plaque	plaque	cause	
-V-589	green tea	green tea	cavities	cavities	also appears to help prevent	
-V-589	cranberry	cranberry	phytonutrients	phytonutrients		
-V-589	bacteria	bacteria	stomach	stomach	to the wall of the	
-V-589	phytonutrients	phytonutrients	bacteria	bacteria	may reduce adhesion of h. pylori	
-V-589	fluoride	fluoride	fluorosis	fluorosis	can develop dental	
-V-589	dental plaque	dental plaque	streptococcus mutans	streptococcus mutans	is bacteria sticking to our teeth—particularly	
-V-589	bacteria	bacteria	cavities	cavities	cause plaque and	
-V-589	cranberries	cranberries	bacteria	bacteria	are so good at keeping	
-V-589	plaque	plaque	cavities	cavities	.if bacteria cause plaque and	
-V-589	phytonutrients	phytonutrients	h. pylori	h. pylori	may reduce adhesion of	
-V-589	plaque	plaque	streptococcus mutans	streptococcus mutans	is bacteria sticking to our teeth—particularly	
-V-589	bacteria	bacteria	teeth	teeth	to fake	
-V-589	h. pylori	h. pylori	stomach	stomach	bacteria to the wall of the	
-V-589	bacteria	bacteria	streptococcus mutans	streptococcus mutans	sticking to our teeth—particularly	
-V-589	plaque	plaque	bacteria	bacteria	.if	
-V-589	dental plaque	dental plaque	bacteria	bacteria	is	
-V-589	bacteria	bacteria	teeth	teeth	sticking to our	
-V-589	fluoride	fluoride	teeth	teeth	can develop dental fluorosis—a mottled discoloration of the	
-V-589	teeth	teeth	streptococcus mutans	streptococcus mutans	—particularly	
-V-589	dental plaque	dental plaque	teeth	teeth	is bacteria sticking to our	
-V-589	barley	barley	plaque	plaque	coffee, or wine—have about ten times less of this	
-V-589	barley	barley	coffee	coffee		
-V-589	barley	barley	wine	wine	coffee, or	
-V-589	cranberries	cranberries	bacteria	bacteria	might affect the adhesion of	
-V-589	wine	wine	bacteria	bacteria	—have about ten times less of this plaque	
-V-589	dental	dental	streptococcus mutans	streptococcus mutans	plaque is bacteria sticking to our teeth—particularly	
-V-589	beverages	beverages	phytonutrients	phytonutrients	from plants, maybe	
-V-589	cranberry	cranberry	bacteria	bacteria	phytonutrients may reduce adhesion of h. pylori	
-V-589	cranberries	cranberries	teeth	teeth	might affect the adhesion of bacteria to fake	
-V-589	antiseptic	antiseptic	mouthwash	mouthwash		
-V-589	dental	dental	teeth	teeth	plaque is bacteria sticking to our	
-V-589	dental	dental	bacteria	bacteria	plaque is	
-V-589	beverages	beverages	plants	plants	from	
-V-589	wine	wine	plaque	plaque	—have about ten times less of this	
-V-589	dental	dental	fluorosis	fluorosis		

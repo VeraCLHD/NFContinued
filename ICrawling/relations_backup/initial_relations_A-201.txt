@@ -1,79 +1,12 @@
 
-A-201	heart disease	heart disease	fish	fish	just a “	
-A-201	fish	fish	pregnant	pregnant	fog), children (nerves of mercury), and	
-A-201	heart disease	heart disease	stroke	stroke	mortality, sudden cardiac death, heart attack, or	
-A-201	fish	fish	fish oil	fish oil	and particularly those supplied with	
-A-201	pollutants	pollutants	fish	fish	that concentrate in the	
-A-201	treatment	treatment	fish	fish	of heart disease just a “	
-A-201	fish	fish	mortality	mortality	had a 29% reduction in	
-A-201	pollutants	pollutants	fat	fat	that concentrate in the fish	
-A-201	fish	fish	fish oil	fish oil	or to take	
-A-201	heart disease	heart disease	fish oil	fish oil	ask their physicians about	
-A-201	fish oil	fish oil	heart disease	heart disease	supplementation for the prevention and treatment of	
-A-201	risk	risk	fish	fish	for heart disease ask their physicians about	
-A-201	american heart association	american heart association	supplements	supplements	advice to ask them about fish oil	
-A-201	fish	fish	prevention	prevention	oil supplementation for the	
-A-201	disease	disease	stroke	stroke	mortality, sudden cardiac death, heart attack, or	
-A-201	disease	disease	fish oil	fish oil	ask their physicians about	
-A-201	heart disease	heart disease	heart attack	heart attack	mortality, sudden cardiac death,	
-A-201	industrial pollutants	industrial pollutants	fish	fish	that concentrate in the	
-A-201	fish	fish	mercury	mercury	fog), children (nerves of	
-A-201	fish oil	fish oil	risk	risk	capsules had a higher	
-A-201	disease	disease	cardiac death	cardiac death	mortality, sudden	
-A-201	fish	fish	treatment	treatment	oil supplementation for the prevention and	
-A-201	fat	fat	fish oil	fish oil	(even in distilled	
-A-201	heart disease	heart disease	fish	fish	ask their physicians about	
-A-201	fish oil	fish oil	supplements	supplements		
-A-201	fish oil	fish oil	prevention	prevention	supplementation for the	
-A-201	treatment	treatment	heart disease	heart disease	of	
-A-201	risk	risk	fish oil	fish oil	for heart disease ask their physicians about	
-A-201	american heart association	american heart association	risk	risk	that individuals at high	
-A-201	prevention	prevention	fish	fish	and treatment of heart disease just a “	
-A-201	disease	disease	fish	fish	just a “	
-A-201	fish oil	fish oil	disease	disease	supplementation for the prevention and treatment of heart	
-A-201	industrial pollutants	industrial pollutants	fat	fat	that concentrate in the fish	
-A-201	prevention	prevention	disease	disease	and treatment of heart	
-A-201	heart disease	heart disease	cardiac death	cardiac death	mortality, sudden	
-A-201	prevention	prevention	heart disease	heart disease	and treatment of	
-A-201	doctors	doctors	fish oil	fish oil	should be to stop highly marketed	
-A-201	fat	fat	fish	fish	(even in distilled	
-A-201	fish oil	fish oil	snake oil	snake oil	just	
-A-201	risk	risk	death	death	of cardiac	
-A-201	disease	disease	death	death	mortality, sudden cardiac	
-A-201	fish	fish	children	children	fog),	
-A-201	fish oil	fish oil	treatment	treatment	supplementation for the prevention and	
 A-201	prevention	prevention	treatment	treatment	and	
-A-201	risk	risk	physicians	physicians	for heart disease ask their	
-A-201	disease	disease	fish	fish	ask their physicians about	
-A-201	heart disease	heart disease	death	death	mortality, sudden cardiac	
-A-201	american heart association	american heart association	disease	disease	that individuals at high risk for heart	
-A-201	american heart association	american heart association	fish	fish	advice to ask them about	
-A-201	american heart association	american heart association	fish oil	fish oil	advice to ask them about	
-A-201	physicians	physicians	fish	fish	about	
-A-201	heart disease	heart disease	physicians	physicians	ask their	
-A-201	physicians	physicians	fish oil	fish oil	about	
-A-201	children	children	pregnant	pregnant	(nerves of mercury), and	
-A-201	heart disease	heart disease	sudden cardiac death	sudden cardiac death	mortality,	
-A-201	mercury	mercury	pregnant	pregnant	), and	
-A-201	fish	fish	snake oil	snake oil	oil just	
-A-201	children	children	mercury	mercury	(nerves of	
-A-201	disease	disease	mortality	mortality		
 A-201	contaminants	contaminants	fish	fish	are found in the	
-A-201	fish oil	fish oil	fish	fish	supplementation,	
-A-201	fish oil	fish oil	death	death	capsules had a higher risk of cardiac	
-A-201	fish	fish	supplements	supplements	oil	
-A-201	treatment	treatment	disease	disease	of heart	
-A-201	meta-analysis	meta-analysis	american medical association	american medical association	published in the journal of the	
-A-201	disease	disease	heart attack	heart attack	mortality, sudden cardiac death,	
-A-201	fish	fish	fish oil	fish oil	oil supplementation,	
-A-201	heart disease	heart disease	mortality	mortality		
-A-201	risk	risk	disease	disease	for heart	
-A-201	disease	disease	sudden cardiac death	sudden cardiac death	mortality,	
-A-201	american heart association	american heart association	heart disease	heart disease	that individuals at high risk for	
-A-201	fish oil	fish oil	cardiac death	cardiac death	capsules had a higher risk of	
+A-201	fish	fish	mortality	mortality	had a 29% reduction in	
+A-201	heart disease	heart disease	physicians	physicians	ask their	
 A-201	disease	disease	physicians	physicians	ask their	
-A-201	risk	risk	heart disease	heart disease	for	
 A-201	risk	risk	cardiac death	cardiac death	of	
 A-201	doctors	doctors	american heart association	american heart association	say when their patients follow the	
 A-201	doctors	doctors	fish	fish	should be to stop highly marketed	
-A-201	fish	fish	heart disease	heart disease	oil supplementation for the prevention and treatment of	
+A-201	meta-analysis	meta-analysis	american medical association	american medical association	published in the journal of the	
+A-201	doctors	doctors	fish oil	fish oil	should be to stop highly marketed	
+A-201	treatment	treatment	heart disease	heart disease	of	

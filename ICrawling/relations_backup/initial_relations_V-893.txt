@@ -1,46 +1,6 @@
 
-V-893	cold	cold	sausage	sausage	cuts, veggie	
-V-893	atkins diet	atkins diet	protein	protein	wasn’t that it was high-fat, high-	
-V-893	soy	soy	cold	cold	burgers, veggie bacon, veggie	
-V-893	soy	soy	burgers	burgers		
-V-893	low-carb diets	low-carb diets	cardiovascular disease	cardiovascular disease	were associated with higher all-cause mortality, higher	
-V-893	soy	soy	veggie bacon	veggie bacon	burgers,	
-V-893	women	women	cancer	cancer	on low-carb diets lead significantly shorter lives; more	
-V-893	eco-atkins	eco-atkins	diet	diet	”	
-V-893	atkins diet	atkins diet	fat	fat	wasn’t that it was high-	
-V-893	soy	soy	bacon	bacon	burgers, veggie	
-V-893	cold	cold	nuts	nuts	cuts, veggie sausage, tofu, lot of	
-V-893	disease	disease	cancer	cancer	mortality, and higher	
-V-893	cholesterol	cholesterol	atkins	atkins	going up, like it does on a meat-based	
-V-893	cardiovascular disease	cardiovascular disease	mortality	mortality		
-V-893	lead	lead	cancer	cancer	significantly shorter lives; more	
-V-893	soy	soy	sausage	sausage	burgers, veggie bacon, veggie cold cuts, veggie	
-V-893	cold	cold	tofu	tofu	cuts, veggie sausage,	
-V-893	carbs	carbs	protein	protein	to	
-V-893	vegan	vegan	diet	diet	version of the atkins	
-V-893	cancer	cancer	mortality	mortality		
-V-893	low-carb diets	low-carb diets	disease	disease	were associated with higher all-cause mortality, higher cardiovascular	
-V-893	women	women	lead	lead	on low-carb diets	
-V-893	cardiovascular disease	cardiovascular disease	cancer	cancer	mortality, and higher	
-V-893	disease	disease	mortality	mortality		
-V-893	cold	cold	avocado	avocado	cuts, veggie sausage, tofu, lot of nuts,	
-V-893	diet	diet	mortality	mortality	was associated with lower all-cause and cardiovascular disease	
-V-893	vegan	vegan	atkins diet	atkins diet	version of the	
-V-893	mortality	mortality	atkins	atkins	as the	
-V-893	low-carb diets	low-carb diets	mortality	mortality	were associated with higher all-cause	
-V-893	mortality	mortality	diet	diet	rate of the typical	
-V-893	mortality	mortality	diet	diet	.they concluded: “a low-carbohydrate	
-V-893	women	women	low-carb diets	low-carb diets	on	
-V-893	atkins	atkins	diet	diet		
-V-893	fat	fat	carbs	carbs	to	
-V-893	bad cholesterol	bad cholesterol	atkins	atkins	going up, like it does on a meat-based	
-V-893	low-carb diets	low-carb diets	cancer	cancer	lead significantly shorter lives; more	
-V-893	low-carb diets	low-carb diets	mortality	mortality	and all-cause and cause-specific	
-V-893	low-carb diets	low-carb diets	lead	lead		
 V-893	diet	diet	atkins	atkins	.they figured that maybe the problem with the	
-V-893	atkins	atkins	diet	diet	”	
-V-893	vegan	vegan	atkins	atkins	version of the	
-V-893	fat	fat	protein	protein	to carbs to	
-V-893	soy	soy	tofu	tofu	burgers, veggie bacon, veggie cold cuts, veggie sausage,	
-V-893	diet	diet	risk	risk	: significantly higher	
-V-893	harvard	harvard	low-carb diets	low-carb diets	decided to look at 100,000 people: “	
+V-893	low-carb diets	low-carb diets	mortality	mortality	were associated with higher all-cause	
+V-893	mortality	mortality	diet	diet	.they concluded: “a low-carbohydrate	
+V-893	atkins diet	atkins diet	fat	fat	wasn’t that it was high-	
+V-893	diet	diet	mortality	mortality	based on animal sources was associated with higher all-cause	

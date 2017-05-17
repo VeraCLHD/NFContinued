@@ -1,37 +1,11 @@
 
+V-423	chicken	chicken	pork	pork	and	
 V-423	smoking	smoking	lung cancer	lung cancer	and	
 V-423	beans	beans	roasted	roasted	are	
-V-423	meat	meat	fish	fish	: beef, chicken and pork—and	
+V-423	harmane	harmane	neurotoxins	neurotoxins	is one of the most potent of the tremor-producing	
 V-423	chemicals	chemicals	beta-carboline alkaloids	beta-carboline alkaloids	called	
-V-423	chicken	chicken	cigarettes	cigarettes	breast has about 13 micrograms, and	
-V-423	essential tremor	essential tremor	cancer	cancer	and	
-V-423	essential tremor	essential tremor	plants	plants	sufferers.harmane is also found in certain heated	
-V-423	essential tremor	essential tremor	harmane	harmane	sufferers.	
-V-423	coffee	coffee	roasted	roasted	beans are	
-V-423	pork	pork	fish	fish	—and	
-V-423	fat	fat	harmane	harmane	solubility,	
-V-423	essential tremor	essential tremor	harmane	harmane	and cancer, suggesting	
-V-423	smoking	smoking	cancer	cancer	and lung	
-V-423	brains	brains	harmane	harmane	of essential tremor sufferers.	
-V-423	brains	brains	essential tremor	essential tremor	of	
-V-423	stomach	stomach	enzymes	enzymes	and most importantly, bypassing the detoxifying	
-V-423	stomach	stomach	detoxifying enzymes	detoxifying enzymes	and most importantly, bypassing the	
-V-423	risk	risk	tobacco	tobacco	(and neither has	
-V-423	salmon	salmon	chicken	chicken	can have as much as	
-V-423	tobacco	tobacco	coffee	coffee	is burned, and also when	
-V-423	tobacco	tobacco	beans	beans	is burned, and also when coffee	
-V-423	beans	beans	coffee	coffee	are roasted, though	
-V-423	meat	meat	pork	pork	: beef, chicken and	
-V-423	mouth	mouth	stomach	stomach	straight in the bloodstream, bypassing the	
-V-423	chicken	chicken	pork	pork	and	
-V-423	enzymes	enzymes	liver	liver	of the	
-V-423	meat	meat	chicken	chicken	: beef,	
-V-423	beta-carboline alkaloids	beta-carboline alkaloids	harmane	harmane	such as harman, also spelled	
-V-423	coffee	coffee	beans	beans		
-V-423	tobacco	tobacco	roasted	roasted	is burned, and also when coffee beans are	
-V-423	chemicals	chemicals	harmane	harmane	called beta-carboline alkaloids such as harman, also spelled	
 V-423	risk	risk	essential tremor	essential tremor	of	
-V-423	salmon	salmon	pork	pork	can have as much as chicken, though fried	
-V-423	detoxifying enzymes	detoxifying enzymes	liver	liver	of the	
-V-423	meats	meats	meat	meat	are the major source of exposure, but which	
-V-423	chicken	chicken	fish	fish	and pork—and	
+V-423	essential tremor	essential tremor	cancer	cancer	and	
+V-423	salmon	salmon	chicken	chicken	can have as much as	
+V-423	disease	disease	neurotoxins	neurotoxins	including difficulty walking and various levels of cognitive impairment.might those beta-carboline	
+V-423	brains	brains	essential tremor	essential tremor	of	

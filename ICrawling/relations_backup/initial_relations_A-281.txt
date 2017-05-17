@@ -1,144 +1,21 @@
 
-A-281	estrogen	estrogen	gut	gut	metabolism, likely due to modulating women’s	
-A-281	women	women	gut	gut	’s	
-A-281	estrogen	estrogen	breast cancer	breast cancer	we have in our system, which may lower	
-A-281	diet	diet	wakame	wakame	: the seaweed used fresh in seaweed salads,	
-A-281	seaweed	seaweed	risk	risk	of any type may actually increase our	
-A-281	seaweed	seaweed	estrogen	estrogen	may somehow interfere with	
-A-281	fiber	fiber	vegetables	vegetables	in sea	
-A-281	wakame	wakame	blood	blood	consumption has, however, been found to lower	
-A-281	thyroid cancer	thyroid cancer	iodine	iodine	because of the amount of	
-A-281	breast cancer	breast cancer	risk	risk		
-A-281	cancer	cancer	women	women	to	
-A-281	variety	variety	anti-inflammation	anti-inflammation		
-A-281	blood	blood	blood pressure	blood pressure	pressure in hypertensives (people with high	
-A-281	women	women	risk	risk	’s gut flora, resulting in decreased breast cancer	
-A-281	women	women	breast cancer	breast cancer	’s gut flora, resulting in decreased	
-A-281	green tea	green tea	seaweed	seaweed	consumption, perhaps eating more mushrooms and	
-A-281	wakame	wakame	blood pressure	blood pressure	consumption has, however, been found to lower	
 A-281	asian women	asian women	breast cancer	breast cancer	have less	
-A-281	risk	risk	cancer	cancer	for thyroid	
-A-281	seaweed	seaweed	gut flora	gut flora	may favorably alter estrogen metabolism by modulating women’s	
-A-281	estrogen	estrogen	metabolism	metabolism		
-A-281	women	women	cancer	cancer	’s gut flora, resulting in decreased breast	
-A-281	plants	plants	beets	beets	—such as	
-A-281	tea	tea	mushrooms	mushrooms	consumption, perhaps eating more	
-A-281	breast cancer survival	breast cancer survival	soy	soy	and	
-A-281	seaweed	seaweed	blood pressure	blood pressure	salad a day for a month dropped people’s	
-A-281	metabolism	metabolism	breast cancer	breast cancer	by modulating women’s gut flora, resulting in decreased	
-A-281	seaweed	seaweed	women	women	favorably alters estrogen metabolism, likely due to modulating	
-A-281	beets	beets	beet greens	beet greens	and	
-A-281	cancer	cancer	chemotherapy	chemotherapy	exposed to either a widely used	
-A-281	breast cancer	breast cancer	salads	salads	through diet: the seaweed used fresh in seaweed	
-A-281	metabolism	metabolism	women	women	by modulating	
-A-281	gut	gut	cancer	cancer	flora, resulting in decreased breast	
-A-281	fruits	fruits	vegetables	vegetables	and	
-A-281	gut	gut	risk	risk	flora, resulting in decreased breast cancer	
-A-281	seaweed	seaweed	estrogen	estrogen	favorably alters	
 A-281	women	women	japan	japan	living in	
-A-281	seaweed	seaweed	cancer cells	cancer cells	broth is effective at clearing	
-A-281	nori	nori	women	women	a day, but american	
-A-281	estrogen	estrogen	asian	asian	levels,	
-A-281	seaweed	seaweed	metabolism	metabolism	favorably alters estrogen	
-A-281	thyroid	thyroid	cancer	cancer		
-A-281	green tea	green tea	mushrooms	mushrooms	consumption, perhaps eating more	
-A-281	estrogen	estrogen	gut flora	gut flora	metabolism by modulating women’s	
-A-281	variety	variety	apples	apples	anti-inflammation,	
-A-281	breast cancer	breast cancer	diet	diet	through	
-A-281	seaweed	seaweed	wakame	wakame	used fresh in seaweed salads,	
-A-281	blood	blood	high blood pressure	high blood pressure	pressure in hypertensives (people with	
-A-281	diet	diet	salads	salads	: the seaweed used fresh in seaweed	
-A-281	arsenic	arsenic	iodine	iodine	(see avoiding	
-A-281	phytonutrients	phytonutrients	fiber	fiber	found nowhere else, special types of	
-A-281	estrogen	estrogen	flora	flora	metabolism by modulating women’s gut	
-A-281	seaweed	seaweed	blood	blood	salad a day for a month dropped people’s	
-A-281	women	women	gut flora	gut flora	’s	
-A-281	japanese	japanese	women	women		
-A-281	asian	asian	breast cancer	breast cancer	diets have westernized,	
-A-281	metabolism	metabolism	flora	flora	by modulating women’s gut	
-A-281	soy	soy	green tea	green tea	and	
-A-281	arsenic	arsenic	kelp	kelp	(see avoiding iodine deficiency), and	
-A-281	fiber	fiber	sea vegetables	sea vegetables	in	
-A-281	gut	gut	bacteria	bacteria		
-A-281	asian women	asian women	cancer	cancer	have less breast	
-A-281	breast cancer	breast cancer	seaweed	seaweed	through diet: the	
-A-281	blood	blood	wakame	wakame	pressure 14 points, and two months of	
-A-281	estrogen	estrogen	gut bacteria	gut bacteria	metabolism, likely due to modulating women’s	
-A-281	breast cancer	breast cancer	chemotherapy	chemotherapy	exposed to either a widely used	
-A-281	kale	kale	vegetables	vegetables	chips, munchies made out of dark green leafy	
-A-281	iodine	iodine	kelp	kelp	deficiency), and	
-A-281	breast cancer	breast cancer	soy	soy	survival and	
-A-281	estrogen	estrogen	bacteria	bacteria	metabolism, likely due to modulating women’s gut	
-A-281	fruits	fruits	plants	plants	and vegetables, eating different parts of individual	
 A-281	seaweed	seaweed	estrogen	estrogen	may favorably alter	
-A-281	women	women	cancer	cancer	with breast	
-A-281	cancer	cancer	seaweed	seaweed	through diet: the	
-A-281	estrogen	estrogen	women	women	metabolism by modulating	
-A-281	metabolism	metabolism	gut	gut	by modulating women’s	
-A-281	seaweed	seaweed	salads	salads	used fresh in seaweed	
-A-281	seaweed	seaweed	metabolism	metabolism	may favorably alter estrogen	
-A-281	tea	tea	seaweed	seaweed	consumption, perhaps eating more mushrooms and	
-A-281	cancer	cancer	diet	diet	through	
-A-281	women	women	breast cancer	breast cancer	with	
-A-281	nori	nori	seaweed	seaweed		
-A-281	risk	risk	iodine	iodine	for thyroid cancer because of the amount of	
-A-281	seaweed	seaweed	snacks	snacks		
-A-281	cancer	cancer	soy	soy	survival and	
-A-281	fiber	fiber	seaweed	seaweed	in sea vegetables, or because	
-A-281	soy	soy	mushrooms	mushrooms	and green tea consumption, perhaps eating more	
-A-281	beets	beets	greens	greens	and beet	
-A-281	seaweed	seaweed	cancer	cancer	is most protective against breast	
-A-281	women	women	bacteria	bacteria	’s gut	
-A-281	seaweed	seaweed	women	women	may favorably alter estrogen metabolism by modulating	
-A-281	seaweed	seaweed	cancer	cancer	broth is effective at clearing	
-A-281	estrogen	estrogen	gut	gut	metabolism by modulating women’s	
-A-281	women	women	gut bacteria	gut bacteria	’s	
-A-281	cancer survival	cancer survival	soy	soy	and	
-A-281	risk	risk	thyroid	thyroid	for	
-A-281	vegetables	vegetables	fiber	fiber	have phytonutrients found nowhere else, special types of	
-A-281	risk	risk	thyroid cancer	thyroid cancer	for	
-A-281	sea vegetables	sea vegetables	phytonutrients	phytonutrients	have	
-A-281	asian	asian	cancer	cancer	women have less breast	
-A-281	diet	diet	seaweed	seaweed	: the	
-A-281	blood pressure	blood pressure	wakame	wakame	14 points, and two months of	
-A-281	estrogen	estrogen	women	women	metabolism, likely due to modulating	
-A-281	estrogen	estrogen	women	women	levels, asian	
-A-281	cancer	cancer	fiber	fiber	protection may be because of all the	
-A-281	seaweed	seaweed	estrogen	estrogen	we eat, the less	
-A-281	cancer	cancer	iodine	iodine	because of the amount of	
-A-281	kale	kale	leafy vegetables	leafy vegetables	chips, munchies made out of dark green	
-A-281	nori	nori	women	women	seaweed may favorably alter estrogen metabolism by modulating	
-A-281	asian	asian	women	women		
-A-281	seaweed	seaweed	risk	risk	eaters in california actually found decreased	
-A-281	blood pressure	blood pressure	high blood pressure	high blood pressure	in hypertensives (people with	
-A-281	japanese	japanese	asian	asian	women, check out why do	
-A-281	women	women	flora	flora	’s gut	
-A-281	cancer	cancer	risk	risk		
-A-281	breast cancer	breast cancer	women	women	to	
-A-281	estrogen	estrogen	asian women	asian women	levels,	
+A-281	soy	soy	green tea	green tea	and	
+A-281	seaweed	seaweed	estrogen	estrogen	may somehow interfere with	
+A-281	breast cancer survival	breast cancer survival	soy	soy	and	
+A-281	asian women	asian women	nori	nori	may be able to get away with about one sheet of	
+A-281	fiber	fiber	sea vegetables	sea vegetables	in	
 A-281	apples	apples	oranges	oranges	and	
-A-281	asian	asian	cancer	cancer	diets have westernized, breast	
-A-281	japanese	japanese	asian women	asian women	women, check out why do	
-A-281	seaweed	seaweed	gut	gut	may favorably alter estrogen metabolism by modulating women’s	
-A-281	gut	gut	flora	flora		
-A-281	japanese	japanese	japan	japan	women living in	
-A-281	nori	nori	breast cancer	breast cancer	a day may cut a woman’s odds of	
-A-281	blood pressure	blood pressure	blood	blood	in hypertensives (people with high	
-A-281	metabolism	metabolism	gut flora	gut flora	by modulating women’s	
-A-281	plants	plants	greens	greens	—such as beets and beet	
-A-281	seaweed	seaweed	california	california	eaters in	
-A-281	plants	plants	beet greens	beet greens	—such as beets and	
-A-281	thyroid	thyroid	iodine	iodine	cancer because of the amount of	
-A-281	gut	gut	breast cancer	breast cancer	flora, resulting in decreased	
-A-281	nori	nori	estrogen	estrogen	seaweed may favorably alter	
-A-281	breast cancer	breast cancer	fiber	fiber	protection may be because of all the	
-A-281	nori	nori	metabolism	metabolism	seaweed may favorably alter estrogen	
+A-281	women	women	nori	nori	may be able to get away with about one sheet of	
+A-281	beets	beets	beet greens	beet greens	and	
 A-281	seaweed	seaweed	breast cancer	breast cancer	is most protective against	
-A-281	variety	variety	oranges	oranges	anti-inflammation, apples and	
+A-281	cancer	cancer	chemotherapy	chemotherapy	exposed to either a widely used	
+A-281	cancer survival	cancer survival	soy	soy	and	
+A-281	seaweed	seaweed	hormones	hormones	may block the enzyme that undermines our body’s attempt to flush out excess	
 A-281	vegetables	vegetables	phytonutrients	phytonutrients	have	
-A-281	asian	asian	breast cancer	breast cancer	women have less	
-A-281	cancer	cancer	salads	salads	through diet: the seaweed used fresh in seaweed	
-A-281	sea vegetables	sea vegetables	fiber	fiber	have phytonutrients found nowhere else, special types of	
-A-281	california	california	risk	risk	actually found decreased	
+A-281	fruits	fruits	vegetables	vegetables	and	
+A-281	sea vegetables	sea vegetables	phytonutrients	phytonutrients	have	
 A-281	mushrooms	mushrooms	seaweed	seaweed	and	
-A-281	soy	soy	tea	tea	and green	
+A-281	breast cancer	breast cancer	chemotherapy	chemotherapy	exposed to either a widely used	

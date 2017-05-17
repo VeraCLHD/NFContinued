@@ -1,44 +1,9 @@
 
-V-658	fructose	fructose	corn	corn		
-V-658	corn syrup	corn syrup	fructose	fructose	are both about half	
-V-658	gout	gout	women	women	in men, and the risk of gout in	
-V-658	risk	risk	prediabetes	prediabetes	of hypertension, obesity,	
-V-658	bacon	bacon	poultry	poultry	and brains, to fish,	
-V-658	high fructose corn syrup	high fructose corn syrup	fructose	fructose	are both about half	
-V-658	high fructose corn syrup	high fructose corn syrup	uric acid	uric acid	are both about half fructose—which leads to	
-V-658	uric acid	uric acid	purines	purines	levels:	
-V-658	corn	corn	fructose	fructose	syrup are both about half	
-V-658	uric acid	uric acid	meat	meat	levels: purines and fructose, which means mostly	
-V-658	risk	risk	hypertension	hypertension	of	
-V-658	sugar	sugar	corn	corn	and high fructose	
 V-658	meat	meat	sugar	sugar	and	
-V-658	sugar	sugar	fructose	fructose	and high	
+V-658	sugar	sugar	blood	blood	helps the	
+V-658	risk	risk	gout	gout	of	
 V-658	purines	purines	fructose	fructose	and	
+V-658	bacon	bacon	brains	brains	and	
 V-658	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
 V-658	sugar	sugar	blood pressure	blood pressure	helps the	
-V-658	uric acid	uric acid	fructose	fructose	levels: purines and	
-V-658	bacon	bacon	fish	fish	and brains, to	
-V-658	risk	risk	disease	disease	of hypertension, obesity, prediabetes, diabetes, kidney	
-V-658	risk	risk	diabetes	diabetes	of hypertension, obesity, prediabetes,	
-V-658	blood	blood	risk	risk	pressure go up, along with the	
-V-658	gout	gout	risk	risk	in men, and the	
-V-658	purines	purines	sugar	sugar	and fructose, which means mostly meat and	
-V-658	risk	risk	kidney disease	kidney disease	of hypertension, obesity, prediabetes, diabetes,	
-V-658	risk	risk	obesity	obesity	of hypertension,	
-V-658	risk	risk	cardiovascular disease	cardiovascular disease	of hypertension, obesity, prediabetes, diabetes, kidney disease, and	
-V-658	sugar	sugar	blood	blood	helps the	
-V-658	risk	risk	kidney	kidney	of hypertension, obesity, prediabetes, diabetes,	
-V-658	kidney	kidney	cardiovascular disease	cardiovascular disease	disease, and	
-V-658	blood pressure	blood pressure	gout	gout	go up, along with the risk of	
-V-658	purines	purines	meat	meat	and fructose, which means mostly	
-V-658	fructose	fructose	corn syrup	corn syrup		
-V-658	kidney	kidney	disease	disease		
-V-658	bacon	bacon	shrimp	shrimp	and brains, to fish, poultry,	
-V-658	bacon	bacon	veal	veal	and brains, to fish, poultry, shrimp, and	
-V-658	corn	corn	uric acid	uric acid	syrup are both about half fructose—which leads to	
-V-658	risk	risk	gout	gout	of	
-V-658	bacon	bacon	brains	brains	and	
-V-658	sugar	sugar	corn syrup	corn syrup	and high fructose	
-V-658	corn syrup	corn syrup	uric acid	uric acid	are both about half fructose—which leads to	
-V-658	blood	blood	gout	gout	pressure go up, along with the risk of	
-V-658	blood pressure	blood pressure	risk	risk	go up, along with the	
+V-658	risk	risk	hypertension	hypertension	of	

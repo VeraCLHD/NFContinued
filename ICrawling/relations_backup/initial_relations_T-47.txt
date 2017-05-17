@@ -1,37 +1,8 @@
 
-T-47	algae	algae	epa	epa	-based	
+T-47	neurotoxins	neurotoxins	hepatotoxins	hepatotoxins	and	
 T-47	supplements	supplements	neurotoxins	neurotoxins	have been found to contain	
-T-47	algae	algae	dha	dha	-based epa and	
+T-47	algae	algae	dha	dha	based	
 T-47	variety	variety	dairy	dairy	of	
 T-47	algae	algae	spirulina	spirulina	and	
-T-47	pollution	pollution	algae	algae	that causes	
-T-47	algae	algae	neurotoxins	neurotoxins	and spirulina supplements have been found to contain	
-T-47	contaminants	contaminants	fish oil	fish oil	(even in distilled	
-T-47	contaminants	contaminants	fish	fish	(even in distilled	
-T-47	spirulina	spirulina	supplements	supplements		
-T-47	algae	algae	bmaa	bmaa	blooms may increase exposure to the neurotoxin,	
-T-47	supplements	supplements	children	children	for	
-T-47	children	children	salmon	salmon	), which are present in even organic farmed	
-T-47	spirulina	spirulina	hepatotoxins	hepatotoxins	supplements have been found to contain neurotoxins and	
-T-47	fat	fat	dairy	dairy	substitute in a variety of	
-T-47	dha	dha	algae	algae	are procured from toxin-free	
-T-47	fat	fat	variety	variety	substitute in a	
-T-47	hepatitis	hepatitis	carrageenan	carrageenan	c.	
-T-47	neurotoxins	neurotoxins	hepatotoxins	hepatotoxins	and	
-T-47	hepatitis	hepatitis	seaweed	seaweed	c. carrageenan, from a type of red	
-T-47	algae	algae	supplements	supplements	and spirulina	
-T-47	chlorella	chlorella	carrageenan	carrageenan	may have anti-virus effects that combat hepatitis c.	
-T-47	children	children	organic	organic	), which are present in even	
-T-47	spirulina	spirulina	neurotoxins	neurotoxins	supplements have been found to contain	
-T-47	algae	algae	dha	dha	based	
-T-47	variety	variety	intestinal inflammation	intestinal inflammation	of dairy and nondairy products, and may cause	
-T-47	supplements	supplements	organic	organic	for children), which are present in even	
-T-47	epa	epa	algae	algae	and dha are procured from toxin-free	
 T-47	epa	epa	dha	dha	and	
-T-47	dairy	dairy	inflammation	inflammation	and nondairy products, and may cause intestinal	
-T-47	als	als	disease	disease	(lou gehrig’s	
-T-47	organic	organic	salmon	salmon	farmed	
-T-47	dairy	dairy	intestinal inflammation	intestinal inflammation	and nondairy products, and may cause	
-T-47	contaminants	contaminants	supplements	supplements	(even in distilled fish oil and fish oil	
-T-47	supplements	supplements	hepatotoxins	hepatotoxins	have been found to contain neurotoxins and	
-T-47	chlorella	chlorella	hepatitis	hepatitis	may have anti-virus effects that combat	
+T-47	dha	dha	algae	algae	are procured from toxin-free	

@@ -1,61 +1,13 @@
 
-A-399	nitrites	nitrites	botulism	botulism	go bad, bacon and	
-A-399	cancer	cancer	women	women	a year striking men,	
-A-399	saturated animal fat	saturated animal fat	disease	disease	and cholesterol may still contribute to heart	
-A-399	centers for disease control and prevention	centers for disease control and prevention	pollutants	pollutants	measures the levels of chemical	
-A-399	toxins	toxins	water	water	from our food,	
-A-399	animal fat	animal fat	disease	disease	and cholesterol may still contribute to heart	
-A-399	livestock	livestock	hormones	hormones	 growth	
-A-399	national cancer institute	national cancer institute	cancer	cancer	on reducing environmental	
 A-399	bacon	bacon	botulism	botulism	and	
-A-399	cancer	cancer	cancer	cancer	panel report from the national	
-A-399	animal fat	animal fat	heart disease	heart disease	and cholesterol may still contribute to	
-A-399	fat	fat	heart disease	heart disease	and cholesterol may still contribute to	
-A-399	bacon	bacon	prevention	prevention	and botulism, and 	
-A-399	environmental cancer	environmental cancer	risk	risk		
-A-399	carcinogens	carcinogens	water	water	and other toxins from our food,	
-A-399	chemical pollutants	chemical pollutants	americans	americans	in the bodies of thousands of	
-A-399	cholesterol	cholesterol	disease	disease	may still contribute to heart	
-A-399	pcb	pcb	chemical pollutants	chemical pollutants		
-A-399	livestock	livestock	feed additives	feed additives	 growth hormones and 	
-A-399	u.s. centers for disease control and prevention	u.s. centers for disease control and prevention	pollutants	pollutants	measures the levels of chemical	
-A-399	nitrites	nitrites	bacon	bacon	go bad, 	
-A-399	heart disease	heart disease	atherosclerosis	atherosclerosis	(as evidenced by	
-A-399	fat	fat	disease	disease	and cholesterol may still contribute to heart	
-A-399	pcb	pcb	dioxins	dioxins	chemical pollutants and 	
-A-399	growth hormones	growth hormones	feed additives	feed additives	 and 	
 A-399	centers for disease control and prevention	centers for disease control and prevention	chemical pollutants	chemical pollutants	measures the levels of	
 A-399	carcinogens	carcinogens	cancer	cancer	has not been addressed adequately by the national	
-A-399	disease	disease	pollutants	pollutants	control and prevention measures the levels of chemical	
+A-399	animal fat	animal fat	cholesterol	cholesterol	and	
+A-399	saturated animal fat	saturated animal fat	cholesterol	cholesterol	and	
 A-399	cholesterol	cholesterol	heart disease	heart disease	may still contribute to	
-A-399	organic	organic	pesticides	pesticides	foods include can	
-A-399	saturated animal fat	saturated animal fat	heart disease	heart disease	and cholesterol may still contribute to	
-A-399	chemical pollutants	chemical pollutants	dioxins	dioxins	 and 	
-A-399	hormones	hormones	feed additives	feed additives	 and 	
+A-399	organic foods	organic foods	pesticides	pesticides	include can	
 A-399	u.s. centers for disease control and prevention	u.s. centers for disease control and prevention	chemical pollutants	chemical pollutants	measures the levels of	
 A-399	meat	meat	medications	medications	raised without these	
-A-399	carcinogens	carcinogens	toxins	toxins	and other	
-A-399	pcb	pcb	pollutants	pollutants	chemical	
-A-399	disease	disease	atherosclerosis	atherosclerosis	(as evidenced by	
-A-399	disease	disease	chemical pollutants	chemical pollutants	control and prevention measures the levels of	
-A-399	national cancer institute	national cancer institute	risk	risk	on reducing environmental cancer	
-A-399	fat	fat	cholesterol	cholesterol	and	
-A-399	livestock	livestock	growth hormones	growth hormones	 	
-A-399	prevention	prevention	chemical pollutants	chemical pollutants	measures the levels of	
-A-399	pollutants	pollutants	americans	americans	in the bodies of thousands of	
-A-399	national cancer institute	national cancer institute	environmental cancer	environmental cancer	on reducing	
-A-399	animal fat	animal fat	cholesterol	cholesterol	and	
-A-399	cancer	cancer	children	children	a year striking men, women, and	
-A-399	bacon	bacon	meat	meat	and botulism, and prevention is better than cured	
 A-399	prevention	prevention	meat	meat	is better than cured	
-A-399	meats	meats	heterocyclic amines	heterocyclic amines	will reduce exposure to carcinogenic	
-A-399	pollutants	pollutants	dioxins	dioxins	 and 	
-A-399	organic	organic	pesticides	pesticides	and free-range: “exposure to	
-A-399	saturated animal fat	saturated animal fat	cholesterol	cholesterol	and	
-A-399	cancer	cancer	national cancer institute	national cancer institute	panel report from the	
-A-399	organic foods	organic foods	pesticides	pesticides	include can	
-A-399	cancer	cancer	berries	berries	fighting	
-A-399	nitrites	nitrites	prevention	prevention	go bad, bacon and botulism, and 	
-A-399	livestock	livestock	meat	meat	feed lots can be minimized by eating free-range	
-A-399	prevention	prevention	pollutants	pollutants	measures the levels of chemical	
-A-399	disease	disease	prevention	prevention	control and	
+A-399	fat	fat	cholesterol	cholesterol	and	
+A-399	prevention	prevention	chemical pollutants	chemical pollutants	measures the levels of	

@@ -1,17 +1,7 @@
 
-A-91	mothers	mothers	children	children	of chronically ill	
-A-91	telomeres	telomeres	aging	aging	) appears to slow the	
-A-91	children	children	telomeres	telomeres	may grow up with shorter	
-A-91	ornish	ornish	aging	aging	study: research into reversing	
-A-91	dementia	dementia	meditation	meditation	were randomized to just 12 minutes of daily	
-A-91	telomerase	telomerase	aging	aging	activity, suggesting an improvement in stress-induced cellular	
-A-91	stress	stress	dna	dna	… causes the	
 A-91	meditation	meditation	aging	aging	affect cellular	
-A-91	telomerase	telomerase	telomeres	telomeres	activity (the enzyme that restores our	
-A-91	telomeres	telomeres	diet	diet	– cap it all off with	
-A-91	shortening	shortening	mothers	mothers	in the most stressed	
+A-91	mothers	mothers	aging	aging	was equivalent to that caused by at least a decade of	
+A-91	children	children	telomeres	telomeres	may grow up with shorter	
 A-91	stress	stress	telomeres	telomeres	now, can we grow some	
-A-91	exercise	exercise	telomeres	telomeres	in my video	
-A-91	diet	diet	telomeres	telomeres	and exercise in my video	
-A-91	aromatherapy	aromatherapy	stress	stress	and other modalities to help deal with	
+A-91	dementia	dementia	meditation	meditation	were randomized to just 12 minutes of daily	
 A-91	diet	diet	exercise	exercise	and	

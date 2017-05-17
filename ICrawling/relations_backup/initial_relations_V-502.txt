@@ -1,36 +1,8 @@
 
-V-502	antibiotics	antibiotics	manure	manure	and antibiotic-resistant bacteria-laden chicken	
-V-502	meat	meat	salmonella	salmonella	report, more than a quarter of the	
-V-502	organic	organic	chicken	chicken	and conventional retail	
-V-502	antibiotics	antibiotics	organic	organic	on	
-V-502	salmonella	salmonella	children	children	infections in	
-V-502	bacteria	bacteria	organic	organic	come from, if they’re not using antibiotics on	
-V-502	infections	infections	children	children	in	
-V-502	fda	fda	meat	meat	retail	
-V-502	organic	organic	chickens	chickens		
-V-502	bacteria	bacteria	organic	organic	in	
-V-502	organic	organic	meat	meat	chicken	
-V-502	organic	organic	meat	meat	and conventional retail chicken	
-V-502	penicillin	penicillin	drugs	drugs	), but resistance to multiple classes of	
-V-502	salmonella	salmonella	chicken	chicken	found contaminating retail	
-V-502	meat	meat	bacteria	bacteria	raised without antibiotics may be contaminated with multidrug-resistant	
-V-502	bugs	bugs	drugs	drugs	versus	
-V-502	bacteria	bacteria	penicillin	penicillin	developed an enzyme that ate	
-V-502	salmonella	salmonella	infections	infections		
-V-502	bacteria	bacteria	chicken	chicken	in organic and conventional retail	
-V-502	bacteria	bacteria	antibiotics	antibiotics	come from, if they’re not using	
-V-502	antibiotics	antibiotics	bacteria	bacteria	may be contaminated with multidrug-resistant	
-V-502	surgeon general	surgeon general	infectious diseases	infectious diseases	declared, “the war against	
-V-502	antibiotics	antibiotics	environment	environment	and antibiotic-resistant bacteria-laden chicken manure out into the	
-V-502	antibiotics	antibiotics	chicken	chicken	and antibiotic-resistant bacteria-laden	
-V-502	drugs	drugs	penicillin	penicillin	(like	
 V-502	meat	meat	antibiotics	antibiotics	raised without	
-V-502	chicken	chicken	manure	manure		
-V-502	bacteria	bacteria	breakfast	breakfast	developed an enzyme that ate penicillin for	
-V-502	chicken	chicken	environment	environment	manure out into the	
-V-502	penicillin	penicillin	breakfast	breakfast	for	
-V-502	chicken	chicken	meat	meat		
-V-502	manure	manure	environment	environment	out into the	
-V-502	chicken	chicken	meat	meat	carcasses, or retail chicken	
-V-502	organic	organic	chicken	chicken		
-V-502	bacteria	bacteria	meat	meat	in organic and conventional retail chicken	
+V-502	bacteria	bacteria	organic	organic	in	
+V-502	bacteria	bacteria	penicillin	penicillin	developed an enzyme that ate	
+V-502	antibiotics	antibiotics	bacteria	bacteria	may be contaminated with multidrug-resistant	
+V-502	salmonella	salmonella	chicken	chicken	found contaminating retail	
+V-502	surgeon general	surgeon general	infectious diseases	infectious diseases	declared, “the war against	
+V-502	infections	infections	children	children	in	

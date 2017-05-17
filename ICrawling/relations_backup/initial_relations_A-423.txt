@@ -1,125 +1,30 @@
 
-A-423	yersinia	yersinia	meat	meat	contamination of the	
-A-423	yersinia	yersinia	disease	disease	enterocolitica since the bacteria doesn’t cause clinical	
-A-423	pork	pork	united states	united states	from the	
-A-423	listeria	listeria	poultry	poultry	in deli meats, and salmonella in, again,	
+A-423	americans	americans	yersinia	yersinia	are sickened by foodborne	
 A-423	infection	infection	inflammation	inflammation	include chronic	
-A-423	gestation crates	gestation crates	aggression	aggression	for pregnant pigs on the pretext of preventing	
-A-423	blood	blood	tremors	tremors	sugar levels, muscle	
-A-423	europe	europe	u.s. food and drug administration	u.s. food and drug administration	’s equivalent to the	
+A-423	gastroenteritis	gastroenteritis	fever	fever	characterized by	
+A-423	pigs	pigs	ractopamine	ractopamine	fed	
+A-423	consumers union	consumers union	pork	pork	tested nearly 200	
+A-423	europe	europe	plastic	plastic	have shown that “bagging the rectum” by sealing off the excised rectum with a	
 A-423	pigs	pigs	health	health	is associated with increased	
-A-423	animal welfare	animal welfare	pork	pork	concerns, why does the u.s.	
-A-423	yersinia	yersinia	united states	united states	outbreaks reported in the	
-A-423	organic	organic	yersinia	yersinia	methods may 50 times lower odds of harboring	
-A-423	bacteria	bacteria	pigs	pigs	doesn’t cause clinical disease in	
-A-423	infection	infection	organic	organic	on	
-A-423	pork	pork	europe	europe	given “outstanding safety concerns” raised by	
-A-423	pigs	pigs	risk	risk	fed paylean are at an increased	
-A-423	europe	europe	organic	organic	suggests pigs raised using	
-A-423	yersinia	yersinia	pigs	pigs	enterocolitica infection compared to	
-A-423	organic	organic	stress	stress	farms to lower levels of	
-A-423	food poisoning	food poisoning	gastroenteritis	gastroenteritis	just causes acute	
-A-423	pork	pork	gestation crates	gestation crates	industry have started phasing out	
-A-423	yersinia	yersinia	contamination	contamination		
-A-423	listeria	listeria	salmonella	salmonella	in deli meats, and	
-A-423	organic	organic	pigs	pigs		
-A-423	yersinia	yersinia	disease	disease	enterocolitica is one of the reasons why the	
-A-423	pork	pork	gestation crates	gestation crates	industry continues to defend the use of	
-A-423	foodborne pathogens	foodborne pathogens	variety	variety	tend to come from a	
-A-423	pork	pork	health	health	industry acknowledges overcrowding pigs is associated with increased	
-A-423	pigs	pigs	health	health	matters when it comes to public	
-A-423	disease	disease	pigs	pigs	in	
-A-423	national pork board	national pork board	pork	pork	officially changed their quarter-century old slogan from	
-A-423	toxoplasma	toxoplasma	meats	meats	brain parasite in pork, listeria in deli	
-A-423	disease	disease	meat	meat	control and prevention tests thousands of retail	
-A-423	yersinia	yersinia	pork	pork	enterocolitica and	
-A-423	disease	disease	united states	united states	burden in the	
-A-423	gastroenteritis	gastroenteritis	pain	pain	characterized by fever, abdominal	
-A-423	chronic inflammation	chronic inflammation	kidneys	kidneys	of the eyes,	
-A-423	united states	united states	pork	pork	from 1999 through 2008 were caused by	
-A-423	yersinia	yersinia	infection	infection	enterocolitica	
-A-423	food poisoning	food poisoning	fever	fever	just causes acute gastroenteritis characterized by	
-A-423	pork	pork	pigs	pigs	industry acknowledges overcrowding	
-A-423	campylobacter	campylobacter	chicken	chicken	bacteria, found contaminating 38% of	
-A-423	pregnant	pregnant	pigs	pigs		
-A-423	sugar	sugar	tremors	tremors	levels, muscle	
-A-423	yersinia	yersinia	infection	infection		
-A-423	u.s. centers for disease control and prevention	u.s. centers for disease control and prevention	meat	meat	tests thousands of retail	
-A-423	china	china	united states	united states	rejected 200,000 pounds of pork from the	
+A-423	pregnant	pregnant	yersinia	yersinia	sows have been shown to have among the highest prevalence of	
+A-423	national pork producers council	national pork producers council	pork	pork	tried to allay concerns by noting that the levels found in u.s.	
 A-423	pathogens	pathogens	variety	variety	tend to come from a	
 A-423	consumers union	consumers union	yersinia	yersinia	was testing for	
-A-423	risk	risk	arthritis	arthritis	of coming down with autoimmune	
-A-423	yersinia	yersinia	food poisoning	food poisoning		
-A-423	infection	infection	stress	stress	on organic farms to lower levels of	
-A-423	yersinia	yersinia	pork	pork	in	
-A-423	centers for disease control and prevention	centers for disease control and prevention	meat	meat	tests thousands of retail	
-A-423	pregnant	pregnant	aggression	aggression	pigs on the pretext of preventing	
-A-423	china	china	ractopamine	ractopamine	in reaffirming the ban on	
-A-423	contamination	contamination	meat	meat	of the	
-A-423	pork	pork	infection	infection	products the main source of human	
-A-423	meat	meat	ractopamine	ractopamine	of an adrenaline-like drug called	
-A-423	pork	pork	ractopamine	ractopamine	products and found trace levels of	
-A-423	ractopamine	ractopamine	pork	pork	in	
-A-423	pork	pork	disease	disease	ranks 16th in terms of greatest foodborne	
-A-423	chicken	chicken	meat	meat	breasts in the latest cdc retail	
-A-423	agriculture	agriculture	meat	meat	policy arena have even proposed that fresh	
-A-423	usda	usda	pigs	pigs	national residue program claimed 310	
-A-423	cdc	cdc	meat	meat	retail	
-A-423	americans	americans	yersinia	yersinia	are sickened by foodborne	
-A-423	food poisoning	food poisoning	abdominal pain	abdominal pain	just causes acute gastroenteritis characterized by fever,	
-A-423	risk	risk	syndrome	syndrome	for exhibiting the downer pig	
-A-423	gastroenteritis	gastroenteritis	fever	fever	characterized by	
-A-423	risk	risk	autoimmune arthritis	autoimmune arthritis	of coming down with	
-A-423	consumers union	consumers union	pork	pork	tested nearly 200	
-A-423	yersinia	yersinia	pigs	pigs	enterocolitica is widespread in u.s.	
-A-423	pigs	pigs	aggression	aggression	on the pretext of preventing	
-A-423	yersinia	yersinia	united states	united states	monitoring and control programs in place in the	
-A-423	chicken	chicken	cdc	cdc	breasts in the latest	
-A-423	variety	variety	yersinia	yersinia	of sources, 100% of the attributable	
-A-423	yersinia	yersinia	stress	stress	infection on organic farms to lower levels of	
-A-423	china	china	pork	pork	rejected 200,000 pounds of	
 A-423	pigs	pigs	organic	organic	raised using	
 A-423	salmonella	salmonella	poultry	poultry	in, again,	
-A-423	toxoplasma	toxoplasma	listeria	listeria	brain parasite in pork,	
-A-423	united states	united states	meat	meat	after discovering residues in the	
-A-423	pigs	pigs	ractopamine	ractopamine	on	
+A-423	pork	pork	europe	europe	given “outstanding safety concerns” raised by	
+A-423	european food safety authority	european food safety authority	meat	meat	concluded that the single small human study “can not be taken as a basis to derive an acceptable daily intake…and consequently no proposal for maximum [	
+A-423	yersinia	yersinia	pork	pork	in	
+A-423	consumers union	consumers union	pork	pork	released a report in which they analyzed 240 u.s.	
+A-423	listeria	listeria	deli meats	deli meats	in	
+A-423	pigs	pigs	risk	risk	fed paylean are at an increased	
 A-423	europe	europe	pigs	pigs	suggests	
-A-423	toxoplasma	toxoplasma	pork	pork	brain parasite in	
-A-423	gestation crates	gestation crates	pregnant	pregnant	for	
-A-423	gestation crates	gestation crates	pigs	pigs	for pregnant	
-A-423	food poisoning	food poisoning	pain	pain	just causes acute gastroenteritis characterized by fever, abdominal	
 A-423	infection	infection	pigs	pigs	compared to	
 A-423	ractopamine	ractopamine	asthma	asthma	was originally developed as an	
 A-423	health	health	animal welfare	animal welfare	and	
-A-423	blood sugar	blood sugar	tremors	tremors	levels, muscle	
-A-423	inflammation	inflammation	kidneys	kidneys	of the eyes,	
-A-423	listeria	listeria	meats	meats	in deli	
-A-423	pigs	pigs	public health	public health	matters when it comes to	
-A-423	meat	meat	pork	pork	should only be allowed from infection-free herds, diverting	
-A-423	yersinia	yersinia	gastroenteritis	gastroenteritis	food poisoning just causes acute	
-A-423	gastroenteritis	gastroenteritis	diarrhea	diarrhea	characterized by fever, abdominal pain, and often bloody	
-A-423	prevention	prevention	meat	meat	tests thousands of retail	
-A-423	yersinia	yersinia	bacteria	bacteria	enterocolitica since the	
-A-423	pigs	pigs	ractopamine	ractopamine	fed	
-A-423	pork	pork	yersinia	yersinia	producers is even simpler when it comes to	
-A-423	yersinia	yersinia	pork	pork	enterocolitica in	
-A-423	gastroenteritis	gastroenteritis	abdominal pain	abdominal pain	characterized by fever,	
-A-423	campylobacter	campylobacter	bacteria	bacteria		
-A-423	europe	europe	food and drug administration	food and drug administration	’s equivalent to the u.s.	
-A-423	consumers union	consumers union	pork	pork	was testing for yersinia enterocolitica in	
-A-423	listeria	listeria	deli meats	deli meats	in	
-A-423	public health	public health	consumers union	consumers union	breach filled this week by	
-A-423	ractopamine	ractopamine	pork	pork	in about 20% of retail	
 A-423	pigs	pigs	yersinia	yersinia	are considered to be the main reservoir for	
-A-423	thyroid	thyroid	disease	disease	condition known as graves’	
 A-423	bacteria	bacteria	disease	disease	doesn’t cause clinical	
-A-423	ractopamine	ractopamine	stress	stress	may have chronically elevated heart rates, increased	
-A-423	infection	infection	kidneys	kidneys	include chronic inflammation of the eyes,	
-A-423	health	health	consumers union	consumers union	breach filled this week by	
-A-423	yersinia	yersinia	organic	organic	infection on	
-A-423	yersinia	yersinia	fever	fever	food poisoning just causes acute gastroenteritis characterized by	
-A-423	disease	disease	pigs	pigs	resistance of mother	
+A-423	ractopamine	ractopamine	pork	pork	in	
+A-423	foodborne pathogens	foodborne pathogens	variety	variety	tend to come from a	
 A-423	infection	infection	chronic inflammation	chronic inflammation	include	
-A-423	toxoplasma	toxoplasma	deli meats	deli meats	brain parasite in pork, listeria in	
-A-423	blood	blood	sugar	sugar		
-A-423	disease	disease	prevention	prevention	control and	
+A-423	disease	disease	pigs	pigs	in	

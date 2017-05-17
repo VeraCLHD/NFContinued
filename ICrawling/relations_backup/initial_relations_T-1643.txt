@@ -1,70 +1,11 @@
 
-T-1643	animal foods	animal foods	meat	meat	such as dairy products, eggs, and	
-T-1643	oils	oils	animal foods	animal foods	like coconut oil), and many	
-T-1643	fat	fat	health	health	and cholesterol intake.saturated fat is considered harmful to	
-T-1643	coconut oil	coconut oil	dairy	dairy	), and many animal foods such as	
-T-1643	plant-based diet	plant-based diet	fat	fat	may help in reducing saturated	
-T-1643	women	women	saturated fat	saturated fat	who ate the most	
-T-1643	coconut oil	coconut oil	animal foods	animal foods	), and many	
-T-1643	plant-based	plant-based	diet	diet		
-T-1643	saturated fat	saturated fat	fat	fat	and cholesterol intake.saturated	
-T-1643	saturated fat	saturated fat	risk	risk	intake may raise the	
-T-1643	risk	risk	fat	fat	of:restricting saturated	
-T-1643	cancer	cancer	saturated fat	saturated fat	risk, has low amounts of	
-T-1643	breast cancer	breast cancer	fat	fat	 survival study, women who ate the most saturated	
-T-1643	animal products	animal products	plant-based diet	plant-based diet	 and eating a	
-T-1643	saturated fat	saturated fat	health	health	and cholesterol intake.saturated fat is considered harmful to	
-T-1643	fat	fat	risk	risk	intake may raise the	
-T-1643	diet	diet	cholesterol	cholesterol	may help in reducing saturated fat and	
-T-1643	cholesterol	cholesterol	blood	blood	loss, as well as better	
-T-1643	plant foods	plant foods	oils	oils	(for example, tropical plant	
+T-1643	diet	diet	fat	fat	may help in reducing saturated	
 T-1643	plant-based diet	plant-based diet	saturated fat	saturated fat	may help in reducing	
 T-1643	cholesterol	cholesterol	fat	fat	intake.saturated	
-T-1643	aging	aging	telomeres	telomeres	length onto our	
-T-1643	saturated fat	saturated fat	cholesterol	cholesterol	and	
-T-1643	cancer	cancer	women	women	 survival study,	
-T-1643	plant-based diet	plant-based diet	cholesterol	cholesterol	may help in reducing saturated fat and	
-T-1643	dairy	dairy	meat	meat	products, eggs, and	
-T-1643	fat	fat	diet	diet	calories in our	
-T-1643	cholesterol	cholesterol	sugar	sugar	loss, as well as better blood	
-T-1643	cholesterol	cholesterol	blood sugar	blood sugar	loss, as well as better	
-T-1643	saturated fat	saturated fat	diet	diet	calories in our	
-T-1643	saturated fat	saturated fat	risk	risk	after diagnosis increased the	
-T-1643	breast cancer	breast cancer	saturated fat	saturated fat	 survival study, women who ate the most	
-T-1643	plant foods	plant foods	coconut oil	coconut oil	(for example, tropical plant oils like	
-T-1643	plant-based	plant-based	saturated fat	saturated fat	diet may help in reducing	
-T-1643	cholesterol	cholesterol	saturated fat	saturated fat	intake.	
-T-1643	diet	diet	fat	fat	may help in reducing saturated	
-T-1643	fat	fat	saturated fat	saturated fat	and cholesterol intake.	
-T-1643	animal foods	animal foods	dairy	dairy	such as	
-T-1643	fat	fat	cancer	cancer	improved chances of	
-T-1643	eggs	eggs	cholesterol	cholesterol	also contain	
-T-1643	cholesterol	cholesterol	health	health	intake.saturated fat is considered harmful to	
-T-1643	animal products	animal products	diet	diet	 and eating a plant-based	
-T-1643	cancer	cancer	risk	risk		
-T-1643	eggs	eggs	saturated fat	saturated fat	also contain cholesterol, which worsens the effects of the	
 T-1643	animal fat	animal fat	cancer	cancer	improved chances of	
-T-1643	saturated fat	saturated fat	fat	fat	intake may raise the risk of:restricting saturated	
-T-1643	fat	fat	cholesterol	cholesterol	intake, have seen positive results, including weight and	
-T-1643	fat	fat	cholesterol	cholesterol	and	
-T-1643	fat	fat	risk	risk	after diagnosis increased the	
-T-1643	animal products	animal products	plant-based	plant-based	 and eating a	
-T-1643	cancer	cancer	fat	fat	 survival study, women who ate the most saturated	
-T-1643	fat	fat	saturated fat	saturated fat	intake may raise the risk of:restricting	
-T-1643	risk	risk	saturated fat	saturated fat	of:restricting	
-T-1643	plant-based	plant-based	fat	fat	diet may help in reducing saturated	
 T-1643	diet	diet	saturated fat	saturated fat	may help in reducing	
+T-1643	plant-based diet	plant-based diet	fat	fat	may help in reducing saturated	
+T-1643	saturated fat	saturated fat	cholesterol	cholesterol	and	
 T-1643	saturated animal fat	saturated animal fat	cancer	cancer	improved chances of	
-T-1643	fat	fat	calories	calories		
-T-1643	cancer	cancer	fat	fat	risk, has low amounts of saturated	
-T-1643	calories	calories	diet	diet	in our	
-T-1643	saturated fat	saturated fat	calories	calories		
-T-1643	dairy	dairy	eggs	eggs	products,	
-T-1643	saturated fat	saturated fat	cholesterol	cholesterol	intake, have seen positive results, including weight and	
-T-1643	cancer	cancer	saturated fat	saturated fat	 survival study, women who ate the most	
-T-1643	plant-based	plant-based	cholesterol	cholesterol	diet may help in reducing saturated fat and	
-T-1643	oils	oils	coconut oil	coconut oil	like	
-T-1643	animal foods	animal foods	eggs	eggs	such as dairy products,	
-T-1643	breast cancer	breast cancer	women	women	 survival study,	
-T-1643	women	women	fat	fat	who ate the most saturated	
-T-1643	blood	blood	sugar	sugar		
+T-1643	fat	fat	cholesterol	cholesterol	and	
+T-1643	fat	fat	cancer	cancer	improved chances of	

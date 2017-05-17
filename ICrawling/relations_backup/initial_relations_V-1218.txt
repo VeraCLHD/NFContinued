@@ -1,36 +1,5 @@
 
-V-1218	dna damage	dna damage	sugar	sugar	last year.what about	
-V-1218	stevia	stevia	coca-cola	coca-cola	plant, and now sold as truvia by the	
-V-1218	bladder	bladder	stevia	stevia	cancer in people, too.what about	
-V-1218	purevia	purevia	pepsi	pepsi	by the	
-V-1218	purevia	purevia	cola	cola	by the pepsi	
-V-1218	saccharin	saccharin	cancer	cancer	may cause bladder	
-V-1218	coca-cola	coca-cola	purevia	purevia	company, and	
-V-1218	coca-cola	coca-cola	pepsi	pepsi	company, and purevia by the	
-V-1218	pepsi	pepsi	cola	cola		
-V-1218	truvia	truvia	coca-cola	coca-cola	by the	
-V-1218	sorbitol	sorbitol	xylitol	xylitol	and	
-V-1218	migraine	migraine	sugar	sugar	trigger.and finally, the	
-V-1218	truvia	truvia	pepsi	pepsi	by the coca-cola company, and purevia by the	
-V-1218	dna	dna	sugar twin	sugar twin	damage last year.what about	
-V-1218	cancer	cancer	stevia	stevia	in people, too.what about	
-V-1218	steviol	steviol	stevia	stevia	glycosides, extracted from the	
-V-1218	stevia	stevia	truvia	truvia	plant, and now sold as	
-V-1218	cola	cola	purevia	purevia	company, and	
-V-1218	dna	dna	sugar	sugar	damage last year.what about	
-V-1218	dna damage	dna damage	sugar twin	sugar twin	last year.what about	
-V-1218	coca-cola	coca-cola	cola	cola	company, and purevia by the pepsi	
-V-1218	sugar	sugar	xylitol	xylitol	alcohols: sorbitol and	
-V-1218	truvia	truvia	cola	cola	by the coca-	
-V-1218	migraine	migraine	xylitol	xylitol	trigger.and finally, the sugar alcohols: sorbitol and	
-V-1218	bladder	bladder	cancer	cancer		
-V-1218	sugar	sugar	sorbitol	sorbitol	alcohols:	
-V-1218	migraine	migraine	sorbitol	sorbitol	trigger.and finally, the sugar alcohols:	
 V-1218	saccharin	saccharin	bladder	bladder	may cause	
-V-1218	saccharin	saccharin	stevia	stevia	may cause bladder cancer in people, too.what about	
-V-1218	nutrition	nutrition	calories	calories	—no	
+V-1218	sorbitol	sorbitol	xylitol	xylitol	and	
 V-1218	saccharin	saccharin	bladder cancer	bladder cancer	may cause	
-V-1218	bladder cancer	bladder cancer	stevia	stevia	in people, too.what about	
 V-1218	aspartame	aspartame	nutrasweet	nutrasweet	or	
-V-1218	cola	cola	pepsi	pepsi	company, and purevia by the	
-V-1218	truvia	truvia	purevia	purevia	by the coca-cola company, and	

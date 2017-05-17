@@ -1,34 +1,3 @@
 
-V-1057	medicine	medicine	bok choy	bok choy	: coma induced by raw	
-V-1057	vegetables	vegetables	broccoli	broccoli	—cruciferous vegetables; cabbage family vegetables, like	
-V-1057	cabbage	cabbage	vegetables	vegetables	family	
-V-1057	england	england	bok choy	bok choy	journal of medicine: coma induced by raw	
-V-1057	beverage	beverage	cruciferous vegetables	cruciferous vegetables	to the healthiest food: dark green leafy vegetables—	
-V-1057	england	england	coma	coma	journal of medicine:	
-V-1057	medicine	medicine	raw	raw	: coma induced by	
-V-1057	iodine	iodine	diet	diet	in our	
-V-1057	leafy vegetables	leafy vegetables	vegetables	vegetables	—cruciferous	
-V-1057	coma	coma	bok choy	bok choy	induced by raw	
-V-1057	vegetables	vegetables	cabbage	cabbage	—cruciferous vegetables;	
-V-1057	cabbage	cabbage	collards	collards	family vegetables, like broccoli, brussels sprouts,	
-V-1057	beverage	beverage	leafy vegetables	leafy vegetables	to the healthiest food: dark green	
-V-1057	thyroid	thyroid	iodine	iodine	’s uptake of	
-V-1057	vegetables	vegetables	brussels sprouts	brussels sprouts	—cruciferous vegetables; cabbage family vegetables, like broccoli,	
-V-1057	thyroid	thyroid	iodine	iodine	function in people with marginal	
-V-1057	leafy vegetables	leafy vegetables	cabbage	cabbage	—cruciferous vegetables;	
-V-1057	leafy vegetables	leafy vegetables	cruciferous vegetables	cruciferous vegetables	—	
-V-1057	england	england	raw	raw	journal of medicine: coma induced by	
-V-1057	cabbage	cabbage	sprouts	sprouts	family vegetables, like broccoli, brussels	
-V-1057	cabbage	cabbage	brussels sprouts	brussels sprouts	family vegetables, like broccoli,	
-V-1057	vegetables	vegetables	thyroid	thyroid	that can interfere with	
-V-1057	vegetables	vegetables	sprouts	sprouts	—cruciferous vegetables; cabbage family vegetables, like broccoli, brussels	
-V-1057	cabbage	cabbage	broccoli	broccoli	family vegetables, like	
-V-1057	cabbage	cabbage	kale	kale	family vegetables, like broccoli, brussels sprouts, collards,	
 V-1057	coma	coma	raw	raw	induced by	
-V-1057	raw	raw	bok choy	bok choy		
-V-1057	leafy vegetables	leafy vegetables	broccoli	broccoli	—cruciferous vegetables; cabbage family vegetables, like	
-V-1057	leafy vegetables	leafy vegetables	brussels sprouts	brussels sprouts	—cruciferous vegetables; cabbage family vegetables, like broccoli,	
-V-1057	england	england	medicine	medicine	journal of	
-V-1057	leafy vegetables	leafy vegetables	sprouts	sprouts	—cruciferous vegetables; cabbage family vegetables, like broccoli, brussels	
-V-1057	vegetables	vegetables	cruciferous vegetables	cruciferous vegetables	—	
-V-1057	beverage	beverage	vegetables	vegetables	to the healthiest food: dark green leafy	
+V-1057	raw	raw	cooking	cooking	here, because an enzyme that releases these compounds is deactivated by	

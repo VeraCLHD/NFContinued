@@ -1,21 +1,2 @@
 
-V-1290	beans	beans	baked beans	baked beans	—half a cup of canned vegetarian	
-V-1290	radiation	radiation	chemotherapy	chemotherapy	treatments,	
-V-1290	medicine	medicine	treatment	treatment	—radiation treatments, chemotherapy—a vegetarian baked bean	
-V-1290	fruit	fruit	water	water	once dismissed as being, basically, well,	
-V-1290	medicine	medicine	vegetarian	vegetarian	—radiation treatments, chemotherapy—a	
-V-1290	radiation	radiation	vegetarian	vegetarian	treatments, chemotherapy—a	
-V-1290	nutrition	nutrition	greens	greens	of any dish by adding	
-V-1290	beans	beans	vegetarian	vegetarian	—half a cup of canned	
-V-1290	chemotherapy	chemotherapy	treatment	treatment	—a vegetarian baked bean	
-V-1290	vegetarian	vegetarian	beans	beans	baked	
-V-1290	vegetarian	vegetarian	baked beans	baked beans		
-V-1290	baked beans	baked beans	beans	beans	—half a cup of canned vegetarian baked	
-V-1290	radiation	radiation	treatment	treatment	treatments, chemotherapy—a vegetarian baked bean	
-V-1290	medicine	medicine	radiation	radiation	—	
-V-1290	vegetarian	vegetarian	navy beans	navy beans	baked beans a day for two months;	
-V-1290	chemotherapy	chemotherapy	vegetarian	vegetarian	—a	
 V-1290	fiber	fiber	protein	protein	and	
-V-1290	medicine	medicine	chemotherapy	chemotherapy	—radiation treatments,	
-V-1290	baked beans	baked beans	vegetarian	vegetarian	—half a cup of canned	
-V-1290	vegetarian	vegetarian	treatment	treatment	baked bean	

@@ -1,13 +1,3 @@
 
-V-1038	fish	fish	pcbs	pcbs	consumption biomarkers were dioxins and	
-V-1038	fish	fish	mercury	mercury	consumption biomarkers were dioxins and pcbs—for men, and	
-V-1038	biomarkers	biomarkers	pcbs	pcbs	were dioxins and	
-V-1038	biomarkers	biomarkers	mercury	mercury	were dioxins and pcbs—for men, and	
 V-1038	dioxins	dioxins	pcbs	pcbs	and	
-V-1038	pcbs	pcbs	mercury	mercury	—for men, and	
-V-1038	fish	fish	arsenic	arsenic	people eat by the amount of	
-V-1038	dioxins	dioxins	mercury	mercury	and pcbs—for men, and	
-V-1038	fish	fish	dioxins	dioxins	consumption biomarkers were	
 V-1038	biomarkers	biomarkers	dioxins	dioxins	were	
-V-1038	biomarkers	biomarkers	fish	fish	for	
-V-1038	fish	fish	biomarkers	biomarkers	consumption	

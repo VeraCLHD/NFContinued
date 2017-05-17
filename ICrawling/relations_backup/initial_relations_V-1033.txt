@@ -1,5 +1,2 @@
 
 V-1033	women	women	calcium	calcium	getting twice as much	
-V-1033	health	health	vegetarian	vegetarian	indicators in people eating	
-V-1033	protein	protein	blood	blood	in their	
-V-1033	vegans	vegans	protein	protein	higher, meat-eaters higher, or both the same	

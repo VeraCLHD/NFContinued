@@ -1,21 +1,8 @@
 
-V-785	plant-based	plant-based	inflammation	inflammation	diets decrease	
+V-785	plant-based diet	plant-based diet	disease	disease	remained without	
 V-785	diet	diet	disease	disease	was highly effective in preventing relapse in crohn’s	
 V-785	anti-inflammatory	anti-inflammatory	immunosuppressive drugs	immunosuppressive drugs	and	
-V-785	plant-based diets	plant-based diets	plant-based	plant-based	decrease markers of inflammation, but to see if	
-V-785	plant-based diets	plant-based diets	inflammation	inflammation	decrease	
-V-785	anti-inflammatory	anti-inflammatory	drugs	drugs	and immunosuppressive	
-V-785	risk	risk	disease	disease	of developing inflammatory bowel	
-V-785	plant-based	plant-based	diet	diet		
-V-785	plant-based diet	plant-based diet	disease	disease	remained without	
 V-785	plant-based diets	plant-based diets	inflammation	inflammation	decrease markers of	
-V-785	animal protein	animal protein	risk	risk	in general have been found to increase the	
-V-785	plant-based	plant-based	inflammation	inflammation	diets decrease markers of	
-V-785	vegetarian	vegetarian	diet	diet		
-V-785	protein	protein	risk	risk	in general have been found to increase the	
-V-785	diet	diet	vegetarian	vegetarian	—meaning in this case,	
-V-785	fish	fish	meat	meat	a week, and half a serving of other	
-V-785	plant-based	plant-based	disease	disease	diet remained without	
+V-785	plant-based diets	plant-based diets	inflammation	inflammation	decrease	
 V-785	disease	disease	diet	diet	re-emerged in half of the standard	
-V-785	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of developing	
 V-785	diet	diet	disease	disease	remained without	

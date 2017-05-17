@@ -1,32 +1,8 @@
 
-V-1097	risk	risk	epic study	epic study	” [in the	
-V-1097	vegetables	vegetables	greens	greens	could do—berries, citrus, garlic,	
-V-1097	fruits	fruits	cancer	cancer	and vegetables, besides just	
-V-1097	fruit	fruit	vegetables	vegetables	and	
-V-1097	cancer	cancer	epic study	epic study	risk” [in the	
-V-1097	burgers	burgers	risk	risk	and doughnuts, a 5% drop in overall cancer	
-V-1097	fruits	fruits	cancer	cancer	and vegetables, and expect to be	
-V-1097	burgers	burgers	cancer	cancer	and doughnuts, a 5% drop in overall	
-V-1097	fruits	fruits	citrus	citrus	and vegetables could do—berries,	
-V-1097	cancer	cancer	risk	risk		
-V-1097	burgers	burgers	doughnuts	doughnuts	and	
-V-1097	vegetables	vegetables	garlic	garlic	could do—berries, citrus,	
-V-1097	fruit	fruit	risk	risk	and vegetable intake and overall cancer	
-V-1097	fruits	fruits	garlic	garlic	and vegetables could do—berries, citrus,	
-V-1097	fruit	fruit	cancer	cancer	and vegetable intake and overall	
-V-1097	cancer	cancer	apple	apple	risk means that an	
-V-1097	fruits	fruits	berries	berries	and vegetables could do—	
-V-1097	cancer	cancer	epic	epic	risk” [in the	
-V-1097	risk	risk	epic	epic	” [in the	
-V-1097	vegetables	vegetables	berries	berries	could do—	
-V-1097	vegetables	vegetables	citrus	citrus	could do—berries,	
-V-1097	health	health	vegetables	vegetables	reasons to eat fruits and	
-V-1097	americans	americans	cancer	cancer	are diagnosed with	
-V-1097	vegetables	vegetables	cancer	cancer	have little effect”; “eating [veggies] doesn’t stop	
-V-1097	health	health	fruits	fruits	reasons to eat	
 V-1097	vegetables	vegetables	cancer	cancer	didn’t prevent	
+V-1097	burgers	burgers	doughnuts	doughnuts	and	
+V-1097	fruit	fruit	vegetables	vegetables	and	
 V-1097	risk	risk	apple	apple	means that an	
-V-1097	fruits	fruits	cancer	cancer	and vegetables didn’t prevent	
+V-1097	vegetables	vegetables	berries	berries	could do—	
+V-1097	americans	americans	cancer	cancer	are diagnosed with	
 V-1097	fruits	fruits	vegetables	vegetables	and	
-V-1097	fruits	fruits	greens	greens	and vegetables could do—berries, citrus, garlic,	
-V-1097	health	health	cancer	cancer	reasons to eat fruits and vegetables, besides just	

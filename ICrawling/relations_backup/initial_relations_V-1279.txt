@@ -1,16 +1,2 @@
 
-V-1279	breakfast	breakfast	chocolate	chocolate	smoothie i described earlier into a	
-V-1279	plant-based	plant-based	milk	milk		
-V-1279	chocolate	chocolate	cocoa	cocoa	smoothie by adding	
-V-1279	molasses	molasses	sugar	sugar	are really the only two healthful sweeteners.so—cocoa, date	
-V-1279	ground flax	ground flax	seeds	seeds		
-V-1279	flax	flax	seeds	seeds		
-V-1279	cocoa	cocoa	sugar	sugar	(try to find fair-trade, of course), date	
-V-1279	molasses	molasses	date sugar	date sugar	are really the only two healthful sweeteners.so—cocoa,	
-V-1279	cocoa	cocoa	date sugar	date sugar	(try to find fair-trade, of course),	
-V-1279	molasses	molasses	cocoa	cocoa	are really the only two healthful sweeteners.so—	
-V-1279	chocolate	chocolate	pudding	pudding		
-V-1279	soy	soy	milk	milk		
 V-1279	date sugar	date sugar	sugar	sugar	is not	
-V-1279	soy	soy	chocolate	chocolate	milk, try silken tofu, and you've got instant	
-V-1279	soy	soy	tofu	tofu	milk, try silken	

@@ -1,34 +1,10 @@
 
-T-75	american egg board	american egg board	lutein	lutein	also cites nutrients such as	
-T-75	choline	choline	eggs	eggs	content of	
-T-75	lutein	lutein	health	health	as	
-T-75	american egg board	american egg board	dietary guidelines	dietary guidelines	serve on the committees that determine what the	
-T-75	disease	disease	egg	egg	is of particular interest to the	
-T-75	lutein	lutein	eggs	eggs	as health promoting components of	
-T-75	usda	usda	dietary guidelines	dietary guidelines		
-T-75	american egg board	american egg board	health	health	also cites nutrients such as lutein as	
-T-75	eggs	eggs	health	health	to vascular	
-T-75	usda	usda	american egg board	american egg board	advertising regulations; if egg companies wish to use	
 T-75	egg nutrition center	egg nutrition center	egg	egg	was created by the american	
-T-75	american egg board	american egg board	cholesterol	cholesterol	in order to downplay the risks of the	
-T-75	nutrition	nutrition	american egg board	american egg board	center was created by the	
-T-75	egg	egg	american egg board	american egg board	nutrition center was created by the	
-T-75	egg	egg	health	health	board also cites nutrients such as lutein as	
+T-75	cancer	cancer	atherosclerosis	atherosclerosis	and	
+T-75	disease	disease	egg	egg	is of particular interest to the	
+T-75	american egg board	american egg board	eggs	eggs	is, to quote their website, “to increase the demand for	
+T-75	eggs	eggs	egg	egg	and	
 T-75	cholesterol	cholesterol	eggs	eggs	found in	
-T-75	usda	usda	egg	egg	advertising regulations; if	
+T-75	health	health	eggs	eggs	promoting components of	
 T-75	egg nutrition center	egg nutrition center	american egg board	american egg board	was created by the	
 T-75	heart disease	heart disease	egg	egg	is of particular interest to the	
-T-75	usda	usda	egg	egg	dietary guidelines, but members of the american	
-T-75	nutrition	nutrition	egg	egg	center was created by the american	
-T-75	cancer	cancer	atherosclerosis	atherosclerosis	and	
-T-75	cholesterol	cholesterol	health	health	found in eggs to vascular	
-T-75	usda	usda	american egg board	american egg board	dietary guidelines, but members of the	
-T-75	egg	egg	nutrition	nutrition		
-T-75	egg	egg	choline	choline	board, however, continues to promote the	
-T-75	exercise	exercise	egg	egg	some control over the	
-T-75	omega 3	omega 3	iron	iron	’s, or	
-T-75	nutrition	nutrition	usda	usda	policies in the	
-T-75	nutrition	nutrition	dietary guidelines	dietary guidelines	policies in the usda	
-T-75	egg	egg	lutein	lutein	board also cites nutrients such as	
-T-75	eggs	eggs	egg	egg	and	
-T-75	health	health	eggs	eggs	promoting components of	

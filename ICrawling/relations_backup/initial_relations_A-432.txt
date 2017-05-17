@@ -1,47 +1,18 @@
 
-A-432	feather meal	feather meal	apple juice	apple juice	up to 100 times that found in	
-A-432	health	health	feather meal	feather meal	found levels of arsenic in chicken	
-A-432	apple	apple	arsenic	arsenic	juice and rice may from the use of	
+A-432	public health	public health	arsenic	arsenic	found levels of	
+A-432	feather meal	feather meal	chicken	chicken	is made from the billion pounds of feathers plucked from	
 A-432	chemicals	chemicals	chickens	chickens	have been fed to	
 A-432	rice	rice	arsenic	arsenic	may from the use of	
-A-432	apple	apple	dr. oz	dr. oz	juice by	
-A-432	juice	juice	dr. oz	dr. oz	by	
-A-432	apple juice	apple juice	dr. oz	dr. oz	by	
-A-432	protein	protein	fish	fish	and mineral content) and is fed to farmed	
 A-432	poultry	poultry	arkansas	arkansas	producing states such as	
-A-432	arsenic	arsenic	apple	apple	in	
-A-432	arsenic	arsenic	feather meal	feather meal	in chicken	
-A-432	public health	public health	chicken	chicken	found levels of arsenic in	
-A-432	arsenic	arsenic	poultry	poultry	originated from some of the top	
-A-432	poultry	poultry	texas	texas	producing states such as arkansas,	
-A-432	rice	rice	pesticides	pesticides	may from the use of arsenic-containing	
-A-432	arsenic	arsenic	chickens	chickens	in edible tissues of	
-A-432	parasites	parasites	arsenic	arsenic	that adding	
-A-432	chickens	chickens	arsenic	arsenic	eating feed laced with their	
-A-432	apple juice	apple juice	arsenic	arsenic	and rice may from the use of	
-A-432	arsenic	arsenic	bugs	bugs	to the feed to poison the	
-A-432	public health	public health	arsenic	arsenic	found levels of	
-A-432	chicken	chicken	feather meal	feather meal		
-A-432	apple	apple	juice	juice		
-A-432	public health	public health	feather meal	feather meal	found levels of arsenic in chicken	
-A-432	feather meal	feather meal	apple	apple	up to 100 times that found in	
-A-432	poultry	poultry	fda	fda	companies after the	
-A-432	arsenic	arsenic	juice	juice	in apple	
 A-432	apple juice	apple juice	rice	rice	and	
-A-432	chicken	chicken	manure	manure	carcasses annually (sometimes with heads, guts,	
+A-432	birds	birds	parasites	parasites	are crammed into filthy football field-sized sheds to lie beak-to-beak in their own waste they can become so heavily infested with internal	
+A-432	arsenic	arsenic	apple	apple	in	
 A-432	rice	rice	arsenic	arsenic	found most contaminated with	
-A-432	health	health	chicken	chicken	found levels of arsenic in	
-A-432	juice	juice	arsenic	arsenic	and rice may from the use of	
-A-432	chicken	chicken	manure	manure		
-A-432	chemicals	chemicals	united states	united states	have been fed to chickens annually in the	
+A-432	fda	fda	arsenic	arsenic	found concerning levels of a particularly toxic form of	
+A-432	arsenic	arsenic	poultry	poultry	originated from some of the top	
 A-432	arsenic	arsenic	apple juice	apple juice	in	
 A-432	juice	juice	rice	rice	and	
-A-432	arsenic	arsenic	rice	rice	in apple juice and	
-A-432	chickens	chickens	united states	united states	annually in the	
-A-432	apple	apple	rice	rice	juice and	
-A-432	juice	juice	pesticides	pesticides	and rice may from the use of arsenic-containing	
 A-432	arsenic	arsenic	chicken	chicken	in	
 A-432	health	health	arsenic	arsenic	found levels of	
-A-432	feather meal	feather meal	juice	juice	up to 100 times that found in apple	
-A-432	apple juice	apple juice	pesticides	pesticides	and rice may from the use of arsenic-containing	
 A-432	feed additives	feed additives	europe	europe	have been banned in	
+A-432	chickens	chickens	arsenic	arsenic	eating feed laced with their	

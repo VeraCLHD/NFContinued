@@ -1,52 +1,16 @@
 
-V-171	vegetables	vegetables	gout	gout		
-V-171	animal foods	animal foods	gout	gout	increase	
-V-171	gout	gout	disease	disease	as a “	
-V-171	purines	purines	dna	dna	are the breakdown product of genetic material,	
-V-171	milk	milk	gout	gout	powder to	
-V-171	uric acid	uric acid	gout	gout	buildup and	
-V-171	ph	ph	uric acid	uric acid	of our urine, we can change	
-V-171	vegetarian	vegetarian	diet	diet		
-V-171	diet	diet	uric acid	uric acid	excreted significantly more	
-V-171	alcohol	alcohol	risk	risk	intake was strongly associated with an increased	
-V-171	animal foods	animal foods	risk	risk	increase gout	
-V-171	meat	meat	seafood	seafood	and	
-V-171	seafood	seafood	gout	gout	had significant associations with the incidence of	
-V-171	plant foods	plant foods	risk	risk	increase	
-V-171	blood	blood	diet	diet	of those eating the acid-forming	
-V-171	risk	risk	uric acid	uric acid	of	
-V-171	uric acid	uric acid	kidneys	kidneys	in the	
-V-171	plants	plants	uric acid	uric acid	not been associated with high	
-V-171	gout	gout	uric acid	uric acid	is caused by needle sharp crystals of	
-V-171	uric acid	uric acid	western diet	western diet	in the kidneys, kept them on a standard	
-V-171	milk	milk	risk	risk	has also been associated with a lower	
-V-171	gout	gout	plant foods	plant foods	sufferers should moderate both purine rich animal and	
-V-171	gout	gout	risk	risk		
-V-171	soy	soy	risk	risk	milk has also been associated with a lower	
-V-171	soy	soy	milk	milk		
-V-171	uric acid	uric acid	blood	blood	levels in the	
-V-171	vitamin c	vitamin c	gout	gout	appear to protect against uric acid buildup and	
-V-171	harvard	harvard	health	health		
-V-171	diet	diet	risk	risk	led to a 93% decline in the	
-V-171	uric acid	uric acid	gout	gout	levels shot up, and they started getting	
-V-171	meat	meat	purines	purines	has less	
-V-171	uric acid	uric acid	gut	gut	in the	
-V-171	gout	gout	alcohol	alcohol	with both	
-V-171	diet	diet	uric acid	uric acid	rose within days.so, one would assume	
-V-171	vegetarian	vegetarian	risk	risk	diet led to a 93% decline in the	
 V-171	alcohol	alcohol	uric acid	uric acid	and	
-V-171	plants	plants	beans	beans	like	
-V-171	gout	gout	milk	milk	patients add	
+V-171	animal foods	animal foods	gout	gout	increase	
 V-171	meat	meat	fish	fish	and	
 V-171	purines	purines	plants	plants	in	
+V-171	meat	meat	seafood	seafood	and	
 V-171	vitamin c	vitamin c	uric acid	uric acid	appear to protect against	
+V-171	diet	diet	risk	risk	led to a 93% decline in the	
+V-171	seafood	seafood	gout	gout	had significant associations with the incidence of	
+V-171	plant foods	plant foods	risk	risk	increase	
 V-171	uric acid	uric acid	purines	purines	comes from the breakdown of	
+V-171	risk	risk	uric acid	uric acid	of	
 V-171	alkaline diet	alkaline diet	uric acid	uric acid	excreted significantly more	
-V-171	fish	fish	plant foods	plant foods	consumption, but not with higher consumption purine-rich	
-V-171	soy milk	soy milk	risk	risk	has also been associated with a lower	
-V-171	uric acid	uric acid	vegetables	vegetables	levels, but the	
+V-171	meat	meat	purines	purines	has less	
 V-171	risk	risk	gout	gout	of	
-V-171	skim milk	skim milk	gout	gout	powder to	
-V-171	uric acid	uric acid	gout	gout	levels, but the vegetables	
-V-171	ph	ph	urine	urine	of our	
-V-171	uric acid	uric acid	diet	diet	than those eating the acidic	
+V-171	diet	diet	uric acid	uric acid	excreted significantly more	

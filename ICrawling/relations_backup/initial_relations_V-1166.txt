@@ -1,17 +1,3 @@
 
-V-1166	argon laser	argon laser	antioxidants	antioxidants	to measure, in real time, the levels of	
-V-1166	vegetables	vegetables	stress	stress	boosts our antioxidant levels, while	
-V-1166	vegetables	vegetables	tea	tea	at every meal and snack, and sipping green	
-V-1166	wrinkles	wrinkles	skin	skin	with low antioxidant levels in the	
-V-1166	wrinkles	wrinkles	antioxidant	antioxidant	with low	
-V-1166	fruits	fruits	antioxidant	antioxidant	and vegetables boosts our	
-V-1166	vegetables	vegetables	green tea	green tea	at every meal and snack, and sipping	
-V-1166	fruits	fruits	sleep	sleep	and veggies; but then starts not getting enough	
-V-1166	antioxidant	antioxidant	fruits	fruits	substances in living human skin.we know that eating	
-V-1166	fruits	fruits	stress	stress	and vegetables boosts our antioxidant levels, while	
-V-1166	fruit	fruit	cold	cold	and veggie consumption again; then gets a bad	
-V-1166	antioxidant	antioxidant	skin	skin	levels in the	
 V-1166	fruits	fruits	vegetables	vegetables	and	
 V-1166	vegetables	vegetables	antioxidant	antioxidant	boosts our	
-V-1166	antioxidants	antioxidants	fruits	fruits	—which means	
-V-1166	antioxidants	antioxidants	vegetables	vegetables	—which means fruits and	

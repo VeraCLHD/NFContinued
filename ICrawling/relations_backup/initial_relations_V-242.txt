@@ -1,70 +1,14 @@
 
-V-242	lemon	lemon	juice	juice		
-V-242	kidney	kidney	risk	risk	stone	
-V-242	flaxseeds	flaxseeds	fat	fat	can also help maximize the absorption of	
-V-242	breast cancer	breast cancer	cancer	cancer	and colon	
+V-242	soda	soda	hibiscus	hibiscus	or	
+V-242	smoothies	smoothies	dna	dna	protect against	
 V-242	smoothies	smoothies	nitrate	nitrate	would bypass the	
-V-242	stomach	stomach	nitric oxide	nitric oxide	with a tube, you’d still produce the	
-V-242	stomach	stomach	produce	produce	with a tube, you’d still	
-V-242	vegetables	vegetables	fruits	fruits	.smoothies also allow us to eat parts of	
-V-242	lemon	lemon	mayo clinic	mayo clinic	juice, here in the	
-V-242	flax	flax	seeds	seeds		
-V-242	berries	berries	antioxidant	antioxidant	—enhanced athletic performance and recovery, boosting the	
-V-242	cancer	cancer	smoothies	smoothies	and colon cancer cell growth.clinical studies on	
-V-242	flax seeds	flax seeds	smoothies	smoothies	make for thick milkshakey-type	
+V-242	smoothies	smoothies	dna damage	dna damage	protect against	
 V-242	greens	greens	berries	berries	and	
 V-242	breast cancer	breast cancer	colon	colon	and	
-V-242	beverages	beverages	hibiscus	hibiscus	like soda or	
-V-242	flax	flax	smoothies	smoothies	seeds make for thick milkshakey-type	
-V-242	vegetables	vegetables	kidney	kidney	might increase	
-V-242	diet	diet	smoothies	smoothies	coke, so it’s recommended that	
-V-242	colon	colon	cancer	cancer		
-V-242	beverages	beverages	soda	soda	like	
-V-242	flaxseeds	flaxseeds	appetite	appetite	was found to significantly suppress	
-V-242	fat	fat	flaxseeds	flaxseeds	naturally found in	
-V-242	soda	soda	hibiscus	hibiscus	or	
-V-242	seeds	seeds	smoothies	smoothies	make for thick milkshakey-type	
-V-242	colon cancer	colon cancer	smoothies	smoothies	cell growth.clinical studies on	
-V-242	juice	juice	smoothies	smoothies	or wedge,	
-V-242	smoothies	smoothies	fruit	fruit	: when i advocate green smoothies to boost	
-V-242	breast cancer	breast cancer	smoothies	smoothies	and colon cancer cell growth.clinical studies on	
-V-242	dna	dna	smoothies	smoothies	damage and strawberry	
-V-242	ground flax	ground flax	seeds	seeds		
-V-242	soda	soda	tea	tea	or hibiscus	
-V-242	flaxseeds	flaxseeds	phytonutrients	phytonutrients	can also help maximize the absorption of fat-soluble	
 V-242	breast cancer	breast cancer	colon cancer	colon cancer	and	
-V-242	dna	dna	inflammation	inflammation	damage and strawberry smoothies against	
 V-242	soda	soda	hibiscus tea	hibiscus tea	or	
+V-242	vegetables	vegetables	kidney	kidney	might increase	
 V-242	fruits	fruits	vegetables	vegetables	and	
-V-242	bacteria	bacteria	mouth	mouth	in the	
-V-242	kiwifruit	kiwifruit	dna damage	dna damage	smoothies protect against	
-V-242	nitrate	nitrate	bacteria	bacteria	-reducing	
-V-242	kiwifruit	kiwifruit	smoothies	smoothies		
-V-242	greens	greens	antioxidant	antioxidant	and berries—enhanced athletic performance and recovery, boosting the	
-V-242	dna damage	dna damage	inflammation	inflammation	and strawberry smoothies against	
-V-242	risk	risk	raw	raw	if consumed	
-V-242	dna damage	dna damage	smoothies	smoothies	and strawberry	
-V-242	nitrate	nitrate	mouth	mouth	-reducing bacteria in the	
-V-242	smoothies	smoothies	bacteria	bacteria	would bypass the nitrate-reducing	
-V-242	cancer	cancer	colon	colon	and	
-V-242	cancer	cancer	cancer	cancer	and colon	
-V-242	smoothies	smoothies	dna	dna	protect against	
-V-242	lemon	lemon	smoothies	smoothies	juice or wedge,	
-V-242	food poisoning	food poisoning	risk	risk		
-V-242	hibiscus	hibiscus	tea	tea		
-V-242	vegetables	vegetables	risk	risk	might increase kidney stone	
-V-242	greens	greens	stomach	stomach	directly in your	
-V-242	produce	produce	nitric oxide	nitric oxide	the	
-V-242	smoothies	smoothies	dna damage	dna damage	protect against	
-V-242	food poisoning	food poisoning	raw	raw	risk if consumed	
-V-242	colon	colon	smoothies	smoothies	cancer cell growth.clinical studies on	
-V-242	smoothies	smoothies	inflammation	inflammation	protect against dna damage and strawberry smoothies against	
-V-242	fruit	fruit	smoothies	smoothies	and vegetable consumption i’m talking about whole food	
-V-242	walnuts	walnuts	fat	fat	' worth of	
-V-242	mouth	mouth	water	water	out with	
-V-242	beverages	beverages	tea	tea	like soda or hibiscus	
+V-242	flaxseeds	flaxseeds	appetite	appetite	was found to significantly suppress	
 V-242	cancer	cancer	colon cancer	colon cancer	and	
-V-242	smoothies	smoothies	mouth	mouth	would bypass the nitrate-reducing bacteria in the	
-V-242	kiwifruit	kiwifruit	dna	dna	smoothies protect against	
-V-242	beverages	beverages	hibiscus tea	hibiscus tea	like soda or	
-V-242	smoothies	smoothies	mouth	mouth	around in your	
+V-242	cancer	cancer	colon	colon	and	

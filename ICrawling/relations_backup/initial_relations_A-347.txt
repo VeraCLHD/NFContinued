@@ -1,21 +1,6 @@
 
-A-347	fiber	fiber	bloating	bloating	supplements can be inconvenient, taste nasty, and cause	
 A-347	plums	plums	constipation	constipation	resulted in a greater improvement in	
-A-347	prunes	prunes	diet	diet	vs. metamucil vs. vegan	
-A-347	symptoms	symptoms	fiber	fiber	than the commonly used	
-A-347	prunes	prunes	vegan	vegan	vs. metamucil vs.	
-A-347	treatment	treatment	plums	plums	with dried	
+A-347	plums	plums	constipation	constipation	should be “considered as a first line therapy for chronic	
 A-347	dried plums	dried plums	constipation	constipation	resulted in a greater improvement in	
-A-347	fiber	fiber	supplements	supplements		
-A-347	women	women	elderly	elderly	and the	
-A-347	constipation	constipation	fiber	fiber	symptoms than the commonly used	
-A-347	treatment	treatment	dried plums	dried plums	with	
-A-347	plums	plums	symptoms	symptoms	resulted in a greater improvement in constipation	
-A-347	vegan	vegan	diet	diet		
-A-347	supplements	supplements	bloating	bloating	can be inconvenient, taste nasty, and cause	
-A-347	constipation	constipation	symptoms	symptoms		
-A-347	metamucil	metamucil	diet	diet	vs. vegan	
-A-347	dried plums	dried plums	symptoms	symptoms	resulted in a greater improvement in constipation	
-A-347	prunes	prunes	metamucil	metamucil	vs.	
-A-347	metamucil	metamucil	vegan	vegan	vs.	
 A-347	americans	americans	constipation	constipation	suffer from chronic	
+A-347	dried plums	dried plums	constipation	constipation	should be “considered as a first line therapy for chronic	

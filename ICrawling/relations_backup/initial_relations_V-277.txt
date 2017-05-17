@@ -1,48 +1,14 @@
 
-V-277	energy	energy	mozart	mozart	expenditure on	
-V-277	music	music	testosterone	testosterone	conditions, whereas	
-V-277	metabolism	metabolism	weight gain	weight gain	and contribute to	
-V-277	anxiety	anxiety	blood	blood	scores, lower heart rate, lower	
-V-277	pain	pain	dental	dental	in children as well— undergoing minor medical and	
-V-277	blood	blood	mozart	mozart	cells from the person exposed to	
-V-277	calories	calories	lying	lying	a day even just	
-V-277	music	music	metabolism	metabolism	of your choice—does it affect your	
-V-277	music	music	metabolism	metabolism	slow our	
-V-277	anxiety	anxiety	pain	pain	and	
-V-277	anxiety	anxiety	blood pressure	blood pressure	scores, lower heart rate, lower	
-V-277	blood	blood	music	music	after the	
-V-277	testosterone	testosterone	women	women	is related to libido, dominance, aggressiveness, whereas	
-V-277	dental	dental	blood	blood	procedures, helping with	
-V-277	blood	blood	pain	pain	draws, getting their shots — even reducing the	
-V-277	music	music	weight gain	weight gain	slow our metabolism and contribute to	
-V-277	blood	blood	white blood cells	white blood cells	after the music and stuck their	
-V-277	music	music	anxiety	anxiety	instead of midazolam.music may be effective in reducing	
-V-277	music	music	blood	blood	and stuck their white	
-V-277	testosterone	testosterone	music	music	decreased in males under all	
-V-277	surgery	surgery	music	music	.now that we have anesthesia,	
-V-277	energy	energy	calories	calories	expenditure—the resting metabolic rate, the amount of	
-V-277	energy expenditure	energy expenditure	mozart	mozart	on	
-V-277	energy	energy	bach	bach	expenditure on mozart, but not on	
-V-277	children	children	dental	dental	as well— undergoing minor medical and	
-V-277	beethoven	beethoven	blood	blood		
 V-277	music	music	surgery	surgery	is used to calm nerves before	
-V-277	white blood cells	white blood cells	mozart	mozart	from the person exposed to	
-V-277	energy expenditure	energy expenditure	bach	bach	on mozart, but not on	
-V-277	energy expenditure	energy expenditure	calories	calories	—the resting metabolic rate, the amount of	
+V-277	anxiety	anxiety	pain	pain	and	
 V-277	variety	variety	side effects	side effects	of	
-V-277	music	music	white blood cells	white blood cells	and stuck their	
-V-277	surgery	surgery	anesthesia	anesthesia	.now that we have	
 V-277	mozart	mozart	testosterone	testosterone	suppressed	
-V-277	lying	lying	mozart	mozart	around—was lower in preemies when they piped in	
-V-277	anxiety	anxiety	children	children	and pain in	
 V-277	pain	pain	children	children	in	
-V-277	side effects	side effects	music	music	of relaxing	
-V-277	mozart	mozart	music	music	suppressed testosterone, as did jazz, as did pop	
-V-277	mozart	mozart	jazz	jazz	suppressed testosterone, as did	
+V-277	jazz	jazz	music	music	causes no post-operative hangover, so the researchers suggest we should start using	
 V-277	women	women	testosterone	testosterone	get a bigger boost in	
-V-277	music	music	testosterone	testosterone	for just 30 minutes,	
 V-277	music	music	anxiety	anxiety	worked significantly better than the drug:  lower	
 V-277	calories	calories	lying	lying	burned just	
 V-277	music	music	exercise	exercise	can not only improve	
 V-277	infants	infants	music	music	exposed to	
 V-277	mozart	mozart	pain	pain	is powerless against the	
+V-277	testosterone	testosterone	music	music	decreased in males under all	

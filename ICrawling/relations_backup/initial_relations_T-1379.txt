@@ -1,49 +1,14 @@
 
-T-1379	health	health	fish	fish	risks associated with eating meat and	
-T-1379	lead	lead	contamination	contamination		
-T-1379	health	health	meat	meat	risks associated with eating	
-T-1379	antibiotics	antibiotics	contaminants	contaminants	and environmental	
-T-1379	fiber	fiber	diet	diet	of commercially grown plants.today’s paleo	
-T-1379	diet	diet	heart health	heart health	may harm	
-T-1379	paleo diet	paleo diet	heart health	heart health	may harm	
-T-1379	meat	meat	contaminants	contaminants	was also free of hormones, antibiotics and environmental	
-T-1379	fiber	fiber	paleo diet	paleo diet	of commercially grown plants.today’s	
-T-1379	diet	diet	grains	grains	eschews	
-T-1379	diet	diet	legumes	legumes	eschews grains and	
-T-1379	plant-based	plant-based	diet	diet		
-T-1379	insects	insects	fruits	fruits	were a significant protein source.hybrid strains of	
-T-1379	paleo diet	paleo diet	grains	grains	eschews	
-T-1379	calories	calories	fat	fat	from	
-T-1379	diet	diet	health	health	may harm heart	
-T-1379	lead	lead	fish	fish	contamination of meat and	
-T-1379	meat	meat	antibiotics	antibiotics	was also free of hormones,	
-T-1379	insects	insects	protein	protein	were a significant	
-T-1379	protein	protein	carbohydrates	carbohydrates	and fat but low	
-T-1379	paleo diet	paleo diet	diet	diet	is based on the simple idea that the	
-T-1379	processed foods	processed foods	mammals	mammals	or the milk of other	
-T-1379	paleo diet	paleo diet	vegan	vegan	fans try to mimic.nutritional anthropologists believe	
-T-1379	meat	meat	hormones	hormones	was also free of	
-T-1379	fiber	fiber	grains	grains	of commercially grown plants.today’s paleo diet eschews	
-T-1379	milk	milk	mammals	mammals	of other	
-T-1379	fat	fat	carbohydrates	carbohydrates	but low	
-T-1379	paleo diet	paleo diet	health	health	may harm heart	
-T-1379	fiber	fiber	plants	plants	of commercially grown	
 T-1379	grains	grains	legumes	legumes	and	
-T-1379	paleo diet	paleo diet	meat	meat	’s emphasis on consuming large quantities of	
-T-1379	organic	organic	lead	lead	chicken bones was found to contain markedly high	
 T-1379	meat	meat	health	health	ignores numerous	
 T-1379	meat	meat	fish	fish	and	
-T-1379	diet	diet	meat	meat	’s emphasis on consuming large quantities of	
-T-1379	paleo diet	paleo diet	legumes	legumes	eschews grains and	
+T-1379	diet	diet	heart health	heart health	may harm	
+T-1379	paleo diet	paleo diet	heart health	heart health	may harm	
+T-1379	diet	diet	grains	grains	eschews	
+T-1379	paleo diet	paleo diet	grains	grains	eschews	
 T-1379	protein	protein	fat	fat	and	
-T-1379	lead	lead	meat	meat	contamination of	
-T-1379	paleo diet	paleo diet	vegan diets	vegan diets	fans try to mimic.nutritional anthropologists believe	
-T-1379	contamination	contamination	fish	fish	of meat and	
-T-1379	protein	protein	fruits	fruits	source.hybrid strains of	
+T-1379	insects	insects	protein	protein	were a significant	
+T-1379	paleo diet	paleo diet	diet	diet	is based on the simple idea that the	
+T-1379	vegan diets	vegan diets	paleolithic diets	paleolithic diets	may more closely match the macro- and micronutrient intake of	
 T-1379	contamination	contamination	meat	meat	of	
-T-1379	protein	protein	vegetables	vegetables	source.hybrid strains of fruits and	
 T-1379	fruits	fruits	vegetables	vegetables	and	
-T-1379	diet	diet	paleo diet	paleo diet	today’s	
-T-1379	processed foods	processed foods	milk	milk	or the	
-T-1379	organic	organic	chicken	chicken		
-T-1379	chicken	chicken	lead	lead	bones was found to contain markedly high	

@@ -1,6 +1,3 @@
 
-V-1099	usda	usda	apples	apples	measured the antioxidant content of various varieties of	
-V-1099	antioxidant content	antioxidant content	apples	apples	of various varieties of	
-V-1099	antioxidant	antioxidant	apples	apples	content of various varieties of	
 V-1099	usda	usda	antioxidant content	antioxidant content	measured the	
 V-1099	usda	usda	antioxidant	antioxidant	measured the	

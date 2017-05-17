@@ -1,34 +1,5 @@
 
-A-226	kidney	kidney	oregano	oregano	beans on top, and a teaspoon of dried	
-A-226	kidney beans	kidney beans	oregano	oregano	on top, and a teaspoon of dried	
-A-226	fruits	fruits	tea	tea	and vegetables—like berries, beans, and green	
-A-226	vegetables	vegetables	green tea	green tea	—like berries, beans, and	
-A-226	anti-inflammatory	anti-inflammatory	antioxidants	antioxidants		
-A-226	fruits	fruits	hibiscus	hibiscus	and vegetables—like berries, beans, and green tea or	
 A-226	tea	tea	hibiscus	hibiscus	or	
-A-226	fruits	fruits	berries	berries	and vegetables—like	
-A-226	fruits	fruits	green tea	green tea	and vegetables—like berries, beans, and	
-A-226	meat	meat	sleep	sleep	consumption, air pollution,	
-A-226	vegetables	vegetables	berries	berries	—like	
-A-226	antioxidant	antioxidant	plant foods	plant foods	content of 3,139 foods and antioxidant power of	
-A-226	antioxidant content	antioxidant content	plant foods	plant foods	of 3,139 foods and antioxidant power of	
-A-226	green tea	green tea	hibiscus	hibiscus	or	
-A-226	fruits	fruits	beans	beans	and vegetables—like berries,	
-A-226	spices	spices	antioxidants	antioxidants	in particular present a powerful source of	
-A-226	plant foods	plant foods	animal foods	animal foods	versus	
-A-226	berries	berries	antioxidant	antioxidant	in the morning to meet our minimum daily	
-A-226	meat	meat	air pollution	air pollution	consumption,	
-A-226	fruit	fruit	cancer	cancer	fights	
-A-226	vegetables	vegetables	beans	beans	—like berries,	
-A-226	vegetables	vegetables	hibiscus	hibiscus	—like berries, beans, and green tea or	
-A-226	argon laser	argon laser	antioxidant	antioxidant	to measure human	
-A-226	beans	beans	oregano	oregano	on top, and a teaspoon of dried	
-A-226	meat	meat	pollution	pollution	consumption, air	
-A-226	apple	apple	dates	dates	and some	
-A-226	superfood	superfood	bargains	bargains		
 A-226	fruits	fruits	vegetables	vegetables	and	
+A-226	green tea	green tea	hibiscus	hibiscus	or	
 A-226	peas	peas	carrots	carrots	and	
-A-226	carrots	carrots	peas	peas	and half a cup of snap	
-A-226	antioxidant content	antioxidant content	antioxidant	antioxidant	of 3,139 foods and	
-A-226	kidney	kidney	beans	beans		
-A-226	vegetables	vegetables	tea	tea	—like berries, beans, and green	

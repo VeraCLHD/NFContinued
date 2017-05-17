@@ -1,47 +1,7 @@
 
-V-135	enzymes	enzymes	dna	dna	can weld most of our	
-V-135	carotenoid	carotenoid	dna	dna	supplements to boost our	
-V-135	skin	skin	cancer	cancer		
-V-135	juice	juice	dna damage	dna damage	and draw their blood two hours later, the	
-V-135	orange	orange	massage	massage	flavored	
-V-135	dna	dna	carrots	carrots	repair, dietary supplementation with	
-V-135	cancer	cancer	citrus	citrus	.given to newly diagnosed breast cancer patients,	
-V-135	orange	orange	leukemia	leukemia	juice consumption was found protective against childhood	
-V-135	carotenoid	carotenoid	cryptoxanthin	cryptoxanthin	beta	
-V-135	cancer	cancer	phytonutrients	phytonutrients	.given to newly diagnosed breast cancer patients, citrus	
-V-135	juice	juice	leukemia	leukemia	consumption was found protective against childhood	
-V-135	cancer	cancer	cancer	cancer	.given to newly diagnosed breast	
-V-135	risk	risk	cancer	cancer	of the most serious type of skin	
-V-135	orange	orange	blood	blood	juice and draw their	
-V-135	orange juice	orange juice	dna damage	dna damage	and draw their blood two hours later, the	
-V-135	women	women	massage	massage	to apply orange flavored	
-V-135	risk	risk	skin	skin	of the most serious type of	
-V-135	juice	juice	dna	dna	and draw their blood two hours later, the	
-V-135	risk	risk	skin cancer	skin cancer	of the most serious type of	
-V-135	orange juice	orange juice	leukemia	leukemia	consumption was found protective against childhood	
-V-135	orange juice	orange juice	risk	risk	may increase the	
-V-135	citrus	citrus	phytonutrient	phytonutrient		
-V-135	carotenoid	carotenoid	citrus	citrus	beta cryptoxanthin, found primarily in	
-V-135	supplements	supplements	dna	dna	to boost our	
-V-135	supplements	supplements	dna	dna	did not provoke any alteration in	
-V-135	dna	dna	orange juice	orange juice	repair processes.though	
-V-135	cancer	cancer	breast cancer	breast cancer	.given to newly diagnosed	
-V-135	orange	orange	juice	juice		
-V-135	breast cancer	breast cancer	cancer	cancer	.given to newly diagnosed breast	
-V-135	blood	blood	dna damage	dna damage	two hours later, the	
-V-135	breast cancer	breast cancer	citrus	citrus	.given to newly diagnosed breast cancer patients,	
-V-135	dna	dna	juice	juice	repair processes.though orange	
-V-135	blood	blood	dna	dna	two hours later, the	
-V-135	orange juice	orange juice	blood	blood	and draw their	
-V-135	breast cancer	breast cancer	phytonutrients	phytonutrients	.given to newly diagnosed breast cancer patients, citrus	
-V-135	orange	orange	risk	risk	juice may increase the	
-V-135	dna	dna	fruits	fruits	protective agent was present in at least some	
-V-135	fruit	fruit	dna	dna	walk around with less	
-V-135	women	women	orange	orange	to apply	
 V-135	juice	juice	risk	risk	may increase the	
-V-135	carotenoid	carotenoid	supplements	supplements		
+V-135	enzymes	enzymes	dna	dna	can weld most of our	
+V-135	orange juice	orange juice	risk	risk	may increase the	
+V-135	vegetables	vegetables	vitamin c	vitamin c	found that the agent was heat sensitive and determined it was not	
+V-135	supplements	supplements	dna	dna	did not provoke any alteration in	
 V-135	fruits	fruits	vegetables	vegetables	and	
-V-135	fruit	fruit	dna damage	dna damage	walk around with less	
-V-135	orange juice	orange juice	dna	dna	and draw their blood two hours later, the	
-V-135	juice	juice	blood	blood	and draw their	
-V-135	dna	dna	orange	orange	repair processes.though	

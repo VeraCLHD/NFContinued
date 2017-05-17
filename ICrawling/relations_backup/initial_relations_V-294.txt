@@ -1,56 +1,15 @@
 
-V-294	vegetarian	vegetarian	diet	diet	form of	
-V-294	tuna	tuna	risk	risk	fish to their daily diet, and measured stone-forming	
-V-294	fish	fish	risk	risk	to their daily diet, and measured stone-forming	
-V-294	kidney	kidney	meat	meat	stones.so what about no	
-V-294	diet	diet	animal protein	animal protein	low in	
-V-294	risk	risk	urine	urine	factors in their	
-V-294	risk	risk	kidney	kidney	of	
-V-294	kidney	kidney	meat	meat	stones compared to those who ate	
-V-294	risk	risk	kidney	kidney	of being hospitalized for	
-V-294	fish	fish	diet	diet	to their daily	
-V-294	animal protein	animal protein	risk	risk	consumption enhances the	
-V-294	meat	meat	risk	risk	appears to markedly increase	
-V-294	kidney stones	kidney stones	red meat	red meat	are commonly advised to restrict the intake of	
-V-294	kidney stones	kidney stones	protein	protein	was animal	
-V-294	risk	risk	kidney	kidney	of developing	
-V-294	kidney stones	kidney stones	meat	meat	compared to those who ate	
-V-294	tuna	tuna	fish	fish		
 V-294	kidney stones	kidney stones	animal protein	animal protein	was	
-V-294	red meat	red meat	risk	risk	to decrease stone	
-V-294	red meat	red meat	chicken	chicken	to decrease stone risk, but what about	
-V-294	prevention	prevention	kidney	kidney	of	
-V-294	risk	risk	kidney stones	kidney stones	of developing	
-V-294	cod	cod	chicken	chicken	were compared to	
-V-294	kidney	kidney	animal protein	animal protein	stones was	
-V-294	vegetarians	vegetarians	risk	risk	were indeed at a lower	
-V-294	risk	risk	calcium	calcium	factors in their urine: how much	
-V-294	risk	risk	kidney stones	kidney stones	of being hospitalized for	
-V-294	salmon	salmon	chicken	chicken	and cod were compared to	
-V-294	kidney	kidney	protein	protein	stones was animal	
-V-294	animal protein	animal protein	diet	diet		
-V-294	animal protein	animal protein	diet	diet	to their	
-V-294	salmon	salmon	cod	cod	and	
-V-294	protein	protein	diet	diet		
-V-294	risk	risk	meat	meat	of kidney stones.so what about no	
-V-294	meat	meat	chicken	chicken	to decrease stone risk, but what about	
-V-294	protein	protein	diet	diet	to their	
-V-294	chicken	chicken	steak	steak	breast meat, and burger and	
-V-294	meat	meat	risk	risk	to decrease stone	
 V-294	chicken	chicken	fish	fish	and	
 V-294	magnesium	magnesium	risk	risk	may reduce the	
-V-294	uric acid	uric acid	tuna	tuna	in their urine before, and after, the extra	
-V-294	protein	protein	tuna	tuna	to their diet, like an extra can of	
-V-294	uric acid	uric acid	urine	urine	in their	
-V-294	animal protein	animal protein	tuna	tuna	to their diet, like an extra can of	
+V-294	prevention	prevention	kidney	kidney	of	
+V-294	risk	risk	kidney	kidney	of	
+V-294	cod	cod	chicken	chicken	were compared to	
 V-294	fish	fish	uric acid	uric acid	may actually be worse in terms of	
-V-294	protein	protein	animal protein	animal protein	in general, it seems, but specifically high in	
 V-294	kidney stones	kidney stones	united states	united states	affect approximately 1 in 11 people in the	
-V-294	tuna	tuna	diet	diet	fish to their daily	
-V-294	chicken	chicken	meat	meat	breast	
-V-294	diet	diet	protein	protein	low in animal	
-V-294	meat	meat	kidney	kidney	appears to markedly increase risk of	
-V-294	protein	protein	risk	risk	consumption enhances the	
-V-294	cod	cod	meat	meat	were compared to chicken breast	
-V-294	urine	urine	calcium	calcium	: how much	
-V-294	salmon	salmon	meat	meat	and cod were compared to chicken breast	
+V-294	vegetarians	vegetarians	risk	risk	were indeed at a lower	
+V-294	kidney stones	kidney stones	meat	meat	are commonly advised to restrict the intake of red	
+V-294	kidney stones	kidney stones	red meat	red meat	are commonly advised to restrict the intake of	
+V-294	kidney stones	kidney stones	protein	protein	was animal	
+V-294	kidney stones	kidney stones	meat	meat	compared to those who ate	
+V-294	salmon	salmon	cod	cod	and	

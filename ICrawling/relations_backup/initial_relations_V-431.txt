@@ -1,59 +1,20 @@
 
 V-431	cardiovascular disease	cardiovascular disease	diabetes	diabetes	and	
-V-431	smoking	smoking	lung cancer	lung cancer	after	
-V-431	risk	risk	diabetes	diabetes	of cardiovascular disease and	
-V-431	risk	risk	heart disease	heart disease	” for	
-V-431	risk	risk	disease	disease	” for heart	
-V-431	americans	americans	risk	risk	that live past middle age are at high	
-V-431	risk	risk	lung cancer	lung cancer	for	
-V-431	heart attack	heart attack	lung cancer	lung cancer	would be like quitting smoking after	
+V-431	eggs	eggs	heart disease	heart disease	may just take us from one sorry state—probably dying from	
 V-431	risk	risk	lung cancer	lung cancer	of	
-V-431	egg	egg	diabetes	diabetes	consumption and the risk of cardiovascular disease and	
-V-431	disease	disease	framingham heart study	framingham heart study	in the famous	
 V-431	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-431	egg	egg	heart attack	heart attack	yolks, because his	
-V-431	lung cancer	lung cancer	disease	disease	was a genetic	
-V-431	cholesterol	cholesterol	heart disease	heart disease	levels of the people without	
-V-431	cigarettes	cigarettes	cancer	cancer	and lung	
-V-431	saturated fat	saturated fat	fat	fat	and cholesterol, adding some more saturated	
-V-431	heart attack	heart attack	smoking	smoking	would be like quitting	
-V-431	lead	lead	cancer	cancer	us to conclude that lung	
-V-431	disease	disease	diabetes	diabetes	and	
-V-431	risk	risk	cancer	cancer	of lung	
-V-431	risk	risk	disease	disease	of dying from heart	
-V-431	cholesterol	cholesterol	disease	disease	if we’re at high risk for heart	
-V-431	diet	diet	risk	risk	is, in fact, a high-	
-V-431	risk	risk	heart disease	heart disease	individual when it comes to	
-V-431	egg	egg	disease	disease	consumption and the risk of cardiovascular	
-V-431	dietary cholesterol	dietary cholesterol	disease	disease	if we’re at high risk for heart	
-V-431	risk	risk	cancer	cancer	for lung	
-V-431	heart disease	heart disease	egg	egg	and	
-V-431	lead	lead	lung cancer	lung cancer	us to conclude that	
-V-431	egg	egg	heart attack	heart attack	yolks after the	
-V-431	risk	risk	disease	disease	individual when it comes to heart	
-V-431	egg	egg	cardiovascular disease	cardiovascular disease	consumption and the risk of	
-V-431	fat	fat	saturated fat	saturated fat	and cholesterol, adding some more	
-V-431	egg	egg	risk	risk	consumption and the	
-V-431	heart attack	heart attack	cancer	cancer	would be like quitting smoking after lung	
-V-431	risk	risk	cardiovascular disease	cardiovascular disease	of	
-V-431	dietary cholesterol	dietary cholesterol	risk	risk	if we’re at high	
-V-431	risk	risk	heart disease	heart disease	of dying from	
-V-431	smoking	smoking	cancer	cancer	after lung	
-V-431	disease	disease	egg	egg	and	
-V-431	fat	fat	cholesterol	cholesterol	and	
-V-431	cholesterol	cholesterol	disease	disease	levels of those that did develop heart	
-V-431	cholesterol	cholesterol	heart disease	heart disease	levels of those that did develop	
-V-431	cholesterol	cholesterol	disease	disease	levels of the people without heart	
-V-431	egg	egg	eggs	eggs	industry can design a study showing that adding	
 V-431	cigarettes	cigarettes	lung cancer	lung cancer	and	
+V-431	lung cancer	lung cancer	disease	disease	was a genetic	
+V-431	heart attack	heart attack	plaque	plaque	is 45 years or so in the future – but why would he want to accelerate the progression of his atherosclerotic	
+V-431	risk	risk	cardiovascular disease	cardiovascular disease	of	
+V-431	heart attack	heart attack	smoking	smoking	would be like quitting	
+V-431	disease	disease	diabetes	diabetes	and	
 V-431	cancer	cancer	disease	disease	was a genetic	
 V-431	smoking	smoking	risk	risk	was a	
-V-431	eggs	eggs	heart disease	heart disease	are harmful, why don’t all the studies on	
-V-431	risk	risk	disease	disease	for heart	
-V-431	dietary cholesterol	dietary cholesterol	heart disease	heart disease	if we’re at high risk for	
-V-431	risk	risk	disease	disease	of cardiovascular	
-V-431	heart disease	heart disease	framingham heart study	framingham heart study	in the famous	
-V-431	risk	risk	heart disease	heart disease	for	
-V-431	risk	risk	smoking	smoking	for	
-V-431	cholesterol	cholesterol	heart disease	heart disease	if we’re at high risk for	
+V-431	cancer	cancer	risk	risk	won’t go up (conveniently just failing to mention that you’re already at high	
+V-431	disease	disease	egg	egg	and	
+V-431	fat	fat	cholesterol	cholesterol	and	
+V-431	diet	diet	risk	risk	is, in fact, a high-	
+V-431	heart disease	heart disease	egg	egg	and	
+V-431	lung cancer	lung cancer	risk	risk	won’t go up (conveniently just failing to mention that you’re already at high	
 V-431	western diet	western diet	risk	risk	is, in fact, a high-	

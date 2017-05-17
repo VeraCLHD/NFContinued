@@ -1,40 +1,13 @@
 
-V-336	diet	diet	vegetables	vegetables	of lean meat, fruits,	
-V-336	cholesterol	cholesterol	diet	diet	may have been virtually absent from the	
-V-336	disease	disease	blood	blood	virtually absent–and not just heart disease, but high	
-V-336	blood	blood	stroke	stroke	pressure,	
-V-336	arteries	arteries	plant-based	plant-based	of animals adapted to eating a more	
-V-336	disease	disease	chronic disease	chronic disease	.to find a population nearly free of	
-V-336	american journal of cardiology	american journal of cardiology	fat	fat	noted 25 years ago, no matter how much	
-V-336	africa	africa	heart disease	heart disease	found coronary artery disease virtually absent–and not just	
-V-336	disease	disease	high blood pressure	high blood pressure	virtually absent–and not just heart disease, but	
-V-336	seeds	seeds	evolution	evolution	for 90% of our	
-V-336	china	china	africa	africa	and	
-V-336	diet	diet	meat	meat	of lean	
-V-336	plant-based	plant-based	disease	disease	diets can not only stop heart	
-V-336	eggs	eggs	cholesterol	cholesterol	worth of	
-V-336	disease	disease	blood pressure	blood pressure	virtually absent–and not just heart disease, but high	
-V-336	fat	fat	cholesterol	cholesterol	and	
-V-336	greens	greens	seeds	seeds	and	
-V-336	africa	africa	disease	disease	found coronary artery	
-V-336	fat	fat	atherosclerosis	atherosclerosis	and cholesterol carnivores eat, they do not develop	
-V-336	cholesterol	cholesterol	atherosclerosis	atherosclerosis	carnivores eat, they do not develop	
 V-336	bone marrow	bone marrow	brains	brains	and	
-V-336	esselstyn	esselstyn	plant-based diets	plant-based diets	is so important, showing that	
-V-336	greens	greens	evolution	evolution	and seeds for 90% of our	
-V-336	eggs	eggs	butter	butter	worth of cholesterol and a stick of	
+V-336	china	china	africa	africa	and	
 V-336	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-336	plant-based diets	plant-based diets	disease	disease	can not only stop heart	
 V-336	disease	disease	death	death	is our #1 cause of	
-V-336	plant-based	plant-based	heart disease	heart disease	diets can not only stop	
+V-336	fat	fat	cholesterol	cholesterol	and	
 V-336	heart disease	heart disease	death	death	is our #1 cause of	
-V-336	china	china	diet	diet	and africa were eating the type of	
-V-336	disease	disease	heart disease	heart disease	virtually absent–and not just	
-V-336	evolution	evolution	cholesterol	cholesterol	–holding on to	
-V-336	diet	diet	fruits	fruits	of lean meat,	
-V-336	kids	kids	puberty	puberty	to	
-V-336	cholesterol	cholesterol	butter	butter	and a stick of	
-V-336	blood	blood	diabetes	diabetes	pressure, stroke,	
-V-336	esselstyn	esselstyn	plant-based	plant-based	is so important, showing that	
+V-336	greens	greens	seeds	seeds	and	
+V-336	heart attacks	heart attacks	arteries	arteries	die off and get replaced by those who could live to a ripe old age with clean	
 V-336	chronic disease	chronic disease	disease	disease	.to find a population nearly free of chronic	
 V-336	plant-based diets	plant-based diets	heart disease	heart disease	can not only stop	
+V-336	disease	disease	chronic disease	chronic disease	.to find a population nearly free of	
+V-336	disease	disease	health	health	have prompted a great deal of research into what humans are meant to eat for optimal	

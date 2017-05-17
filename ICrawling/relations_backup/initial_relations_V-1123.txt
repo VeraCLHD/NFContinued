@@ -1,13 +1,4 @@
 
-V-1123	milk	milk	protein	protein	and milk	
-V-1123	acne	acne	milk	milk	epidemic…[but] it is even more important that excessive	
-V-1123	disease	disease	united states	united states	[the #1 killer in the	
-V-1123	tumor	tumor	igf-1	igf-1	promotor effect of	
-V-1123	heart disease	heart disease	united states	united states	[the #1 killer in the	
-V-1123	igf-1	igf-1	dairy	dairy	[insulin-like growth factor 1, from	
 V-1123	milk	milk	dairy	dairy	and	
-V-1123	disease	disease	protein	protein	should restrict consumption of milk and milk	
 V-1123	disease	disease	milk	milk	should restrict consumption of	
-V-1123	coronary heart disease	coronary heart disease	united states	united states	[the #1 killer in the	
 V-1123	milk	milk	evolution	evolution	developed over the course of mammalian	
-V-1123	tumor	tumor	insulin-like growth factor 1	insulin-like growth factor 1	promotor effect of igf-1 [	

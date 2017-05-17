@@ -1,75 +1,16 @@
 
-A-218	goji	goji	milk	milk	berries in	
-A-218	bad cholesterol	bad cholesterol	disease	disease	levels and increase the risk of heart	
-A-218	chinese	chinese	medicine	medicine		
-A-218	nuts	nuts	trail mix	trail mix	or seeds—in other words, goji	
-A-218	goji	goji	berries	berries		
-A-218	eggs	eggs	blood	blood	can increase zeaxanthin levels in the	
-A-218	goji	goji	antioxidant	antioxidant	berries are one of the most	
-A-218	antioxidant	antioxidant	snacks	snacks	packed	
-A-218	egg	egg	zeaxanthin	zeaxanthin	yolk-based dietary strategy to increase plasma	
-A-218	phytonutrients	phytonutrients	chicken	chicken	from the egg that came from the	
-A-218	elderly	elderly	medicine	medicine	in traditional chinese	
-A-218	goji berries	goji berries	milk	milk	in	
-A-218	berries	berries	trail mix	trail mix	with nuts or seeds—in other words, goji	
-A-218	berries	berries	snacks	snacks	are one of the most antioxidant packed	
-A-218	berries	berries	goji	goji	with nuts or seeds—in other words,	
-A-218	goji	goji	zeaxanthin	zeaxanthin	berries, which have up to 60 times more	
-A-218	goji	goji	nuts	nuts	berries with	
-A-218	eggs	eggs	spinach	spinach	compared to corn and	
-A-218	immune function	immune function	goji berries	goji berries	(boosting natural killer cell activity),	
-A-218	goji berries	goji berries	antioxidant	antioxidant	are one of the most	
-A-218	berries	berries	nuts	nuts	with	
-A-218	lettuce	lettuce	spinach	spinach	than	
-A-218	chinese	chinese	goji	goji	medicine, people are often prescribed 40 to 100	
-A-218	goji berries	goji berries	goji	goji	with nuts or seeds—in other words,	
-A-218	sunburn	sunburn	sunlight	sunlight	knows how damaging the uv rays in	
-A-218	phytonutrients	phytonutrients	eggs	eggs	from	
-A-218	organic	organic	eggs	eggs		
-A-218	cataracts	cataracts	risk	risk	are removed, the	
-A-218	goji	goji	trail mix	trail mix	berries with nuts or seeds—in other words, goji	
-A-218	eggs	eggs	corn	corn	compared to	
-A-218	goji berries	goji berries	seeds	seeds	with nuts or	
-A-218	risk	risk	blindness	blindness	of	
-A-218	goji	goji	seeds	seeds	berries with nuts or	
-A-218	cholesterol	cholesterol	risk	risk	levels and increase the	
-A-218	bad cholesterol	bad cholesterol	heart disease	heart disease	levels and increase the risk of	
-A-218	prevention	prevention	macular degeneration	macular degeneration	of age related	
-A-218	iceberg lettuce	iceberg lettuce	spinach	spinach	than	
-A-218	blindness	blindness	women	women	in older men and	
-A-218	berries	berries	milk	milk	in	
-A-218	nuts	nuts	seeds	seeds	or	
-A-218	goji berries	goji berries	trail mix	trail mix	with nuts or seeds—in other words, goji	
-A-218	elderly	elderly	chinese	chinese	in traditional	
-A-218	macular degeneration	macular degeneration	blindness	blindness	is the leading cause of legal	
-A-218	zeaxanthin	zeaxanthin	eggs	eggs	than	
-A-218	eye	eye	sunlight	sunlight	is designed to take	
 A-218	eggs	eggs	zeaxanthin	zeaxanthin	can increase	
-A-218	berries	berries	seeds	seeds	with nuts or	
-A-218	goji	goji	snacks	snacks	berries are one of the most antioxidant packed	
-A-218	immune function	immune function	goji	goji	(boosting natural killer cell activity),	
-A-218	phytonutrients	phytonutrients	spinach	spinach	from eggs compared to corn and	
-A-218	corn	corn	spinach	spinach	and a half cup of	
-A-218	goji berries	goji berries	snacks	snacks	are one of the most antioxidant packed	
-A-218	egg	egg	eggs	eggs	industry brags that	
+A-218	goji berries	goji berries	zeaxanthin	zeaxanthin	may be an effective, safe whole food strategy to increase	
+A-218	plants	plants	eye	eye	directly, we see a substantially larger increase in protective	
+A-218	eggs	eggs	corn	corn	compared to	
 A-218	risk	risk	heart disease	heart disease	of	
-A-218	corn	corn	chicken	chicken	and blades of grass the	
+A-218	berries	berries	zeaxanthin	zeaxanthin	may be an effective, safe whole food strategy to increase	
+A-218	goji berries	goji berries	milk	milk	in	
+A-218	risk	risk	blindness	blindness	of	
 A-218	corn	corn	spinach	spinach	and	
-A-218	bad cholesterol	bad cholesterol	risk	risk	levels and increase the	
-A-218	cholesterol	cholesterol	heart disease	heart disease	levels and increase the risk of	
-A-218	phytonutrients	phytonutrients	egg	egg	from the	
-A-218	phytonutrients	phytonutrients	corn	corn	from eggs compared to	
-A-218	risk	risk	disease	disease	of heart	
-A-218	seeds	seeds	goji	goji	—in other words,	
-A-218	egg	egg	chicken	chicken	that came from the	
-A-218	chicken	chicken	corn	corn	that came from the	
-A-218	cholesterol	cholesterol	disease	disease	levels and increase the risk of heart	
-A-218	zeaxanthin	zeaxanthin	blood	blood	levels in the	
-A-218	seeds	seeds	trail mix	trail mix	—in other words, goji	
-A-218	goji berries	goji berries	nuts	nuts	with	
-A-218	nuts	nuts	goji	goji	or seeds—in other words,	
-A-218	zeaxanthin	zeaxanthin	diet	diet	from our	
+A-218	goji berries	goji berries	eye	eye	could protect against loss of pigment and prevent the buildup of debris that builds up in the back of the	
 A-218	berries	berries	antioxidant	antioxidant	are one of the most	
-A-218	chinese	chinese	goji berries	goji berries	medicine, people are often prescribed 40 to 100	
-A-218	immune function	immune function	berries	berries	(boosting natural killer cell activity), goji	
-A-218	cataracts	cataracts	blindness	blindness	are removed, the risk of	
+A-218	berries	berries	milk	milk	in	
+A-218	goji berries	goji berries	antioxidant	antioxidant	are one of the most	
+A-218	nuts	nuts	seeds	seeds	or	
+A-218	berries	berries	eye	eye	could protect against loss of pigment and prevent the buildup of debris that builds up in the back of the	

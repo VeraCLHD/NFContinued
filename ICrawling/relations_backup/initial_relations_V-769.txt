@@ -1,26 +1,6 @@
 
-V-769	iron	iron	fat	fat	in beef, without the saturated	
-V-769	garlic	garlic	vegetables	vegetables	and onions.in fact, the whole allium family of	
-V-769	zinc	zinc	whole grains	whole grains	from	
-V-769	iron	iron	zinc	zinc	and	
-V-769	plant foods	plant foods	garlic	garlic	—or eat mineral absorption enhancers , such as	
-V-769	zinc	zinc	nuts	nuts	from whole grains, greens, beans,	
-V-769	seeds	seeds	phytonutrients	phytonutrients	: the fiber, folate,	
-V-769	iron	iron	grains	grains	and zinc from whole	
-V-769	zinc	zinc	iron	iron	…” here’s the bioaccessibility of	
 V-769	iron	iron	beef	beef	in	
-V-769	calcium	calcium	hormones	hormones	in dairy, for example, without also getting the	
+V-769	vegetables	vegetables	iron	iron	was recently found to have a “promoting influence[s] on the bioaccessibility of	
 V-769	calcium	calcium	dairy	dairy	in	
-V-769	iron	iron	nuts	nuts	and zinc from whole grains, greens, beans,	
-V-769	garlic	garlic	onions	onions	and 	
-V-769	zinc	zinc	greens	greens	from whole grains,	
 V-769	cloves	cloves	garlic	garlic	of	
-V-769	seeds	seeds	fiber	fiber	: the	
-V-769	iron	iron	saturated fat	saturated fat	in beef, without the	
-V-769	iron	iron	beans	beans	and zinc from whole grains, greens,	
-V-769	zinc	zinc	grains	grains	from whole	
-V-769	seeds	seeds	folate	folate	: the fiber,	
-V-769	iron	iron	greens	greens	and zinc from whole grains,	
-V-769	zinc	zinc	beans	beans	from whole grains, greens,	
-V-769	iron	iron	whole grains	whole grains	and zinc from	
-V-769	zinc	zinc	seeds	seeds	from whole grains, greens, beans, nuts, and	
+V-769	iron	iron	zinc	zinc	and	

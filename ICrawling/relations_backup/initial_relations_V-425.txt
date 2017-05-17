@@ -1,29 +1,8 @@
 
-V-425	boiling	boiling	antioxidant	antioxidant	may actually best retain the	
-V-425	baking	baking	boiled	boiled	or roasting, so	
-V-425	microwaving	microwaving	boiling	boiling	or	
-V-425	baking	baking	boiling	boiling	can be recommended for sweet potato cooking.	
-V-425	antioxidant	antioxidant	steaming	steaming	power of sweet potatoes, compared to roasting and	
-V-425	antioxidant	antioxidant	sweet potatoes	sweet potatoes	power of	
-V-425	boiled	boiled	potatoes	potatoes	sweet	
-V-425	sweet potatoes	sweet potatoes	baking	baking	was found to be half that of	
-V-425	antioxidant	antioxidant	potatoes	potatoes	power of sweet	
-V-425	boiled	boiled	sweet potatoes	sweet potatoes		
-V-425	blood sugar	blood sugar	skin	skin	spike.make sure to keep the	
-V-425	lead	lead	acrylamide	acrylamide	to the formation of	
-V-425	glycemic index	glycemic index	potatoes	potatoes	of boiled sweet	
-V-425	beta carotene	beta carotene	blood	blood	in the	
 V-425	roasting	roasting	steaming	steaming	and	
-V-425	blood	blood	skin	skin	sugar spike.make sure to keep the	
-V-425	bioavailability	bioavailability	glycemic index	glycemic index	of nutrients, while at the same time the	
-V-425	glycemic index	glycemic index	boiled	boiled	of	
-V-425	baking	baking	boiling	boiling	to	
-V-425	glycemic index	glycemic index	sweet potatoes	sweet potatoes	of boiled	
-V-425	boiling	boiling	sweet potatoes	sweet potatoes	may actually best retain the antioxidant power of	
-V-425	potatoes	potatoes	baking	baking	was found to be half that of	
-V-425	sugar	sugar	skin	skin	spike.make sure to keep the	
 V-425	baking	baking	vitamin a	vitamin a	can cause an 80% drop in	
-V-425	lead	lead	carcinogen	carcinogen	to the formation of acrylamide, a potential human	
-V-425	antioxidant	antioxidant	roasting	roasting	power of sweet potatoes, compared to	
-V-425	vitamin a	vitamin a	boiling	boiling	levels, twice as much as	
-V-425	blood	blood	sugar	sugar		
+V-425	boiling	boiling	antioxidant	antioxidant	may actually best retain the	
+V-425	glycemic index	glycemic index	boiled	boiled	of	
+V-425	microwaving	microwaving	boiling	boiling	or	
+V-425	potatoes	potatoes	baking	baking	was found to be half that of	
+V-425	sweet potatoes	sweet potatoes	baking	baking	was found to be half that of	

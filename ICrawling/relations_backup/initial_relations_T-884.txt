@@ -1,55 +1,7 @@
 
-T-884	ham	ham	processed meat	processed meat	and other	
-T-884	meat	meat	weight gain	weight gain	intake (such as ham) and 	
-T-884	meat	meat	telomeres	telomeres	consumption may also shorten our	
-T-884	processed meat	processed meat	produce	produce	to lower the risk of botulism may	
-T-884	processed meat	processed meat	ham	ham	intake (such as	
-T-884	nitrates	nitrates	processed meat	processed meat	and nitrite use in	
-T-884	meat	meat	risk	risk	consumption may also be associated with an increased	
-T-884	nitrates	nitrates	nitrite	nitrite	and	
-T-884	meat	meat	nitrosamines	nitrosamines	to lower the risk of botulism may produce 	
-T-884	meat	meat	risk	risk	to lower the	
-T-884	risk	risk	nitrosamines	nitrosamines	of botulism may produce 	
-T-884	nitrates	nitrates	risk	risk	and nitrite use in processed meat to lower the	
-T-884	meat	meat	cellulite	cellulite	intake (such as ham) and weight gain and 	
-T-884	produce	produce	nitrosamines	nitrosamines	 	
-T-884	processed meat	processed meat	risk	risk	to lower the	
-T-884	risk	risk	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	of lymphoma and 	
-T-884	meat	meat	ham	ham	intake (such as	
-T-884	lymphoma	lymphoma	disease	disease	and chronic obstructive pulmonary	
-T-884	lymphoma	lymphoma	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	and 	
-T-884	risk	risk	produce	produce	of botulism may	
-T-884	meat	meat	botulism	botulism	to lower the risk of	
-T-884	meats	meats	ham	ham	such as	
-T-884	nitrates	nitrates	meat	meat	and nitrite use in processed	
-T-884	weight gain	weight gain	cellulite	cellulite	and 	
 T-884	ham	ham	health	health	have deleterious effects on our	
-T-884	processed meats	processed meats	ham	ham	such as	
-T-884	nitrite	nitrite	meat	meat	use in processed	
-T-884	meats	meats	health	health	such as ham have deleterious effects on our	
-T-884	risk	risk	botulism	botulism	of	
-T-884	risk	risk	carcinogens	carcinogens	of botulism may produce nitrosamines, potential	
-T-884	ham	ham	cellulite	cellulite	) and weight gain and 	
-T-884	risk	risk	lymphoma	lymphoma	of	
-T-884	botulism	botulism	produce	produce	may	
-T-884	processed meat	processed meat	botulism	botulism	to lower the risk of	
-T-884	meat	meat	produce	produce	to lower the risk of botulism may	
-T-884	nitrite	nitrite	processed meat	processed meat	use in	
-T-884	processed meat	processed meat	nitrosamines	nitrosamines	to lower the risk of botulism may produce 	
-T-884	processed meat	processed meat	weight gain	weight gain	intake (such as ham) and 	
-T-884	processed meat	processed meat	telomeres	telomeres	consumption may also shorten our	
-T-884	processed meats	processed meats	health	health	such as ham have deleterious effects on our	
-T-884	ham	ham	meat	meat	and other processed	
-T-884	botulism	botulism	nitrosamines	nitrosamines	may produce 	
-T-884	processed meat	processed meat	cellulite	cellulite	intake (such as ham) and weight gain and 	
-T-884	produce	produce	carcinogens	carcinogens	 nitrosamines, potential	
-T-884	nitrite	nitrite	risk	risk	use in processed meat to lower the	
 T-884	ham	ham	pork	pork	is	
-T-884	smoking	smoking	carcinogens	carcinogens	process may instill	
-T-884	nitrite	nitrite	botulism	botulism	use in processed meat to lower the risk of	
-T-884	ham	ham	weight gain	weight gain	) and 	
-T-884	botulism	botulism	carcinogens	carcinogens	may produce nitrosamines, potential	
-T-884	processed meat	processed meat	carcinogens	carcinogens	to lower the risk of botulism may produce nitrosamines, potential	
-T-884	risk	risk	disease	disease	of lymphoma and chronic obstructive pulmonary	
-T-884	ham	ham	telomeres	telomeres	and other processed meat consumption may also shorten our	
-T-884	meat	meat	carcinogens	carcinogens	to lower the risk of botulism may produce nitrosamines, potential	
+T-884	risk	risk	botulism	botulism	of	
+T-884	botulism	botulism	produce	produce	may	
+T-884	nitrates	nitrates	nitrite	nitrite	and	
+T-884	risk	risk	lymphoma	lymphoma	of	

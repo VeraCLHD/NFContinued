@@ -92,8 +92,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					Pair<Term> temrs = InitialRelationsManager.tuplesOfTerms.get(candidate1 + "l_o_v_e" + candidate2);
 					
 					if (temrs != null){
-						List<String> stdCase = lookForATermWordMatch(sentenceString, candidate1, candidate2);
-						for(String match: stdCase){
+						List<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, candidate1, candidate2);
+						for(Pair<String> match: stdCase){
 							extractRelation(temrs.first, candidate1, temrs.second, candidate2, match);
 						}
 						//System.out.println(temrs.first.getOriginalTerm() + " " + temrs.second.getOriginalTerm());
@@ -193,7 +193,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		return tokenCombinations;
 	}
 	
-	private void handleLemmas(Term term1, Term term2, Sentence sentence){
+	/*private void handleLemmas(Term term1, Term term2, Sentence sentence){
 		List<String> lemmas = sentence.lemmas();
 		
 		if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
@@ -218,10 +218,10 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		}
 		
 		
-	}
+	}*/
 
 
-	private void handleMorphoVariations(String sentenceString, Term term1, Term term2) {
+	/*private void handleMorphoVariations(String sentenceString, Term term1, Term term2) {
 		//morph. variations of both terms
 		Set<String> vars1 = term1.getCatvariations();
 		vars1.addAll(term1.getMesh());
@@ -264,13 +264,16 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				
 			}
 		}
-	}
+	}*/
 	
 	// term1: der Term selbst
-	private void extractRelation(Term term1, String var1, Term term2, String var2, String candidate) {
-		// direct connections are ignored && !StringUtils.isBlank(" ")
+	private void extractRelation(Term term1, String var1, Term term2, String var2, Pair<String> pair) {
+		//without terms
+		String candidate = pair.first;
+		candidate = processCandidate(candidate);
+		String candidateWithTerms = pair.second;
 		if(!candidate.isEmpty() ){
-			candidate = processCandidate(candidate);
+			
 			int len = candidate.split(" ").length;
 			Relation relation = new Relation();
 			//found like this
@@ -282,11 +285,12 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			// punctuation commented out .replaceAll("(\\p{Punct}+)","")
 			relation.setRel(candidate);
 			
-			
+			List<String> posTags = annotatePOS(pair, var1, var2);
+			// Filters begin here
 			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
-			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(candidate);
-			// if longer than 8 words -> automatically filtered
-			if(len > 8 || RelationsFilter.isOrStartsWithPunct(candidate)){
+			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(posTags, candidate);
+			// do not extract incomplete NPs, do not extract candidates that contain other terms and punctuation
+			if(RelationsFilter.isOrStartsWithPunct(candidate) || RelationsFilter.startsWithN(posTags, candidate) || RelationsFilter.candidateContainsOtherTerms(candidate)){
 				String relations = "";
 				relations = relations + relation.getArg1() + "\t";
 				relations = relations + relation.getArg1Origin() + "\t";
@@ -295,8 +299,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				relations = relations + relation.getRel() + "\t";
 				Writer.appendLineToFile(relations, "relations_backup/trash_relations.txt");
 			}
-			// if candidate matches fixed patterns
-			else if((fixed_result == true || vb_result == true) || len<=8){
+			// if candidate matches fixed patterns; || len<=8
+			else if((fixed_result == true || vb_result == true)){
 				//&& !RelationsFilter.startsWithSingleChar(candidate)
 					// at the level of 1 text - no duplicates, at the level of all texts - duplicates
 					this.getRelationsForOneText().add(relation);
@@ -325,9 +329,31 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		}
 		
 	}
+	
+	public List<String> annotatePOS(Pair<String> pair, String var1, String var2){
+		int len1 = var1.split(" ").length;
+		int len2 = var2.split(" ").length;
+		String candidate = pair.first;
+		String candidateWithTerms = pair.second;
+		List<String> pos =  new ArrayList<String>();
+		// annotate POS
+		if(!candidate.isEmpty() && !candidate.matches("\\s+") && !candidate.equals(" ") && candidate !=null){
+			Sentence sent = new Sentence(candidateWithTerms);
+				// pos tags penn tree bank
+				//https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+				// for checking of the POS tags -> candidate starts with NNS for example, we don't need the terms themselves.
+			// This is done only to make sure we have the correct tags.
+			List<String> posTest =  sent.posTags();
+			if(!candidate.matches("(\\p{Punct}+)") && posTest.size() != 0){
+				pos =  sent.posTags().subList(0+len1, posTest.size()-len2);
+			}
+			
+				
+			}
+		return pos;
+	}
 
-
-	private String processCandidate(String candidate) {
+	public String processCandidate(String candidate) {
 		candidate = candidate.trim();
 		candidate = candidate.replaceAll("-LRB-","(");
 		candidate = candidate.replaceAll("-RRB-",")");
@@ -336,8 +362,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	
 	//http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
 	//http://stackoverflow.com/questions/4769652/how-do-you-use-the-java-word-boundary-with-apostrophes
-	private List<String> lookForATermWordMatch(String sentenceString, String term1, String term2) {
-		List<String> candidates = new ArrayList<String>();
+	private List<Pair<String>> lookForATermWordMatch(String sentenceString, String term1, String term2) {
+		List<Pair<String>> candidates = new ArrayList<Pair<String>>();
 		Matcher matcher = Pattern.compile(
 				"\\b" +
 				 Pattern.quote(term1) + "\\b"
@@ -346,8 +372,12 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				 + Pattern.quote(term2) + "\\b").matcher(sentenceString);
 		
 		while(matcher.find()){
-			String match = matcher.group(1);
-			candidates.add(match);
+			// the old candidate without the terms themselves
+			String matchWithoutTerms = matcher.group(1);
+			// match contains the strings of the terms themselves now
+			String match = term1 + matchWithoutTerms + term2;
+			Pair<String> pair = new Pair<String>(matchWithoutTerms, match);
+			candidates.add(pair);
 			
 		}
 		return candidates;

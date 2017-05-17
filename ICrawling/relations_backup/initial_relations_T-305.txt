@@ -1,60 +1,9 @@
 
-T-305	folate	folate	multivitamins	multivitamins	from beans and greens is helpful),	
-T-305	health food	health food	cancer	cancer	store employees, as their recommendations for breast	
-T-305	breast health	breast health	cancer	cancer	and may reduce	
-T-305	health food store	health food store	cancer treatment	cancer treatment	employees, as their recommendations for breast	
-T-305	supplements	supplements	greens	greens	(but folate from beans and	
-T-305	plant-based diets	plant-based diets	breast cancer	breast cancer	may help prevent	
-T-305	herbal	herbal	green tea	green tea	teas,	
-T-305	greens	greens	multivitamins	multivitamins	is helpful),	
-T-305	health food store	health food store	cancer	cancer	employees, as their recommendations for breast	
-T-305	health food store	health food store	treatment	treatment	employees, as their recommendations for breast cancer	
-T-305	beans	beans	greens	greens	and	
-T-305	plant-based	plant-based	breast cancer	breast cancer	diets may help prevent	
-T-305	breast cancer	breast cancer	broccoli	broccoli	and prolong survival, thanks to phytonutrients in flax,	
-T-305	health food store	health food store	breast cancer	breast cancer	employees, as their recommendations for	
-T-305	breast cancer	breast cancer	phytonutrients	phytonutrients	and prolong survival, thanks to	
 T-305	meat	meat	dairy	dairy	and	
 T-305	stool size	stool size	breast health	breast health	has been associated with	
-T-305	dairy	dairy	fat	fat	(see also here), trans	
-T-305	cancer	cancer	broccoli	broccoli	and prolong survival, thanks to phytonutrients in flax,	
-T-305	stool size	stool size	health	health	has been associated with breast	
-T-305	breast cancer	breast cancer	treatment	treatment		
-T-305	health food	health food	treatment	treatment	store employees, as their recommendations for breast cancer	
-T-305	herbal	herbal	tea	tea	teas, green	
-T-305	dairy	dairy	kimchi	kimchi	(see also here), trans fat, saturated fat,	
-T-305	animal products	animal products	meat	meat	such as	
-T-305	exercise	exercise	sleep	sleep	and	
-T-305	risk	risk	dairy	dairy	should consider reducing their consumption of meat,	
-T-305	breast health	breast health	risk	risk	and may reduce cancer	
-T-305	fruits	fruits	vegetables	vegetables	and	
-T-305	folate	folate	greens	greens	from beans and	
-T-305	health food	health food	cancer treatment	cancer treatment	store employees, as their recommendations for breast	
-T-305	herbal	herbal	mushrooms	mushrooms	teas, green tea, and white-button	
-T-305	cancer	cancer	phytonutrients	phytonutrients	and prolong survival, thanks to	
-T-305	fruits	fruits	exercise	exercise	and vegetables, and get a enough	
-T-305	fruits	fruits	sleep	sleep	and vegetables, and get a enough exercise and	
-T-305	health	health	cancer treatment	cancer treatment	food store employees, as their recommendations for breast	
-T-305	cancer	cancer	risk	risk		
-T-305	phytonutrients	phytonutrients	soy	soy	in flax, broccoli, and	
-T-305	health	health	cancer	cancer	food store employees, as their recommendations for breast	
-T-305	health	health	breast cancer	breast cancer	food store employees, as their recommendations for	
-T-305	phytonutrients	phytonutrients	broccoli	broccoli	in flax,	
-T-305	folate	folate	beans	beans	from	
-T-305	supplements	supplements	beans	beans	(but folate from	
-T-305	cancer	cancer	flax	flax	and prolong survival, thanks to phytonutrients in	
-T-305	plant-based diets	plant-based diets	cancer	cancer	may help prevent breast	
-T-305	dairy	dairy	trans fat	trans fat	(see also here),	
-T-305	health	health	risk	risk	and may reduce cancer	
-T-305	dairy	dairy	saturated fat	saturated fat	(see also here), trans fat,	
-T-305	breast cancer	breast cancer	flax	flax	and prolong survival, thanks to phytonutrients in	
-T-305	beans	beans	multivitamins	multivitamins	and greens is helpful),	
-T-305	health	health	cancer	cancer	and may reduce	
-T-305	plant-based	plant-based	cancer	cancer	diets may help prevent breast	
-T-305	supplements	supplements	folate	folate	(but	
 T-305	risk	risk	meat	meat	should consider reducing their consumption of	
-T-305	supplements	supplements	multivitamins	multivitamins	(but folate from beans and greens is helpful),	
-T-305	cancer	cancer	treatment	treatment		
-T-305	health food	health food	breast cancer	breast cancer	store employees, as their recommendations for	
+T-305	beans	beans	greens	greens	and	
+T-305	fruits	fruits	vegetables	vegetables	and	
+T-305	plant-based diets	plant-based diets	breast cancer	breast cancer	may help prevent	
 T-305	phytonutrients	phytonutrients	flax	flax	in	
-T-305	animal products	animal products	dairy	dairy	such as meat and	
+T-305	exercise	exercise	sleep	sleep	and	

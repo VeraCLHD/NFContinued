@@ -1,125 +1,22 @@
 
-A-321	esophagus	esophagus	mouth	mouth	(the tube that connects you	
-A-321	phytonutrients	phytonutrients	green tea	green tea	from the spice turmeric and	
-A-321	cancer	cancer	free radicals	free radicals	cells with	
-A-321	strawberries	strawberries	esophageal cancer	esophageal cancer	versus	
-A-321	cancer growth	cancer growth	cancer	cancer	with a plant-based diet (see	
-A-321	phytonutrients	phytonutrients	tea	tea	from the spice turmeric and green	
-A-321	black raspberries	black raspberries	cancer	cancer	versus oral	
-A-321	fat	fat	cancer	cancer	appear to double the odds of	
-A-321	plants	plants	cancer	cancer	on	
-A-321	strawberries	strawberries	precancerous	precancerous	for patients with	
-A-321	vegetables	vegetables	cancer	cancer	may cut one’s odds of esophageal	
-A-321	cancer	cancer	cranberries	cranberries	nutrient synergy in	
 A-321	plant foods	plant foods	esophageal cancer	esophageal cancer	appear to increase	
-A-321	strawberries	strawberries	cancer	cancer	in 	
-A-321	precancerous	precancerous	disease	disease		
-A-321	cancer	cancer	diet	diet	with a vegan	
-A-321	plant foods	plant foods	cancer	cancer	may be protective against esophageal	
-A-321	poultry	poultry	cancer	cancer	and penis	
-A-321	mouth	mouth	stomach	stomach	to your	
-A-321	fruits	fruits	cancer	cancer	and vegetables may cut one’s odds of esophageal	
-A-321	meat	meat	cancer	cancer	and fat appear to double the odds of	
-A-321	cancer	cancer	botulism	botulism	in bacon and	
-A-321	fruits	fruits	vegetables	vegetables	and	
-A-321	strawberries	strawberries	precancerous lesions	precancerous lesions	for patients with	
-A-321	esophageal cancer	esophageal cancer	bacon	bacon	in	
-A-321	plant-based	plant-based	cancer reversal	cancer reversal	diet (see	
+A-321	fruits	fruits	cancer	cancer	could do to human	
 A-321	antioxidants	antioxidants	treatment	treatment	may certainly reduce the toxicity of the	
 A-321	fruit	fruit	cancer	cancer	is best at fighting	
-A-321	chemotherapy	chemotherapy	chemo	chemo	to see if that works better than	
-A-321	vegetables	vegetables	esophageal cancer	esophageal cancer	may cut one’s odds of	
-A-321	cancer	cancer	fruit	fruit	therapies to test out some	
-A-321	cancer	cancer	cancer	cancer	is not the	
-A-321	cancer growth	cancer growth	cancer reversal	cancer reversal	with a plant-based diet (see	
-A-321	cancer	cancer	nutrient synergy	nutrient synergy		
-A-321	vegan	vegan	prostate	prostate	diet alone (no chemo/surgery/radiation) because	
-A-321	poultry	poultry	penis cancer	penis cancer	and	
-A-321	black raspberries	black raspberries	oral cancer	oral cancer	versus	
-A-321	radiation	radiation	cancer	cancer	often work by killing	
-A-321	plant foods	plant foods	esophageal cancer	esophageal cancer	may be protective against	
-A-321	fruits	fruits	esophageal cancer	esophageal cancer	and vegetables may cut one’s odds of	
-A-321	cancer	cancer	antioxidants	antioxidants	fighting berries and maxing out on	
-A-321	berries	berries	antioxidants	antioxidants	and maxing out on	
-A-321	cancer growth	cancer growth	diet	diet	with a plant-based	
-A-321	plant-based diet	plant-based diet	cancer	cancer	(see	
-A-321	cancer	cancer	poultry	poultry	in bacon and botulism and	
-A-321	botulism	botulism	penis cancer	penis cancer	and poultry and	
-A-321	berries	berries	cancer	cancer	—the healthiest fruits—to reverse the progression of	
-A-321	strawberries	strawberries	antioxidants	antioxidants	in cancer fighting berries and maxing out on	
-A-321	strawberries	strawberries	cancer	cancer	versus esophageal	
-A-321	radiation	radiation	free radicals	free radicals	often work by killing cancer cells with	
-A-321	plant foods	plant foods	cancer	cancer	appear to increase esophageal	
-A-321	turmeric	turmeric	green tea	green tea	and	
-A-321	vegan	vegan	diet	diet		
-A-321	free radicals	free radicals	antioxidants	antioxidants	and so though	
-A-321	cancer	cancer	berries	berries	fighting	
-A-321	prostate	prostate	cancer	cancer	can be such a slow growing	
-A-321	bacon	bacon	poultry	poultry	and botulism and	
-A-321	strawberries	strawberries	esophagus	esophagus	for patients with precancerous lesions of the	
-A-321	berries	berries	fruits	fruits	—the healthiest	
-A-321	fruits	fruits	cancer	cancer	—to reverse the progression of	
-A-321	diet	diet	cancer	cancer	(see	
-A-321	ornish	ornish	cancer	cancer	’s line of anti-	
-A-321	plant-based	plant-based	cancer	cancer	diet (see	
-A-321	cancer cells	cancer cells	antioxidants	antioxidants	with free radicals and so though	
-A-321	plant-based	plant-based	diet	diet		
-A-321	precancerous	precancerous	esophagus	esophagus	lesions of the	
-A-321	bacon	bacon	botulism	botulism	and	
-A-321	cancer	cancer	vegan	vegan	with a	
-A-321	bacon	bacon	penis cancer	penis cancer	and botulism and poultry and	
-A-321	esophageal cancer	esophageal cancer	cancer	cancer	in bacon and botulism and poultry and penis	
-A-321	cancer	cancer	prostate	prostate	with a vegan diet alone (no chemo/surgery/radiation) because	
-A-321	nutrient synergy	nutrient synergy	fruits	fruits	in cranberries i described what various common	
-A-321	precancerous changes	precancerous changes	cancer	cancer	start to take place, then localized	
-A-321	cancer	cancer	diet	diet	reversal through	
-A-321	fruits	fruits	cancer	cancer	could do to human	
-A-321	chemo	chemo	radiation	radiation	alone, but this gets complicated because chemo and	
-A-321	cancer reversal	cancer reversal	diet	diet	through	
-A-321	radiation	radiation	cancer cells	cancer cells	often work by killing	
 A-321	meat	meat	fat	fat	and	
-A-321	esophageal cancer	esophageal cancer	poultry	poultry	in bacon and botulism and	
-A-321	turmeric	turmeric	chemotherapy	chemotherapy	and green tea along with	
-A-321	cancer	cancer	penis cancer	penis cancer	in bacon and botulism and poultry and	
-A-321	plant foods	plant foods	risk	risk	appear to increase esophageal cancer	
-A-321	cancer growth	cancer growth	plant-based	plant-based	with a	
-A-321	mouth	mouth	precancerous	precancerous	to your stomach), then	
-A-321	risk	risk	cancer	cancer	for this devastating	
-A-321	strawberries	strawberries	berries	berries	in cancer fighting	
-A-321	precancerous	precancerous	cancer	cancer	changes start to take place, then localized	
-A-321	nutrient synergy	nutrient synergy	cranberries	cranberries	in	
-A-321	bacon	bacon	cancer	cancer	and botulism and poultry and penis	
-A-321	diet	diet	prostate	prostate	alone (no chemo/surgery/radiation) because	
-A-321	green tea	green tea	chemotherapy	chemotherapy	along with	
-A-321	chocolate	chocolate	ice cream	ice cream		
-A-321	cranberries	cranberries	fruits	fruits	i described what various common	
-A-321	diet	diet	cancer reversal	cancer reversal	(see	
-A-321	phytonutrients	phytonutrients	turmeric	turmeric	from the spice	
-A-321	mouth	mouth	precancerous changes	precancerous changes	to your stomach), then	
-A-321	precancerous lesions	precancerous lesions	esophagus	esophagus	of the	
-A-321	strawberries	strawberries	disease	disease	a day, and the progression of	
-A-321	esophageal cancer	esophageal cancer	botulism	botulism	in bacon and	
-A-321	cancer	cancer	risk	risk		
-A-321	fruits	fruits	cancer cells	cancer cells	could do to human	
-A-321	stomach	stomach	precancerous changes	precancerous changes	), then	
-A-321	esophageal cancer	esophageal cancer	risk	risk		
-A-321	cancer growth	cancer growth	plant-based diet	plant-based diet	with a	
-A-321	esophageal cancer	esophageal cancer	cancer	cancer	is not the	
-A-321	esophagus	esophagus	stomach	stomach	(the tube that connects you mouth to your	
-A-321	stomach	stomach	precancerous	precancerous	), then	
-A-321	botulism	botulism	cancer	cancer	and poultry and penis	
-A-321	esophageal cancer	esophageal cancer	penis cancer	penis cancer	in bacon and botulism and poultry and	
-A-321	cancer	cancer	pritikin	pritikin	work was continued by the	
-A-321	tea	tea	chemotherapy	chemotherapy	along with	
-A-321	cancer	cancer	cancer	cancer	in bacon and botulism and poultry and penis	
+A-321	turmeric	turmeric	green tea	green tea	and	
 A-321	cancer	cancer	bacon	bacon	in	
 A-321	strawberries	strawberries	disease	disease	walked away	
+A-321	vegetables	vegetables	esophageal cancer	esophageal cancer	may cut one’s odds of	
 A-321	botulism	botulism	poultry	poultry	and	
-A-321	cancer	cancer	antioxidants	antioxidants	cells with free radicals and so though	
-A-321	cancer cells	cancer cells	free radicals	free radicals	with	
-A-321	turmeric	turmeric	tea	tea	and green	
-A-321	raspberries	raspberries	cancer	cancer	versus oral	
-A-321	plant-based diet	plant-based diet	cancer reversal	cancer reversal	(see	
-A-321	raspberries	raspberries	oral cancer	oral cancer	versus	
-A-321	plant-based diet	plant-based diet	diet	diet	(see cancer reversal through	
-A-321	chocolate	chocolate	cream	cream	ice	
+A-321	cancer	cancer	cancer	cancer	is not the	
+A-321	bacon	bacon	botulism	botulism	and	
+A-321	poultry	poultry	penis cancer	penis cancer	and	
+A-321	plant foods	plant foods	esophageal cancer	esophageal cancer	may be protective against	
+A-321	fruits	fruits	cancer cells	cancer cells	could do to human	
+A-321	prostate	prostate	cancer	cancer	can be such a slow growing	
+A-321	fat	fat	cancer	cancer	appear to double the odds of	
+A-321	fruits	fruits	vegetables	vegetables	and	
+A-321	esophageal cancer	esophageal cancer	cancer	cancer	is not the	
+A-321	nutrient synergy	nutrient synergy	cranberries	cranberries	in	
+A-321	esophageal cancer	esophageal cancer	bacon	bacon	in	

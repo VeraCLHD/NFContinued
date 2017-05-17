@@ -1,45 +1,7 @@
 
 V-722	diet	diet	cancer	cancer	suppresses	
-V-722	prostate	prostate	plant-based	plant-based	cancer start eating a	
-V-722	cancer	cancer	china	china	growth.also, even in	
-V-722	plants	plants	protein	protein	that mimics the	
-V-722	plant-based diet	plant-based diet	cancer	cancer	suppresses	
-V-722	prostate	prostate	diet	diet	cancer start eating a plant-based 	
-V-722	cancer	cancer	japan	japan	growth.also, even in china and	
-V-722	plant-based	plant-based	diet	diet		
-V-722	phytoestrogens	phytoestrogens	soy	soy	in	
-V-722	protein	protein	meat	meat	in their diets than the	
-V-722	meat	meat	protein	protein	-eaters, but it was all added plant	
-V-722	cancer	cancer	surgery	surgery	appears to reverse, to get better—no drugs, no	
-V-722	prostate	prostate	cancer	cancer		
-V-722	cancer	cancer	standard american diet	standard american diet	markers in the control	
-V-722	diet	diet	vegan	vegan	group, but in a heavily soy-based	
-V-722	diet	diet	cancer growth	cancer growth	suppresses	
-V-722	asian	asian	soy	soy	countries, where they eat the most	
-V-722	blood	blood	diet	diet	of those on a plant-based	
-V-722	plants	plants	meat	meat	that mimics the protein profile of	
-V-722	diet	diet	protein	protein	—	
-V-722	blood	blood	plant-based diet	plant-based diet	of those on a	
-V-722	cancer	cancer	plant-based	plant-based	start eating a	
-V-722	blood	blood	cancer growth	cancer growth	of those on a plant-based diet suppresses	
-V-722	vegan	vegan	protein	protein	diet—	
-V-722	protein	protein	diet	diet	in their	
-V-722	prostate cancer	prostate cancer	plant-based	plant-based	start eating a	
-V-722	cancer	cancer	diet	diet	markers in the control standard american	
-V-722	plant-based	plant-based	diet	diet	 	
-V-722	china	china	japan	japan	and	
-V-722	diet	diet	plant-based	plant-based	group tend to get worse, and in the	
-V-722	vegans	vegans	protein	protein	in the study got literally pounds of more	
-V-722	prostate cancer	prostate cancer	diet	diet	start eating a plant-based 	
-V-722	cancer	cancer	diet	diet	start eating a plant-based 	
-V-722	plant-based	plant-based	cancer	cancer	diet suppresses	
-V-722	plant-based	plant-based	cancer growth	cancer growth	diet suppresses	
-V-722	standard american diet	standard american diet	plant-based	plant-based	group tend to get worse, and in the	
-V-722	vegan	vegan	diet	diet		
 V-722	plant-based diet	plant-based diet	cancer growth	cancer growth	suppresses	
-V-722	cancer	cancer	drugs	drugs	appears to reverse, to get better—no	
-V-722	protein	protein	beans	beans	from multiple plant sources, all different kinds of	
-V-722	soy	soy	milk	milk		
-V-722	blood	blood	plant-based	plant-based	of those on a	
-V-722	blood	blood	cancer	cancer	of those on a plant-based diet suppresses	
-V-722	meat	meat	soy	soy	-eaters, but it was all added plant protein.	
+V-722	plant-based diet	plant-based diet	cancer	cancer	suppresses	
+V-722	diet	diet	cancer growth	cancer growth	suppresses	
+V-722	china	china	japan	japan	and	
+V-722	phytoestrogens	phytoestrogens	soy	soy	in	

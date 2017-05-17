@@ -1,118 +1,21 @@
 
-T-1886	chemicals	chemicals	iron	iron	in processed meat, pro-inflammatory arachidonic acid and	
-T-1886	antibiotics	antibiotics	diet	diet	in meat interfering with gut flora.an animal-based	
-T-1886	diet	diet	animal protein	animal protein	high in	
-T-1886	risk	risk	meat	meat	of relapse with consumption of	
-T-1886	risk	risk	blood	blood	as well, possibly due to	
-T-1886	side effects	side effects	headaches	headaches	like nausea, vomiting,	
-T-1886	cabbage	cabbage	vegetables	vegetables	family	
+T-1886	diet	diet	sulfur	sulfur	may have five or six times more	
 T-1886	milk	milk	risk	risk	may have a higher	
-T-1886	produce	produce	hydrogen sulfide	hydrogen sulfide	a harmful gas called	
-T-1886	fiber	fiber	sucralose	sucralose	supplements); and	
-T-1886	meat	meat	sulfur	sulfur	and alcohol, both rich sources of	
-T-1886	diet	diet	risk	risk	high in animal protein seems to increase the	
-T-1886	cruciferous vegetables	cruciferous vegetables	broccoli	broccoli	such as	
-T-1886	fiber	fiber	standard american diet	standard american diet	had a 40% reduced risk of ibd.the	
-T-1886	babies	babies	breast milk	breast milk	fed formula rather than	
-T-1886	gut	gut	enzymes	enzymes	flora.an animal-based diet may trigger uc by causing	
-T-1886	chemicals	chemicals	meat	meat	in processed	
-T-1886	bacteria	bacteria	antibiotics	antibiotics	causing inflammation, or even the	
-T-1886	colon	colon	health	health		
-T-1886	maltodextrin	maltodextrin	splenda	splenda	(found in	
-T-1886	cruciferous vegetables	cruciferous vegetables	cauliflower	cauliflower	such as broccoli,	
-T-1886	carcinogens	carcinogens	processed meat	processed meat	 created by cooking muscle, chemicals in	
+T-1886	protein	protein	risk	risk	seems to increase the	
 T-1886	fiber	fiber	bacteria	bacteria	is used by our good	
-T-1886	women	women	fiber	fiber	who consumed high amounts of	
-T-1886	maltodextrin	maltodextrin	fiber	fiber	(found in splenda, snack foods, salad dressings, and	
+T-1886	bacteria	bacteria	inflammation	inflammation	causing	
+T-1886	cabbage	cabbage	colon health	colon health	are essential for sustaining	
+T-1886	fiber	fiber	risk	risk	had a 40% reduced	
+T-1886	cabbage	cabbage	colon	colon	are essential for sustaining	
+T-1886	antibiotics	antibiotics	meat	meat	in	
+T-1886	carcinogens	carcinogens	cooking	cooking	 created by	
+T-1886	chemicals	chemicals	processed meat	processed meat	in	
+T-1886	standard american diet	standard american diet	sulfur	sulfur	may have five or six times more	
+T-1886	symptoms	symptoms	disease	disease	of	
+T-1886	breast milk	breast milk	risk	risk	may have a higher	
+T-1886	animal protein	animal protein	risk	risk	seems to increase the	
 T-1886	arachidonic acid	arachidonic acid	iron	iron	and	
 T-1886	drugs	drugs	side effects	side effects	come with	
-T-1886	cooking	cooking	arachidonic acid	arachidonic acid	muscle, chemicals in processed meat, pro-inflammatory	
-T-1886	blood	blood	chemicals	chemicals	components in meat, carcinogens created by cooking muscle,	
-T-1886	risk	risk	alcohol	alcohol	of relapse with consumption of meat and	
-T-1886	polysorbate 80	polysorbate 80	ice cream	ice cream	(found commonly in	
-T-1886	inflammation	inflammation	kidneys	kidneys	of the liver, pancreas, and	
-T-1886	cooking	cooking	chemicals	chemicals	muscle,	
-T-1886	sulfur	sulfur	diet	diet	than a	
-T-1886	cooking	cooking	processed meat	processed meat	muscle, chemicals in	
-T-1886	side effects	side effects	nausea	nausea	like	
-T-1886	bacteria	bacteria	inflammation	inflammation	causing	
-T-1886	amino acids	amino acids	eggs	eggs	are also found in dairy,	
-T-1886	maltodextrin	maltodextrin	dressings	dressings	(found in splenda, snack foods, salad	
-T-1886	antibiotics	antibiotics	meat	meat	in	
-T-1886	ulcerative colitis	ulcerative colitis	inflammatory bowel disease	inflammatory bowel disease	(uc), like crohn’s disease, is an	
-T-1886	standard american diet	standard american diet	sulfur	sulfur	may have five or six times more	
-T-1886	antibiotics	antibiotics	gut	gut	in meat interfering with	
-T-1886	bacteria	bacteria	meat	meat	causing inflammation, or even the antibiotics in	
-T-1886	enzymes	enzymes	produce	produce	in the intestines to	
-T-1886	amino acids	amino acids	dairy	dairy	are also found in	
-T-1886	arachidonic acid	arachidonic acid	inflammation	inflammation	and iron, harmful bacteria causing	
-T-1886	cabbage	cabbage	sulfur	sulfur	family vegetables naturally have some	
-T-1886	milk	milk	disease	disease	may have a higher risk of developing the	
-T-1886	inflammation	inflammation	liver	liver	of the	
-T-1886	vegetables	vegetables	broccoli	broccoli	such as	
-T-1886	blood	blood	meat	meat	components in	
-T-1886	fiber	fiber	risk	risk	had a 40% reduced	
-T-1886	cruciferous vegetables	cruciferous vegetables	cabbage	cabbage	such as broccoli, cauliflower, and	
-T-1886	gut	gut	bacteria	bacteria		
-T-1886	breast milk	breast milk	disease	disease	may have a higher risk of developing the	
-T-1886	gut	gut	diet	diet	flora.an animal-based	
-T-1886	titanium dioxide	titanium dioxide	maltodextrin	maltodextrin	(a whitening/brightening pigment);	
-T-1886	drugs	drugs	headaches	headaches	come with side effects like nausea, vomiting,	
-T-1886	risk	risk	disease	disease	of developing the	
-T-1886	amino acids	amino acids	dried fruit	dried fruit	are also found in dairy, eggs, and even	
-T-1886	inflammation	inflammation	colon	colon	in the	
-T-1886	titanium dioxide	titanium dioxide	splenda	splenda	(a whitening/brightening pigment); maltodextrin (found in	
-T-1886	cabbage	cabbage	colon health	colon health	are essential for sustaining	
-T-1886	plant-based	plant-based	diet	diet		
-T-1886	drugs	drugs	vomiting	vomiting	come with side effects like nausea,	
-T-1886	risk	risk	meat	meat	as well, possibly due to blood components in	
-T-1886	vegetables	vegetables	sulfur	sulfur	naturally have some	
-T-1886	supplements	supplements	sucralose	sucralose	); and	
-T-1886	animal protein	animal protein	risk	risk	seems to increase the	
-T-1886	blood	blood	carcinogens	carcinogens	components in meat,	
-T-1886	carcinogens	carcinogens	meat	meat	 created by cooking muscle, chemicals in processed	
-T-1886	side effects	side effects	fever	fever	like nausea, vomiting, headaches, rash,	
-T-1886	meat	meat	alcohol	alcohol	and	
-T-1886	drugs	drugs	nausea	nausea	come with side effects like	
-T-1886	cheese	cheese	maltodextrin	maltodextrin	); titanium dioxide (a whitening/brightening pigment);	
-T-1886	prevention	prevention	plant-based diet	plant-based diet	) is a whole food	
-T-1886	prevention	prevention	diet	diet	) is a whole food plant-based	
-T-1886	enzymes	enzymes	gas	gas	in the intestines to produce a harmful	
-T-1886	babies	babies	milk	milk	fed formula rather than breast	
-T-1886	chemicals	chemicals	arachidonic acid	arachidonic acid	in processed meat, pro-inflammatory	
-T-1886	polysorbate 80	polysorbate 80	cream	cream	(found commonly in ice	
-T-1886	cabbage	cabbage	health	health	are essential for sustaining colon	
-T-1886	polysorbate 80	polysorbate 80	crisco	crisco	(found commonly in ice cream,	
-T-1886	carcinogens	carcinogens	cooking	cooking	 created by	
-T-1886	wheatgrass	wheatgrass	curcumin	curcumin	juice or ingesting	
-T-1886	juice	juice	curcumin	curcumin	or ingesting	
-T-1886	symptoms	symptoms	disease	disease	of	
-T-1886	vegetables	vegetables	cabbage	cabbage	such as broccoli, cauliflower, and	
-T-1886	fiber	fiber	dna	dna	and can damage	
-T-1886	prevention	prevention	plant-based	plant-based	) is a whole food	
-T-1886	inflammatory bowel disease	inflammatory bowel disease	immune system	immune system	(ibd), an autoimmune condition in which the	
-T-1886	side effects	side effects	inflammation	inflammation	like nausea, vomiting, headaches, rash, fever, and	
-T-1886	side effects	side effects	vomiting	vomiting	like nausea,	
-T-1886	sulfur	sulfur	plant foods	plant foods	than a diet centered on unprocessed	
-T-1886	wheatgrass	wheatgrass	juice	juice		
-T-1886	produce	produce	gas	gas	a harmful	
-T-1886	fiber	fiber	supplements	supplements		
-T-1886	risk	risk	standard american diet	standard american diet	of ibd.the	
-T-1886	arachidonic acid	arachidonic acid	bacteria	bacteria	and iron, harmful	
-T-1886	ulcerative colitis	ulcerative colitis	disease	disease	(uc), like crohn’s	
-T-1886	risk	risk	diet	diet	of ibd.the standard american	
-T-1886	blood	blood	cooking	cooking	components in meat, carcinogens created by	
-T-1886	diet	diet	protein	protein	high in animal	
-T-1886	diet	diet	sulfur	sulfur	may have five or six times more	
-T-1886	drugs	drugs	rash	rash	come with side effects like nausea, vomiting, headaches,	
-T-1886	protein	protein	risk	risk	seems to increase the	
-T-1886	carcinogens	carcinogens	chemicals	chemicals	 created by cooking muscle,	
-T-1886	bacteria	bacteria	butyrate	butyrate	to product a beneficial compound called	
-T-1886	cabbage	cabbage	colon	colon	are essential for sustaining	
-T-1886	organic	organic	sulfur	sulfur	products helps eliminates the intake of	
-T-1886	chemicals	chemicals	processed meat	processed meat	in	
-T-1886	side effects	side effects	rash	rash	like nausea, vomiting, headaches,	
-T-1886	breast milk	breast milk	risk	risk	may have a higher	
-T-1886	vegetables	vegetables	cauliflower	cauliflower	such as broccoli,	
 T-1886	gas	gas	hydrogen sulfide	hydrogen sulfide	called	
-T-1886	cooking	cooking	meat	meat	muscle, chemicals in processed	
+T-1886	meat	meat	alcohol	alcohol	and	
+T-1886	babies	babies	breast milk	breast milk	fed formula rather than	

@@ -1,21 +1,5 @@
 
 V-758	nuts	nuts	bad cholesterol	bad cholesterol	drop your	
-V-758	risk	risk	nuts	nuts	of death from heart disease.compared to eating no	
-V-758	fruit	fruit	dried fruit	dried fruit	foundation, presumably throwing in the	
-V-758	almonds	almonds	stress	stress	for four weeks decreased oxidative	
-V-758	almonds	almonds	oxidative stress	oxidative stress	for four weeks decreased	
-V-758	death	death	nuts	nuts	from heart disease.compared to eating no	
-V-758	dried fruit	dried fruit	fruit	fruit	foundation, presumably throwing in the dried	
-V-758	nuts	nuts	cholesterol	cholesterol	drop your bad	
-V-758	risk	risk	nuts	nuts	of death eating	
-V-758	diet	diet	almonds	almonds	containing 84 g/d	
-V-758	cholesterol	cholesterol	blood	blood	) in the	
-V-758	nuts	nuts	ldl	ldl	lowers	
-V-758	almond	almond	dna damage	dna damage	board of california, showing almond consumption reduces	
-V-758	nuts	nuts	risk	risk	at all, this is the associated drop in	
-V-758	death	death	nuts	nuts	eating	
-V-758	almond	almond	dna	dna	board of california, showing almond consumption reduces	
-V-758	diet	diet	oxidative stress	oxidative stress	containing 84 g/d almonds for four weeks decreased	
-V-758	almond	almond	california	california	board of	
 V-758	risk	risk	death	death	of	
-V-758	nuts	nuts	cholesterol	cholesterol	just cut your	
+V-758	nuts	nuts	cholesterol	cholesterol	drop your bad	
+V-758	nuts	nuts	ldl	ldl	lowers	

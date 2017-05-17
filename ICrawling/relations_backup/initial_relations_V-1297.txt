@@ -1,20 +1,7 @@
 
-V-1297	cdc	cdc	eggs	eggs	saying don’t eat	
-V-1297	disease	disease	sprouts	sprouts	control, no	
-V-1297	raw	raw	eggs	eggs	or runny	
-V-1297	food poisoning	food poisoning	sprouts	sprouts	tied to	
-V-1297	health	health	alfalfa	alfalfa	food—	
-V-1297	health	health	sprouts	sprouts	food—alfalfa	
-V-1297	alfalfa	alfalfa	sprouts	sprouts		
-V-1297	eggs	eggs	salmonella	salmonella	though, which caused 118,000 cases of	
-V-1297	health food	health food	sprouts	sprouts	—alfalfa	
-V-1297	e. coli	e. coli	beef	beef	0157 is found in retail	
-V-1297	health	health	alfalfa sprouts	alfalfa sprouts	food—	
 V-1297	salmonella	salmonella	arthritis	arthritis	once, and you may suffer from chronic	
-V-1297	e. coli	e. coli	mushrooms	mushrooms	0157 is found in retail beef, sprouts, and	
-V-1297	salmonella	salmonella	food poisoning	food poisoning		
-V-1297	boiled	boiled	sprouts	sprouts	our	
-V-1297	e. coli	e. coli	sprouts	sprouts	0157 is found in retail beef,	
-V-1297	health food	health food	alfalfa	alfalfa	—	
-V-1297	health food	health food	alfalfa sprouts	alfalfa sprouts	—	
-V-1297	burgers	burgers	alfalfa	alfalfa	is contaminated, and one out of just 67	
+V-1297	cdc	cdc	eggs	eggs	saying don’t eat	
+V-1297	bacteria	bacteria	alfalfa	alfalfa	can get into the nooks and crannies of the	
+V-1297	food poisoning	food poisoning	sprouts	sprouts	tied to	
+V-1297	eggs	eggs	salmonella	salmonella	though, which caused 118,000 cases of	
+V-1297	eggs	eggs	bacteria	bacteria	have to be cooked hard to kill off the	

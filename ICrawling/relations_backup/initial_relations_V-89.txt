@@ -1,59 +1,15 @@
 
-V-89	diet	diet	soda	soda	they were eating before—evidently centered around refined carbs,	
-V-89	dairy	dairy	soda	soda	and doughnuts, oil, sugar, candy,	
-V-89	beans	beans	grains	grains	and whole	
-V-89	diet	diet	dairy	dairy	cutting out	
-V-89	meat	meat	glucose tolerance	glucose tolerance	consumption.a follow-up study also failed to find improved	
-V-89	dairy	dairy	candy	candy	and doughnuts, oil, sugar,	
-V-89	dairy	dairy	salt	salt	and doughnuts, oil, sugar, candy, soda, beer, and	
-V-89	calories	calories	fat	fat	from	
-V-89	dairy	dairy	sugar	sugar	and doughnuts, oil,	
-V-89	cheese	cheese	apple	apple	danish—but, foraging for an	
-V-89	blood	blood	weight loss	weight loss	sugar response, thanks to a ton of	
-V-89	meat	meat	inflammation	inflammation	causes a significantly smaller spike in 	
-V-89	diet	diet	fat	fat	with under 7% of calories from	
-V-89	diet	diet	doughnuts	doughnuts	cutting out dairy and	
-V-89	diet	diet	sugar	sugar	cutting out dairy and doughnuts, oil,	
-V-89	chicken	chicken	meat	meat	breast has 14 times more fat than kangaroo	
-V-89	plant-based	plant-based	legumes	legumes	diets in general, and	
 V-89	dairy	dairy	doughnuts	doughnuts	and	
-V-89	chicken	chicken	kangaroo meat	kangaroo meat	breast has 14 times more fat than	
-V-89	salt	salt	blood	blood	intake in half, and their cholesterol and	
-V-89	dairy	dairy	beer	beer	and doughnuts, oil, sugar, candy, soda,	
+V-89	beans	beans	whole grains	whole grains	and	
+V-89	kangaroo meat	kangaroo meat	inflammation	inflammation	causes a significantly smaller spike in 	
 V-89	cholesterol	cholesterol	blood	blood	and	
-V-89	insulin	insulin	pigs	pigs	sensitivity in	
-V-89	fruit	fruit	meat	meat	and nuts, with no significant change in	
 V-89	saturated fat	saturated fat	salt	salt	and	
 V-89	fruit	fruit	nuts	nuts	and	
-V-89	figs	figs	wild game	wild game	and crocodiles.in my video on	
+V-89	diet	diet	dairy	dairy	cutting out	
+V-89	diet	diet	beans	beans	would be way better.won’t it hurt people to tell them to stop eating	
 V-89	wild game	wild game	fat	fat	is significantly better—so low in	
-V-89	calories	calories	diet	diet	of their original junky	
-V-89	saturated fat	saturated fat	cholesterol	cholesterol	and salt intake in half, and their	
-V-89	glucose tolerance	glucose tolerance	risk	risk	over control, but did show other	
-V-89	fat	fat	salt	salt	and	
-V-89	fat	fat	cholesterol	cholesterol	and salt intake in half, and their	
-V-89	standard american diet	standard american diet	carbs	carbs	’s refined	
-V-89	glucose	glucose	risk	risk	tolerance over control, but did show other	
-V-89	legumes	legumes	longevity	longevity	in particular, are a common thread among	
-V-89	diet	diet	standard american diet	standard american diet	very much.i’m all for condemning the	
-V-89	diet	diet	soda	soda	cutting out dairy and doughnuts, oil, sugar, candy,	
-V-89	diet	diet	carbs	carbs	they were eating before—evidently centered around refined	
-V-89	kangaroo meat	kangaroo meat	inflammation	inflammation	causes a significantly smaller spike in 	
-V-89	meat	meat	glucose	glucose	consumption.a follow-up study also failed to find improved	
-V-89	standard american diet	standard american diet	milk	milk	’s refined carbs, “nonhuman mammalian	
-V-89	salt	salt	blood pressure	blood pressure	intake in half, and their cholesterol and	
-V-89	diet	diet	calories	calories	with under 7% of	
-V-89	cheap	cheap	meat	meat	fatty	
-V-89	blood sugar	blood sugar	weight loss	weight loss	response, thanks to a ton of	
-V-89	kangaroo meat	kangaroo meat	meat	meat	causes a significantly smaller spike in inflammation, compared to retail	
-V-89	beans	beans	whole grains	whole grains	and	
-V-89	sugar	sugar	weight loss	weight loss	response, thanks to a ton of	
-V-89	anti-inflammatory	anti-inflammatory	wild game	wild game	foods, but	
-V-89	fat	fat	kangaroo meat	kangaroo meat	than	
 V-89	cholesterol	cholesterol	blood pressure	blood pressure	and	
-V-89	salt	salt	cholesterol	cholesterol	intake in half, and their	
-V-89	diet	diet	candy	candy	cutting out dairy and doughnuts, oil, sugar,	
-V-89	fat	fat	meat	meat	than kangaroo	
-V-89	chicken	chicken	fat	fat	breast has 14 times more	
-V-89	blood	blood	sugar	sugar		
-V-89	plant-based diets	plant-based diets	legumes	legumes	in general, and	
+V-89	paleo diet	paleo diet	beans	beans	would be way better.won’t it hurt people to tell them to stop eating	
+V-89	fat	fat	salt	salt	and	
+V-89	americans	americans	women	women	don’t even reach the measly minimum recommended amount—only like 1 in 200 middle-aged american	
+V-89	meat	meat	inflammation	inflammation	causes a significantly smaller spike in 	

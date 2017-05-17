@@ -1,39 +1,10 @@
 
 V-104	alcohol	alcohol	beer	beer	in	
-V-104	women	women	bone health	bone health	start drinking beer for	
-V-104	flavoring	flavoring	beer	beer	agent in	
-V-104	postmenopausal	postmenopausal	women	women		
-V-104	beer	beer	alcohol	alcohol	was tested as a source of estrogens, the	
-V-104	beer	beer	health	health	for bone	
-V-104	cell proliferation	cell proliferation	hormones	hormones	— explaining why horse	
-V-104	hormones	hormones	breast cancer	breast cancer	increase	
-V-104	cell proliferation	cell proliferation	risk	risk	— explaining why horse hormones increase breast cancer	
-V-104	women	women	hot flashes	hot flashes	started out having about 23	
-V-104	alcohol	alcohol	testosterone	testosterone	in beer can reduce	
-V-104	women	women	hormones	hormones	used to be on horse	
-V-104	women	women	hot flashes	hot flashes	in the u.s. suffer from	
-V-104	postmenopausal	postmenopausal	women	women	and perimenopausal	
-V-104	cancer	cancer	risk	risk		
-V-104	soy	soy	phytoestrogens	phytoestrogens		
 V-104	beer	beer	estrogen	estrogen	could provide the exposure to the hops	
-V-104	osteoporosis	osteoporosis	breast cancer	breast cancer	—but caused a pesky little side effect called	
-V-104	placebo	placebo	women	women	group on the right there, the	
-V-104	breast cancer	breast cancer	risk	risk		
-V-104	soy	soy	phytoestrogens	phytoestrogens	binds, oppose that proliferative impact.so, do the hops	
-V-104	hormones	hormones	risk	risk	increase breast cancer	
-V-104	breast cancer	breast cancer	soy	soy	risk; whereas the beta receptors, where the	
-V-104	women	women	health	health	start drinking beer for bone	
-V-104	cell proliferation	cell proliferation	cancer	cancer	— explaining why horse hormones increase breast	
 V-104	women	women	beer	beer	found that	
-V-104	beer	beer	bone health	bone health	for	
-V-104	pregnant	pregnant	urine	urine	mare	
-V-104	beer	beer	alcohol	alcohol	drinking affect our hormones?now, even just the	
-V-104	hormones	hormones	cancer	cancer	increase breast	
-V-104	women	women	cancer	cancer	stopped taking it, breast	
-V-104	cancer	cancer	soy	soy	risk; whereas the beta receptors, where the	
+V-104	hormones	hormones	breast cancer	breast cancer	increase	
+V-104	soy	soy	phytoestrogens	phytoestrogens	binds, oppose that proliferative impact.so, do the hops	
+V-104	japan	japan	soy	soy	may be ten times lower—presumed to be because of their	
+V-104	women	women	hot flashes	hot flashes	started out having about 23	
 V-104	women	women	beer	beer	start drinking	
-V-104	postmenopausal	postmenopausal	hot flashes	hot flashes	and perimenopausal women in the u.s. suffer from	
-V-104	cell proliferation	cell proliferation	breast cancer	breast cancer	— explaining why horse hormones increase	
-V-104	women	women	pregnant	pregnant	used to be on horse hormones, premarin, from	
-V-104	women	women	breast cancer	breast cancer	stopped taking it,	
-V-104	women	women	premarin	premarin	used to be on horse hormones,	
+V-104	phytoestrogens	phytoestrogens	estrogen	estrogen	is understanding the difference between the two types of	

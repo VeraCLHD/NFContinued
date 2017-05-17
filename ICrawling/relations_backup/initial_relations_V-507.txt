@@ -1,38 +1,7 @@
 
-V-507	fruit	fruit	risk	risk	and vegetable consumption on glaucoma	
-V-507	phytonutrients	phytonutrients	kale	kale	like zeaxanthin—	
-V-507	kale	kale	greens	greens	and collard	
-V-507	seeds	seeds	tahini	tahini	with their greens; a little	
-V-507	nuts	nuts	greens	greens	or seeds with their	
-V-507	carotenoid	carotenoid	phytonutrients	phytonutrients		
-V-507	women	women	fruit	fruit	to study the effects of	
-V-507	zeaxanthin	zeaxanthin	greens	greens	—kale and collard	
-V-507	zeaxanthin	zeaxanthin	collard greens	collard greens	—kale and	
-V-507	eye	eye	greens	greens	color, the more	
-V-507	seeds	seeds	greens	greens	with their	
 V-507	risk	risk	glaucoma	glaucoma	of	
-V-507	zeaxanthin	zeaxanthin	kale	kale	—	
 V-507	phytonutrients	phytonutrients	fat	fat	depends on the presence of	
-V-507	phytonutrients	phytonutrients	greens	greens	like zeaxanthin—kale and collard	
-V-507	salads	salads	collard greens	collard greens	are.here’s the kale and	
-V-507	carrots	carrots	women	women	appeared to be less protective in black	
-V-507	african-american	african-american	fruit	fruit	women to study the effects of	
-V-507	orange	orange	juice	juice		
-V-507	glaucoma	glaucoma	risk	risk		
-V-507	african-american	african-american	women	women		
-V-507	carrots	carrots	raw	raw		
-V-507	african-american	african-american	carrots	carrots	subjects tended to eat	
-V-507	phytonutrients	phytonutrients	collard greens	collard greens	like zeaxanthin—kale and	
-V-507	fruit	fruit	glaucoma	glaucoma	and vegetable consumption on	
-V-507	nuts	nuts	tahini	tahini	or seeds with their greens; a little	
-V-507	carotenoid	carotenoid	fat	fat	phytonutrients depends on the presence of	
-V-507	salads	salads	greens	greens	are.here’s the kale and collard	
 V-507	kale	kale	collard greens	collard greens	and	
+V-507	carrots	carrots	women	women	appeared to be less protective in black	
 V-507	fruits	fruits	vegetables	vegetables	and	
-V-507	phytonutrients	phytonutrients	zeaxanthin	zeaxanthin	like	
-V-507	blindness	blindness	women	women	in white	
-V-507	salads	salads	kale	kale	are.here’s the	
-V-507	african-american	african-american	raw	raw	subjects tended to eat carrots	
-V-507	blindness	blindness	women	women	in african-american	
-V-507	oranges	oranges	risk	risk	every week was associated with dramatically lower	
 V-507	nuts	nuts	seeds	seeds	or	

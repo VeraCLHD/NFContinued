@@ -1,53 +1,12 @@
 
-T-1759	disease	disease	transit time	transit time	may be related to	
-T-1759	risk	risk	colon	colon	of	
-T-1759	colon	colon	cancer	cancer	health and may increase the risk of colon	
-T-1759	health	health	cancer	cancer	and may increase the risk of colon	
-T-1759	fruit	fruit	vegetables	vegetables	and	
-T-1759	stool size	stool size	transit time	transit time	and colon disease may be related to	
-T-1759	plant-based	plant-based	antioxidants	antioxidants	diets.the high	
-T-1759	plant-based	plant-based	vegetables	vegetables	diets.the high antioxidants and fiber in fruit and	
-T-1759	fiber	fiber	gut	gut	in fruit and vegetables seem to alter the	
-T-1759	stool size	stool size	disease	disease	and colon	
-T-1759	stool size	stool size	colon	colon	and	
-T-1759	antioxidants	antioxidants	vegetables	vegetables	and fiber in fruit and	
-T-1759	flora	flora	stool size	stool size	and have been shown to double	
-T-1759	colon	colon	health	health		
-T-1759	probiotics	probiotics	stool size	stool size	might also be helpful in increasing	
-T-1759	stool size	stool size	depression	depression	while at the same time lowering	
-T-1759	colon	colon	risk	risk	health and may increase the	
-T-1759	risk	risk	appendicitis	appendicitis	of colon cancer, diverticulitis,	
-T-1759	fruit	fruit	gut flora	gut flora	and vegetables seem to alter the	
-T-1759	risk	risk	cancer	cancer	of colon	
-T-1759	fruit	fruit	flora	flora	and vegetables seem to alter the gut	
-T-1759	colon	colon	transit time	transit time	disease may be related to	
-T-1759	risk	risk	constipation	constipation	of colon cancer, diverticulitis, appendicitis, and	
-T-1759	colon disease	colon disease	transit time	transit time	may be related to	
-T-1759	colon health	colon health	colon cancer	colon cancer	and may increase the risk of	
-T-1759	health	health	colon	colon	and may increase the risk of	
-T-1759	gut flora	gut flora	stool size	stool size	and have been shown to double	
-T-1759	fiber	fiber	vegetables	vegetables	in fruit and	
-T-1759	vegetables	vegetables	gut	gut	seem to alter the	
-T-1759	colon health	colon health	cancer	cancer	and may increase the risk of colon	
-T-1759	fruit	fruit	gut	gut	and vegetables seem to alter the	
-T-1759	fiber	fiber	fruit	fruit	in	
-T-1759	vegetables	vegetables	flora	flora	seem to alter the gut	
-T-1759	gut	gut	flora	flora		
-T-1759	vegetables	vegetables	gut flora	gut flora	seem to alter the	
-T-1759	colon health	colon health	colon	colon	and may increase the risk of	
 T-1759	risk	risk	colon cancer	colon cancer	of	
-T-1759	plant-based	plant-based	fiber	fiber	diets.the high antioxidants and	
-T-1759	fiber	fiber	gut flora	gut flora	in fruit and vegetables seem to alter the	
-T-1759	colon health	colon health	diverticulitis	diverticulitis	and may increase the risk of colon cancer,	
-T-1759	gut	gut	stool size	stool size	flora and have been shown to double	
-T-1759	colon health	colon health	risk	risk	and may increase the	
-T-1759	risk	risk	diverticulitis	diverticulitis	of colon cancer,	
+T-1759	disease	disease	transit time	transit time	may be related to	
 T-1759	stool size	stool size	colon disease	colon disease	and	
-T-1759	colon	colon	disease	disease		
+T-1759	risk	risk	colon	colon	of	
+T-1759	colon disease	colon disease	transit time	transit time	may be related to	
+T-1759	fruit	fruit	vegetables	vegetables	and	
 T-1759	antioxidants	antioxidants	fiber	fiber	and	
-T-1759	health	health	colon cancer	colon cancer	and may increase the risk of	
-T-1759	colon	colon	colon cancer	colon cancer	health and may increase the risk of	
-T-1759	antioxidants	antioxidants	fruit	fruit	and fiber in	
-T-1759	plant-based	plant-based	fruit	fruit	diets.the high antioxidants and fiber in	
-T-1759	health	health	diverticulitis	diverticulitis	and may increase the risk of colon cancer,	
-T-1759	health	health	risk	risk	and may increase the	
+T-1759	fiber	fiber	fruit	fruit	in	
+T-1759	stool size	stool size	colon	colon	and	
+T-1759	vegetables	vegetables	gut	gut	seem to alter the	
+T-1759	vegetables	vegetables	gut flora	gut flora	seem to alter the	

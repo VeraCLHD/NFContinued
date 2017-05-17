@@ -2,47 +2,10 @@
 V-521	mothers	mothers	children	children	may give birth to	
 V-521	women	women	tuna	tuna	ate	
 V-521	pcbs	pcbs	salmon	salmon	in	
-V-521	fda	fda	contamination	contamination	and epa action levels for mercury	
-V-521	women	women	dha	dha	ate tuna everyday, the	
-V-521	pregnant women	pregnant women	fish	fish	ate tuna everyday, the dha in the	
-V-521	brain damage	brain damage	tuna	tuna	that the overall effect of eating	
-V-521	mercury	mercury	salmon	salmon	in	
-V-521	sustainability	sustainability	salmon	salmon	concerns adds another wrinkle, as farm-raised	
-V-521	dha	dha	fish	fish	in	
-V-521	women	women	fish	fish	ate tuna everyday, the dha in the	
-V-521	children	children	brains	brains	with smaller	
-V-521	fish	fish	risk	risk	consumption may also increase the	
-V-521	pregnant	pregnant	dha	dha	women ate tuna everyday, the	
-V-521	pregnant	pregnant	women	women		
-V-521	pregnant women	pregnant women	dha	dha	ate tuna everyday, the	
-V-521	cancer	cancer	risk	risk		
-V-521	mothers	mothers	brains	brains	may give birth to children with smaller	
-V-521	mercury	mercury	brains	brains	- and pcb-exposed	
-V-521	children	children	fish	fish	being born with epilepsy.does maternal	
-V-521	mercury	mercury	children	children	on the iq scores of	
-V-521	pregnant women	pregnant women	tuna	tuna	ate	
-V-521	dha	dha	fish	fish	in the	
-V-521	pcbs	pcbs	risk	risk	in salmon, and the accompanying concerns about “cancer	
-V-521	mackerel	mackerel	mercury	mercury	is considered a “best” choice for sustainability, the	
-V-521	fda	fda	mercury	mercury	and epa action levels for	
-V-521	epa	epa	mercury	mercury	action levels for	
-V-521	fish	fish	mercury	mercury	species, they found that the adverse effect of	
-V-521	tuna	tuna	dha	dha	everyday, the	
-V-521	mercury	mercury	tuna	tuna	in that very same	
-V-521	tuna	tuna	fish	fish	everyday, the dha in the	
-V-521	pcbs	pcbs	cancer	cancer	in salmon, and the accompanying concerns about “	
-V-521	brain damage	brain damage	pregnant	pregnant	that the overall effect of eating tuna while	
 V-521	mackerel	mackerel	sustainability	sustainability	is considered a “best” choice for	
-V-521	pregnant	pregnant	tuna	tuna	women ate	
-V-521	fish	fish	children	children	consumption may also increase the risk of our	
-V-521	children	children	dha	dha	“exceeded the beneficial effect[s] of	
-V-521	risk	risk	children	children	of our	
-V-521	epa	epa	contamination	contamination	action levels for mercury	
-V-521	dha	dha	mercury	mercury	may trump the brain-damaging effects of	
+V-521	pregnant women	pregnant women	tuna	tuna	ate	
 V-521	salmon	salmon	fish	fish	are considered a “	
-V-521	risk	risk	fish	fish	of our children being born with epilepsy.does maternal	
+V-521	mercury	mercury	salmon	salmon	in	
+V-521	dha	dha	fish	fish	in	
 V-521	tuna	tuna	brain damage	brain damage	would cause so much	
-V-521	seafood	seafood	pregnant	pregnant	when they were	
-V-521	dha	dha	salmon	salmon	may trump the brain-damaging effects of mercury in	
 V-521	fda	fda	epa	epa	and	
-V-521	pregnant	pregnant	fish	fish	women ate tuna everyday, the dha in the	

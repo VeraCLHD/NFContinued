@@ -1,36 +1,6 @@
 
-V-313	fruit	fruit	coconut milk	coconut milk	bats, stewed in	
-V-313	bmaa	bmaa	brains	brains	in the	
-V-313	bmaa	bmaa	als	als	is a cause of progressive neurodegenerative diseases, including	
-V-313	disease	disease	brains	brains	and als, but not in the	
-V-313	bmaa	bmaa	brains	brains	in the control	
-V-313	fish	fish	fruit	fruit	may be the	
-V-313	bmaa	bmaa	als	als	in the hair of live	
-V-313	seeds	seeds	bmaa	bmaa	' worth of	
-V-313	bmaa	bmaa	seeds	seeds	that gets into the	
-V-313	als	als	bmaa	bmaa	patients compared to controls.so is	
-V-313	roots	roots	bmaa	bmaa	of the cycad trees makes the	
 V-313	disease	disease	als	als	and	
+V-313	bmaa	bmaa	als	als	were found in 49 out of 50 samples from 12 alzheimer’s patients and 13	
 V-313	livestock	livestock	disease	disease	showing neurological	
-V-313	disease	disease	brains	brains	on autopsy, but not in control	
-V-313	algae	algae	europe	europe	throughout the world, from	
-V-313	fish	fish	oysters	oysters	and shellfish, like	
-V-313	bmaa	bmaa	fruit	fruit	comparable to those found in the	
-V-313	brains	brains	disease	disease	of those who died from a different neurodegenerative	
-V-313	bmaa	bmaa	brains	brains	in their	
-V-313	brains	brains	disease	disease	of those dying from parkinson’s	
-V-313	fruit	fruit	milk	milk	bats, stewed in coconut	
-V-313	disease	disease	seeds	seeds	.cycad trees were suspected, since the powdered	
-V-313	algae	algae	blue-green algae	blue-green algae	— but nearly all types of	
-V-313	algae	algae	australia	australia	throughout the world, from europe to the u.s.,	
-V-313	bmaa	bmaa	seeds	seeds	in the	
-V-313	blue-green algae	blue-green algae	bmaa	bmaa	are ubiquitous throughout the world, maybe	
-V-313	disease	disease	als	als	and dementia, so they called it	
-V-313	blue-green algae	blue-green algae	roots	roots	that grows in the	
-V-313	als	als	dementia	dementia	parkinsonism	
-V-313	algae	algae	roots	roots	that grows in the	
-V-313	produce	produce	bmaa	bmaa	this neurotoxin,	
 V-313	disease	disease	dementia	dementia	and	
-V-313	blue-green algae	blue-green algae	algae	algae	— but nearly all types of blue-green	
-V-313	brains	brains	disease	disease	of floridians who died from sporadic alzheimer’s	
-V-313	europe	europe	australia	australia	to the u.s.,	
+V-313	fish	fish	fruit	fruit	may be the	

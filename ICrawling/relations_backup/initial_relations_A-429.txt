@@ -1,40 +1,8 @@
 
-A-429	oranges	oranges	variety	variety	 and garden	
-A-429	antioxidants	antioxidants	plant-based	plant-based	may help explain why people eating	
-A-429	enzymes	enzymes	dna	dna	to better assist with stitching our	
-A-429	apples	apples	anti-inflammation	anti-inflammation	and oranges and garden variety	
-A-429	irritable bowel syndrome	irritable bowel syndrome	doctors	doctors	(ibs), which accounts for about 4 million	
-A-429	fruit	fruit	ibs	ibs	to tegaserod, the most frequently prescribed drug for	
-A-429	oranges	oranges	anti-inflammation	anti-inflammation	 and garden variety	
-A-429	apples	apples	variety	variety	and oranges and garden	
-A-429	diet	diet	aging	aging	(see mitochondrial theory of	
-A-429	kiwi fruit	kiwi fruit	ibs	ibs	to tegaserod, the most frequently prescribed drug for	
-A-429	plant-based diets	plant-based diets	stress	stress	and cellular	
 A-429	apples	apples	oranges	oranges	and	
-A-429	antioxidant content	antioxidant content	animal foods	animal foods	of 3,139 foods and antioxidant power of plant foods versus	
-A-429	ibs	ibs	doctors	doctors	), which accounts for about 4 million	
-A-429	kiwifruit	kiwifruit	transit time	transit time	a day for a month significantly “shortens colon	
-A-429	variety	variety	anti-inflammation	anti-inflammation		
-A-429	kiwi fruit	kiwi fruit	tegaserod	tegaserod	to	
-A-429	kiwifruit	kiwifruit	colon	colon	a day for a month significantly “shortens	
-A-429	kiwifruit	kiwifruit	dna	dna	and	
-A-429	risk	risk	stroke	stroke	of heart attack and	
-A-429	heart attack	heart attack	stroke	stroke	and	
-A-429	syndrome	syndrome	doctors	doctors	(ibs), which accounts for about 4 million	
-A-429	colon	colon	transit time	transit time		
-A-429	fruit	fruit	tegaserod	tegaserod	to	
-A-429	syndrome	syndrome	kiwifruit	kiwifruit	 i profile a “	
-A-429	plant foods	plant foods	animal foods	animal foods	versus	
-A-429	antioxidant content	antioxidant content	antioxidant	antioxidant	of 3,139 foods and 	
-A-429	plant foods	plant foods	antioxidants	antioxidants	rich in	
-A-429	kiwifruit	kiwifruit	irritable bowel syndrome	irritable bowel syndrome	for	
-A-429	drugs	drugs	plants	plants	by saying yes to more	
-A-429	antioxidants	antioxidants	dna	dna	can decrease oxidative damage to our	
-A-429	kiwifruit	kiwifruit	syndrome	syndrome	for irritable bowel	
-A-429	plant-based	plant-based	stress	stress	diets and cellular	
+A-429	antioxidants	antioxidants	plant-based	plant-based	may help explain why people eating	
 A-429	risk	risk	heart attack	heart attack	of	
 A-429	fruits	fruits	vegetables	vegetables	and	
-A-429	antioxidant content	antioxidant content	plant foods	plant foods	of 3,139 foods and antioxidant power of	
-A-429	antioxidant	antioxidant	plant foods	plant foods	content of 3,139 foods and antioxidant power of	
-A-429	irritable bowel syndrome	irritable bowel syndrome	kiwifruit	kiwifruit	 i profile a “	
+A-429	kiwifruit	kiwifruit	dna	dna	and	
 A-429	antioxidants	antioxidants	plant-based diets	plant-based diets	may help explain why people eating	
+A-429	heart attack	heart attack	stroke	stroke	and	

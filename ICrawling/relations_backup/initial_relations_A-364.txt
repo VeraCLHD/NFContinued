@@ -1,40 +1,7 @@
 
-A-364	vegetables	vegetables	coffee	coffee	you’d actually have to drink more	
-A-364	risk	risk	meats	meats	in those eating grilled	
-A-364	cooked meat	cooked meat	sprouts	sprouts	meals with and without broccoli and brussels	
 A-364	broccoli	broccoli	carcinogen	carcinogen	can help your body deal with the	
-A-364	liver	liver	broccoli	broccoli	toxicity due to	
-A-364	breast cancer	breast cancer	meats	meats	risk in those eating grilled	
-A-364	women	women	risk	risk	that established increased breast cancer	
-A-364	broccoli	broccoli	barbeque	barbeque	days or even weeks before the big	
-A-364	meat	meat	broccoli	broccoli	meals with and without	
-A-364	broccoli	broccoli	juice	juice		
-A-364	liver	liver	broccoli	broccoli	function enhancement from	
-A-364	coffee	coffee	liver	liver	to get the same buzz because your	
-A-364	meats	meats	women	women	found that the risk appeared greatest in	
-A-364	cooked meat	cooked meat	brussels sprouts	brussels sprouts	meals with and without broccoli and	
-A-364	phase ii enzyme system	phase ii enzyme system	aids	aids	that	
-A-364	women	women	cancer	cancer	that established increased breast	
-A-364	vegetables	vegetables	liver	liver	do—boost our	
-A-364	detox	detox	phytonutrient	phytonutrient	i described this amazing phenomenon in which a	
-A-364	cooked meat	cooked meat	broccoli	broccoli	meals with and without	
-A-364	cancer	cancer	risk	risk		
-A-364	broccoli	broccoli	caffeine	caffeine	and brussels sprouts, they clear	
-A-364	breast cancer	breast cancer	risk	risk		
 A-364	cruciferous vegetables	cruciferous vegetables	liver	liver	do—boost our	
-A-364	cruciferous vegetables	cruciferous vegetables	chemicals	chemicals	do—boost our liver’s ability to clear	
 A-364	broccoli	broccoli	phase ii enzyme system	phase ii enzyme system	can enhance the function of our so-called	
-A-364	meat	meat	sprouts	sprouts	meals with and without broccoli and brussels	
-A-364	liver	liver	juice	juice	toxicity due to broccoli	
-A-364	meats	meats	risk	risk	found that the	
-A-364	liver	liver	greens	greens	toxicity due to broccoli juice, overdosing on	
-A-364	vegetables	vegetables	chemicals	chemicals	do—boost our liver’s ability to clear	
-A-364	cancer	cancer	meats	meats	risk in those eating grilled	
-A-364	liver	liver	chemicals	chemicals	’s ability to clear	
-A-364	women	women	breast cancer	breast cancer	that established increased	
-A-364	plant foods	plant foods	carcinogens	carcinogens	and still none of these	
-A-364	meat	meat	brussels sprouts	brussels sprouts	meals with and without broccoli and	
-A-364	phytonutrient	phytonutrient	broccoli	broccoli	produced by	
-A-364	broccoli	broccoli	sprouts	sprouts	and brussels	
-A-364	broccoli	broccoli	greens	greens	juice, overdosing on	
+A-364	vegetables	vegetables	liver	liver	do—boost our	
 A-364	broccoli	broccoli	brussels sprouts	brussels sprouts	and	
+A-364	meats	meats	risk	risk	found that the	

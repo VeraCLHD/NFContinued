@@ -1,42 +1,7 @@
 
-V-169	liver	liver	fat	fat		
-V-169	caloric restriction	caloric restriction	diabetes	diabetes	alone can improve	
-V-169	blood	blood	surgery	surgery	sugar control improved better in the absence of	
-V-169	dietary intervention	dietary intervention	surgery	surgery	or bariatric	
-V-169	b-cells	b-cells	diabetes	diabetes	are not permanently damaged in type 2	
-V-169	diabetes	diabetes	hormones	hormones	by somehow altering digestive	
-V-169	surgery	surgery	diet	diet		
-V-169	diabetes	diabetes	diet	diet	improved rapidly on the surgery	
-V-169	diet	diet	surgery	surgery	before they had the	
-V-169	calories	calories	surgery	surgery	a day by either dietary intervention or bariatric	
-V-169	diabetes	diabetes	obesity	obesity	accompanying morbid	
-V-169	sugar	sugar	diet	diet	control was better on the	
-V-169	treatment	treatment	diabetes	diabetes	strategies for	
-V-169	diet	diet	surgery	surgery	or the	
-V-169	blood	blood	diet	diet	sugar control was better on the	
-V-169	diabetes	diabetes	fat	fat	as a disease of	
-V-169	surgery	surgery	hormones	hormones	improves diabetes by somehow altering digestive	
-V-169	diabetes	diabetes	surgery	surgery	improved rapidly on the	
-V-169	diabetes	diabetes	surgery	surgery	as does major	
-V-169	diet	diet	surgery	surgery	alone than after the	
 V-169	disease	disease	fat	fat	of	
-V-169	fat	fat	muscles	muscles	in the cells of the liver, pancreas, and	
-V-169	calories	calories	dietary intervention	dietary intervention	a day by either	
-V-169	post-surgery	post-surgery	diet	diet		
-V-169	glucose	glucose	liver	liver	levels can normalize, thanks to a fall in	
-V-169	blood sugar	blood sugar	surgery	surgery	control improved better in the absence of	
-V-169	gastric bypass	gastric bypass	surgery	surgery		
-V-169	blood sugar	blood sugar	diet	diet	control was better on the	
-V-169	surgery	surgery	treatment	treatment	(rygb) is one of the most successful	
+V-169	diabetes	diabetes	fat	fat	can be understood as a potentially reversible metabolic state precipitated by the single cause of chronic excess intra-organ	
+V-169	diabetes	diabetes	obesity	obesity	accompanying morbid	
 V-169	surgery	surgery	diabetes	diabetes	improves	
+V-169	diabetes	diabetes	surgery	surgery	improved rapidly on the	
 V-169	ct scan	ct scan	liver	liver	showing a 35% reduction in	
-V-169	liver	liver	fat	fat	volume as all the	
-V-169	dietary intervention	dietary intervention	glucose	glucose	or bariatric surgery, fasting	
-V-169	diabetes	diabetes	disease	disease	as a	
-V-169	stomach	stomach	surgery	surgery	stapling	
-V-169	gastric bypass	gastric bypass	treatment	treatment	surgery (rygb) is one of the most successful	
-V-169	post-surgery	post-surgery	surgery	surgery	diet, with and without the actual	
-V-169	sugar	sugar	surgery	surgery	control improved better in the absence of	
-V-169	treatment	treatment	obesity	obesity	strategies for diabetes accompanying morbid	
-V-169	fat	fat	liver	liver	in the cells of the	
-V-169	blood	blood	sugar	sugar		

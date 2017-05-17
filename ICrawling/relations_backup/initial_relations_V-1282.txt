@@ -1,24 +1,9 @@
 
+V-1282	trans fats	trans fats	animal fats	animal fats	 are basically found only in one place in nature—in	
 V-1282	meat	meat	dairy	dairy	and	
-V-1282	fats	fats	trans fat	trans fat	 is zero, and about one-fifth of american 	
-V-1282	harvard	harvard	health	health	school of public	
-V-1282	meat	meat	dairy	dairy	and all	
-V-1282	fats	fats	seeds	seeds	: the omega-3 fats in flax	
-V-1282	fats	fats	trans fats	trans fats	—	
-V-1282	fats	fats	flax seeds	flax seeds	: the omega-3 fats in	
-V-1282	fats	fats	meat	meat	: the saturated fats found primarily in	
-V-1282	trans fats	trans fats	fat	fat	 is zero, and about one-fifth of american trans	
-V-1282	monounsaturated fats	monounsaturated fats	avocados	avocados	in nuts and	
-V-1282	harvard	harvard	public health	public health	school of	
-V-1282	nuts	nuts	avocados	avocados	and	
-V-1282	fats	fats	flax	flax	: the omega-3 fats in	
-V-1282	fats	fats	monounsaturated fats	monounsaturated fats	are bad, though; there are good fats: the	
-V-1282	trans fat	trans fat	animal products	animal products	 intake is coming from	
-V-1282	flax	flax	seeds	seeds		
-V-1282	fats	fats	fat	fat	 is zero, and about one-fifth of american trans	
-V-1282	fat	fat	animal products	animal products	 intake is coming from	
 V-1282	monounsaturated fats	monounsaturated fats	nuts	nuts	in	
-V-1282	trans fats	trans fats	trans fat	trans fat	 is zero, and about one-fifth of american 	
 V-1282	national academy of sciences	national academy of sciences	fats	fats	is saying the only safe intake of trans	
+V-1282	fats	fats	animal fats	animal fats	 are basically found only in one place in nature—in	
 V-1282	food industry	food industry	fats	fats	found a way to create these toxic	
 V-1282	national academy of sciences	national academy of sciences	trans fats	trans fats	is saying the only safe intake of 	
+V-1282	nuts	nuts	avocados	avocados	and	

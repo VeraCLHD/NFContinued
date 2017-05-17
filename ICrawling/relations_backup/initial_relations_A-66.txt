@@ -1,47 +1,13 @@
 
-A-66	beverages	beverages	sugar	sugar	in the form of table	
-A-66	beverages	beverages	fructose	fructose	in the form of table sugar and high	
-A-66	inflammation	inflammation	health	health	as a public	
-A-66	fat	fat	liver	liver	in the	
-A-66	liver inflammation	liver inflammation	public health	public health	as a	
-A-66	plant-based diet	plant-based diet	diet	diet	is preferable to a plant-based	
-A-66	fructose	fructose	liver	liver	hones in like a laser beam on the	
-A-66	plant-based	plant-based	diet	diet		
-A-66	erythritol	erythritol	antioxidant	antioxidant	may be a sweet	
-A-66	cola	cola	calories	calories	company acknowledge that sugar is empty	
-A-66	coca cola	coca cola	sugar	sugar	company acknowledge that	
-A-66	sugar	sugar	fructose	fructose	is	
-A-66	sugar	sugar	corn	corn	and high fructose	
-A-66	pepper	pepper	coca cola	coca cola	snapple group and the	
-A-66	sugar	sugar	fructose	fructose	and high	
-A-66	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
-A-66	high fructose corn syrup	high fructose corn syrup	lead	lead	in large enough amounts can trigger processes that	
-A-66	fructose	fructose	liver	liver	can increase the fat in the	
-A-66	lead	lead	chronic diseases	chronic diseases	to liver toxicity and other	
-A-66	sugar	sugar	beverage	beverage	industry or	
-A-66	diet	diet	plant-based diet	plant-based diet	is preferable to a	
-A-66	cola	cola	sugar	sugar	company acknowledge that	
-A-66	liver inflammation	liver inflammation	health	health	as a public	
-A-66	american heart association	american heart association	sugar	sugar	’s new	
-A-66	lead	lead	liver	liver	to	
-A-66	sugar	sugar	women	women	guidelines, most american	
-A-66	liver	liver	chronic diseases	chronic diseases	toxicity and other	
-A-66	plant-based diet	plant-based diet	plant-based	plant-based	is preferable to a	
-A-66	corn syrup	corn syrup	lead	lead	in large enough amounts can trigger processes that	
-A-66	beverages	beverages	high fructose corn syrup	high fructose corn syrup	in the form of table sugar and	
-A-66	americans	americans	sugar	sugar	consumed about four pounds of	
-A-66	pepper	pepper	cola	cola	snapple group and the coca	
-A-66	coca cola	coca cola	empty calories	empty calories	company acknowledge that sugar is	
-A-66	diet	diet	plant-based	plant-based	is preferable to a	
 A-66	fructose	fructose	beverages	beverages	added to foods and	
-A-66	plant-based	plant-based	plant-based diet	plant-based diet	diet is preferable to a	
-A-66	liver	liver	disease	disease		
 A-66	women	women	calories	calories	should consume no more than 100	
+A-66	plant-based diet	plant-based diet	plant-based	plant-based	is preferable to a	
 A-66	sugar	sugar	empty calories	empty calories	is	
-A-66	sugar	sugar	calories	calories		
 A-66	sugar	sugar	calories	calories	is empty	
-A-66	sugar	sugar	corn syrup	corn syrup	and high fructose	
-A-66	cola	cola	empty calories	empty calories	company acknowledge that sugar is	
-A-66	inflammation	inflammation	public health	public health	as a	
-A-66	coca cola	coca cola	calories	calories	company acknowledge that sugar is empty	
-A-66	american heart association	american heart association	women	women	’s new sugar guidelines, most american	
+A-66	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
+A-66	americans	americans	sugar	sugar	consumed about four pounds of	
+A-66	fructose	fructose	liver	liver	hones in like a laser beam on the	
+A-66	diet	diet	plant-based	plant-based	is preferable to a	
+A-66	diet	diet	plant-based diet	plant-based diet	is preferable to a	
+A-66	erythritol	erythritol	antioxidant	antioxidant	may be a sweet	
+A-66	sugar	sugar	fructose	fructose	is	

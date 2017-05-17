@@ -1,56 +1,14 @@
 
-A-187	birth defects	birth defects	preterm birth	preterm birth	such as penile malformations,	
-A-187	sperm counts	sperm counts	preterm birth	preterm birth	), genital birth defects such as penile malformations,	
-A-187	plants	plants	allergies	allergies	and preventing	
-A-187	drugs	drugs	allergies	allergies	by saying yes to more plants and preventing	
-A-187	fertility	fertility	birth defects	birth defects	(such as dropping normal sperm counts), genital	
-A-187	industrial pollutants	industrial pollutants	chemicals	chemicals	called alkylphenols, recognized as common toxic endocrine disrupting	
-A-187	plant-based	plant-based	diet	diet		
-A-187	prostate	prostate	fertility	fertility	cancer, testicular cancer, diabetes, obesity, and	
-A-187	fertility	fertility	sperm counts	sperm counts	(such as dropping normal	
-A-187	chemicals	chemicals	diet	diet	is through	
-A-187	testosterone	testosterone	environment	environment	levels in alligators living in a contaminated	
-A-187	prostate	prostate	cancer	cancer		
-A-187	allergies	allergies	japan	japan	have exploded in	
-A-187	cooked meat	cooked meat	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	carcinogens, the heterocyclic amines, the	
-A-187	japan	japan	pregnancy	pregnancy	that found higher maternal intake of meat during	
-A-187	japanese	japanese	diet	diet		
-A-187	endocrine disruptors	endocrine disruptors	chemicals	chemicals	in: a different class of	
-A-187	plant-based diet	plant-based diet	allergies	allergies	may also help alleviate	
-A-187	chicken	chicken	genitalia	genitalia	consumption and the feminization of male	
-A-187	diet	diet	allergies	allergies	may also help alleviate	
-A-187	drugs	drugs	plants	plants	by saying yes to more	
-A-187	xenoestrogens	xenoestrogens	milk	milk	can be found in human breast	
-A-187	blood	blood	testosterone	testosterone	concentrations of	
-A-187	chemicals	chemicals	penis size	penis size	has been found to be associated with smaller	
-A-187	japan	japan	meat	meat	that found higher maternal intake of	
-A-187	penis size	penis size	blood	blood	” and lower	
-A-187	prostate	prostate	testicular cancer	testicular cancer	cancer,	
-A-187	prostate	prostate	diabetes	diabetes	cancer, testicular cancer,	
-A-187	fat	fat	allergies	allergies	intake and the prevalence of these seasonal pollen	
-A-187	cooked meat	cooked meat	heterocyclic amines	heterocyclic amines	carcinogens, the	
-A-187	sperm counts	sperm counts	birth defects	birth defects	), genital	
-A-187	meat	meat	pregnancy	pregnancy	during	
+A-187	pollutants	pollutants	alkylphenols	alkylphenols	called	
 A-187	environment	environment	gut	gut	is through our	
+A-187	endocrine disruptors	endocrine disruptors	allergies	allergies	and	
+A-187	meat	meat	immune system	immune system	may affect the fetal	
 A-187	penis size	penis size	testosterone	testosterone	and	
 A-187	children	children	thyroid	thyroid	linked to	
-A-187	pollutants	pollutants	endocrine disrupting chemicals	endocrine disrupting chemicals	called alkylphenols, recognized as common toxic	
-A-187	meat	meat	heterocyclic amines	heterocyclic amines	carcinogens, the	
+A-187	chemicals	chemicals	diet	diet	is through	
 A-187	industrial pollutants	industrial pollutants	alkylphenols	alkylphenols	called	
 A-187	blood	blood	babies	babies	going to our	
-A-187	thyroid	thyroid	breast development	breast development	disruption, and earlier	
-A-187	meat	meat	carcinogens	carcinogens		
-A-187	prostate	prostate	obesity	obesity	cancer, testicular cancer, diabetes,	
-A-187	penis size	penis size	testosterone	testosterone	” and lower blood concentrations of	
-A-187	pollutants	pollutants	alkylphenols	alkylphenols	called	
-A-187	industrial pollutants	industrial pollutants	endocrine disrupting chemicals	endocrine disrupting chemicals	called alkylphenols, recognized as common toxic	
-A-187	endocrine disruptors	endocrine disruptors	allergies	allergies	and	
-A-187	pollutants	pollutants	chemicals	chemicals	called alkylphenols, recognized as common toxic endocrine disrupting	
-A-187	meat	meat	immune system	immune system	may affect the fetal	
-A-187	milk	milk	japan	japan	intake rose hundreds of percent in	
+A-187	chemicals	chemicals	penis size	penis size	has been found to be associated with smaller	
 A-187	xenoestrogens	xenoestrogens	breast milk	breast milk	can be found in human	
-A-187	cooked meat	cooked meat	carcinogens	carcinogens		
-A-187	plant-based	plant-based	allergies	allergies	diet may also help alleviate	
+A-187	allergies	allergies	japan	japan	have exploded in	
 A-187	umbilical cord blood	umbilical cord blood	babies	babies	going to our	
-A-187	meat	meat	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	carcinogens, the heterocyclic amines, the	
-A-187	children	children	breast development	breast development	linked to thyroid disruption, and earlier	

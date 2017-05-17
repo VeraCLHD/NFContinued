@@ -1,24 +1,4 @@
 
-V-786	disease	disease	mortality	mortality		
-V-786	vegan	vegan	inflammation	inflammation	show significantly less	
-V-786	walnut	walnut	risk	risk	a day appeared to cut the	
-V-786	anti-inflammatory	anti-inflammatory	disease	disease	plant foods actually have an impact on inflammatory	
-V-786	risk	risk	disease	disease	of [heart	
-V-786	plant foods	plant foods	mortality	mortality	actually have an impact on inflammatory disease	
-V-786	heart disease	heart disease	antioxidant	antioxidant	] and an improved	
-V-786	vegetarian	vegetarian	inflammation	inflammation	diet was associated with lower	
-V-786	inflammation	inflammation	c-reactive protein	c-reactive protein	levels, lower levels of	
-V-786	disease	disease	antioxidant	antioxidant	] and an improved	
-V-786	vegetarians	vegetarians	disease	disease	have a lower risk of [heart	
-V-786	anti-inflammatory	anti-inflammatory	plant foods	plant foods		
-V-786	risk	risk	disease	disease	of dying from inflammatory	
-V-786	diet	diet	inflammation	inflammation	was associated with lower	
-V-786	vegetarians	vegetarians	heart disease	heart disease	have a lower risk of [	
-V-786	vegetarian	vegetarian	diet	diet		
-V-786	risk	risk	antioxidant	antioxidant	of [heart disease] and an improved	
-V-786	vegetarian	vegetarian	inflammation	inflammation	or vegan show significantly less	
-V-786	plant foods	plant foods	disease	disease	actually have an impact on inflammatory	
 V-786	vegetarian	vegetarian	vegan	vegan	or	
 V-786	vegetarians	vegetarians	risk	risk	have a lower	
-V-786	risk	risk	heart disease	heart disease	of [	
-V-786	inflammation	inflammation	protein	protein	levels, lower levels of c-reactive	
+V-786	diet	diet	inflammation	inflammation	was associated with lower	

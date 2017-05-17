@@ -1,42 +1,7 @@
 
-A-404	lead	lead	protein powder	protein powder	has also been found in 	
-A-404	animal fat	animal fat	endotoxins	endotoxins	then helps ferry these	
-A-404	endotoxemia	endotoxemia	saturated fat	saturated fat	appears to be to reduce	
-A-404	fat	fat	gut	gut	then helps ferry these endotoxins across the	
-A-404	inflammation	inflammation	chicken	chicken	than	
-A-404	endotoxins	endotoxins	gut	gut	across the	
-A-404	fat	fat	diet	diet	intake, the western	
-A-404	lead	lead	food safety	food safety	for the results of a study that raised	
-A-404	saturated fat	saturated fat	diet	diet	intake, the western	
-A-404	fat	fat	western diet	western diet	intake, the	
-A-404	fat	fat	endotoxins	endotoxins	then helps ferry these	
-A-404	animal fat	animal fat	gut	gut	then helps ferry these endotoxins across the	
-A-404	meat	meat	inflammation	inflammation	would trigger less	
-A-404	meat	meat	inflammation	inflammation	cause	
-A-404	saturated animal fat	saturated animal fat	endotoxins	endotoxins	then helps ferry these	
-A-404	inflammation	inflammation	deer	deer	than chicken, but the way in which the	
-A-404	protein	protein	animal products	animal products	powder supplements, ayervedic medicine supplements, and other	
+A-404	kangaroos	kangaroos	inflammatory response	inflammatory response	did trigger an	
 A-404	animal products	animal products	inflammation	inflammation	trigger	
 A-404	mercury	mercury	tuna	tuna	in	
-A-404	protein powder	protein powder	animal products	animal products	supplements, ayervedic medicine supplements, and other	
-A-404	toxins	toxins	cooking	cooking	that survive the	
-A-404	lead	lead	protein powder supplements	protein powder supplements	has also been found in 	
-A-404	fat	fat	pheasants	pheasants	than farmed	
-A-404	protein powder	protein powder	supplements	supplements		
-A-404	saturated fat	saturated fat	pheasants	pheasants	than farmed	
-A-404	lead	lead	medicine	medicine	has also been found in protein powder supplements, ayervedic	
-A-404	inflammation	inflammation	kangaroo meat	kangaroo meat	triggered by domesticated animal meat to wild	
+A-404	animal foods	animal foods	plant foods	plant foods	are explored in my 3-part video series: most whole	
 A-404	plant foods	plant foods	anti-inflammatory	anti-inflammatory	are 	
-A-404	endotoxemia	endotoxemia	fat	fat	appears to be to reduce saturated	
-A-404	protein	protein	supplements	supplements	powder	
-A-404	medicine	medicine	animal products	animal products	supplements, and other	
-A-404	lead	lead	supplements	supplements	has also been found in protein powder	
-A-404	medicine	medicine	supplements	supplements		
-A-404	protein	protein	medicine	medicine	powder supplements, ayervedic	
-A-404	mercury	mercury	lead	lead	in tuna, no level of	
-A-404	kangaroos	kangaroos	inflammatory response	inflammatory response	did trigger an	
-A-404	inflammation	inflammation	meat	meat	triggered by domesticated animal	
-A-404	saturated animal fat	saturated animal fat	gut	gut	then helps ferry these endotoxins across the	
-A-404	saturated fat	saturated fat	western diet	western diet	intake, the	
-A-404	lead	lead	protein	protein	has also been found in 	
-A-404	protein powder	protein powder	medicine	medicine	supplements, ayervedic	
+A-404	meat	meat	inflammation	inflammation	would trigger less	

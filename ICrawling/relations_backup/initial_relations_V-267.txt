@@ -1,49 +1,15 @@
 
 V-267	boston	boston	breast milk	breast milk	collected	
 V-267	vegetarians	vegetarians	chemical pollutants	chemical pollutants	have lower levels of flame-retardant	
-V-267	fats	fats	diet	diet	in the	
-V-267	health	health	children	children	assessment of mothers and	
-V-267	water	water	poultry	poultry	supplies, the use of flame-retardant materials in	
-V-267	pollutants	pollutants	fats	fats	is almost exclusively from the ingestion of animal	
-V-267	contamination	contamination	water	water	of	
-V-267	children	children	california	california	of salinas valley	
-V-267	chemical pollutants	chemical pollutants	meat	meat	are found mostly in fish,	
-V-267	plant-based	plant-based	diet	diet		
-V-267	chamacos study	chamacos study	health	health	were published recently–the center for the	
-V-267	fish	fish	plant-based diet	plant-based diet	and other fatty foods, with a	
-V-267	chemical pollutants	chemical pollutants	animal products	animal products	are found mostly in fish, meat, and other	
-V-267	california	california	chemical pollutants	chemical pollutants	–investigating the relationship between exposure to flame-retardant	
-V-267	dioxins	dioxins	plant-based diet	plant-based diet	: fish and other fatty foods, with a	
-V-267	pollutants	pollutants	animal products	animal products	are found mostly in fish, meat, and other	
-V-267	pollutants	pollutants	pregnancy	pregnancy	in	
-V-267	chicken	chicken	pork	pork	and turkey, with less in	
-V-267	boston	boston	milk	milk	collected breast	
-V-267	pollutants	pollutants	meat	meat	are found mostly in fish,	
-V-267	health	health	mothers	mothers	assessment of	
-V-267	mothers	mothers	children	children	and	
-V-267	dioxins	dioxins	plant-based	plant-based	: fish and other fatty foods, with a	
 V-267	pollutants	pollutants	fish	fish	are found mostly in	
-V-267	animal fats	animal fats	diet	diet	in the	
-V-267	california	california	children	children		
-V-267	fish	fish	plant-based	plant-based	and other fatty foods, with a	
 V-267	pollutants	pollutants	animal fats	animal fats	is almost exclusively from the ingestion of	
-V-267	children	children	chemicals	chemicals	’s exposures to these	
-V-267	cognition	cognition	children	children	(particularly verbal comprehension) by the time the	
+V-267	contamination	contamination	water	water	of	
 V-267	chicken	chicken	turkey	turkey	and	
-V-267	california	california	pollutants	pollutants	–investigating the relationship between exposure to flame-retardant chemical	
-V-267	california	california	chemicals	chemicals	children’s exposures to these	
-V-267	pbdes	pbdes	chemicals	chemicals	–polybrominated diphenyl ethers–(flame-retardant	
+V-267	chamacos study	chamacos study	health	health	were published recently–the center for the	
 V-267	endocrine disruptors	endocrine disruptors	neurotoxins	neurotoxins	and	
-V-267	thyroid	thyroid	chemicals	chemicals	gland function, something that may extend into adulthood.these	
-V-267	california	california	poultry	poultry		
 V-267	chemical pollutants	chemical pollutants	pregnancy	pregnancy	in	
 V-267	americans	americans	fish	fish	don’t eat a lot of	
-V-267	vegan	vegan	dioxin	dioxin		
 V-267	chemical pollutants	chemical pollutants	fish	fish	are found mostly in	
-V-267	birds	birds	fish	fish	’ bedding or feed ingredients.now	
-V-267	fish	fish	diet	diet	and other fatty foods, with a plant-based	
-V-267	vegetarians	vegetarians	pollutants	pollutants	have lower levels of flame-retardant chemical	
-V-267	usda	usda	meats	meats	researchers compared the levels in different	
-V-267	health	health	california	california	assessment of mothers and children of salinas valley	
-V-267	mothers	mothers	california	california	and children of salinas valley	
-V-267	pbdes	pbdes	flame-retardant chemicals	flame-retardant chemicals	–polybrominated diphenyl ethers–(	
+V-267	women	women	diet	diet	get exposed in the first place?the question: is exposure mostly from	
+V-267	pollutants	pollutants	pregnancy	pregnancy	in	
+V-267	mothers	mothers	children	children	and	

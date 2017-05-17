@@ -1,39 +1,7 @@
 
-V-778	marketing	marketing	green tea	green tea	purposes, but it’s basically just	
-V-778	tea	tea	phytonutrient	phytonutrient		
-V-778	std	std	treatment	treatment		
-V-778	cancer cells	cancer cells	tea	tea	found that green	
-V-778	cancer cells	cancer cells	phytonutrients	phytonutrients	found that green tea	
-V-778	green tea	green tea	phytonutrients	phytonutrients		
-V-778	green tea	green tea	phytonutrient	phytonutrient		
-V-778	precancerous	precancerous	cancer	cancer	lesions to cervical	
-V-778	marketing	marketing	tea	tea	purposes, but it’s basically just green	
-V-778	cancer	cancer	tea	tea	cells found that green	
-V-778	precancerous	precancerous	cervical cancer	cervical cancer	lesions to	
-V-778	cans	cans	diet	diet	of cancer, whoop-ass, but in terms of	
-V-778	green tea	green tea	risk	risk	consumption is associated with lower	
-V-778	risk	risk	endothelial	endothelial	of certain gynecological cancers—ovarian,	
 V-778	cancer cells	cancer cells	green tea	green tea	found that	
-V-778	std	std	disease	disease	treatment guidelines from the centers for	
-V-778	cancer	cancer	phytonutrients	phytonutrients	cells found that green tea	
-V-778	tea	tea	risk	risk	consumption is associated with lower	
-V-778	cans	cans	cancer	cancer	of	
-V-778	green tea	green tea	cans	cans	phytonutrients appear to open	
-V-778	cancer	cancer	green tea	green tea	cells found that	
-V-778	precancerous lesions	precancerous lesions	cancer	cancer	to cervical	
-V-778	tea	tea	cans	cans	phytonutrients appear to open	
-V-778	cervical cancer	cervical cancer	green tea	green tea	cells found that	
-V-778	tea	tea	skin	skin	plant—even when just smeared on our	
-V-778	precancerous lesions	precancerous lesions	cervical cancer	cervical cancer	to	
-V-778	phytonutrients	phytonutrients	cancer	cancer	appear to open cans of	
-V-778	tea	tea	phytonutrients	phytonutrients		
-V-778	treatment	treatment	disease	disease	guidelines from the centers for	
-V-778	tea	tea	cancer	cancer	phytonutrients appear to open cans of	
-V-778	plants	plants	tea	tea	—like the	
-V-778	treatment	treatment	warts	warts	for genital	
-V-778	cancer cells	cancer cells	cans	cans	found that green tea phytonutrients appear to open	
-V-778	green tea	green tea	cancer	cancer	phytonutrients appear to open cans of	
-V-778	cervical cancer	cervical cancer	phytonutrients	phytonutrients	cells found that green tea	
-V-778	treatment	treatment	genital warts	genital warts	for	
-V-778	cervical cancer	cervical cancer	tea	tea	cells found that green	
+V-778	cancer cells	cancer cells	tea	tea	found that green	
+V-778	warts	warts	tea	tea	was obtained in more than half the patients with a 10% or 15% green	
+V-778	genital warts	genital warts	tea	tea	was obtained in more than half the patients with a 10% or 15% green	
 V-778	phytonutrients	phytonutrients	cans	cans	appear to open	
+V-778	cans	cans	cancer	cancer	of	

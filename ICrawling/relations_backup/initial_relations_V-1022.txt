@@ -1,46 +1,8 @@
 
-V-1022	disease	disease	butter	butter	eating peanut	
-V-1022	travel	travel	medicine	medicine		
-V-1022	nuts	nuts	energy	energy	may increase our resting	
-V-1022	harvard	harvard	heart disease	heart disease	study found that women at high risk for	
-V-1022	heart disease	heart disease	peanut butter	peanut butter	eating	
-V-1022	walnuts	walnuts	cholesterol	cholesterol	lower our	
-V-1022	pistachios	pistachios	cholesterol	cholesterol	could destroy	
-V-1022	peanuts	peanuts	legumes	legumes	aren’t actually real nuts; they’re	
-V-1022	almonds	almonds	inflammation	inflammation	: three handfuls a day significantly reducing	
-V-1022	peanut	peanut	risk	risk	butter every day had only about half the	
-V-1022	heart disease	heart disease	peanut	peanut	eating	
-V-1022	harvard	harvard	women	women	study found that	
 V-1022	nuts	nuts	calories	calories	burn more	
-V-1022	women	women	heart disease	heart disease	at high risk for	
+V-1022	nuts	nuts	energy	energy	may increase our resting	
 V-1022	nuts	nuts	energy expenditure	energy expenditure	may increase our resting	
-V-1022	risk	risk	peanut	peanut	for heart disease eating	
-V-1022	risk	risk	butter	butter	for heart disease eating peanut	
-V-1022	peanut butter	peanut butter	risk	risk	every day had only about half the	
-V-1022	harvard	harvard	nuts	nuts	nurses' study just found that eating	
-V-1022	harvard study	harvard study	risk	risk	found that women at high	
-V-1022	harvard study	harvard study	disease	disease	found that women at high risk for heart	
-V-1022	women	women	disease	disease	at high risk for heart	
-V-1022	nuts	nuts	harvard	harvard	does not make you fat, but the	
-V-1022	walnuts	walnuts	almonds	almonds	significantly decreased inflammation.same thing with	
-V-1022	women	women	peanut butter	peanut butter	at high risk for heart disease eating	
 V-1022	harvard study	harvard study	women	women	found that	
-V-1022	pistachios	pistachios	arteries	arteries	significantly improving the function of our	
-V-1022	women	women	risk	risk	at high	
-V-1022	harvard study	harvard study	heart disease	heart disease	found that women at high risk for	
-V-1022	peanut	peanut	butter	butter		
 V-1022	heart attack	heart attack	women	women	compared to	
-V-1022	butter	butter	risk	risk	every day had only about half the	
-V-1022	disease	disease	peanut	peanut	eating	
 V-1022	nuts	nuts	fat	fat	does not make you	
-V-1022	risk	risk	peanut butter	peanut butter	for heart disease eating	
 V-1022	peanuts	peanuts	nuts	nuts	aren’t actually real	
-V-1022	women	women	peanut	peanut	at high risk for heart disease eating	
-V-1022	women	women	butter	butter	at high risk for heart disease eating peanut	
-V-1022	risk	risk	disease	disease	for heart	
-V-1022	harvard	harvard	risk	risk	study found that women at high	
-V-1022	risk	risk	heart disease	heart disease	for	
-V-1022	inflammation	inflammation	almonds	almonds	.same thing with	
-V-1022	disease	disease	peanut butter	peanut butter	eating	
-V-1022	heart disease	heart disease	butter	butter	eating peanut	
-V-1022	walnuts	walnuts	inflammation	inflammation	significantly decreased	

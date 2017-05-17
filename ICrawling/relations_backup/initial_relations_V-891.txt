@@ -1,40 +1,9 @@
 
-V-891	pork	pork	calcium	calcium	without lard, the	
-V-891	b12	b12	eggs	eggs	from scrambled	
-V-891	pork	pork	hormones	hormones	without lard, the calcium in dairy without	
-V-891	protein	protein	dairy	dairy	in pork without lard, the calcium in	
-V-891	cholesterol	cholesterol	chickens	chickens	—practically your entire year’s worth every day.so, yes,	
-V-891	calcium	calcium	hormones	hormones	in dairy without	
-V-891	iron	iron	protein	protein	in beef without the saturated fat, the	
-V-891	pork	pork	lard	lard	without	
-V-891	chickens	chickens	bacteria	bacteria	harbor	
-V-891	calcium	calcium	b12	b12	in dairy without hormones; we can’t get the	
-V-891	b12	b12	eggs	eggs	from	
-V-891	iron	iron	saturated fat	saturated fat	in beef without the	
+V-891	colon	colon	b12	b12	make	
 V-891	iron	iron	beef	beef	in	
 V-891	protein	protein	pork	pork	in	
 V-891	calcium	calcium	dairy	dairy	in	
-V-891	iron	iron	fat	fat	in beef without the saturated	
-V-891	protein	protein	calcium	calcium	in pork without lard, the	
-V-891	beef	beef	fat	fat	without the saturated	
-V-891	chickens	chickens	b12	b12	harbor bacteria; the bacteria make	
-V-891	beef	beef	pork	pork	without the saturated fat, the protein in	
-V-891	beef	beef	protein	protein	without the saturated fat, the	
-V-891	colon	colon	b12	b12	bacteria make large amounts of	
-V-891	bacteria	bacteria	colon	colon	in our	
-V-891	bacteria	bacteria	b12	b12	in our colon make	
-V-891	b12	b12	plants	plants	is not made by	
-V-891	b12	b12	cholesterol	cholesterol	from scrambled eggs, you’d consume 69,000 milligrams of	
-V-891	colon	colon	b12	b12	make	
-V-891	protein	protein	lard	lard	in pork without	
-V-891	colon	colon	bacteria	bacteria		
-V-891	dairy	dairy	hormones	hormones	without	
-V-891	pork	pork	dairy	dairy	without lard, the calcium in	
-V-891	egg	egg	cholesterol	cholesterol	—but so does the	
-V-891	b12	b12	animal products	animal products	levels weren’t the ones eating the most	
-V-891	beef	beef	saturated fat	saturated fat	without the	
-V-891	vegan	vegan	b12	b12	volunteers with	
-V-891	breakfast	breakfast	cereal	cereal		
-V-891	dairy	dairy	b12	b12	without hormones; we can’t get the	
 V-891	b12	b12	colon	colon	is not absorbed through the	
 V-891	bacteria	bacteria	b12	b12	make large amounts of	
+V-891	chickens	chickens	bacteria	bacteria	harbor	
+V-891	b12	b12	plants	plants	is not made by	

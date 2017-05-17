@@ -1,20 +1,3 @@
 
 V-1014	lettuce	lettuce	antioxidants	antioxidants	has nearly three times more	
-V-1014	plant foods	plant foods	animal foods	animal foods	than	
-V-1014	diet	diet	health	health	for	
 V-1014	iceberg lettuce	iceberg lettuce	antioxidants	antioxidants	has nearly three times more	
-V-1014	antioxidant	antioxidant	animal foods	animal foods	power in plant foods than	
-V-1014	soy	soy	plant foods	plant foods	milk only has about twice that.while	
-V-1014	animal foods	animal foods	lettuce	lettuce	that can beat out	
-V-1014	plant-based	plant-based	diet	diet		
-V-1014	animal foods	animal foods	meat	meat	can do, in the	
-V-1014	meat	meat	liver	liver	category, is a serving of ox	
-V-1014	iceberg lettuce	iceberg lettuce	chicken	chicken	has nearly three times more antioxidants than	
-V-1014	lettuce	lettuce	chicken	chicken	has nearly three times more antioxidants than	
-V-1014	antioxidants	antioxidants	chicken	chicken	than	
-V-1014	antioxidant	antioxidant	plant foods	plant foods	power in	
-V-1014	soy	soy	milk	milk		
-V-1014	soy milk	soy milk	plant foods	plant foods	only has about twice that.while	
-V-1014	vegetarian	vegetarian	health	health	diets and public	
-V-1014	vegetarian	vegetarian	public health	public health	diets and	
-V-1014	plant foods	plant foods	animal foods	animal foods	average over 1,000, the best	

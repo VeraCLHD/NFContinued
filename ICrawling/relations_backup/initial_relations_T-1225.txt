@@ -1,76 +1,7 @@
 
-T-1225	heart disease	heart disease	mucus	mucus	(see also here), hormonal imbalance,	
-T-1225	blood	blood	death	death	pressure (see also here), skin wrinkling, sudden infant	
-T-1225	fats	fats	neu5gc	neu5gc	(see also here), endotoxins,	
-T-1225	trans fats	trans fats	choline	choline	(see also here), endotoxins, neu5gc,	
-T-1225	aging	aging	canker sores	canker sores	(see also here, here, and here), being overweight,	
+T-1225	dietary guidelines	dietary guidelines	fat	fat	were issued in 1980 and recommended a reduction in saturated	
+T-1225	dietary guidelines	dietary guidelines	saturated fat	saturated fat	were issued in 1980 and recommended a reduction in	
 T-1225	risk	risk	inflammation	inflammation	of	
-T-1225	skin	skin	vaginosis	vaginosis	wrinkling, sudden infant death syndrome, ulcerative colitis, bacterial	
-T-1225	children	children	lead	lead	found the top food source of	
-T-1225	lead	lead	dioxins	dioxins	as well as banned pesticides and	
-T-1225	dairy	dairy	trans fats	trans fats	products also contain cholesterol,	
-T-1225	health	health	dairy	dairy	risks of	
-T-1225	fat	fat	dairy	dairy	intake (found primarily in	
-T-1225	risk	risk	cancer	cancer	of inflammation, heart disease, diabetes, and	
-T-1225	dairy	dairy	mortality	mortality	appears linked to higher	
-T-1225	antioxidants	antioxidants	amino acid	amino acid	(see also here, here, and here); ergothioneine, an	
-T-1225	prostate	prostate	cancer	cancer		
 T-1225	risk	risk	cancer	cancer	of	
-T-1225	saturated fat	saturated fat	dairy	dairy	intake (found primarily in	
-T-1225	dairy	dairy	fats	fats	products also contain cholesterol, trans	
-T-1225	dioxins	dioxins	dairy	dairy	to be	
-T-1225	skin	skin	death	death	wrinkling, sudden infant	
-T-1225	fats	fats	choline	choline	(see also here), endotoxins, neu5gc,	
-T-1225	testosterone	testosterone	obesity	obesity	levels, and	
-T-1225	death	death	vaginosis	vaginosis	syndrome, ulcerative colitis, bacterial	
-T-1225	children	children	prostate cancer	prostate cancer	), breast cancer,	
-T-1225	pesticides	pesticides	antibiotics	antibiotics	(see also here and here),	
-T-1225	mortality	mortality	health	health	rates.overall, then, the	
-T-1225	skin	skin	syndrome	syndrome	wrinkling, sudden infant death	
-T-1225	pesticides	pesticides	dairy	dairy	and dioxins to be	
-T-1225	kidney	kidney	constipation	constipation	stones (see also here), childhood asthma,	
-T-1225	chemicals	chemicals	fat	fat	can also build up in dairy	
-T-1225	health	health	dairy	dairy	conditions	
-T-1225	children	children	cancer	cancer	), breast	
-T-1225	prostate	prostate	sperm counts	sperm counts	cancer, other hormone-dependent cancers (see also here), declining	
-T-1225	disease	disease	mucus	mucus	(see also here), hormonal imbalance,	
-T-1225	constipation	constipation	diabetes	diabetes	(see also here),	
-T-1225	trans fats	trans fats	endotoxins	endotoxins	(see also here),	
-T-1225	california	california	lead	lead	children found the top food source of	
-T-1225	fats	fats	endotoxins	endotoxins	(see also here),	
-T-1225	trans fats	trans fats	neu5gc	neu5gc	(see also here), endotoxins,	
-T-1225	risk	risk	heart disease	heart disease	of inflammation,	
-T-1225	dairy	dairy	cholesterol	cholesterol	products also contain	
-T-1225	kidney stones	kidney stones	constipation	constipation	(see also here), childhood asthma,	
-T-1225	heart disease	heart disease	disease	disease	(see also here), hormonal imbalance, mucus, parkinson’s	
-T-1225	dairy	dairy	health	health	appears linked to higher mortality rates.overall, then, the	
-T-1225	kidney stones	kidney stones	asthma	asthma	(see also here), childhood	
-T-1225	risk	risk	disease	disease	of cancer, parkinson’s	
-T-1225	mortality	mortality	dairy	dairy	rates.overall, then, the health conditions	
-T-1225	death	death	syndrome	syndrome		
-T-1225	lead	lead	pesticides	pesticides	as well as banned	
-T-1225	death	death	multiple sclerosis	multiple sclerosis	syndrome, ulcerative colitis, bacterial vaginosis, and	
-T-1225	blood	blood	skin	skin	pressure (see also here),	
-T-1225	children	children	prostate	prostate	), breast cancer,	
-T-1225	antioxidants	antioxidants	ergothioneine	ergothioneine	(see also here, here, and here);	
-T-1225	death	death	ulcerative colitis	ulcerative colitis	syndrome,	
-T-1225	risk	risk	disease	disease	of inflammation, heart	
-T-1225	dairy	dairy	fat	fat		
-T-1225	cancer	cancer	dairy	dairy	.the hormones (see also here and here) in	
-T-1225	blood pressure	blood pressure	syndrome	syndrome	(see also here), skin wrinkling, sudden infant death	
-T-1225	skin	skin	bacterial vaginosis	bacterial vaginosis	wrinkling, sudden infant death syndrome, ulcerative colitis,	
-T-1225	risk	risk	diabetes	diabetes	of inflammation, heart disease,	
-T-1225	dairy	dairy	health	health	industry has sponsored groups that minimize the potential	
-T-1225	california	california	children	children		
-T-1225	amino acid	amino acid	fiber	fiber	that may help protect our cells; and	
-T-1225	blood pressure	blood pressure	skin	skin	(see also here),	
-T-1225	skin	skin	ulcerative colitis	ulcerative colitis	wrinkling, sudden infant death syndrome,	
-T-1225	death	death	bacterial vaginosis	bacterial vaginosis	syndrome, ulcerative colitis,	
-T-1225	blood pressure	blood pressure	death	death	(see also here), skin wrinkling, sudden infant	
-T-1225	kidney	kidney	asthma	asthma	stones (see also here), childhood	
-T-1225	dairy	dairy	climate change	climate change	production may also adversely impact	
-T-1225	cancer	cancer	hormones	hormones	.the	
-T-1225	risk	risk	hormones	hormones	of inflammation, heart disease, diabetes, and cancer.the	
+T-1225	children	children	lead	lead	found the top food source of	
 T-1225	pesticides	pesticides	dioxins	dioxins	and	
-T-1225	hormones	hormones	dairy	dairy	(see also here and here) in	
-T-1225	chemicals	chemicals	dairy	dairy	can also build up in	

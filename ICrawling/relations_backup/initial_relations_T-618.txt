@@ -1,26 +1,8 @@
 
-T-618	health	health	plant-based diet	plant-based diet	benefits of a	
-T-618	physicians	physicians	medicine	medicine	committee for responsible	
-T-618	doctors	doctors	plant-based diet	plant-based diet	and laypeople advocating the health benefits of a	
-T-618	plant-based	plant-based	diet	diet		
-T-618	dr. neal barnard	dr. neal barnard	medicine	medicine	founded the physicians committee for responsible	
-T-618	doctors	doctors	plant-based	plant-based	and laypeople advocating the health benefits of a	
-T-618	standard american diet	standard american diet	doctors	doctors	equivalent to the pre-1980s-smoking stage, when too many	
-T-618	doctors	doctors	smoking	smoking	were bystanders, if not enablers, of	
-T-618	chronic diseases	chronic diseases	doctors	doctors	was recognized by the medical community,	
-T-618	physicians	physicians	pcrm	pcrm	committee for responsible medicine (	
-T-618	health	health	plant-based	plant-based	benefits of a	
 T-618	doctors	doctors	lead	lead	began to	
-T-618	tobacco	tobacco	cancer	cancer	’s role in	
-T-618	dr. neal barnard	dr. neal barnard	physicians committee for responsible medicine	physicians committee for responsible medicine	founded the	
-T-618	health	health	diet	diet	benefits of a plant-based	
-T-618	cancer	cancer	medical community	medical community	and other chronic diseases was recognized by the	
-T-618	tobacco	tobacco	chronic diseases	chronic diseases	’s role in cancer and other	
-T-618	diet	diet	doctors	doctors	equivalent to the pre-1980s-smoking stage, when too many	
-T-618	cancer	cancer	chronic diseases	chronic diseases	and other	
 T-618	chronic diseases	chronic diseases	medical community	medical community	was recognized by the	
-T-618	doctors	doctors	health	health	and laypeople advocating the	
+T-618	dr. neal barnard	dr. neal barnard	physicians committee for responsible medicine	physicians committee for responsible medicine	founded the	
+T-618	doctors	doctors	diet	diet	enabled or at least took no action to help patients learn about and pursue	
 T-618	meat	meat	tobacco	tobacco	is the new	
 T-618	dr. neal barnard	dr. neal barnard	physicians	physicians	founded the	
-T-618	dr. neal barnard	dr. neal barnard	pcrm	pcrm	founded the physicians committee for responsible medicine (	
 T-618	doctors	doctors	nutrition	nutrition	practice good	

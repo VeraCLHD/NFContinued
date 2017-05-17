@@ -1,31 +1,4 @@
 
-V-137	processed meat	processed meat	bacon	bacon	—like	
-V-137	cancer	cancer	processed meat	processed meat	charities’ recommendation to stop eating	
-V-137	cancer	cancer	meat	meat	prevention guidelines now urge people to avoid processed	
-V-137	processed meat	processed meat	dogs	dogs	—like bacon, ham, hot	
-V-137	meat	meat	salt	salt	that can help compensate for the	
-V-137	meat	meat	cancer	cancer	industry’s response to the leading	
-V-137	cancer	cancer	bacon	bacon	charities’ recommendation to stop eating processed meat—like	
-V-137	cancer	cancer	ham	ham	charities’ recommendation to stop eating processed meat—like bacon,	
-V-137	eggs	eggs	meat	meat	and ham.it’s like salt reduction in	
-V-137	eggs	eggs	salt	salt	and ham.it’s like	
-V-137	lard	lard	disease	disease	is not the best thing in the world—heart	
-V-137	prevention	prevention	meat	meat	guidelines now urge people to avoid processed	
-V-137	salt	salt	meat	meat	reduction in	
-V-137	processed meat	processed meat	hot dogs	hot dogs	—like bacon, ham,	
-V-137	processed meat	processed meat	ham	ham	—like bacon,	
-V-137	lard	lard	heart disease	heart disease	is not the best thing in the world—	
-V-137	meat	meat	health	health	products could have	
-V-137	pigs	pigs	fat	fat	’	
-V-137	processed meat	processed meat	sausage	sausage	—like bacon, ham, hot dogs,	
-V-137	cancer prevention	cancer prevention	meat	meat	guidelines now urge people to avoid processed	
-V-137	meat industry	meat industry	cancer	cancer	’s response to the leading	
-V-137	resistant starch	resistant starch	beans	beans	from	
-V-137	meat industry	meat industry	salt	salt	is cost, as	
-V-137	cancer	cancer	meat	meat	charities’ recommendation to stop eating processed	
-V-137	resistant starch	resistant starch	cancer	cancer	from beans, that have protective effects against	
+V-137	meat industry	meat industry	convenience	convenience	is to find a way to maintain the consumption of these	
 V-137	diet	diet	fiber	fiber	is so deficient in	
-V-137	cancer	cancer	prevention	prevention		
-V-137	salt	salt	meat	meat	replacement within the	
-V-137	salt	salt	meat industry	meat industry	replacement within the	
-V-137	meat	meat	salt	salt	industry is cost, as	
+V-137	lard	lard	heart disease	heart disease	is not the best thing in the world—	

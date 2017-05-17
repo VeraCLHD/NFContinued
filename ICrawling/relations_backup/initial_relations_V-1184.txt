@@ -1,8 +1,4 @@
 
-V-1184	carcinogen	carcinogen	formaldehyde	formaldehyde		
 V-1184	soy	soy	tempeh	tempeh	itself, since	
 V-1184	tempeh	tempeh	soy	soy	is actually a more concentrated source of	
 V-1184	formaldehyde	formaldehyde	tofu	tofu	is often added to	
-V-1184	formaldehyde	formaldehyde	tempeh	tempeh	is often added to tofu (but not	
-V-1184	tofu	tofu	dementia	dementia	to	
-V-1184	tofu	tofu	tempeh	tempeh	to be harmful, but	

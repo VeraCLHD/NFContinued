@@ -1,75 +1,19 @@
 
-T-984	soy	soy	phytonutrients	phytonutrients		
-T-984	breast cancer	breast cancer	stem cells	stem cells		
-T-984	tea	tea	milk	milk	on arterial cells, soymilk as well as cow’s	
-T-984	cancer	cancer	cancer	cancer	cells; this reduced the	
-T-984	broccoli	broccoli	cancer	cancer	prevents lung	
-T-984	organic	organic	cancer	cancer	strawberries blocked colon and breast	
-T-984	blood	blood	cancer cells	cancer cells	is dripped on prostate	
+T-984	indian gooseberries	indian gooseberries	cancer	cancer	have been found to kill	
+T-984	blood	blood	prostate	prostate	is dripped on	
 T-984	colon	colon	breast cancer	breast cancer	and	
-T-984	plants	plants	blood	blood	: the	
-T-984	antioxidants	antioxidants	rice	rice	than brown	
-T-984	colon	colon	cancer cells	cancer cells	and breast	
-T-984	organic	organic	cancer growth	cancer growth	strawberries blocked colon and breast	
+T-984	gooseberries	gooseberries	cancer	cancer	have been found to kill	
 T-984	apple peels	apple peels	cancer	cancer	have shown potent anti-proliferative effects on human	
 T-984	vegetables	vegetables	tumor	tumor	have been found to halt	
-T-984	plant-based	plant-based	diet	diet		
-T-984	in vitro studies	in vitro studies	tea	tea	: when measuring the beneficial effects of	
+T-984	blood	blood	women	women	of	
+T-984	carcinogens	carcinogens	broccoli	broccoli	had	
 T-984	gooseberries	gooseberries	cancer cells	cancer cells	have been found to kill	
-T-984	cancer	cancer	breast cancer	breast cancer	stem cells, was found to inhibit	
-T-984	strawberries	strawberries	cancer	cancer	blocked colon and breast	
-T-984	prostate	prostate	cancer	cancer		
+T-984	apple peels	apple peels	cancer cells	cancer cells	have shown potent anti-proliferative effects on human	
 T-984	kale	kale	white blood cells	white blood cells	was dripped on	
-T-984	fat	fat	soy	soy	cells was placed in a petri dish; as	
-T-984	antioxidants	antioxidants	brown rice	brown rice	than	
-T-984	beans	beans	colon	colon	have shown potent inhibitory activity against	
-T-984	apple	apple	cancer	cancer	peels have shown potent anti-proliferative effects on human	
+T-984	strawberries	strawberries	colon	colon	blocked	
+T-984	broccoli	broccoli	lung cancer	lung cancer	prevents	
+T-984	kale	kale	blood	blood	was dripped on white	
+T-984	milk	milk	tea	tea	appeared to block the benefits of the	
 T-984	indian gooseberries	indian gooseberries	cancer cells	cancer cells	have been found to kill	
 T-984	blood	blood	prostate cancer	prostate cancer	is dripped on	
 T-984	rice	rice	antioxidants	antioxidants	has been found to have ten times more	
-T-984	amyloid	amyloid	protein	protein	beta (which is the neurotoxic alzheimer’s	
-T-984	strawberries	strawberries	breast cancer	breast cancer	blocked colon and	
-T-984	black beans	black beans	colon	colon	have shown potent inhibitory activity against	
-T-984	broccoli	broccoli	cancer	cancer	juice, when dripped on	
-T-984	blood	blood	produce	produce	cells, it boosted their ability to	
-T-984	colon	colon	cancer growth	cancer growth	and breast	
-T-984	blood	blood	antibodies	antibodies	cells, it boosted their ability to produce	
-T-984	broccoli	broccoli	cancer cells	cancer cells	prevents lung	
-T-984	cancer	cancer	cancer stem cells	cancer stem cells	stem cells, was found to inhibit breast	
-T-984	broccoli	broccoli	lung cancer	lung cancer	prevents	
-T-984	colon	colon	cancer	cancer	and breast	
-T-984	black beans	black beans	breast cancer	breast cancer	have shown potent inhibitory activity against colon and	
-T-984	diet	diet	cancer cells	cancer cells	for two weeks was dripped on	
-T-984	blood	blood	diet	diet	of women on a plant based	
-T-984	apple	apple	cancer cells	cancer cells	peels have shown potent anti-proliferative effects on human	
-T-984	indian gooseberries	indian gooseberries	cancer	cancer	have been found to kill	
-T-984	women	women	diet	diet	on a plant based	
-T-984	blood	blood	prostate	prostate	is dripped on	
-T-984	organic	organic	strawberries	strawberries		
-T-984	broccoli	broccoli	juice	juice		
-T-984	gooseberries	gooseberries	cancer	cancer	have been found to kill	
-T-984	diet	diet	cancer	cancer	for two weeks was dripped on	
-T-984	broccoli	broccoli	stem cells	stem cells	juice, when dripped on cancer	
-T-984	carcinogens	carcinogens	broccoli	broccoli	had	
-T-984	apple peels	apple peels	cancer cells	cancer cells	have shown potent anti-proliferative effects on human	
-T-984	in vitro studies	in vitro studies	plants	plants	that attest to the healing power of	
-T-984	strawberries	strawberries	colon	colon	blocked	
-T-984	plants	plants	women	women	: the blood of	
-T-984	prostate	prostate	cancer cells	cancer cells		
-T-984	soy	soy	fat	fat	phytonutrients were added,	
-T-984	phytonutrients	phytonutrients	fat	fat	were added,	
-T-984	blood	blood	cancer	cancer	is dripped on prostate	
-T-984	cancer	cancer	cancer	cancer	stem cells, was found to inhibit breast	
-T-984	cancer	cancer	stem cells	stem cells		
-T-984	broccoli	broccoli	dna	dna	dripped on them; this helped prevent their	
-T-984	apple	apple	juice	juice		
-T-984	blood	blood	women	women	of	
-T-984	beans	beans	breast cancer	breast cancer	have shown potent inhibitory activity against colon and	
-T-984	strawberries	strawberries	cancer growth	cancer growth	blocked colon and breast	
-T-984	organic	organic	breast cancer	breast cancer	strawberries blocked colon and	
-T-984	cancer	cancer	cancer growth	cancer growth	cells; this reduced the	
-T-984	broccoli	broccoli	cancer stem cells	cancer stem cells	juice, when dripped on	
-T-984	kale	kale	blood	blood	was dripped on white	
-T-984	milk	milk	tea	tea	appeared to block the benefits of the	
-T-984	produce	produce	antibodies	antibodies		
-T-984	organic	organic	colon	colon	strawberries blocked	

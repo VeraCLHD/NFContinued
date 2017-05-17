@@ -1,16 +1,3 @@
 
-V-1236	walnuts	walnuts	nuts	nuts	up here; pine	
-V-1236	hazelnuts	hazelnuts	filberts	filberts	(also called	
-V-1236	nuts	nuts	hazelnuts	hazelnuts	are pecans, walnuts,	
-V-1236	walnuts	walnuts	pine nuts	pine nuts	up here;	
-V-1236	pecans	pecans	walnuts	walnuts	and	
-V-1236	nuts	nuts	filberts	filberts	are pecans, walnuts, hazelnuts (also called	
-V-1236	filberts	filberts	almonds	almonds	), pistachios, and	
-V-1236	hazelnuts	hazelnuts	pistachios	pistachios	(also called filberts),	
-V-1236	pecans	pecans	nuts	nuts	and walnuts up here; pine	
-V-1236	nuts	nuts	walnuts	walnuts	are pecans,	
 V-1236	nuts	nuts	pecans	pecans	are	
-V-1236	nuts	nuts	pistachios	pistachios	are pecans, walnuts, hazelnuts (also called filberts),	
-V-1236	pecans	pecans	pine nuts	pine nuts	and walnuts up here;	
-V-1236	pecans	pecans	walnuts	walnuts	are the chart topper, followed by	
-V-1236	hazelnuts	hazelnuts	almonds	almonds	(also called filberts), pistachios, and	
+V-1236	pecans	pecans	walnuts	walnuts	and	

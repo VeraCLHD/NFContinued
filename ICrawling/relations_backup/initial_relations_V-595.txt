@@ -1,31 +1,5 @@
 
-V-595	probiotics	probiotics	depression	depression	was found to significantly decrease symptoms of anxiety,	
-V-595	chronic fatigue syndrome	chronic fatigue syndrome	gut	gut	“complain of	
-V-595	probiotics	probiotics	anxiety	anxiety	was found to significantly decrease symptoms of	
-V-595	symptoms	symptoms	anger	anger	of anxiety, depression,	
-V-595	intestinal putrefaction	intestinal putrefaction	flora	flora	by changing the intestinal	
-V-595	enteric nervous system	enteric nervous system	gut	gut	—the collection of nerves in our	
 V-595	doctors	doctors	depression	depression	perceived a connection between	
-V-595	chronic fatigue syndrome	chronic fatigue syndrome	gut dysfunction	gut dysfunction	“complain of	
 V-595	stomach	stomach	gut	gut	knows that our mental state can affect our	
-V-595	vegetarian	vegetarian	diet	diet		
-V-595	intestinal putrefaction	intestinal putrefaction	mental illness	mental illness	”—was the cause of	
-V-595	gut	gut	flora	flora		
-V-595	syndrome	syndrome	gut dysfunction	gut dysfunction	“complain of	
-V-595	gut	gut	intestinal putrefaction	intestinal putrefaction	—”	
-V-595	thorazine	thorazine	mental illness	mental illness	was invented in 1950,	
-V-595	bacteria	bacteria	intestinal putrefaction	intestinal putrefaction	in the gut—”	
-V-595	intestinal putrefaction	intestinal putrefaction	intestinal flora	intestinal flora	by changing the	
-V-595	bacteria	bacteria	mental illness	mental illness	in the gut—”intestinal putrefaction”—was the cause of	
-V-595	fatigue	fatigue	syndrome	syndrome		
-V-595	vegetarian	vegetarian	probiotics	probiotics	diet, so it may not have been the	
-V-595	fatigue	fatigue	gut dysfunction	gut dysfunction	syndrome “complain of	
-V-595	syndrome	syndrome	gut	gut	“complain of	
-V-595	symptoms	symptoms	depression	depression	of anxiety,	
-V-595	fatigue	fatigue	gut	gut	syndrome “complain of	
-V-595	gut	gut	skin	skin	than through our	
-V-595	gut	gut	mental illness	mental illness	—”intestinal putrefaction”—was the cause of	
 V-595	symptoms	symptoms	anxiety	anxiety	of	
-V-595	bacteria	bacteria	gut	gut	in the	
-V-595	variety	variety	bacteria	bacteria	of mechanisms has been proposed for how intestinal	
 V-595	probiotics	probiotics	symptoms	symptoms	was found to significantly decrease	

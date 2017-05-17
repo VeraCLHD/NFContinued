@@ -1,13 +1,3 @@
 
-T-3	inflammation	inflammation	cholesterol	cholesterol	and calcification with oxidized	
-T-3	nuts	nuts	fruit	fruit	daily and increasing	
 T-3	cholesterol	cholesterol	blood	blood	cause the	
-T-3	risk	risk	aortic aneurysm	aortic aneurysm	for developing an abdominal	
-T-3	inflammation	inflammation	blood	blood	and calcification with oxidized cholesterol cause the	
-T-3	risk	risk	abdominal aortic aneurysm	abdominal aortic aneurysm	for developing an	
 T-3	smoking	smoking	aneurysm	aneurysm	is the best way to prevent an	
-T-3	meat	meat	fruit	fruit	consumption, eating nuts daily and increasing	
-T-3	aneurysm	aneurysm	diet	diet	from forming, but changes in	
-T-3	risk	risk	aneurysm	aneurysm	for developing an abdominal aortic	
-T-3	fruit	fruit	prevention	prevention	and vegetable intake may also be helpful in	
-T-3	meat	meat	nuts	nuts	consumption, eating	

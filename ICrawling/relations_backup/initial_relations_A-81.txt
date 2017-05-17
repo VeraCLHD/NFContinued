@@ -1,136 +1,18 @@
 
-A-81	mortality	mortality	cancer	cancer	among breast	
-A-81	breast cancer	breast cancer	bacon	bacon	—we can’t just sprinkle some flax on our	
-A-81	kingdom	kingdom	vegetables	vegetables	—in seeds, whole grains,	
-A-81	flax	flax	cancer	cancer	seeds help prevent breast	
-A-81	lignans	lignans	seeds	seeds	are found throughout the plant kingdom—in	
-A-81	lignans	lignans	breast cancer	breast cancer	are not a magic bullet to prevent	
-A-81	lignans	lignans	cancer	cancer	appeared to live longer (flaxseeds & breast	
-A-81	side effects	side effects	uterine cancer	uterine cancer	such as	
-A-81	lignans	lignans	breast cancer	breast cancer	also help prevent	
-A-81	lignans	lignans	cancer survival	cancer survival	appeared to live longer (flaxseeds & breast	
-A-81	drugs	drugs	cognition	cognition	and supplements on	
-A-81	risk	risk	mental health	mental health	of breast cancer, better	
-A-81	breast cancer	breast cancer	risk	risk		
-A-81	prostate	prostate	cancer	cancer		
-A-81	seeds	seeds	cancer	cancer	help prevent breast	
-A-81	flax	flax	cancer	cancer	seeds to breast	
-A-81	inflammatory molecule	inflammatory molecule	tumors	tumors	called interleukin-1, which may help	
-A-81	breast cancer	breast cancer	breast cancer survival	breast cancer survival	risk and improvement in	
-A-81	cancer	cancer	cancer	cancer	to 3,000 women without, a study published in	
-A-81	cancer	cancer	fat	fat	and was it the flaxseed,	
-A-81	flaxseeds	flaxseeds	cancer	cancer	& breast	
-A-81	flax seeds	flax seeds	cancer	cancer	help prevent breast	
-A-81	cancer	cancer	bacon	bacon	—we can’t just sprinkle some flax on our	
-A-81	flaxseeds	flaxseeds	breast cancer	breast cancer	aid in preventing and treating	
-A-81	prostate	prostate	fat	fat	cancer and was it the flaxseed,	
-A-81	flax	flax	risk	risk	and decreased	
-A-81	women	women	flax seeds	flax seeds	who regularly eat	
-A-81	women	women	cancer	cancer	without, a study published in	
-A-81	ground flax	ground flax	cancer	cancer	seeds to breast	
-A-81	lignans	lignans	breast cancer survival	breast cancer survival	appeared to live longer (flaxseeds &	
-A-81	cancer	cancer	flaxseeds	flaxseeds	a teaspoon of ground	
-A-81	risk	risk	flaxseeds	flaxseeds	for breast cancer a teaspoon of ground	
-A-81	flaxseeds	flaxseeds	cancer	cancer	aid in preventing and treating breast	
-A-81	cancer survival	cancer survival	flaxseeds	flaxseeds	: epidemiological evidence and	
-A-81	plants	plants	vegetarians	vegetarians	—	
-A-81	flax	flax	health	health	and brain	
 A-81	flax seeds	flax seeds	breast cancer	breast cancer	help prevent	
-A-81	flax seeds	flax seeds	breast cancer	breast cancer	to	
-A-81	risk	risk	breast cancer survival	breast cancer survival	and improvement in	
-A-81	side effects	side effects	cancer	cancer	such as uterine	
-A-81	women	women	lignans	lignans	with breast cancer who ate the most	
-A-81	breast cancer survival	breast cancer survival	cancer	cancer	: epidemiological evidence and flaxseeds & breast	
-A-81	tamoxifen	tamoxifen	cancer	cancer	may reduce the incidence of breast	
-A-81	risk	risk	cancer survival	cancer survival	and improvement in breast	
-A-81	women	women	breast cancer	breast cancer	at high risk for	
-A-81	breast cancer	breast cancer	cancer	cancer	to 3,000 women without, a study published in	
-A-81	seeds	seeds	breast cancer	breast cancer	help prevent	
-A-81	women	women	flax seeds	flax seeds	eating	
-A-81	lignans	lignans	grains	grains	are found throughout the plant kingdom—in seeds, whole	
-A-81	cancer survival	cancer survival	breast cancer	breast cancer	: epidemiological evidence and flaxseeds &	
-A-81	seeds	seeds	breast cancer	breast cancer	to	
-A-81	risk	risk	health	health	of breast cancer, better mental	
-A-81	flax	flax	brain health	brain health	and	
-A-81	flax	flax	anti-inflammatory	anti-inflammatory	may be able to increase the	
-A-81	lignans	lignans	cancer	cancer	also help prevent breast	
-A-81	risk	risk	breast cancer	breast cancer	and improvement in	
-A-81	women	women	risk	risk	at high	
-A-81	cancer	cancer	breast cancer survival	breast cancer survival	risk and improvement in	
-A-81	flaxseeds	flaxseeds	cancer survival	cancer survival	& breast	
-A-81	breast cancer	breast cancer	flax	flax	—we can’t just sprinkle some	
-A-81	lignans	lignans	kingdom	kingdom	are found throughout the plant	
-A-81	bacon	bacon	diet	diet	cheeseburger—but as a part of a healthy	
-A-81	side effects	side effects	blood clots	blood clots	such as uterine cancer and	
-A-81	uterine cancer	uterine cancer	blood	blood	and	
-A-81	diet	diet	breast cancer	breast cancer	and life-style, they might help to reduce	
-A-81	breast cancer	breast cancer	flaxseeds	flaxseeds	a teaspoon of ground	
-A-81	lignans	lignans	breast cancer	breast cancer	in the reduction of	
-A-81	flax	flax	bread	bread		
-A-81	seeds	seeds	cancer	cancer	to breast	
-A-81	mortality	mortality	breast cancer	breast cancer	among	
-A-81	tamoxifen	tamoxifen	flax	flax	—or by eating	
-A-81	breast cancer	breast cancer	cancer survival	cancer survival	risk and improvement in breast	
-A-81	flax	flax	cancer	cancer	and decreased risk of breast	
 A-81	risk	risk	breast cancer	breast cancer	of	
-A-81	breast cancer	breast cancer	cancer	cancer	risk and improvement in breast	
-A-81	women	women	cancer	cancer	with breast	
-A-81	risk	risk	cancer	cancer	of breast	
-A-81	risk	risk	cancer	cancer	for breast	
+A-81	flaxseeds	flaxseeds	breast cancer	breast cancer	may be one successful route given the data showing reduced	
+A-81	lignans	lignans	breast cancer	breast cancer	are not a magic bullet to prevent	
+A-81	uterine cancer	uterine cancer	blood	blood	and	
 A-81	inflammatory molecule	inflammatory molecule	interleukin-1	interleukin-1	called	
-A-81	flax	flax	seeds	seeds		
-A-81	cancer	cancer	women	women	to 3,000	
-A-81	kingdom	kingdom	seeds	seeds	—in	
-A-81	cognition	cognition	flax	flax	in older adults, which found that	
-A-81	risk	risk	breast cancer	breast cancer	for	
+A-81	phytoestrogens	phytoestrogens	flaxseeds	flaxseeds	in	
+A-81	women	women	cancer	cancer	without, a study published in	
+A-81	seeds	seeds	breast cancer	breast cancer	help prevent	
 A-81	tamoxifen	tamoxifen	breast cancer	breast cancer	may reduce the incidence of	
-A-81	women	women	breast cancer	breast cancer	with	
-A-81	flax	flax	health	health	and decreased risk of breast cancer, better mental	
-A-81	risk	risk	mortality	mortality	of breast cancer, better mental health, and lower	
-A-81	prostate cancer	prostate cancer	fat	fat	and was it the flaxseed,	
-A-81	cancer	cancer	breast cancer	breast cancer	risk and improvement in	
-A-81	cancer survival	cancer survival	cancer	cancer	: epidemiological evidence and flaxseeds & breast	
-A-81	cancer	cancer	cancer survival	cancer survival	risk and improvement in breast	
-A-81	kingdom	kingdom	berries	berries	—in seeds, whole grains, vegetables, fruits,	
-A-81	women	women	seeds	seeds	who regularly eat flax	
-A-81	breast cancer	breast cancer	cancer	cancer	cells and to prevent	
-A-81	women	women	cancer	cancer	at high risk for breast	
-A-81	flax	flax	breast cancer	breast cancer	seeds to	
-A-81	ground flax	ground flax	seeds	seeds		
-A-81	breast cancer survival	breast cancer survival	flaxseeds	flaxseeds	: epidemiological evidence and	
-A-81	lignans	lignans	breast cancer	breast cancer	appeared to live longer (flaxseeds &	
+A-81	uterine cancer	uterine cancer	blood clots	blood clots	and	
+A-81	women	women	flax seeds	flax seeds	eating	
 A-81	drugs	drugs	supplements	supplements	and	
 A-81	flaxseeds	flaxseeds	lignans	lignans	are packed with	
-A-81	women	women	flax	flax	who regularly eat	
-A-81	supplements	supplements	cognition	cognition	on	
-A-81	diet	diet	cancer	cancer	and life-style, they might help to reduce breast	
-A-81	cancer	cancer	flaxseeds	flaxseeds	survival: epidemiological evidence and	
-A-81	lignans	lignans	cancer	cancer	are not a magic bullet to prevent breast	
-A-81	cancer	cancer	flax	flax	—we can’t just sprinkle some	
-A-81	flax seeds	flax seeds	cancer	cancer	to breast	
-A-81	risk	risk	cancer	cancer	and improvement in breast	
-A-81	cancer	cancer	risk	risk		
-A-81	berries	berries	lignans	lignans	—so, how do we know	
-A-81	kingdom	kingdom	grains	grains	—in seeds, whole	
-A-81	flax	flax	breast cancer	breast cancer	and decreased risk of	
-A-81	flax	flax	bacon	bacon	on our	
-A-81	breast cancer survival	breast cancer survival	breast cancer	breast cancer	: epidemiological evidence and flaxseeds &	
-A-81	kingdom	kingdom	whole grains	whole grains	—in seeds,	
-A-81	kingdom	kingdom	fruits	fruits	—in seeds, whole grains, vegetables,	
 A-81	women	women	flax	flax	eating	
-A-81	breast cancer	breast cancer	women	women	to 3,000	
-A-81	cancer cells	cancer cells	cancer	cancer	and to prevent	
-A-81	women	women	seeds	seeds	eating flax	
-A-81	ground flax	ground flax	breast cancer	breast cancer	seeds to	
-A-81	supplements	supplements	flax	flax	on cognition in older adults, which found that	
-A-81	cancer	cancer	cancer	cancer	risk and improvement in breast	
-A-81	lignans	lignans	whole grains	whole grains	are found throughout the plant kingdom—in seeds,	
-A-81	lignans	lignans	risk	risk	in the reduction of breast cancer	
-A-81	phytoestrogens	phytoestrogens	flaxseeds	flaxseeds	in	
-A-81	flax	flax	breast cancer	breast cancer	seeds help prevent	
-A-81	uterine cancer	uterine cancer	blood clots	blood clots	and	
-A-81	cancer	cancer	cancer	cancer	cells and to prevent	
-A-81	breast cancer	breast cancer	flaxseeds	flaxseeds	survival: epidemiological evidence and	
-A-81	flax	flax	mental health	mental health	and decreased risk of breast cancer, better	
-A-81	side effects	side effects	blood	blood	such as uterine cancer and	
-A-81	lignans	lignans	cancer	cancer	in the reduction of breast	
+A-81	flax	flax	brain health	brain health	and	
+A-81	flax	flax	anti-inflammatory	anti-inflammatory	may be able to increase the	

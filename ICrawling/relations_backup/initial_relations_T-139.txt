@@ -1,52 +1,13 @@
 
-T-139	ulcerative colitis	ulcerative colitis	disease	disease	and crohn’s	
-T-139	plant-based diet	plant-based diet	mental health	mental health	reported increased energy, better sleep patterns and improved	
-T-139	protein	protein	fish	fish	from meat and	
-T-139	risk	risk	disease	disease	of inflammatory bowel	
-T-139	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of	
-T-139	fat	fat	arachidonic acid	arachidonic acid	and protein (with little or no	
-T-139	plant-based	plant-based	diet	diet		
-T-139	inflammatory bowel disease	inflammatory bowel disease	ulcerative colitis	ulcerative colitis	such as	
-T-139	japanese	japanese	inflammation	inflammation	researchers learned.arachidonic acid may trigger brain	
-T-139	plant-based diet	plant-based diet	sleep	sleep	reported increased energy, better	
-T-139	egg	egg	arachidonic acid	arachidonic acid	a day elevated	
-T-139	diet	diet	energy	energy	reported increased	
-T-139	meat	meat	fish	fish	-free, plant-based diet.animal protein from meat and	
-T-139	lead	lead	mood	mood	to inflammatory diseases and	
-T-139	risk	risk	ulcerative colitis	ulcerative colitis	of inflammatory bowel disease such as	
-T-139	arachidonic acid	arachidonic acid	anxiety	anxiety	) may be associated with lower levels of	
-T-139	plant-based	plant-based	meat	meat	diet.animal protein from	
-T-139	inflammatory diseases	inflammatory diseases	mood	mood	and	
-T-139	diet	diet	sleep	sleep	reported increased energy, better	
-T-139	anxiety	anxiety	depression	depression	and	
-T-139	anxiety	anxiety	meat	meat	and emotional well-being among those following a	
-T-139	diet	diet	mental health	mental health	reported increased energy, better sleep patterns and improved	
-T-139	protein	protein	arachidonic acid	arachidonic acid	(with little or no	
-T-139	poultry	poultry	eggs	eggs	and	
-T-139	mood	mood	poultry	poultry	disorders.arachidonic acid is found in animal products, like	
-T-139	fat	fat	protein	protein	and	
-T-139	lead	lead	inflammatory diseases	inflammatory diseases	to	
-T-139	japanese	japanese	arachidonic acid	arachidonic acid	researchers learned.	
-T-139	disease	disease	ulcerative colitis	ulcerative colitis	such as	
-T-139	anxiety	anxiety	plant-based	plant-based	and emotional well-being among those following a meat-free,	
-T-139	produce	produce	inflammatory diseases	inflammatory diseases	this nutrient, and its excess may lead to	
-T-139	plant-based	plant-based	sleep	sleep	diet reported increased energy, better	
-T-139	blood	blood	risk	risk	levels have been associated with a greater	
-T-139	inflammatory diseases	inflammatory diseases	animal products	animal products	and mood disorders.arachidonic acid is found in	
-T-139	produce	produce	lead	lead	this nutrient, and its excess may	
-T-139	plant-based	plant-based	fish	fish	diet.animal protein from meat and	
-T-139	health	health	diet	diet	compared to a control group given no	
-T-139	meat	meat	protein	protein	-free, plant-based diet.animal	
-T-139	sleep	sleep	mental health	mental health	patterns and improved	
-T-139	inflammatory bowel disease	inflammatory bowel disease	disease	disease	such as ulcerative colitis and crohn’s	
 T-139	risk	risk	suicide	suicide	of	
+T-139	anxiety	anxiety	depression	depression	and	
 T-139	plant-based diet	plant-based diet	energy	energy	reported increased	
-T-139	plant-based	plant-based	protein	protein	diet.animal	
 T-139	arachidonic acid	arachidonic acid	egg	egg	found in just one	
-T-139	plant-based	plant-based	energy	energy	diet reported increased	
-T-139	sleep	sleep	health	health	patterns and improved mental	
-T-139	mood	mood	animal products	animal products	disorders.arachidonic acid is found in	
-T-139	fish	fish	risk	risk	has also been associated with a higher	
+T-139	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of	
+T-139	diet	diet	energy	energy	reported increased	
+T-139	health	health	diet	diet	compared to a control group given no	
+T-139	diet	diet	disease	disease	has been shown to be highly beneficial in preventing relapses among patients suffering from crohn’s	
+T-139	poultry	poultry	eggs	eggs	and	
 T-139	mental health	mental health	diet	diet	compared to a control group given no	
-T-139	protein	protein	meat	meat	from	
-T-139	meat	meat	plant-based	plant-based	-free,	
+T-139	inflammatory diseases	inflammatory diseases	mood	mood	and	
+T-139	fat	fat	protein	protein	and	

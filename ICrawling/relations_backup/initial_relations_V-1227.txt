@@ -1,28 +1,10 @@
 
+V-1227	cats	cats	cancer	cancer	increase our	
+V-1227	meat	meat	dairy	dairy	and	
 V-1227	risk	risk	animal products	animal products	may extend beyond those just eating	
 V-1227	poultry	poultry	fish	fish	and	
-V-1227	americans	americans	blood cancer	blood cancer	come down with non-hodgkin’s lymphoma—a	
-V-1227	cats	cats	cancer	cancer	are protective against	
-V-1227	cats	cats	risk	risk	increase our cancer	
-V-1227	cats	cats	cancer	cancer	is even protective against	
-V-1227	cancer	cancer	risk	risk		
-V-1227	cats	cats	cancer	cancer	increase our	
-V-1227	meat	meat	risk	risk	and dairy products.the	
-V-1227	leukemia	leukemia	virus	virus		
-V-1227	lymphoma	lymphoma	blood cancer	blood cancer	—a	
-V-1227	blood	blood	cancer	cancer		
-V-1227	risk	risk	lymphoma	lymphoma	of developing non-hodgkin’s	
-V-1227	risk	risk	cervical cancer	cervical cancer	for	
-V-1227	cancer	cancer	cancer	cancer	risk, do nothing to our	
-V-1227	risk	risk	cows	cows	of developing non-hodgkin’s lymphoma, contact with	
-V-1227	meat	meat	dairy	dairy	and	
-V-1227	americans	americans	blood	blood	come down with non-hodgkin’s lymphoma—a	
-V-1227	lymphoma	lymphoma	blood	blood	—a	
-V-1227	americans	americans	cancer	cancer	come down with non-hodgkin’s lymphoma—a blood	
-V-1227	dairy	dairy	risk	risk	products.the	
 V-1227	americans	americans	lymphoma	lymphoma	come down with non-hodgkin’s	
-V-1227	lymphoma	lymphoma	cancer	cancer	—a blood	
 V-1227	contamination	contamination	meat	meat	of	
-V-1227	risk	risk	cancer	cancer	for cervical	
+V-1227	cats	cats	cancer	cancer	are protective against	
 V-1227	meat	meat	viruses	viruses	is so laden with	
-V-1227	dairy	dairy	animal products	animal products	products.the risk may extend beyond those just eating	
+V-1227	cats	cats	cancer	cancer	is even protective against	

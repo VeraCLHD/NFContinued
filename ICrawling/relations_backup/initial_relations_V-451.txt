@@ -1,38 +1,11 @@
 
-V-451	harvard	harvard	pollutants	pollutants	researchers reported a link between persistent	
-V-451	salmon	salmon	pollutants	pollutants	…might [not only] consume high concentrations of [	
-V-451	pollutants	pollutants	diabetes	diabetes	] related to the risk of	
-V-451	sardines	sardines	salmon	salmon	were most heavily tainted with hexachlorobenzene, with	
-V-451	industrial toxins	industrial toxins	diabetes	diabetes	and	
-V-451	dioxins	dioxins	risk	risk	and mercury that increases	
-V-451	pollutants	pollutants	diabetes	diabetes	may be a potent risk factor for developing	
-V-451	salmon	salmon	restaurants	restaurants	you “most commonly find in [supermarkets] and	
-V-451	salmon	salmon	supermarkets	supermarkets	you “most commonly find in [	
-V-451	drugs	drugs	pollutants	pollutants	to help mediate the impact of these	
-V-451	harvard	harvard	hexachlorobenzene	hexachlorobenzene	researchers reported a link between persistent pollutants, like	
-V-451	dioxins	dioxins	mercury	mercury	and	
-V-451	mercury	mercury	fish	fish	in	
-V-451	diabetes	diabetes	health	health	in their nurses’	
-V-451	toxins	toxins	diabetes	diabetes	] and	
-V-451	pollutants	pollutants	animal fat	animal fat	comes primarily from the consumption of	
-V-451	supermarkets	supermarkets	restaurants	restaurants	] and	
-V-451	pollutants	pollutants	risk	risk	may be a potent	
-V-451	pollutants	pollutants	chemicals	chemicals	], but some of these [	
-V-451	pollutants	pollutants	fat	fat	comes primarily from the consumption of animal	
-V-451	pollutants	pollutants	risk	risk	] related to the	
-V-451	salmon	salmon	pollutants	pollutants	” [may be] the single largest…source of [these	
-V-451	sardines	sardines	hexachlorobenzene	hexachlorobenzene	were most heavily tainted with	
-V-451	diabetes	diabetes	risk	risk		
-V-451	risk	risk	diabetes	diabetes	factor for developing	
-V-451	salmon	salmon	sardines	sardines	and	
 V-451	diabetes	diabetes	hypertension	hypertension	or	
-V-451	mercury	mercury	risk	risk	alone does not seem to increase diabetes	
-V-451	mercury	mercury	diabetes	diabetes	alone does not seem to increase	
-V-451	mercury	mercury	risk	risk	that increases	
-V-451	pcb	pcb	salmon	salmon	load of wild-caught	
+V-451	pollutants	pollutants	risk	risk	may be a potent	
 V-451	toxins	toxins	diabetes	diabetes	and	
-V-451	pollutants	pollutants	pcb	pcb	],” averaging nearly ten times the	
+V-451	dioxins	dioxins	mercury	mercury	and	
+V-451	sardines	sardines	hexachlorobenzene	hexachlorobenzene	were most heavily tainted with	
 V-451	risk	risk	diabetes	diabetes	of	
-V-451	dioxins	dioxins	risk	risk	and mercury individually] may underestimate the…	
-V-451	salmon	salmon	hexachlorobenzene	hexachlorobenzene	and sardines were most heavily tainted with	
-V-451	mercury	mercury	risk	risk	individually] may underestimate the…	
+V-451	salmon	salmon	sardines	sardines	and	
+V-451	mercury	mercury	fish	fish	in	
+V-451	industrial toxins	industrial toxins	diabetes	diabetes	and	
+V-451	pollutants	pollutants	animal fat	animal fat	comes primarily from the consumption of	

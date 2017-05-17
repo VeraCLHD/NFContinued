@@ -1,14 +1,3 @@
 
-V-665	liver	liver	cancer	cancer	disease, stroke, diabetes,	
-V-665	liver	liver	diabetes	diabetes	disease, stroke,	
-V-665	fat	fat	blood pressure	blood pressure	in our blood, and high	
 V-665	risk	risk	vegetarian	vegetarian	was highest in those eating non-	
-V-665	liver	liver	stroke	stroke	disease,	
-V-665	fat	fat	blood	blood	in our 	
-V-665	fat	fat	high blood pressure	high blood pressure	in our blood, and	
-V-665	smoking	smoking	risk	risk	and exercise,	
-V-665	liver	liver	heart disease	heart disease	disease, stroke, diabetes, cancer, and	
-V-665	liver	liver	disease	disease		
-V-665	risk	risk	vegetarian	vegetarian	for those eating semi-	
-V-665	plant-based	plant-based	nutrition	nutrition		
 V-665	smoking	smoking	exercise	exercise	and	

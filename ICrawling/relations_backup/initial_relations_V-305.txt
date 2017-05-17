@@ -1,34 +1,11 @@
 
 V-305	intestinal infections	intestinal infections	baby	baby	in	
 V-305	pigs	pigs	food safety	food safety	are kept in.but can’t you just follow	
-V-305	fecal contamination	fecal contamination	meat	meat	on the	
-V-305	lead	lead	contamination	contamination	to	
-V-305	colon	colon	surgery	surgery	entirely to save our lives, although the	
-V-305	contamination	contamination	c. diff	c. diff	of retail chicken with 	
-V-305	contamination	contamination	pigs	pigs	of	
-V-305	pigs	pigs	mrsa	mrsa	by superbugs such as c. difficile and	
-V-305	c. diff	c. diff	contamination	contamination	meat	
-V-305	food safety	food safety	meat	meat	guidelines and cook the	
-V-305	c. diff	c. diff	contamination	contamination	food	
-V-305	contamination	contamination	superbugs	superbugs	of pigs by	
-V-305	usda	usda	pork	pork	recommendation for	
-V-305	bacteria	bacteria	c. diff	c. diff	like	
-V-305	contamination	contamination	meat	meat	might include not only fecal contamination on the	
-V-305	pigs	pigs	c. diff	c. diff	because of high rates of	
-V-305	gut	gut	muscles	muscles	into the actual	
-V-305	lead	lead	pork	pork	to contamination of retail	
-V-305	contamination	contamination	chicken	chicken	of retail	
-V-305	c. diff	c. diff	fecal contamination	fecal contamination	food contamination might include not only	
-V-305	superbugs	superbugs	mrsa	mrsa	such as c. difficile and	
 V-305	c. diff	c. diff	meat	meat	in	
-V-305	infection	infection	c. diff	c. diff	into account.see, the problem is that sources of	
-V-305	chicken	chicken	c. diff	c. diff	with 	
 V-305	infections	infections	baby	baby	in	
+V-305	contamination	contamination	pigs	pigs	of	
 V-305	c. diff	c. diff	bacteria	bacteria	comprise one of the main groups of	
-V-305	contamination	contamination	pork	pork	of retail	
+V-305	c. diff	c. diff	intestinal infections	intestinal infections	is now one of the most common causes of	
 V-305	c. diff	c. diff	cross-contamination	cross-contamination	is because of	
 V-305	contamination	contamination	fecal contamination	fecal contamination	might include not only	
-V-305	england	england	medicine	medicine	journal of	
-V-305	pigs	pigs	superbugs	superbugs	by	
-V-305	meat	meat	contamination	contamination		
-V-305	muscles	muscles	meat	meat	of the animal, inside the	
+V-305	c. diff	c. diff	infections	infections	is now one of the most common causes of intestinal	

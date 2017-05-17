@@ -1,26 +1,12 @@
 
-V-127	pregnant women	pregnant women	cannabis	cannabis	who used if for morning sickness, but	
-V-127	pregnant	pregnant	morning sickness	morning sickness	women who used if for	
-V-127	vomiting	vomiting	esophagus	esophagus	you can rupture your	
-V-127	hyperemesis gravidarum	hyperemesis gravidarum	lead	lead	can	
-V-127	pregnant	pregnant	women	women		
-V-127	ginger	ginger	cannabis	cannabis	a day.	
-V-127	nausea	nausea	pregnancy	pregnancy	and vomiting are common during	
-V-127	nausea	nausea	pregnancy	pregnancy	and vomiting in	
-V-127	women	women	morning sickness	morning sickness	who used if for	
-V-127	vomiting	vomiting	pregnancy	pregnancy	are common during	
 V-127	nausea	nausea	vomiting	vomiting	and	
-V-127	plant-based diets	plant-based diets	vomiting	vomiting	tend to have little or no nausea and	
-V-127	lead	lead	vomiting	vomiting	to such violent	
-V-127	plant-based diets	plant-based diets	nausea	nausea	tend to have little or no	
-V-127	breastfeeding	breastfeeding	cannabis	cannabis		
-V-127	pregnant women	pregnant women	morning sickness	morning sickness	who used if for	
-V-127	pregnant	pregnant	cannabis	cannabis	and breastfeeding	
-V-127	hyperemesis gravidarum	hyperemesis gravidarum	vomiting	vomiting	can lead to such violent	
-V-127	vomiting	vomiting	pregnancy	pregnancy	in	
 V-127	pregnant	pregnant	breastfeeding	breastfeeding	and	
-V-127	pregnant	pregnant	cannabis	cannabis	women who used if for morning sickness, but	
-V-127	women	women	cannabis	cannabis	who used if for morning sickness, but	
+V-127	symptoms	symptoms	hyperemesis gravidarum	hyperemesis gravidarum	are so severe it can become life-threatening—a condition known as	
+V-127	cannabis	cannabis	pregnant	pregnant	was rated as extremely effective or effective by nine out of ten	
+V-127	plant-based diets	plant-based diets	nausea	nausea	tend to have little or no	
+V-127	cannabis	cannabis	pregnant women	pregnant women	was rated as extremely effective or effective by nine out of ten	
+V-127	vomiting	vomiting	pregnancy	pregnancy	are common during	
 V-127	ginger	ginger	treatment	treatment	is a safe and effective	
-V-127	lead	lead	esophagus	esophagus	to such violent vomiting you can rupture your	
-V-127	plant-based	plant-based	nausea	nausea	diets tend to have little or no	
+V-127	hyperemesis gravidarum	hyperemesis gravidarum	lead	lead	can	
+V-127	cannabis	cannabis	baby	baby	could be a lifesaver for the mother and the	
+V-127	vomiting	vomiting	pregnancy	pregnancy	in	

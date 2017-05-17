@@ -1,20 +1,4 @@
 
-V-1114	alfalfa	alfalfa	food poisoning	food poisoning	sprouts, considered dangerous because of the risk of	
 V-1114	cdc	cdc	raw	raw	recommend not eating	
-V-1114	fda	fda	sprouts	sprouts	and cdc recommend not eating raw alfalfa	
-V-1114	cdc	cdc	alfalfa	alfalfa	recommend not eating raw	
-V-1114	salmonella	salmonella	fda	fda	outbreak last year.the	
-V-1114	salmonella	salmonella	cdc	cdc	outbreak last year.the fda and	
-V-1114	cdc	cdc	sprouts	sprouts	recommend not eating raw alfalfa	
-V-1114	cdc	cdc	alfalfa sprouts	alfalfa sprouts	recommend not eating raw	
 V-1114	risk	risk	food poisoning	food poisoning	of	
-V-1114	raw	raw	sprouts	sprouts	alfalfa	
-V-1114	alfalfa	alfalfa	sprouts	sprouts		
 V-1114	fda	fda	cdc	cdc	and	
-V-1114	fda	fda	alfalfa sprouts	alfalfa sprouts	and cdc recommend not eating raw	
-V-1114	broccoli	broccoli	sprouts	sprouts		
-V-1114	raw	raw	alfalfa sprouts	alfalfa sprouts		
-V-1114	fda	fda	alfalfa	alfalfa	and cdc recommend not eating raw	
-V-1114	alfalfa	alfalfa	risk	risk	sprouts, considered dangerous because of the	
-V-1114	raw	raw	alfalfa	alfalfa		
-V-1114	fda	fda	raw	raw	and cdc recommend not eating	

@@ -1,35 +1,6 @@
 
-T-308	baby	baby	infants	infants	formulas based on cow’s milk introduce	
-T-308	toxins	toxins	pcb	pcb	such as	
-T-308	casomorphin	casomorphin	protein	protein		
-T-308	b12	b12	health	health	 (see also here, here) and iodine to ensure the	
-T-308	chemicals	chemicals	breast milk	breast milk	) in	
-T-308	babies	babies	vegetables	vegetables	can pick up a taste for	
-T-308	vitamin b12	vitamin b12	iodine	iodine	 (see also here, here) and 	
-T-308	dioxins	dioxins	breastfeeding	breastfeeding	than that those on a standard american diet.a	
-T-308	iodine	iodine	baby	baby	 to ensure the health of their	
 T-308	vegans	vegans	vitamin b12	vitamin b12	must be sure to get adequate 	
-T-308	b12	b12	baby	baby	 (see also here, here) and iodine to ensure the health of their	
-T-308	pbdes	pbdes	breast milk	breast milk	 (flame retardant chemicals) in	
-T-308	milk	milk	vegetarians	vegetarians	 of	
-T-308	pbdes	pbdes	chemicals	chemicals	 (flame retardant	
-T-308	babies	babies	breast milk	breast milk	 three months and under should ideally be fed only	
-T-308	breastfeeding	breastfeeding	plant-based	plant-based	include passing along	
-T-308	baby	baby	milk	milk	formulas based on cow’s	
 T-308	vegetarians	vegetarians	pcbs	pcbs	appear to have significantly lower levels of	
-T-308	breast milk	breast milk	vegetarians	vegetarians	 of	
-T-308	iodine	iodine	health	health	 to ensure the	
-T-308	plant-based	plant-based	breastfeeding	breastfeeding	foods while	
-T-308	health	health	baby	baby	of their	
-T-308	chemicals	chemicals	milk	milk	) in breast	
-T-308	vegetarians	vegetarians	ddt	ddt	appear to have significantly lower levels of pcbs,	
-T-308	b12	b12	iodine	iodine	 (see also here, here) and 	
-T-308	vegans	vegans	b12	b12	must be sure to get adequate vitamin	
-T-308	vitamin b12	vitamin b12	health	health	 (see also here, here) and iodine to ensure the	
-T-308	children	children	intelligence	intelligence	’s	
-T-308	breastfeeding	breastfeeding	milk	milk	mother who drinks cow’s	
-T-308	vitamin b12	vitamin b12	baby	baby	 (see also here, here) and iodine to ensure the health of their	
+T-308	breastfeeding	breastfeeding	plant-based	plant-based	include passing along	
 T-308	milk	milk	infants	infants	introduce	
-T-308	processed foods	processed foods	breastfeeding	breastfeeding	that a mother consumes while	
-T-308	pbdes	pbdes	milk	milk	 (flame retardant chemicals) in breast	
-T-308	obesity	obesity	vegans	vegans	rates among  formula-fed children.breastfeeding	
+T-308	babies	babies	vegetables	vegetables	can pick up a taste for	

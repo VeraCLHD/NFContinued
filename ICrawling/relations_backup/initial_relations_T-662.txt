@@ -1,17 +1,3 @@
 
-T-662	disease	disease	health	health	is also a major	
-T-662	disease	disease	lead	lead	topic.higher vegetable and fruit intake may	
-T-662	immune function	immune function	legumes	legumes	among the elderly, and	
-T-662	fruit	fruit	lead	lead	intake may	
-T-662	health	health	elderly	elderly	concern for the	
 T-662	elderly	elderly	risk	risk	may be at a higher	
-T-662	risk	risk	constipation	constipation	for certain medical issues such as salmonella, chronic	
-T-662	disease	disease	fruit	fruit	topic.higher vegetable and	
-T-662	risk	risk	salmonella	salmonella	for certain medical issues such as	
-T-662	immune function	immune function	elderly	elderly	among the	
-T-662	lead	lead	legumes	legumes	to better immune function among the elderly, and	
-T-662	disease	disease	elderly	elderly	is also a major health concern for the	
 T-662	nutrition	nutrition	health	health	may help cut the u.s.	
-T-662	lead	lead	elderly	elderly	to better immune function among the	
-T-662	lead	lead	immune function	immune function	to better	
-T-662	fruit	fruit	immune function	immune function	intake may lead to better	

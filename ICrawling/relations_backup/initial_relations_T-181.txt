@@ -1,54 +1,8 @@
 
-T-181	bacon	bacon	preservatives	preservatives	containers need	
-T-181	risk	risk	disease	disease	for cardiovascular	
 T-181	mutation	mutation	postmenopausal	postmenopausal	and	
-T-181	dna	dna	mutation	mutation		
-T-181	breast milk	breast milk	chemicals	chemicals	with flame retardant	
 T-181	bacon	bacon	saturated fat	saturated fat	contains a	
-T-181	diabetes	diabetes	lifespan	lifespan	during pregnancy, and may decrease	
-T-181	bacon	bacon	breast milk	breast milk	can also raise blood pressure, contaminate	
-T-181	bacon	bacon	fat	fat	contains a saturated	
-T-181	bacon	bacon	bacteria	bacteria	containers need preservatives and	
-T-181	risk	risk	diabetes	diabetes	of copd, acute myeloid leukemia, gout, and gestational	
-T-181	diabetes	diabetes	pregnancy	pregnancy	during	
-T-181	animal products	animal products	bacon	bacon	such as	
-T-181	preservatives	preservatives	nitrites	nitrites	and bacteria inhibitors such as harmful	
-T-181	risk	risk	gestational diabetes	gestational diabetes	of copd, acute myeloid leukemia, gout, and	
-T-181	bacon	bacon	milk	milk	can also raise blood pressure, contaminate breast	
-T-181	plants	plants	antioxidants	antioxidants	tend to have significantly more	
-T-181	bacteria	bacteria	nitrites	nitrites	inhibitors such as harmful	
-T-181	plants	plants	animal products	animal products	tend to have significantly more antioxidants than	
-T-181	blood	blood	milk	milk	pressure, contaminate breast	
-T-181	milk	milk	risk	risk	with flame retardant chemicals, increases the	
-T-181	bacon	bacon	blood	blood	can also raise	
-T-181	breast milk	breast milk	copd	copd	with flame retardant chemicals, increases the risk of	
-T-181	bacon	bacon	risk	risk	contains a saturated fat, which can increase the	
-T-181	postmenopausal	postmenopausal	cancer	cancer	breast	
-T-181	breast milk	breast milk	risk	risk	with flame retardant chemicals, increases the	
-T-181	risk	risk	leukemia	leukemia	of copd, acute myeloid	
-T-181	milk	milk	copd	copd	with flame retardant chemicals, increases the risk of	
 T-181	risk	risk	copd	copd	of	
-T-181	cooking	cooking	bacon	bacon		
-T-181	cancer	cancer	risk	risk		
-T-181	bacon	bacon	cancer	cancer	consumption and increasing plant food consumption may reduce	
-T-181	postmenopausal	postmenopausal	breast cancer	breast cancer		
-T-181	milk	milk	chemicals	chemicals	with flame retardant	
-T-181	risk	risk	cardiovascular disease	cardiovascular disease	for	
-T-181	risk	risk	gout	gout	of copd, acute myeloid leukemia,	
-T-181	risk	risk	plants	plants	in part because	
-T-181	dna	dna	postmenopausal	postmenopausal	mutation and	
-T-181	risk	risk	acute myeloid leukemia	acute myeloid leukemia	of copd,	
 T-181	preservatives	preservatives	bacteria	bacteria	and	
-T-181	blood	blood	chemicals	chemicals	pressure, contaminate breast milk with flame retardant	
-T-181	gestational diabetes	gestational diabetes	pregnancy	pregnancy	during	
-T-181	mutation	mutation	cancer	cancer	and postmenopausal breast	
-T-181	cancer	cancer	plants	plants	risk in part because	
-T-181	dna	dna	cancer	cancer	mutation and postmenopausal breast	
-T-181	mutation	mutation	breast cancer	breast cancer	and postmenopausal	
-T-181	antioxidants	antioxidants	bacon	bacon	than animal products such as	
-T-181	gestational diabetes	gestational diabetes	lifespan	lifespan	during pregnancy, and may decrease	
 T-181	vitamin c	vitamin c	bacon	bacon	added to “enrich”	
-T-181	antioxidants	antioxidants	animal products	animal products	than	
-T-181	bacon	bacon	blood pressure	blood pressure	can also raise	
-T-181	blood	blood	breast milk	breast milk	pressure, contaminate	
-T-181	dna	dna	breast cancer	breast cancer	mutation and postmenopausal	
+T-181	bacon	bacon	fat	fat	contains a saturated	
+T-181	plants	plants	antioxidants	antioxidants	tend to have significantly more	

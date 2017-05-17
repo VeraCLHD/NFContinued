@@ -1,41 +1,7 @@
 
-A-148	chronic diseases	chronic diseases	smoking	smoking	: not	
-A-148	physical activity	physical activity	death	death	can substantially reduce their risk for early	
-A-148	prevention	prevention	smoking	smoking	of chronic diseases: not	
-A-148	death	death	united states	united states	in the	
-A-148	colon cancer	colon cancer	coronary heart disease	coronary heart disease	are avoidable, as are over 80% of	
-A-148	colon cancer	colon cancer	heart disease	heart disease	are avoidable, as are over 80% of coronary	
-A-148	risk	risk	disease	disease	of developing a chronic	
-A-148	heart attack	heart attack	risk	risk		
-A-148	stroke	stroke	cancer	cancer	risk, a third of	
-A-148	cdc	cdc	americans	americans	followed about 8,000	
-A-148	prevention	prevention	disease	disease	of	
-A-148	cancer	cancer	risk	risk		
-A-148	heart attack	heart attack	diabetes	diabetes	or stroke, a million get	
 A-148	heart attack	heart attack	stroke	stroke	or	
-A-148	cancer	cancer	coronary heart disease	coronary heart disease	are avoidable, as are over 80% of	
 A-148	americans	americans	heart attack	heart attack	experience their first	
-A-148	cancer	cancer	heart disease	heart disease	are avoidable, as are over 80% of coronary	
-A-148	plants	plants	mortality	mortality	they were eating, and the drop in	
-A-148	mortality	mortality	risk	risk		
-A-148	risk	risk	chronic disease	chronic disease	of developing a	
-A-148	prevention	prevention	chronic diseases	chronic diseases	of	
-A-148	colon	colon	cancer	cancer		
-A-148	risk	risk	disease	disease	countries, their	
-A-148	colon	colon	coronary heart disease	coronary heart disease	cancer are avoidable, as are over 80% of	
-A-148	stroke	stroke	risk	risk		
-A-148	vitamin c	vitamin c	blood	blood	in people’s	
-A-148	diabetes	diabetes	heart attack	heart attack	risk out the window, 80% of	
-A-148	risk	risk	heart attack	heart attack	out the window, 80% of	
-A-148	coronary heart disease	coronary heart disease	diabetes	diabetes	and over 90% of type 2	
-A-148	diabetes	diabetes	risk	risk		
-A-148	heart disease	heart disease	diabetes	diabetes	and over 90% of type 2	
-A-148	processed foods	processed foods	meat	meat	and	
-A-148	risk	risk	death	death	for early	
-A-148	diet	diet	prevention	prevention	and in the cause and	
-A-148	vitamin c	vitamin c	plants	plants	in people’s blood, a biomarker for how many	
-A-148	americans	americans	stroke	stroke	experience their first heart attack or	
-A-148	plants	plants	risk	risk	they were eating, and the drop in mortality	
-A-148	diet	diet	disease	disease	and in the cause and prevention of	
 A-148	physical activity	physical activity	risk	risk	can substantially reduce their	
-A-148	disease	disease	diabetes	diabetes	and over 90% of type 2	
+A-148	prevention	prevention	chronic diseases	chronic diseases	of	
+A-148	processed foods	processed foods	meat	meat	and	
+A-148	prevention	prevention	disease	disease	of	

@@ -1,38 +1,6 @@
 
-V-3	vitamin d supplements	vitamin d supplements	pills	pills	versus sugar	
-V-3	american geriatric society	american geriatric society	vitamin d	vitamin d	to recommend	
-V-3	supplements	supplements	sugar	sugar	versus	
-V-3	muscles	muscles	vitamin d	vitamin d	lose	
-V-3	prevention	prevention	supplements	supplements	—though vitamin d	
-V-3	vitamin d	vitamin d	muscle strength	muscle strength	boosts global	
-V-3	blood	blood	fall risk	fall risk	pressure drugs that can increase	
-V-3	vitamin d	vitamin d	blood	blood		
-V-3	blood pressure	blood pressure	fall risk	fall risk	drugs that can increase	
-V-3	vitamin d supplements	vitamin d supplements	sugar	sugar	versus	
-V-3	blood	blood	risk	risk	pressure drugs that can increase fall	
 V-3	weakness	weakness	vitamin d	vitamin d	is a common presenting symptom of	
-V-3	vitamin d	vitamin d	muscle strength	muscle strength	receptors, perhaps helping to explain the loss in	
 V-3	women	women	vitamin d	vitamin d	do get significant protection from falls with	
-V-3	vitamin d	vitamin d	supplements	supplements		
-V-3	vitamin d	vitamin d	weakness	weakness	doesn’t lead to	
-V-3	variety	variety	drugs	drugs	of heart, brain, and blood pressure	
-V-3	blood pressure	blood pressure	drugs	drugs		
-V-3	prevention	prevention	vitamin d supplements	vitamin d supplements	—though	
-V-3	drugs	drugs	risk	risk	that can increase fall	
-V-3	prevention	prevention	vitamin d	vitamin d	—though	
-V-3	blood pressure	blood pressure	risk	risk	drugs that can increase fall	
-V-3	prevention	prevention	american geriatric society	american geriatric society	guideline-setting body, and the	
-V-3	blood	blood	drugs	drugs	pressure	
-V-3	variety	variety	blood pressure	blood pressure	of heart, brain, and	
-V-3	drugs	drugs	fall risk	fall risk	that can increase	
-V-3	vitamin d	vitamin d	pain	pain	may improve physical performance, reduce chronic	
-V-3	muscle strength	muscle strength	vitamin d	vitamin d	as we age.and indeed,	
-V-3	lead	lead	vitamin d	vitamin d	to weakness; maybe the weakness leads to low	
-V-3	variety	variety	blood	blood	of heart, brain, and	
-V-3	lead	lead	weakness	weakness	to	
-V-3	vitamin d	vitamin d	pills	pills	supplements versus sugar	
-V-3	vitamin d	vitamin d	sugar	sugar	supplements versus	
+V-3	muscles	muscles	vitamin d	vitamin d	lose	
+V-3	vitamin d	vitamin d	muscle strength	muscle strength	boosts global	
 V-3	vitamin d	vitamin d	lead	lead	doesn’t	
-V-3	sugar	sugar	pills	pills		
-V-3	vitamin d	vitamin d	chronic pain	chronic pain	may improve physical performance, reduce	
-V-3	supplements	supplements	pills	pills	versus sugar	

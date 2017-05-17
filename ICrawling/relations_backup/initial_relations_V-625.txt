@@ -1,52 +1,16 @@
 
 V-625	salmonella	salmonella	poultry	poultry	in	
-V-625	e. coli	e. coli	chicken	chicken	o157, but not	
-V-625	americans	americans	salmonella	salmonella	are sickened every year by eggs contaminated with	
-V-625	risk	risk	chicken	chicken	factor singled out is eating	
-V-625	salmonella	salmonella	infection	infection		
-V-625	infection	infection	united states	united states	in the	
-V-625	raw	raw	health	health	products as being hazardous to	
-V-625	cooking	cooking	food poisoning	food poisoning	of food do not ordinarily result in [salmonella	
-V-625	food safety	food safety	americans	americans	regulations under the clinton administration, the number of	
-V-625	e. coli	e. coli	salmonella	salmonella	o157, but not chicken-borne	
-V-625	pathogens	pathogens	foodborne pathogens	foodborne pathogens	institute ranked	
-V-625	americans	americans	chicken	chicken	food-poisoned by	
+V-625	manure	manure	meat	meat	in	
+V-625	salmonella	salmonella	eggs	eggs	in	
+V-625	eggs	eggs	salmonella	salmonella	contaminated with	
+V-625	poultry	poultry	united states	united states	ranks even worse—the #4 worst-infected food in the	
 V-625	infection	infection	beef	beef	of	
-V-625	e. coli	e. coli	meat	meat	levels in	
-V-625	meat	meat	usda	usda	contaminated with salmonella.what could the	
+V-625	americans	americans	eggs	eggs	are sickened every year by	
+V-625	dairy	dairy	eggs	eggs	and	
 V-625	contamination	contamination	poultry	poultry	in	
 V-625	american public health association	american public health association	usda	usda	sued the	
 V-625	usda	usda	salmonella	salmonella	pointed out that there have been	
 V-625	cans	cans	tuna	tuna	of	
 V-625	salmonella	salmonella	meat	meat	in	
-V-625	usda	usda	meat	meat	possibly say in	
-V-625	salmonella	salmonella	bacteria	bacteria	— ranked the food-poisoning	
-V-625	salmonella	salmonella	dairy	dairy	outbreaks linked to	
-V-625	manure	manure	beef	beef	in meat, they typically think ground	
-V-625	salmonella	salmonella	eggs	eggs	outbreaks linked to dairy and	
-V-625	bacteria	bacteria	public health	public health	with the greatest	
-V-625	salmonella	salmonella	public health	public health	— ranked the food-poisoning bacteria with the greatest	
-V-625	manure	manure	meat	meat	in	
-V-625	fecal contamination	fecal contamination	chicken	chicken	in poultry—	
-V-625	eggs	eggs	salmonella	salmonella	contaminated with	
-V-625	americans	americans	eggs	eggs	are sickened every year by	
-V-625	tuna	tuna	cans	cans	industry arguing ah, there’s no need to label	
-V-625	public health	public health	usda	usda	association sued the	
-V-625	dairy	dairy	eggs	eggs	and	
-V-625	e. coli	e. coli	beef	beef	 in	
-V-625	contamination	contamination	e. coli	e. coli	with the deadly	
-V-625	cooking	cooking	salmonella	salmonella	of food do not ordinarily result in [	
 V-625	fecal contamination	fecal contamination	poultry	poultry	in	
-V-625	bacteria	bacteria	health	health	with the greatest public	
-V-625	poultry	poultry	chicken	chicken	—	
-V-625	salmonella	salmonella	eggs	eggs	in	
-V-625	salmonella	salmonella	united states	united states	infection in the	
-V-625	salmonella	salmonella	chicken	chicken	 poisoning attributable to various u.s. foods, eating	
-V-625	contamination	contamination	beef	beef	with the deadly e. coli in	
-V-625	poultry	poultry	united states	united states	ranks even worse—the #4 worst-infected food in the	
-V-625	cans	cans	mercury	mercury	of tuna with	
-V-625	manure	manure	ground beef	ground beef	in meat, they typically think	
-V-625	infection	infection	children	children	of beef, and subsequently	
-V-625	contamination	contamination	chicken	chicken	in poultry—	
-V-625	health	health	usda	usda	association sued the	
-V-625	meat industry	meat industry	salmonella	salmonella	position, arguing that you can allow potentially deadly	
+V-625	pathogens	pathogens	foodborne pathogens	foodborne pathogens	institute ranked	

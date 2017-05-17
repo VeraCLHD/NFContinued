@@ -1,70 +1,19 @@
 
-A-443	national dairy council	national dairy council	acne	acne	on	
-A-443	harvard	harvard	health	health	school of public	
-A-443	teenagers	teenagers	acne	acne	’	
-A-443	health	health	milk	milk	establish an association between	
-A-443	milk	milk	acne	acne	consumption and	
-A-443	lactation	lactation	milk	milk	before the next pregnancy occurs—so that consuming	
-A-443	dairy	dairy	milk	milk	council denies that	
-A-443	the national dairy council	the national dairy council	milk	milk	denies that	
-A-443	dairy	dairy	hormones	hormones	products from pregnant cows exposes us to the	
-A-443	sex hormones	sex hormones	milk	milk	in commercial	
-A-443	harvard	harvard	health	health	nurse’s	
-A-443	acne	acne	milk	milk	for intake of total	
-A-443	milk	milk	acne	acne	intake causes	
-A-443	lactation	lactation	pregnancy	pregnancy	before the next	
-A-443	harvard	harvard	public health	public health	school of	
-A-443	milk	milk	pregnant	pregnant	from a mother	
-A-443	harvard	harvard	milk	milk	school of public health establish an association between	
-A-443	hormones	hormones	bioactive molecules	bioactive molecules	and	
-A-443	national dairy council	national dairy council	milk	milk	on acne and	
-A-443	the national dairy council	the national dairy council	acne	acne	denies that milk intake causes	
-A-443	pregnancy	pregnancy	milk	milk	occurs—so that consuming	
-A-443	dairy	dairy	milk	milk	council on acne and	
-A-443	milk	milk	organic	organic	—	
-A-443	milk	milk	hormones	hormones	may be because of the presence of	
-A-443	milk	milk	dairy	dairy	and	
-A-443	milk	milk	cows	cows	and consuming dairy products from pregnant	
-A-443	dairy	dairy	acne	acne	council on	
-A-443	acne	acne	skim milk	skim milk	for intake of total milk and	
-A-443	milk	milk	pregnant	pregnant	and consuming dairy products from	
-A-443	health	health	milk	milk	study found that the association between	
-A-443	milk	milk	acne	acne	intake and severe physician-diagnosed teenage	
-A-443	dairy	dairy	pregnant	pregnant	products from	
 A-443	estrogen	estrogen	skim milk	skim milk	in	
-A-443	hormones	hormones	milk	milk	in commercial	
-A-443	dairy	dairy	cows	cows	products from pregnant	
-A-443	acne	acne	hormones	hormones	closely parallels hormonal activity…so what happens if exogenous	
-A-443	cows	cows	hormones	hormones	’ pregnancy,	
+A-443	acne	acne	skim milk	skim milk	was even more marked for	
+A-443	health	health	milk	milk	establish an association between	
 A-443	acne	acne	milk	milk	and	
 A-443	milk	milk	acne	acne	cause	
-A-443	growth hormone	growth hormone	steroids	steroids	injections or added	
-A-443	milk	milk	evolution	evolution	): “by million years of	
-A-443	pregnant	pregnant	cows	cows		
+A-443	hormones	hormones	bioactive molecules	bioactive molecules	and	
+A-443	milk	milk	hormones	hormones	contains such a heavy complement of growth-enhancing	
+A-443	milk	milk	skim milk	skim milk	and	
+A-443	pregnancy	pregnancy	milk	milk	occurs—so that consuming	
 A-443	national dairy council	national dairy council	milk	milk	denies that	
+A-443	the national dairy council	the national dairy council	milk	milk	denies that	
 A-443	bioactive molecules	bioactive molecules	milk	milk	in	
 A-443	skim milk	skim milk	acne	acne	and	
-A-443	hormones	hormones	cows	cows	produced by the	
-A-443	milk	milk	acne	acne	and	
-A-443	public health	public health	acne	acne	establish an association between milk consumption and	
-A-443	cows	cows	hormones	hormones	exposes us to the	
-A-443	hormones	hormones	whole milk	whole milk	in skim vs.	
-A-443	evolution	evolution	milk	milk	the growth signaling system of mammalian	
-A-443	acne	acne	milk	milk	was even more marked for skim	
-A-443	pregnancy	pregnancy	pregnant	pregnant	occurs—so that consuming milk from a mother	
-A-443	harvard	harvard	milk	milk	nurse’s health study found that the association between	
-A-443	acne	acne	skim milk	skim milk	was even more marked for	
-A-443	milk	milk	acne	acne	intake and	
-A-443	health	health	acne	acne	establish an association between milk consumption and	
-A-443	dairy	dairy	acne	acne	council denies that milk intake causes	
-A-443	milk	milk	harvard	harvard	intake causes acne, but a study they supported—the	
-A-443	milk	milk	hormones	hormones	contains such a heavy complement of growth-enhancing	
-A-443	national dairy council	national dairy council	acne	acne	denies that milk intake causes	
-A-443	pregnant	pregnant	hormones	hormones	cows exposes us to the	
-A-443	milk	milk	skim milk	skim milk	and	
-A-443	estrogen	estrogen	milk	milk	in skim	
-A-443	hormones	hormones	pregnancy	pregnancy	produced by the cows’	
+A-443	milk	milk	hormones	hormones	may be because of the presence of	
+A-443	milk	milk	dairy	dairy	and	
 A-443	public health	public health	milk	milk	establish an association between	
-A-443	milk	milk	dairy	dairy	and consuming	
-A-443	hormones	hormones	milk	milk	in skim vs. whole	
-A-443	hormones	hormones	milk	milk	and bioactive molecules in	
+A-443	milk	milk	acne	acne	and	
+A-443	cows	cows	hormones	hormones	exposes us to the	

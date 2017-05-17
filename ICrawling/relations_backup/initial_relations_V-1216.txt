@@ -1,29 +1,2 @@
 
-V-1216	calories	calories	cinnamon	cinnamon	is with spices—cloves,	
-V-1216	spices	spices	cloves	cloves	—	
-V-1216	spices	spices	ginger	ginger	—cloves, cinnamon, nutmeg, cardamom,	
-V-1216	nutrition	nutrition	cardamom	cardamom	without calories is with spices—cloves, cinnamon, nutmeg,	
-V-1216	spices	spices	cinnamon	cinnamon	—cloves,	
-V-1216	spices	spices	chai tea	chai tea	—cloves, cinnamon, nutmeg, cardamom, ginger—also known as	
-V-1216	nutrition	nutrition	ginger	ginger	without calories is with spices—cloves, cinnamon, nutmeg, cardamom,	
 V-1216	calories	calories	spices	spices	is with	
-V-1216	cloves	cloves	soy milk	soy milk	and cinnamon.if you want to add some unsweetened	
-V-1216	nutrition	nutrition	cinnamon	cinnamon	without calories is with spices—cloves,	
-V-1216	nutrition	nutrition	cloves	cloves	without calories is with spices—	
-V-1216	calories	calories	nutmeg	nutmeg	is with spices—cloves, cinnamon,	
-V-1216	spices	spices	nutmeg	nutmeg	—cloves, cinnamon,	
-V-1216	soy	soy	erythritol	erythritol	milk, some	
-V-1216	spices	spices	tea	tea	—cloves, cinnamon, nutmeg, cardamom, ginger—also known as chai	
-V-1216	cloves	cloves	milk	milk	and cinnamon.if you want to add some unsweetened soy	
-V-1216	cloves	cloves	soy	soy	and cinnamon.if you want to add some unsweetened	
-V-1216	spices	spices	cardamom	cardamom	—cloves, cinnamon, nutmeg,	
-V-1216	nutrition	nutrition	spices	spices	without calories is with	
-V-1216	erythritol	erythritol	cocoa	cocoa	to sweeten it, a spoonful of	
-V-1216	nutrition	nutrition	nutmeg	nutmeg	without calories is with spices—cloves, cinnamon,	
-V-1216	nutrition	nutrition	calories	calories	without	
-V-1216	ginger	ginger	tea	tea	—also known as chai	
-V-1216	calories	calories	ginger	ginger	is with spices—cloves, cinnamon, nutmeg, cardamom,	
-V-1216	soy	soy	milk	milk		
-V-1216	calories	calories	cardamom	cardamom	is with spices—cloves, cinnamon, nutmeg,	
-V-1216	calories	calories	cloves	cloves	is with spices—	
-V-1216	ginger	ginger	chai tea	chai tea	—also known as	

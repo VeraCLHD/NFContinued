@@ -1,56 +1,14 @@
 
-V-462	meat	meat	arsenic	arsenic	from poultry producers that didn’t prohibit	
-V-462	organic	organic	arsenic	arsenic	products are not immune.yes, there are	
-V-462	poultry	poultry	drugs	drugs		
-V-462	drugs	drugs	chicken	chicken	in	
-V-462	environment	environment	chicken	chicken	every year by the	
-V-462	poultry	poultry	arsenic	arsenic	industry; nearly 2 million pounds of	
-V-462	poultry	poultry	united states	united states	is still available in the	
-V-462	arsenic	arsenic	drugs	drugs	-based	
-V-462	arsenic	arsenic	apple	apple	in	
-V-462	manure	manure	environment	environment	is then introduced to the	
-V-462	organic	organic	brown rice	brown rice		
-V-462	fda	fda	chickens	chickens	found that the livers of	
-V-462	meat	meat	arsenic	arsenic	is cooked, levels of the	
-V-462	meat	meat	poultry	poultry	from	
-V-462	farmers	farmers	arsenic	arsenic	from using stockpiles of the drug.how much	
-V-462	lead	lead	pesticides	pesticides	and arsenic-based	
-V-462	americans	americans	arsenic	arsenic	eat chicken, then the	
-V-462	chicken	chicken	arsenic	arsenic	and pig production could reduce the burden of	
-V-462	arsenic	arsenic	pesticides	pesticides	-based	
-V-462	meat	meat	drugs	drugs	from poultry producers that didn’t prohibit arsenic	
-V-462	poultry	poultry	arsenic	arsenic	producers that didn’t prohibit	
-V-462	lead	lead	arsenic	arsenic	and	
-V-462	poultry	poultry	environment	environment	manure is then introduced to the	
-V-462	arsenic	arsenic	chicken	chicken	-based drugs in	
-V-462	poultry	poultry	manure	manure		
-V-462	arsenic	arsenic	meat	meat	gets into the actual	
-V-462	americans	americans	chicken	chicken	eat	
-V-462	contamination	contamination	poultry	poultry	from the	
-V-462	chickens	chickens	manure	manure	to pinken their flesh, the resulting arsenic-bearing poultry	
 V-462	arsenic	arsenic	environment	environment	has been poured into the	
-V-462	drugs	drugs	arsenic	arsenic	were contaminated with the cancer-causing form of	
-V-462	arsenic	arsenic	drugs	drugs		
-V-462	parasites	parasites	meat	meat	and give their	
-V-462	chickens	chickens	arsenic	arsenic	fed this drug had elevated levels of inorganic	
-V-462	public health	public health	chicken	chicken	coordinated the purchase of	
-V-462	poultry	poultry	drugs	drugs	producers that didn’t prohibit arsenic	
-V-462	disease	disease	arsenic	arsenic	in the u.s. population.that’s one of the ways	
-V-462	chickens	chickens	arsenic	arsenic	to pinken their flesh, the resulting	
-V-462	chicken	chicken	arsenic	arsenic	meat is cooked, levels of the	
-V-462	contamination	contamination	drugs	drugs	and pesticide use, but arsenic-containing poultry	
-V-462	apple	apple	juice	juice		
+V-462	drugs	drugs	chicken	chicken	in	
 V-462	drugs	drugs	poultry	poultry	fed to	
-V-462	contamination	contamination	poultry	poultry	and pesticide use, but arsenic-containing	
-V-462	organic	organic	rice	rice	brown	
-V-462	chickens	chickens	poultry	poultry	to pinken their flesh, the resulting arsenic-bearing	
-V-462	contamination	contamination	arsenic	arsenic	and pesticide use, but	
-V-462	arsenic	arsenic	organic	organic	base would be excreted unchanged, and	
-V-462	arsenic	arsenic	juice	juice	in apple	
-V-462	arsenic	arsenic	chicken	chicken	in that	
+V-462	poultry	poultry	united states	united states	is still available in the	
+V-462	lead	lead	arsenic	arsenic	and	
+V-462	arsenic	arsenic	apple	apple	in	
+V-462	public health	public health	chicken	chicken	coordinated the purchase of	
+V-462	manure	manure	environment	environment	is then introduced to the	
 V-462	health	health	chicken	chicken	coordinated the purchase of	
 V-462	arsenic	arsenic	apple juice	apple juice	in	
-V-462	organic	organic	arsenic	arsenic		
-V-462	organic	organic	brown rice syrup	brown rice syrup		
-V-462	chicken	chicken	meat	meat		
-V-462	arsenic	arsenic	chickens	chickens	to	
+V-462	rice	rice	chicken	chicken	can then suck it up from contaminated soil and be transferred to human beings that don’t even eat	
+V-462	arsenic	arsenic	meat	meat	gets into the actual	
+V-462	americans	americans	chicken	chicken	eat	

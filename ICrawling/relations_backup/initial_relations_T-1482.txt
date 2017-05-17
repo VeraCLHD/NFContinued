@@ -1,80 +1,15 @@
 
-T-1482	polyphenols	polyphenols	skin	skin	also appear protective against the development of	
-T-1482	cancer	cancer	vegetables	vegetables	despite the popularity of smoking.whole fruits and	
-T-1482	anti-inflammatory	anti-inflammatory	treatment	treatment	drugs and pain killers for the	
-T-1482	chocolate	chocolate	cocoa	cocoa	) to	
-T-1482	antioxidant	antioxidant	supplements	supplements		
-T-1482	lung cancer	lung cancer	vegetables	vegetables	despite the popularity of smoking.whole fruits and	
-T-1482	prostate cancer	prostate cancer	sugar	sugar	cells, and apple juice may be worse than	
-T-1482	sugar	sugar	polyphenols	polyphenols	water.when it comes to	
-T-1482	polyphenols	polyphenols	legumes	legumes	in	
-T-1482	prostate	prostate	apple juice	apple juice	cancer cells, and	
-T-1482	tea	tea	polyphenols	polyphenols	is a great source of	
-T-1482	plant foods	plant foods	antioxidant	antioxidant	gives them a range of unique chemical and	
-T-1482	prostate	prostate	cancer	cancer		
-T-1482	fiber	fiber	polyphenols	polyphenols	(nonextractable	
-T-1482	prostate cancer	prostate cancer	apple juice	apple juice	cells, and	
-T-1482	asian	asian	lung cancer	lung cancer	population against heart disease, and	
+T-1482	drugs	drugs	pain	pain	and	
 T-1482	juice	juice	sugar	sugar	may be worse than	
 T-1482	phytonutrients	phytonutrients	plants	plants	in	
-T-1482	apple peel	apple peel	prostate cancer	prostate cancer	extract has strong antiproliferative effects on breast and	
-T-1482	antioxidant	antioxidant	health	health	properties, which can have many	
 T-1482	strawberries	strawberries	aging	aging	is associated with delayed cognitive	
-T-1482	treatment	treatment	osteoarthritis	osteoarthritis	of knee	
-T-1482	blood	blood	tumors	tumors	vessels to	
-T-1482	fruits	fruits	supplements	supplements	and vegetables may work better than antioxidant	
-T-1482	health	health	cocoa	cocoa	benefits of the flavanols, so while	
-T-1482	antioxidant	antioxidant	allergies	allergies	supplements for their ability to treat seasonal	
-T-1482	plants	plants	polyphenols	polyphenols	may be bound to fiber (nonextractable	
-T-1482	prostate	prostate	juice	juice	cancer cells, and apple	
-T-1482	pain	pain	treatment	treatment	killers for the	
-T-1482	prostate	prostate	apple	apple	cancer cells, and	
-T-1482	fats	fats	cocoa	cocoa	found in chocolate) to	
+T-1482	blueberries	blueberries	strawberries	strawberries	and	
+T-1482	polyphenols	polyphenols	legumes	legumes	in	
+T-1482	vegetables	vegetables	antioxidant	antioxidant	may work better than	
 T-1482	plants	plants	fiber	fiber	may be bound to	
-T-1482	sugar	sugar	legumes	legumes	water.when it comes to polyphenols in	
+T-1482	fats	fats	chocolate	chocolate	found in	
+T-1482	apple juice	apple juice	sugar	sugar	may be worse than	
+T-1482	tea	tea	polyphenols	polyphenols	is a great source of	
+T-1482	plant foods	plant foods	antioxidant	antioxidant	gives them a range of unique chemical and	
 T-1482	polyphenols	polyphenols	plant foods	plant foods	found in	
 T-1482	fruits	fruits	vegetables	vegetables	and	
-T-1482	cancer	cancer	apple	apple	cells, and	
-T-1482	prostate cancer	prostate cancer	apple	apple	cells, and	
-T-1482	drugs	drugs	pain	pain	and	
-T-1482	cancer	cancer	fruits	fruits	despite the popularity of smoking.whole	
-T-1482	apple peel	apple peel	prostate	prostate	extract has strong antiproliferative effects on breast and	
-T-1482	blood	blood	cancer growth	cancer growth	vessels to tumors, thereby stopping	
-T-1482	blueberries	blueberries	strawberries	strawberries	and	
-T-1482	stroke	stroke	pneumonia	pneumonia	risk, reduce your risk of dying from	
-T-1482	cocoa	cocoa	health	health	powder may negate the	
-T-1482	drugs	drugs	osteoarthritis	osteoarthritis	and pain killers for the treatment of knee	
-T-1482	cancer	cancer	sugar	sugar	cells, and apple juice may be worse than	
-T-1482	blueberries	blueberries	aging	aging	and strawberries is associated with delayed cognitive	
-T-1482	bacteria	bacteria	tea	tea	to improve weight control.green	
-T-1482	fruits	fruits	antioxidant	antioxidant	and vegetables may work better than	
-T-1482	skin	skin	wrinkles	wrinkles		
-T-1482	vegetables	vegetables	antioxidant	antioxidant	may work better than	
-T-1482	fats	fats	chocolate	chocolate	found in	
-T-1482	asian	asian	disease	disease	population against heart	
-T-1482	apple juice	apple juice	sugar	sugar	may be worse than	
-T-1482	asian	asian	heart disease	heart disease	population against	
-T-1482	asian	asian	cancer	cancer	population against heart disease, and lung	
-T-1482	cooking	cooking	chocolate	chocolate	or sprouting.your	
-T-1482	polyphenols	polyphenols	lignans	lignans	which include:	
-T-1482	polyphenols	polyphenols	flavonoids	flavonoids	which include: lignans,	
-T-1482	blood	blood	cancer	cancer	vessels to tumors, thereby stopping	
-T-1482	prostate	prostate	cancer cells	cancer cells		
-T-1482	supplements	supplements	allergies	allergies	for their ability to treat seasonal	
-T-1482	cancer	cancer	apple juice	apple juice	cells, and	
-T-1482	health	health	fruit	fruit	impacts between whole	
-T-1482	stroke	stroke	risk	risk		
-T-1482	chocolate	chocolate	health	health	) to cocoa powder may negate the	
-T-1482	cancer	cancer	juice	juice	cells, and apple	
-T-1482	vegetables	vegetables	supplements	supplements	may work better than antioxidant	
-T-1482	prostate cancer	prostate cancer	juice	juice	cells, and apple	
-T-1482	drugs	drugs	treatment	treatment	and pain killers for the	
-T-1482	polyphenols	polyphenols	wrinkles	wrinkles	also appear protective against the development of skin	
-T-1482	polyphenols	polyphenols	health	health	), helping to explain the marked difference in	
-T-1482	phytonutrients	phytonutrients	fiber	fiber	in plants may be bound to	
-T-1482	angiogenesis	angiogenesis	blood	blood	inhibitors, preventing the growth of new	
-T-1482	anti-inflammatory	anti-inflammatory	drugs	drugs		
-T-1482	lung cancer	lung cancer	fruits	fruits	despite the popularity of smoking.whole	
-T-1482	pain	pain	osteoarthritis	osteoarthritis	killers for the treatment of knee	
-T-1482	anti-inflammatory	anti-inflammatory	pain	pain	drugs and	
-T-1482	phytonutrients	phytonutrients	polyphenols	polyphenols	in plants may be bound to fiber (nonextractable	

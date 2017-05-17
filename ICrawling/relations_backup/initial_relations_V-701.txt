@@ -1,21 +1,8 @@
 
-V-701	blood	blood	phytonutrients	phytonutrients	cells, with and without a variety of	
-V-701	ginger	ginger	auraptene	auraptene	) and	
-V-701	inflammation	inflammation	dioxin	dioxin	triggered by	
-V-701	ginger	ginger	citrus	citrus	) and auraptene (found in	
-V-701	plant foods	plant foods	industrial pollutants	industrial pollutants	tend to have significantly lower levels of	
-V-701	zerumbone	zerumbone	auraptene	auraptene	(found in ginger) and	
-V-701	plant foods	plant foods	pollutants	pollutants	tend to have significantly lower levels of industrial	
-V-701	dioxin	dioxin	dow chemical	dow chemical	from	
-V-701	blood	blood	variety	variety	cells, with and without a	
-V-701	phytonutrients	phytonutrients	zerumbone	zerumbone	seemed to mitigate the toxic effect, but	
-V-701	zerumbone	zerumbone	citrus	citrus	(found in ginger) and auraptene (found in	
-V-701	phytonutrients	phytonutrients	toxins	toxins	that combat the effects of some of these	
-V-701	ddt	ddt	chemicals	chemicals	while they were at it, and dripped the	
-V-701	chemicals	chemicals	white blood cells	white blood cells	on some human	
+V-701	plant-based diets	plant-based diets	pollutants	pollutants	may play a dual role in protecting us against industrial	
+V-701	plant-based diets	plant-based diets	industrial pollutants	industrial pollutants	may play a dual role in protecting us against	
 V-701	variety	variety	phytonutrients	phytonutrients	of	
-V-701	zerumbone	zerumbone	ginger	ginger	(found in	
-V-701	auraptene	auraptene	citrus	citrus	(found in	
-V-701	dioxin	dioxin	ddt	ddt	from dow chemical, grabbed some	
+V-701	inflammation	inflammation	dioxin	dioxin	triggered by	
+V-701	plant foods	plant foods	industrial pollutants	industrial pollutants	tend to have significantly lower levels of	
+V-701	plant foods	plant foods	pollutants	pollutants	tend to have significantly lower levels of industrial	
 V-701	dioxin	dioxin	ddt	ddt	and	
-V-701	chemicals	chemicals	blood	blood	on some human white	

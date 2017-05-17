@@ -1,85 +1,16 @@
 
-V-590	white cranberry juice	white cranberry juice	berries	berries	made from unripened	
-V-590	orange	orange	apple	apple	or	
-V-590	juice	juice	e. coli	e. coli	onto	
-V-590	grape juice	grape juice	orange	orange	doesn’t work, nor does	
-V-590	treatment	treatment	infections	infections	of urinary tract	
-V-590	pregnant	pregnant	infections	infections	women, children, men, those with kidney	
-V-590	bladder	bladder	e. coli	e. coli	infection-causing	
-V-590	pregnant	pregnant	women	women		
-V-590	cranberries	cranberries	infections	infections	are effective in the treatment of urinary tract	
-V-590	pregnant	pregnant	kidney	kidney	women, children, men, those with	
-V-590	urine	urine	e. coli	e. coli	of someone who drank cranberry juice onto	
-V-590	infections	infections	placebo	placebo	—meaning cranberries don’t work better than	
-V-590	orange	orange	white cranberry juice	white cranberry juice	or apple juice, or even	
-V-590	cranberry	cranberry	bladder	bladder	products appear to reduce the recurrence of	
-V-590	kidney	kidney	vomiting	vomiting	infections, systemic symptoms like nausea and	
-V-590	cranberry	cranberry	e. coli	e. coli	juice onto	
-V-590	treatment	treatment	urinary tract infections	urinary tract infections	of	
-V-590	bladder	bladder	bugs	bugs		
-V-590	cranberries	cranberries	urinary tract infections	urinary tract infections	are effective in the treatment of	
-V-590	urine	urine	cranberry	cranberry	of someone who drank	
-V-590	cranberries	cranberries	antibiotic resistance	antibiotic resistance	don’t foster	
-V-590	bladder	bladder	cranberry	cranberry	bugs, various tested	
-V-590	kidney	kidney	nausea	nausea	infections, systemic symptoms like	
-V-590	urinary tract infections	urinary tract infections	cranberries	cranberries	—meaning	
-V-590	urinary tract infections	urinary tract infections	placebo	placebo	—meaning cranberries don’t work better than	
-V-590	kidney	kidney	infections	infections		
-V-590	bladder	bladder	infection	infection		
-V-590	infections	infections	antibiotics	antibiotics	just go away on their own, without	
-V-590	bacteria	bacteria	infection	infection	cause a bladder	
-V-590	cranberry juice	cranberry juice	e. coli	e. coli	on	
-V-590	grape juice	grape juice	juice	juice	doesn’t work, nor does orange or apple	
-V-590	antibiotics	antibiotics	infections	infections	for the treatment of uncomplicated urinary tract	
-V-590	bacteria	bacteria	bladder infection	bladder infection	cause a	
-V-590	cranberries	cranberries	bladder	bladder	really help prevent	
-V-590	apple	apple	cranberry	cranberry	juice, or even white	
-V-590	cranberry	cranberry	berries	berries	juice made from unripened	
-V-590	juice	juice	e. coli	e. coli	on	
-V-590	gut	gut	bugs	bugs	remains stubbornly colonized with these bad bladder	
-V-590	cranberries	cranberries	infections	infections	really help prevent bladder	
-V-590	treatment	treatment	infections	infections	of uncomplicated urinary tract	
-V-590	cranberries	cranberries	gut	gut	are even absorbed through the	
-V-590	antibiotics	antibiotics	treatment	treatment	for the	
-V-590	bladder	bladder	antibiotics	antibiotics	infections just go away on their own, without	
-V-590	orange	orange	cranberry juice	cranberry juice	or apple juice, or even white	
-V-590	orange	orange	cranberry	cranberry	or apple juice, or even white	
-V-590	juice	juice	apple juice	apple juice	doesn’t work, nor does orange or	
-V-590	infections	infections	cranberries	cranberries	—meaning	
-V-590	symptoms	symptoms	vomiting	vomiting	like nausea and	
-V-590	orange	orange	juice	juice	or apple	
-V-590	phytonutrients	phytonutrients	gut	gut	in cranberries are even absorbed through the	
-V-590	apple	apple	white cranberry juice	white cranberry juice	juice, or even	
-V-590	antibiotics	antibiotics	infections	infections	—pregnant women, children, men, those with kidney	
-V-590	cranberry juice	cranberry juice	e. coli	e. coli	onto	
-V-590	e. coli	e. coli	urine	urine	wading in	
-V-590	grape juice	grape juice	apple juice	apple juice	doesn’t work, nor does orange or	
-V-590	bladder	bladder	infections	infections		
-V-590	pregnant	pregnant	children	children	women,	
 V-590	nausea	nausea	vomiting	vomiting	and	
-V-590	juice	juice	orange	orange	doesn’t work, nor does	
-V-590	juice	juice	apple	apple	doesn’t work, nor does orange or	
-V-590	bladder infections	bladder infections	antibiotics	antibiotics	just go away on their own, without	
+V-590	white cranberry juice	white cranberry juice	berries	berries	made from unripened	
+V-590	cranberries	cranberries	antibiotic resistance	antibiotic resistance	don’t foster	
 V-590	cranberry juice	cranberry juice	berries	berries	made from unripened	
-V-590	urine	urine	water	water	from someone drinking	
-V-590	pregnant	pregnant	symptoms	symptoms	women, children, men, those with kidney infections, systemic	
-V-590	apple	apple	juice	juice		
-V-590	cranberry	cranberry	bladder infections	bladder infections	products appear to reduce the recurrence of	
+V-590	e. coli	e. coli	bladder	bladder	evolved these finger-like projections that they use to stick to the walls of the	
+V-590	orange	orange	apple	apple	or	
 V-590	ibuprofen	ibuprofen	antibiotics	antibiotics	seems to work just as good as	
-V-590	cranberry	cranberry	juice	juice		
-V-590	urine	urine	cranberry juice	cranberry juice	of someone who drank	
-V-590	treatment	treatment	placebo	placebo	of urinary tract infections—meaning cranberries don’t work better than	
-V-590	symptoms	symptoms	nausea	nausea	like	
-V-590	e. coli	e. coli	water	water	wading in urine from someone drinking	
-V-590	cranberry	cranberry	e. coli	e. coli	juice on	
+V-590	e. coli	e. coli	urine	urine	wading in	
+V-590	bacteria	bacteria	bladder infection	bladder infection	cause a	
 V-590	cranberries	cranberries	treatment	treatment	are effective in the	
-V-590	gut	gut	bladder	bladder	remains stubbornly colonized with these bad	
-V-590	cranberry	cranberry	infections	infections	products appear to reduce the recurrence of bladder	
-V-590	urine	urine	juice	juice	of someone who drank cranberry	
-V-590	kidney	kidney	symptoms	symptoms	infections, systemic	
-V-590	grape juice	grape juice	apple	apple	doesn’t work, nor does orange or	
+V-590	treatment	treatment	urinary tract infections	urinary tract infections	of	
 V-590	orange	orange	apple juice	apple juice	or	
 V-590	phytonutrients	phytonutrients	cranberries	cranberries	in	
-V-590	apple	apple	cranberry juice	cranberry juice	juice, or even white	
-V-590	treatment	treatment	cranberries	cranberries	of urinary tract infections—meaning	
+V-590	cranberries	cranberries	gut	gut	are even absorbed through the	
 V-590	bacteria	bacteria	bladder	bladder	cause a	

@@ -1,13 +1,5 @@
 
 V-737	nuts	nuts	seeds	seeds	and	
-V-737	olive oil	olive oil	fruit	fruit	like	
-V-737	olive oil	olive oil	calories	calories	like fruit juice—it’s got nutrients, but the	
 V-737	olives	olives	fruits	fruits	are, after all,	
 V-737	olives	olives	sodium	sodium	could take up half your	
-V-737	olive oil	olive oil	juice	juice	like fruit	
-V-737	olive oil	olive oil	fruit juice	fruit juice	like	
-V-737	fruit	fruit	juice	juice		
-V-737	fruit juice	fruit juice	calories	calories	—it’s got nutrients, but the	
-V-737	fruit	fruit	calories	calories	juice—it’s got nutrients, but the	
-V-737	cholesterol	cholesterol	bad cholesterol	bad cholesterol	about seven percent, knocking about twenty points off their	
-V-737	juice	juice	calories	calories	—it’s got nutrients, but the	
+V-737	spain	spain	olive oil	olive oil	wondered what would happen if they replaced much of the refined	

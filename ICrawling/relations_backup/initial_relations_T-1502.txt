@@ -1,19 +1,2 @@
 
-T-1502	americans	americans	potato chips	potato chips	on average eat 23 calories of	
-T-1502	junk food	junk food	margarine	margarine	—including cakes, cookies,	
-T-1502	crisco	crisco	breast cancer	breast cancer	)— contain trans fats, which, after a	
-T-1502	shortening	shortening	trans fats	trans fats	(crisco)— contain	
-T-1502	shortening	shortening	fats	fats	(crisco)— contain trans	
-T-1502	crisco	crisco	trans fats	trans fats	)— contain	
-T-1502	frying	frying	carbohydrates	carbohydrates		
-T-1502	risk	risk	plants	plants	of dying within a seven-year period.deep-fried	
-T-1502	potato chips	potato chips	calories	calories	: americans on average eat 23	
-T-1502	junk food	junk food	cookies	cookies	—including cakes,	
-T-1502	crisco	crisco	fats	fats	)— contain trans	
 T-1502	calories	calories	potato chips	potato chips	of	
-T-1502	junk food	junk food	french fries	french fries	—including cakes, cookies, margarine,	
-T-1502	shortening	shortening	cancer	cancer	(crisco)— contain trans fats, which, after a breast	
-T-1502	shortening	shortening	breast cancer	breast cancer	(crisco)— contain trans fats, which, after a	
-T-1502	calories	calories	processed foods	processed foods	of potato chips every day.animal products,	
-T-1502	junk food	junk food	potato chips	potato chips	—including cakes, cookies, margarine, french fries,	
-T-1502	crisco	crisco	cancer	cancer	)— contain trans fats, which, after a breast	

@@ -1,20 +1,9 @@
 
-V-467	drugs	drugs	diet	diet	versus	
-V-467	ama	ama	physicians	physicians	code of medical ethics,	
-V-467	death	death	heart attack	heart attack	from a cardiovascular event such as a	
-V-467	statins	statins	side effects	side effects	can have	
-V-467	doctors	doctors	diet	diet	often don’t even bring up	
-V-467	dr. caldwell esselstyn	dr. caldwell esselstyn	american journal of cardiology	american journal of cardiology	published a controversial paper in the	
-V-467	mortality	mortality	morbidity	morbidity	and	
-V-467	ama	ama	medical ethics	medical ethics	code of	
 V-467	heart attack	heart attack	stroke	stroke	or	
-V-467	liver	liver	stomach	stomach	damage, and upset	
-V-467	risk	risk	death	death	of subsequent heart attack or	
 V-467	heart attack	heart attack	death	death	or	
-V-467	statins	statins	liver	liver	can have side effects, such as muscle pain,	
+V-467	statins	statins	side effects	side effects	can have	
 V-467	caldwell esselstyn	caldwell esselstyn	american journal of cardiology	american journal of cardiology	published a controversial paper in the	
-V-467	disease	disease	women	women	that is the leading killer of men and	
 V-467	physicians	physicians	informed consent	informed consent	are supposed to honor	
 V-467	esselstyn	esselstyn	american journal of cardiology	american journal of cardiology	published a controversial paper in the	
-V-467	statins	statins	pain	pain	can have side effects, such as muscle	
-V-467	risk	risk	heart attack	heart attack	of subsequent	
+V-467	dr. caldwell esselstyn	dr. caldwell esselstyn	american journal of cardiology	american journal of cardiology	published a controversial paper in the	
+V-467	mortality	mortality	morbidity	morbidity	and	

@@ -1,13 +1,2 @@
 
-V-716	grains	grains	nutrition	nutrition	to cows, less than half the	
 V-716	worms	worms	vitamin b12	vitamin b12	gets you all the	
-V-716	grains	grains	cows	cows	to	
-V-716	pumpkin	pumpkin	seeds	seeds		
-V-716	protein	protein	snail meat	snail meat	than even	
-V-716	zinc	zinc	pumpkin	pumpkin	than	
-V-716	protein	protein	meat	meat	than even snail	
-V-716	nutrition	nutrition	plants	plants	of edible	
-V-716	arginine	arginine	soybeans	soybeans	than	
-V-716	zinc	zinc	seeds	seeds	than pumpkin	
-V-716	worms	worms	b12	b12	gets you all the vitamin	
-V-716	zinc	zinc	pumpkin seeds	pumpkin seeds	than	

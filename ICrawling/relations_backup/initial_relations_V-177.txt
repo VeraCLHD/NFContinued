@@ -1,66 +1,15 @@
 
-V-177	cardiovascular disease	cardiovascular disease	sodium	sodium	(cvd) events like heart attacks and strokes as	
-V-177	heart attacks	heart attacks	sodium	sodium	and strokes as	
-V-177	salt	salt	smoking	smoking	intake while eating a worse diet and	
-V-177	morbidity	morbidity	sodium	sodium	and mortality—by reducing dietary	
-V-177	risk	risk	atherosclerosis	atherosclerosis	of vascular diseases like strokes, aneurisms, and	
-V-177	salt	salt	drugs	drugs	depleted by high dose salt-wasting	
-V-177	cholesterol	cholesterol	fruit	fruit	levels and smoking, and improved	
-V-177	fruit	fruit	salt	salt	and vegetable consumption, but in japan they dropped	
-V-177	blood pressure	blood pressure	blood	blood	and high	
-V-177	blood	blood	morbidity	morbidity	pressure, but a reduction in hard end points—	
-V-177	food industry	food industry	salt	salt	going to keep the	
-V-177	morbidity	morbidity	mortality	mortality	and	
-V-177	institute of medicine	institute of medicine	sodium	sodium	report saying that	
-V-177	mortality	mortality	sodium	sodium	—by reducing dietary	
-V-177	salt	salt	tobacco	tobacco	institute, she was accepting money from the	
 V-177	england	england	salt	salt	were able to successfully bring down	
 V-177	sodium	sodium	blood pressure	blood pressure	plays a significant role in raising people’s	
 V-177	blood pressure	blood pressure	high blood pressure	high blood pressure	and	
-V-177	stomach	stomach	kidney stones	kidney stones	cancer,	
-V-177	stomach	stomach	cancer	cancer		
-V-177	risk	risk	sodium	sodium	of cvd for every gram of	
-V-177	stomach	stomach	obesity	obesity	cancer, kidney stones, bone loss,	
-V-177	salt	salt	high blood pressure	high blood pressure	leads to	
-V-177	philip morris	philip morris	tobacco	tobacco	and other	
-V-177	stroke	stroke	mortality	mortality		
-V-177	blood	blood	disease	disease	pressures dropped, and so did rates of heart	
-V-177	disease	disease	stroke	stroke	and	
-V-177	salt	salt	diet	diet	intake while eating a worse	
-V-177	salt	salt	cancer	cancer	—it’s also been tied to stomach	
-V-177	salt	salt	kidney	kidney	—it’s also been tied to stomach cancer,	
-V-177	japan	japan	diet	diet	they dropped salt intake while eating a worse	
-V-177	sodium	sodium	blood	blood	intake is associated with increased	
-V-177	kidney	kidney	obesity	obesity	stones, bone loss,	
-V-177	salt	salt	blood pressure	blood pressure	leads to high	
-V-177	japan	japan	salt	salt	they dropped	
-V-177	salt	salt	stomach cancer	stomach cancer	—it’s also been tied to	
-V-177	high blood pressure	high blood pressure	disease	disease	and high blood pressure to	
-V-177	obesity	obesity	kidneys	kidneys	even, and direct damage to our	
-V-177	salt	salt	kidney stones	kidney stones	—it’s also been tied to stomach cancer,	
-V-177	high blood pressure	high blood pressure	blood pressure	blood pressure	and high	
-V-177	disease	disease	sodium	sodium	(cvd) events like heart attacks and strokes as	
-V-177	stomach	stomach	kidney	kidney	cancer,	
-V-177	blood	blood	high blood pressure	high blood pressure	pressure and	
+V-177	blood pressure	blood pressure	salt	salt	is not the only harmful effect of too much	
+V-177	food industry	food industry	salt	salt	going to keep the	
 V-177	sodium	sodium	blood	blood	plays a significant role in raising people’s	
-V-177	blood	blood	disease	disease	pressure and high blood pressure to	
-V-177	heart disease	heart disease	stroke	stroke	and	
-V-177	blood	blood	heart disease	heart disease	pressures dropped, and so did rates of	
-V-177	england	england	salt	salt	journal of medicine chooses to editorialize about	
-V-177	fruit	fruit	japan	japan	and vegetable consumption, but in	
-V-177	medicine	medicine	salt	salt	chooses to editorialize about	
-V-177	cholesterol	cholesterol	smoking	smoking	levels and	
-V-177	obesity	obesity	arteries	arteries	even, and direct damage to our kidneys,	
-V-177	salt	salt	blood	blood	leads to high	
-V-177	hypertension	hypertension	salt	salt	that found the amount of	
-V-177	blood	blood	blood pressure	blood pressure	pressure and high	
-V-177	high blood pressure	high blood pressure	blood	blood	and high	
-V-177	blood pressure	blood pressure	disease	disease	and high blood pressure to	
+V-177	morbidity	morbidity	mortality	mortality	and	
+V-177	blood pressure	blood pressure	disease	disease	is one of the best validated surrogate markers for cardiovascular	
 V-177	diet	diet	smoking	smoking	and	
-V-177	sodium	sodium	blood pressure	blood pressure	intake is associated with increased	
-V-177	medicine	medicine	sodium	sodium	report saying that	
-V-177	england	england	medicine	medicine	journal of	
-V-177	disease	disease	heart attacks	heart attacks	(cvd) events like	
-V-177	cardiovascular disease	cardiovascular disease	heart attacks	heart attacks	(cvd) events like	
+V-177	heart disease	heart disease	stroke	stroke	and	
+V-177	high blood pressure	high blood pressure	salt	salt	is not the only harmful effect of too much	
+V-177	blood pressure	blood pressure	cardiovascular disease	cardiovascular disease	is one of the best validated surrogate markers for	
+V-177	disease	disease	stroke	stroke	and	
 V-177	risk	risk	heart attacks	heart attacks	of	
-V-177	salt	salt	stomach	stomach	—it’s also been tied to	

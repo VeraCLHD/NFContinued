@@ -1,17 +1,4 @@
 
-V-1151	animal protein	animal protein	protein	protein	and less vegetable	
-V-1151	chemicals	chemicals	fish	fish	that build up in the meat—	
-V-1151	protein	protein	vegetable protein	vegetable protein	and less	
-V-1151	fish	fish	pcbs	pcbs	in particular—like the dioxins and	
-V-1151	harvard	harvard	vegetable protein	vegetable protein	data, “girls who consumed more…animal protein and less	
-V-1151	harvard	harvard	animal protein	animal protein	data, “girls who consumed more…	
-V-1151	animal protein	animal protein	vegetable protein	vegetable protein	and less	
-V-1151	children	children	processed meat	processed meat	found that seafood and	
-V-1151	fish	fish	dioxins	dioxins	in particular—like the	
 V-1151	dioxins	dioxins	pcbs	pcbs	and	
 V-1151	children	children	seafood	seafood	found that	
-V-1151	children	children	meat	meat	found that seafood and processed	
-V-1151	chemicals	chemicals	meat	meat	that build up in the	
 V-1151	seafood	seafood	processed meat	processed meat	and	
-V-1151	seafood	seafood	meat	meat	and processed	
-V-1151	harvard	harvard	protein	protein	data, “girls who consumed more…animal	

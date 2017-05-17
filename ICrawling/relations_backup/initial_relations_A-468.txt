@@ -1,21 +1,9 @@
 
-A-468	risk	risk	autoimmune diseases	autoimmune diseases	for	
+A-468	vitamin d supplements	vitamin d supplements	sun	sun	may be necessary sheds light on the fact that even under optimal	
 A-468	medicine	medicine	vitamin d	vitamin d	upped their official	
-A-468	medicine	medicine	vitamin d	vitamin d	’s conservative position on	
-A-468	vitamin d	vitamin d	health	health	recommendation is based on bone	
-A-468	risk	risk	prostate	prostate	for autoimmune diseases; deadly cancers including	
-A-468	vitamin d	vitamin d	blood	blood	level the iom’s target	
-A-468	mortality	mortality	vitamin d	vitamin d	in	
-A-468	vitamin d	vitamin d	nutrition	nutrition		
-A-468	vitamin d	vitamin d	mortality	mortality	and	
-A-468	vitamin d	vitamin d	cost-effective	cost-effective	supplements with meals, suggesting a	
-A-468	medicine	medicine	vitamin d	vitamin d	arrived at their	
-A-468	blood	blood	vitamin d	vitamin d	level of	
-A-468	supplements	supplements	cost-effective	cost-effective	with meals, suggesting a	
 A-468	institute of medicine	institute of medicine	vitamin d	vitamin d	arrived at their	
-A-468	vitamin d	vitamin d	bone health	bone health	recommendation is based on	
 A-468	institute of medicine	institute of medicine	vitamin d	vitamin d	upped their official	
-A-468	vitamin d	vitamin d	supplements	supplements		
-A-468	risk	risk	colon	colon	for autoimmune diseases; deadly cancers including prostate,	
-A-468	institute of medicine	institute of medicine	vitamin d	vitamin d	’s conservative position on	
-A-468	vitamin d supplements	vitamin d supplements	cost-effective	cost-effective	with meals, suggesting a	
+A-468	supplements	supplements	sun	sun	may be necessary sheds light on the fact that even under optimal	
+A-468	mortality	mortality	vitamin d	vitamin d	in	
+A-468	vitamin d	vitamin d	mortality	mortality	and	
+A-468	medicine	medicine	vitamin d	vitamin d	arrived at their	

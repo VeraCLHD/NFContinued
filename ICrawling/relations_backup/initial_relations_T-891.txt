@@ -1,59 +1,11 @@
 
 T-891	pollutants	pollutants	diabetes	diabetes	consumed through contaminated food may be linked to	
-T-891	meat	meat	eggs	eggs	or	
-T-891	women	women	risk	risk	’s health.the studies have identified important health	
-T-891	grapefruit	grapefruit	cancer	cancer	consumption may help prevent breast	
-T-891	heart disease	heart disease	risk	risk		
-T-891	vitamin e	vitamin e	risk	risk	may reduce asthma	
-T-891	leafy vegetables	leafy vegetables	magnesium	magnesium	may reduce cognitive decline; sufficient	
-T-891	disease	disease	risk	risk		
-T-891	vitamin e	vitamin e	berries	berries	may reduce asthma risk; eating	
-T-891	organic	organic	pollutants	pollutants		
-T-891	cholesterol	cholesterol	lifespan	lifespan	found in one egg may shorten a woman’s	
-T-891	meat	meat	diabetes	diabetes	or eggs before pregnancy may raise gestational	
-T-891	plant protein	plant protein	disease	disease	and reducing refined carbohydrate intake may reduce heart	
-T-891	gestational diabetes	gestational diabetes	risk	risk		
-T-891	health	health	breast cancer	breast cancer	including: nut and grapefruit consumption may help prevent	
 T-891	vitamin e	vitamin e	asthma	asthma	may reduce	
-T-891	meat	meat	risk	risk	intake may be an infertility	
-T-891	meat	meat	risk	risk	or eggs before pregnancy may raise gestational diabetes	
-T-891	grapefruit	grapefruit	breast cancer	breast cancer	consumption may help prevent	
-T-891	eggs	eggs	risk	risk	before pregnancy may raise gestational diabetes	
-T-891	cholesterol	cholesterol	egg	egg	found in one	
-T-891	risk	risk	organic pollutants	organic pollutants	factors including: persistent	
-T-891	asthma	asthma	risk	risk		
-T-891	lifespan	lifespan	meat	meat	as much as limited smoking;	
 T-891	egg	egg	lifespan	lifespan	may shorten a woman’s	
-T-891	plant-based	plant-based	protein	protein	omega-3’s may reduce depression; and, eating more plant	
-T-891	vegetables	vegetables	magnesium	magnesium	may reduce cognitive decline; sufficient	
-T-891	pregnancy	pregnancy	diabetes	diabetes	may raise gestational	
-T-891	grapefruit	grapefruit	vitamin e	vitamin e	consumption may help prevent breast cancer; getting enough	
-T-891	infertility	infertility	milk	milk	risk factor; there’s a positive association between teen	
-T-891	eggs	eggs	gestational diabetes	gestational diabetes	before pregnancy may raise	
-T-891	asthma	asthma	leafy vegetables	leafy vegetables	risk; eating berries, along with cruciferous and green	
-T-891	protein	protein	heart disease	heart disease	and reducing refined carbohydrate intake may reduce	
+T-891	meat	meat	eggs	eggs	or	
 T-891	pregnancy	pregnancy	gestational diabetes	gestational diabetes	may raise	
 T-891	organic pollutants	organic pollutants	diabetes	diabetes	consumed through contaminated food may be linked to	
-T-891	risk	risk	organic	organic	factors including: persistent	
-T-891	meat	meat	gestational diabetes	gestational diabetes	or eggs before pregnancy may raise	
-T-891	persistent organic pollutants	persistent organic pollutants	diabetes	diabetes	consumed through contaminated food may be linked to	
-T-891	eggs	eggs	pregnancy	pregnancy	before	
-T-891	pregnancy	pregnancy	risk	risk	may raise gestational diabetes	
-T-891	risk	risk	pollutants	pollutants	factors including: persistent organic	
-T-891	plant-based	plant-based	plant protein	plant protein	omega-3’s may reduce depression; and, eating more	
-T-891	plant protein	plant protein	heart disease	heart disease	and reducing refined carbohydrate intake may reduce	
-T-891	magnesium	magnesium	plant-based	plant-based	intake may help prevent heart attacks; getting enough	
-T-891	infertility	infertility	risk	risk		
-T-891	meat	meat	pregnancy	pregnancy	or eggs before	
-T-891	eggs	eggs	diabetes	diabetes	before pregnancy may raise gestational	
-T-891	milk	milk	acne	acne	intake, especially skim milk, and teen	
-T-891	protein	protein	disease	disease	and reducing refined carbohydrate intake may reduce heart	
-T-891	women	women	health	health	’s	
-T-891	lifespan	lifespan	smoking	smoking	as much as limited	
-T-891	milk	milk	skim milk	skim milk	intake, especially	
-T-891	magnesium	magnesium	heart attacks	heart attacks	intake may help prevent	
-T-891	risk	risk	persistent organic pollutants	persistent organic pollutants	factors including:	
-T-891	asthma	asthma	berries	berries	risk; eating	
-T-891	harvard	harvard	health	health	nurses	
+T-891	cholesterol	cholesterol	egg	egg	found in one	
 T-891	women	women	health	health	can take to improve their	
-T-891	plant-based	plant-based	depression	depression	omega-3’s may reduce	
+T-891	persistent organic pollutants	persistent organic pollutants	diabetes	diabetes	consumed through contaminated food may be linked to	
+T-891	pregnancy	pregnancy	diabetes	diabetes	may raise gestational	

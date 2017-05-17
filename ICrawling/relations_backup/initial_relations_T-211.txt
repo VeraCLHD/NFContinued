@@ -1,31 +1,8 @@
 
 T-211	peppers	peppers	raw	raw	are best eaten	
 T-211	disease	disease	cancer	cancer	and	
-T-211	pepper	pepper	peppers	peppers	and eggplant were the top three contenders.bell	
-T-211	bell peppers	bell peppers	disease	disease	contain nicotine, which may help protect against parkinson’s	
-T-211	cancer	cancer	health	health	risks and improve	
-T-211	cardiovascular disease	cardiovascular disease	health	health	and cancer risks and improve	
-T-211	raw	raw	cooking	cooking	for maximum nutritional value:	
-T-211	peppers	peppers	disease	disease	contain nicotine, which may help protect against parkinson’s	
-T-211	pepper	pepper	eggplant	eggplant	and	
-T-211	cooking	cooking	antioxidant	antioxidant	them can lead to	
-T-211	cornell	cornell	antioxidant	antioxidant	university studied the cellular	
-T-211	vegetables	vegetables	cardiovascular disease	cardiovascular disease	on a daily basis may help lower	
-T-211	eggplant	eggplant	peppers	peppers	were the top three contenders.bell	
-T-211	bell peppers	bell peppers	vegetables	vegetables	along with other	
-T-211	vegetables	vegetables	disease	disease	on a daily basis may help lower cardiovascular	
-T-211	cornell	cornell	vegetables	vegetables	university studied the cellular antioxidant activity of	
-T-211	cardiovascular disease	cardiovascular disease	cancer	cancer	and	
-T-211	disease	disease	health	health	and cancer risks and improve	
-T-211	bell peppers	bell peppers	nicotine	nicotine	contain	
-T-211	antioxidant	antioxidant	vegetables	vegetables	activity of	
-T-211	raw	raw	lead	lead	for maximum nutritional value: cooking them can	
-T-211	cooking	cooking	lead	lead	them can	
-T-211	lead	lead	antioxidant	antioxidant	to	
 T-211	peppers	peppers	nicotine	nicotine	contain	
-T-211	antioxidant	antioxidant	fruits	fruits	power of various	
 T-211	fruits	fruits	vegetables	vegetables	and	
-T-211	antioxidant	antioxidant	vegetables	vegetables	power of various fruits and	
-T-211	vegetables	vegetables	antioxidant	antioxidant	—a biological quantification of the	
-T-211	peppers	peppers	cooking	cooking	are best eaten raw for maximum nutritional value:	
-T-211	peppers	peppers	vegetables	vegetables	along with other	
+T-211	cardiovascular disease	cardiovascular disease	cancer	cancer	and	
+T-211	bell peppers	bell peppers	nicotine	nicotine	contain	
+T-211	pepper	pepper	eggplant	eggplant	and	

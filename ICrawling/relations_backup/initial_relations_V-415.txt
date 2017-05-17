@@ -1,30 +1,13 @@
 
-V-415	harvard	harvard	children	children	’s	
-V-415	western diet	western diet	death	death	is the standard cause of	
-V-415	babies	babies	extracorporeal membranous oxygenation	extracorporeal membranous oxygenation	with immature lungs called ecmo,	
-V-415	united states	united states	nutrition	nutrition	are taught little about	
-V-415	plant-based	plant-based	disease	disease	diets for managing chronic	
-V-415	plant-based	plant-based	chronic disease	chronic disease	diets for managing	
-V-415	plant-based	plant-based	diet	diet		
-V-415	diet	diet	atherosclerosis	atherosclerosis	in causing	
-V-415	treatment	treatment	babies	babies	for	
-V-415	children	children	infants	infants	’s hospital 39	
-V-415	death	death	babies	babies	so as not to kill too many	
-V-415	infants	infants	ecmo	ecmo	were randomized to either get	
-V-415	ecmo	ecmo	babies	babies		
-V-415	babies	babies	ecmo	ecmo	with immature lungs called	
-V-415	treatment	treatment	extracorporeal membranous oxygenation	extracorporeal membranous oxygenation	for babies with immature lungs called ecmo,	
-V-415	babies	babies	death	death	to	
 V-415	disease	disease	plant-based	plant-based	could be reversed with a	
+V-415	disease	disease	plant-based diet	plant-based diet	could be reversed with a	
 V-415	rabies	rabies	death	death	was	
 V-415	ornish	ornish	esselstyn	esselstyn	and	
-V-415	diet	diet	death	death	is the standard cause of	
-V-415	plant-based diets	plant-based diets	disease	disease	for managing chronic	
-V-415	disease	disease	diet	diet	could be reversed with a plant-based	
-V-415	harvard	harvard	infants	infants	’s children’s hospital 39	
-V-415	disease	disease	plant-based diet	plant-based diet	could be reversed with a	
 V-415	disease	disease	ornish	ornish	was already well established before	
-V-415	disease	disease	esselstyn	esselstyn	was already well established before ornish and	
-V-415	treatment	treatment	ecmo	ecmo	for babies with immature lungs called	
-V-415	risk	risk	chronic diseases	chronic diseases	of some of these	
-V-415	plant-based diets	plant-based diets	chronic disease	chronic disease	for managing	
+V-415	diet	diet	death	death	is the standard cause of	
+V-415	infants	infants	ecmo	ecmo	were randomized to either get	
+V-415	standard american diet	standard american diet	plant-based	plant-based	could be considered a violation of research ethics.evidence of the value of	
+V-415	western diet	western diet	death	death	is the standard cause of	
+V-415	united states	united states	nutrition	nutrition	are taught little about	
+V-415	standard american diet	standard american diet	plant-based diets	plant-based diets	could be considered a violation of research ethics.evidence of the value of	
+V-415	esselstyn	esselstyn	diet	diet	got a 100% drop in those who stuck to his	

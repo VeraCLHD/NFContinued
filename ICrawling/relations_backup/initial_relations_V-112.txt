@@ -1,50 +1,11 @@
 
-V-112	skin	skin	cancer	cancer		
-V-112	vitamin d	vitamin d	rickets	rickets	deficiency disease,	
-V-112	sunlight	sunlight	sun	sun	without	
-V-112	carotenoid	carotenoid	phytonutrients	phytonutrients		
-V-112	skin	skin	vitamin d	vitamin d	cancer, and	
-V-112	sunlight	sunlight	skin	skin	will considerably increase the risk of	
-V-112	skin cancer	skin cancer	risk	risk		
-V-112	sunlight	sunlight	skin cancer	skin cancer	will considerably increase the risk of	
-V-112	americans	americans	cancer	cancer	from skin	
-V-112	dairy	dairy	milk	milk	industry jumped at the opportunity to fortify	
-V-112	sun	sun	caucasian	caucasian	are proven carcinogens, responsible for about half of all	
-V-112	cancer	cancer	sun	sun	risk, but argue for moderation, advocating “sensible	
-V-112	skin cancer	skin cancer	vitamin d	vitamin d	versus internal cancers from	
-V-112	vitamin d	vitamin d	disease	disease	deficiency	
-V-112	vitamin d	vitamin d	supplements	supplements	you need from	
-V-112	sun	sun	risk	risk	exposure can increase skin cancer	
-V-112	cancer	cancer	heart attacks	heart attacks	tended to live longer and have less	
-V-112	risk	risk	cancer	cancer	of skin	
-V-112	fruits	fruits	vegetables	vegetables	and	
-V-112	sunlight	sunlight	cancer	cancer	will considerably increase the risk of skin	
-V-112	cancer	cancer	risk	risk	—though why accept any	
-V-112	caucasian	caucasian	risk	risk	malignancies, blaming the tanning industry for downplaying the	
 V-112	risk	risk	skin cancer	skin cancer	of	
-V-112	risk	risk	vitamin d	vitamin d	at all when you can get all the	
+V-112	sunlight	sunlight	risk	risk	will considerably increase the	
+V-112	bread	bread	butter	butter	and	
+V-112	risk	risk	skin	skin	of	
 V-112	asian	asian	african-american	african-american	and	
-V-112	sunlight	sunlight	americans	americans	exposure that would only kill, at most, 12,000	
-V-112	cancer	cancer	vitamin d	vitamin d	deaths may be attributable to low	
+V-112	supplements	supplements	sun	sun	available?what if you were just trying to balance the positive and negative effects of	
+V-112	cancer	cancer	heart attacks	heart attacks	tended to live longer and have less	
+V-112	fruits	fruits	vegetables	vegetables	and	
 V-112	sun	sun	carcinogens	carcinogens	are proven	
 V-112	skin cancer	skin cancer	heart attacks	heart attacks	tended to live longer and have less	
-V-112	cancer	cancer	risk	risk		
-V-112	skin	skin	heart attacks	heart attacks	cancer tended to live longer and have less	
-V-112	americans	americans	skin cancer	skin cancer	from	
-V-112	sunlight	sunlight	risk	risk	will considerably increase the	
-V-112	vitamin d	vitamin d	supplements	supplements		
-V-112	milk	milk	vitamin d	vitamin d	with	
-V-112	skin	skin	sun	sun	cancer risk, but argue for moderation, advocating “sensible	
-V-112	orange	orange	juice	juice		
-V-112	milk	milk	beer	beer	with vitamin d, and so did the	
-V-112	skin	skin	risk	risk	cancer—though why accept any	
-V-112	skin	skin	vitamin d	vitamin d	cancer versus internal cancers from	
-V-112	bread	bread	butter	butter	and	
-V-112	skin cancer	skin cancer	sun	sun	risk, but argue for moderation, advocating “sensible	
-V-112	risk	risk	skin	skin	of	
-V-112	skin cancer	skin cancer	risk	risk	—though why accept any	
-V-112	cancer	cancer	vitamin d	vitamin d	versus internal cancers from	
-V-112	skin	skin	risk	risk	cancer	
-V-112	americans	americans	skin	skin	from	
-V-112	vitamin d	vitamin d	sunlight	sunlight	levels that could be avoidable with more	
-V-112	vitamin d	vitamin d	supplements	supplements	from	

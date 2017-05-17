@@ -1,34 +1,9 @@
 
 V-1048	cheese	cheese	mortality	mortality	had the highest correlation with the incidence and	
-V-1048	soy milk	soy milk	phytoestrogens	phytoestrogens	because they have an irrational fear of	
-V-1048	meat	meat	hormones	hormones	have the highest levels of estrogenic	
-V-1048	dairy	dairy	milk	milk	products, because the	
-V-1048	steroid hormones	steroid hormones	blood	blood	in the	
-V-1048	milk	milk	twins	twins	-drinkers have five times the rates of	
-V-1048	milk	milk	phytoestrogens	phytoestrogens	because they have an irrational fear of	
-V-1048	pregnant	pregnant	cows	cows		
-V-1048	estrogen	estrogen	women	women	is not just a problem for	
-V-1048	women	women	meat	meat	who eat	
-V-1048	prostate	prostate	cancer	cancer		
-V-1048	pregnant	pregnant	estrogen	estrogen	cows, in which	
-V-1048	twins	twins	vegans	vegans	compared to	
-V-1048	vegans	vegans	dairy	dairy	—that’s how much of an effect	
-V-1048	hormones	hormones	vegans	vegans	in their bloodstream, and	
 V-1048	milk	milk	hormones	hormones	is a rich source of these	
 V-1048	animal products	animal products	steroid hormones	steroid hormones	was definitively linked to the levels of circulating	
-V-1048	pregnancy	pregnancy	estrogen	estrogen		
-V-1048	milk	milk	estrogen	estrogen	hitting their intestines,	
-V-1048	testosterone	testosterone	children	children	levels go significantly down.what about the	
-V-1048	steroid hormones	steroid hormones	body fat	body fat	in the blood, regardless of	
 V-1048	milk	milk	cheese	cheese	and	
-V-1048	estrogen	estrogen	testosterone	testosterone	levels go significantly up, and	
-V-1048	risk	risk	milk	milk	factors, these investigators were most concerned about	
-V-1048	dairy	dairy	cows	cows		
-V-1048	phytoestrogens	phytoestrogens	soy	soy	—even though	
-V-1048	twins	twins	dairy	dairy	compared to vegans—that’s how much of an effect	
 V-1048	milk	milk	dairy	dairy	and	
-V-1048	steroid hormones	steroid hormones	fat	fat	in the blood, regardless of body	
-V-1048	estrogen	estrogen	milk	milk	we’re exposed to when we drink	
-V-1048	soy	soy	milk	milk		
-V-1048	pediatrics	pediatrics	estrogen	estrogen	journal on just how much	
-V-1048	soy	soy	phytoestrogens	phytoestrogens	milk because they have an irrational fear of	
+V-1048	milk	milk	twins	twins	-drinkers have five times the rates of	
+V-1048	twins	twins	vegans	vegans	compared to	
+V-1048	estrogen	estrogen	women	women	is not just a problem for	

@@ -1,14 +1,6 @@
 
 V-964	americans	americans	eggs	eggs	should consume fewer	
-V-964	cadbury	cadbury	dietary guidelines	dietary guidelines	—yes, that cadbury—complained that the	
-V-964	chicken	chicken	cholesterol	cholesterol	—by far the two largest sources of	
-V-964	egg	egg	dietary guidelines	dietary guidelines	industry argues that “the	
+V-964	dietary guidelines	dietary guidelines	cholesterol	cholesterol	recommend consuming less than 200mg of	
 V-964	dietary guidelines	dietary guidelines	americans	americans	should avoid any inference that most	
 V-964	eggs	eggs	chicken	chicken	and	
 V-964	risk	risk	cardiovascular disease	cardiovascular disease	of	
-V-964	eggs	eggs	cholesterol	cholesterol	and chicken—by far the two largest sources of	
-V-964	cholesterol	cholesterol	risk	risk	per day for individuals at high	
-V-964	dietary guidelines	dietary guidelines	cholesterol	cholesterol	recommend consuming less than 200mg of	
-V-964	risk	risk	disease	disease	of cardiovascular	
-V-964	cholesterol	cholesterol	eggs	eggs	” is what’s misleading; “consume fewer	
-V-964	cholesterol	cholesterol	cardiovascular disease	cardiovascular disease	per day for individuals at high risk of	

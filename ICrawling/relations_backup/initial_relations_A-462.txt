@@ -1,33 +1,7 @@
 
-A-462	raisins	raisins	antioxidant	antioxidant	(see	
-A-462	apples	apples	cholesterol	cholesterol	versus	
-A-462	goji berries	goji berries	antioxidant content	antioxidant content	had five times more antioxidants than raisins (see	
-A-462	goji	goji	berries	berries		
-A-462	raisins	raisins	antioxidant content	antioxidant content	(see	
-A-462	pecans	pecans	raisins	raisins	(see the best nut) and golden	
-A-462	nuts	nuts	dried fruit	dried fruit	and	
-A-462	antioxidant	antioxidant	blueberries	blueberries	content of	
-A-462	goji berries	goji berries	antioxidant	antioxidant	had five times more antioxidants than raisins (see	
-A-462	goji berries	goji berries	antioxidants	antioxidants	had five times more	
-A-462	dried apples	dried apples	cholesterol	cholesterol	versus	
-A-462	apple	apple	anti-inflammatory	anti-inflammatory	rings to the mix, given the preliminary	
-A-462	anti-inflammatory	anti-inflammatory	dried apples	dried apples	data reported in last tuesday’s video-of-the-day	
-A-462	trail mix	trail mix	nuts	nuts	has been my standby, a homespun mix of	
-A-462	nuts	nuts	fruit	fruit	and dried	
-A-462	berries	berries	antioxidant content	antioxidant content	had five times more antioxidants than raisins (see	
-A-462	pecans	pecans	golden raisins	golden raisins	(see the best nut) and	
 A-462	amla	amla	amalika	amalika	or	
-A-462	antioxidants	antioxidants	antioxidant	antioxidant	than raisins (see	
-A-462	berries	berries	antioxidant	antioxidant	had five times more antioxidants than raisins (see	
-A-462	goji berries	goji berries	raisins	raisins	had five times more antioxidants than	
+A-462	goji berries	goji berries	antioxidants	antioxidants	had five times more	
 A-462	berries	berries	antioxidants	antioxidants	had five times more	
-A-462	goji	goji	antioxidants	antioxidants	berries had five times more	
-A-462	goji	goji	raisins	raisins	berries had five times more antioxidants than	
 A-462	usda	usda	antioxidant	antioxidant	released new	
-A-462	anti-inflammatory	anti-inflammatory	apples	apples	data reported in last tuesday’s video-of-the-day dried	
-A-462	antioxidants	antioxidants	raisins	raisins	than	
-A-462	antioxidants	antioxidants	antioxidant content	antioxidant content	than raisins (see	
-A-462	superfood	superfood	bargains	bargains		
-A-462	antioxidant	antioxidant	pecans	pecans	data in 2007 i switched to	
 A-462	antioxidant content	antioxidant content	blueberries	blueberries	of	
-A-462	berries	berries	raisins	raisins	had five times more antioxidants than	
+A-462	nuts	nuts	dried fruit	dried fruit	and	

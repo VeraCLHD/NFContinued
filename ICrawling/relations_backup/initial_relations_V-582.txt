@@ -1,62 +1,19 @@
 
-V-582	fish	fish	supermarkets	supermarkets	markets and	
-V-582	chemicals	chemicals	pesticides	pesticides	” present in meat, such as	
-V-582	cadmium	cadmium	tuna	tuna	levels were found in	
-V-582	soda	soda	obesity	obesity	linked to	
-V-582	pollutants	pollutants	fat	fat	that build up in animal	
-V-582	cadmium	cadmium	lead	lead	and	
-V-582	beverage	beverage	soft drinks	soft drinks	associated with infertility in women was	
-V-582	diet	diet	harvard	harvard	coke apparently had the strongest effect,	
-V-582	harvard	harvard	saturated fat	saturated fat	study found that increasing	
-V-582	pesticides	pesticides	chemicals	chemicals	and dioxin-like pollutants, and even	
-V-582	pesticides	pesticides	pollutants	pollutants	and dioxin-like	
-V-582	lead	lead	shrimp	shrimp	levels found in scallops and	
-V-582	steroids	steroids	meat	meat	in processed foods, such as	
-V-582	harvard	harvard	england	england	researchers publishing in the new	
-V-582	xenoestrogens	xenoestrogens	steroids	steroids	and sex	
 V-582	women	women	soft drinks	soft drinks	was	
-V-582	steroids	steroids	milk	milk	in processed foods, such as meat or	
-V-582	lead	lead	scallops	scallops	levels found in	
-V-582	beverage	beverage	women	women	associated with infertility in	
-V-582	pollutants	pollutants	animal fat	animal fat	that build up in	
-V-582	industrial pollutants	industrial pollutants	animal fat	animal fat	that build up in	
+V-582	beverage	beverage	infertility	infertility	associated with	
+V-582	soda	soda	obesity	obesity	linked to	
+V-582	vegetables	vegetables	semen	semen	may maintain or improve	
 V-582	harvard study	harvard study	fat	fat	found that increasing saturated	
-V-582	coca cola	coca cola	douching	douching	as a spermicidal agent in vaginal	
+V-582	lead	lead	cadmium	cadmium	and	
+V-582	scallops	scallops	shrimp	shrimp	and	
+V-582	cadmium	cadmium	lead	lead	and	
+V-582	infertility	infertility	women	women	in	
+V-582	dioxins	dioxins	beef	beef	may be playing a causal role.the reason why “maternal	
 V-582	fertility	fertility	sperm count	sperm count	is not just about	
+V-582	food industry	food industry	xenoestrogens	xenoestrogens	results in an increased total level of	
 V-582	harvard study	harvard study	saturated fat	saturated fat	found that increasing	
 V-582	fruits	fruits	vegetables	vegetables	or	
 V-582	meat	meat	pollutants	pollutants	could be from other	
-V-582	fruits	fruits	semen	semen	or vegetables may maintain or improve	
-V-582	risk	risk	mercury	mercury	information given to the public (mainly about	
-V-582	animal fat	animal fat	fish	fish	(particularly	
-V-582	pregnancy	pregnancy	egg	egg	and fertilized	
-V-582	beef	beef	lead	lead	by [cadmium and	
-V-582	xenoestrogens	xenoestrogens	meat	meat	and sex steroids in processed foods, such as	
-V-582	cadmium	cadmium	lead	lead	levels were found in tuna; highest	
-V-582	infertility	infertility	soft drinks	soft drinks	in women was	
-V-582	industrial pollutants	industrial pollutants	fish	fish	that build up in animal fat (particularly	
-V-582	xenoestrogens	xenoestrogens	processed foods	processed foods	and sex steroids in	
-V-582	scallops	scallops	shrimp	shrimp	and	
-V-582	infertility	infertility	women	women	in	
-V-582	beef	beef	cadmium	cadmium	by [	
-V-582	food industry	food industry	xenoestrogens	xenoestrogens	results in an increased total level of	
-V-582	semen	semen	vegetables	vegetables	quality in humans, whereas some fruits or	
-V-582	risk	risk	fish	fish	from different metals resided in different	
-V-582	meat	meat	milk	milk	products or	
-V-582	steroids	steroids	processed foods	processed foods	in	
-V-582	cola	cola	douching	douching	as a spermicidal agent in vaginal	
-V-582	chemicals	chemicals	steroids	steroids	and]	
-V-582	semen	semen	fruits	fruits	quality in humans, whereas some	
-V-582	beverage	beverage	infertility	infertility	associated with	
-V-582	vegetables	vegetables	semen	semen	may maintain or improve	
-V-582	lead	lead	cadmium	cadmium	and	
-V-582	industrial pollutants	industrial pollutants	fat	fat	that build up in animal	
-V-582	meat	meat	semen	semen	products or milk may negatively affect	
-V-582	harvard	harvard	medicine	medicine	researchers publishing in the new england journal of	
-V-582	pollutants	pollutants	fish	fish	that build up in animal fat (particularly	
-V-582	england	england	medicine	medicine	journal of	
-V-582	chemicals	chemicals	meat	meat	” present in	
 V-582	milk	milk	semen	semen	may negatively affect	
-V-582	harvard	harvard	fat	fat	study found that increasing saturated	
 V-582	meat	meat	milk	milk	or	
-V-582	fat	fat	fish	fish	(particularly	
+V-582	steroids	steroids	processed foods	processed foods	in	

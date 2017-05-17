@@ -1,26 +1,5 @@
 
-V-365	women	women	saturated fat	saturated fat	with the lowest	
-V-365	women	women	saturated fat	saturated fat	with the highest	
-V-365	risk	risk	diet	diet	for alzheimer’s disease, but whether a mediterranean	
-V-365	mediterranean diet	mediterranean diet	diet	diet	is a	
-V-365	fish	fish	alcohol	alcohol	consumption showed no benefit, neither did moderate	
-V-365	fat	fat	aging	aging	consumption was equivalent to about 6 years of	
-V-365	risk	risk	diet	diet	factors, and that’s not including	
-V-365	women	women	fat	fat	with the highest saturated	
-V-365	saturated fat	saturated fat	cognition	cognition	intake was associated with a poorer trajectory of	
-V-365	women	women	fat	fat	with the lowest saturated	
-V-365	china	china	fat	fat	to the highest	
-V-365	fat	fat	women	women	intake had the brain function of	
-V-365	cognition	cognition	memory	memory	and	
-V-365	risk	risk	disease	disease	for alzheimer	
-V-365	diet	diet	risk	risk	was related to lower	
 V-365	meat	meat	dairy	dairy	and	
-V-365	mediterranean diet	mediterranean diet	diet	diet	—or any	
-V-365	diet	diet	disease	disease	was related to lower risk for alzheimer’s	
-V-365	diet	diet	disease	disease	may affect not only risk for alzheimer	
-V-365	risk	risk	mediterranean diet	mediterranean diet	for alzheimer’s disease, but whether a	
-V-365	risk	risk	disease	disease	for alzheimer’s	
-V-365	saturated fat	saturated fat	women	women	intake had the brain function of	
-V-365	fats	fats	fat	fat	together.harvard researchers examined the relationships of the major	
-V-365	mediterranean diet	mediterranean diet	disease	disease	may affect not only risk for alzheimer	
-V-365	saturated fat	saturated fat	aging	aging	consumption was equivalent to about 6 years of	
+V-365	mediterranean diet	mediterranean diet	diet	diet	is a	
+V-365	cognition	cognition	memory	memory	and	
+V-365	diet	diet	risk	risk	was related to lower	

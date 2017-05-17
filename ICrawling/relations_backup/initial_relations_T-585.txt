@@ -1,49 +1,12 @@
 
 T-585	plant-based diets	plant-based diets	dioxins	dioxins	appear to have the lowest levels of	
-T-585	plant foods	plant foods	dioxins	dioxins	may protect against the toxic effects of	
-T-585	fish	fish	mercury	mercury	consumption now include dioxins, pcbs, and	
-T-585	dioxins	dioxins	chicken	chicken	found in	
-T-585	biomarkers	biomarkers	dioxins	dioxins	for fish consumption now include	
-T-585	dioxins	dioxins	dairy	dairy	through the consumption of chicken, meat,	
-T-585	risk	risk	atrial fibrillation	atrial fibrillation	of	
-T-585	ah receptor	ah receptor	fish	fish	system.most human dioxin exposure comes from eating	
-T-585	dioxins	dioxins	chicken	chicken	through the consumption of	
-T-585	salmon	salmon	tuna	tuna	and	
-T-585	biomarkers	biomarkers	fish	fish	for	
-T-585	biomarkers	biomarkers	pcbs	pcbs	for fish consumption now include dioxins,	
-T-585	dioxins	dioxins	risk	risk	found in fish may be linked to increased	
-T-585	dioxin	dioxin	salmon	salmon	exposure comes from eating fish such as	
-T-585	fish	fish	pcbs	pcbs	consumption now include dioxins,	
-T-585	phytonutrients	phytonutrients	plant foods	plant foods	found in	
-T-585	sperm count	sperm count	diabetes	diabetes	and semen quality,	
-T-585	chicken	chicken	cancer	cancer	may explain the link between chicken consumption and	
-T-585	plant-based	plant-based	dioxins	dioxins	diets appear to have the lowest levels of	
-T-585	health	health	dioxins	dioxins	effects of	
-T-585	dioxins	dioxins	meat	meat	through the consumption of chicken,	
-T-585	semen	semen	diabetes	diabetes	quality,	
-T-585	dioxins	dioxins	pollutants	pollutants	and other industrial	
-T-585	sperm count	sperm count	semen	semen	and	
-T-585	dioxins	dioxins	pollutants	pollutants	are persistent environmental	
-T-585	dioxins	dioxins	industrial pollutants	industrial pollutants	and other	
-T-585	biomarkers	biomarkers	mercury	mercury	for fish consumption now include dioxins, pcbs, and	
-T-585	dioxins	dioxins	fish	fish	found in	
-T-585	dioxins	dioxins	eggs	eggs	through the consumption of chicken, meat, dairy, and	
-T-585	fish	fish	tuna	tuna	such as salmon and	
-T-585	health	health	fish	fish	effects of dioxins and other pollutants in	
-T-585	pollutants	pollutants	fish	fish	in	
-T-585	fish	fish	atrial fibrillation	atrial fibrillation	may be linked to increased risk of	
-T-585	semen	semen	cancer	cancer	quality, diabetes,	
-T-585	dioxin	dioxin	fish	fish	exposure comes from eating	
-T-585	health	health	pollutants	pollutants	effects of dioxins and other	
-T-585	sperm count	sperm count	cancer	cancer	and semen quality, diabetes,	
-T-585	fish	fish	risk	risk	may be linked to increased	
-T-585	dioxins	dioxins	dioxin	dioxin	through the ah receptor system.most human	
-T-585	dioxins	dioxins	pollutants	pollutants	and other	
-T-585	fish	fish	salmon	salmon	such as	
-T-585	risk	risk	semen	semen	of atrial fibrillation, lower sperm count and	
-T-585	ah receptor	ah receptor	dioxin	dioxin	system.most human	
 T-585	fish	fish	dioxins	dioxins	have more	
-T-585	risk	risk	sperm count	sperm count	of atrial fibrillation, lower	
-T-585	fish	fish	dioxins	dioxins	consumption now include	
-T-585	dioxins	dioxins	ah receptor	ah receptor	through the	
-T-585	dioxins	dioxins	fish	fish	and other pollutants in	
+T-585	sperm count	sperm count	semen	semen	and	
+T-585	plant foods	plant foods	dioxins	dioxins	may protect against the toxic effects of	
+T-585	dioxins	dioxins	fish	fish	found in	
+T-585	pollutants	pollutants	fish	fish	in	
+T-585	dioxins	dioxins	chicken	chicken	found in	
+T-585	phytonutrients	phytonutrients	plant foods	plant foods	found in	
+T-585	risk	risk	atrial fibrillation	atrial fibrillation	of	
+T-585	fish	fish	risk	risk	may be linked to increased	
+T-585	salmon	salmon	tuna	tuna	and	

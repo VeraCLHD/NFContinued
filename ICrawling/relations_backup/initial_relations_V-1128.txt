@@ -1,26 +1,3 @@
 
 V-1128	aluminum	aluminum	vaccines	vaccines	in	
-V-1128	aluminum	aluminum	vaccines	vaccines	is also added to childhood	
-V-1128	arsenic	arsenic	chicken	chicken	to	
-V-1128	poultry	poultry	arsenic	arsenic	industry adds	
-V-1128	arsenic	arsenic	dairy	dairy	to chicken, the	
-V-1128	arsenic	arsenic	aluminum	aluminum	to chicken, the dairy industry adds	
-V-1128	smoking	smoking	cigarettes	cigarettes	a pack of	
-V-1128	poultry	poultry	chicken	chicken	industry adds arsenic to	
-V-1128	produce	produce	fat	fat	a “smooth, uniform film around each	
-V-1128	cheese	cheese	kids	kids	sandwich you give your	
-V-1128	cooking	cooking	aluminum	aluminum	acidic foods like tomato sauce in an	
-V-1128	arsenic	arsenic	cheese	cheese	to chicken, the dairy industry adds aluminum to	
 V-1128	aluminum	aluminum	cooking	cooking	?this is how much we get	
-V-1128	aluminum	aluminum	produce	produce	salts	
-V-1128	cooking	cooking	tomato sauce	tomato sauce	acidic foods like	
-V-1128	dairy	dairy	aluminum	aluminum	industry adds	
-V-1128	aluminum	aluminum	fat	fat	salts produce a “smooth, uniform film around each	
-V-1128	dairy	dairy	cheese	cheese	industry adds aluminum to	
-V-1128	aluminum	aluminum	cheese	cheese	in vaccines, every grilled	
-V-1128	kids	kids	vaccines	vaccines	is like injecting them with a dozen aluminum-containing	
-V-1128	aluminum	aluminum	cheese	cheese	to	
-V-1128	tomato sauce	tomato sauce	aluminum	aluminum	in an	
-V-1128	poultry	poultry	dairy	dairy	industry adds arsenic to chicken, the	
-V-1128	aluminum	aluminum	vaccines	vaccines	-containing	
-V-1128	kids	kids	aluminum	aluminum	is like injecting them with a dozen	

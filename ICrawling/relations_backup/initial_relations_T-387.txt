@@ -1,45 +1,6 @@
 
-T-387	breast cancer	breast cancer	carrots	carrots	risk in african-american women.	
-T-387	risk	risk	carrots	carrots	in african-american women.	
-T-387	breast cancer	breast cancer	african-american	african-american	risk in	
-T-387	antioxidant	antioxidant	carrots	carrots	intake by choosing to eat regular	
-T-387	eye	eye	health	health		
-T-387	vegetables	vegetables	antioxidant	antioxidant	cooked;	
-T-387	breast cancer	breast cancer	lutein	lutein	risk in african-american women.carrots are also rich in 	
-T-387	antioxidant	antioxidant	carrots	carrots	availability from	
-T-387	lutein	lutein	eye health	eye health	and zeaxanthin, which are important for	
-T-387	lutein	lutein	zeaxanthin	zeaxanthin	and	
-T-387	health	health	fruit	fruit	protective compounds.one should note, however, that	
-T-387	cancer	cancer	risk	risk		
-T-387	risk	risk	cancer	cancer	of some types of	
-T-387	breast cancer	breast cancer	risk	risk		
-T-387	carrots	carrots	juice	juice	and carrot	
-T-387	african-american	african-american	zeaxanthin	zeaxanthin	women.carrots are also rich in lutein and	
-T-387	african-american	african-american	lutein	lutein	women.carrots are also rich in 	
-T-387	juice	juice	carrots	carrots	consumption—including	
-T-387	risk	risk	zeaxanthin	zeaxanthin	in african-american women.carrots are also rich in lutein and	
-T-387	carrots	carrots	whole foods	whole foods	are rich in beta carotene, which, when eaten in	
 T-387	risk	risk	african-american	african-american	in	
-T-387	glaucoma	glaucoma	risk	risk		
-T-387	cancer	cancer	carrots	carrots	risk in african-american women.	
-T-387	vegetables	vegetables	variety	variety	a day are now recommended, and 	
-T-387	fruits	fruits	variety	variety	and vegetables a day are now recommended, and 	
-T-387	vegetables	vegetables	bile	bile	in ability to bind carcinogenic	
-T-387	cancer	cancer	african-american	african-american	risk in	
-T-387	african-american	african-american	carrots	carrots	women.	
-T-387	variety	variety	vegetables	vegetables	 is important, as different	
-T-387	cancer	cancer	lutein	lutein	risk in african-american women.carrots are also rich in 	
-T-387	risk	risk	lutein	lutein	in african-american women.carrots are also rich in 	
-T-387	lutein	lutein	eye	eye	and zeaxanthin, which are important for	
-T-387	baby	baby	carrots	carrots		
-T-387	baby	baby	health	health	carrots, as they are richer in these	
-T-387	lutein	lutein	health	health	and zeaxanthin, which are important for eye	
 T-387	carrots	carrots	antioxidants	antioxidants	are not particularly rich in 	
-T-387	antioxidant	antioxidant	cooking	cooking	availability from carrots increases when cooked, regardless of	
 T-387	fruits	fruits	vegetables	vegetables	and	
-T-387	vegetables	vegetables	bile acids	bile acids	in ability to bind carcinogenic	
-T-387	carrots	carrots	zeaxanthin	zeaxanthin	are also rich in lutein and	
-T-387	carrots	carrots	lutein	lutein	are also rich in 	
+T-387	lutein	lutein	zeaxanthin	zeaxanthin	and	
 T-387	carrots	carrots	beta carotene	beta carotene	are rich in 	
-T-387	vegetables	vegetables	carrots	carrots	cooked; antioxidant availability from	
-T-387	antioxidant	antioxidant	cooking method	cooking method	availability from carrots increases when cooked, regardless of	

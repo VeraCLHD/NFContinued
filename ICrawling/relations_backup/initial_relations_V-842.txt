@@ -1,3 +1,2 @@
 
-V-842	poultry	poultry	syndrome	syndrome	: guillain-barré	
 V-842	immune system	immune system	bacteria	bacteria	detects the	

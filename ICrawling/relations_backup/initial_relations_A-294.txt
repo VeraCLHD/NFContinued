@@ -1,35 +1,10 @@
 
-A-294	plants	plants	blood	blood	—a class of phytonutrients that cross the	
-A-294	plants	plants	phytonutrients	phytonutrients	—a class of	
-A-294	ecstasy	ecstasy	serotonin	serotonin	works like speed, but just causes comparatively more	
-A-294	phytonutrients	phytonutrients	nutmeg	nutmeg	in spices, such as clove, oregano, cinnamon, and	
-A-294	chemicals	chemicals	serotonin	serotonin	into that gap, including three monoamines:	
-A-294	dopamine	dopamine	enzymes	enzymes	re-uptake, and so even though our	
-A-294	vegetables	vegetables	mood	mood	may improve our	
-A-294	plant-based	plant-based	mental health	mental health	diets tend to have superior	
-A-294	health	health	inflammation	inflammation	via a cascade of brain	
-A-294	phytonutrient	phytonutrient	kale	kale	found in apples, berries, grapes,	
-A-294	phytonutrient	phytonutrient	onions	onions	found in apples, berries, grapes, kale,	
-A-294	serotonin	serotonin	prozac	prozac	reuptake inhibitors) like	
-A-294	phytonutrient	phytonutrient	grapes	grapes	found in apples, berries,	
-A-294	plant-based diets	plant-based diets	mental health	mental health	tend to have superior	
-A-294	drugs	drugs	side effects	side effects	of last resort because of serious	
-A-294	phytonutrients	phytonutrients	cinnamon	cinnamon	in spices, such as clove, oregano,	
-A-294	phytonutrient	phytonutrient	apples	apples	found in	
-A-294	chicken	chicken	health	health	and eggs, which might adversely impact mental	
-A-294	phytonutrients	phytonutrients	blood	blood	that cross the	
-A-294	chemicals	chemicals	dopamine	dopamine	into that gap, including three monoamines: serotonin,	
-A-294	plant-based diets	plant-based diets	health	health	tend to have superior mental	
-A-294	chicken	chicken	mental health	mental health	and eggs, which might adversely impact	
-A-294	animal products	animal products	mood	mood	improved	
-A-294	fruits	fruits	mood	mood	and vegetables may improve our	
-A-294	plant-based	plant-based	health	health	diets tend to have superior mental	
-A-294	plant-based diets	plant-based diets	plants	plants	could also be from the good stuff in	
-A-294	phytonutrients	phytonutrients	oregano	oregano	in spices, such as clove,	
-A-294	phytonutrient	phytonutrient	berries	berries	found in apples,	
 A-294	phytonutrients	phytonutrients	spices	spices	in	
+A-294	phytonutrient	phytonutrient	apples	apples	found in	
 A-294	vegetables	vegetables	depression	depression	appear to cut one’s odds of	
 A-294	chicken	chicken	eggs	eggs	and	
+A-294	plant-based diets	plant-based diets	mental health	mental health	tend to have superior	
 A-294	fruits	fruits	vegetables	vegetables	and	
-A-294	mental health	mental health	inflammation	inflammation	via a cascade of brain	
-A-294	phytonutrient	phytonutrient	green tea	green tea	found in apples, berries, grapes, kale, onions, and	
+A-294	plant-based diets	plant-based diets	health	health	tend to have superior mental	
+A-294	vegetables	vegetables	mood	mood	may improve our	
+A-294	animal products	animal products	mood	mood	improved	

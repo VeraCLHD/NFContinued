@@ -1,27 +1,8 @@
 
-V-346	fruits	fruits	doctors	doctors	and vegetables,	
-V-346	smoking	smoking	doctors	doctors		
-V-346	prevention	prevention	disease	disease	is when you already have the	
-V-346	disease	disease	heart attack	heart attack	and are trying to prevent your second	
-V-346	fruits	fruits	blood	blood	and veggies, below average cholesterol, normal	
-V-346	health	health	prevention	prevention	organization back in 1978, termed primordial	
-V-346	american heart association	american heart association	prevention	prevention	’s 2020 strategic impact goals.primordial	
-V-346	heart disease	heart disease	heart attack	heart attack	from getting their first	
-V-346	cholesterol	cholesterol	heart attack	heart attack	from getting a	
-V-346	fruits	fruits	beans	beans	and veggies, eating	
-V-346	fruits	fruits	blood pressure	blood pressure	and veggies, below average cholesterol, normal	
-V-346	world health organization	world health organization	prevention	prevention	back in 1978, termed primordial	
-V-346	american heart association	american heart association	health	health	came up with the "simple 7", seven simple	
-V-346	fruits	fruits	cholesterol	cholesterol	and veggies, below average	
-V-346	blood pressure	blood pressure	blood	blood	and normal	
-V-346	disease	disease	heart attack	heart attack	from getting their first	
+V-346	prevention	prevention	risk	risk	was conceived as a strategy to prevent whole societies from experiencing epidemics of the	
 V-346	cans	cans	soda	soda	of	
-V-346	fruits	fruits	grains	grains	and veggies, eating beans, whole	
+V-346	doctors	doctors	smoking	smoking	are less likely to tell their patients to stop	
+V-346	prevention	prevention	disease	disease	is when you already have the	
 V-346	drugs	drugs	surgery	surgery	and	
-V-346	risk	risk	heart attack	heart attack	for heart disease from getting their first	
-V-346	prevention	prevention	risk	risk	would be like trying to prevent someone at	
-V-346	risk	risk	disease	disease	for heart	
 V-346	fruits	fruits	vegetables	vegetables	and	
-V-346	risk	risk	heart disease	heart disease	for	
-V-346	blood pressure	blood pressure	heart disease	heart disease	and normal blood sugars.their goal was to reduce	
-V-346	fruits	fruits	whole grains	whole grains	and veggies, eating beans,	
+V-346	prevention	prevention	risk	risk	would be like trying to prevent someone at	

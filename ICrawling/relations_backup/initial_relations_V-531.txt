@@ -1,14 +1,7 @@
 
 V-531	americans	americans	beans	beans	don’t know	
-V-531	vitamin b1	vitamin b1	minerals	minerals	], and [	
-V-531	vitamin b1	vitamin b1	magnesium	magnesium	], and [minerals, such as]	
-V-531	fiber	fiber	plant protein	plant protein	and folate, and, they are good sources of	
-V-531	health	health	cheap	cheap	benefits, beans are	
-V-531	beans	beans	cheap	cheap	are	
-V-531	canned beans	canned beans	beans	beans	cost about three times more than buying dried	
-V-531	americans	americans	greens	greens	that doesn’t eat their	
-V-531	vitamin b1	vitamin b1	potassium	potassium	], and [minerals, such as] magnesium, phosphorus,	
+V-531	americans	americans	beans	beans	don’t even make the measly minimum recommended intake of	
 V-531	greens	greens	beans	beans	and	
+V-531	beans	beans	cheap	cheap	are	
 V-531	fiber	fiber	folate	folate	and	
-V-531	vitamin b1	vitamin b1	phosphorus	phosphorus	], and [minerals, such as] magnesium,	
-V-531	health	health	beans	beans	benefits,	
+V-531	canned beans	canned beans	beans	beans	cost about three times more than buying dried	

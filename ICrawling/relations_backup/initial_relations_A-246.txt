@@ -1,19 +1,2 @@
 
-A-246	diet	diet	meat	meat	by eating	
-A-246	paleolithic diets	paleolithic diets	health	health	are currently the rage, attracting athletes, dieters, and	
-A-246	seeds	seeds	processed foods	processed foods	and avoiding	
-A-246	diet	diet	nuts	nuts	by eating meat, poultry, fish, eggs, vegetables, fruits,	
-A-246	diet	diet	fruits	fruits	by eating meat, poultry, fish, eggs, vegetables,	
-A-246	diet	diet	fish	fish	by eating meat, poultry,	
-A-246	diet	diet	vegetables	vegetables	by eating meat, poultry, fish, eggs,	
-A-246	paleo diet	paleo diet	diet	diet	and green for the vegan	
-A-246	seeds	seeds	legumes	legumes	and avoiding processed foods, grains,	
-A-246	diet	diet	eggs	eggs	by eating meat, poultry, fish,	
-A-246	seeds	seeds	grains	grains	and avoiding processed foods,	
-A-246	vegan	vegan	diet	diet		
-A-246	paleolithic diets	paleolithic diets	athletes	athletes	are currently the rage, attracting	
-A-246	diet	diet	poultry	poultry	by eating meat,	
-A-246	seeds	seeds	dairy	dairy	and avoiding processed foods, grains, legumes, and	
-A-246	paleo diet	paleo diet	vegan	vegan	and green for the	
-A-246	plant-based	plant-based	diet	diet	menus, and a true paleolithic	
-A-246	milk	milk	mammals	mammals	of other	
+A-246	vegan diets	vegan diets	paleolithic diets	paleolithic diets	may actually come closer to matching the macro- and micronutrient intakes of	

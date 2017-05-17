@@ -1,106 +1,25 @@
 
 A-268	mesothelioma	mesothelioma	lung cancer	lung cancer	and	
-A-268	poultry	poultry	chicken	chicken	workers associated with these wart-causing	
-A-268	asbestos	asbestos	children	children	in school buildings as school	
-A-268	mortality	mortality	chicken	chicken	in poultry workers associated with these wart-causing	
-A-268	chicken	chicken	viruses	viruses	cancer	
-A-268	penis cancer	penis cancer	poultry	poultry	to the risks linked to	
-A-268	cancer	cancer	cancer	cancer	and liver	
-A-268	tea	tea	green tea	green tea	(treating genital warts with	
-A-268	genital warts	genital warts	tea	tea	with green	
-A-268	cancer	cancer	poultry	poultry	to the risks linked to	
-A-268	cancer	cancer	chicken	chicken	one might get from handling	
-A-268	risk	risk	penis cancer	penis cancer	of dying from certain cancers,” that also added	
-A-268	viruses	viruses	poultry	poultry	in	
-A-268	poultry	poultry	cancer	cancer	exposure (see poultry and penis	
-A-268	warts	warts	green tea	green tea	with	
-A-268	poultry	poultry	viruses	viruses		
-A-268	risk	risk	cancer	cancer	factor for pancreatic	
-A-268	united states	united states	children	children	exposed to asbestos in school buildings as school	
+A-268	cancer	cancer	liver cancer	liver cancer	and	
+A-268	liver	liver	pancreatic cancer	pancreatic cancer	and	
+A-268	americans	americans	asbestos	asbestos	continue to die from	
+A-268	pancreatic cancer	pancreatic cancer	liver	liver	and	
+A-268	cancer	cancer	liver	liver	and	
 A-268	lung cancer	lung cancer	united states	united states	will occur among persons in the	
 A-268	pancreatic cancer	pancreatic cancer	liver cancer	liver cancer	and	
 A-268	united states	united states	asbestos	asbestos	exposed to	
-A-268	tea	tea	warts	warts	(treating genital	
-A-268	cancer	cancer	asbestos	asbestos	was so easy to nail down is that	
-A-268	chicken	chicken	cancer viruses	cancer viruses		
-A-268	plant-based diets	plant-based diets	vegetarians	vegetarians	in general (why might	
-A-268	liver	liver	cancer	cancer	and pancreatic	
-A-268	viruses	viruses	poultry workers	poultry workers	that widely occurs occupationally in	
-A-268	mesothelioma	mesothelioma	cancer	cancer	and lung	
-A-268	risk	risk	liver	liver	of death from	
-A-268	chickens	chickens	pancreatic cancer	pancreatic cancer	have about nine times the odds of both	
-A-268	liver cancer	liver cancer	alcohol	alcohol	the most well-known and studied cause is	
-A-268	viruses	viruses	poultry	poultry	that widely occurs occupationally in	
-A-268	americans	americans	asbestos	asbestos	continue to die from	
-A-268	pancreatic cancer	pancreatic cancer	liver	liver	and	
-A-268	death	death	liver	liver	from	
-A-268	warts	warts	plant-based diets	plant-based diets	with green tea), as well as by	
-A-268	mold	mold	salami	salami	that naturally grows on	
-A-268	poultry	poultry	death	death	may explain the increasing risk of	
-A-268	cancer	cancer	poultry	poultry	-causing viruses that widely occurs occupationally in	
-A-268	tea	tea	genital warts	genital warts	(treating	
-A-268	poultry	poultry	liver	liver	tied to	
-A-268	genital warts	genital warts	green tea	green tea	with	
-A-268	poultry	poultry	cancer	cancer	tied to liver and pancreatic	
-A-268	meat industry	meat industry	viruses	viruses	wants to add	
-A-268	poultry	poultry	pancreatic cancer	pancreatic cancer	tied to liver and	
-A-268	chicken	chicken	cancer	cancer		
-A-268	viruses	viruses	death	death	in poultry may explain the increasing risk of	
-A-268	cancer	cancer	liver cancer	liver cancer	and	
-A-268	cancer	cancer	liver	liver	and	
-A-268	chicken	chicken	cancer	cancer	(see wart	
-A-268	poultry workers	poultry workers	cancer	cancer	associated with these wart-causing chicken	
 A-268	mortality	mortality	poultry workers	poultry workers	in	
-A-268	green tea	green tea	warts	warts	(treating genital	
-A-268	asbestos	asbestos	cancer	cancer	and	
-A-268	meat industry	meat industry	meat	meat	wants to add viruses to	
-A-268	pancreatic cancer	pancreatic cancer	chicken	chicken	one might get from handling	
-A-268	green tea	green tea	tea	tea	(treating genital warts with green	
-A-268	salami	salami	disease	disease	brusher’s	
-A-268	plants	plants	risk	risk	have increased	
-A-268	cancer	cancer	alcohol	alcohol	the most well-known and studied cause is	
-A-268	poultry	poultry	liver	liver	slaughtering appears to increase one’s odds of getting	
-A-268	poultry	poultry	plants	plants	slaughtering and processing	
-A-268	asbestos	asbestos	cancer	cancer	caused a particularly unusual	
-A-268	genital warts	genital warts	plant-based	plant-based	with green tea), as well as by	
-A-268	poultry	poultry	risk	risk	slaughtering and processing plants have increased	
-A-268	mortality	mortality	poultry	poultry	in	
-A-268	chicken	chicken	viruses	viruses	(see wart cancer	
-A-268	cancer	cancer	united states	united states	will occur among persons in the	
-A-268	warts	warts	tea	tea	with green	
-A-268	meat industry	meat industry	salami	salami	like the newly described “	
-A-268	poultry	poultry	mortality	mortality	exposure appear to suffer the greatest excess	
-A-268	poultry	poultry	cancer viruses	cancer viruses	workers associated with these wart-causing chicken	
-A-268	liver	liver	cancer	cancer		
-A-268	smoking	smoking	cigarettes	cigarettes		
-A-268	meat	meat	salami	salami	industry like the newly described “	
-A-268	pancreatic cancer	pancreatic cancer	cancer	cancer	and liver	
-A-268	poultry workers	poultry workers	cancer viruses	cancer viruses	associated with these wart-causing chicken	
-A-268	poultry	poultry	liver cancer	liver cancer	slaughtering appears to increase one’s odds of getting	
-A-268	poultry	poultry	liver	liver	may explain the increasing risk of death from	
-A-268	risk	risk	death	death	of	
-A-268	meat industry	meat industry	disease	disease	like the newly described “salami brusher’s	
-A-268	genital warts	genital warts	plant-based diets	plant-based diets	with green tea), as well as by	
-A-268	poultry	poultry	cancer	cancer	workers associated with these wart-causing chicken	
-A-268	disease	disease	pediatrics	pediatrics	control, the american academy of	
-A-268	poultry	poultry	cancer	cancer		
-A-268	mortality	mortality	cancer	cancer	in poultry workers associated with these wart-causing chicken	
-A-268	viruses	viruses	risk	risk	in poultry may explain the increasing	
-A-268	cancer	cancer	viruses	viruses		
 A-268	poultry	poultry	risk	risk	may explain the increasing	
-A-268	green tea	green tea	genital warts	genital warts	(treating	
-A-268	viruses	viruses	meat	meat	to	
-A-268	plant-based	plant-based	vegetarians	vegetarians	diets in general (why might	
-A-268	meat	meat	disease	disease	industry like the newly described “salami brusher’s	
-A-268	liver	liver	pancreatic cancer	pancreatic cancer	and	
-A-268	chicken	chicken	cancer viruses	cancer viruses	(see wart	
-A-268	risk	risk	pancreatic cancer	pancreatic cancer	factor for	
-A-268	meat	meat	viruses	viruses	industry wants to add	
-A-268	poultry workers	poultry workers	viruses	viruses	associated with these wart-causing chicken cancer	
-A-268	poultry	poultry	viruses	viruses	workers associated with these wart-causing chicken cancer	
-A-268	warts	warts	plant-based	plant-based	with green tea), as well as by	
-A-268	poultry	poultry	penis cancer	penis cancer	exposure (see poultry and	
-A-268	mortality	mortality	cancer viruses	cancer viruses	in poultry workers associated with these wart-causing chicken	
+A-268	chickens	chickens	cancer	cancer	have about nine times the odds of both pancreatic	
+A-268	asbestos	asbestos	cancer	cancer	and	
+A-268	cancer	cancer	asbestos	asbestos	was so easy to nail down is that	
+A-268	plants	plants	risk	risk	have increased	
+A-268	poultry	poultry	liver	liver	tied to	
+A-268	asbestos	asbestos	cancer	cancer	caused a particularly unusual	
+A-268	meat industry	meat industry	viruses	viruses	wants to add	
+A-268	viruses	viruses	poultry	poultry	in	
+A-268	mortality	mortality	poultry	poultry	in	
+A-268	risk	risk	death	death	of	
+A-268	chickens	chickens	pancreatic cancer	pancreatic cancer	have about nine times the odds of both	
 A-268	poultry workers	poultry workers	chicken	chicken	associated with these wart-causing	
-A-268	disease	disease	american academy of pediatrics	american academy of pediatrics	control, the	
-A-268	liver	liver	alcohol	alcohol	cancer the most well-known and studied cause is	
+A-268	cancer	cancer	united states	united states	will occur among persons in the	

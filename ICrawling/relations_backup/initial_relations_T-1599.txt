@@ -1,33 +1,10 @@
 
-T-1599	endotoxemia	endotoxemia	toxins	toxins	caused by the bacterial	
-T-1599	potassium	potassium	fruit	fruit	ease the arthritic pain caused by inflammation, while	
-T-1599	gut	gut	fats	fats	theory,” where the saturated	
-T-1599	toxins	toxins	meat	meat	into the bloodstream.other components in	
-T-1599	fruit	fruit	vegetables	vegetables	and	
-T-1599	pain	pain	vegetables	vegetables	caused by inflammation, while fruit and	
-T-1599	pain	pain	arthritis	arthritis	than the leading pharmaceutical treatment for rheumatoid	
-T-1599	fats	fats	animal products	animal products	in	
-T-1599	pain	pain	fruit	fruit	caused by inflammation, while	
-T-1599	fat	fat	meat	meat	in	
-T-1599	pain	pain	berries	berries	caused by inflammation, while fruit and vegetables (particularly	
-T-1599	fruit	fruit	berries	berries	and vegetables (particularly	
-T-1599	meat	meat	toxins	toxins	may instead facilitate the absorption of these	
+T-1599	inflammation	inflammation	animal protein	animal protein	could be the result of an autoimmune attack response to foreign	
 T-1599	pain	pain	inflammation	inflammation	caused by	
-T-1599	endotoxemia	endotoxemia	animal products	animal products	caused by the bacterial toxins in	
+T-1599	joint inflammation	joint inflammation	animal protein	animal protein	could be the result of an autoimmune attack response to foreign	
 T-1599	saturated fat	saturated fat	meat	meat	in	
-T-1599	pain	pain	rheumatoid arthritis	rheumatoid arthritis	than the leading pharmaceutical treatment for	
-T-1599	toxins	toxins	inflammation	inflammation	into the bloodstream.other components in meat also aggravate	
+T-1599	fruit	fruit	vegetables	vegetables	and	
+T-1599	fats	fats	animal products	animal products	in	
+T-1599	fat	fat	meat	meat	in	
 T-1599	toxins	toxins	animal products	animal products	in	
-T-1599	treatment	treatment	rheumatoid arthritis	rheumatoid arthritis	for	
-T-1599	potassium	potassium	inflammation	inflammation	ease the arthritic pain caused by	
-T-1599	gut	gut	animal products	animal products	theory,” where the saturated fats in	
-T-1599	vegetables	vegetables	berries	berries	(particularly	
-T-1599	produce	produce	inflammatory response	inflammatory response	an	
-T-1599	bacteria	bacteria	inflammatory response	inflammatory response	to leak into our bloodstream, thus triggering an	
-T-1599	arachidonic acid	arachidonic acid	animal products	animal products	is an inflammatory 6 fatty acid found in	
 T-1599	potassium	potassium	pain	pain	ease the arthritic	
-T-1599	meat	meat	produce	produce	consumption, may also cause the body to	
-T-1599	tumors	tumors	meat	meat	most likely through	
-T-1599	treatment	treatment	arthritis	arthritis	for rheumatoid	
-T-1599	gut bacteria	gut bacteria	inflammatory response	inflammatory response	to leak into our bloodstream, thus triggering an	
-T-1599	pain	pain	treatment	treatment	than the leading pharmaceutical	

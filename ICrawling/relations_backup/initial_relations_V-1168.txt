@@ -1,80 +1,13 @@
 
-V-1168	cancer	cancer	tumor	tumor	growth in seven out of the eight 	
-V-1168	prevention	prevention	kale	kale	are the cruciferous vegetables, like broccoli,	
-V-1168	cancer	cancer	cancer	cancer	and stomach	
+V-1168	cancer	cancer	stomach	stomach	and	
+V-1168	cancer prevention	cancer prevention	cruciferous vegetables	cruciferous vegetables	are the	
 V-1168	prostate cancer	prostate cancer	stomach cancer	stomach cancer	and	
-V-1168	cancer prevention	cancer prevention	cabbage	cabbage	are the cruciferous vegetables, like broccoli, kale,	
-V-1168	vegetables	vegetables	cancer	cancer	—whether for breast	
-V-1168	superfood	superfood	kidney cancer	kidney cancer	classes of vegetables—whether for breast cancer, brain cancer,	
-V-1168	vegetables	vegetables	cancer	cancer	for	
-V-1168	vegetables	vegetables	brain cancer	brain cancer	—whether for breast cancer,	
-V-1168	cancer growth	cancer growth	spinach	spinach	than	
-V-1168	garlic	garlic	cancer	cancer	slams	
-V-1168	vegetables	vegetables	broccoli	broccoli	for cancer prevention are the cruciferous vegetables, like	
-V-1168	prevention	prevention	broccoli	broccoli	are the cruciferous vegetables, like	
-V-1168	prostate	prostate	cancer	cancer		
 V-1168	prostate cancer	prostate cancer	stomach	stomach	and	
+V-1168	cancer	cancer	stomach cancer	stomach cancer	and	
+V-1168	prevention	prevention	vegetables	vegetables	are the cruciferous	
 V-1168	spinach	spinach	breast cancer	breast cancer	is #1 against	
 V-1168	carrots	carrots	cancer	cancer	slow down	
-V-1168	cancer growth	cancer growth	tumor	tumor	in seven out of the eight 	
-V-1168	vegetables	vegetables	diet	diet	in the	
-V-1168	kidney	kidney	garlic	garlic	cancer:	
-V-1168	cancer prevention	cancer prevention	vegetables	vegetables	are the cruciferous	
-V-1168	vegetables	vegetables	cancer prevention	cancer prevention	for	
-V-1168	cancer	cancer	cabbage	cabbage	prevention are the cruciferous vegetables, like broccoli, kale,	
-V-1168	garlic	garlic	cancer cells	cancer cells	slams	
-V-1168	superfood	superfood	brain cancer	brain cancer	classes of vegetables—whether for breast cancer,	
-V-1168	kidney	kidney	brain cancer	brain cancer	cancer, lung cancer, or	
-V-1168	kidney	kidney	brain tumors	brain tumors	cancer, #1 against lung cancer, and pediatric	
-V-1168	prostate	prostate	stomach	stomach	cancer, and	
-V-1168	cancer	cancer	vegetables	vegetables	prevention are the cruciferous	
-V-1168	vegetables	vegetables	kidney	kidney	—whether for breast cancer, brain cancer,	
-V-1168	stomach	stomach	cancer	cancer		
-V-1168	prevention	prevention	cruciferous vegetables	cruciferous vegetables	are the	
-V-1168	cancer prevention	cancer prevention	broccoli	broccoli	are the cruciferous vegetables, like	
-V-1168	kidney	kidney	lung cancer	lung cancer	cancer,	
-V-1168	recipes	recipes	garlic	garlic	that start with	
-V-1168	stomach cancer	stomach cancer	vegetables	vegetables	.now it’s not #1 overall; there are 16	
-V-1168	vegetables	vegetables	prevention	prevention	for cancer	
-V-1168	kidney	kidney	cancer	cancer		
-V-1168	prostate cancer	prostate cancer	cancer	cancer	and stomach	
-V-1168	cancer prevention	cancer prevention	cruciferous vegetables	cruciferous vegetables	are the	
-V-1168	vegetables	vegetables	breast cancer	breast cancer	—whether for	
-V-1168	cancer	cancer	cruciferous vegetables	cruciferous vegetables	prevention are the	
-V-1168	cancer	cancer	stomach cancer	stomach cancer	and	
-V-1168	garlic	garlic	greens	greens	and onions, and then throw you in some	
-V-1168	cruciferous vegetables	cruciferous vegetables	vegetables	vegetables	in green; allium family	
-V-1168	kidney	kidney	tumors	tumors	cancer, #1 against lung cancer, and pediatric brain	
-V-1168	vegetables	vegetables	cancer growth	cancer growth	more powerful at stopping stomach	
-V-1168	cancer	cancer	stomach	stomach	and	
-V-1168	spinach	spinach	cancer	cancer	wins out across the board, against every	
-V-1168	stomach	stomach	vegetables	vegetables	cancer.now it’s not #1 overall; there are 16	
-V-1168	cancer	cancer	broccoli	broccoli	prevention are the cruciferous vegetables, like	
-V-1168	superfood	superfood	cancer	cancer	classes of vegetables—whether for breast	
-V-1168	vegetables	vegetables	cancer	cancer	more powerful at stopping stomach	
-V-1168	prostate	prostate	stomach cancer	stomach cancer	cancer, and	
-V-1168	prostate	prostate	stomach	stomach	cancer and	
-V-1168	superfood	superfood	breast cancer	breast cancer	classes of vegetables—whether for	
-V-1168	garlic	garlic	onions	onions	and	
-V-1168	kids	kids	spinach	spinach		
-V-1168	vegetables	vegetables	spinach	spinach	more powerful at stopping stomach cancer growth than	
-V-1168	vegetables	vegetables	stomach	stomach	more powerful at stopping	
-V-1168	cancer	cancer	kale	kale	prevention are the cruciferous vegetables, like broccoli,	
-V-1168	superfood	superfood	vegetables	vegetables	classes of	
-V-1168	tumor	tumor	lettuce	lettuce	over any other.first, let’s choose our	
-V-1168	cancer prevention	cancer prevention	kale	kale	are the cruciferous vegetables, like broccoli,	
-V-1168	kidney	kidney	lung cancer	lung cancer	cancer, #1 against	
-V-1168	prevention	prevention	vegetables	vegetables	are the cruciferous	
-V-1168	prostate	prostate	stomach cancer	stomach cancer	cancer, and finally,	
-V-1168	prevention	prevention	cabbage	cabbage	are the cruciferous vegetables, like broccoli, kale,	
-V-1168	prostate	prostate	stomach cancer	stomach cancer	cancer and	
-V-1168	superfood	superfood	kidney	kidney	classes of vegetables—whether for breast cancer, brain cancer,	
-V-1168	vegetables	vegetables	cruciferous vegetables	cruciferous vegetables	for cancer prevention are the	
-V-1168	vegetables	vegetables	stomach cancer	stomach cancer	more powerful at stopping	
-V-1168	spinach	spinach	cancer	cancer	is #1 against breast	
-V-1168	recipes	recipes	onions	onions	that start with garlic and	
-V-1168	vegetables	vegetables	kidney cancer	kidney cancer	—whether for breast cancer, brain cancer,	
-V-1168	prostate	prostate	stomach	stomach	cancer, and finally,	
 V-1168	carrots	carrots	cancer cell growth	cancer cell growth	slow down	
-V-1168	cancer	cancer	prevention	prevention		
-V-1168	vegetables	vegetables	lung cancer	lung cancer	—whether for breast cancer, brain cancer, kidney cancer,	
+V-1168	prevention	prevention	cruciferous vegetables	cruciferous vegetables	are the	
+V-1168	cancer prevention	cancer prevention	vegetables	vegetables	are the cruciferous	
+V-1168	garlic	garlic	onions	onions	and	

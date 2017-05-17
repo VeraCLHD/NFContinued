@@ -1,9 +1,2 @@
 
-V-791	atherosclerosis	atherosclerosis	bad cholesterol	bad cholesterol	:  decrease the level of	
-V-791	atherosclerosis	atherosclerosis	cholesterol	cholesterol	:  decrease the level of bad	
-V-791	cholesterol	cholesterol	blood	blood	in our 	
-V-791	bad cholesterol	bad cholesterol	blood	blood	in our 	
-V-791	cheap	cheap	white button mushrooms	white button mushrooms		
-V-791	cheap	cheap	mushrooms	mushrooms	white button	
-V-791	health	health	mushrooms	mushrooms	implications are that diverse	
-V-791	endothelial	endothelial	environment	environment	cells in a pro-inflammatory	
+V-791	mushrooms	mushrooms	endothelial	endothelial	inhibit adhesion molecule expression and in vitro binding of monocytes to human aortic	

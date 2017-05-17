@@ -1,151 +1,35 @@
 
-A-453	breast cancer	breast cancer	stem cells	stem cells		
-A-453	cancer	cancer	cancer	cancer	is now the #1	
-A-453	breast cancer	breast cancer	seeds	seeds	survival are flax	
-A-453	mortality	mortality	breast cancer survival	breast cancer survival	risk in half (see my 3-minute video	
-A-453	flax	flax	flora	flora	and fecal	
-A-453	breast cancer survival	breast cancer survival	seeds	seeds	are flax	
-A-453	breast cancer	breast cancer	trans fat	trans fat	survival and	
-A-453	cancer survival	cancer survival	fat	fat	and trans	
-A-453	cancer survival	cancer survival	trans fat	trans fat	and	
-A-453	breast cancer	breast cancer	flax seeds	flax seeds	survival are	
-A-453	junk food	junk food	breast cancer	breast cancer	and animal products (see my 1-minute video	
-A-453	cancer	cancer	cancer	cancer	-fighting compounds that may cut breast	
-A-453	infections	infections	cancer	cancer	have higher breast	
-A-453	flax	flax	soy	soy	and	
-A-453	women	women	cancer	cancer	is that breast	
-A-453	breast cancer	breast cancer	risk	risk		
-A-453	risk	risk	breast cancer survival	breast cancer survival	in half (see my 3-minute video	
-A-453	saturated fat	saturated fat	fat	fat	and trans	
-A-453	liver	liver	carcinogens	carcinogens	’s ability to clear	
-A-453	women	women	cancer survival	cancer survival	is that breast	
-A-453	junk food	junk food	breast cancer survival	breast cancer survival	(see my 3-minute video	
-A-453	infections	infections	breast cancer	breast cancer	have higher	
-A-453	dna	dna	toxins	toxins	more resistant to	
-A-453	breast cancer	breast cancer	risk	risk	mortality	
-A-453	breast cancer	breast cancer	breast cancer survival	breast cancer survival	mortality risk in half (see my 3-minute video	
-A-453	antibiotics	antibiotics	gut	gut	wipe out the	
-A-453	phytonutrients	phytonutrients	soy	soy	found in flax and	
-A-453	breast cancer	breast cancer	diet	diet	is the same	
-A-453	flax	flax	lignans	lignans	seeds are the most concentrated source of	
-A-453	cancer	cancer	women	women	is initially so slow-growing that	
-A-453	gut	gut	lignans	lignans	turn into	
-A-453	flax	flax	fecal flora	fecal flora	and	
-A-453	urinary tract infections	urinary tract infections	breast cancer	breast cancer	have higher	
-A-453	flax seeds	flax seeds	soy	soy	and	
-A-453	diet	diet	cancer	cancer	that helps prevent breast	
-A-453	breast cancer	breast cancer	gut	gut	rates—the courses of antibiotics wipe out the	
-A-453	animal products	animal products	cancer	cancer	(see my 1-minute video breast	
-A-453	cancer	cancer	trans fat	trans fat	survival and	
-A-453	cancer stem cells	cancer stem cells	broccoli	broccoli	vs.	
-A-453	breast cancer	breast cancer	antibiotics	antibiotics	rates—the courses of	
 A-453	antibiotics	antibiotics	gut flora	gut flora	wipe out the	
-A-453	breast cancer	breast cancer	mortality	mortality		
-A-453	cancer	cancer	trans fat	trans fat	survivors may improve their survival 78% by avoiding	
-A-453	animal products	animal products	breast cancer	breast cancer	(see my 1-minute video	
-A-453	risk	risk	breast cancer	breast cancer	in half (see my 3-minute video	
-A-453	urinary tract infections	urinary tract infections	antibiotics	antibiotics	have higher breast cancer rates—the courses of	
-A-453	breast cancer	breast cancer	risk	risk	survivors may decrease their	
-A-453	cancer	cancer	soy	soy	survival are flax seeds and	
+A-453	cancer	cancer	diet	diet	is the same	
+A-453	cancer	cancer	cancer	cancer	is now the #1	
+A-453	cancer survival	cancer survival	trans fat	trans fat	and	
+A-453	cancer prevention	cancer prevention	treatment	treatment	and	
+A-453	women	women	breast cancer survival	breast cancer survival	is that	
+A-453	detox	detox	breast cancer	breast cancer	and	
+A-453	cancer survival	cancer survival	flax	flax	are	
+A-453	breast cancer survival	breast cancer survival	flax seeds	flax seeds	are	
 A-453	prevention	prevention	treatment	treatment	and	
-A-453	breast cancer	breast cancer	tumors	tumors	is initially so slow-growing that women may have	
+A-453	flax	flax	soy	soy	and	
 A-453	women	women	breast cancer	breast cancer	is that	
-A-453	bacteria	bacteria	lignans	lignans	in our gut turn into	
 A-453	diet	diet	cheese	cheese	in	
-A-453	bacteria	bacteria	gut	gut	in our	
+A-453	infections	infections	breast cancer	breast cancer	have higher	
 A-453	junk food	junk food	animal products	animal products	and	
-A-453	animal products	animal products	cancer survival	cancer survival	(see my 1-minute video breast	
-A-453	animal products	animal products	breast cancer survival	breast cancer survival	(see my 1-minute video	
+A-453	antibiotics	antibiotics	gut	gut	wipe out the	
+A-453	phytonutrients	phytonutrients	flax	flax	found in	
+A-453	saturated fat	saturated fat	cholesterol	cholesterol	and	
 A-453	breast cancer survival	breast cancer survival	flax	flax	are	
 A-453	women	women	tumors	tumors	may have	
+A-453	seeds	seeds	lignans	lignans	are the most concentrated source of	
+A-453	breast cancer survival	breast cancer survival	trans fat	trans fat	and	
+A-453	breast cancer	breast cancer	diet	diet	is the same	
 A-453	seeds	seeds	soy	soy	and	
-A-453	infections	infections	antibiotics	antibiotics	have higher breast cancer rates—the courses of	
+A-453	cancer	cancer	women	women	is initially so slow-growing that	
+A-453	flax	flax	fecal flora	fecal flora	and	
 A-453	flax seeds	flax seeds	lignans	lignans	are the most concentrated source of	
-A-453	cancer	cancer	antibiotics	antibiotics	rates—the courses of	
+A-453	urinary tract infections	urinary tract infections	breast cancer	breast cancer	have higher	
 A-453	fat	fat	trans fat	trans fat	and	
-A-453	risk	risk	cancer	cancer	in half (see my 3-minute video breast	
+A-453	flax seeds	flax seeds	soy	soy	and	
 A-453	saturated fat	saturated fat	trans fat	trans fat	and	
 A-453	cancer survival	cancer survival	flax seeds	flax seeds	are	
-A-453	cancer	cancer	chicken	chicken	survival, butterfat, and	
-A-453	cancer	cancer	flax	flax	survival are	
-A-453	mortality	mortality	breast cancer	breast cancer	risk in half (see my 3-minute video	
-A-453	cancer	cancer	gut	gut	rates—the courses of antibiotics wipe out the	
-A-453	mortality	mortality	cancer	cancer	risk in half (see my 3-minute video breast	
-A-453	antibiotics	antibiotics	flora	flora	wipe out the gut	
-A-453	breast cancer	breast cancer	flax	flax	survival are	
-A-453	detox	detox	cancer	cancer	and breast	
-A-453	women	women	cancer	cancer	with breast	
-A-453	cancer prevention	cancer prevention	treatment	treatment	and	
-A-453	death	death	fat	fat	: saturated	
-A-453	women	women	breast cancer survival	breast cancer survival	is that	
-A-453	breast cancer	breast cancer	fat	fat	survival and trans	
-A-453	diet	diet	chicken	chicken	in cheese,	
-A-453	cancer survival	cancer survival	flax	flax	are	
-A-453	flax	flax	seeds	seeds		
-A-453	cancer	cancer	tumors	tumors	is initially so slow-growing that women may have	
-A-453	cancer	cancer	gut flora	gut flora	rates—the courses of antibiotics wipe out the	
-A-453	junk food	junk food	cancer	cancer	(see my 3-minute video breast	
-A-453	liver	liver	dna	dna	’s ability to clear carcinogens, 2) make our	
-A-453	women	women	breast cancer	breast cancer	with	
-A-453	breast cancer	breast cancer	women	women	is now the #1 cancer killer of young	
-A-453	junk food	junk food	cancer survival	cancer survival	(see my 3-minute video breast	
-A-453	cancer	cancer	women	women	is now the #1 cancer killer of young	
-A-453	stem cells	stem cells	broccoli	broccoli	vs.	
-A-453	phytonutrients	phytonutrients	flax	flax	found in	
-A-453	cancer	cancer	risk	risk	-fighting compounds that may cut breast cancer mortality	
-A-453	death	death	trans fat	trans fat	: saturated fat and	
-A-453	cancer	cancer	risk	risk	survivors may decrease their	
-A-453	saturated fat	saturated fat	cholesterol	cholesterol	and	
-A-453	seeds	seeds	lignans	lignans	are the most concentrated source of	
-A-453	cancer	cancer	flora	flora	compounds (see my 2-minute flax and fecal	
-A-453	breast cancer survival	breast cancer survival	fat	fat	and trans	
-A-453	breast cancer survival	breast cancer survival	trans fat	trans fat	and	
-A-453	breast cancer	breast cancer	chicken	chicken	survival, butterfat, and	
-A-453	tumors	tumors	cancer	cancer	—all in hopes of preventing	
-A-453	women	women	infections	infections	who have frequent urinary tract	
-A-453	cancer survival	cancer survival	seeds	seeds	are flax	
-A-453	flax	flax	soy	soy	seeds and	
-A-453	risk	risk	cancer survival	cancer survival	in half (see my 3-minute video breast	
-A-453	junk food	junk food	cancer	cancer	and animal products (see my 1-minute video breast	
-A-453	breast cancer	breast cancer	gut flora	gut flora	rates—the courses of antibiotics wipe out the	
-A-453	breast cancer	breast cancer	broccoli	broccoli	stem cells vs.	
-A-453	breast cancer survival	breast cancer survival	soy	soy	are flax seeds and	
-A-453	animal products	animal products	trans fat	trans fat	(see my 1-minute video breast cancer survival and	
-A-453	diet	diet	breast cancer	breast cancer	that helps prevent	
-A-453	mortality	mortality	cancer survival	cancer survival	risk in half (see my 3-minute video breast	
-A-453	diet	diet	junk food	junk food	in cheese, chicken, and	
-A-453	cancer	cancer	diet	diet	is the same	
-A-453	cancer	cancer	mortality	mortality	-fighting compounds that may cut breast cancer	
-A-453	cancer	cancer	flora	flora	rates—the courses of antibiotics wipe out the gut	
-A-453	flora	flora	cancer	cancer	critical to the production of these anti-	
-A-453	risk	risk	saturated fat	saturated fat	of dying by 41% simply by avoiding	
-A-453	cancer	cancer	breast cancer	breast cancer	-fighting compounds that may cut	
-A-453	cancer survival	cancer survival	soy	soy	are flax seeds and	
-A-453	cancer	cancer	broccoli	broccoli	stem cells vs.	
-A-453	detox	detox	breast cancer	breast cancer	and	
-A-453	breast cancer survival	breast cancer survival	flax seeds	flax seeds	are	
-A-453	cancer	cancer	risk	risk		
-A-453	women	women	urinary tract infections	urinary tract infections	who have frequent	
-A-453	gut	gut	cancer	cancer	flora critical to the production of these anti-	
-A-453	mortality	mortality	risk	risk		
-A-453	lignans	lignans	seeds	seeds	actually found in the	
-A-453	gut	gut	flora	flora		
-A-453	detox	detox	stem cells	stem cells	and breast cancer	
-A-453	detox	detox	broccoli	broccoli	and breast cancer stem cells vs.	
-A-453	cancer	cancer	stem cells	stem cells		
-A-453	risk	risk	fat	fat	of dying by 41% simply by avoiding saturated	
-A-453	cancer	cancer	fat	fat	survival and trans	
-A-453	breast cancer	breast cancer	flora	flora	rates—the courses of antibiotics wipe out the gut	
-A-453	cancer	cancer	flax seeds	flax seeds	survival are	
-A-453	gut flora	gut flora	cancer	cancer	critical to the production of these anti-	
-A-453	breast cancer	breast cancer	soy	soy	survival are flax seeds and	
-A-453	junk food	junk food	breast cancer	breast cancer	(see my 3-minute video	
-A-453	cancer	cancer	seeds	seeds	survival are flax	
-A-453	urinary tract infections	urinary tract infections	cancer	cancer	have higher breast	
-A-453	breast cancer	breast cancer	trans fat	trans fat	survivors may improve their survival 78% by avoiding	
-A-453	women	women	breast cancer	breast cancer	who have frequent urinary tract infections have higher	
-A-453	detox	detox	cancer stem cells	cancer stem cells	and breast	
 A-453	breast cancer	breast cancer	women	women	is initially so slow-growing that	
-A-453	junk food	junk food	cancer survival	cancer survival	and animal products (see my 1-minute video breast	
-A-453	junk food	junk food	breast cancer survival	breast cancer survival	and animal products (see my 1-minute video	
 A-453	breast cancer	breast cancer	cancer	cancer	is now the #1	

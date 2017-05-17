@@ -1,26 +1,7 @@
 
 V-1159	fish	fish	mad cow disease	mad cow disease	don’t get	
-V-1159	boiling	boiling	cross-contamination	cross-contamination	water—assuring absolutely no	
-V-1159	food poisoning	food poisoning	fish	fish	from properly cooked and handled	
-V-1159	fish	fish	chicken	chicken	—the one animal more contaminated than	
-V-1159	cholera	cholera	raw	raw	from	
-V-1159	fish	fish	disease	disease	don’t get mad cow	
-V-1159	raw	raw	oysters	oysters		
 V-1159	food poisoning	food poisoning	raw	raw	eating	
-V-1159	cholera	cholera	oysters	oysters	from raw	
-V-1159	parasites	parasites	worms	worms	such as brain	
-V-1159	tapeworms	tapeworms	parasites	parasites	from sushi, and other delights and	
-V-1159	water	water	cross-contamination	cross-contamination	—assuring absolutely no	
-V-1159	food poisoning	food poisoning	cooking	cooking	are not destroyed by	
-V-1159	fish	fish	gut	gut	is contaminated with fecal bacteria, thanks to “	
 V-1159	worms	worms	eye	eye	or	
-V-1159	food poisoning	food poisoning	seafood	seafood	eating raw	
-V-1159	parasites	parasites	eye	eye	such as brain worms or	
-V-1159	tapeworms	tapeworms	sushi	sushi	from	
-V-1159	boiling	boiling	water	water		
-V-1159	raw	raw	seafood	seafood		
-V-1159	gut	gut	fish	fish	waste exposed during [	
-V-1159	eye	eye	worms	worms		
 V-1159	fish	fish	fecal bacteria	fecal bacteria	is contaminated with	
 V-1159	mercury	mercury	pcbs	pcbs	or	
 V-1159	fish	fish	bacteria	bacteria	is contaminated with fecal	

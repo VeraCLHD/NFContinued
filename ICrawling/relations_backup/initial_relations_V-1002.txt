@@ -1,13 +1,3 @@
 
-V-1002	disease	disease	united states	united states	in the	
-V-1002	cdc	cdc	cysticercosis	cysticercosis	on the public health implications of	
-V-1002	cdc	cdc	public health	public health	on the	
-V-1002	cdc	cdc	health	health	on the public	
-V-1002	pork	pork	tapeworms	tapeworms		
+V-1002	tapeworms	tapeworms	mayo clinic	mayo clinic	curled up inside our brain.a review last year out of the	
 V-1002	cysticercosis	cysticercosis	united states	united states	acquired in the	
-V-1002	public health	public health	united states	united states	implications of cysticercosis acquired in the	
-V-1002	pork	pork	cavities	cavities	tapeworm larvae] create	
-V-1002	public health	public health	cysticercosis	cysticercosis	implications of	
-V-1002	health	health	cysticercosis	cysticercosis	implications of	
-V-1002	health	health	united states	united states	implications of cysticercosis acquired in the	
-V-1002	epilepsy	epilepsy	neurocysticercosis	neurocysticercosis	in the world is called	

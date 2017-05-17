@@ -1,25 +1,3 @@
 
-T-397	cauliflower	cauliflower	mustard powder	mustard powder	with a little dry	
-T-397	steaming	steaming	bile	bile	of cauliflower significantly improves the	
-T-397	liver	liver	detoxifying enzymes	detoxifying enzymes	’s	
-T-397	bile	bile	cholesterol	cholesterol	binding—a predictor of how well a food lowers	
-T-397	immune function	immune function	pathogens	pathogens	against intestinal	
-T-397	cholesterol	cholesterol	vegetables	vegetables	—is another of its powers.like other cruciferous	
-T-397	sulforaphane	sulforaphane	cauliflower	cauliflower	is created, eat	
-T-397	mustard powder	mustard powder	sulforaphane	sulforaphane	which also encourages the formation of	
-T-397	cauliflower	cauliflower	sulforaphane	sulforaphane	is capable of providing	
-T-397	risk	risk	ulcerative colitis	ulcerative colitis	of inflammatory bowel diseases such as	
-T-397	cauliflower	cauliflower	vegetables	vegetables	is worth the effort.cauliflower is one of the	
-T-397	uric acid	uric acid	gout	gout	buildup and	
-T-397	liver	liver	enzymes	enzymes	’s detoxifying	
-T-397	cholesterol	cholesterol	cruciferous vegetables	cruciferous vegetables	—is another of its powers.like other	
-T-397	cauliflower	cauliflower	bile	bile	significantly improves the	
 T-397	steaming	steaming	cauliflower	cauliflower	of	
-T-397	sulforaphane	sulforaphane	raw	raw	is created, eat cauliflower	
-T-397	detoxification	detoxification	cauliflower	cauliflower	enzymes, and help prevent and treat cancer.	
-T-397	cholesterol	cholesterol	cauliflower	cauliflower	—is another of its powers.like other cruciferous vegetables,	
-T-397	cauliflower	cauliflower	free radicals	free radicals	may also protect brain, eyesight, fight against	
-T-397	cauliflower	cauliflower	phytonutrient	phytonutrient	also contains a	
-T-397	detoxification	detoxification	enzymes	enzymes		
-T-397	cauliflower	cauliflower	liver	liver	is capable of providing sulforaphane, which boosts our	
-T-397	uric acid	uric acid	sulforaphane	sulforaphane	buildup and gout.to assure that the enzyme	
+T-397	cauliflower	cauliflower	sulforaphane	sulforaphane	is capable of providing	

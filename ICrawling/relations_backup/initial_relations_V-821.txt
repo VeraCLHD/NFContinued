@@ -1,13 +1,4 @@
 
-V-821	acne	acne	disease	disease	is an epidemic skin	
-V-821	skin	skin	disease	disease		
-V-821	diabetes	diabetes	acne	acne	mellitus, cancer, neurodegenerative diseases and	
-V-821	milk	milk	protein	protein		
 V-821	milk	milk	dairy	dairy	and	
-V-821	prevention	prevention	obesity	obesity	of epidemic western diseases like	
-V-821	protein	protein	milk	milk	consumption”—or we somehow engineer	
-V-821	prevention	prevention	diabetes	diabetes	of epidemic western diseases like obesity,	
-V-821	prevention	prevention	cancer	cancer	of epidemic western diseases like obesity, diabetes mellitus,	
 V-821	acne	acne	skin	skin	is an epidemic	
 V-821	acne	acne	skin disease	skin disease	is an epidemic	
-V-821	diabetes	diabetes	cancer	cancer	mellitus,	

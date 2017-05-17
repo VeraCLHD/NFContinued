@@ -1,40 +1,4 @@
 
-V-254	blood	blood	gut	gut	flow away from the heart to the	
-V-254	kidney	kidney	tumor	tumor	failure,	
-V-254	insulin	insulin	tumor	tumor	resistance, chronic kidney failure,	
-V-254	fat	fat	blood	blood	in the	
-V-254	tumor	tumor	blood	blood	growth, metastases, venous thrombosis (	
-V-254	endothelium	endothelium	disease	disease	is directly involved in peripheral vascular	
-V-254	tumor	tumor	metastases	metastases	growth,	
-V-254	gut	gut	digestion	digestion	during	
-V-254	digestive tract	digestive tract	hormones	hormones	and release a special group of	
-V-254	endothelium	endothelium	blood	blood	: the inner lining of all of our	
-V-254	endothelium	endothelium	stroke	stroke	is directly involved in peripheral vascular disease,	
-V-254	tumor	tumor	blood clots	blood clots	growth, metastases, venous thrombosis (	
-V-254	insulin	insulin	kidney	kidney	resistance, chronic	
-V-254	kidney	kidney	tumor growth	tumor growth	failure,	
-V-254	kidney	kidney	venous thrombosis	venous thrombosis	failure, tumor growth, metastases,	
-V-254	blood	blood	disease	disease	clots), and severe viral infectious	
-V-254	tumor	tumor	venous thrombosis	venous thrombosis	growth, metastases,	
-V-254	angina	angina	pain	pain	was described over 200 years ago: chest	
-V-254	heart disease	heart disease	fat	fat	just by having them drink	
-V-254	blood	blood	fat	fat	became increasingly milky with	
-V-254	digestion	digestion	fat	fat	of	
-V-254	insulin	insulin	metastases	metastases	resistance, chronic kidney failure, tumor growth,	
-V-254	kidney	kidney	blood	blood	failure, tumor growth, metastases, venous thrombosis (	
-V-254	digestive tract	digestive tract	enzymes	enzymes	and release a special group of hormones and	
-V-254	angina	angina	disease	disease	in patients with known coronary artery	
-V-254	endothelium	endothelium	heart disease	heart disease	is directly involved in peripheral vascular disease, stroke,	
-V-254	venous thrombosis	venous thrombosis	disease	disease	(blood clots), and severe viral infectious	
-V-254	fat	fat	blood	blood	deprived the heart of	
-V-254	angina	angina	heart disease	heart disease	in people with	
-V-254	insulin	insulin	kidney failure	kidney failure	resistance, chronic	
-V-254	kidney	kidney	metastases	metastases	failure, tumor growth,	
-V-254	angina	angina	disease	disease	in people with heart	
-V-254	blood clots	blood clots	disease	disease	), and severe viral infectious	
-V-254	disease	disease	fat	fat	just by having them drink	
-V-254	insulin	insulin	tumor growth	tumor growth	resistance, chronic kidney failure,	
-V-254	kidney	kidney	blood clots	blood clots	failure, tumor growth, metastases, venous thrombosis (	
 V-254	hormones	hormones	enzymes	enzymes	and	
-V-254	fat	fat	digestive tract	digestive tract	in the	
-V-254	insulin	insulin	venous thrombosis	venous thrombosis	resistance, chronic kidney failure, tumor growth, metastases,	
+V-254	fat	fat	blood	blood	deprived the heart of	
+V-254	digestion	digestion	fat	fat	of	

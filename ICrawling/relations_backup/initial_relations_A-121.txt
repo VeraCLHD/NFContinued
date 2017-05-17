@@ -1,51 +1,14 @@
 
-A-121	prediabetes	prediabetes	blood	blood	risk factors like slimming waistlines and better	
-A-121	metabolic syndrome	metabolic syndrome	prediabetes	prediabetes	and reduce the risk of	
-A-121	obesity	obesity	blood pressure	blood pressure	and lower	
-A-121	obesity	obesity	blood	blood	and lower	
-A-121	syndrome	syndrome	risk	risk	and reduce the	
-A-121	blood	blood	diet	diet	sugar control, but the bean	
-A-121	metabolic syndrome	metabolic syndrome	beans	beans	is due to physiological effects of the	
-A-121	sugar	sugar	diet	diet	control, but the bean	
 A-121	metabolic syndrome	metabolic syndrome	plant-based	plant-based	and	
-A-121	blood sugar	blood sugar	diet	diet	control, but the bean	
-A-121	metabolic syndrome	metabolic syndrome	risk	risk	and reduce the	
-A-121	caloric restriction	caloric restriction	energy	energy	group was asked to reduce	
-A-121	fat	fat	metabolic syndrome	metabolic syndrome	may be the best way to treat	
-A-121	diabetes	diabetes	diet	diet	since they indicate that simple	
-A-121	calories	calories	diet	diet	from their daily	
-A-121	metabolic syndrome	metabolic syndrome	plant-based diets	plant-based diets	and	
-A-121	risk	risk	prediabetes	prediabetes	of	
-A-121	prediabetes	prediabetes	sugar	sugar	risk factors like slimming waistlines and better blood	
-A-121	risk	risk	diabetes	diabetes	of prediabetes turning into full-blown	
 A-121	split peas	split peas	lentils	lentils	and	
 A-121	fat	fat	syndrome	syndrome	may be the best way to treat metabolic	
-A-121	risk	risk	syndrome	syndrome	factors of metabolic	
-A-121	syndrome	syndrome	beans	beans	is due to physiological effects of the	
-A-121	peas	peas	diet	diet	and lentils in an ad libitum	
 A-121	syndrome	syndrome	plant-based diets	plant-based diets	and	
 A-121	belly fat	belly fat	metabolic syndrome	metabolic syndrome	may be the best way to treat	
-A-121	beans	beans	diabetes	diabetes	: what about treating full-blown	
-A-121	risk	risk	blood sugar	blood sugar	factors like slimming waistlines and better	
-A-121	risk	risk	blood	blood	factors like slimming waistlines and better	
-A-121	beans	beans	peas	peas	and	
-A-121	syndrome	syndrome	prediabetes	prediabetes	and reduce the risk of	
-A-121	split peas	split peas	diet	diet	and lentils in an ad libitum	
-A-121	prediabetes	prediabetes	diabetes	diabetes	turning into full-blown	
-A-121	prediabetes	prediabetes	risk	risk		
-A-121	peas	peas	lentils	lentils	and	
-A-121	diabetes	diabetes	beans	beans	with	
-A-121	belly fat	belly fat	syndrome	syndrome	may be the best way to treat metabolic	
-A-121	diet	diet	lead	lead	and spontaneously	
-A-121	plants	plants	beans	beans	versus calorie restriction in: more on magic	
-A-121	lentils	lentils	diet	diet	in an ad libitum	
-A-121	risk	risk	metabolic syndrome	metabolic syndrome	factors of	
-A-121	risk	risk	diabetes	diabetes	for type 2	
-A-121	navy beans	navy beans	caloric restriction	caloric restriction	a week, and the	
-A-121	diet	diet	beans	beans	changes, such as the inclusion of	
 A-121	syndrome	syndrome	plant-based	plant-based	and	
-A-121	beans	beans	caloric restriction	caloric restriction	a week, and the	
-A-121	prediabetes	prediabetes	blood sugar	blood sugar	risk factors like slimming waistlines and better	
-A-121	risk	risk	sugar	sugar	factors like slimming waistlines and better blood	
-A-121	beans	beans	caloric restriction	caloric restriction	versus	
-A-121	blood	blood	sugar	sugar		
+A-121	beans	beans	peas	peas	and	
+A-121	prediabetes	prediabetes	diabetes	diabetes	turning into full-blown	
+A-121	fat	fat	metabolic syndrome	metabolic syndrome	may be the best way to treat	
+A-121	peas	peas	lentils	lentils	and	
+A-121	metabolic syndrome	metabolic syndrome	plant-based diets	plant-based diets	and	
+A-121	belly fat	belly fat	syndrome	syndrome	may be the best way to treat metabolic	
+A-121	risk	risk	prediabetes	prediabetes	of	

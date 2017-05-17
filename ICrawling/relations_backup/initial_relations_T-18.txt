@@ -1,31 +1,11 @@
 
-T-18	carbohydrates	carbohydrates	acrylamide	acrylamide	due to the effects of	
-T-18	kidney	kidney	cancer	cancer		
-T-18	breast cancer	breast cancer	cancer	cancer	and, indirectly, to prostate	
-T-18	carcinogen	carcinogen	kidney	kidney	that has been linked to	
-T-18	kidney	kidney	endometrial cancer	endometrial cancer	cancer,	
-T-18	potato chips	potato chips	acrylamide	acrylamide	and french fries.studies estimate the	
-T-18	acrylamide	acrylamide	french fries	french fries	exposure from a lifetime consumption of	
-T-18	acrylamide	acrylamide	carcinogen	carcinogen	is a neurotoxic chemical and a human	
-T-18	tobacco	tobacco	frying	frying	leaves or the deep	
-T-18	pregnant	pregnant	women	women		
-T-18	potato chips	potato chips	french fries	french fries	and	
-T-18	prostate	prostate	cancer	cancer		
-T-18	breast cancer	breast cancer	prostate cancer	prostate cancer	and, indirectly, to	
-T-18	carcinogen	carcinogen	kidney cancer	kidney cancer	that has been linked to	
-T-18	carcinogen	carcinogen	endometrial cancer	endometrial cancer	that has been linked to kidney cancer,	
-T-18	burning	burning	tobacco	tobacco	of	
-T-18	organic	organic	burning	burning	material subjected to high temperatures, such as the	
 T-18	frying	frying	potatoes	potatoes	of	
-T-18	cancer	cancer	children	children	per thousand	
-T-18	kidney	kidney	ovarian cancer	ovarian cancer	cancer, endometrial cancer,	
+T-18	potato chips	potato chips	french fries	french fries	and	
+T-18	breast cancer	breast cancer	prostate cancer	prostate cancer	and, indirectly, to	
 T-18	french fries	french fries	acrylamide	acrylamide	.studies estimate the	
-T-18	burning	burning	potatoes	potatoes	of tobacco leaves or the deep frying of	
 T-18	breast cancer	breast cancer	prostate	prostate	and, indirectly, to	
+T-18	burning	burning	tobacco	tobacco	of	
 T-18	women	women	carbohydrates	carbohydrates	are advised to avoid all deep-fried	
-T-18	burning	burning	frying	frying	of tobacco leaves or the deep	
-T-18	kidney	kidney	breast cancer	breast cancer	cancer, endometrial cancer, ovarian cancer,	
-T-18	pregnant	pregnant	carbohydrates	carbohydrates	women are advised to avoid all deep-fried	
-T-18	carcinogen	carcinogen	cancer	cancer	that has been linked to kidney	
-T-18	tobacco	tobacco	potatoes	potatoes	leaves or the deep frying of	
+T-18	acrylamide	acrylamide	carcinogen	carcinogen	is a neurotoxic chemical and a human	
 T-18	pregnant women	pregnant women	carbohydrates	carbohydrates	are advised to avoid all deep-fried	
+T-18	tobacco	tobacco	frying	frying	leaves or the deep	

@@ -1,44 +1,11 @@
 
-V-616	harvard	harvard	nutrition	nutrition	’s	
-V-616	dietary guidelines	dietary guidelines	united states	united states	in the	
-V-616	sugar	sugar	health	health	…most all of the	
-V-616	nutrition	nutrition	agriculture	agriculture	committee into the	
-V-616	death	death	united states	united states	in the	
+V-616	united states	united states	diet	diet	could be modified by improvements in	
+V-616	meat	meat	egg	egg	and	
+V-616	saturated fat	saturated fat	cholesterol	cholesterol	and	
+V-616	salt institute	salt institute	dairy	dairy	warned, we might have more old people to take care of!the national	
 V-616	animal foods	animal foods	diet	diet	is an honorable and morally correct	
 V-616	milk	milk	egg	egg	and	
-V-616	meat	meat	poultry	poultry	consumption” to “choose meats,	
-V-616	food industry	food industry	egg	egg	(meat, dairy,	
-V-616	health	health	americans	americans	for all	
-V-616	meat	meat	saturated fat	saturated fat	consumption to lower	
-V-616	fat	fat	health	health	and cholesterol, and in sugar…most all of the	
-V-616	united states	united states	diet	diet	could be modified by improvements in	
-V-616	health	health	diet	diet	as smoking…the	
-V-616	meat	meat	fish	fish	consumption” to “choose meats, poultry, and	
-V-616	saturated fat	saturated fat	sugar	sugar	and cholesterol, and in	
 V-616	fat	fat	cholesterol	cholesterol	and	
-V-616	health	health	nutrition	nutrition	for all americans, through better	
-V-616	public health	public health	diet	diet	as smoking…the	
+V-616	salt institute	salt institute	national dairy council	national dairy council	warned, we might have more old people to take care of!the	
 V-616	nutrition	nutrition	health	health	may cut the nation’s	
 V-616	americans	americans	meat	meat	are properly fed with abundant	
-V-616	meat industry	meat industry	dietary guidelines	dietary guidelines	recommended the committee withdraw the	
-V-616	americans	americans	animal foods	animal foods	are properly fed with abundant meat and other	
-V-616	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-616	fish	fish	fat	fat	which will reduce saturated	
-V-616	nutrition	nutrition	meat	meat	department, that spoke at the press conference): “the	
-V-616	health	health	smoking	smoking	as	
-V-616	united states	united states	ischemic heart disease	ischemic heart disease	could be modified by improvements in diet…	
-V-616	united states	united states	heart disease	heart disease	could be modified by improvements in diet…ischemic	
-V-616	tobacco	tobacco	lifespan	lifespan	were banned…the increase in the expected	
-V-616	food industry	food industry	dairy	dairy	(meat,	
-V-616	fish	fish	saturated fat	saturated fat	which will reduce	
-V-616	meat	meat	dietary guidelines	dietary guidelines	industry recommended the committee withdraw the	
-V-616	meat	meat	egg	egg	and	
-V-616	meat	meat	meats	meats	consumption” to “choose	
-V-616	saturated fat	saturated fat	health	health	and cholesterol, and in sugar…most all of the	
-V-616	smoking	smoking	diet	diet	…the	
-V-616	fat	fat	sugar	sugar	and cholesterol, and in	
-V-616	public health	public health	smoking	smoking	as	
-V-616	united states	united states	disease	disease	could be modified by improvements in diet…ischemic heart	
-V-616	meat industry	meat industry	meat	meat	“reacted rather violently,” complaining that “	
-V-616	meat	meat	fat	fat	consumption to lower saturated	
-V-616	food industry	food industry	sugar	sugar	(meat, dairy, egg,	

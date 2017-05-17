@@ -1,16 +1,5 @@
 
-V-978	tuna	tuna	harvard	harvard	entirely.last year, scientists at the	
-V-978	harvard	harvard	health	health	school of public	
 V-978	pregnant women	pregnant women	tuna	tuna	should avoid canned	
-V-978	tuna	tuna	public health	public health	entirely.last year, scientists at the harvard school of	
-V-978	women	women	epa	epa	of childbearing age over the	
-V-978	pregnant	pregnant	tuna	tuna	women should avoid canned	
-V-978	harvard	harvard	public health	public health	school of	
-V-978	pregnant	pregnant	women	women		
-V-978	epa	epa	mercury	mercury		
-V-978	health	health	mercury	mercury	attempted to calculate what effect a reduction of	
-V-978	fish	fish	mercury	mercury	consumption is the major source of methyl	
-V-978	women	women	mercury	mercury	of childbearing age over the epa	
 V-978	consumer reports	consumer reports	tuna	tuna	published some new tests on	
-V-978	children	children	women	women	and premenopausal	
 V-978	public health	public health	mercury	mercury	attempted to calculate what effect a reduction of	
+V-978	health	health	mercury	mercury	attempted to calculate what effect a reduction of	

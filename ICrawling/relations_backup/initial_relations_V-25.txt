@@ -1,41 +1,12 @@
 
-V-25	cancer survival	cancer survival	breast cancer	breast cancer	and soy foods, involving more than 10,000	
-V-25	breast cancer	breast cancer	brca genes	brca genes	risk reduction in people with normal	
-V-25	breast cancer	breast cancer	soy	soy	survival and	
-V-25	mutations	mutations	dna damage	dna damage	focused on reducing	
-V-25	mutations	mutations	risk	risk	—97% increased	
-V-25	mutations	mutations	free radicals	free radicals	focused on reducing dna damage caused by	
-V-25	dna	dna	free radicals	free radicals	damage caused by	
-V-25	cancer	cancer	risk	risk		
-V-25	soy	soy	phytoestrogens	phytoestrogens		
-V-25	risk	risk	brca genes	brca genes	reduction in people with normal	
-V-25	breast cancer	breast cancer	risk	risk		
-V-25	cancer	cancer	tumor suppressor genes	tumor suppressor genes	.this idea that we have	
-V-25	cancer	cancer	breast cancer	breast cancer	survival and soy foods, involving more than 10,000	
-V-25	breast cancer survival	breast cancer survival	soy foods	soy foods	and	
-V-25	phytoestrogens	phytoestrogens	breast cancer	breast cancer	could turn back on brca protection suppressed by	
-V-25	cancer	cancer	brca genes	brca genes	risk reduction in people with normal	
-V-25	soy	soy	cancer	cancer	foods, involving more than 10,000 breast	
-V-25	cancer	cancer	soy	soy	survival and	
-V-25	breast cancer	breast cancer	soy foods	soy foods	survival and	
-V-25	cancer	cancer	tumor	tumor	.this idea that we have	
-V-25	soy	soy	breast cancer	breast cancer	foods, involving more than 10,000	
-V-25	mutations	mutations	tumor suppressor genes	tumor suppressor genes	to one of the	
-V-25	women	women	cancer	cancer	who carry breast	
-V-25	cancer survival	cancer survival	cancer	cancer	and soy foods, involving more than 10,000 breast	
-V-25	cancer survival	cancer survival	soy foods	soy foods	and	
-V-25	women	women	breast cancer	breast cancer	who carry	
-V-25	breast cancer survival	breast cancer survival	soy	soy	and	
 V-25	mutations	mutations	dna	dna	focused on reducing	
-V-25	cancer	cancer	brca genes	brca genes	in those with normal	
+V-25	mutations	mutations	dna damage	dna damage	focused on reducing	
 V-25	cancer survival	cancer survival	soy	soy	and	
-V-25	breast cancer survival	breast cancer survival	cancer	cancer	and soy foods, involving more than 10,000 breast	
-V-25	soy	soy	risk	risk	live longer, and have a lower	
-V-25	risk	risk	mutations	mutations	in those with brca	
 V-25	dna damage	dna damage	free radicals	free radicals	caused by	
 V-25	fruits	fruits	vegetables	vegetables	and	
-V-25	mutations	mutations	tumor	tumor	to one of the	
-V-25	cancer	cancer	soy foods	soy foods	survival and	
-V-25	breast cancer	breast cancer	brca genes	brca genes	in those with normal	
-V-25	breast cancer survival	breast cancer survival	breast cancer	breast cancer	and soy foods, involving more than 10,000	
-V-25	risk	risk	cancer	cancer	of the	
+V-25	cancer survival	cancer survival	soy foods	soy foods	and	
+V-25	breast cancer survival	breast cancer survival	soy foods	soy foods	and	
+V-25	phytoestrogens	phytoestrogens	breast cancer	breast cancer	could turn back on brca protection suppressed by	
+V-25	diet	diet	risk	risk	may be particularly important in those at high genetic	
+V-25	tumor suppressor genes	tumor suppressor genes	cancer	cancer	goes back to famous research in the 60s that showed that if you fuse together a normal cell with a	
+V-25	breast cancer survival	breast cancer survival	soy	soy	and	

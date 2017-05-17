@@ -1,60 +1,7 @@
 
-V-269	steroids	steroids	drugs	drugs	and other	
-V-269	steroids	steroids	eyeballs	eyeballs	and other drugs, injected straight into your	
-V-269	rice diet	rice diet	fasting blood sugars	fasting blood sugars	for at least three months, and their	
 V-269	disease	disease	rice	rice	has been achieved by the	
-V-269	diet	diet	insulin	insulin	would increase	
-V-269	rice diet	rice diet	blood	blood	for at least three months, and their fasting	
-V-269	diet	diet	weight loss	weight loss	was not because of	
-V-269	blood pressure	blood pressure	drugs	drugs		
-V-269	rice	rice	weight loss	weight loss	and fruit diet was not because of	
-V-269	plant-based	plant-based	heart failure	heart failure	ultra low-sodium/fat/cholesterol/protein rice diet to reverse kidney and	
-V-269	rice	rice	heart failure	heart failure	diet to reverse kidney and	
-V-269	protein	protein	rice diet	rice diet		
 V-269	kidney	kidney	heart failure	heart failure	and	
-V-269	diabetes	diabetes	fruit	fruit	with his rice and	
-V-269	protein	protein	diet	diet	rice	
-V-269	kidney	kidney	diabetes	diabetes	and heart failure, but assumed it would make	
-V-269	plant-based	plant-based	kidney	kidney	ultra low-sodium/fat/cholesterol/protein rice diet to reverse	
-V-269	diet	diet	kidney	kidney	to reverse	
-V-269	blood	blood	insulin	insulin	sugars dropped, despite a drop in the	
-V-269	rice diet	rice diet	heart failure	heart failure	to reverse kidney and	
-V-269	rice	rice	diet	diet	and fruit	
-V-269	diabetes	diabetes	treatment	treatment		
-V-269	plant-based	plant-based	diet	diet	ultra low-sodium/fat/cholesterol/protein rice	
-V-269	rice	rice	diet	diet		
-V-269	rice diet	rice diet	disease	disease	but that the course of the	
-V-269	plant-based	plant-based	rice diet	rice diet	ultra low-sodium/fat/cholesterol/protein	
-V-269	diabetes	diabetes	rice diet	rice diet	who walked through his door and went on the	
-V-269	eye	eye	kidney	kidney	in people with severe	
+V-269	diet	diet	insulin	insulin	would increase	
+V-269	diet	diet	weight loss	weight loss	was not because of	
 V-269	rice	rice	fruit	fruit	and	
-V-269	diet	diet	fasting blood sugars	fasting blood sugars	for at least three months, and their	
-V-269	protein	protein	kidney	kidney	rice diet to reverse	
-V-269	eye	eye	heart disease	heart disease	in people with severe kidney, hypertensive, or	
-V-269	disease	disease	diet	diet	has been achieved by the rice	
-V-269	diabetes	diabetes	diet	diet	with his rice and fruit	
-V-269	eye	eye	disease	disease	in people with severe kidney, hypertensive, or heart	
-V-269	rice	rice	disease	disease	diet but that the course of the	
-V-269	diabetes	diabetes	insulin	insulin	treatment, at least three	
-V-269	high blood pressure	high blood pressure	drugs	drugs		
-V-269	high blood pressure	high blood pressure	retinopathy	retinopathy	drugs, we see less hypertensive	
-V-269	rice	rice	fasting blood sugars	fasting blood sugars	diet for at least three months, and their	
-V-269	diet	diet	blood	blood	for at least three months, and their fasting	
-V-269	diabetes	diabetes	rice	rice	with his	
-V-269	diabetes	diabetes	diet	diet	who walked through his door and went on the rice	
 V-269	disease	disease	rice diet	rice diet	has been achieved by the	
-V-269	protein	protein	rice	rice		
-V-269	plant-based	plant-based	protein	protein	ultra low-sodium/fat/cholesterol/	
-V-269	fruit	fruit	weight loss	weight loss	diet was not because of	
-V-269	protein	protein	heart failure	heart failure	rice diet to reverse kidney and	
-V-269	blood	blood	retinopathy	retinopathy	pressure drugs, we see less hypertensive	
-V-269	diabetes	diabetes	rice	rice	who walked through his door and went on the	
-V-269	blood	blood	drugs	drugs	pressure	
-V-269	fruit	fruit	diet	diet		
-V-269	diet	diet	disease	disease	but that the course of the	
-V-269	plant-based	plant-based	rice	rice	ultra low-sodium/fat/cholesterol/protein	
-V-269	rice	rice	kidney	kidney	diet to reverse	
-V-269	fasting blood sugars	fasting blood sugars	insulin	insulin	dropped, despite a drop in the	
-V-269	rice diet	rice diet	kidney	kidney	to reverse	
-V-269	diet	diet	heart failure	heart failure	to reverse kidney and	
-V-269	blood pressure	blood pressure	retinopathy	retinopathy	drugs, we see less hypertensive	

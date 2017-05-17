@@ -1,64 +1,7 @@
 
-T-752	dha	dha	pollutants	pollutants	but may also contain persistent organic	
-T-752	fish	fish	liver	liver	oil supplements (including distilled versions and cod	
-T-752	fish	fish	salmon	salmon	(such as	
-T-752	cod liver oil	cod liver oil	omega-3 fatty acids	omega-3 fatty acids	) contain the long chain	
-T-752	blood	blood	biomarkers	biomarkers	samples can now be used as	
-T-752	pollutants	pollutants	pcb	pcb	such as	
-T-752	arsenic	arsenic	mercury	mercury	and	
-T-752	epa	epa	organic	organic	and dha but may also contain persistent	
-T-752	arsenic	arsenic	vaccines	vaccines	and mercury (see a mercury comparison between	
-T-752	cod liver oil	cod liver oil	epa	epa	) contain the long chain omega-3 fatty acids	
-T-752	pollutants	pollutants	mercury	mercury	in fish,	
-T-752	supplements	supplements	cod	cod	(including distilled versions and	
-T-752	organic	organic	pollutants	pollutants		
-T-752	mercury	mercury	vaccines	vaccines	(see a mercury comparison between	
-T-752	liver	liver	omega-3 fatty acids	omega-3 fatty acids	oil) contain the long chain	
-T-752	fish	fish	cod liver oil	cod liver oil	oil supplements (including distilled versions and	
-T-752	plant-based	plant-based	contaminants	contaminants	supplements may provide all the benefits without the	
-T-752	fish	fish	cod	cod	oil supplements (including distilled versions and	
-T-752	pcb	pcb	ddt	ddt	(see also here) and	
-T-752	organic pollutants	organic pollutants	ddt	ddt	such as pcb (see also here) and	
-T-752	persistent organic pollutants	persistent organic pollutants	ddt	ddt	such as pcb (see also here) and	
-T-752	organic pollutants	organic pollutants	pcb	pcb	such as	
-T-752	health	health	inflammation	inflammation	by reducing	
 T-752	pollutants	pollutants	fish	fish	in	
-T-752	fish oil	fish oil	supplements	supplements		
-T-752	omega-3 fatty acids	omega-3 fatty acids	persistent organic pollutants	persistent organic pollutants	epa and dha but may also contain	
-T-752	supplements	supplements	liver	liver	(including distilled versions and cod	
-T-752	omega-3 fatty acids	omega-3 fatty acids	organic pollutants	organic pollutants	epa and dha but may also contain persistent	
-T-752	mercury	mercury	tuna	tuna	(see a mercury comparison between vaccines and	
-T-752	arsenic	arsenic	blood	blood	levels in	
-T-752	dha	dha	organic pollutants	organic pollutants	but may also contain persistent	
-T-752	fish oil	fish oil	liver	liver	supplements (including distilled versions and cod	
 T-752	supplements	supplements	contaminants	contaminants	may provide all the benefits without the	
-T-752	mercury	mercury	blood	blood	levels in hair samples and arsenic levels in	
-T-752	epa	epa	pollutants	pollutants	and dha but may also contain persistent organic	
-T-752	liver	liver	epa	epa	oil) contain the long chain omega-3 fatty acids	
-T-752	mercury	mercury	arsenic	arsenic	levels in hair samples and	
-T-752	dha	dha	organic	organic	but may also contain persistent	
-T-752	omega-3 fatty acids	omega-3 fatty acids	dha	dha	epa and	
-T-752	vaccines	vaccines	tuna	tuna	and	
-T-752	persistent organic pollutants	persistent organic pollutants	pcb	pcb	such as	
-T-752	biomarkers	biomarkers	fish	fish	that can estimate a person’s past	
-T-752	plant foods	plant foods	omega 3	omega 3	is the short chain	
-T-752	dha	dha	persistent organic pollutants	persistent organic pollutants	but may also contain	
-T-752	cod	cod	omega-3 fatty acids	omega-3 fatty acids	liver oil) contain the long chain	
-T-752	omega-3 fatty acids	omega-3 fatty acids	epa	epa		
-T-752	joint health	joint health	inflammation	inflammation	by reducing	
-T-752	pollutants	pollutants	ddt	ddt	such as pcb (see also here) and	
-T-752	cod	cod	liver	liver		
-T-752	organic	organic	pcb	pcb	pollutants such as	
-T-752	fish	fish	supplements	supplements	oil	
-T-752	epa	epa	organic pollutants	organic pollutants	and dha but may also contain persistent	
-T-752	dha	dha	epa	epa	and/or	
-T-752	supplements	supplements	cod liver oil	cod liver oil	(including distilled versions and	
-T-752	omega-3 fatty acids	omega-3 fatty acids	organic	organic	epa and dha but may also contain persistent	
-T-752	plant-based	plant-based	supplements	supplements		
-T-752	pollutants	pollutants	arsenic	arsenic	in fish, mercury levels in hair samples and	
-T-752	organic	organic	ddt	ddt	pollutants such as pcb (see also here) and	
-T-752	fish oil	fish oil	cod liver oil	cod liver oil	supplements (including distilled versions and	
-T-752	fish oil	fish oil	cod	cod	supplements (including distilled versions and	
 T-752	omega-3 fatty acids	omega-3 fatty acids	health	health	are essential for human	
 T-752	epa	epa	dha	dha	and	
-T-752	epa	epa	persistent organic pollutants	persistent organic pollutants	and dha but may also contain	
+T-752	arsenic	arsenic	mercury	mercury	and	
+T-752	vaccines	vaccines	tuna	tuna	and	

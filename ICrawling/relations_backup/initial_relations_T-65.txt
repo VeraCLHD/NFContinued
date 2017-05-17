@@ -1,77 +1,8 @@
 
-T-65	glycotoxins	glycotoxins	chicken	chicken	(found mostly in	
-T-65	hormones	hormones	algae	algae	and steroids in dairy, blue-green	
+T-65	steroids	steroids	dairy	dairy	in	
 T-65	hormones	hormones	steroids	steroids	and	
-T-65	steroids	steroids	copper	copper	in dairy, blue-green algae supplements, spirulina,	
+T-65	cardiovascular disease	cardiovascular disease	arteries	arteries	may contribute to clogged cerebral	
 T-65	plant foods	plant foods	spices	spices	and	
-T-65	pork	pork	supplements	supplements	consumption, hormones and steroids in dairy, blue-green algae	
-T-65	blue-green algae	blue-green algae	glycotoxins	glycotoxins	supplements, spirulina, copper (in meat),	
-T-65	pork	pork	dairy	dairy	consumption, hormones and steroids in	
-T-65	copper	copper	meat	meat	(in	
 T-65	disease	disease	cardiovascular disease	cardiovascular disease	is now the #6 killer in the u.s.	
 T-65	pork	pork	beef	beef	and	
-T-65	risk	risk	steroids	steroids	of cognitive dysfunction include pork consumption, hormones and	
-T-65	fish	fish	iron	iron	), aluminum (in cheese), and	
-T-65	apple	apple	beans	beans	juice,	
-T-65	pork	pork	steroids	steroids	consumption, hormones and	
-T-65	hormones	hormones	dairy	dairy	and steroids in	
-T-65	blue-green algae	blue-green algae	supplements	supplements		
-T-65	grains	grains	fruits	fruits	and whole	
-T-65	steroids	steroids	blue-green algae	blue-green algae	in dairy,	
-T-65	pork	pork	seafood	seafood	and beef, as well as	
-T-65	blue-green algae	blue-green algae	copper	copper	supplements, spirulina,	
-T-65	chicken	chicken	bmaa	bmaa	), the neurotoxin known as	
-T-65	meat	meat	pork	pork	such as chicken,	
-T-65	apple	apple	whole grains	whole grains	juice, beans, vitamins d and b-12,	
-T-65	fruits	fruits	disease	disease	and vegetables.turmeric may treat and prevent alzheimer’s	
-T-65	steroids	steroids	meat	meat	in dairy, blue-green algae supplements, spirulina, copper (in	
-T-65	cheese	cheese	iron	iron	), and	
-T-65	blue-green algae	blue-green algae	spirulina	spirulina	supplements,	
-T-65	fish	fish	cheese	cheese	), aluminum (in	
-T-65	peanut	peanut	butter	butter		
-T-65	copper	copper	glycotoxins	glycotoxins	(in meat),	
-T-65	vitamins	vitamins	fruits	fruits	d and b-12, whole grains and whole	
-T-65	hormones	hormones	supplements	supplements	and steroids in dairy, blue-green algae	
-T-65	plant-based	plant-based	aging	aging	diets in general may slow	
-T-65	hormones	hormones	blue-green algae	blue-green algae	and steroids in dairy,	
-T-65	algae	algae	meat	meat	supplements, spirulina, copper (in	
-T-65	hormones	hormones	copper	copper	and steroids in dairy, blue-green algae supplements, spirulina,	
-T-65	blue-green algae	blue-green algae	meat	meat	supplements, spirulina, copper (in	
-T-65	glycotoxins	glycotoxins	bmaa	bmaa	(found mostly in chicken), the neurotoxin known as	
-T-65	cheese	cheese	supplements	supplements	), and iron (in	
-T-65	risk	risk	hormones	hormones	of cognitive dysfunction include pork consumption,	
-T-65	plant-based diets	plant-based diets	aging	aging	in general may slow	
-T-65	aluminum	aluminum	supplements	supplements	(in cheese), and iron (in	
-T-65	algae	algae	spirulina	spirulina	supplements,	
-T-65	risk	risk	dementia	dementia	of being diagnosed with	
-T-65	pork	pork	algae	algae	consumption, hormones and steroids in dairy, blue-green	
-T-65	pork	pork	blue-green algae	blue-green algae	consumption, hormones and steroids in dairy,	
-T-65	algae	algae	supplements	supplements		
-T-65	pork	pork	hormones	hormones	consumption,	
-T-65	fish	fish	supplements	supplements	), aluminum (in cheese), and iron (in	
-T-65	algae	algae	copper	copper	supplements, spirulina,	
-T-65	aging	aging	disease	disease	and help prevent alzheimer’s	
-T-65	meat	meat	chicken	chicken	such as	
-T-65	steroids	steroids	dairy	dairy	in	
-T-65	aluminum	aluminum	cheese	cheese	(in	
-T-65	meat	meat	beef	beef	such as chicken, pork and	
-T-65	apple	apple	juice	juice		
-T-65	cardiovascular disease	cardiovascular disease	arteries	arteries	may contribute to clogged cerebral	
-T-65	risk	risk	vegetarians	vegetarians	of being diagnosed with dementia, compared to long-time	
-T-65	vitamins	vitamins	grains	grains	d and b-12, whole	
-T-65	copper	copper	chicken	chicken	(in meat), glycotoxins (found mostly in	
-T-65	steroids	steroids	supplements	supplements	in dairy, blue-green algae	
-T-65	algae	algae	glycotoxins	glycotoxins	supplements, spirulina, copper (in meat),	
-T-65	steroids	steroids	spirulina	spirulina	in dairy, blue-green algae supplements,	
-T-65	vitamins	vitamins	whole grains	whole grains	d and b-12,	
-T-65	risk	risk	pork	pork	of cognitive dysfunction include	
-T-65	cardiovascular disease	cardiovascular disease	blood	blood	may contribute to clogged cerebral arteries, cutting off	
-T-65	apple	apple	grains	grains	juice, beans, vitamins d and b-12, whole	
-T-65	whole grains	whole grains	fruits	fruits	and whole	
-T-65	apple	apple	vitamins	vitamins	juice, beans,	
-T-65	aluminum	aluminum	iron	iron	(in cheese), and	
-T-65	hormones	hormones	spirulina	spirulina	and steroids in dairy, blue-green algae supplements,	
-T-65	steroids	steroids	algae	algae	in dairy, blue-green	
-T-65	meat	meat	chicken	chicken	), glycotoxins (found mostly in	
-T-65	protein	protein	glycotoxins	glycotoxins	foods like these contain high levels of	
-T-65	iron	iron	supplements	supplements	(in	
+T-65	blood	blood	aging	aging	may predict cognitive decline over time.but alzheimer’s is not an inevitable part of	

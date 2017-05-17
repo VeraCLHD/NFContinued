@@ -1,22 +1,6 @@
 
-V-1071	women	women	e. coli	e. coli	get urinary tract infections—extra-intestinal	
-V-1071	women	women	infections	infections	get urinary tract	
-V-1071	infectious diseases	infectious diseases	poultry	poultry	in the	
-V-1071	urinary tract infections	urinary tract infections	e. coli	e. coli	—extra-intestinal	
-V-1071	infection	infection	risk	risk		
-V-1071	infections	infections	e. coli	e. coli	—extra-intestinal	
-V-1071	manure	manure	meat	meat	in the	
-V-1071	women	women	poultry	poultry	can now add avoiding	
-V-1071	risk	risk	infection	infection	factor for flock	
-V-1071	disease	disease	colibacillosis	colibacillosis	is called	
-V-1071	urinary tract infections	urinary tract infections	infections	infections	—extra-intestinal e. coli	
-V-1071	blood	blood	e. coli	e. coli	poisoning.the strains of	
-V-1071	e. coli	e. coli	infections	infections		
-V-1071	e. coli	e. coli	manure	manure	.we know where e. coli o157:h7 comes from—	
-V-1071	women	women	bacteria	bacteria	infect their lower intestinal tract with these meat-borne	
 V-1071	women	women	urinary tract infections	urinary tract infections	get	
-V-1071	blood	blood	infection	infection	poisoning.the strains of e. coli that cause extra-intestinal	
-V-1071	infections	infections	women	women	—wiping from front to back; urinating after intercourse—	
+V-1071	women	women	poultry	poultry	can now add avoiding	
 V-1071	urinary tract infections	urinary tract infections	chickens	chickens	come from eating	
+V-1071	disease	disease	colibacillosis	colibacillosis	is called	
 V-1071	infections	infections	chickens	chickens	come from eating	
-V-1071	urinary tract infections	urinary tract infections	women	women	—wiping from front to back; urinating after intercourse—	

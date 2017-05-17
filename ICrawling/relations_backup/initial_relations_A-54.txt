@@ -1,61 +1,10 @@
 
-A-54	aspartame	aspartame	mood	mood	and the brain to ascertain whether individuals with	
-A-54	suicide	suicide	coffee	coffee	and cancer risk (preventing liver cancer with	
-A-54	coffee	coffee	suicide	suicide	may decrease	
-A-54	suicide	suicide	liver	liver	and cancer risk (preventing	
-A-54	coffee	coffee	sugar	sugar	drinkers compared to non-drinkers, but if they added	
-A-54	coffee	coffee	blood	blood	and cancer) but may impair	
-A-54	molasses	molasses	sugar	sugar	and date	
-A-54	coffee	coffee	liver cancer	liver cancer	may decrease suicide and cancer risk (preventing	
-A-54	coffee	coffee	liver	liver	may decrease suicide and cancer risk (preventing	
-A-54	mood	mood	aspartame	aspartame	disorders may be particularly sensitive to	
-A-54	suicide	suicide	liver cancer	liver cancer	and cancer risk (preventing	
-A-54	cancer	cancer	liver	liver	risk (preventing	
 A-54	coffee	coffee	cancer	cancer	and	
-A-54	risk	risk	cancer	cancer	(preventing liver	
-A-54	sugar	sugar	dates	dates	(whole dried powdered	
-A-54	sweetener	sweetener	erythritol	erythritol	is probably	
-A-54	molasses	molasses	dates	dates	and date sugar (whole dried powdered	
-A-54	aspartame	aspartame	nutrasweet	nutrasweet	—the chemical in equal and	
-A-54	health	health	americans	americans	aarp study of hundreds of thousands of	
-A-54	nutrasweet	nutrasweet	neurotransmitters	neurotransmitters	—may modulate brain	
-A-54	sweetener	sweetener	antioxidant	antioxidant	is probably erythritol (erythritol may be a sweet	
-A-54	neurotransmitters	neurotransmitters	serotonin	serotonin	such as dopamine and	
-A-54	liver	liver	coffee	coffee	cancer with	
-A-54	suicide	suicide	cancer	cancer	and	
-A-54	liver	liver	cancer	cancer		
-A-54	risk	risk	coffee	coffee	(preventing liver cancer with	
-A-54	diet	diet	depression	depression	drinks, may increase	
-A-54	disease	disease	brains	brains	that makes their	
-A-54	aspartame	aspartame	placebo	placebo	group than in the	
-A-54	cancer	cancer	liver cancer	liver cancer	risk (preventing	
-A-54	nutrasweet	nutrasweet	serotonin	serotonin	—may modulate brain neurotransmitters such as dopamine and	
-A-54	aspartame	aspartame	diet	diet		
-A-54	aspartame	aspartame	diet	diet	consumption put people on a high aspartame	
-A-54	aspartame	aspartame	neurotransmitters	neurotransmitters	—the chemical in equal and nutrasweet—may modulate brain	
-A-54	molasses	molasses	date sugar	date sugar	and	
-A-54	cancer	cancer	risk	risk		
-A-54	date sugar	date sugar	dates	dates	(whole dried powdered	
-A-54	cancer	cancer	cancer	cancer	risk (preventing liver	
-A-54	artificial sweeteners	artificial sweeteners	sweeteners	sweeteners	before: the healthiest caloric	
-A-54	mit	mit	americans	americans	noted: “given the very large number of	
-A-54	coffee	coffee	cancer	cancer	may decrease suicide and	
-A-54	artificial sweeteners	artificial sweeteners	molasses	molasses	before: the healthiest caloric sweeteners are blackstrap	
-A-54	sweeteners	sweeteners	molasses	molasses	before: the healthiest caloric sweeteners are blackstrap	
-A-54	suicide	suicide	risk	risk	and cancer	
-A-54	cancer	cancer	coffee	coffee	risk (preventing liver cancer with	
-A-54	risk	risk	liver	liver	(preventing	
-A-54	blood	blood	coffee	coffee	flow to the heart (	
-A-54	risk	risk	liver cancer	liver cancer	(preventing	
-A-54	cancer	cancer	blood	blood	) but may impair	
-A-54	dopamine	dopamine	serotonin	serotonin	and	
-A-54	neurotransmitters	neurotransmitters	dopamine	dopamine	such as	
-A-54	mood	mood	aspartame	aspartame	disorders are particularly vulnerable to adverse effects of	
 A-54	diet	diet	aspartame	aspartame	compared to a low	
-A-54	coffee	coffee	risk	risk	may decrease suicide and cancer	
-A-54	diet	diet	risk	risk	drinks, may increase depression	
-A-54	depression	depression	risk	risk		
-A-54	erythritol	erythritol	antioxidant	antioxidant	(erythritol may be a sweet	
-A-54	nutrasweet	nutrasweet	dopamine	dopamine	—may modulate brain neurotransmitters such as	
-A-54	liver cancer	liver cancer	coffee	coffee	with	
-A-54	aspartame	aspartame	sweetener	sweetener	ever exceed the	
+A-54	coffee	coffee	suicide	suicide	may decrease	
+A-54	americans	americans	beverages	beverages	followed for years found that frequent consumption of sweetened	
+A-54	sweetener	sweetener	erythritol	erythritol	is probably	
+A-54	mit	mit	americans	americans	noted: “given the very large number of	
+A-54	suicide	suicide	cancer	cancer	and	
+A-54	dopamine	dopamine	serotonin	serotonin	and	
+A-54	molasses	molasses	date sugar	date sugar	and	

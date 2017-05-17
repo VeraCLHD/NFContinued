@@ -1,49 +1,9 @@
 
-A-189	meat	meat	meat glue	meat glue	from the supermarket, they found	
-A-189	fish	fish	meat	meat	out of small	
-A-189	produce	produce	fish	fish	large chunks of virtually intact looking meat or	
+A-189	transglutaminase	transglutaminase	meat	meat	is used by the	
+A-189	american meat institute	american meat institute	meat	meat	estimates that it’s used in about “eight million pounds of	
 A-189	meat industry	meat industry	supreme court	supreme court	and	
-A-189	meat glue	meat glue	meat	meat	enzymes is because, “restructured	
-A-189	e. coli	e. coli	chicken	chicken	in	
-A-189	supreme court	supreme court	downed animals	downed animals	case: meat industry sues to keep	
-A-189	transglutaminase	transglutaminase	meat	meat	in 20 samples of	
-A-189	meat industry	meat industry	meat	meat	and supreme court case:	
-A-189	e. coli	e. coli	meat	meat	o157:h7 along the glue lines where	
-A-189	e. coli	e. coli	meat industry	meat industry	o145 ban opposed by	
-A-189	salmon	salmon	meat glue	meat glue	and a sample of turkey (see is	
-A-189	e. coli	e. coli	supreme court	supreme court	o145 ban opposed by meat industry and	
-A-189	meat glue	meat glue	meat	meat	enzyme” transglutaminase is used by the	
-A-189	meat glue	meat glue	transglutaminase	transglutaminase	enzyme”	
-A-189	chicken	chicken	bladder	bladder	to avoid	
-A-189	bladder	bladder	infections	infections		
-A-189	meat	meat	food safety	food safety	additives, however, may actually improve	
-A-189	supreme court	supreme court	meat industry	meat industry	case:	
-A-189	turkey	turkey	meat glue	meat glue	(see is	
-A-189	meat	meat	supreme court	supreme court	industry and	
-A-189	meat industry	meat industry	meat	meat	to add value to	
-A-189	meat glue	meat glue	meat industry	meat industry	enzyme” transglutaminase is used by the	
-A-189	meat	meat	transglutaminase	transglutaminase	glue enzyme”	
-A-189	turkey	turkey	meat	meat	(see is	
-A-189	e. coli	e. coli	meat	meat	o157:h7 in my video,	
-A-189	chicken	chicken	infections	infections	to avoid bladder	
-A-189	meat glue	meat glue	salmon	salmon	in only two of the samples—in a sample of	
 A-189	gluten	gluten	meat	meat	may develop problems when ingesting	
 A-189	transglutaminase	transglutaminase	meat industry	meat industry	is used by the	
-A-189	meat glue	meat glue	enzymes	enzymes		
-A-189	supreme court	supreme court	meat	meat	case:	
-A-189	contamination	contamination	meat	meat	into the interior of the	
-A-189	e. coli	e. coli	meat	meat	o145 ban opposed by	
-A-189	salmon	salmon	meat	meat	and a sample of turkey (see is	
-A-189	transglutaminase	transglutaminase	pigs	pigs	was from the livers of guinea	
-A-189	transglutaminase	transglutaminase	meat	meat	is used by the	
-A-189	steak	steak	american meat institute	american meat institute	—the	
-A-189	produce	produce	meat	meat	large chunks of virtually intact looking	
-A-189	salmon	salmon	turkey	turkey	and a sample of	
-A-189	meat	meat	enzymes	enzymes	glue	
-A-189	enzymes	enzymes	meat	meat	is because, “restructured	
-A-189	meat	meat	meat industry	meat industry	industry and supreme court case:	
-A-189	steak	steak	meat	meat	—the american	
+A-189	e. coli	e. coli	chicken	chicken	in	
 A-189	meat	meat	fish	fish	or	
-A-189	meat	meat	meat industry	meat industry	glue enzyme” transglutaminase is used by the	
 A-189	meat	meat	meat glue	meat glue	treated with the	
-A-189	chicken	chicken	bladder infections	bladder infections	to avoid	

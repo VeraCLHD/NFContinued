@@ -1,48 +1,5 @@
 
 V-847	diet	diet	cancer	cancer	and	
-V-847	red meat	red meat	processed meat	processed meat	(beef and pork),	
-V-847	eggs	eggs	risk	risk	and dairy.which was most significantly associated with the	
-V-847	processed meat	processed meat	poultry	poultry	(like bacon, ham, and sausage),	
-V-847	processed meat	processed meat	turkey	turkey	(like bacon, ham, and sausage), poultry (chicken and	
-V-847	beef	beef	bacon	bacon	and pork), processed meat (like	
-V-847	viruses	viruses	meat	meat	in	
-V-847	meat	meat	processed meat	processed meat	(beef and pork),	
-V-847	vegetarians	vegetarians	exercise	exercise	—similar smoking;	
-V-847	risk	risk	lymphoma	lymphoma	of developing	
-V-847	fruit	fruit	meat	meat	and veggie consumption—they concluded that	
-V-847	sausage	sausage	chicken	chicken	), poultry (	
-V-847	meat	meat	ham	ham	(beef and pork), processed meat (like bacon,	
-V-847	processed meat	processed meat	sausage	sausage	(like bacon, ham, and	
-V-847	meat	meat	smoking	smoking	-eaters and vegetarians—similar	
-V-847	poultry	poultry	turkey	turkey	(chicken and	
-V-847	pork	pork	bacon	bacon	), processed meat (like	
-V-847	beef	beef	meat	meat	and pork), processed	
-V-847	poultry	poultry	offal	offal	(chicken and turkey), also	
-V-847	vegetarians	vegetarians	fruit	fruit	—similar smoking; exercise; weight;	
-V-847	beef	beef	processed meat	processed meat	and pork),	
-V-847	red meat	red meat	bacon	bacon	(beef and pork), processed meat (like	
-V-847	meat	meat	bacon	bacon	(beef and pork), processed meat (like	
-V-847	red meat	red meat	meat	meat	(beef and pork), processed	
-V-847	chicken	chicken	offal	offal	and turkey), also	
-V-847	vegetarians	vegetarians	smoking	smoking	—similar	
-V-847	meat	meat	vegetarians	vegetarians	-eaters and	
-V-847	meat	meat	exercise	exercise	-eaters and vegetarians—similar smoking;	
-V-847	meat	meat	pork	pork	(beef and	
 V-847	chicken	chicken	turkey	turkey	and	
-V-847	red meat	red meat	pork	pork	(beef and	
-V-847	processed meat	processed meat	chicken	chicken	(like bacon, ham, and sausage), poultry (	
-V-847	sausage	sausage	offal	offal	), poultry (chicken and turkey), also	
-V-847	meat	meat	fruit	fruit	-eaters and vegetarians—similar smoking; exercise; weight;	
-V-847	turkey	turkey	offal	offal	), also	
-V-847	red meat	red meat	ham	ham	(beef and pork), processed meat (like bacon,	
-V-847	pork	pork	meat	meat	), processed	
-V-847	pork	pork	ham	ham	), processed meat (like bacon,	
-V-847	pork	pork	poultry	poultry	), processed meat (like bacon, ham, and sausage),	
-V-847	sausage	sausage	turkey	turkey	), poultry (chicken and	
-V-847	beef	beef	sausage	sausage	and pork), processed meat (like bacon, ham, and	
-V-847	pork	pork	sausage	sausage	), processed meat (like bacon, ham, and	
-V-847	processed meat	processed meat	bacon	bacon	(like	
-V-847	risk	risk	lymphoma	lymphoma	of non-hodgkins	
 V-847	beef	beef	pork	pork	and	
-V-847	beef	beef	ham	ham	and pork), processed meat (like bacon,	
-V-847	processed meat	processed meat	ham	ham	(like bacon,	
+V-847	viruses	viruses	meat	meat	in	

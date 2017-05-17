@@ -1,12 +1,6 @@
 
-V-742	risk	risk	women	women	of dying prematurely.all these	
 V-742	disease	disease	diabetes	diabetes	and	
 V-742	cardiovascular disease	cardiovascular disease	diabetes	diabetes	and	
-V-742	body mass index	body mass index	disease	disease	is a better predictor of	
+V-742	grains	grains	framingham heart study	framingham heart study	was recently associated with a slimmer waist in the	
 V-742	women	women	bmi	bmi	have the exact same	
-V-742	screening	screening	disease	disease	tool for the prediction of cardiovascular	
-V-742	plant foods	plant foods	whole grains	whole grains	—whereas at least three servings a day of	
-V-742	waist-to-height ratio	waist-to-height ratio	cardiovascular disease	cardiovascular disease	as a screening tool for the prediction of	
-V-742	screening	screening	cardiovascular disease	cardiovascular disease	tool for the prediction of	
-V-742	screening	screening	diabetes	diabetes	tool for the prediction of cardiovascular disease and	
-V-742	waist-to-height ratio	waist-to-height ratio	screening	screening	as a	
+V-742	whole grains	whole grains	framingham heart study	framingham heart study	was recently associated with a slimmer waist in the	

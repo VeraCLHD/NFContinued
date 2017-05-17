@@ -1,20 +1,5 @@
 
-A-161	yeast	yeast	heavy metal	heavy metal	for the presence of the toxic	
-A-161	lead	lead	contamination	contamination		
-A-161	prop 65	prop 65	women	women	standards, but i do i advise pregnant	
-A-161	prop 65	prop 65	pregnant women	pregnant women	standards, but i do i advise	
-A-161	yeast	yeast	lead	lead	contain detectable	
-A-161	yeast	yeast	risk	risk	contain detectable lead levels but the	
-A-161	yeast	yeast	lead	lead	for the presence of the toxic heavy metal	
-A-161	prop 65	prop 65	pregnant	pregnant	standards, but i do i advise	
-A-161	pregnant	pregnant	women	women		
-A-161	california	california	pregnant women	pregnant women	prop 65 standards, but i do i advise	
-A-161	nutritional yeast	nutritional yeast	lead	lead	for the presence of the toxic heavy metal	
 A-161	nutritional yeast	nutritional yeast	lead	lead	contain detectable	
-A-161	heavy metal	heavy metal	lead	lead		
-A-161	california	california	prop 65	prop 65		
 A-161	diet	diet	disease	disease	and	
-A-161	lead	lead	risk	risk	levels but the	
-A-161	nutritional yeast	nutritional yeast	risk	risk	contain detectable lead levels but the	
-A-161	california	california	pregnant	pregnant	prop 65 standards, but i do i advise	
-A-161	nutritional yeast	nutritional yeast	heavy metal	heavy metal	for the presence of the toxic	
+A-161	contamination	contamination	california	california	was so low that all brands complied with the exceedingly (and justifiably) strict	
+A-161	yeast	yeast	lead	lead	contain detectable	

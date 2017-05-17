@@ -1,42 +1,11 @@
 
-T-565	lead	lead	health	health	to dehydration, as well as other	
-T-565	kidney	kidney	colon	colon	health, bladder and	
-T-565	kidney	kidney	health	health		
-T-565	hydration	hydration	brain health	brain health	is extremely important for	
-T-565	bladder	bladder	cancer	cancer	and colon	
-T-565	colon	colon	constipation	constipation	cancer, urinary tract infections,	
-T-565	colon	colon	cavities	cavities	cancer, urinary tract infections, constipation, dry mouth,	
-T-565	cold	cold	water	water		
 T-565	alcoholic beverages	alcoholic beverages	lead	lead	can	
-T-565	bladder	bladder	infections	infections	and colon cancer, urinary tract	
+T-565	tea	tea	water	water	has been shown to offer similar hydrating properties to	
+T-565	black tea	black tea	water	water	has been shown to offer similar hydrating properties to	
+T-565	hydration	hydration	brain health	brain health	is extremely important for	
 T-565	beverages	beverages	lead	lead	can	
+T-565	water	water	symptoms	symptoms	can immediately reverse these	
+T-565	bladder	bladder	colon	colon	and	
 T-565	cognitive performance	cognitive performance	water	water	happens by simply having a drink of	
 T-565	bladder	bladder	colon cancer	colon cancer	and	
-T-565	colon	colon	cancer	cancer		
-T-565	water	water	hydration	hydration	.since our brain is 75% water,	
-T-565	kidney	kidney	constipation	constipation	health, bladder and colon cancer, urinary tract infections,	
-T-565	alcoholic beverages	alcoholic beverages	health	health	can lead to dehydration, as well as other	
-T-565	antioxidants	antioxidants	health	health	to improve	
-T-565	beverages	beverages	health	health	can lead to dehydration, as well as other	
-T-565	kidney	kidney	colon cancer	colon cancer	health, bladder and	
-T-565	kidney	kidney	bladder	bladder	health,	
-T-565	antioxidants	antioxidants	calories	calories	to improve health, without adding	
-T-565	kidney	kidney	cancer	cancer	health, bladder and colon	
-T-565	bladder	bladder	mouth	mouth	and colon cancer, urinary tract infections, constipation, dry	
-T-565	water	water	symptoms	symptoms	can immediately reverse these	
-T-565	beverages	beverages	dehydration	dehydration	can lead to	
-T-565	water	water	women	women	per day for	
-T-565	hydration	hydration	health	health	is extremely important for brain	
-T-565	lead	lead	dehydration	dehydration	to	
-T-565	bladder	bladder	constipation	constipation	and colon cancer, urinary tract infections,	
-T-565	bladder	bladder	urinary tract infections	urinary tract infections	and colon cancer,	
-T-565	colon	colon	mouth	mouth	cancer, urinary tract infections, constipation, dry	
-T-565	kidney	kidney	infections	infections	health, bladder and colon cancer, urinary tract	
-T-565	bladder	bladder	colon	colon	and	
-T-565	colon	colon	infections	infections	cancer, urinary tract	
-T-565	alcoholic beverages	alcoholic beverages	dehydration	dehydration	can lead to	
-T-565	dehydration	dehydration	heart disease	heart disease	may be associated with falls and fractures, heatstroke,	
-T-565	kidney	kidney	urinary tract infections	urinary tract infections	health, bladder and colon cancer,	
-T-565	children	children	dehydration	dehydration	are in a state of mild, voluntary	
 T-565	water	water	health	health	is very important to human	
-T-565	colon	colon	urinary tract infections	urinary tract infections	cancer,	

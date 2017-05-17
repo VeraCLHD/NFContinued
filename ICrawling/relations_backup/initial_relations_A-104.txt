@@ -1,50 +1,13 @@
 
-A-104	diabetes	diabetes	obesity	obesity	is due to the dramatic rise in childhood	
-A-104	pediatrics	pediatrics	kids	kids	clinical practice guidelines: the problem appears to be	
-A-104	kids	kids	sugar	sugar	eating too much fat and added	
-A-104	plant foods	plant foods	grains	grains	like	
-A-104	plant-based	plant-based	dogs	dogs	equivalents like veggie burgers, veggie	
-A-104	disease	disease	risk	risk		
-A-104	plant-based	plant-based	diet	diet		
-A-104	plant-based	plant-based	health	health	diets should be encouraged and promoted for optimal	
+A-104	youth	youth	disease	disease	predicts adult	
 A-104	children	children	diabetes	diabetes	diagnosed with type 2	
-A-104	american academy of pediatrics	american academy of pediatrics	kids	kids	clinical practice guidelines: the problem appears to be	
-A-104	risk	risk	burgers	burgers	of being overweight, whereas plant-based equivalents like veggie	
-A-104	plant-based	plant-based	veggie dogs	veggie dogs	equivalents like veggie burgers,	
-A-104	animal foods	animal foods	eggs	eggs	(meats, dairy, or	
-A-104	prediabetes	prediabetes	diabetes	diabetes	from turning into	
-A-104	prediabetes	prediabetes	children	children	in	
-A-104	plant-based diets	plant-based diets	health	health	should be encouraged and promoted for optimal	
-A-104	risk	risk	veggie burgers	veggie burgers	of being overweight, whereas plant-based equivalents like	
-A-104	plant-based	plant-based	burgers	burgers	equivalents like veggie	
-A-104	plant-based	plant-based	energy	energy	diets are low in	
-A-104	children	children	body mass index	body mass index	), a	
-A-104	fruits	fruits	vegetables	vegetables	and	
-A-104	diabetes	diabetes	type 1 diabetes	type 1 diabetes	in young individuals was thought to be autoimmune	
-A-104	youth	youth	death	death	predicts adult disease and	
-A-104	risk	risk	plant-based	plant-based	of being overweight, whereas	
-A-104	plant foods	plant foods	nuts	nuts	like grains, beans, and	
-A-104	energy	energy	water	water	density and high in starch, fiber, and	
-A-104	eggs	eggs	risk	risk	) is associated with an increased	
-A-104	fat	fat	fruits	fruits	and added sugar, and not eating enough	
-A-104	prediabetes	prediabetes	body mass index	body mass index	in children), a	
-A-104	fat	fat	sugar	sugar	and added	
+A-104	disease	disease	death	death	and	
+A-104	diabetes	diabetes	children	children	has now been scrapped and replaced with ‘type 2’ because	
 A-104	kidney failure	kidney failure	death	death	and	
+A-104	prediabetes	prediabetes	children	children	in	
 A-104	plant-based diets	plant-based diets	energy	energy	are low in	
-A-104	plant foods	plant foods	meat	meat	versus decreased consumption of	
-A-104	plant-based	plant-based	metabolism	metabolism	appears to boost	
+A-104	plant-based diets	plant-based diets	health	health	should be encouraged and promoted for optimal	
+A-104	fruits	fruits	vegetables	vegetables	and	
+A-104	kids	kids	fat	fat	eating too much	
 A-104	diabetes	diabetes	blindness	blindness	found an alarming rate in young adults of	
 A-104	plant foods	plant foods	children	children	are affordable and accessible to	
-A-104	obesity	obesity	disease	disease	and prevent further spread of the	
-A-104	animal foods	animal foods	dairy	dairy	(meats,	
-A-104	plant-based	plant-based	cold	cold	equivalents like veggie burgers, veggie dogs, and veggie	
-A-104	kids	kids	vegetables	vegetables	to eat their	
-A-104	kids	kids	fat	fat	eating too much	
-A-104	children	children	disease	disease	as young as eight are now developing the	
-A-104	youth	youth	disease	disease	predicts adult	
-A-104	plant foods	plant foods	beans	beans	like grains,	
-A-104	disease	disease	death	death	and	
-A-104	plant-based	plant-based	veggie burgers	veggie burgers	equivalents like	
-A-104	nutrition	nutrition	obesity	obesity	and growth so that	
-A-104	kidney	kidney	death	death	failure and	
-A-104	energy	energy	fiber	fiber	density and high in starch,	

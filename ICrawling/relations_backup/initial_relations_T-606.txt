@@ -1,60 +1,12 @@
 
-T-606	medicine	medicine	surgery	surgery	and its success over drugs and	
-T-606	diet	diet	exercise	exercise	in conjunction with lifestyle changes that promote	
-T-606	disease	disease	treatment	treatment	and perhaps even some cases, cancer.the	
-T-606	lifestyle medicine	lifestyle medicine	drugs	drugs	and its success over	
-T-606	plant-based	plant-based	diet	diet		
-T-606	diet	diet	paleo diet	paleo diet	and	
-T-606	mediterranean diet	mediterranean diet	paleo diet	paleo diet	and	
-T-606	mediterranean diet	mediterranean diet	diet	diet	and paleo	
-T-606	plant-based	plant-based	cancer	cancer	diet may be able to help prevent prostate	
-T-606	prostate	prostate	esophageal cancer	esophageal cancer	cancer, strokes, multiple sclerosis, sudden cardiac death,	
-T-606	plant-based	plant-based	prostate	prostate	diet may be able to help prevent	
-T-606	health	health	mediterranean diet	mediterranean diet	fads today such as the	
-T-606	prostate	prostate	cancer	cancer		
-T-606	disease	disease	cancer	cancer	and perhaps even some cases,	
+T-606	plant-based diet	plant-based diet	prostate	prostate	may be able to help prevent	
+T-606	poultry	poultry	fish	fish	and	
+T-606	dean ornish	dean ornish	lifestyle medicine	lifestyle medicine	has been a pioneer in the field of	
 T-606	dr. dean ornish	dr. dean ornish	lifestyle medicine	lifestyle medicine	has been a pioneer in the field of	
-T-606	death	death	heart disease	heart disease	in the u.s. such as coronary	
-T-606	treatment	treatment	chronic diseases	chronic diseases	of	
-T-606	disease	disease	chronic diseases	chronic diseases	and perhaps even some cases, cancer.the treatment of	
-T-606	health	health	diet	diet	fads today such as the mediterranean	
-T-606	treatment	treatment	medications	medications	of chronic diseases in america relies heavily on	
-T-606	chronic diseases	chronic diseases	medications	medications	in america relies heavily on	
-T-606	poultry	poultry	aging	aging	and fish may accelerate cellular	
+T-606	fish	fish	aging	aging	may accelerate cellular	
 T-606	ornish	ornish	lifestyle medicine	lifestyle medicine	has been a pioneer in the field of	
 T-606	plant-based diet	plant-based diet	prostate cancer	prostate cancer	may be able to help prevent	
-T-606	heart disease	heart disease	treatment	treatment	and perhaps even some cases, cancer.the	
-T-606	plant-based diet	plant-based diet	cancer	cancer	may be able to help prevent prostate	
-T-606	ornish	ornish	health	health	and other	
-T-606	cancer	cancer	chronic diseases	chronic diseases	.the treatment of	
-T-606	health	health	paleo diet	paleo diet	fads today such as the mediterranean diet and	
-T-606	death	death	disease	disease	in the u.s. such as coronary heart	
-T-606	exercise	exercise	stress	stress	and reduce	
-T-606	death	death	coronary heart disease	coronary heart disease	in the u.s. such as	
-T-606	plant-based diet	plant-based diet	prostate	prostate	may be able to help prevent	
-T-606	plant-based	plant-based	drugs	drugs	diets promote telomere protection, something for which	
-T-606	coronary heart disease	coronary heart disease	chronic diseases	chronic diseases	and perhaps even some cases, cancer.the treatment of	
-T-606	lifestyle medicine	lifestyle medicine	surgery	surgery	and its success over drugs and	
-T-606	poultry	poultry	fish	fish	and	
-T-606	coronary heart disease	coronary heart disease	cancer	cancer	and perhaps even some cases,	
-T-606	dean ornish	dean ornish	lifestyle medicine	lifestyle medicine	has been a pioneer in the field of	
-T-606	poultry	poultry	plant-based	plant-based	and fish may accelerate cellular aging,	
-T-606	prostate	prostate	cardiac death	cardiac death	cancer, strokes, multiple sclerosis, sudden	
 T-606	drugs	drugs	health	health	cannot complete.the success of popular	
-T-606	cancer	cancer	treatment	treatment	.the	
-T-606	plant-based	plant-based	prostate cancer	prostate cancer	diet may be able to help prevent	
-T-606	coronary heart disease	coronary heart disease	treatment	treatment	and perhaps even some cases, cancer.the	
-T-606	poultry	poultry	plant-based diets	plant-based diets	and fish may accelerate cellular aging,	
-T-606	fish	fish	plant-based	plant-based	may accelerate cellular aging,	
-T-606	prostate	prostate	death	death	cancer, strokes, multiple sclerosis, sudden cardiac	
-T-606	surgery	surgery	chronic diseases	chronic diseases	in treating the underlying causes of	
-T-606	prostate	prostate	multiple sclerosis	multiple sclerosis	cancer, strokes,	
-T-606	heart disease	heart disease	chronic diseases	chronic diseases	and perhaps even some cases, cancer.the treatment of	
-T-606	dr. ornish	dr. ornish	health	health	and other	
-T-606	diet	diet	cancer	cancer	may be able to help prevent prostate	
-T-606	heart disease	heart disease	cancer	cancer	and perhaps even some cases,	
-T-606	medicine	medicine	drugs	drugs	and its success over	
-T-606	fish	fish	aging	aging	may accelerate cellular	
-T-606	plant-based diets	plant-based diets	drugs	drugs	promote telomere protection, something for which	
-T-606	fish	fish	plant-based diets	plant-based diets	may accelerate cellular aging,	
-T-606	prostate	prostate	sudden cardiac death	sudden cardiac death	cancer, strokes, multiple sclerosis,	
+T-606	diet	diet	paleo diet	paleo diet	and	
+T-606	mediterranean diet	mediterranean diet	paleo diet	paleo diet	and	
+T-606	treatment	treatment	chronic diseases	chronic diseases	of	

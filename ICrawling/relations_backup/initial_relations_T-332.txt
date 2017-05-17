@@ -1,8 +1,3 @@
 
-T-332	dairy	dairy	saturated fat	saturated fat	industry has attempted to persuade consumers that the	
-T-332	arteries	arteries	stomach	stomach	and degenerate the epithelial lining in the	
-T-332	saturated fat	saturated fat	butter	butter	content like that found in	
-T-332	ldl	ldl	cholesterol	cholesterol		
-T-332	fat	fat	butter	butter	content like that found in	
 T-332	fat	fat	arteries	arteries	may constrict	
 T-332	saturated fat	saturated fat	arteries	arteries	may constrict	

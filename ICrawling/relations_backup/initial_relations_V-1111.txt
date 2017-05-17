@@ -1,20 +1,9 @@
 
 V-1111	tea	tea	water	water	is dark green leafies in	
-V-1111	coffee	coffee	cancer	cancer	and liver	
-V-1111	beans	beans	water	water	and	
-V-1111	beans	beans	tea	tea	in water;	
-V-1111	greens	greens	beans	beans	beat out	
-V-1111	coffee	coffee	water	water	is beans in	
-V-1111	coffee	coffee	beans	beans	is	
-V-1111	liver	liver	cancer	cancer		
-V-1111	soybeans	soybeans	phytoestrogens	phytoestrogens	have those healthy	
-V-1111	cancer	cancer	cancer	cancer	as well, protects us from brain	
-V-1111	cancer	cancer	brain cancer	brain cancer	as well, protects us from	
-V-1111	coffee	coffee	tea	tea	is beans in water;	
 V-1111	coffee	coffee	liver	liver	and	
-V-1111	liver	liver	brain cancer	brain cancer	cancer as well, protects us from	
+V-1111	beans	beans	water	water	and	
 V-1111	beans	beans	water	water	in	
+V-1111	greens	greens	beans	beans	beat out	
 V-1111	risk	risk	diabetes	diabetes	of	
-V-1111	liver cancer	liver cancer	cancer	cancer	as well, protects us from brain	
-V-1111	liver cancer	liver cancer	brain cancer	brain cancer	as well, protects us from	
+V-1111	coffee	coffee	beans	beans	is	
 V-1111	coffee	coffee	liver cancer	liver cancer	and	

@@ -1,10 +1,4 @@
 
-V-5	produce	produce	pain	pain	”	
 V-5	women	women	ginger	ginger	use	
 V-5	treatment	treatment	migraines	migraines	of	
-V-5	symptoms	symptoms	ginger	ginger	stayed the same, whereas those unknowingly in the	
-V-5	placebo	placebo	symptoms	symptoms	group said their	
 V-5	ginger	ginger	ibuprofen	ibuprofen	compare to	
-V-5	women	women	placebo	placebo	in the	
-V-5	women	women	period	period	use ginger every	
-V-5	women	women	symptoms	symptoms	in the placebo group said their	

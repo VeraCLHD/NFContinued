@@ -1,9 +1,2 @@
 
-V-849	coffee	coffee	caffeine	caffeine	may reduce cancer risk, but what about the	
-V-849	cancer	cancer	risk	risk		
-V-849	fatigue	fatigue	physical activity	physical activity	and the sense of effort associated with	
 V-849	coffee	coffee	cancer	cancer	may reduce	
-V-849	energy	energy	fatigue	fatigue	availability and expenditure, decreases	
-V-849	caffeine	caffeine	pregnancy	pregnancy	intake in	
-V-849	coffee	coffee	risk	risk	may reduce cancer	
-V-849	cancer	cancer	caffeine	caffeine	risk, but what about the	

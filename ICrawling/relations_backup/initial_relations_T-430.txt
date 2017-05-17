@@ -1,40 +1,8 @@
 
-T-430	drugs	drugs	vioxx	vioxx	(like	
-T-430	berries	berries	antioxidant	antioxidant	when it comes to	
-T-430	antioxidant	antioxidant	phytonutrients	phytonutrients	levels.red cherries, which contain anthocyanin	
-T-430	goji	goji	berries	berries		
-T-430	juice	juice	risk	risk	a day, may significantly lower the	
-T-430	tart cherries	tart cherries	melatonin	melatonin	have much more	
-T-430	goji berries	goji berries	antioxidant	antioxidant	when it comes to	
-T-430	vioxx	vioxx	ibuprofen	ibuprofen	or	
-T-430	berries	berries	cherries	cherries	when it comes to antioxidant levels.red	
-T-430	cherries	cherries	inflammation	inflammation	may inhibit	
-T-430	ibuprofen	ibuprofen	fruits	fruits	), because these	
-T-430	goji	goji	antioxidant	antioxidant	berries when it comes to	
-T-430	vioxx	vioxx	fruits	fruits	or ibuprofen), because these	
-T-430	drugs	drugs	fruits	fruits	(like vioxx or ibuprofen), because these	
-T-430	fruits	fruits	anti-inflammatory	anti-inflammatory	and vegetables exhibit	
-T-430	cherries	cherries	dried fruit	dried fruit	are a nutritional powerhouse, and, as a	
-T-430	antioxidant	antioxidant	anthocyanin phytonutrients	anthocyanin phytonutrients	levels.red cherries, which contain	
-T-430	juice	juice	gout	gout	a day, may significantly lower the risk of	
-T-430	anti-inflammatory	anti-inflammatory	cherries	cherries	effects, and red	
-T-430	drugs	drugs	ibuprofen	ibuprofen	(like vioxx or	
-T-430	juice	juice	gout	gout	consumption even allowed	
-T-430	pain	pain	stomach	stomach	and inflammation, while cox-1 protects the	
-T-430	pain	pain	inflammation	inflammation	and	
-T-430	goji berries	goji berries	cherries	cherries	when it comes to antioxidant levels.red	
-T-430	cherries	cherries	fruit	fruit	are a nutritional powerhouse, and, as a dried	
-T-430	cherries	cherries	tart cherries	tart cherries	that led to these results; please note that	
-T-430	antioxidant	antioxidant	cherries	cherries	levels.red	
-T-430	sleep	sleep	insomnia	insomnia	among older subjects with chronic	
-T-430	fruits	fruits	cherries	cherries	and vegetables exhibit anti-inflammatory effects, and red	
-T-430	goji	goji	cherries	cherries	berries when it comes to antioxidant levels.red	
 T-430	risk	risk	gout	gout	of	
-T-430	melatonin	melatonin	cherries	cherries	than sweet or dried	
+T-430	tart cherries	tart cherries	melatonin	melatonin	have much more	
 T-430	fruits	fruits	vegetables	vegetables	and	
 T-430	vegetables	vegetables	anti-inflammatory	anti-inflammatory	exhibit	
-T-430	inflammation	inflammation	drugs	drugs	in our bodies more effectively than nonselective	
-T-430	cherries	cherries	muscle soreness	muscle soreness	’ inflammatory-fighting capabilities may also combat	
-T-430	vegetables	vegetables	cherries	cherries	exhibit anti-inflammatory effects, and red	
-T-430	melatonin	melatonin	cherries	cherries	levels in the	
-T-430	tart cherries	tart cherries	cherries	cherries	have much more melatonin than sweet or dried	
+T-430	pain	pain	inflammation	inflammation	and	
+T-430	vioxx	vioxx	ibuprofen	ibuprofen	or	
+T-430	cherries	cherries	inflammation	inflammation	may inhibit	

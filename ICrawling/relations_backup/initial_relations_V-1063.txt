@@ -1,29 +1,4 @@
 
-V-1063	chocolate	chocolate	cocoa	cocoa	fix baking chocolate, chocolate syrup,	
-V-1063	phytonutrient	phytonutrient	chocolate	chocolate	content, is the healthiest	
-V-1063	risk	risk	isoflavones	isoflavones	are called	
-V-1063	baking	baking	milk	milk	chocolate, chocolate syrup, cocoa powder, dark chocolate,	
-V-1063	soy	soy	cancer	cancer	responsible for lowering	
-V-1063	cancer	cancer	risk	risk		
-V-1063	baking	baking	chocolate	chocolate		
-V-1063	chocolate	chocolate	cocoa	cocoa	fix.you know how dark chocolate is like 70%	
-V-1063	chocolate	chocolate	dark chocolate	dark chocolate	fix baking chocolate, chocolate syrup, cocoa powder,	
-V-1063	baking	baking	cocoa	cocoa	chocolate, chocolate syrup,	
-V-1063	milk	milk	chocolate	chocolate		
-V-1063	phytonutrient	phytonutrient	baking	baking	content, is the healthiest chocolate fix	
-V-1063	cancer	cancer	isoflavones	isoflavones	risk are called	
-V-1063	chocolate	chocolate	dark chocolate	dark chocolate	fix.you know how	
-V-1063	dark chocolate	dark chocolate	cocoa	cocoa	is like 70%	
-V-1063	cocoa	cocoa	chocolate	chocolate	powder, dark	
-V-1063	cocoa	cocoa	milk chocolate	milk chocolate	powder, dark chocolate,	
-V-1063	baking	baking	dark chocolate	dark chocolate	chocolate, chocolate syrup, cocoa powder,	
-V-1063	chocolate	chocolate	baking	baking	fix	
-V-1063	phytonutrients	phytonutrients	risk	risk	in soy responsible for lowering cancer	
-V-1063	baking	baking	milk chocolate	milk chocolate	chocolate, chocolate syrup, cocoa powder, dark chocolate,	
-V-1063	soy	soy	isoflavones	isoflavones	responsible for lowering cancer risk are called	
 V-1063	flavonoids	flavonoids	chocolate	chocolate	in	
-V-1063	phytonutrients	phytonutrients	cancer	cancer	in soy responsible for lowering	
-V-1063	cocoa	cocoa	dark chocolate	dark chocolate	powder,	
 V-1063	phytonutrients	phytonutrients	soy	soy	in	
-V-1063	soy	soy	risk	risk	responsible for lowering cancer	
-V-1063	cocoa	cocoa	milk	milk	powder, dark chocolate,	
+V-1063	risk	risk	isoflavones	isoflavones	are called	

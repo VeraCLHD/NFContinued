@@ -1,80 +1,11 @@
 
-T-751	pollutants	pollutants	mercury	mercury	such as	
-T-751	protein	protein	poultry	poultry	to animal products or	
-T-751	oxidation	oxidation	industrial pollutants	industrial pollutants	in the body.fish is a leading source of	
-T-751	amino acid	amino acid	tumor growth	tumor growth	that appears to aid in cancer	
-T-751	gold	gold	disease	disease	dust retinopathy, mad fish	
-T-751	animal products	animal products	poultry	poultry	or	
-T-751	risk	risk	mortality	mortality	of heart disease, stroke or	
-T-751	fish	fish	protein	protein	a superior source of	
-T-751	pollutants	pollutants	ddt	ddt	such as mercury, dioxins, neurotoxins, arsenic,	
-T-751	fish	fish	animal products	animal products	a superior source of protein to	
-T-751	antioxidants	antioxidants	cholesterol	cholesterol	and phytonutrients and contains	
-T-751	ciguatera	ciguatera	sushi	sushi	poisoning and the fecal contamination of	
-T-751	symptoms	symptoms	anxiety	anxiety	of depression,	
-T-751	fish	fish	risk	risk	or take fish oil capsules to lower	
-T-751	tumor	tumor	oxidation	oxidation	growth, and may contribute to longevity-related	
-T-751	stroke	stroke	mortality	mortality	or	
-T-751	pollutants	pollutants	arsenic	arsenic	such as mercury, dioxins, neurotoxins,	
-T-751	fish oil	fish oil	risk	risk	capsules to lower	
-T-751	cancer	cancer	oxidation	oxidation	tumor growth, and may contribute to longevity-related	
-T-751	amino acid	amino acid	cancer	cancer	that appears to aid in	
-T-751	contamination	contamination	sushi	sushi	of	
-T-751	als	als	atrial fibrillation	atrial fibrillation	), type 2 diabetes, kidney stones,	
-T-751	symptoms	symptoms	depression	depression	of	
-T-751	symptoms	symptoms	fish	fish	of depression, anxiety and stress, and earlier puberty.	
-T-751	phytonutrients	phytonutrients	cholesterol	cholesterol	and contains	
-T-751	pcb	pcb	endocrine disruptors	endocrine disruptors	’s, pdbe’s, alkylphenol	
-T-751	endocrine disruptors	endocrine disruptors	prescription drugs	prescription drugs	and even	
-T-751	organic	organic	fish	fish	or even wild caught	
 T-751	fish	fish	antioxidants	antioxidants	is low in	
 T-751	antioxidants	antioxidants	phytonutrients	phytonutrients	and	
-T-751	fish oil	fish oil	contaminants	contaminants	capsules has revealed toxic	
-T-751	industrial pollutants	industrial pollutants	mercury	mercury	such as	
-T-751	pcb	pcb	drugs	drugs	’s, pdbe’s, alkylphenol endocrine disruptors and even prescription	
-T-751	anxiety	anxiety	fish	fish	and stress, and earlier puberty.	
-T-751	gold	gold	fish	fish	dust retinopathy, mad	
-T-751	food poisoning	food poisoning	fish	fish	from	
-T-751	salmon	salmon	fish	fish	being the worst of all tested smoked foods.	
-T-751	kidney	kidney	atrial fibrillation	atrial fibrillation	stones,	
-T-751	fecal contamination	fecal contamination	sushi	sushi	of	
-T-751	fish	fish	phytonutrients	phytonutrients	is low in antioxidants and	
-T-751	fish	fish	dha	dha		
-T-751	fish oil	fish oil	disease	disease	capsules to lower risk of heart	
-T-751	protein	protein	animal products	animal products	to	
-T-751	cancer	cancer	tumor growth	tumor growth		
-T-751	food poisoning	food poisoning	obesity	obesity	from fish toxins, chemical obesogens that may cause	
-T-751	pollutants	pollutants	dioxins	dioxins	such as mercury,	
-T-751	industrial pollutants	industrial pollutants	dioxins	dioxins	such as mercury,	
-T-751	fish	fish	fish oil	fish oil	or take	
-T-751	risk	risk	heart disease	heart disease	of	
-T-751	obesogens	obesogens	obesity	obesity	that may cause	
-T-751	risk	risk	stroke	stroke	of heart disease,	
-T-751	als	als	diabetes	diabetes	), type 2	
 T-751	supplements	supplements	contaminants	contaminants	provide the benefits without the	
-T-751	industrial pollutants	industrial pollutants	arsenic	arsenic	such as mercury, dioxins, neurotoxins,	
-T-751	gold	gold	retinopathy	retinopathy	dust	
-T-751	amino acid	amino acid	tumor	tumor	that appears to aid in cancer	
-T-751	als	als	kidney	kidney	), type 2 diabetes,	
-T-751	ciguatera	ciguatera	fecal contamination	fecal contamination	poisoning and the	
-T-751	industrial pollutants	industrial pollutants	ddt	ddt	such as mercury, dioxins, neurotoxins, arsenic,	
-T-751	fish oil	fish oil	stroke	stroke	capsules to lower risk of heart disease,	
-T-751	kidney	kidney	children	children	stones, atrial fibrillation, lower iqs among	
-T-751	risk	risk	disease	disease	of heart	
-T-751	fish oil	fish oil	heart disease	heart disease	capsules to lower risk of	
-T-751	fish	fish	cholesterol	cholesterol	is low in antioxidants and phytonutrients and contains	
-T-751	endocrine disruptors	endocrine disruptors	drugs	drugs	and even prescription	
+T-751	contamination	contamination	sushi	sushi	of	
 T-751	anxiety	anxiety	stress	stress	and	
-T-751	als	als	kidney stones	kidney stones	), type 2 diabetes,	
-T-751	cancer	cancer	tumor	tumor		
-T-751	symptoms	symptoms	stress	stress	of depression, anxiety and	
-T-751	ciguatera	ciguatera	contamination	contamination	poisoning and the fecal	
-T-751	pollutants	pollutants	neurotoxins	neurotoxins	such as mercury, dioxins,	
-T-751	industrial pollutants	industrial pollutants	neurotoxins	neurotoxins	such as mercury, dioxins,	
-T-751	gold	gold	food poisoning	food poisoning	dust retinopathy, mad fish disease,	
-T-751	food poisoning	food poisoning	toxins	toxins	from fish	
-T-751	pollutants	pollutants	putrescine	putrescine	such as mercury, dioxins, neurotoxins, arsenic, ddt,	
-T-751	food poisoning	food poisoning	obesogens	obesogens	from fish toxins, chemical	
-T-751	pcb	pcb	prescription drugs	prescription drugs	’s, pdbe’s, alkylphenol endocrine disruptors and even	
-T-751	fish	fish	contaminants	contaminants	oil capsules has revealed toxic	
-T-751	industrial pollutants	industrial pollutants	putrescine	putrescine	such as mercury, dioxins, neurotoxins, arsenic, ddt,	
+T-751	symptoms	symptoms	depression	depression	of	
+T-751	animal products	animal products	poultry	poultry	or	
+T-751	fecal contamination	fecal contamination	sushi	sushi	of	
+T-751	risk	risk	heart disease	heart disease	of	
+T-751	stroke	stroke	mortality	mortality	or	

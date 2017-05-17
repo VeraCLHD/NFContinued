@@ -1,59 +1,14 @@
 
 V-170	fennel seeds	fennel seeds	mouth	mouth	are often used as	
-V-170	americans	americans	japanese	japanese	and europeans are dying, the okinawan	
-V-170	blood	blood	high blood pressure	high blood pressure	flow disorders, such as	
+V-170	spinach	spinach	blood pressure	blood pressure	can lower	
 V-170	fennel	fennel	estragole	estragole	called	
-V-170	fennel	fennel	tea	tea	seed	
 V-170	hair growth	hair growth	women	women	in	
+V-170	seeds	seeds	mouth	mouth	are often used as	
+V-170	prevention	prevention	treatment	treatment	and	
 V-170	chicken	chicken	cheese	cheese	and	
-V-170	chewing	chewing	fennel seeds	fennel seeds		
-V-170	fruits	fruits	fennel	fennel	of the	
+V-170	pregnant	pregnant	breastfeeding	breastfeeding	and	
+V-170	japanese	japanese	health	health	are looking forward to many more years of good	
 V-170	nitrates	nitrates	vegetables	vegetables	in	
 V-170	spinach	spinach	blood	blood	can lower	
-V-170	hair growth	hair growth	syndrome	syndrome	in women, the so-called bearded woman	
-V-170	cheese	cheese	arteries	arteries	sandwich, which lowered the elasticity of their	
-V-170	treatment	treatment	blood	blood	intervention for patients suffering from	
-V-170	spinach	spinach	blood	blood	for both arterial stiffness and	
-V-170	beets	beets	vegetables	vegetables	and green leafy	
-V-170	fennel	fennel	restaurants	restaurants	seeds as you walk out of indian	
-V-170	breast development	breast development	fennel	fennel	among young girls drinking	
-V-170	health	health	vegetables	vegetables	is all the nitrate in their green leafy	
-V-170	health	health	leafy vegetables	leafy vegetables	is all the nitrate in their green	
-V-170	chewing	chewing	seeds	seeds	fennel	
-V-170	children	children	women	women	under 12, pregnant and breastfeeding	
-V-170	breast development	breast development	tea	tea	among young girls drinking fennel seed	
-V-170	fennel	fennel	carcinogen	carcinogen	called estragole into a	
-V-170	children	children	pregnant	pregnant	under 12,	
-V-170	nitrate	nitrate	vegetables	vegetables		
-V-170	blood	blood	cheap	cheap	vessels, making them a	
-V-170	blood pressure	blood pressure	disease	disease	and peripheral vascular	
-V-170	candy	candy	fennel seeds	fennel seeds	coated	
-V-170	candy	candy	fennel	fennel	coated	
-V-170	children	children	breastfeeding	breastfeeding	under 12, pregnant and	
-V-170	estragole	estragole	carcinogen	carcinogen	into a	
-V-170	arteries	arteries	spinach	spinach	within hours of eating, but add the	
-V-170	beets	beets	leafy vegetables	leafy vegetables	and green	
-V-170	high blood pressure	high blood pressure	disease	disease	and peripheral vascular	
-V-170	fennel	fennel	mouth	mouth	seeds are often used as	
-V-170	chewing	chewing	fennel	fennel		
-V-170	blood	blood	blood pressure	blood pressure	flow disorders, such as high	
-V-170	breastfeeding	breastfeeding	women	women		
-V-170	nitrates	nitrates	beets	beets	in vegetables, such as	
-V-170	prevention	prevention	treatment	treatment	and	
-V-170	seeds	seeds	restaurants	restaurants	as you walk out of indian	
-V-170	pregnant	pregnant	women	women	and breastfeeding	
-V-170	prevention	prevention	blood	blood	and treatment intervention for patients suffering from	
-V-170	candy	candy	seeds	seeds	coated fennel	
-V-170	nitrate	nitrate	vegetables	vegetables	in their green leafy	
-V-170	fennel	fennel	seeds	seeds		
-V-170	estrogen	estrogen	tea	tea	levels were elevated, but after stopping the	
-V-170	spinach	spinach	blood pressure	blood pressure	can lower	
-V-170	nitrate	nitrate	leafy vegetables	leafy vegetables	in their green	
-V-170	seeds	seeds	mouth	mouth	are often used as	
-V-170	nitrates	nitrates	leafy vegetables	leafy vegetables	in vegetables, such as beets and green	
-V-170	pregnant	pregnant	breastfeeding	breastfeeding	and	
-V-170	spinach	spinach	blood pressure	blood pressure	for both arterial stiffness and	
-V-170	fennel	fennel	hair growth	hair growth	has also shown antihirsutism activity, combatting excessive	
-V-170	fennel seeds	fennel seeds	restaurants	restaurants	as you walk out of indian	
 V-170	beets	beets	spinach	spinach	and	
 V-170	health	health	nitrate	nitrate	is all the	

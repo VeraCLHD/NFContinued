@@ -1,53 +1,16 @@
 
-A-434	anti-inflammatory	anti-inflammatory	plant-based diets	plant-based diets	power of	
-A-434	plant foods	plant foods	mortality	mortality	actually have an impact on inflammatory disease	
-A-434	risk	risk	disease	disease	of developing inflammatory bowel	
-A-434	risk	risk	plants	plants	of developing inflammatory bowel disease but what about	
-A-434	plant-based	plant-based	diet	diet		
-A-434	plant-based	plant-based	inflammation	inflammation	diets decrease markers of	
-A-434	plant-based diets	plant-based diets	plant-based	plant-based	decrease markers of inflammation doesn’t necessarily mean that	
-A-434	vegetarian	vegetarian	diet	diet		
-A-434	plant foods	plant foods	disease	disease	actually have an impact on inflammatory	
-A-434	disease	disease	diet	diet	re-emerged in half of the standard	
-A-434	risk	risk	inflammatory bowel disease	inflammatory bowel disease	of developing	
-A-434	chronic diseases	chronic diseases	heart disease	heart disease	including	
-A-434	inflammation	inflammation	garlic	garlic	but	
 A-434	anti-inflammatory	anti-inflammatory	immunosuppressive drugs	immunosuppressive drugs	and	
-A-434	anti-inflammatory	anti-inflammatory	disease	disease	plant foods actually have an impact on inflammatory	
-A-434	anti-inflammatory	anti-inflammatory	plant-based	plant-based	power of	
-A-434	disease	disease	plants	plants	but what about	
-A-434	plant-based diets	plant-based diets	inflammation	inflammation	decrease markers of	
-A-434	treatment	treatment	disease	disease	of crohn’s	
-A-434	inflammatory bowel disease	inflammatory bowel disease	plants	plants	but what about	
-A-434	juice	juice	tomatoes	tomatoes	decreases inflammation but whole	
-A-434	vegan	vegan	biomarkers	biomarkers	have found lower levels of inflammatory	
-A-434	fish	fish	meat	meat	a week, and half a serving of other	
-A-434	chronic diseases	chronic diseases	diabetes	diabetes	including heart disease, cancer,	
-A-434	tomato juice	tomato juice	inflammation	inflammation	decreases	
-A-434	vegetarian	vegetarian	vegan	vegan	or	
-A-434	anti-inflammatory	anti-inflammatory	drugs	drugs	and immunosuppressive	
-A-434	chronic diseases	chronic diseases	disease	disease	including heart	
-A-434	anti-inflammatory	anti-inflammatory	garlic	garlic	effects of some (	
 A-434	disease	disease	immune system	immune system	is an autoimmune condition where your	
-A-434	chronic diseases	chronic diseases	cancer	cancer	including heart disease,	
-A-434	tomato juice	tomato juice	tomatoes	tomatoes	decreases inflammation but whole	
-A-434	vegetarian	vegetarian	biomarkers	biomarkers	or vegan have found lower levels of inflammatory	
-A-434	juice	juice	inflammation	inflammation	decreases	
-A-434	diet	diet	disease	disease	remained without	
-A-434	disease	disease	mortality	mortality		
-A-434	walnut	walnut	risk	risk	a day appeared to cut the	
-A-434	animal protein	animal protein	risk	risk	in general has been found to increase	
-A-434	anti-inflammatory	anti-inflammatory	purple potatoes	purple potatoes	effects of	
-A-434	protein	protein	risk	risk	in general has been found to increase	
-A-434	anti-inflammatory	anti-inflammatory	inflammation	inflammation	effects of some (garlic decreases	
-A-434	anti-inflammatory	anti-inflammatory	plant foods	plant foods		
 A-434	inflammation	inflammation	plant-based	plant-based	doesn’t necessarily mean that	
-A-434	risk	risk	disease	disease	of dying from inflammatory	
+A-434	plant-based diets	plant-based diets	inflammation	inflammation	decrease markers of	
+A-434	inflammation	inflammation	chronic diseases	chronic diseases	has recently emerged as an important player in the development of age-related disability and many of our major	
 A-434	inflammation	inflammation	plant-based diets	plant-based diets	doesn’t necessarily mean that	
 A-434	plant-based diet	plant-based diet	disease	disease	remained without	
-A-434	plant-based	plant-based	inflammation	inflammation	foods decrease	
-A-434	plant-based	plant-based	plant-based diets	plant-based diets	diets decrease markers of inflammation doesn’t necessarily mean that	
-A-434	plant-based	plant-based	disease	disease	diet remained without	
+A-434	juice	juice	inflammation	inflammation	decreases	
+A-434	disease	disease	diet	diet	re-emerged in half of the standard	
 A-434	garlic	garlic	inflammation	inflammation	decreases	
-A-434	anti-inflammatory	anti-inflammatory	potatoes	potatoes	effects of purple	
+A-434	tomato juice	tomato juice	inflammation	inflammation	decreases	
+A-434	vegetarian	vegetarian	vegan	vegan	or	
+A-434	diet	diet	disease	disease	remained without	
+A-434	chronic diseases	chronic diseases	heart disease	heart disease	including	
 A-434	plants	plants	anti-inflammatory	anti-inflammatory	have been found to be most	

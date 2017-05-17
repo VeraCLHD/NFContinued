@@ -1,50 +1,7 @@
 
-V-540	cleveland clinic	cleveland clinic	eggs	eggs	found dietary choline, found predominantly in “	
-V-540	eggs	eggs	lutein	lutein	as a source of eyesight-saving nutrients, such as	
-V-540	eggs	eggs	cholesterol	cholesterol	’ fat and	
 V-540	eggs	eggs	lutein	lutein	contain	
-V-540	choline	choline	trimethylamine	trimethylamine	compound into	
-V-540	choline	choline	public health	public health	” having “tremendous	
-V-540	egg	egg	eggs	eggs	industry instead boast about the choline content in	
-V-540	poultry	poultry	egg	egg	research and promotion programs, reminding the	
-V-540	trimethylamine	trimethylamine	vegans	vegans	often become	
-V-540	americans	americans	body odor	body odor	have a genetic defect that causes a “fishy	
 V-540	iron	iron	folate	folate	or	
-V-540	cleveland clinic	cleveland clinic	liver	liver	found dietary choline, found predominantly in “eggs, milk,	
-V-540	lutein	lutein	eggs	eggs	is, since	
-V-540	fish	fish	gut	gut	” (after it is converted in our	
-V-540	freedom of information act	freedom of information act	usda	usda	from the head of the	
-V-540	marketing	marketing	egg	egg	service suggested the	
-V-540	usda	usda	marketing	marketing	agriculture	
-V-540	choline	choline	eggs	eggs	out to be an “urgent” problem and	
-V-540	choline	choline	health	health	” having “tremendous public	
-V-540	spinach	spinach	eggs	eggs	had as much as nine	
-V-540	egg	egg	eggs	eggs	industry pr campaign trying to promote	
-V-540	egg	egg	lutein	lutein	industry that they can’t mention	
-V-540	egg	egg	choline	choline	industry instead boast about the	
-V-540	gut	gut	trimethylamine	trimethylamine	into the fishy compound,	
-V-540	lutein	lutein	egg	egg	in an	
-V-540	choline	choline	saliva	saliva	can give your “breath, urine, sweat,	
-V-540	choline	choline	diet	diet		
-V-540	usda	usda	egg	egg	agriculture marketing service suggested the	
-V-540	usda	usda	egg	egg	’s poultry research and promotion programs, reminding the	
-V-540	agriculture	agriculture	marketing	marketing		
-V-540	agriculture	agriculture	egg	egg	marketing service suggested the	
-V-540	american egg board	american egg board	choline	choline	became to make	
-V-540	saliva	saliva	fish	fish	and vaginal secretions” an odor resembling “rotten, dead	
-V-540	choline	choline	urine	urine	can give your “breath,	
-V-540	cleveland clinic	cleveland clinic	milk	milk	found dietary choline, found predominantly in “eggs,	
-V-540	gut	gut	liver	liver	to trimethylamine, and oxidized in our	
-V-540	choline	choline	gut	gut	diet,” since choline is converted in our	
-V-540	cleveland clinic	cleveland clinic	choline	choline	found dietary	
-V-540	choline	choline	eggs	eggs	content in	
-V-540	liver	liver	trimethylamine	trimethylamine	to form	
 V-540	fat	fat	cholesterol	cholesterol	and	
-V-540	eggs	eggs	protein	protein	a rich source of	
-V-540	usda	usda	agriculture	agriculture		
-V-540	eggs	eggs	fat	fat	’	
-V-540	egg	egg	choline	choline	board became to make	
-V-540	freedom of information act	freedom of information act	poultry	poultry	from the head of the usda’s	
-V-540	usda	usda	poultry	poultry	’s	
-V-540	plaque	plaque	arteries	arteries	buildup in peoples’	
-V-540	gut	gut	trimethylamine	trimethylamine	to	
+V-540	lutein	lutein	eggs	eggs	is, since	
+V-540	american egg board	american egg board	choline	choline	became to make	
+V-540	spinach	spinach	eggs	eggs	had as much as nine	

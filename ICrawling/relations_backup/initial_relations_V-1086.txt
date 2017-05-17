@@ -1,6 +1,0 @@
-
-V-1086	canker sores	canker sores	dementia	dementia	—but for adhd, asthma, cancer,	
-V-1086	canker sores	canker sores	adhd	adhd	—but for	
-V-1086	canker sores	canker sores	asthma	asthma	—but for adhd,	
-V-1086	canker sores	canker sores	cancer	cancer	—but for adhd, asthma,	
-V-1086	canker sores	canker sores	influenza	influenza	—but for adhd, asthma, cancer, dementia,	

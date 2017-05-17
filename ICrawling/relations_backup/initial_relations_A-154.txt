@@ -1,29 +1,8 @@
 
-A-154	fruits	fruits	cold	cold	can be nutritionally enhanced by	
-A-154	produce	produce	plant foods	plant foods	aspirin (see aspirin levels in	
-A-154	cold	cold	water	water	stress, light stress,	
-A-154	lettuce	lettuce	stress	stress	and fruits can be nutritionally enhanced by cold	
-A-154	strawberries	strawberries	antioxidants	antioxidants	have more	
-A-154	sunlight	sunlight	dna	dna	can damage the	
-A-154	phytochemicals	phytochemicals	nutrition	nutrition	: the	
-A-154	neurotransmitters	neurotransmitters	broccoli	broccoli	in plants and the	
-A-154	plants	plants	broccoli	broccoli	and the	
-A-154	grapes	grapes	health	health	in terms of	
-A-154	produce	produce	aspirin	aspirin		
-A-154	neurotransmitters	neurotransmitters	plants	plants	in	
-A-154	cold	cold	stress	stress		
-A-154	plants	plants	aspirin	aspirin	get infected, they produce	
-A-154	plants	plants	produce	produce	get infected, they	
-A-154	water	water	stress	stress	deficit, or nutrient deficit	
-A-154	strawberries	strawberries	phytonutrients	phytonutrients	have more antioxidants and	
-A-154	sunlight	sunlight	plants	plants	can damage the dna in	
-A-154	plants	plants	bacteria	bacteria	and fungi get attacked by	
-A-154	aspirin	aspirin	plant foods	plant foods	(see aspirin levels in	
 A-154	antioxidants	antioxidants	phytonutrients	phytonutrients	and	
+A-154	strawberries	strawberries	antioxidants	antioxidants	have more	
 A-154	lettuce	lettuce	fruits	fruits	and	
-A-154	plants	plants	stress	stress	and their	
 A-154	dna	dna	plants	plants	in	
-A-154	fruits	fruits	stress	stress	can be nutritionally enhanced by cold	
 A-154	plants	plants	dna	dna	have	
-A-154	lettuce	lettuce	cold	cold	and fruits can be nutritionally enhanced by	
-A-154	plants	plants	dna	dna	in the same way it can damage our	
+A-154	plants	plants	antioxidants	antioxidants	figured out how to cook up all these complex	
+A-154	neurotransmitters	neurotransmitters	plants	plants	in	

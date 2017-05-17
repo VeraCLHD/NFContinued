@@ -1,21 +1,4 @@
 
-T-1349	diet	diet	oral cancer	oral cancer	and lifestyle may significantly affect one’s vulnerability to	
-T-1349	breastfeeding	breastfeeding	oral cancer	oral cancer	woman, you may significantly lower your risk of	
-T-1349	risk	risk	cancer	cancer	of oral	
-T-1349	cancer	cancer	oral cancer	oral cancer	.the foods found most protective against	
-T-1349	oral cancer	oral cancer	cancer	cancer	.the foods found most protective against oral	
-T-1349	oral cancer	oral cancer	black raspberries	black raspberries	lesions appear to respond well to	
-T-1349	alcohol	alcohol	breastfeeding	breastfeeding	—and, if you’re a	
-T-1349	raw	raw	carrots	carrots	and green/leafy vegetables, apples, tomatoes, citrus, and	
-T-1349	cancer	cancer	raspberries	raspberries	lesions appear to respond well to black	
 T-1349	black raspberries	black raspberries	turmeric	turmeric	and	
-T-1349	raw	raw	citrus	citrus	and green/leafy vegetables, apples, tomatoes,	
 T-1349	raspberries	raspberries	turmeric	turmeric	and	
-T-1349	raw	raw	vegetables	vegetables	and green/leafy	
-T-1349	raw	raw	tomatoes	tomatoes	and green/leafy vegetables, apples,	
-T-1349	cancer	cancer	cancer	cancer	.the foods found most protective against oral	
-T-1349	raw	raw	apples	apples	and green/leafy vegetables,	
 T-1349	risk	risk	oral cancer	oral cancer	of	
-T-1349	oral cancer	oral cancer	raspberries	raspberries	lesions appear to respond well to black	
-T-1349	breastfeeding	breastfeeding	risk	risk	woman, you may significantly lower your	
-T-1349	cancer	cancer	black raspberries	black raspberries	lesions appear to respond well to	

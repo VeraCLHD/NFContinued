@@ -1,52 +1,11 @@
 
-A-480	fiber	fiber	disease	disease	deficiency	
-A-480	vegans	vegans	stool size	stool size	also get points for achieving the preferred	
-A-480	disease	disease	colon	colon	“by altering the metabolism of bacteria in the	
-A-480	plant-based	plant-based	risk	risk	diets still had significantly lower	
-A-480	metabolism	metabolism	lead	lead	of bacteria in the colon, which could	
-A-480	scurvy	scurvy	disease	disease	is a vitamin c deficiency	
-A-480	disease	disease	risk	risk		
-A-480	women	women	breast cancer	breast cancer	eating vegetarian may have lower	
-A-480	women	women	cancer	cancer	eating vegetarian may have lower breast	
+A-480	women	women	standard american diet	standard american diet	eating a	
+A-480	vegetarians	vegetarians	vegans	vegans	and	
+A-480	vegetarians	vegetarians	risk	risk	had 35% less	
 A-480	women	women	vegetarian	vegetarian	eating	
 A-480	scurvy	scurvy	vitamin c	vitamin c	is a	
-A-480	fiber	fiber	plant-based	plant-based	intake, those on	
+A-480	fiber	fiber	women	women	had only a quarter the odds of having a daily bowel movement compared to	
 A-480	vegan	vegan	risk	risk	appeared to eliminate 78% of the	
-A-480	vegetarians	vegetarians	vegans	vegans	and	
-A-480	breast cancer	breast cancer	bowel movements	bowel movements	rates is because they have larger	
-A-480	meat	meat	risk	risk	itself may increase the	
-A-480	colon	colon	disease	disease	: a deficiency	
-A-480	vegetarian	vegetarian	breast cancer	breast cancer	may have lower	
-A-480	scurvy	scurvy	diverticulosis	diverticulosis	is a vitamin c deficiency disease, they argued,	
-A-480	vegetarian	vegetarian	cancer	cancer	may have lower breast	
-A-480	women	women	standard american diet	standard american diet	eating a	
-A-480	painter and burkitt	painter and burkitt	disease	disease	’s landmark paper “diverticular	
-A-480	fiber	fiber	plant-based diets	plant-based diets	intake, those on	
-A-480	disease	disease	colon	colon	of the	
-A-480	meat	meat	vegetarians	vegetarians	eaters,	
-A-480	bacteria	bacteria	colon	colon	in the	
-A-480	meat	meat	disease	disease	itself may increase the risk of diverticular	
-A-480	vitamin c	vitamin c	diverticulosis	diverticulosis	deficiency disease, they argued,	
-A-480	cancer	cancer	bowel movements	bowel movements	rates is because they have larger	
-A-480	fruits	fruits	fiber	fiber	and veggies and ate the same amount of	
-A-480	women	women	fruits	fruits	who piled on the	
-A-480	disease	disease	bacteria	bacteria	“by altering the metabolism of	
-A-480	diverticulosis	diverticulosis	disease	disease	is a fiber deficiency	
-A-480	fiber	fiber	plant foods	plant foods	deficiency disease, the result of not eating whole	
-A-480	disease	disease	metabolism	metabolism	“by altering the	
-A-480	bacteria	bacteria	lead	lead	in the colon, which could	
-A-480	vegetarians	vegetarians	risk	risk	had 35% less	
-A-480	metabolism	metabolism	colon	colon	of bacteria in the	
-A-480	plant-based diets	plant-based diets	risk	risk	still had significantly lower	
-A-480	vitamin c	vitamin c	disease	disease	deficiency	
-A-480	metabolism	metabolism	bacteria	bacteria	of	
-A-480	risk	risk	diverticulitis	diverticulitis	of being hospitalized or dying from	
-A-480	lead	lead	colon	colon	to a weakening of the	
-A-480	vitamin c	vitamin c	fiber	fiber	deficiency disease, they argued, diverticulosis is a	
-A-480	women	women	diet	diet	eating a standard american	
-A-480	painter and burkitt	painter and burkitt	colon	colon	’s landmark paper “diverticular disease of the	
 A-480	diverticulosis	diverticulosis	fiber	fiber	is a	
-A-480	cancer	cancer	prevention	prevention		
-A-480	meat	meat	risk	risk	eaters, vegetarians had 35% less	
-A-480	beets	beets	transit time	transit time	to measure one’s intestinal	
-A-480	stool size	stool size	beets	beets	matters offered a tip on how to use	
+A-480	vegetarian	vegetarian	breast cancer	breast cancer	may have lower	
+A-480	metabolism	metabolism	bacteria	bacteria	of	

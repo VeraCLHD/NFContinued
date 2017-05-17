@@ -1,70 +1,18 @@
 
-V-644	sugar	sugar	cake	cake	bureau, as well as the biscuit,	
-V-644	teeth	teeth	fluoride	fluoride	twice [a day with]	
-V-644	cavities	cavities	fruit	fruit	—though they acknowledge that “the role of	
-V-644	raw	raw	tomatoes	tomatoes	and green/leafy vegetables,	
-V-644	fruit	fruit	fluoride	fluoride	was done on folks without using	
-V-644	fruit	fruit	teeth	teeth	juice may be bad for your	
-V-644	dental	dental	candy	candy	erosion”—both unhealthy foods, like soda and sour	
-V-644	cancer	cancer	vegetables	vegetables	include raw and green/leafy	
-V-644	kids	kids	fruit	fruit	eating more	
-V-644	apple	apple	sports	sports	cider vinegar or	
-V-644	vegetarian	vegetarian	teeth	teeth	did have more erosive lesions on their	
-V-644	raw	raw	vegetables	vegetables	and green/leafy	
-V-644	raw	raw	carrots	carrots	and green/leafy vegetables, tomatoes, citrus, and	
-V-644	oral cancer	oral cancer	citrus	citrus	include raw and green/leafy vegetables, tomatoes,	
-V-644	carrots	carrots	apples	apples	or carrot juice, oranges,	
-V-644	carrots	carrots	tomatoes	tomatoes	or carrot juice, oranges, apples,	
-V-644	carrots	carrots	oranges	oranges	or carrot juice,	
-V-644	health	health	teeth	teeth	of the	
-V-644	apple	apple	sports drinks	sports drinks	cider vinegar or	
 V-644	fruit	fruit	tomatoes	tomatoes	and	
-V-644	cancer	cancer	citrus	citrus	include raw and green/leafy vegetables, tomatoes,	
-V-644	grapes	grapes	carrots	carrots	or grape juice,	
-V-644	cavities	cavities	kids	kids	in	
-V-644	raw	raw	tomatoes	tomatoes	vegetables and fruit and	
-V-644	children	children	fluoride	fluoride	should brush their teeth twice [a day with]	
-V-644	dental	dental	fruits	fruits	association put on it is interesting: if “eating	
-V-644	lemon	lemon	teeth	teeth	wedges”—not, evidently, a good thing for your	
-V-644	vegetables	vegetables	tomatoes	tomatoes	and fruit and	
-V-644	dental	dental	soda	soda	erosion”—both unhealthy foods, like	
-V-644	oral cancer	oral cancer	raw	raw	include	
-V-644	carrots	carrots	fruits	fruits	or carrot juice, oranges, apples, tomatoes, or raisins.now,	
-V-644	soda	soda	candy	candy	and sour	
-V-644	fruit	fruit	juice	juice	is as bad as	
-V-644	citrus	citrus	fruits	fruits		
-V-644	mouth	mouth	water	water	] with	
-V-644	oral cancer	oral cancer	vegetables	vegetables	include raw and green/leafy	
-V-644	dental	dental	fruits	fruits	erosion, compared to those who consumed citrus	
-V-644	chocolate	chocolate	dental	dental	and confectionery association.the spin the	
 V-644	vegetables	vegetables	fruit	fruit	and	
-V-644	carrots	carrots	juice	juice	or carrot	
-V-644	oral cancer	oral cancer	carrots	carrots	include raw and green/leafy vegetables, tomatoes, citrus, and	
-V-644	oral cancer	oral cancer	tomatoes	tomatoes	include raw and green/leafy vegetables,	
-V-644	juice	juice	teeth	teeth	may be bad for your	
-V-644	fruit	fruit	cavities	cavities	sugars in initiating dental [	
-V-644	apple cider vinegar	apple cider vinegar	sports	sports	or	
-V-644	raw	raw	citrus	citrus	and green/leafy vegetables, tomatoes,	
-V-644	dental	dental	citrus	citrus	erosion, compared to those who consumed	
-V-644	diet	diet	teeth	teeth	coke takes the title for softening	
-V-644	grapes	grapes	oranges	oranges	or grape juice, carrots or carrot juice,	
-V-644	sports drinks	sports drinks	soft drinks	soft drinks	once a week or more often, or	
-V-644	cancer	cancer	carrots	carrots	include raw and green/leafy vegetables, tomatoes, citrus, and	
-V-644	cancer	cancer	tomatoes	tomatoes	include raw and green/leafy vegetables,	
-V-644	cavities	cavities	fruit	fruit	in kids eating more	
 V-644	vinegar	vinegar	sports drinks	sports drinks	or	
-V-644	sports	sports	soft drinks	soft drinks	drinks once a week or more often, or	
+V-644	cavities	cavities	kids	kids	in	
 V-644	grapes	grapes	grape juice	grape juice	or	
-V-644	grapes	grapes	apples	apples	or grape juice, carrots or carrot juice, oranges,	
-V-644	raw	raw	fruit	fruit	vegetables and	
+V-644	fruit	fruit	fluoride	fluoride	was done on folks without using	
+V-644	juice	juice	teeth	teeth	may be bad for your	
+V-644	apple cider vinegar	apple cider vinegar	sports	sports	or	
+V-644	kids	kids	fruit	fruit	eating more	
+V-644	vegetarian	vegetarian	teeth	teeth	did have more erosive lesions on their	
 V-644	apple cider vinegar	apple cider vinegar	sports drinks	sports drinks	or	
+V-644	oral cancer	oral cancer	raw	raw	include	
 V-644	vinegar	vinegar	sports	sports	or	
+V-644	fruit	fruit	juice	juice	is as bad as	
 V-644	cancer	cancer	raw	raw	include	
-V-644	fruit	fruit	juice	juice		
 V-644	children	children	teeth	teeth	should brush their	
-V-644	sugar	sugar	chocolate	chocolate	bureau, as well as the biscuit, cake,	
-V-644	apple	apple	vinegar	vinegar	cider	
-V-644	beverage	beverage	dental	dental	[s] would prevent the damaging effects of	
 V-644	fruit juice	fruit juice	teeth	teeth	may be bad for your	
-V-644	grapes	grapes	juice	juice	or grape	
-V-644	raw	raw	vegetables	vegetables		

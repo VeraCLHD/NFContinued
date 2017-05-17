@@ -1,55 +1,13 @@
 
-V-156	exercise	exercise	diet	diet	—just	
-V-156	plaque	plaque	drugs	drugs	away, opening up arteries, in some cases without	
-V-156	plant-based	plant-based	diet	diet		
-V-156	plant-based diets	plant-based diets	plaque	plaque	can reverse heart disease, dissolving	
-V-156	angina	angina	ornish	ornish	patients deserve to be offered the	
 V-156	angina	angina	plant-based	plant-based	using a	
-V-156	angina	angina	diet	diet	using a plant-based	
-V-156	endothelial	endothelial	angina	angina	function improves.there’s a new category of anti-	
-V-156	plant-based diets	plant-based diets	disease	disease	can reverse heart	
-V-156	diet	diet	surgery	surgery	alternative before being shunted to expensive	
-V-156	esselstyn	esselstyn	surgery	surgery	diet alternative before being shunted to expensive	
-V-156	exercise	exercise	stress	stress	—just diet and	
-V-156	plant-based	plant-based	plaque	plaque	diets can reverse heart disease, dissolving	
-V-156	angina	angina	esselstyn	esselstyn	patients deserve to be offered the ornish or	
-V-156	ornish	ornish	diet	diet	or esselstyn	
-V-156	stress	stress	exercise	exercise	management, and we know	
-V-156	cholesterol	cholesterol	blood	blood	lowering on cardiac	
-V-156	cholesterol	cholesterol	blood	blood	went back up, the	
-V-156	angina	angina	drugs	drugs		
-V-156	plant-based	plant-based	arteries	arteries	diets that improves our	
-V-156	dr. esselstyn	dr. esselstyn	plant-based diet	plant-based diet	was able to improve angina using a	
-V-156	esselstyn	esselstyn	plant-based	plant-based	was able to improve angina using a	
-V-156	ornish	ornish	esselstyn	esselstyn	or	
-V-156	blood	blood	cholesterol	cholesterol	flow.they started out with miserable	
-V-156	endothelial	endothelial	plant-based	plant-based	function that’s doing it.what is it about	
-V-156	cholesterol	cholesterol	blood	blood	lowering itself appears to improve	
-V-156	esselstyn	esselstyn	plant-based diet	plant-based diet	was able to improve angina using a	
-V-156	stress	stress	angina	angina	management— and got a 90% reduction in	
-V-156	plant-based diets	plant-based diets	arteries	arteries	that improves our	
-V-156	plant-based	plant-based	disease	disease	diets can reverse heart	
-V-156	sugar	sugar	blood	blood	water straight into their	
-V-156	angina	angina	vegan	vegan	and	
-V-156	exercise	exercise	stress	stress	or	
-V-156	dr. esselstyn	dr. esselstyn	plant-based	plant-based	was able to improve angina using a	
-V-156	endothelial	endothelial	plant-based diets	plant-based diets	function that’s doing it.what is it about	
-V-156	endothelial	endothelial	cholesterol	cholesterol	function improves if we lower our	
-V-156	sugar	sugar	water	water		
-V-156	water	water	blood	blood	straight into their	
-V-156	stress	stress	endothelial	endothelial	management, and we know exercise alone can improve	
-V-156	dr. esselstyn	dr. esselstyn	angina	angina	was able to improve	
-V-156	cholesterol	cholesterol	blood	blood	levels, and the diminished	
-V-156	esselstyn	esselstyn	angina	angina	was able to improve	
-V-156	angina	angina	plant-based diet	plant-based diet	using a	
-V-156	plant-based	plant-based	heart disease	heart disease	diets can reverse	
-V-156	dr. esselstyn	dr. esselstyn	diet	diet	was able to improve angina using a plant-based	
-V-156	angina	angina	diet	diet	and vegan	
-V-156	blood	blood	angina	angina	flow, and their	
 V-156	exercise	exercise	stress	stress	and	
-V-156	vegan	vegan	diet	diet		
-V-156	esselstyn	esselstyn	diet	diet		
-V-156	esselstyn	esselstyn	diet	diet	was able to improve angina using a plant-based	
-V-156	endothelial	endothelial	drugs	drugs	function improves.there’s a new category of anti-angina	
+V-156	ornish	ornish	esselstyn	esselstyn	or	
+V-156	angina	angina	plant-based diet	plant-based diet	using a	
+V-156	angina	angina	vegan	vegan	and	
+V-156	dr. esselstyn	dr. esselstyn	angina	angina	was able to improve	
 V-156	plaque	plaque	arteries	arteries	away, opening up	
+V-156	exercise	exercise	stress	stress	or	
+V-156	diet	diet	ornish	ornish	had anything to do with it?if you go back to	
+V-156	symptoms	symptoms	plaque	plaque	are too rapid and too great to be explained by the gradual regression of the atherosclerotic	
 V-156	plant-based diets	plant-based diets	heart disease	heart disease	can reverse	
+V-156	esselstyn	esselstyn	angina	angina	was able to improve	

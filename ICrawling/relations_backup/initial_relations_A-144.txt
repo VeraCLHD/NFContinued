@@ -1,63 +1,7 @@
 
-A-144	muscle soreness	muscle soreness	tart cherries	tart cherries	(see	
-A-144	cherries	cherries	insomnia	insomnia	for	
-A-144	anti-inflammatory	anti-inflammatory	cherries	cherries	activity than tart	
-A-144	diet	diet	drugs	drugs	: other studies in which anti-inflammatory	
-A-144	turmeric	turmeric	rheumatoid arthritis	rheumatoid arthritis	curcumin and osteoarthritis and turmeric curcumin and	
-A-144	diet	diet	anti-inflammatory	anti-inflammatory	: other studies in which	
-A-144	berries	berries	cherries	cherries	), i talked about the benefits of sour	
-A-144	osteoarthritis	osteoarthritis	curcumin	curcumin	and turmeric	
-A-144	drugs	drugs	ibuprofen	ibuprofen	like	
-A-144	cherries	cherries	anti-inflammatory	anti-inflammatory	into my diet: other studies in which	
-A-144	gout	gout	treatment	treatment		
-A-144	pain	pain	stomach	stomach	and inflammation of cox-2 without inhibiting the	
-A-144	curcumin	curcumin	rheumatoid arthritis	rheumatoid arthritis	and osteoarthritis and turmeric curcumin and	
-A-144	pain	pain	inflammation	inflammation	and	
-A-144	insomnia	insomnia	muscle soreness	muscle soreness	and reducing	
-A-144	sheep	sheep	stomach	stomach	on our plate without digesting our own	
-A-144	drugs	drugs	naproxen	naproxen	like ibuprofen and	
-A-144	anti-inflammatory	anti-inflammatory	cherries	cherries	life is a bowl of	
-A-144	cherries	cherries	berries	berries	for insomnia and reducing muscle soreness with	
-A-144	anti-inflammatory	anti-inflammatory	ibuprofen	ibuprofen	drugs like	
-A-144	stomach	stomach	enzymes	enzymes	goes into our own stomach, our digestive	
-A-144	cherries	cherries	inflammatory diseases	inflammatory diseases	actually be used clinically to treat	
-A-144	internal bleeding	internal bleeding	side effects	side effects	from one type of drug or death from	
-A-144	osteoarthritis	osteoarthritis	turmeric	turmeric	and	
-A-144	internal bleeding	internal bleeding	death	death	from one type of drug or	
-A-144	osteoarthritis	osteoarthritis	rheumatoid arthritis	rheumatoid arthritis	and turmeric curcumin and	
-A-144	curcumin	curcumin	arthritis	arthritis	and osteoarthritis and turmeric curcumin and rheumatoid	
-A-144	ibuprofen	ibuprofen	naproxen	naproxen	and	
-A-144	tart cherries	tart cherries	muscle soreness	muscle soreness	for insomnia and reducing	
-A-144	curcumin	curcumin	turmeric	turmeric	and osteoarthritis and	
-A-144	inflammation	inflammation	stomach	stomach	of cox-2 without inhibiting the	
-A-144	muscle soreness	muscle soreness	cherries	cherries	(see tart	
-A-144	drugs	drugs	turmeric	turmeric	were compared to natural dietary remedies include:	
 A-144	curcumin	curcumin	osteoarthritis	osteoarthritis	and	
 A-144	enzymes	enzymes	stomach	stomach	and	
-A-144	ibuprofen	ibuprofen	inflammation	inflammation	are great at relieving pain and	
-A-144	osteoarthritis	osteoarthritis	arthritis	arthritis	and turmeric curcumin and rheumatoid	
+A-144	ibuprofen	ibuprofen	naproxen	naproxen	and	
 A-144	ibuprofen	ibuprofen	pain	pain	are great at relieving	
-A-144	oatmeal	oatmeal	stomach	stomach	traditionally stuffed inside of a	
-A-144	anti-inflammatory	anti-inflammatory	naproxen	naproxen	drugs like ibuprofen and	
-A-144	cherries	cherries	muscle soreness	muscle soreness	for insomnia and reducing	
-A-144	drugs	drugs	inflammation	inflammation	like ibuprofen are great at relieving pain and	
-A-144	cherries	cherries	drugs	drugs	into my diet: other studies in which anti-inflammatory	
-A-144	turmeric	turmeric	osteoarthritis	osteoarthritis	curcumin and	
-A-144	tart cherries	tart cherries	berries	berries	for insomnia and reducing muscle soreness with	
-A-144	tart cherries	tart cherries	insomnia	insomnia	for	
-A-144	turmeric	turmeric	curcumin	curcumin		
-A-144	insomnia	insomnia	tart cherries	tart cherries	and reducing muscle soreness (see	
-A-144	turmeric	turmeric	arthritis	arthritis	curcumin and osteoarthritis and turmeric curcumin and rheumatoid	
-A-144	pudding	pudding	oatmeal	oatmeal	of heart, liver, lungs, and	
-A-144	death	death	internal bleeding	internal bleeding	from	
-A-144	drugs	drugs	curcumin	curcumin	were compared to natural dietary remedies include: turmeric	
-A-144	pudding	pudding	liver	liver	of heart,	
-A-144	cherries	cherries	diet	diet	into my	
-A-144	muscle soreness	muscle soreness	insomnia	insomnia	(see tart cherries for	
-A-144	anti-inflammatory	anti-inflammatory	turmeric	turmeric	drugs were compared to natural dietary remedies include:	
-A-144	drugs	drugs	pain	pain	like ibuprofen are great at relieving	
-A-144	insomnia	insomnia	cherries	cherries	and reducing muscle soreness (see tart	
-A-144	stomach	stomach	sheep	sheep	lining of a	
-A-144	anti-inflammatory	anti-inflammatory	tart cherries	tart cherries	activity than	
-A-144	anti-inflammatory	anti-inflammatory	drugs	drugs		
-A-144	death	death	anti-inflammatory	anti-inflammatory	rate from	
+A-144	pain	pain	inflammation	inflammation	and	
+A-144	osteoarthritis	osteoarthritis	turmeric	turmeric	and	

@@ -1,36 +1,15 @@
 
-A-188	evolution	evolution	plant foods	plant foods	and the consumption of whole	
-A-188	berries	berries	anti-inflammatory	anti-inflammatory	are packed with them, possessing powerful antioxidant and	
-A-188	juice	juice	concord grapes	concord grapes	and not whole	
-A-188	women	women	berries	berries	for years, and found that “long-term consumption of	
-A-188	blueberries	blueberries	strawberries	strawberries	and	
-A-188	plant-based	plant-based	diet	diet		
-A-188	vegetables	vegetables	chronic diseases	chronic diseases	help reduce the risk of other	
-A-188	polyphenols	polyphenols	berries	berries	found ubiquitously in foods of plant origin, but	
-A-188	fruits	fruits	berries	berries	and	
-A-188	polyphenols	polyphenols	treatment	treatment	as agents in the	
-A-188	memory	memory	blueberries	blueberries	in older adults,” suggesting that “consistent supplementation with	
-A-188	women	women	berries	berries	with higher intake of	
-A-188	harvard	harvard	health	health	nurses’	
-A-188	fruits	fruits	chronic diseases	chronic diseases	and vegetables help reduce the risk of other	
-A-188	phytonutrients	phytonutrients	oxidation	oxidation	in berries could fight	
-A-188	polyphenols	polyphenols	dementia	dementia	as agents in the treatment of	
 A-188	risk	risk	aging	aging	of	
+A-188	polyphenols	polyphenols	blood	blood	are uniquely and specifically capable of “both crossing the	
 A-188	phytonutrients	phytonutrients	berries	berries	in	
-A-188	phytonutrients	phytonutrients	inflammation	inflammation	in berries could fight oxidation and	
 A-188	treatment	treatment	dementia	dementia	of	
 A-188	berries	berries	aging	aging	appeared to have delayed cognitive	
-A-188	oxidation	oxidation	blood	blood	and inflammation, and even increase	
-A-188	berries	berries	antioxidant	antioxidant	are packed with them, possessing powerful	
-A-188	dementia	dementia	aging	aging	with	
-A-188	berries	berries	blood	blood	could fight oxidation and inflammation, and even increase	
+A-188	diet	diet	evolution	evolution	is thought to have played a significant role in human	
+A-188	blueberries	blueberries	strawberries	strawberries	and	
+A-188	fruits	fruits	berries	berries	and	
 A-188	oxidation	oxidation	inflammation	inflammation	and	
-A-188	risk	risk	chronic diseases	chronic diseases	of other	
 A-188	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	and	
 A-188	vegetables	vegetables	risk	risk	help reduce the	
-A-188	aging	aging	wrinkles	wrinkles	i’m not talking preventing	
-A-188	juice	juice	grapes	grapes	and not whole concord	
-A-188	fruits	fruits	risk	risk	and vegetables help reduce the	
+A-188	plant-based diet	plant-based diet	evolution	evolution	is thought to have played a significant role in human	
 A-188	fruits	fruits	vegetables	vegetables	and	
 A-188	berries	berries	oxidation	oxidation	could fight	
-A-188	berries	berries	inflammation	inflammation	could fight oxidation and	

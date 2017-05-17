@@ -1,17 +1,5 @@
 
 V-1141	vitamin d supplements	vitamin d supplements	lifespan	lifespan	were shown to increase our 	
-V-1141	vitamin c	vitamin c	supplements	supplements	. did scientists just discover that vitamin c	
-V-1141	lifespan	lifespan	vitamin c	vitamin c	.let’s keep filling in the alphabet:	
-V-1141	vitamin c	vitamin c	lifespan	lifespan	supplements enable us to live longer?no effect on	
-V-1141	heart attack	heart attack	risk	risk		
+V-1141	supplements	supplements	lifespan	lifespan	shorten our	
 V-1141	vitamin a	vitamin a	vitamin e	vitamin e	and	
 V-1141	supplements	supplements	lifespan	lifespan	enable us to live longer?no effect on	
-V-1141	cancer	cancer	risk	risk		
-V-1141	vitamin e	vitamin e	supplements	supplements		
-V-1141	vitamin d	vitamin d	lifespan	lifespan	supplements were shown to increase our 	
-V-1141	vitamin d	vitamin d	supplements	supplements		
-V-1141	vitamin c	vitamin c	supplements	supplements		
-V-1141	supplements	supplements	lifespan	lifespan	shorten our	
-V-1141	vitamin a	vitamin a	supplements	supplements	and vitamin e	
-V-1141	supplements	supplements	heart attack	heart attack	enable us to live longer?no effect on lifespan,	
-V-1141	heart attack	heart attack	cancer	cancer	risk, or	

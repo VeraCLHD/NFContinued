@@ -1,25 +1,7 @@
 
-V-528	meat	meat	milk	milk	and fish, dairy products, and even in mother’s	
-V-528	phytonutrients	phytonutrients	tea	tea	in fruits, vegetables,	
-V-528	cooked meat	cooked meat	dairy	dairy	and fish,	
 V-528	meat	meat	fish	fish	and	
-V-528	immune system	immune system	gut	gut	of the	
-V-528	phytonutrients	phytonutrients	fruits	fruits	in	
-V-528	phytonutrients	phytonutrients	wine	wine	in fruits, vegetables, tea, red	
-V-528	phytonutrients	phytonutrients	beans	beans	in fruits, vegetables, tea, red wine, and	
-V-528	cooked meat	cooked meat	milk	milk	and fish, dairy products, and even in mother’s	
-V-528	plant-based	plant-based	diet	diet		
-V-528	phytonutrients	phytonutrients	red wine	red wine	in fruits, vegetables, tea,	
-V-528	phytonutrients	phytonutrients	vegetables	vegetables	in fruits,	
-V-528	apples	apples	dioxin	dioxin	a day to cut	
-V-528	cruciferous vegetables	cruciferous vegetables	immune function	immune function	for optimal intestinal	
-V-528	pathogens	pathogens	toxins	toxins	we may ingest, but the	
-V-528	meat	meat	dairy	dairy	and fish,	
-V-528	diet	diet	health	health	impacts immunity and	
-V-528	vegetables	vegetables	immune function	immune function	for optimal intestinal	
 V-528	diet	diet	immune system	immune system	are necessary for a fully functioning	
 V-528	cooked meat	cooked meat	fish	fish	and	
+V-528	phytonutrients	phytonutrients	fruits	fruits	in	
 V-528	fruits	fruits	vegetables	vegetables	and	
-V-528	dairy	dairy	milk	milk	products, and even in mother’s	
 V-528	pollutants	pollutants	ah receptor	ah receptor	exert their toxic effects through the	
-V-528	beans	beans	dioxins	dioxins	that block the effects of	

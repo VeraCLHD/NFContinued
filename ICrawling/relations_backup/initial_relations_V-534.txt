@@ -1,6 +1,0 @@
-
-V-534	boiled	boiled	seeds	seeds	some poppy	
-V-534	milk	milk	seeds	seeds	she had boiled some poppy	
-V-534	milk	milk	boiled	boiled	she had	
-V-534	boiled	boiled	poppy seeds	poppy seeds	some	
-V-534	milk	milk	poppy seeds	poppy seeds	she had boiled some	

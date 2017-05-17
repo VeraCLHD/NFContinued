@@ -1,22 +1,4 @@
 
-V-1028	blood	blood	stress	stress	sugar, raise our triglycerides, oxidatively	
-V-1028	blood sugar	blood sugar	triglycerides	triglycerides	or weight, and beneficial improvements in	
-V-1028	sugar	sugar	blood	blood	foods is that they can raise our	
-V-1028	blood	blood	triglycerides	triglycerides	sugar, raise our	
-V-1028	sugar	sugar	triglycerides	triglycerides	or weight, and beneficial improvements in	
-V-1028	stress	stress	fat	fat	our bodies, and make us	
-V-1028	triglycerides	triglycerides	stress	stress	and antioxidant	
-V-1028	triglycerides	triglycerides	antioxidant	antioxidant	and	
-V-1028	antioxidant	antioxidant	stress	stress		
-V-1028	sugar	sugar	dates	dates	content of	
-V-1028	blood sugar	blood sugar	antioxidant	antioxidant	or weight, and beneficial improvements in triglycerides and	
-V-1028	sugar	sugar	marshmallows	marshmallows	content of dates—and has fruit-shaped	
-V-1028	blood	blood	triglycerides	triglycerides	sugar or weight, and beneficial improvements in	
-V-1028	sugar	sugar	antioxidant	antioxidant	or weight, and beneficial improvements in triglycerides and	
 V-1028	sugar	sugar	fiber	fiber	and	
-V-1028	dates	dates	phytonutrients	phytonutrients	have fiber; they have	
-V-1028	sugar	sugar	blood sugar	blood sugar	foods is that they can raise our	
-V-1028	froot loops	froot loops	sugar	sugar	are only 40%	
-V-1028	dates	dates	marshmallows	marshmallows	—and has fruit-shaped	
+V-1028	triglycerides	triglycerides	antioxidant	antioxidant	and	
 V-1028	dates	dates	fiber	fiber	have	
-V-1028	blood	blood	sugar	sugar		

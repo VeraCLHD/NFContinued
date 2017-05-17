@@ -1,35 +1,3 @@
 
-V-306	dairy	dairy	milk	milk	industry found a result unfavorable to	
-V-306	harvard	harvard	nutrition	nutrition	’s	
-V-306	nutrition	nutrition	ama	ama	department wrote an editorial recently to the	
-V-306	risk	risk	milk	milk	of premature puberty; girls drinking a lot of	
-V-306	prevention	prevention	children	children	center at boston	
-V-306	dairy	dairy	adolescence	adolescence	products during	
-V-306	milk	milk	adolescence	adolescence	and dairy products during	
-V-306	infants	infants	milk	milk	formula based on cow’s	
-V-306	prevention	prevention	boston	boston	center at	
-V-306	children	children	harvard	harvard	’s hospital and the chair of	
-V-306	pediatrics	pediatrics	milk	milk	journal questioning the role of cow’s	
-V-306	protein	protein	milk	milk	content of cow’s	
 V-306	risk	risk	premature puberty	premature puberty	of	
-V-306	milk	milk	nutrition	nutrition	in human	
-V-306	obesity	obesity	prevention	prevention		
-V-306	hormones	hormones	milk	milk	in the u.s.	
-V-306	obesity	obesity	boston	boston	prevention center at	
-V-306	obesity	obesity	children	children	prevention center at boston	
-V-306	ama	ama	pediatrics	pediatrics	’s	
-V-306	protein	protein	milk	milk	content of human	
-V-306	children	children	nutrition	nutrition	’s hospital and the chair of harvard’s	
-V-306	breastfeeding	breastfeeding	infants	infants		
-V-306	risk	risk	puberty	puberty	of premature	
-V-306	boston	boston	children	children		
-V-306	boston	boston	harvard	harvard	children’s hospital and the chair of	
-V-306	nutrition	nutrition	pediatrics	pediatrics	department wrote an editorial recently to the ama’s	
-V-306	infants	infants	obesity	obesity	may protect against subsequent	
-V-306	breastfeeding	breastfeeding	obesity	obesity	infants may protect against subsequent	
 V-306	milk	milk	dairy	dairy	and	
-V-306	ama	ama	milk	milk	’s pediatrics journal questioning the role of cow’s	
-V-306	milk	milk	obesity	obesity	-based formula that sets the child up for	
-V-306	milk	milk	premature puberty	premature puberty	intake is associated with an increased risk of	
-V-306	boston	boston	nutrition	nutrition	children’s hospital and the chair of harvard’s	
-V-306	milk	milk	risk	risk	intake is associated with an increased	

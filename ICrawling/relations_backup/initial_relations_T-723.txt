@@ -1,31 +1,5 @@
 
-T-723	japanese	japanese	health	health	to some of the fattest, with serious	
-T-723	restaurants	restaurants	carcinogen	carcinogen	revealed high levels of the	
-T-723	fast food	fast food	pepsi	pepsi	companies like	
-T-723	heterocyclic amines	heterocyclic amines	chicken	chicken	in	
-T-723	heterocyclic amines	heterocyclic amines	restaurants	restaurants	in chicken samples from seven fast food	
-T-723	statins	statins	health	health	alongside fast food meals to help reduce the	
-T-723	chicken	chicken	restaurants	restaurants	samples from seven fast food	
-T-723	children	children	fast food	fast food	’s hospitals have a	
-T-723	fast food	fast food	risk	risk	meals to help reduce the health	
-T-723	statins	statins	fast food	fast food	alongside	
-T-723	health	health	fast food	fast food	organizations with	
-T-723	health	health	fast food	fast food	issues.a study of hamburgers from eight different	
-T-723	okinawan diet	okinawan diet	japan	japan	in	
-T-723	hamburgers	hamburgers	fast food	fast food	from eight different	
-T-723	restaurants	restaurants	hamburgers	hamburgers	found that the actual meat content in the	
-T-723	chicken	chicken	meat	meat	nuggets revealed that 50% or less was chicken	
-T-723	chicken	chicken	restaurants	restaurants	products in	
-T-723	chicken	chicken	fast food	fast food	samples from seven	
-T-723	fast food	fast food	health	health	meals to help reduce the	
-T-723	hamburgers	hamburgers	restaurants	restaurants	from eight different fast food	
-T-723	meat	meat	hamburgers	hamburgers	content in the	
-T-723	heterocyclic amines	heterocyclic amines	fast food	fast food	in chicken samples from seven	
-T-723	health	health	pepsi	pepsi	organizations with fast food companies like	
-T-723	health	health	hamburgers	hamburgers	issues.a study of	
 T-723	fast food	fast food	risk	risk	was shown to be the second-highest	
-T-723	risk	risk	children	children	factor for abdominal aortic aneurysms.nearly one in three	
-T-723	fast food	fast food	carcinogen	carcinogen	restaurants revealed high levels of the	
-T-723	health	health	risk	risk		
+T-723	okinawan diet	okinawan diet	japan	japan	in	
 T-723	diet	diet	japan	japan	in	
-T-723	fast food	fast food	restaurants	restaurants		
+T-723	heterocyclic amines	heterocyclic amines	chicken	chicken	in	

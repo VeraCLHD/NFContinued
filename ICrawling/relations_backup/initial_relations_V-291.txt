@@ -1,16 +1,6 @@
 
 V-291	testosterone	testosterone	lead	lead	can	
-V-291	testosterone	testosterone	endurance	endurance	can lead to decreased physical	
+V-291	endurance	endurance	memory	memory	and	
 V-291	toxins	toxins	fish	fish	are found predominantly in	
 V-291	meat	meat	dairy	dairy	and	
-V-291	lead	lead	endurance	endurance	to decreased physical	
-V-291	memory	memory	sperm count	sperm count	capacity, loss of libido, drop in	
-V-291	pcb	pcb	blood	blood	levels in the	
-V-291	toxins	toxins	meat	meat	are found predominantly in fish, but also	
 V-291	blood	blood	testosterone	testosterone	was associated with a lower concentration of	
-V-291	lead	lead	memory	memory	to decreased physical endurance and	
-V-291	endurance	endurance	sperm count	sperm count	and memory capacity, loss of libido, drop in	
-V-291	pollutants	pollutants	sexual dysfunction	sexual dysfunction	may affect sexual function–for example, loss of libido,	
-V-291	endurance	endurance	memory	memory	and	
-V-291	testosterone	testosterone	memory	memory	can lead to decreased physical endurance and	
-V-291	industrial pollutants	industrial pollutants	sexual dysfunction	sexual dysfunction	may affect sexual function–for example, loss of libido,	

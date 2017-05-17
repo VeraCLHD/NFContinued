@@ -1,5 +1,3 @@
 
-T-17	acromegaly	acromegaly	igf-1	igf-1	is a form of giantism caused by excess	
-T-17	giantism	giantism	growth hormone	growth hormone	caused by excess igf-1, a powerful human	
 T-17	giantism	giantism	igf-1	igf-1	caused by excess	
 T-17	acromegaly	acromegaly	giantism	giantism	is a form of	

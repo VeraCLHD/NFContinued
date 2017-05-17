@@ -1,37 +1,13 @@
 
-V-1078	cancer	cancer	fat	fat	risk.what about dietary	
-V-1078	fat	fat	coconut milk	coconut milk	found in chocolate and	
-V-1078	cancer	cancer	red meat	red meat	is significantly associated with	
-V-1078	pancreatic cancer	pancreatic cancer	cancer	cancer	?well, we’ve known pancreatic	
-V-1078	pancreatic cancer	pancreatic cancer	beef	beef	is associated with	
-V-1078	pancreatic cancer	pancreatic cancer	meat	meat	is significantly associated with red	
-V-1078	cancer	cancer	disease	disease	?well, we’ve known pancreatic cancer was a lifestyle-related	
-V-1078	vegetable oil	vegetable oil	cancer	cancer	is associated with pancreatic	
-V-1078	cancer	cancer	risk	risk		
+V-1078	cancer	cancer	beef	beef	is associated with	
 V-1078	pancreatic cancer	pancreatic cancer	red meat	red meat	is significantly associated with	
-V-1078	animal fat	animal fat	cancer	cancer	in the development of pancreatic	
-V-1078	fat	fat	milk	milk	found in chocolate and coconut	
-V-1078	pancreatic cancer	pancreatic cancer	fat	fat	risk.what about dietary	
-V-1078	fat	fat	pancreatic cancer	pancreatic cancer	of animal origin was associated with increased	
-V-1078	chocolate	chocolate	milk	milk	and coconut	
-V-1078	cancer	cancer	pancreatic cancer	pancreatic cancer	?well, we’ve known	
+V-1078	nih-aarp study	nih-aarp study	women	women	is currently following a half million american men and	
+V-1078	cancer	cancer	red meat	red meat	is significantly associated with	
+V-1078	pancreatic cancer	pancreatic cancer	beef	beef	is associated with	
 V-1078	vegetable oil	vegetable oil	pancreatic cancer	pancreatic cancer	is associated with	
 V-1078	fat	fat	chocolate	chocolate	found in	
-V-1078	pancreatic cancer	pancreatic cancer	risk	risk		
-V-1078	fat	fat	pancreatic cancer	pancreatic cancer	in the development of	
-V-1078	animal fat	animal fat	pancreatic cancer	pancreatic cancer	in the development of	
-V-1078	beef	beef	fat	fat		
-V-1078	fat	fat	cancer	cancer	in the development of pancreatic	
-V-1078	cancer	cancer	beef	beef	is associated with	
-V-1078	saturated fat	saturated fat	milk	milk	found in chocolate and coconut	
-V-1078	pancreatic cancer	pancreatic cancer	fat	fat	is associated with beef	
+V-1078	pancreatic cancer	pancreatic cancer	meat	meat	is significantly associated with red	
+V-1078	vegetable oil	vegetable oil	cancer	cancer	is associated with pancreatic	
 V-1078	chocolate	chocolate	coconut milk	coconut milk	and	
-V-1078	saturated fat	saturated fat	chocolate	chocolate	found in	
-V-1078	fat	fat	nuts	nuts	largely found in	
-V-1078	saturated fat	saturated fat	coconut milk	coconut milk	found in chocolate and	
-V-1078	fat	fat	cancer	cancer	of animal origin was associated with increased pancreatic	
-V-1078	plant fat	plant fat	nuts	nuts	largely found in	
-V-1078	cancer	cancer	cancer	cancer	?well, we’ve known pancreatic	
 V-1078	cancer	cancer	meat	meat	is significantly associated with red	
-V-1078	pancreatic cancer	pancreatic cancer	disease	disease	?well, we’ve known pancreatic cancer was a lifestyle-related	
-V-1078	cancer	cancer	fat	fat	is associated with beef	
+V-1078	saturated fat	saturated fat	chocolate	chocolate	found in	

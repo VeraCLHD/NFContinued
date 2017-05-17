@@ -1,43 +1,5 @@
 
-A-101	pomegranate	pomegranate	prevention	prevention	juice concentrate as a control for the	
-A-101	medications	medications	juice	juice	within two months after starting the cherry	
-A-101	cherries	cherries	tart cherries	tart cherries	to control inflammation:	
-A-101	anti-inflammatory	anti-inflammatory	medications	medications	drugs were able to stop their	
-A-101	pomegranate	pomegranate	juice	juice		
-A-101	fruit	fruit	gout	gout	or cherry products as complementary therapeutic remedy for	
-A-101	gout	gout	drugs	drugs		
-A-101	pomegranate juice	pomegranate juice	prevention	prevention	concentrate as a control for the	
-A-101	cherries	cherries	gout	gout	and cherry juice concentrate for	
-A-101	cherries	cherries	gout	gout	a day may significantly lower the risk of	
-A-101	urine	urine	vegetables	vegetables	alkaline by eating lots of dark green leafy	
-A-101	cherries	cherries	inflammation	inflammation	to control	
-A-101	sleep	sleep	cherries	cherries	(tart	
-A-101	vegetables	vegetables	cabbage	cabbage	(see testing your diet with pee & purple	
-A-101	gout	gout	arthritis	arthritis	is now the most common inflammatory	
-A-101	gout	gout	medications	medications		
-A-101	arthritis	arthritis	women	women	in men and older	
+A-101	gout	gout	water	water	is to drink lots of	
+A-101	risk	risk	gout	gout	of	
 A-101	prevention	prevention	gout	gout	of	
 A-101	drugs	drugs	medications	medications	were able to stop their	
-A-101	gout	gout	juice	juice	with cherry	
-A-101	cherries	cherries	juice	juice	and cherry	
-A-101	inflammation	inflammation	cherries	cherries	: tart	
-A-101	water	water	urine	urine	and keep one’s	
-A-101	urine	urine	leafy vegetables	leafy vegetables	alkaline by eating lots of dark green	
-A-101	juice	juice	prevention	prevention	concentrate is efficacious for the	
-A-101	gout	gout	treatment	treatment		
-A-101	leafy vegetables	leafy vegetables	diet	diet	(see testing your	
-A-101	leafy vegetables	leafy vegetables	cabbage	cabbage	(see testing your diet with pee & purple	
-A-101	cherries	cherries	risk	risk	a day may significantly lower the	
-A-101	juice	juice	gout	gout	concentrate is efficacious for the prevention of	
-A-101	cherries	cherries	juice	juice	appeared second-best and cherry	
-A-101	juice	juice	pomegranate juice	pomegranate juice	concentrate with	
-A-101	juice	juice	pomegranate	pomegranate	concentrate with	
-A-101	diet	diet	cabbage	cabbage	with pee & purple	
-A-101	juice	juice	gout	gout	actually help prevent attacks of	
-A-101	prevention	prevention	gout	gout	of attacks in	
-A-101	gout	gout	water	water	is to drink lots of	
-A-101	sleep	sleep	insomnia	insomnia	(tart cherries for	
-A-101	vegetables	vegetables	diet	diet	(see testing your	
-A-101	risk	risk	gout	gout	of	
-A-101	anti-inflammatory	anti-inflammatory	drugs	drugs		
-A-101	juice	juice	gout	gout	concentrate for	

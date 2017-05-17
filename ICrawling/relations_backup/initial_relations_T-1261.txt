@@ -1,27 +1,8 @@
 
-T-1261	oxidative stress	oxidative stress	mushrooms	mushrooms	—is present in	
-T-1261	mushrooms	mushrooms	agaritine	agaritine	may contain a naturally-occurring toxin called	
-T-1261	phytonutrient	phytonutrient	tea	tea	in green	
-T-1261	raw	raw	mushrooms	mushrooms		
-T-1261	mushrooms	mushrooms	vitamin d	vitamin d	also contain vitamin d2, the same type of	
-T-1261	agaritine	agaritine	mushrooms	mushrooms	that is deactivated by heat, so	
-T-1261	cancer	cancer	aromatase	aromatase	growth by inhibiting the	
-T-1261	mushrooms	mushrooms	immune function	immune function	contain compounds called beta glucans, which may boost	
-T-1261	mushrooms	mushrooms	vitamin d2	vitamin d2	also contain	
-T-1261	amino acid	amino acid	oxidative stress	oxidative stress	l-ergothioneine—shown to protect cells against	
-T-1261	amino acid	amino acid	stress	stress	l-ergothioneine—shown to protect cells against oxidative	
-T-1261	variety	variety	antioxidant	antioxidant	—may work best and are among the most	
-T-1261	white mushrooms	white mushrooms	variety	variety	—the cheapest and most widely available	
-T-1261	vitamin d	vitamin d	doctors	doctors		
-T-1261	stress	stress	mushrooms	mushrooms	—is present in	
-T-1261	mushrooms	mushrooms	variety	variety	—the cheapest and most widely available	
-T-1261	breast cancer	breast cancer	aromatase	aromatase	growth by inhibiting the	
-T-1261	mushrooms	mushrooms	e. coli	e. coli	tend to be free of	
 T-1261	chronic inflammation	chronic inflammation	mushrooms	mushrooms	may especially benefit from eating	
+T-1261	mushrooms	mushrooms	agaritine	agaritine	may contain a naturally-occurring toxin called	
 T-1261	inflammation	inflammation	mushrooms	mushrooms	may especially benefit from eating	
-T-1261	raw	raw	agaritine	agaritine	mushrooms may contain a naturally-occurring toxin called	
 T-1261	phytonutrient	phytonutrient	green tea	green tea	in	
-T-1261	cancer growth	cancer growth	aromatase	aromatase	by inhibiting the	
-T-1261	iga	iga	breast cancer	breast cancer	antibody secretion, and when eaten daily, may suppress	
+T-1261	mushrooms	mushrooms	e. coli	e. coli	tend to be free of	
 T-1261	white button mushrooms	white button mushrooms	iga	iga	have been shown to upregulate	
 T-1261	mushrooms	mushrooms	iga	iga	have been shown to upregulate	

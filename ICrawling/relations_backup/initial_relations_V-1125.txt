@@ -1,21 +1,8 @@
 
-V-1125	fruits	fruits	berries	berries	and vegetables, like 	
 V-1125	phytonutrients	phytonutrients	berries	berries	in	
-V-1125	dairy	dairy	fruits	fruits	at the same meal with powerful antioxidant	
-V-1125	strawberries	strawberries	cream	cream	with	
-V-1125	ellagic acid	ellagic acid	berries	berries	is considered one of the key phytonutrients in	
-V-1125	juice	juice	milk	milk	with skim	
-V-1125	antioxidant	antioxidant	berries	berries	fruits and vegetables, like 	
+V-1125	juice	juice	water	water	made with	
+V-1125	phytonutrients	phytonutrients	chocolate	chocolate	in	
+V-1125	fruits	fruits	vegetables	vegetables	and	
 V-1125	phytonutrients	phytonutrients	tea	tea	in	
 V-1125	ellagic acid	ellagic acid	phytonutrients	phytonutrients	is considered one of the key	
 V-1125	milk	milk	phytonutrients	phytonutrients	blocks the absorption of the	
-V-1125	juice	juice	water	water	made with	
-V-1125	milk	milk	phytonutrients	phytonutrients	totally blocks the beneficial effects of the	
-V-1125	antioxidant	antioxidant	vegetables	vegetables	fruits and	
-V-1125	dairy	dairy	antioxidant	antioxidant	at the same meal with powerful	
-V-1125	milk	milk	chocolate	chocolate	blocks the absorption of the phytonutrients in	
-V-1125	dairy	dairy	nutrition	nutrition	block berry	
-V-1125	juice	juice	skim milk	skim milk	with	
-V-1125	phytonutrients	phytonutrients	chocolate	chocolate	in	
-V-1125	antioxidant	antioxidant	fruits	fruits		
-V-1125	fruits	fruits	vegetables	vegetables	and	

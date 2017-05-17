@@ -1,89 +1,16 @@
 
+T-360	risk	risk	plant-based diet	plant-based diet	may drop after starting a	
+T-360	fiber	fiber	antioxidants	antioxidants	and	
+T-360	plant-based diets	plant-based diets	methionine	methionine	may be effective include lowering	
 T-360	fruit	fruit	vegetables	vegetables	and	
-T-360	lead	lead	puberty	puberty	to premature	
-T-360	plant-based diet	plant-based diet	plant-based	plant-based	at any age.some reasons why	
-T-360	meditation	meditation	shortening	shortening	may also improve dna health, preventing premature	
-T-360	plant-based diets	plant-based diets	angiogenesis	angiogenesis	may be effective include lowering methionine intake, inhibiting	
-T-360	estrogen	estrogen	cholesterol	cholesterol	and	
-T-360	plant-based	plant-based	diet	diet		
-T-360	diet	diet	cancer	cancer	may help prevent, treat, slow, and even reverse	
-T-360	plant-based diet	plant-based diet	plant-based diets	plant-based diets	at any age.some reasons why	
-T-360	lead	lead	premature puberty	premature puberty	to	
-T-360	saturated animal fat	saturated animal fat	cancer	cancer	appears to improve	
-T-360	risk	risk	cancer	cancer	of	
-T-360	diet	diet	fruit	fruit	(one devoid of fresh	
-T-360	methionine	methionine	fiber	fiber	intake, inhibiting angiogenesis, intercepting carcinogens, and increasing	
-T-360	risk	risk	meat	meat	of cancer, as may the chemical pollutants in	
-T-360	sleep	sleep	tanning beds	tanning beds	every night, and reduced exposure to	
-T-360	cancer	cancer	plant-based	plant-based	risk may drop after starting a	
-T-360	animal foods	animal foods	risk	risk	may also increase	
-T-360	blood	blood	animal foods	animal foods	and muscle tissue of	
-T-360	shortening	shortening	animal products	animal products	of our telomeres.consumption of	
-T-360	lead	lead	children	children	to premature puberty, putting	
-T-360	meat	meat	cancer	cancer	that accounts for some of the increased	
 T-360	chemical pollutants	chemical pollutants	meat	meat	in	
-T-360	meditation	meditation	health	health	may also improve dna	
-T-360	dna	dna	shortening	shortening	health, preventing premature	
-T-360	pollutants	pollutants	premature puberty	premature puberty	in meat, which can lead to	
-T-360	children	children	cancer	cancer	at higher risk for	
-T-360	animal fat	animal fat	cancer survival	cancer survival	appears to improve	
-T-360	fruits	fruits	detoxifying enzymes	detoxifying enzymes	and vegetables—at least 9 daily servings may boost	
+T-360	estrogen	estrogen	cholesterol	cholesterol	and	
+T-360	pollutants	pollutants	meat	meat	in	
 T-360	risk	risk	plant-based	plant-based	may drop after starting a	
+T-360	heme iron	heme iron	blood	blood	found in the	
 T-360	cancer	cancer	united states	united states	is the #2 killer in the	
-T-360	risk	risk	pollutants	pollutants	of cancer, as may the chemical	
-T-360	pollutants	pollutants	lead	lead	in meat, which can	
-T-360	dna	dna	animal products	animal products	health, preventing premature shortening of our telomeres.consumption of	
+T-360	plant foods	plant foods	cancer	cancer	have lower rates of	
+T-360	risk	risk	cancer	cancer	of	
 T-360	diet	diet	cancer	cancer	may be the #1 cause of	
 T-360	fruits	fruits	vegetables	vegetables	and	
 T-360	iron	iron	blood	blood	found in the	
-T-360	methionine	methionine	carcinogens	carcinogens	intake, inhibiting angiogenesis, intercepting	
-T-360	diet	diet	cancer progression	cancer progression	may help prevent, treat, slow, and even reverse	
-T-360	risk	risk	plant-based diet	plant-based diet	may drop after starting a	
-T-360	fiber	fiber	antioxidants	antioxidants	and	
-T-360	neutropenic diet	neutropenic diet	vegetables	vegetables	(one devoid of fresh fruit and	
-T-360	pollutants	pollutants	puberty	puberty	in meat, which can lead to premature	
-T-360	animal products	animal products	cancer	cancer	appears to increase the risk of	
-T-360	vegetables	vegetables	enzymes	enzymes	—at least 9 daily servings may boost detoxifying	
-T-360	animal products	animal products	risk	risk	appears to increase the	
-T-360	neutropenic diet	neutropenic diet	fruit	fruit	(one devoid of fresh	
-T-360	lead	lead	risk	risk	to premature puberty, putting children at higher	
-T-360	diet	diet	plant-based	plant-based	at any age.some reasons why	
-T-360	plant-based diet	plant-based diet	cancer	cancer	may help prevent, treat, slow, and even reverse	
-T-360	cancer	cancer	risk	risk		
-T-360	pollutants	pollutants	meat	meat	in	
-T-360	fat	fat	cancer	cancer	appears to improve	
-T-360	heme iron	heme iron	animal foods	animal foods	found in the blood and muscle tissue of	
-T-360	fat	fat	cancer survival	cancer survival	appears to improve	
-T-360	chemical pollutants	chemical pollutants	lead	lead	in meat, which can	
-T-360	plant-based diet	plant-based diet	cancer progression	cancer progression	may help prevent, treat, slow, and even reverse	
-T-360	iron	iron	animal foods	animal foods	found in the blood and muscle tissue of	
-T-360	chemical pollutants	chemical pollutants	puberty	puberty	in meat, which can lead to premature	
-T-360	plant-based	plant-based	plant-based diets	plant-based diets	diet at any age.some reasons why	
-T-360	meditation	meditation	dna	dna	may also improve	
-T-360	chemical pollutants	chemical pollutants	premature puberty	premature puberty	in meat, which can lead to	
-T-360	meat	meat	risk	risk	that accounts for some of the increased cancer	
-T-360	igf-1	igf-1	cancer	cancer	) may also been linked to	
-T-360	cancer	cancer	plant-based diet	plant-based diet	risk may drop after starting a	
-T-360	plant-based diets	plant-based diets	methionine	methionine	may be effective include lowering	
-T-360	risk	risk	cancer	cancer	for	
-T-360	oatmeal	oatmeal	chemotherapy	chemotherapy	lotion may help with	
-T-360	vegetables	vegetables	oatmeal	oatmeal	) may not help those undergoing chemotherapy, but	
-T-360	dental	dental	x-rays	x-rays		
-T-360	methionine	methionine	angiogenesis	angiogenesis	intake, inhibiting	
-T-360	animal fat	animal fat	cancer	cancer	appears to improve	
-T-360	saturated animal fat	saturated animal fat	cancer survival	cancer survival	appears to improve	
-T-360	exercise	exercise	sleep	sleep	every day, 7-hours	
-T-360	heme iron	heme iron	blood	blood	found in the	
-T-360	cancer	cancer	diet	diet	risk may drop after starting a plant-based	
-T-360	plant foods	plant foods	cancer	cancer	have lower rates of	
-T-360	diet	diet	vegetables	vegetables	(one devoid of fresh fruit and	
-T-360	diet	diet	plant-based diets	plant-based diets	at any age.some reasons why	
-T-360	animal foods	animal foods	cancer	cancer	may also increase risk of	
-T-360	risk	risk	diet	diet	may drop after starting a plant-based	
-T-360	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	—at least 9 daily servings may boost	
-T-360	dna	dna	health	health		
-T-360	risk	risk	chemical pollutants	chemical pollutants	of cancer, as may the	
-T-360	children	children	risk	risk	at higher	
-T-360	fruit	fruit	chemotherapy	chemotherapy	and vegetables) may not help those undergoing	
-T-360	vegetables	vegetables	chemotherapy	chemotherapy	) may not help those undergoing	
-T-360	neu5gc	neu5gc	meat	meat	molecule found in	

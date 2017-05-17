@@ -1,12 +1,5 @@
 
 V-702	children	children	ddt	ddt	get a bit more	
-V-702	pcbs	pcbs	children	children	and organochlorine pesticides in	
 V-702	meat	meat	fish	fish	and	
 V-702	pesticides	pesticides	children	children	in	
-V-702	children	children	milk	milk	get a bit more ddt drinking	
-V-702	ddt	ddt	milk	milk	drinking	
-V-702	thyroid	thyroid	united states	united states	disease?though the highest levels were found in the	
 V-702	pesticides	pesticides	children	children	do you think our	
-V-702	meat	meat	infants	infants	and fish—though, of course, our	
-V-702	fish	fish	infants	infants	—though, of course, our	
-V-702	pcbs	pcbs	pesticides	pesticides	and organochlorine	

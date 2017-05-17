@@ -1,21 +1,4 @@
 
 V-398	health	health	doctors	doctors	remained underestimated by	
-V-398	disease	disease	cholesterol	cholesterol	is to lower patients’ ldl	
-V-398	diet	diet	health	health	for patients’	
-V-398	nutrition	nutrition	cholesterol	cholesterol	therapy as opposed to drugs for high	
-V-398	diet	diet	drugs	drugs	plus	
-V-398	disease	disease	physicians	physicians	risk, yet more than half of	
-V-398	ldl	ldl	cholesterol	cholesterol		
-V-398	cholesterol	cholesterol	vegetarians	vegetarians	ratio under 4, but the	
-V-398	diet	diet	cholesterol	cholesterol	to reduce	
-V-398	disease	disease	risk	risk		
-V-398	cardiovascular disease	cardiovascular disease	risk	risk		
-V-398	drugs	drugs	cholesterol	cholesterol	for high	
 V-398	diet	diet	depression	depression	showed significantly greater improvements in	
-V-398	diet	diet	doctors	doctors	for patients’ health remained underestimated by	
-V-398	cardiovascular disease	cardiovascular disease	physicians	physicians	risk, yet more than half of	
-V-398	ldl cholesterol	ldl cholesterol	atherosclerosis	atherosclerosis	and other	
-V-398	vegetarian	vegetarian	diet	diet		
-V-398	ldl	ldl	atherosclerosis	atherosclerosis	cholesterol and other	
-V-398	nutrition	nutrition	drugs	drugs	therapy as opposed to	
-V-398	fruit	fruit	diet	diet	and nut	
+V-398	physicians	physicians	cholesterol	cholesterol	may skip over lifestyle change completely and jump straight to their prescription pad doubting that	

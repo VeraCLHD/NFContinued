@@ -1,51 +1,8 @@
 
-V-631	stress	stress	symptoms	symptoms	-related	
-V-631	mint	mint	tea	tea		
-V-631	steroid hormones	steroid hormones	red tea	red tea	in the presence of	
-V-631	nettle tea	nettle tea	chamomile	chamomile	to	
-V-631	prostate enlargement	prostate enlargement	estrogen	estrogen	by boosting	
-V-631	prostate	prostate	estrogen	estrogen	enlargement by boosting	
-V-631	nettle tea	nettle tea	iron	iron	does have the	
-V-631	tea	tea	chamomile tea	chamomile tea	to	
-V-631	adrenal gland	adrenal gland	produce	produce	cells in a petri dish	
-V-631	minerals	minerals	tea	tea	could we be getting if we just steep some	
-V-631	chamomile	chamomile	mint tea	mint tea	tea,	
-V-631	symptoms	symptoms	prostate	prostate	of	
-V-631	tea	tea	belladonna	belladonna	you thought you were drinking had some	
-V-631	chamomile	chamomile	sage	sage	tea, mint tea, st. john’s wort, and	
-V-631	chamomile	chamomile	mint	mint	tea,	
-V-631	nettle tea	nettle tea	mint tea	mint tea	to chamomile tea,	
-V-631	hormones	hormones	tea	tea	in the presence of red	
-V-631	leafy vegetables	leafy vegetables	minerals	minerals	long enough, you do lose	
-V-631	red tea	red tea	adrenal gland	adrenal gland	?well, researchers recently found human	
-V-631	skin	skin	tea	tea	—not something you want in your tongue.nettle	
-V-631	steroid hormones	steroid hormones	tea	tea	in the presence of red	
-V-631	tea	tea	adrenal gland	adrenal gland	?well, researchers recently found human	
-V-631	produce	produce	steroid hormones	steroid hormones	about four times fewer	
-V-631	tea	tea	mint	mint	to chamomile tea,	
-V-631	nettle tea	nettle tea	tea	tea	to chamomile	
-V-631	stress	stress	phytonutrients	phytonutrients	-related symptoms, but has none of the mood-altering	
-V-631	hormones	hormones	red tea	red tea	in the presence of	
-V-631	nettle tea	nettle tea	mint	mint	to chamomile tea,	
-V-631	vegetables	vegetables	minerals	minerals	long enough, you do lose	
-V-631	nettle tea	nettle tea	chamomile tea	chamomile tea	to	
-V-631	produce	produce	hormones	hormones	about four times fewer steroid	
-V-631	pumpkin	pumpkin	copper	copper	seed, one-twentieth of a mushroom’s worth of	
-V-631	minerals	minerals	water	water	into the cooking	
-V-631	tea	tea	chamomile	chamomile	to	
 V-631	tea	tea	iron	iron	does have the	
-V-631	vegetables	vegetables	cooking	cooking	long enough, you do lose minerals into the	
 V-631	zinc	zinc	pumpkin	pumpkin	found in one	
-V-631	symptoms	symptoms	estrogen	estrogen	of prostate enlargement by boosting	
-V-631	mint	mint	sage	sage	tea, st. john’s wort, and	
-V-631	cooking	cooking	water	water		
-V-631	leafy vegetables	leafy vegetables	cooking	cooking	long enough, you do lose minerals into the	
-V-631	tea	tea	mint tea	mint tea	to chamomile tea,	
-V-631	copper	copper	peanuts	peanuts	—but four 	
-V-631	copper	copper	magnesium	magnesium	—but four peanuts’ worth of	
-V-631	minerals	minerals	cooking	cooking	into the	
 V-631	phytonutrients	phytonutrients	stress	stress	thought responsible for the increased calm and decreased	
 V-631	symptoms	symptoms	prostate enlargement	prostate enlargement	of	
-V-631	nettle tea	nettle tea	belladonna	belladonna	you thought you were drinking had some	
-V-631	chamomile	chamomile	tea	tea		
-V-631	peanuts	peanuts	magnesium	magnesium	’ worth of	
+V-631	symptoms	symptoms	prostate	prostate	of	
+V-631	nettle tea	nettle tea	iron	iron	does have the	
+V-631	minerals	minerals	tea	tea	could we be getting if we just steep some	

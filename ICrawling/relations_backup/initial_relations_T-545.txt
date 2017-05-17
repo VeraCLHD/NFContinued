@@ -1,56 +1,12 @@
 
-T-545	turmeric	turmeric	colon	colon	curcumin may both prevent and treat	
-T-545	treatment	treatment	arthritis	arthritis	of osteoarthritis and rheumatoid	
-T-545	bioavailability	bioavailability	curcumin	curcumin	of turmeric	
-T-545	curcumin	curcumin	drugs	drugs	may work as well or better than anti-inflammatory	
-T-545	anti-inflammatory	anti-inflammatory	osteoarthritis	osteoarthritis	drugs and painkillers for the treatment of	
-T-545	painkillers	painkillers	osteoarthritis	osteoarthritis	for the treatment of	
-T-545	cancer	cancer	india	india	rates in	
-T-545	colon	colon	pancreatic cancer	pancreatic cancer	polyps and temporarily reduce	
-T-545	painkillers	painkillers	rheumatoid arthritis	rheumatoid arthritis	for the treatment of osteoarthritis and	
+T-545	treatment	treatment	osteoarthritis	osteoarthritis	of	
+T-545	curcumin	curcumin	exercise	exercise	may improve artery function similar to an hour of aerobic	
+T-545	bioavailability	bioavailability	turmeric	turmeric	of	
+T-545	india	india	plant-based	plant-based	may be due to their more	
+T-545	curcumin	curcumin	inflammation	inflammation	may help reduce	
+T-545	osteoarthritis	osteoarthritis	rheumatoid arthritis	rheumatoid arthritis	and	
 T-545	curcumin	curcumin	colon	colon	may both prevent and treat	
 T-545	curcumin	curcumin	black pepper	black pepper	is to consume it with some	
-T-545	curcumin	curcumin	polyps	polyps	may both prevent and treat colon	
-T-545	inflammation	inflammation	ginger	ginger	along with cloves,	
-T-545	osteoarthritis	osteoarthritis	arthritis	arthritis	and rheumatoid	
-T-545	bioavailability	bioavailability	turmeric	turmeric	of	
-T-545	painkillers	painkillers	treatment	treatment	for the	
-T-545	turmeric	turmeric	ginger	ginger	curcumin may help reduce inflammation along with cloves,	
-T-545	colon	colon	cancer	cancer	polyps and temporarily reduce pancreatic	
 T-545	curcumin	curcumin	anti-inflammatory	anti-inflammatory	may work as well or better than	
 T-545	drugs	drugs	painkillers	painkillers	and	
-T-545	painkillers	painkillers	arthritis	arthritis	for the treatment of osteoarthritis and rheumatoid	
-T-545	drugs	drugs	osteoarthritis	osteoarthritis	and painkillers for the treatment of	
-T-545	turmeric	turmeric	black pepper	black pepper	curcumin is to consume it with some	
-T-545	treatment	treatment	rheumatoid arthritis	rheumatoid arthritis	of osteoarthritis and	
-T-545	india	india	plant-based	plant-based	may be due to their more	
-T-545	india	india	diet	diet	may be due to their more plant-based, spice-rich	
-T-545	turmeric	turmeric	polyps	polyps	curcumin may both prevent and treat colon	
-T-545	turmeric	turmeric	dna	dna	curcumin intake appears to significantly lower the	
-T-545	anti-inflammatory	anti-inflammatory	treatment	treatment	drugs and painkillers for the	
-T-545	curcumin	curcumin	symptoms	symptoms	may also reduce alzheimer’s	
-T-545	anti-inflammatory	anti-inflammatory	painkillers	painkillers	drugs and	
-T-545	curcumin	curcumin	inflammation	inflammation	may help reduce	
-T-545	inflammation	inflammation	rosemary	rosemary	along with cloves, ginger, and	
-T-545	turmeric	turmeric	pepper	pepper	curcumin is to consume it with some black	
-T-545	curcumin	curcumin	ginger	ginger	may help reduce inflammation along with cloves,	
-T-545	drugs	drugs	rheumatoid arthritis	rheumatoid arthritis	and painkillers for the treatment of osteoarthritis and	
-T-545	turmeric	turmeric	cloves	cloves	curcumin may help reduce inflammation along with	
-T-545	treatment	treatment	osteoarthritis	osteoarthritis	of	
-T-545	curcumin	curcumin	dna	dna	intake appears to significantly lower the	
-T-545	turmeric	turmeric	curcumin	curcumin		
-T-545	curcumin	curcumin	turmeric	turmeric	is the yellow pigment in the spice	
-T-545	colon	colon	polyps	polyps		
-T-545	kidney stones	kidney stones	turmeric	turmeric	may need to be cautious about their	
-T-545	curcumin	curcumin	affordability	affordability	is noted for its safety,	
-T-545	turmeric	turmeric	inflammation	inflammation	curcumin may help reduce	
-T-545	turmeric	turmeric	health	health	that may provide a range of	
-T-545	kidney	kidney	turmeric	turmeric	stones may need to be cautious about their	
-T-545	drugs	drugs	treatment	treatment	and painkillers for the	
-T-545	inflammation	inflammation	cloves	cloves	along with	
-T-545	polyps	polyps	pancreatic cancer	pancreatic cancer	and temporarily reduce	
-T-545	curcumin	curcumin	cloves	cloves	may help reduce inflammation along with	
-T-545	anti-inflammatory	anti-inflammatory	drugs	drugs		
-T-545	osteoarthritis	osteoarthritis	rheumatoid arthritis	rheumatoid arthritis	and	
-T-545	polyps	polyps	cancer	cancer	and temporarily reduce pancreatic	
 T-545	curcumin	curcumin	pepper	pepper	is to consume it with some black	

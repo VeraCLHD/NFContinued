@@ -1,70 +1,11 @@
 
-T-936	fruit	fruit	sugar	sugar	a day does not negatively impact blood	
-T-936	energy	energy	fructose	fructose	in every cell of the body,	
-T-936	fruit	fruit	blood	blood	a day does not negatively impact	
-T-936	blood pressure	blood pressure	diabetes	diabetes	(hypertension), obesity, prediabetes,	
-T-936	hypertension	hypertension	disease	disease	), obesity, prediabetes, diabetes, kidney	
-T-936	high blood pressure	high blood pressure	prediabetes	prediabetes	(hypertension), obesity,	
-T-936	high blood pressure	high blood pressure	kidney disease	kidney disease	(hypertension), obesity, prediabetes, diabetes,	
-T-936	risk	risk	high blood pressure	high blood pressure	of gout,	
-T-936	glucose	glucose	fructose	fructose	and 45%	
-T-936	blood sugar	blood sugar	american heart association	american heart association	levels.the	
-T-936	uric acid	uric acid	high blood pressure	high blood pressure	may be associated with increased risk of gout,	
-T-936	risk	risk	blood pressure	blood pressure	of gout, high	
-T-936	sugar	sugar	fruit	fruit	fructose in	
-T-936	hypertension	hypertension	kidney disease	kidney disease	), obesity, prediabetes, diabetes,	
-T-936	high blood pressure	high blood pressure	disease	disease	(hypertension), obesity, prediabetes, diabetes, kidney	
-T-936	fruit	fruit	fiber	fiber	is slowed down and buffered by the	
-T-936	sugar	sugar	glucose	glucose	(sucrose) is 50%	
-T-936	blood	blood	uric acid	uric acid		
-T-936	risk	risk	obesity	obesity	of gout, high blood pressure (hypertension),	
-T-936	fruit	fruit	fructose	fructose	is metabolized in the body differently than the	
 T-936	glucose	glucose	energy	energy	is immediately used for	
+T-936	phytonutrients	phytonutrients	fruit	fruit	contained in the	
 T-936	processed foods	processed foods	beverages	beverages	and	
-T-936	glucose	glucose	fructose	fructose	and 50%	
-T-936	fructose	fructose	corn syrup	corn syrup		
-T-936	blood	blood	risk	risk	uric acid may be associated with increased	
-T-936	energy	energy	alcohol	alcohol	in every cell of the body, fructose, like	
-T-936	risk	risk	prediabetes	prediabetes	of gout, high blood pressure (hypertension), obesity,	
-T-936	heavy metal	heavy metal	mercury	mercury		
-T-936	kidney	kidney	disease	disease		
-T-936	liver	liver	disease	disease		
-T-936	high blood pressure	high blood pressure	diabetes	diabetes	(hypertension), obesity, prediabetes,	
-T-936	women	women	calories	calories	and 150	
-T-936	blood pressure	blood pressure	kidney	kidney	(hypertension), obesity, prediabetes, diabetes,	
-T-936	sugar	sugar	fructose	fructose		
-T-936	high blood pressure	high blood pressure	obesity	obesity	(hypertension),	
-T-936	glucose	glucose	sugar	sugar	and 45% fructose, while table	
-T-936	corn syrup	corn syrup	sugar	sugar	(hfcs) is an industrial	
-T-936	fructose	fructose	corn	corn		
-T-936	hypertension	hypertension	prediabetes	prediabetes	), obesity,	
-T-936	blood pressure	blood pressure	disease	disease	(hypertension), obesity, prediabetes, diabetes, kidney	
-T-936	high blood pressure	high blood pressure	kidney	kidney	(hypertension), obesity, prediabetes, diabetes,	
-T-936	fructose	fructose	sugar	sugar	corn syrup (hfcs) is an industrial	
-T-936	blood	blood	insulin	insulin	sugar, the corresponding rise in blood	
-T-936	dairy	dairy	mercury	mercury	products in the study contained	
-T-936	uric acid	uric acid	gout	gout	may be associated with increased risk of	
-T-936	sugar	sugar	american heart association	american heart association	levels.the	
-T-936	high fructose corn syrup	high fructose corn syrup	sugar	sugar	(hfcs) is an industrial	
-T-936	corn	corn	sugar	sugar	syrup (hfcs) is an industrial	
-T-936	blood pressure	blood pressure	prediabetes	prediabetes	(hypertension), obesity,	
 T-936	meat	meat	sugar	sugar	and	
-T-936	blood pressure	blood pressure	kidney disease	kidney disease	(hypertension), obesity, prediabetes, diabetes,	
-T-936	sugar	sugar	fructose	fructose	(sucrose) is 50% glucose and 50%	
-T-936	risk	risk	hypertension	hypertension	of gout, high blood pressure (	
-T-936	calories	calories	women	women	a day for	
+T-936	risk	risk	gout	gout	of	
 T-936	fructose	fructose	fruit	fruit	in	
-T-936	risk	risk	blood	blood	of gout, high	
 T-936	sugar	sugar	processed foods	processed foods	used to sweeten many	
 T-936	uric acid	uric acid	risk	risk	may be associated with increased	
-T-936	blood	blood	american heart association	american heart association	sugar levels.the	
-T-936	sugar	sugar	beverages	beverages	used to sweeten many processed foods and	
-T-936	fruit	fruit	antioxidants	antioxidants	is slowed down and buffered by the fiber,	
-T-936	phytonutrients	phytonutrients	fruit	fruit	contained in the	
-T-936	hypertension	hypertension	diabetes	diabetes	), obesity, prediabetes,	
-T-936	fruit	fruit	blood sugar	blood sugar	a day does not negatively impact	
-T-936	hypertension	hypertension	kidney	kidney	), obesity, prediabetes, diabetes,	
-T-936	blood pressure	blood pressure	obesity	obesity	(hypertension),	
-T-936	risk	risk	gout	gout	of	
-T-936	risk	risk	diabetes	diabetes	of gout, high blood pressure (hypertension), obesity, prediabetes,	
-T-936	blood	blood	sugar	sugar		
+T-936	fruit	fruit	fiber	fiber	is slowed down and buffered by the	
+T-936	fruit	fruit	fructose	fructose	is metabolized in the body differently than the	

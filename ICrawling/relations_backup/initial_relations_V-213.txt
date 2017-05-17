@@ -1,45 +1,12 @@
 
-V-213	galactose	galactose	milk	milk	sugar in	
-V-213	calcium	calcium	supplements	supplements		
-V-213	supplements	supplements	heart attacks	heart attacks	for five years, we would expect 14 excess	
-V-213	death	death	sugar	sugar	associated with the galactose	
-V-213	placebo	placebo	sugar	sugar		
-V-213	vitamin d	vitamin d	supplements	supplements	and calcium	
-V-213	supplements	supplements	bone fractures	bone fractures	cannot be considered safe or effective for preventing	
-V-213	risk	risk	calcium	calcium	at all, and when people have been given	
-V-213	sunlight	sunlight	calcium	calcium	exposure and	
-V-213	pills	pills	mortality	mortality	had significantly increased	
-V-213	supplements	supplements	osteoporosis	osteoporosis	don’t play a role in treating	
-V-213	calcium	calcium	sunlight	sunlight	supplements, they randomized them to	
-V-213	vitamin d	vitamin d	calcium	calcium	deficient and you take vitamin d and	
-V-213	vitamin d	vitamin d	calcium	calcium	and	
-V-213	calcium	calcium	sugar	sugar	supplementation compared to just getting like a placebo	
-V-213	vitamin d	vitamin d	supplements	supplements		
-V-213	risk	risk	calcium	calcium	of hip fractures with	
-V-213	risk	risk	sugar	sugar	of fracture and death associated with the galactose	
-V-213	risk	risk	galactose	galactose	of fracture and death associated with the	
-V-213	death	death	galactose	galactose	associated with the	
-V-213	galactose	galactose	sugar	sugar		
-V-213	calcium	calcium	milk	milk	in	
-V-213	risk	risk	death	death	of fracture and	
-V-213	sugar	sugar	milk	milk	in	
-V-213	risk	risk	calcium	calcium	benefit analysis and conclude that	
-V-213	supplements	supplements	risk	risk	have been associated with elevated	
-V-213	calcium	calcium	heart attacks	heart attacks	supplements caused a few	
-V-213	risk	risk	supplements	supplements	benefit analysis and conclude that calcium	
-V-213	sunlight	sunlight	supplements	supplements	exposure and calcium	
-V-213	surgery	surgery	supplements	supplements	or something and need to take	
-V-213	supplements	supplements	risk	risk	is not worth any	
-V-213	gastric bypass	gastric bypass	surgery	surgery		
-V-213	death	death	milk	milk	associated with the galactose sugar in	
-V-213	risk	risk	heart attacks	heart attacks	of myocardial infarction (	
-V-213	calcium	calcium	placebo	placebo	supplementation compared to just getting like a	
 V-213	supplements	supplements	heart attacks	heart attacks	caused a few	
-V-213	vitamin d	vitamin d	sunlight	sunlight	and calcium supplements, they randomized them to	
-V-213	calcium	calcium	risk	risk	in milk may be overshadowed by the increased	
-V-213	calcium	calcium	risk	risk	supplements have been associated with elevated	
-V-213	risk	risk	calcium	calcium	of myocardial infarction (heart attacks), whereas dietary	
-V-213	heart attacks	heart attacks	calcium	calcium	), whereas dietary	
-V-213	gastric bypass	gastric bypass	supplements	supplements	surgery or something and need to take	
-V-213	supplements	supplements	calcium	calcium	must intrinsically be safe, but	
+V-213	sugar	sugar	milk	milk	in	
+V-213	supplements	supplements	risk	risk	have been associated with elevated	
+V-213	vitamin d	vitamin d	calcium	calcium	and	
+V-213	supplements	supplements	risk	risk	is not worth any	
+V-213	supplements	supplements	bone fractures	bone fractures	cannot be considered safe or effective for preventing	
+V-213	pills	pills	mortality	mortality	had significantly increased	
 V-213	doctors	doctors	drugs	drugs	continue to write billions of prescriptions for	
+V-213	supplements	supplements	osteoporosis	osteoporosis	don’t play a role in treating	
+V-213	death	death	galactose	galactose	associated with the	
+V-213	calcium	calcium	milk	milk	in	

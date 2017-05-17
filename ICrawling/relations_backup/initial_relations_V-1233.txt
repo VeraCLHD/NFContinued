@@ -1,35 +1,7 @@
 
 V-1233	berries	berries	cancer	cancer	have antiproliferative effects on	
-V-1233	cancer cells	cancer cells	cancer	cancer	—they can slow down	
 V-1233	strawberries	strawberries	cancer	cancer	blocked	
-V-1233	organic	organic	strawberries	strawberries		
+V-1233	berries	berries	cancer cells	cancer cells	have antiproliferative effects on	
 V-1233	strawberries	strawberries	cancer growth	cancer growth	blocked	
-V-1233	colon cancer	colon cancer	breast cancer	breast cancer	cells, and human	
-V-1233	raspberries	raspberries	cancer	cancer	cut the growth in half, and strawberries blocked	
-V-1233	cancer	cancer	cancer cells	cancer cells	cells, and human breast	
-V-1233	colon cancer	colon cancer	cancer	cancer	cells, and human breast	
 V-1233	cancer cells	cancer cells	steaming	steaming	are still	
 V-1233	strawberries	strawberries	organic	organic	or	
-V-1233	raspberries	raspberries	cancer growth	cancer growth	cut the growth in half, and strawberries blocked	
-V-1233	phytonutrients	phytonutrients	antioxidant	antioxidant	work together; many have healthful properties beyond just their	
-V-1233	cancer cells	cancer cells	cancer growth	cancer growth	—they can slow down	
-V-1233	colon	colon	cancer cells	cancer cells		
-V-1233	cancer	cancer	cancer	cancer	cells, and human breast	
-V-1233	berries	berries	cancer cells	cancer cells	have antiproliferative effects on	
-V-1233	cancer	cancer	breast cancer	breast cancer	cells, and human	
-V-1233	berries	berries	liver	liver	themselves for their benefits; we can eat the	
-V-1233	colon	colon	cancer	cancer		
-V-1233	colon cancer	colon cancer	cancer cells	cancer cells	cells, and human breast	
-V-1233	brains	brains	pigs	pigs	of berry-fed	
-V-1233	colon	colon	breast cancer	breast cancer	cancer cells, and human	
-V-1233	raspberries	raspberries	strawberries	strawberries	cut the growth in half, and	
-V-1233	chemicals	chemicals	health	health	for protection of optimal	
-V-1233	cancer	cancer	steaming	steaming	cells are still	
-V-1233	berries	berries	chemicals	chemicals	and beyond: teamwork between plant	
-V-1233	blueberries	blueberries	cancer cells	cancer cells	to her	
-V-1233	cancer	cancer	cancer growth	cancer growth	cells—they can slow down	
-V-1233	beans	beans	berries	berries	to	
-V-1233	blueberries	blueberries	cancer	cancer	to her	
-V-1233	cancer	cancer	cancer	cancer	cells—they can slow down	
-V-1233	beans	beans	chemicals	chemicals	to berries and beyond: teamwork between plant	
-V-1233	breast cancer	breast cancer	berries	berries	cells.we don’t have to necessarily eat the	

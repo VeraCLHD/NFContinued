@@ -1,40 +1,8 @@
 
-V-151	treatment	treatment	babies	babies	of our number one killer, but	
-V-151	pollutants	pollutants	dioxins	dioxins	such as	
-V-151	vegan	vegan	milk	milk	breast	
-V-151	babies	babies	dha	dha	breastfed by vegan moms have significantly lower	
-V-151	vegan	vegan	children	children	and vegetarian	
-V-151	pregnant	pregnant	fish	fish	and breastfeeding women who avoid	
-V-151	pollutants	pollutants	pcbs	pcbs	such as dioxins,	
-V-151	pollutants	pollutants	mercury	mercury	such as dioxins, pcbs, and	
-V-151	vegans	vegans	vegetarians	vegetarians	had 14, 	
-V-151	babies	babies	vegan	vegan	breastfed by	
-V-151	vegan	vegan	breast milk	breast milk		
-V-151	breastfeeding	breastfeeding	women	women		
-V-151	vegan	vegan	dha	dha	moms have significantly lower	
-V-151	plant-based	plant-based	treatment	treatment	diets as the diets of choice in the	
-V-151	dha	dha	pregnant	pregnant	supplementation of	
-V-151	dha	dha	women	women	supplementation of pregnant and breast-feeding	
-V-151	vegetarian	vegetarian	children	children		
-V-151	pregnant	pregnant	women	women	and breastfeeding	
-V-151	pregnant	pregnant	plant-based	plant-based	and breast-feeding women on	
-V-151	women	women	plant-based	plant-based	on	
-V-151	babies	babies	vegan	vegan	getting	
-V-151	women	women	plant-based diets	plant-based diets	on	
-V-151	dha	dha	blood	blood	levels in the	
-V-151	breastfeeding	breastfeeding	fish	fish	women who avoid	
-V-151	vegan	vegan	blood	blood	moms have significantly lower dha levels in the	
-V-151	vegetarians	vegetarians	omnivores	omnivores	30, and	
-V-151	vegans	vegans	omnivores	omnivores	had 14,  vegetarians 30, and	
-V-151	pregnant	pregnant	women	women	and breast-feeding	
-V-151	vegan	vegan	dha	dha	moms had significantly less	
-V-151	women	women	fish	fish	who avoid	
 V-151	pregnant	pregnant	breastfeeding	breastfeeding	and	
-V-151	vegetarian	vegetarian	kids	kids		
-V-151	babies	babies	breast milk	breast milk	getting vegan	
-V-151	plant-based diets	plant-based diets	treatment	treatment	as the diets of choice in the	
-V-151	babies	babies	dha	dha	breastfed by vegan moms had significantly less	
-V-151	babies	babies	milk	milk	getting vegan breast	
+V-151	babies	babies	vegan	vegan	getting	
+V-151	plant-based diets	plant-based diets	dha	dha	do follow the consensus guidelines to get about 200mg of preformed	
+V-151	pregnancy	pregnancy	baby	baby	had no effect because the body isn’t stupid and protects the growth of the	
 V-151	vegan	vegan	vegetarian	vegetarian	and	
-V-151	children	children	b12	b12	are normal, as long as they’re getting their	
-V-151	pregnant	pregnant	plant-based diets	plant-based diets	and breast-feeding women on	
+V-151	vegetarians	vegetarians	omnivores	omnivores	30, and	
+V-151	babies	babies	vegan	vegan	breastfed by	

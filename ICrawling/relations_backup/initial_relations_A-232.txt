@@ -1,40 +1,9 @@
 
-A-232	soda	soda	phosphate additives	phosphate additives	industry uses to make its soda brown (see	
-A-232	drugs	drugs	phosphate additives	phosphate additives	(arsenic in chicken) and	
-A-232	lead	lead	carcinogens	carcinogens	to the formation of	
-A-232	junk food	junk food	processed foods	processed foods	industry uses titanium dioxide to whiten	
-A-232	beer	beer	soy	soy	to gravies and	
-A-232	carcinogen	carcinogen	soft drinks	soft drinks	and started requiring warning labels on	
-A-232	phosphate additives	phosphate additives	chicken	chicken	in	
-A-232	meat	meat	salmon	salmon	red, and acanthoxanthins keep	
-A-232	salmon	salmon	fish	fish	pink (artificial coloring in	
-A-232	red meat	red meat	salmon	salmon	red, and acanthoxanthins keep	
-A-232	processed foods	processed foods	disease	disease	(titanium dioxide & inflammatory bowel	
-A-232	carcinogen	carcinogen	california	california	levels in their products—but only in	
-A-232	soda	soda	preterm birth	preterm birth	and	
-A-232	titanium dioxide	titanium dioxide	processed foods	processed foods	to whiten	
-A-232	beer	beer	soy sauce	soy sauce	to gravies and	
-A-232	food industry	food industry	titanium dioxide	titanium dioxide	uses	
-A-232	arsenic	arsenic	chicken	chicken	-containing drugs (arsenic in	
-A-232	phosphate additives	phosphate additives	poultry	poultry	in chicken to make	
-A-232	soda	soda	sodium	sodium	as well (is	
 A-232	phosphate additives	phosphate additives	meat	meat	in	
-A-232	processed foods	processed foods	inflammatory bowel disease	inflammatory bowel disease	(titanium dioxide &	
-A-232	chicken	chicken	poultry	poultry	) and phosphate additives in chicken to make	
-A-232	food industry	food industry	processed foods	processed foods	uses titanium dioxide to whiten	
-A-232	arsenic	arsenic	phosphate additives	phosphate additives	-containing drugs (arsenic in chicken) and	
-A-232	meat	meat	cola	cola	purge and	
-A-232	soda	soda	sodium benzoate	sodium benzoate	as well (is	
-A-232	carcinogens	carcinogens	cancer	cancer	such as 4-methylimidazole, which causes	
-A-232	california	california	carcinogen	carcinogen	officially listed it as a	
-A-232	drugs	drugs	chicken	chicken	(arsenic in	
-A-232	junk food	junk food	titanium dioxide	titanium dioxide	industry uses	
-A-232	phosphate additives	phosphate additives	cola	cola	in meat purge and	
+A-232	soda	soda	preterm birth	preterm birth	and	
 A-232	diet soda	diet soda	preterm birth	preterm birth	and	
-A-232	diet	diet	preterm birth	preterm birth	soda and	
-A-232	chicken	chicken	phosphate additives	phosphate additives	) and	
+A-232	food industry	food industry	titanium dioxide	titanium dioxide	uses	
 A-232	carbon monoxide	carbon monoxide	meat	meat	is used to keep red	
-A-232	titanium dioxide	titanium dioxide	inflammatory bowel disease	inflammatory bowel disease	to whiten processed foods (titanium dioxide &	
-A-232	arsenic	arsenic	drugs	drugs	-containing	
-A-232	diet	diet	soda	soda		
+A-232	food industry	food industry	adhd	adhd	will take to alter appearances (artificial food colors and	
 A-232	carbon monoxide	carbon monoxide	red meat	red meat	is used to keep	
+A-232	phosphate additives	phosphate additives	chicken	chicken	in	

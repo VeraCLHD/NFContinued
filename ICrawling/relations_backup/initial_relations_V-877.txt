@@ -1,44 +1,7 @@
 
 V-877	nitrites	nitrites	meats	meats	added to processed	
-V-877	pregnant	pregnant	hot dogs	hot dogs	women who eat	
-V-877	hot dogs	hot dogs	children	children	risk having	
-V-877	nitrites	nitrites	nitrosamines	nitrosamines	added to processed meats can form these carcinogenic	
-V-877	leukemia	leukemia	meat	meat	—the #1 pediatric cancer.last year, in	
-V-877	ham	ham	diet	diet	in a healthy	
-V-877	pregnant	pregnant	women	women		
-V-877	dogs	dogs	risk	risk		
-V-877	livestock	livestock	liver	liver	starting dying from	
-V-877	sodium	sodium	nitrite	nitrite		
-V-877	dogs	dogs	tumors	tumors	risk having children with brain	
-V-877	pregnant women	pregnant women	brain tumors	brain tumors	who eat hot dogs risk having children with	
-V-877	pregnant	pregnant	risk	risk	women who eat hot dogs	
-V-877	pregnant	pregnant	dogs	dogs	women who eat hot	
-V-877	risk	risk	children	children	having	
-V-877	hot dogs	hot dogs	tumors	tumors	risk having children with brain	
-V-877	livestock	livestock	liver cancer	liver cancer	starting dying from	
-V-877	pregnant	pregnant	children	children	women who eat hot dogs risk having	
-V-877	women	women	risk	risk	who eat hot dogs	
-V-877	children	children	brain tumors	brain tumors	with	
-V-877	hot dogs	hot dogs	risk	risk		
 V-877	diet	diet	health	health	breathed a sigh of relief: “[a]spects relating to	
-V-877	livestock	livestock	cancer	cancer	starting dying from liver	
-V-877	children	children	tumors	tumors	with brain	
-V-877	risk	risk	tumors	tumors	having children with brain	
-V-877	pregnant women	pregnant women	hot dogs	hot dogs	who eat	
-V-877	liver	liver	cancer	cancer		
-V-877	pregnant women	pregnant women	dogs	dogs	who eat hot	
+V-877	risk	risk	children	children	having	
+V-877	livestock	livestock	liver cancer	liver cancer	starting dying from	
 V-877	nitrites	nitrites	processed meats	processed meats	added to	
-V-877	women	women	dogs	dogs	who eat hot	
-V-877	processed meats	processed meats	nitrosamines	nitrosamines	can form these carcinogenic	
-V-877	hot dogs	hot dogs	brain tumors	brain tumors	risk having children with	
-V-877	women	women	hot dogs	hot dogs	who eat	
-V-877	liver	liver	disease	disease		
-V-877	dogs	dogs	brain tumors	brain tumors	risk having children with	
-V-877	pregnant women	pregnant women	risk	risk	who eat hot dogs	
-V-877	risk	risk	brain tumors	brain tumors	having children with	
-V-877	pregnant women	pregnant women	children	children	who eat hot dogs risk having	
-V-877	women	women	children	children	who eat hot dogs risk having	
-V-877	women	women	brain tumors	brain tumors	who eat hot dogs risk having children with	
-V-877	meat	meat	ham	ham	science, an article about the role of	
-V-877	meats	meats	nitrosamines	nitrosamines	can form these carcinogenic	
-V-877	dogs	dogs	children	children	risk having	
+V-877	livestock	livestock	liver	liver	starting dying from	

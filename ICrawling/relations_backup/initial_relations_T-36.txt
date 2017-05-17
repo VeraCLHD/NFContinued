@@ -1,69 +1,9 @@
 
 T-36	vegetables	vegetables	beans	beans	and	
-T-36	methionine	methionine	animal products	animal products	intake (largely by restricting	
-T-36	skin	skin	grains	grains	and eyes),	
-T-36	skin	skin	turmeric	turmeric	and eyes), grains (for protection against alzheimer’s disease)	
-T-36	grains	grains	disease	disease	(for protection against alzheimer’s	
-T-36	macular degeneration	macular degeneration	cocoa	cocoa	), nutritional yeast, watercress,	
-T-36	vegetables	vegetables	wrinkles	wrinkles	(to prevent	
-T-36	spinach	spinach	nutritional yeast	nutritional yeast	(for macular degeneration),	
-T-36	stress	stress	aging	aging	through activities such as meditation may reverse the	
-T-36	plant-based	plant-based	diet	diet		
-T-36	disease	disease	nutritional yeast	nutritional yeast	) turmeric, corn and spinach (for macular degeneration),	
-T-36	corn	corn	watercress	watercress	and spinach (for macular degeneration), nutritional yeast,	
-T-36	grains	grains	turmeric	turmeric	(for protection against alzheimer’s disease)	
-T-36	dna	dna	aging	aging	faster and slow the process of	
-T-36	diet	diet	health	health	may be the most important for dna	
-T-36	disease	disease	corn	corn	) turmeric,	
-T-36	protein	protein	tor	tor	consumption, on the other hand, lowers	
-T-36	pills	pills	aging	aging	 have no apparent effect on	
-T-36	aging	aging	grains	grains	 include: berries (for the brain, skin and eyes),	
-T-36	berries	berries	grains	grains	(for the brain, skin and eyes),	
-T-36	diet	diet	dna	dna	may be the most important for	
-T-36	tor	tor	variety	variety	and may increase the risk of a	
-T-36	aging	aging	skin	skin	 include: berries (for the brain,	
-T-36	milk	milk	animal products	animal products	and other	
-T-36	stress	stress	meditation	meditation	through activities such as	
-T-36	disease	disease	spinach	spinach	) turmeric, corn and	
-T-36	animal products	animal products	tor	tor	has been found to upregulate the activity of	
-T-36	cocoa	cocoa	wrinkles	wrinkles	and green and yellow vegetables (to prevent	
-T-36	tor	tor	risk	risk	and may increase the	
-T-36	spinach	spinach	yeast	yeast	(for macular degeneration), nutritional	
-T-36	corn	corn	cocoa	cocoa	and spinach (for macular degeneration), nutritional yeast, watercress,	
-T-36	disease	disease	macular degeneration	macular degeneration	) turmeric, corn and spinach (for	
-T-36	corn	corn	nutritional yeast	nutritional yeast	and spinach (for macular degeneration),	
-T-36	seafood	seafood	beef	beef	and	
-T-36	berries	berries	skin	skin	(for the brain,	
-T-36	spinach	spinach	macular degeneration	macular degeneration	(for	
-T-36	risk	risk	variety	variety	of a	
-T-36	exercise	exercise	fruits	fruits	a day, and eating plenty of	
-T-36	caloric restriction	caloric restriction	seafood	seafood	and exercise.cooked in particular ways, poultry, pork,	
-T-36	meditation	meditation	dna	dna	may reverse the aging of our	
-T-36	cancer	cancer	heart disease	heart disease	mortality,	
-T-36	heart disease	heart disease	methionine	methionine	mortality and overall mortality.restricting	
-T-36	cancer	cancer	disease	disease	mortality, heart	
-T-36	caloric restriction	caloric restriction	pork	pork	and exercise.cooked in particular ways, poultry,	
-T-36	spinach	spinach	cocoa	cocoa	(for macular degeneration), nutritional yeast, watercress,	
-T-36	corn	corn	spinach	spinach	and	
-T-36	exercise	exercise	whole grains	whole grains	a day, and eating plenty of fruits, veggies,	
-T-36	disease	disease	methionine	methionine	mortality and overall mortality.restricting	
-T-36	cancer	cancer	mortality	mortality		
-T-36	meditation	meditation	aging	aging	may reverse the	
-T-36	animal protein	animal protein	tor	tor	consumption, on the other hand, lowers	
-T-36	disease	disease	mortality	mortality		
-T-36	aging	aging	dna	dna	of our	
-T-36	caloric restriction	caloric restriction	poultry	poultry	and exercise.cooked in particular ways,	
-T-36	skin	skin	disease	disease	and eyes), grains (for protection against alzheimer’s	
-T-36	cancer	cancer	methionine	methionine	mortality, heart disease mortality and overall mortality.restricting	
-T-36	macular degeneration	macular degeneration	yeast	yeast	), nutritional	
-T-36	heart disease	heart disease	mortality	mortality		
 T-36	aging	aging	berries	berries	 include:	
-T-36	grains	grains	corn	corn	(for protection against alzheimer’s disease) turmeric,	
-T-36	corn	corn	macular degeneration	macular degeneration	and spinach (for	
-T-36	tor	tor	rapamycin	rapamycin	(target of	
-T-36	macular degeneration	macular degeneration	watercress	watercress	), nutritional yeast,	
-T-36	spinach	spinach	watercress	watercress	(for macular degeneration), nutritional yeast,	
-T-36	dna	dna	health	health		
-T-36	grains	grains	spinach	spinach	(for protection against alzheimer’s disease) turmeric, corn and	
-T-36	corn	corn	yeast	yeast	and spinach (for macular degeneration), nutritional	
-T-36	cocoa	cocoa	vegetables	vegetables	and green and yellow	
+T-36	pills	pills	aging	aging	 have no apparent effect on	
+T-36	corn	corn	spinach	spinach	and	
+T-36	animal products	animal products	tor	tor	has been found to upregulate the activity of	
+T-36	seafood	seafood	beef	beef	and	
+T-36	diet	diet	dna	dna	may be the most important for	
+T-36	meditation	meditation	aging	aging	may reverse the	

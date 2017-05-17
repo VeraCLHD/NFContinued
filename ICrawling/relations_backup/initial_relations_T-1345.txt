@@ -1,45 +1,10 @@
 
-T-1345	diabetes	diabetes	death	death	and cardiac	
 T-1345	diabetes	diabetes	cardiac death	cardiac death	and	
-T-1345	flax seeds	flax seeds	fish oil	fish oil	and algae-based dha supplements, which are bioequivalent to	
-T-1345	risk	risk	diabetes	diabetes	of type-2	
-T-1345	eggs	eggs	cholesterol	cholesterol	can be a source, but eggs contain	
-T-1345	fish	fish	toxins	toxins	oil but do not have the harmful industrial	
-T-1345	plant-based	plant-based	seeds	seeds	sources sources of omega-3 are flax	
-T-1345	health	health	intelligence	intelligence	and	
-T-1345	dha	dha	supplements	supplements		
-T-1345	flax	flax	dha	dha	seeds and algae-based	
-T-1345	intelligence	intelligence	babies	babies	of unborn	
-T-1345	intelligence	intelligence	mercury	mercury	of unborn babies, though the	
-T-1345	fish	fish	industrial toxins	industrial toxins	oil but do not have the harmful	
-T-1345	plant-based	plant-based	flax	flax	sources sources of omega-3 are	
-T-1345	flax	flax	seeds	seeds		
-T-1345	seeds	seeds	supplements	supplements	and algae-based dha	
-T-1345	dha	dha	fish oil	fish oil	supplements, which are bioequivalent to	
-T-1345	dha	dha	fish	fish	supplements, which are bioequivalent to	
-T-1345	flax	flax	supplements	supplements	seeds and algae-based dha	
-T-1345	health	health	babies	babies	and intelligence of unborn	
-T-1345	risk	risk	death	death	of type-2 diabetes and cardiac	
-T-1345	seeds	seeds	dha	dha	and algae-based	
-T-1345	mercury	mercury	fish	fish	in	
-T-1345	pollutants	pollutants	diabetes	diabetes	in fish may increase our risk of type-2	
-T-1345	plant-based	plant-based	flax seeds	flax seeds	sources sources of omega-3 are	
-T-1345	fish oil	fish oil	toxins	toxins	but do not have the harmful industrial	
-T-1345	flax seeds	flax seeds	fish	fish	and algae-based dha supplements, which are bioequivalent to	
+T-1345	chicken	chicken	genetic manipulation	genetic manipulation	are no longer a bountiful source of omega-3 due to	
 T-1345	pollutants	pollutants	fish	fish	in	
 T-1345	cholesterol	cholesterol	arachidonic acid	arachidonic acid	and	
-T-1345	symptoms	symptoms	depression	depression	of	
-T-1345	fish	fish	supplements	supplements	and fish-oil	
-T-1345	risk	risk	cardiac death	cardiac death	of type-2 diabetes and	
-T-1345	health	health	mercury	mercury	and intelligence of unborn babies, though the	
-T-1345	fish oil	fish oil	industrial toxins	industrial toxins	but do not have the harmful	
-T-1345	flax seeds	flax seeds	dha	dha	and algae-based	
-T-1345	seeds	seeds	fish oil	fish oil	and algae-based dha supplements, which are bioequivalent to	
-T-1345	pollutants	pollutants	risk	risk	in fish may increase our	
 T-1345	fish	fish	risk	risk	may increase our	
-T-1345	animal products	animal products	chicken	chicken	such as	
-T-1345	intelligence	intelligence	fish	fish	of unborn babies, though the mercury in	
-T-1345	fish	fish	cardiac death	cardiac death	may increase our risk of type-2 diabetes and	
-T-1345	seeds	seeds	fish	fish	and algae-based dha supplements, which are bioequivalent to	
-T-1345	fish	fish	diabetes	diabetes	may increase our risk of type-2	
-T-1345	flax seeds	flax seeds	supplements	supplements	and algae-based dha	
+T-1345	mercury	mercury	fish	fish	in	
+T-1345	symptoms	symptoms	depression	depression	of	
+T-1345	health	health	intelligence	intelligence	and	
+T-1345	supplements	supplements	dioxins	dioxins	may not be harmless due to the presence of	

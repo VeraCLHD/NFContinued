@@ -1,21 +1,9 @@
 
-T-854	phenolics	phenolics	phytonutrients	phytonutrients	—	
-T-854	fat	fat	juice	juice	oxidation, which both enhance metabolism.if grape	
-T-854	fruit	fruit	juice	juice	does not is excessive sugar: welch’s grape	
-T-854	juice	juice	health	health	has been found to have beneficial	
-T-854	fruit	fruit	grape juice	grape juice	far surpasses that found in juice—including	
-T-854	juice	juice	sugar	sugar	contains more	
-T-854	grape juice	grape juice	health	health	has been found to have beneficial	
-T-854	fruits	fruits	fruit	fruit	and juices, the amount present in whole	
-T-854	sugar	sugar	grape juice	grape juice	: welch’s	
 T-854	grape juice	grape juice	sugar	sugar	contains more	
-T-854	fruit	fruit	juice	juice	far surpasses that found in	
 T-854	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	and	
-T-854	juice	juice	grape juice	grape juice	—including	
-T-854	sugar	sugar	coca cola	coca cola	: welch’s grape juice contains more sugar than	
-T-854	grape juice	grape juice	juice	juice	with added vitamin c.the one thing	
-T-854	sugar	sugar	juice	juice	: welch’s grape	
-T-854	fruit	fruit	grape juice	grape juice	does not is excessive sugar: welch’s	
-T-854	fat	fat	oxidation	oxidation		
-T-854	fat	fat	grape juice	grape juice	oxidation, which both enhance metabolism.if	
-T-854	antioxidant	antioxidant	fruits	fruits	capacity of various	
+T-854	juice	juice	health	health	has been found to have beneficial	
+T-854	juice	juice	sugar	sugar	contains more	
+T-854	grape juice	grape juice	berries	berries	is part of the category of blue/purple foods (such as	
+T-854	juice	juice	berries	berries	is part of the category of blue/purple foods (such as	
+T-854	grape juice	grape juice	health	health	has been found to have beneficial	
+T-854	grape juice	grape juice	phenolics	phenolics	was ranked first in terms of the amount of	

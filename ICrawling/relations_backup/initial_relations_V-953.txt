@@ -1,6 +1,3 @@
 
-V-953	diet	diet	disease	disease	and coronary heart	
-V-953	diet	diet	doctors	doctors	and coronary heart disease,	
-V-953	lead	lead	health	health	to misplaced complacency among	
-V-953	diet	diet	heart disease	heart disease	and coronary	
+V-953	doctors	doctors	diet	diet	were asked why they don’t counsel their patients more often on	
 V-953	diet	diet	coronary heart disease	coronary heart disease	and	

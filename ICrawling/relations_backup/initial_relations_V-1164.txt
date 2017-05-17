@@ -1,33 +1,6 @@
 
-V-1164	cooking	cooking	pork	pork	of muscles…such as beef,	
-V-1164	chemicals	chemicals	beef	beef	formed from the cooking of muscles…such as	
+V-1164	national cancer institute	national cancer institute	meat	meat	 goes on to explain how people eating	
 V-1164	chemicals	chemicals	cooking	cooking	formed from the	
-V-1164	cooking	cooking	fish	fish	of muscles…such as beef, pork, [poultry], and	
-V-1164	muscles	muscles	poultry	poultry	…such as beef, pork, [	
+V-1164	cooking	cooking	muscles	muscles	of	
 V-1164	muscles	muscles	cancer	cancer	caused	
 V-1164	risk	risk	food poisoning	food poisoning	of	
-V-1164	meat	meat	food poisoning	food poisoning	rare any more, because of the risk of	
-V-1164	roasted	roasted	muscles	muscles	horse	
-V-1164	heterocyclic amines	heterocyclic amines	chemicals	chemicals	are “the carcinogenic	
-V-1164	cooking	cooking	muscles	muscles	of	
-V-1164	roasted	roasted	cancer	cancer	horse muscles caused	
-V-1164	cancer	cancer	meat	meat	institute goes on to explain how people eating	
-V-1164	chemicals	chemicals	pork	pork	formed from the cooking of muscles…such as beef,	
-V-1164	risk	risk	meat	meat	than those eating	
-V-1164	meat	meat	carcinogens	carcinogens		
-V-1164	carcinogens	carcinogens	chicken	chicken	we get from eating cooked	
-V-1164	chemicals	chemicals	muscles	muscles	formed from the cooking of	
-V-1164	cancer	cancer	meat	meat	risk than those eating	
-V-1164	muscles	muscles	fish	fish	…such as beef, pork, [poultry], and	
-V-1164	heterocyclic amines	heterocyclic amines	cooking	cooking	are “the carcinogenic chemicals formed from the	
-V-1164	meat	meat	risk	risk	rare any more, because of the	
-V-1164	muscles	muscles	pork	pork	…such as beef,	
-V-1164	national cancer institute	national cancer institute	meat	meat	 goes on to explain how people eating	
-V-1164	liver	liver	carcinogens	carcinogens	can detoxify only 50% of the	
-V-1164	cooking	cooking	poultry	poultry	of muscles…such as beef, pork, [	
-V-1164	meat	meat	cancer	cancer	well-done appear to have higher	
-V-1164	cooked meat	cooked meat	carcinogens	carcinogens		
-V-1164	cooking	cooking	beef	beef	of muscles…such as	
-V-1164	muscles	muscles	beef	beef	…such as	
-V-1164	poultry	poultry	fish	fish	], and	
-V-1164	meat	meat	risk	risk	well-done appear to have higher cancer	

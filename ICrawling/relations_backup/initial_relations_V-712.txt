@@ -1,12 +1,2 @@
 
-V-712	saffron	saffron	pms	pms	on	
-V-712	saffron	saffron	women	women	odor on symptoms unique to	
-V-712	symptoms	symptoms	pain	pain	unique to women, such as premenstrual syndrome,…menstrual	
-V-712	menstrual pain	menstrual pain	menstruation	menstruation	…, and irregular	
-V-712	symptoms	symptoms	syndrome	syndrome	unique to women, such as premenstrual	
-V-712	saffron	saffron	symptoms	symptoms	odor on	
-V-712	pain	pain	menstruation	menstruation	…, and irregular	
-V-712	saffron	saffron	premenstrual syndrome	premenstrual syndrome	odor on symptoms unique to women, such as	
-V-712	symptoms	symptoms	menstrual pain	menstrual pain	unique to women, such as premenstrual syndrome,…	
-V-712	symptoms	symptoms	premenstrual syndrome	premenstrual syndrome	unique to women, such as	
-V-712	symptoms	symptoms	women	women	unique to	
+V-712	saffron	saffron	saffron crocus	saffron crocus	is composed of the female reproductive organs of the flower of the	

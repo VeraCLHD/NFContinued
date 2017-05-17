@@ -1,22 +1,7 @@
 
-V-659	risk	risk	blood	blood	for high	
-V-659	risk	risk	diabetes	diabetes	for high blood pressure, stroke, heart disease,	
-V-659	blood	blood	stroke	stroke	pressure,	
-V-659	bha	bha	oxidation	oxidation	works by preventing the	
-V-659	apes	apes	mutation	mutation	(of which we are one), who developed a	
-V-659	uric acid	uric acid	antioxidant	antioxidant	is chemically an	
-V-659	sodium	sodium	fat retention	fat retention	and	
-V-659	risk	risk	stroke	stroke	for high blood pressure,	
-V-659	blood	blood	disease	disease	pressure, stroke, heart	
-V-659	blood	blood	heart disease	heart disease	pressure, stroke,	
-V-659	risk	risk	heart disease	heart disease	for high blood pressure, stroke,	
-V-659	uric acid	uric acid	high blood pressure	high blood pressure	level may also put us at risk for	
 V-659	calories	calories	sodium	sodium	abound, the last thing we need is more	
-V-659	risk	risk	blood pressure	blood pressure	for high	
 V-659	salt	salt	calories	calories	and	
 V-659	disease	disease	gout	gout	called	
-V-659	risk	risk	disease	disease	for high blood pressure, stroke, heart	
-V-659	blood	blood	diabetes	diabetes	pressure, stroke, heart disease,	
-V-659	uric acid	uric acid	risk	risk	level may also put us at	
+V-659	uric acid	uric acid	antioxidant	antioxidant	is chemically an	
 V-659	sodium	sodium	fat	fat	and	
-V-659	risk	risk	high blood pressure	high blood pressure	for	
+V-659	sodium	sodium	fat retention	fat retention	and	

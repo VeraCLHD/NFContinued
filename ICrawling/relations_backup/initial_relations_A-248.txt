@@ -1,29 +1,9 @@
 
-A-248	doctors	doctors	plant-based	plant-based	should recommend a bean-filled,	
-A-248	gas	gas	beans	beans	in one of my more amusing blog posts,	
-A-248	beans	beans	mortality	mortality	is 250 grams, and we get 8% lower	
-A-248	plant-based	plant-based	diet	diet		
 A-248	beans	beans	peas	peas	and	
 A-248	legumes	legumes	disease	disease	specifically, in the reduction of chronic	
+A-248	beans	beans	gas	gas	are going to cause	
 A-248	diet	diet	risk	risk	may increase our	
 A-248	legumes	legumes	chronic disease	chronic disease	specifically, in the reduction of	
-A-248	diet	diet	beans	beans	to their patients, as the nutritional attributes of	
-A-248	flatulence	flatulence	beans	beans	from eating	
-A-248	plant-based	plant-based	chronic disease	chronic disease	diet, and legumes specifically, in the reduction of	
-A-248	flatulence	flatulence	diet	diet	on the control	
-A-248	plant-based	plant-based	legumes	legumes	diet, and	
-A-248	beans	beans	lentils	lentils	and peas, or those in the mediterranean eating	
-A-248	beans	beans	gas	gas	are going to cause	
-A-248	diet	diet	death	death	may increase our risk of	
-A-248	diet	diet	beans	beans	without any	
-A-248	beans	beans	flatulence	flatulence	such that just the expectation of	
-A-248	flatulence	flatulence	beans	beans	on the control diet without any	
-A-248	doctors	doctors	plant-based diet	plant-based diet	should recommend a bean-filled,	
-A-248	lifespan	lifespan	beans	beans	from	
 A-248	japanese	japanese	soy	soy	eating their	
-A-248	japanese	japanese	beans	beans	eating their soy, the swedes eating their brown	
 A-248	beans	beans	gas	gas	and	
 A-248	risk	risk	death	death	of	
-A-248	plant-based diet	plant-based diet	beans	beans	to their patients, as the nutritional attributes of	
-A-248	kidney	kidney	beans	beans		
-A-248	doctors	doctors	diet	diet	should recommend a bean-filled, plant-based	

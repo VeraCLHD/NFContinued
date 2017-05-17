@@ -1,104 +1,23 @@
 
-A-302	fats	fats	vegetable oil	vegetable oil	by hardening	
-A-302	fats	fats	trans fat	trans fat	(see the usda chart in	
-A-302	fat	fat	processed foods	processed foods	intake has traditionally come from	
-A-302	disease	disease	breast cancer	breast cancer	and	
-A-302	breast cancer	breast cancer	trans fat	trans fat	survival and	
-A-302	cancer survival	cancer survival	fat	fat	and trans	
-A-302	cancer survival	cancer survival	trans fat	trans fat	and	
-A-302	usda	usda	turkey meat	turkey meat	nutrient database, cheese, milk, yogurt, burgers, chicken fat,	
-A-302	fat	fat	meat	meat	in	
-A-302	fats	fats	oils	oils	in non-hydrogenated vegetable	
-A-302	disease	disease	women	women	risk, especially, it appears, in	
-A-302	disease	disease	risk	risk		
-A-302	chicken	chicken	dogs	dogs	fat, turkey meat, bologna, and hot	
-A-302	fats	fats	animal products	animal products	naturally found in	
-A-302	usda	usda	chicken fat	chicken fat	nutrient database, cheese, milk, yogurt, burgers,	
-A-302	chicken	chicken	turkey	turkey	fat,	
-A-302	trans fats	trans fats	animal products	animal products	naturally found in	
-A-302	processed foods	processed foods	oils	oils	containing partially-hydrogenated	
-A-302	meat	meat	dairy	dairy	and	
-A-302	diabetes	diabetes	aggression	aggression	—and perhaps even 	
-A-302	fat	fat	new york city	new york city	labeling has been mandated, however, and places like	
-A-302	usda	usda	yogurt	yogurt	nutrient database, cheese, milk,	
-A-302	turkey	turkey	meat	meat		
-A-302	turkey	turkey	dogs	dogs	meat, bologna, and hot	
-A-302	trans fats	trans fats	oils	oils	in non-hydrogenated vegetable	
-A-302	fats	fats	animal products	animal products	in the american diet used to come from	
-A-302	trans fats	trans fats	animal products	animal products	in the american diet used to come from	
-A-302	disease	disease	trans fat	trans fat	and breast cancer survival and	
-A-302	cancer	cancer	trans fat	trans fat	survival and	
-A-302	nuts	nuts	seeds	seeds	or	
-A-302	chicken	chicken	meat	meat	fat, turkey	
-A-302	chicken	chicken	bologna	bologna	fat, turkey meat,	
-A-302	hot dogs	hot dogs	trans fats	trans fats	contain about 1 to 5 percent	
-A-302	meat	meat	oils	oils	and dairy, refined	
-A-302	disease	disease	cancer survival	cancer survival	and breast	
-A-302	chicken	chicken	fat	fat		
-A-302	trans fat	trans fat	impatience	impatience	intake has been associated with overt aggressive behavior,	
-A-302	cardiovascular disease	cardiovascular disease	risk	risk		
-A-302	olives	olives	fat	fat	themselves or whole food sources of	
-A-302	oils	oils	trans fats	trans fats	such as extra virgin olive should not contain	
-A-302	trans fat	trans fat	cardiovascular disease	cardiovascular disease	intake, irrespective of source—animal or industrial—increases	
-A-302	trans fats	trans fats	fat	fat	(see the usda chart in trans	
-A-302	turkey	turkey	bologna	bologna	meat,	
-A-302	usda	usda	meat	meat	chart in trans fat in	
-A-302	heart disease	heart disease	breast cancer survival	breast cancer survival	and	
-A-302	coronary heart disease	coronary heart disease	risk	risk		
-A-302	vegan	vegan	diet	diet		
-A-302	heart disease	heart disease	cancer survival	cancer survival	and breast	
-A-302	trans fat	trans fat	dairy	dairy	in meat and	
-A-302	trans fats	trans fats	trans fat	trans fat	(see the usda chart in	
-A-302	chicken	chicken	hot dogs	hot dogs	fat, turkey meat, bologna, and	
-A-302	fats	fats	fat	fat	(see the usda chart in trans	
-A-302	trans fat	trans fat	meat	meat	in	
+A-302	fats	fats	animal fat	animal fat	are basically found in only one place in nature:	
+A-302	hot dogs	hot dogs	fats	fats	contain about 1 to 5 percent trans	
 A-302	new york city	new york city	oils	oils	have banned the use of partially hydrogenated	
-A-302	disease	disease	fat	fat	and breast cancer survival and trans	
-A-302	heart disease	heart disease	risk	risk		
-A-302	usda	usda	cheese	cheese	nutrient database,	
+A-302	meat	meat	dairy	dairy	and	
+A-302	fats	fats	animal products	animal products	come now from	
+A-302	fat	fat	heart disease	heart disease	can be found in my videos blocking the first step of	
+A-302	disease	disease	breast cancer	breast cancer	and	
+A-302	breast cancer survival	breast cancer survival	trans fat	trans fat	and	
+A-302	trans fats	trans fats	animal fat	animal fat	are basically found in only one place in nature:	
+A-302	cancer survival	cancer survival	trans fat	trans fat	and	
+A-302	fat	fat	meat	meat	in	
+A-302	animal products	animal products	fats	fats	are as bad as the synthetic	
+A-302	trans fat	trans fat	heart disease	heart disease	can be found in my videos blocking the first step of	
 A-302	heart disease	heart disease	breast cancer	breast cancer	and	
 A-302	dogs	dogs	fats	fats	contain about 1 to 5 percent trans	
-A-302	breast cancer	breast cancer	fat	fat	survival and trans	
-A-302	usda	usda	milk	milk	nutrient database, cheese,	
-A-302	trans fat	trans fat	disease	disease	intake, irrespective of source—animal or industrial—increases cardiovascular	
-A-302	trans fat	trans fat	risk	risk	intake, irrespective of source—animal or industrial—increases cardiovascular disease	
-A-302	fat	fat	seeds	seeds	such as nuts or	
-A-302	diet	diet	animal products	animal products	used to come from	
-A-302	hot dogs	hot dogs	fats	fats	contain about 1 to 5 percent trans	
-A-302	meat	meat	dairy	dairy	and all	
-A-302	trans fats	trans fats	meat	meat	(see the usda chart in trans fat in	
-A-302	heart disease	heart disease	cancer	cancer	and breast	
-A-302	breast cancer survival	breast cancer survival	fat	fat	and trans	
-A-302	breast cancer survival	breast cancer survival	trans fat	trans fat	and	
-A-302	fats	fats	meat	meat	(see the usda chart in trans fat in	
 A-302	disease	disease	breast cancer survival	breast cancer survival	and	
-A-302	processed foods	processed foods	fats	fats	containing partially-hydrogenated oils, a fifth of the trans	
-A-302	fat	fat	impatience	impatience	intake has been associated with overt aggressive behavior,	
-A-302	trans fat	trans fat	new york city	new york city	labeling has been mandated, however, and places like	
-A-302	usda	usda	chicken	chicken	nutrient database, cheese, milk, yogurt, burgers,	
-A-302	usda	usda	turkey	turkey	nutrient database, cheese, milk, yogurt, burgers, chicken fat,	
-A-302	fats	fats	animal products	animal products	come now from	
-A-302	trans fats	trans fats	usda	usda	(see the	
-A-302	heart disease	heart disease	trans fat	trans fat	and breast cancer survival and	
-A-302	fats	fats	usda	usda	(see the	
-A-302	disease	disease	cancer	cancer	and breast	
-A-302	processed foods	processed foods	trans fats	trans fats	containing partially-hydrogenated oils, a fifth of the	
-A-302	fat	fat	nuts	nuts	such as	
-A-302	national academies of science	national academies of science	trans fats	trans fats	(nas), concluded that the only safe intake of	
-A-302	cancer	cancer	fat	fat	survival and trans	
-A-302	dogs	dogs	trans fats	trans fats	contain about 1 to 5 percent	
-A-302	usda	usda	fat	fat	chart in trans	
-A-302	turkey	turkey	hot dogs	hot dogs	meat, bologna, and	
-A-302	fat	fat	disease	disease	intake, irrespective of source—animal or industrial—increases cardiovascular	
-A-302	usda	usda	fat	fat	nutrient database, cheese, milk, yogurt, burgers, chicken	
-A-302	fat	fat	cardiovascular disease	cardiovascular disease	intake, irrespective of source—animal or industrial—increases	
-A-302	animal products	animal products	fats	fats	are as bad as the synthetic	
-A-302	trans fats	trans fats	diet	diet	in the american	
-A-302	chicken	chicken	turkey meat	turkey meat	fat,	
-A-302	cardiovascular disease	cardiovascular disease	women	women	risk, especially, it appears, in	
-A-302	fat	fat	risk	risk	intake, irrespective of source—animal or industrial—increases cardiovascular disease	
-A-302	usda	usda	burgers	burgers	nutrient database, cheese, milk, yogurt,	
-A-302	fats	fats	diet	diet	in the american	
+A-302	heart disease	heart disease	breast cancer survival	breast cancer survival	and	
+A-302	diet	diet	animal products	animal products	used to come from	
 A-302	trans fats	trans fats	animal products	animal products	come now from	
-A-302	trans fat	trans fat	processed foods	processed foods	intake has traditionally come from	
-A-302	heart disease	heart disease	fat	fat	and breast cancer survival and trans	
+A-302	trans fat	trans fat	meat	meat	in	
+A-302	nuts	nuts	seeds	seeds	or	
+A-302	processed foods	processed foods	oils	oils	containing partially-hydrogenated	

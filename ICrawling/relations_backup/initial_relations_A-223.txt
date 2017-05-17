@@ -1,133 +1,28 @@
 
-A-223	china study	china study	death	death	on sudden cardiac	
-A-223	nutritional yeast	nutritional yeast	cancer	cancer	), breast health (exercise & breast	
-A-223	breast health	breast health	cancer	cancer	(exercise & breast	
-A-223	coronary heart disease	coronary heart disease	symptoms	symptoms	have no previous	
-A-223	china study	china study	sudden cardiac death	sudden cardiac death	on	
-A-223	athletes	athletes	exercise	exercise	with nutritional yeast), breast health (	
-A-223	radiation	radiation	risk	risk	risks associated with diagnostic procedures in cancer	
-A-223	plant-based	plant-based	standard american diet	standard american diet	diets compare to those eating the	
-A-223	cancer	cancer	x-rays	x-rays	risk from ct scan radiation and do dental	
-A-223	plant-based diet	plant-based diet	disease	disease	can reverse heart	
-A-223	athletes	athletes	nutritional yeast	nutritional yeast	with	
-A-223	nutritional yeast	nutritional yeast	breast cancer	breast cancer	), breast health (exercise &	
-A-223	women	women	heart disease	heart disease	who die suddenly from coronary	
-A-223	risk	risk	lung cancer	lung cancer	of breast cancer and	
-A-223	cancer	cancer	ct scan	ct scan	risk from	
-A-223	dental x-rays	dental x-rays	tumors	tumors	cause brain	
-A-223	plaque	plaque	mortality	mortality	(considered a predictor of all-cause and cardiovascular	
-A-223	arteries	arteries	drugs	drugs	in some cases without	
-A-223	health	health	cancer	cancer	(exercise & breast	
-A-223	cancer	cancer	radiation	radiation	risk from ct scan	
-A-223	plant-based diets	plant-based diets	diet	diet	compare to those eating the standard american	
-A-223	endurance	endurance	arteries	arteries	runners’ carotid	
-A-223	plant-based	plant-based	heart disease	heart disease	diet can reverse	
-A-223	arteries	arteries	vegans	vegans	is between that of sedentary	
-A-223	carotid arteries	carotid arteries	vegans	vegans	is between that of sedentary	
-A-223	diet	diet	disease	disease	can reverse heart	
-A-223	x-rays	x-rays	tumors	tumors	cause brain	
-A-223	cancer	cancer	lung cancer	lung cancer	and	
-A-223	immune function	immune function	health	health	in athletes with nutritional yeast), breast	
-A-223	risk	risk	radiation	radiation	from ct scan	
-A-223	disease	disease	china	china	may be our last (see	
-A-223	b12	b12	health	health	necessary for arterial	
-A-223	vegans	vegans	omnivores	omnivores	and	
-A-223	women	women	coronary heart disease	coronary heart disease	who die suddenly from	
-A-223	ct scan	ct scan	tumors	tumors	radiation and do dental x-rays cause brain	
-A-223	arteries	arteries	plant-based diets	plant-based diets	of those eating	
 A-223	heart disease	heart disease	china	china	may be our last (see	
-A-223	cancer	cancer	cancer	cancer	and lung	
+A-223	coronary heart disease	coronary heart disease	symptoms	symptoms	have no previous	
 A-223	heart disease	heart disease	china study	china study	may be our last (see	
 A-223	standard american diet	standard american diet	bmi	bmi	were, on average, overweight with a	
-A-223	disease	disease	china study	china study	may be our last (see	
-A-223	immune function	immune function	exercise	exercise	in athletes with nutritional yeast), breast health (	
-A-223	plant-based	plant-based	diet	diet	diets compare to those eating the standard american	
-A-223	immune function	immune function	athletes	athletes	in	
-A-223	risk	risk	heart attack	heart attack	of dying from a	
-A-223	cigarettes	cigarettes	atherosclerosis	atherosclerosis	in	
-A-223	china	china	death	death	study on sudden cardiac	
-A-223	heart disease	heart disease	sudden cardiac death	sudden cardiac death	may be our last (see china study on	
-A-223	dental x-rays	dental x-rays	brain tumors	brain tumors	cause	
-A-223	radiation	radiation	cancer	cancer	risks associated with diagnostic procedures in	
-A-223	immune function	immune function	nutritional yeast	nutritional yeast	in athletes with	
-A-223	eggs	eggs	cigarettes	cigarettes	vs.	
-A-223	dental	dental	x-rays	x-rays		
-A-223	health	health	breast cancer	breast cancer	(exercise &	
-A-223	endurance	endurance	diet	diet	athletes, who ate the standard american	
-A-223	yeast	yeast	cancer	cancer	), breast health (exercise & breast	
-A-223	women	women	disease	disease	who die suddenly from coronary heart	
-A-223	plant-based diets	plant-based diets	standard american diet	standard american diet	compare to those eating the	
-A-223	esselstyn	esselstyn	diet	diet	jr. that switching to a plant-based	
-A-223	x-rays	x-rays	brain tumors	brain tumors	cause	
-A-223	dean ornish	dean ornish	esselstyn	esselstyn	and caldwell b.	
-A-223	risk	risk	dental	dental	from ct scan radiation and do	
-A-223	diet	diet	exercise	exercise	and	
-A-223	china	china	sudden cardiac death	sudden cardiac death	study on	
-A-223	cancer	cancer	dental	dental	risk from ct scan radiation and do	
-A-223	ct scan	ct scan	dental x-rays	dental x-rays	radiation and do	
-A-223	bmi	bmi	vegans	vegans	over 26 while the	
 A-223	risk	risk	breast cancer	breast cancer	of	
-A-223	risk	risk	cancer	cancer	of breast	
-A-223	variety	variety	immune function	immune function	of important reasons, immunity (preserving	
-A-223	plant-based	plant-based	diet	diet		
-A-223	china	china	cardiac death	cardiac death	study on sudden	
-A-223	ct scan	ct scan	radiation	radiation		
+A-223	physical activity	physical activity	health	health	comes from walking while i work: standing up for your	
+A-223	disease	disease	china study	china study	may be our last (see	
+A-223	dairy	dairy	diet	diet	had thickened arterial walls was because they were overweight—maybe the	
 A-223	arteries	arteries	vegans	vegans	of	
-A-223	ct scan	ct scan	brain tumors	brain tumors	radiation and do dental x-rays cause	
-A-223	mortality	mortality	diet	diet	) builds up in the standard american	
-A-223	variety	variety	athletes	athletes	of important reasons, immunity (preserving immune function in	
-A-223	yeast	yeast	breast cancer	breast cancer	), breast health (exercise &	
-A-223	cholesterol	cholesterol	blood pressure	blood pressure	levels and	
-A-223	endurance	endurance	vegans	vegans	runners’ carotid arteries is between that of sedentary	
-A-223	diet	diet	heart disease	heart disease	can reverse	
-A-223	athletes	athletes	cancer	cancer	with nutritional yeast), breast health (exercise & breast	
-A-223	plant-based	plant-based	disease	disease	diet can reverse heart	
-A-223	plant-based diet	plant-based diet	heart disease	heart disease	can reverse	
-A-223	yeast	yeast	health	health	), breast	
-A-223	vegans	vegans	diet	diet	and the conventional	
-A-223	cholesterol	cholesterol	blood	blood	levels and	
-A-223	yeast	yeast	exercise	exercise	), breast health (	
-A-223	plant-based diet	plant-based diet	arteries	arteries	can reverse heart disease, opening up	
-A-223	carotid arteries	carotid arteries	plaque	plaque	where the atherosclerotic	
-A-223	breast health	breast health	breast cancer	breast cancer	(exercise &	
-A-223	risk	risk	dental x-rays	dental x-rays	from ct scan radiation and do	
-A-223	esselstyn	esselstyn	plant-based	plant-based	jr. that switching to a	
-A-223	risk	risk	x-rays	x-rays	from ct scan radiation and do dental	
-A-223	dental	dental	tumors	tumors	x-rays cause brain	
-A-223	carotid arteries	carotid arteries	omnivores	omnivores	is between that of sedentary vegans and	
-A-223	ct scan	ct scan	x-rays	x-rays	radiation and do dental	
-A-223	endurance	endurance	carotid arteries	carotid arteries	runners’	
-A-223	arteries	arteries	omnivores	omnivores	is between that of sedentary vegans and	
-A-223	diet	diet	exercise	exercise	group were sedentary—less than an hour of	
-A-223	dental	dental	brain tumors	brain tumors	x-rays cause	
-A-223	mortality	mortality	standard american diet	standard american diet	) builds up in the	
-A-223	immune function	immune function	breast health	breast health	in athletes with nutritional yeast),	
-A-223	disease	disease	sudden cardiac death	sudden cardiac death	may be our last (see china study on	
-A-223	cancer	cancer	dental x-rays	dental x-rays	risk from ct scan radiation and do	
-A-223	vitamin b12	vitamin b12	health	health	necessary for arterial	
-A-223	immune function	immune function	yeast	yeast	in athletes with nutritional	
-A-223	esselstyn	esselstyn	plant-based diet	plant-based diet	jr. that switching to a	
-A-223	cancer	cancer	risk	risk		
-A-223	endurance	endurance	athletes	athletes		
-A-223	eggs	eggs	atherosclerosis	atherosclerosis	vs. cigarettes in	
-A-223	endurance	endurance	standard american diet	standard american diet	athletes, who ate the	
-A-223	athletes	athletes	health	health	with nutritional yeast), breast	
-A-223	arteries	arteries	plant-based	plant-based	of those eating	
+A-223	immune function	immune function	athletes	athletes	in	
+A-223	cigarettes	cigarettes	atherosclerosis	atherosclerosis	in	
 A-223	drugs	drugs	surgery	surgery	or	
-A-223	ct scan	ct scan	dental	dental	radiation and do	
 A-223	heart disease	heart disease	symptoms	symptoms	have no previous	
-A-223	breast cancer	breast cancer	cancer	cancer	and lung	
-A-223	arteries	arteries	surgery	surgery	in some cases without drugs or	
-A-223	china study	china study	cardiac death	cardiac death	on sudden	
-A-223	plant-based	plant-based	arteries	arteries	diet can reverse heart disease, opening up	
-A-223	diet	diet	arteries	arteries	can reverse heart disease, opening up	
-A-223	athletes	athletes	yeast	yeast	with nutritional	
-A-223	athletes	athletes	breast cancer	breast cancer	with nutritional yeast), breast health (exercise &	
-A-223	nutritional yeast	nutritional yeast	exercise	exercise	), breast health (	
-A-223	nutritional yeast	nutritional yeast	health	health	), breast	
+A-223	dental x-rays	dental x-rays	brain tumors	brain tumors	cause	
+A-223	diet	diet	heart disease	heart disease	can reverse	
+A-223	plant-based diet	plant-based diet	heart disease	heart disease	can reverse	
+A-223	arteries	arteries	vegans	vegans	is between that of sedentary	
+A-223	carotid arteries	carotid arteries	vegans	vegans	is between that of sedentary	
+A-223	cancer	cancer	lung cancer	lung cancer	and	
 A-223	breast cancer	breast cancer	lung cancer	lung cancer	and	
 A-223	diet	diet	bmi	bmi	were, on average, overweight with a	
-A-223	risk	risk	ct scan	ct scan	from	
 A-223	disease	disease	symptoms	symptoms	have no previous	
-A-223	ornish	ornish	esselstyn	esselstyn	and caldwell b.	
-A-223	athletes	athletes	breast health	breast health	with nutritional yeast),	
+A-223	plant-based diets	plant-based diets	standard american diet	standard american diet	compare to those eating the	
+A-223	disease	disease	china	china	may be our last (see	
+A-223	x-rays	x-rays	brain tumors	brain tumors	cause	
+A-223	vegans	vegans	omnivores	omnivores	and	
+A-223	diet	diet	exercise	exercise	and	

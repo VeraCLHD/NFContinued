@@ -1,63 +1,11 @@
 
 V-1013	calories	calories	phytochemicals	phytochemicals	derived from foods rich in	
-V-1013	diet	diet	calories	calories	: 3% of	
-V-1013	fats	fats	margarine	margarine	—butter,	
-V-1013	standard american diet	standard american diet	beans	beans	: 3% of calories come from	
-V-1013	diet	diet	nuts	nuts	: 3% of calories come from beans and	
-V-1013	whole grains	whole grains	barley	barley	—like oats,	
-V-1013	chronic disease	chronic disease	treatment	treatment	prevention,	
-V-1013	fats	fats	oils	oils	and	
-V-1013	whole grains	whole grains	wheat	wheat	—like oats, barley, whole	
-V-1013	beans	beans	vegetables	vegetables	and nuts; 3% from fruit; 5% is	
-V-1013	phytonutrients	phytonutrients	plants	plants	is that, by definition, they are found in	
-V-1013	diet	diet	phytonutrient	phytonutrient	is composed of	
-V-1013	vegan	vegan	grains	grains	diet that excluded refined	
-V-1013	usda	usda	diet	diet	dietary survey to see how the standard american	
-V-1013	soda	soda	fats	fats	and other junk; 23% comes from added	
-V-1013	whole grains	whole grains	grains	grains	—rich in phytonutrients—and refined	
-V-1013	fats	fats	butter	butter	—	
-V-1013	grains	grains	oats	oats	—like	
-V-1013	vegetables	vegetables	potatoes	potatoes	are white	
-V-1013	diet	diet	barley	barley	is composed of whole grains—like oats,	
-V-1013	fruit	fruit	calories	calories		
-V-1013	calories	calories	diet	diet	are low-phytonutrient juices, and so the typical american	
-V-1013	diet	diet	wheat	wheat	is composed of whole grains—like oats, barley, whole	
-V-1013	diet	diet	grains	grains	is composed of whole	
-V-1013	vegetables	vegetables	potato chips	potato chips	are white potatoes, half of which are	
-V-1013	whole grains	whole grains	brown rice	brown rice	—like oats, barley, whole wheat,	
-V-1013	soda	soda	butter	butter	and other junk; 23% comes from added fats—	
-V-1013	grains	grains	barley	barley	—like oats,	
-V-1013	phytonutrients	phytonutrients	grains	grains	—and refined	
-V-1013	whole grains	whole grains	phytonutrients	phytonutrients	—rich in	
-V-1013	candy	candy	fats	fats	are phytonutrient-rich either, so taking away the added	
 V-1013	diet	diet	whole grains	whole grains	is composed of	
 V-1013	calories	calories	potato chips	potato chips	of	
-V-1013	calories	calories	nuts	nuts	come from beans and	
-V-1013	standard american diet	standard american diet	nuts	nuts	: 3% of calories come from beans and	
-V-1013	grains	grains	rice	rice	—like oats, barley, whole wheat, brown	
-V-1013	beans	beans	nuts	nuts	and	
-V-1013	disease	disease	prevention	prevention		
-V-1013	chronic disease	chronic disease	prevention	prevention		
-V-1013	calories	calories	fruit	fruit	come from beans and nuts; 3% from	
-V-1013	lard	lard	candy	candy	nor	
 V-1013	calories	calories	beans	beans	come from	
-V-1013	grains	grains	whole wheat	whole wheat	—like oats, barley,	
-V-1013	diet	diet	oats	oats	is composed of whole grains—like	
-V-1013	diet	diet	grains	grains	that excluded refined	
-V-1013	disease	disease	treatment	treatment	prevention,	
-V-1013	whole grains	whole grains	whole wheat	whole wheat	—like oats, barley,	
-V-1013	beans	beans	fruit	fruit	and nuts; 3% from	
-V-1013	standard american diet	standard american diet	calories	calories	: 3% of	
-V-1013	diet	diet	beans	beans	: 3% of calories come from	
-V-1013	soda	soda	margarine	margarine	and other junk; 23% comes from added fats—butter,	
-V-1013	phytonutrient	phytonutrient	diet	diet	-rich food, our	
-V-1013	diet	diet	whole wheat	whole wheat	is composed of whole grains—like oats, barley,	
-V-1013	whole grains	whole grains	rice	rice	—like oats, barley, whole wheat, brown	
-V-1013	usda	usda	standard american diet	standard american diet	dietary survey to see how the	
-V-1013	grains	grains	phytonutrients	phytonutrients	—rich in	
-V-1013	grains	grains	brown rice	brown rice	—like oats, barley, whole wheat,	
 V-1013	candy	candy	soda	soda	and	
-V-1013	fats	fats	shortening	shortening	—butter, margarine, oil,	
-V-1013	vegan	vegan	diet	diet		
-V-1013	grains	grains	wheat	wheat	—like oats, barley, whole	
-V-1013	whole grains	whole grains	oats	oats	—like	
+V-1013	fats	fats	oils	oils	and	
+V-1013	diet	diet	phytonutrient	phytonutrient	is composed of	
+V-1013	diet	diet	grains	grains	is composed of whole	
+V-1013	vegetables	vegetables	potatoes	potatoes	are white	
+V-1013	beans	beans	nuts	nuts	and	

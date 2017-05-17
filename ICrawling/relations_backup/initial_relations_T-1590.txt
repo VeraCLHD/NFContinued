@@ -1,69 +1,16 @@
 
-T-1590	eggs	eggs	meat	meat	or	
-T-1590	sperm counts	sperm counts	xenoestrogens	xenoestrogens	than fish eaters, most likely due to the	
-T-1590	cheese	cheese	sperm counts	sperm counts	appear to lower	
-T-1590	sperm counts	sperm counts	fish	fish	than	
-T-1590	chemicals	chemicals	meat	meat	that build up in	
-T-1590	semen	semen	dioxins	dioxins	quality on account of steroids, saturated fat,	
-T-1590	sperm counts	sperm counts	saturated fat	saturated fat	and semen quality on account of steroids,	
-T-1590	fda	fda	pollutants	pollutants	considers safe due to the mercury and other	
-T-1590	protein	protein	fertility	fertility	does not affect male	
-T-1590	meat	meat	sperm counts	sperm counts	and cheese appear to lower	
-T-1590	pregnant	pregnant	women	women		
-T-1590	women	women	eggs	eggs	who eat	
-T-1590	hormones	hormones	meat	meat	in	
-T-1590	polonium	polonium	semen	semen	levels in	
-T-1590	hormones	hormones	fish	fish	in meat and the endocrine-disrupting pollutant in	
-T-1590	soy	soy	protein	protein		
-T-1590	semen	semen	fat	fat	quality on account of steroids, saturated	
-T-1590	semen	semen	saturated fat	saturated fat	quality on account of steroids,	
-T-1590	milk	milk	pregnant	pregnant	these days comes from	
-T-1590	pregnant women	pregnant women	pregnant	pregnant	and women planning to become	
-T-1590	eggs	eggs	gestational diabetes	gestational diabetes	or meat are significantly more likely to develop	
-T-1590	meat	meat	diabetes	diabetes	are significantly more likely to develop gestational	
-T-1590	dairy	dairy	protein	protein	– animal	
-T-1590	milk	milk	cows	cows	these days comes from pregnant	
-T-1590	cheese	cheese	semen	semen	appear to lower sperm counts and	
-T-1590	soy	soy	fertility	fertility	protein does not affect male	
-T-1590	pollutants	pollutants	fish	fish	in	
-T-1590	fertility	fertility	polonium	polonium	by increasing radioactive	
-T-1590	vegetarian	vegetarian	sperm counts	sperm counts	men were found to have higher	
-T-1590	infertility	infertility	poultry	poultry	by 30% (or 50% in the case of	
-T-1590	fertility	fertility	infertility	infertility	later in life.male	
-T-1590	seafood	seafood	polonium	polonium	might also affect male fertility by increasing radioactive	
-T-1590	pollutants	pollutants	risk	risk	in fish, which can increase a person’s	
-T-1590	fish	fish	xenoestrogens	xenoestrogens	eaters, most likely due to the	
-T-1590	monsanto	monsanto	roundup	roundup	’s	
-T-1590	meat	meat	cheese	cheese	and	
-T-1590	xenoestrogens	xenoestrogens	fish	fish	present in	
-T-1590	fda	fda	mercury	mercury	considers safe due to the	
-T-1590	soy	soy	milk	milk		
-T-1590	testosterone	testosterone	estrogen	estrogen	levels in males while simultaneously upping their	
-T-1590	risk	risk	infertility	infertility	of anovulatory	
-T-1590	mercury	mercury	fish	fish	and other pollutants in	
-T-1590	anovulatory	anovulatory	infertility	infertility		
 T-1590	steroid hormones	steroid hormones	meat	meat	in	
+T-1590	eggs	eggs	meat	meat	or	
 T-1590	pregnant women	pregnant women	women	women	and	
-T-1590	meat	meat	risk	risk	a day may increase a woman’s	
-T-1590	sperm counts	sperm counts	fat	fat	and semen quality on account of steroids, saturated	
-T-1590	risk	risk	anovulatory	anovulatory	of	
-T-1590	pollutants	pollutants	meat	meat	in the	
-T-1590	women	women	pregnant	pregnant	and women planning to become	
-T-1590	fertility	fertility	semen	semen	by increasing radioactive polonium levels in	
-T-1590	fish	fish	fda	fda	intake to less than what the	
-T-1590	meat	meat	fish	fish	and the endocrine-disrupting pollutant in	
-T-1590	sperm counts	sperm counts	semen	semen	and	
-T-1590	steroid hormones	steroid hormones	fish	fish	in meat and the endocrine-disrupting pollutant in	
-T-1590	sperm counts	sperm counts	steroids	steroids	and semen quality on account of	
-T-1590	meat	meat	anovulatory	anovulatory	a day may increase a woman’s risk of	
+T-1590	pollutants	pollutants	fish	fish	in	
 T-1590	soy protein	soy protein	fertility	fertility	does not affect male	
-T-1590	women	women	meat	meat	who eat eggs or	
+T-1590	cheese	cheese	sperm counts	sperm counts	appear to lower	
+T-1590	risk	risk	anovulatory	anovulatory	of	
 T-1590	meat	meat	gestational diabetes	gestational diabetes	are significantly more likely to develop	
-T-1590	seafood	seafood	fertility	fertility	might also affect male	
-T-1590	risk	risk	diabetes	diabetes	of developing	
-T-1590	mercury	mercury	pollutants	pollutants	and other	
-T-1590	meat	meat	semen	semen	and cheese appear to lower sperm counts and	
-T-1590	diabetes	diabetes	pregnant	pregnant	while	
-T-1590	dairy	dairy	animal protein	animal protein	–	
-T-1590	semen	semen	steroids	steroids	quality on account of	
-T-1590	gestational diabetes	gestational diabetes	pregnant	pregnant	while	
+T-1590	protein	protein	fertility	fertility	does not affect male	
+T-1590	soy	soy	sperm count	sperm count	may, however, decrease sperm concentration because it may increase total ejaculate volume, but has no effect on total	
+T-1590	hormones	hormones	meat	meat	in	
+T-1590	meat	meat	cheese	cheese	and	
+T-1590	sperm counts	sperm counts	semen	semen	and	
+T-1590	fda	fda	mercury	mercury	considers safe due to the	
+T-1590	meat	meat	diabetes	diabetes	are significantly more likely to develop gestational	

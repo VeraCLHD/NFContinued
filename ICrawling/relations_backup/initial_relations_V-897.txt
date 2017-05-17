@@ -1,11 +1,4 @@
 
-V-897	vegetables	vegetables	fiber	fiber	—the same amount of	
-V-897	antioxidant	antioxidant	protein	protein	diet saw the levels of c-reactive	
 V-897	berries	berries	citrus	citrus	and	
-V-897	fruits	fruits	fiber	fiber	and vegetables—the same amount of	
-V-897	diet	diet	antioxidant	antioxidant	to an even lower	
-V-897	antioxidant	antioxidant	diet	diet		
 V-897	fruits	fruits	vegetables	vegetables	and	
 V-897	lettuce	lettuce	bananas	bananas	and	
-V-897	berries	berries	diet	diet	and citrus, and on the low-antioxidant	
-V-897	antioxidant	antioxidant	c-reactive protein	c-reactive protein	diet saw the levels of	

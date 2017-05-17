@@ -1,58 +1,16 @@
 
-A-450	cancer	cancer	coffee	coffee	risk, as i detailed in	
-A-450	viruses	viruses	eggs	eggs	linked to cancer in consumers, then what about	
-A-450	poultry workers	poultry workers	mortality	mortality	and cancer	
-A-450	chicken	chicken	antibiotics	antibiotics	dioxins, viruses, or	
-A-450	exercise	exercise	diesel fumes	diesel fumes	more, or smoke less, or inhale less	
-A-450	cancer	cancer	cancer	cancer	risk, as i detailed in coffee and	
-A-450	chicken	chicken	viruses	viruses	dioxins,	
-A-450	coffee	coffee	cancer	cancer	and	
-A-450	vegetarian	vegetarian	cancer	cancer	have been noted to have lower	
-A-450	risk	risk	bone marrow	bone marrow	for cancers of the blood and	
-A-450	cancer	cancer	coffee	coffee	was because people who drink	
-A-450	drugs	drugs	industrial carcinogens	industrial carcinogens	that were fed to the birds,	
-A-450	cancer	cancer	chickens	chickens	may be explained by the presence in	
-A-450	virus	virus	food safety	food safety	exposure, raising broader	
-A-450	leukemia	leukemia	risk	risk		
-A-450	carcinogens	carcinogens	dioxins	dioxins	such as	
-A-450	drugs	drugs	carcinogens	carcinogens	that were fed to the birds, industrial	
-A-450	industrial carcinogens	industrial carcinogens	dioxins	dioxins	such as	
-A-450	chicken	chicken	dioxins	dioxins		
-A-450	coffee	coffee	cancer	cancer	consumption may actually decrease	
-A-450	cancer	cancer	poultry workers	poultry workers	i present the largest study to date on	
-A-450	vegetarian	vegetarian	obesity	obesity	advantages, such as lower	
-A-450	obesity	obesity	vegetarians	vegetarians	rates, even when	
-A-450	blood	blood	bone marrow	bone marrow	and	
-A-450	poultry	poultry	cancer	cancer	and penis	
-A-450	viruses	viruses	cancer	cancer	linked to	
-A-450	coffee	coffee	cancer	cancer	-drinking caused	
-A-450	penis cancer	penis cancer	poultry workers	poultry workers	i present the largest study to date on	
-A-450	cancer	cancer	eggs	eggs	in consumers, then what about	
-A-450	fruits	fruits	vegetables	vegetables	and	
-A-450	risk	risk	cancer	cancer	of dying from penile	
-A-450	poultry workers	poultry workers	cancer	cancer	and	
-A-450	lymphoma	lymphoma	risk	risk	and leukemia	
 A-450	diet	diet	cancer	cancer	and	
-A-450	cancer	cancer	exercise	exercise	rates, but maybe it’s just because they	
-A-450	risk	risk	chicken	chicken	among those eating just a small serving of	
-A-450	chicken	chicken	virus	virus		
-A-450	poultry	poultry	cancer	cancer	workers and	
-A-450	cancer	cancer	risk	risk		
-A-450	poultry	poultry	penis cancer	penis cancer	and	
-A-450	chickens	chickens	cancer	cancer	can be infected with viruses linked to	
-A-450	vegetarian	vegetarian	vegetarians	vegetarians	advantages, such as lower obesity rates, even when	
-A-450	cancer	cancer	poultry	poultry	rates for every 50 grams of daily	
-A-450	risk	risk	blood	blood	for cancers of the	
-A-450	epic	epic	lymphoma	lymphoma	findings on	
-A-450	chicken	chicken	food safety	food safety	virus exposure, raising broader	
-A-450	drugs	drugs	birds	birds	that were fed to the	
-A-450	cancer	cancer	poultry	poultry	i present the largest study to date on	
 A-450	poultry	poultry	cancer	cancer	and	
 A-450	lymphoma	lymphoma	leukemia	leukemia	and	
-A-450	blood	blood	lymphoma	lymphoma	and bone marrow, such as non-hodgkins	
-A-450	poultry	poultry	chicken	chicken	consumption—that’s just a quarter of a	
-A-450	penis cancer	penis cancer	poultry	poultry	i present the largest study to date on	
-A-450	chickens	chickens	drugs	drugs	’ and turkeys’ flesh of	
-A-450	vegetarians	vegetarians	omnivores	omnivores	versus healthy	
-A-450	coffee	coffee	risk	risk	consumption may actually decrease cancer	
+A-450	exercise	exercise	diesel fumes	diesel fumes	more, or smoke less, or inhale less	
+A-450	blood	blood	bone marrow	bone marrow	and	
+A-450	poultry	poultry	penis cancer	penis cancer	and	
+A-450	coffee	coffee	cancer	cancer	and	
+A-450	vegetarian	vegetarian	cancer	cancer	have been noted to have lower	
+A-450	viruses	viruses	cancer	cancer	linked to	
+A-450	coffee	coffee	cancer	cancer	-drinking caused	
+A-450	cancer	cancer	coffee	coffee	was because people who drink	
+A-450	cancer	cancer	chickens	chickens	may be explained by the presence in	
+A-450	fruits	fruits	vegetables	vegetables	and	
+A-450	poultry workers	poultry workers	cancer	cancer	and	
 A-450	chickens	chickens	viruses	viruses	can be infected with	

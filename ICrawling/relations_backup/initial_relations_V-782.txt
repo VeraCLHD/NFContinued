@@ -1,31 +1,14 @@
 
 V-782	atherosclerosis	atherosclerosis	insulin resistance	insulin resistance	and	
-V-782	endotoxemia	endotoxemia	saturated fat	saturated fat	appears to be to reduce	
-V-782	stomach	stomach	enzymes	enzymes	); and expose it to digestive	
-V-782	endotoxins	endotoxins	fat	fat	have a strong affinity for the saturated	
-V-782	insulin resistance	insulin resistance	lead	lead	[which can	
-V-782	lead	lead	diabetes	diabetes	to	
-V-782	fat	fat	endotoxins	endotoxins	comes in, since	
-V-782	inflammation	inflammation	plant foods	plant foods	from animal foods, but not from most	
-V-782	cheese	cheese	chicken	chicken	and	
-V-782	inflammation	inflammation	endotoxins	endotoxins	by increasing the absorption of the	
-V-782	saturated fat	saturated fat	cheese	cheese	intake”—which in the u.s. is mostly from	
-V-782	animal foods	animal foods	fermented foods	fermented foods	and	
-V-782	insulin	insulin	diabetes	diabetes	resistance [which can lead to	
-V-782	insulin resistance	insulin resistance	diabetes	diabetes	[which can lead to	
-V-782	bacteria	bacteria	endotoxins	endotoxins	in animal products, which release	
 V-782	atherosclerosis	atherosclerosis	insulin	insulin	and	
+V-782	endotoxins	endotoxins	fat	fat	have a strong affinity for the saturated	
 V-782	bacteria	bacteria	animal products	animal products	in	
-V-782	endotoxin	endotoxin	environment	environment	receptor] stimulants into their growth	
 V-782	endotoxins	endotoxins	saturated fat	saturated fat	have a strong affinity for the	
-V-782	animal fat	animal fat	endotoxins	endotoxins	comes in, since	
-V-782	endotoxemia	endotoxemia	fat	fat	appears to be to reduce saturated	
-V-782	inflammation	inflammation	animal foods	animal foods	from	
-V-782	atherosclerosis	atherosclerosis	diabetes	diabetes	and insulin resistance [which can lead to	
-V-782	fat	fat	cheese	cheese	intake”—which in the u.s. is mostly from	
+V-782	fat	fat	inflammation	inflammation	may play a “profound role in the pathogenesis” of [this after-meal]	
+V-782	animal fat	animal fat	inflammation	inflammation	may play a “profound role in the pathogenesis” of [this after-meal]	
+V-782	endotoxin	endotoxin	inflammation	inflammation	absorption.but the primary reason all those studies show increased	
+V-782	cheese	cheese	chicken	chicken	and	
 V-782	fat	fat	endotoxin	endotoxin	may play a role in boosting	
+V-782	animal foods	animal foods	fermented foods	fermented foods	and	
 V-782	endotoxins	endotoxins	cooking	cooking	were found to survive both	
-V-782	insulin	insulin	lead	lead	resistance [which can	
-V-782	atherosclerosis	atherosclerosis	lead	lead	and insulin resistance [which can	
-V-782	saturated fat	saturated fat	gut	gut	transport system through the	
 V-782	animal fat	animal fat	endotoxin	endotoxin	may play a role in boosting	

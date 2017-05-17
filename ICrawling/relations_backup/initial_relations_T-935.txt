@@ -1,85 +1,15 @@
 
-T-935	high blood pressure	high blood pressure	whole grains	whole grains	include beans (see also here),	
-T-935	blood	blood	diet	diet	pressure with a	
-T-935	high blood pressure	high blood pressure	legumes	legumes	include beans (see also here), whole grains, other	
-T-935	blood pressure	blood pressure	fructose	fructose	.on the other hand,	
-T-935	plant-based	plant-based	blood	blood	diet appears to reduce high	
-T-935	blood	blood	risk	risk	pressure	
-T-935	dr. walter kempner	dr. walter kempner	blood	blood	was able to reduce high	
-T-935	high blood pressure	high blood pressure	medications	medications	with	
-T-935	plant-based diet	plant-based diet	blood pressure	blood pressure	appears to reduce high	
-T-935	hibiscus tea	hibiscus tea	seaweed	seaweed	(see also here), purple potatoes, and the	
-T-935	plant-based	plant-based	diet	diet		
-T-935	blood	blood	rice	rice	pressure with a diet consisting of basically white	
-T-935	hibiscus tea	hibiscus tea	wakame	wakame	(see also here), purple potatoes, and the seaweed,	
-T-935	blood	blood	whole grains	whole grains	pressure include beans (see also here),	
-T-935	dr. walter kempner	dr. walter kempner	blood pressure	blood pressure	was able to reduce high	
-T-935	nitrate	nitrate	plant foods	plant foods	content of	
-T-935	blood pressure	blood pressure	grains	grains	include beans (see also here), whole	
-T-935	plant-based diet	plant-based diet	blood	blood	appears to reduce high	
-T-935	high blood pressure	high blood pressure	rice	rice	with a diet consisting of basically white	
-T-935	risk	risk	blood	blood	for high	
-T-935	plant-based	plant-based	blood pressure	blood pressure	diet appears to reduce high	
-T-935	plant-based	plant-based	risk	risk	diet appears to reduce high blood pressure	
-T-935	diet	diet	risk	risk	appears to reduce high blood pressure	
-T-935	hibiscus tea	hibiscus tea	potatoes	potatoes	(see also here), purple	
-T-935	beans	beans	legumes	legumes	(see also here), whole grains, other	
-T-935	plant-based diet	plant-based diet	high blood pressure	high blood pressure	appears to reduce	
-T-935	high blood pressure	high blood pressure	risk	risk		
-T-935	blood	blood	grains	grains	pressure include beans (see also here), whole	
-T-935	diet	diet	rice	rice	consisting of basically white	
-T-935	meat	meat	uric acid	uric acid	and sugar increase	
-T-935	rice	rice	fruit	fruit	and	
-T-935	diet	diet	blood	blood	appears to reduce high	
-T-935	blood pressure	blood pressure	risk	risk	may be the #1 killer	
-T-935	risk	risk	high blood pressure	high blood pressure	for	
-T-935	blood pressure	blood pressure	medications	medications	with	
-T-935	high blood pressure	high blood pressure	beans	beans	include	
-T-935	blood pressure	blood pressure	diet	diet	with a	
-T-935	fructose	fructose	blood	blood	(added sugars), may also be associated with high	
-T-935	blood	blood	fructose	fructose	pressure.on the other hand,	
-T-935	tea	tea	seaweed	seaweed	(see also here), purple potatoes, and the	
-T-935	salt	salt	fructose	fructose	intake (see also here) and industrial	
-T-935	beans	beans	grains	grains	(see also here), whole	
-T-935	tea	tea	wakame	wakame	(see also here), purple potatoes, and the seaweed,	
-T-935	diet	diet	fruit	fruit	consisting of basically white rice and	
-T-935	tea	tea	purple potatoes	purple potatoes	(see also here),	
-T-935	uric acid	uric acid	risk	risk	levels, which are associated with an increased	
-T-935	blood	blood	risk	risk	pressure is a serious	
-T-935	high blood pressure	high blood pressure	risk	risk	is a serious	
-T-935	diet	diet	blood pressure	blood pressure	appears to reduce high	
-T-935	high blood pressure	high blood pressure	grains	grains	include beans (see also here), whole	
-T-935	blood	blood	beans	beans	pressure include	
-T-935	blood pressure	blood pressure	risk	risk		
-T-935	beans	beans	beet juice	beet juice	(see also here), whole grains, other legumes, beets,	
-T-935	blood	blood	drugs	drugs	pressure lowering	
-T-935	tea	tea	potatoes	potatoes	(see also here), purple	
-T-935	blood	blood	medications	medications	pressure with	
-T-935	blood pressure	blood pressure	whole grains	whole grains	include beans (see also here),	
-T-935	high blood pressure	high blood pressure	risk	risk	may be the #1 killer	
-T-935	meat	meat	sugar	sugar	and	
-T-935	disease	disease	heart attacks	heart attacks	(see also here),	
-T-935	beans	beans	whole grains	whole grains	(see also here),	
-T-935	fruit	fruit	blood	blood	does not appear to raise	
-T-935	plant-based	plant-based	high blood pressure	high blood pressure	diet appears to reduce	
-T-935	blood pressure	blood pressure	legumes	legumes	include beans (see also here), whole grains, other	
-T-935	hibiscus	hibiscus	potatoes	potatoes	tea (see also here), purple	
-T-935	plant-based diet	plant-based diet	risk	risk	appears to reduce high blood pressure	
 T-935	dr. walter kempner	dr. walter kempner	high blood pressure	high blood pressure	was able to reduce	
-T-935	hibiscus	hibiscus	tea	tea		
 T-935	blood pressure	blood pressure	risk	risk	is a serious	
-T-935	high blood pressure	high blood pressure	diet	diet	with a	
-T-935	diet	diet	high blood pressure	high blood pressure	appears to reduce	
-T-935	fructose	fructose	blood pressure	blood pressure	(added sugars), may also be associated with high	
+T-935	high blood pressure	high blood pressure	risk	risk	is a serious	
+T-935	dr. walter kempner	dr. walter kempner	blood	blood	was able to reduce high	
 T-935	fruit	fruit	blood pressure	blood pressure	does not appear to raise	
-T-935	hibiscus	hibiscus	seaweed	seaweed	tea (see also here), purple potatoes, and the	
 T-935	blood pressure	blood pressure	beans	beans	include	
 T-935	drugs	drugs	risk	risk	can get a further 78% drop in	
 T-935	blood pressure	blood pressure	drugs	drugs	lowering	
-T-935	risk	risk	blood pressure	blood pressure	for high	
-T-935	hibiscus	hibiscus	purple potatoes	purple potatoes	tea (see also here),	
-T-935	blood	blood	risk	risk	pressure may be the #1 killer	
-T-935	beans	beans	beets	beets	(see also here), whole grains, other legumes,	
-T-935	hibiscus tea	hibiscus tea	purple potatoes	purple potatoes	(see also here),	
-T-935	sugar	sugar	uric acid	uric acid	increase	
-T-935	blood pressure	blood pressure	rice	rice	with a diet consisting of basically white	
+T-935	diet	diet	rice	rice	consisting of basically white	
+T-935	meat	meat	sugar	sugar	and	
+T-935	dr. walter kempner	dr. walter kempner	blood pressure	blood pressure	was able to reduce high	
+T-935	rice	rice	fruit	fruit	and	
+T-935	fruit	fruit	blood	blood	does not appear to raise	
+T-935	high blood pressure	high blood pressure	beans	beans	include	

@@ -1,82 +1,16 @@
 
-V-1300	women	women	infections	infections	who have frequent bladder	
-V-1300	bladder	bladder	bacteria	bacteria	infections were probably wiping out all the good	
-V-1300	bladder infections	bladder infections	cancer	cancer	were at an increased risk for breast	
-V-1300	flax	flax	treatment	treatment	seeds were recently compared to a leading pharmacological	
-V-1300	flax seeds	flax seeds	treatment	treatment	were recently compared to a leading pharmacological	
-V-1300	eggs	eggs	baking	baking	in	
-V-1300	fiber	fiber	boron	boron	—which can lower our cholesterol and triglycerides—even	
-V-1300	flax	flax	seeds	seeds		
-V-1300	bladder infections	bladder infections	risk	risk	were at an increased	
-V-1300	almond	almond	milk	milk		
-V-1300	infections	infections	cancer	cancer	were at an increased risk for breast	
-V-1300	breast cancer	breast cancer	risk	risk		
-V-1300	bladder	bladder	cancer	cancer	infections were at an increased risk for breast	
-V-1300	blood	blood	hot flashes	hot flashes	sugar, controls our blood pressure, and helps control	
-V-1300	cholesterol	cholesterol	triglycerides	triglycerides	 and	
-V-1300	infections	infections	risk	risk	were at an increased	
-V-1300	cholesterol	cholesterol	blood	blood	 and	
-V-1300	cholesterol	cholesterol	blood sugar	blood sugar	 and	
-V-1300	triglycerides	triglycerides	bone health	bone health	—even boron, a trace mineral important for optimum	
+V-1300	flax seeds	flax seeds	natural food store	natural food store	 are almost always in the bulk section of any	
 V-1300	infections	infections	breast cancer	breast cancer	tied to	
-V-1300	infections	infections	bacteria	bacteria	were probably wiping out all the good	
-V-1300	blood	blood	blood pressure	blood pressure	sugar, controls our	
-V-1300	triglycerides	triglycerides	boron	boron	—even	
-V-1300	cholesterol	cholesterol	sugar	sugar	 and blood	
-V-1300	bacteria	bacteria	colon	colon	from the	
-V-1300	estrogen	estrogen	risk	risk	exposure, and lower breast cancer	
-V-1300	infections	infections	cancer	cancer	tied to breast	
-V-1300	flax	flax	side effects	side effects	has some	
-V-1300	ground flax	ground flax	seeds	seeds		
-V-1300	flax seeds	flax seeds	lignans	lignans	the richest source of	
-V-1300	milk	milk	almond milk	almond milk	or	
-V-1300	soy milk	soy milk	milk	milk	or almond	
-V-1300	bladder infections	bladder infections	breast cancer	breast cancer	were at an increased risk for	
-V-1300	soy	soy	almond milk	almond milk	milk or	
-V-1300	flax	flax	eggs	eggs	seed to replace	
-V-1300	alternative medicine	alternative medicine	physicians	physicians		
-V-1300	bladder	bladder	breast cancer	breast cancer	infections tied to	
-V-1300	flax seeds	flax seeds	diet	diet	 to our	
-V-1300	soy	soy	milk	milk		
-V-1300	women	women	bladder	bladder	who have frequent	
-V-1300	soy	soy	almond	almond	milk or	
-V-1300	bladder	bladder	breast cancer	breast cancer	infections were at an increased risk for	
-V-1300	cholesterol	cholesterol	boron	boron	 and triglycerides—even	
-V-1300	egg	egg	ground flax	ground flax	in the recipe.	
-V-1300	fiber	fiber	cholesterol	cholesterol	—which can lower our 	
-V-1300	flax	flax	diet	diet	seeds to our	
-V-1300	side effects	side effects	blood	blood	too, though: it improves our cholesterol and	
-V-1300	estrogen	estrogen	breast cancer	breast cancer	exposure, and lower	
 V-1300	soy milk	soy milk	almond	almond	or	
-V-1300	side effects	side effects	blood sugar	blood sugar	too, though: it improves our cholesterol and	
 V-1300	milk	milk	almond	almond	or	
-V-1300	egg	egg	flax	flax	in the recipe.ground	
-V-1300	cancer	cancer	risk	risk		
-V-1300	flax	flax	baking	baking	seed to replace eggs in	
-V-1300	bladder	bladder	infections	infections		
-V-1300	flax	flax	health	health	seed is one of the original	
-V-1300	seeds	seeds	estrogen	estrogen	are incredibly powerful at dampening the effects of	
-V-1300	bacteria	bacteria	lignans	lignans	from the colon, which take the	
-V-1300	bladder	bladder	cancer	cancer	infections tied to breast	
-V-1300	side effects	side effects	cholesterol	cholesterol	too, though: it improves our 	
-V-1300	flax	flax	lignans	lignans	seeds the richest source of	
-V-1300	women	women	bladder infections	bladder infections	who have frequent	
-V-1300	cholesterol	cholesterol	blood pressure	blood pressure	 and blood sugar, controls our	
-V-1300	seeds	seeds	lignans	lignans	the richest source of	
-V-1300	flax	flax	water	water	with three tablespoons	
-V-1300	fiber	fiber	triglycerides	triglycerides	—which can lower our cholesterol and	
-V-1300	bladder	bladder	risk	risk	infections were at an increased	
-V-1300	lignans	lignans	diet	diet	in our	
-V-1300	bladder infections	bladder infections	bacteria	bacteria	were probably wiping out all the good	
-V-1300	infections	infections	breast cancer	breast cancer	were at an increased risk for	
-V-1300	bladder infections	bladder infections	cancer	cancer	tied to breast	
-V-1300	seeds	seeds	diet	diet	 to our	
+V-1300	flax	flax	side effects	side effects	has some	
+V-1300	eggs	eggs	baking	baking	in	
+V-1300	bladder infections	bladder infections	risk	risk	were at an increased	
+V-1300	milk	milk	almond milk	almond milk	or	
 V-1300	bladder infections	bladder infections	breast cancer	breast cancer	tied to	
 V-1300	seeds	seeds	nutrition	nutrition	are little	
-V-1300	estrogen	estrogen	cancer	cancer	exposure, and lower breast	
-V-1300	seeds	seeds	treatment	treatment	were recently compared to a leading pharmacological	
-V-1300	medicine	medicine	physicians	physicians		
+V-1300	seeds	seeds	estrogen	estrogen	are incredibly powerful at dampening the effects of	
+V-1300	seeds	seeds	natural food store	natural food store	 are almost always in the bulk section of any	
 V-1300	soy milk	soy milk	almond milk	almond milk	or	
-V-1300	ground flax	ground flax	water	water	with three tablespoons	
-V-1300	side effects	side effects	sugar	sugar	too, though: it improves our cholesterol and blood	
-V-1300	blood	blood	sugar	sugar		
+V-1300	side effects	side effects	cholesterol	cholesterol	too, though: it improves our 	
+V-1300	infections	infections	risk	risk	were at an increased	

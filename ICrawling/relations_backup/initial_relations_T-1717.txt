@@ -1,22 +1,2 @@
 
-T-1717	cancer	cancer	breast cancer	breast cancer	risk (including	
-T-1717	milk	milk	phytoestrogens	phytoestrogens	(sample breakfast here), and contains	
-T-1717	risk	risk	copd	copd	(including breast cancer, see also here), and preventing	
-T-1717	chocolate	chocolate	recipes	recipes	pudding and milkshake	
-T-1717	igf-1	igf-1	plant-based	plant-based	levels one would ordinarily expect on a	
-T-1717	cancer	cancer	cancer	cancer	risk (including breast	
-T-1717	antioxidants	antioxidants	phytoestrogens	phytoestrogens	than cow’s milk (sample breakfast here), and contains	
 T-1717	kombu	kombu	iodine	iodine	may contain too much	
-T-1717	plant-based	plant-based	diet	diet		
-T-1717	risk	risk	breast cancer	breast cancer	(including	
-T-1717	cancer	cancer	risk	risk		
-T-1717	antioxidants	antioxidants	breakfast	breakfast	than cow’s milk (sample	
-T-1717	antioxidants	antioxidants	milk	milk	than cow’s	
-T-1717	pudding	pudding	recipes	recipes	and milkshake	
-T-1717	milk	milk	puberty	puberty	develop at a more normal age, beginning	
-T-1717	milk	milk	breakfast	breakfast	(sample	
-T-1717	chocolate	chocolate	pudding	pudding		
-T-1717	breakfast	breakfast	phytoestrogens	phytoestrogens	here), and contains	
-T-1717	igf-1	igf-1	plant-based diet	plant-based diet	levels one would ordinarily expect on a	
-T-1717	risk	risk	cancer	cancer	(including breast	
-T-1717	igf-1	igf-1	diet	diet	levels one would ordinarily expect on a plant-based	

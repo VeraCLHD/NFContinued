@@ -1,15 +1,2 @@
 
-V-934	orange juice	orange juice	vitamin c	vitamin c	worth of	
-V-934	orange	orange	vitamin c	vitamin c	juice worth of	
-V-934	folic acid	folic acid	supplements	supplements		
-V-934	juice	juice	vitamin c	vitamin c	worth of	
-V-934	institute of medicine	institute of medicine	vitamin d	vitamin d	chose to act conservatively when bumping up their	
-V-934	disease	disease	scurvy	scurvy		
-V-934	disease	disease	vitamin c	vitamin c	scurvy, but no one considers that enough	
-V-934	medicine	medicine	vitamin d	vitamin d	chose to act conservatively when bumping up their	
-V-934	beta carotene	beta carotene	cancer	cancer	to people, it would prevent	
 V-934	vitamin d	vitamin d	vitamin a	vitamin a	is the new	
-V-934	vitamin e	vitamin e	shortening	shortening	—until it came out that it was	
-V-934	vitamin d	vitamin d	folic acid	folic acid	is the new vitamin a, the new	
-V-934	orange	orange	juice	juice		
-V-934	folic acid	folic acid	cancer	cancer	supplements, vitamin b9, has since been linked to	

@@ -1,10 +1,2 @@
 
-A-249	boiled	boiled	seeds	seeds	some poppy	
-A-249	raw	raw	seeds	seeds	poppy	
-A-249	raw	raw	poppy seeds	poppy seeds		
-A-249	milk	milk	seeds	seeds	she had boiled some poppy	
-A-249	milk	milk	boiled	boiled	she had	
-A-249	seeds	seeds	water	water	for five minutes first and then discarding the	
 A-249	cooking	cooking	morphine	morphine	may wipe out half of the	
-A-249	boiled	boiled	poppy seeds	poppy seeds	some	
-A-249	milk	milk	poppy seeds	poppy seeds	she had boiled some	

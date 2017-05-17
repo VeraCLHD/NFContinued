@@ -1,31 +1,11 @@
 
-A-28	blood	blood	cholesterol	cholesterol		
-A-28	heart attack	heart attack	cholesterol	cholesterol	is an elevated	
-A-28	blood	blood	stress	stress	pressure, diabetes, abdominal obesity,	
-A-28	diet	diet	health	health	for	
-A-28	atherosclerosis	atherosclerosis	cholesterol	cholesterol	has a single cause—namely	
-A-28	cholesterol	cholesterol	united states	united states	level in the	
-A-28	atherosclerosis	atherosclerosis	cholesterol	cholesterol	versus ldl	
-A-28	heart attack	heart attack	risk	risk	“can be attributed to nine modifiable	
-A-28	blood	blood	obesity	obesity	pressure, diabetes, abdominal	
-A-28	framingham heart study	framingham heart study	disease	disease	can be found in barriers to heart	
-A-28	atherosclerosis	atherosclerosis	ldl	ldl	versus	
-A-28	heart disease	heart disease	prevention	prevention		
-A-28	blood	blood	diabetes	diabetes	pressure,	
-A-28	cholesterol	cholesterol	risk	risk	—and that the other so-called atherosclerotic	
-A-28	plant-based	plant-based	cholesterol	cholesterol	diets may hit the optimal	
-A-28	atherosclerosis	atherosclerosis	heart attacks	heart attacks	and	
-A-28	blood	blood	united states	united states	cholesterol level in the	
-A-28	cholesterol	cholesterol	ldl	ldl	” (	
-A-28	ldl	ldl	cholesterol	cholesterol		
-A-28	framingham heart study	framingham heart study	prevention	prevention	can be found in barriers to heart disease	
-A-28	cholesterol	cholesterol	atherosclerosis	atherosclerosis	means more	
-A-28	blood	blood	abdominal obesity	abdominal obesity	pressure, diabetes,	
 A-28	risk	risk	cholesterol	cholesterol	accompanying more optimal	
-A-28	bad cholesterol	bad cholesterol	ldl	ldl	” (	
-A-28	atherosclerosis	atherosclerosis	ldl cholesterol	ldl cholesterol	versus	
+A-28	heart attack	heart attack	cholesterol	cholesterol	is an elevated	
+A-28	atherosclerosis	atherosclerosis	heart attacks	heart attacks	and	
 A-28	drugs	drugs	ldl	ldl	are the only way to get our	
 A-28	framingham heart study	framingham heart study	heart disease prevention	heart disease prevention	can be found in barriers to	
+A-28	atherosclerosis	atherosclerosis	ldl	ldl	is endemic in our population in part because the average person’s	
 A-28	framingham heart study	framingham heart study	heart disease	heart disease	can be found in barriers to	
+A-28	atherosclerosis	atherosclerosis	cholesterol	cholesterol	has a single cause—namely	
 A-28	plant-based diets	plant-based diets	cholesterol	cholesterol	may hit the optimal	
-A-28	disease	disease	prevention	prevention		
+A-28	cholesterol	cholesterol	atherosclerosis	atherosclerosis	means more	

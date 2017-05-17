@@ -1,7 +1,2 @@
 
-V-1258	harvard study	harvard study	milk	milk	this year showing significantly more acne in	
-V-1258	harvard	harvard	acne	acne	study this year showing significantly more	
-V-1258	harvard	harvard	milk	milk	study this year showing significantly more acne in	
-V-1258	harvard study	harvard study	acne	acne	this year showing significantly more	
-V-1258	dairy	dairy	diet	diet		
 V-1258	acne	acne	milk	milk	in	

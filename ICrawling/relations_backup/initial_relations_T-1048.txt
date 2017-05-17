@@ -1,28 +1,11 @@
 
-T-1048	meats	meats	heterocyclic amines	heterocyclic amines	are grilled or fried,	
-T-1048	beef	beef	chicken	chicken	to	
-T-1048	chicken	chicken	meat	meat	a healthier	
-T-1048	disease	disease	cancer	cancer	and	
-T-1048	fish	fish	lead	lead	may not	
-T-1048	fish	fish	meats	meats	may not lead to lower cholesterol.furthermore, when	
-T-1048	lead	lead	meats	meats	to lower cholesterol.furthermore, when	
-T-1048	inflammation	inflammation	cancer	cancer	and implicated in diseases such as	
-T-1048	chicken	chicken	lead	lead	and fish may not	
-T-1048	chicken	chicken	fat	fat	may be free of trans	
-T-1048	cancer	cancer	chicken	chicken	institute rates	
-T-1048	national cancer institute	national cancer institute	chicken	chicken	rates	
-T-1048	beef	beef	fish	fish	to chicken and	
-T-1048	kfc	kfc	trans fat	trans fat	’s chicken may be free of	
 T-1048	chicken	chicken	fish	fish	and	
 T-1048	fat	fat	sodium	sodium	and	
+T-1048	chicken	chicken	fat	fat	may be free of trans	
+T-1048	heart disease	heart disease	cancer	cancer	and	
 T-1048	chicken	chicken	trans fat	trans fat	may be free of	
-T-1048	inflammation	inflammation	rheumatoid arthritis	rheumatoid arthritis	and implicated in diseases such as cancer, asthma,	
+T-1048	disease	disease	cancer	cancer	and	
 T-1048	saturated fat	saturated fat	sodium	sodium	and	
 T-1048	kfc	kfc	trans fat	trans fat	advertises it as having “zero grams of	
+T-1048	fish	fish	lead	lead	may not	
 T-1048	kfc	kfc	fat	fat	advertises it as having “zero grams of trans	
-T-1048	kfc	kfc	chicken	chicken	’s	
-T-1048	chicken	chicken	saturated fat	saturated fat	as number five on the top sources of	
-T-1048	inflammation	inflammation	asthma	asthma	and implicated in diseases such as cancer,	
-T-1048	beef	beef	lead	lead	to chicken and fish may not	
-T-1048	kfc	kfc	fat	fat	’s chicken may be free of trans	
-T-1048	heart disease	heart disease	cancer	cancer	and	

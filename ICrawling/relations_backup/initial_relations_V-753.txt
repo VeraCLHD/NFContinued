@@ -1,68 +1,16 @@
 
-V-753	junk food	junk food	french fries	french fries	intake: potato chips,	
+V-753	pecans	pecans	diet	diet	added to their daily	
+V-753	disease	disease	health	health	amplify both the	
 V-753	nuts	nuts	fat	fat	boosted	
 V-753	calories	calories	almonds	almonds	of	
-V-753	risk	risk	nuts	nuts	of abdominal obesity, in those eating more	
-V-753	diet	diet	nuts	nuts	with or without	
-V-753	nuts	nuts	burning	burning	boosted fat	
-V-753	meat	meat	body mass index	body mass index	consumption was associated with a higher	
-V-753	weight gain	weight gain	potato chips	potato chips	most associated with junk food intake:	
-V-753	risk	risk	abdominal obesity	abdominal obesity	of	
-V-753	candy	candy	calories	calories	increases body weight, but the same amount of	
-V-753	nuts	nuts	calories	calories	to people’s diets without trying to restrict	
-V-753	calories	calories	weight gain	weight gain	failed to show the expected	
-V-753	soda	soda	meat	meat	pop, and	
-V-753	harvard	harvard	health	health	nurses’	
-V-753	chronic disease	chronic disease	health	health	amplify both the	
-V-753	nuts	nuts	weight loss	weight loss	for a month resulted in	
-V-753	nuts	nuts	vegetables	vegetables	and	
-V-753	peanuts	peanuts	peanut	peanut	and	
-V-753	nuts	nuts	weight gain	weight gain	to people’s diets showed no	
-V-753	calories	calories	nuts	nuts	of	
-V-753	fat	fat	burning	burning		
-V-753	weight loss	weight loss	nuts	nuts	most associated with vegetables,	
-V-753	weight loss	weight loss	fruits	fruits	most associated with vegetables, nuts, whole grains,	
-V-753	pecans	pecans	diet	diet	added to their daily	
-V-753	walnuts	walnuts	diet	diet	to that low-fat	
-V-753	candy	candy	calories	calories		
-V-753	nuts	nuts	fat	fat	seem to make people	
-V-753	nuts	nuts	weight gain	weight gain	predicting less	
-V-753	lead	lead	weight gain	weight gain	to	
-V-753	nuts	nuts	lead	lead	don’t	
-V-753	harvard	harvard	england	england	action, published in the new	
-V-753	obesity	obesity	health	health	and chronic disease amplify both the	
-V-753	calories	calories	candy	candy	may not count as much, but	
-V-753	peanut	peanut	england	england	butter.then came more harvard action, published in the new	
-V-753	processed foods	processed foods	nuts	nuts	such as	
-V-753	nuts	nuts	weight gain	weight gain	don’t lead to	
-V-753	processed foods	processed foods	grains	grains	such as nuts, fruits, vegetables, and whole	
-V-753	meat	meat	weight gain	weight gain	in predicting more	
-V-753	walnuts	walnuts	weight gain	weight gain	added to daily diets for six weeks—no	
-V-753	junk food	junk food	potato chips	potato chips	intake:	
-V-753	disease	disease	health	health	amplify both the	
-V-753	junk food	junk food	meat	meat	intake: potato chips, french fries, soda pop, and	
 V-753	obesity	obesity	chronic disease	chronic disease	and	
-V-753	weight gain	weight gain	french fries	french fries	most associated with junk food intake: potato chips,	
-V-753	processed foods	processed foods	fruits	fruits	such as nuts,	
-V-753	pistachios	pistachios	pretzels	pretzels	versus	
-V-753	weight gain	weight gain	junk food	junk food	most associated with	
-V-753	weight gain	weight gain	meat	meat	[over time], and for high intake of	
-V-753	weight loss	weight loss	vegetables	vegetables	most associated with	
+V-753	nuts	nuts	weight gain	weight gain	predicting less	
+V-753	risk	risk	abdominal obesity	abdominal obesity	of	
+V-753	nuts	nuts	lead	lead	don’t	
 V-753	nuts	nuts	nutrition	nutrition	are packed with	
-V-753	harvard	harvard	medicine	medicine	action, published in the new england journal of	
-V-753	junk food	junk food	soda	soda	intake: potato chips, french fries,	
-V-753	weight loss	weight loss	whole grains	whole grains	most associated with vegetables, nuts,	
-V-753	yogurt	yogurt	probiotics	probiotics	—they think it may be due to the	
-V-753	processed foods	processed foods	vegetables	vegetables	such as nuts, fruits,	
-V-753	processed foods	processed foods	whole grains	whole grains	such as nuts, fruits, vegetables, and	
-V-753	risk	risk	obesity	obesity	of abdominal	
-V-753	nuts	nuts	risk	risk	or more was associated with a significantly lower	
-V-753	obesity	obesity	disease	disease	and chronic	
-V-753	cholesterol	cholesterol	inflammation	inflammation	and arterial function] and reduce	
 V-753	calories	calories	diet	diet	added to their daily	
 V-753	cake	cake	bmi	bmi	were associated with the highest	
-V-753	england	england	medicine	medicine	journal of	
-V-753	peanuts	peanuts	harvard	harvard	and peanut butter.then came more	
-V-753	peanut	peanut	harvard	harvard	butter.then came more	
-V-753	soda	soda	weight loss	weight loss	pop, and meat, and	
-V-753	weight loss	weight loss	grains	grains	most associated with vegetables, nuts, whole	
+V-753	chronic disease	chronic disease	health	health	amplify both the	
+V-753	nuts	nuts	vegetables	vegetables	and	
+V-753	peanuts	peanuts	peanut	peanut	and	
+V-753	calories	calories	nuts	nuts	of	

@@ -1,86 +1,23 @@
 
-A-141	lead	lead	protein powder	protein powder	out and heavy metals in	
 A-141	heavy metals	heavy metals	protein powder	protein powder	in	
 A-141	women	women	cadmium	cadmium	consume more and more	
-A-141	grains	grains	breast cancer	breast cancer	and vegetables,	
 A-141	plants	plants	cadmium	cadmium	is based on the	
-A-141	antioxidants	antioxidants	breast cancer	breast cancer	that may protect against	
-A-141	cancer	cancer	grains	grains	risk goes down the more and more whole	
-A-141	plants	plants	cadmium	cadmium	that inhibits	
+A-141	long island	long island	breast cancer	breast cancer	estimated that as much as a third of	
 A-141	supplements	supplements	cadmium	cadmium	may decrease	
 A-141	risk	risk	breast cancer	breast cancer	of	
-A-141	vegetarian	vegetarian	cadmium	cadmium	diet contains more lead and	
-A-141	grains	grains	vegetables	vegetables	and	
-A-141	risk	risk	cancer	cancer	of breast	
-A-141	health	health	cadmium	cadmium	hazard from [	
-A-141	grains	grains	cancer	cancer	and vegetables, breast	
-A-141	phytates	phytates	nuts	nuts	in whole grains,	
-A-141	vegetarians	vegetarians	lead	lead	may have lower levels of	
-A-141	vegetarians	vegetarians	plant foods	plant foods	were encouraged to eat lots of whole, unrefined	
-A-141	grains	grains	risk	risk	and vegetables, breast cancer	
-A-141	whole grains	whole grains	vegetables	vegetables	and	
-A-141	vegetarian	vegetarian	diet	diet		
-A-141	breast cancer	breast cancer	cadmium	cadmium	goes up as women consume more and more	
-A-141	protein powder	protein powder	supplements	supplements		
-A-141	pollution	pollution	seafood	seafood	in	
-A-141	plant foods	plant foods	cadmium	cadmium	just overwhelm any adverse effects of the	
-A-141	prevention	prevention	cadmium	cadmium	of health hazard from [	
-A-141	lead	lead	protein	protein	out and heavy metals in	
-A-141	cancer	cancer	women	women	goes up as	
-A-141	phytates	phytates	grains	grains	in whole	
-A-141	lead	lead	heavy metals	heavy metals	out and	
-A-141	phytates	phytates	whole grains	whole grains	in	
-A-141	antioxidants	antioxidants	plants	plants	in those same	
-A-141	cadmium	cadmium	supplements	supplements	absorption, but i’d recommend against multi-mineral	
-A-141	breast cancer	breast cancer	cadmium	cadmium	in the u.s. might be associated with elevated	
-A-141	cadmium	cadmium	cancer	cancer	and	
-A-141	prevention	prevention	health	health	of	
-A-141	cadmium	cadmium	plant foods	plant foods	somehow worse, or do the benefits of	
-A-141	diet	diet	vegetarian	vegetarian	and put them on a	
-A-141	vegetarian	vegetarian	lead	lead	diet contains more	
-A-141	grains	grains	stomach	stomach	in our	
-A-141	variety	variety	cancer	cancer	of illnesses, including heart disease,	
-A-141	variety	variety	heart disease	heart disease	of illnesses, including	
-A-141	boiled	boiled	kidneys	kidneys	pig	
-A-141	antioxidants	antioxidants	cancer	cancer	that may protect against breast	
-A-141	kale	kale	kidneys	kidneys	to boiled pig	
-A-141	cadmium	cadmium	cognitive performance	cognitive performance	exposure may impair	
-A-141	diet	diet	cadmium	cadmium	contains more lead and	
-A-141	variety	variety	diabetes	diabetes	of illnesses, including heart disease, cancer, and	
-A-141	cadmium	cadmium	produce	produce	exposure may	
-A-141	diet	diet	lead	lead	contains more	
-A-141	variety	variety	disease	disease	of illnesses, including heart	
-A-141	stomach	stomach	lead	lead	up to three hours before we swallow	
-A-141	zinc	zinc	supplements	supplements		
-A-141	cadmium	cadmium	health	health	exposure may produce other adverse	
-A-141	whole grains	whole grains	stomach	stomach	in our	
-A-141	cadmium	cadmium	plants	plants	in	
-A-141	zinc	zinc	cadmium	cadmium	supplements may decrease	
-A-141	heavy metals	heavy metals	supplements	supplements	in protein powder	
-A-141	cadmium	cadmium	diet	diet	than a mixed	
-A-141	cadmium	cadmium	vegetarian	vegetarian	after the change from an omnivorous to a	
-A-141	produce	produce	health	health	other adverse	
-A-141	kale	kale	boiled	boiled	to	
-A-141	vegetables	vegetables	phytoestrogens	phytoestrogens	are among the major dietary sources of fiber,	
-A-141	cancer	cancer	animal foods	animal foods	: plant vs.	
-A-141	long island	long island	breast cancer	breast cancer	estimated that as much as a third of	
 A-141	heavy metals	heavy metals	protein	protein	in	
+A-141	cadmium	cadmium	health	health	is known as a highly toxic metal that represents a major hazard to human	
 A-141	lead	lead	cadmium	cadmium	and	
-A-141	risk	risk	women	women	of breast cancer goes up as	
-A-141	breast cancer	breast cancer	grains	grains	risk goes down the more and more whole	
-A-141	vegetables	vegetables	fiber	fiber	are among the major dietary sources of	
+A-141	grains	grains	vegetables	vegetables	and	
+A-141	cancer	cancer	women	women	goes up as	
+A-141	diet	diet	lead	lead	contains more	
 A-141	risk	risk	grains	grains	goes down the more and more whole	
-A-141	protein	protein	supplements	supplements	powder	
-A-141	cancer	cancer	cadmium	cadmium	goes up as women consume more and more	
-A-141	vegetarians	vegetarians	cadmium	cadmium	may have lower levels of lead and	
-A-141	cancer	cancer	cadmium	cadmium	in the u.s. might be associated with elevated	
-A-141	whole grains	whole grains	women	women	and vegetables	
-A-141	lead	lead	supplements	supplements	out and heavy metals in protein powder	
-A-141	lead	lead	protein powder supplements	protein powder supplements	out and heavy metals in	
-A-141	cadmium	cadmium	animal foods	animal foods	and cancer: plant vs.	
+A-141	phytates	phytates	whole grains	whole grains	in	
+A-141	cadmium	cadmium	plants	plants	in	
+A-141	vegetarians	vegetarians	lead	lead	may have lower levels of	
+A-141	cadmium	cadmium	cancer	cancer	and	
+A-141	whole grains	whole grains	vegetables	vegetables	and	
 A-141	heavy metals	heavy metals	protein powder supplements	protein powder supplements	in	
 A-141	breast cancer	breast cancer	women	women	goes up as	
-A-141	blood	blood	cadmium	cadmium		
-A-141	lead	lead	diet	diet	and cadmium than a mixed	
-A-141	cadmium	cadmium	bioavailability	bioavailability		
-A-141	phytates	phytates	beans	beans	in whole grains, nuts, and	
+A-141	prevention	prevention	health	health	of	
+A-141	pollution	pollution	seafood	seafood	in	

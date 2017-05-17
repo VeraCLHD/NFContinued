@@ -1,25 +1,11 @@
 
 V-519	physicians	physicians	heart disease	heart disease	are quite familiar with	
-V-519	hemorrhoids	hemorrhoids	african	african	and constipation were rare in	
-V-519	plant-based	plant-based	coronary heart disease	coronary heart disease	populations.this landmark study, suggesting that	
-V-519	disease	disease	appendicitis	appendicitis	of the intestine;	
 V-519	hemorrhoids	hemorrhoids	constipation	constipation	and	
-V-519	hemorrhoids	hemorrhoids	colorectal cancer	colorectal cancer	and varicose veins, the most common venous problems;	
 V-519	plant-based diets	plant-based diets	africa	africa	in	
-V-519	physicians	physicians	disease	disease	are quite familiar with heart	
-V-519	coronary heart disease	coronary heart disease	plant-based diets	plant-based diets	was practically nonexistent among those eating traditional	
-V-519	disease	disease	surgery	surgery		
-V-519	coronary heart disease	coronary heart disease	plant-based	plant-based	was practically nonexistent among those eating traditional	
-V-519	heart disease	heart disease	surgery	surgery		
-V-519	plant-based	plant-based	disease	disease	populations.this landmark study, suggesting that coronary heart	
-V-519	plant-based	plant-based	heart disease	heart disease	populations.this landmark study, suggesting that coronary	
-V-519	heart attack	heart attack	uganda	uganda	rates in	
-V-519	stomach	stomach	hemorrhoids	hemorrhoids	problems;	
-V-519	beans	beans	corn	corn	and [	
 V-519	disease	disease	plant-based	plant-based	was practically nonexistent among those eating traditional	
 V-519	constipation	constipation	african	african	were rare in	
-V-519	doctors	doctors	africa	africa	in sub-saharan	
+V-519	coronary heart disease	coronary heart disease	plant-based diets	plant-based diets	was practically nonexistent among those eating traditional	
+V-519	coronary heart disease	coronary heart disease	plant-based	plant-based	was practically nonexistent among those eating traditional	
 V-519	heart disease	heart disease	plant-based	plant-based	was practically nonexistent among those eating traditional	
 V-519	cancer	cancer	treatment	treatment	has ever been reduced by improved	
-V-519	stomach	stomach	varicose veins	varicose veins	problems; hemorrhoids and	
 V-519	hemorrhoids	hemorrhoids	varicose veins	varicose veins	and	

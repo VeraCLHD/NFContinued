@@ -1,15 +1,3 @@
 
-V-951	nutrition	nutrition	doctors	doctors	training for	
-V-951	calories	calories	beverages	beverages	on the front of the	
-V-951	americans	americans	diet	diet	each year are from chronic diseases;” given that	
-V-951	california	california	physicians	physicians	bill was introduced, mandating	
-V-951	doctors	doctors	nutrition	nutrition	shouldn’t get seven hours of	
-V-951	beverages	beverages	calories	calories	for the total number of	
 V-951	california medical association	california medical association	nutrition	nutrition	was opposed to mandating seven hours of	
-V-951	california	california	nutrition	nutrition	medical association was opposed to mandating seven hours of	
-V-951	diet	diet	nutrition	nutrition	is a major factor; given how inadequate	
-V-951	soda	soda	calories	calories	companies are now putting	
-V-951	nutrition	nutrition	medical school	medical school	instruction is in	
-V-951	nutrition	nutrition	california	california	instruction is in medical school, a	
-V-951	california	california	physicians	physicians	academy of family	
-V-951	americans	americans	chronic diseases	chronic diseases	each year are from	
+V-951	doctors	doctors	nutrition	nutrition	shouldn’t get seven hours of	

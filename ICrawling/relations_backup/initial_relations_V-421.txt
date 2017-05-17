@@ -1,37 +1,8 @@
 
-V-421	blood sugar	blood sugar	physicians	physicians	could actually drop too low, so	
-V-421	blood	blood	blood sugar	blood sugar	pressure, and	
-V-421	plant-based diet	plant-based diet	high blood pressure	high blood pressure	to all their patients, especially those with	
-V-421	blood	blood	sugar	sugar	pressure or blood	
-V-421	nutrition	nutrition	medications	medications	and quickly prescribe	
-V-421	blood pressure	blood pressure	sugar	sugar	or blood	
-V-421	risk	risk	diabetes	diabetes	of cancer,	
-V-421	plant-based	plant-based	diet	diet		
 V-421	physicians	physicians	kaiser permanente	kaiser permanente	was published in the official journal of	
-V-421	medications	medications	sugar	sugar	their blood pressure or blood	
+V-421	blood pressure	blood pressure	blood	blood	or	
+V-421	blood pressure	blood pressure	blood sugar	blood sugar	or	
 V-421	risk	risk	cancer	cancer	of	
-V-421	diet	diet	high blood pressure	high blood pressure	to all their patients, especially those with	
 V-421	physicians	physicians	plant-based diet	plant-based diet	should therefore consider recommending a	
 V-421	physicians	physicians	plant-based	plant-based	should therefore consider recommending a	
-V-421	blood	blood	diabetes	diabetes	pressure,	
-V-421	blood	blood	cardiovascular disease	cardiovascular disease	pressure, diabetes,	
-V-421	plant-based diet	plant-based diet	blood	blood	to all their patients, especially those with high	
-V-421	plant-based	plant-based	high blood pressure	high blood pressure	diet to all their patients, especially those with	
-V-421	physicians	physicians	plant-based	plant-based	are not stressing the importance of	
-V-421	blood	blood	disease	disease	pressure, diabetes, cardiovascular	
-V-421	medications	medications	blood	blood	their	
-V-421	medications	medications	blood sugar	blood sugar	their blood pressure or	
-V-421	blood pressure	blood pressure	blood sugar	blood sugar	or	
-V-421	blood	blood	blood sugar	blood sugar	pressure or	
-V-421	sugar	sugar	physicians	physicians	could actually drop too low, so	
-V-421	plant-based diet	plant-based diet	blood pressure	blood pressure	to all their patients, especially those with high	
 V-421	physicians	physicians	medications	medications	may need to adjust	
-V-421	blood	blood	sugar	sugar	pressure, and blood	
-V-421	diet	diet	blood pressure	blood pressure	to all their patients, especially those with high	
-V-421	medications	medications	blood pressure	blood pressure	their	
-V-421	plant-based	plant-based	physicians	physicians	diets, many	
-V-421	blood pressure	blood pressure	blood	blood	or	
-V-421	physicians	physicians	plant-based diets	plant-based diets	are not stressing the importance of	
-V-421	physicians	physicians	diet	diet	should therefore consider recommending a plant-based	
-V-421	blood	blood	prevention	prevention	pressure, and blood sugar, reversal or	
-V-421	diet	diet	blood	blood	to all their patients, especially those with high	

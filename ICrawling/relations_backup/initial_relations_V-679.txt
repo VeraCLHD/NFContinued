@@ -1,9 +1,5 @@
 
 V-679	erythritol	erythritol	antioxidant	antioxidant	may be “a sweet	
-V-679	sugar	sugar	diabetes	diabetes	substitute [for example] for individuals with [	
 V-679	sweetener	sweetener	erythritol	erythritol	may be	
-V-679	diabetes	diabetes	sugar	sugar	]” because it can both replace	
-V-679	symptoms	symptoms	colon	colon	lower down in the	
-V-679	erythritol	erythritol	blood	blood	on the oxidative destruction of red	
 V-679	pears	pears	grapes	grapes	and	
 V-679	xylitol	xylitol	sorbitol	sorbitol	and	

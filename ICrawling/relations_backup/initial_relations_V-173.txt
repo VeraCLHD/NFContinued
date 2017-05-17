@@ -1,15 +1,5 @@
 
-V-173	mood	mood	health	health	levels and tracked for	
-V-173	stress	stress	hormones	hormones		
-V-173	risk	risk	disease	disease	of	
-V-173	depression	depression	health	health	than there are on	
-V-173	virus	virus	cold	cold	and they came down with a	
 V-173	health	health	depression	depression	and	
-V-173	health	health	happiness	happiness	and depression than there are on health and	
 V-173	exercise	exercise	sleep	sleep	more, drink less, and	
-V-173	depression	depression	happiness	happiness	than there are on health and	
 V-173	world health organization	world health organization	health	health	defined	
-V-173	happiness	happiness	health	health	leads to	
-V-173	risk	risk	disease	disease	for	
-V-173	cold	cold	virus	virus		
-V-173	common cold	common cold	virus	virus		
+V-173	risk	risk	disease	disease	of	

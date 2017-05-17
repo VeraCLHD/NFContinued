@@ -1,80 +1,18 @@
 
-A-253	antioxidant	antioxidant	enzymes	enzymes	defenses by increasing the activities of our antioxidant	
-A-253	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	or	
-A-253	herbal	herbal	tea	tea		
-A-253	oregon	oregon	dna damage	dna damage	state university looked at the level of	
-A-253	vitamin c	vitamin c	vitamin e	vitamin e	and	
-A-253	phytonutrients	phytonutrients	fruits	fruits	in	
-A-253	antioxidant	antioxidant	supplements	supplements	pills—vitamin c and vitamin e	
-A-253	berries	berries	muscle damage	muscle damage	may reduce inflammatory	
-A-253	pills	pills	vitamin c	vitamin c	—	
-A-253	phytonutrients	phytonutrients	vegetables	vegetables	in fruits,	
-A-253	antioxidant	antioxidant	exercise	exercise	enzyme activity caused by	
-A-253	muscle soreness	muscle soreness	dna	dna	with berries), and greens may reduce free radical	
-A-253	vitamin e	vitamin e	supplements	supplements		
-A-253	health	health	exercise	exercise	benefits of regular	
-A-253	fatigue	fatigue	citrus	citrus	with	
-A-253	vitamin c	vitamin c	supplements	supplements		
-A-253	dna damage	dna damage	stress	stress	(see preventing exercise induced oxidative	
-A-253	dna	dna	exercise	exercise	damage (see preventing	
-A-253	exercise	exercise	antioxidant	antioxidant	training has been shown to enhance	
-A-253	dna	dna	athletes	athletes	damage in	
-A-253	muscle soreness	muscle soreness	berries	berries	with	
-A-253	dark chocolate	dark chocolate	tomato juice	tomato juice	and	
-A-253	carbs	carbs	plant foods	plant foods	in	
-A-253	anti-inflammatory	anti-inflammatory	plant foods	plant foods	and anti-oxidant rich	
-A-253	antioxidant	antioxidant	enzymes	enzymes		
-A-253	antioxidant	antioxidant	pills	pills		
-A-253	greens	greens	dna damage	dna damage	may reduce free radical	
-A-253	vitamin e	vitamin e	stress	stress	supplements— we can also reduce the	
-A-253	greens	greens	dna	dna	may reduce free radical	
-A-253	greens	greens	exercise	exercise	may reduce free radical dna damage (see preventing	
-A-253	plant foods	plant foods	stress	stress	may also decrease	
-A-253	phytonutrients	phytonutrients	beans	beans	in fruits, vegetables, and	
-A-253	lemon	lemon	herbal	herbal	verbena, an antioxidant-rich	
 A-253	lemon verbena	lemon verbena	antioxidant	antioxidant	does not affect the increase of the	
-A-253	antioxidant	antioxidant	lemon verbena	lemon verbena	enzyme activity was even higher in the	
-A-253	free radicals	free radicals	dna	dna	during a race that they can damage the	
-A-253	muscle damage	muscle damage	muscle soreness	muscle soreness	(see reducing	
-A-253	anti-inflammatory	anti-inflammatory	supplements	supplements		
-A-253	pills	pills	vitamin e	vitamin e	—vitamin c and	
-A-253	supplements	supplements	stress	stress	— we can also reduce the	
-A-253	exercise	exercise	watercress	watercress	induced oxidative stress with	
-A-253	muscle soreness	muscle soreness	dna damage	dna damage	with berries), and greens may reduce free radical	
-A-253	exercise	exercise	stress	stress	induced oxidative	
-A-253	dna	dna	watercress	watercress	damage (see preventing exercise induced oxidative stress with	
-A-253	stress	stress	exercise	exercise	levels induced by	
-A-253	muscle soreness	muscle soreness	greens	greens	with berries), and	
-A-253	oregon	oregon	dna	dna	state university looked at the level of	
-A-253	dark chocolate	dark chocolate	juice	juice	and tomato	
-A-253	antioxidant	antioxidant	vitamin e	vitamin e	pills—vitamin c and	
-A-253	exercise	exercise	oxidative stress	oxidative stress	induced	
-A-253	stress	stress	watercress	watercress	with	
-A-253	antioxidant	antioxidant	vitamin c	vitamin c	pills—	
-A-253	muscle damage	muscle damage	berries	berries	(see reducing muscle soreness with	
-A-253	chocolate	chocolate	tomato juice	tomato juice	and	
-A-253	berries	berries	muscle soreness	muscle soreness	may reduce inflammatory muscle damage (see reducing	
-A-253	dna damage	dna damage	athletes	athletes	in	
-A-253	dna damage	dna damage	watercress	watercress	(see preventing exercise induced oxidative stress with	
-A-253	chocolate	chocolate	juice	juice	and tomato	
-A-253	antioxidant	antioxidant	exercise	exercise	enzyme response promoted by	
-A-253	dna	dna	stress	stress	damage (see preventing exercise induced oxidative	
-A-253	stress	stress	exercise	exercise	from	
+A-253	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	or	
 A-253	exercise	exercise	health	health	is beneficial to our	
-A-253	juice	juice	antioxidant	antioxidant	and recovery following a marathon responded to this	
-A-253	lemon	lemon	herbal tea	herbal tea	verbena, an antioxidant-rich	
-A-253	dna	dna	oxidative stress	oxidative stress	damage (see preventing exercise induced	
-A-253	oxidative stress	oxidative stress	watercress	watercress	with	
+A-253	dark chocolate	dark chocolate	tomato juice	tomato juice	and	
+A-253	exercise	exercise	stress	stress	induced oxidative	
+A-253	carbs	carbs	plant foods	plant foods	in	
+A-253	vitamin c	vitamin c	vitamin e	vitamin e	and	
+A-253	athletes	athletes	dna	dna	didn’t just go back to the baseline level of	
+A-253	phytonutrients	phytonutrients	fruits	fruits	in	
+A-253	greens	greens	dna damage	dna damage	may reduce free radical	
+A-253	exercise	exercise	oxidative stress	oxidative stress	induced	
 A-253	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	and	
-A-253	vitamin c	vitamin c	supplements	supplements	and vitamin e	
-A-253	lemon	lemon	tea	tea	verbena, an antioxidant-rich herbal	
-A-253	lemon	lemon	antioxidant	antioxidant	verbena does not affect the increase of the	
-A-253	dna damage	dna damage	exercise	exercise	(see preventing	
-A-253	antioxidant	antioxidant	supplements	supplements	or anti-inflammatory	
-A-253	pills	pills	supplements	supplements	—vitamin c and vitamin e	
-A-253	antioxidant	antioxidant	lemon	lemon	enzyme activity was even higher in the	
-A-253	muscle damage	muscle damage	greens	greens	(see reducing muscle soreness with berries), and	
-A-253	dna damage	dna damage	oxidative stress	oxidative stress	(see preventing exercise induced	
-A-253	free radicals	free radicals	exercise	exercise	during	
-A-253	carbs	carbs	stress	stress	in plant foods may also decrease	
+A-253	chocolate	chocolate	tomato juice	tomato juice	and	
+A-253	greens	greens	dna	dna	may reduce free radical	
+A-253	dna damage	dna damage	athletes	athletes	in	
+A-253	athletes	athletes	dna damage	dna damage	didn’t just go back to the baseline level of	
 A-253	phytonutrients	phytonutrients	antioxidants	antioxidants	and	

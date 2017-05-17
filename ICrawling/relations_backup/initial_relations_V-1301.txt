@@ -1,70 +1,17 @@
 
-V-1301	skin	skin	cancer	cancer		
-V-1301	pasta	pasta	fiber	fiber	 have much of the	
-V-1301	meat	meat	cancer	cancer	increases our risk of	
-V-1301	protein	protein	fat	fat	and plant	
-V-1301	produce	produce	cancer	cancer	 a single study showing more	
-V-1301	risk	risk	greens	greens	by about 50%—	
-V-1301	meat	meat	fiber	fiber	alternatives often lack the	
-V-1301	protein	protein	risk	risk	and plant fat, nearly half the	
-V-1301	plant-based	plant-based	diet	diet		
-V-1301	meat	meat	plant foods	plant foods	alternatives often lack the fiber of whole	
-V-1301	flax	flax	seeds	seeds		
-V-1301	greens	greens	skin	skin	intake, cutting their squamous cell	
-V-1301	produce	produce	plant-based	plant-based	 a single study showing more cancer on a	
-V-1301	greens	greens	skin cancer	skin cancer	intake, cutting their squamous cell	
-V-1301	protein	protein	bacon	bacon	—and increases our cancer risk, while the soy-based	
-V-1301	skin cancer	skin cancer	risk	risk		
-V-1301	plant foods	plant foods	cancer	cancer	could cut our risk of getting breast	
-V-1301	risk	risk	cancer	cancer	of	
-V-1301	plant foods	plant foods	breast cancer	breast cancer	could cut our risk of getting	
-V-1301	vegetables	vegetables	risk	risk	cuts our	
-V-1301	animal protein	animal protein	fat	fat	and animal	
-V-1301	cancer	cancer	plant-based	plant-based	on a	
-V-1301	plant foods	plant foods	risk	risk	could cut our	
-V-1301	plant protein	plant protein	plant fat	plant fat	and	
-V-1301	cancer	cancer	diet	diet	on a plant-based	
-V-1301	risk	risk	plants	plants	of cancer, eating	
-V-1301	protein	protein	fat	fat	and animal	
-V-1301	skin cancer	skin cancer	greens	greens	risk by about 50%—	
-V-1301	animal protein	animal protein	animal fat	animal fat	and	
-V-1301	risk	risk	cancer	cancer	of getting breast	
-V-1301	risk	risk	fiber	fiber	of getting breast cancer in half—thanks to dietary	
-V-1301	bacon	bacon	risk	risk	 may decrease that 	
-V-1301	breast cancer	breast cancer	fiber	fiber	in half—thanks to dietary	
-V-1301	dairy	dairy	cheese	cheese	—milk,	
-V-1301	fiber	fiber	bacon	bacon	of whole plant foods, compare plant to animal	
-V-1301	protein	protein	cancer	cancer	—and increases our	
-V-1301	protein	protein	risk	risk	—and increases our cancer	
-V-1301	plants	plants	risk	risk	decreases that 	
-V-1301	protein	protein	animal fat	animal fat	and	
-V-1301	produce	produce	plant-based diet	plant-based diet	 a single study showing more cancer on a	
-V-1301	yogurt	yogurt	risk	risk	—may have two and a half times the	
-V-1301	plant protein	plant protein	fat	fat	and plant	
-V-1301	meat	meat	plants	plants	increases our risk of cancer, eating	
-V-1301	fiber	fiber	plant foods	plant foods	of whole	
-V-1301	cancer	cancer	plant-based diet	plant-based diet	on a	
-V-1301	cancer	cancer	risk	risk		
-V-1301	greens	greens	risk	risk	intake, cutting their squamous cell skin cancer	
-V-1301	dairy	dairy	yogurt	yogurt	—milk, cheese, or	
-V-1301	risk	risk	skin	skin	of certain bad	
-V-1301	risk	risk	breast cancer	breast cancer	of getting	
-V-1301	animal protein	animal protein	risk	risk	and animal fat, we get nearly twice the	
 V-1301	plant foods	plant foods	fiber	fiber	are good sources of	
 V-1301	isoflavones	isoflavones	risk	risk	cut our	
-V-1301	plant protein	plant protein	women	women	and plant fat, nearly half the risk.97,000	
-V-1301	cancer	cancer	bacon	bacon	risk, while the soy-based	
+V-1301	plants	plants	risk	risk	decreases that 	
+V-1301	pasta	pasta	fiber	fiber	 have much of the	
+V-1301	protein	protein	animal fat	animal fat	and	
 V-1301	plants	plants	fiber	fiber	have	
-V-1301	skin	skin	risk	risk	cancer	
-V-1301	plant protein	plant protein	risk	risk	and plant fat, nearly half the	
+V-1301	animal protein	animal protein	animal fat	animal fat	and	
 V-1301	fiber	fiber	plant foods	plant foods	is found only in	
-V-1301	cancer	cancer	greens	greens	risk by about 50%—	
-V-1301	dairy	dairy	milk	milk	—	
-V-1301	cancer	cancer	fiber	fiber	in half—thanks to dietary	
 V-1301	meat	meat	risk	risk	increases our	
-V-1301	skin	skin	greens	greens	cancer risk by about 50%—	
-V-1301	greens	greens	cancer	cancer	intake, cutting their squamous cell skin	
-V-1301	protein	protein	risk	risk	and animal fat, we get nearly twice the	
+V-1301	bacon	bacon	risk	risk	 may decrease that 	
+V-1301	risk	risk	cancer	cancer	of	
+V-1301	vegetables	vegetables	risk	risk	cuts our	
 V-1301	leafy vegetables	leafy vegetables	risk	risk	cuts our	
-V-1301	risk	risk	cancer	cancer	of this 	
 V-1301	lignans	lignans	phytonutrients	phytonutrients	are one class of thousands of compounds called	
+V-1301	plant foods	plant foods	risk	risk	could cut our	
+V-1301	plant protein	plant protein	plant fat	plant fat	and	

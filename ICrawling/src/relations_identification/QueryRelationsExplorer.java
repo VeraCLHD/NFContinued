@@ -4,6 +4,7 @@
 package relations_identification;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -61,6 +62,10 @@ public abstract class QueryRelationsExplorer {
 				
 				InitialRelationsManager.getTerms().add(term);
 				InitialRelationsManager.getTermsOverall().put(topic, term.getLemma());
+				// this structure only for checking if a string contains them later
+				InitialRelationsManager.allTermsAndVariations.addAll(term.getCatvariations());
+				InitialRelationsManager.allTermsAndVariations.addAll(term.getMesh());
+				InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
 				// Here a link between a query and a term is provided (contains duplicates)
 				Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + term.getLemma(), "termsOverall.txt");
 			}

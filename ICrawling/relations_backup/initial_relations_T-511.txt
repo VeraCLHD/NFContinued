@@ -1,71 +1,15 @@
 
-T-511	meats	meats	risk	risk	may also pose a carcinogenic	
 T-511	salmonella	salmonella	c. diff	c. diff	and	
-T-511	chicken	chicken	viruses	viruses		
-T-511	cooking	cooking	spices	spices	with	
-T-511	epilepsy	epilepsy	viruses	viruses	), cancer-causing	
-T-511	bladder	bladder	women	women	infections in	
-T-511	parasites	parasites	worms	worms	such as	
-T-511	viruses	viruses	poultry	poultry	among	
-T-511	endotoxins	endotoxins	raw	raw	in	
-T-511	seafood	seafood	drug residues	drug residues	as well as prions and	
-T-511	worms	worms	viruses	viruses	(which can be linked to epilepsy), cancer-causing	
-T-511	infections	infections	chicken	chicken	in women and cancers from exposure to oncogenic	
-T-511	bugs	bugs	salmonella	salmonella	such as	
-T-511	lead	lead	colon	colon	to the colonization of one’s	
-T-511	e. coli	e. coli	bladder	bladder	that may result in	
-T-511	bladder infections	bladder infections	chicken	chicken	in women and cancers from exposure to oncogenic	
-T-511	epilepsy	epilepsy	hepatitis	hepatitis	), cancer-causing viruses,	
-T-511	food safety	food safety	parasites	parasites	risks associated with brain	
-T-511	food safety	food safety	worms	worms	risks associated with brain parasites such as	
-T-511	superbugs	superbugs	cooking	cooking	such as mrsa can be killed with proper	
-T-511	chicken	chicken	poultry workers	poultry workers	viruses among	
-T-511	carcinogens	carcinogens	green tea	green tea	are actually created when muscle is cooked;	
-T-511	bladder infections	bladder infections	women	women	in	
-T-511	green tea	green tea	heterocyclic amines	heterocyclic amines	may protect against these	
-T-511	risk	risk	frying	frying	when released by oil when	
-T-511	brain parasites	brain parasites	epilepsy	epilepsy	such as worms (which can be linked to	
-T-511	raw	raw	inflammation	inflammation	or cooked animal and fermented foods may trigger	
-T-511	women	women	viruses	viruses	and cancers from exposure to oncogenic chicken	
-T-511	epilepsy	epilepsy	rabies	rabies	), cancer-causing viruses, hepatitis e,	
-T-511	c. diff	c. diff	pork	pork	(getting increasingly common in	
-T-511	dna	dna	bioavailability	bioavailability	protection and may increase the	
-T-511	hepatitis	hepatitis	superbugs	superbugs	e, rabies, and	
-T-511	viruses	viruses	poultry workers	poultry workers	among	
-T-511	worms	worms	hepatitis e	hepatitis e	(which can be linked to epilepsy), cancer-causing viruses,	
-T-511	mrsa	mrsa	cooking	cooking	can be killed with proper	
-T-511	biogenic amines	biogenic amines	drug residues	drug residues	in seafood as well as prions and	
-T-511	toxins	toxins	risk	risk	may also pose a respiratory	
-T-511	brain parasites	brain parasites	worms	worms	such as	
-T-511	e. coli	e. coli	women	women	that may result in bladder infections in	
-T-511	e. coli	e. coli	infections	infections	that may result in bladder	
-T-511	tea	tea	heterocyclic amines	heterocyclic amines	may protect against these	
-T-511	worms	worms	hepatitis	hepatitis	(which can be linked to epilepsy), cancer-causing viruses,	
-T-511	chicken	chicken	poultry	poultry	viruses among	
-T-511	poultry	poultry	colon	colon	can lead to the colonization of one’s	
-T-511	epilepsy	epilepsy	hepatitis e	hepatitis e	), cancer-causing viruses,	
-T-511	spices	spices	dna	dna	may enhance their	
-T-511	superbugs	superbugs	mrsa	mrsa	such as	
-T-511	bladder	bladder	infections	infections		
-T-511	parasites	parasites	epilepsy	epilepsy	such as worms (which can be linked to	
-T-511	hepatitis	hepatitis	mrsa	mrsa	e, rabies, and superbugs such as	
-T-511	worms	worms	epilepsy	epilepsy	(which can be linked to	
-T-511	women	women	chicken	chicken	and cancers from exposure to oncogenic	
-T-511	endotoxins	endotoxins	fermented foods	fermented foods	in raw or cooked animal and	
-T-511	raw	raw	fermented foods	fermented foods	or cooked animal and	
-T-511	carcinogens	carcinogens	tea	tea	are actually created when muscle is cooked; green	
-T-511	food safety	food safety	brain parasites	brain parasites	risks associated with	
-T-511	cooking	cooking	dna	dna	with spices may enhance their	
 T-511	hepatitis	hepatitis	rabies	rabies	e,	
-T-511	epilepsy	epilepsy	superbugs	superbugs	), cancer-causing viruses, hepatitis e, rabies, and	
 T-511	poultry	poultry	lead	lead	can	
-T-511	e. coli	e. coli	bladder infections	bladder infections	that may result in	
+T-511	endotoxins	endotoxins	raw	raw	in	
+T-511	tea	tea	heterocyclic amines	heterocyclic amines	may protect against these	
+T-511	bladder infections	bladder infections	women	women	in	
 T-511	infections	infections	women	women	in	
 T-511	drug residues	drug residues	meat	meat	cannot be effectively cooked out of the	
-T-511	bugs	bugs	c. diff	c. diff	such as salmonella and	
-T-511	colon	colon	e. coli	e. coli	with antibiotic resistant	
 T-511	biogenic amines	biogenic amines	seafood	seafood	in	
+T-511	green tea	green tea	heterocyclic amines	heterocyclic amines	may protect against these	
+T-511	spices	spices	dna	dna	may enhance their	
 T-511	meat	meat	carcinogens	carcinogens	properly, certain	
-T-511	inflammation	inflammation	saturated fat	saturated fat	that may be exacerbated by the presence of	
 T-511	fermented foods	fermented foods	inflammation	inflammation	may trigger	
-T-511	salmonella	salmonella	pork	pork	and c. diff (getting increasingly common in	
+T-511	mrsa	mrsa	cooking	cooking	can be killed with proper	

@@ -1,11 +1,4 @@
 
-V-370	organic	organic	soy	soy	and conventional nongmo	
-V-370	gmo	gmo	pesticides	pesticides	thing, go back to using less	
 V-370	roundup	roundup	hormones	hormones	may disrupt	
-V-370	testosterone	testosterone	puberty	puberty	levels and testicular shape," but they’re talking about	
-V-370	variety	variety	glyphosate	glyphosate	of adjuvants and surfactants meant to help the	
-V-370	soy	soy	monsanto	monsanto	both had none.so what did	
+V-370	roundup	roundup	glyphosate	glyphosate	was found to be 100 times more toxic than	
 V-370	women	women	babies	babies	are having	
-V-370	gmo	gmo	soybeans	soybeans		
-V-370	gmo	gmo	soy	soy		
-V-370	produce	produce	glyphosate	glyphosate	adverse developmental and reproductive effects in humans.but pure	

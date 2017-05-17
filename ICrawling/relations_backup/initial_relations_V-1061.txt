@@ -1,8 +1,4 @@
 
-V-1061	stroke	stroke	risk	risk		
 V-1061	tea	tea	prevention	prevention	may be useful in the	
-V-1061	risk	risk	pneumonia	pneumonia	70%; may halve our risk of dying from	
 V-1061	risk	risk	diabetes	diabetes	of	
-V-1061	risk	risk	tea	tea	of diabetes—in part because	
-V-1061	diabetes	diabetes	tea	tea	—in part because	
 V-1061	health	health	nutrition	nutrition	and	

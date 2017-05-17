@@ -1,89 +1,13 @@
 
-V-420	nuts	nuts	cancer	cancer	suppressed breast	
-V-420	garlic	garlic	cancer	cancer	family vegetables, most effectively suppressed breast	
-V-420	nuts	nuts	prevention	prevention	and breast cancer	
-V-420	breast cancer	breast cancer	blood	blood	cells in a petri dish, and the	
-V-420	liver cancer	liver cancer	fruit	fruit	cells, like they did in the	
-V-420	nuts	nuts	cancer	cancer	against human colon	
-V-420	nuts	nuts	cancer	cancer	would come in direct contact with colon	
-V-420	breast cancer	breast cancer	prevention	prevention		
-V-420	risk	risk	breast disease	breast disease	for fibrocystic	
-V-420	garlic	garlic	breast cancer	breast cancer	family vegetables, most effectively suppressed	
-V-420	water	water	cancer	cancer	on these	
-V-420	broccoli	broccoli	vegetables	vegetables	family	
-V-420	cranberries	cranberries	lemons	lemons	and	
-V-420	colon	colon	cancer cells	cancer cells		
-V-420	walnuts	walnuts	peanuts	peanuts	and pecans, with the bronze going to	
-V-420	nuts	nuts	liver cancer	liver cancer	versus human	
-V-420	peanut	peanut	lentils	lentils	butter, nuts, beans,	
-V-420	nuts	nuts	colon	colon	against human	
-V-420	colon	colon	cancer	cancer		
-V-420	blood	blood	cancer cells	cancer cells	on human breast	
-V-420	garlic	garlic	cancer cell growth	cancer cell growth	family vegetables, most effectively suppressed breast	
-V-420	antioxidant	antioxidant	pecans	pecans	content, walnuts and	
-V-420	nuts	nuts	cancer	cancer	versus human liver	
-V-420	walnuts	walnuts	vitamin c	vitamin c	have the antioxidant equivalent of eight grams of	
-V-420	pistachios	pistachios	brazil nuts	brazil nuts	and	
-V-420	nuts	nuts	breast cancer	breast cancer	and	
-V-420	peanut	peanut	soybeans	soybeans	butter, nuts, beans, lentils,	
-V-420	soybeans	soybeans	corn	corn	or	
-V-420	cancer cell proliferation	cancer cell proliferation	nuts	nuts	versus increasing concentrations of the ten most common	
-V-420	peanut	peanut	butter	butter		
-V-420	walnuts	walnuts	breast cancer	breast cancer	suppressed the growth of human	
-V-420	peanut	peanut	corn	corn	butter, nuts, beans, lentils, soybeans or	
-V-420	cancer	cancer	cancer growth	cancer growth	cell death, and inhibit	
-V-420	liver	liver	cancer	cancer		
-V-420	cancer	cancer	cell proliferation	cell proliferation	?here is a graph of human cancer	
-V-420	tumors	tumors	breast cancer	breast cancer	in the real world, whereas for something like	
-V-420	antioxidant	antioxidant	walnuts	walnuts	content,	
-V-420	walnuts	walnuts	blood	blood	are absorbed, circulate in the	
-V-420	risk	risk	fibrocystic breast disease	fibrocystic breast disease	for	
-V-420	broccoli	broccoli	garlic	garlic	family vegetables and the	
-V-420	liver	liver	cancer cells	cancer cells		
-V-420	walnuts	walnuts	antioxidant	antioxidant	have the	
-V-420	blood	blood	breast cancer	breast cancer	of nut-eaters versus non-nut eaters on	
-V-420	cancer	cancer	cancer	cancer	cell death, and inhibit	
-V-420	nuts	nuts	united states	united states	eaten in the	
-V-420	peanut	peanut	beans	beans	butter, nuts,	
-V-420	nuts	nuts	colon cancer	colon cancer	against human	
-V-420	colon	colon	nuts	nuts	cancer cells, which is particularly useful, since ingested	
-V-420	cancer	cancer	cancer	cancer	?here is a graph of human	
-V-420	cancer	cancer	cancer cell proliferation	cancer cell proliferation	?here is a graph of human	
-V-420	nuts	nuts	breast cancer	breast cancer	suppressed	
-V-420	cancer cells	cancer cells	blood	blood	in a petri dish, and the	
-V-420	liver	liver	fruit	fruit	cancer cells, like they did in the	
-V-420	nuts	nuts	cancer prevention	cancer prevention	and breast	
-V-420	colon cancer	colon cancer	nuts	nuts	cells, which is particularly useful, since ingested	
-V-420	nuts	nuts	cancer cells	cancer cells	versus human liver	
-V-420	cancer	cancer	cell proliferation	cell proliferation		
-V-420	antioxidant	antioxidant	vitamin c	vitamin c	equivalent of eight grams of	
-V-420	nuts	nuts	cancer	cancer	and breast	
-V-420	peanut	peanut	nuts	nuts	butter,	
-V-420	cancer	cancer	harvard	harvard	prevention, i featured data from the	
-V-420	pistachios	pistachios	nuts	nuts	and brazil	
-V-420	almonds	almonds	cancer	cancer	appear twice as protective, halving	
-V-420	cancer growth	cancer growth	nuts	nuts	and spread in vitro, but which	
-V-420	cell proliferation	cell proliferation	nuts	nuts	versus increasing concentrations of the ten most common	
-V-420	nuts	nuts	cancer	cancer	a week may protect against pancreatic	
-V-420	walnuts	walnuts	pecans	pecans	and	
-V-420	breast cancer	breast cancer	harvard	harvard	prevention, i featured data from the	
-V-420	walnuts	walnuts	cancer	cancer	suppressed the growth of human breast	
-V-420	cancer	cancer	fruit	fruit	cells, like they did in the	
-V-420	nuts	nuts	colon cancer	colon cancer	would come in direct contact with	
-V-420	blood	blood	cancer	cancer	on human breast	
-V-420	water	water	cancer cells	cancer cells	on these	
-V-420	cancer	cancer	blood	blood	cells in a petri dish, and the	
-V-420	breast cancer	breast cancer	cell proliferation	cell proliferation		
-V-420	risk	risk	disease	disease	for fibrocystic breast	
-V-420	nuts	nuts	liver	liver	versus human	
-V-420	fruit	fruit	cancer	cancer	fights	
-V-420	nuts	nuts	cancer cells	cancer cells	against human colon	
 V-420	nuts	nuts	colon	colon	would come in direct contact with	
-V-420	almonds	almonds	cancer cell growth	cancer cell growth	appear twice as protective, halving	
-V-420	garlic	garlic	vegetables	vegetables	family	
-V-420	cancer	cancer	cell death	cell death		
-V-420	cancer	cancer	death	death	cell	
-V-420	cancer	cancer	nuts	nuts	cells, which is particularly useful, since ingested	
-V-420	blood	blood	cancer	cancer	of nut-eaters versus non-nut eaters on breast	
-V-420	cancer	cancer	prevention	prevention		
-V-420	blood	blood	breast cancer	breast cancer	on human	
+V-420	pistachios	pistachios	brazil nuts	brazil nuts	and	
+V-420	cranberries	cranberries	lemons	lemons	and	
+V-420	walnuts	walnuts	pecans	pecans	and	
+V-420	nuts	nuts	breast cancer	breast cancer	and	
+V-420	soybeans	soybeans	corn	corn	or	
+V-420	walnuts	walnuts	antioxidant	antioxidant	have the	
+V-420	walnuts	walnuts	breast cancer	breast cancer	suppressed the growth of human	
+V-420	nuts	nuts	united states	united states	eaten in the	
+V-420	corn	corn	risk	risk	were found to just have a fraction of the	
+V-420	nuts	nuts	breast cancer	breast cancer	suppressed	
+V-420	nuts	nuts	colon cancer	colon cancer	would come in direct contact with	

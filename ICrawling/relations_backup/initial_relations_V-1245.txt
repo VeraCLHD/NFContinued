@@ -1,7 +1,4 @@
 
-V-1245	grapes	grapes	currants	currants	themselves.which is healthier—raisins or	
 V-1245	raisins	raisins	cholesterol	cholesterol	can drop our bad	
-V-1245	grapes	grapes	raisins	raisins	themselves.which is healthier—	
 V-1245	raisins	raisins	currants	currants	or	
-V-1245	currants	currants	raisins	raisins	in this country are typically just tiny	
 V-1245	raisins	raisins	bad cholesterol	bad cholesterol	can drop our	

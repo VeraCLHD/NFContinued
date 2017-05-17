@@ -1,40 +1,11 @@
 
+T-1736	sprouts	sprouts	salmonella	salmonella	are not recommended due to	
 T-1736	alfalfa sprouts	alfalfa sprouts	salmonella	salmonella	are not recommended due to	
 T-1736	broccoli sprouts	broccoli sprouts	sulforaphane	sulforaphane	releases	
 T-1736	broccoli sprouts	broccoli sprouts	anti-inflammatory	anti-inflammatory	seem to be both	
-T-1736	salmonella	salmonella	broccoli sprouts	broccoli sprouts	food poisoning risk;	
-T-1736	anti-inflammatory	anti-inflammatory	supplements	supplements	and anti-carcinogenic, and are more effective than broccoli	
-T-1736	alfalfa sprouts	alfalfa sprouts	food poisoning	food poisoning	are not recommended due to salmonella	
-T-1736	alfalfa	alfalfa	sprouts	sprouts		
-T-1736	alfalfa sprouts	alfalfa sprouts	risk	risk	are not recommended due to salmonella food poisoning	
-T-1736	raw	raw	sulforaphane	sulforaphane	broccoli or broccoli sprouts releases	
-T-1736	raw	raw	broccoli	broccoli		
-T-1736	cost-effective	cost-effective	diet	diet	ways to improve your	
-T-1736	broccoli	broccoli	sprouts	sprouts	or broccoli	
-T-1736	salmonella	salmonella	food poisoning	food poisoning		
 T-1736	sprouts	sprouts	anti-inflammatory	anti-inflammatory	seem to be both	
 T-1736	broccoli	broccoli	broccoli sprouts	broccoli sprouts	or	
-T-1736	salmonella	salmonella	sprouts	sprouts	food poisoning risk; broccoli	
-T-1736	antioxidant	antioxidant	sprouts	sprouts	content of different seed, grain, and bean	
-T-1736	food poisoning	food poisoning	broccoli	broccoli	risk;	
-T-1736	sprouts	sprouts	sulforaphane	sulforaphane	releases	
-T-1736	detoxification	detoxification	liver	liver	enzyme systems in our	
-T-1736	sprouts	sprouts	salmonella	salmonella	are not recommended due to	
-T-1736	food poisoning	food poisoning	risk	risk		
-T-1736	alfalfa	alfalfa	salmonella	salmonella	sprouts are not recommended due to	
-T-1736	sprouts	sprouts	food poisoning	food poisoning	are not recommended due to salmonella	
-T-1736	food poisoning	food poisoning	sprouts	sprouts	risk; broccoli	
-T-1736	sprouts	sprouts	detoxification	detoxification	releases sulforaphane, which may help boost the	
-T-1736	sprouts	sprouts	risk	risk	are not recommended due to salmonella food poisoning	
-T-1736	salmonella	salmonella	broccoli	broccoli	food poisoning risk;	
-T-1736	broccoli sprouts	broccoli sprouts	detoxification	detoxification	releases sulforaphane, which may help boost the	
-T-1736	broccoli	broccoli	sprouts	sprouts		
-T-1736	raw	raw	broccoli sprouts	broccoli sprouts	broccoli or	
-T-1736	anti-inflammatory	anti-inflammatory	broccoli	broccoli	and anti-carcinogenic, and are more effective than	
-T-1736	salmonella	salmonella	risk	risk	food poisoning	
-T-1736	raw	raw	sprouts	sprouts	broccoli or broccoli	
-T-1736	antioxidant content	antioxidant content	sprouts	sprouts	of different seed, grain, and bean	
-T-1736	broccoli	broccoli	sulforaphane	sulforaphane	or broccoli sprouts releases	
-T-1736	food poisoning	food poisoning	broccoli sprouts	broccoli sprouts	risk;	
-T-1736	alfalfa	alfalfa	food poisoning	food poisoning	sprouts are not recommended due to salmonella	
-T-1736	broccoli	broccoli	anti-inflammatory	anti-inflammatory	sprouts seem to be both	
+T-1736	broccoli sprouts	broccoli sprouts	broccoli	broccoli	are considered both safer and more nutritious to eat.growing	
+T-1736	broccoli	broccoli	dna damage	dna damage	sprout intake—likely up to four cups a day—may cause	
+T-1736	broccoli	broccoli	dna	dna	sprout intake—likely up to four cups a day—may cause	
+T-1736	sprouts	sprouts	broccoli	broccoli	are considered both safer and more nutritious to eat.growing	

@@ -1,43 +1,6 @@
 
-T-687	plant foods	plant foods	raw	raw	must be eaten	
-T-687	telomeres	telomeres	aging	aging	and slow the	
-T-687	raw	raw	enzymes	enzymes	or adding myrosinase	
-T-687	animal proteins	animal proteins	tor	tor	like dairy may lower	
-T-687	liver	liver	cancer	cancer	to detoxify and may help fight	
-T-687	raw	raw	cooking	cooking	because	
-T-687	cruciferous vegetables	cruciferous vegetables	raw	raw	by either eating them	
-T-687	enzymes	enzymes	cruciferous vegetables	cruciferous vegetables	to produce sulforaphane in	
-T-687	raw	raw	mustard powder	mustard powder	or adding myrosinase enzymes in the form of	
-T-687	plant foods	plant foods	cooking	cooking	must be eaten raw because	
-T-687	plant-based diets	plant-based diets	obesity	obesity	protect against	
-T-687	mustard powder	mustard powder	cruciferous vegetables	cruciferous vegetables	to cooked, or pre-chopping the	
-T-687	cooking	cooking	plant foods	plant foods	deactivates live plant enzymes that we supposedly require.specific	
-T-687	plant-based	plant-based	obesity	obesity	diets protect against	
-T-687	phytonutrients	phytonutrients	enzymes	enzymes	help stimulate natural detoxifying	
-T-687	leucine	leucine	dairy	dairy	by restricting animal proteins like	
-T-687	sulforaphane	sulforaphane	produce	produce	is to allow myrosinase enzymes to	
-T-687	produce	produce	raw	raw	sulforaphane in cruciferous vegetables by either eating them	
-T-687	vegetables	vegetables	raw	raw	by either eating them	
-T-687	raw	raw	enzymes	enzymes	because cooking deactivates live plant	
-T-687	leucine	leucine	animal proteins	animal proteins	by restricting	
-T-687	animal proteins	animal proteins	dairy	dairy	like	
-T-687	phytonutrients	phytonutrients	detoxifying enzymes	detoxifying enzymes	help stimulate natural	
-T-687	plant foods	plant foods	enzymes	enzymes	may also have different affects on our	
-T-687	enzymes	enzymes	produce	produce	to	
-T-687	stomach	stomach	pain	pain	lining, whereas cox-2 is an enzyme responsible for	
-T-687	sulforaphane	sulforaphane	enzymes	enzymes	is to allow myrosinase	
-T-687	cooking	cooking	enzymes	enzymes	deactivates live plant	
-T-687	enzymes	enzymes	sulforaphane	sulforaphane	to produce	
-T-687	produce	produce	cruciferous vegetables	cruciferous vegetables	sulforaphane in	
-T-687	enzymes	enzymes	plant foods	plant foods	that we supposedly require.specific	
-T-687	vegetables	vegetables	enzymes	enzymes	by either eating them raw or adding myrosinase	
-T-687	pain	pain	inflammation	inflammation	and	
-T-687	phytonutrient	phytonutrient	liver	liver	that helps our	
-T-687	produce	produce	sulforaphane	sulforaphane		
 T-687	dairy	dairy	tor	tor	may lower	
-T-687	enzymes	enzymes	vegetables	vegetables	to produce sulforaphane in cruciferous	
-T-687	produce	produce	vegetables	vegetables	sulforaphane in cruciferous	
-T-687	cruciferous vegetables	cruciferous vegetables	enzymes	enzymes	by either eating them raw or adding myrosinase	
-T-687	mustard powder	mustard powder	vegetables	vegetables	to cooked, or pre-chopping the cruciferous	
-T-687	leucine	leucine	tor	tor	by restricting animal proteins like dairy may lower	
-T-687	tor	tor	aging	aging	which plays a role in	
+T-687	plant-based diets	plant-based diets	obesity	obesity	protect against	
+T-687	plant foods	plant foods	raw	raw	must be eaten	
+T-687	pain	pain	inflammation	inflammation	and	
+T-687	phytonutrients	phytonutrients	detoxifying enzymes	detoxifying enzymes	help stimulate natural	

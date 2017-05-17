@@ -1,68 +1,17 @@
 
-T-1352	orange	orange	produce	produce	juice or grapefruit juice failed to	
-T-1352	juice	juice	glaucoma	glaucoma	—may lower risk of	
-T-1352	fruit	fruit	juice	juice	juices such as orange	
-T-1352	orange juice	orange juice	juice	juice	or grapefruit	
-T-1352	water	water	teeth	teeth	to clear the acid from our	
-T-1352	phytosterol	phytosterol	orange juice	orange juice	-fortified	
-T-1352	citrus	citrus	juice	juice	or drink orange	
-T-1352	vegetables	vegetables	orange	orange	may reduce the inflammatory effect mediated by platelets,	
-T-1352	juice	juice	risk	risk	—may lower	
-T-1352	juice	juice	insulin	insulin	may cause a release of	
-T-1352	risk	risk	glaucoma	glaucoma	of	
-T-1352	vegetables	vegetables	platelets	platelets	may reduce the inflammatory effect mediated by	
-T-1352	fruit	fruit	phenolics	phenolics	juices such as orange juice contain	
-T-1352	insulin	insulin	tryptophan	tryptophan	that results in an increase in brain	
-T-1352	orange	orange	oranges	oranges	juice, however, is different than eating	
-T-1352	orange	orange	insulin	insulin	juice may cause a release of	
-T-1352	orange	orange	grapefruit	grapefruit	juice or	
-T-1352	orange	orange	water	water	juice, we should swish our mouths with	
-T-1352	orange juice	orange juice	produce	produce	or grapefruit juice failed to	
-T-1352	orange	orange	glaucoma	glaucoma	juice—may lower risk of	
-T-1352	water	water	orange	orange	to clear the acid from our teeth.	
+T-1352	orange juice	orange juice	grapefruit	grapefruit	or	
+T-1352	carbohydrates	carbohydrates	orange juice	orange juice	in	
+T-1352	juice	juice	grapefruit	grapefruit	or	
+T-1352	grapefruit juice	grapefruit juice	produce	produce	failed to	
+T-1352	carbohydrates	carbohydrates	orange	orange	in	
 T-1352	juice	juice	grapefruit juice	grapefruit juice	or	
-T-1352	fruit	fruit	orange juice	orange juice	juices such as	
-T-1352	oranges	oranges	orange juice	orange juice	a week—but not	
-T-1352	orange	orange	antioxidants	antioxidants	juice, the	
 T-1352	juice	juice	phenolics	phenolics	contain	
+T-1352	juice	juice	insulin	insulin	may cause a release of	
+T-1352	risk	risk	stroke	stroke	of	
+T-1352	risk	risk	glaucoma	glaucoma	of	
+T-1352	orange juice	orange juice	phenolics	phenolics	contain	
+T-1352	orange	orange	potassium	potassium	concentrates are one of the top five sources of	
 T-1352	orange juice	orange juice	insulin	insulin	may cause a release of	
 T-1352	fruits	fruits	vegetables	vegetables	and	
-T-1352	vegetables	vegetables	orange juice	orange juice	may reduce the inflammatory effect mediated by platelets,	
-T-1352	grapefruit	grapefruit	juice	juice		
-T-1352	juice	juice	produce	produce	or grapefruit juice failed to	
-T-1352	orange	orange	risk	risk	juice—may lower	
-T-1352	carbohydrates	carbohydrates	orange juice	orange juice	in	
-T-1352	orange juice	orange juice	glaucoma	glaucoma	—may lower risk of	
-T-1352	fruits	fruits	oranges	oranges	such as	
-T-1352	phytosterols	phytosterols	phytosterol	phytosterol	as with nut and seed consumption, as increased	
-T-1352	grapefruit juice	grapefruit juice	produce	produce	failed to	
-T-1352	fruit	fruit	orange	orange	juices such as	
-T-1352	oranges	oranges	glaucoma	glaucoma	a week—but not orange juice—may lower risk of	
-T-1352	orange	orange	phenolics	phenolics	juice contain	
-T-1352	oranges	oranges	orange	orange	a week—but not	
-T-1352	orange juice	orange juice	risk	risk	—may lower	
-T-1352	carbohydrates	carbohydrates	juice	juice	in orange	
-T-1352	teeth	teeth	juice	juice	.orange	
-T-1352	risk	risk	stroke	stroke	of	
-T-1352	phytosterol	phytosterol	juice	juice	-fortified orange	
-T-1352	orange juice	orange juice	phenolics	phenolics	contain	
-T-1352	phytosterol	phytosterol	orange	orange	-fortified	
-T-1352	sugar	sugar	water	water		
-T-1352	orange	orange	grapefruit juice	grapefruit juice	juice or	
-T-1352	juice	juice	disease	disease	contain phenolics, which may provide protection against alzheimer’s	
-T-1352	water	water	juice	juice	to clear the acid from our teeth.orange	
-T-1352	oranges	oranges	juice	juice	a week—but not orange	
-T-1352	orange	orange	juice	juice		
 T-1352	orange juice	orange juice	grapefruit juice	grapefruit juice	or	
-T-1352	citrus	citrus	orange	orange	or drink	
-T-1352	orange juice	orange juice	grapefruit	grapefruit	or	
-T-1352	fruits	fruits	hesperidin	hesperidin	such as oranges contain	
-T-1352	juice	juice	grapefruit	grapefruit	or	
-T-1352	carbohydrates	carbohydrates	orange	orange	in	
-T-1352	oranges	oranges	risk	risk	a week—but not orange juice—may lower	
-T-1352	orange juice	orange juice	disease	disease	contain phenolics, which may provide protection against alzheimer’s	
-T-1352	carbohydrates	carbohydrates	insulin	insulin	in orange juice may cause a release of	
-T-1352	citrus	citrus	orange juice	orange juice	or drink	
-T-1352	grapefruit	grapefruit	produce	produce	juice failed to	
-T-1352	water	water	orange juice	orange juice	to clear the acid from our teeth.	
 T-1352	oranges	oranges	hesperidin	hesperidin	contain	

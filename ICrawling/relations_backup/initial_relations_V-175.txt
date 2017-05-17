@@ -1,43 +1,10 @@
 
-V-175	drugs	drugs	birth defects	birth defects	appear able to prevent the possible	
-V-175	immune system	immune system	fruits	fruits	: the first two weeks basically no	
-V-175	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of	
-V-175	juice	juice	spinach	spinach	every day, then carrot juice, then	
-V-175	fruit	fruit	diet	diet	and veggie deficient	
-V-175	fruits	fruits	risk	risk	and vegetables had a moderate reduction in	
 V-175	vegetables	vegetables	risk	risk	had a moderate reduction in	
-V-175	cruciferous vegetables	cruciferous vegetables	collards	collards	: cabbage,	
-V-175	risk	risk	infection	infection	of upper respiratory tract	
-V-175	cruciferous vegetables	cruciferous vegetables	kale	kale	: cabbage, collards, cauliflower,	
-V-175	birth defects	birth defects	cold	cold	causing effect of the common	
-V-175	cruciferous vegetables	cruciferous vegetables	cauliflower	cauliflower	: cabbage, collards,	
-V-175	cruciferous vegetables	cruciferous vegetables	sprouts	sprouts	: cabbage, collards, cauliflower, kale, brussels	
-V-175	vegetables	vegetables	collards	collards	: cabbage,	
-V-175	fruits	fruits	risk	risk	and vegetables appear to have a lower	
-V-175	common cold	common cold	pregnancy	pregnancy	during the first trimester of	
-V-175	birth defects	birth defects	common cold	common cold	causing effect of the	
-V-175	risk	risk	infection	infection	of getting an upper respiratory tract	
-V-175	respiratory infections	respiratory infections	influenza	influenza	like	
+V-175	drugs	drugs	birth defects	birth defects	appear able to prevent the possible	
 V-175	pregnancy	pregnancy	birth defects	birth defects	is associated with a number of	
+V-175	birth defects	birth defects	cold	cold	causing effect of the common	
+V-175	vegetables	vegetables	immune function	immune function	provide a natural balance of all sorts of things that may improve our	
+V-175	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of	
 V-175	vegetables	vegetables	risk	risk	appear to have a lower	
-V-175	risk	risk	pregnancy	pregnancy	of upper respiratory tract infection during	
-V-175	vegetables	vegetables	kale	kale	: cabbage, collards, cauliflower,	
-V-175	vegetables	vegetables	brussels sprouts	brussels sprouts	: cabbage, collards, cauliflower, kale,	
-V-175	upper respiratory tract infection	upper respiratory tract infection	pregnancy	pregnancy	during	
-V-175	infection	infection	pregnancy	pregnancy	during	
-V-175	women	women	pregnancy	pregnancy	and their diets were followed before and during	
-V-175	vegetables	vegetables	fruits	fruits	a day, compared with only five servings of	
-V-175	pneumonia	pneumonia	fruits	fruits	vaccination, compared to just two servings of	
-V-175	tomato juice	tomato juice	spinach	spinach	every day, then carrot juice, then	
-V-175	vegetables	vegetables	immune system	immune system	on the	
-V-175	vegetables	vegetables	cauliflower	cauliflower	: cabbage, collards,	
-V-175	vegetables	vegetables	sprouts	sprouts	: cabbage, collards, cauliflower, kale, brussels	
-V-175	tomato juice	tomato juice	juice	juice	every day, then carrot	
-V-175	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of getting an	
-V-175	infections	infections	influenza	influenza	like	
-V-175	cruciferous vegetables	cruciferous vegetables	brussels sprouts	brussels sprouts	: cabbage, collards, cauliflower, kale,	
 V-175	fruits	fruits	vegetables	vegetables	and	
-V-175	cold	cold	pregnancy	pregnancy	during the first trimester of	
-V-175	risk	risk	united states	united states	factors and influenza-related hospitalizations in the	
-V-175	vegetables	vegetables	upper respiratory tract infection	upper respiratory tract infection	had a moderate reduction in risk of	
-V-175	fruit	fruit	immune function	immune function	and veggie deficient diet,	
+V-175	birth defects	birth defects	common cold	common cold	causing effect of the	

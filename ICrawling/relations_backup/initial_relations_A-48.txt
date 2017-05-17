@@ -1,45 +1,9 @@
 
-A-48	ciguatera	ciguatera	syndrome	syndrome	poisoning & chronic fatigue	
-A-48	prevention	prevention	seafood	seafood	of	
-A-48	seafood	seafood	fish	fish	intoxication by avoidance of high-risk	
-A-48	ciguatera	ciguatera	food poisoning	food poisoning	is one of the most common forms of	
-A-48	fish	fish	neurotoxins	neurotoxins	contaminated with	
-A-48	bugs	bugs	meat industry	meat industry	(chicken salmonella thanks to	
 A-48	beer	beer	coffee	coffee	felt like too hot	
-A-48	ciguatera	ciguatera	symptoms	symptoms	poisoning & chronic fatigue syndrome, the	
-A-48	burning	burning	cold	cold		
-A-48	food poisoning	food poisoning	chicken	chicken	bugs (	
-A-48	chicken	chicken	meat	meat	salmonella thanks to	
-A-48	food poisoning	food poisoning	bugs	bugs		
-A-48	burning	burning	pain	pain		
-A-48	toxins	toxins	cooking	cooking	are colorless, odorless, tasteless, and not destroyed by	
-A-48	ciguatera	ciguatera	fatigue	fatigue	poisoning & chronic	
-A-48	ciguatera	ciguatera	chronic fatigue syndrome	chronic fatigue syndrome	poisoning &	
-A-48	seafood	seafood	ciguatera	ciguatera	meal can turn into a	
-A-48	food poisoning	food poisoning	salmonella	salmonella	bugs (chicken	
-A-48	cdc	cdc	prevention	prevention	scientists suggest “education aimed at the	
+A-48	prevention	prevention	seafood	seafood	of	
+A-48	ciguatera	ciguatera	food poisoning	food poisoning	is one of the most common forms of	
 A-48	essential tremor	essential tremor	diet	diet	and	
-A-48	fatigue	fatigue	syndrome	syndrome		
-A-48	food poisoning	food poisoning	meat industry	meat industry	bugs (chicken salmonella thanks to	
+A-48	fish	fish	neurotoxins	neurotoxins	contaminated with	
+A-48	chronic fatigue syndrome	chronic fatigue syndrome	fish	fish	may actually be suffering the long-term effects of this	
 A-48	diet	diet	essential tremor	essential tremor	and	
-A-48	food poisoning	food poisoning	polymyositis	polymyositis	or a condition called	
-A-48	salmonella	salmonella	meat	meat	thanks to	
-A-48	cdc	cdc	seafood	seafood	scientists suggest “education aimed at the prevention of	
-A-48	bugs	bugs	meat	meat	(chicken salmonella thanks to	
-A-48	food poisoning	food poisoning	meat	meat	bugs (chicken salmonella thanks to	
-A-48	disease	disease	essential tremor	essential tremor	with diet and	
-A-48	public health	public health	cold	cold	bloggers put it, “when hot sex turns	
-A-48	ciguatera	ciguatera	americans	americans	fish poisoning affects an estimated 15,000	
-A-48	chicken	chicken	meat industry	meat industry	salmonella thanks to	
-A-48	fish	fish	polymyositis	polymyositis	food poisoning or a condition called	
-A-48	ciguatera	ciguatera	fish	fish		
-A-48	fish	fish	americans	americans	poisoning affects an estimated 15,000	
-A-48	fish	fish	food poisoning	food poisoning		
-A-48	prevention	prevention	fish	fish	of seafood intoxication by avoidance of high-risk	
-A-48	fatigue	fatigue	symptoms	symptoms	syndrome, the	
-A-48	salmonella	salmonella	meat industry	meat industry	thanks to	
-A-48	chicken	chicken	salmonella	salmonella		
-A-48	disease	disease	diet	diet	with	
-A-48	health	health	cold	cold	bloggers put it, “when hot sex turns	
-A-48	bugs	bugs	salmonella	salmonella	(chicken	
-A-48	burning	burning	beer	beer	pain, or that drinking cool	
+A-48	syndrome	syndrome	fish	fish	may actually be suffering the long-term effects of this	

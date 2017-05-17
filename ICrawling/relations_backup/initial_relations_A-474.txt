@@ -1,64 +1,15 @@
 
-A-474	bovine spongiform encephalopathy	bovine spongiform encephalopathy	mad cow disease	mad cow disease	(“	
-A-474	meat	meat	american meat institute	american meat institute	industry—represented by the national meat association and the	
-A-474	national meat association	national meat association	supreme court	supreme court	v. harris, a case appearing before the	
-A-474	california	california	livestock	livestock	to strengthen its laws to keep downer	
-A-474	contamination	contamination	health	health	and may contribute to the	
-A-474	food poisoning	food poisoning	united states	united states	in the	
-A-474	pigs	pigs	risk	risk	and sheep may also present a food safety	
-A-474	disease	disease	public health	public health	that could threaten	
-A-474	sheep	sheep	food safety	food safety	may also present a	
-A-474	farm animals	farm animals	mad cow disease	mad cow disease	include anthrax, salmonella, and	
-A-474	farm animals	farm animals	anthrax	anthrax	include	
-A-474	hamburger	hamburger	federal school lunch program	federal school lunch program	meat distributed to the	
-A-474	food safety	food safety	risk	risk		
-A-474	downers	downers	meat	meat	were being dragged to slaughter for hamburger	
-A-474	meat industry	meat industry	california	california	is trying to overturn a	
-A-474	contamination	contamination	meat	meat	of muscle	
-A-474	pathogens	pathogens	salmonella	salmonella	linked to downed farm animals include anthrax,	
-A-474	dairy	dairy	e. coli	e. coli	cattle harboring	
-A-474	pigs	pigs	sheep	sheep	and	
-A-474	united states	united states	cows	cows	investigators documented workers dragging downed	
 A-474	meat	meat	federal school lunch program	federal school lunch program	distributed to the	
-A-474	health	health	ground beef	ground beef	risk associated with	
-A-474	hamburger	hamburger	school lunch program	school lunch program	meat distributed to the federal	
-A-474	beef	beef	food safety	food safety	—for violations of	
-A-474	meat industry	meat industry	meat	meat	—represented by the national	
-A-474	health	health	risk	risk		
-A-474	national meat association	national meat association	supreme court	supreme court	took it to the	
-A-474	meat	meat	beef	beef	recall in u.s. history—143 million pounds of	
-A-474	dairy	dairy	california	california	cow slaughterplant in	
-A-474	meat	meat	supreme court	supreme court	association took it to the	
-A-474	campylobacter	campylobacter	food poisoning	food poisoning	infection, the most common cause of bacterial	
-A-474	farm animals	farm animals	death	death	insensible before being bled to	
-A-474	california	california	downers	downers	showed that	
-A-474	meat industry	meat industry	national meat association	national meat association	—represented by the	
-A-474	bovine spongiform encephalopathy	bovine spongiform encephalopathy	disease	disease	(“mad cow	
-A-474	meat	meat	school lunch program	school lunch program	distributed to the federal	
-A-474	downers	downers	animal welfare	animal welfare	is not just an	
-A-474	campylobacter	campylobacter	infection	infection		
-A-474	meat	meat	supreme court	supreme court	association v. harris, a case appearing before the	
-A-474	meat	meat	california	california	industry is trying to overturn a	
-A-474	meat	meat	national meat association	national meat association	industry—represented by the	
-A-474	dairy	dairy	downers	downers	cow slaughterplant in california showed that	
-A-474	farm animals	farm animals	salmonella	salmonella	include anthrax,	
-A-474	downers	downers	hamburger	hamburger	were being dragged to slaughter for	
-A-474	pigs	pigs	food safety	food safety	and sheep may also present a	
-A-474	hamburger	hamburger	meat	meat		
-A-474	health	health	beef	beef	risk associated with ground	
-A-474	meat industry	meat industry	american meat institute	american meat institute	—represented by the national meat association and the	
 A-474	pathogens	pathogens	farm animals	farm animals	linked to downed	
 A-474	risk	risk	ground beef	ground beef	associated with	
-A-474	pathogens	pathogens	anthrax	anthrax	linked to downed farm animals include	
-A-474	farm animals	farm animals	disease	disease	include anthrax, salmonella, and mad cow	
-A-474	national meat association	national meat association	american meat institute	american meat institute	and the	
-A-474	american meat institute	american meat institute	california	california	—responded by suing the state of	
-A-474	sheep	sheep	risk	risk	may also present a food safety	
-A-474	food safety	food safety	bovine spongiform encephalopathy	bovine spongiform encephalopathy	regulations meant to protect the public from	
-A-474	humane society of the united states	humane society of the united states	cows	cows	investigators documented workers dragging downed	
+A-474	pigs	pigs	swine flu	swine flu	tested in the midwest were found to be actively infected with	
+A-474	california	california	downers	downers	showed that	
+A-474	cows	cows	e. coli	e. coli	were found to have 3 times the prevalence of	
+A-474	meat	meat	school lunch program	school lunch program	distributed to the federal	
+A-474	downers	downers	animal welfare	animal welfare	is not just an	
+A-474	farm animals	farm animals	anthrax	anthrax	include	
 A-474	contamination	contamination	meat	meat	of	
-A-474	e. coli	e. coli	americans	americans	o157:h7, the strain that kills dozens of	
-A-474	national meat association	national meat association	meat	meat	and the american	
-A-474	contamination	contamination	risk	risk	and may contribute to the health	
-A-474	risk	risk	beef	beef	associated with ground	
-A-474	disease	disease	health	health	that could threaten public	
+A-474	pigs	pigs	campylobacter	campylobacter	have been found to have 16 times the odds of antibiotic resistant	
+A-474	meat industry	meat industry	california	california	is trying to overturn a	
+A-474	national meat association	national meat association	supreme court	supreme court	took it to the	
+A-474	pigs	pigs	sheep	sheep	and	

@@ -1,13 +1,5 @@
 
 V-621	japan	japan	europe	europe	and	
-V-621	flax	flax	safflower oil	safflower oil	seed oil a day—internally—versus	
-V-621	water	water	skin	skin	loss—	
-V-621	women	women	flax	flax	were given about a half teaspoon of	
-V-621	safflower oil	safflower oil	skin	skin	intervention, but significantly improved after flax seed oil.sensitive	
-V-621	flax	flax	skin	skin	seed oil improved	
+V-621	skin	skin	safflower oil	safflower oil	looked pretty much just as dry and scaly before and after the	
 V-621	skin barrier	skin barrier	skin	skin	allowing potentially irritating substances to penetrate the	
 V-621	skin	skin	flax	flax	reddening in the	
-V-621	flax	flax	skin	skin	seed oil was found to diminish	
-V-621	skin	skin	skin barrier	skin barrier	sensitivity and improve	
-V-621	safflower oil	safflower oil	flax	flax	intervention, but significantly improved after	
-V-621	flax	flax	skin	skin	seed oil.sensitive	

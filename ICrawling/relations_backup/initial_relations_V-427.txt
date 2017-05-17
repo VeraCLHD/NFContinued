@@ -1,36 +1,10 @@
 
-V-427	diet	diet	rice	rice	in japan has changed from a more traditional	
 V-427	japan	japan	cholesterol	cholesterol	include increases in	
-V-427	meat	meat	dementia	dementia	-free, the lower the associated risk of	
-V-427	united states	united states	western diet	western diet	and adopt a	
-V-427	disease	disease	animal fat	animal fat	in japan was the increased consumption of	
-V-427	grains	grains	disease	disease	appear strongly protective in relation to alzheimer’s	
-V-427	meat	meat	animal fat	animal fat	.from 1961 to 2008, meat and	
-V-427	japan	japan	saturated fat	saturated fat	include increases in cholesterol,	
 V-427	japan	japan	rice	rice	has changed from a more traditional	
 V-427	risk	risk	dementia	dementia	of	
-V-427	japan	japan	fat	fat	include increases in cholesterol, saturated	
-V-427	dementia	dementia	disease	disease	and alzheimer’s	
-V-427	united states	united states	diet	diet	and adopt a western	
-V-427	iron	iron	animal products	animal products	from increases in the consumption of	
-V-427	japan	japan	diet	diet	has changed from a more traditional rice-based	
-V-427	rice	rice	meat	meat	-based diet to one with a preponderance of	
-V-427	meat	meat	fat	fat	.from 1961 to 2008, meat and animal	
-V-427	japan	japan	fat	fat	was the increased consumption of animal	
-V-427	meat	meat	risk	risk	-free, the lower the associated	
-V-427	rice	rice	diet	diet	-based	
-V-427	nigeria	nigeria	americans	americans	than for african	
+V-427	japan	japan	animal fat	animal fat	was the increased consumption of	
+V-427	disease	disease	dementia	dementia	and	
+V-427	diet	diet	japan	japan	in	
+V-427	grains	grains	disease	disease	appear strongly protective in relation to alzheimer’s	
 V-427	disease	disease	japan	japan	in	
 V-427	dementia	dementia	japan	japan	in	
-V-427	disease	disease	fat	fat	in japan was the increased consumption of animal	
-V-427	nigeria	nigeria	african	african	than for	
-V-427	disease	disease	nigeria	nigeria	is significantly lower for africans in	
-V-427	japan	japan	iron	iron	include increases in cholesterol, saturated fat, and	
-V-427	japan	japan	animal fat	animal fat	was the increased consumption of	
-V-427	nigeria	nigeria	african americans	african americans	than for	
-V-427	disease	disease	dementia	dementia	and	
-V-427	grains	grains	animal products	animal products	and away from	
-V-427	diet	diet	japan	japan	in	
-V-427	african	african	americans	americans		
-V-427	fat	fat	rice	rice	increased considerably, whereas the	
-V-427	animal fat	animal fat	rice	rice	increased considerably, whereas the	

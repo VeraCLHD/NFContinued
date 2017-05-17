@@ -1,29 +1,8 @@
 
-V-197	resveratrol	resveratrol	united states	united states	supplements have reached $30 million in the	
-V-197	inflammation	inflammation	drugs	drugs	after nearly 150 human clinical trials testing	
-V-197	diet	diet	death	death	help protect against inflammation, cancer, cardiovascular disease, and	
-V-197	resveratrol	resveratrol	inflammation	inflammation	levels achieved with diet help protect against	
-V-197	mortality	mortality	disease	disease	from ischemic heart	
-V-197	diet	diet	disease	disease	help protect against inflammation, cancer, cardiovascular	
-V-197	mortality	mortality	heart disease	heart disease	from ischemic	
-V-197	resveratrol	resveratrol	cancer	cancer	levels achieved with diet help protect against inflammation,	
-V-197	cardiovascular function	cardiovascular function	inflammation	inflammation	and physical capacity and decreased	
-V-197	resveratrol	resveratrol	blood pressure	blood pressure	with athletic training abolished the reduction in	
-V-197	diet	diet	cancer	cancer	help protect against inflammation,	
 V-197	disease	disease	saturated fat	saturated fat	may just reflect the earlier low levels of	
-V-197	mortality	mortality	ischemic heart disease	ischemic heart disease	from	
-V-197	blood	blood	triglycerides	triglycerides	pressure, cholesterol, and	
+V-197	heart disease	heart disease	fat	fat	may just reflect the earlier low levels of saturated	
+V-197	ischemic heart disease	ischemic heart disease	fat	fat	may just reflect the earlier low levels of saturated	
+V-197	disease	disease	fat	fat	may just reflect the earlier low levels of saturated	
 V-197	ischemic heart disease	ischemic heart disease	saturated fat	saturated fat	may just reflect the earlier low levels of	
-V-197	resveratrol	resveratrol	risk	risk	supplementation decreased cardiovascular	
-V-197	diet	diet	inflammation	inflammation	help protect against	
-V-197	heart disease	heart disease	saturated fat	saturated fat	may just reflect the earlier low levels of	
-V-197	resveratrol	resveratrol	blood	blood	with athletic training abolished the reduction in	
-V-197	resveratrol	resveratrol	supplements	supplements		
-V-197	blood	blood	cholesterol	cholesterol	pressure,	
-V-197	resveratrol	resveratrol	cardiovascular function	cardiovascular function	supplementation decreased cardiovascular risk factors, improved	
-V-197	pills	pills	diet	diet	now replace a healthy	
-V-197	resveratrol	resveratrol	diet	diet	levels achieved with	
-V-197	sugar	sugar	resveratrol	resveratrol	pill, the	
-V-197	diet	diet	cardiovascular disease	cardiovascular disease	help protect against inflammation, cancer,	
 V-197	supplements	supplements	united states	united states	have reached $30 million in the	
-V-197	risk	risk	cardiovascular function	cardiovascular function	factors, improved	
+V-197	heart disease	heart disease	saturated fat	saturated fat	may just reflect the earlier low levels of	

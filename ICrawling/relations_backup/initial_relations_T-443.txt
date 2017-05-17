@@ -1,43 +1,5 @@
 
-T-443	china	china	lead	lead	and the united states	
 T-443	carbohydrates	carbohydrates	fiber	fiber	and	
-T-443	plant-based	plant-based	diet	diet	chinese	
-T-443	chinese	chinese	herbal	herbal		
-T-443	african	african	cancer	cancer	american men have a prostate	
-T-443	plant-based diet	plant-based diet	carbohydrates	carbohydrates	(high in	
 T-443	b12	b12	health	health	may be essential for good arterial	
-T-443	risk	risk	disease	disease	of alzheimer’s	
-T-443	prostate cancer	prostate cancer	china	china	prevalence 120 times that of men in rural	
-T-443	diet	diet	carbohydrates	carbohydrates	(high in	
-T-443	plant-based	plant-based	diet	diet		
-T-443	prostate cancer	prostate cancer	risk	risk		
-T-443	cancer	cancer	risk	risk		
-T-443	chinese	chinese	b12	b12	researchers showed that vitamin	
-T-443	plant-based	plant-based	carbohydrates	carbohydrates	diet (high in	
-T-443	arthritis	arthritis	risk	risk	), decreased	
-T-443	chinese	chinese	diet	diet		
-T-443	prostate	prostate	cancer	cancer		
 T-443	vitamin b12	vitamin b12	health	health	may be essential for good arterial	
-T-443	african	african	prostate cancer	prostate cancer	american men have a	
-T-443	fiber	fiber	animal foods	animal foods	) to a westernized diet increasingly composed of	
-T-443	chinese	chinese	vitamin b12	vitamin b12	researchers showed that	
-T-443	arthritis	arthritis	disease	disease	), decreased risk of alzheimer’s	
-T-443	diet	diet	fiber	fiber	(high in carbohydrates and	
-T-443	united states	united states	lead	lead		
-T-443	health	health	insects	insects	and that of all animal products,	
-T-443	african	african	prostate	prostate	american men have a	
-T-443	plant-based	plant-based	fiber	fiber	diet (high in carbohydrates and	
-T-443	plant-based	plant-based	chinese	chinese		
-T-443	chinese	chinese	blood	blood	populations regularly reveal extraordinarily low	
-T-443	fiber	fiber	diet	diet	) to a westernized	
-T-443	health	health	animal products	animal products	and that of all	
 T-443	diabetes	diabetes	china	china	in	
-T-443	prostate	prostate	risk	risk	cancer	
-T-443	plant-based diet	plant-based diet	diet	diet	(high in carbohydrates and fiber) to a westernized	
-T-443	plant-based diet	plant-based diet	fiber	fiber	(high in carbohydrates and	
-T-443	china	china	united states	united states	and the	
-T-443	inflammation	inflammation	disease	disease	(including arthritis), decreased risk of alzheimer’s	
-T-443	cancer	cancer	china	china	prevalence 120 times that of men in rural	
-T-443	inflammation	inflammation	arthritis	arthritis	(including	
-T-443	carbohydrates	carbohydrates	diet	diet	and fiber) to a westernized	
-T-443	inflammation	inflammation	risk	risk	(including arthritis), decreased	
