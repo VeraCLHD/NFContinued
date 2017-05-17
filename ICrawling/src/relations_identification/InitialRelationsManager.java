@@ -116,7 +116,7 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "unused_terms.txt");
 		Writer.overwriteFile("", "all_relations.txt");
 		Writer.overwriteFile("", "relations_backup/trash_relations.txt");
-		
+		Writer.overwriteFile("", "relations_backup/unknown_trash_relations.txt");
 		//Thread th1 = new Thread(new RunnableThread(), "thread1");
 		//Thread th2 = new Thread(new RunnableThread(), "thread2");
 		

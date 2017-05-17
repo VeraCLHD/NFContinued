@@ -323,7 +323,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				relations = relations + relation.getArg2() + "\t";
 				relations = relations + relation.getArg2Origin() + "\t";
 				relations = relations + relation.getRel() + "\t";
-				Writer.appendLineToFile(relations, "relations_backup/trash_relations.txt");
+				Writer.appendLineToFile(relations, "relations_backup/unknown_trash_relations.txt");
 			}
 			
 		}
