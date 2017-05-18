@@ -1,9 +1,0 @@
-
-A-283	exercise	exercise	muscle damage	muscle damage	induced	
-A-283	symptoms	symptoms	exercise	exercise	of	
-A-283	exercise	exercise	lactic acid	lactic acid	may be related to the build-up of	
-A-283	massage	massage	inflammation	inflammation	could decrease	
-A-283	citrus	citrus	lactic acid	lactic acid	might help with the	
-A-283	antioxidants	antioxidants	aspirin	aspirin	and	
-A-283	blueberries	blueberries	athletes	athletes	took it a step further and actually paid	
-A-283	flavonoids	flavonoids	berries	berries	in	

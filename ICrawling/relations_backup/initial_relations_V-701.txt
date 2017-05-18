@@ -1,8 +1,0 @@
-
-V-701	plant-based diets	plant-based diets	pollutants	pollutants	may play a dual role in protecting us against industrial	
-V-701	plant-based diets	plant-based diets	industrial pollutants	industrial pollutants	may play a dual role in protecting us against	
-V-701	variety	variety	phytonutrients	phytonutrients	of	
-V-701	inflammation	inflammation	dioxin	dioxin	triggered by	
-V-701	plant foods	plant foods	industrial pollutants	industrial pollutants	tend to have significantly lower levels of	
-V-701	plant foods	plant foods	pollutants	pollutants	tend to have significantly lower levels of industrial	
-V-701	dioxin	dioxin	ddt	ddt	and	

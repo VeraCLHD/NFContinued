@@ -1,9 +1,0 @@
-
-T-472	preservatives	preservatives	junk food	junk food	in	
-T-472	artificial colors	artificial colors	hyperactivity	hyperactivity	may increase	
-T-472	cancer	cancer	california	california	has led to changes in soft drink formulation in	
-T-472	sodium benzoate	sodium benzoate	carcinogen	carcinogen	can form the	
-T-472	junk food	junk food	soda	soda	including	
-T-472	ascorbic acid	ascorbic acid	soda	soda	in	
-T-472	sugar	sugar	calories	calories	is just empty	
-T-472	sugar	sugar	empty calories	empty calories	is just	

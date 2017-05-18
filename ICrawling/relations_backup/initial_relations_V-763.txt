@@ -1,6 +1,0 @@
-
-V-763	tryptophan	tryptophan	animal proteins	animal proteins	is present in most	
-V-763	carbohydrates	carbohydrates	insulin	insulin	cause a release of	
-V-763	breakfast	breakfast	tryptophan	tryptophan	dropped, whereas in the waffle-oj group, their	
-V-763	mood	mood	appetite	appetite	and	
-V-763	period	period	depression	depression	improved	

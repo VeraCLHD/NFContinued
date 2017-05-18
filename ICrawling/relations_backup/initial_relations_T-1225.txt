@@ -1,7 +1,0 @@
-
-T-1225	dietary guidelines	dietary guidelines	fat	fat	were issued in 1980 and recommended a reduction in saturated	
-T-1225	dietary guidelines	dietary guidelines	saturated fat	saturated fat	were issued in 1980 and recommended a reduction in	
-T-1225	risk	risk	inflammation	inflammation	of	
-T-1225	risk	risk	cancer	cancer	of	
-T-1225	children	children	lead	lead	found the top food source of	
-T-1225	pesticides	pesticides	dioxins	dioxins	and	

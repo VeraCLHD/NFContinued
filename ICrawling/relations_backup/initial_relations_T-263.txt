@@ -1,7 +1,0 @@
-
-T-263	fruits	fruits	high fructose corn syrup	high fructose corn syrup	is not harmful like	
-T-263	blueberries	blueberries	cancer	cancer	may lower	
-T-263	phytonutrients	phytonutrients	memory	memory	have been shown to improve	
-T-263	fructose	fructose	blueberries	blueberries	in	
-T-263	fruits	fruits	fructose	fructose	is not harmful like high	
-T-263	blueberries	blueberries	antioxidant	antioxidant	have a very high	

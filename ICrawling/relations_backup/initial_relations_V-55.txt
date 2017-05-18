@@ -1,7 +1,0 @@
-
-V-55	fruit	fruit	sea vegetables	sea vegetables	and	
-V-55	fiber	fiber	blood pressure	blood pressure	lowered	
-V-55	fiber	fiber	blood	blood	lowered	
-V-55	minerals	minerals	fiber	fiber	and	
-V-55	seaweed	seaweed	blood	blood	tend to have lower	
-V-55	seaweed	seaweed	meat	meat	is one of the ingredients they’re trying to use to improve the “image” of	

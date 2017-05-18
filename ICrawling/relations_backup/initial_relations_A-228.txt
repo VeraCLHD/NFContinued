@@ -1,7 +1,0 @@
-
-A-228	diet	diet	plants	plants	composed entirely of	
-A-228	flax seeds	flax seeds	blood	blood	may help control	
-A-228	eggs	eggs	chronic diseases	chronic diseases	is related to the development of some other	
-A-228	eggs	eggs	death	death	may then hasten our	
-A-228	seeds	seeds	blood	blood	may help control	
-A-228	eggs	eggs	diabetes	diabetes	and	

@@ -1,6 +1,0 @@
-
-V-371	glyphosate	glyphosate	weeds	weeds	is sprayed on the soil to kill	
-V-371	monsanto	monsanto	roundup	roundup	maintains that	
-V-371	glyphosate	glyphosate	gmo	gmo	was found in the	
-V-371	soybeans	soybeans	glyphosate	glyphosate	were analyzed.here’s how much	
-V-371	soybeans	soybeans	soy	soy	are compositionally equivalent to that of conventional	

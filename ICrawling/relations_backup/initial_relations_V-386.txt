@@ -1,7 +1,0 @@
-
-V-386	whole grains	whole grains	risk	risk	has associated with reduced	
-V-386	dietary guidelines	dietary guidelines	plant-based	plant-based	aim to shift consumption towards more	
-V-386	meat	meat	dairy	dairy	and	
-V-386	diet	diet	exercise	exercise	or	
-V-386	medical profession	medical profession	medical education	medical education	and	
-V-386	grains	grains	risk	risk	has associated with reduced	

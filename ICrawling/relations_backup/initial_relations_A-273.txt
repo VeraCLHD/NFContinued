@@ -1,6 +1,0 @@
-
-A-273	meat	meat	dairy	dairy	and	
-A-273	breast cancer survival	breast cancer survival	trans fat	trans fat	and	
-A-273	cancer survival	cancer survival	trans fat	trans fat	and	
-A-273	fat	fat	meat	meat	in	
-A-273	trans fat	trans fat	meat	meat	in	

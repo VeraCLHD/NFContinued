@@ -1,5 +1,0 @@
-
-V-745	calories	calories	butter	butter	found in single pat of	
-V-745	diet	diet	exercise	exercise	or	
-V-745	physical activity	physical activity	weight loss	weight loss	are equally important in weight maintenance and	
-V-745	energy expenditure	energy expenditure	energy	energy	occupy equivalent roles in determining	

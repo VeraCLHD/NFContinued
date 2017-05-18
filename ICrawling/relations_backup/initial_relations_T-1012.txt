@@ -1,4 +1,0 @@
-
-T-1012	nori	nori	breast cancer	breast cancer	may reduce	
-T-1012	iodine	iodine	gargling	gargling	is by not	
-T-1012	wakame	wakame	blood	blood	may help those with high	

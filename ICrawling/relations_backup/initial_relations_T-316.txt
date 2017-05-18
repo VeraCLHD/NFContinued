@@ -1,9 +1,0 @@
-
-T-316	sprouts	sprouts	bladder	bladder	may be able to improve survival rates of	
-T-316	broccoli sprouts	broccoli sprouts	bladder cancer	bladder cancer	may be able to improve survival rates of	
-T-316	broccoli sprouts	broccoli sprouts	bladder	bladder	may be able to improve survival rates of	
-T-316	sprouts	sprouts	bladder cancer	bladder cancer	may be able to improve survival rates of	
-T-316	broccoli sprouts	broccoli sprouts	broccoli	broccoli	have a higher nutrient level than	
-T-316	broccoli sprouts	broccoli sprouts	food poisoning	food poisoning	are not associated with	
-T-316	sprouts	sprouts	broccoli	broccoli	have a higher nutrient level than	
-T-316	sprouts	sprouts	food poisoning	food poisoning	are not associated with	

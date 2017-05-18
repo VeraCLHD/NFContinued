@@ -1,6 +1,0 @@
-
-T-1041	vegetables	vegetables	mood	mood	may boost	
-T-1041	fruits	fruits	vegetables	vegetables	and	
-T-1041	cruciferous vegetables	cruciferous vegetables	mood	mood	may boost	
-T-1041	kale	kale	antioxidants	antioxidants	is a good source of	
-T-1041	lutein	lutein	zeaxanthin	zeaxanthin	and	

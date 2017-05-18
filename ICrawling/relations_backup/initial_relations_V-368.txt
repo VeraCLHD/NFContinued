@@ -1,9 +1,0 @@
-
-V-368	protein	protein	igf-1	igf-1	plays in boosting	
-V-368	igf-1	igf-1	vegans	vegans	in	
-V-368	variety	variety	igf-1	igf-1	of	
-V-368	igf-1	igf-1	chemo	chemo	blocking	
-V-368	vegans	vegans	igf-1	igf-1	had significantly lower levels of	
-V-368	growth hormone	growth hormone	variety	variety	associated with a	
-V-368	cancer	cancer	igf-1	igf-1	had about four times the levels of	
-V-368	animal protein	animal protein	igf-1	igf-1	plays in boosting	

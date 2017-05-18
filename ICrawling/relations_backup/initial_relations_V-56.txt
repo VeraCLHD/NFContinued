@@ -1,7 +1,0 @@
-
-V-56	risk	risk	gout	gout	of	
-V-56	uric acid	uric acid	risk	risk	is associated with increased	
-V-56	risk	risk	death	death	of	
-V-56	death	death	bone fractures	bone fractures	and	
-V-56	milk	milk	uric acid	uric acid	has a	
-V-56	milk	milk	uric acid	uric acid	lowers	

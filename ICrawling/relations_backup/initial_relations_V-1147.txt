@@ -1,6 +1,0 @@
-
-V-1147	mercury	mercury	fish	fish	isn’t just in	
-V-1147	farm animals	farm animals	meat	meat	are fed	
-V-1147	mercury	mercury	lead	lead	and	
-V-1147	milk	milk	egg	egg	and	
-V-1147	produce	produce	animal products	animal products	contaminated	

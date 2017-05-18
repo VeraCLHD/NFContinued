@@ -1,5 +1,0 @@
-
-V-1208	yale	yale	chocolate	chocolate	examining, “acute dark	
-V-1208	fat	fat	chocolate	chocolate	in	
-V-1208	sugar	sugar	chocolate	chocolate	in	
-V-1208	yale	yale	dark chocolate	dark chocolate	examining, “acute	

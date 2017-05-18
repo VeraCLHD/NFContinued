@@ -1,6 +1,0 @@
-
-V-450	nuts	nuts	olive oil	olive oil	replaced	
-V-450	meat	meat	dairy	dairy	and	
-V-450	diet	diet	endothelial	endothelial	known to have a negative effect on	
-V-450	walnuts	walnuts	risk	risk	may double our	
-V-450	walnuts	walnuts	endothelial	endothelial	showed an improvement in	

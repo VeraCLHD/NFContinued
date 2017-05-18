@@ -1,6 +1,0 @@
-
-V-234	nitrate	nitrate	blood	blood	has been shown not only to increase	
-V-234	greens	greens	beets	beets	and	
-V-234	nitrate	nitrate	vegetables	vegetables	in	
-V-234	blood pressure	blood pressure	risk	risk	may be the #1	
-V-234	high blood pressure	high blood pressure	risk	risk	may be the #1	

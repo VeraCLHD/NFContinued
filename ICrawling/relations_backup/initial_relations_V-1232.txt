@@ -1,5 +1,0 @@
-
-V-1232	women	women	breast cancer	breast cancer	diagnosed with	
-V-1232	breast cancer	breast cancer	diet	diet	were asked to eat a	
-V-1232	cancer	cancer	diet	diet	were asked to eat a	
-V-1232	women	women	fruit	fruit	were eating 3.5 servings of	

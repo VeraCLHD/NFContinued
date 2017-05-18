@@ -1,5 +1,0 @@
-
-V-879	fruits	fruits	vegetables	vegetables	and	
-V-879	asparagus	asparagus	celery	celery	and	
-V-879	garlic	garlic	onions	onions	and	
-V-879	risk	risk	heart disease	heart disease	of	

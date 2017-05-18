@@ -1,6 +1,0 @@
-
-A-236	newborns	newborns	mothers	mothers	of	
-A-236	babies	babies	mothers	mothers	born to	
-A-236	mercury	mercury	fish	fish	and	
-A-236	dha	dha	fish	fish	in	
-A-236	women	women	mercury	mercury	suffering high	

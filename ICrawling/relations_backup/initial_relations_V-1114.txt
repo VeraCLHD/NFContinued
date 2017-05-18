@@ -1,4 +1,0 @@
-
-V-1114	cdc	cdc	raw	raw	recommend not eating	
-V-1114	risk	risk	food poisoning	food poisoning	of	
-V-1114	fda	fda	cdc	cdc	and	

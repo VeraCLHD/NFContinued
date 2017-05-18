@@ -1,6 +1,0 @@
-
-V-337	screening	screening	drugs	drugs	and	
-V-337	disease	disease	cancer	cancer	or	
-V-337	physicians	physicians	mortality	mortality	greeted the horrendous	
-V-337	heart disease	heart disease	cancer	cancer	or	
-V-337	medications	medications	side effects	side effects	are killed by medication errors or	

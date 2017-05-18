@@ -1,5 +1,0 @@
-
-V-1005	omega-3 fatty acids	omega-3 fatty acids	cholesterol	cholesterol	are still loaded with	
-V-1005	eggs	eggs	dietary cholesterol	dietary cholesterol	are the most concentrated source of	
-V-1005	eggs	eggs	omega-3 fatty acids	omega-3 fatty acids	containing	
-V-1005	stroke	stroke	smoking	smoking	would be like quitting	

@@ -1,7 +1,0 @@
-
-V-619	lignans	lignans	breast cancer	breast cancer	do directly suppress the proliferation of	
-V-619	plant-based diets	plant-based diets	cancer	cancer	have lower	
-V-619	vegetarians	vegetarians	lignans	lignans	appeared to have up to three times the level of	
-V-619	infections	infections	risk	risk	may be at higher	
-V-619	urinary tract infections	urinary tract infections	risk	risk	may be at higher	
-V-619	lignans	lignans	sesame seeds	sesame seeds	in	

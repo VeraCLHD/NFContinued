@@ -1,5 +1,0 @@
-
-V-570	acrylamide	acrylamide	cooking	cooking	is a chemical formed by	
-V-570	ireland	ireland	algae	algae	started using a red	
-V-570	potato chips	potato chips	french fries	french fries	and	
-V-570	europe	europe	infant formula	infant formula	pulled it from	

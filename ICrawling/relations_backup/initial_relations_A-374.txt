@@ -1,8 +1,0 @@
-
-A-374	broccoli	broccoli	breast cancer	breast cancer	and	
-A-374	risk	risk	african-american	african-american	in	
-A-374	cancer prevention	cancer prevention	diet	diet	and	
-A-374	risk	risk	breast cancer	breast cancer	of	
-A-374	high blood pressure	high blood pressure	diabetes	diabetes	and	
-A-374	prevention	prevention	diet	diet	and	
-A-374	blood pressure	blood pressure	diabetes	diabetes	and	

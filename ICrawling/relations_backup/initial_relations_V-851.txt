@@ -1,7 +1,0 @@
-
-V-851	cancer	cancer	soy	soy	can be assured that enjoying a	
-V-851	tofu	tofu	risk	risk	causes no harm, and, when consumed in plentiful amounts, may reduce [the]	
-V-851	risk	risk	death	death	of	
-V-851	breast cancer	breast cancer	soy	soy	can be assured that enjoying a	
-V-851	diet	diet	breast cancer	breast cancer	had the lowest rate of	
-V-851	risk	risk	disease	disease	of	

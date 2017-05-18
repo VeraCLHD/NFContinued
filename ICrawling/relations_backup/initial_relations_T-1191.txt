@@ -1,8 +1,0 @@
-
-T-1191	vegetarians	vegetarians	vegans	vegans	and	
-T-1191	soy	soy	caffeine	caffeine	and	
-T-1191	sleep	sleep	memory	memory	may be helpful for improving short-term	
-T-1191	caffeine	caffeine	memory	memory	have been found to protect and enhance	
-T-1191	vegans	vegans	b12	b12	should take a	
-T-1191	seafood	seafood	memory	memory	may permanently compromise short-term	
-T-1191	risk	risk	heart attacks	heart attacks	of	

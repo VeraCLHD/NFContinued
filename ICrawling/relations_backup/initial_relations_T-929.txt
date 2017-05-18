@@ -1,8 +1,0 @@
-
-T-929	vegetables	vegetables	heterocyclic amines	heterocyclic amines	have been shown to reduce the absorption of	
-T-929	heterocyclic amines	heterocyclic amines	harmane	harmane	include	
-T-929	carcinogens	carcinogens	eggs	eggs	may be present in	
-T-929	phip	phip	melqx	melqx	and	
-T-929	meat	meat	risk	risk	can do to reduce the	
-T-929	cruciferous vegetables	cruciferous vegetables	heterocyclic amines	heterocyclic amines	have been shown to reduce the absorption of	
-T-929	muscles	muscles	toxins	toxins	are not the only source of these	

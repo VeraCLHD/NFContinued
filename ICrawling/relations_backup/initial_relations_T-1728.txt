@@ -1,6 +1,0 @@
-
-T-1728	folate	folate	mental health	mental health	may contribute to improved	
-T-1728	depression	depression	anxiety	anxiety	and	
-T-1728	spinach	spinach	variety	variety	is a great way to add	
-T-1728	folate	folate	health	health	may contribute to improved mental	
-T-1728	lutein	lutein	zeaxanthin	zeaxanthin	and	

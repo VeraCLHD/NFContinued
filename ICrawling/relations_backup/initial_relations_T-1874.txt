@@ -1,6 +1,0 @@
-
-T-1874	prevention	prevention	treatment	treatment	and	
-T-1874	pain	pain	fatigue	fatigue	and	
-T-1874	curcumin	curcumin	turmeric	turmeric	or	
-T-1874	curcumin	curcumin	turmeric	turmeric	has been identified as an active ingredient in	
-T-1874	turmeric	turmeric	supplements	supplements	is an active ingredient in numerous	

@@ -1,5 +1,0 @@
-
-V-1230	saturated fat	saturated fat	cholesterol	cholesterol	and	
-V-1230	toxins	toxins	arsenic	arsenic	and	
-V-1230	sodium	sodium	protein	protein	and	
-V-1230	chicken	chicken	fiber	fiber	lacks in	

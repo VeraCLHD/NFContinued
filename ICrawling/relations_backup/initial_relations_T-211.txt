@@ -1,8 +1,0 @@
-
-T-211	peppers	peppers	raw	raw	are best eaten	
-T-211	disease	disease	cancer	cancer	and	
-T-211	peppers	peppers	nicotine	nicotine	contain	
-T-211	fruits	fruits	vegetables	vegetables	and	
-T-211	cardiovascular disease	cardiovascular disease	cancer	cancer	and	
-T-211	bell peppers	bell peppers	nicotine	nicotine	contain	
-T-211	pepper	pepper	eggplant	eggplant	and	

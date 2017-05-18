@@ -1,8 +1,0 @@
-
-V-1075	hepatitis e	hepatitis e	zoonotic disease	zoonotic disease	is a	
-V-1075	risk	risk	hepatitis e	hepatitis e	of	
-V-1075	risk	risk	hepatitis	hepatitis	of	
-V-1075	mortality	mortality	alcohol	alcohol	and	
-V-1075	pigs	pigs	hepatitis	hepatitis	are the reservoirs of the	
-V-1075	hepatitis e	hepatitis e	disease	disease	is a zoonotic	
-V-1075	pigs	pigs	hepatitis e	hepatitis e	are the reservoirs of the	

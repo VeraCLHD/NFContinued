@@ -1,6 +1,0 @@
-
-V-331	cilantro	cilantro	bugs	bugs	does taste like	
-V-331	salsa	salsa	ketchup	ketchup	has replaced	
-V-331	dna	dna	cilantro	cilantro	and	
-V-331	cilantro	cilantro	arthritis	arthritis	may be useful for those suffering from a different	
-V-331	twins	twins	cilantro	cilantro	tend to share	

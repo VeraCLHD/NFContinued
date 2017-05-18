@@ -1,4 +1,0 @@
-
-V-1	drugs	drugs	doctors	doctors	prescribed by	
-V-1	heavy metals	heavy metals	pesticides	pesticides	and	
-V-1	supplements	supplements	food additives	food additives	were regulated like	

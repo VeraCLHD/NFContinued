@@ -1,9 +1,0 @@
-
-V-920	albert einstein	albert einstein	abdominal aortic aneurysm	abdominal aortic aneurysm	died of an	
-V-920	smoking	smoking	meat	meat	and	
-V-920	albert einstein	albert einstein	aortic aneurysm	aortic aneurysm	died of an abdominal	
-V-920	albert einstein	albert einstein	aneurysm	aneurysm	died of an abdominal aortic	
-V-920	atherosclerosis	atherosclerosis	hardening of the arteries	hardening of the arteries	is	
-V-920	atherosclerosis	atherosclerosis	arteries	arteries	is hardening of the	
-V-920	aorta	aorta	risk	risk	is at	
-V-920	arteries	arteries	aorta	aorta	can do—harden and stiffen the walls of our	

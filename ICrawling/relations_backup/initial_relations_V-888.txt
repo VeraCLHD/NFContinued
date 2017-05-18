@@ -1,7 +1,0 @@
-
-V-888	pregnant	pregnant	breastfeeding	breastfeeding	and	
-V-888	plant-based diets	plant-based diets	vitamin b12	vitamin b12	be tested for	
-V-888	blood	blood	urine	urine	or	
-V-888	vegans	vegans	b12	b12	had functional	
-V-888	doctors	doctors	methylmalonic acid	methylmalonic acid	do, a	
-V-888	symptoms	symptoms	infants	infants	be tested—especially in	

@@ -1,5 +1,0 @@
-
-V-702	children	children	ddt	ddt	get a bit more	
-V-702	meat	meat	fish	fish	and	
-V-702	pesticides	pesticides	children	children	in	
-V-702	pesticides	pesticides	children	children	do you think our	

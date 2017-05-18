@@ -1,9 +1,0 @@
-
-T-901	headaches	headaches	gluten	gluten	may be a symptom of other medical conditions such as	
-T-901	artificial sweeteners	artificial sweeteners	headaches	headaches	may cause	
-T-901	sweeteners	sweeteners	headaches	headaches	may cause	
-T-901	ginger	ginger	migraine	migraine	may help relieve	
-T-901	ginger	ginger	migraine headaches	migraine headaches	may help relieve	
-T-901	aspartame	aspartame	diet	diet	in	
-T-901	aspartame	aspartame	diet soda	diet soda	in	
-T-901	migraine headaches	migraine headaches	hot sauce	hot sauce	and	

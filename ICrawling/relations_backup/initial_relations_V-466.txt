@@ -1,9 +1,0 @@
-
-V-466	diet	diet	cancer	cancer	plays a role in	
-V-466	fat	fat	sugar	sugar	and	
-V-466	book	book	blood	blood	cites the work of	
-V-466	diet	diet	book	book	is promoted and justified in the	
-V-466	blood type diet	blood type diet	cancer	cancer	plays a role in	
-V-466	fruits	fruits	vegetables	vegetables	and	
-V-466	blood type diet	blood type diet	book	book	is promoted and justified in the	
-V-466	book	book	norway	norway	had been sold in	

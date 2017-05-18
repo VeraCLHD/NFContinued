@@ -1,6 +1,0 @@
-
-T-68	children	children	fat	fat	are eating too much	
-T-68	fruits	fruits	vegetables	vegetables	and	
-T-68	children	children	vegan	vegan	is a	
-T-68	milk	milk	infants	infants	is not recommended for any	
-T-68	diabetes	diabetes	heart disease	heart disease	and	

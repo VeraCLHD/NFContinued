@@ -1,5 +1,0 @@
-
-A-288	acrylamide	acrylamide	cooking	cooking	is a chemical formed by	
-A-288	ireland	ireland	algae	algae	started using a red	
-A-288	potato chips	potato chips	french fries	french fries	and	
-A-288	europe	europe	infant formula	infant formula	pulled it from	

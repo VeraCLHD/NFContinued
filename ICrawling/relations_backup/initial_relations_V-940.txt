@@ -1,8 +1,0 @@
-
-V-940	risk	risk	dementia	dementia	of	
-V-940	fruits	fruits	fruit juice	fruit juice	appeared to beat out	
-V-940	fruits	fruits	vegetables	vegetables	and	
-V-940	plant foods	plant foods	rutabagas	rutabagas	were tested—all the way down to	
-V-940	fruits	fruits	fruit	fruit	appeared to beat out	
-V-940	plant foods	plant foods	norway	norway	in	
-V-940	plant foods	plant foods	cognitive performance	cognitive performance	associated with better	

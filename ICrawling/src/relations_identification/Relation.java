@@ -20,7 +20,8 @@ public class Relation {
 	private String arg1Origin;
 	// the term2 like in text - original term like in list of terms
 	private String arg2Origin;
-	private String rel;
+	private String relationText;
+	private String typeOfRelation;
 	
 	
 	/**
@@ -44,7 +45,7 @@ public class Relation {
 		int result = 1;
 		result = prime * result + ((arg1Origin == null) ? 0 : arg1Origin.hashCode());
 		result = prime * result + ((arg2Origin == null) ? 0 : arg2Origin.hashCode());
-		result = prime * result + ((rel == null) ? 0 : rel.hashCode());
+		result = prime * result + ((relationText == null) ? 0 : relationText.hashCode());
 		return result;
 	}
 
@@ -67,10 +68,10 @@ public class Relation {
 				return false;
 		} else if (!arg2Origin.equals(other.arg2Origin))
 			return false;
-		if (rel == null) {
-			if (other.rel != null)
+		if (relationText == null) {
+			if (other.relationText != null)
 				return false;
-		} else if (!rel.equals(other.rel))
+		} else if (!relationText.equals(other.relationText))
 			return false;
 		return true;
 	}
@@ -92,11 +93,11 @@ public class Relation {
 	}
 
 	public String getRel() {
-		return rel;
+		return relationText;
 	}
 
 	public void setRel(String rel) {
-		this.rel = rel;
+		this.relationText = rel;
 	}
 	public String getArg1Origin() {
 		return arg1Origin;
@@ -112,5 +113,13 @@ public class Relation {
 
 	public void setArg2Origin(String arg2Origin) {
 		this.arg2Origin = arg2Origin;
+	}
+
+	public String getTypeOfRelation() {
+		return typeOfRelation;
+	}
+
+	public void setTypeOfRelation(String typeOfRelation) {
+		this.typeOfRelation = typeOfRelation;
 	}
 }

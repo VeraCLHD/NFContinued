@@ -1,7 +1,0 @@
-
-A-230	prevention	prevention	osteoporosis	osteoporosis	of	
-A-230	grains	grains	legumes	legumes	and	
-A-230	phytates	phytates	bone health	bone health	and	
-A-230	whole grains	whole grains	legumes	legumes	and	
-A-230	phytates	phytates	side effects	side effects	don’t have the	
-A-230	risk	risk	phytates	phytates	rotting them away (see	

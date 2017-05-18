@@ -1,6 +1,0 @@
-
-V-400	antibiotics	antibiotics	health	health	have become pivotal in safeguarding the overall	
-V-400	cdc	cdc	health	health	warn of a coming	
-V-400	mrsa	mrsa	meat	meat	gets into our homes on	
-V-400	bacteria	bacteria	drugs	drugs	can be come resistant to the	
-V-400	doctors	doctors	antibiotics	antibiotics	overprescribe	

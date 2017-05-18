@@ -1,6 +1,0 @@
-
-A-318	allergies	allergies	risk	risk	have a decreased	
-A-318	immune function	immune function	cancer	cancer	and	
-A-318	allergies	allergies	immune system	immune system	feel better by explaining that having an overactive	
-A-318	mushrooms	mushrooms	anti-inflammatory	anti-inflammatory	appear to have an “	
-A-318	toxins	toxins	raw	raw	in	

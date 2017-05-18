@@ -1,9 +1,0 @@
-
-T-305	meat	meat	dairy	dairy	and	
-T-305	stool size	stool size	breast health	breast health	has been associated with	
-T-305	risk	risk	meat	meat	should consider reducing their consumption of	
-T-305	beans	beans	greens	greens	and	
-T-305	fruits	fruits	vegetables	vegetables	and	
-T-305	plant-based diets	plant-based diets	breast cancer	breast cancer	may help prevent	
-T-305	phytonutrients	phytonutrients	flax	flax	in	
-T-305	exercise	exercise	sleep	sleep	and	

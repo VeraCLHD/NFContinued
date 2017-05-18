@@ -1,4 +1,0 @@
-
-V-281	treatment	treatment	migraine headaches	migraine headaches	of	
-V-281	treatment	treatment	migraine	migraine	of	
-V-281	pain	pain	ginger	ginger	before, but after the drug or	

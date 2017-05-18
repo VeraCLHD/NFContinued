@@ -1,8 +1,0 @@
-
-V-785	plant-based diet	plant-based diet	disease	disease	remained without	
-V-785	diet	diet	disease	disease	was highly effective in preventing relapse in crohn’s	
-V-785	anti-inflammatory	anti-inflammatory	immunosuppressive drugs	immunosuppressive drugs	and	
-V-785	plant-based diets	plant-based diets	inflammation	inflammation	decrease markers of	
-V-785	plant-based diets	plant-based diets	inflammation	inflammation	decrease	
-V-785	disease	disease	diet	diet	re-emerged in half of the standard	
-V-785	diet	diet	disease	disease	remained without	

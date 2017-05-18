@@ -1,2 +1,0 @@
-
-T-980	igf-1	igf-1	health	health	are no longer necessary and over-production may become detrimental to	

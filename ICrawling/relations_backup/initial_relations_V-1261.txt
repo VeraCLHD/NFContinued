@@ -1,5 +1,0 @@
-
-V-1261	diet	diet	cancer	cancer	and	
-V-1261	variety	variety	fruits	fruits	of	
-V-1261	risk	risk	meat	meat	goes up more than 50% for each 100 grams of	
-V-1261	nuts	nuts	beans	beans	and	

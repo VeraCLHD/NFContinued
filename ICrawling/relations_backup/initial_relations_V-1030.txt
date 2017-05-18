@@ -1,8 +1,0 @@
-
-V-1030	emotional health	emotional health	vegetarians	vegetarians	of	
-V-1030	health	health	vegetarians	vegetarians	of	
-V-1030	health	health	mood	mood	and	
-V-1030	chicken	chicken	eggs	eggs	and	
-V-1030	vegetarians	vegetarians	omnivores	omnivores	report significantly less negative emotion than	
-V-1030	emotional health	emotional health	mood	mood	and	
-V-1030	aspirin	aspirin	ibuprofen	ibuprofen	and	

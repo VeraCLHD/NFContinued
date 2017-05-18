@@ -1,5 +1,0 @@
-
-T-1730	spirulina	spirulina	blue-green algae	blue-green algae	is a type of	
-T-1730	supplements	supplements	liver	liver	were found to contain	
-T-1730	spirulina	spirulina	algae	algae	is a type of blue-green	
-T-1730	toxins	toxins	neurotoxins	neurotoxins	and	

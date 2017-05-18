@@ -1,7 +1,0 @@
-
-A-436	junk food	junk food	animal products	animal products	and	
-A-436	heart disease	heart disease	cholesterol	cholesterol	starts with	
-A-436	cholesterol	cholesterol	arteries	arteries	infiltrating the lining of the coronary	
-A-436	cholesterol	cholesterol	lower back pain	lower back pain	and	
-A-436	disease	disease	cholesterol	cholesterol	starts with	
-A-436	toxins	toxins	raw	raw	in	

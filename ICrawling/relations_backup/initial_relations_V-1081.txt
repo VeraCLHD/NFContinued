@@ -1,7 +1,0 @@
-
-V-1081	diet	diet	plant-based	plant-based	is best—but what kind of	
-V-1081	diet	diet	plant-based diet	plant-based diet	is best—but what kind of	
-V-1081	meat	meat	risk	risk	cut their	
-V-1081	plant-based diet	plant-based diet	plant-based	plant-based	is best—but what kind of	
-V-1081	meat	meat	risk	risk	cut out a quarter of their	
-V-1081	dairy	dairy	eggs	eggs	and	

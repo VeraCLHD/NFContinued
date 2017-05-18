@@ -1,8 +1,0 @@
-
-V-581	american heart association	american heart association	egg	egg	changed its recommendations to approve an	
-V-581	egg	egg	cholesterol	cholesterol	has less than 300 milligrams of	
-V-581	eggs	eggs	health	health	had no harmful effects on	
-V-581	eggs	eggs	cholesterol	cholesterol	are the most concentrated source of	
-V-581	smoking	smoking	health	health	and	
-V-581	risk	risk	heart attack	heart attack	of	
-V-581	coffee	coffee	eggs	eggs	black, and watch for hidden	

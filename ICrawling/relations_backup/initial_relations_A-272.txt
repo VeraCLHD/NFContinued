@@ -1,6 +1,0 @@
-
-A-272	vegetables	vegetables	children	children	are served to	
-A-272	children	children	vegetables	vegetables	experience different forms of	
-A-272	broccoli	broccoli	chocolate	chocolate	or a	
-A-272	fruits	fruits	vegetables	vegetables	and	
-A-272	kids	kids	vegetables	vegetables	were eating significantly more	

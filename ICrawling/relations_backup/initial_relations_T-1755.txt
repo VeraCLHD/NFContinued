@@ -1,8 +1,0 @@
-
-T-1755	vitamins	vitamins	antioxidant	antioxidant	may cause disturbances in the body’s natural	
-T-1755	cancer	cancer	disease	disease	could be considered an autoimmune	
-T-1755	plant foods	plant foods	antioxidants	antioxidants	containing	
-T-1755	stomach inflammation	stomach inflammation	lead	lead	can	
-T-1755	risk	risk	cancer	cancer	of	
-T-1755	risk	risk	stomach	stomach	of	
-T-1755	fruits	fruits	vegetables	vegetables	and	

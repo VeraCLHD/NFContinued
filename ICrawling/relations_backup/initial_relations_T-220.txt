@@ -1,8 +1,0 @@
-
-T-220	vitamin c	vitamin c	diet	diet	taken from	
-T-220	diet	diet	asthma	asthma	reduced	
-T-220	potatoes	potatoes	skin	skin	would be to boil them with their	
-T-220	fruits	fruits	vegetables	vegetables	and	
-T-220	asthma	asthma	carotenoid	carotenoid	had lower circulating	
-T-220	sweet potatoes	sweet potatoes	skin	skin	would be to boil them with their	
-T-220	dna damage	dna damage	oxidative stress	oxidative stress	and	

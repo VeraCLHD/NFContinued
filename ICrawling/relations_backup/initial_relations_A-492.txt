@@ -1,8 +1,0 @@
-
-A-492	heart attack	heart attack	bill clinton	bill clinton	features	
-A-492	last heart attack	last heart attack	bill clinton	bill clinton	features	
-A-492	risk	risk	obesity	obesity	of	
-A-492	heart disease	heart disease	foodborne illness	foodborne illness	is a “completely preventable	
-A-492	plant-based diet	plant-based diet	risk	risk	can lower the	
-A-492	disease	disease	foodborne illness	foodborne illness	is a “completely preventable	
-A-492	diet	diet	risk	risk	can lower the	

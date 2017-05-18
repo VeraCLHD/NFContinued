@@ -1,7 +1,0 @@
-
-A-454	disease	disease	california	california	in	
-A-454	disease	disease	california	california	found in	
-A-454	blood	blood	pus	pus	and	
-A-454	mad cow disease	mad cow disease	california	california	in	
-A-454	lameness	lameness	mastitis	mastitis	and	
-A-454	mad cow disease	mad cow disease	california	california	found in	

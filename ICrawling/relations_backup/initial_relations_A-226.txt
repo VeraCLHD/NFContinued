@@ -1,5 +1,0 @@
-
-A-226	tea	tea	hibiscus	hibiscus	or	
-A-226	fruits	fruits	vegetables	vegetables	and	
-A-226	green tea	green tea	hibiscus	hibiscus	or	
-A-226	peas	peas	carrots	carrots	and	

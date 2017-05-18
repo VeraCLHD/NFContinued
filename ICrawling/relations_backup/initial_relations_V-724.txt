@@ -1,5 +1,0 @@
-
-V-724	animal protein	animal protein	cancer	cancer	does, so you don’t get as many new	
-V-724	protein	protein	cancer	cancer	does, so you don’t get as many new	
-V-724	liver	liver	insulin-like growth factor 1	insulin-like growth factor 1	and	
-V-724	liver	liver	animal proteins	animal proteins	gets hit with a big load of incoming	

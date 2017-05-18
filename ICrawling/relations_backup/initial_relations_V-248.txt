@@ -1,8 +1,0 @@
-
-V-248	carcinogens	carcinogens	meat	meat	in	
-V-248	vegetables	vegetables	detoxifying enzymes	detoxifying enzymes	can boost	
-V-248	drugs	drugs	chemicals	chemicals	and	
-V-248	colon	colon	ammonia	ammonia	may release the amount of	
-V-248	fruits	fruits	vegetables	vegetables	and	
-V-248	animal protein	animal protein	fat	fat	and	
-V-248	protein	protein	fat	fat	and	

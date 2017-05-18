@@ -1,5 +1,0 @@
-
-A-459	atherosclerosis	atherosclerosis	heart attack	heart attack	can cause a	
-A-459	arteries	arteries	lead	lead	can	
-A-459	cholesterol	cholesterol	arteries	arteries	builds up not only inside the	
-A-459	medicine	medicine	women	women	entitled “hyperlipidemia and sexual function in premenopausal	

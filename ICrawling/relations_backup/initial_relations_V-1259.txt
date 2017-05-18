@@ -1,7 +1,0 @@
-
-V-1259	diet	diet	dairy	dairy	is	
-V-1259	cows	cows	pasteurization	pasteurization	are, because of	
-V-1259	milk	milk	calcium	calcium	represents a substantial source of	
-V-1259	dairy cows	dairy cows	pasteurization	pasteurization	are, because of	
-V-1259	bok choy	bok choy	calcium	calcium	is absorbed about twice as well as the	
-V-1259	calcium	calcium	milk	milk	in	

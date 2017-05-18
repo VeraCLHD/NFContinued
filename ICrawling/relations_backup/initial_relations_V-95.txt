@@ -1,8 +1,0 @@
-
-V-95	nausea	nausea	vomiting	vomiting	and	
-V-95	treatment	treatment	irritable bowel syndrome	irritable bowel syndrome	of	
-V-95	ginger	ginger	nausea	nausea	is associated with a five-fold likelihood of improvement in	
-V-95	ginger	ginger	treatment	treatment	is not effective for the	
-V-95	ginger	ginger	herbal	herbal	is one of the most commonly used	
-V-95	ginger	ginger	pain	pain	and	
-V-95	ginger	ginger	nausea	nausea	is most famous for its role in preventing and alleviating	

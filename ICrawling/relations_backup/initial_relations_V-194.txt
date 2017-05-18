@@ -1,9 +1,0 @@
-
-V-194	prevention	prevention	treatment	treatment	and	
-V-194	celery	celery	calories	calories	takes about 14	
-V-194	treatment	treatment	obesity	obesity	of	
-V-194	fiber	fiber	water	water	and	
-V-194	energy	energy	digestion	digestion	required for its	
-V-194	calories	calories	pasta	pasta	of	
-V-194	celery	celery	energy	energy	does not induce a negative	
-V-194	penn state	penn state	pasta	pasta	offered people a meal of	

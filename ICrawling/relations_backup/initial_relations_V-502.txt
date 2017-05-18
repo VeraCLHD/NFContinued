@@ -1,8 +1,0 @@
-
-V-502	meat	meat	antibiotics	antibiotics	raised without	
-V-502	bacteria	bacteria	organic	organic	in	
-V-502	bacteria	bacteria	penicillin	penicillin	developed an enzyme that ate	
-V-502	antibiotics	antibiotics	bacteria	bacteria	may be contaminated with multidrug-resistant	
-V-502	salmonella	salmonella	chicken	chicken	found contaminating retail	
-V-502	surgeon general	surgeon general	infectious diseases	infectious diseases	declared, “the war against	
-V-502	infections	infections	children	children	in	

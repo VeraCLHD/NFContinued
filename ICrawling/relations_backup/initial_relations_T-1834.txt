@@ -1,9 +1,0 @@
-
-T-1834	vegetables	vegetables	iodine	iodine	are considered good	
-T-1834	risk	risk	thyroid	thyroid	of	
-T-1834	antibodies	antibodies	meat	meat	in	
-T-1834	sea vegetables	sea vegetables	iodine	iodine	are considered good	
-T-1834	industrial pollutants	industrial pollutants	fish	fish	found mostly in	
-T-1834	risk	risk	thyroid cancer	thyroid cancer	of	
-T-1834	pollutants	pollutants	fish	fish	found mostly in	
-T-1834	fish	fish	meat	meat	and	

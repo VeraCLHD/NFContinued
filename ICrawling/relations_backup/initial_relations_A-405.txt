@@ -1,5 +1,0 @@
-
-A-405	fiber	fiber	oatmeal	oatmeal	found in 12 bowls of	
-A-405	vitamin e	vitamin e	nuts	nuts	found in 2 cups of	
-A-405	calcium	calcium	collard greens	collard greens	found in 5 cups of	
-A-405	vitamin c	vitamin c	oranges	oranges	found in 10	

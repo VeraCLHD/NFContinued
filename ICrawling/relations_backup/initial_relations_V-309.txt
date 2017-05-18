@@ -1,9 +1,0 @@
-
-V-309	nausea	nausea	vomiting	vomiting	and	
-V-309	peppermint	peppermint	nausea	nausea	cut	
-V-309	spearmint	spearmint	peppermint	peppermint	and	
-V-309	women	women	peppermint	peppermint	take deep whiffs of	
-V-309	vomiting	vomiting	alcohol	alcohol	are being actively treated when they inhale	
-V-309	peppermint	peppermint	nausea	nausea	are effective in reducing	
-V-309	surgery	surgery	nausea	nausea	is postoperative	
-V-309	women	women	drugs	drugs	 might not want to take	

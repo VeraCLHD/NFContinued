@@ -1,5 +1,0 @@
-
-V-597	flora	flora	immune system	immune system	can affect the development of our	
-V-597	risk	risk	upper respiratory tract infection	upper respiratory tract infection	of	
-V-597	pregnancy	pregnancy	asthma	asthma	may be associated with early	
-V-597	gut flora	gut flora	immune system	immune system	can affect the development of our	

@@ -1,5 +1,0 @@
-
-V-725	vegans	vegans	protein	protein	eating the same amount of	
-V-725	plant protein	plant protein	igf-1	igf-1	seemed to decrease	
-V-725	protein	protein	igf-1	igf-1	seemed to decrease	
-V-725	liver	liver	insulin-like growth factor 1	insulin-like growth factor 1	and	

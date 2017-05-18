@@ -1,7 +1,0 @@
-
-V-734	standard american diet	standard american diet	cancer growth	cancer growth	slows	
-V-734	blood	blood	cancer	cancer	is better at suppressing	
-V-734	diet	diet	cancer growth	cancer growth	slows	
-V-734	blood	blood	vegans	vegans	circulating within the bodies of	
-V-734	diet	diet	cancer	cancer	slows	
-V-734	standard american diet	standard american diet	cancer	cancer	slows	

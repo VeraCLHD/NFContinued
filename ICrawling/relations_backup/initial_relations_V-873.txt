@@ -1,9 +1,0 @@
-
-V-873	tempeh	tempeh	plant-based	plant-based	is probably the closest	
-V-873	bacon	bacon	tempeh	tempeh	and	
-V-873	carcinogens	carcinogens	bacon	bacon	have been discovered even in the vapors from fried	
-V-873	nitrosamines	nitrosamines	bacon	bacon	in	
-V-873	bacon	bacon	carcinogens	carcinogens	is so high that these	
-V-873	bacon	bacon	eggs	eggs	and	
-V-873	pork	pork	beef	beef	and	
-V-873	risk	risk	respiratory tract cancer	respiratory tract cancer	of	

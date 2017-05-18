@@ -1,9 +1,0 @@
-
-V-537	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	or	
-V-537	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	and	
-V-537	chocolate	chocolate	tomato juice	tomato juice	and	
-V-537	dark chocolate	dark chocolate	tomato juice	tomato juice	and	
-V-537	carbs	carbs	plant foods	plant foods	in	
-V-537	vitamin c	vitamin c	vitamin e	vitamin e	and	
-V-537	phytonutrients	phytonutrients	fruits	fruits	in	
-V-537	plant foods	plant foods	stress	stress	may decrease	

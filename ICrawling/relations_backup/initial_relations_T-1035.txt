@@ -1,7 +1,0 @@
-
-T-1035	meat	meat	uric acid	uric acid	contains high concentrations of	
-T-1035	symptoms	symptoms	rheumatoid arthritis	rheumatoid arthritis	of	
-T-1035	joint health	joint health	inflammation	inflammation	is minimizing	
-T-1035	turmeric	turmeric	symptoms	symptoms	may alleviate the	
-T-1035	juice	juice	gout	gout	may be useful in reducing	
-T-1035	health	health	inflammation	inflammation	is minimizing	

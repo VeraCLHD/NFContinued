@@ -1,6 +1,0 @@
-
-A-136	insulin resistance	insulin resistance	fasting blood sugars	fasting blood sugars	and	
-A-136	broccoli	broccoli	broccoli sprouts	broccoli sprouts	or	
-A-136	treatment	treatment	diabetes	diabetes	in	
-A-136	phytonutrients	phytonutrients	sprouting	sprouting	appear to peak around	
-A-136	bioavailability	bioavailability	broccoli	broccoli	of	

@@ -1,4 +1,0 @@
-
-V-912	beverage	beverage	tea	tea	could possibly be better than actually eating green	
-V-912	beverage	beverage	green tea	green tea	could possibly be better than actually eating	
-V-912	water	water	antioxidants	antioxidants	has zero	

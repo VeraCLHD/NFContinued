@@ -1,6 +1,0 @@
-
-T-670	cdc	cdc	women	women	found that the majority of	
-T-670	pollutants	pollutants	meat	meat	can be found in	
-T-670	children	children	cancer	cancer	exceeded	
-T-670	meat	meat	fish	fish	and	
-T-670	chemical pollutants	chemical pollutants	meat	meat	can be found in	

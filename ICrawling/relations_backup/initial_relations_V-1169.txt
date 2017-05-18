@@ -1,8 +1,0 @@
-
-V-1169	nuts	nuts	seeds	seeds	and	
-V-1169	peppers	peppers	stomach	stomach	don’t do much for	
-V-1169	peppers	peppers	stomach cancer	stomach cancer	don’t do much for	
-V-1169	variety	variety	vegetables	vegetables	of	
-V-1169	bell peppers	bell peppers	stomach cancer	stomach cancer	don’t do much for	
-V-1169	vegetables	vegetables	breast cancer	breast cancer	appear useless against	
-V-1169	bell peppers	bell peppers	stomach	stomach	don’t do much for	

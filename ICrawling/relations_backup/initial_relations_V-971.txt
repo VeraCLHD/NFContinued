@@ -1,7 +1,0 @@
-
-V-971	soda	soda	sodium bicarbonate	sodium bicarbonate	is	
-V-971	water	water	blood	blood	had no change in	
-V-971	baking soda	baking soda	sodium bicarbonate	sodium bicarbonate	is	
-V-971	water	water	blood pressure	blood pressure	had no change in	
-V-971	soda	soda	sodium	sodium	is	
-V-971	baking soda	baking soda	sodium	sodium	is	

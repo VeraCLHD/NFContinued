@@ -1,6 +1,0 @@
-
-V-3	weakness	weakness	vitamin d	vitamin d	is a common presenting symptom of	
-V-3	women	women	vitamin d	vitamin d	do get significant protection from falls with	
-V-3	muscles	muscles	vitamin d	vitamin d	lose	
-V-3	vitamin d	vitamin d	muscle strength	muscle strength	boosts global	
-V-3	vitamin d	vitamin d	lead	lead	doesn’t	

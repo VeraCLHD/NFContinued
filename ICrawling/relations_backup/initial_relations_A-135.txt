@@ -1,9 +1,0 @@
-
-A-135	fat	fat	sugar	sugar	and	
-A-135	sugar	sugar	fat	fat	or	
-A-135	angiogram	angiogram	chocolate	chocolate	found that dark	
-A-135	angiogram	angiogram	dark chocolate	dark chocolate	found that	
-A-135	sugar	sugar	chocolate	chocolate	in	
-A-135	chocolate	chocolate	cocoa	cocoa	and	
-A-135	cocoa	cocoa	blood	blood	is potentially weakened in the	
-A-135	health	health	nutrition	nutrition	and	

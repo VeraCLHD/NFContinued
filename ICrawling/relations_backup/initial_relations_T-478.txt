@@ -1,5 +1,0 @@
-
-T-478	coconut oil	coconut oil	saturated fat	saturated fat	is one of the rare plant sources of	
-T-478	coconut oil	coconut oil	coconut water	coconut water	is not to be confused with	
-T-478	medium-chain fatty acids	medium-chain fatty acids	coconut oil	coconut oil	in	
-T-478	coconut oil	coconut oil	fat	fat	is one of the rare plant sources of saturated	

@@ -1,8 +1,0 @@
-
-T-701	buttermilk	buttermilk	skim milk	skim milk	and	
-T-701	tumors	tumors	hormones	hormones	growing inside of us and so reducing our intake and production of growth-promoting	
-T-701	vegetables	vegetables	aromatase	aromatase	may inhibit	
-T-701	soy	soy	breast cancer	breast cancer	seems to be protective against	
-T-701	chemicals	chemicals	fish	fish	found contaminating	
-T-701	milk	milk	pregnant	pregnant	may come from	
-T-701	diet	diet	estrogen	estrogen	flushes excess	

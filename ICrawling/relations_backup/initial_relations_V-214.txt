@@ -1,6 +1,0 @@
-
-V-214	gut	gut	fat	fat	can cause	
-V-214	supplements	supplements	heart attack	heart attack	increase	
-V-214	supplements	supplements	heart attacks	heart attacks	suffered significantly more	
-V-214	women	women	calcium	calcium	randomized to	
-V-214	heart attack	heart attack	stroke	stroke	and	

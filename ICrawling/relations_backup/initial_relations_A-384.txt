@@ -1,7 +1,0 @@
-
-A-384	soda	soda	preterm birth	preterm birth	and	
-A-384	diet soda	diet soda	preterm birth	preterm birth	and	
-A-384	pears	pears	grapes	grapes	and	
-A-384	erythritol	erythritol	antioxidant	antioxidant	may be a sweet	
-A-384	erythritol	erythritol	artificial sweeteners	artificial sweeteners	does not appear to carry the adverse effects associated with other low and non-caloric natural and	
-A-384	erythritol	erythritol	sweeteners	sweeteners	does not appear to carry the adverse effects associated with other low and non-caloric natural and artificial	

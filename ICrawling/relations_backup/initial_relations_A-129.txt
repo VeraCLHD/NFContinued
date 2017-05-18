@@ -1,5 +1,0 @@
-
-A-129	vegetables	vegetables	boiled	boiled	are frequently	
-A-129	obesity	obesity	diabetes	diabetes	and	
-A-129	prevention	prevention	chronic disease	chronic disease	of	
-A-129	mortality	mortality	women	women	was much more evident in	

@@ -1,5 +1,0 @@
-
-V-798	meat industry	meat industry	fda	fda	petitioned the	
-V-798	meat	meat	poultry	poultry	and	
-V-798	chicken	chicken	turkey	turkey	and	
-V-798	viruses	viruses	toxin genes	toxin genes	spreading	

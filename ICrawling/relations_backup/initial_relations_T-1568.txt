@@ -1,7 +1,0 @@
-
-T-1568	fruits	fruits	fruit	fruit	and	
-T-1568	phytonutrients	phytonutrients	raisins	raisins	in	
-T-1568	cavities	cavities	medical community	medical community	have been widely discussed in the	
-T-1568	phytonutrient	phytonutrient	skin	skin	found in grape-flesh or	
-T-1568	currants	currants	golden raisins	golden raisins	and	
-T-1568	raisins	raisins	bacteria	bacteria	appear to inhibit cavity-promoting activity in oral	

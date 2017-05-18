@@ -1,9 +1,0 @@
-
-V-497	bioavailability	bioavailability	curcumin	curcumin	of	
-V-497	tea	tea	asthma	asthma	has been used traditionally to treat	
-V-497	curcumin	curcumin	bioavailability	bioavailability	consumed, but the	
-V-497	curcumin	curcumin	turmeric	turmeric	is responsible for the yellow color of	
-V-497	symptoms	symptoms	malaria	malaria	of	
-V-497	oils	oils	turmeric	turmeric	found in	
-V-497	turmeric	turmeric	curcumin	curcumin	is an active compound called	
-V-497	disease	disease	raw	raw	was identified and the	

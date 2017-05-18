@@ -1,9 +1,0 @@
-
-A-138	bioavailability	bioavailability	curcumin	curcumin	of	
-A-138	cancer cells	cancer cells	curcumin	curcumin	are laid to waste as more and more	
-A-138	curcumin	curcumin	turmeric	turmeric	or	
-A-138	breast cancer	breast cancer	skin	skin	can ulcerate right through the	
-A-138	cancer	cancer	arsenic	arsenic	caused by	
-A-138	mouth	mouth	stomach	stomach	or	
-A-138	skin cancer	skin cancer	arsenic	arsenic	caused by	
-A-138	cancer	cancer	skin	skin	can ulcerate right through the	

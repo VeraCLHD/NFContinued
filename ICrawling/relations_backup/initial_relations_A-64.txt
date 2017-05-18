@@ -1,7 +1,0 @@
-
-A-64	meat	meat	dairy	dairy	and	
-A-64	mediterranean diet	mediterranean diet	diet	diet	is a	
-A-64	mediterranean diet	mediterranean diet	risk	risk	may affect not only	
-A-64	cognition	cognition	memory	memory	and	
-A-64	diet	diet	risk	risk	might be another important modifiable	
-A-64	diet	diet	risk	risk	was related to lower	

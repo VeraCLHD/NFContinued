@@ -1,5 +1,0 @@
-
-V-499	curcumin	curcumin	turmeric	turmeric	is what makes	
-V-499	curry powder	curry powder	curcumin	curcumin	yellow, and	
-V-499	plants	plants	health	health	have played a pivotal role in the	
-V-499	turmeric	turmeric	curry powder	curry powder	is what makes	

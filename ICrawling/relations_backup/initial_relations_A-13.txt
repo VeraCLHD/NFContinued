@@ -1,6 +1,0 @@
-
-A-13	phytonutrients	phytonutrients	oats	oats	found in	
-A-13	oatmeal	oatmeal	skin	skin	has been used for centuries as a topical soothing agent on the	
-A-13	cetuximab	cetuximab	cancer	cancer	is often given for metastatic colorectal	
-A-13	cetuximab	cetuximab	colorectal cancer	colorectal cancer	is often given for metastatic	
-A-13	oatmeal	oatmeal	chemotherapy	chemotherapy	is so powerful that it can clear up some of the ravages of	

@@ -1,9 +1,0 @@
-
-V-624	lignans	lignans	prostate	prostate	can slow the growth of	
-V-624	western diet	western diet	animal protein	animal protein	is one in which	
-V-624	animal protein	animal protein	fat	fat	and	
-V-624	in vitro studies	in vitro studies	lignans	lignans	have shown 	
-V-624	diet	diet	animal protein	animal protein	is one in which	
-V-624	lignans	lignans	prostate cancer	prostate cancer	can slow the growth of	
-V-624	animal proteins	animal proteins	fat	fat	and	
-V-624	protein	protein	fat	fat	and	

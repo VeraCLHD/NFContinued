@@ -1,8 +1,0 @@
-
-T-1932	zeaxanthin	zeaxanthin	phytonutrients	phytonutrients	are two yellow-pigmented	
-T-1932	risk	risk	cataracts	cataracts	of	
-T-1932	erectile dysfunction	erectile dysfunction	vision	vision	may cause	
-T-1932	diabetes	diabetes	blindness	blindness	is the number-one cause of adult-onset	
-T-1932	phytonutrients	phytonutrients	anthocyanins	anthocyanins	known as	
-T-1932	pregnant	pregnant	vision	vision	may have significantly better	
-T-1932	babies	babies	women	women	of	

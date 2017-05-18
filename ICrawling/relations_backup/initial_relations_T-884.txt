@@ -1,7 +1,0 @@
-
-T-884	ham	ham	health	health	have deleterious effects on our	
-T-884	ham	ham	pork	pork	is	
-T-884	risk	risk	botulism	botulism	of	
-T-884	botulism	botulism	produce	produce	may	
-T-884	nitrates	nitrates	nitrite	nitrite	and	
-T-884	risk	risk	lymphoma	lymphoma	of	

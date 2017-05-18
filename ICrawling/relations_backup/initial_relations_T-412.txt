@@ -1,5 +1,0 @@
-
-T-412	prevention	prevention	treatment	treatment	and	
-T-412	nuts	nuts	seeds	seeds	and	
-T-412	treatment	treatment	turmeric	turmeric	include: 	
-T-412	cancer prevention	cancer prevention	treatment	treatment	and	

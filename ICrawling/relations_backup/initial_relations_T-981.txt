@@ -1,5 +1,0 @@
-
-T-981	arthritis	arthritis	plant-based	plant-based	may be prevented or even possibly reversed by a	
-T-981	chronic diseases	chronic diseases	inflammation	inflammation	associated with	
-T-981	arthritis	arthritis	plant-based diet	plant-based diet	may be prevented or even possibly reversed by a	
-T-981	chicken	chicken	eggs	eggs	and	

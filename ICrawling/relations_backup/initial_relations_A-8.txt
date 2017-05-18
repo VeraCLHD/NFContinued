@@ -1,8 +1,0 @@
-
-A-8	fructose	fructose	blood	blood	may actually benefit	
-A-8	cans	cans	soda	soda	of	
-A-8	fructose	fructose	sugar	sugar	and	
-A-8	fructose	fructose	blood sugar	blood sugar	may actually benefit	
-A-8	blood pressure	blood pressure	triglycerides	triglycerides	or	
-A-8	fruit	fruit	diabetes	diabetes	should not be restricted in patients with type 2	
-A-8	fat	fat	diabetes	diabetes	may be more of a problem when it comes to	

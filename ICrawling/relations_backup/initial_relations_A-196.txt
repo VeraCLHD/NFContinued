@@ -1,9 +1,0 @@
-
-A-196	treatment	treatment	obesity	obesity	of	
-A-196	exercise	exercise	weight gain	weight gain	can prevent	
-A-196	diet	diet	exercise	exercise	or	
-A-196	calories	calories	physical activity	physical activity	are burned by	
-A-196	exercise	exercise	obesity	obesity	more, but the priorities for reversing the	
-A-196	diabetes	diabetes	heart disease	heart disease	and	
-A-196	physical activity	physical activity	obesity	obesity	has any role whatsoever in the epidemic of	
-A-196	children	children	calories	calories	are currently eating about an extra 350	

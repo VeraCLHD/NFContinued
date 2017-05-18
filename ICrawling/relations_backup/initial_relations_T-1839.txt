@@ -1,4 +1,0 @@
-
-T-1839	tofu	tofu	breast cancer	breast cancer	is associated with improved survival and lower recurrence rates in	
-T-1839	diet	diet	ldl cholesterol	ldl cholesterol	may reduce	
-T-1839	diet	diet	ldl	ldl	may reduce	

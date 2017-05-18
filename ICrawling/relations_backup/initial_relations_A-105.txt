@@ -1,8 +1,0 @@
-
-A-105	gluten	gluten	wheat	wheat	caused them adverse reactions (they’re referred to in the literature as“pwawgs,” people who avoid	
-A-105	kale	kale	blueberries	blueberries	or	
-A-105	syndrome	syndrome	cayenne pepper	cayenne pepper	and	
-A-105	symptoms	symptoms	gluten	gluten	of	
-A-105	irritable bowel syndrome	irritable bowel syndrome	cayenne pepper	cayenne pepper	and	
-A-105	fructose	fructose	lactose	lactose	or	
-A-105	symptoms	symptoms	gluten	gluten	improve, stick with it and maybe re-challenge with	

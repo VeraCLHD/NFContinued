@@ -1,9 +1,0 @@
-
-V-634	united states	united states	neurotoxic chemicals	neurotoxic chemicals	are contaminated with	
-V-634	diet	diet	risk	risk	reduce	
-V-634	disease	disease	exercise	exercise	is	
-V-634	disease	disease	risk	risk	tended to find increased	
-V-634	united states	united states	chemicals	chemicals	are contaminated with neurotoxic	
-V-634	toxins	toxins	dairy	dairy	are present at low levels in	
-V-634	pcbs	pcbs	monsanto	monsanto	found in	
-V-634	pollutants	pollutants	pesticides	pesticides	and	

@@ -1,6 +1,0 @@
-
-V-650	meats	meats	poultry	poultry	or	
-V-650	heterocyclic amines	heterocyclic amines	meats	meats	have been reported in cooked	
-V-650	vegetarian	vegetarian	phip	phip	was reported in a study comparing the levels of	
-V-650	heterocyclic amines	heterocyclic amines	eggs	eggs	have been reported in fried	
-V-650	vegetarians	vegetarians	meat	meat	and	

@@ -1,9 +1,0 @@
-
-V-482	poultry	poultry	stomach	stomach	sits in our	
-V-482	disease	disease	death	death	and	
-V-482	treatment	treatment	cardiovascular disease	cardiovascular disease	in	
-V-482	heart disease	heart disease	death	death	and	
-V-482	oxidation	oxidation	fat	fat	of	
-V-482	chickens	chickens	blood	blood	are bled of only about half their	
-V-482	supplements	supplements	antioxidant	antioxidant	are not a good substitute for the very complex	
-V-482	diet	diet	risk	risk	and	

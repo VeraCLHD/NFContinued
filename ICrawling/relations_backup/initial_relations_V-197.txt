@@ -1,8 +1,0 @@
-
-V-197	disease	disease	saturated fat	saturated fat	may just reflect the earlier low levels of	
-V-197	heart disease	heart disease	fat	fat	may just reflect the earlier low levels of saturated	
-V-197	ischemic heart disease	ischemic heart disease	fat	fat	may just reflect the earlier low levels of saturated	
-V-197	disease	disease	fat	fat	may just reflect the earlier low levels of saturated	
-V-197	ischemic heart disease	ischemic heart disease	saturated fat	saturated fat	may just reflect the earlier low levels of	
-V-197	supplements	supplements	united states	united states	have reached $30 million in the	
-V-197	heart disease	heart disease	saturated fat	saturated fat	may just reflect the earlier low levels of	

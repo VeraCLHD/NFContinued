@@ -1,7 +1,0 @@
-
-V-1298	algae	algae	produce	produce	can	
-V-1298	blue-green algae	blue-green algae	produce	produce	can	
-V-1298	spirulina	spirulina	muscles	muscles	may dissolve our	
-V-1298	algae	algae	spirulina	spirulina	and	
-V-1298	blue-green algae	blue-green algae	spirulina	spirulina	and	
-V-1298	bmaa	bmaa	brains	brains	is in the	

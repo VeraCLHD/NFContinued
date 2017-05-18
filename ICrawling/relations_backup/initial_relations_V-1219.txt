@@ -1,8 +1,0 @@
-
-V-1219	sugar	sugar	nutrition	nutrition	have less	
-V-1219	tea	tea	coffee	coffee	or	
-V-1219	american dietetic association	american dietetic association	antioxidant	antioxidant	measured the	
-V-1219	agave nectar	agave nectar	nutrition	nutrition	have less	
-V-1219	date sugar	date sugar	sugar	sugar	is not really	
-V-1219	american dietetic association	american dietetic association	antioxidant content	antioxidant content	measured the	
-V-1219	molasses	molasses	date sugar	date sugar	and	

@@ -1,7 +1,0 @@
-
-T-1404	peanuts	peanuts	seeds	seeds	are part of the legume family (edible	
-T-1404	peanuts	peanuts	resveratrol	resveratrol	are a natural source of	
-T-1404	pregnant	pregnant	children	children	does not appear to affect	
-T-1404	nuts	nuts	longevity	longevity	can extend	
-T-1404	nuts	nuts	cancer	cancer	have been shown to inhibit	
-T-1404	nuts	nuts	cancer growth	cancer growth	have been shown to inhibit	

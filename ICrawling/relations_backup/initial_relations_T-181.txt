@@ -1,8 +1,0 @@
-
-T-181	mutation	mutation	postmenopausal	postmenopausal	and	
-T-181	bacon	bacon	saturated fat	saturated fat	contains a	
-T-181	risk	risk	copd	copd	of	
-T-181	preservatives	preservatives	bacteria	bacteria	and	
-T-181	vitamin c	vitamin c	bacon	bacon	added to “enrich”	
-T-181	bacon	bacon	fat	fat	contains a saturated	
-T-181	plants	plants	antioxidants	antioxidants	tend to have significantly more	

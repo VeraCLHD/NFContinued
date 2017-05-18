@@ -1,8 +1,0 @@
-
-V-1089	vegetarian	vegetarian	rheumatoid arthritis	rheumatoid arthritis	may reduce our chances of getting	
-V-1089	eggs	eggs	sugar	sugar	or a	
-V-1089	antibodies	antibodies	inflammation	inflammation	may migrate into our joints and trigger	
-V-1089	chemo	chemo	steroids	steroids	and	
-V-1089	bacon	bacon	eggs	eggs	and	
-V-1089	vegetarian	vegetarian	arthritis	arthritis	may reduce our chances of getting rheumatoid	
-V-1089	symptoms	symptoms	plant proteins	plant proteins	disappeared when she just ate	

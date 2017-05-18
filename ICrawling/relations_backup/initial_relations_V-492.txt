@@ -1,8 +1,0 @@
-
-V-492	multivitamins	multivitamins	disease	disease	are a “distraction from effective [cardiovascular	
-V-492	multivitamins	multivitamins	cardiovascular disease	cardiovascular disease	are a “distraction from effective [	
-V-492	multivitamins	multivitamins	heart disease	heart disease	appear to offer “no consistent evidence” of benefit for	
-V-492	health	health	fruits	fruits	would be eating more	
-V-492	vitamins	vitamins	minerals	minerals	and	
-V-492	fruits	fruits	vegetables	vegetables	and	
-V-492	americans	americans	supplements	supplements	spend billions on such 	

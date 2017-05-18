@@ -1,6 +1,0 @@
-
-T-1794	sweeteners	sweeteners	mood	mood	have been associated with a number of adverse effects including	
-T-1794	sweeteners	sweeteners	lead	lead	may actually	
-T-1794	fruit	fruit	sugar	sugar	contains natural	
-T-1794	sugar	sugar	fructose	fructose	and	
-T-1794	molasses	molasses	erythritol	erythritol	and	

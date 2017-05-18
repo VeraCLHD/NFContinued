@@ -1,9 +1,0 @@
-
-A-159	nuts	nuts	olive oil	olive oil	replaced	
-A-159	nuts	nuts	fat	fat	make us	
-A-159	meat	meat	dairy	dairy	and	
-A-159	walnuts	walnuts	meat	meat	replaced	
-A-159	nuts	nuts	death	death	may help prevent	
-A-159	diet	diet	endothelial	endothelial	known to have a negative effect on	
-A-159	nuts	nuts	obesity	obesity	and	
-A-159	walnuts	walnuts	endothelial	endothelial	showed an improvement in	

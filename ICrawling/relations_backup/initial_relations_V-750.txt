@@ -1,8 +1,0 @@
-
-V-750	phytonutrients	phytonutrients	nuts	nuts	in	
-V-750	grape juice	grape juice	sugar	sugar	has more	
-V-750	grape juice	grape juice	sugar	sugar	contains the equivalent of 20 spoonfuls of	
-V-750	phytonutrients	phytonutrients	fat oxidation	fat oxidation	are capable of increasing “thermogenesis [heat generation] and	
-V-750	juice	juice	sugar	sugar	contains the equivalent of 20 spoonfuls of	
-V-750	juice	juice	sugar	sugar	has more	
-V-750	phytonutrients	phytonutrients	fat	fat	are capable of increasing “thermogenesis [heat generation] and	

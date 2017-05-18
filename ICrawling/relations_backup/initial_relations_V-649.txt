@@ -1,4 +1,0 @@
-
-V-649	phip	phip	carcinogen	carcinogen	was already established as a	
-V-649	heterocyclic amines	heterocyclic amines	meats	meats	found in high-temperature cooked	
-V-649	carcinogen	carcinogen	bacon	bacon	found predominantly in fried	

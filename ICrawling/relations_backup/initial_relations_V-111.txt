@@ -1,8 +1,0 @@
-
-V-111	constipation	constipation	risk	risk	may increase the	
-V-111	variety	variety	phytonutrients	phytonutrients	of	
-V-111	fruits	fruits	vegetables	vegetables	and	
-V-111	blueberries	blueberries	strawberries	strawberries	and	
-V-111	variety	variety	flavonoids	flavonoids	of	
-V-111	variety	variety	pesticides	pesticides	of	
-V-111	berries	berries	risk	risk	were associated with significantly lower	

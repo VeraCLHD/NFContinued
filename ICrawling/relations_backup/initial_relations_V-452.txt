@@ -1,8 +1,0 @@
-
-V-452	pollutants	pollutants	blood	blood	circulating in people’s	
-V-452	pollutants	pollutants	animal foods	animal foods	come “from	
-V-452	obesity	obesity	diabetes	diabetes	and	
-V-452	diabetes	diabetes	obesity	obesity	conferred by	
-V-452	risk	risk	diabetes	diabetes	of	
-V-452	obesity	obesity	pollutants	pollutants	is attributable to [these]	
-V-452	obesity	obesity	diabetes	diabetes	predisposes us to	

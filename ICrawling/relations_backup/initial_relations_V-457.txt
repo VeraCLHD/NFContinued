@@ -1,7 +1,0 @@
-
-V-457	side effects	side effects	kidney	kidney	may include	
-V-457	side effects	side effects	kidney failure	kidney failure	may include	
-V-457	eczema	eczema	vegetarian	vegetarian	were placed on a	
-V-457	kidney failure	kidney failure	cancer	cancer	and	
-V-457	diet	diet	asthma	asthma	could improve or cure	
-V-457	diet	diet	side effects	side effects	is that there are only good	

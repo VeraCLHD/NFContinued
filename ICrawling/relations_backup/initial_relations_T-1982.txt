@@ -1,7 +1,0 @@
-
-T-1982	mothers	mothers	newborns	newborns	breastfeed	
-T-1982	drugs	drugs	health	health	will no longer work and urged the public	
-T-1982	tanning beds	tanning beds	alcoholic beverages	alcoholic beverages	and	
-T-1982	patulin	patulin	apple juice	apple juice	in	
-T-1982	patulin	patulin	apple	apple	in	
-T-1982	drugs	drugs	public health	public health	will no longer work and urged the	

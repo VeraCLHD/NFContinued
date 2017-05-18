@@ -1,6 +1,0 @@
-
-A-438	broccoli	broccoli	bladder cancer	bladder cancer	and	
-A-438	broccoli	broccoli	bladder	bladder	and	
-A-438	fda	fda	health	health	and	
-A-438	supplements	supplements	pregnancy	pregnancy	contraindicated in	
-A-438	flax	flax	fecal flora	fecal flora	and	

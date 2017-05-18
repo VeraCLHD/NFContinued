@@ -1,7 +1,0 @@
-
-V-307	risk	risk	stroke	stroke	of	
-V-307	cholesterol	cholesterol	blood sugar	blood sugar	and	
-V-307	fiber	fiber	obesity	obesity	helps prevent	
-V-307	cholesterol	cholesterol	blood	blood	and	
-V-307	meat	meat	fat	fat	and	
-V-307	fiber	fiber	cholesterol	cholesterol	helps lower	

@@ -1,7 +1,0 @@
-
-V-848	meat	meat	cancer	cancer	might cause	
-V-848	vegetarian	vegetarian	cancer	cancer	may reduce	
-V-848	fruits	fruits	vegetables	vegetables	and	
-V-848	meat	meat	cancer	cancer	and	
-V-848	obesity	obesity	vegetarians	vegetarians	is not really fair to the	
-V-848	exercise	exercise	diesel fumes	diesel fumes	more, or smoke less, or inhale less	

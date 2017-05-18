@@ -1,6 +1,0 @@
-
-V-484	chemo	chemo	radiation	radiation	and	
-V-484	drugs	drugs	anxiety	anxiety	used for the relief of	
-V-484	orange	orange	anxiety	anxiety	was diffused in[to] the waiting room…” it appeared to have “a relaxant effect”—less	
-V-484	aromatherapy	aromatherapy	oils	oils	is the use of concentrated essential	
-V-484	oils	oils	plants	plants	extracted from…	

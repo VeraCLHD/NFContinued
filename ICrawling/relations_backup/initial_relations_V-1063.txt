@@ -1,4 +1,0 @@
-
-V-1063	flavonoids	flavonoids	chocolate	chocolate	in	
-V-1063	phytonutrients	phytonutrients	soy	soy	in	
-V-1063	risk	risk	isoflavones	isoflavones	are called	

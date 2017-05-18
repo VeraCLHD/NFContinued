@@ -1,4 +1,0 @@
-
-T-1130	diet	diet	copd	copd	may help prevent and treat	
-T-1130	frying meat	frying meat	risk	risk	may raise the	
-T-1130	plant-based diet	plant-based diet	copd	copd	may help prevent and treat	

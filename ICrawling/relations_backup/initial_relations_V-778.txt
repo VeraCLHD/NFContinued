@@ -1,7 +1,0 @@
-
-V-778	cancer cells	cancer cells	green tea	green tea	found that	
-V-778	cancer cells	cancer cells	tea	tea	found that green	
-V-778	warts	warts	tea	tea	was obtained in more than half the patients with a 10% or 15% green	
-V-778	genital warts	genital warts	tea	tea	was obtained in more than half the patients with a 10% or 15% green	
-V-778	phytonutrients	phytonutrients	cans	cans	appear to open	
-V-778	cans	cans	cancer	cancer	of	

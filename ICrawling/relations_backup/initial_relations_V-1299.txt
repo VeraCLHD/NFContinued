@@ -1,5 +1,0 @@
-
-V-1299	heart disease	heart disease	cancer	cancer	and	
-V-1299	disease	disease	cancer	cancer	and	
-V-1299	constipation	constipation	risk	risk	can increase	
-V-1299	plant foods	plant foods	risk	risk	is about more than just reducing our	

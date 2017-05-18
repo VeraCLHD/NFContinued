@@ -1,5 +1,0 @@
-
-V-977	paclitaxel	paclitaxel	cytoskeleton	cytoskeleton	can do: clumps up their	
-V-977	fda	fda	avocado	avocado	warns about the toxicity of	
-V-977	pets	pets	chocolate	chocolate	evidently, but then again, neither is	
-V-977	diet	diet	cholesterol	cholesterol	see a significant improvement in their	

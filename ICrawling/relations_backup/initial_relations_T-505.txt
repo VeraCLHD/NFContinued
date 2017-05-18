@@ -1,7 +1,0 @@
-
-T-505	prunes	prunes	constipation	constipation	may be especially helpful in treating	
-T-505	fiber	fiber	plants	plants	found in	
-T-505	tumor	tumor	sweeteners	sweeteners	promoting effect.certain artificial	
-T-505	tumor	tumor	artificial sweeteners	artificial sweeteners	promoting effect.certain	
-T-505	constipation	constipation	fiber	fiber	is essentially nonexistent.in addition to	
-T-505	bowel movements	bowel movements	risk	risk	appear to be at lower	

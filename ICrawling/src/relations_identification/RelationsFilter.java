@@ -1,6 +1,9 @@
 package relations_identification;
 
+import java.text.NumberFormat;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.regex.Matcher;
@@ -16,25 +19,53 @@ import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
 import linguistic_processing.SentenceSplitter;
 
+
 public class RelationsFilter {
 	private static List<String> possiblePatterns = new ArrayList<String>();
 	
 	public RelationsFilter() {
 		//only conjunction between both terms
-		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|appear.*\\sto|cause.*");
-		possiblePatterns.add("(,\\sand|or\\s\\w?\\b?)*");
+		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|.?appear.*\\sto|cause.*");
+		possiblePatterns.add("(,\\s(and|or)\\s(\\w*\\b))*");
 		possiblePatterns.add("may\\s+be.*");
+		possiblePatterns.add("(may|appear.*)\\s(\\w*\\b){0,6}");
 		// is-a patterns
 		// example: is an active compound called ...
 		possiblePatterns.add("(is\\s+.+|be\\s+.+|was\\s+.+)called.+");
-		//bow lute, such as Bambara ndang 
-		possiblePatterns.add("such\\sas\\s\\w*\\b*(or|and)?\\s\\w*\\b*");
-		possiblePatterns.add(",\\ssuch\\sas\\s\\w*\\b*(or|and)?\\s\\w*\\b*");
-		possiblePatterns.add("such\\s.*as\\s\\w*\\b*(or|and)?\\s\\w*\\b*");
+		possiblePatterns.add(",\\s?called.+");
+		
 		//... temples, treasuries, and other important civic buildings
-		possiblePatterns.add("(\\w*\\b*),\\s*(\\w*\\b*)*(or|and)?.*");
+		possiblePatterns.add("(\\w*\\b),\\s+(\\w*\\b)*(or|and)?.*");
 		//most European countries, especially
-		possiblePatterns.add("(\\w*\\b*),\\s*(including|especially)(\\w*\\b*)*(or|and)?.*");
+		possiblePatterns.add("(\\w*\\b)?,\\s+(including|especially)(\\w*\\b)*(or|and)?.*");
+		possiblePatterns.add("like\\s?");
+		possiblePatterns.add("than\\s?");
+		//possiblePatterns.add(",?\\s?the");
+	}
+	
+	public static boolean isARelation(String candidate, Relation relation){
+		boolean result = false;
+		List<String> suchAs = new ArrayList<String>();
+		// is-a patterns
+		//bow lute, such as Bambara ndang 
+		suchAs.add("such\\sas\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
+		suchAs.add(",\\ssuch\\sas\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
+		suchAs.add("such\\s.*as\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
+		suchAs.add("such\\sas\\s?");
+		
+		for(String pattr: suchAs){
+			Pattern pattern = Pattern.compile(pattr);
+			Matcher m = pattern.matcher(candidate);
+			boolean current = m.matches();
+			if (current == true){
+				result = true;
+				relation.setTypeOfRelation("SUCH-AS");
+				break;
+			}
+			
+		}
+
+		return result;
 	}
 	
 	public static boolean matchesFixedConnections(String candidate){
@@ -79,14 +110,14 @@ public class RelationsFilter {
 	 * @param candidate
 	 * @return
 	 */
-	public static boolean startsWithN(List<String> pos, String candidate){
-		String pos0 = null;
+	public static boolean isIncompleteNP(List<String> pos, String candidate){
+		
 		boolean result = false;
 		
 		    if(!pos.isEmpty()){
 		    	// avoids extracting incomplete noun phrases: if the first word of candidate is noun or the last is noun or adjective
-		    	result = pos.get(0).matches("NN|NNS|NNP|NNPS") || pos.get(pos.size()-1).matches("NN|NNS|NNP|NNPS|JJ|JJR|JJS");
-		    	pos0 = pos.get(0);//;
+		    	result = pos.get(0).matches("NN|NNS|NNP|NNPS") || pos.get(pos.size()-1).matches("NN|NNS|NNP|NNPS|POS|JJ|JJR|JJS");
+
 		    }
 		
 		return result;
@@ -98,6 +129,36 @@ public class RelationsFilter {
 		    if(!pos.isEmpty()){
 		    	// if the candidate starts with a verb, then it is a verbal phrase
 		    	if(pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD") == true && !candidate.contains(",") && !candidate.contains(";")){
+		    		result = true;
+		    	}
+			
+		}
+	    
+	    
+		return result;
+	}
+	
+	public static boolean startsWithPrepAndNotOtherSentence(List<String> pos, String candidate){
+		boolean result = false;
+		
+		    if(!pos.isEmpty()){
+		    	// if the candidate starts with a verb, then it is a verbal phrase
+		    	if(pos.get(0).matches("IN|TO") == true && !candidate.contains(",") && !candidate.contains(";")){
+		    		result = true;
+		    	}
+			
+		}
+	    
+	    
+		return result;
+	}
+	
+	public static boolean startsWithAdjAndNotOtherSentence(List<String> pos, String candidate){
+		boolean result = false;
+		
+		    if(!pos.isEmpty()){
+		    	// if the candidate starts with a verb, then it is a verbal phrase
+		    	if(pos.get(0).matches("JJ|JJR|JJS") == true && !candidate.contains(",") && !candidate.contains(";")){
 		    		result = true;
 		    	}
 			
@@ -121,18 +182,51 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	public static boolean isOrStartsWithPunct(String candidate){
+	public static boolean candidateContainsOtherTerms(String term1, String term2){
 		boolean result = false;
-		;
-		if(candidate.startsWith(",") || candidate.startsWith(";") || candidate.matches("(\\p{Punct}+)")){
+		Set<String> set = InitialRelationsManager.allTermsAndVariations;
+		
+		int index = StringUtils.indexOfAny(term1, set.toArray(new String[set.size()]));
+		    if(index !=-1){
+		    	result = true;
+			
+		}
+	    
+	    
+		return result;
+	}
+	
+	
+	public static boolean isOrStartsWithRelevantPunct(String candidate, Relation relation){
+		boolean result = false;
+		
+		if(candidate.contains(":") || candidate.contains(";")){
+			result = false;
+		}
+		// include conjunctions via "&"
+		if(candidate.matches("&") || candidate.matches(",\\s(\\w*\\b)?\\s?(&|and|or)?\\s?(\\w*\\b)*") 
+				|| candidate.matches(",?\\s?as\\swell\\sas\\s?")){
+			relation.setTypeOfRelation("AND-CONJ");
+			result = true;
+		} 
+		// series of items should be included as well -> relevant
+		if (candidate.matches(",\\s?(\\w*\\b)*\\s?,?\\s?")){
+			relation.setTypeOfRelation("LIST");
 			result = true;
 		}
+		
+		
+		if (candidate.equals("-")){
+			relation.setTypeOfRelation("-COMPOUND");
+			result = true;
+				}
+		
 		return result;
 	}
 	
 	// When the word is health and the match is healthy, the connection starts with y"
 	//
-	public static boolean startsWithSingleChar(String candidate){
+	public static boolean isSingleChar(String candidate){
 		boolean result = false;
 		if(candidate.matches("\\w(,)?\\s.*")){
 			result = true;
@@ -140,13 +234,89 @@ public class RelationsFilter {
 		
 		return result;
 	}
+	
 
+	public static boolean isEmpty(String candidate, Relation relation){
+		boolean result = false;
+		
+		if(candidate.isEmpty() || candidate.matches("\\s+") || candidate.equals(" ")){
+			result = true;
+			// STRONG stands for nothing between the terms
+			relation.setTypeOfRelation("STRONG");
+		}
+		
+		return result;
+		
+			
+	}
+	
+	public static boolean isPreposition(String candidate, Relation relation, List<String> pos){
+		boolean result = false;
+		// example: of, in
+		if(!pos.isEmpty()){
+	    	// if the candidate starts with a verb, then it is a verbal phrase
+	    	if(pos.get(0).matches("IN|TO") == true && pos.size() == 1){
+	    		
+	    		result = true;
+	    		relation.setTypeOfRelation("PREP");
+	    	} 
+	    	// example: of the, in the, in our
+	    	if(pos.get(0).matches("IN|TO") == true && pos.size()> 1 && pos.get(1).matches("DT|WP$|PRP$|PRP")){
+	    		
+	    		result = true;
+	    		relation.setTypeOfRelation("PREP");
+	    	}
+		}
+		
+		return result;
+	
+	}
+	
+	public static boolean isCoordinatingConjunction(String candidate, Relation relation, List<String> pos){
+		boolean result = false;
+		
+		if(!pos.isEmpty()){
+	    	// if the candidate starts with a verb, then it is a verbal phrase
+	    	if(pos.get(0).matches("CC") == true && pos.size() == 1){
+	    		
+	    		result = true;
+	    		relation.setTypeOfRelation("CC");
+	    	}
+		}
+		
+		return result;
+	
+	}
+	
 	public static void main(String[] args) {
-		String candidate = "and seeds, we eat too much salt, too much processed";
-		System.out.println(candidate.matches("(,\\sand|or\\s\\w?\\b?)*"));
+		String candidate = "One person can eat ten chicken nuggets a day and have an LDL cholesterol of 90; another person eating ten a day could start out with an LDL of 120. ";
+		List<String> pos =  new ArrayList<String>();
+		// annotate POS
+		if(!candidate.isEmpty() && !candidate.matches("\\s+") && !candidate.equals(" ") && candidate !=null){
+			Sentence sent = new Sentence(candidate);
+				// pos tags penn tree bank
+				//https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+				// for checking of the POS tags -> candidate starts with NNS for example, we don't need the terms themselves.
+			// This is done only to make sure we have the correct tags.
+			List<String> posTest =  sent.posTags();
+			if(!candidate.matches("(\\p{Punct}+)") && posTest.size() != 0){
+				pos =  sent.posTags();
+			}
+			
+				
+			}
+		System.out.println(RelationsFilter.isIncompleteNP(pos, candidate));
 		// and seeds, we eat too much salt, too much processed -> and , has to apply only for single words?
-		int count = StringUtils.countMatches(candidate, "(\\p{Punct}+)");
-		System.out.println(count);
+		//int count = StringUtils.countMatches(candidate, "(\\p{Punct}+)");
+		//System.out.println(count);
+		System.out.println(pos.toString());
+		
+		/*int i = 5;
+		int ii = 1;
+		if((ii>5|| ii>0) && i>4 ){
+			System.out.println(true);
+		}*/
+
 	}
 
 	public static List<String> getPossiblePatterns() {

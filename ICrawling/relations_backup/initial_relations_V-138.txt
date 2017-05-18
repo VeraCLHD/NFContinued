@@ -1,8 +1,0 @@
-
-V-138	vinegar	vinegar	blood	blood	appeared to have no effect on	
-V-138	vinegar	vinegar	gastric emptying	gastric emptying	delayed the	
-V-138	vinegar	vinegar	blood	blood	blunts the	
-V-138	vinegar	vinegar	side effects	side effects	were not associated with any	
-V-138	vinegar	vinegar	stomach	stomach	was thought to slow the rate at which food leaves the	
-V-138	glucose	glucose	sugar	sugar	is a byproduct of	
-V-138	vinegar	vinegar	blood sugar	blood sugar	blunts the	

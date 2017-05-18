@@ -1,9 +1,0 @@
-
-T-1256	supplements	supplements	antioxidant	antioxidant	is not a good substitute for	
-T-1256	copper	copper	multivitamins	multivitamins	in	
-T-1256	dna damage	dna damage	radiation	radiation	caused by ir (ionizing	
-T-1256	fruits	fruits	vegetables	vegetables	and	
-T-1256	vitamin d	vitamin d	vitamin b12	vitamin b12	and	
-T-1256	vegetables	vegetables	supplements	supplements	is recommended over taking multivitamin	
-T-1256	supplements	supplements	mortality	mortality	may increase	
-T-1256	lutein	lutein	produce	produce	is similarly better obtained from	

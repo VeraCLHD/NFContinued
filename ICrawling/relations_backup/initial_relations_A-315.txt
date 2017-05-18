@@ -1,6 +1,0 @@
-
-A-315	probiotics	probiotics	oatmeal	oatmeal	fared when taken in	
-A-315	oatmeal	oatmeal	milk	milk	and	
-A-315	mood	mood	gut	gut	in	
-A-315	probiotics	probiotics	mental health	mental health	and	
-A-315	pharmacists	pharmacists	natural food store	natural food store	and	

@@ -1,9 +1,0 @@
-
-V-732	bph	bph	prostate cancer	prostate cancer	and	
-V-732	bph	bph	heart disease	heart disease	may be like	
-V-732	fat	fat	animal protein	animal protein	and	
-V-732	animal fat	animal fat	animal protein	animal protein	and	
-V-732	diet	diet	prostate	prostate	can slow down the abnormal growth of	
-V-732	prostate enlargement	prostate enlargement	china	china	in	
-V-732	diet	diet	prostate cancer	prostate cancer	can slow down the abnormal growth of	
-V-732	bph	bph	prostate	prostate	and	

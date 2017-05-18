@@ -1,5 +1,0 @@
-
-V-1055	pregnant women	pregnant women	iron	iron	should not take	
-V-1055	women	women	iron	iron	should not take	
-V-1055	pregnant women	pregnant women	iron supplements	iron supplements	should not take	
-V-1055	women	women	iron supplements	iron supplements	should not take	

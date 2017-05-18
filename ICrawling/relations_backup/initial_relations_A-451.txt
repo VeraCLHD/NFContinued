@@ -1,5 +1,0 @@
-
-A-451	pregnant women	pregnant women	caffeine	caffeine	should restrict	
-A-451	coffee	coffee	cancer	cancer	and	
-A-451	women	women	caffeine	caffeine	should restrict	
-A-451	risk	risk	chronic diseases	chronic diseases	of	

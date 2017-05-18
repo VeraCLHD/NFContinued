@@ -1,5 +1,0 @@
-
-V-1235	tea	tea	water	water	leaches into the	
-V-1235	raw	raw	roasted	roasted	or	
-V-1235	cream	cream	broccoli	broccoli	of	
-V-1235	green tea	green tea	water	water	leaches into the	

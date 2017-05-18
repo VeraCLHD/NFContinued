@@ -1,6 +1,0 @@
-
-V-33	heart disease	heart disease	sudden death	sudden death	and	
-V-33	kids	kids	cholesterol	cholesterol	get their	
-V-33	fat	fat	cholesterol	cholesterol	and	
-V-33	disease	disease	sudden death	sudden death	and	
-V-33	arteries	arteries	atherosclerosis	atherosclerosis	looks like in an advanced stage of	

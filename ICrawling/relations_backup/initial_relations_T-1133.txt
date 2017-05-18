@@ -1,5 +1,0 @@
-
-T-1133	spinach	spinach	kale	kale	and	
-T-1133	fruits	fruits	vegetables	vegetables	and	
-T-1133	lutein	lutein	carotenoid	carotenoid	is a	
-T-1133	lutein	lutein	fruits	fruits	is whole	

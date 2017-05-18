@@ -1,9 +1,0 @@
-
-V-956	dairy	dairy	soy	soy	doesn’t include	
-V-956	beans	beans	peas	peas	and	
-V-956	nuts	nuts	seeds	seeds	and	
-V-956	myplate	myplate	fruits	fruits	symbolizes mealtime and the food groups:  	
-V-956	dairy	dairy	soy milk	soy milk	doesn’t include	
-V-956	usda	usda	protein	protein	defines the	
-V-956	americans	americans	protein	protein	might equate the	
-V-956	health	health	nutrition	nutrition	and	

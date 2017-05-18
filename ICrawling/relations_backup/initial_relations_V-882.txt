@@ -1,5 +1,0 @@
-
-V-882	pediatrics	pediatrics	vegetables	vegetables	recommends we not feed	
-V-882	beets	beets	oxalates	oxalates	do have a lot of	
-V-882	fruits	fruits	vegetables	vegetables	and	
-V-882	american academy of pediatrics	american academy of pediatrics	vegetables	vegetables	recommends we not feed	

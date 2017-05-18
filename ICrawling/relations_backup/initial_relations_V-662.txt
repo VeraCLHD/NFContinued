@@ -1,9 +1,0 @@
-
-V-662	tea	tea	soy	soy	and	
-V-662	cancer	cancer	cancer	cancer	is the most common	
-V-662	adolescence	adolescence	breast cancer	breast cancer	might provide lifelong protection against	
-V-662	green tea	green tea	risk	risk	may only drop	
-V-662	mushrooms	mushrooms	breast cancer	breast cancer	appeared to drop their odds of getting	
-V-662	green tea	green tea	soy	soy	and	
-V-662	tea	tea	risk	risk	may only drop	
-V-662	breast cancer	breast cancer	cancer	cancer	is the most common	

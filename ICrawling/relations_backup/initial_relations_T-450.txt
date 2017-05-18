@@ -1,8 +1,0 @@
-
-T-450	heart disease	heart disease	cancer	cancer	and	
-T-450	fat	fat	chocolate	chocolate	in	
-T-450	disease	disease	cancer	cancer	and	
-T-450	saturated fat	saturated fat	chocolate	chocolate	in	
-T-450	sugar	sugar	fat	fat	and	
-T-450	sugar	sugar	saturated fat	saturated fat	and	
-T-450	kuna indians	kuna indians	cocoa	cocoa	drink over five cups of	

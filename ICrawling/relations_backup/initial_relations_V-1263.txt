@@ -1,7 +1,0 @@
-
-V-1263	green tea	green tea	antioxidants	antioxidants	has more than just	
-V-1263	chamomile	chamomile	prostate	prostate	slowing down 	
-V-1263	chamomile	chamomile	prostate cancer	prostate cancer	slowing down 	
-V-1263	tea	tea	risk	risk	may not only help decrease our	
-V-1263	tea	tea	antioxidants	antioxidants	has more than just	
-V-1263	green tea	green tea	risk	risk	may not only help decrease our	

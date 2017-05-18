@@ -1,7 +1,0 @@
-
-T-689	ddt	ddt	fish	fish	is still found in products such as	
-T-689	women	women	epa	epa	exceeds	
-T-689	mercury	mercury	fish	fish	in	
-T-689	ddt	ddt	fish oil	fish oil	is still found in products such as	
-T-689	dha	dha	epa	epa	and	
-T-689	soda	soda	carcinogen	carcinogen	tested for the	

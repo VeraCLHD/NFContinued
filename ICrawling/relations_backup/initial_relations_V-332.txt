@@ -1,8 +1,0 @@
-
-V-332	protein	protein	obesity	obesity	had nearly five times the odds of	
-V-332	diet	diet	whole grains	whole grains	of	
-V-332	cholesterol	cholesterol	blood sugar	blood sugar	dropped, and there was better	
-V-332	plant-based diets	plant-based diets	calories	calories	tend to burn off more	
-V-332	animal protein	animal protein	obesity	obesity	had nearly five times the odds of	
-V-332	plant-based diet	plant-based diet	whole grains	whole grains	of	
-V-332	cholesterol	cholesterol	blood	blood	dropped, and there was better	

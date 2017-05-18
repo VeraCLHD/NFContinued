@@ -1,8 +1,0 @@
-
-T-1137	poultry	poultry	risk	risk	was associated with the highest	
-T-1137	diet	diet	cancer	cancer	and	
-T-1137	lymphoma	lymphoma	cancer	cancer	is	
-T-1137	leukemia	leukemia	zoonotic diseases	zoonotic diseases	may actually be	
-T-1137	viruses	viruses	lymphoma	lymphoma	may play a role in causing	
-T-1137	lymphoma	lymphoma	leukemia	leukemia	and	
-T-1137	risk	risk	lymphoma	lymphoma	of	

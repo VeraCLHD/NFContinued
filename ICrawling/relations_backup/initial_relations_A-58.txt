@@ -1,8 +1,0 @@
-
-A-58	smoking	smoking	cancer	cancer	had not been proven to cause	
-A-58	doughnuts	doughnuts	soda	soda	and	
-A-58	fish	fish	potato chips	potato chips	sticks,	
-A-58	smoking	smoking	lung cancer	lung cancer	causes	
-A-58	smoking	smoking	cancer	cancer	causes	
-A-58	philip morris	philip morris	kraft	kraft	owned both	
-A-58	philip morris	philip morris	whitecoat project	whitecoat project	implemented the	

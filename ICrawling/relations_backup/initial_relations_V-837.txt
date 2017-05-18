@@ -1,3 +1,0 @@
-
-V-837	arteries	arteries	lead	lead	can	
-V-837	cholesterol	cholesterol	arteries	arteries	can clog	

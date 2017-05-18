@@ -1,8 +1,0 @@
-
-V-572	infection	infection	lead	lead	could	
-V-572	americans	americans	food poisoning	food poisoning	come down with	
-V-572	symptoms	symptoms	stomach	stomach	dropped, including their	
-V-572	abdominal pain	abdominal pain	bloating	bloating	and	
-V-572	campylobacter	campylobacter	irritable bowel syndrome	irritable bowel syndrome	are left with	
-V-572	pills	pills	placebo	placebo	was significantly more effective than	
-V-572	pain	pain	bloating	bloating	and	

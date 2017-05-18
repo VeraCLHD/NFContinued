@@ -1,5 +1,0 @@
-
-T-1773	sprouts	sprouts	raw	raw	may be up to 25 times more potent than regular	
-T-1773	cauliflower	cauliflower	kohlrabi	kohlrabi	or	
-T-1773	broccoli sprouts	broccoli sprouts	raw	raw	may be up to 25 times more potent than regular	
-T-1773	bioavailability	bioavailability	broccoli	broccoli	of	

@@ -1,7 +1,0 @@
-
-V-340	fat	fat	sugar	sugar	and	
-V-340	meat	meat	dairy	dairy	and	
-V-340	vegetables	vegetables	nuts	nuts	and	
-V-340	blueberries	blueberries	strawberries	strawberries	and	
-V-340	diet	diet	exercise	exercise	and	
-V-340	physicians	physicians	treadmill	treadmill	recommend patients not get hit in the head.we should probably chain a thousand people to a	

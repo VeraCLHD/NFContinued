@@ -1,6 +1,0 @@
-
-V-149	nicotine	nicotine	ketchup	ketchup	in	
-V-149	nightshades	nightshades	nicotine	nicotine	have different amounts of	
-V-149	plants	plants	nicotine	nicotine	have	
-V-149	risk	risk	vegetables	vegetables	compared to other	
-V-149	tobacco	tobacco	pepper	pepper	and	

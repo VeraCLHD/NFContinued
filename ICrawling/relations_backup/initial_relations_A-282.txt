@@ -1,8 +1,0 @@
-
-A-282	vitamin c	vitamin c	muscle damage	muscle damage	appeared to have more	
-A-282	plant-based diets	plant-based diets	antioxidant	antioxidant	may naturally have an enhanced	
-A-282	plant foods	plant foods	antioxidant	antioxidant	could plausibly reach an	
-A-282	exercise	exercise	free radicals	free radicals	creates	
-A-282	saturated fat	saturated fat	cholesterol	cholesterol	and	
-A-282	exercise	exercise	free radicals	free radicals	be creating harmful	
-A-282	fat	fat	cholesterol	cholesterol	and	

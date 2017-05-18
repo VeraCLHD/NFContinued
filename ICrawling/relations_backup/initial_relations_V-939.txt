@@ -1,5 +1,0 @@
-
-V-939	doctors	doctors	apple	apple	give them than	
-V-939	apples	apples	apple juice	apple juice	institute funded a study suggesting	
-V-939	doctors	doctors	apple juice	apple juice	give them than	
-V-939	apples	apples	apple	apple	institute funded a study suggesting	

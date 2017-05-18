@@ -1,8 +1,0 @@
-
-V-114	physicians	physicians	blood	blood	try to maintain	
-V-114	accidents	accidents	institute of medicine	institute of medicine	showing osteomalacia (softening of the bones) in between 18 and 39 percent of people that reach the	
-V-114	babies	babies	vitamin d	vitamin d	required	
-V-114	institute of medicine	institute of medicine	drugs	drugs	took the position that the burden of proof fell on anyone who claimed benefits for intake higher than their minimal recommendations—which is a good approach for	
-V-114	accidents	accidents	medicine	medicine	showing osteomalacia (softening of the bones) in between 18 and 39 percent of people that reach the institute of	
-V-114	medicine	medicine	drugs	drugs	took the position that the burden of proof fell on anyone who claimed benefits for intake higher than their minimal recommendations—which is a good approach for	
-V-114	physicians	physicians	blood pressure	blood pressure	try to maintain	

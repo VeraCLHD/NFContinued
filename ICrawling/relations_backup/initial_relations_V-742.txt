@@ -1,6 +1,0 @@
-
-V-742	disease	disease	diabetes	diabetes	and	
-V-742	cardiovascular disease	cardiovascular disease	diabetes	diabetes	and	
-V-742	grains	grains	framingham heart study	framingham heart study	was recently associated with a slimmer waist in the	
-V-742	women	women	bmi	bmi	have the exact same	
-V-742	whole grains	whole grains	framingham heart study	framingham heart study	was recently associated with a slimmer waist in the	

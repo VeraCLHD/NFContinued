@@ -1,4 +1,0 @@
-
-T-293	dental x-rays	dental x-rays	blood	blood	can easily penetrate the	
-T-293	x-rays	x-rays	blood	blood	can easily penetrate the	
-T-293	organic	organic	organic foods	organic foods	and	

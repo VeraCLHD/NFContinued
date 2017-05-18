@@ -1,7 +1,0 @@
-
-T-298	bread	bread	cancer	cancer	may be associated with increased	
-T-298	whole grains	whole grains	risk	risk	have been associated with lower	
-T-298	white bread	white bread	cancer	cancer	may be associated with increased	
-T-298	antioxidants	antioxidants	white bread	white bread	in	
-T-298	risk	risk	diabetes	diabetes	of	
-T-298	grains	grains	risk	risk	have been associated with lower	

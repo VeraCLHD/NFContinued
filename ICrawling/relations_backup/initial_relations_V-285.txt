@@ -1,9 +1,0 @@
-
-V-285	heart attack	heart attack	stroke	stroke	or	
-V-285	nutrition	nutrition	medical school	medical school	is the #1 thing taught in	
-V-285	diabetes	diabetes	cancer	cancer	and	
-V-285	animal products	animal products	heart disease	heart disease	has been proven to reverse	
-V-285	carbs	carbs	animal products	animal products	and	
-V-285	drugs	drugs	surgery	surgery	and	
-V-285	fruit	fruit	health	health	of	
-V-285	americans	americans	heart attack	heart attack	have a	

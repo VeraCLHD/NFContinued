@@ -1,4 +1,0 @@
-
-T-2006	pigs	pigs	hepatitis e	hepatitis e	appear to be the reservoir of the	
-T-2006	pigs	pigs	hepatitis	hepatitis	appear to be the reservoir of the	
-T-2006	infection	infection	poultry	poultry	is a possible reason why	

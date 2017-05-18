@@ -1,7 +1,0 @@
-
-A-488	women	women	soy	soy	placed on a high versus low	
-A-488	soy	soy	cancer	cancer	may shield us from	
-A-488	women	women	soy foods	soy foods	eating two servings of	
-A-488	soy	soy	estrogen	estrogen	ended up with less	
-A-488	women	women	soy	soy	eating two servings of	
-A-488	phytoestrogens	phytoestrogens	estrogen	estrogen	could effectively down-regulate the enzyme that human cells use to make	

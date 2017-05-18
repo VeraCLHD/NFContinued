@@ -1,6 +1,0 @@
-
-T-1855	meat	meat	dairy	dairy	and	
-T-1855	cholesterol	cholesterol	arteries	arteries	build up in our	
-T-1855	risk	risk	breast cancer	breast cancer	of	
-T-1855	junk food	junk food	fats	fats	comes loaded with trans	
-T-1855	junk food	junk food	trans fats	trans fats	comes loaded with	

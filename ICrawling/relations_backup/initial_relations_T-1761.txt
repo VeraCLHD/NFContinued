@@ -1,8 +1,0 @@
-
-T-1761	eggs	eggs	mood disturbance	mood disturbance	may improve	
-T-1761	inflammation	inflammation	chicken	chicken	could explain why eliminating	
-T-1761	saffron	saffron	stress	stress	may bring down	
-T-1761	eggs	eggs	mood	mood	may improve	
-T-1761	anxiety	anxiety	stress	stress	and	
-T-1761	stress	stress	health	health	can be harmful to our	
-T-1761	exercise	exercise	stress	stress	can help reduce	

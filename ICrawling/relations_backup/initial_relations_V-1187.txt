@@ -1,7 +1,0 @@
-
-V-1187	americans	americans	diverticulosis	diverticulosis	have	
-V-1187	nuts	nuts	popcorn	popcorn	and	
-V-1187	nuts	nuts	fat	fat	are the best source of	
-V-1187	corn	corn	popcorn	popcorn	or	
-V-1187	popcorn	popcorn	inflammation	inflammation	stuck in those pockets—which led to this theory that they may be what triggered the	
-V-1187	popcorn	popcorn	inflammation	inflammation	had lower rates of	

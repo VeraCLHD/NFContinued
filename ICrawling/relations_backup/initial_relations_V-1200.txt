@@ -1,5 +1,0 @@
-
-V-1200	risk	risk	kidney cancer	kidney cancer	of	
-V-1200	risk	risk	cancer	cancer	of	
-V-1200	lettuce	lettuce	vegetables	vegetables	is one of the least nutritious	
-V-1200	risk	risk	kidney	kidney	of	

@@ -1,7 +1,0 @@
-
-V-744	diet	diet	vegetarian	vegetarian	compared to those eating	
-V-744	meat	meat	weight gain	weight gain	is associated with	
-V-744	weight gain	weight gain	calories	calories	remained even after controlling for	
-V-744	calories	calories	fat	fat	and	
-V-744	meat	meat	weight gain	weight gain	and	
-V-744	calories	calories	processed meat	processed meat	of	

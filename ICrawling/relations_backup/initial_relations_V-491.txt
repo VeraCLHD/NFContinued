@@ -1,7 +1,0 @@
-
-V-491	prevention	prevention	treatment	treatment	and	
-V-491	heart disease	heart disease	physicians	physicians	ask their	
-V-491	disease	disease	physicians	physicians	ask their	
-V-491	risk	risk	cardiac death	cardiac death	of	
-V-491	fish	fish	mortality	mortality	had a 29% reduction in…	
-V-491	treatment	treatment	heart disease	heart disease	of	

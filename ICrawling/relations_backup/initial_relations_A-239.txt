@@ -1,7 +1,0 @@
-
-A-239	cola	cola	phosphate additives	phosphate additives	and	
-A-239	phosphate additives	phosphate additives	meat	meat	in	
-A-239	mercury	mercury	tuna	tuna	in	
-A-239	phosphorus	phosphorus	aluminum	aluminum	and	
-A-239	cheese	cheese	aluminum	aluminum	in	
-A-239	aluminum	aluminum	cheese	cheese	in	

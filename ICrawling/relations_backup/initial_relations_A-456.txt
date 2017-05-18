@@ -1,5 +1,0 @@
-
-A-456	herbivore	herbivore	chewing	chewing	starts	
-A-456	glucoraphanin	glucoraphanin	sulforaphane	sulforaphane	and	
-A-456	broccoli	broccoli	sulforaphane	sulforaphane	is an exceptional source of	
-A-456	phytonutrient	phytonutrient	sulforaphane	sulforaphane	called	

@@ -1,7 +1,0 @@
-
-A-144	curcumin	curcumin	osteoarthritis	osteoarthritis	and	
-A-144	enzymes	enzymes	stomach	stomach	and	
-A-144	ibuprofen	ibuprofen	naproxen	naproxen	and	
-A-144	ibuprofen	ibuprofen	pain	pain	are great at relieving	
-A-144	pain	pain	inflammation	inflammation	and	
-A-144	osteoarthritis	osteoarthritis	turmeric	turmeric	and	

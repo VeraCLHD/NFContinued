@@ -1,8 +1,0 @@
-
-V-1125	phytonutrients	phytonutrients	berries	berries	in	
-V-1125	juice	juice	water	water	made with	
-V-1125	phytonutrients	phytonutrients	chocolate	chocolate	in	
-V-1125	fruits	fruits	vegetables	vegetables	and	
-V-1125	phytonutrients	phytonutrients	tea	tea	in	
-V-1125	ellagic acid	ellagic acid	phytonutrients	phytonutrients	is considered one of the key	
-V-1125	milk	milk	phytonutrients	phytonutrients	blocks the absorption of the	

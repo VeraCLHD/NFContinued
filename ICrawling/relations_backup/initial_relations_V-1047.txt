@@ -1,8 +1,0 @@
-
-V-1047	hormones	hormones	milk	milk	in	
-V-1047	5-alpha pregnanedione	5-alpha pregnanedione	milk	milk	is another sex steroid hormone present in cow’s	
-V-1047	acne	acne	hormones	hormones	is not the only thing the	
-V-1047	acne	acne	dairy	dairy	is almost exclusively due to excess	
-V-1047	hormones	hormones	dairy	dairy	in	
-V-1047	dairy	dairy	acne	acne	seems to exist for	
-V-1047	prostate	prostate	breast cancer	breast cancer	and	

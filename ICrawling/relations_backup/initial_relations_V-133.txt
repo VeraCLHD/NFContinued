@@ -1,4 +1,0 @@
-
-V-133	athletes	athletes	lifespan	lifespan	have, 60 beats per minute, could theoretically increase	
-V-133	heart disease	heart disease	heart failure	heart failure	and	
-V-133	disease	disease	heart failure	heart failure	and	

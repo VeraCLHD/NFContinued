@@ -1,6 +1,0 @@
-
-A-280	erectile dysfunction	erectile dysfunction	angina	angina	has been called “penile	
-A-280	hardening of the arteries	hardening of the arteries	lead	lead	can	
-A-280	atherosclerosis	atherosclerosis	blood	blood	is considered a systemic disorder that uniformly affects all major	
-A-280	arteries	arteries	lead	lead	can	
-A-280	cholesterol	cholesterol	erectile dysfunction	erectile dysfunction	is because it predicts	

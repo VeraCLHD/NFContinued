@@ -1,8 +1,0 @@
-
-V-421	physicians	physicians	kaiser permanente	kaiser permanente	was published in the official journal of	
-V-421	blood pressure	blood pressure	blood	blood	or	
-V-421	blood pressure	blood pressure	blood sugar	blood sugar	or	
-V-421	risk	risk	cancer	cancer	of	
-V-421	physicians	physicians	plant-based diet	plant-based diet	should therefore consider recommending a	
-V-421	physicians	physicians	plant-based	plant-based	should therefore consider recommending a	
-V-421	physicians	physicians	medications	medications	may need to adjust	

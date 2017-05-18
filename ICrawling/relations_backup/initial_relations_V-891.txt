@@ -1,9 +1,0 @@
-
-V-891	colon	colon	b12	b12	make	
-V-891	iron	iron	beef	beef	in	
-V-891	protein	protein	pork	pork	in	
-V-891	calcium	calcium	dairy	dairy	in	
-V-891	b12	b12	colon	colon	is not absorbed through the	
-V-891	bacteria	bacteria	b12	b12	make large amounts of	
-V-891	chickens	chickens	bacteria	bacteria	harbor	
-V-891	b12	b12	plants	plants	is not made by	

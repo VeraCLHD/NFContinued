@@ -1,6 +1,0 @@
-
-T-986	gooseberries	gooseberries	breast cancer	breast cancer	were shown to decrease	
-T-986	indian gooseberries	indian gooseberries	breast cancer	breast cancer	were shown to decrease	
-T-986	supplements	supplements	carcinogens	carcinogens	appear able to decrease the level of	
-T-986	berries	berries	cholesterol	cholesterol	have been shown to decrease 	
-T-986	curcumin	curcumin	turmeric	turmeric	is the pigment within	

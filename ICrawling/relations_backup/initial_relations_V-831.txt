@@ -1,5 +1,0 @@
-
-V-831	fruits	fruits	vegetables	vegetables	or	
-V-831	vegetables	vegetables	meat	meat	resulted in a decreased consumption of	
-V-831	fruits	fruits	vegetables	vegetables	and	
-V-831	emphysema	emphysema	smoking	smoking	in	

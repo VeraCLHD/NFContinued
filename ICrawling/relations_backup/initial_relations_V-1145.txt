@@ -1,8 +1,0 @@
-
-V-1145	pregnant women	pregnant women	animal products	animal products	eat lots of	
-V-1145	pollutants	pollutants	animal fats	animal fats	in	
-V-1145	risk	risk	babies	babies	having	
-V-1145	pregnant women	pregnant women	pcbs	pcbs	exposed to the most	
-V-1145	disease	disease	milk	milk	shows more	
-V-1145	women	women	pcbs	pcbs	exposed to the most	
-V-1145	women	women	animal products	animal products	eat lots of	

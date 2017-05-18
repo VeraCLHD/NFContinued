@@ -1,5 +1,0 @@
-
-V-670	meat	meat	dairy	dairy	and	
-V-670	inflammation	inflammation	atherosclerosis	atherosclerosis	in	
-V-670	chronic inflammation	chronic inflammation	atherosclerosis	atherosclerosis	in	
-V-670	usda	usda	protein	protein	recommends for	

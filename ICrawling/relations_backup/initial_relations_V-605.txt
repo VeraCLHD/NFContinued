@@ -1,8 +1,0 @@
-
-V-605	nausea	nausea	vomiting	vomiting	and	
-V-605	united states	united states	placebo	placebo	reported prescribing	
-V-605	chemotherapy	chemotherapy	nausea	nausea	caused a surprising reduction in	
-V-605	doctors	doctors	symptoms	symptoms	have a duty to do the best they can to relieve a patient’s	
-V-605	doctors	doctors	lying	lying	decide, for example, if they should consider	
-V-605	pills	pills	lactose	lactose	is typically	
-V-605	vomiting	vomiting	placebo	placebo	compared to	

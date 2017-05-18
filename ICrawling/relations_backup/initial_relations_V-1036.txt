@@ -1,6 +1,0 @@
-
-V-1036	obesity	obesity	overeating	overeating	has been blamed on	
-V-1036	pollutants	pollutants	environment	environment	released into the	
-V-1036	pollutants	pollutants	obesogens	obesogens	have been called	
-V-1036	chemicals	chemicals	fungicides	fungicides	are used as	
-V-1036	chemical pollutants	chemical pollutants	environment	environment	released into the	

@@ -1,9 +1,0 @@
-
-V-167	diet	diet	weight loss	weight loss	appear to extend beyond	
-V-167	diet	diet	weight loss	weight loss	has benefits independent of all the	
-V-167	diet	diet	fat	fat	was extremely low-	
-V-167	rice	rice	fruit	fruit	and	
-V-167	beans	beans	diabetes	diabetes	was more effective in controlling	
-V-167	diet	diet	blindness	blindness	can leave one with moderate	
-V-167	insulin	insulin	diet	diet	altogether, but again this was a low-calorie	
-V-167	plant-based diet	plant-based diet	weight loss	weight loss	has benefits independent of all the	

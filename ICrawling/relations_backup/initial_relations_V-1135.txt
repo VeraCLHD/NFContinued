@@ -1,3 +1,0 @@
-
-V-1135	protein	protein	wheat	wheat	in	
-V-1135	gluten	gluten	symptoms	symptoms	is fine.if you do have any of those	

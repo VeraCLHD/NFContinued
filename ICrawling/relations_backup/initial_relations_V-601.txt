@@ -1,6 +1,0 @@
-
-V-601	raspberries	raspberries	oral cancer	oral cancer	and	
-V-601	black raspberries	black raspberries	oral cancer	oral cancer	and	
-V-601	risk	risk	oral cancer	oral cancer	of	
-V-601	vegetables	vegetables	fruits	fruits	and	
-V-601	strawberries	strawberries	esophageal cancer	esophageal cancer	and	

@@ -1,5 +1,0 @@
-
-V-1218	saccharin	saccharin	bladder	bladder	may cause	
-V-1218	sorbitol	sorbitol	xylitol	xylitol	and	
-V-1218	saccharin	saccharin	bladder cancer	bladder cancer	may cause	
-V-1218	aspartame	aspartame	nutrasweet	nutrasweet	or	

@@ -1,7 +1,0 @@
-
-V-528	meat	meat	fish	fish	and	
-V-528	diet	diet	immune system	immune system	are necessary for a fully functioning	
-V-528	cooked meat	cooked meat	fish	fish	and	
-V-528	phytonutrients	phytonutrients	fruits	fruits	in	
-V-528	fruits	fruits	vegetables	vegetables	and	
-V-528	pollutants	pollutants	ah receptor	ah receptor	exert their toxic effects through the	

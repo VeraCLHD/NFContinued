@@ -1,4 +1,0 @@
-
-V-384	juice	juice	coca cola	coca cola	or	
-V-384	orange juice	orange juice	coca cola	coca cola	or	
-V-384	fruits	fruits	vegetables	vegetables	and	

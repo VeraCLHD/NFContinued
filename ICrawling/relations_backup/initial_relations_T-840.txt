@@ -1,4 +1,0 @@
-
-T-840	soybeans	soybeans	gmo	gmo	are the number one	
-T-840	roundup	roundup	glyphosate	glyphosate	was found to be 100 times more toxic than	
-T-840	roundup	roundup	gmo	gmo	sprayed on	

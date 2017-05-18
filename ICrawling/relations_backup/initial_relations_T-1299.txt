@@ -1,5 +1,0 @@
-
-T-1299	seafood	seafood	als	als	may be linked to	
-T-1299	neurotoxins	neurotoxins	meat	meat	in	
-T-1299	meat	meat	fish	fish	and	
-T-1299	neurotoxins	neurotoxins	chicken	chicken	found in	

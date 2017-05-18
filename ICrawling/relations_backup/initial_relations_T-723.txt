@@ -1,5 +1,0 @@
-
-T-723	fast food	fast food	risk	risk	was shown to be the second-highest	
-T-723	okinawan diet	okinawan diet	japan	japan	in	
-T-723	diet	diet	japan	japan	in	
-T-723	heterocyclic amines	heterocyclic amines	chicken	chicken	in	

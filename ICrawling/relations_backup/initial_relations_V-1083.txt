@@ -1,3 +1,0 @@
-
-V-1083	disease	disease	cholesterol	cholesterol	is not saying much.having an average	
-V-1083	heart disease	heart disease	cholesterol	cholesterol	is not saying much.having an average	

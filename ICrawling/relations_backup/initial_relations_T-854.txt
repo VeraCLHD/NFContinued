@@ -1,9 +1,0 @@
-
-T-854	grape juice	grape juice	sugar	sugar	contains more	
-T-854	antioxidant	antioxidant	anti-inflammatory	anti-inflammatory	and	
-T-854	juice	juice	health	health	has been found to have beneficial	
-T-854	juice	juice	sugar	sugar	contains more	
-T-854	grape juice	grape juice	berries	berries	is part of the category of blue/purple foods (such as	
-T-854	juice	juice	berries	berries	is part of the category of blue/purple foods (such as	
-T-854	grape juice	grape juice	health	health	has been found to have beneficial	
-T-854	grape juice	grape juice	phenolics	phenolics	was ranked first in terms of the amount of	

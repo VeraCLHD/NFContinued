@@ -1,7 +1,0 @@
-
-A-134	pediatrics	pediatrics	pepsi	pepsi	has had relationships with	
-A-134	cocoa	cocoa	chocolate	chocolate	and	
-A-134	american academy of pediatrics	american academy of pediatrics	pepsi	pepsi	has had relationships with	
-A-134	american dietetic association	american dietetic association	academy of nutrition and dietetics	academy of nutrition and dietetics	changed their name to the	
-A-134	health	health	nutrition	nutrition	and	
-A-134	american dietetic association	american dietetic association	nutrition	nutrition	changed their name to the academy of	

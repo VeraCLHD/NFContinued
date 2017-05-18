@@ -1,8 +1,0 @@
-
-T-1963	grains	grains	phytonutrients	phytonutrients	contain the most	
-T-1963	united states	united states	celiac disease	celiac disease	suffer from	
-T-1963	phytonutrients	phytonutrients	fiber	fiber	and	
-T-1963	grains	grains	sprouting	sprouting	can be increased by	
-T-1963	antioxidants	antioxidants	grains	grains	in	
-T-1963	wheat	wheat	rye	rye	and	
-T-1963	united states	united states	disease	disease	suffer from celiac	

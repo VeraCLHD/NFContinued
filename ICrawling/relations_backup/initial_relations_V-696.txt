@@ -1,8 +1,0 @@
-
-V-696	cholesterol	cholesterol	diabetes	diabetes	or	
-V-696	protein	protein	risk	risk	may be associated with an increased	
-V-696	risk	risk	ischemic heart disease	ischemic heart disease	of	
-V-696	fat	fat	risk	risk	is tightly correlated with the	
-V-696	protein	protein	risk	risk	and	
-V-696	animal protein	animal protein	risk	risk	may be associated with an increased	
-V-696	risk	risk	heart disease	heart disease	of	

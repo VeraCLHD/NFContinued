@@ -1,6 +1,0 @@
-
-V-291	testosterone	testosterone	lead	lead	can	
-V-291	endurance	endurance	memory	memory	and	
-V-291	toxins	toxins	fish	fish	are found predominantly in	
-V-291	meat	meat	dairy	dairy	and	
-V-291	blood	blood	testosterone	testosterone	was associated with a lower concentration of	

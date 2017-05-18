@@ -1,7 +1,0 @@
-
-V-627	dried fruit	dried fruit	fat	fat	may make us	
-V-627	fruits	fruits	nuts	nuts	and	
-V-627	fruit	fruit	fat	fat	may make us	
-V-627	figs	figs	fiber	fiber	are so packed with	
-V-627	calories	calories	figs	figs	of	
-V-627	calories	calories	prunes	prunes	of	

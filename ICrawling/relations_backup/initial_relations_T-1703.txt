@@ -1,5 +1,0 @@
-
-T-1703	water	water	cholesterol	cholesterol	has been found to reduce	
-T-1703	cold	cold	sense of smell	sense of smell	have been found to cause people to lose their	
-T-1703	alkaline water	alkaline water	cholesterol	cholesterol	has been found to reduce	
-T-1703	juice	juice	noni	noni	and	

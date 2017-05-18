@@ -1,6 +1,0 @@
-
-V-864	heart disease	heart disease	cancer	cancer	and	
-V-864	disease	disease	cancer	cancer	and	
-V-864	meat	meat	vegetables	vegetables	were dying prematurely because they were eating less	
-V-864	amino acids	amino acids	plant protein	plant protein	come from animal or	
-V-864	risk	risk	heart disease	heart disease	of	

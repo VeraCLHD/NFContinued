@@ -1,8 +1,0 @@
-
-A-224	oxidation	oxidation	metabolism	metabolism	caused by	
-A-224	berries	berries	phytonutrients	phytonutrients	may be the best source of	
-A-224	antioxidants	antioxidants	cancer	cancer	and	
-A-224	oxidation	oxidation	pasta	pasta	caused by a mediterranean meal of	
-A-224	kale	kale	broccoli	broccoli	and	
-A-224	fruits	fruits	fat	fat	are consumed along with high	
-A-224	stress	stress	antioxidants	antioxidants	can eat our	

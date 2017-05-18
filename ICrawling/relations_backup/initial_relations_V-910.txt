@@ -1,3 +1,0 @@
-
-V-910	health	health	postmenopausal	postmenopausal	in	
-V-910	cardiovascular health	cardiovascular health	postmenopausal	postmenopausal	in	

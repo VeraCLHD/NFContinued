@@ -1,7 +1,0 @@
-
-T-1760	blueberries	blueberries	aging	aging	is associated with delayed cognitive	
-T-1760	antioxidants	antioxidants	phytonutrients	phytonutrients	and	
-T-1760	strawberries	strawberries	antioxidants	antioxidants	seem to have more	
-T-1760	strawberries	strawberries	blueberries	blueberries	and	
-T-1760	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
-T-1760	disease	disease	cardiac disease	cardiac disease	and	

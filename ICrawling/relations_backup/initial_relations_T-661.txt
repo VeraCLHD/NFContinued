@@ -1,8 +1,0 @@
-
-T-661	eggs	eggs	cholesterol	cholesterol	contain high levels of	
-T-661	hormones	hormones	eggs	eggs	in	
-T-661	risk	risk	cataracts	cataracts	of	
-T-661	diet	diet	mood	mood	may improve	
-T-661	sex hormones	sex hormones	eggs	eggs	in	
-T-661	plant-based diet	plant-based diet	mood	mood	may improve	
-T-661	risk	risk	heart disease	heart disease	of	

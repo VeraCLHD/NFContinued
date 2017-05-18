@@ -1,4 +1,0 @@
-
-T-112	anthocyanins	anthocyanins	phytonutrients	phytonutrients	are the red/blue/violet	
-T-112	berries	berries	vegetables	vegetables	and	
-T-112	anthocyanins	anthocyanins	blueberries	blueberries	include	

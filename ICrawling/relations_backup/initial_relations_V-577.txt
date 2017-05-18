@@ -1,8 +1,0 @@
-
-V-577	prevention	prevention	treatment	treatment	and	
-V-577	tumor	tumor	blood	blood	cannot grow without a	
-V-577	prevention	prevention	cancer	cancer	of	
-V-577	treatment	treatment	breast cancer	breast cancer	of	
-V-577	phytonutrient	phytonutrient	strawberries	strawberries	found in	
-V-577	apigen	apigen	luteolin	luteolin	or	
-V-577	flavonoids	flavonoids	prevention	prevention	could be beneficial for the	

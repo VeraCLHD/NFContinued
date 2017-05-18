@@ -1,5 +1,0 @@
-
-T-443	carbohydrates	carbohydrates	fiber	fiber	and	
-T-443	b12	b12	health	health	may be essential for good arterial	
-T-443	vitamin b12	vitamin b12	health	health	may be essential for good arterial	
-T-443	diabetes	diabetes	china	china	in	

@@ -1,4 +1,0 @@
-
-V-1162	children	children	carcinogens	carcinogens	have the highest levels of these	
-V-1162	chicken	chicken	fish	fish	beats out	
-V-1162	lamb	lamb	pork	pork	chop,	

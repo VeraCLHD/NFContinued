@@ -1,6 +1,0 @@
-
-V-964	americans	americans	eggs	eggs	should consume fewer	
-V-964	dietary guidelines	dietary guidelines	cholesterol	cholesterol	recommend consuming less than 200mg of	
-V-964	dietary guidelines	dietary guidelines	americans	americans	should avoid any inference that most	
-V-964	eggs	eggs	chicken	chicken	and	
-V-964	risk	risk	cardiovascular disease	cardiovascular disease	of	

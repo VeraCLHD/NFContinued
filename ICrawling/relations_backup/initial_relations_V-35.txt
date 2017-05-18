@@ -1,6 +1,0 @@
-
-V-35	fat	fat	insulin	insulin	can start causing	
-V-35	fat	fat	blood sugar	blood sugar	ended up with twice the	
-V-35	fat	fat	blood	blood	ended up with twice the	
-V-35	insulin	insulin	sugar	sugar	is the key that unlocks the door to let	
-V-35	fat	fat	insulin resistance	insulin resistance	can start causing	

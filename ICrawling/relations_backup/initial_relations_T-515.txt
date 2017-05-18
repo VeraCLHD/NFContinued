@@ -1,3 +1,0 @@
-
-T-515	risk	risk	colon cancer	colon cancer	of	
-T-515	risk	risk	colon	colon	of	

@@ -1,6 +1,0 @@
-
-V-1286	liver failure	liver failure	green tea	green tea	induced by	
-V-1286	milk	milk	tea	tea	remove the benefits of your daily cuppa"	
-V-1286	green tea	green tea	cancer	cancer	can protect against	
-V-1286	tea	tea	cancer	cancer	can protect against	
-V-1286	liver failure	liver failure	tea	tea	induced by green	

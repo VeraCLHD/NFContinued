@@ -1,9 +1,0 @@
-
-A-222	plant-based diets	plant-based diets	vitamin b12	vitamin b12	don’t get enough	
-A-222	vegans	vegans	vitamin b12	vitamin b12	should include sources of	
-A-222	china	china	omnivores	omnivores	found that compared to	
-A-222	vegetarians	vegetarians	omnivores	omnivores	were just as stiff as the	
-A-222	cholesterol	cholesterol	blood	blood	and	
-A-222	homocysteine	homocysteine	vegetarian	vegetarian	may attenuate the beneficial effects of a	
-A-222	arteries	arteries	vegetarians	vegetarians	of	
-A-222	diet	diet	vitamin b12	vitamin b12	developed	

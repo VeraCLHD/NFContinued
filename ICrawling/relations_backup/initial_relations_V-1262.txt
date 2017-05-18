@@ -1,7 +1,0 @@
-
-V-1262	soy	soy	breast cancer	breast cancer	prevent	
-V-1262	women	women	breast cancer	breast cancer	diagnosed with	
-V-1262	soy	soy	diabetes	diabetes	can cut our	
-V-1262	breast cancer	breast cancer	soy	soy	eating	
-V-1262	soy	soy	risk	risk	 cut our	
-V-1262	soy	soy	risk	risk	cut their	

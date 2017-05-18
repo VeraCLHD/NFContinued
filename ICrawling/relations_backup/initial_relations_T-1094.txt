@@ -1,7 +1,0 @@
-
-T-1094	plants	plants	vegetarians	vegetarians	may have a beneficial effect as	
-T-1094	pesticides	pesticides	risk	risk	seem to increase the	
-T-1094	drugs	drugs	coffee	coffee	and	
-T-1094	risk	risk	leukemia	leukemia	of	
-T-1094	vegetarians	vegetarians	risk	risk	may have only a quarter of the	
-T-1094	organic	organic	risk	risk	can potentially mediate this	

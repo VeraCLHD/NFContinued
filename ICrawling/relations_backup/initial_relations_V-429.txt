@@ -1,7 +1,0 @@
-
-V-429	fat	fat	sugar	sugar	and	
-V-429	sugar	sugar	fat	fat	or	
-V-429	sugar	sugar	chocolate	chocolate	in	
-V-429	chocolate	chocolate	cocoa	cocoa	and	
-V-429	cocoa	cocoa	blood	blood	is potentially weakened in the	
-V-429	health	health	nutrition	nutrition	and	

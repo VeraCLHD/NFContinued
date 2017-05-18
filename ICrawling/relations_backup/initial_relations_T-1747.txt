@@ -1,9 +1,0 @@
-
-T-1747	drugs	drugs	risk	risk	may be associated with more than double the	
-T-1747	drugs	drugs	heart attack	heart attack	can do in reducing absolute	
-T-1747	diet	diet	risk	risk	could possibly reduce absolute	
-T-1747	cholesterol	cholesterol	lovastatin	lovastatin	is not recommended because actual	
-T-1747	statins	statins	side effects	side effects	can have	
-T-1747	statins	statins	drugs	drugs	are a class of	
-T-1747	plant-based diet	plant-based diet	risk	risk	could possibly reduce absolute	
-T-1747	drugs	drugs	fast food	fast food	be given out free with	

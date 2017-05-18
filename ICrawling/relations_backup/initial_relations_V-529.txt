@@ -1,5 +1,0 @@
-
-V-529	immune system	immune system	broccoli	broccoli	evolve this requirement for	
-V-529	diet	diet	risk	risk	is associated with higher	
-V-529	western diet	western diet	risk	risk	is associated with higher	
-V-529	cabbage	cabbage	immune function	immune function	are essential for sustaining intestinal	

@@ -1,6 +1,0 @@
-
-V-1255	mothers	mothers	fish	fish	ate lots of	
-V-1255	risk	risk	cancer	cancer	of	
-V-1255	fish	fish	risk	risk	is increasing our	
-V-1255	dairy	dairy	calcium	calcium	and	
-V-1255	salmon	salmon	mercury	mercury	has less	

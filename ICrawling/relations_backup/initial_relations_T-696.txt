@@ -1,7 +1,0 @@
-
-T-696	esophageal cancer	esophageal cancer	cured meats	cured meats	include	
-T-696	cancer	cancer	meats	meats	include cured	
-T-696	fiber	fiber	esophageal cancer	esophageal cancer	may have highly protective effects against	
-T-696	risk	risk	cancer	cancer	of	
-T-696	cancer	cancer	cured meats	cured meats	include	
-T-696	esophageal cancer	esophageal cancer	meats	meats	include cured	

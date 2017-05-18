@@ -1,4 +1,0 @@
-
-V-119	curcumin	curcumin	turmeric	turmeric	is believed to account for most activities of	
-V-119	texas	texas	curcumin	curcumin	pitted	
-V-119	turmeric	turmeric	curcumin	curcumin	was more potent compared to	

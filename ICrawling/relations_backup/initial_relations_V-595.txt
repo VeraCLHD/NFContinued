@@ -1,5 +1,0 @@
-
-V-595	doctors	doctors	depression	depression	perceived a connection between	
-V-595	stomach	stomach	gut	gut	knows that our mental state can affect our	
-V-595	symptoms	symptoms	anxiety	anxiety	of	
-V-595	probiotics	probiotics	symptoms	symptoms	was found to significantly decrease	

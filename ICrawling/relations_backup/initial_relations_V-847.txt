@@ -1,5 +1,0 @@
-
-V-847	diet	diet	cancer	cancer	and	
-V-847	chicken	chicken	turkey	turkey	and	
-V-847	beef	beef	pork	pork	and	
-V-847	viruses	viruses	meat	meat	in	

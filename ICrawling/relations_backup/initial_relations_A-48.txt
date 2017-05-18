@@ -1,9 +1,0 @@
-
-A-48	beer	beer	coffee	coffee	felt like too hot	
-A-48	prevention	prevention	seafood	seafood	of	
-A-48	ciguatera	ciguatera	food poisoning	food poisoning	is one of the most common forms of	
-A-48	essential tremor	essential tremor	diet	diet	and	
-A-48	fish	fish	neurotoxins	neurotoxins	contaminated with	
-A-48	chronic fatigue syndrome	chronic fatigue syndrome	fish	fish	may actually be suffering the long-term effects of this	
-A-48	diet	diet	essential tremor	essential tremor	and	
-A-48	syndrome	syndrome	fish	fish	may actually be suffering the long-term effects of this	

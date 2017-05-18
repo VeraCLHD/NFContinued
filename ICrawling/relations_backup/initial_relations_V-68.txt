@@ -1,6 +1,0 @@
-
-V-68	calcium	calcium	cheese	cheese	in	
-V-68	protein	protein	pork	pork	in	
-V-68	iron	iron	beef	beef	in	
-V-68	dairy	dairy	calcium	calcium	is the #1 source of	
-V-68	national pork board	national pork board	ham	ham	promotes	

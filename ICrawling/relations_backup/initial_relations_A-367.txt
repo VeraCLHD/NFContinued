@@ -1,9 +1,0 @@
-
-A-367	breast cancer	breast cancer	meat	meat	caused by the cooked	
-A-367	carcinogens	carcinogens	chicken	chicken	formed in	
-A-367	risk	risk	green tea	green tea	concluded that	
-A-367	breast cancer	breast cancer	cooked meat	cooked meat	caused by the	
-A-367	risk	risk	tea	tea	concluded that green	
-A-367	chemical carcinogens	chemical carcinogens	chicken	chicken	formed in	
-A-367	dna	dna	kiwifruit	kiwifruit	include	
-A-367	garlic	garlic	raw	raw	be	

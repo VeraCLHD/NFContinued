@@ -1,7 +1,0 @@
-
-V-150	cancer	cancer	emphysema	emphysema	and	
-V-150	smoking	smoking	risk	risk	is a significant	
-V-150	smoking	smoking	coffee	coffee	remained even after carefully controlling for	
-V-150	lung cancer	lung cancer	emphysema	emphysema	and	
-V-150	surgeon general	surgeon general	smoking	smoking	argued that	
-V-150	americans	americans	smoking	smoking	have died as a result of	

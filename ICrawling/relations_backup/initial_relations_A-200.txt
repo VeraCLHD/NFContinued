@@ -1,7 +1,0 @@
-
-A-200	salmonella	salmonella	alfalfa	alfalfa	in	
-A-200	viruses	viruses	fruits	fruits	get on our	
-A-200	americans	americans	produce	produce	are sickened by	
-A-200	salmonella	salmonella	animal products	animal products	come largely from	
-A-200	alfalfa	alfalfa	seeds	seeds	sprout	
-A-200	risk	risk	pesticides	pesticides	posed by the application of	

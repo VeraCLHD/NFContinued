@@ -1,5 +1,0 @@
-
-V-698	drugs	drugs	water	water	were in the	
-V-698	antibiotics	antibiotics	urine	urine	detected in the	
-V-698	antibiotic residues	antibiotic residues	meat	meat	in	
-V-698	antibiotics	antibiotics	urine	urine	in	

@@ -1,8 +1,0 @@
-
-V-26	risk	risk	breast cancer	breast cancer	of	
-V-26	youth	youth	risk	risk	appear to grow up to have less than half the	
-V-26	risk	risk	breast cancer	breast cancer	.this may help explain why	
-V-26	cancer survival	cancer survival	american medical association	american medical association	was published in 2009 in the journal of the	
-V-26	risk	risk	death	death	of	
-V-26	soy foods	soy foods	breast cancer	breast cancer	promote	
-V-26	breast cancer survival	breast cancer survival	american medical association	american medical association	was published in 2009 in the journal of the	

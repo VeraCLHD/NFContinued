@@ -1,6 +1,0 @@
-
-T-687	dairy	dairy	tor	tor	may lower	
-T-687	plant-based diets	plant-based diets	obesity	obesity	protect against	
-T-687	plant foods	plant foods	raw	raw	must be eaten	
-T-687	pain	pain	inflammation	inflammation	and	
-T-687	phytonutrients	phytonutrients	detoxifying enzymes	detoxifying enzymes	help stimulate natural	

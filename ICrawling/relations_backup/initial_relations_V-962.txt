@@ -1,6 +1,0 @@
-
-V-962	finland	finland	meat	meat	joined us in packing on the	
-V-962	disease	disease	cholesterol	cholesterol	is caused by high	
-V-962	heart disease	heart disease	cholesterol	cholesterol	is caused by high	
-V-962	cheese	cheese	chicken	chicken	and	
-V-962	farmers	farmers	berries	berries	did switch from dairies to	

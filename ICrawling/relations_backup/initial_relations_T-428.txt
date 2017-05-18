@@ -1,9 +1,0 @@
-
-T-428	diet	diet	cancer	cancer	may reduce	
-T-428	fiber	fiber	shiitake mushrooms	shiitake mushrooms	found in	
-T-428	fruit	fruit	vegetables	vegetables	and	
-T-428	broccoli	broccoli	broccoli sprouts	broccoli sprouts	or	
-T-428	cancer	cancer	potatoes	potatoes	include sweet	
-T-428	cancer	cancer	sweet potatoes	sweet potatoes	include	
-T-428	chemotherapy	chemotherapy	phytates	phytates	may benefit from adding	
-T-428	plant-based diet	plant-based diet	cancer	cancer	may reduce	

@@ -1,7 +1,0 @@
-
-A-36	lipitor	lipitor	heart attacks	heart attacks	are about 100 times more effective than they actually are in preventing	
-A-36	plaque	plaque	arteries	arteries	away, opening up	
-A-36	drugs	drugs	risk	risk	appear to do is an absolute	
-A-36	drugs	drugs	surgery	surgery	or	
-A-36	x-rays	x-rays	brain tumors	brain tumors	cause	
-A-36	dental x-rays	dental x-rays	brain tumors	brain tumors	cause	

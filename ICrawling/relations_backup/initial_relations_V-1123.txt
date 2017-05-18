@@ -1,4 +1,0 @@
-
-V-1123	milk	milk	dairy	dairy	and	
-V-1123	disease	disease	milk	milk	should restrict consumption of	
-V-1123	milk	milk	evolution	evolution	developed over the course of mammalian	

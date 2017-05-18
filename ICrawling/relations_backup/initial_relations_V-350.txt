@@ -1,6 +1,0 @@
-
-V-350	prevention	prevention	seafood	seafood	of	
-V-350	ciguatera	ciguatera	food poisoning	food poisoning	is one of the most common forms of	
-V-350	fish	fish	neurotoxins	neurotoxins	contaminated with	
-V-350	chronic fatigue syndrome	chronic fatigue syndrome	fish	fish	may actually be suffering the long-term effects of this	
-V-350	syndrome	syndrome	fish	fish	may actually be suffering the long-term effects of this	

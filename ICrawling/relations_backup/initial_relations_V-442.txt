@@ -1,8 +1,0 @@
-
-V-442	fda	fda	green tea	green tea	approved a	
-V-442	fda	fda	tea	tea	approved a green	
-V-442	treatment	treatment	genital warts	genital warts	of	
-V-442	patent	patent	fda	fda	it, get	
-V-442	curcumin	curcumin	turmeric	turmeric	is an extract of	
-V-442	treatment	treatment	inflammatory bowel disease	inflammatory bowel disease	of	
-V-442	blood	blood	cancer	cancer	thinner, and help prevent preeclampsia, and even some types of	

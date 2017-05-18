@@ -1,7 +1,0 @@
-
-V-507	risk	risk	glaucoma	glaucoma	of	
-V-507	phytonutrients	phytonutrients	fat	fat	depends on the presence of	
-V-507	kale	kale	collard greens	collard greens	and	
-V-507	carrots	carrots	women	women	appeared to be less protective in black	
-V-507	fruits	fruits	vegetables	vegetables	and	
-V-507	nuts	nuts	seeds	seeds	or	

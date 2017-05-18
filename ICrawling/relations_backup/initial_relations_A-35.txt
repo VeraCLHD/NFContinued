@@ -1,6 +1,0 @@
-
-A-35	medicine	medicine	infections	infections	is great for acute conditions—broken bones and curing	
-A-35	disease	disease	cancer	cancer	or	
-A-35	physicians	physicians	mortality	mortality	greeted the horrendous	
-A-35	heart disease	heart disease	cancer	cancer	or	
-A-35	medications	medications	side effects	side effects	are killed by medication errors or	

@@ -1,7 +1,0 @@
-
-V-169	disease	disease	fat	fat	of	
-V-169	diabetes	diabetes	fat	fat	can be understood as a potentially reversible metabolic state precipitated by the single cause of chronic excess intra-organ	
-V-169	diabetes	diabetes	obesity	obesity	accompanying morbid	
-V-169	surgery	surgery	diabetes	diabetes	improves	
-V-169	diabetes	diabetes	surgery	surgery	improved rapidly on the	
-V-169	ct scan	ct scan	liver	liver	showing a 35% reduction in	

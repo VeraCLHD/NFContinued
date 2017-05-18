@@ -1,5 +1,0 @@
-
-V-513	tea	tea	hibiscus	hibiscus	or	
-V-513	fruits	fruits	vegetables	vegetables	and	
-V-513	green tea	green tea	hibiscus	hibiscus	or	
-V-513	peas	peas	carrots	carrots	and	

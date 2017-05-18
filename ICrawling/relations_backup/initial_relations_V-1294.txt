@@ -1,7 +1,0 @@
-
-V-1294	stroke	stroke	cancer	cancer	and	
-V-1294	vegetables	vegetables	risk	risk	outweigh the	
-V-1294	vegetables	vegetables	cancer	cancer	prevent	
-V-1294	risk	risk	mouth	mouth	of	
-V-1294	fruits	fruits	vegetables	vegetables	and	
-V-1294	risk	risk	mouth cancer	mouth cancer	of	

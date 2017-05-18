@@ -1,8 +1,0 @@
-
-V-1097	vegetables	vegetables	cancer	cancer	didn’t prevent	
-V-1097	burgers	burgers	doughnuts	doughnuts	and	
-V-1097	fruit	fruit	vegetables	vegetables	and	
-V-1097	risk	risk	apple	apple	means that an	
-V-1097	vegetables	vegetables	berries	berries	could do—	
-V-1097	americans	americans	cancer	cancer	are diagnosed with	
-V-1097	fruits	fruits	vegetables	vegetables	and	

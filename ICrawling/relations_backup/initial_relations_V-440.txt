@@ -1,6 +1,0 @@
-
-V-440	heart attack	heart attack	stroke	stroke	or	
-V-440	americans	americans	heart attack	heart attack	experience their first	
-V-440	physical activity	physical activity	risk	risk	can substantially reduce their	
-V-440	prevention	prevention	chronic diseases	chronic diseases	of	
-V-440	prevention	prevention	disease	disease	of	

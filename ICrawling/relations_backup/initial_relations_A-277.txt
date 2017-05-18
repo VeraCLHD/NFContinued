@@ -1,7 +1,0 @@
-
-A-277	flavoring	flavoring	popcorn	popcorn	being linked to a condition known as “	
-A-277	drug residues	drug residues	meat	meat	in	
-A-277	disease	disease	bronchiolitis obliterans	bronchiolitis obliterans	called	
-A-277	flavoring	flavoring	popcorn lung	popcorn lung	being linked to a condition known as “	
-A-277	risk	risk	lung disease	lung disease	of	
-A-277	lung disease	lung disease	bronchiolitis obliterans	bronchiolitis obliterans	called	

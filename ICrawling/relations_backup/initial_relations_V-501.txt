@@ -1,9 +1,0 @@
-
-V-501	drugs	drugs	cancer	cancer	 carry a black label warning because they can cause things like	
-V-501	bioavailability	bioavailability	weakness	weakness	has a	
-V-501	spices	spices	antioxidant	antioxidant	have some of the greatest	
-V-501	treatment	treatment	inflammatory diseases	inflammatory diseases	of	
-V-501	blood	blood	bioavailability	bioavailability	is an indication of	
-V-501	cancer	cancer	heart failure	heart failure	and	
-V-501	turmeric	turmeric	inflammatory response	inflammatory response	were able to significantly stifle the	
-V-501	herbs	herbs	spices	spices	and	

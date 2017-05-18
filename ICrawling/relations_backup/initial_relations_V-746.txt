@@ -1,8 +1,0 @@
-
-V-746	plants	plants	colon	colon	would have significantly different	
-V-746	fiber	fiber	calories	calories	can bulk up the volume of foods without adding	
-V-746	water	water	calories	calories	has zero	
-V-746	fruits	fruits	vegetables	vegetables	and	
-V-746	phytonutrients	phytonutrients	gut	gut	can alter	
-V-746	phytonutrients	phytonutrients	gut flora	gut flora	can alter	
-V-746	weight management	weight management	water	water	may be the	

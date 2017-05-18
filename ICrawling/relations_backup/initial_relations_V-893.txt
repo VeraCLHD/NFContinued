@@ -1,6 +1,0 @@
-
-V-893	diet	diet	atkins	atkins	.they figured that maybe the problem with the	
-V-893	low-carb diets	low-carb diets	mortality	mortality	were associated with higher all-cause	
-V-893	mortality	mortality	diet	diet	.they concluded: “a low-carbohydrate	
-V-893	atkins diet	atkins diet	fat	fat	wasn’t that it was high-	
-V-893	diet	diet	mortality	mortality	based on animal sources was associated with higher all-cause	

@@ -1,8 +1,0 @@
-
-A-21	nuts	nuts	stroke	stroke	seemed to cut their	
-A-21	heart attack	heart attack	stroke	stroke	or	
-A-21	meat	meat	dairy	dairy	and	
-A-21	saturated fat	saturated fat	cholesterol	cholesterol	or	
-A-21	fat	fat	cholesterol	cholesterol	or	
-A-21	fruits	fruits	vegetables	vegetables	and	
-A-21	nuts	nuts	obesity	obesity	and	

@@ -1,6 +1,0 @@
-
-A-243	immune system	immune system	broccoli	broccoli	evolve this requirement for	
-A-243	diet	diet	risk	risk	is associated with higher	
-A-243	western diet	western diet	risk	risk	is associated with higher	
-A-243	immune function	immune function	athletes	athletes	in	
-A-243	cabbage	cabbage	immune function	immune function	are essential for sustaining intestinal	

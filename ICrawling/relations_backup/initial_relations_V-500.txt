@@ -1,9 +1,0 @@
-
-V-500	spices	spices	cooking	cooking	are…only consumed after	
-V-500	turmeric	turmeric	oregano	oregano	and	
-V-500	ginger	ginger	rosemary	rosemary	or	
-V-500	diet	diet	turmeric	turmeric	might be to add	
-V-500	curcumin	curcumin	antioxidant	antioxidant	is not just itself an	
-V-500	turmeric	turmeric	inflammatory response	inflammatory response	were able to significantly stifle the	
-V-500	herbs	herbs	spices	spices	and	
-V-500	cinnamon	cinnamon	ginger	ginger	and	

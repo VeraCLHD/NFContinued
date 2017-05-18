@@ -1,4 +1,0 @@
-
-T-1592	infection	infection	pneumonia	pneumonia	may be serious or even life threatening, such as	
-T-1592	pus	pus	risk	risk	fills the air sacs.things that may increase the	
-T-1592	asthma	asthma	allergies	allergies	and	

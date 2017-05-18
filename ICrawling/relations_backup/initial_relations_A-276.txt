@@ -1,9 +1,0 @@
-
-A-276	doctors	doctors	ritalin	ritalin	write 20 million prescriptions for stimulants like	
-A-276	drugs	drugs	dopamine	dopamine	are thought to act by increasing	
-A-276	symptoms	symptoms	exercise	exercise	alone, whereas	
-A-276	medications	medications	exercise	exercise	and	
-A-276	exercise	exercise	side effects	side effects	does have	
-A-276	exercise	exercise	cancer	cancer	can strengthen	
-A-276	exercise	exercise	adhd	adhd	has been shown to be effective in controlling	
-A-276	medications	medications	adhd	adhd	have a defined effect on	

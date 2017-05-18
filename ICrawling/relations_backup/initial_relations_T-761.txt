@@ -1,8 +1,0 @@
-
-T-761	diabetes	diabetes	prediabetes	prediabetes	and	
-T-761	health	health	standard american diet	standard american diet	is better than the	
-T-761	vegetarians	vegetarians	flexitarians	flexitarians	live longer than	
-T-761	fish	fish	cholesterol	cholesterol	does not lower	
-T-761	flexitarians	flexitarians	standard american diet	standard american diet	do live longer than those eating the	
-T-761	chicken	chicken	fish	fish	or	
-T-761	plant-based diets	plant-based diets	protein	protein	contain more than enough	

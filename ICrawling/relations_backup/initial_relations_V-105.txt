@@ -1,6 +1,0 @@
-
-V-105	infertility	infertility	sheep	sheep	in	
-V-105	beer	beer	health	health	was considered too low to affect human	
-V-105	alcoholic beverages	alcoholic beverages	plants	plants	are made from.the discovery that	
-V-105	beverages	beverages	plants	plants	are made from.the discovery that	
-V-105	beer	beer	estrogen	estrogen	is not the only source of	

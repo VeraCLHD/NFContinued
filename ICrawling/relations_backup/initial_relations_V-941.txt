@@ -1,6 +1,0 @@
-
-V-941	phenolics	phenolics	fruit juice	fruit juice	are what’s in	
-V-941	apple	apple	juice	juice	would be compared to	
-V-941	juice	juice	fruit	fruit	is the one inside the whole	
-V-941	fruit juice	fruit juice	fruit	fruit	is the one inside the whole	
-V-941	phenolics	phenolics	fruit	fruit	are what’s in	

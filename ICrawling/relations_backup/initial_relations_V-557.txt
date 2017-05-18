@@ -1,6 +1,0 @@
-
-V-557	gas	gas	brain cancer	brain cancer	may have been causing	
-V-557	nitrites	nitrites	processed meats	processed meats	in	
-V-557	risk	risk	cancer	cancer	of	
-V-557	margarine	margarine	mint	mint	wouldn’t be yellow and	
-V-557	cspi	cspi	fda	fda	 continues to call on the	

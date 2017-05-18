@@ -1,7 +1,0 @@
-
-T-1463	protein	protein	risk	risk	can be associated with increased	
-T-1463	vegans	vegans	vegetarians	vegetarians	and	
-T-1463	animal protein	animal protein	risk	risk	can be associated with increased	
-T-1463	lentils	lentils	split peas	split peas	and	
-T-1463	vegetarians	vegetarians	protein	protein	are asked how they get enough	
-T-1463	risk	risk	heart disease	heart disease	of	

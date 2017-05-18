@@ -1,5 +1,0 @@
-
-V-1205	obesity	obesity	alcohol	alcohol	and	
-V-1205	diet	diet	cancer	cancer	is the #1 cause of	
-V-1205	cancer	cancer	disease	disease	is, therefore, a preventable	
-V-1205	tobacco	tobacco	risk	risk	contributes about a quarter of the	

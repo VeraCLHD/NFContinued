@@ -1,7 +1,0 @@
-
-V-324	nuts	nuts	stroke	stroke	seemed to cut their	
-V-324	heart attack	heart attack	stroke	stroke	or	
-V-324	meat	meat	dairy	dairy	and	
-V-324	saturated fat	saturated fat	cholesterol	cholesterol	or	
-V-324	fat	fat	cholesterol	cholesterol	or	
-V-324	fruits	fruits	vegetables	vegetables	and	

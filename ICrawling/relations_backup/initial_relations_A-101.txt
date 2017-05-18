@@ -1,5 +1,0 @@
-
-A-101	gout	gout	water	water	is to drink lots of	
-A-101	risk	risk	gout	gout	of	
-A-101	prevention	prevention	gout	gout	of	
-A-101	drugs	drugs	medications	medications	were able to stop their	

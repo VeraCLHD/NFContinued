@@ -1,6 +1,0 @@
-
-V-428	cocoa	cocoa	chocolate	chocolate	and	
-V-428	physicians	physicians	pepsi	pepsi	has had relationships with	
-V-428	american dietetic association	american dietetic association	academy of nutrition and dietetics	academy of nutrition and dietetics	changed their name to the	
-V-428	health	health	nutrition	nutrition	and	
-V-428	american dietetic association	american dietetic association	nutrition	nutrition	changed their name to the academy of	

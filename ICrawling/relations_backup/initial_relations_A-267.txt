@@ -1,8 +1,0 @@
-
-A-267	liver	liver	pancreatic cancer	pancreatic cancer	and	
-A-267	dogs	dogs	cats	cats	and	
-A-267	risk	risk	death	death	of	
-A-267	cats	cats	dogs	dogs	or	
-A-267	doctors	doctors	coma	coma	had to put them in a	
-A-267	meat	meat	cancer	cancer	have higher	
-A-267	beef	beef	sheep	sheep	and	

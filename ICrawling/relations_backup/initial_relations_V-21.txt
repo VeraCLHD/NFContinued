@@ -1,9 +1,0 @@
-
-V-21	diabetes	diabetes	kids	kids	made	
-V-21	type 1 diabetes	type 1 diabetes	paratuberculosis	paratuberculosis	and	
-V-21	infection	infection	diabetes	diabetes	is not associated with type 2	
-V-21	boiling	boiling	milk	milk	of	
-V-21	pasteurization	pasteurization	bacteria	bacteria	may not completely inactivate the	
-V-21	bacteria	bacteria	pasteurization	pasteurization	ride out	
-V-21	infection	infection	kids	kids	made	
-V-21	diabetes	diabetes	paratuberculosis	paratuberculosis	and	

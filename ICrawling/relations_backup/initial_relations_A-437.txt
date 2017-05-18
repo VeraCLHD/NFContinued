@@ -1,8 +1,0 @@
-
-A-437	pathogens	pathogens	contamination	contamination	see fecal	
-A-437	chicken	chicken	salmonella	salmonella	contaminated with	
-A-437	contamination	contamination	sushi	sushi	of	
-A-437	foodborne pathogens	foodborne pathogens	fecal contamination	fecal contamination	see 	
-A-437	fecal contamination	fecal contamination	sushi	sushi	of	
-A-437	pathogens	pathogens	fecal contamination	fecal contamination	see 	
-A-437	foodborne pathogens	foodborne pathogens	contamination	contamination	see fecal	

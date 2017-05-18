@@ -1,6 +1,0 @@
-
-V-1234	tomatoes	tomatoes	lycopene	lycopene	provide four times more	
-V-1234	tomato juice	tomato juice	cholesterol	cholesterol	can lower our bad	
-V-1234	tomato juice	tomato juice	bad cholesterol	bad cholesterol	can lower our	
-V-1234	juice	juice	cholesterol	cholesterol	can lower our bad	
-V-1234	juice	juice	bad cholesterol	bad cholesterol	can lower our	

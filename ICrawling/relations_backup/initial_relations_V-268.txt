@@ -1,7 +1,0 @@
-
-V-268	drugs	drugs	side effects	side effects	can cause	
-V-268	treatment	treatment	symptoms	symptoms	is targeted to alleviate the	
-V-268	sexual dysfunction	sexual dysfunction	drugs	drugs	caused by these three	
-V-268	treatment	treatment	doctors	doctors	is for	
-V-268	peppermint	peppermint	peppermint oil	peppermint oil	leaves has as much	
-V-268	doctors	doctors	disease	disease	underestimate the impact the	

@@ -1,8 +1,0 @@
-
-T-430	risk	risk	gout	gout	of	
-T-430	tart cherries	tart cherries	melatonin	melatonin	have much more	
-T-430	fruits	fruits	vegetables	vegetables	and	
-T-430	vegetables	vegetables	anti-inflammatory	anti-inflammatory	exhibit	
-T-430	pain	pain	inflammation	inflammation	and	
-T-430	vioxx	vioxx	ibuprofen	ibuprofen	or	
-T-430	cherries	cherries	inflammation	inflammation	may inhibit	

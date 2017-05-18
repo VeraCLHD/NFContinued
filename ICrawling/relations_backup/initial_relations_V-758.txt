@@ -1,5 +1,0 @@
-
-V-758	nuts	nuts	bad cholesterol	bad cholesterol	drop your	
-V-758	risk	risk	death	death	of	
-V-758	nuts	nuts	cholesterol	cholesterol	drop your bad	
-V-758	nuts	nuts	ldl	ldl	lowers	

@@ -1,8 +1,0 @@
-
-T-485	coffee	coffee	produce	produce	does not seem to	
-T-485	beverages	beverages	tea	tea	recommend	
-T-485	coffee	coffee	cholesterol	cholesterol	may raise	
-T-485	risk	risk	diabetes	diabetes	of	
-T-485	coffee	coffee	health	health	has been shown to be beneficial to our	
-T-485	coffee	coffee	aging	aging	does not seem to speed up the cellular	
-T-485	tea	tea	coffee	coffee	and	

@@ -1,4 +1,0 @@
-
-V-1072	contamination	contamination	poultry	poultry	in	
-V-1072	turkey	turkey	salmonella	salmonella	has	
-V-1072	food poisoning	food poisoning	arthritis	arthritis	once, and you can end up with chronic, debilitating	

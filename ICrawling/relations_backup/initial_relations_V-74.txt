@@ -1,7 +1,0 @@
-
-V-74	animal protein	animal protein	cancer	cancer	are four times as likely to die from	
-V-74	dairy	dairy	health	health	could be as harmful to	
-V-74	animal protein	animal protein	risk	risk	didn’t have just four times the	
-V-74	protein	protein	cancer	cancer	are four times as likely to die from	
-V-74	protein	protein	risk	risk	didn’t have just four times the	
-V-74	diet	diet	blindness	blindness	can leave diabetics with moderate	

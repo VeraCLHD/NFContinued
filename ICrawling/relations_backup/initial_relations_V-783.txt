@@ -1,4 +1,0 @@
-
-V-783	inflammation	inflammation	animal foods	animal foods	is because	
-V-783	saturated fat	saturated fat	fat	fat	causes the breakdown of our intestinal barrier, which could cause a “	
-V-783	animal foods	animal foods	inflammation	inflammation	causes	

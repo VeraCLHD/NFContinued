@@ -1,9 +1,0 @@
-
-V-520	plant-based diet	plant-based diet	exercise	exercise	and	
-V-520	heart disease	heart disease	cavities	cavities	may be a choice; like	
-V-520	diet	diet	uganda	uganda	patterned after the black population [of] 	
-V-520	disease	disease	cavities	cavities	may be a choice; like	
-V-520	junk food	junk food	animal foods	animal foods	and	
-V-520	risk	risk	death	death	of	
-V-520	plantains	plantains	sweet potatoes	sweet potatoes	and	
-V-520	diet	diet	exercise	exercise	and	

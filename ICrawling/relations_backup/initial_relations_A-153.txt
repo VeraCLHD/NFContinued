@@ -1,7 +1,0 @@
-
-A-153	plants	plants	health	health	bear the brunt and enable us to harness other species’ hardships as a means to promote our own	
-A-153	mammals	mammals	preservation	preservation	do: activate	
-A-153	stress	stress	variety	variety	placed upon the body by not eating enough may activate a wide	
-A-153	anti-inflammatory	anti-inflammatory	antioxidant	antioxidant	and	
-A-153	hormesis	hormesis	pain	pain	is the biological principle of “no	
-A-153	resveratrol	resveratrol	grapes	grapes	in	

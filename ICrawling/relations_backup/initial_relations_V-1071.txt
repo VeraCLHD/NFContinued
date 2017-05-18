@@ -1,6 +1,0 @@
-
-V-1071	women	women	urinary tract infections	urinary tract infections	get	
-V-1071	women	women	poultry	poultry	can now add avoiding	
-V-1071	urinary tract infections	urinary tract infections	chickens	chickens	come from eating	
-V-1071	disease	disease	colibacillosis	colibacillosis	is called	
-V-1071	infections	infections	chickens	chickens	come from eating	

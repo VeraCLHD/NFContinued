@@ -1,6 +1,0 @@
-
-V-684	antibiotics	antibiotics	livestock	livestock	fed to	
-V-684	antimicrobial drugs	antimicrobial drugs	farm animals	farm animals	going to	
-V-684	drugs	drugs	farm animals	farm animals	approved for use in	
-V-684	union of concerned scientists	union of concerned scientists	antibiotics	antibiotics	estimate that as much as 70% of	
-V-684	drugs	drugs	farm animals	farm animals	going to	

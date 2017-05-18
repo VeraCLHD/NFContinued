@@ -1,7 +1,0 @@
-
-V-276	colon	colon	diverticulosis	diverticulosis	itself, known as	
-V-276	risk	risk	cancer	cancer	of	
-V-276	hernia	hernia	stomach	stomach	occurs when part of the	
-V-276	cancer	cancer	phytates	phytates	.this could be because of the	
-V-276	fiber	fiber	risk	risk	may decrease the	
-V-276	risk	risk	reflux	reflux	of	

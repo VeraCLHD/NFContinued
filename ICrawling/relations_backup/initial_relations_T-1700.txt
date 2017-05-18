@@ -1,5 +1,0 @@
-
-T-1700	fruits	fruits	vegetables	vegetables	and	
-T-1700	smoothies	smoothies	fruits	fruits	may be an excellent way to increase one’s intake of	
-T-1700	phytonutrients	phytonutrients	fiber	fiber	may be attached to	
-T-1700	smoothies	smoothies	appetite	appetite	might help suppress	

@@ -1,4 +1,0 @@
-
-V-870	cancer	cancer	processed meat	processed meat	is so strong—particularly	
-V-870	meat	meat	cancer	cancer	and	
-V-870	cancer	cancer	meat	meat	is so strong—particularly processed	

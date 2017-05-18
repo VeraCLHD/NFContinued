@@ -1,7 +1,0 @@
-
-T-920	herbs	herbs	variety	variety	may treat a wide	
-T-920	nausea	nausea	vomiting	vomiting	and	
-T-920	herbal remedies	herbal remedies	herbs	herbs	involve using	
-T-920	herbal remedies	herbal remedies	fennel	fennel	include	
-T-920	herbal remedies	herbal remedies	fennel seeds	fennel seeds	include	
-T-920	herbs	herbs	spices	spices	and	

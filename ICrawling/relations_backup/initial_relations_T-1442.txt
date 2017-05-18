@@ -1,4 +1,0 @@
-
-T-1442	diet	diet	health	health	can impact their	
-T-1442	meat	meat	tobacco	tobacco	is the new	
-T-1442	contaminants	contaminants	chicken	chicken	in	

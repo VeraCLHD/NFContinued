@@ -1,4 +1,0 @@
-
-V-210	doctors	doctors	colonoscopy	colonoscopy	recommend	
-V-210	screening	screening	prevention	prevention	and	
-V-210	colonoscopy	colonoscopy	goose	goose	is the	

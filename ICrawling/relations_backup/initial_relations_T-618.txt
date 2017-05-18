@@ -1,8 +1,0 @@
-
-T-618	doctors	doctors	lead	lead	began to	
-T-618	chronic diseases	chronic diseases	medical community	medical community	was recognized by the	
-T-618	dr. neal barnard	dr. neal barnard	physicians committee for responsible medicine	physicians committee for responsible medicine	founded the	
-T-618	doctors	doctors	diet	diet	enabled or at least took no action to help patients learn about and pursue	
-T-618	meat	meat	tobacco	tobacco	is the new	
-T-618	dr. neal barnard	dr. neal barnard	physicians	physicians	founded the	
-T-618	doctors	doctors	nutrition	nutrition	practice good	

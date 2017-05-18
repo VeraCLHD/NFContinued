@@ -1,6 +1,0 @@
-
-T-572	kale	kale	vegetables	vegetables	appear to be the best	
-T-572	phytochemicals	phytochemicals	liver	liver	help boost our	
-T-572	pregnancy	pregnancy	breastfeeding	breastfeeding	and	
-T-572	vegetables	vegetables	sulforaphane	sulforaphane	are a top source of	
-T-572	pollutants	pollutants	children	children	can be passed on to her	

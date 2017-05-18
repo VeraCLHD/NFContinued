@@ -1,7 +1,0 @@
-
-V-232	animal protein	animal protein	inflammatory bowel disease	inflammatory bowel disease	may play in the development of	
-V-232	diet	diet	disease	disease	could positively affect the course of their	
-V-232	bacteria	bacteria	butyrate	butyrate	turn into this beneficial compound called	
-V-232	meat	meat	alcohol	alcohol	and	
-V-232	protein	protein	inflammatory bowel disease	inflammatory bowel disease	may play in the development of	
-V-232	physicians	physicians	inflammatory bowel disease	inflammatory bowel disease	treating patients with	

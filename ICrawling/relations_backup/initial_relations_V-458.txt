@@ -1,9 +1,0 @@
-
-V-458	asthma	asthma	fruits	fruits	found that just a few extra servings of	
-V-458	fruit	fruit	vegetables	vegetables	and	
-V-458	phytonutrients	phytonutrients	grapes	grapes	found in	
-V-458	fruits	fruits	vegetables	vegetables	and	
-V-458	diet	diet	plants	plants	composed of	
-V-458	diet	diet	risk	risk	appeared to be at half the	
-V-458	vegetables	vegetables	asthma	asthma	head to head against	
-V-458	supplements	supplements	phytonutrients	phytonutrients	containing isolated	

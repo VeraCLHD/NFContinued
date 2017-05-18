@@ -1,7 +1,0 @@
-
-T-1732	split peas	split peas	protein	protein	offer significant levels of	
-T-1732	peas	peas	protein	protein	offer significant levels of	
-T-1732	whole foods	whole foods	magnesium	magnesium	contain	
-T-1732	legumes	legumes	cholesterol	cholesterol	may help reduce	
-T-1732	risk	risk	prediabetes	prediabetes	of	
-T-1732	diabetes	diabetes	heart disease	heart disease	and	

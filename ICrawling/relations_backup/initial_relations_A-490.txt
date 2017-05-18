@@ -1,6 +1,0 @@
-
-A-490	meat	meat	dairy	dairy	or	
-A-490	epic	epic	vitamin c	vitamin c	measured the levels of	
-A-490	healthy eating index	healthy eating index	phytonutrient	phytonutrient	based on	
-A-490	cdc	cdc	health	health	published a paper this week in the american journal of public	
-A-490	cdc	cdc	public health	public health	published a paper this week in the american journal of	

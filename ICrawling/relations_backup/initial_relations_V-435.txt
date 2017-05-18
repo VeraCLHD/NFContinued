@@ -1,5 +1,0 @@
-
-V-435	spain	spain	physical activity	physical activity	had a group of men engage in intense	
-V-435	phytonutrients	phytonutrients	exercise	exercise	can help with	
-V-435	cherries	cherries	muscle soreness	muscle soreness	may play in reducing	
-V-435	fruits	fruits	vegetables	vegetables	and	

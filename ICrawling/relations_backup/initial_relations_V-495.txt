@@ -1,8 +1,0 @@
-
-V-495	sex hormones	sex hormones	milk	milk	found naturally in all	
-V-495	almond milk	almond milk	cancer cells	cancer cells	suppressed the growth of these	
-V-495	milk	milk	cancer cells	cancer cells	suppressed the growth of these	
-V-495	cancer	cancer	japan	japan	in	
-V-495	prostate cancer	prostate cancer	japan	japan	in	
-V-495	milk	milk	cancer	cancer	suppressed the growth of these	
-V-495	almond milk	almond milk	cancer	cancer	suppressed the growth of these	

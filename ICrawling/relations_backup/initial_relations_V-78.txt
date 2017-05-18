@@ -1,5 +1,0 @@
-
-V-78	plant-based diet	plant-based diet	heart disease	heart disease	followed by populations that did not get epidemic	
-V-78	diet	diet	heart disease	heart disease	followed by populations that did not get epidemic	
-V-78	plaque	plaque	arteries	arteries	away, opening up	
-V-78	kids	kids	standard american diet	standard american diet	raised on the	

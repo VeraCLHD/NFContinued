@@ -1,7 +1,0 @@
-
-T-123	bacteria	bacteria	mood	mood	may actually be able to communicate with our brain to affect our	
-T-123	juice	juice	mood	mood	might improve the	
-T-123	vegetarians	vegetarians	mood	mood	appear to have a better overall	
-T-123	apple juice	apple juice	mood	mood	might improve the	
-T-123	gut bacteria	gut bacteria	mood	mood	may actually be able to communicate with our brain to affect our	
-T-123	aromatherapy	aromatherapy	anxiety	anxiety	may decrease	

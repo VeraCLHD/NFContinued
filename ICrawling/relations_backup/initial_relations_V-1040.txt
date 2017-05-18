@@ -1,6 +1,0 @@
-
-V-1040	dioxins	dioxins	pesticides	pesticides	and	
-V-1040	rectal cancer	rectal cancer	lung cancer	lung cancer	and	
-V-1040	risk	risk	cancer	cancer	of	
-V-1040	dioxins	dioxins	dairy	dairy	in	
-V-1040	epa	epa	cancer	cancer	considers to be the level at which there’s significantly increased	

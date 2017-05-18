@@ -1,5 +1,0 @@
-
-V-1185	chicken	chicken	isoflavones	isoflavones	have about 4 for these	
-V-1185	protein	protein	soy	soy	replaced with	
-V-1185	beef	beef	chicken	chicken	or	
-V-1185	soy	soy	fat	fat	helps prevent human	

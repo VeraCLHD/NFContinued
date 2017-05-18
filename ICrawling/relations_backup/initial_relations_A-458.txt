@@ -1,5 +1,0 @@
-
-A-458	diet	diet	disease	disease	and	
-A-458	cancer	cancer	cardiovascular disease	cardiovascular disease	or	
-A-458	risk	risk	death	death	of	
-A-458	medicine	medicine	risk	risk	tries to predict the future	

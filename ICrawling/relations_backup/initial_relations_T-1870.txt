@@ -1,6 +1,0 @@
-
-T-1870	mercury	mercury	tuna	tuna	in	
-T-1870	sushi	sushi	fecal contamination	fecal contamination	may contain	
-T-1870	sushi	sushi	contamination	contamination	may contain fecal	
-T-1870	brains	brains	infants	infants	of	
-T-1870	benzene	benzene	putrescine	putrescine	and	

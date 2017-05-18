@@ -1,9 +1,0 @@
-
-V-204	sudden cardiac death	sudden cardiac death	heart disease	heart disease	is the first manifestation of	
-V-204	death	death	heart disease	heart disease	is the first manifestation of	
-V-204	cardiovascular disease	cardiovascular disease	mortality	mortality	and	
-V-204	smoking	smoking	mortality	mortality	results in a substantial reduction in	
-V-204	cardiac death	cardiac death	heart disease	heart disease	is the first manifestation of	
-V-204	fruits	fruits	vegetables	vegetables	and	
-V-204	disease	disease	mortality	mortality	and	
-V-204	risk	risk	sudden cardiac death	sudden cardiac death	of	

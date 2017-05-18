@@ -1,4 +1,0 @@
-
-T-1326	fruits	fruits	vegetables	vegetables	and	
-T-1326	tea	tea	cold	cold	made with	
-T-1326	neurotoxins	neurotoxins	liver	liver	and	

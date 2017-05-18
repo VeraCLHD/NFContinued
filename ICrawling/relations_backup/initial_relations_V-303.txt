@@ -1,6 +1,0 @@
-
-V-303	drugs	drugs	risk	risk	can reduce the	
-V-303	heart attacks	heart attacks	cholesterol	cholesterol	had perforating	
-V-303	diet	diet	drugs	drugs	or	
-V-303	plaque	plaque	heart attacks	heart attacks	were found in patients who died with	
-V-303	arterial plaque	arterial plaque	heart attacks	heart attacks	were found in patients who died with	

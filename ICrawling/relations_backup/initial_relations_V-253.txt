@@ -1,9 +1,0 @@
-
-V-253	olive oil	olive oil	endothelial	endothelial	was found to have the same impairment to	
-V-253	vegetables	vegetables	endothelial	endothelial	appear to provide some protection against the direct impairment of	
-V-253	sausage	sausage	egg mcmuffin	egg mcmuffin	and	
-V-253	phytonutrients	phytonutrients	fruit	fruit	found in the olive	
-V-253	olive oil	olive oil	endothelial	endothelial	wasn’t far behind.studies that have suggested	
-V-253	sausage	sausage	egg	egg	and	
-V-253	fruits	fruits	vegetables	vegetables	and	
-V-253	olive oil	olive oil	oils	oils	may be better than omega-6-rich	

@@ -1,7 +1,0 @@
-
-V-1159	fish	fish	mad cow disease	mad cow disease	don’t get	
-V-1159	food poisoning	food poisoning	raw	raw	eating	
-V-1159	worms	worms	eye	eye	or	
-V-1159	fish	fish	fecal bacteria	fecal bacteria	is contaminated with	
-V-1159	mercury	mercury	pcbs	pcbs	or	
-V-1159	fish	fish	bacteria	bacteria	is contaminated with fecal	

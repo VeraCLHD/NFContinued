@@ -1,5 +1,0 @@
-
-T-201	beans	beans	health	health	are so	
-T-201	beans	beans	health	health	contain a multitude of nutrients that are known to be	
-T-201	beans	beans	phytonutrients	phytonutrients	are rich in	
-T-201	phytonutrients	phytonutrients	antioxidants	antioxidants	and	

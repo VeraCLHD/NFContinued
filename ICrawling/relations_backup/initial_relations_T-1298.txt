@@ -1,8 +1,0 @@
-
-T-1298	chicken	chicken	mercury	mercury	and	
-T-1298	mercury	mercury	fish	fish	in	
-T-1298	usda	usda	meat	meat	has failed to safeguard the	
-T-1298	meat	meat	risk	risk	may have an increased	
-T-1298	arsenic	arsenic	chicken	chicken	in	
-T-1298	myelopathy	myelopathy	vitamin b12	vitamin b12	refers to	
-T-1298	carcinogens	carcinogens	heterocyclic amines	heterocyclic amines	known as	

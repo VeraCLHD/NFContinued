@@ -1,6 +1,0 @@
-
-T-204	diet	diet	beer	beer	is so low in nutrients that	
-T-204	standard american diet	standard american diet	beer	beer	is so low in nutrients that	
-T-204	phytoestrogen	phytoestrogen	beer	beer	in	
-T-204	beer	beer	antioxidants	antioxidants	represents the fifth largest source of	
-T-204	wine	wine	women	women	has a dehydrating effect.with regard to	

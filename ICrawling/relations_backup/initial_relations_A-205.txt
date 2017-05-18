@@ -1,7 +1,0 @@
-
-A-205	diet	diet	corn	corn	centered around	
-A-205	heart disease	heart disease	colon	colon	and	
-A-205	disease	disease	colon	colon	and	
-A-205	heart disease	heart disease	colon cancer	colon cancer	and	
-A-205	plant-based diet	plant-based diet	corn	corn	centered around	
-A-205	disease	disease	colon cancer	colon cancer	and	

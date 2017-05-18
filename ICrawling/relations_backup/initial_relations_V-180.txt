@@ -1,9 +1,0 @@
-
-V-180	blindness	blindness	kidney failure	kidney failure	and	
-V-180	blood sugar	blood sugar	drugs	drugs	lowering with	
-V-180	blindness	blindness	kidney	kidney	and	
-V-180	medicine	medicine	weight loss	weight loss	found that an intensive lifestyle intervention focusing on	
-V-180	weight loss	weight loss	heart attacks	heart attacks	did not reduce the rate of cardiovascular events like	
-V-180	risk	risk	death	death	of	
-V-180	drugs	drugs	mortality	mortality	increased	
-V-180	diabetes	diabetes	risk	risk	are at elevated	

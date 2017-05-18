@@ -1,9 +1,0 @@
-
-V-1048	cheese	cheese	mortality	mortality	had the highest correlation with the incidence and	
-V-1048	milk	milk	hormones	hormones	is a rich source of these	
-V-1048	animal products	animal products	steroid hormones	steroid hormones	was definitively linked to the levels of circulating	
-V-1048	milk	milk	cheese	cheese	and	
-V-1048	milk	milk	dairy	dairy	and	
-V-1048	milk	milk	twins	twins	-drinkers have five times the rates of	
-V-1048	twins	twins	vegans	vegans	compared to	
-V-1048	estrogen	estrogen	women	women	is not just a problem for	

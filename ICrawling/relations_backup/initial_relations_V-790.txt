@@ -1,7 +1,0 @@
-
-V-790	ductus arteriosus	ductus arteriosus	herbal	herbal	following the maternal consumption of camomile	
-V-790	liver	liver	kidney	kidney	or	
-V-790	ductus arteriosus	ductus arteriosus	herbal tea	herbal tea	following the maternal consumption of camomile	
-V-790	pregnant women	pregnant women	anti-inflammatory	anti-inflammatory	are not supposed to take	
-V-790	liver	liver	kidney disease	kidney disease	or	
-V-790	women	women	anti-inflammatory	anti-inflammatory	are not supposed to take	

@@ -1,9 +1,0 @@
-
-V-993	phthalates	phthalates	poultry	poultry	was	
-V-993	pregnant women	pregnant women	pregnancy	pregnancy	may want to avoid during	
-V-993	muscles	muscles	eggs	eggs	and	
-V-993	women	women	pregnancy	pregnancy	may want to avoid during	
-V-993	phthalates	phthalates	chickens	chickens	have been intentionally fed to	
-V-993	phthalates	phthalates	chicken	chicken	found in	
-V-993	phthalates	phthalates	pesticides	pesticides	are [chemical] compounds…used in a wide range of consumer products [including	
-V-993	attention deficit	attention deficit	hyperactivity	hyperactivity	and	

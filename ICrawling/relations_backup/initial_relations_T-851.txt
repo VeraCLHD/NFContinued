@@ -1,7 +1,0 @@
-
-T-851	risk	risk	gout	gout	of	
-T-851	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
-T-851	risk	risk	uric acid	uric acid	of	
-T-851	cherries	cherries	inflammation	inflammation	fight	
-T-851	disease	disease	uric acid	uric acid	caused by too much	
-T-851	risk	risk	lead	lead	of	

@@ -1,4 +1,0 @@
-
-T-1936	diet	diet	symptoms	symptoms	may improve alzheimer’s	
-T-1936	plant-based diets	plant-based diets	b12	b12	include	
-T-1936	plant-based diet	plant-based diet	symptoms	symptoms	may improve alzheimer’s	

@@ -1,5 +1,0 @@
-
-V-1296	meat	meat	poultry	poultry	and	
-V-1296	fish	fish	poultry	poultry	and	
-V-1296	salmon	salmon	tuna	tuna	and	
-V-1296	avocado	avocado	cucumbers	cucumbers	and	

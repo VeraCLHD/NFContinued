@@ -1,7 +1,0 @@
-
-T-1092	lettuce	lettuce	antioxidants	antioxidants	has more	
-T-1092	vegetables	vegetables	iceberg lettuce	iceberg lettuce	do not count a serving of	
-T-1092	iceberg lettuce	iceberg lettuce	animal products	animal products	beats out most	
-T-1092	lettuce	lettuce	antioxidants	antioxidants	is low in	
-T-1092	fruits	fruits	vegetables	vegetables	and	
-T-1092	lettuce	lettuce	vegetables	vegetables	make the top-ten list of	

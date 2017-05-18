@@ -1,5 +1,0 @@
-
-V-922	cholesterol	cholesterol	diet	diet	found in the american	
-V-922	fats	fats	junk food	junk food	are mostly in	
-V-922	trans fats	trans fats	junk food	junk food	are mostly in	
-V-922	eggs	eggs	chicken	chicken	and	

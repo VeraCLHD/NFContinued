@@ -1,9 +1,0 @@
-
-T-1367	prevention	prevention	treatment	treatment	and	
-T-1367	risk	risk	smoking	smoking	include:	
-T-1367	ovarian cancer	ovarian cancer	soy	soy	include:	
-T-1367	cancer	cancer	soy	soy	include:	
-T-1367	cancer	cancer	soy foods	soy foods	include:	
-T-1367	antioxidant	antioxidant	cancer	cancer	found in high concentrations in the cervical region that may inhibit ovarian	
-T-1367	antioxidant	antioxidant	ovarian cancer	ovarian cancer	found in high concentrations in the cervical region that may inhibit	
-T-1367	ovarian cancer	ovarian cancer	soy foods	soy foods	include:	

@@ -1,8 +1,0 @@
-
-V-496	flax	flax	wheatgrass	wheatgrass	and	
-V-496	turmeric	turmeric	kidney	kidney	would not be recommended for people with a tendency to form	
-V-496	turmeric	turmeric	kidney stones	kidney stones	would not be recommended for people with a tendency to form	
-V-496	cooking	cooking	curcumin	curcumin	may be better than taking	
-V-496	curcumin	curcumin	turmeric	turmeric	is…a natural plant product extracted from [	
-V-496	turmeric	turmeric	oxalates	oxalates	is high in soluble	
-V-496	curcumin	curcumin	liver	liver	may help protect	

@@ -1,7 +1,0 @@
-
-V-244	berries	berries	greens	greens	and	
-V-244	juice	juice	insulin	insulin	can enhance the	
-V-244	sugar	sugar	apple	apple	in	
-V-244	fruit juice	fruit juice	insulin	insulin	can enhance the	
-V-244	sugar	sugar	apple juice	apple juice	in	
-V-244	smoothies	smoothies	berries	berries	may be questionable, a recipe like mayo’s basic green smoothie recipe, packed with	

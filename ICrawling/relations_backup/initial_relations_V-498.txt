@@ -1,9 +1,0 @@
-
-V-498	treatment	treatment	osteoarthritis	osteoarthritis	of	
-V-498	phytonutrients	phytonutrients	plants	plants	in	
-V-498	obesity	obesity	stress	stress	doesn’t just put more	
-V-498	vegetables	vegetables	fruits	fruits	and	
-V-498	nutrition	nutrition	exercise	exercise	and	
-V-498	in vitro studies	in vitro studies	soy	soy	suggesting protective benefits of	
-V-498	curcumin	curcumin	turmeric	turmeric	in	
-V-498	drugs	drugs	painkillers	painkillers	and	

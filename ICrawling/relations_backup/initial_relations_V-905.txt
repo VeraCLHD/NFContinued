@@ -1,6 +1,0 @@
-
-V-905	amla	amla	bad cholesterol	bad cholesterol	lowered their	
-V-905	amla	amla	cholesterol	cholesterol	lowered their bad	
-V-905	side effects	side effects	gooseberries	gooseberries	of	
-V-905	diabeta	diabeta	micronase	micronase	or	
-V-905	liver	liver	bone marrow	bone marrow	fails, or it poisons your	

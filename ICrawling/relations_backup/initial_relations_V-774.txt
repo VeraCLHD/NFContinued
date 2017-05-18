@@ -1,4 +1,0 @@
-
-V-774	fruits	fruits	vegetables	vegetables	and	
-V-774	phytonutrient	phytonutrient	kiwis	kiwis	in	
-V-774	plant foods	plant foods	antioxidants	antioxidants	 are rich in	

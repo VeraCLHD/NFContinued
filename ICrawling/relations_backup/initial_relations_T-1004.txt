@@ -1,7 +1,0 @@
-
-T-1004	prediabetes	prediabetes	diabetes	diabetes	is a state of borderline	
-T-1004	sugar	sugar	diabetes	diabetes	rises after a meal in a patient with	
-T-1004	blood sugar	blood sugar	diabetes	diabetes	rises after a meal in a patient with	
-T-1004	insulin	insulin	hormones	hormones	is one of a number of	
-T-1004	weight loss	weight loss	plant-based	plant-based	itself, independent of	
-T-1004	diabetes	diabetes	risk	risk	is a strong	

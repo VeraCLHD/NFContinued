@@ -1,9 +1,0 @@
-
-V-583	hot dogs	hot dogs	fats	fats	contain up to about 1 to 5% trans	
-V-583	processed foods	processed foods	oils	oils	containing partially hydrogenated	
-V-583	fats	fats	fat	fat	are basically only found one place in nature—animal	
-V-583	dogs	dogs	fats	fats	contain up to about 1 to 5% trans	
-V-583	new york city	new york city	oils	oils	banned the use of partially hydrogenated	
-V-583	animal products	animal products	fats	fats	are as bad as the synthetic	
-V-583	diet	diet	animal products	animal products	used to come from	
-V-583	fats	fats	animal fat	animal fat	are basically only found one place in nature—	

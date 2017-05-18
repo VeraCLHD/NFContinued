@@ -1,5 +1,0 @@
-
-V-196	diet	diet	cheap	cheap	are too	
-V-196	diet	diet	corn syrup	corn syrup	dominated by higher intakes of calorie-dense foods -	
-V-196	tobacco	tobacco	cancer	cancer	and	
-V-196	diet	diet	corn	corn	dominated by higher intakes of calorie-dense foods -	

@@ -1,7 +1,0 @@
-
-V-445	strawberries	strawberries	antioxidant	antioxidant	have [more]	
-V-445	lettuce	lettuce	fruits	fruits	and	
-V-445	dna	dna	plants	plants	in	
-V-445	plants	plants	dna	dna	have	
-V-445	plants	plants	bacteria	bacteria	get attacked by	
-V-445	plants	plants	antioxidants	antioxidants	figured out how to cook up all these complex	

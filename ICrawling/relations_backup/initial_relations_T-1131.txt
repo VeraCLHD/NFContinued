@@ -1,4 +1,0 @@
-
-T-1131	diet	diet	copd	copd	may help prevent and treat	
-T-1131	frying meat	frying meat	risk	risk	may raise the	
-T-1131	plant-based diet	plant-based diet	copd	copd	may help prevent and treat	

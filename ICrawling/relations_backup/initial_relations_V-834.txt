@@ -1,8 +1,0 @@
-
-V-834	risk	risk	coronary heart disease	coronary heart disease	of	
-V-834	women	women	apples	apples	published, those who ate the most	
-V-834	apple juice	apple juice	risk	risk	appeared to increase their	
-V-834	fruits	fruits	vegetables	vegetables	and	
-V-834	heart attacks	heart attacks	fat	fat	had a plug of	
-V-834	juice	juice	risk	risk	appeared to increase their	
-V-834	apples	apples	risk	risk	appeared to have significantly less	

@@ -1,5 +1,0 @@
-
-T-357	canada	canada	diet	diet	examining the links between	
-T-357	anxiety	anxiety	mood	mood	and	
-T-357	beans	beans	lentils	lentils	and	
-T-357	canada	canada	fat	fat	found that those who reduced their	

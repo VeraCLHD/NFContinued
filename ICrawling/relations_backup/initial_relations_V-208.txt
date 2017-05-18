@@ -1,8 +1,0 @@
-
-V-208	risk	risk	lung cancer	lung cancer	of	
-V-208	pills	pills	mortality	mortality	continued to increase	
-V-208	vegetables	vegetables	soup	soup	and	
-V-208	blood	blood	risk	risk	increase the	
-V-208	risk	risk	chronic disease	chronic disease	of	
-V-208	fruits	fruits	vegetables	vegetables	and	
-V-208	risk	risk	heart disease	heart disease	of	

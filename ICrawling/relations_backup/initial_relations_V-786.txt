@@ -1,4 +1,0 @@
-
-V-786	vegetarian	vegetarian	vegan	vegan	or	
-V-786	vegetarians	vegetarians	risk	risk	have a lower	
-V-786	diet	diet	inflammation	inflammation	was associated with lower	

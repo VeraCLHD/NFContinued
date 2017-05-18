@@ -1,7 +1,0 @@
-
-V-296	organic	organic	risk	risk	were at increased	
-V-296	risk	risk	cancer	cancer	of	
-V-296	soda	soda	alcohol	alcohol	and	
-V-296	processed meat	processed meat	milk	milk	or	
-V-296	meat	meat	milk	milk	or	
-V-296	insects	insects	insecticides	insecticides	eating	

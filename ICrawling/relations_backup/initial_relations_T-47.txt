@@ -1,8 +1,0 @@
-
-T-47	neurotoxins	neurotoxins	hepatotoxins	hepatotoxins	and	
-T-47	supplements	supplements	neurotoxins	neurotoxins	have been found to contain	
-T-47	algae	algae	dha	dha	based	
-T-47	variety	variety	dairy	dairy	of	
-T-47	algae	algae	spirulina	spirulina	and	
-T-47	epa	epa	dha	dha	and	
-T-47	dha	dha	algae	algae	are procured from toxin-free	

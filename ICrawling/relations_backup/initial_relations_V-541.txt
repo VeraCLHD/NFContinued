@@ -1,9 +1,0 @@
-
-V-541	cholesterol	cholesterol	fiber	fiber	will follow—especially if you eat more	
-V-541	animal fat	animal fat	cholesterol	cholesterol	and	
-V-541	saturated animal fat	saturated animal fat	cholesterol	cholesterol	and	
-V-541	beef	beef	chicken	chicken	is often better than	
-V-541	diet	diet	fat	fat	goes from 12% saturated	
-V-541	fat	fat	cholesterol	cholesterol	and	
-V-541	fiber	fiber	vegetable protein	vegetable protein	and	
-V-541	protein	protein	risk	risk	are preferable.the subjects in this study went from a high	

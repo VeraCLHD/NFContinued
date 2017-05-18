@@ -1,6 +1,0 @@
-
-V-608	milk	milk	juice	juice	and	
-V-608	cognitive performance	cognitive performance	water	water	can be improved by having a drink of	
-V-608	kids	kids	water	water	did not drink	
-V-608	amino acids	amino acids	milk	milk	in	
-V-608	hydration	hydration	cognitive performance	cognitive performance	and	

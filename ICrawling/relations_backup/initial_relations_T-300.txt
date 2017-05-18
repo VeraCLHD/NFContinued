@@ -1,4 +1,0 @@
-
-T-300	breakfast cereal	breakfast cereal	cereal	cereal	may help blunt the	
-T-300	blueberries	blueberries	breakfast	breakfast	eaten with	
-T-300	blueberries	blueberries	breakfast cereal	breakfast cereal	eaten with	

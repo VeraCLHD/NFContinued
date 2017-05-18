@@ -1,9 +1,0 @@
-
-T-1532	dioxins	dioxins	alkylphenols	alkylphenols	and	
-T-1532	plant-based diet	plant-based diet	hormones	hormones	seems to help is by reducing the amount of excess	
-T-1532	cancer	cancer	cancer	cancer	is the most common	
-T-1532	milk	milk	risk	risk	may reduce overall	
-T-1532	prostate cancer	prostate cancer	cancer	cancer	is the most common	
-T-1532	igf-1	igf-1	meat	meat	are comparable to those eating	
-T-1532	diet	diet	hormones	hormones	seems to help is by reducing the amount of excess	
-T-1532	igf-1	igf-1	cancer	cancer	may be linked with	

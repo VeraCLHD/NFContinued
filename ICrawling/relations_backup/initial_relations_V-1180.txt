@@ -1,5 +1,0 @@
-
-V-1180	inflammation	inflammation	disease	disease	plays a key role in a number of	
-V-1180	vegetarians	vegetarians	risk	risk	have a lower	
-V-1180	doctors	doctors	aspirin	aspirin	recommend some patients take an	
-V-1180	plants	plants	disease	disease	use it to prevent	

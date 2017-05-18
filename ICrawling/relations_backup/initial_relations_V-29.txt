@@ -1,8 +1,0 @@
-
-V-29	gut flora	gut flora	fat	fat	may affect how we metabolize	
-V-29	dogs	dogs	bacteria	bacteria	can act like a bridge to pass	
-V-29	antibiotics	antibiotics	obesity	obesity	is linked to	
-V-29	gut flora	gut flora	obesity	obesity	and	
-V-29	flora	flora	obesity	obesity	and	
-V-29	flora	flora	fat	fat	may affect how we metabolize	
-V-29	pets	pets	infants	infants	suffered from wheezy bronchitis within the first two years of life— whereas 15% of the pet-deprived	

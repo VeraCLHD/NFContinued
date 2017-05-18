@@ -1,7 +1,0 @@
-
-A-148	heart attack	heart attack	stroke	stroke	or	
-A-148	americans	americans	heart attack	heart attack	experience their first	
-A-148	physical activity	physical activity	risk	risk	can substantially reduce their	
-A-148	prevention	prevention	chronic diseases	chronic diseases	of	
-A-148	processed foods	processed foods	meat	meat	and	
-A-148	prevention	prevention	disease	disease	of	

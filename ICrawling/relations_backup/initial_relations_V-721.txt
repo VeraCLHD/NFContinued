@@ -1,4 +1,0 @@
-
-V-721	legumes	legumes	diet	diet	should be a part of everyone’s daily	
-V-721	soy foods	soy foods	tofu	tofu	daily, whether they were	
-V-721	soy	soy	risk	risk	appear to have a lower	

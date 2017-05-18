@@ -1,4 +1,0 @@
-
-V-1239	soda	soda	cranberry juice	cranberry juice	in	
-V-1239	variety	variety	soft drinks	soft drinks	of	
-V-1239	soda	soda	cranberry	cranberry	in	

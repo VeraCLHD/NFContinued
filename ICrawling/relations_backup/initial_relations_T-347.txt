@@ -1,7 +1,0 @@
-
-T-347	oxalates	oxalates	calcium	calcium	can bind to	
-T-347	vegans	vegans	bone mineral density	bone mineral density	appear to have the same	
-T-347	phytates	phytates	fiber	fiber	and	
-T-347	calcium	calcium	greens	greens	is more readily absorbable from	
-T-347	kale	kale	broccoli	broccoli	and	
-T-347	supplements	supplements	risk	risk	are not recommended as they might increase your	

@@ -1,4 +1,0 @@
-
-V-856	fruits	fruits	vegetables	vegetables	and	
-V-856	leafy vegetables	leafy vegetables	citrus	citrus	and	
-V-856	vegetables	vegetables	citrus	citrus	and	

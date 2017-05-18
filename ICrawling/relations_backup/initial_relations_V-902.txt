@@ -1,8 +1,0 @@
-
-V-902	lead poisoning	lead poisoning	lead	lead	had higher	
-V-902	cdc	cdc	lead poisoning	lead poisoning	started noticing cases of “	
-V-902	women	women	herbs	herbs	using ayurvedic	
-V-902	cdc	cdc	lead	lead	started noticing cases of “	
-V-902	triphala	triphala	herbal	herbal	is the most commonly used	
-V-902	lead poisoning	lead poisoning	medications	medications	associated with ayurvedic	
-V-902	herbs	herbs	lead	lead	had	

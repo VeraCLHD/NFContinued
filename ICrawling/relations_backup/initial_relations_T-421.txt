@@ -1,5 +1,0 @@
-
-T-421	chicken	chicken	periodontal disease	periodontal disease	is linked to 	
-T-421	cheese	cheese	chicken	chicken	and	
-T-421	cheese	cheese	sodium	sodium	is one of the top ten 	
-T-421	sausage	sausage	cheese	cheese	and	

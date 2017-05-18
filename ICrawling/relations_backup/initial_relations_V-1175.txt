@@ -1,8 +1,0 @@
-
-V-1175	meat	meat	dairy	dairy	and	
-V-1175	vegans	vegans	diabetes	diabetes	was just published in the journal of the american	
-V-1175	vegans	vegans	american diabetes association	american diabetes association	was just published in the journal of the	
-V-1175	flexitarians	flexitarians	vegetarians	vegetarians	are overweight.what about the full-time	
-V-1175	vegetarians	vegetarians	dairy	dairy	cut out	
-V-1175	dairy	dairy	eggs	eggs	and	
-V-1175	vegans	vegans	healthy weight	healthy weight	are, on average, a	

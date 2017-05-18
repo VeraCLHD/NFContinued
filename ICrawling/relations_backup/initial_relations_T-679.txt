@@ -1,4 +1,0 @@
-
-T-679	energy	energy	mood	mood	relates to our	
-T-679	brains	brains	muscles	muscles	and	
-T-679	caffeine	caffeine	energy	energy	increases	

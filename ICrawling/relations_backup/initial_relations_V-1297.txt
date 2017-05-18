@@ -1,7 +1,0 @@
-
-V-1297	salmonella	salmonella	arthritis	arthritis	once, and you may suffer from chronic	
-V-1297	cdc	cdc	eggs	eggs	saying don’t eat	
-V-1297	bacteria	bacteria	alfalfa	alfalfa	can get into the nooks and crannies of the	
-V-1297	food poisoning	food poisoning	sprouts	sprouts	tied to	
-V-1297	eggs	eggs	salmonella	salmonella	though, which caused 118,000 cases of	
-V-1297	eggs	eggs	bacteria	bacteria	have to be cooked hard to kill off the	

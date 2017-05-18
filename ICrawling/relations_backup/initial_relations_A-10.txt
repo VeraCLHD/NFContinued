@@ -1,7 +1,0 @@
-
-A-10	disease	disease	als	als	and	
-A-10	livestock	livestock	disease	disease	showing neurological	
-A-10	bmaa	bmaa	flying foxes	flying foxes	does accumulate in the flesh of	
-A-10	disease	disease	dementia	dementia	and	
-A-10	brains	brains	bmaa	bmaa	had	
-A-10	fish	fish	fruit	fruit	may be the	

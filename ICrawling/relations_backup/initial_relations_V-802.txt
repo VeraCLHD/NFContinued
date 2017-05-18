@@ -1,8 +1,0 @@
-
-V-802	pills	pills	green tea	green tea	look like this.	
-V-802	tea	tea	risk	risk	poses a real and growing	
-V-802	beans	beans	greens	greens	and	
-V-802	green tea	green tea	risk	risk	poses a real and growing	
-V-802	risk	risk	esophageal cancer	esophageal cancer	of	
-V-802	pills	pills	tea	tea	look like this.green	
-V-802	supplements	supplements	risk	risk	was associated with a significantly elevated	

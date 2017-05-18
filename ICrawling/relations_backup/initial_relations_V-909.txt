@@ -1,7 +1,0 @@
-
-V-909	dried fruit	dried fruit	goji berries	goji berries	known was	
-V-909	dried fruit	dried fruit	goji	goji	known was	
-V-909	phytonutrients	phytonutrients	blueberries	blueberries	in	
-V-909	antioxidant	antioxidant	fruit	fruit	-packed dried	
-V-909	fruit	fruit	goji	goji	known was	
-V-909	fruit	fruit	goji berries	goji berries	known was	

@@ -1,8 +1,0 @@
-
-V-1281	sausage	sausage	egg mcmuffin	egg mcmuffin	and	
-V-1281	nuts	nuts	health	health	are	
-V-1281	food industry	food industry	nutrition	nutrition	is definitely creative!check out this new study published in the journal of 	
-V-1281	sausage	sausage	egg	egg	and	
-V-1281	nuts	nuts	avocados	avocados	and	
-V-1281	avocados	avocados	nuts	nuts	and	
-V-1281	olive oil	olive oil	walnuts	walnuts	or	

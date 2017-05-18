@@ -1,7 +1,0 @@
-
-V-907	indian gooseberries	indian gooseberries	chemo	chemo	was almost as good as the	
-V-907	gooseberries	gooseberries	cancer cell growth	cancer cell growth	can block	
-V-907	gooseberries	gooseberries	cancer	cancer	can block	
-V-907	gooseberries	gooseberries	chemo	chemo	was almost as good as the	
-V-907	indian gooseberries	indian gooseberries	cancer cell growth	cancer cell growth	can block	
-V-907	indian gooseberries	indian gooseberries	cancer	cancer	can block	

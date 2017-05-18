@@ -1,7 +1,0 @@
-
-T-45	grapes	grapes	aromatase	aromatase	suppress the activity of	
-T-45	nausea	nausea	vomiting	vomiting	and	
-T-45	heartburn	heartburn	liver	liver	and	
-T-45	heartburn	heartburn	liver inflammation	liver inflammation	and	
-T-45	risk	risk	breast cancer	breast cancer	of	
-T-45	risk	risk	heart disease	heart disease	of	

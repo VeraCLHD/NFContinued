@@ -1,9 +1,0 @@
-
-T-1105	diet	diet	risk	risk	may provide a 60% absolute	
-T-1105	pain	pain	weakness	weakness	and	
-T-1105	plant-based diet	plant-based diet	risk	risk	may provide a 60% absolute	
-T-1105	fda	fda	side effects	side effects	issued new alerts about	
-T-1105	arteries	arteries	disease	disease	associated with cardiac	
-T-1105	arteries	arteries	cardiac disease	cardiac disease	associated with	
-T-1105	side effects	side effects	blood	blood	can be detected with	
-T-1105	statins	statins	muscle damage	muscle damage	experience	

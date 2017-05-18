@@ -1,6 +1,0 @@
-
-V-235	leafy vegetables	leafy vegetables	beets	beets	and	
-V-235	vegetables	vegetables	beets	beets	and	
-V-235	bread	bread	blood	blood	brought down	
-V-235	nitrates	nitrates	health	health	may have detrimental	
-V-235	fruits	fruits	vegetables	vegetables	and	

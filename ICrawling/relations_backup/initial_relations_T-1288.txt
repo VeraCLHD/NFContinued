@@ -1,6 +1,0 @@
-
-T-1288	fecal bacteria	fecal bacteria	persistent organic pollutants	persistent organic pollutants	or	
-T-1288	bacteria	bacteria	persistent organic pollutants	persistent organic pollutants	or	
-T-1288	foodborne illness	foodborne illness	contamination	contamination	can result from	
-T-1288	meats	meats	toxins	toxins	can develop	
-T-1288	seafood	seafood	meats	meats	and	

@@ -1,4 +1,0 @@
-
-T-1393	chemicals	chemicals	cheese	cheese	in	
-T-1393	neurotoxic chemicals	neurotoxic chemicals	cheese	cheese	in	
-T-1393	seafood	seafood	blue-green algae	blue-green algae	and	

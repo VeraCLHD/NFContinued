@@ -1,8 +1,0 @@
-
-V-439	calories	calories	exercise	exercise	of	
-V-439	exercise	exercise	medicine	medicine	is	
-V-439	heart disease	heart disease	stroke	stroke	and	
-V-439	prevention	prevention	diabetes	diabetes	of	
-V-439	depression	depression	osteoporosis	osteoporosis	and	
-V-439	disease	disease	stroke	stroke	and	
-V-439	treatment	treatment	heart disease	heart disease	of	

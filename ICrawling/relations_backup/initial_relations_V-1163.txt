@@ -1,5 +1,0 @@
-
-V-1163	breast cancer	breast cancer	meat	meat	has been the traditional target of these cooked	
-V-1163	breast cancer	breast cancer	cooked meat	cooked meat	has been the traditional target of these	
-V-1163	cancer	cancer	meat	meat	has been the traditional target of these cooked	
-V-1163	cancer	cancer	cooked meat	cooked meat	has been the traditional target of these	

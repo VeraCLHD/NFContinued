@@ -1,9 +1,0 @@
-
-A-78	fat	fat	calories	calories	and	
-A-78	smoking	smoking	lung cancer	lung cancer	and	
-A-78	virus	virus	children	children	weighed 35 pounds more than	
-A-78	red meat	red meat	processed meat	processed meat	or	
-A-78	poultry	poultry	obesity	obesity	and	
-A-78	meat	meat	processed meat	processed meat	or	
-A-78	infection	infection	body fat	body fat	had a greater percentage of	
-A-78	fat	fat	virus	virus	taken from non-infected people that was then exposed to the	

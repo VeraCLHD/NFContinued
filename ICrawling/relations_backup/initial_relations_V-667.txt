@@ -1,6 +1,0 @@
-
-V-667	risk	risk	stroke	stroke	of	
-V-667	potassium	potassium	fruits	fruits	is particularly abundant in	
-V-667	stroke	stroke	heart disease	heart disease	and	
-V-667	fruit	fruit	vegetables	vegetables	and	
-V-667	fruits	fruits	vegetables	vegetables	and	

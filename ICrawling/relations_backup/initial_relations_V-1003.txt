@@ -1,4 +1,0 @@
-
-V-1003	doctors	doctors	nutrition	nutrition	may think they know enough about	
-V-1003	diet	diet	cardiovascular disease	cardiovascular disease	and	
-V-1003	avocados	avocados	cholesterol	cholesterol	had	

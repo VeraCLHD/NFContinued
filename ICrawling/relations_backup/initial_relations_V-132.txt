@@ -1,5 +1,0 @@
-
-V-132	risk	risk	death	death	of	
-V-132	treatment	treatment	diabetes	diabetes	of	
-V-132	beans	beans	exercise	exercise	are as powerful as	
-V-132	risk	risk	sudden cardiac death	sudden cardiac death	of	

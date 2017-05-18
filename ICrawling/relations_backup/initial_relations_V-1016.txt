@@ -1,7 +1,0 @@
-
-V-1016	meat	meat	dairy	dairy	and	
-V-1016	melatonin	melatonin	cancer	cancer	is thought to suppress	
-V-1016	blindness	blindness	breast cancer	breast cancer	is indeed protective against	
-V-1016	adolescence	adolescence	breast cancer	breast cancer	was associated with	
-V-1016	women	women	breast cancer	breast cancer	have more	
-V-1016	melatonin	melatonin	cancer growth	cancer growth	is thought to suppress	

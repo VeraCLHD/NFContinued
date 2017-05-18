@@ -1,6 +1,0 @@
-
-T-387	risk	risk	african-american	african-american	in	
-T-387	carrots	carrots	antioxidants	antioxidants	are not particularly rich in 	
-T-387	fruits	fruits	vegetables	vegetables	and	
-T-387	lutein	lutein	zeaxanthin	zeaxanthin	and	
-T-387	carrots	carrots	beta carotene	beta carotene	are rich in 	

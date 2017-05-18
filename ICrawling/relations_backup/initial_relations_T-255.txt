@@ -1,5 +1,0 @@
-
-T-255	tomatoes	tomatoes	berries	berries	and	
-T-255	blood clots	blood clots	arteries	arteries	can form inside	
-T-255	risk	risk	blood	blood	of	
-T-255	risk	risk	blood clots	blood clots	of	

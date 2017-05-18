@@ -1,7 +1,0 @@
-
-V-488	salmonella	salmonella	campylobacter	campylobacter	and	
-V-488	bacteria	bacteria	chicken	chicken	found in	
-V-488	cooking	cooking	salmonella	salmonella	can kill	
-V-488	risk	risk	food poisoning	food poisoning	of	
-V-488	chicken	chicken	salmonella	salmonella	contaminated with a virulent strain of	
-V-488	meat industry	meat industry	usda	usda	sued the	

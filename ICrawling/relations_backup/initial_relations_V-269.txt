@@ -1,7 +1,0 @@
-
-V-269	disease	disease	rice	rice	has been achieved by the	
-V-269	kidney	kidney	heart failure	heart failure	and	
-V-269	diet	diet	insulin	insulin	would increase	
-V-269	diet	diet	weight loss	weight loss	was not because of	
-V-269	rice	rice	fruit	fruit	and	
-V-269	disease	disease	rice diet	rice diet	has been achieved by the	

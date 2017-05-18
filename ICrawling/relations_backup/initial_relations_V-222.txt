@@ -1,7 +1,0 @@
-
-V-222	beets	beets	phytonutrients	phytonutrients	may have more of certain	
-V-222	beet juice	beet juice	nitrate	nitrate	corresponds to eight units of	
-V-222	beet juice	beet juice	nitrate	nitrate	is	
-V-222	juice	juice	nitrate	nitrate	is	
-V-222	produce	produce	vitamin c	vitamin c	may have more	
-V-222	british heart foundation	british heart foundation	nitrate	nitrate	put together this really helpful table that takes into account both	

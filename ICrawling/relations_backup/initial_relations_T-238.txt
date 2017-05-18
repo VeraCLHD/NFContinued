@@ -1,5 +1,0 @@
-
-T-238	contaminants	contaminants	fat	fat	may accumulate in the	
-T-238	biomagnification	biomagnification	bmaa	bmaa	relates to the	
-T-238	epa	epa	contaminants	contaminants	are supposed to test for these	
-T-238	biomagnification	biomagnification	toxins	toxins	refers to the concentration of	

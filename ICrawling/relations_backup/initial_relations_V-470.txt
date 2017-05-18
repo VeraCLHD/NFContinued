@@ -1,8 +1,0 @@
-
-V-470	chicken	chicken	fish	fish	and	
-V-470	red meat	red meat	white meat	white meat	and	
-V-470	meat	meat	risk	risk	could reduce their	
-V-470	meat	meat	white meat	white meat	and	
-V-470	risk	risk	cancer	cancer	of	
-V-470	fiber	fiber	plant foods	plant foods	isn’t the only thing only found in whole	
-V-470	meats	meats	colon	colon	contribute to…	

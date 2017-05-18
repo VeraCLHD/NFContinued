@@ -1,5 +1,0 @@
-
-V-1120	arteries	arteries	blood	blood	choking off	
-V-1120	blood pressure	blood pressure	blood	blood	is, our	
-V-1120	cholesterol	cholesterol	atherosclerosis	atherosclerosis	is the cause of	
-V-1120	risk	risk	heart disease	heart disease	of	

@@ -1,6 +1,0 @@
-
-A-111	diet	diet	public health	public health	are supremely important in	
-A-111	plant-based diet	plant-based diet	health	health	are supremely important in public	
-A-111	diet	diet	health	health	was not conducive to good	
-A-111	plant-based diet	plant-based diet	public health	public health	are supremely important in	
-A-111	diet	diet	health	health	are supremely important in public	

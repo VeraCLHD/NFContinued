@@ -1,7 +1,0 @@
-
-V-722	diet	diet	cancer	cancer	suppresses	
-V-722	plant-based diet	plant-based diet	cancer growth	cancer growth	suppresses	
-V-722	plant-based diet	plant-based diet	cancer	cancer	suppresses	
-V-722	diet	diet	cancer growth	cancer growth	suppresses	
-V-722	china	china	japan	japan	and	
-V-722	phytoestrogens	phytoestrogens	soy	soy	in	

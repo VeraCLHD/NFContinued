@@ -1,9 +1,0 @@
-
-T-327	meat	meat	endotoxins	endotoxins	may have	
-T-327	burgers	burgers	aging	aging	have a high glycotoxin content which may contribute to premature	
-T-327	flaxseeds	flaxseeds	burgers	burgers	in	
-T-327	risk	risk	death	death	or	
-T-327	food industry	food industry	tobacco	tobacco	uses a number of tactics very similar to the	
-T-327	meats	meats	produce	produce	may	
-T-327	frying	frying	burgers	burgers	of	
-T-327	fish	fish	burgers	burgers	may be worse than	

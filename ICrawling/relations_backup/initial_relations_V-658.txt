@@ -1,9 +1,0 @@
-
-V-658	meat	meat	sugar	sugar	and	
-V-658	sugar	sugar	blood	blood	helps the	
-V-658	risk	risk	gout	gout	of	
-V-658	purines	purines	fructose	fructose	and	
-V-658	bacon	bacon	brains	brains	and	
-V-658	sugar	sugar	high fructose corn syrup	high fructose corn syrup	and	
-V-658	sugar	sugar	blood pressure	blood pressure	helps the	
-V-658	risk	risk	hypertension	hypertension	of	

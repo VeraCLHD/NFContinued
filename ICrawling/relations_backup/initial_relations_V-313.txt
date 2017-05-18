@@ -1,6 +1,0 @@
-
-V-313	disease	disease	als	als	and	
-V-313	bmaa	bmaa	als	als	were found in 49 out of 50 samples from 12 alzheimer’s patients and 13	
-V-313	livestock	livestock	disease	disease	showing neurological	
-V-313	disease	disease	dementia	dementia	and	
-V-313	fish	fish	fruit	fruit	may be the	

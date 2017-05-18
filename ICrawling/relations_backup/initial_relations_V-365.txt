@@ -1,5 +1,0 @@
-
-V-365	meat	meat	dairy	dairy	and	
-V-365	mediterranean diet	mediterranean diet	diet	diet	is a	
-V-365	cognition	cognition	memory	memory	and	
-V-365	diet	diet	risk	risk	was related to lower	

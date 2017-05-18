@@ -1,4 +1,0 @@
-
-V-71	cancer	cancer	virus	virus	harbored the	
-V-71	breast cancer	breast cancer	virus	virus	harbored the	
-V-71	bovine leukemia virus	bovine leukemia virus	breast cancer	breast cancer	 is really causing thousands of cases of	

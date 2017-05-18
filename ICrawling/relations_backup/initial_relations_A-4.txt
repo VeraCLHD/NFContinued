@@ -1,8 +1,0 @@
-
-A-4	risk	risk	stroke	stroke	of	
-A-4	cholesterol	cholesterol	blood sugar	blood sugar	and	
-A-4	cholesterol	cholesterol	blood	blood	and	
-A-4	prediabetes	prediabetes	children	children	in	
-A-4	meat	meat	fat	fat	and	
-A-4	fiber	fiber	cholesterol	cholesterol	helps lower	
-A-4	fiber	fiber	vegetables	vegetables	are just eating more	

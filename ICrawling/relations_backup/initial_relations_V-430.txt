@@ -1,7 +1,0 @@
-
-V-430	insulin resistance	insulin resistance	fasting blood sugars	fasting blood sugars	and	
-V-430	stem cells	stem cells	cancer	cancer	are thought responsible for initiating and maintaining	
-V-430	treatment	treatment	diabetes	diabetes	in	
-V-430	cancer stem cells	cancer stem cells	cancer	cancer	are thought responsible for initiating and maintaining	
-V-430	phytonutrients	phytonutrients	sprouting	sprouting	appear to peak around	
-V-430	bioavailability	bioavailability	broccoli	broccoli	of	

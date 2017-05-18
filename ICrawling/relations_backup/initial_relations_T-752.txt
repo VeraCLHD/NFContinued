@@ -1,7 +1,0 @@
-
-T-752	pollutants	pollutants	fish	fish	in	
-T-752	supplements	supplements	contaminants	contaminants	may provide all the benefits without the	
-T-752	omega-3 fatty acids	omega-3 fatty acids	health	health	are essential for human	
-T-752	epa	epa	dha	dha	and	
-T-752	arsenic	arsenic	mercury	mercury	and	
-T-752	vaccines	vaccines	tuna	tuna	and	

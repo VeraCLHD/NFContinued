@@ -1,5 +1,0 @@
-
-A-65	prevention	prevention	treatment	treatment	and	
-A-65	blood pressure	blood pressure	cholesterol	cholesterol	and	
-A-65	high blood pressure	high blood pressure	cholesterol	cholesterol	and	
-A-65	diet	diet	risk	risk	were found conclusively to modulate the	

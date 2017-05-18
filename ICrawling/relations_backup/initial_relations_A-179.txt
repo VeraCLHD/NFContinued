@@ -1,7 +1,0 @@
-
-A-179	heart attack	heart attack	stroke	stroke	or	
-A-179	heart attack	heart attack	death	death	or	
-A-179	statins	statins	side effects	side effects	can have	
-A-179	physicians	physicians	informed consent	informed consent	are supposed to honor	
-A-179	atherosclerosis	atherosclerosis	cholesterol	cholesterol	is due to high	
-A-179	mortality	mortality	morbidity	morbidity	and	

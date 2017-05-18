@@ -1,7 +1,0 @@
-
-V-424	vegetables	vegetables	boiled	boiled	are frequently	
-V-424	cooking	cooking	microwaving	microwaving	was like	
-V-424	obesity	obesity	diabetes	diabetes	and	
-V-424	mortality	mortality	women	women	was much more evident in	
-V-424	americans	americans	cooking	cooking	are eating out more and more and	
-V-424	cholesterol	cholesterol	sodium	sodium	and	

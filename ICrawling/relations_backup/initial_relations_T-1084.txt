@@ -1,7 +1,0 @@
-
-T-1084	calories	calories	beans	beans	coming from	
-T-1084	legumes	legumes	risk	risk	may reduce	
-T-1084	risk	risk	dementia	dementia	of	
-T-1084	legumes	legumes	beans	beans	include	
-T-1084	beans	beans	nuts	nuts	and	
-T-1084	cheap	cheap	cost-effective	cost-effective	and	

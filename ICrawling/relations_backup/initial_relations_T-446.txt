@@ -1,6 +1,0 @@
-
-T-446	chlorella	chlorella	immune function	immune function	did not experience a drop in	
-T-446	athletes	athletes	chlorella	chlorella	given a daily dose of	
-T-446	algae	algae	spirulina	spirulina	or	
-T-446	blue-green algae	blue-green algae	spirulina	spirulina	or	
-T-446	immune function	immune function	athletes	athletes	in	

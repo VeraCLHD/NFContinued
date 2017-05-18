@@ -1,6 +1,0 @@
-
-T-161	beets	beets	oxalates	oxalates	are high in	
-T-161	diet	diet	exercise	exercise	may help recover from the effects of high-intensity	
-T-161	plant-based diet	plant-based diet	exercise	exercise	may help recover from the effects of high-intensity	
-T-161	kidney stones	kidney stones	nitrate	nitrate	may want to choose a different high	
-T-161	nitrates	nitrates	nitrites	nitrites	have to be converted to	

@@ -1,5 +1,0 @@
-
-T-725	chocolate	chocolate	symptoms	symptoms	may alleviate	
-T-725	currants	currants	bilberries	bilberries	and	
-T-725	bilberries	bilberries	fatigue	fatigue	may relieve visual	
-T-725	fatigue	fatigue	variety	variety	may be a symptom of a	

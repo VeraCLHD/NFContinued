@@ -1,8 +1,0 @@
-
-V-409	broccoli	broccoli	sulforaphane	sulforaphane	prevents the formation of any significant levels of	
-V-409	soup	soup	broccoli	broccoli	made from fresh	
-V-409	sulforaphane	sulforaphane	boiled	boiled	in	
-V-409	broccoli	broccoli	sulforaphane	sulforaphane	lacks the ability to form	
-V-409	kale	kale	cancer	cancer	suppresses	
-V-409	sulforaphane	sulforaphane	breast cancer	breast cancer	targeting	
-V-409	kale	kale	cancer cell growth	cancer cell growth	suppresses	

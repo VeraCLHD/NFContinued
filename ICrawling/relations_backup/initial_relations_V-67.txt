@@ -1,7 +1,0 @@
-
-V-67	salt	salt	sugar	sugar	and	
-V-67	food industry	food industry	salt	salt	wants the intake of	
-V-67	salt	salt	cheap	cheap	is so	
-V-67	food industry	food industry	salt	salt	adds	
-V-67	meat	meat	fish	fish	and	
-V-67	salt	salt	meat	meat	is added to	

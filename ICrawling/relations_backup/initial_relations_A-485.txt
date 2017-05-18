@@ -1,8 +1,0 @@
-
-A-485	united states	united states	mastitis	mastitis	suffers from clinical	
-A-485	disease	disease	milk	milk	is reflected in the concentration of somatic cells in the american	
-A-485	pus	pus	milk	milk	is there in a glass of	
-A-485	cows	cows	california	california	being beaten and dragged into the	
-A-485	milk	milk	cows	cows	of	
-A-485	dairy cows	dairy cows	california	california	being beaten and dragged into the	
-A-485	lameness	lameness	mastitis	mastitis	and	

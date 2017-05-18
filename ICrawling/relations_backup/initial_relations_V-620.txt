@@ -1,8 +1,0 @@
-
-V-620	fiber	fiber	breast cancer	breast cancer	and	
-V-620	fiber	fiber	breast cancer	breast cancer	appeared to have 85% lower odds of	
-V-620	risk	risk	breast cancer	breast cancer	of	
-V-620	women	women	breast cancer	breast cancer	may have lower	
-V-620	women	women	fiber	fiber	average about 15 grams of	
-V-620	risk	risk	saturated fat	saturated fat	and	
-V-620	women	women	breast cancer	breast cancer	getting	

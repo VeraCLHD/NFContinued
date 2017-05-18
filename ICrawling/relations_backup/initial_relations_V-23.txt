@@ -1,5 +1,0 @@
-
-V-23	infection	infection	livestock	livestock	in	
-V-23	paratuberculosis	paratuberculosis	type 1 diabetes	type 1 diabetes	be a “trigger” for	
-V-23	bacteria	bacteria	pasteurization	pasteurization	survive	
-V-23	paratuberculosis	paratuberculosis	diabetes	diabetes	be a “trigger” for type 1	

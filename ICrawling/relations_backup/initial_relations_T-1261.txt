@@ -1,8 +1,0 @@
-
-T-1261	chronic inflammation	chronic inflammation	mushrooms	mushrooms	may especially benefit from eating	
-T-1261	mushrooms	mushrooms	agaritine	agaritine	may contain a naturally-occurring toxin called	
-T-1261	inflammation	inflammation	mushrooms	mushrooms	may especially benefit from eating	
-T-1261	phytonutrient	phytonutrient	green tea	green tea	in	
-T-1261	mushrooms	mushrooms	e. coli	e. coli	tend to be free of	
-T-1261	white button mushrooms	white button mushrooms	iga	iga	have been shown to upregulate	
-T-1261	mushrooms	mushrooms	iga	iga	have been shown to upregulate	

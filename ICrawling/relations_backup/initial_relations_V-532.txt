@@ -1,9 +1,0 @@
-
-V-532	soy	soy	brca genes	brca genes	may actually help turn back on	
-V-532	mortality	mortality	women	women	in	
-V-532	cancer survival	cancer survival	soy	soy	and	
-V-532	soy	soy	risk	risk	had a 29% lower	
-V-532	risk	risk	cancer	cancer	of	
-V-532	phytonutrients	phytonutrients	soy	soy	in	
-V-532	mortality	mortality	breast cancer	breast cancer	of	
-V-532	breast cancer survival	breast cancer survival	soy	soy	and	

@@ -1,6 +1,0 @@
-
-T-1533	diet	diet	prostate cancer	prostate cancer	may be beneficial for reducing and reversing the occurrence of	
-T-1533	plant-based diet	plant-based diet	prostate	prostate	may be beneficial for reducing and reversing the occurrence of	
-T-1533	choline	choline	cows	cows	and	
-T-1533	plant-based diet	plant-based diet	prostate cancer	prostate cancer	may be beneficial for reducing and reversing the occurrence of	
-T-1533	diet	diet	prostate	prostate	may be beneficial for reducing and reversing the occurrence of	

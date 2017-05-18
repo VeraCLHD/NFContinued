@@ -271,37 +271,47 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		//without terms
 		String candidate = pair.first;
 		candidate = processCandidate(candidate);
-		String candidateWithTerms = pair.second;
+		
+		
 		if(!candidate.isEmpty() ){
-			
 			int len = candidate.split(" ").length;
 			Relation relation = new Relation();
-			//found like this
+			//term 1 found like this
 			relation.setArg1(var1);
 			//original term
 			relation.setArg1Origin(term1.getOriginalTerm());
 			relation.setArg2(var2);
 			relation.setArg2Origin(term2.getOriginalTerm());
-			// punctuation commented out .replaceAll("(\\p{Punct}+)","")
 			relation.setRel(candidate);
 			
 			List<String> posTags = annotatePOS(pair, var1, var2);
 			// Filters begin here
 			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
 			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(posTags, candidate);
-			// do not extract incomplete NPs, do not extract candidates that contain other terms and punctuation
-			if(RelationsFilter.isOrStartsWithPunct(candidate) || RelationsFilter.startsWithN(posTags, candidate) || RelationsFilter.candidateContainsOtherTerms(candidate)){
+			// do not extract incomplete NPs, do not extract candidates that contain other terms
+			if(RelationsFilter.isIncompleteNP(posTags, candidate) || RelationsFilter.candidateContainsOtherTerms(candidate)){
 				String relations = "";
 				relations = relations + relation.getArg1() + "\t";
 				relations = relations + relation.getArg1Origin() + "\t";
 				relations = relations + relation.getArg2() + "\t";
 				relations = relations + relation.getArg2Origin() + "\t";
 				relations = relations + relation.getRel() + "\t";
+				if(relation.getTypeOfRelation() !=null){
+					relations = relation.getTypeOfRelation();
+				}
 				Writer.appendLineToFile(relations, "relations_backup/trash_relations.txt");
 			}
 			// if candidate matches fixed patterns; || len<=8
-			else if((fixed_result == true || vb_result == true)){
-				//&& !RelationsFilter.startsWithSingleChar(candidate)
+			else if((
+					RelationsFilter.isOrStartsWithRelevantPunct(candidate, relation) 
+					|| RelationsFilter.isEmpty(candidate, relation) 
+					|| fixed_result == true 
+					|| vb_result == true 
+					|| RelationsFilter.startsWithPrepAndNotOtherSentence(posTags, candidate)
+					|| RelationsFilter.startsWithAdjAndNotOtherSentence(posTags, candidate)
+					|| RelationsFilter.isPreposition(candidate, relation, posTags)
+					|| RelationsFilter.isCoordinatingConjunction(candidate, relation, posTags)) && len<=10){
+					
 					// at the level of 1 text - no duplicates, at the level of all texts - duplicates
 					this.getRelationsForOneText().add(relation);
 					
@@ -323,6 +333,9 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 				relations = relations + relation.getArg2() + "\t";
 				relations = relations + relation.getArg2Origin() + "\t";
 				relations = relations + relation.getRel() + "\t";
+				if(relation.getTypeOfRelation() !=null){
+					relations = relation.getTypeOfRelation();
+				}
 				Writer.appendLineToFile(relations, "relations_backup/unknown_trash_relations.txt");
 			}
 			
@@ -357,6 +370,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		candidate = candidate.trim();
 		candidate = candidate.replaceAll("-LRB-","(");
 		candidate = candidate.replaceAll("-RRB-",")");
+		candidate = candidate.replaceAll("\"","");
 		return candidate;
 	}
 	

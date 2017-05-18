@@ -1,6 +1,0 @@
-
-V-1076	chicken	chicken	warts	warts	get a lot of	
-V-1076	mortality	mortality	poultry workers	poultry workers	in	
-V-1076	mortality	mortality	poultry	poultry	in	
-V-1076	viruses	viruses	meat	meat	in	
-V-1076	cooking	cooking	chicken	chicken	will kill any and all	

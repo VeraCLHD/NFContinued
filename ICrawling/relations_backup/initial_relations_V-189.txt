@@ -1,4 +1,0 @@
-
-V-189	cholesterol	cholesterol	lead	lead	can	
-V-189	blood pressure	blood pressure	cholesterol	cholesterol	and	
-V-189	high blood pressure	high blood pressure	cholesterol	cholesterol	and	

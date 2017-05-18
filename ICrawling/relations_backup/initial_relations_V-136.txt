@@ -1,6 +1,0 @@
-
-V-136	dna damage	dna damage	mutations	mutations	can cause	
-V-136	vegetables	vegetables	antioxidants	antioxidants	are not just vehicles for	
-V-136	fruits	fruits	vegetables	vegetables	and	
-V-136	vegetables	vegetables	risk	risk	helps to reduce the	
-V-136	vegetables	vegetables	dna	dna	were tested to see which was better able to boost	

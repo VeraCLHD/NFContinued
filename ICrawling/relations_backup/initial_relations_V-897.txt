@@ -1,4 +1,0 @@
-
-V-897	berries	berries	citrus	citrus	and	
-V-897	fruits	fruits	vegetables	vegetables	and	
-V-897	lettuce	lettuce	bananas	bananas	and	

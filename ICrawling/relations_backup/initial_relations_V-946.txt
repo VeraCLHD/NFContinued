@@ -1,6 +1,0 @@
-
-V-946	antibiotics	antibiotics	disease	disease	are used extensively in food animal production for growth promotion and	
-V-946	meat	meat	poultry	poultry	and	
-V-946	antibiotics	antibiotics	medicine	medicine	used in human	
-V-946	e. coli	e. coli	enterococcus	enterococcus	and	
-V-946	contamination	contamination	turkey	turkey	was most common among	

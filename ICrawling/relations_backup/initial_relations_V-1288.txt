@@ -1,7 +1,0 @@
-
-V-1288	physicians	physicians	nutrition	nutrition	may have received any formal	
-V-1288	children	children	meat	meat	be raised on	
-V-1288	doctors	doctors	pregnant	pregnant	were advising	
-V-1288	fruits	fruits	vegetables	vegetables	and	
-V-1288	doctors	doctors	pregnant women	pregnant women	were advising	
-V-1288	doctors	doctors	nutrition	nutrition	are taught more about	

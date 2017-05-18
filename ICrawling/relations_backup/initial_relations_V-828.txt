@@ -1,5 +1,0 @@
-
-V-828	vegetarians	vegetarians	omnivores	omnivores	and	
-V-828	contaminants	contaminants	heavy metals	heavy metals	and	
-V-828	heavy metals	heavy metals	creatine	creatine	in	
-V-828	memory	memory	vegetarians	vegetarians	was better in	

@@ -1,5 +1,0 @@
-
-A-472	egg	egg	dairy	dairy	and	
-A-472	vegetarian	vegetarian	vegan	vegan	and	
-A-472	vegetarian	vegetarian	vegan diets	vegan diets	and	
-A-472	dietary guidelines	dietary guidelines	greece	greece	of	

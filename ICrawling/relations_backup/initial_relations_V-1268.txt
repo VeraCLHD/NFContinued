@@ -1,6 +1,0 @@
-
-V-1268	eggs	eggs	united states	united states	cause a foodborne epidemic every year in the	
-V-1268	broccoli sprouts	broccoli sprouts	pathogens	pathogens	were tested for	
-V-1268	risk	risk	food poisoning	food poisoning	of	
-V-1268	sprouts	sprouts	pathogens	pathogens	were tested for	
-V-1268	eggs	eggs	food poisoning	food poisoning	are linked every year to literally a thousand times more	

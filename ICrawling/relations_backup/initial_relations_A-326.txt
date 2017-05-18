@@ -1,8 +1,0 @@
-
-A-326	cancer	cancer	alcohol	alcohol	and	
-A-326	breast cancer	breast cancer	alcohol	alcohol	and	
-A-326	risk	risk	breast cancer	breast cancer	of	
-A-326	women	women	breast cancer	breast cancer	isn’t	
-A-326	beverages	beverages	longevity	longevity	may therefore be the best for overall	
-A-326	acetaldehyde	acetaldehyde	saliva	saliva	in	
-A-326	risk	risk	heart disease	heart disease	of	

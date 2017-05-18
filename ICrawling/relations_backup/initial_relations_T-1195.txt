@@ -1,8 +1,0 @@
-
-T-1195	risk	risk	vegetarian	vegetarian	may be reduced by a	
-T-1195	soy	soy	breast cancer	breast cancer	had the lowest rates of	
-T-1195	cancer	cancer	estrogen	estrogen	were found to have higher	
-T-1195	women	women	estrogen	estrogen	do not have easy access to	
-T-1195	breast cancer	breast cancer	estrogen	estrogen	were found to have higher	
-T-1195	tumors	tumors	estrogen	estrogen	may then turn to creating	
-T-1195	symptoms	symptoms	menopause	menopause	of	

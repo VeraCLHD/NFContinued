@@ -1,7 +1,0 @@
-
-T-1423	plant-based diets	plant-based diets	industrial toxins	industrial toxins	may be significantly less polluted with	
-T-1423	restaurants	restaurants	supermarkets	supermarkets	and	
-T-1423	dioxins	dioxins	pcbs	pcbs	and	
-T-1423	fish	fish	milk	milk	may be the biggest source of pops for consumers along with	
-T-1423	meat	meat	fish	fish	and	
-T-1423	plant-based diets	plant-based diets	toxins	toxins	may be significantly less polluted with industrial	

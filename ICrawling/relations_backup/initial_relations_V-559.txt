@@ -1,6 +1,0 @@
-
-V-559	butter flavor	butter flavor	popcorn lung	popcorn lung	linked to a condition known as	
-V-559	popcorn	popcorn	diacetyl	diacetyl	.i’ve warned previously about	
-V-559	disease	disease	bronchiolitis obliterans	bronchiolitis obliterans	called	
-V-559	butter flavor	butter flavor	popcorn	popcorn	linked to a condition known as	
-V-559	lung disease	lung disease	bronchiolitis obliterans	bronchiolitis obliterans	called	

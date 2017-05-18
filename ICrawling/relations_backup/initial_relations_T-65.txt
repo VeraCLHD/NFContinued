@@ -1,8 +1,0 @@
-
-T-65	steroids	steroids	dairy	dairy	in	
-T-65	hormones	hormones	steroids	steroids	and	
-T-65	cardiovascular disease	cardiovascular disease	arteries	arteries	may contribute to clogged cerebral	
-T-65	plant foods	plant foods	spices	spices	and	
-T-65	disease	disease	cardiovascular disease	cardiovascular disease	is now the #6 killer in the u.s.	
-T-65	pork	pork	beef	beef	and	
-T-65	blood	blood	aging	aging	may predict cognitive decline over time.but alzheimer’s is not an inevitable part of	

@@ -1,7 +1,0 @@
-
-V-1221	corn syrup	corn syrup	glucose	glucose	is pure	
-V-1221	corn syrup	corn syrup	mercury	mercury	may contain	
-V-1221	sugar	sugar	corn	corn	or	
-V-1221	corn syrup	corn syrup	soft drinks	soft drinks	in	
-V-1221	corn syrup	corn syrup	sugar	sugar	is as good for you as	
-V-1221	sugar	sugar	corn syrup	corn syrup	or	

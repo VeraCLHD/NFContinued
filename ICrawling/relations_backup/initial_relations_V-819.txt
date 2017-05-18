@@ -1,9 +1,0 @@
-
-V-819	pepper	pepper	turmeric	turmeric	boosts the level of the	
-V-819	black pepper	black pepper	turmeric	turmeric	boosts the level of the	
-V-819	fruits	fruits	vegetables	vegetables	or	
-V-819	variety	variety	fruit	fruit	of	
-V-819	phytonutrient	phytonutrient	black pepper	black pepper	in	
-V-819	fruits	fruits	vegetables	vegetables	and	
-V-819	lettuce	lettuce	whole foods	whole foods	makes ten cups.we know that	
-V-819	iceberg lettuce	iceberg lettuce	whole foods	whole foods	makes ten cups.we know that	

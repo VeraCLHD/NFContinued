@@ -1,7 +1,0 @@
-
-T-1653	fish	fish	neurotoxins	neurotoxins	contaminated with	
-T-1653	seafood	seafood	children	children	may give birth to	
-T-1653	seafood	seafood	xenoestrogens	xenoestrogens	include	
-T-1653	seafood	seafood	heavy metals	heavy metals	may contain	
-T-1653	contaminants	contaminants	seafood	seafood	found in	
-T-1653	seafood	seafood	food poisoning	food poisoning	is a potential source of	

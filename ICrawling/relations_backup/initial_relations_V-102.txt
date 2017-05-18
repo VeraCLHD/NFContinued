@@ -1,6 +1,0 @@
-
-V-102	plant foods	plant foods	health	health	promote	
-V-102	protein	protein	mortality	mortality	was associated with higher	
-V-102	health	health	longevity	longevity	and	
-V-102	fruits	fruits	vegetables	vegetables	and	
-V-102	fat	fat	protein	protein	and	

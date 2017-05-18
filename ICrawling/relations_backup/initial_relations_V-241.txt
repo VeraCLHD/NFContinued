@@ -1,6 +1,0 @@
-
-V-241	meat	meat	dairy	dairy	and	
-V-241	meat	meat	animal protein	animal protein	or	
-V-241	fruits	fruits	vegetables	vegetables	and	
-V-241	vegan	vegan	organic	organic	and	
-V-241	climate change	climate change	health	health	represents the biggest global	

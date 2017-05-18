@@ -1,8 +1,0 @@
-
-A-142	spain	spain	physical activity	physical activity	had a group of men engage in intense	
-A-142	ibuprofen	ibuprofen	stomach	stomach	is related to the	
-A-142	phytonutrients	phytonutrients	exercise	exercise	can help with	
-A-142	cherries	cherries	muscle soreness	muscle soreness	may play in reducing	
-A-142	fruits	fruits	vegetables	vegetables	and	
-A-142	watermelon	watermelon	placebo	placebo	were significantly less sore (around one on a scale of one to five compared to closer to two after	
-A-142	ibuprofen	ibuprofen	naproxen	naproxen	is probably safest (significantly safer than	

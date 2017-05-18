@@ -1,4 +1,0 @@
-
-V-1092	juice	juice	benzene	benzene	has no	
-V-1092	soft drinks	soft drinks	benzene	benzene	have	
-V-1092	beverage	beverage	benzene	benzene	was found to have	

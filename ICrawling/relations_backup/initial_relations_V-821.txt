@@ -1,4 +1,0 @@
-
-V-821	milk	milk	dairy	dairy	and	
-V-821	acne	acne	skin	skin	is an epidemic	
-V-821	acne	acne	skin disease	skin disease	is an epidemic	

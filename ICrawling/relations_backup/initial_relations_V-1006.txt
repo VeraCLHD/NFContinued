@@ -1,4 +1,0 @@
-
-V-1006	eggs	eggs	cholesterol	cholesterol	make your bad	
-V-1006	dietary cholesterol	dietary cholesterol	ldl	ldl	increases the susceptibility of	
-V-1006	eggs	eggs	bad cholesterol	bad cholesterol	make your	

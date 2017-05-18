@@ -1,8 +1,0 @@
-
-T-356	campylobacter	campylobacter	bacteria	bacteria	is a	
-T-356	campylobacter	campylobacter	food poisoning	food poisoning	may experience	
-T-356	risk	risk	urinary tract infections	urinary tract infections	of	
-T-356	meat industry	meat industry	meat	meat	won the right to sell contaminated	
-T-356	women	women	poultry	poultry	handling	
-T-356	urinary tract infections	urinary tract infections	children	children	and	
-T-356	infections	infections	children	children	and	

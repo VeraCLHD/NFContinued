@@ -1,5 +1,0 @@
-
-V-1276	calcium	calcium	iodine	iodine	and	
-V-1276	doctors	doctors	plant-based	plant-based	may be skeptical about	
-V-1276	doctors	doctors	plant-based diets	plant-based diets	may be skeptical about	
-V-1276	plant-based diets	plant-based diets	vitamin b12	vitamin b12	tend not to get enough	

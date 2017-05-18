@@ -1,6 +1,0 @@
-
-V-571	pain	pain	inflammation	inflammation	caused by	
-V-571	pain	pain	inflammation	inflammation	is caused by	
-V-571	hormones	hormones	pills	pills	in	
-V-571	women	women	risk	risk	using them need to be aware of the significant	
-V-571	symptoms	symptoms	pms	pms	of	

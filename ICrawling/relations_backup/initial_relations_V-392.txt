@@ -1,5 +1,0 @@
-
-V-392	risk	risk	dementia	dementia	of	
-V-392	red meat	red meat	white meat	white meat	or	
-V-392	turmeric	turmeric	dementia	dementia	have a lower prevalence of	
-V-392	liver	liver	kidney	kidney	and	

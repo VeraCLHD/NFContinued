@@ -1,8 +1,0 @@
-
-A-352	drugs	drugs	caffeine	caffeine	appear to work no better than plain	
-A-352	coffee	coffee	caffeine	caffeine	and	
-A-352	meat	meat	dairy	dairy	and	
-A-352	animal products	animal products	l-dopa	l-dopa	blocks the transport of	
-A-352	l-dopa	l-dopa	amino acid	amino acid	derived from an	
-A-352	n-hexacosanol	n-hexacosanol	fisetin	fisetin	and	
-A-352	preladenant	preladenant	istradefylline	istradefylline	and	

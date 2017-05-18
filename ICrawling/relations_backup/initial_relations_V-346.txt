@@ -1,8 +1,0 @@
-
-V-346	prevention	prevention	risk	risk	was conceived as a strategy to prevent whole societies from experiencing epidemics of the	
-V-346	cans	cans	soda	soda	of	
-V-346	doctors	doctors	smoking	smoking	are less likely to tell their patients to stop	
-V-346	prevention	prevention	disease	disease	is when you already have the	
-V-346	drugs	drugs	surgery	surgery	and	
-V-346	fruits	fruits	vegetables	vegetables	and	
-V-346	prevention	prevention	risk	risk	would be like trying to prevent someone at	

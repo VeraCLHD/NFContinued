@@ -1,6 +1,0 @@
-
-V-646	meat	meat	fetal development	fetal development	might be hazardous for	
-V-646	newborns	newborns	young children	young children	and	
-V-646	fish	fish	chinese	chinese	in	
-V-646	meat	meat	pregnancy	pregnancy	consumed in the last	
-V-646	diet	diet	meat	meat	including grilled	

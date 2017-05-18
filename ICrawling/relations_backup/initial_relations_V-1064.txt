@@ -1,4 +1,0 @@
-
-V-1064	soy	soy	breast cancer	breast cancer	helps prevent	
-V-1064	phytoestrogens	phytoestrogens	soy	soy	found in	
-V-1064	tamoxifen	tamoxifen	soy	soy	should avoid	

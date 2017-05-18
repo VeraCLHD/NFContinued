@@ -1,8 +1,0 @@
-
-V-576	phytonutrients	phytonutrients	spices	spices	in	
-V-576	phytonutrient	phytonutrient	apples	apples	found in	
-V-576	vegetables	vegetables	depression	depression	appear to cut one’s odds of	
-V-576	chicken	chicken	eggs	eggs	and	
-V-576	fruits	fruits	vegetables	vegetables	and	
-V-576	vegetables	vegetables	mood	mood	may improve our	
-V-576	animal products	animal products	mood	mood	improved	

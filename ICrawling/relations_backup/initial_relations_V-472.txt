@@ -1,7 +1,0 @@
-
-V-472	disease	disease	diabetes	diabetes	and	
-V-472	nuts	nuts	cholesterol	cholesterol	help lower	
-V-472	nuts	nuts	fat	fat	are so filled with	
-V-472	risk	risk	obesity	obesity	of	
-V-472	heart disease	heart disease	diabetes	diabetes	and	
-V-472	cholesterol	cholesterol	oxidation	oxidation	and	

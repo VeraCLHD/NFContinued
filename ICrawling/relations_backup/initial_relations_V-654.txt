@@ -1,6 +1,0 @@
-
-V-654	diet	diet	fibromyalgia	fibromyalgia	would significantly improve	
-V-654	mayo clinic	mayo clinic	fibromyalgia	fibromyalgia	reported for their	
-V-654	symptoms	symptoms	vegetarian	vegetarian	 put on a mostly	
-V-654	vegan diets	vegan diets	fibromyalgia	fibromyalgia	seem to really help reduce	
-V-654	vegetarian	vegetarian	vegan	vegan	or	

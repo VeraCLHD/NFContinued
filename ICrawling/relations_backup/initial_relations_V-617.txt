@@ -1,5 +1,0 @@
-
-V-617	flax seeds	flax seeds	breast cancer	breast cancer	in	
-V-617	seeds	seeds	breast cancer	breast cancer	in	
-V-617	biopsy	biopsy	surgery	surgery	and	
-V-617	plant foods	plant foods	vegetarian	vegetarian	tested in the	

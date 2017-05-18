@@ -1,4 +1,0 @@
-
-V-707	bpa	bpa	disease	disease	is associated with cardiovascular	
-V-707	bpa	bpa	cardiovascular disease	cardiovascular disease	is associated with	
-V-707	cans	cans	plastic	plastic	and	

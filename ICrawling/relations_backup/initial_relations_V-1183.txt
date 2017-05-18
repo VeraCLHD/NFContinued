@@ -1,6 +1,0 @@
-
-V-1183	turmeric	turmeric	oxalates	oxalates	have the same amount of	
-V-1183	risk	risk	kidney stones	kidney stones	of	
-V-1183	cinnamon	cinnamon	oxalates	oxalates	has the same amount of	
-V-1183	risk	risk	kidney	kidney	of	
-V-1183	cinnamon	cinnamon	turmeric	turmeric	and	

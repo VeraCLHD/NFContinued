@@ -1,6 +1,0 @@
-
-V-760	walnuts	walnuts	cardiovascular disease	cardiovascular disease	have been shown to decrease	
-V-760	bread	bread	butter	butter	smeared with” two spoonfuls of	
-V-760	walnut oil	walnut oil	walnut	walnut	is within the	
-V-760	white bread	white bread	butter	butter	smeared with” two spoonfuls of	
-V-760	walnuts	walnuts	disease	disease	have been shown to decrease cardiovascular	

@@ -1,9 +1,0 @@
-
-T-96	angina	angina	cardiovascular disease	cardiovascular disease	represents early	
-T-96	arteries	arteries	ldl cholesterol	ldl cholesterol	is a direct result of buildup of	
-T-96	animal products	animal products	processed foods	processed foods	and	
-T-96	doctors	doctors	blood	blood	prescribe	
-T-96	arteries	arteries	ldl	ldl	is a direct result of buildup of	
-T-96	angina	angina	disease	disease	represents early cardiovascular	
-T-96	drugs	drugs	surgery	surgery	or	
-T-96	plant-based diets	plant-based diets	heart disease	heart disease	can reverse	

@@ -1,4 +1,0 @@
-
-V-959	meat	meat	heart disease	heart disease	reversed	
-V-959	diet	diet	fruits	fruits	of	
-V-959	plant-based diet	plant-based diet	fruits	fruits	of	

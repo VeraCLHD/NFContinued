@@ -1,6 +1,0 @@
-
-T-308	vegans	vegans	vitamin b12	vitamin b12	must be sure to get adequate 	
-T-308	vegetarians	vegetarians	pcbs	pcbs	appear to have significantly lower levels of	
-T-308	breastfeeding	breastfeeding	plant-based	plant-based	include passing along	
-T-308	milk	milk	infants	infants	introduce	
-T-308	babies	babies	vegetables	vegetables	can pick up a taste for	

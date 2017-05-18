@@ -1,9 +1,0 @@
-
-A-475	chickens	chickens	amyloid	amyloid	tend to localize	
-A-475	nutrition	nutrition	public health	public health	and	
-A-475	foie gras	foie gras	variety	variety	may trigger and accelerate a	
-A-475	duck	duck	goose	goose	or	
-A-475	amyloidosis	amyloidosis	leprosy	leprosy	triggered by	
-A-475	united states	united states	india	india	compared to	
-A-475	liver	liver	brain parasites	brain parasites	may harbor the	
-A-475	toxocara	toxocara	toxoplasma	toxoplasma	or	

@@ -1,7 +1,0 @@
-
-V-588	polonium	polonium	fish	fish	in	
-V-588	polonium	polonium	nicotine	nicotine	affected the absorbability of	
-V-588	cigarettes	cigarettes	smoking	smoking	has been speculatively blamed for the link between	
-V-588	polonium	polonium	diet	diet	comes from	
-V-588	seafood	seafood	polonium	polonium	?researchers measured the increase in radioactive	
-V-588	smoking	smoking	male infertility	male infertility	and	

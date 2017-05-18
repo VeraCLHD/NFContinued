@@ -1,8 +1,0 @@
-
-V-565	exercise	exercise	muscle damage	muscle damage	induced	
-V-565	exercise	exercise	lactic acid	lactic acid	may be related to the buildup of	
-V-565	prevention	prevention	inflammatory diseases	inflammatory diseases	of	
-V-565	symptoms	symptoms	exercise	exercise	of	
-V-565	massage	massage	inflammation	inflammation	can decrease	
-V-565	citrus	citrus	lactic acid	lactic acid	might help with the	
-V-565	flavonoids	flavonoids	berries	berries	in	

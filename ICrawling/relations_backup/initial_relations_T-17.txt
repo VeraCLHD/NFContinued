@@ -1,3 +1,0 @@
-
-T-17	giantism	giantism	igf-1	igf-1	caused by excess	
-T-17	acromegaly	acromegaly	giantism	giantism	is a form of	

@@ -1,7 +1,0 @@
-
-T-339	cabbage	cabbage	steaming	steaming	are enhanced by	
-T-339	cabbage	cabbage	anthocyanins	anthocyanins	contains	
-T-339	free radicals	free radicals	cancer	cancer	and	
-T-339	phytonutrient	phytonutrient	produce	produce	found in blue/black/purple-pigmented	
-T-339	prostate	prostate	breast cancer	breast cancer	and	
-T-339	urine	urine	cabbage	cabbage	using purple	

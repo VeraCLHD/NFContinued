@@ -1,9 +1,0 @@
-
-T-401	salt	salt	health	health	can contribute to	
-T-401	vegetables	vegetables	phytonutrients	phytonutrients	contain	
-T-401	plants	plants	dna	dna	might boost	
-T-401	celery	celery	antioxidants	antioxidants	contains beneficial	
-T-401	celery	celery	calories	calories	took 14	
-T-401	fiber	fiber	water	water	and	
-T-401	celery	celery	energy	energy	took more	
-T-401	celery	celery	diet	diet	is helpful in a	

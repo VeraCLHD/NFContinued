@@ -1,9 +1,0 @@
-
-T-1445	soy	soy	abdominal fat	abdominal fat	may decrease	
-T-1445	soy	soy	fat	fat	may decrease abdominal	
-T-1445	phytoestrogens	phytoestrogens	prevention	prevention	appear to be helpful in the	
-T-1445	prevention	prevention	diabetes	diabetes	of	
-T-1445	variety	variety	plant foods	plant foods	of	
-T-1445	soy foods	soy foods	flax	flax	and	
-T-1445	risk	risk	weight loss	weight loss	decreased, and	
-T-1445	phytoestrogens	phytoestrogens	fertility	fertility	do not decrease male	

@@ -1,4 +1,0 @@
-
-V-144	diet	diet	american heart association	american heart association	consisting of unprocessed natural foodstuffs that exceeds the strict	
-V-144	salt	salt	pepper	pepper	include	
-V-144	mouth	mouth	salt	salt	will adjust to the taste of	

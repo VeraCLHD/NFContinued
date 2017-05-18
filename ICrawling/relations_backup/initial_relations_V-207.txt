@@ -1,6 +1,0 @@
-
-V-207	canada	canada	flu shots	flu shots	tried to see if they could boost the efficacy of	
-V-207	breast milk	breast milk	mothers	mothers	could be increased by giving	
-V-207	milk	milk	mothers	mothers	could be increased by giving	
-V-207	infections	infections	viruses	viruses	are often triggered by reactivations of latent	
-V-207	japan	japan	iga	iga	found that	

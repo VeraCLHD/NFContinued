@@ -1,9 +1,0 @@
-
-T-102	animal products	animal products	standard american diet	standard american diet	are a central part of the	
-T-102	junk food	junk food	animal products	animal products	and	
-T-102	new york times	new york times	animal foods	animal foods	reported on a study that suggested increased consumption of	
-T-102	heart disease	heart disease	cancer	cancer	and	
-T-102	disease	disease	cancer	cancer	and	
-T-102	diet	diet	symptoms	symptoms	led to a significant improvement in	
-T-102	animal foods	animal foods	risk	risk	have been linked in numerous studies to higher	
-T-102	dietary guidelines	dietary guidelines	usda	usda	and	

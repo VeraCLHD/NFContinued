@@ -1,6 +1,0 @@
-
-V-705	chicken	chicken	fish	fish	and	
-V-705	meat	meat	chemical pollutants	chemical pollutants	is more contaminated with flame-retardant	
-V-705	fish	fish	halibut	halibut	is the worst—and this is for	
-V-705	poultry	poultry	eggs	eggs	and	
-V-705	white meat	white meat	chemical pollutants	chemical pollutants	is more contaminated with flame-retardant	

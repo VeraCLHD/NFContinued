@@ -1,6 +1,0 @@
-
-V-1223	cola	cola	benzene	benzene	responded, saying that there was “much more	
-V-1223	coca cola	coca cola	benzene	benzene	responded, saying that there was “much more	
-V-1223	ascorbic acid	ascorbic acid	sodium	sodium	and	
-V-1223	ascorbic acid	ascorbic acid	sodium benzoate	sodium benzoate	and	
-V-1223	fda	fda	epa	epa	and	

@@ -1,5 +1,0 @@
-
-A-378	plant-based diets	plant-based diets	pain	pain	may help with other	
-A-378	plant-based diets	plant-based diets	inflammation	inflammation	appear to decrease	
-A-378	glucocorticoids	glucocorticoids	steroid hormones	steroid hormones	are circulating	
-A-378	kidneys	kidneys	potassium	potassium	excrete	

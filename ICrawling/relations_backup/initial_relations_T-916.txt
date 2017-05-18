@@ -1,6 +1,0 @@
-
-T-916	plant foods	plant foods	risk	risk	is about more than just reducing the	
-T-916	constipation	constipation	risk	risk	can increase	
-T-916	gallstones	gallstones	appendicitis	appendicitis	and	
-T-916	cardiovascular disease	cardiovascular disease	cancer	cancer	and	
-T-916	beans	beans	corn	corn	and	

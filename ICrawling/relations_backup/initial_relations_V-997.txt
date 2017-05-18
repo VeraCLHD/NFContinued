@@ -1,5 +1,0 @@
-
-V-997	soup	soup	kelp	kelp	made from	
-V-997	vegetables	vegetables	iodine	iodine	are an excellent source of	
-V-997	women	women	soup	soup	eating	
-V-997	sea vegetables	sea vegetables	iodine	iodine	are an excellent source of	

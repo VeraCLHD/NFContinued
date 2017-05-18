@@ -1,6 +1,0 @@
-
-V-841	salmonella	salmonella	campylobacter	campylobacter	and	
-V-841	eggs	eggs	poultry	poultry	may result in a drop of	
-V-841	viruses	viruses	bacteria	bacteria	and	
-V-841	campylobacter	campylobacter	paralysis	paralysis	can trigger human	
-V-841	meat	meat	eggs	eggs	and	

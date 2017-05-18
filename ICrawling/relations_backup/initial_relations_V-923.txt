@@ -1,6 +1,0 @@
-
-V-923	disease	disease	death	death	and	
-V-923	heart disease	heart disease	death	death	and	
-V-923	sugar	sugar	salt	salt	and	
-V-923	risk	risk	diet	diet	caused by harmful	
-V-923	risk	risk	death	death	of	

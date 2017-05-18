@@ -1,8 +1,0 @@
-
-T-1526	hot dogs	hot dogs	cold	cold	and	
-T-1526	dogs	dogs	cold	cold	and	
-T-1526	risk	risk	gestational diabetes	gestational diabetes	of	
-T-1526	pregnancy	pregnancy	risk	risk	may raise the	
-T-1526	american institute for cancer research	american institute for cancer research	processed meat	processed meat	defines	
-T-1526	american institute for cancer research	american institute for cancer research	meat	meat	defines processed	
-T-1526	risk	risk	chronic obstructive pulmonary disease	chronic obstructive pulmonary disease	of	

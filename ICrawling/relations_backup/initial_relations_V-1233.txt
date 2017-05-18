@@ -1,7 +1,0 @@
-
-V-1233	berries	berries	cancer	cancer	have antiproliferative effects on	
-V-1233	strawberries	strawberries	cancer	cancer	blocked	
-V-1233	berries	berries	cancer cells	cancer cells	have antiproliferative effects on	
-V-1233	strawberries	strawberries	cancer growth	cancer growth	blocked	
-V-1233	cancer cells	cancer cells	steaming	steaming	are still	
-V-1233	strawberries	strawberries	organic	organic	or	

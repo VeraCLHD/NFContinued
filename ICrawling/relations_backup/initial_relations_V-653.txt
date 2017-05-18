@@ -1,6 +1,0 @@
-
-V-653	finland	finland	uruguay	uruguay	and	
-V-653	mutagens	mutagens	meats	meats	found in cooked	
-V-653	carcinogens	carcinogens	meat	meat	make it from cooked	
-V-653	phip	phip	estrogen	estrogen	was discovered to be “a potent	
-V-653	carcinogens	carcinogens	cooked meat	cooked meat	make it from	

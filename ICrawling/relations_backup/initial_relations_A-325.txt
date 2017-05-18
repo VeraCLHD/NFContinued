@@ -1,9 +1,0 @@
-
-A-325	nausea	nausea	vomiting	vomiting	and	
-A-325	doctors	doctors	placebos	placebos	give	
-A-325	doctors	doctors	lying	lying	decide, for example, if we should consider a “	
-A-325	chemotherapy	chemotherapy	nausea	nausea	caused a surprising reduction in	
-A-325	doctors	doctors	symptoms	symptoms	have a duty to do the best they can to relieve a patient’s	
-A-325	pills	pills	lactose	lactose	is typically	
-A-325	united states	united states	placebo	placebo	report prescribing	
-A-325	vomiting	vomiting	placebo	placebo	compared to	

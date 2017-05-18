@@ -1,7 +1,0 @@
-
-V-239	anxiety	anxiety	depression	depression	and	
-V-239	eggs	eggs	mood	mood	improved several	
-V-239	protein	protein	anxiety	anxiety	are associated with lower levels of	
-V-239	vegetarian	vegetarian	antioxidant	antioxidant	does give you a better	
-V-239	chicken	chicken	eggs	eggs	and	
-V-239	poultry	poultry	eggs	eggs	and	

@@ -1,7 +1,0 @@
-
-V-982	diet	diet	arthritis	arthritis	may help explain why patients with rheumatoid	
-V-982	diet	diet	rheumatoid arthritis	rheumatoid arthritis	may help explain why patients with	
-V-982	rheumatoid arthritis	rheumatoid arthritis	vegetarian	vegetarian	improve on a	
-V-982	arthritis	arthritis	vegetarian	vegetarian	improve on a	
-V-982	arachidonic acid	arachidonic acid	risk	risk	may quadruple our	
-V-982	vegetarians	vegetarians	arachidonic acid	arachidonic acid	 eating less	

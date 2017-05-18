@@ -1,8 +1,0 @@
-
-V-359	cigarettes	cigarettes	health	health	are in some way harmful to	
-V-359	fish	fish	potato chips	potato chips	sticks,	
-V-359	smoking	smoking	lung cancer	lung cancer	causes	
-V-359	smoking	smoking	cancer	cancer	causes	
-V-359	smoking	smoking	cancer	cancer	had not been proved to cause	
-V-359	philip morris	philip morris	kraft	kraft	owned both	
-V-359	philip morris	philip morris	whitecoat project	whitecoat project	implemented the	

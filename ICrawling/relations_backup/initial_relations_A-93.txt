@@ -1,8 +1,0 @@
-
-A-93	risk	risk	dementia	dementia	of	
-A-93	spices	spices	inflammation	inflammation	and	
-A-93	red meat	red meat	white meat	white meat	or	
-A-93	turmeric	turmeric	dementia	dementia	have a lower prevalence of	
-A-93	india	india	turmeric	turmeric	is generally attributed to the	
-A-93	spices	spices	inflammation	inflammation	fight	
-A-93	plant-based diets	plant-based diets	dementia	dementia	and	

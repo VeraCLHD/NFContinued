@@ -31,5 +31,6 @@
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/jsoup-1.10.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/pdfbox-app-1.8.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/tika-app-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/stanford-english-corenlp-2016-10-31-models.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,8 +1,0 @@
-
-T-1518	chicken	chicken	arteries	arteries	can both stiffen	
-T-1518	processed meats	processed meats	botulism	botulism	help reduce	
-T-1518	meats	meats	botulism	botulism	help reduce	
-T-1518	bha	bha	carcinogen	carcinogen	may be a	
-T-1518	preservatives	preservatives	cardiovascular disease	cardiovascular disease	helped improve several metabolic and	
-T-1518	preservatives	preservatives	health	health	can differ in their potential	
-T-1518	preservatives	preservatives	disease	disease	helped improve several metabolic and cardiovascular	

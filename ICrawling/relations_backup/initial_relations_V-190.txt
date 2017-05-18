@@ -1,4 +1,0 @@
-
-V-190	vitamin c	vitamin c	cancer	cancer	does help in terminal	
-V-190	vitamin c	vitamin c	medicine	medicine	is widely used in the alternative	
-V-190	vitamin c	vitamin c	alternative medicine	alternative medicine	is widely used in the	

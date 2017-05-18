@@ -1,7 +1,0 @@
-
-V-471	arteries	arteries	low-carb diets	low-carb diets	directly, and a review of all the best studies done to date found that	
-V-471	cholesterol	cholesterol	risk	risk	is because we care about cardiovascular	
-V-471	low-carb diets	low-carb diets	cholesterol	cholesterol	may not see a rise in their	
-V-471	chemotherapy	chemotherapy	cholesterol	cholesterol	can drop	
-V-471	protein	protein	fat	fat	and	
-V-471	diet	diet	heart disease	heart disease	showed a reversal of their	

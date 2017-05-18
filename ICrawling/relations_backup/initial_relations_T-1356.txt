@@ -1,7 +1,0 @@
-
-T-1356	brains	brains	cholesterol	cholesterol	are the #1 source of	
-T-1356	meats	meats	gout	gout	can be the culprit in	
-T-1356	copper	copper	iron	iron	and	
-T-1356	grains	grains	vegetables	vegetables	and	
-T-1356	cancer	cancer	diabetes	diabetes	and	
-T-1356	iron	iron	copper	copper	and	

@@ -1,6 +1,0 @@
-
-V-473	variety	variety	tumor	tumor	of	
-V-473	curcumin	curcumin	variety	variety	can kill a wide	
-V-473	curcumin	curcumin	carcinogens	carcinogens	extend well beyond its ability to block	
-V-473	lung cancer	lung cancer	colon	colon	and	
-V-473	lung cancer	lung cancer	colon cancer	colon cancer	and	

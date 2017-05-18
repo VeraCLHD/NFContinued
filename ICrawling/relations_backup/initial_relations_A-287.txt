@@ -1,5 +1,0 @@
-
-A-287	cancer	cancer	alcohol	alcohol	and	
-A-287	breast cancer	breast cancer	alcohol	alcohol	and	
-A-287	noni	noni	mangosteen	mangosteen	and	
-A-287	juice	juice	supplements	supplements	aren’t the only	

@@ -1,7 +1,0 @@
-
-T-494	vegetables	vegetables	wrinkles	wrinkles	may even help protect against 	
-T-494	kale	kale	kidney cancer	kidney cancer	may be especially protective against breast and 	
-T-494	kale	kale	kidney	kidney	may be especially protective against breast and 	
-T-494	kale	kale	collard greens	collard greens	and	
-T-494	collard greens	collard greens	kale	kale	or	
-T-494	greens	greens	kale	kale	or	

@@ -1,8 +1,0 @@
-
-T-158	diet	diet	aspirin	aspirin	had about twice the odds of being on	
-T-158	aspirin	aspirin	pregnancy	pregnancy	are so powerful that it should be avoided during	
-T-158	phytonutrient	phytonutrient	cherries	cherries	in	
-T-158	aspirin	aspirin	prevention	prevention	should not be used for the primary	
-T-158	heart attacks	heart attacks	stroke	stroke	and	
-T-158	tomatoes	tomatoes	aspirin	aspirin	may work better than	
-T-158	prevention	prevention	heart attacks	heart attacks	of	

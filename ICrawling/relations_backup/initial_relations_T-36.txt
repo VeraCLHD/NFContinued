@@ -1,9 +1,0 @@
-
-T-36	vegetables	vegetables	beans	beans	and	
-T-36	aging	aging	berries	berries	 include:	
-T-36	pills	pills	aging	aging	 have no apparent effect on	
-T-36	corn	corn	spinach	spinach	and	
-T-36	animal products	animal products	tor	tor	has been found to upregulate the activity of	
-T-36	seafood	seafood	beef	beef	and	
-T-36	diet	diet	dna	dna	may be the most important for	
-T-36	meditation	meditation	aging	aging	may reverse the	

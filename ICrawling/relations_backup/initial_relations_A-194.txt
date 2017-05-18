@@ -1,9 +1,0 @@
-
-A-194	chemo	chemo	radiation	radiation	and	
-A-194	aromatherapy	aromatherapy	skin	skin	were mostly from	
-A-194	oils	oils	plants	plants	extracted from	
-A-194	drugs	drugs	anxiety	anxiety	used for the relief of	
-A-194	aromatherapy	aromatherapy	anxiety	anxiety	may potentially reduce	
-A-194	orange	orange	dental	dental	was tested in a	
-A-194	symptoms	symptoms	side effects	side effects	can have serious	
-A-194	orange	orange	anxiety	anxiety	was diffused in the waiting room and appeared to have a relaxant effect—less	

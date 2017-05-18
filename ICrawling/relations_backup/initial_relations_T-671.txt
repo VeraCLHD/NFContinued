@@ -1,6 +1,0 @@
-
-T-671	french fries	french fries	acrylamide	acrylamide	can contain	
-T-671	cancer	cancer	postmenopausal	postmenopausal	in	
-T-671	endometrial cancer	endometrial cancer	postmenopausal	postmenopausal	in	
-T-671	diet	diet	cancer	cancer	may affect one’s vulnerability to	
-T-671	risk	risk	endometrial cancer	endometrial cancer	of	

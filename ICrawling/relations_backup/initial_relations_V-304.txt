@@ -1,9 +1,0 @@
-
-V-304	atherosclerosis	atherosclerosis	young children	young children	is often even present in	
-V-304	united states	united states	diet	diet	is our	
-V-304	nuts	nuts	seeds	seeds	and	
-V-304	diet	diet	fruit	fruit	is that we don’t eat enough	
-V-304	fruits	fruits	vegetables	vegetables	and	
-V-304	disease	disease	atherosclerosis	atherosclerosis	may be present by age 20, and that coronary	
-V-304	atherosclerosis	atherosclerosis	children	children	is often even present in young	
-V-304	slovenia	slovenia	united states	united states	live a year longer than citizens of the	

@@ -1,5 +1,0 @@
-
-T-768	standard american diet	standard american diet	folate	folate	are deficient in	
-T-768	diet	diet	folate	folate	are deficient in	
-T-768	insomnia	insomnia	depression	depression	and	
-T-768	folate	folate	insomnia	insomnia	may be associated with	

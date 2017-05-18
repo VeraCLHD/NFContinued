@@ -1,8 +1,0 @@
-
-T-1002	tomatoes	tomatoes	fenugreek	fenugreek	and	
-T-1002	tea	tea	sleep	sleep	is commonly used as a	
-T-1002	pregnant women	pregnant women	pregnancy	pregnancy	should avoid using it during	
-T-1002	cherries	cherries	sleep	sleep	have been associated with improved	
-T-1002	women	women	pregnancy	pregnancy	should avoid using it during	
-T-1002	tart cherries	tart cherries	sleep	sleep	have been associated with improved	
-T-1002	exercise	exercise	insomnia	insomnia	has been found to help decrease	

@@ -1,6 +1,0 @@
-
-V-2	tea	tea	risk	risk	may drop the	
-V-2	viruses	viruses	bacteria	bacteria	and	
-V-2	risk	risk	influenza	influenza	of	
-V-2	cancer cells	cancer cells	pathogens	pathogens	and	
-V-2	green tea	green tea	risk	risk	may drop the	

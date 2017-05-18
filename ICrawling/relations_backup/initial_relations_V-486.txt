@@ -1,6 +1,0 @@
-
-V-486	treatment	treatment	obesity	obesity	of	
-V-486	exercise	exercise	weight gain	weight gain	can prevent	
-V-486	exercise	exercise	obesity	obesity	more, but “the priorities for reversing the	
-V-486	diabetes	diabetes	heart disease	heart disease	and	
-V-486	physical activity	physical activity	obesity	obesity	has any role whatsoever in the epidemic of	

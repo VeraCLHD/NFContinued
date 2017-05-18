@@ -1,9 +1,0 @@
-
-V-121	dean ornish	dean ornish	prostate cancer	prostate cancer	was apparently able to reverse the progression of	
-V-121	fruit	fruit	vegetables	vegetables	and	
-V-121	prostate cancer	prostate cancer	diet	diet	make	
-V-121	ornish	ornish	prostate cancer	prostate cancer	was apparently able to reverse the progression of	
-V-121	cancer	cancer	diet	diet	make	
-V-121	dean ornish	dean ornish	prostate	prostate	was apparently able to reverse the progression of	
-V-121	ornish	ornish	prostate	prostate	was apparently able to reverse the progression of	
-V-121	beef	beef	pork	pork	and	

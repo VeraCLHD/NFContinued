@@ -1,9 +1,0 @@
-
-T-137	risk	risk	stroke	stroke	of	
-T-137	asthma	asthma	skin	skin	and	
-T-137	juice	juice	phytonutrients	phytonutrients	has fewer	
-T-137	apples	apples	antioxidants	antioxidants	rank high (in a past top 12 list) in terms of 	
-T-137	fruits	fruits	vegetables	vegetables	and	
-T-137	apples	apples	phytonutrients	phytonutrients	contain potent 	
-T-137	fruit	fruit	health	health	 has many	
-T-137	apple juice	apple juice	phytonutrients	phytonutrients	has fewer	
