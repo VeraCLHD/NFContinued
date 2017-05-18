@@ -27,8 +27,8 @@ public class RelationsFilter {
 		//only conjunction between both terms
 		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|.?appear.*\\sto|cause.*");
 		possiblePatterns.add("(,\\s(and|or)\\s(\\w*\\b))*");
-		possiblePatterns.add("may\\s+be.*");
-		possiblePatterns.add("(may|appear.*)\\s(\\w*\\b){0,6}");
+		possiblePatterns.add("(,\\s)?may\\s+be.*");
+		possiblePatterns.add("(,\\s)?(may|appear.*)\\s(\\w*\\b){0,6}");
 		// is-a patterns
 		// example: is an active compound called ...
 		possiblePatterns.add("(is\\s+.+|be\\s+.+|was\\s+.+)called.+");
@@ -200,7 +200,7 @@ public class RelationsFilter {
 	public static boolean isOrStartsWithRelevantPunct(String candidate, Relation relation){
 		boolean result = false;
 		
-		if(candidate.contains(":") || candidate.contains(";")){
+		if(candidate.contains(":") || candidate.contains(";") || candidate.contains("!") || candidate.contains("?")){
 			result = false;
 		}
 		// include conjunctions via "&"

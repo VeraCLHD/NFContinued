@@ -117,8 +117,6 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "all_relations.txt");
 		Writer.overwriteFile("", "relations_backup/trash_relations.txt");
 		Writer.overwriteFile("", "relations_backup/unknown_trash_relations.txt");
-		//Thread th1 = new Thread(new RunnableThread(), "thread1");
-		//Thread th2 = new Thread(new RunnableThread(), "thread2");
 		
 		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
 		for (int i=0;i< linesOfDump.size();i++) {
@@ -160,11 +158,7 @@ public class InitialRelationsManager {
 
 	private void writeRelation(QueryRelationsExplorer initialExplorer, Relation relation) {
 		String relations = initialExplorer.getQueryID() + "\t";
-		relations = relations + relation.getArg1() + "\t";
-		relations = relations + relation.getArg1Origin() + "\t";
-		relations = relations + relation.getArg2() + "\t";
-		relations = relations + relation.getArg2Origin() + "\t";
-		relations = relations + relation.getRel() + "\t";
+		relations = relations + relation.toString();
 		Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
 	}
 	
@@ -217,16 +211,20 @@ public class InitialRelationsManager {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
+		// needs to be modified in order to include the new terms
+		manager.extractTerms();
+		
+		CatVariator.readCatVar();
+		CatVariator.writeTerminologyVariations();
 		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
 		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
 		
-		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
-		manager.extractTerms();
+		
 		
 		// Builds tuples from all of the terms 
 		InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
 		
-	
 		manager.doInitialExtraction();
 		
 		

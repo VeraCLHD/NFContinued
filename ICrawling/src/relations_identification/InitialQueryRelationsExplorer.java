@@ -290,15 +290,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(posTags, candidate);
 			// do not extract incomplete NPs, do not extract candidates that contain other terms
 			if(RelationsFilter.isIncompleteNP(posTags, candidate) || RelationsFilter.candidateContainsOtherTerms(candidate)){
-				String relations = "";
-				relations = relations + relation.getArg1() + "\t";
-				relations = relations + relation.getArg1Origin() + "\t";
-				relations = relations + relation.getArg2() + "\t";
-				relations = relations + relation.getArg2Origin() + "\t";
-				relations = relations + relation.getRel() + "\t";
-				if(relation.getTypeOfRelation() !=null){
-					relations = relation.getTypeOfRelation();
-				}
+				String relations = relation.toString();
+				
 				Writer.appendLineToFile(relations, "relations_backup/trash_relations.txt");
 			}
 			// if candidate matches fixed patterns; || len<=8
@@ -327,15 +320,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					}
 				
 			} else {
-				String relations = "";
-				relations = relations + relation.getArg1() + "\t";
-				relations = relations + relation.getArg1Origin() + "\t";
-				relations = relations + relation.getArg2() + "\t";
-				relations = relations + relation.getArg2Origin() + "\t";
-				relations = relations + relation.getRel() + "\t";
-				if(relation.getTypeOfRelation() !=null){
-					relations = relation.getTypeOfRelation();
-				}
+				String relations = relation.toString();
 				Writer.appendLineToFile(relations, "relations_backup/unknown_trash_relations.txt");
 			}
 			
