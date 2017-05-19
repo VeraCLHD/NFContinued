@@ -26,41 +26,29 @@ public class RelationsFilter {
 	public RelationsFilter() {
 		//only conjunction between both terms
 		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|.?appear.*\\sto|cause.*");
-		possiblePatterns.add("(,\\s(and|or)\\s(\\w*\\b))*");
-		possiblePatterns.add("(,\\s)?may\\s+be.*");
-		possiblePatterns.add("(,\\s)?(may|appear.*)\\s(\\w*\\b){0,6}");
-		// is-a patterns
-		// example: is an active compound called ...
-		possiblePatterns.add("(is\\s+.+|be\\s+.+|was\\s+.+)called.+");
-		possiblePatterns.add(",\\s?called.+");
-		
-		//... temples, treasuries, and other important civic buildings
-		possiblePatterns.add("(\\w*\\b),\\s+(\\w*\\b)*(or|and)?.*");
-		//most European countries, especially
-		possiblePatterns.add("(\\w*\\b)?,\\s+(including|especially)(\\w*\\b)*(or|and)?.*");
-		possiblePatterns.add("like\\s?");
 		possiblePatterns.add("than\\s?");
-		//possiblePatterns.add(",?\\s?the");
+
 	}
 	
-	public static boolean isARelation(String candidate, Relation relation){
+	public static boolean isInfluence(String candidate, Relation relation){
 		boolean result = false;
-		List<String> suchAs = new ArrayList<String>();
+		List<String> influence = new ArrayList<String>();
 		// is-a patterns
 		//bow lute, such as Bambara ndang 
-		suchAs.add("such\\sas\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
-		suchAs.add(",\\ssuch\\sas\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
-		suchAs.add("such\\s.*as\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
-		suchAs.add("such\\sas\\s?");
+		influence.add("(,\\s)?may\\s+be.*");
+		influence.add("(,\\s)?(may|appear.*)\\s(\\w*\\b){0,6}");
+		influence.add("(and|or)?\\s?(link|appear).*\\sto|cause.*");
+		influence.add("(and|or)?\\s?(link|appear|cause).*");
 		
-		for(String pattr: suchAs){
-			Pattern pattern = Pattern.compile(pattr);
+		for(int i=0; i< influence.size();i++){
+			Pattern pattern = Pattern.compile(influence.get(i));
 			Matcher m = pattern.matcher(candidate);
 			boolean current = m.matches();
 			if (current == true){
 				result = true;
-				relation.setTypeOfRelation("SUCH-AS");
+				relation.setTypeOfRelation("INFLUENCE");
 				break;
+				
 			}
 			
 		}
@@ -68,7 +56,42 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	public static boolean matchesFixedConnections(String candidate){
+	public static boolean isARelation(String candidate, Relation relation){
+		boolean result = false;
+		List<String> isA = new ArrayList<String>();
+		// is-a patterns
+		//bow lute, such as Bambara ndang 
+		isA.add("such\\sas\\s?");
+		isA.add("(\\p{Punct})?\\ssuch\\sas\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
+		isA.add("such\\s.*as\\s(\\w*\\b)(or|and)?\\s(\\w*\\b)");
+		
+		// is-a patterns
+		// example: is an active compound called ...
+		isA.add("(is\\s+.+|be\\s+.+|was\\s+.+)called.+");
+		isA.add("(\\p{Punct})?\\s?called.+");
+		isA.add("(\\p{Punct})?\\s?is|was\\s?");
+		//most European countries, especially
+		isA.add("(\\w*\\b)?,\\s+(including|especially)(\\w*\\b)*(or|and)?.*");
+		isA.add("like\\s?");
+		
+		for(int i=0; i< isA.size();i++){
+			Pattern pattern = Pattern.compile(isA.get(i));
+			Matcher m = pattern.matcher(candidate);
+			boolean current = m.matches();
+			if (current == true){
+				result = true;
+
+				relation.setTypeOfRelation("IS-A");
+				break;
+				
+			}
+			
+		}
+
+		return result;
+	}
+	
+	public static boolean matchesFixedConnections(String candidate, Relation relation){
 		boolean result = false;
 		for(String pattr: possiblePatterns){
 			Pattern pattern = Pattern.compile(pattr);
@@ -76,6 +99,7 @@ public class RelationsFilter {
 			boolean current = m.matches();
 			if (current == true){
 				result = true;
+				relation.setTypeOfRelation("OTHER");
 				break;
 			}
 			
@@ -85,24 +109,6 @@ public class RelationsFilter {
 		
 	}
 	
-	public static boolean startsWithVP(String candidate){
-		boolean result = false;
-		if(!candidate.isEmpty() && !candidate.matches("\\s+") && !candidate.equals(" ") && candidate !=null){
-			Sentence sent = new Sentence(candidate);
-			// pos tags penn tree bank
-		    //https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
-		   List<String> pos =  sent.posTags();
-		    if(!pos.isEmpty()){
-		    	// if the candidate starts with a verb, then it is a verbal phrase
-		    	result = pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD");
-			}
-		}
-		
-	
-	    
-	    
-		return result;
-	}
 	
 	/**
 	 * A method that checks for incomplete nout phrases - if the first or the last elements of a candidate are nouns, the noun phrase is incomplete
@@ -124,13 +130,14 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	public static boolean startsWithVPAndNotOtherSentence(List<String> pos, String candidate){
+	public static boolean startsWithVPAndNotOtherSentence(List<String> pos, String candidate, Relation relation){
 		boolean result = false;
 		
 		    if(!pos.isEmpty()){
 		    	// if the candidate starts with a verb, then it is a verbal phrase
 		    	if(pos.get(0).matches("VB|VBD|VBN|VBG|VBZ|VBP|MD") == true && !candidate.contains(",") && !candidate.contains(";")){
 		    		result = true;
+		    		relation.setTypeOfRelation("VP");
 		    	}
 			
 		}
@@ -139,13 +146,14 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	public static boolean startsWithPrepAndNotOtherSentence(List<String> pos, String candidate){
+	public static boolean startsWithPrepAndNotOtherSentence(List<String> pos, String candidate, Relation relation){
 		boolean result = false;
 		
 		    if(!pos.isEmpty()){
 		    	// if the candidate starts with a verb, then it is a verbal phrase
 		    	if(pos.get(0).matches("IN|TO") == true && !candidate.contains(",") && !candidate.contains(";")){
 		    		result = true;
+		    		relation.setTypeOfRelation("PREP");
 		    	}
 			
 		}
@@ -154,13 +162,14 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	public static boolean startsWithAdjAndNotOtherSentence(List<String> pos, String candidate){
+	public static boolean startsWithAdjAndNotOtherSentence(List<String> pos, String candidate, Relation relation){
 		boolean result = false;
 		
 		    if(!pos.isEmpty()){
 		    	// if the candidate starts with a verb, then it is a verbal phrase
 		    	if(pos.get(0).matches("JJ|JJR|JJS") == true && !candidate.contains(",") && !candidate.contains(";")){
 		    		result = true;
+		    		relation.setTypeOfRelation("ADJ");
 		    	}
 			
 		}
@@ -182,20 +191,7 @@ public class RelationsFilter {
 	    
 		return result;
 	}
-	
-	public static boolean candidateContainsOtherTerms(String term1, String term2){
-		boolean result = false;
-		Set<String> set = InitialRelationsManager.allTermsAndVariations;
-		
-		int index = StringUtils.indexOfAny(term1, set.toArray(new String[set.size()]));
-		    if(index !=-1){
-		    	result = true;
-			
-		}
-	    
-	    
-		return result;
-	}
+
 	
 	
 	public static boolean isOrStartsWithRelevantPunct(String candidate, Relation relation){
@@ -205,13 +201,19 @@ public class RelationsFilter {
 			result = false;
 		}
 		// include conjunctions via "&"
-		if(candidate.matches("&") || candidate.matches(",\\s(\\w*\\b)?\\s?(&|and|or)?\\s?(\\w*\\b)*") 
-				|| candidate.matches(",?\\s?as\\swell\\sas\\s?")){
+		//",\\s(\\w*\\b)?\\s?(&|and|or)?\\s?(\\w*\\b)*"
+		//... temples, treasuries, and other important civic buildings
+
+		if(candidate.matches("&") 
+				|| candidate.matches(",\\s?(\\w*\\b)?,?(&|and|or)?\\s?(\\w*\\b)*") 
+				|| candidate.matches(",?\\s?as\\swell\\sas\\s?") 
+				|| candidate.matches("(\\w*\\b),\\s+(\\w*\\b)*(or|and).*")
+				|| possiblePatterns.add(",?\\s?&|and|or\\s?,?")){
 			relation.setTypeOfRelation("AND-CONJ");
 			result = true;
 		} 
 		// series of items should be included as well -> relevant
-		if (candidate.matches(",\\s?(\\w*\\b)*\\s?,?\\s?")){
+		if (candidate.matches(",\\s?(\\w*\\b)*\\s?,?\\s?") || candidate.matches("\\w*\\b),\\s+(\\w*\\b)*,.*")){
 			relation.setTypeOfRelation("LIST");
 			result = true;
 		}

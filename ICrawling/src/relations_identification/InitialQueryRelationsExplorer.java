@@ -285,9 +285,10 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			relation.setRel(candidate);
 			
 			List<String> posTags = annotatePOS(pair, var1, var2);
+			relation.setPosTags(posTags);
 			// Filters begin here
-			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate);
-			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(posTags, candidate);
+			boolean fixed_result = RelationsFilter.matchesFixedConnections(candidate, relation);
+			boolean vb_result = RelationsFilter.startsWithVPAndNotOtherSentence(posTags, candidate, relation);
 			// do not extract incomplete NPs, do not extract candidates that contain other terms
 			if(RelationsFilter.isIncompleteNP(posTags, candidate) || RelationsFilter.candidateContainsOtherTerms(candidate)){
 				String relations = relation.toString();
@@ -296,12 +297,14 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			}
 			// if candidate matches fixed patterns; || len<=8
 			else if((
-					RelationsFilter.isOrStartsWithRelevantPunct(candidate, relation) 
-					|| RelationsFilter.isEmpty(candidate, relation) 
+					RelationsFilter.isOrStartsWithRelevantPunct(candidate, relation)
+					|| RelationsFilter.isARelation(candidate, relation)
+					|| RelationsFilter.isEmpty(candidate, relation)
+					|| RelationsFilter.isInfluence(candidate, relation)
 					|| fixed_result == true 
 					|| vb_result == true 
-					|| RelationsFilter.startsWithPrepAndNotOtherSentence(posTags, candidate)
-					|| RelationsFilter.startsWithAdjAndNotOtherSentence(posTags, candidate)
+					|| RelationsFilter.startsWithPrepAndNotOtherSentence(posTags, candidate, relation)
+					|| RelationsFilter.startsWithAdjAndNotOtherSentence(posTags, candidate, relation)
 					|| RelationsFilter.isPreposition(candidate, relation, posTags)
 					|| RelationsFilter.isCoordinatingConjunction(candidate, relation, posTags)) && len<=10){
 					
