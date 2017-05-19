@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 
 import org.jsoup.Connection.Response;
@@ -22,19 +23,27 @@ public class CatVariator {
 	public static Map<String, List<String>> contentOfCatVarFile = new HashMap<String, List<String>>();
 	
 	public CatVariator() {
-		
+		readCatVar();
 	}
 	
-	public static void readCatVar(){
+	public void readCatVar(){
 		ArrayList<String> variations = readFileLinewise("catvar21");
 		for(String variation: variations){
 			// only if # the term has variations
 			if(variation.contains("#")){
-				String[] oneVar = variation.split("_(\\w)*#");
+				String[] oneVar = variation.split("#");
 				if(oneVar.length > 1){
 					String lemma = oneVar[1].trim();
+					lemma = lemma.substring(0, lemma.indexOf("_"));
+					// all morphological variations in this list
 					List<String> vars = Arrays.asList(oneVar).subList(1, oneVar.length);
-					CatVariator.getContentOfCatVarFile().put(lemma, vars);
+					List<String> finalVars = new ArrayList<String>();
+					for(String var: vars){
+						if(var.contains("_")){
+							finalVars.add(var.trim().substring(0, var.indexOf("_")));
+						}
+					}
+					CatVariator.getContentOfCatVarFile().put(lemma, finalVars);
 				}
 			}
 			
@@ -115,9 +124,9 @@ public class CatVariator {
 	/**
 	 * A method for writing  reading the catVars of the CatVar file.
 	 */
-	public static void writeTerminologyVariations(){
+	public static void writeTerminologyVariations(String inputfile, String outputfile){
 		Writer.overwriteFile("", "terminology_variations_catvar.txt");
-		ArrayList<String> terms = readFileLinewise("all_terms.txt");
+		ArrayList<String> terms = readFileLinewise(inputfile);
 		
 		 
 		for (String term: terms){
@@ -132,15 +141,32 @@ public class CatVariator {
 					continue;
 				}
 				String line = termItself + "\t";
-				if(contentOfCatVarFile.get(lemma) !=null){
-					
+				
+
+				if(contentOfCatVarFile.containsKey(lemma)){
 					for(String var: contentOfCatVarFile.get(lemma)){
 						line += var.trim() + ",";
 					}
+				} else{
+					for(Entry<String,List<String>> variation: contentOfCatVarFile.entrySet()){
+						if(variation.getValue().contains(term) || variation.getValue().contains(lemma)){
+							line += variation.getKey() + ",";
+							for(String varList: variation.getValue()){
+								line += varList + ",";
+							}
+							break;
+						}
+					}
+				}
+				
+				
+				if(contentOfCatVarFile.get(lemma) !=null){
+					
+					
 					
 				}
 				
-				Writer.appendLineToFile(line, "terminology_variations_catvar.txt");
+				Writer.appendLineToFile(line, outputfile);
 				
 				
 

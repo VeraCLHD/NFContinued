@@ -9,6 +9,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.Map.Entry;
 
 import io.Reader;
 import io.Writer;
@@ -27,6 +28,7 @@ public class InitialRelationsManager {
 	private String pathToNFDump;
 	private static final String PATH_CAT_VAR = "terminology_variations_catvar.txt";
 	private static final String PATH_MESH = "mesh_variations.txt";
+	private static final String KEA_PATH = "kea_terms.txt";
 	/**
 	 * Used and unused terms refer to the words from each text that are qualified as terms, e.g through lemmatization.
 	 * But at the end, the original terms are written in the file
@@ -47,6 +49,8 @@ public class InitialRelationsManager {
 	private static Map<String,Set<String>> catVar = new HashMap<String,Set<String>>();
 	private static Map<String,Set<String>> meshTerms = new HashMap<String,Set<String>>();
 	private static RelationsFilter filter = new RelationsFilter();
+	
+	
 	
 	public static Map<String, String> getUnusedTerms() {
 		return unusedTerms;
@@ -96,18 +100,85 @@ public class InitialRelationsManager {
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
 				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
-				//InitialRelationsManager.getExplorer().add(initialExplorer);
 				Writer.overwriteFile("", "relations_backup/initial_relations" +"_" + initialExplorer.getQueryID() + ".txt" );
 			}
-		}
-		
-		for(String term_a : InitialRelationsManager.getTermsOverall().keySet()){
-			Writer.appendLineToFile(term_a + "\t" + InitialRelationsManager.getTermsOverall().get(term_a), "all_terms.txt");
 		}
 	
 	}
 		
+	public void manageAdditionalTerms(){
+		
+		List<String> additionalKeaTerms = Reader.readLinesList(KEA_PATH);
+		for(String kea: additionalKeaTerms){
+			if(!kea.isEmpty() && kea !=null){
+				Term term = new Term(kea.trim());
+				InitialRelationsManager.getTerms().add(term);
+			}
+			
+		}
+		
+	}
 	
+	public void addMeshVariationsToTerms(){
+		// mesh variations
+
+		MeshVariator.writeTerminologyVariations();
+		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
+	}
+	
+	public void addCatVariationsToTerms(Map<String, List<String>> contentOfCatVarFile){
+		
+		
+		for(Term term : InitialRelationsManager.getTerms()){
+				// we use the lemma to check in CATVAR; otherwise very often nothing is found.
+				String lemma = term.getLemma();
+				if(term.getOriginalTerm().matches(".*\\p{Punct}") || term.getOriginalTerm().contains(" ") ){
+					continue;
+				}
+				
+
+				if(contentOfCatVarFile.containsKey(lemma)){
+					List<String> list = contentOfCatVarFile.get(lemma);
+					if(list == null || list.isEmpty()){
+						term.setCatvariations(new HashSet<String>());
+					} else{
+						term.setCatvariations(new HashSet<String>(contentOfCatVarFile.get(lemma)));
+					}
+					
+				} else{
+					for(Entry<String,List<String>> variation: contentOfCatVarFile.entrySet()){
+						if(variation.getValue().contains(term) || variation.getValue().contains(lemma)){
+							Set<String> vars = new HashSet<String>();
+							vars.add(variation.getKey());
+							vars.addAll(variation.getValue());
+							term.setCatvariations(vars);
+							break;
+						}
+					}
+				}
+				
+				if(InitialRelationsManager.getMeshTerms().containsKey(term.getOriginalTerm())){
+					List<String> meshlist = contentOfCatVarFile.get(term.getOriginalTerm());
+					
+					
+					if(meshlist == null || meshlist.isEmpty()){
+						term.setMesh(new HashSet<String>());
+					} else{
+						term.setMesh(new HashSet<String>(meshlist));
+					} 
+				}
+				
+				
+				// this structure only for checking if a string contains them later
+				InitialRelationsManager.allTermsAndVariations.addAll(term.getCatvariations());
+				InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
+				InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
+				InitialRelationsManager.allTermsAndVariations.addAll(term.getMesh());
+		
+		}
+		
+		
+	}
 	public void doInitialExtraction(){
 		
 		Writer.overwriteFile("", "initial_relations.txt");
@@ -211,17 +282,24 @@ public class InitialRelationsManager {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// extract the terms: without variations
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
-		// needs to be modified in order to include the new terms
 		manager.extractTerms();
+		// second we get the variations of all words in EN -> fills the map with variations
+		CatVariator variator = new CatVariator();
+		manager.manageAdditionalTerms();
 		
-		CatVariator.readCatVar();
-		CatVariator.writeTerminologyVariations();
-		InitialRelationsManager.setCatVar(CatVariator.readCatVariations(PATH_CAT_VAR));
-		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
+		// set the variations of the terms we need (only Dr. Gregers Terms)
+		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");
 		
+		manager.addMeshVariationsToTerms();
+		manager.addCatVariationsToTerms(CatVariator.getContentOfCatVarFile());
 		
+		for(Term term_a : InitialRelationsManager.getTerms()){
+			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
+		}
 		
+
 		// Builds tuples from all of the terms 
 		InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
 		

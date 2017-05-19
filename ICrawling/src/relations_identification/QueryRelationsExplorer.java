@@ -41,31 +41,16 @@ public abstract class QueryRelationsExplorer {
 			topic = topic.trim().toLowerCase();
 			if(!topic.equals("-")){
 				Term term = new Term(topic);
-				Set<String> list = InitialRelationsManager.getCatVar().get(term);
-				if(list == null || list.isEmpty()){
-					term.setCatvariations(new HashSet<String>());
-				} else{
-					term.setCatvariations(list);
-				}
 				
-				Set<String> meshList = InitialRelationsManager.getMeshTerms().get(term);
-				if(meshList == null || meshList.isEmpty()){
-					term.setMesh(new HashSet<String>());
-				} else{
-					term.setMesh(meshList);
-				} 
 				
 				// special case: a typo in the tag
 				if(topic.equals("cance")){
 					term.setOriginalTerm("cancer");
 				}
 				
-				InitialRelationsManager.getTerms().add(term);
+				
 				InitialRelationsManager.getTermsOverall().put(topic, term.getLemma());
-				// this structure only for checking if a string contains them later
-				InitialRelationsManager.allTermsAndVariations.addAll(term.getCatvariations());
-				InitialRelationsManager.allTermsAndVariations.addAll(term.getMesh());
-				InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
+				InitialRelationsManager.getTerms().add(term);
 				// Here a link between a query and a term is provided (contains duplicates)
 				Writer.appendLineToFile(this.getQueryID() + "\t" + topic + "\t" + term.getLemma(), "termsOverall.txt");
 			}

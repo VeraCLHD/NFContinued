@@ -20,6 +20,8 @@ import org.jsoup.nodes.Node;
 import crawling_docs.DelayManager;
 import io.Reader;
 import io.Writer;
+import relations_identification.InitialRelationsManager;
+import relations_identification.Term;
 import run.createQCLIRCorpus;
 
 public class MeshVariator {
@@ -85,7 +87,7 @@ public class MeshVariator {
 
 
 						} catch (IOException e) {
-							System.out.println(lemma);
+							System.out.println("The " + lemma + "could not be crawled.");
 							
 						}
 
@@ -138,17 +140,19 @@ public class MeshVariator {
 	public static void writeTerminologyVariations(){
 		Writer.overwriteFile("", "mesh_variations.txt");
 		Writer.overwriteFile("", "mesh_tree.txt");
-		List<String> terms = readFileLinewise("all_terms.txt");
-		for (String term: terms){
+		Set<Term> terms = InitialRelationsManager.getTerms();
+		for (Term t: terms){
+			// the original term
+			String term = t.getOriginalTerm();
 			if(!term.isEmpty() && !term.equals("\\s")){
-				String[] oneTerm = term.split("\t");
+				
 				// we use the lemma to check in Mesh; otherwise very often nothing is found.
-				String lemma = oneTerm[1].trim();
-				String termItself = oneTerm[0].trim();
-				if(termItself.matches(".*\\p{Punct}") || termItself.contains(" ") ){
+				String lemma = t.getLemma();
+				
+				if(term.matches(".*\\p{Punct}") || term.contains(" ") ){
 					continue;
 				}
-				String line = crawlAndWriteVariations(lemma, termItself);
+				String line = crawlAndWriteVariations(lemma, term);
 				Writer.appendLineToFile(line, "mesh_variations.txt");
 			}
 

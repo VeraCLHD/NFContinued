@@ -13,7 +13,7 @@ import io.Writer;
 public class DataProcessor {
 	
 	private Set<String> terms = new HashSet<String>();
-	private static final String PATH_TO_KEA_TERMS = "kea_terms.txt_mesh";
+	private static final String PATH_TO_KEA_TERMS = "kea_terms.txt";
 	
 	public void readAndRewriterNFDump(){
 		List<String> linesOfDump = Reader.readLinesList("nfdump.txt");
@@ -48,7 +48,7 @@ public class DataProcessor {
 	public static void main(String[] args) {
 		DataProcessor dp = new DataProcessor();
 		//dp.readAndRewriterNFDump();
-		dp.concatenateKeaTerms("testdocs/en/test/mesh test_train");
+		dp.concatenateKeaTerms("testdocs/en/test/no vocabulary_test_train");
 
 	}
 

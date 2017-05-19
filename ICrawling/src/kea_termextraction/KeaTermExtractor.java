@@ -61,13 +61,13 @@ public class KeaTermExtractor {
 			km.setStopwords(new StopwordsEnglish());
 			
 			// 9. Maximum length of a keyphrase
-			km.setMaxPhraseLength(5);
+			km.setMaxPhraseLength(3);
 			
 			// 10. Minimum length of a keyphrase
 			km.setMinPhraseLength(1);
 			
 			// 11. Minumum occurrence of a phrase in the document -- use 2 for long documents!
-			km.setMinNumOccur(2);
+			km.setMinNumOccur(1);
 		
 		//  Optional: turn off the keyphrase frequency feature	
 		//	km.setUseKFrequency(false);
@@ -114,7 +114,7 @@ public class KeaTermExtractor {
 			ke.setStopwords(new StopwordsEnglish());
 			
 			// 9. Number of Keyphrases to extract
-			ke.setNumPhrases(10);
+			ke.setNumPhrases(2);
 			
 			// 10. Set to true, if you want to compute global dictionaries from the test collection
 			ke.setBuildGlobal(false);		

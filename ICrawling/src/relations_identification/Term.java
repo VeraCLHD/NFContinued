@@ -29,7 +29,18 @@ public class Term {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Set<Term> terms = new HashSet<Term>();
+		Term term1 = new Term("cardiovascular disease");
+		Term term2 = new Term("cardiovascular disease");
+		terms.add(term1);
+		terms.add(term2);
+		Set<String> set = new HashSet<String>();
+		set.add("var1");
+		set.add("var2");
+		term1.setCatvariations(set);
+		for(Term t: terms){
+			System.out.println(t.getCatvariations().toString());
+		}
 
 	}
 	

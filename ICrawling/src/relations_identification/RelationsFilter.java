@@ -116,7 +116,8 @@ public class RelationsFilter {
 		
 		    if(!pos.isEmpty()){
 		    	// avoids extracting incomplete noun phrases: if the first word of candidate is noun or the last is noun or adjective
-		    	result = pos.get(0).matches("NN|NNS|NNP|NNPS") || pos.get(pos.size()-1).matches("NN|NNS|NNP|NNPS|POS|JJ|JJR|JJS");
+		    	// VBG in the beginning: avoids poultry "producing" states as an incomplete NP
+		    	result = pos.get(0).matches("NN|NNS|NNP|NNPS|VBG") || pos.get(pos.size()-1).matches("NN|NNS|NNP|NNPS|POS|JJ|JJR|JJS");
 
 		    }
 		
