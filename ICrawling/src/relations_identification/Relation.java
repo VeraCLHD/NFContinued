@@ -22,6 +22,7 @@ public class Relation {
 	private String arg2Origin;
 	private String relationText;
 	private String typeOfRelation;
+	private List<String> posTags = new ArrayList<String>();
 	
 	
 	/**
@@ -38,6 +39,8 @@ public class Relation {
 		String relation = this.getArg1() + "\t" + this.getArg1Origin()  + "\t" + this.getArg2() + "\t" + this.getArg2Origin() + "\t" + this.getRel() + "\t";
 		if(this.getTypeOfRelation() !=null){
 			relation = relation + this.getTypeOfRelation();
+		} if(this.getPosTags() !=null){
+			relation = relation + this.getPosTags().toString();
 		}
 		return relation;
 	}
@@ -125,5 +128,13 @@ public class Relation {
 
 	public void setTypeOfRelation(String typeOfRelation) {
 		this.typeOfRelation = typeOfRelation;
+	}
+
+	public List<String> getPosTags() {
+		return posTags;
+	}
+
+	public void setPosTags(List<String> posTags) {
+		this.posTags = posTags;
 	}
 }

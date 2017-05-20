@@ -291,13 +291,14 @@ public class InitialRelationsManager {
 		
 		// set the variations of the terms we need (only Dr. Gregers Terms)
 		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");
+		for(Term term_a : InitialRelationsManager.getTerms()){
+			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
+		}
 		
 		manager.addMeshVariationsToTerms();
 		manager.addCatVariationsToTerms(CatVariator.getContentOfCatVarFile());
 		
-		for(Term term_a : InitialRelationsManager.getTerms()){
-			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
-		}
+		
 		
 
 		// Builds tuples from all of the terms 
