@@ -18,7 +18,7 @@ public class Relation {
 
 	// the original term - original term like in list of terms
 	private String arg1Origin;
-	// the term2 like in text - original term like in list of terms
+	// the original term - original term like in list of terms
 	private String arg2Origin;
 	private String relationText;
 	private String typeOfRelation;
@@ -38,7 +38,7 @@ public class Relation {
 		
 		String relation = this.getArg1() + "\t" + this.getArg1Origin()  + "\t" + this.getArg2() + "\t" + this.getArg2Origin() + "\t" + this.getRel() + "\t";
 		if(this.getTypeOfRelation() !=null){
-			relation = relation + this.getTypeOfRelation();
+			relation = relation + this.getTypeOfRelation() +"\t";
 		} if(this.getPosTags() !=null){
 			relation = relation + this.getPosTags().toString();
 		}

@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
+import java.util.Map.Entry;
 import java.util.List;
 
 import org.jsoup.Connection.Response;
@@ -31,9 +32,35 @@ public class MeshVariator {
 	
 	private static Map<String, String> is_a_map = new HashMap<String, String>();
 	
+	public static Map<String, Set<String>> contentOfMeshFile = new HashMap<String, Set<String>>();
+	
+	
+
 	public MeshVariator() {
-		// TODO Auto-generated constructor stub
+		readMesh();
 	}
+	
+	public void readMesh(){
+		List<String> variations = readFileLinewise("meshVariants.txt");
+		for(String variation: variations){
+			if( variation != null && !variation.equals("") && !variation.isEmpty()){
+				// only if # the term has variations
+				String[] oneEntry = variation.split("\t");
+				if(oneEntry.length > 2){
+					String term = oneEntry[0].trim();
+					Set<String> meshVariations = new HashSet<String>(Arrays.asList(oneEntry[2].split(",")));
+					// all morphological variations in this list
+					
+						MeshVariator.getContentOfMeshFile().put(term, meshVariations);
+					
+					
+				}
+			}
+		
+	}
+	}
+	
+
 	
 	/**
 	 * Extracts the domain from the initial link. Used for tracking the delay within a domain when two or more pages of the same domain
@@ -164,6 +191,8 @@ public class MeshVariator {
 		}
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		writeTerminologyVariations();
 		//crawlAndWriteVariations("blueberries", "blueberry");
@@ -180,6 +209,13 @@ public class MeshVariator {
 
 	public static void setIs_a_map(Map<String, String> is_a_map) {
 		MeshVariator.is_a_map = is_a_map;
+	}
+	public static Map<String, Set<String>> getContentOfMeshFile() {
+		return contentOfMeshFile;
+	}
+
+	public static void setContentOfMeshFile(Map<String, Set<String>> contentOfMeshFile) {
+		MeshVariator.contentOfMeshFile = contentOfMeshFile;
 	}
 
 }

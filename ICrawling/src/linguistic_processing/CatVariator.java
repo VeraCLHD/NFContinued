@@ -20,7 +20,7 @@ import io.Reader;
 import io.Writer;
 
 public class CatVariator {
-	public static Map<String, List<String>> contentOfCatVarFile = new HashMap<String, List<String>>();
+	public static Map<String, Set<String>> contentOfCatVarFile = new HashMap<String, Set<String>>();
 	
 	public CatVariator() {
 		readCatVar();
@@ -36,8 +36,8 @@ public class CatVariator {
 					String lemma = oneVar[1].trim();
 					lemma = lemma.substring(0, lemma.indexOf("_"));
 					// all morphological variations in this list
-					List<String> vars = Arrays.asList(oneVar).subList(1, oneVar.length);
-					List<String> finalVars = new ArrayList<String>();
+					Set<String> vars = new HashSet<String>(Arrays.asList(oneVar).subList(1, oneVar.length));
+					Set<String> finalVars = new HashSet<String>();
 					for(String var: vars){
 						if(var.contains("_")){
 							finalVars.add(var.trim().substring(0, var.indexOf("_")));
@@ -122,7 +122,7 @@ public class CatVariator {
 	}
 	
 	/**
-	 * A method for writing  reading the catVars of the CatVar file.
+	 * A method for writing the catVars of the CatVar file.
 	 */
 	public static void writeTerminologyVariations(String inputfile, String outputfile){
 		Writer.overwriteFile("", "terminology_variations_catvar.txt");
@@ -148,7 +148,7 @@ public class CatVariator {
 						line += var.trim() + ",";
 					}
 				} else{
-					for(Entry<String,List<String>> variation: contentOfCatVarFile.entrySet()){
+					for(Entry<String,Set<String>> variation: contentOfCatVarFile.entrySet()){
 						if(variation.getValue().contains(term) || variation.getValue().contains(lemma)){
 							line += variation.getKey() + ",";
 							for(String varList: variation.getValue()){
@@ -203,11 +203,11 @@ public class CatVariator {
 		return varForLemma;
 	}
 	
-	public static Map<String, List<String>> getContentOfCatVarFile() {
+	public static Map<String, Set<String>> getContentOfCatVarFile() {
 		return contentOfCatVarFile;
 	}
 
-	public static void setContentOfCatVarFile(Map<String, List<String>> contentOfCatVarFile) {
+	public static void setContentOfCatVarFile(Map<String, Set<String>> contentOfCatVarFile) {
 		CatVariator.contentOfCatVarFile = contentOfCatVarFile;
 	}
 

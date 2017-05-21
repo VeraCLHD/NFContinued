@@ -17,6 +17,7 @@ import io.RunnableThread;
 import linguistic_processing.CatVariator;
 import linguistic_processing.MeshVariator;
 import linguistic_processing.StanfordLemmatizer;
+import linguistic_processing.XMLParserMesh;
 
 /**
  * @author Vera
@@ -45,9 +46,7 @@ public class InitialRelationsManager {
 	
 	// for checking if a string contains any term
 	public static Set<String> allTermsAndVariations = new HashSet<String>();
-	
-	private static Map<String,Set<String>> catVar = new HashMap<String,Set<String>>();
-	private static Map<String,Set<String>> meshTerms = new HashMap<String,Set<String>>();
+
 	private static RelationsFilter filter = new RelationsFilter();
 	
 	
@@ -119,14 +118,54 @@ public class InitialRelationsManager {
 		
 	}
 	
-	public void addMeshVariationsToTerms(){
+	public void addMeshVariationsToTerms(Map<String, Set<String>> contentOfMeshFile){
 		// mesh variations
-
-		MeshVariator.writeTerminologyVariations();
-		InitialRelationsManager.setMeshTerms(MeshVariator.readMeshVariations(PATH_MESH));
+		for(Term term : InitialRelationsManager.getTerms()){
+			// we use the lemma to check in mesh
+			String lemma = term.getLemma();
+			
+			if(contentOfMeshFile.containsKey(term.getOriginalTerm())){
+				Set<String> list = contentOfMeshFile.get(term.getOriginalTerm());
+				if(list == null || list.isEmpty()){
+					term.setMesh(new HashSet<String>());
+				} else{
+					term.setMesh(new HashSet<String>(contentOfMeshFile.get(term.getOriginalTerm())));
+				}
+				
+			}
+			else if(!term.getOriginalTerm().contains(" ") && contentOfMeshFile.containsKey(lemma)){
+				Set<String> list = contentOfMeshFile.get(lemma);
+				if(list == null || list.isEmpty()){
+					term.setMesh(new HashSet<String>());
+				} else{
+					term.setMesh(new HashSet<String>(contentOfMeshFile.get(lemma)));
+				}
+				
+			} 
+			
+			else{
+				for(Entry<String,Set<String>> variation: contentOfMeshFile.entrySet()){
+					if(variation.getValue().contains(term.getOriginalTerm()) || (!term.getOriginalTerm().contains(" ") && variation.getValue().contains(lemma))){
+						Set<String> vars = new HashSet<String>();
+						vars.add(variation.getKey());
+						vars.addAll(variation.getValue());
+						term.setMesh(vars);
+						break;
+					}
+				}
+			}
+			
+			
+			// this structure only for checking if a string contains them later
+			InitialRelationsManager.allTermsAndVariations.addAll(term.getMesh());
+			InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
+			InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
+	
 	}
 	
-	public void addCatVariationsToTerms(Map<String, List<String>> contentOfCatVarFile){
+	}
+	
+	public void addCatVariationsToTerms(Map<String, Set<String>> contentOfCatVarFile){
 		
 		
 		for(Term term : InitialRelationsManager.getTerms()){
@@ -138,7 +177,7 @@ public class InitialRelationsManager {
 				
 
 				if(contentOfCatVarFile.containsKey(lemma)){
-					List<String> list = contentOfCatVarFile.get(lemma);
+					Set<String> list = contentOfCatVarFile.get(lemma);
 					if(list == null || list.isEmpty()){
 						term.setCatvariations(new HashSet<String>());
 					} else{
@@ -146,8 +185,8 @@ public class InitialRelationsManager {
 					}
 					
 				} else{
-					for(Entry<String,List<String>> variation: contentOfCatVarFile.entrySet()){
-						if(variation.getValue().contains(term) || variation.getValue().contains(lemma)){
+					for(Entry<String,Set<String>> variation: contentOfCatVarFile.entrySet()){
+						if(variation.getValue().contains(term.getOriginalTerm()) || variation.getValue().contains(lemma)){
 							Set<String> vars = new HashSet<String>();
 							vars.add(variation.getKey());
 							vars.addAll(variation.getValue());
@@ -157,23 +196,12 @@ public class InitialRelationsManager {
 					}
 				}
 				
-				if(InitialRelationsManager.getMeshTerms().containsKey(term.getOriginalTerm())){
-					List<String> meshlist = contentOfCatVarFile.get(term.getOriginalTerm());
-					
-					
-					if(meshlist == null || meshlist.isEmpty()){
-						term.setMesh(new HashSet<String>());
-					} else{
-						term.setMesh(new HashSet<String>(meshlist));
-					} 
-				}
 				
 				
 				// this structure only for checking if a string contains them later
 				InitialRelationsManager.allTermsAndVariations.addAll(term.getCatvariations());
 				InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
 				InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
-				InitialRelationsManager.allTermsAndVariations.addAll(term.getMesh());
 		
 		}
 		
@@ -285,9 +313,16 @@ public class InitialRelationsManager {
 		// extract the terms: without variations
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
 		manager.extractTerms();
+		/* cover mesh variations
+		Writer.overwriteFile("", "meshVariants.txt");
+		XMLParserMesh.extractEntryTermsMeshHeadings("mesh/desc2017.xml", "DescriptorRecord", "DescriptorUI", "DescriptorName");
+	    //extractEntryTermsMeshHeadings("mesh/supp2017.xml", "SupplementalRecord", "SupplementalRecordUI", "SupplementalRecordName");
+		XMLParserMesh.extractEntryTermsMeshHeadings("mesh/qual2017.xml", "QualifierRecord", "QualifierUI", "QualifierName");*/
+	    
 		// second we get the variations of all words in EN -> fills the map with variations
 		CatVariator variator = new CatVariator();
-		manager.manageAdditionalTerms();
+		MeshVariator meshVariator = new MeshVariator();
+		//manager.manageAdditionalTerms();
 		
 		// set the variations of the terms we need (only Dr. Gregers Terms)
 		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");
@@ -295,7 +330,7 @@ public class InitialRelationsManager {
 			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
 		}
 		
-		manager.addMeshVariationsToTerms();
+		manager.addMeshVariationsToTerms(MeshVariator.getContentOfMeshFile());
 		manager.addCatVariationsToTerms(CatVariator.getContentOfCatVarFile());
 		
 		
@@ -306,6 +341,26 @@ public class InitialRelationsManager {
 		
 		manager.doInitialExtraction();
 		
+		
+	}
+	
+	public static Map<Relation, Integer> filterOverallRelations(){
+		Map<Relation, Integer> duplicatedMap = InitialRelationsManager.getOverallRelations();
+		Map<Relation, Integer> finalMap = InitialRelationsManager.getOverallRelations();
+		for(Relation relation1: duplicatedMap.keySet()){
+			// second loop only for comparison
+			for(Relation relation2: duplicatedMap.keySet()){
+				if(!relation1.equals(relation2)){
+					// if they have the same between them
+					if(relation1.getRel().equals(relation2)){
+						if(relation1.getArg1Origin().contains(relation2.getArg1Origin())){
+						
+						}
+					}
+				}
+			}
+		}
+		return overallRelations;
 		
 	}
 
@@ -336,24 +391,6 @@ public class InitialRelationsManager {
 	}
 
 
-	public static Map<String,Set<String>> getCatVar() {
-		return catVar;
-	}
-
-
-	public static void setCatVar(Map<String,Set<String>> catVar) {
-		InitialRelationsManager.catVar = catVar;
-	}
-
-
-	public static Map<String,Set<String>> getMeshTerms() {
-		return meshTerms;
-	}
-
-
-	public static void setMeshTerms(Map<String,Set<String>> meshTerms) {
-		InitialRelationsManager.meshTerms = meshTerms;
-	}
 
 
 	public static Set<Term> getTerms() {

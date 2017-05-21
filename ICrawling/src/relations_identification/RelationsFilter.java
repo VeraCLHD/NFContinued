@@ -213,7 +213,7 @@ public class RelationsFilter {
 			result = true;
 		} 
 		// series of items should be included as well -> relevant
-		if (candidate.matches(",\\s?(\\w*\\b)*\\s?,?\\s?") || candidate.matches("\\w*\\b),\\s+(\\w*\\b)*,.*")){
+		if (candidate.matches(",\\s?(\\w*\\b)*\\s?,?\\s?") || candidate.matches("(\\w*\\b),\\s+(\\w*\\b)*,.*")){
 			relation.setTypeOfRelation("LIST");
 			result = true;
 		}
@@ -321,6 +321,8 @@ public class RelationsFilter {
 		}*/
 
 	}
+	
+
 
 	public static List<String> getPossiblePatterns() {
 		return possiblePatterns;
