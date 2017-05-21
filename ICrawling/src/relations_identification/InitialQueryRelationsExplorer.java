@@ -272,10 +272,6 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 		String candidate = pair.first;
 		candidate = processCandidate(candidate);
 		
-		System.out.println(term1.toString());
-		System.out.println(term1.getCatvariations().toString());
-		System.out.println("MESH: " + term1.getMesh().toString());
-		
 		if(!candidate.isEmpty() ){
 			int len = candidate.split(" ").length;
 			Relation relation = new Relation();

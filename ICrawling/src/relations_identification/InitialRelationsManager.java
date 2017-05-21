@@ -6,6 +6,7 @@ package relations_identification;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -249,9 +250,6 @@ public class InitialRelationsManager {
 			Writer.appendLineToFile(termUsed + "\t" + used.get(termUsed), "used_terms.txt");
 		}
 		
-		for(Relation rel: InitialRelationsManager.getOverallRelations().keySet()){
-			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
-		}
 	}
 
 
@@ -341,26 +339,57 @@ public class InitialRelationsManager {
 		
 		manager.doInitialExtraction();
 		
+		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
+		for(Relation rel: filtered.keySet()){
+			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
+		}
+		
 		
 	}
 	
 	public static Map<Relation, Integer> filterOverallRelations(){
+		Writer.overwriteFile("","all_relations_duplicates.txt");
 		Map<Relation, Integer> duplicatedMap = InitialRelationsManager.getOverallRelations();
 		Map<Relation, Integer> finalMap = InitialRelationsManager.getOverallRelations();
+		Set<Relation> duplicateCandidates = new HashSet<Relation>();
+		
 		for(Relation relation1: duplicatedMap.keySet()){
+			Integer frequency = duplicatedMap.get(relation1);
+			
+			
+			Set<Relation> set = duplicatedMap.keySet();
+			
 			// second loop only for comparison
-			for(Relation relation2: duplicatedMap.keySet()){
+			for(Relation relation2: set){
 				if(!relation1.equals(relation2)){
 					// if they have the same between them
-					if(relation1.getRel().equals(relation2)){
-						if(relation1.getArg1Origin().contains(relation2.getArg1Origin())){
-						
+					if(relation1.getRel().equals(relation2.getRel())){
+						if(relation1.getArg1Origin().contains(relation2.getArg1Origin()) && relation1.getArg2Origin().equals(relation2.getArg2Origin())){
+							frequency +=duplicatedMap.get(relation2);
+							duplicateCandidates.add(relation2);
+
+						} else if(relation1.getArg2Origin().contains(relation2.getArg2Origin()) && relation1.getArg1Origin().equals(relation2.getArg1Origin())){
+							frequency +=duplicatedMap.get(relation2);
+							duplicateCandidates.add(relation2);
+							
+						} else if(relation1.getArg1Origin().contains(relation2.getArg1Origin()) && relation1.getArg2Origin().contains(relation2.getArg2Origin())){
+							frequency +=duplicatedMap.get(relation2);
+							duplicateCandidates.add(relation2);
+							
 						}
 					}
 				}
 			}
+
+			finalMap.put(relation1, frequency);
+			
 		}
-		return overallRelations;
+		
+		for(Relation duplicate: duplicateCandidates){
+			finalMap.remove(duplicate);
+			Writer.appendLineToFile(duplicate.toString(), "all_relations_duplicates.txt");
+		}
+		return finalMap;
 		
 	}
 

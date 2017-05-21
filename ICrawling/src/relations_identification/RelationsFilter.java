@@ -208,7 +208,7 @@ public class RelationsFilter {
 				|| candidate.matches(",\\s?(\\w*\\b)?,?(&|and|or)?\\s?(\\w*\\b)*") 
 				|| candidate.matches(",?\\s?as\\swell\\sas\\s?") 
 				|| candidate.matches("(\\w*\\b),\\s+(\\w*\\b)*(or|and).*")
-				|| possiblePatterns.add(",?\\s?&|and|or\\s?,?")){
+				|| candidate.matches(",?\\s?&|and|or\\s?,?")){
 			relation.setTypeOfRelation("AND-CONJ");
 			result = true;
 		} 
