@@ -61,7 +61,7 @@ public class KeaTermExtractor {
 			km.setStopwords(new StopwordsEnglish());
 			
 			// 9. Maximum length of a keyphrase
-			km.setMaxPhraseLength(2);
+			km.setMaxPhraseLength(3);
 			
 			// 10. Minimum length of a keyphrase
 			km.setMinPhraseLength(1);

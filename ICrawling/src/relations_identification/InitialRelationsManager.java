@@ -267,6 +267,8 @@ public class InitialRelationsManager {
 	 */
 	public static Map<String, Pair<Term>> buildaTupleHashmapOfTerms(Set<Term> terms)
 	{
+		System.out.println("building tuples of terms");
+		Writer.overwriteFile("", "tuples_of_terms.txt");
 		Map<String, Pair<Term>> tuples = new HashMap<String, Pair<Term>>();
 		
 		// Loop through all of the terms to create tuples from them all
@@ -288,8 +290,11 @@ public class InitialRelationsManager {
 					for (String term1Variation: term1Variations)
 						for (String term2Variation: term2Variations)
 						{
-							
-							tuples.put(term1Variation + "l_o_v_e" + term2Variation, new Pair<Term>(term1, term2));
+							String line = term1Variation + "l_o_v_e" + term2Variation 
+									+ "\t" + term1.getOriginalTerm() + "\t" + term1.getLemma() + "\t" + term1.getCatvariations().toString() + "\t" + term1.getMesh().toString()
+									+ "\t" + term2.getOriginalTerm() + "\t" + term2.getLemma() + "\t" + term2.getCatvariations().toString() + "\t" + term2.getMesh().toString(); 
+							Writer.appendLineToFile(line, "tuples_of_terms.txt");
+							//tuples.put(term1Variation + "l_o_v_e" + term2Variation, new Pair<Term>(term1, term2));
 						}
 				}
 				
