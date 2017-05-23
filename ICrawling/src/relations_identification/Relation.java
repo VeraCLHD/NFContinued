@@ -36,7 +36,7 @@ public class Relation {
 	@Override
 	public String toString(){
 		
-		String relation = this.getArg1() + "\t" + this.getArg1Origin()  + "\t" + this.getArg2() + "\t" + this.getArg2Origin() + "\t" + this.getRel() + "\t";
+		String relation = this.getArg1() + "\t" + this.getArg2() + "\t" + this.getRel() + "\t";
 		if(this.getTypeOfRelation() !=null){
 			relation = relation + this.getTypeOfRelation() +"\t";
 		} if(this.getPosTags() !=null){
@@ -106,21 +106,7 @@ public class Relation {
 	public void setRel(String rel) {
 		this.relationText = rel;
 	}
-	public String getArg1Origin() {
-		return arg1Origin;
-	}
 
-	public void setArg1Origin(String arg1Origin) {
-		this.arg1Origin = arg1Origin;
-	}
-
-	public String getArg2Origin() {
-		return arg2Origin;
-	}
-
-	public void setArg2Origin(String arg2Origin) {
-		this.arg2Origin = arg2Origin;
-	}
 
 	public String getTypeOfRelation() {
 		return typeOfRelation;

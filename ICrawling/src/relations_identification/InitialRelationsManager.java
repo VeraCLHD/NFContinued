@@ -36,14 +36,14 @@ public class InitialRelationsManager {
 	 * But at the end, the original terms are written in the file
 	 *
 	 */
-	private static Map<String,String> unusedTerms = new HashMap<String, String>();
-	private static Map<String,String> usedTerms = new HashMap<String, String>();
+	private static Set<String> unusedTerms = new HashSet< String>();
+	private static Set<String> usedTerms = new HashSet<String>();
 	// variable only for writing all terms with lemmas into a file
 	private static Map<String,String> termsOverall = new HashMap<String,String>();
 	
 	private static Set<Term> terms = new HashSet<Term>();
 	// example dogl_o_v_ecat => (Term(dog), Term(cat))
-	public static Map<String, Pair<Term>> tuplesOfTerms = null;
+	public static Set<String> tuplesOfTerms = null;
 	
 	// for checking if a string contains any term
 	public static Set<String> allTermsAndVariations = new HashSet<String>();
@@ -52,37 +52,36 @@ public class InitialRelationsManager {
 	
 	
 	
-	public static Map<String, String> getUnusedTerms() {
+	public static Set<String> getUnusedTerms() {
 		return unusedTerms;
 	}
 
 
-	public static void setUnusedTerms(Map<String, String> unusedTerms) {
+	public static void setUnusedTerms(Set<String> unusedTerms) {
 		InitialRelationsManager.unusedTerms = unusedTerms;
 	}
 
 
-	public static Map<String, String> getUsedTerms() {
+	public static Set<String> getUsedTerms() {
 		return usedTerms;
 	}
 
 
-	public static void setUsedTerms(Map<String, String> usedTerms) {
+	public static void setUsedTerms(Set<String> usedTerms) {
 		InitialRelationsManager.usedTerms = usedTerms;
 	}
 	
-	public Map<String, String> determindeUnusedTerms(){
+	public void determindeUnusedTerms(){
 		StanfordLemmatizer lemm = new StanfordLemmatizer();
 		for(String term: getTermsOverall().keySet()){
-			if(!getUsedTerms().containsKey(term)){
+			if(!getUsedTerms().contains(term)){
 				
 				String termLemma = lemm.lemmatize(term);
-				getUnusedTerms().put(term, termLemma);
+				getUnusedTerms().add(term);
 
 			}
 		}
 		
-		return unusedTerms;
 		
 	}
 	
@@ -127,19 +126,17 @@ public class InitialRelationsManager {
 			
 			if(contentOfMeshFile.containsKey(term.getOriginalTerm())){
 				Set<String> list = contentOfMeshFile.get(term.getOriginalTerm());
-				if(list == null || list.isEmpty()){
-					term.setMesh(new HashSet<String>());
-				} else{
-					term.setMesh(new HashSet<String>(contentOfMeshFile.get(term.getOriginalTerm())));
+				if(list !=null && !list.isEmpty()){
+					term.getCatAndMesh().addAll(contentOfMeshFile.get(term.getOriginalTerm()));
+					
 				}
 				
 			}
 			else if(!term.getOriginalTerm().contains(" ") && contentOfMeshFile.containsKey(lemma)){
 				Set<String> list = contentOfMeshFile.get(lemma);
-				if(list == null || list.isEmpty()){
-					term.setMesh(new HashSet<String>());
-				} else{
-					term.setMesh(new HashSet<String>(contentOfMeshFile.get(lemma)));
+				if(list !=null && !list.isEmpty()){
+					term.getCatAndMesh().addAll(contentOfMeshFile.get(term.getLemma()));
+					InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
 				}
 				
 			} 
@@ -150,7 +147,7 @@ public class InitialRelationsManager {
 						Set<String> vars = new HashSet<String>();
 						vars.add(variation.getKey());
 						vars.addAll(variation.getValue());
-						term.setMesh(vars);
+						term.getCatAndMesh().addAll(vars);
 						break;
 					}
 				}
@@ -158,21 +155,24 @@ public class InitialRelationsManager {
 			
 			
 			// this structure only for checking if a string contains them later
-			InitialRelationsManager.allTermsAndVariations.addAll(term.getMesh());
+			InitialRelationsManager.allTermsAndVariations.addAll(term.getCatAndMesh());
 			InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
-			InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
+			
 	
 	}
 	
 	}
-	
+	/**
+	 * prerequisite for this method is: to run the addCatVariations first, then mesh!
+	 * @param contentOfCatVarFile
+	 */
 	public void addCatVariationsToTerms(Map<String, Set<String>> contentOfCatVarFile){
 		
 		
 		for(Term term : InitialRelationsManager.getTerms()){
 				// we use the lemma to check in CATVAR; otherwise very often nothing is found.
 				String lemma = term.getLemma();
-				if(term.getOriginalTerm().matches(".*\\p{Punct}") || term.getOriginalTerm().contains(" ") ){
+				if(term.getOriginalTerm().matches(".*\\p{Punct}") || term.getOriginalTerm().contains(" ")){
 					continue;
 				}
 				
@@ -180,10 +180,12 @@ public class InitialRelationsManager {
 				if(contentOfCatVarFile.containsKey(lemma)){
 					Set<String> list = contentOfCatVarFile.get(lemma);
 					if(list == null || list.isEmpty()){
-						term.setCatvariations(new HashSet<String>());
+						term.setCatAndMesh(new HashSet<String>());
 					} else{
-						term.setCatvariations(new HashSet<String>(contentOfCatVarFile.get(lemma)));
+						term.setCatAndMesh(new HashSet<String>(contentOfCatVarFile.get(lemma)));
 					}
+					
+					InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
 					
 				} else{
 					for(Entry<String,Set<String>> variation: contentOfCatVarFile.entrySet()){
@@ -191,18 +193,19 @@ public class InitialRelationsManager {
 							Set<String> vars = new HashSet<String>();
 							vars.add(variation.getKey());
 							vars.addAll(variation.getValue());
-							term.setCatvariations(vars);
+							term.setCatAndMesh(vars);
 							break;
 						}
 					}
+					
+					InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
 				}
 				
 				
 				
 				// this structure only for checking if a string contains them later
-				InitialRelationsManager.allTermsAndVariations.addAll(term.getCatvariations());
 				InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
-				InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
+				
 		
 		}
 		
@@ -238,16 +241,16 @@ public class InitialRelationsManager {
 				
 		
 		// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
-		Map<String, String> used = getUsedTerms();
+		Set<String> used = getUsedTerms();
 		determindeUnusedTerms();
-		Map<String, String> unused = getUnusedTerms();
+		Set<String> unused = getUnusedTerms();
 		
 		
-		for (String term: unused.keySet()){
-			Writer.appendLineToFile(term + "\t" + unused.get(term), "unused_terms.txt");
+		for (String term: unused){
+			Writer.appendLineToFile(term , "unused_terms.txt");
 		}
-		for (String termUsed: used.keySet()){
-			Writer.appendLineToFile(termUsed + "\t" + used.get(termUsed), "used_terms.txt");
+		for (String termUsed: used){
+			Writer.appendLineToFile(termUsed, "used_terms.txt");
 		}
 		
 	}
@@ -265,36 +268,39 @@ public class InitialRelationsManager {
 	 * @param terms
 	 * @return
 	 */
-	public static Map<String, Pair<Term>> buildaTupleHashmapOfTerms(Set<Term> terms)
+	public static Set<String> buildaTupleHashmapOfTerms(Set<Term> terms)
 	{
 		System.out.println("building tuples of terms");
 		Writer.overwriteFile("", "tuples_of_terms.txt");
-		Map<String, Pair<Term>> tuples = new HashMap<String, Pair<Term>>();
+		Set<String> combinations = new HashSet<String>();
 		
 		// Loop through all of the terms to create tuples from them all
 		for(Term term1: terms)
 		{
 			
-			Set<String> term1Variations = new HashSet<String>(term1.getCatvariations());
+			Set<String> term1Variations = new HashSet<String>(term1.getCatAndMesh());
 			// We don't know if the original term is a variation
 			term1Variations.add(term1.getOriginalTerm());
-			term1Variations.addAll(term1.getMesh());
+			term1Variations.addAll(term1.getCatAndMesh());
 			
 			for(Term term2: terms)
 			{
 				if(!term1.equals(term2)){
-					Set<String> term2Variations = new HashSet<String>(term2.getCatvariations());
+					Set<String> term2Variations = new HashSet<String>(term2.getCatAndMesh());
 					// We don't know if the original term is a variation
 					term2Variations.add(term2.getOriginalTerm());
-					term2Variations.addAll(term2.getMesh());
 					for (String term1Variation: term1Variations)
 						for (String term2Variation: term2Variations)
 						{
-							String line = term1Variation + "l_o_v_e" + term2Variation 
-									+ "\t" + term1.getOriginalTerm() + "\t" + term1.getLemma() + "\t" + term1.getCatvariations().toString() + "\t" + term1.getMesh().toString()
-									+ "\t" + term2.getOriginalTerm() + "\t" + term2.getLemma() + "\t" + term2.getCatvariations().toString() + "\t" + term2.getMesh().toString(); 
-							Writer.appendLineToFile(line, "tuples_of_terms.txt");
-							//tuples.put(term1Variation + "l_o_v_e" + term2Variation, new Pair<Term>(term1, term2));
+							String combination = term1Variation + "l_o_v_e" + term2Variation;
+							String line = combination 
+									+ "\t" + term1.getOriginalTerm() + "\t" + term1.getLemma() 
+									+ "\t" + term2.getOriginalTerm() + "\t" + term2.getLemma(); 
+							
+							
+							if(combinations.add(combination) == true){
+								Writer.appendLineToFile(line, "tuples_of_terms.txt");
+							}
 						}
 				}
 				
@@ -306,7 +312,7 @@ public class InitialRelationsManager {
 			Writer.appendLineToFile(pair + "\t" + tuples.get(pair).first.toString() +  "\t" + tuples.get(pair).second.toString(), "map_tuples.txt");
 		}*/
 		
-		return tuples;
+		return combinations;
 	}
 	
 	/**
@@ -333,10 +339,12 @@ public class InitialRelationsManager {
 			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
 		}
 		
-		manager.addMeshVariationsToTerms(MeshVariator.getContentOfMeshFile());
+		
 		manager.addCatVariationsToTerms(CatVariator.getContentOfCatVarFile());
+		// very important: addMesh should be runned after addCat!!!
+		manager.addMeshVariationsToTerms(MeshVariator.getContentOfMeshFile());
 		
-		
+		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
 		
 
 		// Builds tuples from all of the terms 
@@ -369,15 +377,15 @@ public class InitialRelationsManager {
 				if(!relation1.equals(relation2)){
 					// if they have the same between them
 					if(relation1.getRel().equals(relation2.getRel())){
-						if(relation1.getArg1Origin().contains(relation2.getArg1Origin()) && relation1.getArg2Origin().equals(relation2.getArg2Origin())){
+						if(relation1.getArg1().contains(relation2.getArg1()) && relation1.getArg2().equals(relation2.getArg2())){
 							frequency +=duplicatedMap.get(relation2);
 							duplicateCandidates.add(relation2);
 
-						} else if(relation1.getArg2Origin().contains(relation2.getArg2Origin()) && relation1.getArg1Origin().equals(relation2.getArg1Origin())){
+						} else if(relation1.getArg2().contains(relation2.getArg2()) && relation1.getArg1().equals(relation2.getArg1())){
 							frequency +=duplicatedMap.get(relation2);
 							duplicateCandidates.add(relation2);
 							
-						} else if(relation1.getArg1Origin().contains(relation2.getArg1Origin()) && relation1.getArg2Origin().contains(relation2.getArg2Origin())){
+						} else if(relation1.getArg1().contains(relation2.getArg1()) && relation1.getArg2().contains(relation2.getArg2())){
 							frequency +=duplicatedMap.get(relation2);
 							duplicateCandidates.add(relation2);
 							

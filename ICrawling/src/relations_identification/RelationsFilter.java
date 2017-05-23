@@ -25,7 +25,7 @@ public class RelationsFilter {
 	
 	public RelationsFilter() {
 		//only conjunction between both terms
-		possiblePatterns.add("and|or|of|in|consist.*\\sof|replace.*|link.*\\sto|.?appear.*\\sto|cause.*");
+		possiblePatterns.add("and|or|consist.*\\sof|replace.*|link.*\\sto|.?appear.*\\sto|cause.*");
 		possiblePatterns.add("than\\s?");
 
 	}

@@ -17,8 +17,7 @@ public class Term {
 	
 	private String originalTerm;
 	private String lemma;
-	private Set<String> catvariations = new HashSet<String>();
-	private Set<String> mesh = new HashSet<String>();
+	private Set<String> catAndMesh = new HashSet<String>();
 	
 	private StanfordLemmatizer lemm = new StanfordLemmatizer();
 	
@@ -37,11 +36,16 @@ public class Term {
 		Set<String> set = new HashSet<String>();
 		set.add("var1");
 		set.add("var2");
-		term1.setCatvariations(set);
+		
+		Set<String> setToAdd = new HashSet<String>();
+		set.add("la1");
+		set.add("la2");
+		term1.setCatAndMesh(set);
 		for(Term t: terms){
-			System.out.println(t.getCatvariations().toString());
+			t.getCatAndMesh().addAll(setToAdd);
+			System.out.println(t.getCatAndMesh().toString());
 		}
-
+		
 	}
 	
 	@Override
@@ -55,7 +59,7 @@ public class Term {
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
-		result = prime * result + ((catvariations == null) ? 0 : catvariations.hashCode());
+		result = prime * result + ((catAndMesh == null) ? 0 : catAndMesh.hashCode());
 		result = prime * result + ((lemma == null) ? 0 : lemma.hashCode());
 		result = prime * result + ((originalTerm == null) ? 0 : originalTerm.hashCode());
 		return result;
@@ -71,10 +75,10 @@ public class Term {
 		if (getClass() != obj.getClass())
 			return false;
 		Term other = (Term) obj;
-		if (catvariations == null) {
-			if (other.catvariations != null)
+		if (catAndMesh == null) {
+			if (other.catAndMesh != null)
 				return false;
-		} else if (!catvariations.equals(other.catvariations))
+		} else if (!catAndMesh.equals(other.catAndMesh))
 			return false;
 		if (lemma == null) {
 			if (other.lemma != null)
@@ -106,12 +110,12 @@ public class Term {
 		this.lemma = lemma;
 	}
 
-	public Set<String> getCatvariations() {
-		return catvariations;
+	public Set<String> getCatAndMesh() {
+		return catAndMesh;
 	}
 
-	public void setCatvariations(Set<String> catvariations) {
-		this.catvariations = catvariations;
+	public void setCatAndMesh(Set<String> catvariations) {
+		this.catAndMesh = catvariations;
 	}
 
 	public StanfordLemmatizer getLemm() {
@@ -120,16 +124,6 @@ public class Term {
 
 	public void setLemm(StanfordLemmatizer lemm) {
 		this.lemm = lemm;
-	}
-
-
-	public Set<String> getMesh() {
-		return mesh;
-	}
-
-
-	public void setMesh(Set<String> mesh) {
-		this.mesh = mesh;
 	}
 
 }

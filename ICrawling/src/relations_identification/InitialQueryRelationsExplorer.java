@@ -89,70 +89,20 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			
 			for(String candidate1: termCandidates1){
 				for(String candidate2: termCandidates2){
-					Pair<Term> temrs = InitialRelationsManager.tuplesOfTerms.get(candidate1 + "l_o_v_e" + candidate2);
+					Set<String> temrs = InitialRelationsManager.tuplesOfTerms;
 					
-					if (temrs != null){
+					if (temrs.contains(candidate1 + "l_o_v_e" + candidate2)){
 						List<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, candidate1, candidate2);
 						for(Pair<String> match: stdCase){
-							extractRelation(temrs.first, candidate1, temrs.second, candidate2, match);
+							extractRelation(candidate1, candidate2, match);
 						}
-						//System.out.println(temrs.first.getOriginalTerm() + " " + temrs.second.getOriginalTerm());
 					}
 						
 				}
 			}
 			
-			
-			/*for(Term term1: termSet){
-				for(Term term2: termSet){
-					
-					if(!term1.equals(term2)){
-						// first and second term are not multi-words
-						
-				    		// terms themselves
-							List<String> stdCase = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getOriginalTerm());
-							for(String match: stdCase){
-								extractRelation(term1, term1.getOriginalTerm(), term2, term2.getOriginalTerm(), match);
-							}
-							
-							
-							// special case: m&m's -> is lemmatized to m which leads to many unwanted connections
-							if(!term1.getOriginalTerm().contains("&") && !term2.getOriginalTerm().contains("&")){
-								// case morphological variations
-								handleMorphoVariations(sentenceString, term1, term2);
-								
-								/*if(!term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
-									// case lemmas: only for single terms
-									handleLemmas(term1, term2, sentence);
-								} 
-								
-								 These cases don't need to be handled - if a term is multiword, then only search for term itself.
-								 * else if(term1.getOriginalTerm().contains(" ") && !term2.getOriginalTerm().contains(" ")){
-									String caseLemma = lookForATermWordMatch(sentenceString, term1.getOriginalTerm(), term2.getLemma());
-									extractRelation(term1, term1.getOriginalTerm(), term2, term2.getLemma(), caseLemma);
-								} else if(!term1.getOriginalTerm().contains(" ") && term2.getOriginalTerm().contains(" ")){
-									String caseLemma = lookForATermWordMatch(sentenceString, term1.getLemma(), term2.getOriginalTerm());
-									extractRelation(term1, term1.getLemma(), term2, term2.getOriginalTerm(), caseLemma);
-								} 
-									
-								}
-							}
-
-					}
-
-						// Here: http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
-						//This will deliver just one match and would possibly contain other terms or the term as well. Is this a problem?
-						// Multiword-terms are covered here.
-				    	// Here, it is checked if the lemma of term matches a word in the sentence
-				    		
-				    	// With this approach, we are loosing things like if "processed meat" is in the text instead of "meats" -> multiword that is searched for entirely without lemmatization.
-						// But also: American heart association isn't recognized as American which would gain too many artificial connections that are not there
-					
-					
-				}*/
 			}
-		
-		
+
 	}
 
 
@@ -267,7 +217,7 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	}*/
 	
 	// term1: der Term selbst
-	private void extractRelation(Term term1, String var1, Term term2, String var2, Pair<String> pair) {
+	private void extractRelation(String var1, String var2, Pair<String> pair) {
 		//without terms
 		String candidate = pair.first;
 		candidate = processCandidate(candidate);
@@ -278,9 +228,9 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			//term 1 found like this
 			relation.setArg1(var1);
 			//original term
-			relation.setArg1Origin(term1.getOriginalTerm());
+			
 			relation.setArg2(var2);
-			relation.setArg2Origin(term2.getOriginalTerm());
+
 			relation.setRel(candidate);
 			
 			List<String> posTags = annotatePOS(pair, var1, var2);
@@ -311,8 +261,8 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 					this.getRelationsForOneText().add(relation);
 					
 					// put relation in maps
-					InitialRelationsManager.getUsedTerms().put(term1.getOriginalTerm(), term1.getLemma());
-					InitialRelationsManager.getUsedTerms().put(term2.getOriginalTerm(), term2.getLemma());
+					InitialRelationsManager.getUsedTerms().add(var1);
+					InitialRelationsManager.getUsedTerms().add(var2);
 					//add relation to overall relations and count frequency
 					Integer relationFrequency = InitialRelationsManager.getOverallRelations().get(relation);
 					if( relationFrequency != null){
