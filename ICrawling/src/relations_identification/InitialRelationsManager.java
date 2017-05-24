@@ -10,6 +10,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeSet;
 import java.util.Map.Entry;
 
 import io.Reader;
@@ -118,6 +119,7 @@ public class InitialRelationsManager {
 		
 	}
 	
+	//the main structure allTermsAndVariations gets mesh and cat here; each term gehts mesh
 	public void addMeshVariationsToTerms(Map<String, Set<String>> contentOfMeshFile){
 		// mesh variations
 		for(Term term : InitialRelationsManager.getTerms()){
@@ -164,6 +166,7 @@ public class InitialRelationsManager {
 	}
 	/**
 	 * prerequisite for this method is: to run the addCatVariations first, then mesh!
+	 * Here, each term gehts cat. allTermsAndVariations gehts lemmas and term itself
 	 * @param contentOfCatVarFile
 	 */
 	public void addCatVariationsToTerms(Map<String, Set<String>> contentOfCatVarFile){
@@ -268,51 +271,46 @@ public class InitialRelationsManager {
 	 * @param terms
 	 * @return
 	 */
-	public static Set<String> buildaTupleHashmapOfTerms(Set<Term> terms)
+	public static void buildaTupleHashmapOfTerms(Set<Term> terms)
 	{
+		String filepath = "term_outputs/tuples_of_terms";	
 		System.out.println("building tuples of terms");
-		Writer.overwriteFile("", "tuples_of_terms.txt");
-		Set<String> combinations = new HashSet<String>();
+		//int[] file = {2,3,5,7};
+		/*for(int f: file){
+			Writer.overwriteFile("", filepath + "_" + String.valueOf(f) + ".txt");
+		}*/
+		Writer.overwriteFile("", filepath + "_" + 2 + ".txt");
+		Writer.overwriteFile("", "which_term.txt");
 		
-		// Loop through all of the terms to create tuples from them all
-		for(Term term1: terms)
-		{
-			
-			Set<String> term1Variations = new HashSet<String>(term1.getCatAndMesh());
-			// We don't know if the original term is a variation
-			term1Variations.add(term1.getOriginalTerm());
-			term1Variations.addAll(term1.getCatAndMesh());
-			
-			for(Term term2: terms)
-			{
+		
+		
+		List<String> allTermsAndVariations = new ArrayList<String>(InitialRelationsManager.allTermsAndVariations);
+		for(int i = 0; i<		allTermsAndVariations.size(); i++){
+			for(int j = i; j<		allTermsAndVariations.size(); j++){
+				String term1 = allTermsAndVariations.get(i);
+				String term2 = allTermsAndVariations.get(j);
 				if(!term1.equals(term2)){
-					Set<String> term2Variations = new HashSet<String>(term2.getCatAndMesh());
-					// We don't know if the original term is a variation
-					term2Variations.add(term2.getOriginalTerm());
-					for (String term1Variation: term1Variations)
-						for (String term2Variation: term2Variations)
-						{
-							String combination = term1Variation + "l_o_v_e" + term2Variation;
-							String line = combination 
-									+ "\t" + term1.getOriginalTerm() + "\t" + term1.getLemma() 
-									+ "\t" + term2.getOriginalTerm() + "\t" + term2.getLemma(); 
-							
-							
-							if(combinations.add(combination) == true){
-								Writer.appendLineToFile(line, "tuples_of_terms.txt");
-							}
-						}
+
+					if(i%2 == 0){
+						Writer.appendLineToFile(term1 + "l_o_v_e" + term2, filepath + "_" + 2 + ".txt");
+						Writer.appendLineToFile(term2 + "l_o_v_e" + term1, filepath + "_" + 2 + ".txt");
+					} else{
+						Writer.appendLineToFile(term1 + "l_o_v_e" + term2, filepath + "_" + 1 + ".txt");
+						Writer.appendLineToFile(term2 + "l_o_v_e" + term1, filepath + "_" + 1 + ".txt");
+					}
+					
+
 				}
 				
 			}
+			
+			Writer.appendLineToFile(String.valueOf(i), "term_outputs/which_term.txt");
 		}
 		
 		
 		/*for(String pair: tuples.keySet()){
 			Writer.appendLineToFile(pair + "\t" + tuples.get(pair).first.toString() +  "\t" + tuples.get(pair).second.toString(), "map_tuples.txt");
 		}*/
-		
-		return combinations;
 	}
 	
 	/**
@@ -348,14 +346,15 @@ public class InitialRelationsManager {
 		
 
 		// Builds tuples from all of the terms 
-		InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
+		InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
+		/*InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
 		
 		manager.doInitialExtraction();
 		
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
 			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
-		}
+		}*/
 		
 		
 	}

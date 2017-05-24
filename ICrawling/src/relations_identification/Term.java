@@ -28,7 +28,7 @@ public class Term {
 	
 	
 	public static void main(String[] args) {
-		Set<Term> terms = new HashSet<Term>();
+		/*Set<Term> terms = new HashSet<Term>();
 		Term term1 = new Term("cardiovascular disease");
 		Term term2 = new Term("cardiovascular disease");
 		terms.add(term1);
@@ -44,6 +44,20 @@ public class Term {
 		for(Term t: terms){
 			t.getCatAndMesh().addAll(setToAdd);
 			System.out.println(t.getCatAndMesh().toString());
+		}*/
+		List<String> allTermsAndVariations = new ArrayList<String>();
+		allTermsAndVariations.add("term1");
+		allTermsAndVariations.add("term2");
+		allTermsAndVariations.add("term3");
+		
+		for(int i = 0; i<		allTermsAndVariations.size(); i++){
+			for(int j = i; j<		allTermsAndVariations.size(); j++){
+				if(!allTermsAndVariations.get(i).equals(allTermsAndVariations.get(j))){
+					System.out.println(allTermsAndVariations.get(i)+" " + allTermsAndVariations.get(j));
+					System.out.println("SECOND:" + allTermsAndVariations.get(j)+" " + allTermsAndVariations.get(i));
+				}
+				
+			}
 		}
 		
 	}
