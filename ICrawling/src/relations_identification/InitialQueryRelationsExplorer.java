@@ -14,9 +14,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
-import org.codehaus.plexus.util.StringUtils;
-import org.unix4j.Unix4j;
-import org.unix4j.unix.Grep;
 
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.trees.HeadFinder;

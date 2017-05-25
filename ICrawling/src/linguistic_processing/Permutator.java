@@ -5,8 +5,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.codehaus.plexus.util.StringUtils;
-
 import edu.stanford.nlp.simple.Sentence;
 
 public class Permutator {
