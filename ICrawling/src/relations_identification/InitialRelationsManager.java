@@ -291,24 +291,27 @@ for (String termUsed: used){
 		List<String> allTermsAndVariations = new ArrayList<String>(InitialRelationsManager.allTermsAndVariations);
 		for(int i = 0; i<		allTermsAndVariations.size(); i++){
 			String term1 = allTermsAndVariations.get(i);
-			for(int j = i; j<		allTermsAndVariations.size(); j++){
-				
-				String term2 = allTermsAndVariations.get(j);
-				if(!term1.equals(term2)){
-					try {
-						InitialQueryRelationsExplorer.extractRelationsForPair(term1, term2, ls);
-					} catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					} catch (ParseException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
+			if(!term1.matches("\\d+")){
+				for(int j = i; j<		allTermsAndVariations.size(); j++){
+					
+					String term2 = allTermsAndVariations.get(j);
+					if(!term1.equals(term2) && !term2.matches("\\d+")){
+						try {
+							InitialQueryRelationsExplorer.extractRelationsForPair(term1, term2, ls);
+						} catch (IOException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						} catch (ParseException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
 
-					Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term2.txt");
+						Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term2.txt");
+					}
+					
 				}
-				
 			}
+
 			
 			Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term1.txt");
 		}

@@ -6,6 +6,8 @@ package relations_identification;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.codec.binary.StringUtils;
+
 /**
  * @author Vera
  *
@@ -62,7 +64,7 @@ public class Relation {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("123-".matches("\\d+"));
 
 	}
 	

@@ -88,14 +88,16 @@ public class InitialQueryRelationsExplorer {
 				for(String path: set){
 					  String sentenceString = Reader.readContentOfFile(path);
 					 
-					  List<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, term1, term2);
-					  List<Pair<String>> stdCase2 = lookForATermWordMatch(sentenceString, term2, term1);
-					 
-					  stdCase.addAll(stdCase2);
+					  Set<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, term1, term2);
+					  Set<Pair<String>> stdCase2 = lookForATermWordMatch(sentenceString, term2, term1);
 					 
 					 if(!stdCase.isEmpty()){
 						 for(Pair<String> match: stdCase){
 								extractRelation(term1, term2, match, path);
+							} 
+					 } if(!stdCase2.isEmpty()){
+						 for(Pair<String> match: stdCase2){
+								extractRelation(term2, term1, match, path);
 							} 
 					 }
 						
@@ -191,8 +193,12 @@ public class InitialQueryRelationsExplorer {
 				// for checking of the POS tags -> candidate starts with NNS for example, we don't need the terms themselves.
 			// This is done only to make sure we have the correct tags.
 			List<String> posTest =  sent.posTags();
-			if(!candidate.matches("(\\p{Punct}+)") && posTest.size() != 0 && len1<=posTest.size()-len2){
-				pos =  sent.posTags().subList(len1, posTest.size()-len2);
+			int left = posTest.size() - len1 - len2;
+			if(!candidate.matches("(\\p{Punct}+)") && posTest.size() != 0 && left > 0){
+				
+				//int max = Math.max(len1, );
+				//int min = Math.min(len1,posTest.size()-len2);
+				pos =  sent.posTags().subList(len1,posTest.size()-len2);
 			}
 			
 				
@@ -210,8 +216,8 @@ public class InitialQueryRelationsExplorer {
 	
 	//http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
 	//http://stackoverflow.com/questions/4769652/how-do-you-use-the-java-word-boundary-with-apostrophes
-	public static List<Pair<String>> lookForATermWordMatch(String sentenceString, String term1, String term2) {
-		List<Pair<String>> candidates = new ArrayList<Pair<String>>();
+	public static Set<Pair<String>> lookForATermWordMatch(String sentenceString, String term1, String term2) {
+		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
 		Matcher matcher = Pattern.compile(
 				"\\b" +
 				 Pattern.quote(term1) + "\\b"

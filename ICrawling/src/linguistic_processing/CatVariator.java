@@ -40,7 +40,7 @@ public class CatVariator {
 					Set<String> finalVars = new HashSet<String>();
 					for(String var: vars){
 						if(var.contains("_")){
-							finalVars.add(var.trim().substring(0, var.indexOf("_")));
+							finalVars.add(var.trim().substring(0, var.indexOf("_")).toLowerCase());
 						}
 					}
 					CatVariator.getContentOfCatVarFile().put(lemma, finalVars);

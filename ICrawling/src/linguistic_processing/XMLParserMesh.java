@@ -58,7 +58,7 @@ public static void extractEntryTermsMeshHeadings(String path, String rootTag, St
 				name = first + " " + second;
 			} 
 			node += name + "\t";
-			node += eElement.getElementsByTagName(idTag).item(0).getTextContent() + "\t";
+			node += eElement.getElementsByTagName(idTag).item(0).getTextContent().toLowerCase() + "\t";
 			
 			NodeList nl = eElement.getElementsByTagName("Term");
 			for(int i = 0; i<nl.getLength(); i++){
