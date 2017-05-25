@@ -3,6 +3,7 @@
  */
 package relations_identification;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -11,6 +12,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
+
+import org.apache.lucene.queryparser.classic.ParseException;
+
 import java.util.Map.Entry;
 
 import io.Reader;
@@ -44,7 +48,7 @@ public class InitialRelationsManager {
 	
 	private static Set<Term> terms = new HashSet<Term>();
 	// example dogl_o_v_ecat => (Term(dog), Term(cat))
-	public static Set<String> tuplesOfTerms = null;
+	//public static Set<String> tuplesOfTerms = null;
 	
 	// for checking if a string contains any term
 	public static Set<String> allTermsAndVariations = new HashSet<String>();
@@ -232,7 +236,15 @@ public class InitialRelationsManager {
 				//InitialRelationsManager.getExplorer().add(initialExplorer);
 				System.out.println("Query " + initialExplorer.getQueryID());
 				
-				initialExplorer.extractRelations();
+				try {
+					initialExplorer.extractRelations();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (ParseException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 				
 				for(Relation relation: initialExplorer.getRelationsForOneText()){
 					writeRelation(initialExplorer, relation);
@@ -271,7 +283,7 @@ public class InitialRelationsManager {
 	 * @param terms
 	 * @return
 	 */
-	public static void buildaTupleHashmapOfTerms(Set<Term> terms)
+	public static void writeTuplesFile(Set<Term> terms)
 	{
 		String filepath = "term_outputs/tuples_of_terms";	
 		System.out.println("building tuples of terms");
@@ -280,6 +292,7 @@ public class InitialRelationsManager {
 			Writer.overwriteFile("", filepath + "_" + String.valueOf(f) + ".txt");
 		}*/
 		Writer.overwriteFile("", filepath + "_" + 2 + ".txt");
+		Writer.overwriteFile("", filepath + "_" + 1 + ".txt");
 		Writer.overwriteFile("", "which_term.txt");
 		
 		
@@ -346,15 +359,14 @@ public class InitialRelationsManager {
 		
 
 		// Builds tuples from all of the terms 
-		InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
-		/*InitialRelationsManager.tuplesOfTerms = InitialRelationsManager.buildaTupleHashmapOfTerms(InitialRelationsManager.getTerms());
+		InitialRelationsManager.writeTuplesFile(InitialRelationsManager.getTerms());
 		
 		manager.doInitialExtraction();
 		
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
 			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
-		}*/
+		}
 		
 		
 	}

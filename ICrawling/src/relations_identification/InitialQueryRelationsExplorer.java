@@ -1,5 +1,7 @@
 package relations_identification;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -10,7 +12,10 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.apache.lucene.queryparser.classic.ParseException;
 import org.codehaus.plexus.util.StringUtils;
+import org.unix4j.Unix4j;
+import org.unix4j.unix.Grep;
 
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.trees.HeadFinder;
@@ -18,6 +23,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
 import io.Writer;
+import linguistic_processing.LuceneSearcher;
 import linguistic_processing.SentenceSplitter;
 import linguistic_processing.StanfordLemmatizer;
 import processing.TextPreprocessor;
@@ -77,10 +83,11 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 	 * it is extracted as a connection. Problem: lots of the terms doesn't appear in the text. This problem is solved with a morphological analyzer (CatVar)
 	 * @see relations_identification.QueryRelationsExplorer#extractRelations()
 	 */
-	public void extractRelations() {
+	public void extractRelations() throws IOException, ParseException {
 		// The Stanford Parser should be used for the sentence splitting. It has a more elaborate method to identify a sentence.
 		SentenceSplitter splitter = new SentenceSplitter(this.getTextLower());
-		
+		  File f = new File("denied/tuples_of_terms.txt");
+			
 		for(Sentence sentence: splitter.getSentences()){
 			String sentenceString = sentence.toString();
 			
@@ -89,14 +96,21 @@ public class InitialQueryRelationsExplorer extends QueryRelationsExplorer {
 			
 			for(String candidate1: termCandidates1){
 				for(String candidate2: termCandidates2){
-					Set<String> temrs = InitialRelationsManager.tuplesOfTerms;
+
 					
-					if (temrs.contains(candidate1 + "l_o_v_e" + candidate2)){
-						List<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, candidate1, candidate2);
-						for(Pair<String> match: stdCase){
-							extractRelation(candidate1, candidate2, match);
+					if(!candidate1.equals(candidate2)){
+						String candidate = candidate1 + "l_o_v_e" + candidate2;
+						boolean isTermCombi = LuceneSearcher.doSearch(candidate);
+						
+						
+						if (isTermCombi){
+							List<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, candidate1, candidate2);
+							for(Pair<String> match: stdCase){
+								extractRelation(candidate1, candidate2, match);
+							}
 						}
 					}
+
 						
 				}
 			}

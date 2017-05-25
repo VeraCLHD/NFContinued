@@ -53,8 +53,14 @@ public class Term {
 		for(int i = 0; i<		allTermsAndVariations.size(); i++){
 			for(int j = i; j<		allTermsAndVariations.size(); j++){
 				if(!allTermsAndVariations.get(i).equals(allTermsAndVariations.get(j))){
-					System.out.println(allTermsAndVariations.get(i)+" " + allTermsAndVariations.get(j));
-					System.out.println("SECOND:" + allTermsAndVariations.get(j)+" " + allTermsAndVariations.get(i));
+					if(i%2 == 0){
+						System.out.println("1   " + allTermsAndVariations.get(i)+" " + allTermsAndVariations.get(j));
+						System.out.println("SECOND:" + allTermsAndVariations.get(j)+" " + allTermsAndVariations.get(i));
+					} else{
+						System.out.println("2   " + allTermsAndVariations.get(i)+" " + allTermsAndVariations.get(j));
+						System.out.println("SECOND:" + allTermsAndVariations.get(j)+" " + allTermsAndVariations.get(i));
+					}
+					
 				}
 				
 			}
