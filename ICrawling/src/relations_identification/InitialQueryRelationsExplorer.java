@@ -83,15 +83,22 @@ public class InitialQueryRelationsExplorer {
 	public static void extractRelationsForPair(String term1, String term2, LuceneSearcher ls) throws IOException, ParseException {
 		// The Stanford Parser should be used for the sentence splitting. It has a more elaborate method to identify a sentence.
 		if(!term1.equals(term2)){
-			Set<String> set = ls.doSearch(term1+ " AND " +term2);
+			Set<String> set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + term2 +"\"");
 			if(!set.isEmpty()){
 				for(String path: set){
 					  String sentenceString = Reader.readContentOfFile(path);
+					 
 					  List<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, term1, term2);
-					  stdCase.addAll(lookForATermWordMatch(sentenceString, term2, term1));
-						for(Pair<String> match: stdCase){
-							extractRelation(term1, term2, match, path);
-						}
+					  List<Pair<String>> stdCase2 = lookForATermWordMatch(sentenceString, term2, term1);
+					 
+					  stdCase.addAll(stdCase2);
+					 
+					 if(!stdCase.isEmpty()){
+						 for(Pair<String> match: stdCase){
+								extractRelation(term1, term2, match, path);
+							} 
+					 }
+						
 				}
 			}
 						
@@ -148,7 +155,7 @@ public class InitialQueryRelationsExplorer {
 					|| RelationsFilter.isCoordinatingConjunction(candidate, relation, posTags)) && len<=10){
 					
 					// at the level of 1 text - no duplicates, at the level of all texts - duplicates
-					InitialQueryRelationsExplorer.relations.add(relation);
+					InitialRelationsManager.writeRelation(relation);
 					
 					// put relation in maps
 					InitialRelationsManager.getUsedTerms().add(var1);
@@ -184,8 +191,8 @@ public class InitialQueryRelationsExplorer {
 				// for checking of the POS tags -> candidate starts with NNS for example, we don't need the terms themselves.
 			// This is done only to make sure we have the correct tags.
 			List<String> posTest =  sent.posTags();
-			if(!candidate.matches("(\\p{Punct}+)") && posTest.size() != 0){
-				pos =  sent.posTags().subList(0+len1, posTest.size()-len2);
+			if(!candidate.matches("(\\p{Punct}+)") && posTest.size() != 0 && len1<=posTest.size()-len2){
+				pos =  sent.posTags().subList(len1, posTest.size()-len2);
 			}
 			
 				

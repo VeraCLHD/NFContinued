@@ -232,7 +232,7 @@ public class InitialRelationsManager {
 	
 	public void prepareExtraction(){
 		
-		Writer.overwriteFile("", "initial_relations.txt");
+		Writer.overwriteFile("", "relations_backup/initial_relations.txt");
 		Writer.overwriteFile("", "map_tuples.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
@@ -264,7 +264,7 @@ for (String termUsed: used){
 	}
 
 
-	private void writeRelation(Relation relation) {
+	public static void writeRelation(Relation relation) {
 		
 		String relations = relation.toString();
 		Writer.appendLineToFile(relations, "relations_backup/initial_relations.txt");
@@ -276,7 +276,7 @@ for (String termUsed: used){
 	 * @param terms
 	 * @return
 	 */
-	public static void writeTuplesFile(Set<Term> terms)
+	public static void doActualExtractionForEachTermCombination(Set<Term> terms)
 	{
 		
 		System.out.println("building tuples of terms");
@@ -305,11 +305,12 @@ for (String termUsed: used){
 						e.printStackTrace();
 					}
 
+					Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term2.txt");
 				}
 				
 			}
 			
-			Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term.txt");
+			Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term1.txt");
 		}
 		
 	}
@@ -358,14 +359,9 @@ for (String termUsed: used){
 		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
 		manager.prepareExtraction();
 		// Extracts the relations
-		InitialRelationsManager.writeTuplesFile(InitialRelationsManager.getTerms());
+		InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
 		
-		for(Relation relation: InitialQueryRelationsExplorer.getRelations()){
-			manager.writeRelation(relation);
-			
-		}
-		
-		
+		manager.createUsedTerms();
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
 			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");

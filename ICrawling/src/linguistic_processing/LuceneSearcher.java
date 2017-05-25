@@ -15,11 +15,14 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.search.TotalHitCountCollector;
 import org.apache.lucene.store.FSDirectory;
@@ -34,7 +37,7 @@ public class LuceneSearcher {
  /** Simple command-line based search demo. */
   public static void main(String[] args) throws Exception {
 	  LuceneSearcher ls = new LuceneSearcher();
-	  Set<String> set = ls.doSearch("subject AND test");
+	  Set<String> set = ls.doSearch("\"" + "uterine-stimulating" +"\"" + "AND" + "\"" + "may have" +"\"" );
 	  for(String path: set){
 		  String str = Reader.readContentOfFile(path);
 		  System.out.println(path);
@@ -60,6 +63,8 @@ public class LuceneSearcher {
 	   } else {
 	      in = new BufferedReader(new InputStreamReader(System.in, StandardCharsets.UTF_8));
 	   }
+	    
+	   
 	   QueryParser parser = new QueryParser(field, analyzer);
 	 
 
@@ -67,9 +72,10 @@ public class LuceneSearcher {
 	      if(line !=null){
 	    	  line = line.trim();
 	      }
-	    
-	     
+	      // escapes all the characters that have to be escaped
 	      Query query = parser.parse(line);
+	      
+
 	     //System.out.println("Searching for: " + query.toString(field));
 	           
 	      Set<String> paths = new HashSet<String>();
