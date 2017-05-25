@@ -1,0 +1,1 @@
+Since each alert can contain up to 200 research summaries, that could be a million citations to go through, with new ones arriving every day.

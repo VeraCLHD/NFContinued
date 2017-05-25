@@ -1,0 +1,1 @@
+Click on the search box and you can now sort and filter results by title, date, type and language.

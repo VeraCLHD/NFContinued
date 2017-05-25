@@ -1,0 +1,1 @@
+Here’s the cholesterol levels of the people without heart disease in the famous Framingham Heart Study.

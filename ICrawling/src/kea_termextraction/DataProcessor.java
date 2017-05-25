@@ -21,6 +21,8 @@ public class DataProcessor {
 			String line = linesOfDump.get(i);
 			String[] elements = line.split("\t");
 			String id = elements[0].trim();
+			
+			
 			Writer.writeEmptyFile("testdocs/en/test/" + id + "_.txt");
 			Writer.overwriteFile(elements[3], "testdocs/en/test/" + id + "_.txt");
 			

@@ -1,0 +1,1 @@
+The data compare three days of recommended paleo menus from a popular paleo website, three days of recommended plant-based (vegan) menus from Becoming Vegan: Comprehensive Edition, and the estimated average daily intakes of Paleolithic people.

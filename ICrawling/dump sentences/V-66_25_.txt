@@ -1,0 +1,1 @@
+First, I start out with a “traffic light” system to classify everything into red light, yellow light, and green light foods.

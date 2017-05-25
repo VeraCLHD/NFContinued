@@ -1,0 +1,1 @@
+There seems to be a continuous increase in risk with increasing heart rate, at least for values above a beat a second.

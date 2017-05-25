@@ -1,0 +1,1 @@
+Trash pickers further down the line may accidently pick them back up again and repeat the process.

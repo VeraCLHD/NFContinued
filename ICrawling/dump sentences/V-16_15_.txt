@@ -1,0 +1,1 @@
+The second leading cause was smoking-related cancer deaths, but what’s so neat about this study is that it’s a competing risks analysis, so it allowed them to compare different risks to one another.

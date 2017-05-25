@@ -1,0 +1,1 @@
+We also want to make sure we’re not ingesting traces of dishwashing detergent, which could have the same effect; so, make sure to rinse your dishes well.

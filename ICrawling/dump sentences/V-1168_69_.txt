@@ -1,0 +1,1 @@
+The black bars are the cancer cells; the white bars are the normal cells.

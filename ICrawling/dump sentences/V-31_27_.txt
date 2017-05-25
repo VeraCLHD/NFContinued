@@ -1,0 +1,1 @@
+Herbs only work if they’re actually present.

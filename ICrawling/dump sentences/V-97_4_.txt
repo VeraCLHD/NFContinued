@@ -1,0 +1,1 @@
+No false positives; no false negatives; providing rapid detection of highly toxic pesticides in milk.

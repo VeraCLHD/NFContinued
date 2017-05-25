@@ -1,0 +1,1 @@
+This is where researchers randomize people into two groups, half get the drug and half don’t, to control for confounding factors.

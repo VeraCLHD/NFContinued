@@ -1,0 +1,1 @@
+Body mass index is a better predictor of disease than body weight, since it takes height into account.

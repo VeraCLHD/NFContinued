@@ -1,0 +1,1 @@
+To predict the risk of dying from a heart attack, we can measure risk factors such as cholesterol levels and blood pressure.

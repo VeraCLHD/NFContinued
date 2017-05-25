@@ -1,0 +1,1 @@
+This study compared zero to 32, 64, and 96, and 32 worked better than zero, but more than 32 didn’t add anything.

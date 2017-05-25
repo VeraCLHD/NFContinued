@@ -1,0 +1,1 @@
+It turns out that size only mattered for the whole chunk: the ordinary size was preferred to the miniature versions.

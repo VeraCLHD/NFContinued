@@ -1,0 +1,1 @@
+But, it tends to leave normal cells alone, for reasons that are not fully understood.

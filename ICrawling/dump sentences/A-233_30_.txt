@@ -1,0 +1,1 @@
+The correct approach would then be to provide protection from the offending environment.

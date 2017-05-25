@@ -1,0 +1,1 @@
+They start dosing lab animals with super high amounts, and then keep lowering the dose until whatever adverse effects disappear; then, add a safety buffer and assume everything below that dose should be okay, assuming the curve looks like this.

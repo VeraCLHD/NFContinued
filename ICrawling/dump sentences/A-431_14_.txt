@@ -1,0 +1,1 @@
+The primary difference is how they are processed; white being the least processed and black being the most.

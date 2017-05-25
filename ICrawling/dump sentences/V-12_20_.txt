@@ -1,0 +1,1 @@
+And, as any physics geek can tell you, “all oscillating feedback systems with a constant delay have the characteristic of resonance”—meaning you can boost the amplitude if you get the cycles in sync.

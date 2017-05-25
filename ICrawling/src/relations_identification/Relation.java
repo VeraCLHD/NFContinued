@@ -16,42 +16,17 @@ public class Relation {
 	// the term2 like in text (a variation of the original term)
 	private String arg2;
 
-	// the original term - original term like in list of terms
-	private String arg1Origin;
-	// the original term - original term like in list of terms
-	private String arg2Origin;
 	private String relationText;
 	private String typeOfRelation;
 	private List<String> posTags = new ArrayList<String>();
+	private String queryId;
 	
-	
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-	
-	@Override
-	public String toString(){
-		
-		String relation = this.getArg1() + "\t" + this.getArg2() + "\t" + this.getRel() + "\t";
-		if(this.getTypeOfRelation() !=null){
-			relation = relation + this.getTypeOfRelation() +"\t";
-		} if(this.getPosTags() !=null){
-			relation = relation + this.getPosTags().toString();
-		}
-		return relation;
-	}
-	
-
 	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
-		result = prime * result + ((arg1Origin == null) ? 0 : arg1Origin.hashCode());
-		result = prime * result + ((arg2Origin == null) ? 0 : arg2Origin.hashCode());
+		result = prime * result + ((arg1 == null) ? 0 : arg1.hashCode());
+		result = prime * result + ((arg2 == null) ? 0 : arg2.hashCode());
 		result = prime * result + ((relationText == null) ? 0 : relationText.hashCode());
 		return result;
 	}
@@ -65,15 +40,15 @@ public class Relation {
 		if (getClass() != obj.getClass())
 			return false;
 		Relation other = (Relation) obj;
-		if (arg1Origin == null) {
-			if (other.arg1Origin != null)
+		if (arg1 == null) {
+			if (other.arg1 != null)
 				return false;
-		} else if (!arg1Origin.equals(other.arg1Origin))
+		} else if (!arg1.equals(other.arg1))
 			return false;
-		if (arg2Origin == null) {
-			if (other.arg2Origin != null)
+		if (arg2 == null) {
+			if (other.arg2 != null)
 				return false;
-		} else if (!arg2Origin.equals(other.arg2Origin))
+		} else if (!arg2.equals(other.arg2))
 			return false;
 		if (relationText == null) {
 			if (other.relationText != null)
@@ -83,6 +58,28 @@ public class Relation {
 		return true;
 	}
 
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	@Override
+	public String toString(){
+		
+		String relation =this.getQueryId() + "\t" + this.getArg1() + "\t" + this.getArg2() + "\t" + this.getRel() + "\t";
+		if(this.getTypeOfRelation() !=null){
+			relation = relation + this.getTypeOfRelation() +"\t";
+		} if(this.getPosTags() !=null){
+			relation = relation + this.getPosTags().toString();
+		}
+		return relation;
+	}
+	
+
+	
 	public String getArg1() {
 		return arg1;
 	}
@@ -122,5 +119,13 @@ public class Relation {
 
 	public void setPosTags(List<String> posTags) {
 		this.posTags = posTags;
+	}
+
+	public String getQueryId() {
+		return queryId;
+	}
+
+	public void setQueryId(String queryId) {
+		this.queryId = queryId;
 	}
 }

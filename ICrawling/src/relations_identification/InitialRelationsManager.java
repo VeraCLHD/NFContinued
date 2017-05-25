@@ -15,13 +15,18 @@ import java.util.TreeSet;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
+import edu.stanford.nlp.simple.Sentence;
+
 import java.util.Map.Entry;
 
 import io.Reader;
 import io.Writer;
 import io.RunnableThread;
 import linguistic_processing.CatVariator;
+import linguistic_processing.LuceneDemoIndexer;
+import linguistic_processing.LuceneSearcher;
 import linguistic_processing.MeshVariator;
+import linguistic_processing.SentenceSplitter;
 import linguistic_processing.StanfordLemmatizer;
 import linguistic_processing.XMLParserMesh;
 
@@ -31,6 +36,7 @@ import linguistic_processing.XMLParserMesh;
  */
 public class InitialRelationsManager {
 
+	private static final String NFDUMP_TXT = "nfdump.txt";
 	private static Map<Relation, Integer> overallRelations = new HashMap<Relation, Integer>();
 	private String pathToNFDump;
 	private static final String PATH_CAT_VAR = "terminology_variations_catvar.txt";
@@ -46,6 +52,7 @@ public class InitialRelationsManager {
 	// variable only for writing all terms with lemmas into a file
 	private static Map<String,String> termsOverall = new HashMap<String,String>();
 	
+	// all original terms
 	private static Set<Term> terms = new HashSet<Term>();
 	// example dogl_o_v_ecat => (Term(dog), Term(cat))
 	//public static Set<String> tuplesOfTerms = null;
@@ -98,13 +105,10 @@ public class InitialRelationsManager {
 	public void extractTerms(){
 		//this file still contains duplicates
 		Writer.overwriteFile("", "termsOverall.txt");
-		//this one doesn't contain duplicates
-		Writer.overwriteFile("", "all_terms.txt");
 		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
 		for (String line: linesOfDump) {
 			if(!line.isEmpty()){
-				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
-				Writer.overwriteFile("", "relations_backup/initial_relations" +"_" + initialExplorer.getQueryID() + ".txt" );
+				QueryTermExplorer initialExplorer = new QueryTermExplorer(line);
 			}
 		}
 	
@@ -218,7 +222,15 @@ public class InitialRelationsManager {
 		
 		
 	}
-	public void doInitialExtraction(){
+	
+	public void addTermsForTestPurposes(){
+		for(Term term : InitialRelationsManager.getTerms()){
+			InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
+		}
+	}
+	
+	
+	public void prepareExtraction(){
 		
 		Writer.overwriteFile("", "initial_relations.txt");
 		Writer.overwriteFile("", "map_tuples.txt");
@@ -227,54 +239,35 @@ public class InitialRelationsManager {
 		Writer.overwriteFile("", "all_relations.txt");
 		Writer.overwriteFile("", "relations_backup/trash_relations.txt");
 		Writer.overwriteFile("", "relations_backup/unknown_trash_relations.txt");
-		
-		List<String> linesOfDump = Reader.readLinesList(pathToNFDump);
-		for (int i=0;i< linesOfDump.size();i++) {
-			String line = linesOfDump.get(i);
-			if(!line.isEmpty()){
-				QueryRelationsExplorer initialExplorer = new InitialQueryRelationsExplorer(line);
-				//InitialRelationsManager.getExplorer().add(initialExplorer);
-				System.out.println("Query " + initialExplorer.getQueryID());
 				
-				try {
-					initialExplorer.extractRelations();
-				} catch (IOException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				} catch (ParseException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-				
-				for(Relation relation: initialExplorer.getRelationsForOneText()){
-					writeRelation(initialExplorer, relation);
-					
-				}
-			}
-		}	
-				
-				
-		
-		// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
-		Set<String> used = getUsedTerms();
-		determindeUnusedTerms();
-		Set<String> unused = getUnusedTerms();
-		
-		
-		for (String term: unused){
-			Writer.appendLineToFile(term , "unused_terms.txt");
-		}
-		for (String termUsed: used){
-			Writer.appendLineToFile(termUsed, "used_terms.txt");
-		}
-		
 	}
 
 
-	private void writeRelation(QueryRelationsExplorer initialExplorer, Relation relation) {
-		String relations = initialExplorer.getQueryID() + "\t";
-		relations = relations + relation.toString();
-		Writer.appendLineToFile(relations, "relations_backup/initial_relations" + "_" + initialExplorer.getQueryID() + ".txt");
+	private void createUsedTerms() {
+		
+		
+			
+			
+
+// Here, we don't have a mapping between a query and the terms. Mapping provided in initial relations for used terms.
+Set<String> used = getUsedTerms();
+determindeUnusedTerms();
+Set<String> unused = getUnusedTerms();
+
+
+for (String term: unused){
+		Writer.appendLineToFile(term , "unused_terms.txt");
+}
+for (String termUsed: used){
+		Writer.appendLineToFile(termUsed, "used_terms.txt");
+}
+	}
+
+
+	private void writeRelation(Relation relation) {
+		
+		String relations = relation.toString();
+		Writer.appendLineToFile(relations, "relations_backup/initial_relations.txt");
 	}
 	
 	/**
@@ -285,67 +278,65 @@ public class InitialRelationsManager {
 	 */
 	public static void writeTuplesFile(Set<Term> terms)
 	{
-		String filepath = "term_outputs/tuples_of_terms";	
+		
 		System.out.println("building tuples of terms");
 		//int[] file = {2,3,5,7};
 		/*for(int f: file){
 			Writer.overwriteFile("", filepath + "_" + String.valueOf(f) + ".txt");
 		}*/
-		Writer.overwriteFile("", filepath + "_" + 2 + ".txt");
-		Writer.overwriteFile("", filepath + "_" + 1 + ".txt");
-		Writer.overwriteFile("", "which_term.txt");
+	
 		
-		
+		LuceneSearcher ls = new LuceneSearcher();
 		
 		List<String> allTermsAndVariations = new ArrayList<String>(InitialRelationsManager.allTermsAndVariations);
 		for(int i = 0; i<		allTermsAndVariations.size(); i++){
+			String term1 = allTermsAndVariations.get(i);
 			for(int j = i; j<		allTermsAndVariations.size(); j++){
-				String term1 = allTermsAndVariations.get(i);
+				
 				String term2 = allTermsAndVariations.get(j);
 				if(!term1.equals(term2)){
-
-					if(i%2 == 0){
-						Writer.appendLineToFile(term1 + "l_o_v_e" + term2, filepath + "_" + 2 + ".txt");
-						Writer.appendLineToFile(term2 + "l_o_v_e" + term1, filepath + "_" + 2 + ".txt");
-					} else{
-						Writer.appendLineToFile(term1 + "l_o_v_e" + term2, filepath + "_" + 1 + ".txt");
-						Writer.appendLineToFile(term2 + "l_o_v_e" + term1, filepath + "_" + 1 + ".txt");
+					try {
+						InitialQueryRelationsExplorer.extractRelationsForPair(term1, term2, ls);
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					} catch (ParseException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
 					}
-					
 
 				}
 				
 			}
 			
-			Writer.appendLineToFile(String.valueOf(i), "term_outputs/which_term.txt");
+			Writer.overwriteFile(String.valueOf(i) + "\t" + term1, "term_outputs/which_term.txt");
 		}
 		
-		
-		/*for(String pair: tuples.keySet()){
-			Writer.appendLineToFile(pair + "\t" + tuples.get(pair).first.toString() +  "\t" + tuples.get(pair).second.toString(), "map_tuples.txt");
-		}*/
 	}
 	
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// extract the terms: without variations
+		
+		// prerequisite: all dump files are rewritten to sentence files and indexed 
+		// @see: main of LuceneDemoIndexer
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
+		
+		// extract the terms: without variations
+		
 		manager.extractTerms();
+		CatVariator variator = new CatVariator();
+		MeshVariator meshVariator = new MeshVariator();
 		/* cover mesh variations
 		Writer.overwriteFile("", "meshVariants.txt");
 		XMLParserMesh.extractEntryTermsMeshHeadings("mesh/desc2017.xml", "DescriptorRecord", "DescriptorUI", "DescriptorName");
 	    //extractEntryTermsMeshHeadings("mesh/supp2017.xml", "SupplementalRecord", "SupplementalRecordUI", "SupplementalRecordName");
-		XMLParserMesh.extractEntryTermsMeshHeadings("mesh/qual2017.xml", "QualifierRecord", "QualifierUI", "QualifierName");*/
-	    
+		XMLParserMesh.extractEntryTermsMeshHeadings("mesh/qual2017.xml", "QualifierRecord", "QualifierUI", "QualifierName");
+	    */
 		// second we get the variations of all words in EN -> fills the map with variations
-		CatVariator variator = new CatVariator();
-		MeshVariator meshVariator = new MeshVariator();
-		//manager.manageAdditionalTerms();
 		
-		// set the variations of the terms we need (only Dr. Gregers Terms)
-		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");
+	
 		for(Term term_a : InitialRelationsManager.getTerms()){
 			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
 		}
@@ -355,13 +346,25 @@ public class InitialRelationsManager {
 		// very important: addMesh should be runned after addCat!!!
 		manager.addMeshVariationsToTerms(MeshVariator.getContentOfMeshFile());
 		
-		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
-		
+		//manager.manageAdditionalTerms();
+		//manager.addTermsForTestPurposes();
+		// set the variations of the terms we need (only Dr. Gregers Terms)
+		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");
 
-		// Builds tuples from all of the terms 
+		for(String term : InitialRelationsManager.allTermsAndVariations){
+			Writer.appendLineToFile(term, "all_terms_and_variants.txt");
+		}
+		
+		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
+		manager.prepareExtraction();
+		// Extracts the relations
 		InitialRelationsManager.writeTuplesFile(InitialRelationsManager.getTerms());
 		
-		manager.doInitialExtraction();
+		for(Relation relation: InitialQueryRelationsExplorer.getRelations()){
+			manager.writeRelation(relation);
+			
+		}
+		
 		
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
@@ -415,6 +418,27 @@ public class InitialRelationsManager {
 		}
 		return finalMap;
 		
+	}
+	
+public static void rewriteDumpInSentences(){
+		
+		
+		List<String> linesOfDump = Reader.readLinesList(NFDUMP_TXT);
+		for (int i=0;i< linesOfDump.size();i++) {
+			String line = linesOfDump.get(i);
+			String[] elements = line.split("\t");
+			String id = elements[0].trim();
+			SentenceSplitter splitter = new SentenceSplitter(elements[3]);
+			List<Sentence> sentences = splitter.getSentences();
+			for(int sent = 0; sent< sentences.size(); sent++){
+				String sentenceString = sentences.get(sent).toString();
+				String file = "dump sentences/" + id + "_" + sent + "_.txt";
+				
+				Writer.appendLineToFile(sentenceString, file);
+			}
+			
+		}
+			
 	}
 
 	public String getPathToNFDump() {

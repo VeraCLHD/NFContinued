@@ -1,0 +1,1 @@
+When I started the site this wasn’t necessary, but now that there are more than 1,000 videos, this new feature will hopefully help those new to the site navigate directly to some of the most compelling content.
