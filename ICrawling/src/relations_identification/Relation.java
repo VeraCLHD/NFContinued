@@ -74,8 +74,13 @@ public class Relation {
 		String relation =this.getQueryId() + "\t" + this.getArg1() + "\t" + this.getArg2() + "\t" + this.getRel() + "\t";
 		if(this.getTypeOfRelation() !=null){
 			relation = relation + this.getTypeOfRelation() +"\t";
-		} if(this.getPosTags() !=null){
+		} else{
+			relation = relation + "-" +"\t";
+		}
+		if(this.getPosTags() !=null){
 			relation = relation + this.getPosTags().toString();
+		} else{
+			relation = relation + "-";
 		}
 		return relation;
 	}

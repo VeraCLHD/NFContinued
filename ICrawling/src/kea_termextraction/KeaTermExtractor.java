@@ -40,10 +40,10 @@ public class KeaTermExtractor {
 			 
 			// 3. Name of the vocabulary -- name of the file (without extension) that is stored in VOCABULARIES
 			//    or "none" if no Vocabulary is used (free keyphrase extraction).
-			km.setVocabulary("meshdata");
+			km.setVocabulary("none");
 			
 			// 4. Format of the vocabulary in 3. Leave empty if vocabulary = "none", use "skos" or "txt" otherwise.
-			km.setVocabularyFormat("skos");
+			km.setVocabularyFormat("");
 			
 //			 B. optional arguments if you want to change the defaults
 			// 5. Encoding of the document
@@ -61,7 +61,7 @@ public class KeaTermExtractor {
 			km.setStopwords(new StopwordsEnglish());
 			
 			// 9. Maximum length of a keyphrase
-			km.setMaxPhraseLength(3);
+			km.setMaxPhraseLength(2);
 			
 			// 10. Minimum length of a keyphrase
 			km.setMinPhraseLength(1);
@@ -93,10 +93,10 @@ public class KeaTermExtractor {
 			 
 			// 3. Name of the vocabulary -- name of the file (without extension) that is stored in VOCABULARIES
 			//    or "none" if no Vocabulary is used (free keyphrase extraction).
-			ke.setVocabulary("meshdata");
+			ke.setVocabulary("none");
 			
 			// 4. Format of the vocabulary in 3. Leave empty if vocabulary = "none", use "skos" or "txt" otherwise.
-			ke.setVocabularyFormat("skos");
+			ke.setVocabularyFormat("");
 			
 //			 B. optional arguments if you want to change the defaults
 			// 5. Encoding of the document
@@ -114,7 +114,7 @@ public class KeaTermExtractor {
 			ke.setStopwords(new StopwordsEnglish());
 			
 			// 9. Number of Keyphrases to extract
-			ke.setNumPhrases(2);
+			ke.setNumPhrases(5);
 			
 			// 10. Set to true, if you want to compute global dictionaries from the test collection
 			ke.setBuildGlobal(false);		

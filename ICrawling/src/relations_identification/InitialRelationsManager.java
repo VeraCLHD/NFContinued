@@ -233,13 +233,13 @@ public class InitialRelationsManager {
 	public void prepareExtraction(){
 		
 		Writer.overwriteFile("", "relations_backup/initial_relations.txt");
-		Writer.overwriteFile("", "map_tuples.txt");
+		Writer.overwriteFile("", "all_terms.txt");
+		Writer.overwriteFile("", "all_terms_and_variants.txt");
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
 		Writer.overwriteFile("", "all_relations.txt");
 		Writer.overwriteFile("", "relations_backup/trash_relations.txt");
-		Writer.overwriteFile("", "relations_backup/unknown_trash_relations.txt");
-				
+		Writer.overwriteFile("", "relations_backup/unknown_trash_relations.txt");			
 	}
 
 
@@ -340,17 +340,18 @@ for (String termUsed: used){
 	    */
 		// second we get the variations of all words in EN -> fills the map with variations
 		
-	
+		// these are the automatically generated kea terms - 5 per text with the max. length of 2.
+		manager.manageAdditionalTerms();
+		
 		for(Term term_a : InitialRelationsManager.getTerms()){
 			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
 		}
-		
 		
 		manager.addCatVariationsToTerms(CatVariator.getContentOfCatVarFile());
 		// very important: addMesh should be runned after addCat!!!
 		manager.addMeshVariationsToTerms(MeshVariator.getContentOfMeshFile());
 		
-		//manager.manageAdditionalTerms();
+		
 		//manager.addTermsForTestPurposes();
 		// set the variations of the terms we need (only Dr. Gregers Terms)
 		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");

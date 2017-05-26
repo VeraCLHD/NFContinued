@@ -33,8 +33,6 @@ public class RelationsFilter {
 	public static boolean isInfluence(String candidate, Relation relation){
 		boolean result = false;
 		List<String> influence = new ArrayList<String>();
-		// is-a patterns
-		//bow lute, such as Bambara ndang 
 		influence.add("(,\\s)?may\\s+be.*");
 		influence.add("(,\\s)?(may|appear.*)\\s(\\w*\\b){0,6}");
 		influence.add("(and|or)?\\s?(link|appear).*\\sto|cause.*");
@@ -204,8 +202,9 @@ public class RelationsFilter {
 		//",\\s(\\w*\\b)?\\s?(&|and|or)?\\s?(\\w*\\b)*"
 		//... temples, treasuries, and other important civic buildings
 
-		if(candidate.matches("&") 
-				|| candidate.matches(",\\s?(\\w*\\b)?,?(&|and|or)?\\s?(\\w*\\b)*") 
+		if(candidate.matches("&")
+				// this pattern might be causing stuff like ", such as to come in" -> removed
+				//|| candidate.matches(",\\s?(\\w*\\b)?,?(&|and|or)?\\s?(\\w*\\b)*") 
 				|| candidate.matches(",?\\s?as\\swell\\sas\\s?") 
 				|| candidate.matches("(\\w*\\b),\\s+(\\w*\\b)*(or|and).*")
 				|| candidate.matches(",?\\s?&|and|or\\s?,?")){

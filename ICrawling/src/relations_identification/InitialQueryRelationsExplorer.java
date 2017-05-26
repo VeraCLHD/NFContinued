@@ -83,7 +83,7 @@ public class InitialQueryRelationsExplorer {
 			Set<String> set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + term2 +"\"");
 			if(!set.isEmpty()){
 				for(String path: set){
-					  String sentenceString = Reader.readContentOfFile(path);
+					  String sentenceString = Reader.readContentOfFile(path).toLowerCase();
 					 
 					  Set<Pair<String>> stdCase = lookForATermWordMatch(sentenceString, term1, term2);
 					  Set<Pair<String>> stdCase2 = lookForATermWordMatch(sentenceString, term2, term1);
