@@ -204,7 +204,7 @@ public class RelationsFilter {
 
 		if(candidate.matches("&")
 				// this pattern might be causing stuff like ", such as to come in" -> removed
-				//|| candidate.matches(",\\s?(\\w*\\b)?,?(&|and|or)?\\s?(\\w*\\b)*") 
+				|| candidate.matches(",\\s?(\\w*\\b)?,?(&|and|or)\\s?(\\w*\\b)") 
 				|| candidate.matches(",?\\s?as\\swell\\sas\\s?") 
 				|| candidate.matches("(\\w*\\b),\\s+(\\w*\\b)*(or|and).*")
 				|| candidate.matches(",?\\s?&|and|or\\s?,?")){

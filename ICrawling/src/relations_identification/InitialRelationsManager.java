@@ -341,7 +341,7 @@ for (String termUsed: used){
 		// second we get the variations of all words in EN -> fills the map with variations
 		
 		// these are the automatically generated kea terms - 5 per text with the max. length of 2.
-		manager.manageAdditionalTerms();
+		//manager.manageAdditionalTerms();
 		
 		for(Term term_a : InitialRelationsManager.getTerms()){
 			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
