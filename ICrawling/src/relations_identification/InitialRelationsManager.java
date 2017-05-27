@@ -36,6 +36,8 @@ import linguistic_processing.XMLParserMesh;
  */
 public class InitialRelationsManager {
 
+	private static final String ALL_TERMS_AND_VARIANTS_TXT = "all_terms_and_variants.txt";
+	private static final String ALL_TERMS_TXT = "all_terms.txt";
 	private static final String NFDUMP_TXT = "nfdump.txt";
 	private static Map<Relation, Integer> overallRelations = new HashMap<Relation, Integer>();
 	private String pathToNFDump;
@@ -233,8 +235,8 @@ public class InitialRelationsManager {
 	public void prepareExtraction(){
 		
 		Writer.overwriteFile("", "relations_backup/initial_relations.txt");
-		Writer.overwriteFile("", "all_terms.txt");
-		Writer.overwriteFile("", "all_terms_and_variants.txt");
+		Writer.overwriteFile("", ALL_TERMS_TXT);
+		Writer.overwriteFile("", ALL_TERMS_AND_VARIANTS_TXT);
 		Writer.overwriteFile("", "used_terms.txt");
 		Writer.overwriteFile("", "unused_terms.txt");
 		Writer.overwriteFile("", "all_relations.txt");
@@ -326,7 +328,7 @@ for (String termUsed: used){
 		// prerequisite: all dump files are rewritten to sentence files and indexed 
 		// @see: main of LuceneDemoIndexer
 		InitialRelationsManager manager = new InitialRelationsManager(crawling_queries.Properties.NFDUMP_PATH);
-		
+		manager.prepareExtraction();
 		// extract the terms: without variations
 		
 		manager.extractTerms();
@@ -344,7 +346,7 @@ for (String termUsed: used){
 		//manager.manageAdditionalTerms();
 		
 		for(Term term_a : InitialRelationsManager.getTerms()){
-			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), "all_terms.txt");
+			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), ALL_TERMS_TXT);
 		}
 		
 		manager.addCatVariationsToTerms(CatVariator.getContentOfCatVarFile());
@@ -357,19 +359,19 @@ for (String termUsed: used){
 		//CatVariator.writeTerminologyVariations("kea_terms.txt", "catvar_kea_terms.txt");
 
 		for(String term : InitialRelationsManager.allTermsAndVariations){
-			Writer.appendLineToFile(term, "all_terms_and_variants.txt");
+			Writer.appendLineToFile(term, ALL_TERMS_AND_VARIANTS_TXT);
 		}
 		
 		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
-		manager.prepareExtraction();
+		
 		// Extracts the relations
-		InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
+		/*InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
 		
 		manager.createUsedTerms();
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
 			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
-		}
+		}*/
 		
 		
 	}
