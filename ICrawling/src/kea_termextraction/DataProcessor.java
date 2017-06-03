@@ -7,6 +7,8 @@ import java.util.List;
 import java.util.Set;
 
 import crawling_docs.DocProperties;
+import edu.stanford.nlp.simple.Document;
+import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
 import io.Writer;
 
@@ -22,9 +24,15 @@ public class DataProcessor {
 			String[] elements = line.split("\t");
 			String id = elements[0].trim();
 			
+			String processedDoc = elements[3];
+			
+			// inserts a whitespace after a sentence if there is none.
+			processedDoc = processedDoc.replaceAll("([\\p{Lower}\\d\\\\p{Punct}][,.!?;:])" +
+					 "(\\p{Upper})", "$1 $2").replaceAll("\\s+", " ");
+			
 			
 			Writer.writeEmptyFile("testdocs/en/test/" + id + "_.txt");
-			Writer.overwriteFile(elements[3], "testdocs/en/test/" + id + "_.txt");
+			Writer.overwriteFile(processedDoc, "testdocs/en/test/" + id + "_.txt");
 			
 		}
 			

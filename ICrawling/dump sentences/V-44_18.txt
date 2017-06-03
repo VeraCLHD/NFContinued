@@ -1,0 +1,1 @@
+So, there does seem to be something in cocoa that’s helping, but a few seconds here or there aren’t going to cut it.

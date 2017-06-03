@@ -15,6 +15,7 @@ import java.util.TreeSet;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
+import edu.stanford.nlp.simple.Document;
 import edu.stanford.nlp.simple.Sentence;
 
 import java.util.Map.Entry;
@@ -343,7 +344,7 @@ for (String termUsed: used){
 		// second we get the variations of all words in EN -> fills the map with variations
 		
 		// these are the automatically generated kea terms - 5 per text with the max. length of 2.
-		//manager.manageAdditionalTerms();
+		manager.manageAdditionalTerms();
 		
 		for(Term term_a : InitialRelationsManager.getTerms()){
 			Writer.appendLineToFile(term_a.getOriginalTerm() + "\t" + term_a.getLemma(), ALL_TERMS_TXT);
@@ -365,13 +366,13 @@ for (String termUsed: used){
 		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
 		
 		// Extracts the relations
-		InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
+		/*InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
 		
 		manager.createUsedTerms();
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
 			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
-		}
+		}*/
 		
 		
 	}
@@ -424,22 +425,31 @@ for (String termUsed: used){
 	
 public static void rewriteDumpInSentences(){
 		
+	List<String> linesOfDump = Reader.readLinesList(NFDUMP_TXT);
+	for (int i=0;i< linesOfDump.size();i++) {
+		String line = linesOfDump.get(i);
+		String[] elements = line.split("\t");
+		String id = elements[0].trim();
 		
-		List<String> linesOfDump = Reader.readLinesList(NFDUMP_TXT);
-		for (int i=0;i< linesOfDump.size();i++) {
-			String line = linesOfDump.get(i);
-			String[] elements = line.split("\t");
-			String id = elements[0].trim();
-			SentenceSplitter splitter = new SentenceSplitter(elements[3]);
-			List<Sentence> sentences = splitter.getSentences();
-			for(int sent = 0; sent< sentences.size(); sent++){
-				String sentenceString = sentences.get(sent).toString();
-				String file = "dump sentences/" + id + "_" + sent + "_.txt";
-				
-				Writer.appendLineToFile(sentenceString, file);
-			}
+		String processedDoc = elements[3];
+		
+		// inserts a whitespace after a sentence if there is none.
+		processedDoc = processedDoc.replaceAll("([\\p{Lower}\\d\\\\p{Punct}][,.!?;:])" +
+				 "(\\p{Upper})", "$1 $2").replaceAll("\\s+", " ");
+		
+		Document doc = new Document(processedDoc);
+		List<Sentence> sentences = doc.sentences();
+		
+
+		for(int sent = 0; sent< sentences.size(); sent++){
+			String sentenceString = sentences.get(sent).toString();
+			String file = "Indexed_Corpus/" + id + "_" + sent + ".txt";
 			
+			Writer.appendLineToFile(sentenceString, file);
 		}
+		
+	}
+		
 			
 	}
 

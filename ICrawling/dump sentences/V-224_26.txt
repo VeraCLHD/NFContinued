@@ -1,0 +1,1 @@
+To look for trends, we can now rank them based on these scores from best to worst.

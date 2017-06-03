@@ -73,8 +73,8 @@ public class LuceneSearcher {
 	    	  line = line.trim();
 	      }
 	      // escapes all the characters that have to be escaped
-	      Query query = parser.parse(line);
-	      
+	      Query query = parser.parse(QueryParser.escape(line));
+	  
 
 	     //System.out.println("Searching for: " + query.toString(field));
 	           

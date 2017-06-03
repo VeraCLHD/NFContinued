@@ -1,0 +1,1 @@
+Internal content that can be picked up by laser scanning.

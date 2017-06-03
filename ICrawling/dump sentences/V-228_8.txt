@@ -1,0 +1,1 @@
+Here’s data from the 26-year follow-up of the Framingham Heart Study: the cholesterol levels of people that get heart attacks and the cholesterol levels of those who don’t.

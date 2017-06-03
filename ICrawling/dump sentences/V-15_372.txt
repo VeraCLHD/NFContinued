@@ -1,0 +1,1 @@
+This jump happens after the bird is prepared, but before any meat was eaten.

@@ -56,7 +56,7 @@ public class LuceneDemoIndexer {
 
   /** Index all text files under a directory. */
   public static void main(String[] args) {
-	InitialRelationsManager.rewriteDumpInSentences();
+	//InitialRelationsManager.rewriteDumpInSentences();
 	LuceneDemoIndexer.indexAllTexts("dump sentences/");
    indexAllTexts("dump sentences/");
   }

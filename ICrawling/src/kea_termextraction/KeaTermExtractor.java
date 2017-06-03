@@ -114,7 +114,7 @@ public class KeaTermExtractor {
 			ke.setStopwords(new StopwordsEnglish());
 			
 			// 9. Number of Keyphrases to extract
-			ke.setNumPhrases(5);
+			ke.setNumPhrases(10);
 			
 			// 10. Set to true, if you want to compute global dictionaries from the test collection
 			ke.setBuildGlobal(false);		
