@@ -267,6 +267,8 @@ public class EvaluationSuitability {
 		Writer.appendLineToFile("USED_TERMS_EVAL" + "\t" + usedInEvaluation, "evaluation_suitability.txt");
 	}
 	
+	//https://pdfbox.apache.org/1.8/cookbook/textextraction.html
+	//https://stackoverflow.com/questions/23813727/how-to-extract-text-from-a-pdf-file-with-apache-pdfbox
 	public static String readPDFIntoFile(String path){
 			String text = "";
 			PDDocument pdf;
@@ -282,7 +284,7 @@ public class EvaluationSuitability {
 			            System.err.println("The document is encrypted, and we can't decrypt it.");
 			        }
 			    }
-				PDFTextStripper pdf_stripper = new PDFTextStripper();		
+				PDFTextStripper pdf_stripper = new PDFTextStripper();
 				text += pdf_stripper.getText(pdf);
 				pdf.close();
 			} catch (IOException e) {
