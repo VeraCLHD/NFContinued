@@ -366,13 +366,13 @@ for (String termUsed: used){
 		System.out.print(InitialRelationsManager.allTermsAndVariations.size());
 		
 		// Extracts the relations
-		/*InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
+		InitialRelationsManager.doActualExtractionForEachTermCombination(InitialRelationsManager.getTerms());
 		
 		manager.createUsedTerms();
 		Map<Relation, Integer> filtered = InitialRelationsManager.filterOverallRelations();
 		for(Relation rel: filtered.keySet()){
 			Writer.appendLineToFile(rel.toString() + "\t" + InitialRelationsManager.getOverallRelations().get(rel), "all_relations.txt");
-		}*/
+		}
 		
 		
 	}
